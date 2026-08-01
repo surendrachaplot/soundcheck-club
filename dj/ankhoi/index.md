@@ -1,6 +1,6 @@
 # Ankhoï
 
-Ankhoï is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 15 Aug 2026.
+Ankhoï is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Ankhoï is an afro house and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Houston and Ibiza and 12 more. Often billed alongside Adam Ten, JAMIIE and Kitty Amor. Next up: Hï Ibiza, Ibiza on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ankhoï is an afro house and house artist tracked on soundcheck, with 34 sets lo
 
 Adam Ten, JAMIIE, Kitty Amor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*

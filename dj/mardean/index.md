@@ -1,6 +1,6 @@
 # Mar Dean
 
-Mar Dean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hive Club, Zurich on Fri, 7 Aug 2026.
+Mar Dean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hive Club, Zurich on Fri, 7 Aug 2026.
 
 Mar Dean is a techno and house artist based in Switzerland, tracked on soundcheck, with 14 sets logged across Bangkok, Berlin, Nurnberg and Prague and 1 more. Often billed alongside Solvane, Prismode and Britta Arnold. Next up: Hive Club, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mar Dean is a techno and house artist based in Switzerland, tracked on soundchec
 
 Solvane, Prismode, Britta Arnold
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean/)*

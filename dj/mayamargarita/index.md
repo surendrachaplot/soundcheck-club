@@ -1,6 +1,6 @@
 # Maya Margarita
 
-Maya Margarita is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
+Maya Margarita is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
 
 Maya Margarita is a club and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Austin, Chicago, Losangeles and Newyorkcity and 2 more. Often billed alongside br0nz3_g0dd3ss, ARCHANGEL (US) and BAE BAE. Next up: Paragon, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Maya Margarita is a club and house artist based in United States of America, tra
 
 br0nz3_g0dd3ss, ARCHANGEL (US), BAE BAE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayamargarita/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayamargarita/)*

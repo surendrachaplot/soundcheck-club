@@ -1,6 +1,6 @@
 # NIT SU J.
 
-NIT SU J. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Deep End, New York City on Sat, 1 Aug 2026.
+NIT SU J. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Deep End, New York City on Sat, 1 Aug 2026.
 
 NIT SU J. is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside z33z, DJ Sour and DJ Thank You. Next up: The Deep End, Newyorkcity on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ NIT SU J. is a techno and house artist based in United States of America, tracke
 
 z33z, DJ Sour, DJ Thank You
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitsuj./)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitsuj./)*

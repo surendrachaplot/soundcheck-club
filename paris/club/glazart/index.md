@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "After O'clock X La Plage Open Air: Reka Zalan, Kelbail & Emergency Lou" on Sat, 1 Aug 2026.
+Glazart is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "After O'clock X La Plage Open Air: Reka Zalan, Kelbail & Emergency Lou" on Sat, 1 Aug 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Alex Quillard, Cattoni, In-Tan and Kelbail and 2 more. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -18,4 +18,4 @@ Glazart is a music venue in Paris listed on soundcheck. 5 upcoming nights, with 
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

@@ -1,6 +1,6 @@
 # Vajdahunyad Castle
 
-Vajdahunyad Castle is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DNB CASTLE with LIVE TRUMPET" on Sat, 1 Aug 2026.
+Vajdahunyad Castle is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DNB CASTLE with LIVE TRUMPET" on Sat, 1 Aug 2026.
 
 Vajdahunyad Castle is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including BLOND:ISH, Clarkent and OlivR. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad stny., 1146.
 
@@ -16,4 +16,4 @@ Vajdahunyad Castle is a music venue in Budapest listed on soundcheck. 3 upcoming
 
 Budapest, Vajdahunyad stny., 1146, Budapest
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vajdahunyad-castle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vajdahunyad-castle/)*

@@ -1,6 +1,6 @@
 # Nalamazon
 
-Nalamazon is a Rio Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Coro Wine and Vinyls, Berlin on Sat, 1 Aug 2026.
+Nalamazon is a Rio Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Coro Wine and Vinyls, Berlin on Sat, 1 Aug 2026.
 
 Nalamazon is a rio funk and electronica artist tracked on soundcheck, with 14 sets logged across Berlin and Leipzig. Often billed alongside Habitat Shaking, JADA MORAES and ANOMALISA. Next up: Coro Wine and Vinyls, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Nalamazon is a rio funk and electronica artist tracked on soundcheck, with 14 se
 
 Habitat Shaking, JADA MORAES, ANOMALISA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nalamazon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nalamazon/)*

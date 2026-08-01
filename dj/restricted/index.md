@@ -1,14 +1,13 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Restricted is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Restricted is a techno and hardcore artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Downsview Park, Toronto on Fri 31 Jul.
+Restricted is a techno and hardcore artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
@@ -18,9 +17,11 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 66 sets l
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Sun, 6 Sept 2026 | Brooklyn Storehouse | New York City |
 | Sat, 17 Oct 2026 | Royale | Boston |
+| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played
 
+- Downsview Park, Toronto — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
@@ -28,10 +29,9 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 66 sets l
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Index, Dublin — Fri, 5 Jun 2026
-- Eden, Ibiza — Tue, 26 May 2026
 
 ## Shares bills with
 
-Azyr, JAZZY (2), Vieze Asbak
+Azyr, JAZZY (2), Nikolina
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

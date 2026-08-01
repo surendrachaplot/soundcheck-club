@@ -1,6 +1,6 @@
 # Jessen
 
-Jessen is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Jessen is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
 Jessen is a house and electro artist based in Belgium, tracked on soundcheck, with 23 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Bobbi Watson, trillosta and +nurse+. Next up: Circle Park, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jessen is a house and electro artist based in Belgium, tracked on soundcheck, wi
 
 Bobbi Watson, trillosta, +nurse+
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessen/)*

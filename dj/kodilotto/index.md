@@ -1,6 +1,6 @@
 # Kodi Lotto
 
-Kodi Lotto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Solace, Melbourne on Sat, 1 Aug 2026.
+Kodi Lotto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Solace, Melbourne on Sat, 1 Aug 2026.
 
 Kodi Lotto is a house and techno artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Melbourne. Often billed alongside LUNA (AU), Babycino and Kate Miller. Next up: Solace, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kodi Lotto is a house and techno artist based in New Zealand, tracked on soundch
 
 LUNA (AU), Babycino, Kate Miller
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kodilotto/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodilotto/)*

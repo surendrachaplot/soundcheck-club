@@ -1,6 +1,6 @@
 # Andrea Fiorito
 
-Andrea Fiorito is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
+Andrea Fiorito is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
 
 Andrea Fiorito is a house and deep house artist tracked on soundcheck, with 22 sets logged across Berlin, Ibiza, London and Madrid and 4 more. Often billed alongside Ohm Hourani, Daraio and Nesta. Next up: Kater, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Andrea Fiorito is a house and deep house artist tracked on soundcheck, with 22 s
 
 Ohm Hourani, Daraio, Nesta
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreafiorito/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreafiorito/)*

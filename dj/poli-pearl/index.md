@@ -1,6 +1,6 @@
 # Poli-Pearl
 
-Poli-Pearl is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
+Poli-Pearl is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 20 Aug 2026.
 
 Poli-Pearl is a house and balearic artist tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside DJ JNETT, Lay Down The Groove and Benny Chiu. Next up: Angel Music Bar, Melbourne on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Poli-Pearl is a house and balearic artist tracked on soundcheck, with 18 sets lo
 
 DJ JNETT, Lay Down The Groove, Benny Chiu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poli-pearl/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poli-pearl/)*

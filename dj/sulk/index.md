@@ -1,19 +1,19 @@
 # Sulk
 
-Sulk is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at OIL Club, Shenzhen on Fri, 31 Jul 2026.
+Sulk is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at OIL Club, Shenzhen on Sat, 8 Aug 2026.
 
-Sulk is a techno and club artist tracked on soundcheck, with 36 sets logged across Hongkong, Shanghai, Shenzhen and Tokyo. Often billed alongside DJ 86, NEBULAE and Alion. Next up: OIL Club, Shenzhen on Fri 31 Jul.
+Sulk is a techno and club artist tracked on soundcheck, with 36 sets logged across Hongkong, Shanghai, Shenzhen and Tokyo. Often billed alongside DJ 86, NEBULAE and Alion. Next up: OIL Club, Shenzhen on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | OIL Club | Shenzhen |
 | Sat, 8 Aug 2026 | OIL Club | Shenzhen |
 | Sat, 22 Aug 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
 
+- OIL Club, Shenzhen — Fri, 31 Jul 2026
 - OIL Club, Shenzhen — Sat, 18 Jul 2026
 - OIL Club, Shenzhen — Sat, 11 Jul 2026
 - OIL Club, Shenzhen — Sun, 5 Jul 2026
@@ -21,10 +21,9 @@ Sulk is a techno and club artist tracked on soundcheck, with 36 sets logged acro
 - TBA - No. 535, Jinqiao Road, Pudong New Area, Shanghai, Shanghai — Sat, 23 May 2026
 - OIL Club, Shenzhen — Fri, 22 May 2026
 - OIL Club, Shenzhen — Sat, 16 May 2026
-- OIL Club, Shenzhen — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 DJ 86, NEBULAE, Alion
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*

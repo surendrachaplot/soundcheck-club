@@ -1,6 +1,6 @@
 # Kuki
 
-Kuki is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
+Kuki is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
 
 Kuki is a gabber and techno artist based in Poland, tracked on soundcheck, with 3 sets logged across Paris. Often billed alongside Arman John, BOTL and BitterCaress. Next up: Kilomètre25, Paris on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Kuki is a gabber and techno artist based in Poland, tracked on soundcheck, with 
 
 Arman John, BOTL, BitterCaress
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuki/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuki/)*

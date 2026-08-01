@@ -1,6 +1,6 @@
 # Amit
 
-Amit is a Drum & Bass and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 2 Aug 2026.
+Amit is a Drum & Bass and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 2 Aug 2026.
 
 Amit is a drum & bass and dubstep artist tracked on soundcheck, with 12 sets logged across Berlin, Boston, Bucharest and Chicago and 6 more. Often billed alongside Lenore, Seba and Terraphorm. Next up: F8 1192 Folsom, Sanfrancisco on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Amit is a drum & bass and dubstep artist tracked on soundcheck, with 12 sets log
 
 Lenore, Seba, Terraphorm
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*

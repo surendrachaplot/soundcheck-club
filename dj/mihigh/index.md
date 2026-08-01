@@ -1,6 +1,6 @@
 # Mihigh
 
-Mihigh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Mihigh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Mihigh is a minimal and house artist tracked on soundcheck, with 56 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 11 more. Often billed alongside CEZAR, Gescu and Arapu. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mihigh is a minimal and house artist tracked on soundcheck, with 56 sets logged 
 
 CEZAR, Gescu, Arapu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*

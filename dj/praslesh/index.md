@@ -1,6 +1,6 @@
 # Praslesh
 
-Praslesh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
+Praslesh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
 
 Praslesh is a minimal and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 4 more. Often billed alongside Praslea, Raresh and Sonja Moonear. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Praslesh is a minimal and house artist tracked on soundcheck, with 20 sets logge
 
 Praslea, Raresh, Sonja Moonear
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*

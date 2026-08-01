@@ -1,14 +1,14 @@
 # Paramat
 
-Paramat is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Sydney on Sun, 2 Aug 2026.
+Paramat is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Sydney on Sat, 1 Aug 2026.
 
-Paramat is a techno and electro artist based in Australia, tracked on soundcheck, with 27 sets logged across Melbourne and Sydney. Often billed alongside Paramat (2), D-Grade and au4r33y. Next up: TBA, Sydney on Sun 2 Aug.
+Paramat is a techno and electro artist based in Australia, tracked on soundcheck, with 27 sets logged across Melbourne and Sydney. Often billed alongside Paramat (2), D-Grade and au4r33y. Next up: TBA, Sydney on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | TBA | Sydney |
+| Sat, 1 Aug 2026 | TBA | Sydney |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Paramat is a techno and electro artist based in Australia, tracked on soundcheck
 
 Paramat (2), D-Grade, au4r33y
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paramat/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paramat/)*

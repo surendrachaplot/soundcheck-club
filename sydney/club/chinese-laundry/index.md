@@ -1,14 +1,13 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Chinese Laundry Invites MASSI. EP Launch + Stev Zar [ALL NIGHT LONG]" on Fri, 31 Jul 2026.
+Chinese Laundry is a music venue in Sydney with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "COOPER SMITH" on Sat, 1 Aug 2026.
 
-Chinese Laundry is a music venue in Sydney listed on soundcheck. 12 upcoming nights, with line-ups including Bouki, bradeazy, Frank Booker and Jacques Greene and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
+Chinese Laundry is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including Bouki, bradeazy, Frank Booker and Jacques Greene and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Chinese Laundry Invites MASSI. EP Launch + Stev Zar [ALL NIGHT LONG] | MASSI., Stev Zar |
 | Sat, 1 Aug 2026 | COOPER SMITH |  |
 | Sat, 1 Aug 2026 | Chinese Laundry Invites COOPER SMITH [NAARM/MELB] + KLEO & BLIGS [ALTERED STATES RECORDS] |  |
 | Fri, 7 Aug 2026 | Chinese Laundry Invites YESIIR feat. CESSY Waxlily + FUSCHIA FUSCHIA & FRIENDS | Waxlily |
@@ -18,9 +17,10 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 12 upcoming nig
 | Fri, 21 Aug 2026 | Chinese Laundry Invites Jacques Greene [CAN] Jacques Greene [CAN] + NEED FOR SPEED TAKEOVER | Jacques Greene, Shantan Wantan Ichiban |
 | Sat, 22 Aug 2026 | Chinese Laundry Invites Kitty Amor [UK] | Kitty Amor |
 | Fri, 28 Aug 2026 | Chinese Laundry - Pinz & FRIENDS + swisherman & FRIENDS | Pinz, swisherman |
+| Sat, 29 Aug 2026 | Chinese Laundry Invites Samurai Breaks [UK] + Bouki + TRPL 8 TAKEOVER | Bouki, Mimi J, Samurai Breaks |
 
 ## Address
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

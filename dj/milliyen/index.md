@@ -1,6 +1,6 @@
 # milliyen
 
-milliyen is a Experimental and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zomerfabriek, Antwerp on Fri, 14 Aug 2026.
+milliyen is a Experimental and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zomerfabriek, Antwerp on Fri, 14 Aug 2026.
 
 milliyen is an experimental and latin bass artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp and Rotterdam. Often billed alongside Kaikaina, Poison Ivy and emssoleil. Next up: Zomerfabriek, Antwerp on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ milliyen is an experimental and latin bass artist based in Netherlands, tracked 
 
 Kaikaina, Poison Ivy, emssoleil
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milliyen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milliyen/)*

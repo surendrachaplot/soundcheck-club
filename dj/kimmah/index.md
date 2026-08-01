@@ -1,6 +1,6 @@
 # kimmah
 
-kimmah is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
+kimmah is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
 
 kimmah is a techno and electro artist based in Netherlands, tracked on soundcheck, with 61 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 10 more. Often billed alongside Faustin (NL), Marsman and Slimfit. Next up: export, Rotterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ kimmah is a techno and electro artist based in Netherlands, tracked on soundchec
 
 Faustin (NL), Marsman, Slimfit
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmah/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmah/)*

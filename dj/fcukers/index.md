@@ -1,6 +1,6 @@
 # FCUKERS
 
-FCUKERS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+FCUKERS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 FCUKERS is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Auckland, Austin and Barcelona and 27 more. Often billed alongside DJ Gigola, Adam Ten and Avalon Emerson. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FCUKERS is a house and techno artist based in United States of America, tracked 
 
 DJ Gigola, Adam Ten, Avalon Emerson
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*

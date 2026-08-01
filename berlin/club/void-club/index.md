@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm " on Fri, 31 Jul 2026.
+Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "VOID x Druschba Psy Crew Vol. 2" on Sat, 1 Aug 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm  | Callado, Cobb Douglas, DJ Parabolspiegel, Dj Wifi (3), EZA (DE), Flohmarkt, MEKER, MILANCHOLIE, Obelisk, Obelisk030, Ozzwald, Rheindaaa, STURM, Un.Frieden, e.leptic, subga |
 | Sat, 1 Aug 2026 | VOID x Druschba Psy Crew Vol. 2 | H.U.K, Nerv, Upzet |
 | Fri, 7 Aug 2026 | Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu | Dino S, Ed Shepherd, Honschu Lee, Sagrivox, Upzet, buktuu |
 | Sat, 8 Aug 2026 | Stoic Music x Breakout DNB (NL) | Anton Quasi, Initia, phasebound |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, w
 | Fri, 21 Aug 2026 | 10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz | Luca Hagenmüller, MARIE.MOON, Nebuchadnezzar, Upzet, dela Moon |
 | Sat, 22 Aug 2026 | VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui | Aynaet, Gabrielle (DE), K.EULE, Section 63, Will Tempo, kutscher |
 | Fri, 28 Aug 2026 | Berlin Bass Music Vibes | Anton Quasi, Dub Isotope, Jimi Handtrix, Lay.Dee Strange, Migz, MixB, Saint Popsy, Soniq, Upzet, Yoru, Yoru (Berlin) |
+| Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,8 +1,8 @@
-# Overload
+# ØVERLOAD
 
-Overload is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sensorium, Berlin on Fri, 28 Aug 2026.
+ØVERLOAD is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sensorium, Berlin on Fri, 28 Aug 2026.
 
-Overload is a techno and tech house artist based in Russia, tracked on soundcheck, with 5 sets logged across Berlin and Tbilisi. Often billed alongside BOUNCE SAPIENS, Blck-Swan and Cyberpsychosis. Next up: Sensorium, Berlin on Fri 28 Aug.
+ØVERLOAD is a techno and tech house artist based in Russia, tracked on soundcheck, with 5 sets logged across Berlin and Tbilisi. Often billed alongside BOUNCE SAPIENS, Blck-Swan and Cyberpsychosis. Next up: Sensorium, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Overload is a techno and tech house artist based in Russia, tracked on soundchec
 
 BOUNCE SAPIENS, Blck-Swan, Cyberpsychosis
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*

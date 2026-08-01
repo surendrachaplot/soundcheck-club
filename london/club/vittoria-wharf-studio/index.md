@@ -1,14 +1,13 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Alien Communications b2b Radioactive Man" on Fri, 31 Jul 2026.
+Vittoria Wharf Studio is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Loose Legs presents: Sticky Dub, joey manzi, LORA S & DREY" on Sat, 8 Aug 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alfie Aukett, Alien Communications, Amaliah and AmeliaBC and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alfie Aukett, Amaliah, AmeliaBC and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Alien Communications b2b Radioactive Man | Alien Communications, Jiminy Watts, Radioactive Man |
 | Sat, 8 Aug 2026 | Loose Legs presents: Sticky Dub, joey manzi, LORA S & DREY | Crumpler, DREY (UK), LORA S, Listiq, Sticky Dub, Yozza, joey manzi |
 | Fri, 14 Aug 2026 | Pastry Selects at Vittoria Wharf Studio | Alfie Aukett, Juliana Branco, Mantis (5), Martel (UK), Phact (UK), Son of Paul |
 | Sat, 15 Aug 2026 | PRISM: Elkka, Meilgaarden, r:elise, Teecra | Elkka, Meilgaarden, Teecra, r:elise |
@@ -20,4 +19,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

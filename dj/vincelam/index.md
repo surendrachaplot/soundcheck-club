@@ -1,6 +1,6 @@
 # Vince Lam
 
-Vince Lam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+Vince Lam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 Vince Lam is a house and techno artist based in China, tracked on soundcheck, with 27 sets logged across Bristol and London. Often billed alongside Deejay Nye, Stella Z and LaAng. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Vince Lam is a house and techno artist based in China, tracked on soundcheck, wi
 
 Deejay Nye, Stella Z, LaAng
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vincelam/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincelam/)*

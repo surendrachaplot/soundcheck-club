@@ -1,15 +1,13 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Bitter Babe is a Techno and Latin Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Virage, Paris on Wed, 5 Aug 2026.
 
-Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
+Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Virage, Paris on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
-| Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 5 Aug 2026 | Virage | Paris |
 | Sat, 15 Aug 2026 | Backsteinboot | Berlin |
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
@@ -17,17 +15,17 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 se
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Blå, Oslo — Sat, 11 Jul 2026
 - Trempo, Nantes — Fri, 10 Jul 2026
-- Karmen Camina, Strasbourg — Sat, 4 Jul 2026
-- Mia Mao, Paris — Thu, 25 Jun 2026
-- Else, Berlin — Sat, 20 Jun 2026
+- Luma Arles, Marseille — Thu, 9 Jul 2026
 
 ## Shares bills with
 
 Nick León, Verraco, Kia (AU)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

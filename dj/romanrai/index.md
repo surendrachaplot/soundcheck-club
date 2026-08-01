@@ -1,6 +1,6 @@
 # Roman Rai
 
-Roman Rai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
+Roman Rai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
 
 Roman Rai is a house and techno artist based in Czech Republic, tracked on soundcheck, with 43 sets logged across Prague. Often billed alongside Täino, ANĪC and Daniel Neighbour. Next up: Bike Jesus, Prague on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Roman Rai is a house and techno artist based in Czech Republic, tracked on sound
 
 Täino, ANĪC, Daniel Neighbour
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romanrai/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romanrai/)*

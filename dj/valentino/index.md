@@ -1,6 +1,6 @@
 # Valentino
 
-Valentino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 2 Aug 2026.
+Valentino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Valentino is a house and techno artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Barcelona, Hamburg, Ibiza and Istanbul and 2 more. Often billed alongside Indira Paganotto, CamelPhat and BEC. Next up: Hï Ibiza, Ibiza on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Valentino is a house and techno artist based in Switzerland, tracked on soundche
 
 Indira Paganotto, CamelPhat, BEC
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentino/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentino/)*

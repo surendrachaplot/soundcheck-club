@@ -1,6 +1,6 @@
 # Young Gaina
 
-Young Gaina is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Young Gaina is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Young Gaina is a techno and electro artist tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Lisbon and Madrid and 6 more. Often billed alongside Luce Clandestina, Lupo Mangiafrutta and DNN. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Young Gaina is a techno and electro artist tracked on soundcheck, with 29 sets l
 
 Luce Clandestina, Lupo Mangiafrutta, DNN
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/younggaina/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/younggaina/)*

@@ -1,6 +1,6 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
+Shaleen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
 
 Shaleen is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 18 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Shaleen is a techno and house artist tracked on soundcheck, with 119 sets logged
 
 Ellen Allien, JANEIN, DJ Europarking
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*

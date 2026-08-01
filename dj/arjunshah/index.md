@@ -1,6 +1,6 @@
 # Arjun Shah
 
-Arjun Shah is a Disco and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Silence Please, New York City on Sun, 2 Aug 2026.
+Arjun Shah is a Disco and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Silence Please, New York City on Sun, 2 Aug 2026.
 
 Arjun Shah is a disco and afrobeat artist based in United States of America, tracked on soundcheck, with 30 sets logged across Detroit and Newyorkcity. Often billed alongside ራሄል (Rachel), vikmatic and funkin donut. Next up: Silence Please, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Arjun Shah is a disco and afrobeat artist based in United States of America, tra
 
 ራሄል (Rachel), vikmatic, funkin donut
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunshah/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunshah/)*

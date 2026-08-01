@@ -1,14 +1,13 @@
 # komunal
 
-komunal is a music venue in Birmingham with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "techno with Yannu, Ikoni, Sofayah + Josh Padgett" on Fri, 31 Jul 2026.
+komunal is a music venue in Birmingham with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Transport with Residents & Friends" on Sat, 1 Aug 2026.
 
-komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming nights, with line-ups including Flori. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
+komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, with line-ups including Flori. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | techno with Yannu, Ikoni, Sofayah + Josh Padgett |  |
 | Sat, 1 Aug 2026 | Transport with Residents & Friends |  |
 | Fri, 7 Aug 2026 | Flori, Bakes + Huss | Flori |
 | Sat, 8 Aug 2026 | Kesone with Justin, Lexeh + Brad Bennett |  |
@@ -20,4 +19,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

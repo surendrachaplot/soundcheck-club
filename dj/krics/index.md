@@ -1,6 +1,6 @@
 # Krics
 
-Krics is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
+Krics is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
 
 Krics is a minimal and house artist based in Hungary, tracked on soundcheck, with 29 sets logged across Budapest. Often billed alongside PÆBO, Andrija Jäger and Beta. Next up: Atno, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Krics is a minimal and house artist based in Hungary, tracked on soundcheck, wit
 
 PÆBO, Andrija Jäger, Beta
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krics/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krics/)*

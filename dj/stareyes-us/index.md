@@ -1,6 +1,6 @@
 # Star Eyes
 
-Star Eyes is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Star Eyes is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Star Eyes is a jungle and bass artist based in United States of America, tracked on soundcheck, with 43 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Bianca Oblivion, sports and Anna Morgan. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Star Eyes is a jungle and bass artist based in United States of America, tracked
 
 Bianca Oblivion, sports, Anna Morgan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stareyes-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stareyes-us/)*

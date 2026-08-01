@@ -1,6 +1,6 @@
 # Javi Bora
 
-Javi Bora is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
+Javi Bora is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
 
 Javi Bora is a tech house and house artist based in Spain, tracked on soundcheck, with 16 sets logged across Amsterdam, Bali, Barcelona and Ibiza and 4 more. Often billed alongside Will Taylor, Bab Klover and IAAM. Next up: [UNVRS], Ibiza on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Javi Bora is a tech house and house artist based in Spain, tracked on soundcheck
 
 Will Taylor, Bab Klover, IAAM
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javibora/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javibora/)*

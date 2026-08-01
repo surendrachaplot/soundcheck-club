@@ -1,6 +1,6 @@
 # second skin
 
-second skin is a Downtempo and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bell City , Melbourne on Sat, 1 Aug 2026.
+second skin is a Downtempo and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Bell City , Melbourne on Sat, 1 Aug 2026.
 
 second skin is a downtempo and dub artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne and Sydney. Often billed alongside gross margins, CHEAHDX and CZ Wang. Next up: TBA - Bell City , Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ second skin is a downtempo and dub artist based in Australia, tracked on soundch
 
 gross margins, CHEAHDX, CZ Wang
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secondskin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondskin/)*

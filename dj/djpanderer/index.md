@@ -1,6 +1,6 @@
 # DJ Panderer
 
-DJ Panderer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Public Works, San Francisco/Oakland on Thu, 6 Aug 2026.
+DJ Panderer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Public Works, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 DJ Panderer is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside AGROPOL, Pap. and John Glass. Next up: Public Works, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ DJ Panderer is a house and techno artist based in United States of America, trac
 
 AGROPOL, Pap., John Glass
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpanderer/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpanderer/)*

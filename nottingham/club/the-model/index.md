@@ -1,21 +1,21 @@
 # The Model
 
-The Model is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Cold Brewed presents Son of Philip b2b Croft, soapy b2b M75 & Jimmy Rocket" on Fri, 31 Jul 2026.
+The Model is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Model presents Ease Off with Seen and Tenshu" on Sat, 1 Aug 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including Croft (UK), dj come, Dylan Whicher and Evil Woman and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including dj come, Dylan Whicher, Evil Woman and Kit Bodine and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Cold Brewed presents Son of Philip b2b Croft, soapy b2b M75 & Jimmy Rocket | Croft (UK), Jimmy Rocket, M75 (1), Son of Philip, soapy |
 | Sat, 1 Aug 2026 | The Model presents Ease Off with Seen and Tenshu | Seen |
-| Sat, 1 Aug 2026 | The Model presents Archeology |  |
+| Fri, 7 Aug 2026 | Archeology DJs - House Music All Night |  |
 | Sat, 8 Aug 2026 | Technolectrohouse: Dj WorldWide + L4!NE (FREE ENTRY) | dj come |
 | Fri, 14 Aug 2026 | Boundary Keys x The Lunar Snail Affair | Dylan Whicher, Markos (2) |
 | Sat, 15 Aug 2026 | The Witching Hours w/ Evil Woman, Alex Bong + Kit Fuzz | Evil Woman, Kit Bodine |
 | Fri, 21 Aug 2026 | A Sound Place For Sound |  |
 | Sat, 22 Aug 2026 | klub mush | Mush Love (UK) |
+| Fri, 28 Aug 2026 | Fac1968 DJs + guests |  |
 | Sat, 29 Aug 2026 | Burnout (Rock/Metal night) |  |
 | Fri, 18 Sept 2026 | Kylie Wears Berghaus (Nottingham Debut) | Kylie Wears Berghaus |
 
@@ -23,4 +23,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming night
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

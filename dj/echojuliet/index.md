@@ -1,6 +1,6 @@
 # Echo Juliet
 
-Echo Juliet is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Greyhound, London on Sat, 1 Aug 2026.
+Echo Juliet is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Greyhound, London on Sat, 1 Aug 2026.
 
 Echo Juliet is a house and hip-hop artist tracked on soundcheck, with 10 sets logged across Birmingham and London. Often billed alongside L Daze, 808 State and ATOM UK. Next up: The Greyhound, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Echo Juliet is a house and hip-hop artist tracked on soundcheck, with 10 sets lo
 
 L Daze, 808 State, ATOM UK
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/echojuliet/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echojuliet/)*

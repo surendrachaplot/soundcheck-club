@@ -1,6 +1,6 @@
 # Leopold
 
-Leopold is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Elmhurst, London on Sat, 1 Aug 2026.
+Leopold is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Elmhurst, London on Sat, 1 Aug 2026.
 
 Leopold is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Hamburg and London and 1 more. Often billed alongside Davide Del Vecchio, effgee and Giles Smith. Next up: The Elmhurst, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Leopold is a house and deep house artist based in United Kingdom, tracked on sou
 
 Davide Del Vecchio, effgee, Giles Smith
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leopold-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leopold-uk/)*

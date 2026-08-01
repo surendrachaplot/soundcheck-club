@@ -1,6 +1,6 @@
 # Teddy Kitano
 
-Teddy Kitano is a Bass and Footwork artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Sun, 2 Aug 2026.
+Teddy Kitano is a Bass and Footwork artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at M.O.T, London on Sun, 2 Aug 2026.
 
 Teddy Kitano is a bass and footwork artist based in France, tracked on soundcheck, with 16 sets logged across Belgrade, Brussels, Geneva and London and 2 more. Often billed alongside BJF, Big Dope P and Cannonbar. Next up: M.O.T, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Teddy Kitano is a bass and footwork artist based in France, tracked on soundchec
 
 BJF, Big Dope P, Cannonbar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykitano/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykitano/)*

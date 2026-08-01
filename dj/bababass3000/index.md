@@ -1,6 +1,6 @@
 # BabaBass3000
 
-BabaBass3000 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+BabaBass3000 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
 
 BabaBass3000 is a trance and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Hamburg and Paris and 2 more. Often billed alongside OSKAMAXX, Baumeister98 and HugoBass303. Next up: Schrotty, Cologne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ BabaBass3000 is a trance and techno artist based in Germany, tracked on soundche
 
 OSKAMAXX, Baumeister98, HugoBass303
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bababass3000/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bababass3000/)*

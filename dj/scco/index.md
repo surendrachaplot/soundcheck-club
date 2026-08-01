@@ -1,6 +1,6 @@
 # SCCO
 
-SCCO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
+SCCO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Glove That Fits, London on Sun, 16 Aug 2026.
 
 SCCO is a house and tech house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Adam Chapman, Alfaz and Checketts. Next up: The Glove That Fits, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ SCCO is a house and tech house artist tracked on soundcheck, with 20 sets logged
 
 Adam Chapman, Alfaz, Checketts
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scco/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scco/)*

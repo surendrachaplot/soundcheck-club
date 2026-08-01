@@ -1,6 +1,6 @@
 # Ryan Varjas
 
-Ryan Varjas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at McCarren Park, New York City on Sat, 1 Aug 2026.
+Ryan Varjas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at McCarren Park, New York City on Sat, 1 Aug 2026.
 
 Ryan Varjas is a house and tech house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Lily Ray, Loren Berrier and Ranch Guerra. Next up: McCarren Park, Newyorkcity on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Ryan Varjas is a house and tech house artist based in United States of America, 
 
 Lily Ray, Loren Berrier, Ranch Guerra
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanvarjas/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanvarjas/)*

@@ -1,6 +1,6 @@
 # Zemög
 
-Zemög is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
+Zemög is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
 
 Zemög is a techno and electronica artist based in Colombia, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Buenosaires and Madrid and 6 more. Often billed alongside Inger, SUZAN (2) and AllA. Next up: Gare Porto, Porto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zemög is a techno and electronica artist based in Colombia, tracked on soundche
 
 Inger, SUZAN (2), AllA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*

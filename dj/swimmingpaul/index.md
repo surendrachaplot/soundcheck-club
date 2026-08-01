@@ -1,8 +1,8 @@
 # Swimming Paul
 
-Swimming Paul is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
+Swimming Paul is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
 
-Swimming Paul is a house and electro artist tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: SAGE, Berlin on Sat 15 Aug.
+Swimming Paul is a house and electro artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: SAGE, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Swimming Paul is a house and electro artist tracked on soundcheck, with 58 sets 
 | Sat, 5 Sept 2026 | Night We Met | Nashville |
 | Sat, 3 Oct 2026 | Loo Loo | Mexico City |
 | Fri, 9 Oct 2026 | KOKO | London |
+| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Swimming Paul is a house and electro artist tracked on soundcheck, with 58 sets 
 
 OGUZ, Alex Wann, Beltran
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*

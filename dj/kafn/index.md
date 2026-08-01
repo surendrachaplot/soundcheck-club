@@ -1,6 +1,6 @@
 # Kafn
 
-Kafn is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Kafn is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Kafn is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across London. Often billed alongside Benebe, Glittcherz and Adela. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kafn is an electronica and house artist based in United Kingdom, tracked on soun
 
 Benebe, Glittcherz, Adela
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kafn/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kafn/)*

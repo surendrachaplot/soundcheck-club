@@ -1,6 +1,6 @@
 # BIMÄN // Nettta // TECHNIKER ALLSTARS at Fundbureau
 
-BIMÄN // Nettta // TECHNIKER ALLSTARS at Fundbureau on Fri 7 Aug, Hamburg. 1 act on the bill: Nettta. Trance and Techno. Preview the line-up and save it on soundcheck.
+BIMÄN // Nettta // TECHNIKER ALLSTARS at Fundbureau on Fri 7 Aug, Hamburg. 2 acts on the bill: Bi Män and Nettta. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BIMÄN // Nettta // TECHNIKER ALLSTARS at Fundbureau on Fri 7 Aug, Hamburg. 1 ac
 
 ## Line-up
 
+- Bi Män
 - Nettta
 
 *Source: [soundcheck](https://soundcheck.club/e/2497803-bim-n-nettta-techniker-allstars-at-fundbureau/)*

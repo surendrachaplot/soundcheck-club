@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Dancehall artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
+Seb Odyssey is a House and Dancehall artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
 
 Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets logged across Leeds, London, Manchester and Stockholm. Often billed alongside Josh Caffé, Jade Seatle and FAFF. Next up: Crate Brewery, London on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets 
 
 Josh Caffé, Jade Seatle, FAFF
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

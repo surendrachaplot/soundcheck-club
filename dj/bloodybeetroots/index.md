@@ -1,6 +1,6 @@
 # The Bloody Beetroots
 
-The Bloody Beetroots is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+The Bloody Beetroots is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
 
 The Bloody Beetroots is an electro and house artist tracked on soundcheck, with 15 sets logged across Antwerp, Austin, Barcelona and Budapest and 10 more. Often billed alongside Acidnena, Aerobica and Alex Martin. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ The Bloody Beetroots is an electro and house artist tracked on soundcheck, with 
 
 Acidnena, Aerobica, Alex Martin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodybeetroots/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodybeetroots/)*

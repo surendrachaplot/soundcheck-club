@@ -1,6 +1,6 @@
 # Gravy Bois
 
-Gravy Bois is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at HWK, London on Sat, 1 Aug 2026.
+Gravy Bois is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at HWK, London on Sat, 1 Aug 2026.
 
 Gravy Bois is a disco and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Lucky Penny, Condy and Attam. Next up: HWK, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Gravy Bois is a disco and house artist based in United Kingdom, tracked on sound
 
 Lucky Penny, Condy, Attam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gravybois/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gravybois/)*

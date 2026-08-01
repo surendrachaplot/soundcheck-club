@@ -1,6 +1,6 @@
 # Kugel
 
-Kugel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nyapi, Seoul on Sat, 1 Aug 2026.
+Kugel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Nyapi, Seoul on Sat, 1 Aug 2026.
 
 Kugel is a techno and house artist tracked on soundcheck, with 163 sets logged across Hongkong, Jakarta, Newyorkcity and Osaka and 2 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: Nyapi, Seoul on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Kugel is a techno and house artist tracked on soundcheck, with 163 sets logged a
 
 Sunday Lee, RTRP, Gumi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*

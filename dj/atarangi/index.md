@@ -1,6 +1,6 @@
 # ATARANGI
 
-ATARANGI is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
+ATARANGI is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
 
 ATARANGI is a techno and club artist based in New Zealand, tracked on soundcheck, with 40 sets logged across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Aaliyah Salem, MIRASIA and Meat Raffle. Next up: Miscellania, Melbourne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ ATARANGI is a techno and club artist based in New Zealand, tracked on soundcheck
 
 Aaliyah Salem, MIRASIA, Meat Raffle
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atarangi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atarangi/)*

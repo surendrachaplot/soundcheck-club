@@ -1,6 +1,6 @@
 # Peter Visti
 
-Peter Visti is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Klub Werkstatt, Copenhagen on Sat, 1 Aug 2026.
+Peter Visti is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Klub Werkstatt, Copenhagen on Sat, 1 Aug 2026.
 
 Peter Visti is a house and balearic artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Azpecialguest, BRAVER (DK) and Djuma Soundsystem. Next up: Klub Werkstatt, Copenhagen on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Peter Visti is a house and balearic artist based in Denmark, tracked on soundche
 
 Azpecialguest, BRAVER (DK), Djuma Soundsystem
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petervisti/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petervisti/)*

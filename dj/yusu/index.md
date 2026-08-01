@@ -1,14 +1,13 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Yu Su is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Yu Su is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Barcelona and 42 more. Often billed alongside DJ Python, Paula Tape and Alex Kassian. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
+Yu Su is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Barcelona and 42 more. Often billed alongside DJ Python, Paula Tape and Alex Kassian. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 12 Sept 2026 | fabric | London |
@@ -16,6 +15,7 @@ Yu Su is a house and techno artist tracked on soundcheck, with 136 sets logged a
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Jul 2026
 - Phonica Records, London — Wed, 29 Jul 2026
 - Sneaky Pete's, Edinburgh — Sat, 18 Jul 2026
 - TBA - Casal d'Amposta, Barcelona — Fri, 17 Jul 2026
@@ -23,10 +23,9 @@ Yu Su is a house and techno artist tracked on soundcheck, with 136 sets logged a
 - Phonox, London — Sat, 20 Jun 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 6 Jun 2026
 - Oddity, Paris — Thu, 28 May 2026
-- Copenhagen Contemporary, Copenhagen — Sun, 24 May 2026
 
 ## Shares bills with
 
 DJ Python, Paula Tape, Alex Kassian
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

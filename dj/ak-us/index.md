@@ -1,20 +1,20 @@
 # AK (US)
 
-AK (US) is a Techno and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+AK (US) is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
 
-AK (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 74 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and BEIGE. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
+AK (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 74 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and BEIGE. Next up: Northern Lights Lounge, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 8 Aug 2026 | Northern Lights Lounge | Detroit |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
 | Sat, 15 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City — Fri, 31 Jul 2026
 - Marble Bar, Detroit — Fri, 17 Jul 2026
 - Lincoln Factory, Detroit — Thu, 9 Jul 2026
 - Northern Lights Lounge, Detroit — Sat, 4 Jul 2026
@@ -22,10 +22,9 @@ AK (US) is a techno and ghetto tech artist based in United States of America, tr
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - TV Lounge, Detroit — Sat, 23 May 2026
 - TBA, Detroit — Fri, 22 May 2026
-- Paramita Sound, Detroit — Thu, 21 May 2026
 
 ## Shares bills with
 
 Blackmoonchild, Disc Jockey George, BEIGE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

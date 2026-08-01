@@ -1,6 +1,6 @@
 # Shorlax
 
-Shorlax is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kiosk Radio, Brussels on Sat, 1 Aug 2026.
+Shorlax is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kiosk Radio, Brussels on Sat, 1 Aug 2026.
 
 Shorlax is a club and techno artist tracked on soundcheck, with 8 sets logged across Brussels, Paris, Tallinn and Tbilisi. Often billed alongside Sarah Wanita, Al Wootton and Amdience. Next up: Kiosk Radio, Brussels on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Shorlax is a club and techno artist tracked on soundcheck, with 8 sets logged ac
 
 Sarah Wanita, Al Wootton, Amdience
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shorlax/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shorlax/)*

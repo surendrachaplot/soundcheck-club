@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Art Club, Houston on Sat, 1 Aug 2026.
+DJ SWISHA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Art Club, Houston on Sat, 1 Aug 2026.
 
 DJ SWISHA is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Art Club, Houston on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 187 sets logg
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

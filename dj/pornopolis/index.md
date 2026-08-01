@@ -1,6 +1,6 @@
 # Pornopolis
 
-Pornopolis is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Motel Campo, Geneva on Sat, 1 Aug 2026.
+Pornopolis is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Motel Campo, Geneva on Sat, 1 Aug 2026.
 
 Pornopolis is a house and italo disco artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Berlin, Dublin, Geneva and Paris and 1 more. Often billed alongside Bowmore, Larsaint and Aidan. Next up: Motel Campo, Geneva on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Pornopolis is a house and italo disco artist based in Switzerland, tracked on so
 
 Bowmore, Larsaint, Aidan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pornopolis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pornopolis/)*

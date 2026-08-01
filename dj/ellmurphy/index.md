@@ -1,6 +1,6 @@
 # Ell Murphy
 
-Ell Murphy is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Planet Wax, London on Fri, 21 Aug 2026.
+Ell Murphy is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Planet Wax, London on Fri, 21 Aug 2026.
 
 Ell Murphy is a garage and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Athens, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside mixtress, fae (UK) and ohmydais. Next up: Planet Wax, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ell Murphy is a garage and house artist based in United Kingdom, tracked on soun
 
 mixtress, fae (UK), ohmydais
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellmurphy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellmurphy/)*

@@ -1,6 +1,6 @@
 # Joe Mellors
 
-Joe Mellors is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Halley Space, London on Thu, 20 Aug 2026.
+Joe Mellors is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Halley Space, London on Thu, 20 Aug 2026.
 
 Joe Mellors is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Ceri, Fari Mond and Eduardo Nunez. Next up: The Halley Space, London on Thu 20 Aug.
 
@@ -19,4 +19,4 @@ Joe Mellors is a deep house and house artist based in United Kingdom, tracked on
 
 Ceri, Fari Mond, Eduardo Nunez
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joemellors/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joemellors/)*

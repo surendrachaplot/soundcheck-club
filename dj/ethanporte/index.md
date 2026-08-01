@@ -1,6 +1,6 @@
 # Ethan Porte
 
-Ethan Porte is a Amapiano and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Orange Room, London on Sat, 1 Aug 2026.
+Ethan Porte is a Amapiano and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Orange Room, London on Sat, 1 Aug 2026.
 
 Ethan Porte is an amapiano and uk funky artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Afroasis, AyChibs and DJ Polo. Next up: Orange Room, London on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Ethan Porte is an amapiano and uk funky artist based in United Kingdom, tracked 
 
 Afroasis, AyChibs, DJ Polo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanporte/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanporte/)*

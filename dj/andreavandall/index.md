@@ -1,6 +1,6 @@
 # ANDREA VANDALL
 
-ANDREA VANDALL is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nocturna, Ibiza on Wed, 26 Aug 2026.
+ANDREA VANDALL is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nocturna, Ibiza on Wed, 26 Aug 2026.
 
 ANDREA VANDALL is a club and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Ibiza and Madrid. Often billed alongside MYGAL, EDGAR KERRI and Alex Wann. Next up: Nocturna, Ibiza on Wed 26 Aug.
 
@@ -24,4 +24,4 @@ ANDREA VANDALL is a club and house artist based in Spain, tracked on soundcheck,
 
 MYGAL, EDGAR KERRI, Alex Wann
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreavandall/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreavandall/)*

@@ -1,6 +1,6 @@
 # Cam Harris
 
-Cam Harris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Te Motu - Vineyard Restaurant, Auckland on Fri, 4 Sept 2026.
+Cam Harris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Te Motu - Vineyard Restaurant, Auckland on Fri, 4 Sept 2026.
 
 Cam Harris is a techno and house artist based in New Zealand, tracked on soundcheck, with 10 sets logged across Auckland. Often billed alongside Mia Kober, Oliver Huntemann and Out Of Sorts. Next up: Te Motu - Vineyard Restaurant, Auckland on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Cam Harris is a techno and house artist based in New Zealand, tracked on soundch
 
 Mia Kober, Oliver Huntemann, Out Of Sorts
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*

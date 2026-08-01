@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+Trikk is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
 Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Boston Manor Park, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged a
 
 Âme, Jimi Jules, Dixon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

@@ -1,6 +1,6 @@
 # Graham Sahara
 
-Graham Sahara is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 8 Aug 2026.
+Graham Sahara is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 Graham Sahara is a house artist based in Spain, tracked on soundcheck, with 8 sets logged across Ibiza. Often billed alongside Jason Bye, Seb Fontaine and Ben Santiago. Next up: 528 Ibiza, Ibiza on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Graham Sahara is a house artist based in Spain, tracked on soundcheck, with 8 se
 
 Jason Bye, Seb Fontaine, Ben Santiago
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grahamsahara/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grahamsahara/)*

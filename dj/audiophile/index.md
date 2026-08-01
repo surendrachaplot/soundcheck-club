@@ -1,6 +1,6 @@
 # Audiophile
 
-Audiophile is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kings Cross Hotel, Sydney on Fri, 4 Sept 2026.
+Audiophile is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kings Cross Hotel, Sydney on Fri, 4 Sept 2026.
 
 Audiophile is a techno and industrial artist based in Spain, tracked on soundcheck, with 12 sets logged across Budapest, Paris and Sydney. Often billed alongside Madsync, ORKA and Allen Cedano. Next up: Kings Cross Hotel, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Audiophile is a techno and industrial artist based in Spain, tracked on soundche
 
 Madsync, ORKA, Allen Cedano
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audiophile/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audiophile/)*

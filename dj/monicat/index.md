@@ -1,6 +1,6 @@
 # monicat
 
-monicat is a R&B and Pop artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sneaky Pete's, Edinburgh on Mon, 3 Aug 2026.
+monicat is a R&B and Pop artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 3 Aug 2026.
 
 monicat is a r&b and pop artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Edinburgh. Often billed alongside m1 (1), Buckfast Barbie and miira. Next up: Sneaky Pete's, Edinburgh on Mon 3 Aug.
 
@@ -29,4 +29,4 @@ monicat is a r&b and pop artist based in United Kingdom, tracked on soundcheck, 
 
 m1 (1), Buckfast Barbie, miira
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monicat/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monicat/)*

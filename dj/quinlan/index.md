@@ -1,6 +1,6 @@
 # Quinlan
 
-Quinlan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+Quinlan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
 Quinlan is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Larushkin, LARISHKA (UK) and Neillis. Next up: Peckham Arches, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Quinlan is a house and tech house artist based in United Kingdom, tracked on sou
 
 Larushkin, LARISHKA (UK), Neillis
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quinlan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quinlan/)*

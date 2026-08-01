@@ -1,6 +1,6 @@
 # LA-YAM Rooftop
 
-LA-YAM Rooftop is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Kiko Franco: on the Roof" on Sat, 1 Aug 2026.
+LA-YAM Rooftop is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Kiko Franco: on the Roof" on Sat, 1 Aug 2026.
 
 LA-YAM Rooftop is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including AMÉMÉ, Coco & Breezy, Johnny Fiore and Liv Ravden and 2 more. Browse upcoming dates, start times and who's playing. Kingsbourne House, 229-231 High Holborn.
 
@@ -17,4 +17,4 @@ LA-YAM Rooftop is a music venue in London listed on soundcheck. 4 upcoming night
 
 Kingsbourne House, 229-231 High Holborn, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*

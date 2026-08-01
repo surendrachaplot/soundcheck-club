@@ -1,6 +1,6 @@
 # Kip Analog
 
-Kip Analog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Kip Analog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Kip Analog is a techno and house artist tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Adrian Salcedo, Acid Pauli and Amelie Lens. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Kip Analog is a techno and house artist tracked on soundcheck, with 5 sets logge
 
 Adrian Salcedo, Acid Pauli, Amelie Lens
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kipanalog/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kipanalog/)*

@@ -1,6 +1,6 @@
 # camoufly
 
-camoufly is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Q Nightclub, Seattle on Thu, 6 Aug 2026.
+camoufly is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Q Nightclub, Seattle on Thu, 6 Aug 2026.
 
 camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, Arthi and Chris Avantgarde. Next up: Q Nightclub, Seattle on Thu 6 Aug.
 
@@ -31,4 +31,4 @@ camoufly is a house and garage artist based in Italy, tracked on soundcheck, wit
 
 Oppidan, Arthi, Chris Avantgarde
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

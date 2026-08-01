@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Alarico is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Alarico is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 261 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

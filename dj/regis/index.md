@@ -1,14 +1,13 @@
 # Regis
 
-Regis is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
+Regis is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 20 Aug 2026.
 
-Regis is a techno and electronica artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Tunnel Club, Birmingham on Fri 31 Jul.
+Regis is a techno and electronica artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Tunnel Club | Birmingham |
 | Thu, 20 Aug 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Sat, 22 Aug 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Sept 2026 | Tresor / Globus | Berlin |
@@ -16,6 +15,7 @@ Regis is a techno and electronica artist tracked on soundcheck, with 102 sets lo
 
 ## Recently played
 
+- Tunnel Club, Birmingham — Fri, 31 Jul 2026
 - Tresor / Globus, Berlin — Sat, 4 Jul 2026
 - Astron Club, Athens — Sat, 20 Jun 2026
 - Tunnel Club, Birmingham — Fri, 12 Jun 2026
@@ -23,10 +23,9 @@ Regis is a techno and electronica artist tracked on soundcheck, with 102 sets lo
 - The Cause, London — Fri, 8 May 2026
 - Hydrozagadka, Warsaw — Fri, 8 May 2026
 - Laboratorio Octogon, Madrid — Sat, 2 May 2026
-- Sonnenraum, Berlin — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

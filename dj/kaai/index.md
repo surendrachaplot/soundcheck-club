@@ -1,6 +1,6 @@
 # KAAI
 
-KAAI is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
+KAAI is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
 
 KAAI is a techno and dub techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 10 more. Often billed alongside Slam, Kairogen and Charlie Sparks. Next up: The Old Fruitmarket, Glasgow on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ KAAI is a techno and dub techno artist tracked on soundcheck, with 39 sets logge
 
 Slam, Kairogen, Charlie Sparks
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*

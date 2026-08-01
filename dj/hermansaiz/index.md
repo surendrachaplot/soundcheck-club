@@ -1,6 +1,6 @@
 # Herman Saiz
 
-Herman Saiz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Darling on Drake, Auckland on Sat, 22 Aug 2026.
+Herman Saiz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Darling on Drake, Auckland on Sat, 22 Aug 2026.
 
 Herman Saiz is a house and tech house artist tracked on soundcheck, with 9 sets logged across Auckland. Often billed alongside Isaac Denny, Connor Tomoana and DirdyGerdi. Next up: Darling on Drake, Auckland on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Herman Saiz is a house and tech house artist tracked on soundcheck, with 9 sets 
 
 Isaac Denny, Connor Tomoana, DirdyGerdi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansaiz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansaiz/)*

@@ -1,6 +1,6 @@
 # CHLO (UK)
 
-CHLO (UK) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
+CHLO (UK) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
 
 CHLO (UK) is a tech house and house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Brian Smith, DRIA and JAYDAA. Next up: 93 Feet East, London on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ CHLO (UK) is a tech house and house artist tracked on soundcheck, with 5 sets lo
 
 Brian Smith, DRIA, JAYDAA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*

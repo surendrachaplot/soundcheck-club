@@ -1,6 +1,6 @@
 # Nena Polap
 
-Nena Polap is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+Nena Polap is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
 Nena Polap is a house and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Frankfurt, Istanbul and Nurnberg. Often billed alongside Noel Holler, Alex Gallus and DYNOR. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Nena Polap is a house and tech house artist based in Germany, tracked on soundch
 
 Noel Holler, Alex Gallus, DYNOR
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nenapolap/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nenapolap/)*

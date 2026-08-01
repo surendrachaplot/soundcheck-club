@@ -1,6 +1,6 @@
 # Daniel 2000
 
-Daniel 2000 is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
+Daniel 2000 is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
 
 Daniel 2000 is an electronica and house artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Paris. Often billed alongside John Heaven, Nile Fee and Marcelo Pantani. Next up: La Terrrazza, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Daniel 2000 is an electronica and house artist based in Spain, tracked on soundc
 
 John Heaven, Nile Fee, Marcelo Pantani
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniel2000/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniel2000/)*

@@ -1,6 +1,6 @@
 # Katamina
 
-Katamina is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
+Katamina is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
 
 Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck, with 53 sets logged across Montreal and Toronto. Often billed alongside Casa Kobrae, Meen Moreen and K657. Next up: Village au Pied-du-Courant, Montreal on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 Casa Kobrae, Meen Moreen, K657
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*

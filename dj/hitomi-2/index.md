@@ -1,6 +1,6 @@
 # Hitomi (DE)
 
-Hitomi (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
+Hitomi (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
 
 Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: Crack Bellmer, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, 
 
 João Comazzi, Alexander Arpeggio, Alicia Carrera
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*

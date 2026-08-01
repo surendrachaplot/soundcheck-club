@@ -1,6 +1,6 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Stinny Stone is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 Stinny Stone is a techno and trance artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Budapest and Dublin and 16 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Stinny Stone is a techno and trance artist tracked on soundcheck, with 83 sets l
 
 SOHOE, Cobb Douglas, futurristic
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*

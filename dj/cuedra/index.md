@@ -1,6 +1,6 @@
 # Cuedra
 
-Cuedra is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
+Cuedra is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
 
 Cuedra is a minimal techno and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside AJAMU, Apollo Dust and Henry P (US). Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Cuedra is a minimal techno and techno artist based in United States of America, 
 
 AJAMU, Apollo Dust, Henry P (US)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cuedra/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuedra/)*

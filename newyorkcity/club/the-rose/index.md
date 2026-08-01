@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "MMF Society Open Decks" on Mon, 3 Aug 2026.
+The Rose is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "MMF Society Open Decks" on Mon, 3 Aug 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including AJACENT, Gino Santos, Oui Lv and shirlz. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -19,4 +19,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

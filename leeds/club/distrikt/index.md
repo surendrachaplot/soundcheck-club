@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SoundState Chapter 6" on Fri, 31 Jul 2026.
+Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FunkyBeatsOnly presents: Alec Falconer, Georgia & Keefy G" on Sat, 1 Aug 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including FLETCH, Adam Lance, ad*n and Alec Falconer and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including FLETCH, Adam Lance, ad*n and Alec Falconer and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | SoundState Chapter 6 |  |
 | Sat, 1 Aug 2026 | FunkyBeatsOnly presents: Alec Falconer, Georgia & Keefy G | Alec Falconer, Georgia, Keefy G, fae (UK) |
 | Fri, 7 Aug 2026 | SurfBeatzUK & Aurora presents FLETCH | FLETCH |
 | Sat, 8 Aug 2026 | 3PM Records present: Mad.Again & Mees Mattern | Fentonffp, Mad.Again (2), Mees Mattern, Partridge |
@@ -23,4 +22,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, wit
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

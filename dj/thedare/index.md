@@ -1,6 +1,6 @@
 # The Dare
 
-The Dare is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+The Dare is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 The Dare is an electro and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Brussels and Chicago and 15 more. Often billed alongside Doss, Yaeji and 999999999. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ The Dare is an electro and techno artist based in United States of America, trac
 
 Doss, Yaeji, 999999999
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*

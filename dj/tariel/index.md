@@ -1,6 +1,6 @@
 # Tariel
 
-Tariel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kasematte 20, Hamburg on Sun, 2 Aug 2026.
+Tariel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kasematte 20, Hamburg on Sun, 2 Aug 2026.
 
 Tariel is a techno and house artist based in Georgia, tracked on soundcheck, with 2 sets logged across Hamburg. Often billed alongside 3LEEZA, Dj handbag and HANÀ. Next up: Kasematte 20, Hamburg on Sun 2 Aug.
 
@@ -15,4 +15,4 @@ Tariel is a techno and house artist based in Georgia, tracked on soundcheck, wit
 
 3LEEZA, Dj handbag, HANÀ
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tariel/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tariel/)*

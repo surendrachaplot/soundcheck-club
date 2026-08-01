@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Kirk Barley Arc Album Launch at Hope House, Leeds with Elsa Hewitt, Harkirit and Sangria Kong" on Fri, 7 Aug 2026.
+Hope House is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Kirk Barley Arc Album Launch at Hope House, Leeds with Elsa Hewitt, Harkirit and Sangria Kong" on Fri, 7 Aug 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 3 upcoming nights, with line-ups including Billy Jack (UK) and BOSSdaddy. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -16,4 +16,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 3 upcoming nights, wi
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

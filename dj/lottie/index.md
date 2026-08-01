@@ -1,6 +1,6 @@
 # Lottie
 
-Lottie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
+Lottie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
 
 Lottie is a house and tech house artist tracked on soundcheck, with 3 sets logged across Bristol, Manchester and Sheffield. Often billed alongside Crazy P, D.O.D. and Dimitri From Paris. Next up: Clifton Downs, Bristol on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Lottie is a house and tech house artist tracked on soundcheck, with 3 sets logge
 
 Crazy P, D.O.D., Dimitri From Paris
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie/)*

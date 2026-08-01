@@ -1,13 +1,14 @@
 # Field Note
 
-Field Note is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Datcha, Montreal on Sat, 15 Aug 2026.
+Field Note is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
-Field Note is a house and techno artist tracked on soundcheck, with 44 sets logged across Montreal and Toronto. Often billed alongside h1bou, Dijipoune and Lia Plutonic. Next up: Bar Datcha, Montreal on Sat 15 Aug.
+Field Note is a house and techno artist tracked on soundcheck, with 45 sets logged across Montreal and Toronto. Often billed alongside h1bou, Dijipoune and Lia Plutonic. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TBA - Centre-sud | Montreal |
 | Sat, 15 Aug 2026 | Bar Datcha | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Field Note is a house and techno artist tracked on soundcheck, with 44 sets logg
 
 h1bou, Dijipoune, Lia Plutonic
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnote/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnote/)*

@@ -1,14 +1,13 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
+Patrick Mason is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
 
-Patrick Mason is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Virage, Paris on Fri 31 Jul.
+Patrick Mason is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Preston Park, Brighton, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Virage | Paris |
 | Sat, 1 Aug 2026 | Preston Park, Brighton | Berlin |
 | Sun, 2 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -20,9 +19,11 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 264 sets 
 | Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Thu, 24 Sept 2026 | Sub Club | Glasgow |
 | Fri, 25 Sept 2026 | Slaktkyrkan | Stockholm |
+| Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 
 ## Recently played
 
+- Virage, Paris — Fri, 31 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 12 Jul 2026
 - Mondo, Madrid — Sat, 4 Jul 2026
 - Poble Espanyol, Barcelona — Fri, 19 Jun 2026
@@ -30,10 +31,9 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 264 sets 
 - Macadam, Nantes — Sun, 7 Jun 2026
 - Fridas Pier, Stuttgart — Wed, 3 Jun 2026
 - Hï Ibiza, Ibiza — Sun, 31 May 2026
-- Plage De Torcy, Paris — Sun, 24 May 2026
 
 ## Shares bills with
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Enzo is Burning" on Fri, 31 Jul 2026.
+Jolene Downtown Miami is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Marco Strous" on Sat, 1 Aug 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Arapu, Archie Hamilton, Ben Roberts and DIFFER and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including Arapu, Archie Hamilton, Ben Roberts and DIFFER and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Enzo is Burning | Enzo is Burning, Mick Jerome, Thunderpony |
 | Sat, 1 Aug 2026 | Marco Strous | Marco Strous |
 | Thu, 6 Aug 2026 | Generous B presents | Ben Roberts, Generous B |
 | Fri, 7 Aug 2026 | MADAFAKAZ: Laidlaw | Laidlaw, Ms. Mada, Natalia Roth |
@@ -18,9 +17,10 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 15 upcomin
 | Sat, 15 Aug 2026 | Magda | DJ Fitness, Jonny From Space, Magda |
 | Thu, 20 Aug 2026 | RHR b2b Jonny From Space | Jonny From Space, Julia Saturno, RHR, RUDE BOY (US) |
 | Fri, 21 Aug 2026 | Archie Hamilton  | Archie Hamilton, Malone, Nicole Gallamini |
+| Sat, 22 Aug 2026 | Gerd Janson | Gerd Janson, Will Buck |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

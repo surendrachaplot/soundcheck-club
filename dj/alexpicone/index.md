@@ -1,6 +1,6 @@
 # Alex Picone
 
-Alex Picone is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Wed, 5 Aug 2026.
+Alex Picone is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club der Visionaere, Berlin on Wed, 5 Aug 2026.
 
 Alex Picone is a house and tech house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Desyn, Nick (IT) and Miki. Next up: Club der Visionaere, Berlin on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Alex Picone is a house and tech house artist tracked on soundcheck, with 63 sets
 
 Desyn, Nick (IT), Miki
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpicone/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpicone/)*

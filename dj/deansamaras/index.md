@@ -1,6 +1,6 @@
 # Dean Samaras
 
-Dean Samaras is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
+Dean Samaras is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 Dean Samaras is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Denver, Sanfrancisco and Washingtondc. Often billed alongside LYSSN UP, Lisa Rose and RawB. Next up: Hawthorn, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Dean Samaras is a techno and house artist based in United States of America, tra
 
 LYSSN UP, Lisa Rose, RawB
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deansamaras/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deansamaras/)*

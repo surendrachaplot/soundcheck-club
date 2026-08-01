@@ -1,6 +1,6 @@
 # Wittes
 
-Wittes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+Wittes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
 Wittes is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Dublin, Oslo and Seoul and 1 more. Often billed alongside DJ KILLING, Miley Serious and Tanith. Next up: TBA, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Wittes is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 DJ KILLING, Miley Serious, Tanith
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wittes/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wittes/)*

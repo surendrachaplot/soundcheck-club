@@ -1,6 +1,6 @@
 # Via Seri
 
-Via Seri is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Setlist @ Somerset House, London on Sat, 8 Aug 2026.
+Via Seri is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Setlist @ Somerset House, London on Sat, 8 Aug 2026.
 
 Via Seri is an amapiano and afro house artist tracked on soundcheck, with 51 sets logged across Berlin, Birmingham, London and Paris and 1 more. Often billed alongside Supa D, Shenin Amara and Jerome Six. Next up: Setlist @ Somerset House, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Via Seri is an amapiano and afro house artist tracked on soundcheck, with 51 set
 
 Supa D, Shenin Amara, Jerome Six
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viaseri/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viaseri/)*

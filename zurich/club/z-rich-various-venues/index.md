@@ -1,6 +1,6 @@
 # Zürich - Various Venues
 
-Zürich - Various Venues is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ZÜRICH MUSIC WEEK : OFF-EVENTS" on Mon, 3 Aug 2026.
+Zürich - Various Venues is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ZÜRICH MUSIC WEEK : OFF-EVENTS" on Mon, 3 Aug 2026.
 
 Zürich - Various Venues is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Yulia Niko, Anja Schneider, Annina Frey and Bondi (DE) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Zürich - Various Venues is a music venue in Zurich listed on soundcheck. 3 upco
 | Mon, 3 Aug 2026 | ZÜRICH MUSIC WEEK : MASTERCLASSES | Anja Schneider, Bondi (DE), Domenico Ferrari, ELIF, Ede, Gespona, Gianluca Felline, HOVR, JOSEPH (CH), Juli Lee, Juzz, Kalabrese, Kangding Ray, Khadija (DE), Khainz, Kid Simius, Radio Slave, SKALA, Sebastian Konrad, Soul Clap, Theologos, Yulia Niko |
 | Mon, 3 Aug 2026 | ZÜRICH MUSIC WEEK : CONFERENCES | Anja Schneider, Annina Frey, EDX, Electric Indigo, Gespona, Halina Rice, Jamira Estrada, Juli Lee, LALENA, Radio Slave, Ralf Kollmann, Sebastian Konrad, Theologos |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/z-rich-various-venues/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/z-rich-various-venues/)*

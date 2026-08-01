@@ -1,6 +1,6 @@
 # KHROME
 
-KHROME is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Utopia, Los Angeles on Sat, 1 Aug 2026.
+KHROME is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Utopia, Los Angeles on Sat, 1 Aug 2026.
 
 KHROME is a techno and tech house artist tracked on soundcheck, with 4 sets logged across Losangeles and Sanfrancisco. Often billed alongside BabaBass3000, Chamoy Baby and GRLFRND. Next up: Utopia, Losangeles on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ KHROME is a techno and tech house artist tracked on soundcheck, with 4 sets logg
 
 BabaBass3000, Chamoy Baby, GRLFRND
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/khrome/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khrome/)*

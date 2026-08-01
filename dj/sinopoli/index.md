@@ -1,13 +1,14 @@
 # Sinopoli
 
-Sinopoli is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Floyd, Miami on Fri, 28 Aug 2026.
+Sinopoli is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Domicile, Miami on Sat, 8 Aug 2026.
 
-Sinopoli is a house and experimental artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami. Often billed alongside Cami di Marzo, La BB and Mai iachetti. Next up: Floyd, Miami on Fri 28 Aug.
+Sinopoli is a house and experimental artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami. Often billed alongside Nikita Green, Ultrathem and grant sabadash. Next up: Domicile, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Domicile | Miami |
 | Fri, 28 Aug 2026 | Floyd | Miami |
 
 ## Recently played
@@ -21,6 +22,6 @@ Sinopoli is a house and experimental artist based in United States of America, t
 
 ## Shares bills with
 
-Cami di Marzo, La BB, Mai iachetti
+Nikita Green, Ultrathem, grant sabadash
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinopoli/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinopoli/)*

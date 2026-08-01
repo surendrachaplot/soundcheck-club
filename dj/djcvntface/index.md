@@ -1,6 +1,6 @@
 # Dj Cvntface
 
-Dj Cvntface is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+Dj Cvntface is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 Dj Cvntface is a techno and gabber artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Dagobird, FLUCC and Viscerale. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Dj Cvntface is a techno and gabber artist based in Germany, tracked on soundchec
 
 Dagobird, FLUCC, Viscerale
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*

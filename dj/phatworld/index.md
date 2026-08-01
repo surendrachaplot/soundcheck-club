@@ -1,6 +1,6 @@
 # Phatworld
 
-Phatworld is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
+Phatworld is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
 
 Phatworld is a bass and garage artist tracked on soundcheck, with 35 sets logged across Brighton, Bristol, Glasgow and Leeds and 4 more. Often billed alongside Charla Green, Thorpey and Ben Suff Donk. Next up: Volks, Brighton on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Phatworld is a bass and garage artist tracked on soundcheck, with 35 sets logged
 
 Charla Green, Thorpey, Ben Suff Donk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phatworld/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phatworld/)*

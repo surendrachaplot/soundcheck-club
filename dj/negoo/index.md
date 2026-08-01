@@ -1,6 +1,6 @@
 # NegoO
 
-NegoO is a Afrobeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 1 Aug 2026.
+NegoO is a Afrobeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 1 Aug 2026.
 
 NegoO is an afrobeat and afro house artist based in Portugal, tracked on soundcheck, with 17 sets logged across Barcelona, Brussels, Lisbon and London and 4 more. Often billed alongside San Farafina, Moonshine and Pierre Kwenders. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ NegoO is an afrobeat and afro house artist based in Portugal, tracked on soundch
 
 San Farafina, Moonshine, Pierre Kwenders
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negoo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negoo/)*

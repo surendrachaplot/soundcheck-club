@@ -1,6 +1,6 @@
 # Fake Moss
 
-Fake Moss is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
+Fake Moss is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
 
 Fake Moss is a house and disco artist based in Belgium, tracked on soundcheck, with 20 sets logged across Antwerp, Brussels, Mexicocity and Saopaulo. Often billed alongside Rafa Maia, Clementaum and EliseThere. Next up: 09h30-05h30, Antwerp on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fake Moss is a house and disco artist based in Belgium, tracked on soundcheck, w
 
 Rafa Maia, Clementaum, EliseThere
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fakemoss/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakemoss/)*

@@ -1,6 +1,6 @@
 # Freestyler (2)
 
-Freestyler (2) is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
+Freestyler (2) is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
 
 Freestyler (2) is a club and experimental artist tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Ghent and Hamburg and 1 more. Often billed alongside bod [包家巷], EuroEyez and Softmatter. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Freestyler (2) is a club and experimental artist tracked on soundcheck, with 23 
 
 bod [包家巷], EuroEyez, Softmatter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*

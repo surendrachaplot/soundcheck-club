@@ -1,6 +1,6 @@
 # Vermelho
 
-Vermelho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cineclube Cortina, Sao Paulo on Sat, 1 Aug 2026.
+Vermelho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Cineclube Cortina, Sao Paulo on Sat, 1 Aug 2026.
 
 Vermelho is a house and techno artist based in Brazil, tracked on soundcheck, with 68 sets logged across Buenosaires and Saopaulo. Often billed alongside Paulete Lindacelva, DJ DUE and Renato Cohen. Next up: Cineclube Cortina, Saopaulo on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Vermelho is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Paulete Lindacelva, DJ DUE, Renato Cohen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*

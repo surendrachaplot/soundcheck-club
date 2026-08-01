@@ -1,6 +1,6 @@
 # Andre Cascais
 
-Andre Cascais is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
+Andre Cascais is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
 
 Andre Cascais is a techno and house artist tracked on soundcheck, with 66 sets logged across Lisbon, Madrid, Paris and Porto. Often billed alongside Amulador, Solid-Funk and Helio. Next up: Lx Factory, Lisbon on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Andre Cascais is a techno and house artist tracked on soundcheck, with 66 sets l
 
 Amulador, Solid-Funk, Helio
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrecascais/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrecascais/)*

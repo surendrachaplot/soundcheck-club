@@ -1,6 +1,6 @@
 # Nico Noir
 
-Nico Noir is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Eden NYC, New York City on Fri, 7 Aug 2026.
+Nico Noir is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Eden NYC, New York City on Fri, 7 Aug 2026.
 
 Nico Noir is a house and minimal artist based in Argentina, tracked on soundcheck, with 17 sets logged across Berlin and Newyorkcity. Often billed alongside Yochanan, Alex Raouf and Amy Jor. Next up: Eden NYC, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Nico Noir is a house and minimal artist based in Argentina, tracked on soundchec
 
 Yochanan, Alex Raouf, Amy Jor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*

@@ -1,6 +1,6 @@
 # Evaluvfrog
 
-Evaluvfrog is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
+Evaluvfrog is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
 
 Evaluvfrog is a bass and trance artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Jiun, SAGAN and Temple Rat. Next up: Monarch, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Evaluvfrog is a bass and trance artist tracked on soundcheck, with 9 sets logged
 
 Jiun, SAGAN, Temple Rat
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaluvfrog/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evaluvfrog/)*

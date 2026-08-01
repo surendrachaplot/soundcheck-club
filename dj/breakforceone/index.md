@@ -1,6 +1,6 @@
 # Breakforce One
 
-Breakforce One is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Beaver Works, Leeds on Sat, 1 Aug 2026.
+Breakforce One is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Beaver Works, Leeds on Sat, 1 Aug 2026.
 
 Breakforce One is a hardcore and breakcore artist based in Germany, tracked on soundcheck, with 3 sets logged across Budapest, Leeds and London. Often billed alongside Demetzy, Shadesy and Soulgem (1). Next up: Beaver Works, Leeds on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Breakforce One is a hardcore and breakcore artist based in Germany, tracked on s
 
 Demetzy, Shadesy, Soulgem (1)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breakforceone/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakforceone/)*

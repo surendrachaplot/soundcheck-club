@@ -1,6 +1,6 @@
 # Duwat?
 
-Duwat? is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Duwat? is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Duwat? is a tech house and house artist tracked on soundcheck, with 217 sets logged across Brighton and London. Often billed alongside Simone Sim, Diana Loredana and Jefferson Souza. Next up: TBA, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Duwat? is a tech house and house artist tracked on soundcheck, with 217 sets log
 
 Simone Sim, Diana Loredana, Jefferson Souza
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duwat/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duwat/)*

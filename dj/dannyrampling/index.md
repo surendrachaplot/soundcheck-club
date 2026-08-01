@@ -1,6 +1,6 @@
 # Danny Rampling
 
-Danny Rampling is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 1 Aug 2026.
+Danny Rampling is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 Danny Rampling is a house and club artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Auckland, Brighton and Glasgow and 5 more. Often billed alongside Andy Baxter, Jason Bye and Allister Whitehead. Next up: 528 Ibiza, Ibiza on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Danny Rampling is a house and club artist based in United Kingdom, tracked on so
 
 Andy Baxter, Jason Bye, Allister Whitehead
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrampling/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrampling/)*

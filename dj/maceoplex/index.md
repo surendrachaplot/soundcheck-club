@@ -1,8 +1,8 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Maceo Plex is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Maceo Plex is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Maceo Plex is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 179 sets log
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 26 Sept 2026 | Ushuaïa Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | Reelworks Denver | Denver |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 179 sets log
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

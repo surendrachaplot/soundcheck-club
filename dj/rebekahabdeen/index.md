@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Downs Studios, London on Sat, 1 Aug 2026.
+Rebekah Abdeen is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hackney Downs Studios, London on Sat, 1 Aug 2026.
 
 Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 50 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Sport Mode. Next up: Hackney Downs Studios, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 50 sets l
 
 Denham Audio, Trudy Knight, Sport Mode
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

@@ -1,6 +1,6 @@
 # Fabian Kaa
 
-Fabian Kaa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 1 Aug 2026.
+Fabian Kaa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 1 Aug 2026.
 
 Fabian Kaa is a techno and trance artist based in Germany, tracked on soundcheck, with 24 sets logged across Stuttgart. Often billed alongside Andre Keller, keller and DJ Unholy. Next up: Fridas Pier, Stuttgart on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Fabian Kaa is a techno and trance artist based in Germany, tracked on soundcheck
 
 Andre Keller, keller, DJ Unholy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiankaa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiankaa/)*

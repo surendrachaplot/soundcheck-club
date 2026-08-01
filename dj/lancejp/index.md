@@ -1,6 +1,6 @@
 # Lance (JP)
 
-Lance (JP) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
+Lance (JP) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
 
 Lance (JP) is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside Vital Force, riichi / we_like_180bpm and DJ Shimamura. Next up: Circus Tokyo, Tokyo on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Lance (JP) is a hardcore and gabber artist based in Japan, tracked on soundcheck
 
 Vital Force, riichi / we_like_180bpm, DJ Shimamura
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lancejp/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lancejp/)*

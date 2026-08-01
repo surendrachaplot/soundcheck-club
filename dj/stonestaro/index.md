@@ -1,14 +1,15 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
+Stones Taro is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
 
-Stones Taro is a house and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Lomax, KOTSU and Paperkraft. Next up: Next Door Records Two, London on Sat 1 Aug.
+Stones Taro is a house and bass artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Lomax, KOTSU and Paperkraft. Next up: Next Door Records Two, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Next Door Records Two | London |
+| Thu, 20 Aug 2026 | clubasia | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stones Taro is a house and bass artist tracked on soundcheck, with 112 sets logg
 
 Lomax, KOTSU, Paperkraft
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

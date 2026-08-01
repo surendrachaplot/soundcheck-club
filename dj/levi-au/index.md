@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cova Santa, Ibiza on Sun, 2 Aug 2026.
+Levi (AU) is a Afro House and Deep House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Cova Santa, Ibiza on Sun, 2 Aug 2026.
 
 Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Cova Santa, Ibiza on Sun 2 Aug.
 
@@ -35,4 +35,4 @@ Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 87 
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

@@ -1,6 +1,6 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Park Slope Warehouse, New York City on Sat, 1 Aug 2026.
+Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Park Slope Warehouse, New York City on Sat, 1 Aug 2026.
 
 Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 46 sets logged across Athens, Austin, Berlin and Boston and 22 more. Often billed alongside Angerfist, Fatima Hajji and Giorgia Angiuli. Next up: Park Slope Warehouse, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 4
 
 Angerfist, Fatima Hajji, Giorgia Angiuli
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

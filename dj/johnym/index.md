@@ -1,6 +1,6 @@
 # JohnyM
 
-JohnyM is a Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+JohnyM is a Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
 JohnyM is a grime artist based in Czech Republic, tracked on soundcheck, with 10 sets logged across Prague. Often billed alongside Tereza.Pro, Dj Alyaz and Sir Free. Next up: Fuchs2, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ JohnyM is a grime artist based in Czech Republic, tracked on soundcheck, with 10
 
 Tereza.Pro, Dj Alyaz, Sir Free
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnym/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnym/)*

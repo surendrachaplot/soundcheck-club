@@ -1,6 +1,6 @@
 # Larishka
 
-Larishka is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Larishka is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Larishka is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Manchester. Often billed alongside ZOEVITA, Ėrrør.A and Abriss Andrej. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Larishka is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ZOEVITA, Ėrrør.A, Abriss Andrej
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka/)*

@@ -1,6 +1,6 @@
 # Ugnė Uma
 
-Ugnė Uma is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Ugnė Uma is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 Ugnė Uma is an experimental and electronica artist based in Lithuania, tracked on soundcheck, with 7 sets logged across Berlin, Bristol, Manchester and Paris and 2 more. Often billed alongside feeo, Raisa K and Torus. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Ugnė Uma is an experimental and electronica artist based in Lithuania, tracked 
 
 feeo, Raisa K, Torus
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ugneuma/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ugneuma/)*

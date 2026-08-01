@@ -1,6 +1,6 @@
 # MAR VISTA
 
-MAR VISTA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Savaya Bali, Bali on Fri, 14 Aug 2026.
+MAR VISTA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Savaya Bali, Bali on Fri, 14 Aug 2026.
 
 MAR VISTA is a house and garage artist tracked on soundcheck, with 24 sets logged across Adelaide, Bali, Berlin and Bristol and 4 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Savaya Bali, Bali on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ MAR VISTA is a house and garage artist tracked on soundcheck, with 24 sets logge
 
 Coziest, PanVesy, h4rdy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvista/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvista/)*

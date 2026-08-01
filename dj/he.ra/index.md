@@ -1,6 +1,6 @@
 # HE.RA
 
-HE.RA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fire, London on Sat, 1 Aug 2026.
+HE.RA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fire, London on Sat, 1 Aug 2026.
 
 HE.RA is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam and London. Often billed alongside Bradley Skeng, Alexis Knox and Chef Dhruv. Next up: Fire, London on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ HE.RA is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Bradley Skeng, Alexis Knox, Chef Dhruv
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/he.ra/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/he.ra/)*

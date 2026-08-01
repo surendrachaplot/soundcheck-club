@@ -1,6 +1,6 @@
 # Dmytro Filatov
 
-Dmytro Filatov is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
+Dmytro Filatov is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
 
 Dmytro Filatov is an ambient and bass artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside pock.root, Andriy K. and Bungalovv. Next up: Giri, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Dmytro Filatov is an ambient and bass artist tracked on soundcheck, with 11 sets
 
 pock.root, Andriy K., Bungalovv
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmytrofilatov/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmytrofilatov/)*

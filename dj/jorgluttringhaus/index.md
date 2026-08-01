@@ -1,6 +1,6 @@
 # Jörg Lüttringhaus
 
-Jörg Lüttringhaus is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 8 Aug 2026.
+Jörg Lüttringhaus is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 8 Aug 2026.
 
 Jörg Lüttringhaus is a techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Tbilisi. Often billed alongside Björn del Togno, Clinical Hates and Comethisfar. Next up: Der Weiße Hase, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Jörg Lüttringhaus is a techno artist based in Germany, tracked on soundcheck, 
 
 Björn del Togno, Clinical Hates, Comethisfar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgluttringhaus/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgluttringhaus/)*

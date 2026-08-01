@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
+MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 MiNNA is a house and disco artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Melvo Baptiste and Dan Shake. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ MiNNA is a house and disco artist tracked on soundcheck, with 140 sets logged ac
 
 Kirollus, Melvo Baptiste, Dan Shake
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

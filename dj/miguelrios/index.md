@@ -1,6 +1,6 @@
 # Miguel Rios
 
-Miguel Rios is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Quartyard, San Diego on Sun, 16 Aug 2026.
+Miguel Rios is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Quartyard, San Diego on Sun, 16 Aug 2026.
 
 Miguel Rios is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sandiego. Often billed alongside Paul Najera, Boys Don't Disco and Jaemus. Next up: Quartyard, Sandiego on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Miguel Rios is a house and deep house artist based in United States of America, 
 
 Paul Najera, Boys Don't Disco, Jaemus
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrios/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrios/)*

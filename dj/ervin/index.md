@@ -1,6 +1,6 @@
 # Ervin
 
-Ervin is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
+Ervin is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
 
 Ervin is a minimal and electronica artist based in Ireland, tracked on soundcheck, with 23 sets logged across Dublin. Often billed alongside Cam Roberts, Vlad Katana and ISKO. Next up: Palmerstown House Estate, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ervin is a minimal and electronica artist based in Ireland, tracked on soundchec
 
 Cam Roberts, Vlad Katana, ISKO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ervin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ervin/)*

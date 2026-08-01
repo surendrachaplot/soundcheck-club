@@ -1,14 +1,13 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BASEMENT, New York City on Fri, 31 Jul 2026.
+Lindsey Herbert is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
 
-Lindsey Herbert is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: BASEMENT, Newyorkcity on Fri 31 Jul.
+Lindsey Herbert is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BASEMENT | New York City |
 | Fri, 7 Aug 2026 | Knockdown Center | New York City |
 | Fri, 21 Aug 2026 | Vibehaus ATX | Austin |
 | Sat, 22 Aug 2026 | TBA | Austin |
@@ -19,6 +18,7 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 106 set
 
 ## Recently played
 
+- BASEMENT, New York City — Fri, 31 Jul 2026
 - Liquid Club, Malta — Sat, 20 Jun 2026
 - Cabaret  Aléatoire, Marseille — Fri, 19 Jun 2026
 - Soap House - Ex Saponerie Mira Lanza, Rome — Fri, 12 Jun 2026
@@ -26,10 +26,9 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 106 set
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Refuge, New York City — Fri, 8 May 2026
 - TBA - Location With Ticket, Denver — Sat, 2 May 2026
-- TBA - MICROCENTRO., Buenos Aires — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

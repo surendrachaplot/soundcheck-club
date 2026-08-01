@@ -1,6 +1,6 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
+Robbie Doherty is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
 
 Robbie Doherty is a house and tech house artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Binks Yard, Nottingham on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 153 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

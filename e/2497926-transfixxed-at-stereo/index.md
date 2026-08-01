@@ -1,6 +1,6 @@
 # TRANSFIXXED at Stereo
 
-TRANSFIXXED at Stereo on Thu 3 Sept, Glasgow. 4 acts on the bill: 4KitSake, Angel Cake, RXVEGRL and Swedger. Garage. Preview the line-up and save it on soundcheck.
+TRANSFIXXED at Stereo on Thu 3 Sept, Glasgow. 4 acts on the bill: 4KitSake, Angel Cake, RXVEGRL and Swedger. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

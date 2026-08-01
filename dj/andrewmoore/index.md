@@ -1,6 +1,6 @@
 # Andrew Moore
 
-Andrew Moore is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Horn, Bangkok on Sat, 1 Aug 2026.
+Andrew Moore is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Horn, Bangkok on Sat, 1 Aug 2026.
 
 Andrew Moore is a techno and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bangkok, Berlin, Cologne and Glasgow and 6 more. Often billed alongside PLATTER, Echoes Of October and Inverse Element. Next up: Horn, Bangkok on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Andrew Moore is a techno and house artist based in United Kingdom, tracked on so
 
 PLATTER, Echoes Of October, Inverse Element
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*

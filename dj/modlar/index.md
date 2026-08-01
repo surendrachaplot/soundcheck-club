@@ -1,6 +1,6 @@
 # Modlar
 
-Modlar is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Steel Yard, London on Fri, 7 Aug 2026.
+Modlar is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Steel Yard, London on Fri, 7 Aug 2026.
 
 Modlar is a techno artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside DELARA, CITYTRONIX and SBBS. Next up: The Steel Yard, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Modlar is a techno artist tracked on soundcheck, with 25 sets logged across Lond
 
 DELARA, CITYTRONIX, SBBS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*

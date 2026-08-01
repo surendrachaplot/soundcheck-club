@@ -1,6 +1,6 @@
 # Phat Phil Cooper
 
-Phat Phil Cooper is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 1 Aug 2026.
+Phat Phil Cooper is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 Phat Phil Cooper is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Ibiza, London and Newyorkcity. Often billed alongside Jason Bye, Jo Mills and Luke Una. Next up: 528 Ibiza, Ibiza on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Phat Phil Cooper is a house and balearic artist based in United Kingdom, tracked
 
 Jason Bye, Jo Mills, Luke Una
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phatphilcooper/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phatphilcooper/)*

@@ -1,6 +1,6 @@
 # THINKPINK
 
-THINKPINK is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
+THINKPINK is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 THINKPINK is a tech house and house artist tracked on soundcheck, with 22 sets logged across Barcelona. Often billed alongside DIROS, Jon Peña and Rubenus. Next up: Seaseaclub Barcelona, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ THINKPINK is a tech house and house artist tracked on soundcheck, with 22 sets l
 
 DIROS, Jon Peña, Rubenus
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thinkpink/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thinkpink/)*

@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a Deep House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul on Sat, 1 Aug 2026.
+Nandu is a Deep House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul on Sat, 1 Aug 2026.
 
 Nandu is a deep house and techno artist based in Denmark, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Ivory, Yet More and Bedouin. Next up: TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Nandu is a deep house and techno artist based in Denmark, tracked on soundcheck,
 
 Ivory, Yet More, Bedouin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

@@ -1,6 +1,6 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
+VIVI909 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
 
 VIVI909 is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside B.R.K.Ø., CAIVA and DJ LP (NL). Next up: Tresor / Globus, Berlin on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ VIVI909 is a techno and trance artist tracked on soundcheck, with 9 sets logged 
 
 B.R.K.Ø., CAIVA, DJ LP (NL)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

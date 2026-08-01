@@ -1,14 +1,13 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Mall Grab is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Realm PDX, Portland on Fri, 7 Aug 2026.
 
-Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Boston Manor Park, London on Fri 31 Jul.
+Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Realm PDX, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Boston Manor Park | London |
 | Fri, 7 Aug 2026 | Realm PDX | Portland |
 | Sat, 8 Aug 2026 | Spin | San Diego |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -23,6 +22,7 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logg
 
 ## Recently played
 
+- Boston Manor Park, London — Fri, 31 Jul 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - Mondo, Madrid — Sat, 25 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -30,10 +30,9 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logg
 - Magasins Généraux, Paris — Fri, 12 Jun 2026
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - Unit 13, Nottingham — Fri, 5 Jun 2026
-- Plaza Monumental de Barcelona, Barcelona — Sat, 30 May 2026
 
 ## Shares bills with
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

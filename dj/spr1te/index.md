@@ -1,6 +1,6 @@
 # spr1te
 
-spr1te is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+spr1te is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 spr1te is a bass and club artist based in Norway, tracked on soundcheck, with 13 sets logged across Oslo. Often billed alongside dark0wa, dragongirl and Ina Vietha. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ spr1te is a bass and club artist based in Norway, tracked on soundcheck, with 13
 
 dark0wa, dragongirl, Ina Vietha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spr1te/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spr1te/)*

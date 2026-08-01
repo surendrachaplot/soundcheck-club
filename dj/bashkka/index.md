@@ -1,14 +1,13 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and ISAbella. Next up: BLITZ, Munich on Fri 31 Jul.
+BASHKKA is a techno and house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and ISAbella. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Fri, 7 Aug 2026 | CLUB RAUM | Amsterdam |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -20,9 +19,11 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 296 sets logged
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
+- BLITZ, Munich — Fri, 31 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - KALT, Strasbourg — Sat, 18 Jul 2026
@@ -30,10 +31,9 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 296 sets logged
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Trädgården, Stockholm — Fri, 17 Jul 2026
 - Trädgården, Stockholm — Fri, 17 Jul 2026
-- Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, ISAbella
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

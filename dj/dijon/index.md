@@ -1,6 +1,6 @@
 # Dijon
 
-Dijon is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Dijon is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 Dijon is a techno and r&b artist tracked on soundcheck, with 3 sets logged across Budapest, Newyorkcity and Paris. Often billed alongside Dom Dolla, ANNA and Antony Szmierek. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -19,4 +19,4 @@ Dijon is a techno and r&b artist tracked on soundcheck, with 3 sets logged acros
 
 Dom Dolla, ANNA, Antony Szmierek
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dijon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dijon/)*

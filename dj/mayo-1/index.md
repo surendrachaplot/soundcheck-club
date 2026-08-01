@@ -1,6 +1,6 @@
 # Mayo (1)
 
-Mayo (1) is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Skatecafe, Amsterdam on Sat, 1 Aug 2026.
+Mayo (1) is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Skatecafe, Amsterdam on Sat, 1 Aug 2026.
 
 Mayo (1) is a house and downtempo artist based in Ireland, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Tokyo. Often billed alongside bebe bad, Doppelgang and ARAKAZA. Next up: Skatecafe, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mayo (1) is a house and downtempo artist based in Ireland, tracked on soundcheck
 
 bebe bad, Doppelgang, ARAKAZA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-1/)*

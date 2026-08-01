@@ -1,8 +1,8 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at DNA Club, Munich on Fri, 7 Aug 2026.
+Felix Kröcher is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at DNA Club, Munich on Fri, 7 Aug 2026.
 
-Felix Kröcher is a techno and electro artist tracked on soundcheck, with 45 sets logged across Bangkok, Barcelona, Basel and Berlin and 10 more. Often billed alongside LOVRA, Anna Tur and Simina Grigoriu. Next up: DNA Club, Munich on Fri 7 Aug.
+Felix Kröcher is a techno and electro artist tracked on soundcheck, with 46 sets logged across Bangkok, Barcelona, Basel and Berlin and 10 more. Often billed alongside LOVRA, Anna Tur and Simina Grigoriu. Next up: DNA Club, Munich on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Felix Kröcher is a techno and electro artist tracked on soundcheck, with 45 set
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 11 Sept 2026 | Grelle Forelle | Vienna |
 | Fri, 18 Sept 2026 | OST | Berlin |
+| Fri, 30 Oct 2026 | Die Rakete | Nürnberg |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Felix Kröcher is a techno and electro artist tracked on soundcheck, with 45 set
 
 LOVRA, Anna Tur, Simina Grigoriu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

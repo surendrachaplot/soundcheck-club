@@ -1,6 +1,6 @@
 # Zaphy
 
-Zaphy is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at EL SÓTANO, Madrid on Sun, 2 Aug 2026.
+Zaphy is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at EL SÓTANO, Madrid on Sun, 2 Aug 2026.
 
 Zaphy is a techno and acid artist based in Chile, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Bucharest and London and 2 more. Often billed alongside Robin Hastings, Diana Loredana and Mira Sonnenberg. Next up: EL SÓTANO, Madrid on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Zaphy is a techno and acid artist based in Chile, tracked on soundcheck, with 24
 
 Robin Hastings, Diana Loredana, Mira Sonnenberg
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*

@@ -1,6 +1,6 @@
 # Meeshy
 
-Meeshy is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Meeshy is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Meeshy is a tech house and afro house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Birmingham, Ibiza and London and 2 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Meeshy is a tech house and afro house artist tracked on soundcheck, with 42 sets
 
 hitty, Djammin, Shenin Amara
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*

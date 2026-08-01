@@ -1,6 +1,6 @@
 # zenwerk
 
-zenwerk is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Miami Wars, Warsaw on Fri, 7 Aug 2026.
+zenwerk is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Miami Wars, Warsaw on Fri, 7 Aug 2026.
 
 zenwerk is a tech house and techno artist tracked on soundcheck, with 53 sets logged across Krakow, Lisbon and Warsaw. Often billed alongside aist (LT), zuzaeksperyment and Helga. Next up: Miami Wars, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ zenwerk is a tech house and techno artist tracked on soundcheck, with 53 sets lo
 
 aist (LT), zuzaeksperyment, Helga
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*

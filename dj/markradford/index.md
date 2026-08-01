@@ -1,6 +1,6 @@
 # Mark Radford
 
-Mark Radford is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
+Mark Radford is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at XOYO, London on Sat, 8 Aug 2026.
 
 Mark Radford is a deep house and house artist tracked on soundcheck, with 117 sets logged across Birmingham and London. Often billed alongside Lance Morgan, Shenin Amara and B3. Next up: XOYO, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Mark Radford is a deep house and house artist tracked on soundcheck, with 117 se
 
 Lance Morgan, Shenin Amara, B3
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*

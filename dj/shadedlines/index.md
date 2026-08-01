@@ -1,6 +1,6 @@
 # Shaded Lines
 
-Shaded Lines is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
+Shaded Lines is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
 
 Shaded Lines is a drum & bass and techno artist tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside Upzet, Anton Quasi and Honschu Lee. Next up: Void Club, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Shaded Lines is a drum & bass and techno artist tracked on soundcheck, with 32 s
 
 Upzet, Anton Quasi, Honschu Lee
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadedlines/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadedlines/)*

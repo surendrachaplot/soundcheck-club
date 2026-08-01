@@ -1,6 +1,6 @@
 # ad*n
 
-ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sun, 9 Aug 2026.
+ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Sun, 9 Aug 2026.
 
 ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Emile and FITS ME FUNNY. Next up: Starlane Pizza Bar, London on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Impulse Tracker, Emile, FITS ME FUNNY
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*

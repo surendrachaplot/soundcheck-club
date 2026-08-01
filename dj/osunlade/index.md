@@ -1,14 +1,15 @@
 # Osunlade
 
-Osunlade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Osunlade is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
-Osunlade is a house and deep house artist tracked on soundcheck, with 71 sets logged across Berlin, Detroit, Galway and Geneva and 17 more. Often billed alongside Kyri R2, Natasha Diggs and Bruce Bailey. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
+Osunlade is a house and deep house artist tracked on soundcheck, with 72 sets logged across Berlin, Detroit, Galway and Geneva and 18 more. Often billed alongside Kyri R2, Natasha Diggs and MAX PELA. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | NUMBER 90 LONDON | London |
+| Sat, 26 Sept 2026 | Club Metro | Kyoto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Osunlade is a house and deep house artist tracked on soundcheck, with 71 sets lo
 
 ## Shares bills with
 
-Kyri R2, Natasha Diggs, Bruce Bailey
+Kyri R2, Natasha Diggs, MAX PELA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*

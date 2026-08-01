@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO -" on Fri, 31 Jul 2026.
+ZEROTOKYO is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "KYUNDESU x CELESTIA - Cannelle / Kyra Machida - ELECTRONIC / TECHNO / RAVE / Hyperpop -" on Sat, 1 Aug 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including 6.do, ACHIRI, ALEXANDER M and Aloetic and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including 6.do, ACHIRI, ALEXANDER M and Andre McLeod and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - | ASIN, Aloetic, CHIKA, DALJAE, HATSUYUKI, Lee Ann Roberts, O.Goo, Ryuga Nomoto, YOXIKI, YURI VALEN, YUXI |
 | Sat, 1 Aug 2026 | KYUNDESU x CELESTIA - Cannelle / Kyra Machida - ELECTRONIC / TECHNO / RAVE / Hyperpop - | 6.do, OKAMOTO REIJI, TAKENOKO, YUUGOH, clair, ecec |
 | Sun, 2 Aug 2026 | SYNC. supported by HABUSH | RYO2 |
 | Thu, 6 Aug 2026 | Terminal ZERO - ELECTRO / TECHNO / HOUSE / HIPHOP - | ACHIRI, INAE, RUKE, YUUGOH |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, wi
 | Mon, 10 Aug 2026 | KARASU - Nikolina / Hades / FUMI - HARD TECHNO - | FUMI, Hades, KOSHIRO, MUSCLE ∞ BROTHERS, Nikolina, STRATAH, TEI TEI, YURI VALEN, Yuoto Saito |
 | Thu, 13 Aug 2026 | VIRAL | Fuwatoro, omeme_gangimari |
 | Fri, 14 Aug 2026 | Lost Controll - TECH HOUSE / TECHNO - | FELINE (JP), HATSUYUKI, Kijta, Yohji Igarashi, okadada |
+| Sat, 15 Aug 2026 | NERO presents F2F Vol. III - HARD TECHNO / TECHNO - | Andre McLeod, CHIKA, DALJAE, KAITO (5), KASHIWAGI, MUSCLE ∞ BROTHERS, POSTMAN, SHIGEKI NISHIKAWA, Saku NewMoon, YOXIKI |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

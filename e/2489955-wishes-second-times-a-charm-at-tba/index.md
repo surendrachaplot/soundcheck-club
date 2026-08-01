@@ -1,10 +1,10 @@
 # Wishes: Second Times a Charm at TBA
 
-Wishes: Second Times a Charm at TBA on Sun 2 Aug, Sydney. 3 acts on the bill: au4r33y, Harold and Paramat. Tech House and IDM. Preview the line-up and save it on soundcheck.
+Wishes: Second Times a Charm at TBA on Sat 1 Aug, Sydney. 3 acts on the bill: au4r33y, Harold and Paramat. Tech House and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 2 Aug 2026 |
+| Date | Sat, 1 Aug 2026 |
 | Venue | TBA |
 | City | Sydney |
 

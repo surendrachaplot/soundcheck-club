@@ -1,15 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 27 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dirty South (AU) — Ugenius" on Fri, 31 Jul 2026.
+Revolver Upstairs is a music venue in Melbourne with 25 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Late Show" on Sat, 1 Aug 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 27 upcoming nights, with line-ups including Acid Safari, Agent 86, Aimann and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 25 upcoming nights, with line-ups including Acid Safari, Agent 86, Aimann and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Dirty South (AU) — Ugenius | Dirty South, The Journey |
-| Fri, 31 Jul 2026 | Revolver Fridays | Mike Callander |
 | Sat, 1 Aug 2026 | The Late Show | CAGED, Lewis Cancut |
 | Sat, 1 Aug 2026 | Rise & Shine | Sunshine |
 | Sun, 2 Aug 2026 | Maxi Meraki (BE) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Bridget, Haylo, KELLY TEE, Maxi Meraki, Perka, Spacey Space |
@@ -18,9 +16,11 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 27 upcomin
 | Sat, 8 Aug 2026 | REVOLVER BANDROOM: Canvas Collective — presents (DE)GENERATE |  |
 | Sat, 8 Aug 2026 | The Late Show – 808 Day Special | Agent 86, Kovac, Lewis Cancut |
 | Wed, 12 Aug 2026 | Tilt Shift Wednesdays | Shell Shock |
+| Fri, 14 Aug 2026 | SHADOWS | ARTISAH, CJ Slayer, WISER, Yulia Kasa |
+| Fri, 14 Aug 2026 | REVOLVER BANDROOM: Fortify Records presents — Culture Shock x Bolt Cutter | Boltcutter, Culture Shock, PM, Unfound |
 
 ## Address
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

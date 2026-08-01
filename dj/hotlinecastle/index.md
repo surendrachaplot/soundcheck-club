@@ -1,6 +1,6 @@
 # HotlineCastle
 
-HotlineCastle is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uptown Gaming, New York City on Sat, 1 Aug 2026.
+HotlineCastle is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Uptown Gaming, New York City on Sat, 1 Aug 2026.
 
 HotlineCastle is a house and afrobeat artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Byrell The Great, Coco Bryce and DJ Sauci Soni. Next up: Uptown Gaming, Newyorkcity on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ HotlineCastle is a house and afrobeat artist based in United States of America, 
 
 Byrell The Great, Coco Bryce, DJ Sauci Soni
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlinecastle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlinecastle/)*

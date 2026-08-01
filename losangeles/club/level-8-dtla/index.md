@@ -1,14 +1,13 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SUNSET SESSIONS" on Fri, 31 Jul 2026.
+Level 8 DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLOAT Rooftop Pool Party ft. Chambord [2-8 PM]" on Sat, 1 Aug 2026.
 
-Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including Apache, Chambord, David Paul and Durante and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
+Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including Apache, Chambord, David Paul and Durante and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | SUNSET SESSIONS | Michael Wagner, SAAND, Tamara Lanza |
 | Sat, 1 Aug 2026 | FLOAT Rooftop Pool Party ft. Chambord [2-8 PM] | Chambord |
 | Sun, 2 Aug 2026 | Summer Club LA: Young Hollywood Rooftop Pool Party |  |
 | Fri, 7 Aug 2026 | SUNSET SESSIONS presents: 'GOOD GIRL' Release Party | David Paul, Tamara Lanza |
@@ -18,9 +17,10 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 11 upcoming ni
 | Sat, 29 Aug 2026 | Chai Rave LA: ON THE ROOFTOP at LEVEL8 ON AUG 29TH! (ONE YEAR ANNIVERSARY!) |  |
 | Sat, 5 Sept 2026 | DJ Susan POOL PARTY at Level 8 [Labor Day Saturday] |  |
 | Sun, 6 Sept 2026 | Grum POOL PARTY at Level 8 [Labor Day Sunday] | Grum |
+| Sat, 19 Sept 2026 | FLOAT Rooftop Pool Party feat. Apache [2-8 PM] | Apache |
 
 ## Address
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

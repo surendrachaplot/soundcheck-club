@@ -1,6 +1,6 @@
 # Function
 
-Function is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+Function is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
 Function is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ Function is a techno and house artist based in United States of America, tracked
 
 Regis, Sandwell District, Sarah Wreath
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*

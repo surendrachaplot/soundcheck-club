@@ -1,6 +1,6 @@
 # Shun Kurashima
 
-Shun Kurashima is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Azumaya, Tokyo on Tue, 11 Aug 2026.
+Shun Kurashima is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Azumaya, Tokyo on Tue, 11 Aug 2026.
 
 Shun Kurashima is a techno and house artist based in Japan, tracked on soundcheck, with 48 sets logged across Amsterdam and Tokyo. Often billed alongside Kulage, Ayana Pattra and WAKA XINXI. Next up: Azumaya, Tokyo on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Shun Kurashima is a techno and house artist based in Japan, tracked on soundchec
 
 Kulage, Ayana Pattra, WAKA XINXI
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shunkurashima/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shunkurashima/)*

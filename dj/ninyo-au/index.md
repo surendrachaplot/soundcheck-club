@@ -1,6 +1,6 @@
 # Ninyo (AU)
 
-Ninyo (AU) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
+Ninyo (AU) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
 
 Ninyo (AU) is a drum & bass and bass artist based in Australia, tracked on soundcheck, with 9 sets logged across Barcelona and Sydney. Often billed alongside An Gelo, Andrew Wowk and Arnau Ariza. Next up: TBA, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ninyo (AU) is a drum & bass and bass artist based in Australia, tracked on sound
 
 An Gelo, Andrew Wowk, Arnau Ariza
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo-au/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo-au/)*

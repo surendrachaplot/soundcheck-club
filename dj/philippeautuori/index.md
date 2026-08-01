@@ -1,6 +1,6 @@
 # Philippe Autuori
 
-Philippe Autuori is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
+Philippe Autuori is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
 
 Philippe Autuori is a house and deep house artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Mad Shivers, Josiane and Robert Owens. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Philippe Autuori is a house and deep house artist tracked on soundcheck, with 11
 
 Mad Shivers, Josiane, Robert Owens
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippeautuori/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippeautuori/)*

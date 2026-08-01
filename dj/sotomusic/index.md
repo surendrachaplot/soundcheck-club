@@ -1,6 +1,6 @@
 # Soto Music
 
-Soto Music is a Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat, 1 Aug 2026.
+Soto Music is a Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat, 1 Aug 2026.
 
 Soto Music is a deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside Atomyard, Kike Roldan and Grove Shaman. Next up: TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Soto Music is a deep house artist based in United States of America, tracked on 
 
 Atomyard, Kike Roldan, Grove Shaman
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sotomusic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sotomusic/)*

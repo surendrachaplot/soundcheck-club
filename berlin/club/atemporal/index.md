@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Everything Poetic -  douniah Listening Session + screening" on Sat, 1 Aug 2026.
+Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Everything Poetic -  douniah Listening Session + screening" on Sat, 1 Aug 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Jank Inc. and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -18,4 +18,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

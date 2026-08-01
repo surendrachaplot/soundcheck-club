@@ -1,14 +1,13 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Techno Ihr Hasen" on Fri, 31 Jul 2026.
+Der Weiße Hase is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dämonenball" on Sat, 1 Aug 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Anubix, Aria Seashell, Ari Denaro and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Anubix, Aria Seashell, Ari Denaro and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Techno Ihr Hasen | Bisk, Kevin Wimmer, NIKO INCRAVALLE, NOXI |
 | Sat, 1 Aug 2026 | Dämonenball | Boris |
 | Tue, 4 Aug 2026 | HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DJ Schieferkiefer, Klangpusch, MARRE |
 | Thu, 6 Aug 2026 | STRAFF / Techno Thursday / 5€ until 1 AM | DAV3, Fabian Fischbach, Fran-Cee |
@@ -18,9 +17,10 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 20 upcoming nig
 | Thu, 13 Aug 2026 | STRAFF / Techno Thursday / 5€ until 1 AM | Emma (8) |
 | Fri, 14 Aug 2026 | Floats United / Parade pre Party | Felix Reichelt, Mijk van Dijk, Risa Taniguchi |
 | Sat, 15 Aug 2026 | Liebe & Bass / Afterparty – Hasen Truck | Bisk, DAZA, Drauf & Dran DJ Team, Maschine, NIKO INCRAVALLE, Sika Akis, Swaytone |
+| Tue, 18 Aug 2026 | HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | JEZZN, Johnny Allwess, Swaytone |
 
 ## Address
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

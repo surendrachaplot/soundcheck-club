@@ -1,14 +1,15 @@
 # DJ Bax
 
-DJ Bax is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Wed, 12 Aug 2026.
+DJ Bax is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Virage, Paris on Wed, 12 Aug 2026.
 
-DJ Bax is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Auckland, Brisbane, Edinburgh and Glasgow and 4 more. Often billed alongside Ageusic, Burna and Caru (NZ). Next up: Virage, Paris on Wed 12 Aug.
+DJ Bax is a techno and hardcore artist tracked on soundcheck, with 15 sets logged across Auckland, Brisbane, Edinburgh and Glasgow and 5 more. Often billed alongside Ageusic, Burna and Caru (NZ). Next up: Virage, Paris on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | Virage | Paris |
+| Sat, 12 Sept 2026 | Eiger Studios | Leeds |
 | Fri, 18 Sept 2026 | Audio | Glasgow |
 | Mon, 28 Sept 2026 | Sneaky Pete's | Edinburgh |
 
@@ -27,4 +28,4 @@ DJ Bax is a techno and hardcore artist tracked on soundcheck, with 14 sets logge
 
 Ageusic, Burna, Caru (NZ)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

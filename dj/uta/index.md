@@ -1,6 +1,6 @@
 # Uta
 
-Uta is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Fri, 7 Aug 2026.
+Uta is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Fri, 7 Aug 2026.
 
 Uta is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Prague and Tokyo. Often billed alongside DJ Normal 4, Appleblim and Deadbeat. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Uta is a techno and house artist based in Germany, tracked on soundcheck, with 2
 
 DJ Normal 4, Appleblim, Deadbeat
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uta/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uta/)*

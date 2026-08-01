@@ -1,6 +1,6 @@
 # Jonathan Rosa
 
-Jonathan Rosa is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Open Aera, Toronto on Thu, 20 Aug 2026.
+Jonathan Rosa is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Open Aera, Toronto on Thu, 20 Aug 2026.
 
 Jonathan Rosa is a tech house and house artist tracked on soundcheck, with 56 sets logged across Toronto. Often billed alongside RUDEE NIK, Sam Haze and Tabbara. Next up: Open Aera, Toronto on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Jonathan Rosa is a tech house and house artist tracked on soundcheck, with 56 se
 
 RUDEE NIK, Sam Haze, Tabbara
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanrosa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanrosa/)*

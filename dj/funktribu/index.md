@@ -1,14 +1,13 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Funk Tribu is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
 
-Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Boston Manor Park, London on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sun, 2 Aug 2026 | Boston Manor Park | London |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Boucher Road Fields | Belfast |
@@ -21,6 +20,7 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets lo
 
 ## Recently played
 
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Elysia, Basel — Sat, 27 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Escala25, Lisbon — Sat, 6 Jun 2026
@@ -28,10 +28,9 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets lo
 - The Prospect Building, Bristol — Sun, 3 May 2026
 - Meerpark, Amsterdam — Mon, 27 Apr 2026
 - Roel Langerakpark, Rotterdam — Mon, 27 Apr 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

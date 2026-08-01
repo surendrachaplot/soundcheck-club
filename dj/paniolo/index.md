@@ -1,8 +1,8 @@
 # Paniolo
 
-Paniolo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gut Level, Sheffield on Fri, 28 Aug 2026.
+Paniolo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gut Level, Sheffield on Fri, 28 Aug 2026.
 
-Paniolo is a techno and house artist tracked on soundcheck, with 21 sets logged across Sheffield. Often billed alongside Backseat Driver, Bubbles (UK) and Chris Jackson. Next up: Gut Level, Sheffield on Fri 28 Aug.
+Paniolo is a techno and house artist tracked on soundcheck, with 22 sets logged across Sheffield. Often billed alongside Backseat Driver, Bubbles (UK) and MELK. Next up: Gut Level, Sheffield on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paniolo is a techno and house artist tracked on soundcheck, with 21 sets logged 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Gut Level | Sheffield |
 | Fri, 28 Aug 2026 | Gut Level | Sheffield |
+| Sun, 30 Aug 2026 | The System | Sheffield |
 | Fri, 11 Sept 2026 | The System | Sheffield |
 
 ## Recently played
@@ -25,6 +26,6 @@ Paniolo is a techno and house artist tracked on soundcheck, with 21 sets logged 
 
 ## Shares bills with
 
-Backseat Driver, Bubbles (UK), Chris Jackson
+Backseat Driver, Bubbles (UK), MELK
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paniolo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paniolo/)*

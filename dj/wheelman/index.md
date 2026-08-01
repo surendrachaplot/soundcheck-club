@@ -1,6 +1,6 @@
 # Wheelman
 
-Wheelman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Berkeley Suite, Glasgow on Sun, 2 Aug 2026.
+Wheelman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Berkeley Suite, Glasgow on Sun, 2 Aug 2026.
 
 Wheelman is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Junglehussi, Skillis and Lewis Lowe. Next up: The Berkeley Suite, Glasgow on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Wheelman is a techno and bass artist based in United Kingdom, tracked on soundch
 
 Junglehussi, Skillis, Lewis Lowe
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelman/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelman/)*

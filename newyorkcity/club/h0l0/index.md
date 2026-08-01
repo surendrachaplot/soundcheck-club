@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SHEILA" on Fri, 31 Jul 2026.
+H0L0 is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "H0NEYM00N" on Thu, 6 Aug 2026.
 
-H0L0 is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Adam R, Agent 137, Amelia Holt and BABEITSPURR and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Agent 137, Amelia Holt, BABEITSPURR and Chez Damier and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | SHEILA | Adam R, BEIGE, Kiss Kiss, William Francis |
 | Thu, 6 Aug 2026 | H0NEYM00N | BABEITSPURR, Pètal |
 | Thu, 6 Aug 2026 | H0NEYM00N | Pètal, g.io |
 | Fri, 7 Aug 2026 | LIQUID: A spiritual Drum & Bass Session | Agent 137, Dave Shichman, Dieselboy |
@@ -20,4 +19,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, wi
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

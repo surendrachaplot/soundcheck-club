@@ -1,6 +1,6 @@
 # JIHEE KIM
 
-JIHEE KIM is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cakeshop, Seoul on Sat, 1 Aug 2026.
+JIHEE KIM is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Cakeshop, Seoul on Sat, 1 Aug 2026.
 
 JIHEE KIM is a club and bass artist based in South Korea, tracked on soundcheck, with 17 sets logged across Seoul. Often billed alongside Dabin, Surge and pa de haan.. Next up: Cakeshop, Seoul on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ JIHEE KIM is a club and bass artist based in South Korea, tracked on soundcheck,
 
 Dabin, Surge, pa de haan.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiheekim/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiheekim/)*

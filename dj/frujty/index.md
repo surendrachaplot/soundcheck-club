@@ -1,6 +1,6 @@
 # frujty
 
-frujty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
+frujty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
 
 frujty is a techno and house artist based in Czech Republic, tracked on soundcheck, with 45 sets logged across Prague. Often billed alongside Dash (CZ), Yan (CZ) and Misha Jaru. Next up: Fuchs2, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ frujty is a techno and house artist based in Czech Republic, tracked on soundche
 
 Dash (CZ), Yan (CZ), Misha Jaru
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frujty/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frujty/)*

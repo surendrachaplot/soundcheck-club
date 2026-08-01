@@ -1,6 +1,6 @@
 # Jackson Walker
 
-Jackson Walker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
+Jackson Walker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Jackson Walker is a house and tech house artist tracked on soundcheck, with 36 sets logged across Miami, Newyorkcity and Sanfrancisco. Often billed alongside Jackson Walker Lewis, GYPSUM and FCUKERS. Next up: Monarch, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jackson Walker is a house and tech house artist tracked on soundcheck, with 36 s
 
 Jackson Walker Lewis, GYPSUM, FCUKERS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonwalker/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonwalker/)*

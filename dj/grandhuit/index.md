@@ -1,6 +1,6 @@
 # GrandHuit
 
-GrandHuit is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Système, Montreal on Sun, 23 Aug 2026.
+GrandHuit is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Système, Montreal on Sun, 23 Aug 2026.
 
 GrandHuit is a disco and funk / soul artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal and Paris. Often billed alongside Ruby Jane, DJ Hidi and Kris Guilty. Next up: Système, Montreal on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ GrandHuit is a disco and funk / soul artist based in Canada, tracked on soundche
 
 Ruby Jane, DJ Hidi, Kris Guilty
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grandhuit/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grandhuit/)*

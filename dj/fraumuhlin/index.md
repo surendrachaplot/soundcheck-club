@@ -1,6 +1,6 @@
 # fraumuhlin
 
-fraumuhlin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+fraumuhlin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 fraumuhlin is a house and techno artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Zurich. Often billed alongside Zsófi, BRAINDAAMAGE and Bondi (DE). Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -21,4 +21,4 @@ fraumuhlin is a house and techno artist based in Switzerland, tracked on soundch
 
 Zsófi, BRAINDAAMAGE, Bondi (DE)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fraumuhlin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fraumuhlin/)*

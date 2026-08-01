@@ -1,14 +1,13 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Satoshi Tomiie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
 
-Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
+Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: Signal, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Signal | New York City |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
@@ -19,6 +18,7 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 120 sets
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - The Jazz Cafe, London — Wed, 29 Jul 2026
 - Flash, Washington DC — Sat, 25 Jul 2026
 - Fünk, Mexico City — Fri, 24 Jul 2026
@@ -26,10 +26,9 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 120 sets
 - Monarch, San Francisco/Oakland — Fri, 17 Jul 2026
 - Forte Antenne, Rome — Sat, 4 Jul 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Tue, 23 Jun 2026
-- Audiodise Park Montjuic, Barcelona — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Doudou MD, Cabanne, Kuniyuki
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

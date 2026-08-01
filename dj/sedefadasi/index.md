@@ -1,14 +1,13 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
+Sedef Adasï is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Sedef Adasï is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Bassiani, Tbilisi on Fri 31 Jul.
+Sedef Adasï is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Bassiani | Tbilisi |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 29 Aug 2026 | Phoxxi Green Area | Hamburg |
@@ -20,6 +19,7 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 268 sets l
 
 ## Recently played
 
+- Bassiani, Tbilisi — Fri, 31 Jul 2026
 - Tokonoma Club, Frankfurt — Sat, 18 Jul 2026
 - Fvtvr, Paris — Fri, 10 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
@@ -27,10 +27,9 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 268 sets l
 - Queen Elizabeth Hall Foyer, London — Sun, 21 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Sat, 20 Jun 2026
 - Sophie Festival, Malaga — Sat, 13 Jun 2026
-- DC-10, Ibiza — Mon, 1 Jun 2026
 
 ## Shares bills with
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

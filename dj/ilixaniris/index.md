@@ -1,6 +1,6 @@
 # Ilixan Iris
 
-Ilixan Iris is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
+Ilixan Iris is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
 
 Ilixan Iris is a drum & bass and techno artist based in Malta, tracked on soundcheck, with 9 sets logged across Malta. Often billed alongside 2thirty8, ALMOST HUMAN and Abdy. Next up: Liquid Club, Malta on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ilixan Iris is a drum & bass and techno artist based in Malta, tracked on soundc
 
 2thirty8, ALMOST HUMAN, Abdy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilixaniris/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilixaniris/)*

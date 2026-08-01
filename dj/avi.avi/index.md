@@ -1,6 +1,6 @@
 # AVI.avi
 
-AVI.avi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
+AVI.avi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
 
 AVI.avi is a techno and house artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside Ave Maria, mrjs.ddk and vanpana. Next up: Culture Box, Copenhagen on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ AVI.avi is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 Ave Maria, mrjs.ddk, vanpana
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avi.avi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avi.avi/)*

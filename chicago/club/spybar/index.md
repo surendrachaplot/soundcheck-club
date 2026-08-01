@@ -1,8 +1,8 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Tony Romera" on Fri, 7 Aug 2026.
+Spybar is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Tony Romera" on Fri, 7 Aug 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including Dean Turnley, Fleur Shore, Jazzy (IRL) and Sherm and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Dean Turnley, Fleur Shore, Jazzy (IRL) and Joss Dean and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Spybar is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with
 | Sat, 29 Aug 2026 | Hood Politics Takeover | Sherm |
 | Fri, 18 Sept 2026 | Dean Turnley | Dean Turnley |
 | Sat, 10 Oct 2026 | Jazzy | Jazzy (IRL) |
+| Fri, 30 Oct 2026 | Joss Dean | Joss Dean |
 
 ## Address
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

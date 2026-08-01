@@ -1,6 +1,6 @@
 # Louise Pétrouchka
 
-Louise Pétrouchka is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Fri, 7 Aug 2026.
+Louise Pétrouchka is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Virage, Paris on Fri, 7 Aug 2026.
 
 Louise Pétrouchka is a latin bass and reggaeton artist based in France, tracked on soundcheck, with 20 sets logged across Geneva, Marseille and Paris. Often billed alongside Naomi (FR), Bob Sleigh and Rebequita. Next up: Virage, Paris on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Louise Pétrouchka is a latin bass and reggaeton artist based in France, tracked
 
 Naomi (FR), Bob Sleigh, Rebequita
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisepetrouchka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisepetrouchka/)*

@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Metro, Kyoto on Sat, 1 Aug 2026.
+SOTA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club Metro, Kyoto on Sat, 1 Aug 2026.
 
 SOTA is a house and techno artist tracked on soundcheck, with 115 sets logged across Auckland, Brisbane, Kyoto and Leeds and 8 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Club Metro, Kyoto on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ SOTA is a house and techno artist tracked on soundcheck, with 115 sets logged ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

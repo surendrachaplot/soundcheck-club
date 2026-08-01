@@ -1,18 +1,18 @@
 # Yous
 
-Yous is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at La Rotonde Stalingrad, Paris on Fri, 31 Jul 2026.
+Yous is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
 
-Yous is a trance and techno artist based in France, tracked on soundcheck, with 8 sets logged across Berlin and Paris. Often billed alongside Bady (FR), E.T. and MIMI404. Next up: La Rotonde Stalingrad, Paris on Fri 31 Jul.
+Yous is a trance and techno artist based in France, tracked on soundcheck, with 8 sets logged across Berlin and Paris. Often billed alongside Bady (FR), E.T. and MIMI404. Next up: Œlgarten, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | La Rotonde Stalingrad | Paris |
 | Sat, 5 Sept 2026 | Œlgarten | Berlin |
 
 ## Recently played
 
+- La Rotonde Stalingrad, Paris — Fri, 31 Jul 2026
 - Petit Bain, Paris — Sat, 11 Jul 2026
 - La Rotonde Stalingrad, Paris — Fri, 8 May 2026
 - Petit Bain, Paris — Fri, 6 Feb 2026
@@ -24,4 +24,4 @@ Yous is a trance and techno artist based in France, tracked on soundcheck, with 
 
 Bady (FR), E.T., MIMI404
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yous-fr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yous-fr/)*

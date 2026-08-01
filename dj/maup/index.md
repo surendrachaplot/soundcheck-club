@@ -1,15 +1,13 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 24 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Mau P is a House and Tech House artist with 22 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: Downsview Park, Toronto on Fri 31 Jul.
+Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Downsview Park | Toronto |
-| Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 1 Aug 2026 | TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033 | Los Angeles |
 | Wed, 5 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -20,20 +18,22 @@ Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logg
 | Wed, 19 Aug 2026 | Pacha Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Kiesgrube | Düsseldorf |
+| Wed, 2 Sept 2026 | Pacha Ibiza | Ibiza |
+| Fri, 4 Sept 2026 | Union Park | Chicago |
 
 ## Recently played
 
+- Downsview Park, Toronto — Fri, 31 Jul 2026
+- Downsview Park, Toronto — Fri, 31 Jul 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - BRET, Amsterdam — Sun, 12 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Fabrik, Madrid — Sat, 27 Jun 2026
-- Pacha Ibiza, Ibiza — Fri, 19 Jun 2026
-- Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Joseph Capriati, Dom Dolla, Tini Gessler
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

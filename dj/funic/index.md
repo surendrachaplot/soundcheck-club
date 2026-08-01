@@ -1,6 +1,6 @@
 # FUNIC
 
-FUNIC is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
+FUNIC is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
 
 FUNIC is a trance and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside funk4, Amorelie and Armaville. Next up: Späti 4 You, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ FUNIC is a trance and house artist based in Germany, tracked on soundcheck, with
 
 funk4, Amorelie, Armaville
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funic/)*

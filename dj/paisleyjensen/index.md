@@ -1,6 +1,6 @@
 # Paisley Jensen
 
-Paisley Jensen is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at XOYO, London on Sat, 1 Aug 2026.
+Paisley Jensen is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at XOYO, London on Sat, 1 Aug 2026.
 
 Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 6 more. Often billed alongside Danny Howard, Sam Divine and Sammy Porter. Next up: XOYO, London on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ Paisley Jensen is a house and tech house artist based in United Kingdom, tracked
 
 Danny Howard, Sam Divine, Sammy Porter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*

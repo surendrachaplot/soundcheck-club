@@ -1,14 +1,13 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dumb Disco with Kimoji" on Fri, 31 Jul 2026.
+Nyapi is a music venue in Seoul with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Trip Advisor with Kaito" on Sat, 1 Aug 2026.
 
-Nyapi is a music venue in Seoul listed on soundcheck. 15 upcoming nights, with line-ups including .2ndfloor, Juncheol, ARUY and ASIANPAYDAY and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
+Nyapi is a music venue in Seoul listed on soundcheck. 14 upcoming nights, with line-ups including .2ndfloor, Juncheol, chani and Cozyhoon and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Dumb Disco with Kimoji | ARUY, ASIANPAYDAY, Cozyhoon, Imogene, Kimoji |
 | Sat, 1 Aug 2026 | Trip Advisor with Kaito | FFAN, Juncheol, Kaito, Kugel, Sunday Lee |
 | Thu, 6 Aug 2026 | FFAN & Sunday Lee | FFAN, Sunday Lee |
 | Fri, 7 Aug 2026 | Weird Circle | FFAN, JAEHAN (2), Kugel, Mimiq (2) |
@@ -18,9 +17,10 @@ Nyapi is a music venue in Seoul listed on soundcheck. 15 upcoming nights, with l
 | Sat, 15 Aug 2026 | Hills & Europa with DJ Darth | DJ Garth |
 | Sun, 16 Aug 2026 | TRICO festival showcase |  |
 | Thu, 20 Aug 2026 | 2nd floor & Kimsoyoung91 | .2ndfloor |
+| Fri, 21 Aug 2026 | Nyapi invites Di Linh (Savage Hanoi) | Di Linh, Hender, VENEBOE, dguru |
 
 ## Address
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

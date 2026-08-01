@@ -1,6 +1,6 @@
 # Rafael Delgado (ES)
 
-Rafael Delgado (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
+Rafael Delgado (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
 
 Rafael Delgado (ES) is a house and techno artist based in Brazil, tracked on soundcheck, with 14 sets logged across Barcelona and Lisbon. Often billed alongside Rod J, Omar M and Alexander Skancke. Next up: Forum Station, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Rafael Delgado (ES) is a house and techno artist based in Brazil, tracked on sou
 
 Rod J, Omar M, Alexander Skancke
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaeldelgadoes/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaeldelgadoes/)*

@@ -1,6 +1,6 @@
 # Trixie
 
-Trixie is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Forte Antenne, Rome on Sat, 1 Aug 2026.
+Trixie is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Forte Antenne, Rome on Sat, 1 Aug 2026.
 
 Trixie is a techno and acid artist tracked on soundcheck, with 7 sets logged across Brussels, London, Malta and Rome. Often billed alongside DJ Programma, Oaky Doke and Om Dream. Next up: Forte Antenne, Rome on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Trixie is a techno and acid artist tracked on soundcheck, with 7 sets logged acr
 
 DJ Programma, Oaky Doke, Om Dream
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie/)*

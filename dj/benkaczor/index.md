@@ -1,6 +1,6 @@
 # Ben Kaczor
 
-Ben Kaczor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 8 Aug 2026.
+Ben Kaczor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 8 Aug 2026.
 
 Ben Kaczor is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: De Fik Garden, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ben Kaczor is a techno and house artist tracked on soundcheck, with 50 sets logg
 
 Lb Honne, boaksi, matsssiii
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*

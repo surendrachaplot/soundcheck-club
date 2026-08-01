@@ -1,6 +1,6 @@
 # Zeigler
 
-Zeigler is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Paragon, New York City on Sat, 1 Aug 2026.
+Zeigler is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Paragon, New York City on Sat, 1 Aug 2026.
 
 Zeigler is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Montreal, Newyorkcity and Philadelphia. Often billed alongside maenad, SWIMMIE and Scruff Angel. Next up: Paragon, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Zeigler is a house and techno artist based in United States of America, tracked 
 
 maenad, SWIMMIE, Scruff Angel
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeigler/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeigler/)*

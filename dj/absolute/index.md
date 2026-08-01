@@ -1,29 +1,28 @@
 # ABSOLUTE.
 
-ABSOLUTE. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 160dl Studios, London on Fri, 31 Jul 2026.
+ABSOLUTE. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
 
-ABSOLUTE. is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Bali, Barcelona and Brighton and 13 more. Often billed alongside Bimini, Ferdiyei and Bella Claxton. Next up: 160dl Studios, London on Fri 31 Jul.
+ABSOLUTE. is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bali, Barcelona and Brighton and 13 more. Often billed alongside Bimini, Ferdiyei and Bella Claxton. Next up: Egg London, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | 160dl Studios | London |
 | Sat, 22 Aug 2026 | Egg London | London |
 
 ## Recently played
 
+- 160dl Studios, London — Fri, 31 Jul 2026
+- Ministry Of Sound, London — Sat, 4 Jul 2026
 - Vespers Club, London — Fri, 12 Jun 2026
 - Lakota, Bristol — Sat, 9 May 2026
 - Moon Club, Bristol — Sat, 9 May 2026
 - Nitsa Club, Barcelona — Sat, 14 Mar 2026
 - The Ivy, Sydney — Sat, 28 Feb 2026
 - South Bank, Brisbane — Fri, 20 Feb 2026
-- Colour Factory, London — Sat, 6 Dec 2025
-- Walpole Park, London — Sat, 19 Jul 2025
 
 ## Shares bills with
 
 Bimini, Ferdiyei, Bella Claxton
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/absolute/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/absolute/)*

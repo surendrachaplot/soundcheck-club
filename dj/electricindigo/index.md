@@ -1,6 +1,6 @@
 # Electric Indigo
 
-Electric Indigo is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Electric Indigo is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Electric Indigo is an experimental and techno artist based in Austria, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Mieko Suzuki, Ale Hop and Jasmine Guffond. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Electric Indigo is an experimental and techno artist based in Austria, tracked o
 
 Mieko Suzuki, Ale Hop, Jasmine Guffond
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/electricindigo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electricindigo/)*

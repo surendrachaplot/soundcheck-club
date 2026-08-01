@@ -1,6 +1,6 @@
 # EKATA
 
-EKATA is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Old Blue Last, London on Fri, 7 Aug 2026.
+EKATA is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Old Blue Last, London on Fri, 7 Aug 2026.
 
 EKATA is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Birmingham, Bristol and Dublin and 5 more. Often billed alongside Kodah, Rommek and AnD. Next up: The Old Blue Last, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ EKATA is an electro and techno artist based in United Kingdom, tracked on soundc
 
 Kodah, Rommek, AnD
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekata/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ekata/)*

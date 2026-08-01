@@ -1,6 +1,6 @@
 # moody.cn.man
 
-moody.cn.man is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Jama, Toronto on Sat, 8 Aug 2026.
+moody.cn.man is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Jama, Toronto on Sat, 8 Aug 2026.
 
 moody.cn.man is a club and bass artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside Kai (TO), Critter and Love Letters. Next up: The Jama, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ moody.cn.man is a club and bass artist based in Canada, tracked on soundcheck, w
 
 Kai (TO), Critter, Love Letters
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moody.cn.man/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moody.cn.man/)*

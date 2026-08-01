@@ -1,6 +1,6 @@
 # Beard-o-Bees
 
-Beard-o-Bees is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Black Box, Denver on Thu, 6 Aug 2026.
+Beard-o-Bees is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Black Box, Denver on Thu, 6 Aug 2026.
 
 Beard-o-Bees is a techno and bass artist based in United States of America, tracked on soundcheck, with 2 sets logged across Denver and Philadelphia. Often billed alongside Kilowatts, Lusine and Max Cooper. Next up: The Black Box, Denver on Thu 6 Aug.
 
@@ -18,4 +18,4 @@ Beard-o-Bees is a techno and bass artist based in United States of America, trac
 
 Kilowatts, Lusine, Max Cooper
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beard-o-bees/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beard-o-bees/)*

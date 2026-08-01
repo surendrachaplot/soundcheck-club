@@ -1,6 +1,6 @@
 # Hiatt dB
 
-Hiatt dB is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at public records, New York City on Sat, 15 Aug 2026.
+Hiatt dB is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at public records, New York City on Sat, 15 Aug 2026.
 
 Hiatt dB is a house and balearic artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin, Montreal and Newyorkcity. Often billed alongside JKriv, Alex McCracken and Alina (MTL). Next up: public records, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Hiatt dB is a house and balearic artist based in United States of America, track
 
 JKriv, Alex McCracken, Alina (MTL)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hiattdb/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiattdb/)*

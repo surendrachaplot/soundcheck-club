@@ -1,6 +1,6 @@
 # Ricardo Garduno
 
-Ricardo Garduno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Mexico City on Sat, 1 Aug 2026.
+Ricardo Garduno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Mexico City on Sat, 1 Aug 2026.
 
 Ricardo Garduno is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bangkok, Berlin and Madrid and 3 more. Often billed alongside Marco Ramos, Celice Monnette and Kevin Matto. Next up: TBA, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ricardo Garduno is a techno and house artist tracked on soundcheck, with 33 sets
 
 Marco Ramos, Celice Monnette, Kevin Matto
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogarduno/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogarduno/)*

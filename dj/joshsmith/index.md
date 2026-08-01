@@ -1,6 +1,6 @@
 # Josh Smith
 
-Josh Smith is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Last Arch, London on Sun, 16 Aug 2026.
+Josh Smith is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Last Arch, London on Sun, 16 Aug 2026.
 
 Josh Smith is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside PiNG (UK), Tenzin and Ellzo. Next up: Last Arch, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Josh Smith is a minimal and house artist based in United Kingdom, tracked on sou
 
 PiNG (UK), Tenzin, Ellzo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsmith/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsmith/)*

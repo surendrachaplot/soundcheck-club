@@ -1,6 +1,6 @@
 # Mark Francis
 
-Mark Francis is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The BBE Store, London on Sat, 1 Aug 2026.
+Mark Francis is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The BBE Store, London on Sat, 1 Aug 2026.
 
 Mark Francis is a deep house and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Houston, London and Miami and 2 more. Often billed alongside Timmy Regisford, merlin bobb and DJ Beloved. Next up: The BBE Store, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mark Francis is a deep house and house artist based in United States of America,
 
 Timmy Regisford, merlin bobb, DJ Beloved
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markfrancis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markfrancis/)*

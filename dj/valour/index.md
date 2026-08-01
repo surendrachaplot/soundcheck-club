@@ -1,18 +1,18 @@
 # VALOUR
 
-VALOUR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
+VALOUR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at MH5 Rooftop, Munich on Sat, 8 Aug 2026.
 
-VALOUR is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Dan Mlinar, CHOOSE WHITE and Mlinar. Next up: Birgit, Berlin on Fri 31 Jul.
+VALOUR is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Dan Mlinar, CHOOSE WHITE and Mlinar. Next up: MH5 Rooftop, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Birgit | Berlin |
 | Sat, 8 Aug 2026 | MH5 Rooftop | Munich |
 
 ## Recently played
 
+- Birgit, Berlin — Fri, 31 Jul 2026
 - MH5 Rooftop, Munich — Sat, 11 Jul 2026
 - MH5 Rooftop, Munich — Sat, 4 Jul 2026
 - Lieberscholli, Munich — Sun, 14 Jun 2026
@@ -20,10 +20,9 @@ VALOUR is a techno and house artist tracked on soundcheck, with 38 sets logged a
 - MH5 Rooftop, Munich — Sat, 11 Apr 2026
 - MH5 Rooftop, Munich — Sat, 21 Mar 2026
 - MH5 Rooftop, Munich — Wed, 31 Dec 2025
-- MH5 Rooftop, Munich — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Dan Mlinar, CHOOSE WHITE, Mlinar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valour/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valour/)*

@@ -1,6 +1,6 @@
 # The Jericho Cafe (Oxford)
 
-The Jericho Cafe (Oxford) is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Harmonix presents Ruby Ruby b2b Oscar (MITHA), & Obscure" on Sat, 15 Aug 2026.
+The Jericho Cafe (Oxford) is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Harmonix presents Ruby Ruby b2b Oscar (MITHA), & Obscure" on Sat, 15 Aug 2026.
 
 The Jericho Cafe (Oxford) is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Oscar (MITHA) and Ruby Ruby. Browse upcoming dates, start times and who's playing. 112 Walton St, Oxford OX2 6AJ.
 
@@ -14,4 +14,4 @@ The Jericho Cafe (Oxford) is a music venue in London listed on soundcheck. 1 upc
 
 112 Walton St, Oxford OX2 6AJ, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jericho-cafe-oxford/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jericho-cafe-oxford/)*

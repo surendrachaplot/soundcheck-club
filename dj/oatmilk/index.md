@@ -1,6 +1,6 @@
 # OatMilk
 
-OatMilk is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at SOBs, New York City on Fri, 7 Aug 2026.
+OatMilk is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SOBs, New York City on Fri, 7 Aug 2026.
 
 OatMilk is an electro and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Newyorkcity and Sydney. Often billed alongside Andrew Wowk, Fiona (2) and SAGAN. Next up: SOBs, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ OatMilk is an electro and house artist based in Germany, tracked on soundcheck, 
 
 Andrew Wowk, Fiona (2), SAGAN
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*

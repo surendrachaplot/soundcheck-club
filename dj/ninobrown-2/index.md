@@ -1,6 +1,6 @@
 # Nino Brown (2)
 
-Nino Brown (2) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
+Nino Brown (2) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
 
 Nino Brown (2) is a club and techno artist tracked on soundcheck, with 62 sets logged across Berlin, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Young Teesh, Bambii and Chinelo. Next up: Geary Avenue Warehouse Project, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nino Brown (2) is a club and techno artist tracked on soundcheck, with 62 sets l
 
 Young Teesh, Bambii, Chinelo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown-2/)*

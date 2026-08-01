@@ -1,6 +1,6 @@
 # NEVYALC
 
-NEVYALC is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
+NEVYALC is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
 
 NEVYALC is a techno and industrial artist based in Malta, tracked on soundcheck, with 41 sets logged across Budapest and Malta. Often billed alongside TRÏÏSS, Carl Lautier and Daniel Blade. Next up: Liquid Club, Malta on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ NEVYALC is a techno and industrial artist based in Malta, tracked on soundcheck,
 
 TRÏÏSS, Carl Lautier, Daniel Blade
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nevyalc/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevyalc/)*

@@ -1,18 +1,18 @@
 # Frankey & Sandrino
 
-Frankey & Sandrino is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Fri, 31 Jul 2026.
+Frankey & Sandrino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat, 5 Sept 2026.
 
-Frankey & Sandrino are a techno and house duo based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Arutani and Britta Arnold. Next up: Kater, Berlin on Fri 31 Jul.
+Frankey & Sandrino are a techno and house duo based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Arutani and Britta Arnold. Next up: Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Kater | Berlin |
 | Sat, 5 Sept 2026 | Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1. | Krakow |
 
 ## Recently played
 
+- Kater, Berlin — Fri, 31 Jul 2026
 - TBA - Casa Blanca, Microcentro, Buenos Aires — Fri, 10 Jul 2026
 - Barco Sound House, Madrid — Sat, 20 Jun 2026
 - BORIS CLUB, Barcelona — Fri, 19 Jun 2026
@@ -20,10 +20,9 @@ Frankey & Sandrino are a techno and house duo based in Germany, tracked on sound
 - Stereo, Montreal — Sat, 28 Feb 2026
 - Ritter Butzke, Berlin — Fri, 27 Feb 2026
 - Gewölbe, Cologne — Sat, 17 Jan 2026
-- Kino Roland, Zurich — Sat, 20 Dec 2025
 
 ## Shares bills with
 
 Musumeci, Arutani, Britta Arnold
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*

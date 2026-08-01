@@ -1,14 +1,13 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+Ayanna Heaven is a Dancehall and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Silence Please, New York City on Tue, 4 Aug 2026.
 
-Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
+Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Silence Please, Newyorkcity on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Tue, 4 Aug 2026 | Silence Please | New York City |
 | Sat, 8 Aug 2026 | Night Tales Loft | London |
 | Sat, 8 Aug 2026 | Night Tales Loft | London |
@@ -16,6 +15,7 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City — Fri, 31 Jul 2026
 - Le Bain, New York City — Wed, 29 Jul 2026
 - Signal, New York City — Sun, 26 Jul 2026
 - public records, New York City — Sat, 18 Jul 2026
@@ -23,10 +23,9 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 - Le Bain, New York City — Wed, 8 Jul 2026
 - Silence Please, New York City — Wed, 1 Jul 2026
 - Πεδίον του Άρεως / Pedion Areos, Athens — Fri, 26 Jun 2026
-- Sunset Park Rooftop, New York City — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Honey Bun, Akanbi, Lovie
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*

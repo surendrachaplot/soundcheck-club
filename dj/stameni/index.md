@@ -1,6 +1,6 @@
 # Stameni
 
-Stameni is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
+Stameni is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
 
 Stameni is a techno and house artist based in Serbia, tracked on soundcheck, with 18 sets logged across Belgrade. Often billed alongside laccotti, Monorail and Moraitov. Next up: Matrez - Warehouse, Belgrade on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Stameni is a techno and house artist based in Serbia, tracked on soundcheck, wit
 
 laccotti, Monorail, Moraitov
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*

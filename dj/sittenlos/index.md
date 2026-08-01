@@ -1,6 +1,6 @@
 # SITTENLOS
 
-SITTENLOS is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
+SITTENLOS is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
 
 SITTENLOS is a hardcore and trance artist tracked on soundcheck, with 12 sets logged across Cologne. Often billed alongside ADEMES, FUMI and Karamustan. Next up: Odonien, Cologne on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ SITTENLOS is a hardcore and trance artist tracked on soundcheck, with 12 sets lo
 
 ADEMES, FUMI, Karamustan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sittenlos/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sittenlos/)*

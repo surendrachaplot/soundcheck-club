@@ -1,6 +1,6 @@
 # Shane One
 
-Shane One is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at House of Yes, New York City on Sat, 1 Aug 2026.
+Shane One is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at House of Yes, New York City on Sat, 1 Aug 2026.
 
 Shane One is a house and disco artist based in United States of America, tracked on soundcheck, with 29 sets logged across Berlin, Newyorkcity and Sanfrancisco. Often billed alongside Anthony Mansfield, Galen and Greg Paulus. Next up: House of Yes, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Shane One is a house and disco artist based in United States of America, tracked
 
 Anthony Mansfield, Galen, Greg Paulus
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneone/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneone/)*

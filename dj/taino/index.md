@@ -1,6 +1,6 @@
 # Täino
 
-Täino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
+Täino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
 
 Täino is a house and techno artist based in Czech Republic, tracked on soundcheck, with 35 sets logged across Prague. Often billed alongside Roman Rai, Ezwell and Rico Casazza. Next up: Bike Jesus, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Täino is a house and techno artist based in Czech Republic, tracked on soundche
 
 Roman Rai, Ezwell, Rico Casazza
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taino/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taino/)*

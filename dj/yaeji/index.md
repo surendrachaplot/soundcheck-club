@@ -1,6 +1,6 @@
 # Yaeji
 
-Yaeji is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nitsa Club, Barcelona on Sat, 1 Aug 2026.
+Yaeji is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Nitsa Club, Barcelona on Sat, 1 Aug 2026.
 
 Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, HiTech and Young Marco. Next up: Nitsa Club, Barcelona on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Yaeji is a house and techno artist based in United States of America, tracked on
 
 Bambii, HiTech, Young Marco
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*

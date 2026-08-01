@@ -1,6 +1,6 @@
 # AOKI takamasa
 
-AOKI takamasa is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circus Osaka, Osaka on Sat, 1 Aug 2026.
+AOKI takamasa is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Circus Osaka, Osaka on Sat, 1 Aug 2026.
 
 AOKI takamasa is a techno and minimal artist tracked on soundcheck, with 107 sets logged across Bali, Bucharest, Kyoto and Osaka and 2 more. Often billed alongside Kohei, Loe (JP) and Endurance. Next up: Circus Osaka, Osaka on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ AOKI takamasa is a techno and minimal artist tracked on soundcheck, with 107 set
 
 Kohei, Loe (JP), Endurance
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*

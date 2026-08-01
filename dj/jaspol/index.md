@@ -1,0 +1,17 @@
+# Jaspol
+
+Jaspol is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+
+Jaspol is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Bjarki, Byron Yeates and Cybersex. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 2 Aug 2026 | TILLATEC | Amsterdam |
+
+## Shares bills with
+
+Bjarki, Byron Yeates, Cybersex
+
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspol/)*

@@ -1,6 +1,6 @@
 # Camiel Daamen
 
-Camiel Daamen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spook Club, Valencia on Sat, 1 Aug 2026.
+Camiel Daamen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Spook Club, Valencia on Sat, 1 Aug 2026.
 
 Camiel Daamen is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Ibiza and Valencia. Often billed alongside Caballeri, Pau Pérez and Pizzicatto. Next up: Spook Club, Valencia on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Camiel Daamen is a house and tech house artist based in Netherlands, tracked on 
 
 Caballeri, Pau Pérez, Pizzicatto
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camieldaamen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camieldaamen/)*

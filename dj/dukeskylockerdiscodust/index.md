@@ -1,6 +1,6 @@
 # Duke Skylocker (Disco Dust)
 
-Duke Skylocker (Disco Dust) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fünk, Mexico City on Thu, 6 Aug 2026.
+Duke Skylocker (Disco Dust) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fünk, Mexico City on Thu, 6 Aug 2026.
 
 Duke Skylocker (Disco Dust) is a house and disco artist based in Argentina, tracked on soundcheck, with 97 sets logged across Mexicocity. Often billed alongside Miss Voltaghe, Lake Chalco and Pablo Miya. Next up: Fünk, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Duke Skylocker (Disco Dust) is a house and disco artist based in Argentina, trac
 
 Miss Voltaghe, Lake Chalco, Pablo Miya
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeskylockerdiscodust/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeskylockerdiscodust/)*

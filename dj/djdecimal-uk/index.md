@@ -1,6 +1,6 @@
 # DJ Decimal
 
-DJ Decimal is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Addington Park, London on Sat, 8 Aug 2026.
+DJ Decimal is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
 
 DJ Decimal is an afro house and house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Supa D, Beezo and Pioneer. Next up: Addington Park, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DJ Decimal is an afro house and house artist tracked on soundcheck, with 16 sets
 
 Supa D, Beezo, Pioneer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*

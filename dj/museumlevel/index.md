@@ -1,6 +1,6 @@
 # Museum Level
 
-Museum Level is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bastet, Philadelphia on Fri, 7 Aug 2026.
+Museum Level is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bastet, Philadelphia on Fri, 7 Aug 2026.
 
 Museum Level is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston and Philadelphia. Often billed alongside Firestone, Gee Dee and JEWELSSEA. Next up: Bastet, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Museum Level is a house and techno artist based in United States of America, tra
 
 Firestone, Gee Dee, JEWELSSEA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/museumlevel/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/museumlevel/)*

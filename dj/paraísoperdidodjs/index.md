@@ -1,6 +1,6 @@
 # Paraíso Perdido Djs
 
-Paraíso Perdido Djs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Sao Paulo on Sat, 22 Aug 2026.
+Paraíso Perdido Djs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Sao Paulo on Sat, 22 Aug 2026.
 
 Paraíso Perdido Djs is a house and disco artist based in Brazil, tracked on soundcheck, with 35 sets logged across Saopaulo. Often billed alongside Paulete Lindacelva, Alma Negrot and AmadoPeace. Next up: TBA, Saopaulo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Paraíso Perdido Djs is a house and disco artist based in Brazil, tracked on sou
 
 Paulete Lindacelva, Alma Negrot, AmadoPeace
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paraísoperdidodjs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paraísoperdidodjs/)*

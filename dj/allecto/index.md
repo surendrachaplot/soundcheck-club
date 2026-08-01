@@ -1,6 +1,6 @@
 # Allecto
 
-Allecto is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
+Allecto is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gaffe, London on Sat, 1 Aug 2026.
 
 Allecto is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Copenhagen, Glasgow, London and Paris and 1 more. Often billed alongside OL Drift, Alicia (UK) and Syz. Next up: Gaffe, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Allecto is a bass and techno artist based in United Kingdom, tracked on soundche
 
 OL Drift, Alicia (UK), Syz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allecto/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allecto/)*

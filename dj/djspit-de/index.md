@@ -1,18 +1,18 @@
 # DJ Spit
 
-DJ Spit is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+DJ Spit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-DJ Spit is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside DJ MELL G, DJ Babyblade and EliaHaze. Next up: Else, Berlin on Fri 31 Jul.
+DJ Spit is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside DJ MELL G, DJ Babyblade and EliaHaze. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Else | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played
 
+- Else, Berlin — Fri, 31 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
 - Garagen, Cologne — Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ DJ Spit is a techno and house artist tracked on soundcheck, with 142 sets logged
 - Tokonoma Club, Frankfurt — Sat, 20 Jun 2026
 - CLUB RAUM, Amsterdam — Sat, 13 Jun 2026
 - Fitzroy, Berlin — Fri, 12 Jun 2026
-- KREUZWERK, Berlin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 DJ MELL G, DJ Babyblade, EliaHaze
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-de/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-de/)*

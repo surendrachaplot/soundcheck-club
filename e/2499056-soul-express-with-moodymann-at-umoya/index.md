@@ -1,6 +1,6 @@
 # Soul Express with Moodymann at Umoya
 
-Soul Express with Moodymann at Umoya on Sun 20 Sept, Naples. 1 act on the bill: Moodymann. Preview the line-up and save it on soundcheck.
+Soul Express with Moodymann at Umoya on Sun 20 Sept, Naples. 7 acts on the bill: Giuseppe Fava, KARLOVE, Luca Sorrentini and Moodymann and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ Soul Express with Moodymann at Umoya on Sun 20 Sept, Naples. 1 act on the bill: 
 
 ## Line-up
 
+- Giuseppe Fava
+- KARLOVE
+- Luca Sorrentini
 - Moodymann
+- Mystic Jungle
+- Obbi
+- ThanksMate
 
 *Source: [soundcheck](https://soundcheck.club/e/2499056-soul-express-with-moodymann-at-umoya/)*

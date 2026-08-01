@@ -1,6 +1,6 @@
 # Boxpark Croydon
 
-Boxpark Croydon is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Thirsty Thursdays" on Thu, 6 Aug 2026.
+Boxpark Croydon is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Thirsty Thursdays" on Thu, 6 Aug 2026.
 
 Boxpark Croydon is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 99 George St, London CR0 1LD, United Kingdom.
 
@@ -17,4 +17,4 @@ Boxpark Croydon is a music venue in London listed on soundcheck. 4 upcoming nigh
 
 99 George St, London CR0 1LD, United Kingdom, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-croydon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-croydon/)*

@@ -1,6 +1,6 @@
 # Lucci (CA)
 
-Lucci (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
+Lucci (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
 
 Lucci (CA) is a techno and house artist tracked on soundcheck, with 19 sets logged across Sanfrancisco and Vancouver. Often billed alongside AWood, Bronsön and Lord Loubbit. Next up: TBA - 3rd & Ontario, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Lucci (CA) is a techno and house artist tracked on soundcheck, with 19 sets logg
 
 AWood, Bronsön, Lord Loubbit
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucci/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucci/)*

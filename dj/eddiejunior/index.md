@@ -1,6 +1,6 @@
 # Eddie Junior
 
-Eddie Junior is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
+Eddie Junior is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
 
 Eddie Junior is a funk / soul and house artist tracked on soundcheck, with 3 sets logged across Losangeles and Sandiego. Often billed alongside AIRS, Alex Ho (US) and Chase Aldridge. Next up: Elysian Park, Losangeles on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Eddie Junior is a funk / soul and house artist tracked on soundcheck, with 3 set
 
 AIRS, Alex Ho (US), Chase Aldridge
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiejunior/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiejunior/)*

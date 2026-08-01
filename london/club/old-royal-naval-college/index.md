@@ -1,14 +1,13 @@
 # Old Royal Naval College
 
-Old Royal Naval College is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "The Kooks Inside In / Inside Out 20 year anniversary" on Fri, 31 Jul 2026.
+Old Royal Naval College is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dom Dolla on the Thames" on Sat, 1 Aug 2026.
 
-Old Royal Naval College is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Adriatique, CARISTA, Carla Martinez and Catching Flies and 2 more. Browse upcoming dates, start times and who's playing. London SE10 9NN.
+Old Royal Naval College is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Adriatique, CARISTA, Carla Martinez and Catching Flies and 2 more. Browse upcoming dates, start times and who's playing. London SE10 9NN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | The Kooks Inside In / Inside Out 20 year anniversary |  |
 | Sat, 1 Aug 2026 | Dom Dolla on the Thames | Carla Martinez, Dom Dolla, Jordan Brando, SG Lewis |
 | Sat, 1 Aug 2026 | Dom dolla |  |
 | Sun, 2 Aug 2026 | Peggy Gou on the Thames | Daisybelle, Kelly Lee Owens, MPH (1), Peggy Gou, Prospa |
@@ -22,4 +21,4 @@ Old Royal Naval College is a music venue in London listed on soundcheck. 9 upcom
 
 London SE10 9NN, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/old-royal-naval-college/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/old-royal-naval-college/)*

@@ -1,6 +1,6 @@
 # Nemec
 
-Nemec is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Sat, 1 Aug 2026.
+Nemec is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Sat, 1 Aug 2026.
 
 Nemec is a house and minimal artist based in Colombia, tracked on soundcheck, with 11 sets logged across Barcelona and Madrid. Often billed alongside Bttologic, F.E.X and John Karam. Next up: TBA - Backstage - Carrer Casp, 33, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nemec is a house and minimal artist based in Colombia, tracked on soundcheck, wi
 
 Bttologic, F.E.X, John Karam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nemec/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nemec/)*

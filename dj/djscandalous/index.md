@@ -1,6 +1,6 @@
 # DJ Scandalous
 
-DJ Scandalous is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lion's Den, Miami on Sun, 2 Aug 2026.
+DJ Scandalous is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lion's Den, Miami on Sun, 2 Aug 2026.
 
 DJ Scandalous is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside ERNO (US), Eastside Jon and John Collins (US). Next up: Lion's Den, Miami on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ DJ Scandalous is a techno and house artist based in United States of America, tr
 
 ERNO (US), Eastside Jon, John Collins (US)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djscandalous/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djscandalous/)*

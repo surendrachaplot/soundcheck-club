@@ -1,6 +1,6 @@
 # Priestland (2)
 
-Priestland (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mezzanine - Tooting, London on Fri, 21 Aug 2026.
+Priestland (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mezzanine - Tooting, London on Fri, 21 Aug 2026.
 
 Priestland (2) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Ibiza and London. Often billed alongside Nelson Reis, Kassita and Alex Delmar. Next up: Mezzanine - Tooting, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Priestland (2) is a garage and house artist based in United Kingdom, tracked on 
 
 Nelson Reis, Kassita, Alex Delmar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/priestland-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priestland-2/)*

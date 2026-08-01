@@ -1,6 +1,6 @@
 # ANKKH
 
-ANKKH is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Eden, Ibiza on Tue, 4 Aug 2026.
+ANKKH is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Eden, Ibiza on Tue, 4 Aug 2026.
 
 ANKKH is a techno and hardcore artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Ibiza and London and 5 more. Often billed alongside Dshock, ABYSS 369 and samJ. Next up: Eden, Ibiza on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ ANKKH is a techno and hardcore artist based in Italy, tracked on soundcheck, wit
 
 Dshock, ABYSS 369, samJ
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*

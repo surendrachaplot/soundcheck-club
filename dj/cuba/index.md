@@ -1,6 +1,6 @@
 # Cuba
 
-Cuba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
+Cuba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
 
 Cuba is a house and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Lisbon, Porto and Prague. Often billed alongside Bazooka Joe, Lillou and DJ Lumiere. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Cuba is a house and tech house artist tracked on soundcheck, with 21 sets logged
 
 Bazooka Joe, Lillou, DJ Lumiere
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba/)*

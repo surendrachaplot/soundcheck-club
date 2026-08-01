@@ -1,6 +1,6 @@
 # Impulsive Behaviour
 
-Impulsive Behaviour is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Impulsive Behaviour is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Geneva and Lisbon and 6 more. Often billed alongside Adrian Mills, Cloudy and AnD. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, tra
 
 Adrian Mills, Cloudy, AnD
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/impulsivebehaviour/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/impulsivebehaviour/)*

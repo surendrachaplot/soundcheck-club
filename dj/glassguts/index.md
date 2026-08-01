@@ -1,6 +1,6 @@
 # Glass Guts
 
-Glass Guts is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Sinclair, Boston on Sat, 1 Aug 2026.
+Glass Guts is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Sinclair, Boston on Sat, 1 Aug 2026.
 
 Glass Guts is a club and garage artist tracked on soundcheck, with 6 sets logged across Boston. Often billed alongside Louie Lanka, Sinhaus and HypeLies. Next up: The Sinclair, Boston on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Glass Guts is a club and garage artist tracked on soundcheck, with 6 sets logged
 
 Louie Lanka, Sinhaus, HypeLies
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glassguts/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glassguts/)*

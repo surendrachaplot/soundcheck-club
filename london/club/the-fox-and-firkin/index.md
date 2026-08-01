@@ -1,14 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Mega Mega" on Fri, 31 Jul 2026.
+The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Bizarre Trax Open Air" on Sat, 1 Aug 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Mega Mega | Moina Moin, Phoebe Massey, Tekhole, veryt |
 | Sat, 1 Aug 2026 | Bizarre Trax Open Air | 3 Minds, B.Love, Ethel, Jhobei, Melody RA+RE, Oliver.r, Sam Bangura, ZEUS |
 | Thu, 6 Aug 2026 | Jamaican Independence Day Celebration with Rum 'N' Bass & DJ Croc |  |
 | Fri, 7 Aug 2026 | Congo Natty | Congo Natty |
@@ -18,9 +17,10 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming 
 | Mon, 17 Aug 2026 | Eek-A-Mouse |  |
 | Fri, 21 Aug 2026 | Havana Meets Kingston Sound System |  |
 | Sat, 22 Aug 2026 | Dubtendo Day Party |  |
+| Thu, 27 Aug 2026 | Dende Nation Pre Carnival Night with Reggae Choir |  |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

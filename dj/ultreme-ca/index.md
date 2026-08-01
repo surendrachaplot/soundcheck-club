@@ -1,6 +1,6 @@
 # Ultreme
 
-Ultreme is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vino Disco, Montreal on Sat, 22 Aug 2026.
+Ultreme is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vino Disco, Montreal on Sat, 22 Aug 2026.
 
 Ultreme is a house and afro house artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside ultreme, Andie and BisouBizou. Next up: Vino Disco, Montreal on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Ultreme is a house and afro house artist based in Canada, tracked on soundcheck,
 
 ultreme, Andie, BisouBizou
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultreme-ca/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultreme-ca/)*

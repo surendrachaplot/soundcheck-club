@@ -1,6 +1,6 @@
 # Mike Who
 
-Mike Who is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club 77, Sydney on Sat, 8 Aug 2026.
+Mike Who is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club 77, Sydney on Sat, 8 Aug 2026.
 
 Mike Who is a house and balearic artist based in Australia, tracked on soundcheck, with 50 sets logged across Amsterdam, Bangkok, London and Melbourne and 5 more. Often billed alongside Evie, Daniel Lupica and Deepa. Next up: Club 77, Sydney on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mike Who is a house and balearic artist based in Australia, tracked on soundchec
 
 Evie, Daniel Lupica, Deepa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikewho/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikewho/)*

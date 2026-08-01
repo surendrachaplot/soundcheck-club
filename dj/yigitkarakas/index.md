@@ -1,6 +1,6 @@
 # Yigit Karakas
 
-Yigit Karakas is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul on Sat, 1 Aug 2026.
+Yigit Karakas is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul on Sat, 1 Aug 2026.
 
 Yigit Karakas is a progressive house and house artist based in Turkey, tracked on soundcheck, with 12 sets logged across Istanbul. Often billed alongside Batikan Tanrikulu, Chris Avantgarde and Adam Sellouk. Next up: TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Yigit Karakas is a progressive house and house artist based in Turkey, tracked o
 
 Batikan Tanrikulu, Chris Avantgarde, Adam Sellouk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yigitkarakas/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yigitkarakas/)*

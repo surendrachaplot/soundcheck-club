@@ -1,8 +1,8 @@
 # BLONDEX
 
-BLONDEX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
+BLONDEX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
 
-BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Doug Bass, Nuria Ghia and Amelie Lens. Next up: Garage Klub, Antwerp on Sat 5 Sept.
+BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 10 more. Often billed alongside Doug Bass, Nuria Ghia and Amelie Lens. Next up: Garage Klub, Antwerp on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Garage Klub | Antwerp |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
+| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Doug Bass, Nuria Ghia, Amelie Lens
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*

@@ -1,6 +1,6 @@
 # Zissou
 
-Zissou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Czech Boat, Prague on Sat, 1 Aug 2026.
+Zissou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Czech Boat, Prague on Sat, 1 Aug 2026.
 
 Zissou is a house and techno artist based in Czech Republic, tracked on soundcheck, with 35 sets logged across Lyon and Prague. Often billed alongside Biodan, Ondrej K and Identic. Next up: Czech Boat, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Zissou is a house and techno artist based in Czech Republic, tracked on soundche
 
 Biodan, Ondrej K, Identic
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zissou/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zissou/)*

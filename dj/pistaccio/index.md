@@ -1,6 +1,6 @@
 # Pistaccio
 
-Pistaccio is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 1 Aug 2026.
+Pistaccio is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 1 Aug 2026.
 
 Pistaccio is a house and tech house artist based in Australia, tracked on soundcheck, with 21 sets logged across Kyoto, Melbourne, Osaka and Sydney and 2 more. Often billed alongside MTTY, Ari Kiko and DJ Niamh. Next up: Carousel Bar & Ballroom, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Pistaccio is a house and tech house artist based in Australia, tracked on soundc
 
 MTTY, Ari Kiko, DJ Niamh
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaccio/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaccio/)*

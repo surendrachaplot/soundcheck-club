@@ -1,6 +1,6 @@
 # Revolver
 
-Revolver is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ShitKid (SE) // REVOLVER X ØYANATT" on Wed, 12 Aug 2026.
+Revolver is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ShitKid (SE) // REVOLVER X ØYANATT" on Wed, 12 Aug 2026.
 
 Revolver is a music venue in Oslo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Møllergata 32; 0179 Oslo; Norway.
 
@@ -15,4 +15,4 @@ Revolver is a music venue in Oslo listed on soundcheck. 2 upcoming nights. Brows
 
 Møllergata 32; 0179 Oslo; Norway, Oslo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revolver/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revolver/)*

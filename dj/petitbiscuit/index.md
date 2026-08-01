@@ -1,13 +1,14 @@
 # Petit Biscuit
 
-Petit Biscuit is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Avalon Hollywood, Los Angeles on Sat, 17 Oct 2026.
+Petit Biscuit is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Avalon Hollywood, Los Angeles on Sat, 17 Oct 2026.
 
-Petit Biscuit is a house and electro artist tracked on soundcheck, with 3 sets logged across Losangeles, Nantes and Sydney. Often billed alongside Hutcher and Jofes. Next up: Avalon Hollywood, Losangeles on Sat 17 Oct.
+Petit Biscuit is a house and electro artist tracked on soundcheck, with 4 sets logged across Losangeles, Nantes and Sydney. Often billed alongside Forester, Hutcher and Jofes. Next up: Avalon Hollywood, Losangeles on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Avalon Hollywood | Los Angeles |
 | Sat, 17 Oct 2026 | Avalon Hollywood | Los Angeles |
 
 ## Recently played
@@ -17,6 +18,6 @@ Petit Biscuit is a house and electro artist tracked on soundcheck, with 3 sets l
 
 ## Shares bills with
 
-Hutcher, Jofes
+Forester, Hutcher, Jofes
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*

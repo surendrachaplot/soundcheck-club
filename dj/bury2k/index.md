@@ -1,6 +1,6 @@
 # BURY2K
 
-BURY2K is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rote Sonne, Munich on Sat, 1 Aug 2026.
+BURY2K is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rote Sonne, Munich on Sat, 1 Aug 2026.
 
 BURY2K is a techno and tech house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Hamburg and Leipzig and 3 more. Often billed alongside DJ MELL G, 1000kJulez and 5euroGoldi. Next up: Rote Sonne, Munich on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ BURY2K is a techno and tech house artist based in Germany, tracked on soundcheck
 
 DJ MELL G, 1000kJulez, 5euroGoldi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bury2k/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bury2k/)*

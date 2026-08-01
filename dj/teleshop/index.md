@@ -1,6 +1,6 @@
 # Teleshop
 
-Teleshop is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
+Teleshop is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
 Teleshop is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside djvonnebenan, Ben Derris and Benleh. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Teleshop is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 djvonnebenan, Ben Derris, Benleh
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teleshop/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teleshop/)*

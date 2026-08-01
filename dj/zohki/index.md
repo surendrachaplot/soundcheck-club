@@ -1,6 +1,6 @@
 # Zohki
 
-Zohki is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Zohki is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Zohki is a tech house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Dusseldorf. Often billed alongside Khaan, Matthias Tanzmann and AARON GEHRIG. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Zohki is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 Khaan, Matthias Tanzmann, AARON GEHRIG
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zohki/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zohki/)*

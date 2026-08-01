@@ -1,6 +1,6 @@
 # Kafox
 
-Kafox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Skin Club, Madrid on Sat, 1 Aug 2026.
+Kafox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Skin Club, Madrid on Sat, 1 Aug 2026.
 
 Kafox is a techno and trance artist based in Brazil, tracked on soundcheck, with 18 sets logged across Lisbon, Madrid and Porto. Often billed alongside GAIVEU, Destt and Madson Carpenter. Next up: Skin Club, Madrid on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kafox is a techno and trance artist based in Brazil, tracked on soundcheck, with
 
 GAIVEU, Destt, Madson Carpenter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kafox/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kafox/)*

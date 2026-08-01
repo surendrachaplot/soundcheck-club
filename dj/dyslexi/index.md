@@ -1,6 +1,6 @@
 # Dyslexi
 
-Dyslexi is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at frachtkante, Berlin on Sat, 1 Aug 2026.
+Dyslexi is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at frachtkante, Berlin on Sat, 1 Aug 2026.
 
 Dyslexi is a house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Berunth, Yukon Nature and DJ Q'Burn. Next up: frachtkante, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Dyslexi is a house artist based in Germany, tracked on soundcheck, with 9 sets l
 
 Berunth, Yukon Nature, DJ Q'Burn
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyslexi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyslexi/)*

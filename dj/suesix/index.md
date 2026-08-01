@@ -1,6 +1,6 @@
 # SUE SIX
 
-SUE SIX is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Poolen, Copenhagen on Sat, 1 Aug 2026.
+SUE SIX is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Poolen, Copenhagen on Sat, 1 Aug 2026.
 
 SUE SIX is an electronic artist tracked on soundcheck, with 17 sets logged across Copenhagen. Often billed alongside øre snu, Følsom and DJ Lukey. Next up: Poolen, Copenhagen on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SUE SIX is an electronic artist tracked on soundcheck, with 17 sets logged acros
 
 øre snu, Følsom, DJ Lukey
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suesix/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suesix/)*

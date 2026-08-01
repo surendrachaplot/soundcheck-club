@@ -1,6 +1,6 @@
 # peppi
 
-peppi is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Oase, Rotterdam on Sat, 8 Aug 2026.
+peppi is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Oase, Rotterdam on Sat, 8 Aug 2026.
 
 peppi is a downtempo and deep house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Rotterdam. Often billed alongside LI-YU, Armand and Ben Diggins. Next up: Oase, Rotterdam on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ peppi is a downtempo and deep house artist based in Netherlands, tracked on soun
 
 LI-YU, Armand, Ben Diggins
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peppi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peppi/)*

@@ -1,6 +1,6 @@
 # Riko Dan
 
-Riko Dan is a Grime and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Orange Room, London on Sat, 1 Aug 2026.
+Riko Dan is a Grime and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Orange Room, London on Sat, 1 Aug 2026.
 
 Riko Dan is a grime and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Bristol, Brussels, Copenhagen and Leeds and 4 more. Often billed alongside Slimzee, SGT Pokes and MJK. Next up: Orange Room, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Riko Dan is a grime and garage artist based in United Kingdom, tracked on soundc
 
 Slimzee, SGT Pokes, MJK
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*

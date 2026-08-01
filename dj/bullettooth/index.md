@@ -1,14 +1,13 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 18 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+bullet tooth is a Garage and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at BRET, Amsterdam on Fri, 14 Aug 2026.
 
-bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Burgess Park, London on Fri 31 Jul.
+bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: BRET, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Burgess Park | London |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Thu, 20 Aug 2026 | Mondo | Madrid |
@@ -20,9 +19,11 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets l
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Sat, 26 Sept 2026 | Hangaren | Copenhagen |
+| Fri, 9 Oct 2026 | fabric | London |
 
 ## Recently played
 
+- Burgess Park, London — Fri, 31 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 26 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets l
 - Hï Ibiza, Ibiza — Fri, 26 Jun 2026
 - Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
 - Cova Santa, Ibiza — Tue, 9 Jun 2026
-- NDSM Docklands, Amsterdam — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

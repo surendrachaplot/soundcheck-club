@@ -1,6 +1,6 @@
 # Kristina May
 
-Kristina May is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
+Kristina May is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gaffe, London on Sat, 1 Aug 2026.
 
 Kristina May is an experimental and club artist based in Moldova, tracked on soundcheck, with 15 sets logged across London. Often billed alongside 8108STN, Alien Communications and Allecto. Next up: Gaffe, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kristina May is an experimental and club artist based in Moldova, tracked on sou
 
 8108STN, Alien Communications, Allecto
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*

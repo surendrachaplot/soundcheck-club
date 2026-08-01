@@ -1,6 +1,6 @@
 # Elvin
 
-Elvin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OYE Kreuzkoelln, Berlin on Thu, 6 Aug 2026.
+Elvin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OYE Kreuzkoelln, Berlin on Thu, 6 Aug 2026.
 
 Elvin is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside KVLR, DJ SPORTSCHUH and Alputo. Next up: OYE Kreuzkoelln, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Elvin is a techno and house artist tracked on soundcheck, with 57 sets logged ac
 
 KVLR, DJ SPORTSCHUH, Alputo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elvin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvin/)*

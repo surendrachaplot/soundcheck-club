@@ -1,6 +1,6 @@
 # Karsten Schmidt
 
-Karsten Schmidt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 14 Aug 2026.
+Karsten Schmidt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 14 Aug 2026.
 
 Karsten Schmidt is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Copenhagen and Riga. Often billed alongside Nikklaas, Anne Hou and Better Call Paul. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Karsten Schmidt is a techno and house artist based in Germany, tracked on soundc
 
 Nikklaas, Anne Hou, Better Call Paul
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karstenschmidt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karstenschmidt/)*

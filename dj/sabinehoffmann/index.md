@@ -1,6 +1,6 @@
 # Sabine Hoffmann
 
-Sabine Hoffmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 1 Aug 2026.
+Sabine Hoffmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 1 Aug 2026.
 
 Sabine Hoffmann is a techno and house artist tracked on soundcheck, with 88 sets logged across Berlin and Hamburg. Often billed alongside Tinko, Kenneth Christiansen and Shaleen. Next up: Tempelhof Airport, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Sabine Hoffmann is a techno and house artist tracked on soundcheck, with 88 sets
 
 Tinko, Kenneth Christiansen, Shaleen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*

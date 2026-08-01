@@ -1,6 +1,6 @@
 # Sosia
 
-Sosia is a Disco and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at barStudio, Warsaw on Sat, 1 Aug 2026.
+Sosia is a Disco and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at barStudio, Warsaw on Sat, 1 Aug 2026.
 
 Sosia is a disco and pop artist based in Poland, tracked on soundcheck, with 21 sets logged across Warsaw. Often billed alongside Sam Karol, Cougar (PL) and Mitura. Next up: barStudio, Warsaw on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sosia is a disco and pop artist based in Poland, tracked on soundcheck, with 21 
 
 Sam Karol, Cougar (PL), Mitura
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sosia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosia/)*

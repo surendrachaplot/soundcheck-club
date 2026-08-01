@@ -1,6 +1,6 @@
 # bemmeblu
 
-bemmeblu is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
+bemmeblu is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
 
 bemmeblu is a breakbeat and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside CHEZA LUCINA, THEMPRESS and DJ Winggold. Next up: Vespers Club, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ bemmeblu is a breakbeat and techno artist based in United Kingdom, tracked on so
 
 CHEZA LUCINA, THEMPRESS, DJ Winggold
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bemmeblu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bemmeblu/)*

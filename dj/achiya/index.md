@@ -1,18 +1,18 @@
 # Achiya
 
-Achiya is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Fri, 31 Jul 2026.
+Achiya is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Planet Wax, London on Sat, 15 Aug 2026.
 
-Achiya is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Bristol and London. Often billed alongside Deselecta, Sleazebag and 50CAL. Next up: M.O.T, London on Fri 31 Jul.
+Achiya is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Bristol and London. Often billed alongside Deselecta, Sleazebag and 50CAL. Next up: Planet Wax, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | M.O.T | London |
 | Sat, 15 Aug 2026 | Planet Wax | London |
 
 ## Recently played
 
+- M.O.T, London — Fri, 31 Jul 2026
 - Planet Wax, London — Thu, 9 Jul 2026
 - Green Works, Bristol — Fri, 19 Sept 2025
 - Lost Horizon, Bristol — Sat, 23 Aug 2025
@@ -20,10 +20,9 @@ Achiya is a jungle and bass artist based in United Kingdom, tracked on soundchec
 - The Loco Klub, Bristol — Fri, 21 Mar 2025
 - Avalon Cafe Bermondsey, London — Sat, 8 Mar 2025
 - M.O.T, London — Fri, 7 Mar 2025
-- Razzmatazz, Barcelona — Fri, 24 Jan 2025
 
 ## Shares bills with
 
 Deselecta, Sleazebag, 50CAL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/achiya/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achiya/)*

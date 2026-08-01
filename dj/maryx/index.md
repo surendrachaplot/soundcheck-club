@@ -1,6 +1,6 @@
 # Mary X
 
-Mary X is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+Mary X is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
 Mary X is a house and techno artist tracked on soundcheck, with 31 sets logged across London. Often billed alongside Neidex, Woopsi and DATTA. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mary X is a house and techno artist tracked on soundcheck, with 31 sets logged a
 
 Neidex, Woopsi, DATTA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryx/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryx/)*

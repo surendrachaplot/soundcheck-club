@@ -1,6 +1,6 @@
 # Eddie B
 
-Eddie B is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
+Eddie B is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
 
 Eddie B is a house and deep house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Blakkat, DJ Colette and DJ Heather. Next up: Jungle Hollywood, Losangeles on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Eddie B is a house and deep house artist based in United States of America, trac
 
 Blakkat, DJ Colette, DJ Heather
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieb/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieb/)*

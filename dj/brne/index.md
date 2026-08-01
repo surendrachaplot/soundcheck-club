@@ -1,14 +1,15 @@
 # BRNE
 
-BRNE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stage and Radio, Manchester on Fri, 7 Aug 2026.
+BRNE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Stage and Radio, Manchester on Fri, 7 Aug 2026.
 
-BRNE is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Leeds and Manchester. Often billed alongside BONSWA, EDJM and ATTA.. Next up: Stage and Radio, Manchester on Fri 7 Aug.
+BRNE is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Leeds and Manchester. Often billed alongside BONSWA, EDJM and HSTN. Next up: Stage and Radio, Manchester on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Stage and Radio | Manchester |
+| Fri, 21 Aug 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ BRNE is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-BONSWA, EDJM, ATTA.
+BONSWA, EDJM, HSTN
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brne/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brne/)*

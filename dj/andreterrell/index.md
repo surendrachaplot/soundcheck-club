@@ -1,14 +1,14 @@
 # Andre Terrell
 
-Andre Terrell is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Roar Brewing (Detroit), Detroit on Fri, 21 Aug 2026.
+Andre Terrell is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Roar Brewing (Detroit), Detroit on Sat, 22 Aug 2026.
 
-Andre Terrell is a house and afro house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit. Next up: Roar Brewing (Detroit), Detroit on Fri 21 Aug.
+Andre Terrell is a house and afro house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit. Next up: Roar Brewing (Detroit), Detroit on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Roar Brewing (Detroit) | Detroit |
+| Sat, 22 Aug 2026 | Roar Brewing (Detroit) | Detroit |
 | Sat, 26 Sept 2026 | Cannons | Detroit |
 
 ## Recently played
@@ -22,4 +22,4 @@ Andre Terrell is a house and afro house artist based in United States of America
 - Spkrbox, Detroit — Thu, 19 Jun 2025
 - Spkrbox, Detroit — Thu, 5 Jun 2025
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreterrell/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreterrell/)*

@@ -1,6 +1,6 @@
 # Malachi
 
-Malachi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
+Malachi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
 
 Malachi is a house and disco artist based in United States of America, tracked on soundcheck, with 42 sets logged across London, Newyorkcity, Prague and Sandiego and 1 more. Often billed alongside Motel Club, Malachi (2) and lovetempo. Next up: Xanadu, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Malachi is a house and disco artist based in United States of America, tracked o
 
 Motel Club, Malachi (2), lovetempo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi/)*

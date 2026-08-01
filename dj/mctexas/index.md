@@ -1,6 +1,6 @@
 # MC Texas
 
-MC Texas is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+MC Texas is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Bristol and London. Often billed alongside Flava D, Carasel and Fred V. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Flava D, Carasel, Fred V
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mctexas/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mctexas/)*

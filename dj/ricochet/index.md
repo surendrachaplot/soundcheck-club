@@ -1,18 +1,18 @@
 # Ricochet
 
-Ricochet is a Jungle and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
+Ricochet is a Jungle and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
 
-Ricochet is a jungle and reggaeton artist based in Bosnia and Herzegovina, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Acolyte, Ali Velmi and Bluetoof. Next up: Club Cheek, London on Fri 31 Jul.
+Ricochet is a jungle and reggaeton artist based in Bosnia and Herzegovina, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Acolyte, Ali Velmi and Bluetoof. Next up: The Carpet Shop, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Club Cheek | London |
 | Sat, 5 Sept 2026 | The Carpet Shop | London |
 
 ## Recently played
 
+- Club Cheek, London — Fri, 31 Jul 2026
 - Planet Wax, London — Sat, 20 Jun 2026
 - Phonox, London — Sat, 9 Aug 2025
 
@@ -20,4 +20,4 @@ Ricochet is a jungle and reggaeton artist based in Bosnia and Herzegovina, track
 
 Acolyte, Ali Velmi, Bluetoof
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*

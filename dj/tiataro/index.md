@@ -1,6 +1,6 @@
 # Tia Taro
 
-Tia Taro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Tia Taro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Tia Taro is a techno and house artist based in Norway, tracked on soundcheck, with 7 sets logged across Oslo. Often billed alongside Morstaq, FAUX and Faux Majeure. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Tia Taro is a techno and house artist based in Norway, tracked on soundcheck, wi
 
 Morstaq, FAUX, Faux Majeure
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiataro/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiataro/)*

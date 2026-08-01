@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "House 2 Techno presented by SupporTechnique" on Fri, 31 Jul 2026.
+Le Red Room is a music venue in Montreal with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Electro Oasis (every Sunday) ***Free with RSVP ticket***" on Sun, 2 Aug 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Anomia, AYMÉ, Daroach and DJ Pacifier and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 16 upcoming nights, with line-ups including Anomia, AYMÉ, Daroach and DJ Pacifier and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | House 2 Techno presented by SupporTechnique | AYMÉ, Anomia, Harry Trancer, Walji |
 | Sun, 2 Aug 2026 | Electro Oasis (every Sunday) ***Free with RSVP ticket*** | Daroach, InFiltr |
 | Wed, 5 Aug 2026 | DOWN2TECHNO: Every Wednesday | ruru (1) |
 | Thu, 6 Aug 2026 | APEX - Music Week à MTL |  |
@@ -18,9 +17,10 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 17 upcoming night
 | Wed, 12 Aug 2026 | DOWN2TECHNO: Every Wednesday | Sharky, Xia (2) |
 | Thu, 13 Aug 2026 | DNB:OVERDRIVE | Exploit, Jeska, Kuantum, Wally |
 | Sun, 16 Aug 2026 | Electro Oasis (every Sunday) ***Free with RSVP ticket*** | namanariii, ucanquit |
+| Tue, 18 Aug 2026 | 5:14 Sessions: Kanatonik | Kanatonik |
 
 ## Address
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

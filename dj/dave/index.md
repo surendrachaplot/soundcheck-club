@@ -1,6 +1,6 @@
 # Dave
 
-Dave is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Epic Prague, Prague on Sat, 1 Aug 2026.
+Dave is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Epic Prague, Prague on Sat, 1 Aug 2026.
 
 Dave is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Budapest, Kualalumpur and Leeds and 4 more. Often billed alongside Bisk, Emanuel Eisbrenner and Wiebe Roose. Next up: Epic Prague, Prague on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Dave is a techno and house artist tracked on soundcheck, with 28 sets logged acr
 
 Bisk, Emanuel Eisbrenner, Wiebe Roose
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*

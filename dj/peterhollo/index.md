@@ -1,6 +1,6 @@
 # Peter Hollo
 
-Peter Hollo is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Red Rattler, Sydney on Fri, 7 Aug 2026.
+Peter Hollo is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Red Rattler, Sydney on Fri, 7 Aug 2026.
 
 Peter Hollo is a bass and experimental artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside Jungist, Marcus Whale and DJ Marcelle. Next up: The Red Rattler, Sydney on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Peter Hollo is a bass and experimental artist based in Australia, tracked on sou
 
 Jungist, Marcus Whale, DJ Marcelle
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterhollo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterhollo/)*

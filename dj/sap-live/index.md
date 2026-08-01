@@ -1,6 +1,6 @@
 # SAP (Live)
 
-SAP (Live) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Under Club, Buenos Aires on Sat, 1 Aug 2026.
+SAP (Live) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Under Club, Buenos Aires on Sat, 1 Aug 2026.
 
 SAP (Live) is a techno artist tracked on soundcheck, with 13 sets logged across Berlin and Buenosaires. Often billed alongside Faustø, Klauss and Sebastian Cohen. Next up: Under Club, Buenosaires on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SAP (Live) is a techno artist tracked on soundcheck, with 13 sets logged across 
 
 Faustø, Klauss, Sebastian Cohen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sap-live/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sap-live/)*

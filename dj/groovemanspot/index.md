@@ -1,6 +1,6 @@
 # grooveman Spot
 
-grooveman Spot is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at COUNTER CLUB, Tokyo on Sat, 8 Aug 2026.
+grooveman Spot is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at COUNTER CLUB, Tokyo on Sat, 8 Aug 2026.
 
 grooveman Spot is a hip-hop and house artist based in Japan, tracked on soundcheck, with 18 sets logged across Auckland, Kyoto, Melbourne and Osaka and 1 more. Often billed alongside Muro, 3rill and ANCHIN. Next up: COUNTER CLUB, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ grooveman Spot is a hip-hop and house artist based in Japan, tracked on soundche
 
 Muro, 3rill, ANCHIN
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemanspot/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemanspot/)*

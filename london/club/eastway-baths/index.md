@@ -1,6 +1,6 @@
 # Eastway Baths
 
-Eastway Baths is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "The People, The Place: Last Nubian, Saige Sounds, Divorce From New York & more" on Sat, 19 Sept 2026.
+Eastway Baths is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The People, The Place: Last Nubian, Saige Sounds, Divorce From New York & more" on Sat, 19 Sept 2026.
 
 Eastway Baths is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Beringei, Last Nubian, Saige Sounds and warmluke. Browse upcoming dates, start times and who's playing. 80 Eastway, E9 5JH.
 
@@ -15,4 +15,4 @@ Eastway Baths is a music venue in London listed on soundcheck. 2 upcoming nights
 
 80 Eastway, E9 5JH, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/eastway-baths/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/eastway-baths/)*

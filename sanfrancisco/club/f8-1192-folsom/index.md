@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 20 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "CLB_INTRNCNL: DJ Slugo" on Fri, 31 Jul 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 22 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "bodyheat x Braket: Sard (live) & Friends" on Sat, 1 Aug 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 20 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 22 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | CLB_INTRNCNL: DJ Slugo | BRIIZV, DJ Slugo, Joogmac, Profesito, Sánlo, pxlwlkr |
 | Sat, 1 Aug 2026 | bodyheat x Braket: Sard (live) & Friends | 2dahlia, Christopher Foor, RMNA, Sard, Stōned Früit, Tom Marsi, jcore |
 | Sun, 2 Aug 2026 | Stamina Sundays presents Amit(UK) | Amit |
 | Sun, 2 Aug 2026 | Backroom Bass at F8 |  |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 20 upcomin
 | Fri, 7 Aug 2026 | SQUISH x program audio → INVT, Jubilee, Coffintexts b2b Jonny From Space | Coffintexts, INVT, Jonny From Space, Jubilee, Papa Xanny, Sholim Eso, Yuca Frita, erika (SF), likeholywine, nonsuit |
 | Tue, 11 Aug 2026 | INTERZONE Darkwave Tuesdays - Guest DJ Adrienne Scissorhands | Byter, Hex Embrace |
 | Wed, 12 Aug 2026 | Run it Back August feat. Casmalia | Casmalia, DJ Parrot, Mode Leeloo |
+| Thu, 13 Aug 2026 | Teego presents Afro Thursdays | Camillionaire, Mode Leeloo |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

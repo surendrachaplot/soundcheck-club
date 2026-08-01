@@ -1,14 +1,13 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Stance" on Fri, 31 Jul 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "&A_immersive" on Thu, 6 Aug 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including 35DH-1, AOI BLOOM, cosmolady and DAIY and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including 35DH-1, AOI BLOOM, cosmolady and DAIY and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Stance |  |
 | Thu, 6 Aug 2026 | &A_immersive | AOI BLOOM, Koji Nakamura, RReona, cosmolady, hidemi |
 | Fri, 7 Aug 2026 | MUSIK OF LIVING | Haruka Takizawa, Kimchi, YOSHI KANOU |
 | Sat, 8 Aug 2026 | Unique | Junya, Krankent, MOTOKA, SIGNAL (JP), TECSTONE, ki (43) |
@@ -19,4 +18,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming nig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

@@ -1,6 +1,6 @@
 # mintwhisper
 
-mintwhisper is a Deep House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at White Owl Social Club, Portland on Fri, 7 Aug 2026.
+mintwhisper is a Deep House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at White Owl Social Club, Portland on Fri, 7 Aug 2026.
 
 mintwhisper is a deep house and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Portland, Sandiego and Seattle. Often billed alongside Luum, Batom and Feu du Camp. Next up: White Owl Social Club, Portland on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ mintwhisper is a deep house and club artist based in United States of America, t
 
 Luum, Batom, Feu du Camp
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*

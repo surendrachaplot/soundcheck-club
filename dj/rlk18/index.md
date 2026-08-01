@@ -1,6 +1,6 @@
 # RLK18
 
-RLK18 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Atelier Rooftop, Berlin on Sat, 1 Aug 2026.
+RLK18 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Atelier Rooftop, Berlin on Sat, 1 Aug 2026.
 
 RLK18 is a techno and electro artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Dusseldorf. Often billed alongside FForm, Hohe and 314A. Next up: Atelier Rooftop, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ RLK18 is a techno and electro artist based in Germany, tracked on soundcheck, wi
 
 FForm, Hohe, 314A
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rlk18/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rlk18/)*

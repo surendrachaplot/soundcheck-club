@@ -1,6 +1,6 @@
 # Stretch
 
-Stretch is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Signal, New York City on Fri, 7 Aug 2026.
+Stretch is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
 
 Stretch is a house and hardcore artist based in South Africa, tracked on soundcheck, with 20 sets logged across Berlin, Brighton, Bristol and Detroit and 6 more. Often billed alongside Billy Daniel Bunter, Decibella and Djinn. Next up: Signal, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Stretch is a house and hardcore artist based in South Africa, tracked on soundch
 
 Billy Daniel Bunter, Decibella, Djinn
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch/)*

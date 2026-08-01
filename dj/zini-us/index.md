@@ -1,6 +1,6 @@
 # ZINI (US)
 
-ZINI (US) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 15 Aug 2026.
+ZINI (US) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 15 Aug 2026.
 
 ZINI (US) is a house and minimal artist based in Syria, tracked on soundcheck, with 16 sets logged across Berlin, Istanbul, Losangeles and Mexicocity and 1 more. Often billed alongside Ian Llorens, Gilbert0 and Artur (US). Next up: TBA - Downtown Los Angeles, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ZINI (US) is a house and minimal artist based in Syria, tracked on soundcheck, w
 
 Ian Llorens, Gilbert0, Artur (US)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zini-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zini-us/)*

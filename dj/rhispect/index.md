@@ -1,6 +1,6 @@
 # Rhi Spect
 
-Rhi Spect is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
+Rhi Spect is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
 
 Rhi Spect is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across London. Often billed alongside bomb shelter crew, Snoozy and Junior Buzz. Next up: Avalon Cafe Bermondsey, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Rhi Spect is a jungle and hardcore artist based in United Kingdom, tracked on so
 
 bomb shelter crew, Snoozy, Junior Buzz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhispect/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhispect/)*

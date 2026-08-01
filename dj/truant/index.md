@@ -1,6 +1,6 @@
 # Truant
 
-Truant is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tunelowa, Warsaw on Sun, 2 Aug 2026.
+Truant is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tunelowa, Warsaw on Sun, 2 Aug 2026.
 
 Truant is a techno and tech house artist based in Poland, tracked on soundcheck, with 71 sets logged across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside KEVS, Jerry M and internal explorer. Next up: Tunelowa, Warsaw on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Truant is a techno and tech house artist based in Poland, tracked on soundcheck,
 
 KEVS, Jerry M, internal explorer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/truant/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truant/)*

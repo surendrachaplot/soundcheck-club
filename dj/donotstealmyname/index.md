@@ -1,8 +1,8 @@
 # Donotstealmyname
 
-Donotstealmyname is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Datcha, Montreal on Fri, 21 Aug 2026.
+Donotstealmyname is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Datcha, Montreal on Fri, 21 Aug 2026.
 
-Donotstealmyname is a techno and house artist based in Canada, tracked on soundcheck, with 32 sets logged across Montreal. Often billed alongside Badgalquirit, Skesa (CA) and Lex Ferenda. Next up: Bar Datcha, Montreal on Fri 21 Aug.
+Donotstealmyname is a techno and house artist based in Canada, tracked on soundcheck, with 32 sets logged across Montreal. Often billed alongside Badgalquirit, Lex Ferenda and Skesa (CA). Next up: Bar Datcha, Montreal on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Donotstealmyname is a techno and house artist based in Canada, tracked on soundc
 
 ## Shares bills with
 
-Badgalquirit, Skesa (CA), Lex Ferenda
+Badgalquirit, Lex Ferenda, Skesa (CA)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donotstealmyname/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donotstealmyname/)*

@@ -1,6 +1,6 @@
 # Ralf Kollmann
 
-Ralf Kollmann is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Ralf Kollmann is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Ralf Kollmann is a tech house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Hamburg and Zurich. Often billed alongside Beck to Pony, Rodriguez Jr. and Anja Schneider. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Ralf Kollmann is a tech house and techno artist based in Germany, tracked on sou
 
 Beck to Pony, Rodriguez Jr., Anja Schneider
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ralfkollmann/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ralfkollmann/)*

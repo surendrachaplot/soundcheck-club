@@ -1,6 +1,6 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Bambi (FR) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Bambi (FR) is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Bambi (FR) is a techno and house artist tracked on soundcheck, with 76 sets logg
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

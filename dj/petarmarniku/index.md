@@ -1,6 +1,6 @@
 # Petar Marniku
 
-Petar Marniku is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
+Petar Marniku is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
 
 Petar Marniku is a tech house and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Sammir, ADREE and Telesforo. Next up: Apollo Studio, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Petar Marniku is a tech house and house artist based in United States of America
 
 Sammir, ADREE, Telesforo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petarmarniku/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petarmarniku/)*

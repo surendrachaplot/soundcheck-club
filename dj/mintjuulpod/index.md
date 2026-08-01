@@ -1,6 +1,6 @@
 # MintJuulPod
 
-MintJuulPod is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
+MintJuulPod is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
 
 MintJuulPod is a drum & bass and techno artist based in Ireland, tracked on soundcheck, with 9 sets logged across Manchester and Newcastle. Often billed alongside Club Penguin, Abby Harris and Anop. Next up: Honey Street Studio, Manchester on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MintJuulPod is a drum & bass and techno artist based in Ireland, tracked on soun
 
 Club Penguin, Abby Harris, Anop
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mintjuulpod/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mintjuulpod/)*

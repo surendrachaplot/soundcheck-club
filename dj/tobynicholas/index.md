@@ -1,6 +1,6 @@
 # Toby (UK)
 
-Toby (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
+Toby (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
 
 Toby (UK) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London, Manchester, Mexicocity and Paris and 1 more. Often billed alongside Hamish Cole, Seb Odyssey and Bunney. Next up: Crate Brewery, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Toby (UK) is a house and electro artist based in United Kingdom, tracked on soun
 
 Hamish Cole, Seb Odyssey, Bunney
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tobynicholas/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobynicholas/)*

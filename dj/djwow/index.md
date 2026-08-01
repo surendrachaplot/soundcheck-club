@@ -1,6 +1,6 @@
 # DJ Wow
 
-DJ Wow is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Paloma, Barcelona on Sat, 1 Aug 2026.
+DJ Wow is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Paloma, Barcelona on Sat, 1 Aug 2026.
 
 DJ Wow is a house and disco artist based in South Korea, tracked on soundcheck, with 58 sets logged across Barcelona and Seoul. Often billed alongside RTRP, dguru and Daul. Next up: La Paloma, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ Wow is a house and disco artist based in South Korea, tracked on soundcheck, 
 
 RTRP, dguru, Daul
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwow/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwow/)*

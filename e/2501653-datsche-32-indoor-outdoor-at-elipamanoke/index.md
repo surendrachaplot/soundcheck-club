@@ -1,6 +1,6 @@
 # Datsche #32 [indoor & outdoor] at elipamanoke
 
-Datsche #32 [indoor & outdoor] at elipamanoke on Fri 14 Aug, Leipzig. 4 acts on the bill: Goody (1), Minthrill, SPLINTER (2) and Stigmatique. Preview the line-up and save it on soundcheck.
+Datsche #32 [indoor & outdoor] at elipamanoke on Fri 14 Aug, Leipzig. 5 acts on the bill: Goody (1), Minthrill, Siggi Petrol and SPLINTER (2) and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Datsche #32 [indoor & outdoor] at elipamanoke on Fri 14 Aug, Leipzig. 4 acts on 
 
 - Goody (1)
 - Minthrill
+- Siggi Petrol
 - SPLINTER (2)
 - Stigmatique
 

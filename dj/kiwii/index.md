@@ -1,6 +1,6 @@
 # Kiwii
 
-Kiwii is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spkrbox, Detroit on Sun, 2 Aug 2026.
+Kiwii is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Spkrbox, Detroit on Sun, 2 Aug 2026.
 
 Kiwii is a house and garage artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Detroit and London. Often billed alongside DJ Ironing Board, Joe Rose and K-LALA. Next up: Spkrbox, Detroit on Sun 2 Aug.
 
@@ -15,4 +15,4 @@ Kiwii is a house and garage artist based in United Kingdom, tracked on soundchec
 
 DJ Ironing Board, Joe Rose, K-LALA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiwii/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiwii/)*

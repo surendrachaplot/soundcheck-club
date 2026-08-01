@@ -1,6 +1,6 @@
 # Louli
 
-Louli is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Vanguard, Sydney on Fri, 7 Aug 2026.
+Louli is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Vanguard, Sydney on Fri, 7 Aug 2026.
 
 Louli is a bass and club artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne, Paris and Sydney. Often billed alongside Rydeen (AU), sovblkpssy and Attu. Next up: The Vanguard, Sydney on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Louli is a bass and club artist based in Australia, tracked on soundcheck, with 
 
 Rydeen (AU), sovblkpssy, Attu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louli/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louli/)*

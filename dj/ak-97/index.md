@@ -1,6 +1,6 @@
 # AK-97
 
-AK-97 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
+AK-97 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
 
 AK-97 is a techno and house artist based in Australia, tracked on soundcheck, with 15 sets logged across Melbourne. Often billed alongside Ejeckt, Gus McKinna and Ketris. Next up: Collingwood Basement, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ AK-97 is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 Ejeckt, Gus McKinna, Ketris
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-97/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-97/)*

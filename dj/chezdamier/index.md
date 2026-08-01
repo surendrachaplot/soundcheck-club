@@ -1,14 +1,13 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Chez Damier is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
 
-Chez Damier is a house and deep house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: BLITZ, Munich on Fri 31 Jul.
+Chez Damier is a house and deep house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Cova Santa, Ibiza on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Tue, 4 Aug 2026 | Cova Santa | Ibiza |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 15 Aug 2026 | Tokonoma Club | Frankfurt |
@@ -20,6 +19,7 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 145 set
 
 ## Recently played
 
+- BLITZ, Munich — Fri, 31 Jul 2026
 - Punch Bowl Social 360-Bar, Chicago — Thu, 30 Jul 2026
 - Salon Daomé, Montreal — Fri, 24 Jul 2026
 - Flash, Washington DC — Sat, 18 Jul 2026
@@ -27,10 +27,9 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 145 set
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Audio Club, Geneva — Sat, 27 Jun 2026
 - La Terrrazza, Barcelona — Fri, 19 Jun 2026
-- Praia Irmão, Lisbon — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

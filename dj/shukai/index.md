@@ -1,6 +1,6 @@
 # Shukai
 
-Shukai is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OIL Club, Shenzhen on Sat, 8 Aug 2026.
+Shukai is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OIL Club, Shenzhen on Sat, 8 Aug 2026.
 
 Shukai is a techno and trance artist based in China, tracked on soundcheck, with 3 sets logged across Shanghai and Shenzhen. Often billed alongside DJ Reiz, Metaraph and Perc. Next up: OIL Club, Shenzhen on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Shukai is a techno and trance artist based in China, tracked on soundcheck, with
 
 DJ Reiz, Metaraph, Perc
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shukai/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shukai/)*

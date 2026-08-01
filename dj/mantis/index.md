@@ -1,6 +1,6 @@
 # MANTIS
 
-MANTIS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Haus73, Hamburg on Sat, 1 Aug 2026.
+MANTIS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Haus73, Hamburg on Sat, 1 Aug 2026.
 
 MANTIS is a techno and acid artist tracked on soundcheck, with 27 sets logged across Berlin, Hamburg, Prague and Rome and 2 more. Often billed alongside DJ Blockflöte 2000, Frank Rayo and KIM AHLF. Next up: Haus73, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ MANTIS is a techno and acid artist tracked on soundcheck, with 27 sets logged ac
 
 DJ Blockflöte 2000, Frank Rayo, KIM AHLF
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*

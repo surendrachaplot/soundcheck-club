@@ -1,14 +1,13 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "XSIBITION 8" on Fri, 31 Jul 2026.
+EQ San Diego is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Techno Jungle" on Thu, 6 Aug 2026.
 
-EQ San Diego is a music venue in Sandiego listed on soundcheck. 9 upcoming nights, with line-ups including Codak, DEVZ, Flores Negras and JAQ.XS and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in Sandiego listed on soundcheck. 8 upcoming nights, with line-ups including Codak, DEVZ, Linska and match.a.mor and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | XSIBITION 8 | Flores Negras, JAQ.XS, Villaseñor |
 | Thu, 6 Aug 2026 | The Techno Jungle |  |
 | Fri, 7 Aug 2026 | shekdash | DEVZ, shekdash |
 | Fri, 21 Aug 2026 | FNGRS CRSSD presents Mindchatter [DJ Set] |  |
@@ -22,4 +21,4 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 9 upcoming night
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

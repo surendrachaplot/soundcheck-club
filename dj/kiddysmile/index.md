@@ -1,6 +1,6 @@
 # Kiddy Smile
 
-Kiddy Smile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uber Eats Music Hall, Berlin on Sun, 2 Aug 2026.
+Kiddy Smile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Uber Eats Music Hall, Berlin on Sun, 2 Aug 2026.
 
 Kiddy Smile is a house and electro artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Melvo Baptiste, Bora Uzer and Curses. Next up: Uber Eats Music Hall, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Kiddy Smile is a house and electro artist tracked on soundcheck, with 74 sets lo
 
 Melvo Baptiste, Bora Uzer, Curses
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*

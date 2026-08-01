@@ -1,6 +1,6 @@
 # Adi Dassler
 
-Adi Dassler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Die Schneiderei, Zurich on Sat, 1 Aug 2026.
+Adi Dassler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Die Schneiderei, Zurich on Sat, 1 Aug 2026.
 
 Adi Dassler is a techno and tech house artist tracked on soundcheck, with 90 sets logged across Cologne, Frankfurt, Rome and Stuttgart and 1 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Die Schneiderei, Zurich on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Adi Dassler is a techno and tech house artist tracked on soundcheck, with 90 set
 
 Sid_Porwal, Tonino, Magia Mafia
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*

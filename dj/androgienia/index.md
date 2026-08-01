@@ -1,6 +1,6 @@
 # androgienia
 
-androgienia is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+androgienia is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
 androgienia is an experimental and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Krakow and Warsaw. Often billed alongside DiV4, KAROLINDA and PLATTER. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ androgienia is an experimental and techno artist tracked on soundcheck, with 33 
 
 DiV4, KAROLINDA, PLATTER
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/androgienia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/androgienia/)*

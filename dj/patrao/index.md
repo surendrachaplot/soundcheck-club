@@ -1,6 +1,6 @@
 # PATRAO
 
-PATRAO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 1 Aug 2026.
+PATRAO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Oxford Art Factory, Sydney on Sat, 1 Aug 2026.
 
 PATRAO is a techno and house artist based in India, tracked on soundcheck, with 20 sets logged across Amsterdam, Melbourne, Sydney and Tokyo. Often billed alongside Mazuko, Ben Nott and Cassette. Next up: Oxford Art Factory, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ PATRAO is a techno and house artist based in India, tracked on soundcheck, with 
 
 Mazuko, Ben Nott, Cassette
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrao/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrao/)*

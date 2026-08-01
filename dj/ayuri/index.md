@@ -1,6 +1,6 @@
 # AYURI
 
-AYURI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at control, Bucharest on Sat, 1 Aug 2026.
+AYURI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at control, Bucharest on Sat, 1 Aug 2026.
 
 AYURI is a techno and house artist based in Japan, tracked on soundcheck, with 12 sets logged across Berlin, Bucharest and Tokyo. Often billed alongside SONOKI, Ameli Paul and BANANA-CHAN. Next up: control, Bucharest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ AYURI is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 SONOKI, Ameli Paul, BANANA-CHAN
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayuri/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayuri/)*

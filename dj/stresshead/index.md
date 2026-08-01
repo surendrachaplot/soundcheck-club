@@ -1,6 +1,6 @@
 # Stresshead
 
-Stresshead is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Last Arch, London on Sat, 15 Aug 2026.
+Stresshead is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
 
 Stresshead is an electronica and garage artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Edinburgh and Leeds and 1 more. Often billed alongside Baobei, Drinks On Me and 1111. Next up: Last Arch, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Stresshead is an electronica and garage artist based in United Kingdom, tracked 
 
 Baobei, Drinks On Me, 1111
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*

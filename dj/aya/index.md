@@ -1,6 +1,6 @@
 # aya
 
-aya is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+aya is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
 aya is an experimental and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside 96 Back, Jennifer Walton and upsammy. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ aya is an experimental and techno artist tracked on soundcheck, with 127 sets lo
 
 96 Back, Jennifer Walton, upsammy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*

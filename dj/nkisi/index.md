@@ -1,14 +1,15 @@
 # Nkisi
 
-Nkisi is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ormside Projects, London on Sat, 15 Aug 2026.
+Nkisi is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ormside Projects, London on Sat, 15 Aug 2026.
 
-Nkisi is an experimental and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 19 more. Often billed alongside Jon K, Coby Sey and Conrad Pack. Next up: Ormside Projects, London on Sat 15 Aug.
+Nkisi is an experimental and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 19 more. Often billed alongside Jon K, Rainy Miller and Coby Sey. Next up: Ormside Projects, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Ormside Projects | London |
+| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nkisi is an experimental and techno artist tracked on soundcheck, with 88 sets l
 
 ## Shares bills with
 
-Jon K, Coby Sey, Conrad Pack
+Jon K, Rainy Miller, Coby Sey
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*

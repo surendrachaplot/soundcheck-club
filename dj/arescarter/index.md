@@ -1,6 +1,6 @@
 # Ares Carter
 
-Ares Carter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Ares Carter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
 
 Ares Carter is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside Daniel Lerman, AMÉMÉ and ASMOT. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ares Carter is a house and tech house artist based in United States of America, 
 
 Daniel Lerman, AMÉMÉ, ASMOT
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arescarter/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arescarter/)*

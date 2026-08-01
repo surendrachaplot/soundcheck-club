@@ -1,6 +1,6 @@
 # Vlf
 
-Vlf is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
+Vlf is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
 
 Vlf is a minimal and house artist based in Romania, tracked on soundcheck, with 4 sets logged across Bucharest and Budapest. Often billed alongside Falcao, Sepp and Tolo. Next up: Europa Boat, Budapest on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Vlf is a minimal and house artist based in Romania, tracked on soundcheck, with 
 
 Falcao, Sepp, Tolo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vlf/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlf/)*

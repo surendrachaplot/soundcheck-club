@@ -1,6 +1,6 @@
 # ninasupsa
 
-ninasupsa is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bassiani, Tbilisi on Fri, 21 Aug 2026.
+ninasupsa is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bassiani, Tbilisi on Fri, 21 Aug 2026.
 
 ninasupsa is an experimental and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, London and Tbilisi. Often billed alongside HVL, Bero and Hamatsuki. Next up: Bassiani, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ninasupsa is an experimental and techno artist tracked on soundcheck, with 21 se
 
 HVL, Bero, Hamatsuki
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasupsa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasupsa/)*

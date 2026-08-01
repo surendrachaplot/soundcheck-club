@@ -1,6 +1,6 @@
 # Sonia Calico
 
-Sonia Calico is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le Sucre, Lyon on Sat, 1 Aug 2026.
+Sonia Calico is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Sucre, Lyon on Sat, 1 Aug 2026.
 
 Sonia Calico is a techno and breakbeat artist based in Taiwan, tracked on soundcheck, with 10 sets logged across Bangkok, London, Lyon and Paris and 2 more. Often billed alongside Baalti, Urumi and .VRIL. Next up: Le Sucre, Lyon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sonia Calico is a techno and breakbeat artist based in Taiwan, tracked on soundc
 
 Baalti, Urumi, .VRIL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*

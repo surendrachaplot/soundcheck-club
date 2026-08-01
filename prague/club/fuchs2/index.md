@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "AÜRA SHOWCASE: Dialectics ☆ rfta ☆ Paromanormal ☆ D.E.S ☆ zazitech" on Fri, 31 Jul 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SEELEN LABEL NIGHT: JANEIN ☆ Stigmatique ☆ TerminusTechnikus ☆ Divný útvar" on Sat, 1 Aug 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Adamatron, aláya, Axis Alpha and Colum Urton and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Adamatron, aláya, Axis Alpha and Colum Urton and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | AÜRA SHOWCASE: Dialectics ☆ rfta ☆ Paromanormal ☆ D.E.S ☆ zazitech | D.E.S Fr, Dialectics, Paromanormal, rfta, zazitech |
 | Sat, 1 Aug 2026 | SEELEN LABEL NIGHT: JANEIN ☆ Stigmatique ☆ TerminusTechnikus ☆ Divný útvar | JANEIN, Stigmatique, TerminusTechnikus |
 | Fri, 7 Aug 2026 | ALLNIGHTER PRIDE EDITION: B-Complex ☆ TRANSmisia | TRANSmisia |
 | Sat, 8 Aug 2026 | MAGION 04 *Pride's Afterparty* | Adamatron, Axis Alpha, Dj Poperz, JöëK, Mike Starr, Pink Concrete, Refrig, TerminusTechnikus, frujty |
@@ -23,4 +22,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

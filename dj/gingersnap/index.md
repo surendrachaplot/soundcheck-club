@@ -1,13 +1,14 @@
 # Ginger Snap
 
-Ginger Snap is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Temple Bar, Detroit on Sat, 1 Aug 2026.
+Ginger Snap is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Temple Bar, Detroit on Sat, 1 Aug 2026.
 
-Ginger Snap is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Detroit. Often billed alongside Hardin, Adriel Fantastique! and I.V.. Next up: Temple Bar, Detroit on Sat 1 Aug.
+Ginger Snap is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Detroit. Often billed alongside Hardin, Adriel Fantastique! and I.V.. Next up: Temple Bar, Detroit on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Temple Bar | Detroit |
 | Sat, 1 Aug 2026 | Temple Bar | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ginger Snap is a house and techno artist based in United States of America, trac
 
 Hardin, Adriel Fantastique!, I.V.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gingersnap/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gingersnap/)*

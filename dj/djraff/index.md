@@ -1,6 +1,6 @@
 # DJ Raff
 
-DJ Raff is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+DJ Raff is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 DJ Raff is a latin bass and electronica artist based in Chile, tracked on soundcheck, with 11 sets logged across Barcelona, London and Zurich. Often billed alongside Earthly Measures, AUKA and Dreems. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Raff is a latin bass and electronica artist based in Chile, tracked on soundc
 
 Earthly Measures, AUKA, Dreems
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djraff/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djraff/)*

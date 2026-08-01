@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rebecca's, New York City on Fri, 7 Aug 2026.
+awhlkuhn is a Dancehall and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rebecca's, New York City on Fri, 7 Aug 2026.
 
 awhlkuhn is a dancehall and baile funk artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, London, Newyorkcity and Rotterdam. Often billed alongside Shinshan Salazar, Ferré and Jarreau Vandal. Next up: Rebecca's, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ awhlkuhn is a dancehall and baile funk artist based in Netherlands, tracked on s
 
 Shinshan Salazar, Ferré, Jarreau Vandal
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

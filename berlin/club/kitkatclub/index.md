@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Red Light Tisco" on Fri, 31 Jul 2026.
+KitKatClub is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Nachspiel" on Sun, 2 Aug 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including Acid Foxy, Albin Brezlan, alemiko and Alexander Paulski and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 33 upcoming nights, with line-ups including Albin Brezlan, alemiko, Alexander Paulski and Alex Friday and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Red Light Tisco | Acid Foxy, Blame the Booker, Franeva, Julian Shore, LISTORIO, LIZZN, MUKKIMIAU, Miss Unleashed, Paula Hilton, PyjamaMama, maniaclina, nuarrrrr, substitüt |
 | Sun, 2 Aug 2026 | Nachspiel | Fran-Cee, Onkel Tom |
 | Mon, 3 Aug 2026 | Electric Monday@KitKat Club on 2 Floors | Diana May, Frankie Flowerz, Melon Blush, Sylvie Maziarz |
 | Wed, 5 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Dirty Doering, Melanchromie, Nick Schwenderling |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, 
 | Mon, 10 Aug 2026 | Electric Monday on 2 Floors Summer Special @KitKat Club | Bert, Elene, Faly, Frankie Flowerz, Madame Charlie |
 | Wed, 12 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | Bombata, DJ Jordan, Gerrit X, Unerhört |
 | Thu, 13 Aug 2026 | UNITY AT KITKAT CLUB | Cobb Douglas, DJ Henk |
+| Fri, 14 Aug 2026 | The Mystic Rose meets MA FAIZA | Goa Jonas, Neobeo |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

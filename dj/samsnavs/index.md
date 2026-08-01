@@ -1,6 +1,6 @@
 # Samsnavs
 
-Samsnavs is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at De Vierde Zaal, Ghent on Sat, 19 Sept 2026.
+Samsnavs is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at De Vierde Zaal, Ghent on Sat, 19 Sept 2026.
 
 Samsnavs is an electronic artist based in Denmark, tracked on soundcheck, with 9 sets logged across Copenhagen and Ghent. Often billed alongside Filen, Jidder and Lucy Headburn. Next up: De Vierde Zaal, Ghent on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Samsnavs is an electronic artist based in Denmark, tracked on soundcheck, with 9
 
 Filen, Jidder, Lucy Headburn
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samsnavs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsnavs/)*

@@ -1,6 +1,6 @@
 # Dyzen
 
-Dyzen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Buda Castle - Újvilág, Budapest on Sat, 8 Aug 2026.
+Dyzen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Buda Castle - Újvilág, Budapest on Sat, 8 Aug 2026.
 
 Dyzen is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Athens and Basel and 19 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Buda Castle - Újvilág, Budapest on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dyzen is a techno and house artist tracked on soundcheck, with 50 sets logged ac
 
 Mind Against, sideral, Recondite
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*

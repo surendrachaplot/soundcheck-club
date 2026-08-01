@@ -1,6 +1,6 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spkrbox, Detroit on Sat, 1 Aug 2026.
+Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Spkrbox, Detroit on Sat, 1 Aug 2026.
 
 Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Barcelona, Buenosaires and Chicago and 9 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: Spkrbox, Detroit on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rick Wade is a house and deep house artist based in United States of America, tr
 
 Chuck Daniels, Norm Talley, Delano Smith
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

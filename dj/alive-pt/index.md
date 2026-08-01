@@ -1,6 +1,6 @@
 # Alive
 
-Alive is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Alive is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Alive is a drum & bass and techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Athens, Losangeles, Manchester and Porto. Often billed alongside Andy C, Pedro Tabuada and 10cust. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Alive is a drum & bass and techno artist based in Portugal, tracked on soundchec
 
 Andy C, Pedro Tabuada, 10cust
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*

@@ -1,6 +1,6 @@
 # GARAN GARAN
 
-GARAN GARAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 8 Aug 2026.
+GARAN GARAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 8 Aug 2026.
 
 GARAN GARAN is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Amsterdam, Istanbul, London and Paris. Often billed alongside KC Happy, Chaos In The CBD and Tomoki Tamura. Next up: Frankhan Selectist, Istanbul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ GARAN GARAN is a house and techno artist based in United States of America, trac
 
 KC Happy, Chaos In The CBD, Tomoki Tamura
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garangaran/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garangaran/)*

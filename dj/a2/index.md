@@ -1,6 +1,6 @@
 # A²
 
-A² is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M-BIA, Berlin on Fri, 7 Aug 2026.
+A² is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at M-BIA, Berlin on Fri, 7 Aug 2026.
 
 A² is a techno and hardcore artist based in France, tracked on soundcheck, with 15 sets logged across Berlin, London and Prague. Often billed alongside Tekk, Techno Frühstück and Bass. Next up: M-BIA, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ A² is a techno and hardcore artist based in France, tracked on soundcheck, with
 
 Tekk, Techno Frühstück, Bass
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a2/)*

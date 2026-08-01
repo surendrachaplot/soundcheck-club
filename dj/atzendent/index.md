@@ -1,6 +1,6 @@
 # Atzendent
 
-Atzendent is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+Atzendent is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
 
 Atzendent is a trance and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 2 more. Often billed alongside BabaBass3000, SUITSIDE and HugoBass303. Next up: Schrotty, Cologne on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Atzendent is a trance and techno artist based in Germany, tracked on soundcheck,
 
 BabaBass3000, SUITSIDE, HugoBass303
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atzendent/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atzendent/)*

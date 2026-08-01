@@ -1,6 +1,6 @@
 # Erica Menei
 
-Erica Menei is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 2 Aug 2026.
+Erica Menei is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 2 Aug 2026.
 
 Erica Menei is a house artist based in Italy, tracked on soundcheck, with 8 sets logged across Barcelona, London, Milan and Naples and 1 more. Often billed alongside Glauco Di Mambro, futuristant and Avangart Tabldot. Next up: TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ Erica Menei is a house artist based in Italy, tracked on soundcheck, with 8 sets
 
 Glauco Di Mambro, futuristant, Avangart Tabldot
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericamenei/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericamenei/)*

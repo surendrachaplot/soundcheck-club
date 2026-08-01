@@ -1,6 +1,6 @@
 # Nema Hän
 
-Nema Hän is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
+Nema Hän is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
 
 Nema Hän is a house and techno artist tracked on soundcheck, with 60 sets logged across Detroit, Losangeles, Mexicocity and Montreal and 4 more. Often billed alongside aka-Sol, Shvili and Corrina. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nema Hän is a house and techno artist tracked on soundcheck, with 60 sets logge
 
 aka-Sol, Shvili, Corrina
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nemahan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nemahan/)*

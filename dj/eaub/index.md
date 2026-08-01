@@ -1,6 +1,6 @@
 # Eaub
 
-Eaub is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 1 Aug 2026.
+Eaub is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 1 Aug 2026.
 
 Eaub is a techno and trance artist based in Malta, tracked on soundcheck, with 35 sets logged across Malta. Often billed alongside INVERTED (MT), MILLØ and Damz. Next up: Club Phoenix - Gianpula Village, Malta on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Eaub is a techno and trance artist based in Malta, tracked on soundcheck, with 3
 
 INVERTED (MT), MILLØ, Damz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eaub/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eaub/)*

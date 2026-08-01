@@ -1,14 +1,15 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 1 Aug 2026.
+Arpy Brown is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 1 Aug 2026.
 
-Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 15 more. Often billed alongside Kapote, Gee Lane and A.tari. Next up: Frankhan Selectist, Istanbul on Sat 1 Aug.
+Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 15 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: Frankhan Selectist, Istanbul on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Frankhan Selectist | Istanbul |
+| Sun, 2 Aug 2026 | Frankhan Selectist | Istanbul |
 | Sat, 3 Oct 2026 | Amber's | Manchester |
 
 ## Recently played
@@ -24,6 +25,6 @@ Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Kapote, Gee Lane, A.tari
+Kapote, Gee Lane, Cody Currie
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*

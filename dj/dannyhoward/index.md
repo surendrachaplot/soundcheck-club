@@ -1,14 +1,13 @@
 # Danny Howard
 
-Danny Howard is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 528 Ibiza, Ibiza on Fri, 31 Jul 2026.
+Danny Howard is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Pacha Ibiza, Ibiza on Mon, 3 Aug 2026.
 
-Danny Howard is a house and tech house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 17 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: 528 Ibiza, Ibiza on Fri 31 Jul.
+Danny Howard is a house and tech house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 17 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: Pacha Ibiza, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | 528 Ibiza | Ibiza |
 | Mon, 3 Aug 2026 | Pacha Ibiza | Ibiza |
 | Mon, 17 Aug 2026 | Pacha Ibiza | Ibiza |
 | Mon, 24 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Danny Howard is a house and tech house artist tracked on soundcheck, with 124 se
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Fri, 31 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 27 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 20 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 6 Jul 2026
@@ -30,10 +30,9 @@ Danny Howard is a house and tech house artist tracked on soundcheck, with 124 se
 - BCM, Mallorca — Tue, 23 Jun 2026
 - Pacha Ibiza, Ibiza — Mon, 22 Jun 2026
 - Pacha Ibiza, Ibiza — Mon, 15 Jun 2026
-- Pacha Ibiza, Ibiza — Mon, 8 Jun 2026
 
 ## Shares bills with
 
 Sonny Fodera, Gorgon City, Greta Levska
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*

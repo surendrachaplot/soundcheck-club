@@ -1,6 +1,6 @@
 # Yigit
 
-Yigit is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 1 Aug 2026.
+Yigit is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 1 Aug 2026.
 
 Yigit is an electronic artist based in Turkey, tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Mila Haj Kasem, 36framez and Amotik. Next up: CLUB RAUM, Amsterdam on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Yigit is an electronic artist based in Turkey, tracked on soundcheck, with 7 set
 
 Mila Haj Kasem, 36framez, Amotik
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yigit/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yigit/)*

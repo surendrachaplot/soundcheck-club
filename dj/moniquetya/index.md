@@ -1,6 +1,6 @@
 # Monique Tya
 
-Monique Tya is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
+Monique Tya is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
 
 Monique Tya is a bass and techno artist based in Australia, tracked on soundcheck, with 13 sets logged across Melbourne, Newyorkcity and Sydney. Often billed alongside DJ PGZ, Emelyne and Kate Miller. Next up: Angel Music Bar, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Monique Tya is a bass and techno artist based in Australia, tracked on soundchec
 
 DJ PGZ, Emelyne, Kate Miller
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquetya/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquetya/)*

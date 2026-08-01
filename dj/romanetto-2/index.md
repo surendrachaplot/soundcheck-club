@@ -1,6 +1,6 @@
 # Romanetto
 
-Romanetto is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Bernard Shaw, Dublin on Fri, 14 Aug 2026.
+Romanetto is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bernard Shaw, Dublin on Fri, 14 Aug 2026.
 
 Romanetto is a techno and afro house artist based in Ireland, tracked on soundcheck, with 90 sets logged across Barcelona, Budapest and Dublin. Often billed alongside Phil Bass, Not Related and Ascalon. Next up: The Bernard Shaw, Dublin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Romanetto is a techno and afro house artist based in Ireland, tracked on soundch
 
 Phil Bass, Not Related, Ascalon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romanetto-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romanetto-2/)*

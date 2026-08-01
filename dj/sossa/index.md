@@ -1,6 +1,6 @@
 # Sossa
 
-Sossa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+Sossa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
 
 Sossa is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Tania Vulcano, Seth Troxler and Prospa. Next up: DC-10, Ibiza on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Sossa is a house and techno artist tracked on soundcheck, with 85 sets logged ac
 
 Tania Vulcano, Seth Troxler, Prospa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sossa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sossa/)*

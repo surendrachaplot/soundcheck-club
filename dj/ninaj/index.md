@@ -1,6 +1,6 @@
 # Nina J
 
-Nina J is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - DTLA, Los Angeles on Sun, 2 Aug 2026.
+Nina J is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - DTLA, Los Angeles on Sun, 2 Aug 2026.
 
 Nina J is a techno and house artist tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Kitty Logic, Tattoopudge and Albina Van. Next up: TBA - DTLA, Losangeles on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ Nina J is a techno and house artist tracked on soundcheck, with 8 sets logged ac
 
 Kitty Logic, Tattoopudge, Albina Van
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaj/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaj/)*

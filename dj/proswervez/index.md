@@ -1,6 +1,6 @@
 # proswervez
 
-proswervez is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Naco Taco, Boston on Thu, 6 Aug 2026.
+proswervez is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Naco Taco, Boston on Thu, 6 Aug 2026.
 
 proswervez is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston. Often billed alongside Zack Fox. Next up: Naco Taco, Boston on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ proswervez is a house and hip-hop artist based in United States of America, trac
 
 Zack Fox
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*

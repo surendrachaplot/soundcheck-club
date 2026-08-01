@@ -1,15 +1,13 @@
 # M.O.T
 
-M.O.T is a music venue in London with 29 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "guEst. invites 07050, SP:MC, Coza B2B Pent1, Raina + more" on Fri, 31 Jul 2026.
+M.O.T is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "grounded *SUMMER MELT* w. Dual Monitor, Wordcolour, Delay Grounds, ohmydais" on Sat, 1 Aug 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Abby Daze, Achiya, Akanbi and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Abby Daze, Akanbi, ALCATRAZ and Anina and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | guEst. invites 07050, SP:MC, Coza B2B Pent1, Raina + more | SP:MC |
-| Fri, 31 Jul 2026 | [CANCELLED] jungyals and gays PRESENTS: SOUND SANCTUARY FUNDRAISER | Achiya, MICKY XOV |
 | Sat, 1 Aug 2026 | grounded *SUMMER MELT* w. Dual Monitor, Wordcolour, Delay Grounds, ohmydais | Delay Grounds, Djuar, Dual Monitor, Paul McManamon, Wordcolour, carmen (7), ohmydais |
 | Sat, 1 Aug 2026 | BLUE MOON | Auntie Klockwise, Deejay Nye, Stella Z, TIRTA, Vince Lam, ŌKAMI |
 | Sun, 2 Aug 2026 | 160 Unity Open Air: DJ Spinn & Jana Rush | BOMBO, Big Dope P, CRAIC DAVID, DJ Spinn, Jana Rush, Seb (Tropical Waste), Teddy Kitano, sohotsospicy |
@@ -18,9 +16,11 @@ M.O.T is a music venue in London listed on soundcheck. 29 upcoming nights, with 
 | Sat, 8 Aug 2026 | Maiden Voyage Afterparty: Live From Earth | ALCATRAZ, DJ Gigola, OSK (3), The Twins, dj g2g |
 | Thu, 13 Aug 2026 | [CANCELLED] STEEP LONDON | LMajor |
 | Fri, 14 Aug 2026 | Fly Life: Ploy & Bruce (All night long) | Bruce, Ploy |
+| Fri, 14 Aug 2026 | phreq Exchange @Venue M.O.T | Kutchi, Scannell, Thoma Bulwer, snick |
+| Thu, 20 Aug 2026 | VENT ⓥ DJ Spanish Fly, James Massiah, Nihal  | James Massiah, Nihal El Aasar |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

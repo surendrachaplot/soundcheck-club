@@ -1,6 +1,6 @@
 # Thimble
 
-Thimble is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
+Thimble is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
 
 Thimble is a techno and afro house artist tracked on soundcheck, with 38 sets logged across Barcelona, Istanbul, Madrid and Malaga and 3 more. Often billed alongside Carlo, Felipe Bravo and PIECES OF LIFE. Next up: Studio Club Malaga, Malaga on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Thimble is a techno and afro house artist tracked on soundcheck, with 38 sets lo
 
 Carlo, Felipe Bravo, PIECES OF LIFE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thimble/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thimble/)*

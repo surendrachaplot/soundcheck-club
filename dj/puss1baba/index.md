@@ -1,6 +1,6 @@
 # PUSS1 BABA
 
-PUSS1 BABA is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Südpol, Hamburg on Fri, 7 Aug 2026.
+PUSS1 BABA is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Südpol, Hamburg on Fri, 7 Aug 2026.
 
 PUSS1 BABA is a house and trance artist tracked on soundcheck, with 18 sets logged across Hamburg, Leipzig and Nurnberg. Often billed alongside Ivaldo Gino, L.A.tifa and Ring41. Next up: Südpol, Hamburg on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ PUSS1 BABA is a house and trance artist tracked on soundcheck, with 18 sets logg
 
 Ivaldo Gino, L.A.tifa, Ring41
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/puss1baba/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/puss1baba/)*

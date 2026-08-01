@@ -1,6 +1,6 @@
 # PiERO
 
-PiERO is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Piccadilly Premium, Osaka on Sat, 1 Aug 2026.
+PiERO is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Piccadilly Premium, Osaka on Sat, 1 Aug 2026.
 
 PiERO is a psytrance and techno artist tracked on soundcheck, with 38 sets logged across Osaka and Tokyo. Often billed alongside Tom Monkey, MASOI and C!AO. Next up: Piccadilly Premium, Osaka on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ PiERO is a psytrance and techno artist tracked on soundcheck, with 38 sets logge
 
 Tom Monkey, MASOI, C!AO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piero/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piero/)*

@@ -1,6 +1,6 @@
 # Noven
 
-Noven is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bäse Bar Budapest, Budapest on Fri, 7 Aug 2026.
+Noven is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bäse Bar Budapest, Budapest on Fri, 7 Aug 2026.
 
 Noven is a techno and house artist based in Hungary, tracked on soundcheck, with 23 sets logged across Budapest and Cologne. Often billed alongside Norbeev, Dreadsun and Antique (HU). Next up: Bäse Bar Budapest, Budapest on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Noven is a techno and house artist based in Hungary, tracked on soundcheck, with
 
 Norbeev, Dreadsun, Antique (HU)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noven/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noven/)*

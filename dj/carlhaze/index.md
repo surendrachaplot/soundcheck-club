@@ -1,6 +1,6 @@
 # Carl Haze
 
-Carl Haze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at O der Klub, Vienna on Sat, 1 Aug 2026.
+Carl Haze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at O der Klub, Vienna on Sat, 1 Aug 2026.
 
 Carl Haze is a techno and industrial artist based in Austria, tracked on soundcheck, with 25 sets logged across Bangkok, Istanbul and Vienna. Often billed alongside SAMDMA, Huebl and ASCHENBRENNER. Next up: O der Klub, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Carl Haze is a techno and industrial artist based in Austria, tracked on soundch
 
 SAMDMA, Huebl, ASCHENBRENNER
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhaze/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhaze/)*

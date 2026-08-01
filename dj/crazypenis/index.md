@@ -1,8 +1,8 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 22 Aug 2026.
+Crazy P is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 22 Aug 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside MiNNA, DJ Paulette and Danielle Moore. Next up: Frankhan Selectist, Istanbul on Sat 22 Aug.
+Crazy P is a disco and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside MiNNA, DJ Paulette and Danielle Moore. Next up: Frankhan Selectist, Istanbul on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Crazy P is a disco and house artist tracked on soundcheck, with 127 sets logged 
 | Sat, 5 Sept 2026 | LDN East | London |
 | Wed, 16 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Brick Street | Liverpool |
 | Sat, 10 Oct 2026 | Sala Villanos | Madrid |
 
 ## Recently played
@@ -30,4 +31,4 @@ Crazy P is a disco and house artist tracked on soundcheck, with 127 sets logged 
 
 MiNNA, DJ Paulette, Danielle Moore
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

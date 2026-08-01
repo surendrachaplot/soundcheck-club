@@ -1,6 +1,6 @@
 # p1no
 
-p1no is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rebecca's, New York City on Fri, 7 Aug 2026.
+p1no is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rebecca's, New York City on Fri, 7 Aug 2026.
 
 p1no is a club and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Boston, Miami, Newyorkcity and Philadelphia. Often billed alongside Chelita, DJ maddog and Roiju. Next up: Rebecca's, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ p1no is a club and techno artist based in United States of America, tracked on s
 
 Chelita, DJ maddog, Roiju
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*

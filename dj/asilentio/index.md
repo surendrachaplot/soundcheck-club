@@ -1,6 +1,6 @@
 # A.Silentio
 
-A.Silentio is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le Sucre, Lyon on Sun, 9 Aug 2026.
+A.Silentio is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Sucre, Lyon on Sun, 9 Aug 2026.
 
 A.Silentio is a techno and electro artist based in France, tracked on soundcheck, with 13 sets logged across Lyon, Paris and Strasbourg. Often billed alongside D-Leria, Nicolas Rifo and Blazej Malinowski. Next up: Le Sucre, Lyon on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ A.Silentio is a techno and electro artist based in France, tracked on soundcheck
 
 D-Leria, Nicolas Rifo, Blazej Malinowski
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asilentio/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asilentio/)*

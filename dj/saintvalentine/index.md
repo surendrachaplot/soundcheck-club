@@ -1,6 +1,6 @@
 # Saint Valentine
 
-Saint Valentine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le Bain, New York City on Thu, 6 Aug 2026.
+Saint Valentine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Bain, New York City on Thu, 6 Aug 2026.
 
 Saint Valentine is a house and electro artist tracked on soundcheck, with 11 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside The King Diva, Anders Z. and B Hills. Next up: Le Bain, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Saint Valentine is a house and electro artist tracked on soundcheck, with 11 set
 
 The King Diva, Anders Z., B Hills
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintvalentine/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintvalentine/)*

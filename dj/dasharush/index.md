@@ -1,6 +1,6 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
 Dasha Rush is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 153 sets log
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

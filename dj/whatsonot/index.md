@@ -1,6 +1,6 @@
 # What So Not
 
-What So Not is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 1720, Los Angeles on Thu, 6 Aug 2026.
+What So Not is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 1720, Los Angeles on Thu, 6 Aug 2026.
 
 What So Not is a bass and techno artist based in Australia, tracked on soundcheck, with 26 sets logged across Amsterdam, Bali, London and Losangeles and 10 more. Often billed alongside BABii, Big Gigantic and DJ Snake. Next up: 1720, Losangeles on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ What So Not is a bass and techno artist based in Australia, tracked on soundchec
 
 BABii, Big Gigantic, DJ Snake
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsonot/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsonot/)*

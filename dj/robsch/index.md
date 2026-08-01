@@ -1,6 +1,6 @@
 # ROBSCH
 
-ROBSCH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Insomnia, Berlin on Fri, 21 Aug 2026.
+ROBSCH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Insomnia, Berlin on Fri, 21 Aug 2026.
 
 ROBSCH is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Epicx, Alyne and Erebos. Next up: Insomnia, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ ROBSCH is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Epicx, Alyne, Erebos
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robsch/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robsch/)*

@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Jezabel x Doka Studio (World Pride)" on Fri, 31 Jul 2026.
+Doka is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)" on Sat, 1 Aug 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Antal, Colored Craig, De Sluwe Vos and Fais Le Beau and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Antal, Colored Craig, De Sluwe Vos and Fais Le Beau and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Jezabel x Doka Studio (World Pride) | MMIV, Shady Lady |
 | Sat, 1 Aug 2026 | Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride) | Rob Manga, Tama Sumo, some out of none |
 | Thu, 6 Aug 2026 | Kult Funktion Panel - WorldPride |  |
 | Sat, 5 Sept 2026 | Doka Studio with Colored Craig - Fais Le Beau | Colored Craig, Fais Le Beau |
@@ -23,4 +22,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, wit
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

@@ -1,6 +1,6 @@
 # EmblaEliza
 
-EmblaEliza is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Distriktfem, Stockholm on Fri, 7 Aug 2026.
+EmblaEliza is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distriktfem, Stockholm on Fri, 7 Aug 2026.
 
 EmblaEliza is a house and hip-hop artist tracked on soundcheck, with 13 sets logged across Copenhagen, Paris and Stockholm. Often billed alongside RestonsFlex, Adam Spielman and Akalex. Next up: Distriktfem, Stockholm on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ EmblaEliza is a house and hip-hop artist tracked on soundcheck, with 13 sets log
 
 RestonsFlex, Adam Spielman, Akalex
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emblaeliza/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emblaeliza/)*

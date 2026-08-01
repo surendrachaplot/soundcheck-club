@@ -1,14 +1,13 @@
 # Village Underground
 
-Village Underground is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Foster The People presents FTP (DJ Set) " on Fri, 31 Jul 2026.
+Village Underground is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "VU Summer Free Party: Special Guests TBA" on Sat, 22 Aug 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and Bushbaby and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and Bushbaby and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Foster The People presents FTP (DJ Set)  | Foster The People, Oh See, Tino |
 | Sat, 22 Aug 2026 | VU Summer Free Party: Special Guests TBA |  |
 | Fri, 28 Aug 2026 | Channel One Sound System - Carnival Warm Up | Channel One Sound |
 | Sat, 29 Aug 2026 | Places+Faces: 13 Year Party @ Village Underground w/ Secret Special Guests  | Shifa Ligero |
@@ -18,9 +17,10 @@ Village Underground is a music venue in London listed on soundcheck. 15 upcoming
 | Fri, 2 Oct 2026 | Dogshow | Dogshow |
 | Fri, 2 Oct 2026 | Imanu - Village Underground | Imanu |
 | Sat, 3 Oct 2026 | The Sound Society x 22Recordings | C.ru.z, DJ Tree, Dizzy |
+| Sat, 3 Oct 2026 | Origins: Bushbaby [All Night Long] | Bushbaby |
 
 ## Address
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

@@ -1,6 +1,6 @@
 # ChrisCarter
 
-ChrisCarter is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
+ChrisCarter is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
 
 ChrisCarter is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Nettle Dj, Timon (2) and Mista Glitch. Next up: Groovetank Live, London on Fri 21 Aug.
 
@@ -15,4 +15,4 @@ ChrisCarter is an afro house and afro tech artist based in United Kingdom, track
 
 Nettle Dj, Timon (2), Mista Glitch
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscarter/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscarter/)*

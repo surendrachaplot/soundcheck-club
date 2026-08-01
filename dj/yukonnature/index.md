@@ -1,6 +1,6 @@
 # Yukon Nature
 
-Yukon Nature is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at frachtkante, Berlin on Sat, 1 Aug 2026.
+Yukon Nature is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at frachtkante, Berlin on Sat, 1 Aug 2026.
 
 Yukon Nature is a house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Dyslexi, Cosmic Cherry and Berunth. Next up: frachtkante, Berlin on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Yukon Nature is a house artist based in Germany, tracked on soundcheck, with 7 s
 
 Dyslexi, Cosmic Cherry, Berunth
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukonnature/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukonnature/)*

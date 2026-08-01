@@ -1,6 +1,6 @@
 # Chroma
 
-Chroma is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Minimal Bar, Berlin on Tue, 11 Aug 2026.
+Chroma is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Minimal Bar, Berlin on Tue, 11 Aug 2026.
 
 Chroma is a techno and tech house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne and Newyorkcity. Often billed alongside Sika Akis, Felidae and Antikkka. Next up: Minimal Bar, Berlin on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Chroma is a techno and tech house artist based in Germany, tracked on soundcheck
 
 Sika Akis, Felidae, Antikkka
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chroma/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chroma/)*

@@ -1,6 +1,6 @@
 # CVSTRO
 
-CVSTRO is a Latin Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Le Ritz PDB, Montreal on Sat, 8 Aug 2026.
+CVSTRO is a Latin Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 8 Aug 2026.
 
 CVSTRO is a latin bass and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Mexicocity and Montreal. Often billed alongside MLLE CEE, Akpossoul and Devonté. Next up: Bar Le Ritz PDB, Montreal on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ CVSTRO is a latin bass and house artist based in Canada, tracked on soundcheck, 
 
 MLLE CEE, Akpossoul, Devonté
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cvstro/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cvstro/)*

@@ -1,6 +1,6 @@
 # IZZYA
 
-IZZYA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Neukölln, Berlin on Fri, 14 Aug 2026.
+IZZYA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Neukölln, Berlin on Fri, 14 Aug 2026.
 
 IZZYA is a techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Munich and Nurnberg. Often billed alongside Melchiorr, Nepōmuk and DJ Yugo. Next up: TBA - Neukölln, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ IZZYA is a techno artist based in Germany, tracked on soundcheck, with 15 sets l
 
 Melchiorr, Nepōmuk, DJ Yugo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izzya/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzya/)*

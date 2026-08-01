@@ -1,6 +1,6 @@
 # Cosmo
 
-Cosmo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Fri, 7 Aug 2026.
+Cosmo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jupiter Disco, New York City on Fri, 7 Aug 2026.
 
 Cosmo is a techno and house artist based in Italy, tracked on soundcheck, with 43 sets logged across Barcelona, Bucharest, Chicago and Ghent and 11 more. Often billed alongside Jordz, Kim.Qna and Phi Phi. Next up: Jupiter Disco, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Cosmo is a techno and house artist based in Italy, tracked on soundcheck, with 4
 
 Jordz, Kim.Qna, Phi Phi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

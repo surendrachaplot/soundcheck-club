@@ -1,6 +1,6 @@
 # Claddy
 
-Claddy is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
+Claddy is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
 
 Claddy is a house and club artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne and Sydney. Often billed alongside Bertie, Mothafunk and Tinika. Next up: Revolver Upstairs, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Claddy is a house and club artist based in Australia, tracked on soundcheck, wit
 
 Bertie, Mothafunk, Tinika
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claddy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claddy/)*

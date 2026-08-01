@@ -1,6 +1,6 @@
 # Djuar
 
-Djuar is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+Djuar is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 Djuar is an experimental and bass artist based in Ireland, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Delay Grounds, carmen (7) and Dual Monitor. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Djuar is an experimental and bass artist based in Ireland, tracked on soundcheck
 
 Delay Grounds, carmen (7), Dual Monitor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djuar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djuar/)*

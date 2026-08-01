@@ -1,6 +1,6 @@
 # Viridity
 
-Viridity is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Viridity is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Viridity is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol, London and Malta. Often billed alongside Emily Makis, SP:MC and Dillinja. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Viridity is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Emily Makis, SP:MC, Dillinja
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viridity/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viridity/)*

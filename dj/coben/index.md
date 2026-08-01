@@ -1,6 +1,6 @@
 # Coben
 
-Coben is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Bag Factory, Manchester on Sat, 22 Aug 2026.
+Coben is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bag Factory, Manchester on Sat, 22 Aug 2026.
 
 Coben is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Refracta, Smiff and Prolifix. Next up: The Bag Factory, Manchester on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Coben is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Refracta, Smiff, Prolifix
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coben/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coben/)*

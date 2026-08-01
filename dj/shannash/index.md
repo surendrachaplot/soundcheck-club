@@ -1,6 +1,6 @@
 # Shan Nash
 
-Shan Nash is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 7 Aug 2026.
+Shan Nash is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 7 Aug 2026.
 
 Shan Nash is a deep house and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Ali Farahani, Borak and Gru.di. Next up: Do Not Sit On The Furniture, Miami on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Shan Nash is a deep house and house artist based in United States of America, tr
 
 Ali Farahani, Borak, Gru.di
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*

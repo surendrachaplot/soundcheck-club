@@ -1,14 +1,13 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
+HiTMiLØW is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
-HiTMiLØW is a techno and trance artist tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Budapest and Cologne and 14 more. Often billed alongside Cleopard2000, Justin Tinderdate and Mika Heggemann. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
+HiTMiLØW is a techno and trance artist tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Budapest and Cologne and 14 more. Often billed alongside Cleopard2000, Justin Tinderdate and Mika Heggemann. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | RSO.BERLIN | Berlin |
 | Sat, 1 Aug 2026 | Le point fort d'Aubervilliers | Paris |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -18,6 +17,7 @@ HiTMiLØW is a techno and trance artist tracked on soundcheck, with 78 sets logg
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Fri, 31 Jul 2026
 - Westhafen, Leipzig — Sat, 25 Jul 2026
 - Kilomètre25, Paris — Sat, 27 Jun 2026
 - Sala Independance Club, Madrid — Fri, 5 Jun 2026
@@ -25,10 +25,9 @@ HiTMiLØW is a techno and trance artist tracked on soundcheck, with 78 sets logg
 - Cieloterra, Rome — Sat, 30 May 2026
 - RSO.BERLIN, Berlin — Fri, 22 May 2026
 - Aura Nightclub, Sydney — Fri, 15 May 2026
-- Liquid Club, Malta — Fri, 8 May 2026
 
 ## Shares bills with
 
 Cleopard2000, Justin Tinderdate, Mika Heggemann
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*

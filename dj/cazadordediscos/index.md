@@ -1,6 +1,6 @@
 # Cazador de Discos
 
-Cazador de Discos is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Oriente, Mexico City on Sat, 1 Aug 2026.
+Cazador de Discos is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Oriente, Mexico City on Sat, 1 Aug 2026.
 
 Cazador de Discos is a house and progressive house artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Cinema Paradisco, Alatriste and Disco 86. Next up: Bar Oriente, Mexicocity on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Cazador de Discos is a house and progressive house artist based in Mexico, track
 
 Cinema Paradisco, Alatriste, Disco 86
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cazadordediscos/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cazadordediscos/)*

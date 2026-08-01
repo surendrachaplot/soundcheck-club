@@ -1,6 +1,6 @@
 # Log _In
 
-Log _In is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+Log _In is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 Log _In is an electronica and house artist based in Venezuela, tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, London and Miami and 1 more. Often billed alongside San Dee, Atomyard and Cristobal ON. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Log _In is an electronica and house artist based in Venezuela, tracked on soundc
 
 San Dee, Atomyard, Cristobal ON
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/log_in/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/log_in/)*

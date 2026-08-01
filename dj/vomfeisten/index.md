@@ -1,6 +1,6 @@
 # vom Feisten
 
-vom Feisten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+vom Feisten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 vom Feisten is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Daniel Neuland, Dydaa Forne and Martin Ka. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ vom Feisten is a techno and house artist tracked on soundcheck, with 80 sets log
 
 Daniel Neuland, Dydaa Forne, Martin Ka
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*

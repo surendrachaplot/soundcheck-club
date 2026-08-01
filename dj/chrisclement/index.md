@@ -1,6 +1,6 @@
 # Chris Clement
 
-Chris Clement is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Chemist, Boston on Sat, 1 Aug 2026.
+Chris Clement is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Chemist, Boston on Sat, 1 Aug 2026.
 
 Chris Clement is a deep house and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston and Edinburgh. Often billed alongside Selector X, Chelita and DIANA. Next up: The Chemist, Boston on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Chris Clement is a deep house and house artist based in United States of America
 
 Selector X, Chelita, DIANA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisclement/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisclement/)*

@@ -1,6 +1,6 @@
 # Vanni
 
-Vanni is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Vanni is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Vanni is a house and r&b artist based in Italy, tracked on soundcheck, with 6 sets logged across Berlin, Milan and Rotterdam. Often billed alongside Phill Prince, AARON GEHRIG and Alben. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Vanni is a house and r&b artist based in Italy, tracked on soundcheck, with 6 se
 
 Phill Prince, AARON GEHRIG, Alben
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanni/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanni/)*

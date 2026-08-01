@@ -1,8 +1,8 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+Aurora Halal is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Aurora Halal is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Priori, Nick León and Polygonia. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
+Aurora Halal is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Priori, Nick León and Polygonia. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 212 sets l
 | Fri, 28 Aug 2026 | Outer Heaven | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 212 sets l
 
 Priori, Nick León, Polygonia
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

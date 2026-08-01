@@ -1,6 +1,6 @@
 # Munchie
 
-Munchie is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
+Munchie is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
 
 Munchie is a garage and house artist based in Taiwan, tracked on soundcheck, with 4 sets logged across London. Often billed alongside AM (8), DJ Listener and Dj Essence. Next up: 93 Feet East, London on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Munchie is a garage and house artist based in Taiwan, tracked on soundcheck, wit
 
 AM (8), DJ Listener, Dj Essence
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/munchie/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munchie/)*

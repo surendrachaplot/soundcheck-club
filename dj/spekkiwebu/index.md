@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Spekki Webu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Spekki Webu is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside OCCA, Mama Snake and Feral. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 193 sets lo
 
 OCCA, Mama Snake, Feral
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

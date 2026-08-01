@@ -1,13 +1,14 @@
 # Bi Män
 
-Bi Män is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Insomnia, Berlin on Sat, 15 Aug 2026.
+Bi Män is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Fundbureau, Hamburg on Fri, 7 Aug 2026.
 
-Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin and Munich. Often billed alongside AFAR, Baerbel and Bee Lincoln. Next up: Insomnia, Berlin on Sat 15 Aug.
+Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Hamburg and Munich. Often billed alongside AFAR, Baerbel and Bee Lincoln. Next up: Fundbureau, Hamburg on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Fundbureau | Hamburg |
 | Sat, 15 Aug 2026 | Insomnia | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 AFAR, Baerbel, Bee Lincoln
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*

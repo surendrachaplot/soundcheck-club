@@ -1,6 +1,6 @@
 # Yowlandi
 
-Yowlandi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Yowlandi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Yowlandi is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Leipzig. Often billed alongside MIDNXGHT, Pavelo Promillo and marengo (2). Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Yowlandi is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 MIDNXGHT, Pavelo Promillo, marengo (2)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yowlandi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yowlandi/)*

@@ -1,6 +1,6 @@
 # Jimbo (MX)
 
-Jimbo (MX) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bajo Mundo, Mexico City on Sat, 1 Aug 2026.
+Jimbo (MX) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 1 Aug 2026.
 
 Jimbo (MX) is a house and trance artist based in Mexico, tracked on soundcheck, with 19 sets logged across Denver, Madrid, Malta and Mexicocity and 3 more. Often billed alongside Jeny Michelle, CAMILLA and Diego Walle. Next up: Bajo Mundo, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jimbo (MX) is a house and trance artist based in Mexico, tracked on soundcheck, 
 
 Jeny Michelle, CAMILLA, Diego Walle
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbomx/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbomx/)*

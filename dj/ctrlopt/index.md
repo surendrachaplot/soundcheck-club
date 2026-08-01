@@ -1,6 +1,6 @@
 # Ctrl+Opt
 
-Ctrl+Opt is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
+Ctrl+Opt is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
 
 Ctrl+Opt is a tech house and acid artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Denver and Lisbon and 5 more. Often billed alongside Girlcop, Milo Ziro and Jinks. Next up: Club der Visionaere, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Ctrl+Opt is a tech house and acid artist tracked on soundcheck, with 21 sets log
 
 Girlcop, Milo Ziro, Jinks
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlopt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlopt/)*

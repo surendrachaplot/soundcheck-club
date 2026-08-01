@@ -1,6 +1,6 @@
 # SUPR SPRT
 
-SUPR SPRT is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jade, New York City on Thu, 13 Aug 2026.
+SUPR SPRT is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jade, New York City on Thu, 13 Aug 2026.
 
 SUPR SPRT is a club and garage artist based in Tajikistan, tracked on soundcheck, with 24 sets logged across Losangeles and Newyorkcity. Often billed alongside Grabba Ranks, NoahG and Kasey Cortez. Next up: Jade, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ SUPR SPRT is a club and garage artist based in Tajikistan, tracked on soundcheck
 
 Grabba Ranks, NoahG, Kasey Cortez
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suprsprt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suprsprt/)*

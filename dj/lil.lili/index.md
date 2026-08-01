@@ -1,6 +1,6 @@
 # lil.lili
 
-lil.lili is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+lil.lili is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 lil.lili is a downtempo and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Hamburg, Munich and Nurnberg. Often billed alongside A.B.U., EXZ and Francesca. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ lil.lili is a downtempo and techno artist based in Germany, tracked on soundchec
 
 A.B.U., EXZ, Francesca
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lil.lili/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lil.lili/)*

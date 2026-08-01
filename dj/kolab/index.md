@@ -1,6 +1,6 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Kø:lab is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Kø:lab is a techno and trance artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 20 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -33,4 +33,4 @@ Kø:lab is a techno and trance artist tracked on soundcheck, with 110 sets logge
 
 SEKTOR69, Cara Elizabeth, Dominique Lamee
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*

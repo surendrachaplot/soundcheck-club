@@ -1,14 +1,13 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Marcel Dettmann is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Marcel Dettmann is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: BLITZ, Munich on Fri 31 Jul.
+Marcel Dettmann is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
@@ -23,6 +22,7 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 251 set
 
 ## Recently played
 
+- BLITZ, Munich — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Boston Manor Park, London — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
@@ -30,10 +30,9 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 251 set
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Lux Fragil, Lisbon — Fri, 19 Jun 2026
 - 528 Ibiza, Ibiza — Tue, 16 Jun 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

@@ -1,6 +1,6 @@
 # Nick V
 
-Nick V is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Badaboum, Paris on Sat, 22 Aug 2026.
+Nick V is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Badaboum, Paris on Sat, 22 Aug 2026.
 
 Nick V is a house and disco artist tracked on soundcheck, with 79 sets logged across Berlin, Geneva, Liverpool and Lyon and 3 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Badaboum, Paris on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Nick V is a house and disco artist tracked on soundcheck, with 79 sets logged ac
 
 DJ André, Odd Sweet, Crowd Control
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*

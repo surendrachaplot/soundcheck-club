@@ -1,6 +1,6 @@
 # haloplus+
 
-haloplus+ is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
+haloplus+ is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
 
 haloplus+ is an experimental and club artist based in Denmark, tracked on soundcheck, with 13 sets logged across Copenhagen and Paris. Often billed alongside Atusa, Deb Foam and Fine (2). Next up: Trifolium, Copenhagen on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ haloplus+ is an experimental and club artist based in Denmark, tracked on soundc
 
 Atusa, Deb Foam, Fine (2)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haloplus/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haloplus/)*

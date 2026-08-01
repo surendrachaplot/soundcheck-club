@@ -1,6 +1,6 @@
 # Bernd Amman
 
-Bernd Amman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Bernd Amman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Bernd Amman is a techno and house artist based in Austria, tracked on soundcheck, with 5 sets logged across Vienna. Often billed alongside MELIMEKO, PAUNA and Angiko (2). Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Bernd Amman is a techno and house artist based in Austria, tracked on soundcheck
 
 MELIMEKO, PAUNA, Angiko (2)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berndamman/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berndamman/)*

@@ -1,6 +1,6 @@
 # nanatranquillo
 
-nanatranquillo is a Ghetto Tech and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uebel & Gefährlich, Hamburg on Fri, 7 Aug 2026.
+nanatranquillo is a Ghetto Tech and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Uebel & Gefährlich, Hamburg on Fri, 7 Aug 2026.
 
 nanatranquillo is a ghetto tech and bass artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Haaizey, Cho Room and Speckman. Next up: Uebel & Gefährlich, Hamburg on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ nanatranquillo is a ghetto tech and bass artist based in Germany, tracked on sou
 
 Haaizey, Cho Room, Speckman
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanatranquillo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanatranquillo/)*

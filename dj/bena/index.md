@@ -1,6 +1,6 @@
 # Bena
 
-Bena is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cellar, London on Sat, 15 Aug 2026.
+Bena is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Cellar, London on Sat, 15 Aug 2026.
 
 Bena is a techno and italo disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Frankfurt and London. Often billed alongside Chameleonas, Daniele Mizar and Emanuel Pavlova. Next up: Cellar, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bena is a techno and italo disco artist based in United States of America, track
 
 Chameleonas, Daniele Mizar, Emanuel Pavlova
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*

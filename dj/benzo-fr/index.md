@@ -1,6 +1,6 @@
 # BenzØ
 
-BenzØ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OST, Berlin on Fri, 14 Aug 2026.
+BenzØ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OST, Berlin on Fri, 14 Aug 2026.
 
 BenzØ is a techno and hardcore artist based in France, tracked on soundcheck, with 23 sets logged across Berlin, Marseille and Paris. Often billed alongside Wolk, Double Trouble (1) and La Penderie Noire. Next up: OST, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ BenzØ is a techno and hardcore artist based in France, tracked on soundcheck, w
 
 Wolk, Double Trouble (1), La Penderie Noire
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo-fr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo-fr/)*

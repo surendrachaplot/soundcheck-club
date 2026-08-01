@@ -1,6 +1,6 @@
 # LUNA.le
 
-LUNA.le is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
+LUNA.le is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
 
 LUNA.le is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Leipzig. Often billed alongside Aset, Ben Derris and DJ Schnellena. Next up: elipamanoke, Leipzig on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ LUNA.le is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Aset, Ben Derris, DJ Schnellena
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luna.le/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luna.le/)*

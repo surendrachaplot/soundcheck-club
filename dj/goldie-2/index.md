@@ -1,6 +1,6 @@
 # goldie (2)
 
-goldie (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
+goldie (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
 
 goldie (2) is a house and techno artist tracked on soundcheck, with 49 sets logged across Auckland, Berlin, Cologne and Hamburg and 2 more. Often billed alongside Big Honey, CHOREOPHILA and Multifun. Next up: Kater, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ goldie (2) is a house and techno artist tracked on soundcheck, with 49 sets logg
 
 Big Honey, CHOREOPHILA, Multifun
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie-2/)*

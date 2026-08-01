@@ -1,6 +1,6 @@
 # Chopper
 
-Chopper is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Liquid Club, Malta on Fri, 28 Aug 2026.
+Chopper is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Liquid Club, Malta on Fri, 28 Aug 2026.
 
 Chopper is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside FINKY, Ryan Resso and Evie. Next up: Liquid Club, Malta on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Chopper is a house and tech house artist based in United Kingdom, tracked on sou
 
 FINKY, Ryan Resso, Evie
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*

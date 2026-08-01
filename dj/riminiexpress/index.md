@@ -1,6 +1,6 @@
 # Rimini Express
 
-Rimini Express is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at NAR, Utrecht on Sat, 1 Aug 2026.
+Rimini Express is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NAR, Utrecht on Sat, 1 Aug 2026.
 
 Rimini Express is an italo disco and disco artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Marsman, Pucklectic and Benny Rodrigues. Next up: NAR, Utrecht on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rimini Express is an italo disco and disco artist based in Netherlands, tracked 
 
 Marsman, Pucklectic, Benny Rodrigues
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riminiexpress/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riminiexpress/)*

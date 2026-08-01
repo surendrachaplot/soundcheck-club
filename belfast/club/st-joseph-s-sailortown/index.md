@@ -1,6 +1,6 @@
 # St. Joseph’s, Sailortown
 
-St. Joseph’s, Sailortown is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "AVA x Fleadh 2026: SLOUCHO & Rory Sweeney, St. Joseph's, Sailortown - Free RSVP" on Fri, 7 Aug 2026.
+St. Joseph’s, Sailortown is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "AVA x Fleadh 2026: SLOUCHO & Rory Sweeney, St. Joseph's, Sailortown - Free RSVP" on Fri, 7 Aug 2026.
 
 St. Joseph’s, Sailortown is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including Rory Sweeney and SLOUCHO. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ St. Joseph’s, Sailortown is a music venue in Belfast listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | AVA x Fleadh 2026: SLOUCHO & Rory Sweeney, St. Joseph's, Sailortown - Free RSVP | Rory Sweeney, SLOUCHO |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/st-joseph-s-sailortown/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/st-joseph-s-sailortown/)*

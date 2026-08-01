@@ -1,15 +1,13 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Rene Wise is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Rene Wise is a techno and house artist tracked on soundcheck, with 236 sets logged across Amsterdam, Athens, Austin and Barcelona and 68 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: BLITZ, Munich on Fri 31 Jul.
+Rene Wise is a techno and house artist tracked on soundcheck, with 236 sets logged across Amsterdam, Athens, Austin and Barcelona and 68 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BLITZ | Munich |
-| Fri, 31 Jul 2026 | RADION | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
 | Fri, 7 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -20,20 +18,22 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 236 sets logg
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 2 Oct 2026 | TBA | Boston |
 | Sat, 3 Oct 2026 | Art Club | Houston |
+| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 
 ## Recently played
 
+- BLITZ, Munich — Fri, 31 Jul 2026
+- RADION, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga — Fri, 24 Jul 2026
 - Gare Porto, Porto — Sat, 18 Jul 2026
 - Circle Park, Brussels — Sat, 4 Jul 2026
 - Razzmatazz, Barcelona — Sat, 4 Jul 2026
 - Lux Fragil, Lisbon — Fri, 26 Jun 2026
-- The Cause, London — Sat, 13 Jun 2026
-- TBA - Warehouse, Paris — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

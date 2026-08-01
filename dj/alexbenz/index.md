@@ -1,6 +1,6 @@
 # Alex Benz
 
-Alex Benz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Westhafen, Leipzig on Sat, 1 Aug 2026.
+Alex Benz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Westhafen, Leipzig on Sat, 1 Aug 2026.
 
 Alex Benz is a techno and house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside djcob, Bailey Brown and Madman. Next up: Westhafen, Leipzig on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Alex Benz is a techno and house artist based in Germany, tracked on soundcheck, 
 
 djcob, Bailey Brown, Madman
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbenz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbenz/)*

@@ -1,6 +1,6 @@
 # The Brahma
 
-The Brahma is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bulbul Berlin, Berlin on Sat, 1 Aug 2026.
+The Brahma is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 1 Aug 2026.
 
 The Brahma is a house and disco artist tracked on soundcheck, with 18 sets logged across Berlin and Copenhagen. Often billed alongside Flaaviø, Arnaud Denzler and Cliff Colada. Next up: Bulbul Berlin, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ The Brahma is a house and disco artist tracked on soundcheck, with 18 sets logge
 
 Flaaviø, Arnaud Denzler, Cliff Colada
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrahma/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrahma/)*

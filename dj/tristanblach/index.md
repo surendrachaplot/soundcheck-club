@@ -1,6 +1,6 @@
 # Tristan Blach
 
-Tristan Blach is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
+Tristan Blach is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
 
 Tristan Blach is a techno and minimal artist based in France, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin and Paris. Often billed alongside JOLY, LUNAR and Maris Shilton. Next up: Renate, Berlin on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Tristan Blach is a techno and minimal artist based in France, tracked on soundch
 
 JOLY, LUNAR, Maris Shilton
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanblach/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanblach/)*

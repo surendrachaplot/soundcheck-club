@@ -1,14 +1,13 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Verraco is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Verraco is a techno and bass artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
+Verraco is a techno and bass artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Garage Noord | Amsterdam |
 | Fri, 7 Aug 2026 | Old Royal Naval College | London |
@@ -20,6 +19,7 @@ Verraco is a techno and bass artist tracked on soundcheck, with 124 sets logged 
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Fvtvr, Paris — Fri, 10 Jul 2026
@@ -27,10 +27,9 @@ Verraco is a techno and bass artist tracked on soundcheck, with 124 sets logged 
 - BLITZ, Munich — Fri, 26 Jun 2026
 - Else, Berlin — Sat, 20 Jun 2026
 - Trädgården, Stockholm — Fri, 12 Jun 2026
-- Trädgården, Stockholm — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Bitter Babe, CCL, Batu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

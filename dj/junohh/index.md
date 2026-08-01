@@ -1,18 +1,23 @@
 # JUNOHH
 
-JUNOHH is a Garage and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Makossa, London on Fri, 31 Jul 2026.
+JUNOHH is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
 
-JUNOHH is a garage and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside DIMV, Glitch (LDN) and POLLY (UK). Next up: Club Makossa, London on Fri 31 Jul.
+JUNOHH is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside B1OS, DIMV and Emma Ash. Next up: The Queen Adelaide, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Club Makossa | London |
 | Fri, 21 Aug 2026 | The Queen Adelaide | London |
+
+## Recently played
+
+- Club Makossa, London — Fri, 31 Jul 2026
+- Munster Munch, London — Sat, 11 Jul 2026
+- Club Makossa, London — Sun, 5 Jul 2026
 
 ## Shares bills with
 
-DIMV, Glitch (LDN), POLLY (UK)
+B1OS, DIMV, Emma Ash
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junohh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junohh/)*

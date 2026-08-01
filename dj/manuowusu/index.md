@@ -1,6 +1,6 @@
 # MANU OWUSU
 
-MANU OWUSU is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+MANU OWUSU is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 MANU OWUSU is a house and minimal artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Hamburg. Often billed alongside Anton Jonathan, Jean Mauj and Carl Bergé. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MANU OWUSU is a house and minimal artist based in Germany, tracked on soundcheck
 
 Anton Jonathan, Jean Mauj, Carl Bergé
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuowusu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuowusu/)*

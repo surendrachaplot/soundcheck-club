@@ -1,6 +1,6 @@
 # Hanzo Tono
 
-Hanzo Tono is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Badaboum, Paris on Fri, 7 Aug 2026.
+Hanzo Tono is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Badaboum, Paris on Fri, 7 Aug 2026.
 
 Hanzo Tono is a house and tech house artist based in Mexico, tracked on soundcheck, with 47 sets logged across Barcelona, Mexicocity, Osaka and Paris and 1 more. Often billed alongside Elwei, FU (JP) and CHIDA. Next up: Badaboum, Paris on Fri 7 Aug.
 
@@ -13,7 +13,7 @@ Hanzo Tono is a house and tech house artist based in Mexico, tracked on soundche
 ## Recently played
 
 - Sunseabar Beach Club, Barcelona — Thu, 23 Jul 2026
-- TBA, Mexico City — Sat, 4 Jul 2026
+- TBA - CDMX, Mexico City — Sat, 4 Jul 2026
 - TBA, Mexico City — Sat, 4 Jul 2026
 - TBA, Mexico City — Fri, 15 May 2026
 - Fünk, Mexico City — Thu, 7 May 2026
@@ -25,4 +25,4 @@ Hanzo Tono is a house and tech house artist based in Mexico, tracked on soundche
 
 Elwei, FU (JP), CHIDA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanzotono/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanzotono/)*

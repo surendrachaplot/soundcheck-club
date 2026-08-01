@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Chloé Caillet is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Trädgården, Stockholm on Sat, 1 Aug 2026.
 
-Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: Trädgården, Stockholm on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 1 Aug 2026 | Trädgården | Stockholm |
 | Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
@@ -22,6 +21,7 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets
 
 ## Recently played
 
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
@@ -29,10 +29,9 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Queen Elizabeth Hall Foyer, London — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 DJ Tennis, Seth Troxler, Mochakk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

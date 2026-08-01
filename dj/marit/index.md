@@ -1,6 +1,6 @@
 # Marit
 
-Marit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+Marit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 Marit is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin and Mexicocity. Often billed alongside Habibi Grooves, Jana Falcon and Lea Czychy. Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Marit is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Habibi Grooves, Jana Falcon, Lea Czychy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marit/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marit/)*

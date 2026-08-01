@@ -1,6 +1,6 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Michel de Hey is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Michel de Hey is a house and tech house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -34,4 +34,4 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 128 s
 
 Benny Rodrigues, Prunk, AAT (NL)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*

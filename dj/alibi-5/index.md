@@ -1,6 +1,6 @@
 # Alibi (5)
 
-Alibi (5) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
+Alibi (5) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
 
 Alibi (5) is a house and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside unjani, JulesBo and dannycookin. Next up: Baalsaal, Hamburg on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Alibi (5) is a house and trance artist based in Germany, tracked on soundcheck, 
 
 unjani, JulesBo, dannycookin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alibi-5/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alibi-5/)*

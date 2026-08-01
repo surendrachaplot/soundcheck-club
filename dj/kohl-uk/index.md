@@ -1,6 +1,6 @@
 # KOHL
 
-KOHL is a Hip-Hop and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Soukenícká 29, Prague on Sun, 2 Aug 2026.
+KOHL is a Hip-Hop and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Soukenícká 29, Prague on Sun, 2 Aug 2026.
 
 KOHL is a hip-hop and ebm artist tracked on soundcheck, with 13 sets logged across London and Prague. Often billed alongside Jester, Ricardo Castro and Steve Weeks. Next up: TBA - Soukenícká 29, Prague on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ KOHL is a hip-hop and ebm artist tracked on soundcheck, with 13 sets logged acro
 
 Jester, Ricardo Castro, Steve Weeks
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohl-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kohl-uk/)*

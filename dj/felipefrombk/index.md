@@ -1,6 +1,6 @@
 # Felipe From BK
 
-Felipe From BK is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
+Felipe From BK is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
 
 Felipe From BK is a house and disco artist based in Mexico, tracked on soundcheck, with 18 sets logged across Ibiza, Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside For Future's Sake, Greg Paulus and Motel Club. Next up: Xanadu, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Felipe From BK is a house and disco artist based in Mexico, tracked on soundchec
 
 For Future's Sake, Greg Paulus, Motel Club
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felipefrombk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felipefrombk/)*

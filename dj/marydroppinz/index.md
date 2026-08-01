@@ -1,14 +1,15 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Mary Droppinz is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 48 sets logged across Boston, Chicago, Denver and Detroit and 11 more. Often billed alongside Zeds Dead, Matroda and Boys Noize. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 49 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Zeds Dead, Matroda and Boys Noize. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
+| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mary Droppinz is a house and bass artist based in United States of America, trac
 
 Zeds Dead, Matroda, Boys Noize
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

@@ -1,6 +1,6 @@
 # Dis Fig
 
-Dis Fig is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Neue Zukunft, Berlin on Thu, 6 Aug 2026.
+Dis Fig is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Neue Zukunft, Berlin on Thu, 6 Aug 2026.
 
 Dis Fig is an experimental and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside The Bug, Crystallmess and Ehua. Next up: Neue Zukunft, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Dis Fig is an experimental and bass artist tracked on soundcheck, with 55 sets l
 
 The Bug, Crystallmess, Ehua
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disfig/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disfig/)*

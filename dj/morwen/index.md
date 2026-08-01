@@ -1,6 +1,6 @@
 # Mor Wen
 
-Mor Wen is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Čistírna1906, Prague on Sat, 1 Aug 2026.
+Mor Wen is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Čistírna1906, Prague on Sat, 1 Aug 2026.
 
 Mor Wen is an experimental and club artist based in Czech Republic, tracked on soundcheck, with 33 sets logged across Berlin and Prague. Often billed alongside Qow, ionai and Alfred Czital. Next up: Čistírna1906, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mor Wen is an experimental and club artist based in Czech Republic, tracked on s
 
 Qow, ionai, Alfred Czital
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morwen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morwen/)*

@@ -1,6 +1,6 @@
 # Sarcophago
 
-Sarcophago is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
+Sarcophago is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
 
 Sarcophago is a tech house and acid artist based in Peru, tracked on soundcheck, with 40 sets logged across Madrid. Often billed alongside Kamboya, WIZE and alguien. Next up: Sala Siroco, Madrid on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sarcophago is a tech house and acid artist based in Peru, tracked on soundcheck,
 
 Kamboya, WIZE, alguien
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarcophago/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarcophago/)*

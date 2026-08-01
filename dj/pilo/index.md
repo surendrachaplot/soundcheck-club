@@ -1,6 +1,6 @@
 # Pilo
 
-Pilo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Avalon Hollywood, Los Angeles on Sun, 2 Aug 2026.
+Pilo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Avalon Hollywood, Los Angeles on Sun, 2 Aug 2026.
 
 Pilo is a techno and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles, Miami, Newyorkcity and Sandiego. Often billed alongside Baseck, Lake Hills and Marie Nyx. Next up: Avalon Hollywood, Losangeles on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Pilo is a techno and club artist based in United States of America, tracked on s
 
 Baseck, Lake Hills, Marie Nyx
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pilo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilo/)*

@@ -1,8 +1,8 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
 
-Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 10 more. Often billed alongside Nicky B, Ray Keith and Kenny Ken. Next up: Brixton Jamm, London on Fri 14 Aug.
+Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with 135 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 10 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: Brixton Jamm, London on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with
 | Fri, 14 Aug 2026 | Brixton Jamm | London |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
+| Sat, 3 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with
 
 ## Shares bills with
 
-Nicky B, Ray Keith, Kenny Ken
+Nicky B, Kenny Ken, Ray Keith
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

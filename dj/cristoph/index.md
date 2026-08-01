@@ -1,8 +1,8 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Castaways, Chicago on Sat, 8 Aug 2026.
+Cristoph is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Castaways, Chicago on Sat, 8 Aug 2026.
 
-Cristoph is a techno and progressive house artist tracked on soundcheck, with 141 sets logged across Auckland, Austin, Bali and Berlin and 34 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Castaways, Chicago on Sat 8 Aug.
+Cristoph is a techno and progressive house artist tracked on soundcheck, with 142 sets logged across Auckland, Austin, Bali and Berlin and 34 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Castaways, Chicago on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Cristoph is a techno and progressive house artist tracked on soundcheck, with 14
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Club Vinyl | Denver |
 | Sat, 3 Oct 2026 | Digital | Newcastle |
+| Sat, 10 Oct 2026 | Joshua Brooks | Manchester |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Cristoph is a techno and progressive house artist tracked on soundcheck, with 14
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

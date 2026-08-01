@@ -1,6 +1,6 @@
 # Phalcon
 
-Phalcon is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
+Phalcon is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
 
 Phalcon is a techno and bass artist tracked on soundcheck, with 13 sets logged across Berlin, Copenhagen and Madrid. Often billed alongside Octo Åeterna, Raia and Avant.OCS. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Phalcon is a techno and bass artist tracked on soundcheck, with 13 sets logged a
 
 Octo Åeterna, Raia, Avant.OCS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phalcon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phalcon/)*

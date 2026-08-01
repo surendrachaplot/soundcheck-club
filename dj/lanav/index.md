@@ -1,6 +1,6 @@
 # Lanav
 
-Lanav is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Lanav is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Lanav is a bass and breakbeat artist based in Spain, tracked on soundcheck, with 41 sets logged across Barcelona, London, Madrid and Newyorkcity and 1 more. Often billed alongside Jehia, Just Claudia and Akazie. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lanav is a bass and breakbeat artist based in Spain, tracked on soundcheck, with
 
 Jehia, Just Claudia, Akazie
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lanav/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanav/)*

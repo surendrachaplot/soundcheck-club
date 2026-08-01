@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "UTRA ROUGE Label Launch" on Sat, 1 Aug 2026.
+Madame Claude is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "UTRA ROUGE Label Launch" on Sat, 1 Aug 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Hye-Eun Kim. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 2 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

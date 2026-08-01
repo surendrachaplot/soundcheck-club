@@ -1,6 +1,6 @@
 # HANAFIA'
 
-HANAFIA' is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
+HANAFIA' is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
 
 HANAFIA' is a techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, London and Munich. Often billed alongside Besch, Zuleta M and Gonzalo Lavin (Chile). Next up: Ritter Butzke, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ HANAFIA' is a techno artist based in Germany, tracked on soundcheck, with 10 set
 
 Besch, Zuleta M, Gonzalo Lavin (Chile)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanafia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanafia/)*

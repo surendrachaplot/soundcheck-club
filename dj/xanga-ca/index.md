@@ -1,6 +1,6 @@
 # XANGA
 
-XANGA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
+XANGA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
 
 XANGA is a house and electro artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside DR 4SKYN, emmy.wav and Delicious DJ. Next up: Standard Time, Toronto on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ XANGA is a house and electro artist based in Canada, tracked on soundcheck, with
 
 DR 4SKYN, emmy.wav, Delicious DJ
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*

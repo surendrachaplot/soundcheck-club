@@ -1,6 +1,6 @@
 # BRT.C
 
-BRT.C is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Thu, 6 Aug 2026.
+BRT.C is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Thu, 6 Aug 2026.
 
 BRT.C is a techno and electro artist based in Turkey, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside DEN!SE, Solvados and GVMEDNA. Next up: ://about blank, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ BRT.C is a techno and electro artist based in Turkey, tracked on soundcheck, wit
 
 DEN!SE, Solvados, GVMEDNA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brt.c/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brt.c/)*

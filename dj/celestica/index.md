@@ -1,6 +1,6 @@
 # celestica
 
-celestica is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+celestica is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 celestica is a techno and ambient artist based in Estonia, tracked on soundcheck, with 7 sets logged across Berlin and Tallinn. Often billed alongside Tanel Mütt, Type1 and White Gloss. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -12,7 +12,7 @@ celestica is a techno and ambient artist based in Estonia, tracked on soundcheck
 
 ## Recently played
 
-- ., Berlin — Thu, 2 Jul 2026
+- Kwia, Berlin — Thu, 2 Jul 2026
 - Paavli Kultuurivabrik, Tallinn — Fri, 13 Mar 2026
 - Paavli Kultuurivabrik, Tallinn — Sat, 19 Apr 2025
 - Paavli Kultuurivabrik, Tallinn — Tue, 31 Dec 2024
@@ -23,4 +23,4 @@ celestica is a techno and ambient artist based in Estonia, tracked on soundcheck
 
 Tanel Mütt, Type1, White Gloss
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/celestica/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celestica/)*

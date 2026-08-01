@@ -1,6 +1,6 @@
 # Reger
 
-Reger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
+Reger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
 
 Reger is a techno and house artist tracked on soundcheck, with 33 sets logged across Belfast, Dublin and Edinburgh. Often billed alongside Plain Sailing DJs, Optmst and Mount Palomar. Next up: The Ulster Sports Club, Belfast on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Reger is a techno and house artist tracked on soundcheck, with 33 sets logged ac
 
 Plain Sailing DJs, Optmst, Mount Palomar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reger/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reger/)*

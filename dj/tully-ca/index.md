@@ -1,6 +1,6 @@
 # Tully
 
-Tully is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Jam Jar, Bristol on Sat, 15 Aug 2026.
+Tully is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Jam Jar, Bristol on Sat, 15 Aug 2026.
 
 Tully is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Bristol, London and Vancouver. Often billed alongside Angel Mel, C-Star and Dose.. Next up: The Jam Jar, Bristol on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Tully is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Angel Mel, C-Star, Dose.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tully-ca/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tully-ca/)*

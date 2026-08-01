@@ -1,8 +1,8 @@
 # Entasia
 
-Entasia is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Entasia is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Entasia is a house and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Entasia is a house and trance artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Entasia is a house and trance artist tracked on soundcheck, with 56 sets logged 
 
 ## Recently played
 
+- Het Sieraad, Amsterdam — Sat, 25 Jul 2026
 - Soup, Manchester — Fri, 24 Jul 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
 - BASIS, Utrecht — Fri, 19 Jun 2026
@@ -22,10 +23,9 @@ Entasia is a house and trance artist tracked on soundcheck, with 56 sets logged 
 - NUMBER 90 LONDON, London — Wed, 10 Jun 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Cabaret Voltaire, Edinburgh — Sat, 30 May 2026
-- High Lights - Barking Park, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Inafekt, Kyle Starkey, DART
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

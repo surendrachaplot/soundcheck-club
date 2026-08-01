@@ -1,6 +1,6 @@
 # Cryptofauna
 
-Cryptofauna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
+Cryptofauna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
 
 Cryptofauna is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: TILLATEC, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cryptofauna is a techno and trance artist tracked on soundcheck, with 130 sets l
 
 Carly Zeng, Faerber, ENNIO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*

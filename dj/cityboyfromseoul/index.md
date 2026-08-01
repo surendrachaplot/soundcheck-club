@@ -1,6 +1,6 @@
 # Cityboy from Seoul
 
-Cityboy from Seoul is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at FFF, Seoul on Sat, 1 Aug 2026.
+Cityboy from Seoul is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at FFF, Seoul on Sat, 1 Aug 2026.
 
 Cityboy from Seoul is a house and disco artist based in South Korea, tracked on soundcheck, with 309 sets logged across Osaka, Seoul, Singapore and Tokyo. Often billed alongside Youngisland, Joshüa and RTRP. Next up: FFF, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cityboy from Seoul is a house and disco artist based in South Korea, tracked on 
 
 Youngisland, Joshüa, RTRP
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboyfromseoul/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboyfromseoul/)*

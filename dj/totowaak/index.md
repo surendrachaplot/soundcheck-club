@@ -1,6 +1,6 @@
 # Toto Waak
 
-Toto Waak is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
+Toto Waak is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
 
 Toto Waak is a house and downtempo artist based in Chile, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside B. Clarke, Bryta and Clemente (DE). Next up: Fluxbau, Berlin on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Toto Waak is a house and downtempo artist based in Chile, tracked on soundcheck,
 
 B. Clarke, Bryta, Clemente (DE)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totowaak/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totowaak/)*

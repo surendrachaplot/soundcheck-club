@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Cruisin after x B/plr. x Uvar x Deepfields with Priku / Arapu / Sepp / Nu Zau" on Sat, 1 Aug 2026.
+Kassa Boat is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Cruisin after x B/plr. x Uvar x Deepfields with Priku / Arapu / Sepp / Nu Zau" on Sat, 1 Aug 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Arapu, baeker, DJ Budai and DLR and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -20,4 +20,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming nights,
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

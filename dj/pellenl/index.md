@@ -1,6 +1,6 @@
 # Pelle (NL)
 
-Pelle (NL) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
+Pelle (NL) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
 
 Pelle (NL) is a house and minimal artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, London and Thehague. Often billed alongside Andy Luff, Herra and DJ Tjizza. Next up: BRET, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Pelle (NL) is a house and minimal artist based in Netherlands, tracked on soundc
 
 Andy Luff, Herra, DJ Tjizza
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pellenl/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pellenl/)*

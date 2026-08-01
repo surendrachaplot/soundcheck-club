@@ -1,6 +1,6 @@
 # Cris Ocaña
 
-Cris Ocaña is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
+Cris Ocaña is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
 
 Cris Ocaña is a tech house and house artist based in Chile, tracked on soundcheck, with 11 sets logged across Austin, Barcelona, Berlin and Buenosaires and 1 more. Often billed alongside Lexlay, Shitake and Ben Finx. Next up: La Terrrazza, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cris Ocaña is a tech house and house artist based in Chile, tracked on soundche
 
 Lexlay, Shitake, Ben Finx
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crisocana/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crisocana/)*

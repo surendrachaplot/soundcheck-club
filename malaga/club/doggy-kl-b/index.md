@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Cultura Club: Benny Yasoto y Radikal Komcept" on Fri, 31 Jul 2026.
+Doggy Klœb is a music venue in Malaga with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Aîrhën y Sonntag" on Sat, 1 Aug 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming nights, with line-ups including Andrés Sancho, Joe Dylan, Jorgge Decar and Nitrile Affair and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 6 upcoming nights, with line-ups including Andrés Sancho, Joe Dylan, Jorgge Decar and Nitrile Affair and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Cultura Club: Benny Yasoto y Radikal Komcept |  |
 | Sat, 1 Aug 2026 | Aîrhën y Sonntag |  |
 | Thu, 6 Aug 2026 | Doggy & Friends: Nitrile Affair | Nitrile Affair |
 | Fri, 7 Aug 2026 | StandUP Showcase | Oren (IT), Oren., Peter Grand, Yuma (UK) |
@@ -20,4 +19,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming nights, 
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+Jimi Jules is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
 Jimi Jules is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Boston Manor Park, London on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 187 sets log
 
 Dixon, Âme, Trikk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

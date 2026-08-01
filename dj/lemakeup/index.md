@@ -1,6 +1,6 @@
 # Le Makeup
 
-Le Makeup is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Forestlimit, Tokyo on Sun, 2 Aug 2026.
+Le Makeup is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Forestlimit, Tokyo on Sun, 2 Aug 2026.
 
 Le Makeup is a house and electronica artist tracked on soundcheck, with 26 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Kazumichi Komatsu, Whatman and Dove (UK). Next up: Forestlimit, Tokyo on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Le Makeup is a house and electronica artist tracked on soundcheck, with 26 sets 
 
 Kazumichi Komatsu, Whatman, Dove (UK)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lemakeup/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemakeup/)*

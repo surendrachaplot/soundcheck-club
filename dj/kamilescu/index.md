@@ -1,6 +1,6 @@
 # Kamilescu
 
-Kamilescu is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Smolna, Warsaw on Fri, 7 Aug 2026.
+Kamilescu is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Smolna, Warsaw on Fri, 7 Aug 2026.
 
 Kamilescu is a minimal and tech house artist based in Poland, tracked on soundcheck, with 40 sets logged across Berlin and Warsaw. Often billed alongside ZAREMBA, Rytmik and Bogunov. Next up: Smolna, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kamilescu is a minimal and tech house artist based in Poland, tracked on soundch
 
 ZAREMBA, Rytmik, Bogunov
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilescu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilescu/)*

@@ -1,14 +1,13 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "resume NIGHT" on Fri, 31 Jul 2026.
+Resume Valencia is a music venue in Valencia with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "RESUME NIGHT" on Sat, 1 Aug 2026.
 
-Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming nights, with line-ups including Argenis Brito, Bodio, Broken boy and Felipe Valenzuela and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
+Resume Valencia is a music venue in Valencia listed on soundcheck. 9 upcoming nights, with line-ups including Argenis Brito, Bodio, Broken boy and Felipe Valenzuela and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | resume NIGHT | IKAKO, Olean |
 | Sat, 1 Aug 2026 | RESUME NIGHT | Tatiana Rodrigo |
 | Fri, 7 Aug 2026 | RESUME NIGHT |  |
 | Sat, 8 Aug 2026 | RESUME NIGHT | IKAKO, Pin |
@@ -23,4 +22,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming n
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

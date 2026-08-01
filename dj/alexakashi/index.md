@@ -1,6 +1,6 @@
 # Alex Akashi
 
-Alex Akashi is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gate Milano, Milan on Sat, 24 Oct 2026.
+Alex Akashi is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gate Milano, Milan on Sat, 24 Oct 2026.
 
 Alex Akashi is an electronic artist tracked on soundcheck, with 3 sets logged across Milan. Often billed alongside Andrea Isella and Neon Graveyard. Next up: Gate Milano, Milan on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Alex Akashi is an electronic artist tracked on soundcheck, with 3 sets logged ac
 
 Andrea Isella, Neon Graveyard
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexakashi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexakashi/)*

@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+DJ Nobu is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 DJ Nobu is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -36,4 +36,4 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 222 sets logged
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

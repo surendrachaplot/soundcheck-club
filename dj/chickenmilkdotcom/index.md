@@ -1,6 +1,6 @@
 # Chickenmilk dot com
 
-Chickenmilk dot com is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+Chickenmilk dot com is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 Chickenmilk dot com is a techno and club artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Newyorkcity, Prague and Tallinn and 1 more. Often billed alongside blastah, Organ Tapes and Panasiagirl. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Chickenmilk dot com is a techno and club artist based in Germany, tracked on sou
 
 blastah, Organ Tapes, Panasiagirl
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*

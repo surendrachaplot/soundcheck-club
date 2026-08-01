@@ -1,6 +1,6 @@
 # Papa K
 
-Papa K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
+Papa K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
 
 Papa K is a house and techno artist tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Annina, Cyko and Scoopsi. Next up: Ritter Butzke, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Papa K is a house and techno artist tracked on soundcheck, with 34 sets logged a
 
 Annina, Cyko, Scoopsi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*

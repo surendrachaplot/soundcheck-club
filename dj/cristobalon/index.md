@@ -1,6 +1,6 @@
 # Cristobal ON
 
-Cristobal ON is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lion's Den, Miami on Sat, 1 Aug 2026.
+Cristobal ON is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Lion's Den, Miami on Sat, 1 Aug 2026.
 
 Cristobal ON is a house and club artist based in Venezuela, tracked on soundcheck, with 12 sets logged across Miami. Often billed alongside demenz, Atomyard and DJ JAFA. Next up: Lion's Den, Miami on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Cristobal ON is a house and club artist based in Venezuela, tracked on soundchec
 
 demenz, Atomyard, DJ JAFA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalon/)*

@@ -1,6 +1,6 @@
 # Spin Am
 
-Spin Am is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+Spin Am is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 Spin Am is a club and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside BBSHKALES, Jean Blaire and XT1ANA. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Spin Am is a club and ghetto tech artist based in United Kingdom, tracked on sou
 
 BBSHKALES, Jean Blaire, XT1ANA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spinam/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinam/)*

@@ -1,6 +1,6 @@
 # Abby Echiverri
 
-Abby Echiverri is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Process PDX, Portland on Sat, 8 Aug 2026.
+Abby Echiverri is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Process PDX, Portland on Sat, 8 Aug 2026.
 
 Abby Echiverri is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Detroit, Losangeles, Newyorkcity and Portland and 1 more. Often billed alongside Clay Wilson, Bryan Kasenic and Analog Soul. Next up: Process PDX, Portland on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Abby Echiverri is a techno and house artist based in United States of America, t
 
 Clay Wilson, Bryan Kasenic, Analog Soul
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyechiverri/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyechiverri/)*

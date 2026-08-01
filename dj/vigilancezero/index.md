@@ -1,6 +1,6 @@
 # Vigilance Zero
 
-Vigilance Zero is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Vigilance Zero is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Vigilance Zero is a progressive house and house artist tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside Chtak., Inspecteur and Ploum. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Vigilance Zero is a progressive house and house artist tracked on soundcheck, wi
 
 Chtak., Inspecteur, Ploum
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilancezero/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilancezero/)*

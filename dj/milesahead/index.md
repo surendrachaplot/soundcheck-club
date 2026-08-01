@@ -1,6 +1,6 @@
 # Miles Ahead
 
-Miles Ahead is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 5 Sept 2026.
+Miles Ahead is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 5 Sept 2026.
 
 Miles Ahead is a disco and deep house artist based in Australia, tracked on soundcheck, with 35 sets logged across Bangkok and Melbourne. Often billed alongside Gay Socialist Cowboy, Emil LP and NALIITA. Next up: Collingwood Basement, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Miles Ahead is a disco and deep house artist based in Australia, tracked on soun
 
 Gay Socialist Cowboy, Emil LP, NALIITA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milesahead/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesahead/)*

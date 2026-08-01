@@ -1,14 +1,13 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
+MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-MCR-T is a techno and house artist tracked on soundcheck, with 255 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Losangeles on Fri 31 Jul.
+MCR-T is a techno and house artist tracked on soundcheck, with 255 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033 | Los Angeles |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 1 Aug 2026 | Holocene | Portland |
 | Sat, 8 Aug 2026 | Kingdom Nightclub | Austin |
@@ -23,6 +22,7 @@ MCR-T is a techno and house artist tracked on soundcheck, with 255 sets logged a
 
 ## Recently played
 
+- TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Fri, 31 Jul 2026
 - Else, Berlin — Fri, 17 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
@@ -30,10 +30,9 @@ MCR-T is a techno and house artist tracked on soundcheck, with 255 sets logged a
 - Hava Nightclub, Boston — Fri, 26 Jun 2026
 - EartH, London — Fri, 19 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
-- TBA - Lucky Star Munich, Munich — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

@@ -1,6 +1,6 @@
 # Rittmus
 
-Rittmus is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
+Rittmus is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Segelschiff Mare Frisium, Hamburg on Fri, 21 Aug 2026.
 
 Rittmus is a house and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Hamburg. Often billed alongside Anne-Lu, FI3BER and LEAN MARIS. Next up: Segelschiff Mare Frisium, Hamburg on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rittmus is a house and trance artist based in Germany, tracked on soundcheck, wi
 
 Anne-Lu, FI3BER, LEAN MARIS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rittmus/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rittmus/)*

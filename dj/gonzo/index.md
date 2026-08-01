@@ -1,6 +1,6 @@
 # Gonzo
 
-Gonzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OneSixOne, Melbourne on Sun, 2 Aug 2026.
+Gonzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OneSixOne, Melbourne on Sun, 2 Aug 2026.
 
 Gonzo is a techno and house artist based in Portugal, tracked on soundcheck, with 26 sets logged across Bali, Barcelona, Buenosaires and Glasgow and 10 more. Often billed alongside Joe Deacon, LAWLESS and Aldo Ron Sanchez. Next up: OneSixOne, Melbourne on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Gonzo is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Joe Deacon, LAWLESS, Aldo Ron Sanchez
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzo/)*

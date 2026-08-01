@@ -1,14 +1,13 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Elsewhere, New York City on Fri, 31 Jul 2026.
+Locklead is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: Elsewhere, Newyorkcity on Fri 31 Jul.
+Locklead is a house and tech house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Elsewhere | New York City |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
@@ -20,9 +19,11 @@ Locklead is a house and tech house artist tracked on soundcheck, with 183 sets l
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
+| Fri, 9 Oct 2026 | fabric | London |
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 31 Jul 2026
 - Praterinsel, Munich — Sat, 25 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - Cova Santa, Ibiza — Tue, 30 Jun 2026
@@ -30,10 +31,9 @@ Locklead is a house and tech house artist tracked on soundcheck, with 183 sets l
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - La Terrrazza, Barcelona — Fri, 19 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
-- Brighton Beach, Brighton — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Marsolo, Chris Stussy, East End Dubs
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

@@ -1,6 +1,6 @@
 # Mark Disc Break
 
-Mark Disc Break is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Eastern Bloc Records, Manchester on Fri, 7 Aug 2026.
+Mark Disc Break is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 7 Aug 2026.
 
 Mark Disc Break is a house and downtempo artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Manchester. Often billed alongside Look Busy Collective, James Greenwood and Yadava. Next up: Eastern Bloc Records, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mark Disc Break is a house and downtempo artist based in United Kingdom, tracked
 
 Look Busy Collective, James Greenwood, Yadava
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markdiscbreak/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markdiscbreak/)*

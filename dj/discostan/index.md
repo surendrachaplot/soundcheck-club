@@ -1,6 +1,6 @@
 # discostan
 
-discostan is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
+discostan is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
 
 discostan is a house and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto and 1 more. Often billed alongside Lapgan, Captain Planet and DJ Ari B. Next up: Standard Time, Toronto on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ discostan is a house and club artist based in United States of America, tracked 
 
 Lapgan, Captain Planet, DJ Ari B
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*

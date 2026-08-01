@@ -1,15 +1,13 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+James Hype (UK) is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 5 Aug 2026.
 
-James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Downsview Park, Toronto on Fri 31 Jul.
+James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Hï Ibiza, Ibiza on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Downsview Park | Toronto |
-| Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Wed, 5 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Ku Barcelona | Barcelona |
 | Wed, 12 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,20 +18,22 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171
 | Wed, 9 Sept 2026 | Hï Ibiza | Ibiza |
 | Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
 | Wed, 23 Sept 2026 | Hï Ibiza | Ibiza |
+| Sun, 27 Sept 2026 | Roxy | Prague |
+| Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Downsview Park, Toronto — Fri, 31 Jul 2026
+- Downsview Park, Toronto — Fri, 31 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 29 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 22 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 15 Jul 2026
 - Cavo Paradiso, Mykonos — Mon, 13 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 8 Jul 2026
 - Bolivar Beach Bar, Athens — Sat, 4 Jul 2026
-- Hï Ibiza, Ibiza — Wed, 1 Jul 2026
-- Grant Park, Chicago — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

@@ -1,6 +1,6 @@
 # SHIZKA
 
-SHIZKA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Boson, Tokyo on Fri, 7 Aug 2026.
+SHIZKA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Boson, Tokyo on Fri, 7 Aug 2026.
 
 SHIZKA is a house and experimental artist based in Japan, tracked on soundcheck, with 7 sets logged across Kyoto and Tokyo. Often billed alongside Cosmic Caz, E.O.U and HIBI BLISS. Next up: Bar Boson, Tokyo on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ SHIZKA is a house and experimental artist based in Japan, tracked on soundcheck,
 
 Cosmic Caz, E.O.U, HIBI BLISS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shizka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shizka/)*

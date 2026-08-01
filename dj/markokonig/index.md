@@ -1,6 +1,6 @@
 # Marko König
 
-Marko König is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mysliwska, Berlin on Sat, 1 Aug 2026.
+Marko König is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mysliwska, Berlin on Sat, 1 Aug 2026.
 
 Marko König is an italo disco and ebm artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Uwe Marx, Agent-Provocateur and Provocateur. Next up: Mysliwska, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Marko König is an italo disco and ebm artist based in Germany, tracked on sound
 
 Uwe Marx, Agent-Provocateur, Provocateur
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markokonig/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markokonig/)*

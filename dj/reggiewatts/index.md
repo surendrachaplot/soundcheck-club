@@ -1,6 +1,6 @@
 # Reggie Watts
 
-Reggie Watts is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gaswerksiedlung, Berlin on Sun, 2 Aug 2026.
+Reggie Watts is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gaswerksiedlung, Berlin on Sun, 2 Aug 2026.
 
 Reggie Watts is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Leeds, London and Losangeles and 1 more. Often billed alongside Elijah Badua, ASIA (DE) and Akumen. Next up: Gaswerksiedlung, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Reggie Watts is an experimental and electronica artist based in United States of
 
 Elijah Badua, ASIA (DE), Akumen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reggiewatts/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reggiewatts/)*

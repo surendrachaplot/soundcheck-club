@@ -1,6 +1,6 @@
 # Halina Rice
 
-Halina Rice is a IDM and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Halina Rice is a IDM and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Halina Rice is an idm and electronica artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Berlin and Birmingham and 18 more. Often billed alongside Renslink, D.B.Y. and Daito Manabe. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Halina Rice is an idm and electronica artist tracked on soundcheck, with 35 sets
 
 Renslink, D.B.Y., Daito Manabe
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halinarice/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halinarice/)*

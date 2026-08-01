@@ -1,6 +1,6 @@
 # Neue Nationalgalerie
 
-Neue Nationalgalerie is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sound in the Garden 2026, Day 1 (Gigi Masin, Valentina Magaletti&upsammy)" on Wed, 12 Aug 2026.
+Neue Nationalgalerie is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Sound in the Garden 2026, Day 1 (Gigi Masin, Valentina Magaletti&upsammy)" on Wed, 12 Aug 2026.
 
 Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Alva Noto, Dopplereffekt, Gigi Masin and Hildur Guðnadóttir and 2 more. Browse upcoming dates, start times and who's playing. Potsdamer Straße 50, 10785 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 6 upcoming
 
 Potsdamer Straße 50, 10785 Berlin, Germany, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-nationalgalerie/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-nationalgalerie/)*

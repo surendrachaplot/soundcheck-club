@@ -1,14 +1,13 @@
 # Super5
 
-Super5 is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Maelita & SOMILAT" on Fri, 31 Jul 2026.
+Super5 is a music venue in Lyon with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Ari Kiko" on Sat, 1 Aug 2026.
 
-Super5 is a music venue in Lyon listed on soundcheck. 6 upcoming nights, with line-ups including Ari Kiko and Maelita. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
+Super5 is a music venue in Lyon listed on soundcheck. 5 upcoming nights, with line-ups including Ari Kiko. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Maelita & SOMILAT | Maelita |
 | Sat, 1 Aug 2026 | Ari Kiko | Ari Kiko |
 | Wed, 5 Aug 2026 | BMK RESIDENCY - FADOO |  |
 | Thu, 6 Aug 2026 | TIBO BRTZ |  |
@@ -19,4 +18,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 6 upcoming nights, with li
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

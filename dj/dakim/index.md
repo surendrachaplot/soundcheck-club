@@ -1,8 +1,8 @@
 # Dakim
 
-Dakim is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Modeci, Seoul on Fri, 7 Aug 2026.
+Dakim is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Modeci, Seoul on Fri, 7 Aug 2026.
 
-Dakim is a tech house and house artist based in South Korea, tracked on soundcheck, with 8 sets logged across Seoul. Often billed alongside .2ndfloor, Young Sun and Jongho. Next up: Modeci, Seoul on Fri 7 Aug.
+Dakim is a tech house and house artist based in South Korea, tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside .2ndfloor, Jongho and Young Sun. Next up: Modeci, Seoul on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dakim is a tech house and house artist based in South Korea, tracked on soundche
 
 ## Recently played
 
+- teller, Seoul — Fri, 3 Jul 2026
 - teller, Seoul — Fri, 26 Jun 2026
 - teller, Seoul — Sat, 13 Jun 2026
 - teller, Seoul — Fri, 15 May 2026
@@ -22,6 +23,6 @@ Dakim is a tech house and house artist based in South Korea, tracked on soundche
 
 ## Shares bills with
 
-.2ndfloor, Young Sun, Jongho
+.2ndfloor, Jongho, Young Sun
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dakim/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dakim/)*

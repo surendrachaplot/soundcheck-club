@@ -1,6 +1,6 @@
 # Dixon
 
-Dixon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+Dixon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
 Dixon is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Boston Manor Park, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Dixon is a house and techno artist tracked on soundcheck, with 184 sets logged a
 
 Jimi Jules, Âme, Trikk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

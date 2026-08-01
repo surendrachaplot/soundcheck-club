@@ -1,6 +1,6 @@
 # Stark (2)
 
-Stark (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Palazzo Permanens, Budapest on Sat, 26 Sept 2026.
+Stark (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Palazzo Permanens, Budapest on Sat, 26 Sept 2026.
 
 Stark (2) is a techno and house artist based in Hungary, tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside Arash Ete, Hanussen and Kekrim. Next up: Palazzo Permanens, Budapest on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Stark (2) is a techno and house artist based in Hungary, tracked on soundcheck, 
 
 Arash Ete, Hanussen, Kekrim
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stark-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stark-2/)*

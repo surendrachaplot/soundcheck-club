@@ -1,6 +1,6 @@
 # Aiconga
 
-Aiconga is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at S-Pod, Kyoto on Fri, 7 Aug 2026.
+Aiconga is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at S-Pod, Kyoto on Fri, 7 Aug 2026.
 
 Aiconga is a club and latin bass artist based in Japan, tracked on soundcheck, with 30 sets logged across Kyoto. Often billed alongside MAX PELA, Ryoma Sasaki and manju. Next up: S-Pod, Kyoto on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Aiconga is a club and latin bass artist based in Japan, tracked on soundcheck, w
 
 MAX PELA, Ryoma Sasaki, manju
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aiconga/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiconga/)*

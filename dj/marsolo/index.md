@@ -1,6 +1,6 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Colorado Charlie, The Hague on Sat, 8 Aug 2026.
+Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Colorado Charlie, The Hague on Sat, 8 Aug 2026.
 
 Marsolo is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Jamback, Josh Baker and Locklead. Next up: Colorado Charlie, Thehague on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 150 sets lo
 
 Jamback, Josh Baker, Locklead
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

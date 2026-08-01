@@ -1,6 +1,6 @@
 # Paul Cut
 
-Paul Cut is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at AURA, Lisbon on Sat, 1 Aug 2026.
+Paul Cut is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at AURA, Lisbon on Sat, 1 Aug 2026.
 
 Paul Cut is a house and deep house artist based in France, tracked on soundcheck, with 38 sets logged across Brussels, Lisbon, Madrid and Marseille and 2 more. Often billed alongside Flabaire, Sara Wual and La Gugga. Next up: AURA, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Paul Cut is a house and deep house artist based in France, tracked on soundcheck
 
 Flabaire, Sara Wual, La Gugga
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*

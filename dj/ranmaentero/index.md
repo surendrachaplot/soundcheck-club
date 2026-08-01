@@ -1,13 +1,14 @@
 # Ranma Entero
 
-Ranma Entero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
+Ranma Entero is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
-Ranma Entero is a techno and house artist tracked on soundcheck, with 98 sets logged across Berlin, Lisbon, Mexicocity and Montreal and 3 more. Often billed alongside Bluecommand, PAURRO and Octoptic. Next up: Fünk, Mexicocity on Thu 13 Aug.
+Ranma Entero is a techno and house artist tracked on soundcheck, with 99 sets logged across Berlin, Lisbon, Mexicocity and Montreal and 3 more. Often billed alongside Bluecommand, PAURRO and Octoptic. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | NO HOUSE | Mexico City |
 | Thu, 13 Aug 2026 | Fünk | Mexico City |
 | Fri, 18 Sept 2026 | Tresor / Globus | Berlin |
 
@@ -26,4 +27,4 @@ Ranma Entero is a techno and house artist tracked on soundcheck, with 98 sets lo
 
 Bluecommand, PAURRO, Octoptic
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ranmaentero/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranmaentero/)*

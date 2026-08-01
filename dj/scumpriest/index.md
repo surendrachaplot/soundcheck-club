@@ -1,18 +1,18 @@
 # SCUM PRIEST
 
-SCUM PRIEST is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Teranoma Tidepool, Osaka on Fri, 31 Jul 2026.
+SCUM PRIEST is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 戦国大統領, Osaka on Sat, 8 Aug 2026.
 
-SCUM PRIEST is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 60 sets logged across Osaka and Tokyo. Often billed alongside HSC (1), TERU and CHISE. Next up: Teranoma Tidepool, Osaka on Fri 31 Jul.
+SCUM PRIEST is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 60 sets logged across Osaka and Tokyo. Often billed alongside HSC (1), TERU and CHISE. Next up: 戦国大統領, Osaka on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Teranoma Tidepool | Osaka |
 | Sat, 8 Aug 2026 | 戦国大統領 | Osaka |
 
 ## Recently played
 
+- Teranoma Tidepool, Osaka — Fri, 31 Jul 2026
 - Forestlimit, Tokyo — Tue, 28 Jul 2026
 - clubasia, Tokyo — Fri, 10 Jul 2026
 - Triangle, Osaka — Sat, 6 Jun 2026
@@ -20,10 +20,9 @@ SCUM PRIEST is a techno and hip-hop artist based in Japan, tracked on soundcheck
 - Débris, Tokyo — Sun, 26 Apr 2026
 - rake?raka?, Osaka — Wed, 15 Apr 2026
 - Débris, Tokyo — Sat, 28 Mar 2026
-- rake?raka?, Osaka — Thu, 12 Feb 2026
 
 ## Shares bills with
 
 HSC (1), TERU, CHISE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scumpriest/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scumpriest/)*

@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
+Oliver Koletzki is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
 
 Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Refuge, Newyorkcity on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 set
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

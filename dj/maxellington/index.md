@@ -1,6 +1,6 @@
 # Max Ellington
 
-Max Ellington is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
+Max Ellington is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
 
 Max Ellington is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside agraybé, CHA CHA and Kaleb Marshall. Next up: The Airliner, Losangeles on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Max Ellington is a techno and house artist based in United States of America, tr
 
 agraybé, CHA CHA, Kaleb Marshall
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxellington/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxellington/)*

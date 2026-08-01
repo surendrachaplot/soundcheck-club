@@ -1,6 +1,6 @@
 # Brands
 
-Brands is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sat, 1 Aug 2026.
+Brands is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Sat, 1 Aug 2026.
 
 Brands is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Olly Brady, AALEX and AUDIO DUNE. Next up: Starlane Pizza Bar, London on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Brands is a house and garage artist tracked on soundcheck, with 5 sets logged ac
 
 Olly Brady, AALEX, AUDIO DUNE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brands/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brands/)*

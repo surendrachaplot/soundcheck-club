@@ -1,6 +1,6 @@
 # Meriem S
 
-Meriem S is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
+Meriem S is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
 
 Meriem S is a house and club artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Brussels and Munich and 1 more. Often billed alongside saHHar, hi.fí and Adam Cooke. Next up: Kater, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Meriem S is a house and club artist tracked on soundcheck, with 35 sets logged a
 
 saHHar, hi.fí, Adam Cooke
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*

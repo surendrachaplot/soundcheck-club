@@ -1,6 +1,6 @@
 # Gavnlig
 
-Gavnlig is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 9 Aug 2026.
+Gavnlig is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 9 Aug 2026.
 
 Gavnlig is a techno and bass artist based in Denmark, tracked on soundcheck, with 80 sets logged across Copenhagen. Often billed alongside HAKEEM (2), CAYOOTEE and Cirkeline. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Gavnlig is a techno and bass artist based in Denmark, tracked on soundcheck, wit
 
 HAKEEM (2), CAYOOTEE, Cirkeline
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gavnlig/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gavnlig/)*

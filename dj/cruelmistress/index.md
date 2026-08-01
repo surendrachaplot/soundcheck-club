@@ -1,18 +1,18 @@
 # Cruel Mistress
 
-Cruel Mistress is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Pinnacle, Nashville on Fri, 31 Jul 2026.
+Cruel Mistress is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Night We Met, Nashville on Fri, 18 Sept 2026.
 
-Cruel Mistress is a house and garage artist tracked on soundcheck, with 8 sets logged across Nashville. Often billed alongside Casa Nova, KETTAMA and KLOUD. Next up: The Pinnacle, Nashville on Fri 31 Jul.
+Cruel Mistress is a house and garage artist tracked on soundcheck, with 8 sets logged across Nashville. Often billed alongside Casa Nova, KETTAMA and KLOUD. Next up: Night We Met, Nashville on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | The Pinnacle | Nashville |
 | Fri, 18 Sept 2026 | Night We Met | Nashville |
 
 ## Recently played
 
+- The Pinnacle, Nashville — Fri, 31 Jul 2026
 - Night We Met, Nashville — Thu, 16 Jul 2026
 - Studio 615, Nashville — Sat, 4 Jul 2026
 - Night We Met, Nashville — Sat, 27 Jun 2026
@@ -24,4 +24,4 @@ Cruel Mistress is a house and garage artist tracked on soundcheck, with 8 sets l
 
 Casa Nova, KETTAMA, KLOUD
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruelmistress/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruelmistress/)*

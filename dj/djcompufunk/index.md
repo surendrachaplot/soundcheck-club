@@ -1,14 +1,15 @@
 # DJ Compufunk
 
-DJ Compufunk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Compufunk Records, Osaka on Sat, 1 Aug 2026.
+DJ Compufunk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Compufunk Records, Osaka on Sat, 1 Aug 2026.
 
-DJ Compufunk is a techno and house artist based in Japan, tracked on soundcheck, with 89 sets logged across Kyoto and Osaka. Often billed alongside Koichi (Koichiro Okada), Ryoma Sasaki and KA4U. Next up: Compufunk Records, Osaka on Sat 1 Aug.
+DJ Compufunk is a techno and house artist based in Japan, tracked on soundcheck, with 90 sets logged across Kyoto and Osaka. Often billed alongside Koichi (Koichiro Okada), Ryoma Sasaki and KA4U. Next up: Compufunk Records, Osaka on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Compufunk Records | Osaka |
+| Fri, 28 Aug 2026 | Joule | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Compufunk is a techno and house artist based in Japan, tracked on soundcheck,
 
 Koichi (Koichiro Okada), Ryoma Sasaki, KA4U
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcompufunk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcompufunk/)*

@@ -1,8 +1,8 @@
 # Five Alive
 
-Five Alive is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Fox and Firkin, London on Fri, 28 Aug 2026.
+Five Alive is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Fox and Firkin, London on Fri, 28 Aug 2026.
 
-Five Alive is a jungle and drum & bass artist tracked on soundcheck, with 14 sets logged across Amsterdam, Brighton, London and Manchester and 1 more. Often billed alongside Ray Keith, Nookie (UK) and Billy Daniel Bunter. Next up: The Fox and Firkin, London on Fri 28 Aug.
+Five Alive is a jungle and drum & bass artist tracked on soundcheck, with 15 sets logged across Amsterdam, Brighton, London and Manchester and 1 more. Often billed alongside Ray Keith, Nookie (UK) and Billy Daniel Bunter. Next up: The Fox and Firkin, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Five Alive is a jungle and drum & bass artist tracked on soundcheck, with 14 set
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Fox and Firkin | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
+| Sat, 3 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Five Alive is a jungle and drum & bass artist tracked on soundcheck, with 14 set
 
 Ray Keith, Nookie (UK), Billy Daniel Bunter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*

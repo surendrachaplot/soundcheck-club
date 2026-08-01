@@ -1,6 +1,6 @@
 # AmadoPeace
 
-AmadoPeace is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nu Cine Copan, Sao Paulo on Sat, 1 Aug 2026.
+AmadoPeace is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nu Cine Copan, Sao Paulo on Sat, 1 Aug 2026.
 
 AmadoPeace is a house and balearic artist based in Brazil, tracked on soundcheck, with 34 sets logged across Saopaulo. Often billed alongside Gabe Ortiz, Discos Baratos and Gop Tun DJs. Next up: Nu Cine Copan, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ AmadoPeace is a house and balearic artist based in Brazil, tracked on soundcheck
 
 Gabe Ortiz, Discos Baratos, Gop Tun DJs
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amadopeace/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amadopeace/)*

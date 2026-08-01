@@ -1,14 +1,13 @@
 # COUNTER CLUB
 
-COUNTER CLUB is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "COUNTERCLUB FRIDAY" on Fri, 31 Jul 2026.
+COUNTER CLUB is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "COUNTERCLUB SATURDAY" on Sat, 1 Aug 2026.
 
-COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including ANSWER (2), DJ Hazime, DJ S (UK) and Frankie and 2 more. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
+COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including ANSWER (2), DJ Hazime, DJ S (UK) and Frankie and 2 more. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | COUNTERCLUB FRIDAY | Goat (1) |
 | Sat, 1 Aug 2026 | COUNTERCLUB SATURDAY |  |
 | Sat, 1 Aug 2026 | SOUL TEMPLE TOKYO |  |
 | Tue, 4 Aug 2026 | THE MAGIC NUMBER | MASARU |
@@ -18,9 +17,10 @@ COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 12 upcoming nights,
 | Sat, 8 Aug 2026 | Synchromind Music Services | grooveman Spot |
 | Sun, 9 Aug 2026 | COUNTERCLUB SUNDAY |  |
 | Mon, 10 Aug 2026 | Brain Dance |  |
+| Thu, 13 Aug 2026 | COUNTERCLUB THURSDAY | DJ Hazime |
 
 ## Address
 
 SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan, Tokyo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*

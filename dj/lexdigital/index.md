@@ -1,18 +1,18 @@
 # Lex Digital
 
-Lex Digital is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Brutal Mx, Mexico City on Fri, 31 Jul 2026.
+Lex Digital is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
 
-Lex Digital is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 22 sets logged across Mexicocity. Often billed alongside Ann García, MOLLY SIX and Naij. Next up: Brutal Mx, Mexicocity on Fri 31 Jul.
+Lex Digital is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 22 sets logged across Mexicocity. Often billed alongside Ann García, MOLLY SIX and Naij. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Brutal Mx | Mexico City |
 | Fri, 7 Aug 2026 | Foro EX Normandie | Mexico City |
 
 ## Recently played
 
+- Brutal Mx, Mexico City — Fri, 31 Jul 2026
 - Bar Oriente, Mexico City — Wed, 8 Jul 2026
 - Brutal Mx, Mexico City — Fri, 12 Jun 2026
 - Brutal Mx, Mexico City — Sat, 18 Apr 2026
@@ -20,10 +20,9 @@ Lex Digital is a techno and hardcore artist based in Mexico, tracked on soundche
 - Bar Oriente, Mexico City — Thu, 29 Jan 2026
 - Drama Radio Bar, Mexico City — Thu, 22 Jan 2026
 - TBA - Niza 42, Juárez, Mexico City — Fri, 14 Nov 2025
-- Panadería Abandonada, Mexico City — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 Ann García, MOLLY SIX, Naij
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdigital/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdigital/)*

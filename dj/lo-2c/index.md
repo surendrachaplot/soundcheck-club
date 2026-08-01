@@ -1,6 +1,6 @@
 # LO-2C
 
-LO-2C is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Atelier Rooftop, Berlin on Sat, 1 Aug 2026.
+LO-2C is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Atelier Rooftop, Berlin on Sat, 1 Aug 2026.
 
 LO-2C is an electronic artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside LUPENKO, Maris Shilton and Pablo Espinal. Next up: Atelier Rooftop, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ LO-2C is an electronic artist based in Germany, tracked on soundcheck, with 18 s
 
 LUPENKO, Maris Shilton, Pablo Espinal
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-2c/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-2c/)*

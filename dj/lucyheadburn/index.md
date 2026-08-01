@@ -1,6 +1,6 @@
 # Lucy Headburn
 
-Lucy Headburn is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 1 Aug 2026.
+Lucy Headburn is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 1 Aug 2026.
 
 Lucy Headburn is a trance and techno artist based in Denmark, tracked on soundcheck, with 39 sets logged across Amsterdam, Copenhagen and Nantes. Often billed alongside Matriark, Sham (DK) and Filen. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Lucy Headburn is a trance and techno artist based in Denmark, tracked on soundch
 
 Matriark, Sham (DK), Filen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyheadburn/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyheadburn/)*

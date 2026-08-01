@@ -1,6 +1,6 @@
 # Oliver Torr
 
-Oliver Torr is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Šachta, Prague on Tue, 4 Aug 2026.
+Oliver Torr is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Šachta, Prague on Tue, 4 Aug 2026.
 
 Oliver Torr is an experimental and club artist based in Czech Republic, tracked on soundcheck, with 34 sets logged across Athens, Berlin, Budapest and London and 2 more. Often billed alongside Exhausted Modern, Apu Nanu and Martyyna. Next up: TBA - Šachta, Prague on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Oliver Torr is an experimental and club artist based in Czech Republic, tracked 
 
 Exhausted Modern, Apu Nanu, Martyyna
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivertorr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivertorr/)*

@@ -1,6 +1,6 @@
 # Benny2
 
-Benny2 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Radio Radio, Amsterdam on Sat, 1 Aug 2026.
+Benny2 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Radio Radio, Amsterdam on Sat, 1 Aug 2026.
 
 Benny2 is a house and techno artist tracked on soundcheck, with 24 sets logged across Amsterdam and Thehague. Often billed alongside Jan Koster, mance and De Sluwe Vos. Next up: Radio Radio, Amsterdam on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Benny2 is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 Jan Koster, mance, De Sluwe Vos
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benny2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benny2/)*

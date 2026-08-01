@@ -1,6 +1,6 @@
 # Bar do Netão
 
-Bar do Netão is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Tá na Hora" on Thu, 6 Aug 2026.
+Bar do Netão is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Tá na Hora" on Thu, 6 Aug 2026.
 
 Bar do Netão is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Augusta, 584 | Baixo Augusta, Sao Paulo, State of Sao Paulo 01304-000, Brazil.
 
@@ -15,4 +15,4 @@ Bar do Netão is a music venue in Saopaulo listed on soundcheck. 2 upcoming nigh
 
 Rua Augusta, 584 | Baixo Augusta, Sao Paulo, State of Sao Paulo 01304-000, Brazil, Sao Paulo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/bar-do-net-o/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/bar-do-net-o/)*

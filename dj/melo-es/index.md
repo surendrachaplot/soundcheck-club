@@ -1,6 +1,6 @@
 # Melo (ES)
 
-Melo (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Oven Club, Valencia on Sat, 15 Aug 2026.
+Melo (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Oven Club, Valencia on Sat, 15 Aug 2026.
 
 Melo (ES) is a house and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Amsterdam, Bristol, Brussels and Cologne and 7 more. Often billed alongside FAFF, Ana Armada and Angel D'lite. Next up: Oven Club, Valencia on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Melo (ES) is a house and techno artist based in Spain, tracked on soundcheck, wi
 
 FAFF, Ana Armada, Angel D'lite
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-es/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-es/)*

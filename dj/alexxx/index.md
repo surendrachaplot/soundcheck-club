@@ -1,6 +1,6 @@
 # Alexxx
 
-Alexxx is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat, 1 Aug 2026.
+Alexxx is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat, 1 Aug 2026.
 
 Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with 35 sets logged across Barcelona and Valencia. Often billed alongside Rele, PAZ WAZ HERE and LASK (2). Next up: TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat 1 Aug.
 
@@ -13,7 +13,7 @@ Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with
 
 ## Recently played
 
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 18 Jul 2026
+- Studio Stereo, Barcelona — Sat, 18 Jul 2026
 - 303 Audiophile Bar, Barcelona — Sat, 11 Jul 2026
 - TBA - private rooftop (marina metro station), Barcelona — Sun, 21 Jun 2026
 - Switch Bar, Barcelona — Thu, 18 Jun 2026
@@ -26,4 +26,4 @@ Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with
 
 Rele, PAZ WAZ HERE, LASK (2)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*

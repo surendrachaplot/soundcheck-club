@@ -1,6 +1,6 @@
 # Sweetly
 
-Sweetly is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
+Sweetly is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
 
 Sweetly is a jungle and drum & bass artist tracked on soundcheck, with 21 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, D.Tee and Urma. Next up: Brick Street, Liverpool on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sweetly is a jungle and drum & bass artist tracked on soundcheck, with 21 sets l
 
 Amelia Leigh, D.Tee, Urma
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*

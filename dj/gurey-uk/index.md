@@ -1,6 +1,6 @@
 # GUREY
 
-GUREY is a UK Funky and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hayling Island, London on Sun, 2 Aug 2026.
+GUREY is a UK Funky and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hayling Island, London on Sun, 2 Aug 2026.
 
 GUREY is an uk funky and afro tech artist tracked on soundcheck, with 12 sets logged across London and Tokyo. Often billed alongside CHEZA LUCINA, Godsfave and THEMPRESS. Next up: Hayling Island, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ GUREY is an uk funky and afro tech artist tracked on soundcheck, with 12 sets lo
 
 CHEZA LUCINA, Godsfave, THEMPRESS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gurey-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gurey-uk/)*

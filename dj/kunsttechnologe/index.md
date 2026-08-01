@@ -1,6 +1,6 @@
 # KunstTechnologe
 
-KunstTechnologe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Golden Flamingo, Berlin on Fri, 21 Aug 2026.
+KunstTechnologe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Golden Flamingo, Berlin on Fri, 21 Aug 2026.
 
 KunstTechnologe is a techno and trance artist tracked on soundcheck, with 18 sets logged across Berlin and Leipzig. Often billed alongside FRÄNK, Laviena and NACHTIGALL. Next up: Golden Flamingo, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KunstTechnologe is a techno and trance artist tracked on soundcheck, with 18 set
 
 FRÄNK, Laviena, NACHTIGALL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kunsttechnologe/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kunsttechnologe/)*

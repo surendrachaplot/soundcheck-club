@@ -1,6 +1,6 @@
 # Temry
 
-Temry is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Space KU Damm, Berlin on Sat, 1 Aug 2026.
+Temry is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Space KU Damm, Berlin on Sat, 1 Aug 2026.
 
 Temry is a house and hip-hop artist tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside ALFREDT, Bunsen and CHELO. Next up: The Space KU Damm, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Temry is a house and hip-hop artist tracked on soundcheck, with 10 sets logged a
 
 ALFREDT, Bunsen, CHELO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/temry/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temry/)*

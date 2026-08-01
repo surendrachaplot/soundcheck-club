@@ -1,6 +1,6 @@
 # ZIGNNAL
 
-ZIGNNAL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Terraza Dos Equis, Mexico City on Sat, 1 Aug 2026.
+ZIGNNAL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Terraza Dos Equis, Mexico City on Sat, 1 Aug 2026.
 
 ZIGNNAL is a house and techno artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside NAHAN, Cabe and Ramiel II. Next up: Terraza Dos Equis, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ZIGNNAL is a house and techno artist based in Mexico, tracked on soundcheck, wit
 
 NAHAN, Cabe, Ramiel II
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zignnal/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zignnal/)*

@@ -1,6 +1,6 @@
 # Eli Fola
 
-Eli Fola is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at National Sawdust, New York City on Thu, 10 Sept 2026.
+Eli Fola is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at National Sawdust, New York City on Thu, 10 Sept 2026.
 
 Eli Fola is an afro house and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Denver, Ibiza and Kualalumpur and 8 more. Often billed alongside BL SUEDE, Jay Vic and Kitty Amor. Next up: National Sawdust, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Eli Fola is an afro house and house artist based in United States of America, tr
 
 BL SUEDE, Jay Vic, Kitty Amor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elifola/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elifola/)*

@@ -1,14 +1,15 @@
 # YOSHIROTTEN
 
-YOSHIROTTEN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at WOMB, Tokyo on Sat, 1 Aug 2026.
+YOSHIROTTEN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at WOMB, Tokyo on Sat, 1 Aug 2026.
 
-YOSHIROTTEN is a house and techno artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside JUN INAGAWA, KZA and Licaxxx. Next up: WOMB, Tokyo on Sat 1 Aug.
+YOSHIROTTEN is a house and techno artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside JUN INAGAWA, KZA and Licaxxx. Next up: WOMB, Tokyo on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | WOMB | Tokyo |
+| Fri, 14 Aug 2026 | Azumaya | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YOSHIROTTEN is a house and techno artist based in Japan, tracked on soundcheck, 
 
 JUN INAGAWA, KZA, Licaxxx
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshirotten/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshirotten/)*

@@ -1,6 +1,6 @@
 # Woo York
 
-Woo York is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at [UNVRS], Ibiza on Tue, 11 Aug 2026.
+Woo York is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at [UNVRS], Ibiza on Tue, 11 Aug 2026.
 
 Woo York is a techno and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Olympe, Kasia (OFC) and Kevin de Vries. Next up: [UNVRS], Ibiza on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Woo York is a techno and house artist tracked on soundcheck, with 44 sets logged
 
 Olympe, Kasia (OFC), Kevin de Vries
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wooyork/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooyork/)*

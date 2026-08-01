@@ -1,6 +1,6 @@
 # RAPHAËL (2)
 
-RAPHAËL (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hizz Lounge, Detroit on Sat, 1 Aug 2026.
+RAPHAËL (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hizz Lounge, Detroit on Sat, 1 Aug 2026.
 
 RAPHAËL (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver and Detroit. Often billed alongside Sinistarr, Disc Jockey George and Fullbodydurag. Next up: Hizz Lounge, Detroit on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ RAPHAËL (2) is a techno and house artist based in United States of America, tra
 
 Sinistarr, Disc Jockey George, Fullbodydurag
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*

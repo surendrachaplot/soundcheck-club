@@ -1,6 +1,6 @@
 # Bladee
 
-Bladee is a Experimental and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Bladee is a Experimental and Pop artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 Bladee is an experimental and pop artist based in Sweden, tracked on soundcheck, with 3 sets logged across London, Losangeles and Turin. Often billed alongside 999999999, AANYA and Arca. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -16,4 +16,4 @@ Bladee is an experimental and pop artist based in Sweden, tracked on soundcheck,
 
 999999999, AANYA, Arca
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bladee/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bladee/)*

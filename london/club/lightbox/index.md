@@ -1,14 +1,13 @@
 # Lightbox
 
-Lightbox is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Pop & RnB All Night Long - Limited Free Tickets" on Fri, 31 Jul 2026.
+Lightbox is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "VIVA Reggaeton" on Sat, 1 Aug 2026.
 
-Lightbox is a music venue in London listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
+Lightbox is a music venue in London listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Pop & RnB All Night Long - Limited Free Tickets |  |
 | Sat, 1 Aug 2026 | VIVA Reggaeton |  |
 | Sat, 1 Aug 2026 | VIVA Baile |  |
 | Fri, 7 Aug 2026 | Pop & RnB All Night Long - Limited Free Tickets |  |
@@ -20,4 +19,4 @@ Lightbox is a music venue in London listed on soundcheck. 7 upcoming nights. Bro
 
 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*

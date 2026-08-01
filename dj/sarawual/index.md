@@ -1,6 +1,6 @@
 # Sara Wual
 
-Sara Wual is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at AURA, Lisbon on Sat, 1 Aug 2026.
+Sara Wual is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at AURA, Lisbon on Sat, 1 Aug 2026.
 
 Sara Wual is a house and deep house artist based in Portugal, tracked on soundcheck, with 33 sets logged across Brussels, Lisbon, Paris and Porto and 1 more. Often billed alongside Guy from 1990, Jorge Caiado and Mayan (PT). Next up: AURA, Lisbon on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sara Wual is a house and deep house artist based in Portugal, tracked on soundch
 
 Guy from 1990, Jorge Caiado, Mayan (PT)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarawual/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarawual/)*

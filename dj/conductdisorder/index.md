@@ -1,6 +1,6 @@
 # Conduct Disorder
 
-Conduct Disorder is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Time is the new space, Rotterdam on Sat, 15 Aug 2026.
+Conduct Disorder is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Time is the new space, Rotterdam on Sat, 15 Aug 2026.
 
 Conduct Disorder is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Jacquestrax, Ambu Bambu and Yb3L. Next up: Time is the new space, Rotterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Conduct Disorder is a techno and ambient artist based in Netherlands, tracked on
 
 Jacquestrax, Ambu Bambu, Yb3L
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conductdisorder/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conductdisorder/)*

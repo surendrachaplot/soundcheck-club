@@ -1,6 +1,6 @@
 # Yessi
 
-Yessi is a Experimental and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+Yessi is a Experimental and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
 
 Yessi is an experimental and hardcore artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Max Ellington, Tammy Lakkis and 1morning. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Yessi is an experimental and hardcore artist based in United States of America, 
 
 Max Ellington, Tammy Lakkis, 1morning
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*

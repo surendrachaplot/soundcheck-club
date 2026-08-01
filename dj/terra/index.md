@@ -1,6 +1,6 @@
 # Terra
 
-Terra is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at SHeLTeR, Tokyo on Sat, 22 Aug 2026.
+Terra is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SHeLTeR, Tokyo on Sat, 22 Aug 2026.
 
 Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, London and Losangeles and 4 more. Often billed alongside Ambient Pino, Infected Mushroom and Neon Graveyard. Next up: SHeLTeR, Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, wi
 
 Ambient Pino, Infected Mushroom, Neon Graveyard
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*

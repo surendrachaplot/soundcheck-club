@@ -1,6 +1,6 @@
 # Kamboya
 
-Kamboya is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 1 Aug 2026.
+Kamboya is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Under Bridge Madrid, Madrid on Sat, 1 Aug 2026.
 
 Kamboya is a downtempo and house artist based in Spain, tracked on soundcheck, with 91 sets logged across Barcelona and Madrid. Often billed alongside Sarcophago, Alvaro Cabana and Valleyk. Next up: Under Bridge Madrid, Madrid on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kamboya is a downtempo and house artist based in Spain, tracked on soundcheck, w
 
 Sarcophago, Alvaro Cabana, Valleyk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamboya/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamboya/)*

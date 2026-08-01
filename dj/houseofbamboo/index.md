@@ -1,6 +1,6 @@
 # House of Bamboo
 
-House of Bamboo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
+House of Bamboo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
 
 House of Bamboo is a house and deep house artist tracked on soundcheck, with 18 sets logged across Brighton. Often billed alongside Ashkaan, Barney Osborn and Ethan Jenner. Next up: The Bee's Mouth, Brighton on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ House of Bamboo is a house and deep house artist tracked on soundcheck, with 18 
 
 Ashkaan, Barney Osborn, Ethan Jenner
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofbamboo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofbamboo/)*

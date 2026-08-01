@@ -1,13 +1,14 @@
 # Virgo
 
-Virgo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Domicile, Miami on Fri, 28 Aug 2026.
+Virgo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Ground at Club Space, Miami on Sat, 22 Aug 2026.
 
-Virgo is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Berlin, London, Miami and Portland. Often billed alongside Diana Franco, EMP and Eden Prince. Next up: Domicile, Miami on Fri 28 Aug.
+Virgo is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, London, Miami and Portland. Often billed alongside Diana Franco, EMP and Eden Prince. Next up: The Ground at Club Space, Miami on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | The Ground at Club Space | Miami |
 | Fri, 28 Aug 2026 | Domicile | Miami |
 
 ## Recently played
@@ -20,4 +21,4 @@ Virgo is a techno and house artist based in United States of America, tracked on
 
 Diana Franco, EMP, Eden Prince
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virgo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virgo/)*

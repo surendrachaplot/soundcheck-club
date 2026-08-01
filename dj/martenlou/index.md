@@ -1,8 +1,8 @@
 # Marten Lou
 
-Marten Lou is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Upperist, Istanbul on Thu, 20 Aug 2026.
+Marten Lou is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Upperist, Istanbul on Thu, 20 Aug 2026.
 
-Marten Lou is an afro house and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Basel and 30 more. Often billed alongside ARODES, Andrea Oliva and Hugel. Next up: Upperist, Istanbul on Thu 20 Aug.
+Marten Lou is an afro house and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Barcelona and Basel and 30 more. Often billed alongside ARODES, Andrea Oliva and Hugel. Next up: Upperist, Istanbul on Thu 20 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Marten Lou is an afro house and house artist tracked on soundcheck, with 94 sets
 | Mon, 24 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 9 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Savaya Bali | Bali |
+| Wed, 16 Sept 2026 | Zumana Bali | Bali |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Pacha Ibiza | Ibiza |
 
@@ -30,4 +31,4 @@ Marten Lou is an afro house and house artist tracked on soundcheck, with 94 sets
 
 ARODES, Andrea Oliva, Hugel
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*

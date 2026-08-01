@@ -1,8 +1,8 @@
 # Chaosy
 
-Chaosy is a Broken Beat and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
+Chaosy is a Broken Beat and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
 
-Chaosy is a broken beat and electro artist based in Ukraine, tracked on soundcheck, with 12 sets logged across Berlin and Thehague. Often billed alongside Costa, Jana Woodstock and Bejenec. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
+Chaosy is a broken beat and electro artist based in Ukraine, tracked on soundcheck, with 12 sets logged across Berlin and Thehague. Often billed alongside Costa (FR), Jana Woodstock and Bejenec. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Chaosy is a broken beat and electro artist based in Ukraine, tracked on soundche
 
 ## Shares bills with
 
-Costa, Jana Woodstock, Bejenec
+Costa (FR), Jana Woodstock, Bejenec
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosy/)*

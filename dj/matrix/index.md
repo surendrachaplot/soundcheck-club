@@ -1,6 +1,6 @@
 # Matrix
 
-Matrix is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Matrix is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Matrix is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton, Brisbane, Budapest and Denver and 8 more. Often billed alongside Futurebound, Optical and Black Sun Empire. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Matrix is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Futurebound, Optical, Black Sun Empire
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix/)*

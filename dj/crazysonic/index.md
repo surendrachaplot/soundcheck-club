@@ -1,6 +1,6 @@
 # Crazy Sonic
 
-Crazy Sonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at PRST, Vienna on Sat, 1 Aug 2026.
+Crazy Sonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at PRST, Vienna on Sat, 1 Aug 2026.
 
 Crazy Sonic is a techno and house artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Stuttgart and Vienna. Often billed alongside Albin Brezlan, DANBERG and Relinquo. Next up: PRST, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Crazy Sonic is a techno and house artist tracked on soundcheck, with 39 sets log
 
 Albin Brezlan, DANBERG, Relinquo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazysonic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazysonic/)*

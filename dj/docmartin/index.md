@@ -1,8 +1,8 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Piccadilly Central, Manchester on Fri, 21 Aug 2026.
+Doc Martin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Piccadilly Central, Manchester on Fri, 21 Aug 2026.
 
-Doc Martin is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ M3, DJ Sneak and Mark Farina. Next up: Piccadilly Central, Manchester on Fri 21 Aug.
+Doc Martin is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ M3, DJ Sneak and Mark Farina. Next up: Piccadilly Central, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 90 sets logg
 | Fri, 21 Aug 2026 | Piccadilly Central | Manchester |
 | Sun, 30 Aug 2026 | The North London Tavern | London |
 | Sat, 5 Sept 2026 | The Great Northern | San Francisco/Oakland |
+| Fri, 9 Oct 2026 | Reelworks Denver | Denver |
 | Sat, 10 Oct 2026 | California Plaza | Los Angeles |
 
 ## Recently played
@@ -28,4 +29,4 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 90 sets logg
 
 DJ M3, DJ Sneak, Mark Farina
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

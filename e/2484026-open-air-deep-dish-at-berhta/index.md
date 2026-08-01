@@ -1,6 +1,6 @@
 # OPEN-AIR: Deep Dish at BERHTA
 
-OPEN-AIR: Deep Dish at BERHTA on Sat 22 Aug, Washingtondc. 1 act on the bill: Deep Dish. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+OPEN-AIR: Deep Dish at BERHTA on Sat 22 Aug, Washingtondc. 3 acts on the bill: Deep Dish, Dubfire and Sharam. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ OPEN-AIR: Deep Dish at BERHTA on Sat 22 Aug, Washingtondc. 1 act on the bill: De
 ## Line-up
 
 - Deep Dish
+- Dubfire
+- Sharam
 
 *Source: [soundcheck](https://soundcheck.club/e/2484026-open-air-deep-dish-at-berhta/)*

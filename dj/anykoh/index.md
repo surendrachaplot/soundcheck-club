@@ -1,8 +1,8 @@
 # Any Koh
 
-Any Koh is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
+Any Koh is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
 
-Any Koh is a minimal techno and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside D LAI, Folek and MPathy. Next up: Bar A Bar, London on Sat 26 Sept.
+Any Koh is a minimal techno and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside D LAI, Folek and Dimanté. Next up: Bar A Bar, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Any Koh is a minimal techno and techno artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-D LAI, Folek, MPathy
+D LAI, Folek, Dimanté
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*

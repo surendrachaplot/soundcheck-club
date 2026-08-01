@@ -1,6 +1,6 @@
 # Micky Modelle
 
-Micky Modelle is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Savoy, Glasgow on Sat, 1 Aug 2026.
+Micky Modelle is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Savoy, Glasgow on Sat, 1 Aug 2026.
 
 Micky Modelle is a hardcore and club artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow, Ibiza and Newcastle. Often billed alongside Ultrabeat, Alan Benn and Andy Whitby. Next up: Savoy, Glasgow on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Micky Modelle is a hardcore and club artist based in United Kingdom, tracked on 
 
 Ultrabeat, Alan Benn, Andy Whitby
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickymodelle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickymodelle/)*

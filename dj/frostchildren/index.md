@@ -1,6 +1,6 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Frost Children is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Frost Children is a pop and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Frost Children is a pop and electronica artist tracked on soundcheck, with 51 se
 
 10cust, Ali RQ, DJ Trick
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

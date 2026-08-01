@@ -1,6 +1,6 @@
 # Refrig
 
-Refrig is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
+Refrig is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
 
 Refrig is a techno and electronica artist tracked on soundcheck, with 4 sets logged across Prague. Often billed alongside IVO (2), Adamatron and Axis Alpha. Next up: Fuchs2, Prague on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Refrig is a techno and electronica artist tracked on soundcheck, with 4 sets log
 
 IVO (2), Adamatron, Axis Alpha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/refrig/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/refrig/)*

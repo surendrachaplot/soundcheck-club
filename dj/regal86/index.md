@@ -1,14 +1,15 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
+Regal86 is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
 
-Regal86 is a techno and club artist tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Karmen Camina, Strasbourg on Sat 1 Aug.
+Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Karmen Camina, Strasbourg on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Karmen Camina | Strasbourg |
+| Fri, 7 Aug 2026 | Strange Brew | Bristol |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Fri, 28 Aug 2026 | Tresor / Globus | Berlin |
 
@@ -27,4 +28,4 @@ Regal86 is a techno and club artist tracked on soundcheck, with 120 sets logged 
 
 1morning, 1OO1O, MoMA Ready
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

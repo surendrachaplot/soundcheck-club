@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Céleste W/ ALWAYS 8:15" on Fri, 31 Jul 2026.
+The Berkeley Suite is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov" on Sun, 2 Aug 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including AKA DISPLAY, ALWAYS 8:15, Angel Negrin and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including AKA DISPLAY, Angel Negrin, Austin Ato and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Céleste W/ ALWAYS 8:15 | ALWAYS 8:15, Céleste |
 | Sun, 2 Aug 2026 | The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov | Endogroov, Spencer Parker, Wheelman, noodle |
 | Fri, 7 Aug 2026 | Missing Persons Club // Free Tickets | DJ Smoker, Lovejoy |
 | Sat, 8 Aug 2026 | Optimo (Espacio) GLASGOW RESIDENCY | Optimo (Espacio) |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming
 | Fri, 21 Aug 2026 | Co-Accused with L.F.T. & Ángel Negrín | Angel Negrin, Co-Accused, L.F.T. |
 | Sat, 22 Aug 2026 | Hot Towel 10th Birthday with Gigi Testa & Moira Salt | Gigi Testa |
 | Tue, 25 Aug 2026 | Swagfest x B16: Afters Exhibition W/ Dazegxd | Dazegxd |
+| Sat, 29 Aug 2026 | I Love Your Energy with Austin Ato | Austin Ato |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

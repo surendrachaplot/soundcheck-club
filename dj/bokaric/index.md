@@ -1,6 +1,6 @@
 # Bokaric
 
-Bokaric is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - River Spree, Berlin, Berlin on Sat, 1 Aug 2026.
+Bokaric is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - River Spree, Berlin, Berlin on Sat, 1 Aug 2026.
 
 Bokaric is a techno artist based in Serbia, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Masarini, Mechanic Slave and DJ Marviosi. Next up: TBA - River Spree, Berlin, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bokaric is a techno artist based in Serbia, tracked on soundcheck, with 17 sets 
 
 Masarini, Mechanic Slave, DJ Marviosi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bokaric/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bokaric/)*

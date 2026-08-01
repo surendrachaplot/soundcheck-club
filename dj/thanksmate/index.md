@@ -1,14 +1,15 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Carpet Shop, London on Fri, 7 Aug 2026.
+ThanksMate is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Carpet Shop, London on Fri, 7 Aug 2026.
 
-ThanksMate is a house and disco artist tracked on soundcheck, with 52 sets logged across London, Milan, Naples and Newyorkcity and 1 more. Often billed alongside Obbi, Curcio and Mugman. Next up: The Carpet Shop, London on Fri 7 Aug.
+ThanksMate is a house and disco artist tracked on soundcheck, with 53 sets logged across London, Milan, Naples and Newyorkcity and 1 more. Often billed alongside Obbi, Curcio and Mugman. Next up: The Carpet Shop, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Carpet Shop | London |
+| Sun, 20 Sept 2026 | Umoya | Naples |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ThanksMate is a house and disco artist tracked on soundcheck, with 52 sets logge
 
 Obbi, Curcio, Mugman
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

@@ -1,6 +1,6 @@
 # Yuta Yamada
 
-Yuta Yamada is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Pimpernel, Munich on Thu, 6 Aug 2026.
+Yuta Yamada is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Pimpernel, Munich on Thu, 6 Aug 2026.
 
 Yuta Yamada is a house and tech house artist based in Japan, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside Aiko Inoue, GooPer and Amps. Next up: Pimpernel, Munich on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Yuta Yamada is a house and tech house artist based in Japan, tracked on soundche
 
 Aiko Inoue, GooPer, Amps
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*

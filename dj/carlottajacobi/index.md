@@ -1,6 +1,6 @@
 # Carlotta Jacobi
 
-Carlotta Jacobi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
+Carlotta Jacobi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
 
 Carlotta Jacobi is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin and Leipzig. Often billed alongside illousion, AZIL and Big Honey. Next up: Distillery, Leipzig on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Carlotta Jacobi is a techno and house artist based in Germany, tracked on soundc
 
 illousion, AZIL, Big Honey
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlottajacobi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlottajacobi/)*

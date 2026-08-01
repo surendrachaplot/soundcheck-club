@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Old Royal Naval College, London on Sun, 2 Aug 2026.
+MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Old Royal Naval College, London on Sun, 2 Aug 2026.
 
 MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 37 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Old Royal Naval College, London on Sun 2 Aug.
 
@@ -33,4 +33,4 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged 
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

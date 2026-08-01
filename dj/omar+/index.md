@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Omar+ is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logge
 
 Obskur, Joss Dean, Prospa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

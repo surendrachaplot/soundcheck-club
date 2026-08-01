@@ -1,6 +1,6 @@
 # Mazin
 
-Mazin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Edge Miami, Miami on Sat, 1 Aug 2026.
+Mazin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Edge Miami, Miami on Sat, 1 Aug 2026.
 
 Mazin is a house and tech house artist tracked on soundcheck, with 10 sets logged across Miami and Toronto. Often billed alongside Rohan Alyan, DJ Three and Matt Caines. Next up: Edge Miami, Miami on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mazin is a house and tech house artist tracked on soundcheck, with 10 sets logge
 
 Rohan Alyan, DJ Three, Matt Caines
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazin/)*

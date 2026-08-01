@@ -1,6 +1,6 @@
 # Tatie Dee
 
-Tatie Dee is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Thu, 13 Aug 2026.
+Tatie Dee is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Virage, Paris on Thu, 13 Aug 2026.
 
 Tatie Dee is a house and electro artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Yuko Kakizawa, Belaria and Cogan. Next up: Virage, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Tatie Dee is a house and electro artist tracked on soundcheck, with 71 sets logg
 
 Yuko Kakizawa, Belaria, Cogan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiedee/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiedee/)*

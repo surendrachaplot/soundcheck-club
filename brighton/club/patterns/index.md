@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Pride After Party: Kylie Wears Berghaus & Jake Reed" on Fri, 31 Jul 2026.
+Patterns is a music venue in Brighton with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Brighton Pride After Party: Horse Meat Disco" on Sat, 1 Aug 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 9 upcoming nights, with line-ups including Al Bradley, Benji Hedonator, BIKINIWAX (2) and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -8,11 +8,11 @@ Patterns is a music venue in Brighton listed on soundcheck. 9 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Pride After Party: Kylie Wears Berghaus & Jake Reed | Kylie Wears Berghaus |
 | Sat, 1 Aug 2026 | Brighton Pride After Party: Horse Meat Disco | Horse Meat Disco |
 | Sat, 8 Aug 2026 | Bora Bora Music | Al Bradley, Dave Gallier, Gee Moore, Pete Bones |
 | Fri, 28 Aug 2026 | 10 Years of Sunshine Soul: Luke Solomon & Marcia Carr | Luke Solomon, Marcia Carr, Mylo Harvey |
 | Sun, 30 Aug 2026 | CC:DISCO! Terrace Party | CC:DISCO!, Discokid, Wildblood and Queenie |
+| Fri, 4 Sept 2026 | GRASSROOTS - FREE First Fridays - Disco, Funk & House - 04/09/26 |  |
 | Sun, 6 Sept 2026 | Brighton Sundae with Matthew Herbert (DJ set) | Matthew Herbert |
 | Sun, 13 Sept 2026 | Just Keep Moving Day Party Finale | BIKINIWAX (2), Benji Hedonator, Kyle Bower |
 | Sat, 19 Sept 2026 | Memory Box: Disco in The House with Joe Goddard (Hot Chip) | Hot Chip, Joe Goddard |
@@ -22,4 +22,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 9 upcoming nights, w
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

@@ -1,13 +1,14 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Ben Bondy is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Ben Bondy is an ambient and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Ayesha and Mia Koden. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
+Ben Bondy is an ambient and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Succubass and Yumi. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ben Bondy is an ambient and techno artist based in United States of America, tra
 
 ## Shares bills with
 
-Special Guest DJ, Ayesha, Mia Koden
+Special Guest DJ, Succubass, Yumi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*

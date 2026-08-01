@@ -1,14 +1,13 @@
 # Pètal
 
-Pètal is a Club and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+Pètal is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SMUT Athens, Athens on Sat, 1 Aug 2026.
 
-Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
+Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: SMUT Athens, Athens on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Bushwick | New York City |
 | Sat, 1 Aug 2026 | SMUT Athens | Athens |
 | Sat, 1 Aug 2026 | Happyfun Hideaway | New York City |
 | Wed, 5 Aug 2026 | Jupiter Disco | New York City |
@@ -18,6 +17,7 @@ Pètal is a club and techno artist based in United States of America, tracked on
 
 ## Recently played
 
+- TBA - Bushwick, New York City — Fri, 31 Jul 2026
 - TBA, New York City — Thu, 23 Jul 2026
 - H0L0, New York City — Thu, 23 Jul 2026
 - Pianos, New York City — Sun, 19 Jul 2026
@@ -25,10 +25,9 @@ Pètal is a club and techno artist based in United States of America, tracked on
 - TBA - GLYFADA AREA, Athens — Sat, 18 Jul 2026
 - Mood Ring, New York City — Wed, 15 Jul 2026
 - Mood Ring, New York City — Wed, 15 Jul 2026
-- Mood Ring, New York City — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 CMD+JAZMINE, BEYBLADE SHAWTY, EEVEE (3)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*

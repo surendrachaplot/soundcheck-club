@@ -1,6 +1,6 @@
 # pizzi
 
-pizzi is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at BERHTA, Washington DC on Sat, 1 Aug 2026.
+pizzi is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at BERHTA, Washington DC on Sat, 1 Aug 2026.
 
 pizzi is an afro house and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, London, Miami and Newyorkcity and 2 more. Often billed alongside Meedy, Niara Sterling and Nativesun. Next up: BERHTA, Washingtondc on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ pizzi is an afro house and house artist based in United States of America, track
 
 Meedy, Niara Sterling, Nativesun
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzi/)*

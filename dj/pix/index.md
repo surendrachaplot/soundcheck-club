@@ -1,6 +1,6 @@
 # PIX
 
-PIX is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
+PIX is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Sydney on Sat, 15 Aug 2026.
 
 PIX is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across Berlin, Mexicocity and Sydney. Often billed alongside Stefcon, Fashionably Late and Floga. Next up: TBA, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ PIX is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logge
 
 Stefcon, Fashionably Late, Floga
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pix/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pix/)*

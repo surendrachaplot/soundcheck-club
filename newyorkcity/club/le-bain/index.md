@@ -1,14 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "TARKA X Le Bain" on Fri, 31 Jul 2026.
+Le Bain is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Tony Humphries' RESIDENCY" on Sat, 1 Aug 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including DANILO BRACA, Amber Valentine, Bea Trinidad and Dynoman and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including DANILO BRACA, Amber Valentine, Erol Sabadosh and Francois K and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TARKA X Le Bain | Bea Trinidad, Dynoman, Nabihah Iqbal, VARSHA, Zara Dekho |
 | Sat, 1 Aug 2026 | Tony Humphries' RESIDENCY | Tony Humphries |
 | Sun, 2 Aug 2026 | WORLD OF ECHOES presents Ian Friday | Francois K |
 | Wed, 5 Aug 2026 | DANCE DANCE DANCE |  |
@@ -18,9 +17,10 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights
 | Sat, 8 Aug 2026 | CLUB CHLORINE X Le Bain | Orson.NYC |
 | Sun, 9 Aug 2026 | WORLD OF ECHOES by François K | Francois K |
 | Wed, 12 Aug 2026 | DANCE DANCE DANCE |  |
+| Thu, 13 Aug 2026 | Susanne Bartsch Wants You ON TOP | Erol Sabadosh, Hope 808 |
 
 ## Address
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

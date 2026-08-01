@@ -1,6 +1,6 @@
 # David Alcaniz
 
-David Alcaniz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
+David Alcaniz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
 
 David Alcaniz is a techno and house artist based in Canada, tracked on soundcheck, with 15 sets logged across Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Marist. Next up: TBA - Secret Location, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ David Alcaniz is a techno and house artist based in Canada, tracked on soundchec
 
 DK PAU, Behrad Tehrani, Marist
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidalcaniz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidalcaniz/)*

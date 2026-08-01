@@ -1,8 +1,8 @@
 # Bootleg Contraband
 
-Bootleg Contraband is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bourbon On Division, Chicago on Fri, 21 Aug 2026.
+Bootleg Contraband is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bourbon On Division, Chicago on Fri, 21 Aug 2026.
 
-Bootleg Contraband is a house and techno artist tracked on soundcheck, with 10 sets logged across Chicago. Often billed alongside R34L, Jenny Fox and Kula. Next up: Bourbon On Division, Chicago on Fri 21 Aug.
+Bootleg Contraband is a house and techno artist tracked on soundcheck, with 11 sets logged across Chicago. Often billed alongside R34L, Kula and Jenny Fox. Next up: Bourbon On Division, Chicago on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bootleg Contraband is a house and techno artist tracked on soundcheck, with 10 s
 
 ## Recently played
 
+- TBA, Chicago — Sat, 4 Jul 2026
 - Esmeralda's Bar, Chicago — Sat, 7 Jun 2025
 - TBA - KILDARE STUDIOS, Chicago — Fri, 31 Jan 2025
 - TBA - Downtown Aurora, Chicago — Fri, 11 Oct 2024
@@ -19,10 +20,9 @@ Bootleg Contraband is a house and techno artist tracked on soundcheck, with 10 s
 - TBA, Chicago — Sat, 20 Jul 2024
 - Soif Wine Lounge, Chicago — Fri, 3 Nov 2023
 - The Point, Chicago — Fri, 15 Sept 2023
-- Matilda, Chicago — Fri, 14 Jul 2023
 
 ## Shares bills with
 
-R34L, Jenny Fox, Kula
+R34L, Kula, Jenny Fox
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bootlegcontraband/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bootlegcontraband/)*

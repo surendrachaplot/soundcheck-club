@@ -1,6 +1,6 @@
 # Matho
 
-Matho is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Place Noord, Brussels on Fri, 14 Aug 2026.
+Matho is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Place Noord, Brussels on Fri, 14 Aug 2026.
 
 Matho is a garage and electro artist based in Belgium, tracked on soundcheck, with 31 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Nidrev, Nayrah and Ensarr. Next up: Place Noord, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Matho is a garage and electro artist based in Belgium, tracked on soundcheck, wi
 
 Nidrev, Nayrah, Ensarr
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matho/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matho/)*

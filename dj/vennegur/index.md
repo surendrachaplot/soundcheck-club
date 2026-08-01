@@ -1,6 +1,6 @@
 # Vennegur
 
-Vennegur is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Sat, 8 Aug 2026.
+Vennegur is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Sat, 8 Aug 2026.
 
 Vennegur is a minimal and house artist based in Argentina, tracked on soundcheck, with 49 sets logged across Barcelona and Ibiza. Often billed alongside mves, CAZOU and Bttologic. Next up: TBA - Backstage - Carrer Casp, 33, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Vennegur is a minimal and house artist based in Argentina, tracked on soundcheck
 
 mves, CAZOU, Bttologic
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vennegur/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vennegur/)*

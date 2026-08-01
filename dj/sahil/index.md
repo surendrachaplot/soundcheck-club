@@ -1,6 +1,6 @@
 # Sahil
 
-Sahil is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
+Sahil is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
 
 Sahil is a house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Josh German, A Hard Day's Dance and Rodney (3). Next up: Starlane Pizza Bar, London on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Sahil is a house artist based in United Kingdom, tracked on soundcheck, with 7 s
 
 Josh German, A Hard Day's Dance, Rodney (3)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sahil/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sahil/)*

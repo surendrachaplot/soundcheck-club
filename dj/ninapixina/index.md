@@ -1,6 +1,6 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
+Nina Pixina is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
 
 Nina Pixina is a techno and trance artist tracked on soundcheck, with 35 sets logged across Brighton, Bucharest, Leeds and London. Often billed alongside Gloria Rose, RayRay and Amphia. Next up: Distillery N17, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 35 sets lo
 
 Gloria Rose, RayRay, Amphia
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

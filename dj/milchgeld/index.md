@@ -1,6 +1,6 @@
 # Milchgeld
 
-Milchgeld is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M-BIA, Berlin on Sat, 1 Aug 2026.
+Milchgeld is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at M-BIA, Berlin on Sat, 1 Aug 2026.
 
 Milchgeld is a techno and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside DaSoMaZo, Sonse and Abimixx. Next up: M-BIA, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Milchgeld is a techno and tech house artist based in Germany, tracked on soundch
 
 DaSoMaZo, Sonse, Abimixx
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*

@@ -1,6 +1,6 @@
 # Matthieu Faubourg
 
-Matthieu Faubourg is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kilomètre25, Paris on Fri, 7 Aug 2026.
+Matthieu Faubourg is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kilomètre25, Paris on Fri, 7 Aug 2026.
 
 Matthieu Faubourg is a house and electro artist based in France, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Madrid and Paris and 2 more. Often billed alongside Palimpseste, Santa Fe and Black Loops. Next up: Kilomètre25, Paris on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Matthieu Faubourg is a house and electro artist based in France, tracked on soun
 
 Palimpseste, Santa Fe, Black Loops
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieufaubourg/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieufaubourg/)*

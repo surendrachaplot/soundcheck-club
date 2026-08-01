@@ -1,6 +1,6 @@
 # Andre McLeod
 
-Andre McLeod is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
+Andre McLeod is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
 
 Andre McLeod is a house and techno artist based in Japan, tracked on soundcheck, with 103 sets logged across Tokyo. Often billed alongside Aiko Inoue, Celter and Omar Santis. Next up: ZEROTOKYO, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Andre McLeod is a house and techno artist based in Japan, tracked on soundcheck,
 
 Aiko Inoue, Celter, Omar Santis
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andremcleod/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andremcleod/)*

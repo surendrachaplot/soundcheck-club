@@ -1,6 +1,6 @@
 # VLADE (TM)
 
-VLADE (TM) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Optimist, Bali on Sat, 1 Aug 2026.
+VLADE (TM) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Optimist, Bali on Sat, 1 Aug 2026.
 
 VLADE (TM) is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Bali. Often billed alongside BBANDIT, Adam Dado and Deecoy. Next up: Optimist, Bali on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ VLADE (TM) is a techno and tech house artist tracked on soundcheck, with 9 sets 
 
 BBANDIT, Adam Dado, Deecoy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladetm/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladetm/)*

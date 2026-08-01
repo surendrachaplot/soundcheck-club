@@ -1,8 +1,8 @@
 # DJ Sauci Soni
 
-DJ Sauci Soni is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Uptown Gaming, New York City on Sat, 1 Aug 2026.
+DJ Sauci Soni is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Uptown Gaming, New York City on Sat, 1 Aug 2026.
 
-DJ Sauci Soni is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside MISS VEE, MAXWELL HöUSE and FTZGRLD. Next up: Uptown Gaming, Newyorkcity on Sat 1 Aug.
+DJ Sauci Soni is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Newyorkcity. Often billed alongside MISS VEE, MAXWELL HöUSE and FTZGRLD. Next up: Uptown Gaming, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Sauci Soni is a house and techno artist based in United States of America, tr
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Uptown Gaming | New York City |
 | Thu, 6 Aug 2026 | Mehanata Bar | New York City |
+| Thu, 13 Aug 2026 | Mehanata Bar | New York City |
 | Fri, 14 Aug 2026 | The Local NY | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ DJ Sauci Soni is a house and techno artist based in United States of America, tr
 
 MISS VEE, MAXWELL HöUSE, FTZGRLD
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*

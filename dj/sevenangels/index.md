@@ -1,6 +1,6 @@
 # Seven Angels
 
-Seven Angels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Madam, Amsterdam on Sat, 1 Aug 2026.
+Seven Angels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Madam, Amsterdam on Sat, 1 Aug 2026.
 
 Seven Angels is a house and techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Copenhagen and Milan and 4 more. Often billed alongside DAMN DANIEL, Kaikaina and CyberFairy777. Next up: Madam, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Seven Angels is a house and techno artist based in Netherlands, tracked on sound
 
 DAMN DANIEL, Kaikaina, CyberFairy777
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenangels/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenangels/)*

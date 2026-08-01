@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
+Hardt Antoine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at fabric, London on Sat, 1 Aug 2026.
 
 Hardt Antoine is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: fabric, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Hardt Antoine is a house and techno artist tracked on soundcheck, with 70 sets l
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

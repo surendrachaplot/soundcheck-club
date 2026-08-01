@@ -1,6 +1,6 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "vital signs" on Fri, 31 Jul 2026.
+Socore Factory is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ENISHIT! Release GIG BAAD BEAT GOOD GROOVE" on Sat, 1 Aug 2026.
 
 Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming nights, with line-ups including AKIHIRO, Akira Saotome, Ane and Bass and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
@@ -8,7 +8,6 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | vital signs |  |
 | Sat, 1 Aug 2026 | ENISHIT! Release GIG BAAD BEAT GOOD GROOVE |  |
 | Fri, 7 Aug 2026 | WORM OSAKA 5th Anniversary Party | Yukari BB |
 | Mon, 10 Aug 2026 | POUND | IKUZO, Itou, ONO (3), Yudai Sugiyama |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming night
 | Sat, 15 Aug 2026 | DOURAKU RECORDS 7th Anniversary | Gumbo, KEi |
 | Wed, 19 Aug 2026 | SOCORE WAVE ~Rebel with a Cause 東名阪ツアー~ | JIN CROMANYON |
 | Thu, 20 Aug 2026 | Ivy presents ぼくは地球と歌う | Ivy |
+| Sun, 23 Aug 2026 | DOURAKU RECORDS 7th Anniversary | Gumbo, KEi |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

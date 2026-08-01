@@ -1,14 +1,13 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bolivar Beach Bar, Athens on Fri, 31 Jul 2026.
+Deborah De Luca is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
-Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Bolivar Beach Bar, Athens on Fri 31 Jul.
+Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Bolivar Beach Bar | Athens |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 set
 
 ## Recently played
 
+- Bolivar Beach Bar, Athens — Fri, 31 Jul 2026
 - Bootshaus, Cologne — Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
 - TBA - AMK Club, Almagro, Buenos Aires — Wed, 8 Jul 2026
@@ -25,10 +25,9 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 set
 - Kiesgrube, Düsseldorf — Sun, 21 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 14 Jun 2026
 - Stage B, New York City — Sat, 30 May 2026
-- Club Space Miami, Miami — Fri, 29 May 2026
 
 ## Shares bills with
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

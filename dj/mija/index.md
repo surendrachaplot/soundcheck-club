@@ -1,14 +1,13 @@
 # Mija
 
-Mija is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Mija is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
 
-Mija is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Mija is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Virage, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 28 Aug 2026 | Virage | Paris |
 | Fri, 4 Sept 2026 | Hall | Tallinn |
 | Fri, 11 Sept 2026 | Hangaren | Copenhagen |
@@ -16,6 +15,7 @@ Mija is a techno and house artist tracked on soundcheck, with 121 sets logged ac
 
 ## Recently played
 
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Mondo, Madrid — Thu, 30 Jul 2026
 - Spook Club, Valencia — Sat, 25 Jul 2026
 - Else, Berlin — Sat, 18 Jul 2026
@@ -23,10 +23,9 @@ Mija is a techno and house artist tracked on soundcheck, with 121 sets logged ac
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 10 Jul 2026
 - Café Schöne Aussichten (CSA), Hamburg — Sun, 5 Jul 2026
 - Kilomètre25, Paris — Sat, 27 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

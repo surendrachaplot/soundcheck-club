@@ -1,6 +1,6 @@
 # Dr. Dextro
 
-Dr. Dextro is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at MODULE, Copenhagen on Sat, 15 Aug 2026.
+Dr. Dextro is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at MODULE, Copenhagen on Sat, 15 Aug 2026.
 
 Dr. Dextro is a trance and techno artist based in Denmark, tracked on soundcheck, with 17 sets logged across Copenhagen. Often billed alongside rowdia, DJ Spice and Fap The Producer. Next up: MODULE, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dr. Dextro is a trance and techno artist based in Denmark, tracked on soundcheck
 
 rowdia, DJ Spice, Fap The Producer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.dextro/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.dextro/)*

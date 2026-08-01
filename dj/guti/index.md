@@ -1,14 +1,15 @@
 # Guti
 
-Guti is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 77, London on Sat, 1 Aug 2026.
+Guti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at 77, London on Sat, 1 Aug 2026.
 
-Guti is a house and tech house artist based in Argentina, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Bali and Barcelona and 20 more. Often billed alongside Fleur Shore, Joey Daniel and Djebali. Next up: 77, London on Sat 1 Aug.
+Guti is a house and tech house artist based in Argentina, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Bali and Barcelona and 20 more. Often billed alongside Fleur Shore, Joey Daniel and Djebali. Next up: 77, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | 77 | London |
+| Sat, 8 Aug 2026 | TBA - Lulú Club, Palermo | Buenos Aires |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Guti is a house and tech house artist based in Argentina, tracked on soundcheck,
 
 Fleur Shore, Joey Daniel, Djebali
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guti/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guti/)*

@@ -1,6 +1,6 @@
 # Flavor
 
-Flavor is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Japan Monterrey, Mexico City on Sat, 22 Aug 2026.
+Flavor is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Japan Monterrey, Mexico City on Sat, 22 Aug 2026.
 
 Flavor is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Adam Collins, HEÎK and Mijo. Next up: Japan Monterrey, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Flavor is a drum & bass and jungle artist tracked on soundcheck, with 10 sets lo
 
 Adam Collins, HEÎK, Mijo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flavor/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flavor/)*

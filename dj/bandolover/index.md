@@ -1,6 +1,6 @@
 # Bandolover
 
-Bandolover is a Neo Perreo and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Rebecca's, New York City on Fri, 7 Aug 2026.
+Bandolover is a Neo Perreo and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Rebecca's, New York City on Fri, 7 Aug 2026.
 
 Bandolover is a neo perreo and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside p1no, Yurk and awhlkuhn. Next up: Rebecca's, Newyorkcity on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Bandolover is a neo perreo and club artist based in United States of America, tr
 
 p1no, Yurk, awhlkuhn
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bandolover/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bandolover/)*

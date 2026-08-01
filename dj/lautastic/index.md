@@ -1,6 +1,6 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at EL SÓTANO, Madrid on Sun, 9 Aug 2026.
+Lau.tastic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at EL SÓTANO, Madrid on Sun, 9 Aug 2026.
 
 Lau.tastic is a techno and industrial artist tracked on soundcheck, with 85 sets logged across Berlin, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Dres Codex, KASTILO and Labåzuy. Next up: EL SÓTANO, Madrid on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Lau.tastic is a techno and industrial artist tracked on soundcheck, with 85 sets
 
 Dres Codex, KASTILO, Labåzuy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

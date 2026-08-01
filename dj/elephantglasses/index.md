@@ -1,6 +1,6 @@
 # Elephantglasses
 
-Elephantglasses is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Sun, 23 Aug 2026.
+Elephantglasses is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jupiter Disco, New York City on Sun, 23 Aug 2026.
 
 Elephantglasses is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Ardio Zemog, Blvck Truffle and Bendito. Next up: Jupiter Disco, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Elephantglasses is a house and disco artist based in United States of America, t
 
 Ardio Zemog, Blvck Truffle, Bendito
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elephantglasses/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elephantglasses/)*

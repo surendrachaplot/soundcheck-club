@@ -1,14 +1,15 @@
 # Spencer FM
 
-Spencer FM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Spencer FM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
-Spencer FM is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Portland and Tokyo. Often billed alongside 5ive, Aaron Davis and Andy Warren. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
+Spencer FM is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Portland and Tokyo. Often billed alongside Aaron Davis, Andy Warren and DJ DISSOLVE. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
+| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Spencer FM is a house and techno artist based in United States of America, track
 
 ## Shares bills with
 
-5ive, Aaron Davis, Andy Warren
+Aaron Davis, Andy Warren, DJ DISSOLVE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerfm/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerfm/)*

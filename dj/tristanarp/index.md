@@ -1,6 +1,6 @@
 # Tristan Arp
 
-Tristan Arp is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Tristan Arp is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
 Tristan Arp is a bass and techno artist tracked on soundcheck, with 32 sets logged across Austin, Bali, Barcelona and Berlin and 13 more. Often billed alongside DJ DEADNAME, Daigos and E.O.U. Next up: Circle Park, Brussels on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tristan Arp is a bass and techno artist tracked on soundcheck, with 32 sets logg
 
 DJ DEADNAME, Daigos, E.O.U
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*

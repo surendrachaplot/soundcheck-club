@@ -1,6 +1,6 @@
 # Joel Rakoto
 
-Joel Rakoto is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ministerium Club, Lisbon on Sat, 8 Aug 2026.
+Joel Rakoto is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ministerium Club, Lisbon on Sat, 8 Aug 2026.
 
 Joel Rakoto is a house and electro artist based in France, tracked on soundcheck, with 13 sets logged across Lisbon, London, Lyon and Paris. Often billed alongside HearThug, Alyhas and Arthur Nozen. Next up: Ministerium Club, Lisbon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Joel Rakoto is a house and electro artist based in France, tracked on soundcheck
 
 HearThug, Alyhas, Arthur Nozen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joelrakoto/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joelrakoto/)*

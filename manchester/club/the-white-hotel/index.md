@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 32 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Ordinary Friends presents Spray & Jenny Cara" on Fri, 31 Jul 2026.
+The White Hotel is a music venue in Manchester with 32 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live]" on Sat, 1 Aug 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Alessandro Adriani and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -8,7 +8,6 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Ordinary Friends presents Spray & Jenny Cara | Jenny Cara, MACLO, Spray |
 | Sat, 1 Aug 2026 | NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] | CITYTRONIX, Chande, FURIOUS STYLES, M.I.C (The Master of Inane Conversation), SHERI (2) |
 | Sat, 1 Aug 2026 | Freak Queer Rave w/ TEDESCO, Michael Upson, Bekefi, Jus'T | Bekefi, Jus’T, Michael Upson, TEDESCO |
 | Fri, 7 Aug 2026 | Bodyworks 4: Anti-Symposium | GINA (UK), Kop-Z, Syntax (2), TOOT |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming
 | Sat, 15 Aug 2026 | GOO {Day Party} Daniel Avery & Richard Fearless | Daniel Avery, Richard Fearless |
 | Sat, 15 Aug 2026 | Sully / Jossy Mitsu / Scapa | Jossy Mitsu, Scapa, Sully |
 | Sun, 16 Aug 2026 | DJ Spanish Fly / Tom Boogizm | Tom Boogizm |
+| Thu, 20 Aug 2026 | Marie Davidson (LIVE) | Marie Davidson |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

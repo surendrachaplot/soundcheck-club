@@ -1,8 +1,8 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Cloudy is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Cloudy is a techno and trance artist tracked on soundcheck, with 213 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 213 sets logged
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

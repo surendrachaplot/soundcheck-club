@@ -1,6 +1,6 @@
 # Yusuf
 
-Yusuf is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at FFF, Seoul on Sat, 1 Aug 2026.
+Yusuf is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at FFF, Seoul on Sat, 1 Aug 2026.
 
 Yusuf is a disco and house artist based in South Korea, tracked on soundcheck, with 20 sets logged across Oslo and Seoul. Often billed alongside Gio (KR), Cityboy from Seoul and Youngisland. Next up: FFF, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Yusuf is a disco and house artist based in South Korea, tracked on soundcheck, w
 
 Gio (KR), Cityboy from Seoul, Youngisland
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yusuf/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusuf/)*

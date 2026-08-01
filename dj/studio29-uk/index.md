@@ -1,6 +1,6 @@
 # Studio29
 
-Studio29 is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
+Studio29 is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
 
 Studio29 is a house and disco artist tracked on soundcheck, with 3 sets logged across Brighton and London. Often billed alongside Anna Bahow, Casino Times and Cosmic Bob. Next up: The Bee's Mouth, Brighton on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Studio29 is a house and disco artist tracked on soundcheck, with 3 sets logged a
 
 Anna Bahow, Casino Times, Cosmic Bob
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/studio29-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/studio29-uk/)*

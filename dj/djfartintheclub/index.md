@@ -1,8 +1,8 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at arkaoda Berlin, Berlin on Sun, 9 Aug 2026.
+DJ Fart in the Club is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 9 Aug 2026.
 
-DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 36 more. Often billed alongside Kia (AU), deep creep and Anz. Next up: arkaoda Berlin, Berlin on Sun 9 Aug.
+DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 36 more. Often billed alongside Kia (AU), deep creep and CCL. Next up: arkaoda Berlin, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 114
 
 ## Shares bills with
 
-Kia (AU), deep creep, Anz
+Kia (AU), deep creep, CCL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

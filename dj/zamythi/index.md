@@ -1,6 +1,6 @@
 # Zamythi
 
-Zamythi is a Latin Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - SECRET DTLA LOCATION , Los Angeles on Sat, 1 Aug 2026.
+Zamythi is a Latin Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - SECRET DTLA LOCATION , Los Angeles on Sat, 1 Aug 2026.
 
 Zamythi is a latin bass and ghetto tech artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles and Sanfrancisco. Often billed alongside Cquestt, Profesito and Azure. Next up: TBA - SECRET DTLA LOCATION , Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Zamythi is a latin bass and ghetto tech artist based in United States of America
 
 Cquestt, Profesito, Azure
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zamythi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zamythi/)*

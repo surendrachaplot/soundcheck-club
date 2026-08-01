@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Sun, 2 Aug 2026.
+Courtesy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Else, Berlin on Sun, 2 Aug 2026.
 
 Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: Else, Berlin on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logge
 
 Byron Yeates, MCR-T, BASHKKA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

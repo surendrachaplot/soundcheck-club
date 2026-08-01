@@ -1,14 +1,13 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "RED LINE: DISTORTION - Techno, Hard Bounce & Hard Trance in Dublin" on Fri, 31 Jul 2026.
+The Sound House is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "BAILE TRAMA w/ CRAZY JEFF, VIESCOBAR, GIO ˚ˋঌ˖ " on Sat, 1 Aug 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including ALPER SKR, Cody Wong, Girls of the Internet and Jacob Matthews and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Cody Wong, Girls of the Internet, Jacob Matthews and Shiv. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | RED LINE: DISTORTION - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, SAMUX, WINSLAO |
 | Sat, 1 Aug 2026 | BAILE TRAMA w/ CRAZY JEFF, VIESCOBAR, GIO ˚ˋঌ˖  |  |
 | Sun, 2 Aug 2026 | MAZE X & ISR - Cody Wong | Cody Wong |
 | Sat, 8 Aug 2026 | ECHOES presents: Jacob Matthews B2B Kamorah | Jacob Matthews |
@@ -19,4 +18,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 6 upcoming nigh
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

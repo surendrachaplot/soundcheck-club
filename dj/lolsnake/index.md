@@ -1,8 +1,8 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 1 Aug 2026.
+LOLSNAKE is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 1 Aug 2026.
 
-LOLSNAKE is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Phoxxi Green Area, Hamburg on Sat 1 Aug.
+LOLSNAKE is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Phoxxi Green Area, Hamburg on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 214 sets logge
 | Sat, 1 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Thu, 13 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 15 Aug 2026 | BASEMENT | New York City |
+| Sat, 22 Aug 2026 | The Ground at Club Space | Miami |
 | Fri, 25 Sept 2026 | Laska V21 | Riga |
 
 ## Recently played
@@ -28,4 +29,4 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 214 sets logge
 
 VINVAR, Juliana Huxtable, Rakans
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*

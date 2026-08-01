@@ -1,6 +1,6 @@
 # Danny Cruise
 
-Danny Cruise is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Grub Records, Sheffield on Sat, 1 Aug 2026.
+Danny Cruise is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Grub Records, Sheffield on Sat, 1 Aug 2026.
 
 Danny Cruise is a house and electro artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Bod Min, Simon Scott and 3PM RECORDS. Next up: Grub Records, Sheffield on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Danny Cruise is a house and electro artist based in United Kingdom, tracked on s
 
 Bod Min, Simon Scott, 3PM RECORDS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycruise/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycruise/)*

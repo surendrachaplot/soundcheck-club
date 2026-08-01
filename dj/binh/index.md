@@ -1,14 +1,13 @@
 # Binh
 
-Binh is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Marble Bar, Detroit on Fri, 31 Jul 2026.
+Binh is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at StereoBar, Montreal on Sat, 1 Aug 2026.
 
-Binh is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Marble Bar, Detroit on Fri 31 Jul.
+Binh is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: StereoBar, Montreal on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Marble Bar | Detroit |
 | Sat, 1 Aug 2026 | StereoBar | Montreal |
 | Sat, 29 Aug 2026 | Phonox | London |
 | Sat, 29 Aug 2026 | Phonox | London |
@@ -18,9 +17,11 @@ Binh is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 | Fri, 18 Sept 2026 | Stardust Garage | Austin |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
+| Fri, 30 Oct 2026 | Warehouse 34 | Newcastle |
 
 ## Recently played
 
+- Marble Bar, Detroit — Fri, 31 Jul 2026
 - Signal, New York City — Thu, 30 Jul 2026
 - THE MAGICK BAR, Rome — Sat, 25 Jul 2026
 - Seaseaclub Barcelona, Barcelona — Fri, 24 Jul 2026
@@ -28,10 +29,9 @@ Binh is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 - Le point fort d'Aubervilliers, Paris — Sat, 18 Jul 2026
 - FOLD, London — Sat, 4 Jul 2026
 - Platforma Wolff, Bucharest — Fri, 26 Jun 2026
-- Zt Hotel + Wolf Club, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

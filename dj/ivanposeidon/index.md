@@ -1,6 +1,6 @@
 # IVAN POSEIDON
 
-IVAN POSEIDON is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
+IVAN POSEIDON is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
 
 IVAN POSEIDON is a house and minimal artist tracked on soundcheck, with 87 sets logged across Barcelona and Berlin. Often billed alongside Lisandro Mustapic, Kid Moss and Aka theo. Next up: La Terrrazza, Barcelona on Thu 20 Aug.
 
@@ -13,7 +13,7 @@ IVAN POSEIDON is a house and minimal artist tracked on soundcheck, with 87 sets 
 ## Recently played
 
 - Puerto Bahia Club de Mar, Barcelona — Sat, 25 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 23 Jul 2026
+- Studio Stereo, Barcelona — Thu, 23 Jul 2026
 - Sunseabar Beach Club, Barcelona — Fri, 12 Jun 2026
 - Klunkerkranich, Berlin — Sat, 23 May 2026
 - Bikini Club, Barcelona — Fri, 10 Apr 2026
@@ -25,4 +25,4 @@ IVAN POSEIDON is a house and minimal artist tracked on soundcheck, with 87 sets 
 
 Lisandro Mustapic, Kid Moss, Aka theo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanposeidon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanposeidon/)*

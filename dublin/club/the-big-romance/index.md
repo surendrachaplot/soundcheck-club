@@ -1,14 +1,13 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DJ Dandelion" on Fri, 31 Jul 2026.
+The Big Romance is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DJ Dandelion" on Sat, 1 Aug 2026.
 
-The Big Romance is a music venue in Dublin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
+The Big Romance is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | DJ Dandelion |  |
 | Sat, 1 Aug 2026 | DJ Dandelion |  |
 | Sun, 2 Aug 2026 | Organ Freeman (Live Jazz) + Christiano Ferreira (DJ) |  |
 
@@ -16,4 +15,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 3 upcoming nigh
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

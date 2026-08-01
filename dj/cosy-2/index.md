@@ -1,6 +1,6 @@
 # Cosy (2)
 
-Cosy (2) is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
+Cosy (2) is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
 
 Cosy (2) is a garage and uk funky artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne and Munich. Often billed alongside KJONES, Safe and ANASTASÍA. Next up: Revolver Upstairs, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Cosy (2) is a garage and uk funky artist based in Australia, tracked on soundche
 
 KJONES, Safe, ANASTASÍA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosy-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosy-2/)*

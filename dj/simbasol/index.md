@@ -1,6 +1,6 @@
 # Simbasōl
 
-Simbasōl is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at StereoBar, Montreal on Sun, 2 Aug 2026.
+Simbasōl is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at StereoBar, Montreal on Sun, 2 Aug 2026.
 
 Simbasōl is a house and club artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside Hillel Shabtai, Max Mignot and The Director. Next up: StereoBar, Montreal on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Simbasōl is a house and club artist based in Canada, tracked on soundcheck, wit
 
 Hillel Shabtai, Max Mignot, The Director
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simbasol/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simbasol/)*

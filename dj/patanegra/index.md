@@ -1,6 +1,6 @@
 # Pata Negra
 
-Pata Negra is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Petit CAB, Marseille on Sat, 1 Aug 2026.
+Pata Negra is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Petit CAB, Marseille on Sat, 1 Aug 2026.
 
 Pata Negra is a bass and drum & bass artist based in Brazil, tracked on soundcheck, with 5 sets logged across Marseille and Paris. Often billed alongside NOGE, 42L (1) and Abstraxion. Next up: Petit CAB, Marseille on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Pata Negra is a bass and drum & bass artist based in Brazil, tracked on soundche
 
 NOGE, 42L (1), Abstraxion
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patanegra/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patanegra/)*

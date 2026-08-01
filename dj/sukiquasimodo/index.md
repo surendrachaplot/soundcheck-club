@@ -1,6 +1,6 @@
 # Suki Quasimodo
 
-Suki Quasimodo is a Ambient and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
+Suki Quasimodo is a Ambient and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
 
 Suki Quasimodo is an ambient and idm artist tracked on soundcheck, with 10 sets logged across London and Singapore. Often billed alongside Fliss Mayo, HARDIP and ADRIAN LECA. Next up: Vespers Club, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Suki Quasimodo is an ambient and idm artist tracked on soundcheck, with 10 sets 
 
 Fliss Mayo, HARDIP, ADRIAN LECA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sukiquasimodo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukiquasimodo/)*

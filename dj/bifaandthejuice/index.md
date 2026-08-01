@@ -1,6 +1,6 @@
 # Bifa and The Juice
 
-Bifa and The Juice is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Tempest Inn, Brighton on Sat, 1 Aug 2026.
+Bifa and The Juice is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Tempest Inn, Brighton on Sat, 1 Aug 2026.
 
 Bifa and The Juice are an electro and italo disco duo based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Edinburgh and London. Often billed alongside Danandout, Rob Mello and Andrew Kay. Next up: The Tempest Inn, Brighton on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bifa and The Juice are an electro and italo disco duo based in United Kingdom, t
 
 Danandout, Rob Mello, Andrew Kay
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bifaandthejuice/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bifaandthejuice/)*

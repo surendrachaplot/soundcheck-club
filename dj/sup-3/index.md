@@ -1,6 +1,6 @@
 # SUP (3)
 
-SUP (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
+SUP (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
 
 SUP (3) is a techno and trance artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Cologne and Utrecht. Often billed alongside KRUELTY, SANTØS and 6EJOU. Next up: Odonien, Cologne on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ SUP (3) is a techno and trance artist based in Netherlands, tracked on soundchec
 
 KRUELTY, SANTØS, 6EJOU
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sup-3/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sup-3/)*

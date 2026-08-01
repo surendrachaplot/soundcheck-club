@@ -1,6 +1,6 @@
 # Alonzo
 
-Alonzo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Neun, Berlin on Fri, 14 Aug 2026.
+Alonzo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Neun, Berlin on Fri, 14 Aug 2026.
 
 Alonzo is an electro and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Barcelona, Berlin, Madrid and Miami and 1 more. Often billed alongside F. Vinuesa, Alice in Flames and Amourette. Next up: Bar Neun, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Alonzo is an electro and techno artist based in United States of America, tracke
 
 F. Vinuesa, Alice in Flames, Amourette
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alonzo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alonzo/)*

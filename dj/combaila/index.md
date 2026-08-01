@@ -1,6 +1,6 @@
 # Combaila
 
-Combaila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
+Combaila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
 
 Combaila is a house and techno artist based in Spain, tracked on soundcheck, with 37 sets logged across Bangkok, Barcelona, Madrid and Osaka. Often billed alongside Martini Raw, bOIX and Adria (ES). Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 30 Aug.
 
@@ -12,7 +12,7 @@ Combaila is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 2 Jul 2026
+- Studio Stereo, Barcelona — Thu, 2 Jul 2026
 - Elbus Barcelona, Barcelona — Sat, 6 Jun 2026
 - G Spot Club, Barcelona — Sat, 21 Feb 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 26 Dec 2025
@@ -25,4 +25,4 @@ Combaila is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 Martini Raw, bOIX, Adria (ES)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/combaila/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/combaila/)*

@@ -1,6 +1,6 @@
 # Munsinger
 
-Munsinger is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Home Club, Sao Paulo on Fri, 14 Aug 2026.
+Munsinger is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Home Club, Sao Paulo on Fri, 14 Aug 2026.
 
 Munsinger is a techno and ebm artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Lisbon and London and 4 more. Often billed alongside 24sex-b, Oxblood and Ixpé. Next up: Home Club, Saopaulo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Munsinger is a techno and ebm artist based in France, tracked on soundcheck, wit
 
 24sex-b, Oxblood, Ixpé
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*

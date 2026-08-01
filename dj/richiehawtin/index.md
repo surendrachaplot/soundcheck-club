@@ -1,14 +1,13 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 31 Jul 2026.
+Richie Hawtin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
-Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Cavo Paradiso, Mykonos on Fri 31 Jul.
+Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Cavo Paradiso | Mykonos |
 | Sat, 1 Aug 2026 | Galopprennbahn | Munich |
 | Sun, 2 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Sophie Festival | Malaga |
@@ -19,6 +18,7 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets 
 
 ## Recently played
 
+- Cavo Paradiso, Mykonos — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
 - Serpentine Galleries, London — Sat, 18 Jul 2026
@@ -26,10 +26,9 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets 
 - Amnesia Ibiza, Ibiza — Sun, 28 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Los Angeles County Museum of Art, Los Angeles — Sun, 21 Jun 2026
-- Mia Mao, Paris — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

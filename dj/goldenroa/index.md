@@ -1,14 +1,15 @@
 # GOLDEN ROA
 
-GOLDEN ROA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
+GOLDEN ROA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
 
-GOLDEN ROA is a techno and tech house artist based in Japan, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside Shogo Ito, Drunken Kong and U:ICHI. Next up: WOMB, Tokyo on Fri 7 Aug.
+GOLDEN ROA is a techno and tech house artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside Shogo Ito, Drunken Kong and JURI HOSHINO. Next up: WOMB, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | WOMB | Tokyo |
+| Sun, 30 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ GOLDEN ROA is a techno and tech house artist based in Japan, tracked on soundche
 
 ## Shares bills with
 
-Shogo Ito, Drunken Kong, U:ICHI
+Shogo Ito, Drunken Kong, JURI HOSHINO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenroa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenroa/)*

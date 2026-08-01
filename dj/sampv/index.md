@@ -1,6 +1,6 @@
 # Sam PV
 
-Sam PV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
+Sam PV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
 
 Sam PV is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Lisbon, London, Manchester and Newyorkcity and 3 more. Often billed alongside Sofie K, Gwenan and Joe Delon. Next up: Crate Brewery, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sam PV is a house and techno artist based in United Kingdom, tracked on soundche
 
 Sofie K, Gwenan, Joe Delon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sampv/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampv/)*

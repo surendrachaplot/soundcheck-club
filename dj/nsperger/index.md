@@ -1,8 +1,8 @@
 # NSPERGER
 
-NSPERGER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+NSPERGER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
-NSPERGER is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside Katalina Schwarz, Aaron Blau and Daniela Fuzz. Next up: RADION, Amsterdam on Sat 8 Aug.
+NSPERGER is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside Katalina Schwarz, SARA and Aaron Blau. Next up: RADION, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ NSPERGER is a techno and house artist tracked on soundcheck, with 13 sets logged
 
 ## Shares bills with
 
-Katalina Schwarz, Aaron Blau, Daniela Fuzz
+Katalina Schwarz, SARA, Aaron Blau
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*

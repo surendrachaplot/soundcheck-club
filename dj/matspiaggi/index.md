@@ -1,6 +1,6 @@
 # Mat Spiaggi
 
-Mat Spiaggi is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Mat Spiaggi is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Mat Spiaggi is a house and minimal artist based in Argentina, tracked on soundcheck, with 30 sets logged across Barcelona and Malaga. Often billed alongside POSSEF, CAZOU and Fontango. Next up: Almar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mat Spiaggi is a house and minimal artist based in Argentina, tracked on soundch
 
 POSSEF, CAZOU, Fontango
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matspiaggi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matspiaggi/)*

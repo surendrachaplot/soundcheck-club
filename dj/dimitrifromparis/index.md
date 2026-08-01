@@ -1,6 +1,6 @@
 # Dimitri From Paris
 
-Dimitri From Paris is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
+Dimitri From Paris is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
 
 Dimitri From Paris is a house and disco artist tracked on soundcheck, with 100 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: Clifton Downs, Bristol on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Dimitri From Paris is a house and disco artist tracked on soundcheck, with 100 s
 
 Melvo Baptiste, Melon Bomb, Sophie Lloyd
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*

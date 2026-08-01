@@ -1,6 +1,6 @@
 # Rakim Under
 
-Rakim Under is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Rakim Under is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
 
 Rakim Under is a house and techno artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside David Triana, Der and Kenia. Next up: DC-10, Ibiza on Mon 17 Aug.
 
@@ -25,4 +25,4 @@ Rakim Under is a house and techno artist based in United Kingdom, tracked on sou
 
 David Triana, Der, Kenia
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*

@@ -1,6 +1,6 @@
 # Amino
 
-Amino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Eagle of Detroit, Detroit on Sat, 1 Aug 2026.
+Amino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Eagle of Detroit, Detroit on Sat, 1 Aug 2026.
 
 Amino is a techno and electro artist tracked on soundcheck, with 83 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: The Eagle of Detroit, Detroit on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Amino is a techno and electro artist tracked on soundcheck, with 83 sets logged 
 
 Garrison XR, Duck Trash, Loren
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

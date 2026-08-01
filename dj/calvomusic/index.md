@@ -1,6 +1,6 @@
 # CalvoMusic
 
-CalvoMusic is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Trans-Pecos, New York City on Sat, 8 Aug 2026.
+CalvoMusic is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Trans-Pecos, New York City on Sat, 8 Aug 2026.
 
 CalvoMusic is a club and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Glasgow, London and Newyorkcity and 2 more. Often billed alongside Kade Young, Syd (US) and Bok Bok. Next up: Trans-Pecos, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ CalvoMusic is a club and techno artist based in United States of America, tracke
 
 Kade Young, Syd (US), Bok Bok
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*

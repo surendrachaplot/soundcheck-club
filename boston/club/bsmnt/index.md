@@ -1,17 +1,19 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Boston Ravers present: Kasia" on Sun, 6 Sept 2026.
+Bsmnt is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Wes Mills" on Sat, 1 Aug 2026.
 
-Bsmnt is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Kasia (OFC). Browse upcoming dates, start times and who's playing. 100 stuart st, boston, ma.
+Bsmnt is a music venue in Boston listed on soundcheck. 3 upcoming nights, with line-ups including Kasia (OFC) and Marco Strous. Browse upcoming dates, start times and who's playing. 100 stuart st, boston, ma.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Wes Mills |  |
 | Sun, 6 Sept 2026 | Boston Ravers present: Kasia | Kasia (OFC) |
+| Sat, 17 Oct 2026 | Marco Strous | Marco Strous |
 
 ## Address
 
 100 stuart st, boston, ma, Boston
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

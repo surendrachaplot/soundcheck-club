@@ -1,6 +1,6 @@
 # Mecha Maiko
 
-Mecha Maiko is a Post-Punk and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Longboat Hall, Toronto on Fri, 21 Aug 2026.
+Mecha Maiko is a Post-Punk and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Longboat Hall, Toronto on Fri, 21 Aug 2026.
 
 Mecha Maiko is a post-punk and experimental artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside Acote, Bodywaltz and Garden of Magic. Next up: Longboat Hall, Toronto on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Mecha Maiko is a post-punk and experimental artist based in Canada, tracked on s
 
 Acote, Bodywaltz, Garden of Magic
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mechamaiko/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mechamaiko/)*

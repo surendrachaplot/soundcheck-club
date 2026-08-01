@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Play x Solace W/ BENZA, Kait Xri and Ari" on Fri, 31 Jul 2026.
+Solace is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Solace Invites Dubstep Edition W/ CHEAHDX, Rakhi, Ola, Kodi Lotto, & Kate Miller" on Sat, 1 Aug 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including ADMINISTRATOR, Aidan Rudd, Ali Bilal and Ari (AU) and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including ADMINISTRATOR, Aidan Rudd, Ali Bilal and Asynine and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Play x Solace W/ BENZA, Kait Xri and Ari | Ari (AU), BENZA, Bby Cass, Kait Xri, TEEJAY |
 | Sat, 1 Aug 2026 | Solace Invites Dubstep Edition W/ CHEAHDX, Rakhi, Ola, Kodi Lotto, & Kate Miller | CHEAHDX, Kate Miller, Kodi Lotto, Rakhi |
 | Fri, 7 Aug 2026 | Solace Invites Ali Bilal [Sydney/Eora], Sensor Systems, neko.ea, frg.R, & TEAG | Ali Bilal, Sensor Systems, TEAG, neko.ea |
 | Sat, 8 Aug 2026 | GOT THE SAUCE x Solace | Colette, Cooper Dodge, Eluize, Oli Marshall, Tong 桐 |
@@ -21,4 +20,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, wi
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

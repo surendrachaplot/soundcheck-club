@@ -1,6 +1,6 @@
 # Niño Arbol
 
-Niño Arbol is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fünk, Mexico City on Thu, 20 Aug 2026.
+Niño Arbol is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fünk, Mexico City on Thu, 20 Aug 2026.
 
 Niño Arbol is a techno and bass artist based in Mexico, tracked on soundcheck, with 57 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 5 more. Often billed alongside Astroboii, Octoptic and Cybebe. Next up: Fünk, Mexicocity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Niño Arbol is a techno and bass artist based in Mexico, tracked on soundcheck, 
 
 Astroboii, Octoptic, Cybebe
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninoarbol-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninoarbol-us/)*

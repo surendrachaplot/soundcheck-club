@@ -1,6 +1,6 @@
 # Paulina
 
-Paulina is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
+Paulina is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
 
 Paulina is a techno and drum & bass artist based in Chile, tracked on soundcheck, with 6 sets logged across Cologne, Hamburg and Paris. Often billed alongside MAURO, Alphamob and Atzendent. Next up: Odonien, Cologne on Wed 5 Aug.
 
@@ -22,4 +22,4 @@ Paulina is a techno and drum & bass artist based in Chile, tracked on soundcheck
 
 MAURO, Alphamob, Atzendent
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulina/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulina/)*

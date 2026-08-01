@@ -1,6 +1,6 @@
 # Bernardo Vaz
 
-Bernardo Vaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Quinta do Joinal, Lisbon on Sat, 8 Aug 2026.
+Bernardo Vaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Quinta do Joinal, Lisbon on Sat, 8 Aug 2026.
 
 Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundcheck, with 98 sets logged across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Quinta do Joinal, Lisbon on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundche
 
 Kaesar, John-E, Gear
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*

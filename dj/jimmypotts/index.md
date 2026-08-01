@@ -1,6 +1,6 @@
 # Jimmy Potts
 
-Jimmy Potts is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
+Jimmy Potts is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
 
 Jimmy Potts is an electro and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton. Often billed alongside Sam Red, Sonic Juncture and Slouk. Next up: The Bee's Mouth, Brighton on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Jimmy Potts is an electro and house artist based in United Kingdom, tracked on s
 
 Sam Red, Sonic Juncture, Slouk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmypotts/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmypotts/)*

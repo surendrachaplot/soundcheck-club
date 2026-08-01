@@ -1,6 +1,6 @@
 # Catu Diosis
 
-Catu Diosis is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Xara Beach, Berlin on Sat, 1 Aug 2026.
+Catu Diosis is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Xara Beach, Berlin on Sat, 1 Aug 2026.
 
 Catu Diosis is a bass and afro tech artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Berlin and Bristol and 9 more. Often billed alongside Rafush, De Schuurman and Assyouti. Next up: Xara Beach, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Catu Diosis is a bass and afro tech artist tracked on soundcheck, with 34 sets l
 
 Rafush, De Schuurman, Assyouti
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*

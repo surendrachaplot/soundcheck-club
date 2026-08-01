@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+Vera Grace is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
 Vera Grace is a techno and industrial artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Vera Grace is a techno and industrial artist tracked on soundcheck, with 120 set
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

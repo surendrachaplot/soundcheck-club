@@ -1,6 +1,6 @@
 # TBA - 7650 Hawley st Oakland
 
-TBA - 7650 Hawley st Oakland is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Over Easy" on Fri, 14 Aug 2026.
+TBA - 7650 Hawley st Oakland is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Over Easy" on Fri, 14 Aug 2026.
 
 TBA - 7650 Hawley st Oakland is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Heavee, Lonald J. Bandz, Mars Kasei and Nikes and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 7650 Hawley st Oakland is a music venue in Sanfrancisco listed on soundche
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Over Easy | Heavee, Lonald J. Bandz, Mars Kasei, Nikes, Rivs |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-7650-hawley-st-oakland/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-7650-hawley-st-oakland/)*

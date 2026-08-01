@@ -1,6 +1,6 @@
 # EAMMS
 
-EAMMS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+EAMMS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 EAMMS is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Copenhagen and Newyorkcity. Often billed alongside Ben Ready, Speckled Egg and DJ Janky. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ EAMMS is a house and disco artist based in United States of America, tracked on 
 
 Ben Ready, Speckled Egg, DJ Janky
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eamms/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eamms/)*

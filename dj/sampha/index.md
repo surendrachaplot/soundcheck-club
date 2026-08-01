@@ -1,6 +1,6 @@
 # Sampha
 
-Sampha is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Sampha is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 Sampha is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Detroit, Leipzig and London and 4 more. Often billed alongside LCD Soundsystem, Marcel Dettmann and Romy. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Sampha is a hip-hop and r&b artist based in United Kingdom, tracked on soundchec
 
 LCD Soundsystem, Marcel Dettmann, Romy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sampha/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampha/)*

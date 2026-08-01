@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field" on Fri, 31 Jul 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "PACH. curates" on Sat, 1 Aug 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including A For Alpha, Ajuma, Alex Wann and Ammé and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including A For Alpha, Ajuma, Alex Wann and Ammé and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field | Daisy Weweh, Dam Swindle, Kevin Lo, Laura Meester, Midas Field, Pelanoir |
 | Sat, 1 Aug 2026 | PACH. curates | Kyra Khaldi, Mathew Jonson, PACH, Pascal Benjamin |
 | Fri, 7 Aug 2026 | Locky curates | Ammé, Captain Wallop, Cici Daze, HALFPINT, Locky, RTK Tarantino |
 | Sat, 8 Aug 2026 | Lauren Lo Sung, Luis Ripa, Theo Kottis | Dan Dusty, Fabio Santos, Lauren Lo Sung, Luis Ripa, Theo Kottis |
@@ -18,9 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 21 upcomin
 | Sat, 22 Aug 2026 | Shelter presents: Bondru - Julian Anthony, The Ghost & More | Isabelle Koci, Izak Jules, Julian Anthony, LORI (NL), The Ghost |
 | Fri, 28 Aug 2026 | Jesse Maas curates | Burnski, Jesse Maas, Jhobei, Larry De Kat, Reeshy |
 | Sat, 29 Aug 2026 | 10SERIES by Shelter / TINS (all night) | TINS |
+| Sat, 5 Sept 2026 | Ryan Elliott b2b Pancratio, Naomi | Apontow Akyi, Naomi (1), Pancratio, Ryan Elliott, Tommy Chikara |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

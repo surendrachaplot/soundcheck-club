@@ -1,6 +1,6 @@
 # Fo Ewa
 
-Fo Ewa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Prisma, Berlin on Sat, 1 Aug 2026.
+Fo Ewa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Prisma, Berlin on Sat, 1 Aug 2026.
 
 Fo Ewa is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Gabricoti, Laeia and Nincha. Next up: Prisma, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Fo Ewa is a house and techno artist based in United States of America, tracked o
 
 Gabricoti, Laeia, Nincha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foewa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foewa/)*

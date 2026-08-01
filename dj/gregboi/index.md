@@ -1,6 +1,6 @@
 # Gregboi
 
-Gregboi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spkrbox, Detroit on Sat, 8 Aug 2026.
+Gregboi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Spkrbox, Detroit on Sat, 8 Aug 2026.
 
 Gregboi is a house and deep house artist tracked on soundcheck, with 27 sets logged across Detroit. Often billed alongside Ryan Sadorus, Marcus NF Harris and Czboogie. Next up: Spkrbox, Detroit on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Gregboi is a house and deep house artist tracked on soundcheck, with 27 sets log
 
 Ryan Sadorus, Marcus NF Harris, Czboogie
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregboi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregboi/)*

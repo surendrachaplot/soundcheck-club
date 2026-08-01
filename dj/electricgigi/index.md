@@ -1,6 +1,6 @@
 # Electric Gigi
 
-Electric Gigi is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
+Electric Gigi is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
 
 Electric Gigi is an acid and electronica artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, London and Manchester. Often billed alongside John Paynter, Citizen Simmo and Abena. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Electric Gigi is an acid and electronica artist based in United Kingdom, tracked
 
 John Paynter, Citizen Simmo, Abena
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/electricgigi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electricgigi/)*

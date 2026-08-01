@@ -1,6 +1,6 @@
 # Ana K Miller
 
-Ana K Miller is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Golden Lion, Manchester on Sat, 5 Sept 2026.
+Ana K Miller is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Golden Lion, Manchester on Sat, 5 Sept 2026.
 
 Ana K Miller is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh, Glasgow, Leeds and Manchester. Often billed alongside Slacky [Space Ritual], Anna Vs June and Jan Van Angelopoulos. Next up: The Golden Lion, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ana K Miller is a downtempo and ambient artist based in United Kingdom, tracked 
 
 Slacky [Space Ritual], Anna Vs June, Jan Van Angelopoulos
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*

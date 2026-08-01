@@ -1,13 +1,14 @@
 # Finoh
 
-Finoh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bajo Mundo, Mexico City on Sat, 5 Sept 2026.
+Finoh is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 29 Aug 2026.
 
-Finoh is a techno and trance artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Praqqa, Umvral and Deenia. Next up: Bajo Mundo, Mexicocity on Sat 5 Sept.
+Finoh is a techno and trance artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Praqqa, Umvral and Deenia. Next up: Bajo Mundo, Mexicocity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Bajo Mundo | Mexico City |
 | Sat, 5 Sept 2026 | Bajo Mundo | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Finoh is a techno and trance artist based in Mexico, tracked on soundcheck, with
 
 Praqqa, Umvral, Deenia
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finoh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finoh/)*

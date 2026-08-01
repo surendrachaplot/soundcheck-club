@@ -1,14 +1,13 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "NAZZ-T 2 YEARS ANNIVERSARY x ATELIER UNDERGROUND" on Fri, 31 Jul 2026.
+Lehmann Club is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Lehmann Clubnacht with Len Faki, FJAAK, Beste Hira, Raphael Dincsoy, Tamara Wirth" on Sat, 1 Aug 2026.
 
-Lehmann Club is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Afem Syko, Bernd Affleck, Beste Hira and co:co and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
+Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Afem Syko, Beste Hira, cyaabottom and dasstudach and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | NAZZ-T 2 YEARS ANNIVERSARY x ATELIER UNDERGROUND | Bernd Affleck, DLV, Tino Trøster, co:co |
 | Sat, 1 Aug 2026 | Lehmann Clubnacht with Len Faki, FJAAK, Beste Hira, Raphael Dincsoy, Tamara Wirth | Beste Hira, FJAAK, Jannis Maxim, Len Faki, Raphael Dincsoy, Tamara Wirth |
 | Fri, 7 Aug 2026 | HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina | Afem Syko, PETERBLUE |
 | Sat, 8 Aug 2026 | LEHMANN Schranznacht with In Verruf, dasstudach, MOIA, GAAAS | GAAAS, In Verruf, MOIA, dasstudach |
@@ -21,4 +20,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 8 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

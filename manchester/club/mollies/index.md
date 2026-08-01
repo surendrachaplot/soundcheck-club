@@ -1,18 +1,17 @@
 # Mollies
 
-Mollies is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Studio IV: Jay Murt" on Fri, 31 Jul 2026.
+Mollies is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Studio IV: Simba" on Sat, 1 Aug 2026.
 
-Mollies is a music venue in Manchester listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Old Granada TV Studios, 2 Atherton St, Manchester M3 3GS.
+Mollies is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Old Granada TV Studios, 2 Atherton St, Manchester M3 3GS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Studio IV: Jay Murt |  |
 | Sat, 1 Aug 2026 | Studio IV: Simba |  |
 
 ## Address
 
 Old Granada TV Studios, 2 Atherton St, Manchester M3 3GS, Manchester
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/mollies/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/mollies/)*

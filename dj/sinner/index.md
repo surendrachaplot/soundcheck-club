@@ -1,6 +1,6 @@
 # Sinner
 
-Sinner is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Bunker, Liverpool on Sat, 26 Sept 2026.
+Sinner is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Bunker, Liverpool on Sat, 26 Sept 2026.
 
 Sinner is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Buenosaires, Glasgow and Liverpool and 2 more. Often billed alongside Illegible, AA/XX and ALIVEMAEX. Next up: The Bunker, Liverpool on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sinner is a techno and progressive house artist based in United Kingdom, tracked
 
 Illegible, AA/XX, ALIVEMAEX
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinner/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinner/)*

@@ -1,6 +1,6 @@
 # Paul Boese
 
-Paul Boese is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Das Werk, Vienna on Sat, 1 Aug 2026.
+Paul Boese is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Das Werk, Vienna on Sat, 1 Aug 2026.
 
 Paul Boese is a techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside Albin Brezlan, Huebl and Dana Melissa. Next up: Das Werk, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Paul Boese is a techno artist based in Germany, tracked on soundcheck, with 18 s
 
 Albin Brezlan, Huebl, Dana Melissa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulboese/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulboese/)*

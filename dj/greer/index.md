@@ -1,6 +1,6 @@
 # Greer
 
-Greer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Melbourne on Sat, 1 Aug 2026.
+Greer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Melbourne on Sat, 1 Aug 2026.
 
 Greer is a techno and house artist tracked on soundcheck, with 20 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside 1tbsp, Jungist and Modulor. Next up: TBA, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Greer is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 1tbsp, Jungist, Modulor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*

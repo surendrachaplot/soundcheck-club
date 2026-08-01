@@ -1,6 +1,6 @@
 # TBA - Ciel Downtown 601 K St NW, Washington, DC 20001
 
-TBA - Ciel Downtown 601 K St NW, Washington, DC 20001 is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sirocco Sessions: Golden Hour DC" on Sat, 22 Aug 2026.
+TBA - Ciel Downtown 601 K St NW, Washington, DC 20001 is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Sirocco Sessions: Golden Hour DC" on Sat, 22 Aug 2026.
 
 TBA - Ciel Downtown 601 K St NW, Washington, DC 20001 is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including Violin Girl. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Ciel Downtown 601 K St NW, Washington, DC 20001 is a music venue in Washin
 | Sat, 22 Aug 2026 | Sirocco Sessions: Golden Hour DC | Violin Girl |
 | Sat, 26 Sept 2026 | Sirocco Sessions: Golden Hour DC | Violin Girl |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-ciel-downtown-601-k-st-nw-washington-dc-20001/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-ciel-downtown-601-k-st-nw-washington-dc-20001/)*

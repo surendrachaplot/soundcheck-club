@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
+Vass is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
 
 Vass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Atno, Budapest on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Vass is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

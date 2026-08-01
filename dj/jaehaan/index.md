@@ -1,6 +1,6 @@
 # Jaehaan
 
-Jaehaan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Under9, Kuala Lumpur on Sat, 1 Aug 2026.
+Jaehaan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Under9, Kuala Lumpur on Sat, 1 Aug 2026.
 
 Jaehaan is a techno and house artist based in Malaysia, tracked on soundcheck, with 23 sets logged across Kualalumpur. Often billed alongside Jason Voon, JinLii and Roobs. Next up: Under9, Kualalumpur on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jaehaan is a techno and house artist based in Malaysia, tracked on soundcheck, w
 
 Jason Voon, JinLii, Roobs
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehaan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehaan/)*

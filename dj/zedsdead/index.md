@@ -1,6 +1,6 @@
 # Zeds Dead
 
-Zeds Dead is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Factory Town, Miami on Sat, 1 Aug 2026.
+Zeds Dead is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Factory Town, Miami on Sat, 1 Aug 2026.
 
 Zeds Dead is a bass and dubstep artist tracked on soundcheck, with 35 sets logged across Austin, Boston, Chicago and Detroit and 9 more. Often billed alongside Mary Droppinz, Dimension and Chris Lake. Next up: Factory Town, Miami on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Zeds Dead is a bass and dubstep artist tracked on soundcheck, with 35 sets logge
 
 Mary Droppinz, Dimension, Chris Lake
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zedsdead/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zedsdead/)*

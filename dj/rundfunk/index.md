@@ -1,6 +1,6 @@
 # Rundfunk
 
-Rundfunk is a Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+Rundfunk is a Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
 
 Rundfunk is a trance artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Cologne. Often billed alongside BabaBass3000, HugoBass303 and SUITSIDE. Next up: Schrotty, Cologne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rundfunk is a trance artist based in United Kingdom, tracked on soundcheck, with
 
 BabaBass3000, HugoBass303, SUITSIDE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rundfunk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rundfunk/)*

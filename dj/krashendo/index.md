@@ -1,6 +1,6 @@
 # Krashendo
 
-Krashendo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
+Krashendo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
 
 Krashendo is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Philadelphia and Washingtondc. Often billed alongside Adyy Love, V.X (US) and ALISHA. Next up: Tigres de la Noche, Washingtondc on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Krashendo is a house and tech house artist based in United States of America, tr
 
 Adyy Love, V.X (US), ALISHA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krashendo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krashendo/)*

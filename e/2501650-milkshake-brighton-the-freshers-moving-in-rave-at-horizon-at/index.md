@@ -1,10 +1,10 @@
 # Milkshake Brighton - The Freshers Moving In Rave at Horizon at Horizon, Brighton
 
-Milkshake Brighton - The Freshers Moving In Rave at Horizon at Horizon, Brighton on Thu 17 Sept, Brighton. Preview the line-up and save it on soundcheck.
+Milkshake Brighton - The Freshers Moving In Rave at Horizon at Horizon, Brighton on Thu 1 Oct, Brighton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 17 Sept 2026 |
+| Date | Thu, 1 Oct 2026 |
 | Venue | Horizon, Brighton |
 | City | Brighton |
 

@@ -1,6 +1,6 @@
 # L.GU.
 
-L.GU. is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Sat, 10 Oct 2026.
+L.GU. is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
 
 L.GU. is a progressive house and deep house artist based in Italy, tracked on soundcheck, with 7 sets logged across Amsterdam, London and Malta. Often billed alongside Estiva, Datskie and Klur. Next up: E1, London on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ L.GU. is a progressive house and deep house artist based in Italy, tracked on so
 
 Estiva, Datskie, Klur
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.gu./)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.gu./)*

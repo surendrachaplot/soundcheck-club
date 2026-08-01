@@ -1,6 +1,6 @@
 # Jensen Interceptor
 
-Jensen Interceptor is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at De Fik Garden, Amsterdam on Sun, 9 Aug 2026.
+Jensen Interceptor is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at De Fik Garden, Amsterdam on Sun, 9 Aug 2026.
 
 Jensen Interceptor is a techno and electro artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Lawrence Lee, Yazzus and DJ MELL G. Next up: De Fik Garden, Amsterdam on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Jensen Interceptor is a techno and electro artist tracked on soundcheck, with 12
 
 Lawrence Lee, Yazzus, DJ MELL G
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenseninterceptor/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenseninterceptor/)*

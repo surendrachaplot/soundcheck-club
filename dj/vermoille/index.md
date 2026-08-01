@@ -1,6 +1,6 @@
 # Vermoille
 
-Vermoille is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Péniche Loupika, Lyon on Sun, 2 Aug 2026.
+Vermoille is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Péniche Loupika, Lyon on Sun, 2 Aug 2026.
 
 Vermoille is a bass and techno artist based in France, tracked on soundcheck, with 3 sets logged across Lyon. Often billed alongside Terminus TLMD, Klefman and Moreno (4). Next up: Péniche Loupika, Lyon on Sun 2 Aug.
 
@@ -19,4 +19,4 @@ Vermoille is a bass and techno artist based in France, tracked on soundcheck, wi
 
 Terminus TLMD, Klefman, Moreno (4)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vermoille/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vermoille/)*

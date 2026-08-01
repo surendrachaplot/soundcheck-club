@@ -1,6 +1,6 @@
 # XDB
 
-XDB is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
+XDB is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
 XDB is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ XDB is a techno and house artist tracked on soundcheck, with 125 sets logged acr
 
 dj sweet6teen, Edward, Yamour
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

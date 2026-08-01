@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "J1 - 2K88, Abuelita, Bambi Uzi, domi d" on Fri, 31 Jul 2026.
+Jasna 1 is a music venue in Warsaw with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava" on Sat, 1 Aug 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with line-ups including 2K88, Abuelita, Adelina and Badalian and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 13 upcoming nights, with line-ups including Adelina, Badalian, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | J1 - 2K88, Abuelita, Bambi Uzi, domi d | 2K88, Abuelita, Bambi Uzi, domi d. |
 | Sat, 1 Aug 2026 | J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava | Frozilla, Kitty Sarcasm, Sava (3), nuarrrrr |
 | Fri, 7 Aug 2026 | J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K | MATRIX3K, Salty DJ, holoe |
 | Sat, 8 Aug 2026 | J1 - 808 DAY: Memotech, DJ DiRCE, daisy cutter, MIHVU | MIHVU, Memotech, daisy cutter |
@@ -18,9 +17,10 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, wit
 | Sat, 22 Aug 2026 | J1 x Sekta Selekta: Badalian, Kondrat, Meke, Stroppy Pie | Badalian, Kondrat, Meke, Stroppy Pie |
 | Fri, 28 Aug 2026 | J1 - Guest List: Some Guest b2b Shmee, Caletti, dlaczego.tak, long w, YJ | Some Guest, dlaczego.tak, long w |
 | Sat, 29 Aug 2026 | J1 - Lampa x Hex: Adelina, Elvira, Samogolov, Jess | Adelina, Elvira, Jess (2), Samogulov |
+| Fri, 11 Sept 2026 | J1 - Inner Tension | Blazej Malinowski, Claudio PRC, Kosmalski, Kovvalsky, Vera Logdanidi, dtekk |
 
 ## Address
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

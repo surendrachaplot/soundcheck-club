@@ -1,14 +1,13 @@
 # Tiesto
 
-Tiesto is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Atomium, Brussels on Fri, 31 Jul 2026.
+Tiesto is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at [UNVRS], Ibiza on Mon, 3 Aug 2026.
 
-Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged across Austin, Brussels, Chicago and Ibiza and 11 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: Atomium, Brussels on Fri 31 Jul.
+Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged across Austin, Brussels, Chicago and Ibiza and 11 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: [UNVRS], Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Atomium | Brussels |
 | Mon, 3 Aug 2026 | [UNVRS] | Ibiza |
 | Mon, 10 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
@@ -19,6 +18,7 @@ Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged a
 
 ## Recently played
 
+- Atomium, Brussels — Fri, 31 Jul 2026
 - Silverworks Island, London — Sun, 12 Jul 2026
 - Historic Virginia Key Beach Park, Miami — Sat, 28 Feb 2026
 - Echostage, Washington DC — Sat, 28 Feb 2026
@@ -26,10 +26,9 @@ Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged a
 - Cow Palace, San Francisco/Oakland — Fri, 6 Feb 2026
 - LIV Nightclub Miami, Miami — Thu, 4 Dec 2025
 - Factory Town, Miami — Wed, 3 Dec 2025
-- The Queen Mary, Los Angeles — Fri, 21 Nov 2025
 
 ## Shares bills with
 
 Chris Lake, Kaskade, Matroda
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*

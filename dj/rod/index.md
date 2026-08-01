@@ -1,6 +1,6 @@
 # ROD
 
-ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at export, Rotterdam on Sat, 15 Aug 2026.
+ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at export, Rotterdam on Sat, 15 Aug 2026.
 
 ROD is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 5 more. Often billed alongside Benny Rodrigues, Speedy J and Blasha & Allatt. Next up: export, Rotterdam on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ ROD is a techno and house artist tracked on soundcheck, with 47 sets logged acro
 
 Benny Rodrigues, Speedy J, Blasha & Allatt
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*

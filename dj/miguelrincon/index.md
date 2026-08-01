@@ -1,6 +1,6 @@
 # Miguel Rincon
 
-Miguel Rincon is a Afro House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Los Angeles on Sun, 16 Aug 2026.
+Miguel Rincon is a Afro House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Los Angeles on Sun, 16 Aug 2026.
 
 Miguel Rincon is an afro house and progressive house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside DARIUS, AKIVA and HBB (US). Next up: TBA, Losangeles on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ Miguel Rincon is an afro house and progressive house artist based in United Stat
 
 DARIUS, AKIVA, HBB (US)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrincon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrincon/)*

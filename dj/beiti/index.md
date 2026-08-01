@@ -1,6 +1,6 @@
 # Beiti
 
-Beiti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
+Beiti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
 
 Beiti is a house and techno artist based in Canada, tracked on soundcheck, with 22 sets logged across Vancouver. Often billed alongside Andre Rose, Bronsön and DJ dood. Next up: TBA - Secret Location, Vancouver on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Beiti is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Andre Rose, Bronsön, DJ dood
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beiti/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beiti/)*

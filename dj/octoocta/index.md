@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+Octo Octa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
+Octo Octa is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logg
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logg
 
 Eris Drew, CCL, Fafi Abdel Nour
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

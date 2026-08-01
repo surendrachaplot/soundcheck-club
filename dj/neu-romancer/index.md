@@ -1,6 +1,6 @@
 # Neu-Romancer
 
-Neu-Romancer is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Neu-Romancer is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Neu-Romancer is a techno and ebm artist based in Australia, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, London and Newyorkcity and 3 more. Often billed alongside Radondo, Zanias and Fabrizio Mammarella. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Neu-Romancer is a techno and ebm artist based in Australia, tracked on soundchec
 
 Radondo, Zanias, Fabrizio Mammarella
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neu-romancer/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neu-romancer/)*

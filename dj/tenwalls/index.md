@@ -1,6 +1,6 @@
 # Ten Walls
 
-Ten Walls is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 1 Aug 2026.
+Ten Walls is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 Ten Walls is a house and progressive house artist based in Lithuania, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 4 more. Often billed alongside Amadori, Bakean and Cameron Jack. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Ten Walls is a house and progressive house artist based in Lithuania, tracked on
 
 Amadori, Bakean, Cameron Jack
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tenwalls/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenwalls/)*

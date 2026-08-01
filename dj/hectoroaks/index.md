@@ -1,14 +1,13 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Stereo, Montreal on Fri, 31 Jul 2026.
+Héctor Oaks is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Substation, Seattle on Sat, 1 Aug 2026.
 
-Héctor Oaks is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Stereo, Montreal on Fri 31 Jul.
+Héctor Oaks is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Substation, Seattle on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Stereo | Montreal |
 | Sat, 1 Aug 2026 | Substation | Seattle |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -18,6 +17,7 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 243 sets l
 
 ## Recently played
 
+- Stereo, Montreal — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 26 Jul 2026
 - Bassiani, Tbilisi — Fri, 26 Jun 2026
 - Hï Ibiza, Ibiza — Sun, 21 Jun 2026
@@ -25,10 +25,9 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 243 sets l
 - Sophie Festival, Malaga — Sat, 13 Jun 2026
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
-- REC Napoli, Naples — Sat, 16 May 2026
 
 ## Shares bills with
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

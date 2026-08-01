@@ -1,6 +1,6 @@
 # Mariø
 
-Mariø is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Athens on Sat, 1 Aug 2026.
+Mariø is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Athens on Sat, 1 Aug 2026.
 
 Mariø is a techno and trance artist based in Greece, tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside MATEA, SALIN and AQUILES.. Next up: TBA, Athens on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mariø is a techno and trance artist based in Greece, tracked on soundcheck, wit
 
 MATEA, SALIN, AQUILES.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mario-gr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mario-gr/)*

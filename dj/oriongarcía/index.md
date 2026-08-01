@@ -1,6 +1,6 @@
 # Orión García
 
-Orión García is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Volstead Lounge, Austin on Sat, 1 Aug 2026.
+Orión García is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Volstead Lounge, Austin on Sat, 1 Aug 2026.
 
 Orión García is an electronic artist tracked on soundcheck, with 54 sets logged across Austin. Often billed alongside Ash. Next up: The Volstead Lounge, Austin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Orión García is an electronic artist tracked on soundcheck, with 54 sets logge
 
 Ash
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oriongarcía/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriongarcía/)*

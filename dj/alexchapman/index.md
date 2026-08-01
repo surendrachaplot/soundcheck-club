@@ -1,6 +1,6 @@
 # Alex Chapman
 
-Alex Chapman is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Celebrities Night Club, Vancouver on Sat, 1 Aug 2026.
+Alex Chapman is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Celebrities Night Club, Vancouver on Sat, 1 Aug 2026.
 
 Alex Chapman is a club and pop artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Ibiza, London and Losangeles and 5 more. Often billed alongside Zoe Gitter, VTSS and flirty800. Next up: Celebrities Night Club, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Alex Chapman is a club and pop artist based in United States of America, tracked
 
 Zoe Gitter, VTSS, flirty800
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*

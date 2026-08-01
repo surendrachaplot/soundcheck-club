@@ -1,6 +1,6 @@
 # Noimage
 
-Noimage is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mia Mao, Paris on Sat, 5 Sept 2026.
+Noimage is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mia Mao, Paris on Sat, 5 Sept 2026.
 
 Noimage is a trance and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Budapest, Cologne and Istanbul and 3 more. Often billed alongside Amøn, Anuuk and BENITO (DE). Next up: Mia Mao, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Noimage is a trance and techno artist tracked on soundcheck, with 15 sets logged
 
 Amøn, Anuuk, BENITO (DE)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noimage/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noimage/)*

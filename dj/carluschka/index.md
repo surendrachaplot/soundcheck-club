@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
+Carluschka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
 
 Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 118 sets logged across Berlin, Hamburg, Leipzig and Lisbon and 3 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Späti 4 You, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

@@ -1,6 +1,6 @@
 # RAXA
 
-RAXA is a Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+RAXA is a Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 RAXA is a trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside ZOEVITA, Cara Elizabeth and Kø:lab. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ RAXA is a trance artist based in Germany, tracked on soundcheck, with 10 sets lo
 
 ZOEVITA, Cara Elizabeth, Kø:lab
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raxa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raxa/)*

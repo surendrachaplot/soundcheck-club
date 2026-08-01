@@ -1,14 +1,13 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "This Guy PRESENTS: DROP IT LIKE ITS THOT" on Fri, 31 Jul 2026.
+The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLY GIRLS$: THE DIABLA RAVE" on Sat, 1 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including 4STR0, Aiden Francis, Arkane and atalaya and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including 4STR0, Aiden Francis, Arkane and atalaya and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | This Guy PRESENTS: DROP IT LIKE ITS THOT | CBABY, This Guy |
 | Sat, 1 Aug 2026 | FLY GIRLS$: THE DIABLA RAVE |  |
 | Fri, 7 Aug 2026 | BOOTLEG: VOL2 |  |
 | Fri, 7 Aug 2026 | I KISSED A GIRL at Tenz |  |
@@ -18,9 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming nights,
 | Sat, 15 Aug 2026 | MELODÏQ & FRIENDS |  |
 | Sun, 16 Aug 2026 | Going West |  |
 | Thu, 20 Aug 2026 | VALIS 1.0 - The Difference Engine | Lapalace, sclews |
+| Fri, 21 Aug 2026 | HOUSE RULES x EUPHÓRIA: Chapter III | BRNE, FXCKBOUT, HSTN, KeepKeep, RYLO (UK), SHUNTA, blo rida, imad:re |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

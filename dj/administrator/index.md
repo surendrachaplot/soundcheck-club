@@ -1,6 +1,6 @@
 # ADMINISTRATOR
 
-ADMINISTRATOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
+ADMINISTRATOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
 
 ADMINISTRATOR is a techno and house artist based in Australia, tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside Ham (5), DJ Kiti and anna(n). Next up: Solace, Melbourne on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ ADMINISTRATOR is a techno and house artist based in Australia, tracked on soundc
 
 Ham (5), DJ Kiti, anna(n)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/administrator/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/administrator/)*

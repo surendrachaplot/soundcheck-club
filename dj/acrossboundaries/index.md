@@ -1,6 +1,6 @@
 # Across Boundaries
 
-Across Boundaries is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
+Across Boundaries is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 Across Boundaries is a deep house and tech house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Brighton, Ibiza and London and 2 more. Often billed alongside AMORAL, PARAMIDA and Yanamaste. Next up: 528 Ibiza, Ibiza on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Across Boundaries is a deep house and tech house artist based in Netherlands, tr
 
 AMORAL, PARAMIDA, Yanamaste
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acrossboundaries/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acrossboundaries/)*

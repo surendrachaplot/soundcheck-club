@@ -1,6 +1,6 @@
 # Cy Da Kid
 
-Cy Da Kid is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mothership, San Francisco/Oakland on Sat, 1 Aug 2026.
+Cy Da Kid is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mothership, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Cy Da Kid is a house and baile funk artist tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside DJ Guan, Del G Audio and PATDAT. Next up: Mothership, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cy Da Kid is a house and baile funk artist tracked on soundcheck, with 9 sets lo
 
 DJ Guan, Del G Audio, PATDAT
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cydakid/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cydakid/)*

@@ -1,6 +1,6 @@
 # Bláthnaid
 
-Bláthnaid is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
+Bláthnaid is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
 
 Bláthnaid is a house and progressive house artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside Jenn Hession, Kaycee and ShaunaDee. Next up: Wigwam, Dublin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Bláthnaid is a house and progressive house artist based in Ireland, tracked on 
 
 Jenn Hession, Kaycee, ShaunaDee
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blathnaid/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blathnaid/)*

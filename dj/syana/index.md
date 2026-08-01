@@ -1,15 +1,17 @@
 # Syana
 
-Syana is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
+Syana is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
-Syana is a techno and club artist tracked on soundcheck, with 58 sets logged across Montreal and Toronto. Often billed alongside Mossy Mugler, CrisseMarqueur and Chippy Nonstop. Next up: Société des arts technologiques, Montreal on Sat 8 Aug.
+Syana is a techno and club artist tracked on soundcheck, with 60 sets logged across Montreal and Toronto. Often billed alongside Mossy Mugler, CrisseMarqueur and Chippy Nonstop. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TBA - Centre-sud | Montreal |
 | Sat, 8 Aug 2026 | Société des arts technologiques | Montreal |
 | Sun, 9 Aug 2026 | Village au Pied-du-Courant | Montreal |
+| Thu, 13 Aug 2026 | ESC | Montreal |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Syana is a techno and club artist tracked on soundcheck, with 58 sets logged acr
 
 Mossy Mugler, CrisseMarqueur, Chippy Nonstop
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syana/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syana/)*

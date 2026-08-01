@@ -1,6 +1,6 @@
 # Naommi
 
-Naommi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Purobeach Barcelona, Barcelona on Sun, 9 Aug 2026.
+Naommi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Purobeach Barcelona, Barcelona on Sun, 9 Aug 2026.
 
 Naommi is a house and deep house artist based in Brazil, tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Viktor Olle, Kanedo and Vilalta. Next up: Purobeach Barcelona, Barcelona on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Naommi is a house and deep house artist based in Brazil, tracked on soundcheck, 
 
 Viktor Olle, Kanedo, Vilalta
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naommi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naommi/)*

@@ -1,6 +1,6 @@
 # Doza
 
-Doza is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Petit CAB, Marseille on Sat, 8 Aug 2026.
+Doza is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Petit CAB, Marseille on Sat, 8 Aug 2026.
 
 Doza is a house and tech house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles, Marseille, Mexicocity and Portland and 2 more. Often billed alongside Pezzner, Michael Manahan and Randy Deshaies. Next up: Petit CAB, Marseille on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Doza is a house and tech house artist based in United States of America, tracked
 
 Pezzner, Michael Manahan, Randy Deshaies
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doza/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doza/)*

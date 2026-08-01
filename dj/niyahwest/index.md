@@ -1,6 +1,6 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mood Ring, New York City on Thu, 6 Aug 2026.
+Niyah West is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mood Ring, New York City on Thu, 6 Aug 2026.
 
 Niyah West is a house and techno artist based in United States of America, tracked on soundcheck, with 105 sets logged across Berlin, Copenhagen, Detroit and Losangeles and 3 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Mood Ring, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Niyah West is a house and techno artist based in United States of America, track
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

@@ -1,6 +1,6 @@
 # fun2bjane
 
-fun2bjane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+fun2bjane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 fun2bjane is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Etari, Capes and mad gavs. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ fun2bjane is a house and techno artist based in United States of America, tracke
 
 Etari, Capes, mad gavs
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*

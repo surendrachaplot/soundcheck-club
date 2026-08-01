@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
+Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Voigtmann is a house and tech house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: 528 Ibiza, Ibiza on Sun 2 Aug.
 
@@ -33,4 +33,4 @@ Voigtmann is a house and tech house artist tracked on soundcheck, with 186 sets 
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

@@ -1,6 +1,6 @@
 # Harmann
 
-Harmann is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+Harmann is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
 Harmann is a techno and trance artist based in Germany, tracked on soundcheck, with 26 sets logged across Cologne and Frankfurt. Often billed alongside VILLA (DE), julia gun and AUHAM. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Harmann is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 VILLA (DE), julia gun, AUHAM
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harmann/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harmann/)*

@@ -1,6 +1,6 @@
 # DEVZ
 
-DEVZ is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at EQ San Diego, San Diego on Fri, 7 Aug 2026.
+DEVZ is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at EQ San Diego, San Diego on Fri, 7 Aug 2026.
 
 DEVZ is a garage and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across London, Newyorkcity and Sandiego. Often billed alongside Harry Luda, Spooky and ARP8. Next up: EQ San Diego, Sandiego on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DEVZ is a garage and techno artist based in United States of America, tracked on
 
 Harry Luda, Spooky, ARP8
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/devz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devz/)*

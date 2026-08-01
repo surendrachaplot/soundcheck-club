@@ -1,6 +1,6 @@
 # Souci
 
-Souci is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
+Souci is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
 
 Souci is a techno and bass artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Cologne and Detroit and 4 more. Often billed alongside DJ Fucks Himself, $ombi and Camilla Rae. Next up: Distillery, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Souci is a techno and bass artist tracked on soundcheck, with 53 sets logged acr
 
 DJ Fucks Himself, $ombi, Camilla Rae
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/souci/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souci/)*

@@ -1,6 +1,6 @@
 # Jamie Rodigan
 
-Jamie Rodigan is a Dancehall and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Jazz Cafe, London on Sun, 2 Aug 2026.
+Jamie Rodigan is a Dancehall and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Jazz Cafe, London on Sun, 2 Aug 2026.
 
 Jamie Rodigan is a dancehall and afrobeat artist tracked on soundcheck, with 29 sets logged across Amsterdam, Bristol, Liverpool and London. Often billed alongside YNG CPTN, CPTN and DJ Hype. Next up: The Jazz Cafe, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Jamie Rodigan is a dancehall and afrobeat artist tracked on soundcheck, with 29 
 
 YNG CPTN, CPTN, DJ Hype
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*

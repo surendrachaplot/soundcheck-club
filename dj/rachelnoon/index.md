@@ -1,6 +1,6 @@
 # Rachel Noon
 
-Rachel Noon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Holešovická Tržnice, Prague on Sat, 1 Aug 2026.
+Rachel Noon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Holešovická Tržnice, Prague on Sat, 1 Aug 2026.
 
 Rachel Noon is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside BASHKKA, Rakans and Mohajer. Next up: Holešovická Tržnice, Prague on Sat 1 Aug.
 
@@ -17,7 +17,7 @@ Rachel Noon is a techno and house artist tracked on soundcheck, with 132 sets lo
 - La Station - Gare des Mines, Paris — Fri, 24 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
 - KALT, Strasbourg — Sat, 18 Jul 2026
-- Sonnenraum, Berlin — Sun, 5 Jul 2026
+- TBA, Berlin — Sun, 5 Jul 2026
 - TBA - Brooklyn, New York City — Fri, 26 Jun 2026
 - Wanderlust, Paris — Thu, 11 Jun 2026
 - Palais, London — Sat, 23 May 2026
@@ -26,4 +26,4 @@ Rachel Noon is a techno and house artist tracked on soundcheck, with 132 sets lo
 
 BASHKKA, Rakans, Mohajer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*

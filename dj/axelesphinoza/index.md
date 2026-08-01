@@ -1,6 +1,6 @@
 # Axel Esphinoza
 
-Axel Esphinoza is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
+Axel Esphinoza is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
 
 Axel Esphinoza is a techno and new wave artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside A_C_E., KILL 9 1 and MENACE.. Next up: The Comfort Zone, Toronto on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Axel Esphinoza is a techno and new wave artist based in Canada, tracked on sound
 
 A_C_E., KILL 9 1, MENACE.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axelesphinoza/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelesphinoza/)*

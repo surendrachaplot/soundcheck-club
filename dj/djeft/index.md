@@ -1,14 +1,15 @@
 # DJ Eft
 
-DJ Eft is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
+DJ Eft is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
 
-DJ Eft is a techno and bass artist based in United States of America, tracked on soundcheck, with 21 sets logged across Kyoto, Newyorkcity, Portland and Tokyo and 1 more. Often billed alongside Gardenparty, Succubass and Carly Barton. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
+DJ Eft is a techno and bass artist based in United States of America, tracked on soundcheck, with 22 sets logged across Kyoto, Newyorkcity, Portland and Tokyo and 1 more. Often billed alongside Gardenparty, Succubass and Carly Barton. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Ming Lounge | Portland |
+| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Eft is a techno and bass artist based in United States of America, tracked on
 
 Gardenparty, Succubass, Carly Barton
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djeft/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeft/)*

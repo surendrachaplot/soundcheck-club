@@ -1,6 +1,6 @@
 # NËBULÄ
 
-NËBULÄ is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Domicile, Miami on Sat, 1 Aug 2026.
+NËBULÄ is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Domicile, Miami on Sat, 1 Aug 2026.
 
 NËBULÄ is a techno and reggaeton artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Miami and Philadelphia. Often billed alongside Jay Toledo, Gioh Cecato and Naomi Luna. Next up: Domicile, Miami on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ NËBULÄ is a techno and reggaeton artist based in United States of America, tra
 
 Jay Toledo, Gioh Cecato, Naomi Luna
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nebula-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nebula-us/)*

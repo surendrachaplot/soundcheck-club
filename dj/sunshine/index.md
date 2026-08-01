@@ -1,6 +1,6 @@
 # Sunshine
 
-Sunshine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Revolver Upstairs, Melbourne on Sat, 1 Aug 2026.
+Sunshine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 1 Aug 2026.
 
 Sunshine is a house and techno artist based in Australia, tracked on soundcheck, with 169 sets logged across Boston, Melbourne and Sydney. Often billed alongside Agent 86, Cara Murphy and Mike Callander. Next up: Revolver Upstairs, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sunshine is a house and techno artist based in Australia, tracked on soundcheck,
 
 Agent 86, Cara Murphy, Mike Callander
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshine/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshine/)*

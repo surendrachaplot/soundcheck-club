@@ -1,6 +1,6 @@
 # Amir Alexander
 
-Amir Alexander is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Amir Alexander is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Amir Alexander is a minimal and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Ghent and Newyorkcity and 1 more. Often billed alongside Yamour, Edward and Gizem Öz. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Amir Alexander is a minimal and house artist based in United States of America, 
 
 Yamour, Edward, Gizem Öz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amiralexander/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiralexander/)*

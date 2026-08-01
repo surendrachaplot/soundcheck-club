@@ -1,6 +1,6 @@
 # Simonetti
 
-Simonetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club 77, Sydney on Sun, 2 Aug 2026.
+Simonetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club 77, Sydney on Sun, 2 Aug 2026.
 
 Simonetti is a house and techno artist tracked on soundcheck, with 54 sets logged across Losangeles, Madrid, Melbourne and Miami and 4 more. Often billed alongside Jesse DM, Mike Simonetti and Jo Christy. Next up: Club 77, Sydney on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Simonetti is a house and techno artist tracked on soundcheck, with 54 sets logge
 
 Jesse DM, Mike Simonetti, Jo Christy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*

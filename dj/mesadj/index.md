@@ -1,6 +1,6 @@
 # MESA (DJ)
 
-MESA (DJ) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Signal, New York City on Thu, 6 Aug 2026.
+MESA (DJ) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Signal, New York City on Thu, 6 Aug 2026.
 
 MESA (DJ) is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Dennis Free, Marcel Ruiz and Pedrose. Next up: Signal, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MESA (DJ) is a house and techno artist based in United States of America, tracke
 
 Dennis Free, Marcel Ruiz, Pedrose
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mesadj/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesadj/)*

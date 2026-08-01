@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 14 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "WEEKEND SELECTERS" on Fri, 31 Jul 2026.
+BAR Inc is a music venue in Osaka with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "WEEKEND SELECTERS" on Sat, 1 Aug 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 14 upcoming nights, with line-ups including DJ Garth, DJ HI-C, DJ Quietstorm and DJ SO and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 13 upcoming nights, with line-ups including DJ Garth, DJ HI-C, DJ Quietstorm and DJ SO and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | WEEKEND SELECTERS | Ground (1) |
 | Sat, 1 Aug 2026 | WEEKEND SELECTERS | KEIMIN, Paperkraft, Sekitova |
 | Fri, 7 Aug 2026 | WEEKEND SELECTERS |  |
 | Sat, 8 Aug 2026 | WEEKEND SELECTERS | DJ HI-C, DJ SO |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 14 upcoming nights, with
 | Fri, 21 Aug 2026 | WEEKEND SELECTERS | YAMA(JP/OSK) |
 | Sat, 22 Aug 2026 | WEEKEND SELECTERS |  |
 | Fri, 28 Aug 2026 | WEEKEND SELECTERS | Yoshihiro Okino |
+| Sat, 29 Aug 2026 | WEEKEND SELECTERS | DJ Quietstorm |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

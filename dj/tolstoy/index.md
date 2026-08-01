@@ -1,6 +1,6 @@
 # Tolstoy
 
-Tolstoy is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Piękny Pies, Krakow on Sat, 1 Aug 2026.
+Tolstoy is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Piękny Pies, Krakow on Sat, 1 Aug 2026.
 
 Tolstoy is a drum & bass and garage artist tracked on soundcheck, with 8 sets logged across Krakow. Often billed alongside House Martin, Adnable and Bartman. Next up: Piękny Pies, Krakow on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Tolstoy is a drum & bass and garage artist tracked on soundcheck, with 8 sets lo
 
 House Martin, Adnable, Bartman
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tolstoy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolstoy/)*

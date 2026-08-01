@@ -1,6 +1,6 @@
 # shunug (1)
 
-shunug (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at El Cid, Los Angeles on Fri, 14 Aug 2026.
+shunug (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at El Cid, Los Angeles on Fri, 14 Aug 2026.
 
 shunug (1) is a garage and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside KEL (3), Damar Davis and Giselle Peppers. Next up: El Cid, Losangeles on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ shunug (1) is a garage and house artist based in United States of America, track
 
 KEL (3), Damar Davis, Giselle Peppers
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shunug-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shunug-1/)*

@@ -1,6 +1,6 @@
 # Cippi
 
-Cippi is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Cippi is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Cippi is a minimal and techno artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Basel and Zurich. Often billed alongside Carmine, BRAINDAAMAGE and Bondi (DE). Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -22,4 +22,4 @@ Cippi is a minimal and techno artist based in Switzerland, tracked on soundcheck
 
 Carmine, BRAINDAAMAGE, Bondi (DE)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cippi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cippi/)*

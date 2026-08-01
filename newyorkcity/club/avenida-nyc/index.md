@@ -1,6 +1,6 @@
 # Avenida NYC
 
-Avenida NYC is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "#1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party" on Fri, 31 Jul 2026.
+Avenida NYC is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "#1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party" on Fri, 7 Aug 2026.
 
 Avenida NYC is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 1 Pennsylvania Plaza, New York, NY 10119, USA.
 
@@ -8,7 +8,6 @@ Avenida NYC is a music venue in Newyorkcity listed on soundcheck. 14 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
 | Fri, 7 Aug 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
 | Fri, 7 Aug 2026 | Avenida De Perreo - Dominican Night Dembow & Reggaeton Night |  |
 | Fri, 14 Aug 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
@@ -18,9 +17,10 @@ Avenida NYC is a music venue in Newyorkcity listed on soundcheck. 14 upcoming ni
 | Fri, 11 Sept 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
 | Fri, 18 Sept 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
 | Fri, 25 Sept 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
+| Fri, 2 Oct 2026 | #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party |  |
 
 ## Address
 
 1 Pennsylvania Plaza, New York, NY 10119, USA, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/avenida-nyc/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/avenida-nyc/)*

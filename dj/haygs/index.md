@@ -1,6 +1,6 @@
 # Haygs
 
-Haygs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
+Haygs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
 
 Haygs is a house and techno artist tracked on soundcheck, with 8 sets logged across Liverpool. Often billed alongside Kirwan, _Hess and 4D (UK). Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Haygs is a house and techno artist tracked on soundcheck, with 8 sets logged acr
 
 Kirwan, _Hess, 4D (UK)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haygs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haygs/)*

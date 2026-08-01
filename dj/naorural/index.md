@@ -1,6 +1,6 @@
 # Nao(rural)
 
-Nao(rural) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Boson, Tokyo on Fri, 7 Aug 2026.
+Nao(rural) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Boson, Tokyo on Fri, 7 Aug 2026.
 
 Nao(rural) is a techno and experimental artist based in Japan, tracked on soundcheck, with 24 sets logged across Bangkok, Hongkong, Losangeles and Newyorkcity and 6 more. Often billed alongside Atsushi Maeda, Amelia Holt and DJ Healthy. Next up: Bar Boson, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Nao(rural) is a techno and experimental artist based in Japan, tracked on soundc
 
 Atsushi Maeda, Amelia Holt, DJ Healthy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naorural/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naorural/)*

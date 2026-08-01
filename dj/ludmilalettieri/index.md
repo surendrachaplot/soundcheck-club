@@ -1,14 +1,14 @@
 # Ludmila Lettieri
 
-Ludmila Lettieri is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Under Club, Buenos Aires on Fri, 14 Aug 2026.
+Ludmila Lettieri is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blow, Buenos Aires on Fri, 14 Aug 2026.
 
-Ludmila Lettieri is a techno and industrial artist based in Argentina, tracked on soundcheck, with 16 sets logged across Buenosaires and London. Often billed alongside Gonzalo Trejo, Bruno Ledesma and Gresil. Next up: Under Club, Buenosaires on Fri 14 Aug.
+Ludmila Lettieri is a techno and industrial artist based in Argentina, tracked on soundcheck, with 16 sets logged across Buenosaires and London. Often billed alongside Gonzalo Trejo, Bruno Ledesma and Gresil. Next up: Blow, Buenosaires on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Under Club | Buenos Aires |
+| Fri, 14 Aug 2026 | Blow | Buenos Aires |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Ludmila Lettieri is a techno and industrial artist based in Argentina, tracked o
 
 Gonzalo Trejo, Bruno Ledesma, Gresil
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilalettieri/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilalettieri/)*

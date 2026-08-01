@@ -1,6 +1,6 @@
 # Isa Enes
 
-Isa Enes is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nitsa Club, Barcelona on Sat, 1 Aug 2026.
+Isa Enes is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nitsa Club, Barcelona on Sat, 1 Aug 2026.
 
 Isa Enes is an electro and house artist based in Portugal, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Velvet Kid, Kirilski and Marta Mer. Next up: Nitsa Club, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Isa Enes is an electro and house artist based in Portugal, tracked on soundcheck
 
 Velvet Kid, Kirilski, Marta Mer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaenes/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaenes/)*

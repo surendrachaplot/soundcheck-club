@@ -1,14 +1,13 @@
 # Spanners
 
-Spanners is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "BV/XT (Ben Vince & Xterea), OSSIA + SHAUWDII" on Fri, 31 Jul 2026.
+Spanners is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Patterns: NZO (Live), KD22LR and Lali" on Fri, 7 Aug 2026.
 
-Spanners is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Angel D'lite, Ben Vince, Bethan and BJ Holy and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
+Spanners is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Angel D'lite, Bethan, BJ Holy and Jim Janco and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BV/XT (Ben Vince & Xterea), OSSIA + SHAUWDII | Ben Vince, Ossia, Xterea |
 | Fri, 7 Aug 2026 | Patterns: NZO (Live), KD22LR and Lali | KD22LR, lali: |
 | Sat, 15 Aug 2026 | Body Hammer | Joe Hart, Scott Fraser |
 | Thu, 20 Aug 2026 | SCOBE 6: BJ Holy / leisure fm / FLYWHEEL / SCOBE COLLECTIVE | BJ Holy, leisure fm |
@@ -20,4 +19,4 @@ Spanners is a music venue in London listed on soundcheck. 7 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

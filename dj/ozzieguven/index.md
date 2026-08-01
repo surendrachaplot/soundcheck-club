@@ -1,6 +1,6 @@
 # Ozzie Guven
 
-Ozzie Guven is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at XOYO, London on Sat, 1 Aug 2026.
+Ozzie Guven is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at XOYO, London on Sat, 1 Aug 2026.
 
 Ozzie Guven is a house and tech house artist tracked on soundcheck, with 113 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: XOYO, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Ozzie Guven is a house and tech house artist tracked on soundcheck, with 113 set
 
 DXNBY, Sidney Charles, Ellia Jaya
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*

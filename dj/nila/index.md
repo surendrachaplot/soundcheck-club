@@ -1,6 +1,6 @@
 # Nila
 
-Nila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
+Nila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
 
 Nila is a house and techno artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Auckland, Barcelona, Madrid and Paris. Often billed alongside Yosef (ES), Diego Armando and Ann Lee. Next up: Razzmatazz, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nila is a house and techno artist based in New Zealand, tracked on soundcheck, w
 
 Yosef (ES), Diego Armando, Ann Lee
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nila/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nila/)*

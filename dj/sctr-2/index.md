@@ -1,6 +1,6 @@
 # SCTR (2)
 
-SCTR (2) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gazi View, Athens on Sat, 1 Aug 2026.
+SCTR (2) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gazi View, Athens on Sat, 1 Aug 2026.
 
 SCTR (2) is a techno and psytrance artist tracked on soundcheck, with 13 sets logged across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: Gazi View, Athens on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ SCTR (2) is a techno and psytrance artist tracked on soundcheck, with 13 sets lo
 
 Tanison, Deherian, Christian Cambas
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sctr-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sctr-2/)*

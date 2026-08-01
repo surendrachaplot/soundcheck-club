@@ -1,8 +1,8 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Système, Montreal on Sat, 22 Aug 2026.
+DJ DEADNAME is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Système, Montreal on Sat, 22 Aug 2026.
 
-DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 94 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Système, Montreal on Sat 22 Aug.
+DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 95 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Système, Montreal on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 94 sets logg
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Système | Montreal |
 | Thu, 27 Aug 2026 | Bossa Nova Civic Club | New York City |
+| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 94 sets logg
 
 Eva Loveless, Male Merge, Surgery
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*

@@ -1,6 +1,6 @@
 # She The DJ
 
-She The DJ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fuse, Brussels on Sat, 22 Aug 2026.
+She The DJ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fuse, Brussels on Sat, 22 Aug 2026.
 
 She The DJ is a house and garage artist based in Belgium, tracked on soundcheck, with 35 sets logged across Antwerp, Brussels and Ghent. Often billed alongside BAVR, Asian Sal and Bibi Seck. Next up: Fuse, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ She The DJ is a house and garage artist based in Belgium, tracked on soundcheck,
 
 BAVR, Asian Sal, Bibi Seck
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shethedj/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shethedj/)*

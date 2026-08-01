@@ -1,6 +1,6 @@
 # THIRTEEN DOZE
 
-THIRTEEN DOZE is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
+THIRTEEN DOZE is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
 
 THIRTEEN DOZE is a house and ambient artist based in Spain, tracked on soundcheck, with 10 sets logged across Berlin and Madrid. Often billed alongside VCO, Alexy and Banu. Next up: OHM, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ THIRTEEN DOZE is a house and ambient artist based in Spain, tracked on soundchec
 
 VCO, Alexy, Banu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thirteendoze/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirteendoze/)*

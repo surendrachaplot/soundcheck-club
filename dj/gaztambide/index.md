@@ -1,6 +1,6 @@
 # GAZTAMBIDE
 
-GAZTAMBIDE is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
+GAZTAMBIDE is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 GAZTAMBIDE is a techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Leeds and Madrid. Often billed alongside Marco Ramos, Anika Kunst and Nacho. Next up: ISOamsterdam, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ GAZTAMBIDE is a techno artist based in Netherlands, tracked on soundcheck, with 
 
 Marco Ramos, Anika Kunst, Nacho
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaztambide/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaztambide/)*

@@ -1,6 +1,6 @@
 # Jezebel
 
-Jezebel is a EBM and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at District, Liverpool on Sat, 15 Aug 2026.
+Jezebel is a EBM and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at District, Liverpool on Sat, 15 Aug 2026.
 
 Jezebel is an ebm and house artist tracked on soundcheck, with 28 sets logged across Berlin, Brussels, Detroit and Dublin and 3 more. Often billed alongside Surferboy, deejaytrainwreck and JWY (1). Next up: District, Liverpool on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Jezebel is an ebm and house artist tracked on soundcheck, with 28 sets logged ac
 
 Surferboy, deejaytrainwreck, JWY (1)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*

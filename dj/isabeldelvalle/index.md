@@ -1,6 +1,6 @@
 # Isabel del Valle
 
-Isabel del Valle is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at fi, Cologne on Sat, 1 Aug 2026.
+Isabel del Valle is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at fi, Cologne on Sat, 1 Aug 2026.
 
 Isabel del Valle is a disco and funk / soul artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne, Dusseldorf and Hamburg. Often billed alongside Good Call, DJ Funky Fresh Mike and Diskohengst. Next up: fi, Cologne on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Isabel del Valle is a disco and funk / soul artist based in Germany, tracked on 
 
 Good Call, DJ Funky Fresh Mike, Diskohengst
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabeldelvalle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabeldelvalle/)*

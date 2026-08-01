@@ -1,14 +1,13 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Juicy Süd" on Fri, 31 Jul 2026.
+Südpol is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Queerpool XXX.orgy" on Sat, 1 Aug 2026.
 
-Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including Andre Kronert, Ani con Gas, Anne-Lu and Arlo Bell and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
+Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Andre Kronert, Ani con Gas, Anne-Lu and Arlo Bell and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Juicy Süd | Nassstya |
 | Sat, 1 Aug 2026 | Queerpool XXX.orgy | Charlie Vaux, Chinyere, Coco Cobra, DSGNRPSSY, High Future, Introspekt, Khloe, Kilopatrah Jones, La Carpio, Liad Krispin, Merve, NORA (BR), Pantheress, Prosecco Babes, Sharlese, Vanta V Black, oiko, yung_womb |
 | Fri, 7 Aug 2026 | Demorave Preparty | Anne-Lu, Eva.nyx, Mischa (AT), PUSS1 BABA, Schall und Rauch |
 | Sat, 8 Aug 2026 | Jetzt & Hier | ELIZEN THE EMPEROR, Fannie Mae, Johannes Klingebiel, Sascha Cawa, Stella Stellar, Sven Dohse |
@@ -20,4 +19,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, wit
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

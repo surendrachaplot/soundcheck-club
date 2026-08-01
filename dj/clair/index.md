@@ -1,6 +1,6 @@
 # clair
 
-clair is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 1 Aug 2026.
+clair is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 1 Aug 2026.
 
 clair is a techno and electro artist based in France, tracked on soundcheck, with 13 sets logged across Basel, Berlin, Cologne and London and 3 more. Often billed alongside 6.do, AA/XX and AC (dot robot). Next up: ZEROTOKYO, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ clair is a techno and electro artist based in France, tracked on soundcheck, wit
 
 6.do, AA/XX, AC (dot robot)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clair/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clair/)*

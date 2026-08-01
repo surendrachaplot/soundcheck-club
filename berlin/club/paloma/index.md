@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Paloma Invites" on Fri, 31 Jul 2026.
+Paloma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Paloma Invites" on Sat, 1 Aug 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Paloma Invites | Bossy Doll Bina, DJ Trade Trainer, Valeria (DE) |
 | Sat, 1 Aug 2026 | Paloma Invites | Love Sensation, ysheso__ |
 | Fri, 7 Aug 2026 | Public Amusement with Pierre B | 11:68PM, Candy Jones, Pierre B (1) |
 | Sat, 8 Aug 2026 | Operate UKG pres. PRESTi | Ben Mono, Dub Isotope, PRESTi, TMSN |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
 | Sat, 26 Sept 2026 | Power Disco - The 9th Anniversary Edition | Conor L, Filippo Moscatello, Finn Johannsen |
+| Sun, 27 Sept 2026 | Gentle Reminder | Bézier |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

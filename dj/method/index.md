@@ -1,6 +1,6 @@
 # Method
 
-Method is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
+Method is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
 
 Method is a drum & bass and bass artist tracked on soundcheck, with 6 sets logged across Amsterdam, Antwerp, Barcelona and Cologne. Often billed alongside Enaly, Gourski and 2nd Floor. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Method is a drum & bass and bass artist tracked on soundcheck, with 6 sets logge
 
 Enaly, Gourski, 2nd Floor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/method/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/method/)*

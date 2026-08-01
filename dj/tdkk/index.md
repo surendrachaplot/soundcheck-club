@@ -1,6 +1,6 @@
 # TDKK
 
-TDKK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
+TDKK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
 
 TDKK is a techno and house artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin and Munich. Often billed alongside Andrea Fiorito, Cabizbajo and Cosmic Cherry. Next up: Kater, Berlin on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ TDKK is a techno and house artist based in Italy, tracked on soundcheck, with 3 
 
 Andrea Fiorito, Cabizbajo, Cosmic Cherry
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tdkk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdkk/)*

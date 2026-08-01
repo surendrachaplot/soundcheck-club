@@ -1,16 +1,15 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "GLITZER & BETON 2 // by thueringentrance" on Fri, 31 Jul 2026.
+Absturz is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "KARAOKE PARTY - Schiefe Töne, große Gefühle" on Sat, 1 Aug 2026.
 
-Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, with line-ups including CAVVØ, IHOPEIEXIST, KETA PERRY and Meyhartt and 1 more. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
+Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, with line-ups including beccslyn, DZBL, IHOPEIEXIST and Meyhartt and 2 more. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | GLITZER & BETON 2 // by thueringentrance | CAVVØ, KETA PERRY, Meyhartt |
 | Sat, 1 Aug 2026 | KARAOKE PARTY - Schiefe Töne, große Gefühle |  |
-| Fri, 7 Aug 2026 | N8SCHICHT Clubnight |  |
+| Fri, 7 Aug 2026 | N8SCHICHT Clubnight | DZBL, SAMBA7, beccslyn |
 | Fri, 14 Aug 2026 | ENDLESS // by Jurassic Heart & KeinKollektiv | Meyhartt |
 | Sat, 15 Aug 2026 | SONIC CRASH COURSE V13 // by BASSTA CREW | IHOPEIEXIST, Tr One |
 | Sat, 22 Aug 2026 | RAWRpocalypse! xD |  |
@@ -19,4 +18,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, wit
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

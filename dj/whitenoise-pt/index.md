@@ -1,6 +1,6 @@
 # Whitenoise (PT)
 
-Whitenoise (PT) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Oven Club, Valencia on Sat, 1 Aug 2026.
+Whitenoise (PT) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Oven Club, Valencia on Sat, 1 Aug 2026.
 
 Whitenoise (PT) is a house and tech house artist based in Portugal, tracked on soundcheck, with 42 sets logged across Lisbon, Madrid, Porto and Valencia. Often billed alongside DJ Nox, Fragoso and Cuba (PT). Next up: Oven Club, Valencia on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Whitenoise (PT) is a house and tech house artist based in Portugal, tracked on s
 
 DJ Nox, Fragoso, Cuba (PT)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenoise-pt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenoise-pt/)*

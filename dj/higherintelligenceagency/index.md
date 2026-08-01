@@ -1,6 +1,6 @@
 # Higher Intelligence Agency
 
-Higher Intelligence Agency is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pan-Pan, Birmingham on Sun, 2 Aug 2026.
+Higher Intelligence Agency is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Pan-Pan, Birmingham on Sun, 2 Aug 2026.
 
 Higher Intelligence Agency is a techno and idm artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 7 more. Often billed alongside DJ Koolt, Paper-Cuts and Skee Mask. Next up: Pan-Pan, Birmingham on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Higher Intelligence Agency is a techno and idm artist based in United Kingdom, t
 
 DJ Koolt, Paper-Cuts, Skee Mask
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/higherintelligenceagency/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/higherintelligenceagency/)*

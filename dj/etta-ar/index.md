@@ -1,6 +1,6 @@
 # ETTA!
 
-ETTA! is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Deseo BS AS, Buenos Aires on Fri, 7 Aug 2026.
+ETTA! is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Deseo BS AS, Buenos Aires on Fri, 7 Aug 2026.
 
 ETTA! is a house and tech house artist based in Argentina, tracked on soundcheck, with 10 sets logged across Buenosaires. Often billed alongside Bermani, Alejandro Paz and Ariel Rodz. Next up: Deseo BS AS, Buenosaires on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ETTA! is a house and tech house artist based in Argentina, tracked on soundcheck
 
 Bermani, Alejandro Paz, Ariel Rodz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etta-ar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etta-ar/)*

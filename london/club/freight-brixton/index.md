@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Old School Jam on The Roof" on Sat, 1 Aug 2026.
+Freight Brixton is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Old School Jam on The Roof" on Sat, 1 Aug 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Chunky, Craig Charles, DJ Perception and El-B and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -23,4 +23,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 10 upcoming nig
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

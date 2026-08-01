@@ -1,6 +1,6 @@
 # MH5 Rooftop
 
-MH5 Rooftop is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "RITUALS MUSIC SUMMER CLOSING" on Sat, 8 Aug 2026.
+MH5 Rooftop is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "RITUALS MUSIC SUMMER CLOSING" on Sat, 8 Aug 2026.
 
 MH5 Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including Aimé You, Alex Volta, Alice DiMar and B-ZEY and 2 more. Browse upcoming dates, start times and who's playing. Atelierstraße 10, 81671 München, Germany.
 
@@ -15,4 +15,4 @@ MH5 Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming nights, 
 
 Atelierstraße 10, 81671 München, Germany, Munich
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/mh5-rooftop/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/mh5-rooftop/)*

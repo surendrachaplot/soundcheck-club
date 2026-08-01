@@ -1,14 +1,13 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
+Hyperaktivist is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
 
-Hyperaktivist is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: CLUB RAUM, Amsterdam on Fri 31 Jul.
+Hyperaktivist is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Razzmatazz, Barcelona on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | CLUB RAUM | Amsterdam |
 | Sat, 1 Aug 2026 | Razzmatazz | Barcelona |
 | Sat, 8 Aug 2026 | KREUZWERK | Berlin |
 | Sat, 8 Aug 2026 | Marmorbar | Berlin |
@@ -19,6 +18,7 @@ Hyperaktivist is a techno and house artist tracked on soundcheck, with 172 sets 
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Fri, 31 Jul 2026
 - Komplex Berlin, Berlin — Sat, 25 Jul 2026
 - OHM, Berlin — Thu, 23 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
@@ -26,10 +26,9 @@ Hyperaktivist is a techno and house artist tracked on soundcheck, with 172 sets 
 - The Bassement, Madrid — Fri, 3 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 27 Jun 2026
 - Mia Mao, Paris — Sat, 20 Jun 2026
-- Grelle Forelle, Vienna — Sat, 30 May 2026
 
 ## Shares bills with
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*

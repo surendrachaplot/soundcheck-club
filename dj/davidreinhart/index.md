@@ -1,6 +1,6 @@
 # David Reinhart
 
-David Reinhart is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Studio 508, Amsterdam on Sat, 8 Aug 2026.
+David Reinhart is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Studio 508, Amsterdam on Sat, 8 Aug 2026.
 
 David Reinhart is a house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Cactus Hand, Hafa and Iggy P. Next up: Studio 508, Amsterdam on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ David Reinhart is a house artist based in Netherlands, tracked on soundcheck, wi
 
 Cactus Hand, Hafa, Iggy P
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidreinhart/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidreinhart/)*

@@ -1,6 +1,6 @@
 # DJ Alone Again
 
-DJ Alone Again is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Sun, 2 Aug 2026.
+DJ Alone Again is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jupiter Disco, New York City on Sun, 2 Aug 2026.
 
 DJ Alone Again is a house and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Peter X, The Pintauro Brothers and Dirtyfinger. Next up: Jupiter Disco, Newyorkcity on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ DJ Alone Again is a house and electronica artist based in United States of Ameri
 
 Peter X, The Pintauro Brothers, Dirtyfinger
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaloneagain/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaloneagain/)*

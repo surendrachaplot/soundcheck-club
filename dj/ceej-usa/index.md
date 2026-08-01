@@ -1,6 +1,6 @@
 # CEEJ
 
-CEEJ is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Public Arts, New York City on Sat, 1 Aug 2026.
+CEEJ is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Public Arts, New York City on Sat, 1 Aug 2026.
 
 CEEJ is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Auckland, Copenhagen, Losangeles and Mexicocity and 1 more. Often billed alongside Sushi Ceej, Black Noi$e and Zack Fox. Next up: Public Arts, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ CEEJ is a house and deep house artist based in United States of America, tracked
 
 Sushi Ceej, Black Noi$e, Zack Fox
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ceej-usa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceej-usa/)*

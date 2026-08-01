@@ -1,8 +1,8 @@
 # DJ SODBRENNEN
 
-DJ SODBRENNEN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
+DJ SODBRENNEN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
 
-DJ SODBRENNEN is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Cologne. Often billed alongside Bensonius, ADEMES and DJ WASSERFALL. Next up: Odonien, Cologne on Fri 7 Aug.
+DJ SODBRENNEN is a techno and trance artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Cologne. Often billed alongside Bensonius, ADEMES and DJ WASSERFALL. Next up: Odonien, Cologne on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ SODBRENNEN is a techno and trance artist based in Germany, tracked on soundch
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Odonien | Cologne |
 | Sun, 23 Aug 2026 | TBA - Anleger 13, Köln | Cologne |
+| Sat, 12 Sept 2026 | Helios37 | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ SODBRENNEN is a techno and trance artist based in Germany, tracked on soundch
 
 Bensonius, ADEMES, DJ WASSERFALL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodbrennen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodbrennen/)*

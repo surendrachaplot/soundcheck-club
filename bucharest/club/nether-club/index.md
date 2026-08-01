@@ -1,14 +1,13 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "STEP INTO THE VOID x URBAN RUMBLE: BERLIN TECHNO 8" on Fri, 31 Jul 2026.
+Nether Club is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "THE GENDER DEVIL | GENDER BLENDER 2 YEAR ANNIVERSARY" on Sat, 8 Aug 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 10 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and DA NA and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and DA NA and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | STEP INTO THE VOID x URBAN RUMBLE: BERLIN TECHNO 8 | FAUST (1), Nilya |
 | Sat, 8 Aug 2026 | THE GENDER DEVIL / GENDER BLENDER 2 YEAR ANNIVERSARY | FAUST (1), NTHR |
 | Fri, 14 Aug 2026 | M.I.L.K - MILAN RUNWAY | AMEDEUS, Amnesico, KATHERYNE, LVUR, Olimpia, Sandraz, Stefan Hernandez |
 | Sat, 22 Aug 2026 | THE DEVIL IS BACK |  |
@@ -23,4 +22,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 10 upcoming nigh
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

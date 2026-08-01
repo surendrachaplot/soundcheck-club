@@ -1,8 +1,8 @@
 # The Groovejet
 
-The Groovejet is a Pop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Oliva, Amsterdam on Sat, 1 Aug 2026.
+The Groovejet is a Pop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Oliva, Amsterdam on Sat, 1 Aug 2026.
 
-The Groovejet is a pop and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Emma Champagne Queen, Divine and Heritage Listed. Next up: Oliva, Amsterdam on Sat 1 Aug.
+The Groovejet is a pop and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Emma Champagne Queen, Aiscream and Divine. Next up: Oliva, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ The Groovejet is a pop and house artist based in Netherlands, tracked on soundch
 
 ## Shares bills with
 
-Emma Champagne Queen, Divine, Heritage Listed
+Emma Champagne Queen, Aiscream, Divine
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*

@@ -1,6 +1,6 @@
 # California Sunshine
 
-California Sunshine is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
+California Sunshine is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
 
 California Sunshine is a house and tech house artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Amber Ferraro, CHARBINKS and Casey Leaver. Next up: Killing Time, Melbourne on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ California Sunshine is a house and tech house artist based in Australia, tracked
 
 Amber Ferraro, CHARBINKS, Casey Leaver
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/californiasunshine/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/californiasunshine/)*

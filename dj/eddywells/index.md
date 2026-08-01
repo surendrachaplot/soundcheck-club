@@ -1,6 +1,6 @@
 # Eddy Wells
 
-Eddy Wells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Civic Underground, Sydney on Sat, 15 Aug 2026.
+Eddy Wells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Civic Underground, Sydney on Sat, 15 Aug 2026.
 
 Eddy Wells is a house and techno artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Cassette, Ari Kiko and OLIIV. Next up: Civic Underground, Sydney on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Eddy Wells is a house and techno artist based in Australia, tracked on soundchec
 
 Cassette, Ari Kiko, OLIIV
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddywells/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddywells/)*

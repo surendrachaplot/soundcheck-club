@@ -1,6 +1,6 @@
 # Schlingen
 
-Schlingen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 5A, Lisbon on Fri, 7 Aug 2026.
+Schlingen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at 5A, Lisbon on Fri, 7 Aug 2026.
 
 Schlingen is a house and techno artist based in Portugal, tracked on soundcheck, with 30 sets logged across Lisbon and Porto. Often billed alongside Solid-Funk, Worm Class and Luisa. Next up: 5A, Lisbon on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Schlingen is a house and techno artist based in Portugal, tracked on soundcheck,
 
 Solid-Funk, Worm Class, Luisa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schlingen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schlingen/)*

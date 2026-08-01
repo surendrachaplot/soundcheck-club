@@ -1,14 +1,13 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SKIN ALPHA SUMMER" on Fri, 31 Jul 2026.
+Skin Club is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SKIN SALIVA: Kafox + MORGAZ + Sora Éke" on Sat, 1 Aug 2026.
 
-Skin Club is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including DJ TURBO, Dyans, Kafox and Mala Suerte and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
+Skin Club is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including DJ TURBO, Dyans, Kafox and Mala Suerte and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | SKIN ALPHA SUMMER | NETN |
 | Sat, 1 Aug 2026 | SKIN SALIVA: Kafox + MORGAZ + Sora Éke | Kafox, Sora Éke |
 | Sun, 2 Aug 2026 | SKIN MISA:  Dyans + Reitze | Dyans, Reitze |
 | Fri, 7 Aug 2026 | SKIN ALPHA SUMMER | NETN, Theia Daja |
@@ -21,4 +20,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 8 upcoming nights, wi
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

@@ -1,6 +1,6 @@
 # Shane Thomas
 
-Shane Thomas is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Shane Thomas is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Shane Thomas is a club and techno artist tracked on soundcheck, with 76 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Banoffee, Rob Aquino and Miracles. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Shane Thomas is a club and techno artist tracked on soundcheck, with 76 sets log
 
 Banoffee, Rob Aquino, Miracles
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*

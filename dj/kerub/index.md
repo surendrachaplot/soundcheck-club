@@ -1,6 +1,6 @@
 # KERUB
 
-KERUB is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
+KERUB is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
 
 KERUB is an experimental and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Toronto and Vancouver. Often billed alongside Hycastle, moodyjooly and DJ RATA. Next up: Three Dollar Bill, Toronto on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ KERUB is an experimental and techno artist based in Canada, tracked on soundchec
 
 Hycastle, moodyjooly, DJ RATA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*

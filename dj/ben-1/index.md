@@ -1,6 +1,6 @@
 # BEN (1)
 
-BEN (1) is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Soukenícká 29, Prague on Sun, 2 Aug 2026.
+BEN (1) is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Soukenícká 29, Prague on Sun, 2 Aug 2026.
 
 BEN (1) is a hip-hop and r&b artist tracked on soundcheck, with 11 sets logged across Glasgow, Ibiza, Newyorkcity and Prague and 2 more. Often billed alongside KOHL, Justy and TATSUYA. Next up: TBA - Soukenícká 29, Prague on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ BEN (1) is a hip-hop and r&b artist tracked on soundcheck, with 11 sets logged a
 
 KOHL, Justy, TATSUYA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ben-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ben-1/)*

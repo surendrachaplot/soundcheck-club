@@ -1,17 +1,18 @@
 # Lousy Lover
 
-Lousy Lover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
+Lousy Lover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Ground at Club Space, Miami on Fri, 28 Aug 2026.
 
-Lousy Lover is a house and tech house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside slugg, MEGUSTA and Ale Acosta. Next up: Floyd, Miami on Fri 31 Jul.
+Lousy Lover is a house and tech house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside slugg, MEGUSTA and Ale Acosta. Next up: The Ground at Club Space, Miami on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Floyd | Miami |
+| Fri, 28 Aug 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 
+- Floyd, Miami — Fri, 31 Jul 2026
 - Stratus Lounge, Philadelphia — Sun, 26 Jul 2026
 - Jolene Downtown Miami, Miami — Thu, 18 Jun 2026
 - Jolene Downtown Miami, Miami — Thu, 4 Jun 2026
@@ -19,10 +20,9 @@ Lousy Lover is a house and tech house artist based in United States of America, 
 - Factory Town, Miami — Sat, 18 Apr 2026
 - TBA - DTLA, Los Angeles — Sat, 28 Feb 2026
 - Jolene Downtown Miami, Miami — Fri, 20 Feb 2026
-- Lion's Den, Miami — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 slugg, MEGUSTA, Ale Acosta
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*

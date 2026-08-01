@@ -1,6 +1,6 @@
 # Vortex (BR)
 
-Vortex (BR) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Union Club, Vauxhall, London on Thu, 6 Aug 2026.
+Vortex (BR) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Union Club, Vauxhall, London on Thu, 6 Aug 2026.
 
 Vortex (BR) is a tech house and techno artist tracked on soundcheck, with 19 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Monnay. Next up: Union Club, Vauxhall, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Vortex (BR) is a tech house and techno artist tracked on soundcheck, with 19 set
 
 Thomas Galbardi, Dhez, Monnay
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexbr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexbr/)*

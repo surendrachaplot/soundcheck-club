@@ -1,18 +1,18 @@
 # Sophie Lloyd
 
-Sophie Lloyd is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 31 Jul 2026.
+Sophie Lloyd is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kilomètre25, Paris on Sat, 12 Sept 2026.
 
-Sophie Lloyd is a house and disco artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 10 more. Often billed alongside Melon Bomb, Melvo Baptiste and The Shapeshifters. Next up: Amnesia Ibiza, Ibiza on Fri 31 Jul.
+Sophie Lloyd is a house and disco artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 10 more. Often billed alongside Melon Bomb, Melvo Baptiste and The Shapeshifters. Next up: Kilomètre25, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Kilomètre25 | Paris |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
 - Purobeach Barcelona, Barcelona — Sat, 27 Jun 2026
 - Freight Island, Manchester — Sun, 14 Jun 2026
 - Sandown Racecourse, London — Sat, 23 May 2026
@@ -20,10 +20,9 @@ Sophie Lloyd is a house and disco artist tracked on soundcheck, with 63 sets log
 - Strange Brew, Bristol — Sat, 6 Dec 2025
 - fabric, London — Fri, 5 Dec 2025
 - Brixton Jamm, London — Sat, 1 Nov 2025
-- Grow, London — Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Melon Bomb, Melvo Baptiste, The Shapeshifters
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielloyd/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielloyd/)*

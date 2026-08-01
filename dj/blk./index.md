@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
+blk. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
 
 blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Charlie Sparks and Basswell. Next up: Amnesia Ibiza, Ibiza on Mon 3 Aug.
 
@@ -32,4 +32,4 @@ blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged a
 
 Azyr, Charlie Sparks, Basswell
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

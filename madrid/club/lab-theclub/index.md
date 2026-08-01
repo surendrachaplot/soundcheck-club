@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "VIPPER Opening Party with Gentlemens Club,Skantia, SMG b2b Waeys, Spectral" on Sat, 29 Aug 2026.
+LAB theCLUB is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "VIPPER Opening Party with Gentlemens Club,Skantia, SMG b2b Waeys, Spectral" on Sat, 29 Aug 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Adam Beyer, Hot Since 82, Paul Van Dyk and Skantia and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -17,4 +17,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 4 upcoming nights, 
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

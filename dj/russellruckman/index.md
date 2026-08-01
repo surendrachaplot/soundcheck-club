@@ -1,6 +1,6 @@
 # Russell Ruckman
 
-Russell Ruckman is a Deep House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
+Russell Ruckman is a Deep House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
 
 Russell Ruckman is a deep house and afrobeat artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Brighton and London. Often billed alongside Marcia Carr, Afrocat and Afronaut UK. Next up: The BBE Store, London on Sun 2 Aug.
 
@@ -19,4 +19,4 @@ Russell Ruckman is a deep house and afrobeat artist based in United Kingdom, tra
 
 Marcia Carr, Afrocat, Afronaut UK
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/russellruckman/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russellruckman/)*

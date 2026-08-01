@@ -1,8 +1,8 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Gabriel & Dresden (All Night Long) - Montréal" on Fri, 28 Aug 2026.
+Newspeak is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Gabriel & Dresden (All Night Long) - Montréal" on Fri, 28 Aug 2026.
 
-Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Bushbaby, Dusky, Gabriel & Dresden and KLOUD and 1 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
+Newspeak is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Baauer, Bushbaby, Dusky and Gabriel & Dresden and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming nights, w
 | Sat, 3 Oct 2026 | Dusky - Montréal | Dusky |
 | Fri, 9 Oct 2026 | Romance Planet - Montréal |  |
 | Fri, 23 Oct 2026 | WHIPPED CREAM - Montréal |  |
+| Fri, 30 Oct 2026 | Baauer - Montréal | Baauer |
 
 ## Address
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

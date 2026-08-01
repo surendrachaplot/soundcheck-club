@@ -1,14 +1,13 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+FISHER is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at [UNVRS], Ibiza on Thu, 6 Aug 2026.
 
-FISHER is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: Downsview Park, Toronto on Fri 31 Jul.
+FISHER is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: [UNVRS], Ibiza on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Thu, 6 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 13 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 20 Aug 2026 | [UNVRS] | Ibiza |
@@ -18,6 +17,7 @@ FISHER is a house and tech house artist tracked on soundcheck, with 154 sets log
 
 ## Recently played
 
+- Downsview Park, Toronto — Fri, 31 Jul 2026
 - [UNVRS], Ibiza — Thu, 30 Jul 2026
 - [UNVRS], Ibiza — Thu, 23 Jul 2026
 - [UNVRS], Ibiza — Thu, 16 Jul 2026
@@ -25,10 +25,9 @@ FISHER is a house and tech house artist tracked on soundcheck, with 154 sets log
 - Silverworks Island, London — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Thu, 9 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
-- [UNVRS], Ibiza — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Vintage Culture, Jason Bye, Little Fritter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*

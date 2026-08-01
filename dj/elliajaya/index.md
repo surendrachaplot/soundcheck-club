@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
+Ellia Jaya is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
 
 Ellia Jaya is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Barcelona and Belfast and 18 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Tiger Yard, Cardiff on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 85 sets 
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

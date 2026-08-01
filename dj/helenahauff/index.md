@@ -1,8 +1,8 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Helena Hauff is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
+Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 
 Ben UFO, DVS1, Job Jobse
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

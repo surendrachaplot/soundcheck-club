@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Fuse presents: RSO YEAR FIVE TOUR with JKS & Laure Croft" on Sat, 1 Aug 2026.
+Fuse is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Fuse presents: RSO YEAR FIVE TOUR with JKS & Laure Croft" on Sat, 1 Aug 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with line-ups including Aiden (DE), Arter, Askkin and Dan Shake and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -19,4 +19,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with 
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

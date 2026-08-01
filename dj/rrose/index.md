@@ -1,14 +1,13 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
+Rrose is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
 
-Rrose is a techno and experimental artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Polygonia and Wata Igarashi. Next up: Tunnel Club, Birmingham on Fri 31 Jul.
+Rrose is a techno and experimental artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Polygonia and Wata Igarashi. Next up: Nowadays, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Tunnel Club | Birmingham |
 | Sat, 1 Aug 2026 | Nowadays | New York City |
 | Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | The Glove That Fits | London |
@@ -20,6 +19,7 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 134 sets l
 
 ## Recently played
 
+- Tunnel Club, Birmingham — Fri, 31 Jul 2026
 - RASA, Singapore — Sat, 18 Jul 2026
 - IKLECTIK, London — Sat, 11 Jul 2026
 - The Lubber Fiend, Newcastle — Fri, 26 Jun 2026
@@ -27,10 +27,9 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 134 sets l
 - public records, New York City — Fri, 29 May 2026
 - Marble Bar, Detroit — Fri, 22 May 2026
 - Razzmatazz, Barcelona — Sun, 10 May 2026
-- 301 Adelaide St W, Toronto — Thu, 7 May 2026
 
 ## Shares bills with
 
 DJ Nobu, Polygonia, Wata Igarashi
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

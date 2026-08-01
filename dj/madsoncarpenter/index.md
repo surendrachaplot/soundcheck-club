@@ -1,6 +1,6 @@
 # Madson Carpenter
 
-Madson Carpenter is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tartaruga Beach Bar, Lisbon on Sat, 1 Aug 2026.
+Madson Carpenter is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tartaruga Beach Bar, Lisbon on Sat, 1 Aug 2026.
 
 Madson Carpenter is a techno and industrial artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside Stëh, Max Deme and Taxsh. Next up: Tartaruga Beach Bar, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Madson Carpenter is a techno and industrial artist tracked on soundcheck, with 1
 
 Stëh, Max Deme, Taxsh
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madsoncarpenter/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madsoncarpenter/)*

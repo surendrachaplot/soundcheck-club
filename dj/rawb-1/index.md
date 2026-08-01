@@ -1,6 +1,6 @@
 # RawB
 
-RawB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 1 Aug 2026.
+RawB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 1 Aug 2026.
 
 RawB is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Copenhagen, Losangeles and Sanfrancisco. Often billed alongside Jayzo, DJ Crystal Bitch and Delguero. Next up: De Fik Garden, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ RawB is a techno and house artist tracked on soundcheck, with 46 sets logged acr
 
 Jayzo, DJ Crystal Bitch, Delguero
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rawb-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawb-1/)*

@@ -1,6 +1,6 @@
 # Selten
 
-Selten is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 303 Audiophile Bar, Barcelona on Sat, 12 Sept 2026.
+Selten is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 303 Audiophile Bar, Barcelona on Sat, 12 Sept 2026.
 
 Selten is a techno and deep house artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Bill Hates, Francisco Sosa and Expreso Indochina. Next up: 303 Audiophile Bar, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Selten is a techno and deep house artist tracked on soundcheck, with 10 sets log
 
 Bill Hates, Francisco Sosa, Expreso Indochina
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selten/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selten/)*

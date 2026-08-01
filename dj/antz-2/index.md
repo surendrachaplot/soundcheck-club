@@ -1,6 +1,6 @@
 # AntZ (2)
 
-AntZ (2) is a Hip-Hop and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Summum, Ibiza on Fri, 7 Aug 2026.
+AntZ (2) is a Hip-Hop and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Summum, Ibiza on Fri, 7 Aug 2026.
 
 AntZ (2) is a hip-hop and acid artist based in Argentina, tracked on soundcheck, with 19 sets logged across Berlin, Ibiza and Madrid. Often billed alongside SEMREH, FLAKOO and Gune 909. Next up: Summum, Ibiza on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ AntZ (2) is a hip-hop and acid artist based in Argentina, tracked on soundcheck,
 
 SEMREH, FLAKOO, Gune 909
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antz-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antz-2/)*

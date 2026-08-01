@@ -1,6 +1,6 @@
 # Kiva
 
-Kiva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uproar Lounge, Washington DC on Fri, 7 Aug 2026.
+Kiva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Uproar Lounge, Washington DC on Fri, 7 Aug 2026.
 
 Kiva is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Washingtondc. Often billed alongside Associate, Stos and Sneakers in the Dryer. Next up: Uproar Lounge, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kiva is a techno and house artist based in United States of America, tracked on 
 
 Associate, Stos, Sneakers in the Dryer
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiva/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiva/)*

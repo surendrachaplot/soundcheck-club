@@ -1,6 +1,6 @@
 # Diz (1)
 
-Diz (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Masada, Chicago on Sat, 1 Aug 2026.
+Diz (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Masada, Chicago on Sat, 1 Aug 2026.
 
 Diz (1) is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago, Detroit and Ibiza. Often billed alongside DJ Heather, Gene Hunt and Striz. Next up: Masada, Chicago on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Diz (1) is a house and deep house artist based in United States of America, trac
 
 DJ Heather, Gene Hunt, Striz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*

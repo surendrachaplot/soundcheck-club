@@ -1,6 +1,6 @@
 # Hibotep
 
-Hibotep is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 8 Aug 2026.
+Hibotep is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 8 Aug 2026.
 
 Hibotep is a bass and afro tech artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Nsasi, Authentically Plastic and Catu Diosis. Next up: La Station - Gare des Mines, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Hibotep is a bass and afro tech artist tracked on soundcheck, with 20 sets logge
 
 Nsasi, Authentically Plastic, Catu Diosis
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibotep/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hibotep/)*

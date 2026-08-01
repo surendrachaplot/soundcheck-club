@@ -1,6 +1,6 @@
 # Atosigado
 
-Atosigado is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - CDMX, Mexico City on Sat, 8 Aug 2026.
+Atosigado is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - CDMX, Mexico City on Sat, 8 Aug 2026.
 
 Atosigado is a club and pop artist based in Mexico, tracked on soundcheck, with 6 sets logged across Berlin and Mexicocity. Often billed alongside ADAKEO, dj mico and Alessandra Fierro. Next up: TBA - CDMX, Mexicocity on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Atosigado is a club and pop artist based in Mexico, tracked on soundcheck, with 
 
 ADAKEO, dj mico, Alessandra Fierro
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atosigado/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atosigado/)*

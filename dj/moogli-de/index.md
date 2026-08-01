@@ -1,6 +1,6 @@
 # MOOGLI (DE)
 
-MOOGLI (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+MOOGLI (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 MOOGLI (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin and Zurich. Often billed alongside Foolik, Mona Pirzad and Pauli Pocket. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ MOOGLI (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 Foolik, Mona Pirzad, Pauli Pocket
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moogli-de/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moogli-de/)*

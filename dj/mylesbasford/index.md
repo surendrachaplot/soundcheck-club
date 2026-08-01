@@ -1,6 +1,6 @@
 # Myles Basford
 
-Myles Basford is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Fri, 7 Aug 2026.
+Myles Basford is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Fri, 7 Aug 2026.
 
 Myles Basford is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Birmingham and London. Often billed alongside HCTR, JFULLER and Lew Reilly. Next up: Starlane Pizza Bar, London on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Myles Basford is a house and tech house artist based in United Kingdom, tracked 
 
 HCTR, JFULLER, Lew Reilly
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesbasford/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesbasford/)*

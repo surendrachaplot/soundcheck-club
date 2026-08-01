@@ -1,6 +1,6 @@
 # INAE
 
-INAE is a Electronica and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZEROTOKYO, Tokyo on Thu, 6 Aug 2026.
+INAE is a Electronica and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 6 Aug 2026.
 
 INAE is an electronica and amapiano artist based in Japan, tracked on soundcheck, with 37 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside RUKE, MUNÉO and DJ POIPOI. Next up: ZEROTOKYO, Tokyo on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ INAE is an electronica and amapiano artist based in Japan, tracked on soundcheck
 
 RUKE, MUNÉO, DJ POIPOI
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inae/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inae/)*

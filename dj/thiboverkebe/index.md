@@ -1,6 +1,6 @@
 # Thibo Verbeke
 
-Thibo Verbeke is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Passion Club, Malta on Sat, 1 Aug 2026.
+Thibo Verbeke is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Passion Club, Malta on Sat, 1 Aug 2026.
 
 Thibo Verbeke is a techno and trance artist based in Belgium, tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside MAMO (2), Naomi Baldacchino and Billy Hills. Next up: Passion Club, Malta on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Thibo Verbeke is a techno and trance artist based in Belgium, tracked on soundch
 
 MAMO (2), Naomi Baldacchino, Billy Hills
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiboverkebe/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiboverkebe/)*

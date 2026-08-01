@@ -1,6 +1,6 @@
 # FANXI B
 
-FANXI B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kowalski, Stuttgart on Fri, 7 Aug 2026.
+FANXI B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kowalski, Stuttgart on Fri, 7 Aug 2026.
 
 FANXI B is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Stuttgart. Often billed alongside Oxygliano, DJ Unholy and Fabian Kaa. Next up: Kowalski, Stuttgart on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ FANXI B is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Oxygliano, DJ Unholy, Fabian Kaa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fanxib/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fanxib/)*

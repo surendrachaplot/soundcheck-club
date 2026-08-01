@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DE SOL A SOL - A Benefit for Children Affected by Venezuela's Earthquakes" on Fri, 31 Jul 2026.
+Bambi's is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Milch & Hasa" on Sat, 1 Aug 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including AKWA, Amedeo (CA), Anzola and Carlos Estebban and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including AKWA, Amedeo (CA), Cosmic JD and DINO (3) and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | DE SOL A SOL - A Benefit for Children Affected by Venezuela's Earthquakes | Anzola, Carlos Estebban, olasconola |
 | Sat, 1 Aug 2026 | Milch & Hasa | Milch (1), Underwaterhasa |
 | Fri, 7 Aug 2026 | pirouette | Amedeo (CA), Program Sam, maxedvisa |
 | Sat, 8 Aug 2026 | 4.5 Hours of Power: Tony Price Live | Tony Price |
@@ -22,4 +21,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming nights, wit
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

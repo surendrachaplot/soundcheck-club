@@ -1,6 +1,6 @@
 # Aster
 
-Aster is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Elsewhere, New York City on Sat, 1 Aug 2026.
+Aster is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Elsewhere, New York City on Sat, 1 Aug 2026.
 
 Aster is a hip-hop and bass artist based in Spain, tracked on soundcheck, with 4 sets logged across Miami, Newyorkcity, Paris and Tokyo. Often billed alongside Iga, Malcolm XL and Rosa. Next up: Elsewhere, Newyorkcity on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Aster is a hip-hop and bass artist based in Spain, tracked on soundcheck, with 4
 
 Iga, Malcolm XL, Rosa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aster/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aster/)*

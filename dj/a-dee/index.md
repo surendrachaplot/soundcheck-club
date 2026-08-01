@@ -1,6 +1,6 @@
 # A-DEE
 
-A-DEE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
+A-DEE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
 
 A-DEE is a house and disco artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Munich and Stuttgart. Often billed alongside A-Dee and Dasmo, Julie Fleischer and Karl B.. Next up: Bahnwärter Thiel, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ A-DEE is a house and disco artist based in Germany, tracked on soundcheck, with 
 
 A-Dee and Dasmo, Julie Fleischer, Karl B.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-dee/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-dee/)*

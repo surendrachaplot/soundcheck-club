@@ -1,6 +1,6 @@
 # Koenji Cave presents - Psychedelic Friday Vol.28 - at Cave
 
-Koenji Cave presents - Psychedelic Friday Vol.28 - on Fri 7 Aug, Tokyo. 1 act on the bill: CATRONICA. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents - Psychedelic Friday Vol.28 - on Fri 7 Aug, Tokyo. 2 acts on the bill: BERLINER KINDL and CATRONICA. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Koenji Cave presents - Psychedelic Friday Vol.28 - on Fri 7 Aug, Tokyo. 1 act on
 
 ## Line-up
 
+- BERLINER KINDL
 - CATRONICA
 
 *Source: [soundcheck](https://soundcheck.club/e/2497935-koenji-cave-presents-psychedelic-friday-vol-28-at-cave/)*

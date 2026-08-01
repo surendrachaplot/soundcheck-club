@@ -1,6 +1,6 @@
 # Livsey
 
-Livsey is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
+Livsey is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 21 Aug 2026.
 
 Livsey is a bass and dubstep artist tracked on soundcheck, with 3 sets logged across Leeds and Sheffield. Often billed alongside DJ Paypal, Finn Eden and Slimy Ape. Next up: Sidney & Matilda, Sheffield on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Livsey is a bass and dubstep artist tracked on soundcheck, with 3 sets logged ac
 
 DJ Paypal, Finn Eden, Slimy Ape
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livsey/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livsey/)*

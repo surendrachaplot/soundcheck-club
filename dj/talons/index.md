@@ -1,6 +1,6 @@
 # Talons
 
-Talons is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Baggen, Copenhagen on Sat, 1 Aug 2026.
+Talons is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Baggen, Copenhagen on Sat, 1 Aug 2026.
 
 Talons is a techno and experimental artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen and Vienna. Often billed alongside Main Phase, Alpha Tracks and ELOQ. Next up: Baggen, Copenhagen on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Talons is a techno and experimental artist based in Denmark, tracked on soundche
 
 Main Phase, Alpha Tracks, ELOQ
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/talons/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talons/)*

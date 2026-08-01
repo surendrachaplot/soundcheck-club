@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Inei Raisan" on Fri, 31 Jul 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "studio mule" on Sat, 1 Aug 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 7e, DJ Garth, In Ray and Itou and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 7e, DJ Garth, In Ray and Karuta and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Inei Raisan | Itou, Nari (2), P-Man |
 | Sat, 1 Aug 2026 | studio mule | KZA, Shinya Okamoto, Toshiya Kawasaki |
 | Mon, 3 Aug 2026 | MORE&MOR |  |
 | Tue, 4 Aug 2026 | ORDER DISORDER | Ryunosuke Urabe, YUKIMASA |
@@ -23,4 +22,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

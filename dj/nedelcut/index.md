@@ -1,6 +1,6 @@
 # Nedelcut
 
-Nedelcut is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Crack Bellmer, Berlin on Sat, 1 Aug 2026.
+Nedelcut is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Crack Bellmer, Berlin on Sat, 1 Aug 2026.
 
 Nedelcut is a techno and minimal techno artist based in Romania, tracked on soundcheck, with 2 sets logged across Berlin and Bucharest. Often billed alongside Candice Blonde, KONZ and Lobster (NL). Next up: Crack Bellmer, Berlin on Sat 1 Aug.
 
@@ -15,4 +15,4 @@ Nedelcut is a techno and minimal techno artist based in Romania, tracked on soun
 
 Candice Blonde, KONZ, Lobster (NL)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedelcut/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nedelcut/)*

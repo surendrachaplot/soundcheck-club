@@ -1,14 +1,20 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Ice Cream Sundays Djs" on Fri, 31 Jul 2026.
+Klymax Discotheque is a music venue in Bali with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dan.B, IAAM" on Sat, 1 Aug 2026.
 
-Klymax Discotheque is a music venue in Bali listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+Klymax Discotheque is a music venue in Bali listed on soundcheck. 8 upcoming nights, with line-ups including Danny, DITA (ID), Hanna and Jonathan Kusuma and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Ice Cream Sundays Djs |  |
 | Sat, 1 Aug 2026 | Dan.B, IAAM |  |
+| Sat, 8 Aug 2026 | Rocco Universal, Cloud of Kouros, Seabass | Rocco Universal |
+| Fri, 14 Aug 2026 | Aditya Permana, Jonathan Kusuma, Ridwan | Jonathan Kusuma, Ridwan |
+| Sat, 15 Aug 2026 | Nice Girl, Dita, Kiwed | DITA (ID), Nice Girl |
+| Fri, 21 Aug 2026 | Monkey Timers, Dita & Gero | DITA (ID), Monkey Timers |
+| Sat, 22 Aug 2026 | Exelent, General Rie, Hanna, ILNEJ | Hanna |
+| Fri, 28 Aug 2026 | Toy Tonics Jam, Gero |  |
+| Sat, 29 Aug 2026 | Danny, Mislav | Danny |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

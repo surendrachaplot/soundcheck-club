@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dip 'n' Dive" on Fri, 31 Jul 2026.
+Viadukt Bar is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Malamó & FODOR + Lackaday / hip+hop & punk/" on Sat, 1 Aug 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Ben Dover, Daniel Meister, Galactic Jackson and Murahni and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Ben Dover, Daniel Meister, Galactic Jackson and Murahni and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Dip 'n' Dive |  |
 | Sat, 1 Aug 2026 | Malamó & FODOR + Lackaday / hip+hop & punk/ |  |
 | Sun, 2 Aug 2026 | Sunday drop |  |
 | Mon, 3 Aug 2026 | spicedaddy. & kromanecit at Viadukt |  |
@@ -22,4 +21,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 9 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

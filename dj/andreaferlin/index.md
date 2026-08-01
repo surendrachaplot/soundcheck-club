@@ -1,6 +1,6 @@
 # Andrea Ferlin
 
-Andrea Ferlin is a Minimal Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Mon, 3 Aug 2026.
+Andrea Ferlin is a Minimal Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club der Visionaere, Berlin on Mon, 3 Aug 2026.
 
 Andrea Ferlin is a minimal techno and broken beat artist based in Italy, tracked on soundcheck, with 40 sets logged across Berlin, Brussels, Istanbul and London and 3 more. Often billed alongside Rg, Topper and Andrea Cossu. Next up: Club der Visionaere, Berlin on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Andrea Ferlin is a minimal techno and broken beat artist based in Italy, tracked
 
 Rg, Topper, Andrea Cossu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaferlin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaferlin/)*

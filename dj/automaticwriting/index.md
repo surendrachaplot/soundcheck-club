@@ -1,6 +1,6 @@
 # Automatic Writing
 
-Automatic Writing is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
+Automatic Writing is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
 
 Automatic Writing is a house and techno artist based in France, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Automatic Writing is a house and techno artist based in France, tracked on sound
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

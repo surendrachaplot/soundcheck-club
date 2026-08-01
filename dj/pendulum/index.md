@@ -1,6 +1,6 @@
 # Pendulum
 
-Pendulum is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Q Nightclub, Seattle on Fri, 9 Oct 2026.
+Pendulum is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Q Nightclub, Seattle on Fri, 9 Oct 2026.
 
 Pendulum is a drum & bass and bass artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Birmingham and Brighton and 27 more. Often billed alongside Kanine, Mozey and Shockone. Next up: Q Nightclub, Seattle on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Pendulum is a drum & bass and bass artist tracked on soundcheck, with 47 sets lo
 
 Kanine, Mozey, Shockone
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*

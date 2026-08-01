@@ -1,6 +1,6 @@
 # SMB (1)
 
-SMB (1) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
+SMB (1) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
 
 SMB (1) is a house and garage artist based in Czech Republic, tracked on soundcheck, with 14 sets logged across Prague. Often billed alongside Meldaboi, Silverbo1 and Fatty M. Next up: Vila Štvanice, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SMB (1) is a house and garage artist based in Czech Republic, tracked on soundch
 
 Meldaboi, Silverbo1, Fatty M
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smb-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smb-1/)*

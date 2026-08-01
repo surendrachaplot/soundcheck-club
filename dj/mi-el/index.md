@@ -1,6 +1,6 @@
 # mi-el
 
-mi-el is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
+mi-el is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
 
 mi-el is a bass and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Batu, re:ni and Amaliah. Next up: Kampnagel, Hamburg on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ mi-el is a bass and techno artist tracked on soundcheck, with 107 sets logged ac
 
 Batu, re:ni, Amaliah
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*

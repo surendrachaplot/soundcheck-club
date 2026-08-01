@@ -1,6 +1,6 @@
 # Eddie Fowlkes
 
-Eddie Fowlkes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Eddie Fowlkes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 Eddie Fowlkes is a techno and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Berlin, Chicago, Detroit and Nashville and 2 more. Often billed alongside John Collins (US), Delano Smith and Bruce Bailey. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Eddie Fowlkes is a techno and house artist based in United States of America, tr
 
 John Collins (US), Delano Smith, Bruce Bailey
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiefowlkes/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiefowlkes/)*

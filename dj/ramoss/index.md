@@ -1,6 +1,6 @@
 # Ramoss
 
-Ramoss is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
+Ramoss is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
 
 Ramoss is a tech house and minimal artist tracked on soundcheck, with 41 sets logged across Basel, Ibiza, London and Milan and 3 more. Often billed alongside Ale Grooves, Pedro Villa and Jey Mellen. Next up: Ministry Of Sound, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ramoss is a tech house and minimal artist tracked on soundcheck, with 41 sets lo
 
 Ale Grooves, Pedro Villa, Jey Mellen
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramoss/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramoss/)*

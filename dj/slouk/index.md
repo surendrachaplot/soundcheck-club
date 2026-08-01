@@ -1,6 +1,6 @@
 # Slouk
 
-Slouk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
+Slouk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bee's Mouth, Brighton on Sat, 1 Aug 2026.
 
 Slouk is a house and techno artist tracked on soundcheck, with 10 sets logged across Brighton. Often billed alongside Sam Red, Jimmy Potts and Sonic Juncture. Next up: The Bee's Mouth, Brighton on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Slouk is a house and techno artist tracked on soundcheck, with 10 sets logged ac
 
 Sam Red, Jimmy Potts, Sonic Juncture
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slouk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slouk/)*

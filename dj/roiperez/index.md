@@ -1,6 +1,6 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Village Studios, Vancouver on Sat, 1 Aug 2026.
+Roi Perez is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Village Studios, Vancouver on Sat, 1 Aug 2026.
 
 Roi Perez is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Village Studios, Vancouver on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Roi Perez is a house and techno artist tracked on soundcheck, with 215 sets logg
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

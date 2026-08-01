@@ -1,13 +1,14 @@
 # Jay Luna
 
-Jay Luna is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Terrrazza, Barcelona on Fri, 21 Aug 2026.
+Jay Luna is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Fri, 7 Aug 2026.
 
-Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, London, Madrid and Malaga and 1 more. Often billed alongside Hugo Carter, Cabin Luv Affair and DIGUES. Next up: La Terrrazza, Barcelona on Fri 21 Aug.
+Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, London, Madrid and Malaga and 1 more. Often billed alongside Hugo Carter, Cabin Luv Affair and DIGUES. Next up: Antiguo Liceo de Málaga, Malaga on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Antiguo Liceo de Málaga | Malaga |
 | Fri, 21 Aug 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with
 
 Hugo Carter, Cabin Luv Affair, DIGUES
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayluna/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayluna/)*

@@ -1,6 +1,6 @@
 # OneFootStep
 
-OneFootStep is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Porteous, Geneva on Sun, 2 Aug 2026.
+OneFootStep is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Porteous, Geneva on Sun, 2 Aug 2026.
 
 OneFootStep is a dub and bass artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Athens, Geneva, Tokyo and Zurich. Often billed alongside Alicia Carrera, Anatolian Weapons and Andriy K.. Next up: Porteous, Geneva on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ OneFootStep is a dub and bass artist based in Switzerland, tracked on soundcheck
 
 Alicia Carrera, Anatolian Weapons, Andriy K.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onefootstep/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onefootstep/)*

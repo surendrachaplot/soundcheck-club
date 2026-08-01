@@ -1,6 +1,6 @@
 # Cece
 
-Cece is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Civic Underground, Sydney on Sat, 1 Aug 2026.
+Cece is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Civic Underground, Sydney on Sat, 1 Aug 2026.
 
 Cece is a house and drum & bass artist based in Australia, tracked on soundcheck, with 4 sets logged across Amsterdam, Sanfrancisco and Sydney. Often billed alongside 249.92, 36framez and A For Alpha. Next up: Civic Underground, Sydney on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Cece is a house and drum & bass artist based in Australia, tracked on soundcheck
 
 249.92, 36framez, A For Alpha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cece-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cece-uk/)*

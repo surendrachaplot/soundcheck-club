@@ -1,6 +1,6 @@
 # Caromelle
 
-Caromelle is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
+Caromelle is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
 
 Caromelle is a house artist tracked on soundcheck, with 14 sets logged across Berlin and Zurich. Often billed alongside Manuel Moreno, Meraki (3) and ACID FLORA. Next up: Hive Club, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Caromelle is a house artist tracked on soundcheck, with 14 sets logged across Be
 
 Manuel Moreno, Meraki (3), ACID FLORA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caromelle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caromelle/)*

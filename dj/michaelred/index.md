@@ -1,6 +1,6 @@
 # Michael Red
 
-Michael Red is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Vancouver on Sat, 1 Aug 2026.
+Michael Red is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Vancouver on Sat, 1 Aug 2026.
 
 Michael Red is a bass and experimental artist tracked on soundcheck, with 29 sets logged across Vancouver. Often billed alongside IHA (CA), Max Ulis and Taal Mala. Next up: TBA, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Michael Red is a bass and experimental artist tracked on soundcheck, with 29 set
 
 IHA (CA), Max Ulis, Taal Mala
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelred/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelred/)*

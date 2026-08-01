@@ -1,6 +1,6 @@
 # Rochelle
 
-Rochelle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
+Rochelle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
 
 Rochelle is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Chicago and Newyorkcity and 1 more. Often billed alongside Jaggy, Housecall and Hunter Vita. Next up: TBA - Pratdip (Tarragona, Spain), Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rochelle is a house and techno artist based in United States of America, tracked
 
 Jaggy, Housecall, Hunter Vita
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rochelle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rochelle/)*

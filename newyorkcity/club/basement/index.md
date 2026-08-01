@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr" on Fri, 31 Jul 2026.
+BASEMENT is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Locals Night" on Sat, 1 Aug 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Analog Soul, Annie Lew, Auspex and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Analog Soul, Annie Lew, Beste Hira and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr | Auspex, Cosmo (NY), Jason Kendig, Lars Huismann, Lindsey Herbert, Ryan Farr, Will Automagic |
 | Sat, 1 Aug 2026 | Locals Night | Analog Soul, Concrete Husband, Holden Federico, Justin Cudmore, Katie Rex, Kim Anh, Manu Miran, Mos (NYC), Ne/Re/A |
 | Sat, 8 Aug 2026 | WRECKED: Sterling Juan Diaz / Mister Wallace / Jellyfish / Ron Like Hell b2b Ryan Smith | Jellyfish, Mister Wallace, Ron Like Hell, Ryan Smith, Sterling Juan Diaz |
 | Sat, 15 Aug 2026 | Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Michael Cignarale | Dee Diggs, Elle Dee, Function, LOLSNAKE, Michael Cignarale, Miracles, Tom Peters |
@@ -20,4 +19,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

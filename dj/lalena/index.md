@@ -1,6 +1,6 @@
 # LALENA
 
-LALENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+LALENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 LALENA is a techno and house artist based in Germany, tracked on soundcheck, with 62 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 3 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ LALENA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 David Hasert, Diode Eins, Alchemiah
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*

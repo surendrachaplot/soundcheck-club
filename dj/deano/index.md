@@ -1,6 +1,6 @@
 # Deano
 
-Deano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fvtvr, Paris on Sat, 8 Aug 2026.
+Deano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fvtvr, Paris on Sat, 8 Aug 2026.
 
 Deano is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Cologne and Milan and 4 more. Often billed alongside Faretrade, Árni and .VRIL. Next up: Fvtvr, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Deano is a techno and house artist tracked on soundcheck, with 15 sets logged ac
 
 Faretrade, Árni, .VRIL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

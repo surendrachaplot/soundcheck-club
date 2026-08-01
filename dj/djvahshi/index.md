@@ -1,13 +1,14 @@
 # DJ Vahshi
 
-DJ Vahshi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Bedstuy Loft, New York City on Fri, 14 Aug 2026.
+DJ Vahshi is a House and Footwork artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
 
-DJ Vahshi is a house and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Jaeku, Zara Dekho and ARMANA KHAN. Next up: TBA - Secret Bedstuy Loft, Newyorkcity on Fri 14 Aug.
+DJ Vahshi is a house and footwork artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside DJ Ari B, Jaeku and Zara Dekho. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 4 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 14 Aug 2026 | TBA - Secret Bedstuy Loft | New York City |
 
 ## Recently played
@@ -22,6 +23,6 @@ DJ Vahshi is a house and electronica artist based in United States of America, t
 
 ## Shares bills with
 
-Jaeku, Zara Dekho, ARMANA KHAN
+DJ Ari B, Jaeku, Zara Dekho
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvahshi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvahshi/)*

@@ -1,6 +1,6 @@
 # Horse Opera
 
-Horse Opera is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at House of Yes, New York City on Sat, 1 Aug 2026.
+Horse Opera is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at House of Yes, New York City on Sat, 1 Aug 2026.
 
 Horse Opera is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Austin, Newyorkcity and Sanfrancisco. Often billed alongside Brett Johnson, DJ BAD APPLE and Slyde Drexler. Next up: House of Yes, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Horse Opera is a house and disco artist based in United States of America, track
 
 Brett Johnson, DJ BAD APPLE, Slyde Drexler
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horseopera/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horseopera/)*

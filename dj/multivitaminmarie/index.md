@@ -1,6 +1,6 @@
 # multivitaminmarie
 
-multivitaminmarie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+multivitaminmarie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 multivitaminmarie is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Stuttgart. Often billed alongside MIMI404, A.N.I. and ELOISA. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ multivitaminmarie is a trance and techno artist based in Germany, tracked on sou
 
 MIMI404, A.N.I., ELOISA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/multivitaminmarie/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multivitaminmarie/)*

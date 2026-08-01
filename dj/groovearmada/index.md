@@ -1,8 +1,8 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
+Groove Armada is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Groove Armada is a house and disco artist tracked on soundcheck, with 81 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
+Groove Armada is a house and disco artist tracked on soundcheck, with 82 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 81 sets lo
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Mon, 5 Oct 2026 | Chinois Ibiza | Ibiza |
+| Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -32,6 +33,6 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 81 sets lo
 
 ## Shares bills with
 
-The Shapeshifters, Natasha Diggs, Melvo Baptiste
+The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

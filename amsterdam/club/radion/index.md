@@ -1,14 +1,13 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dekmantel At Night - Friday" on Fri, 31 Jul 2026.
+RADION is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dekmantel At Night - Saturday" on Sat, 1 Aug 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including 36framez, 42nd Avenue, Justine Perry and Aaron J and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including 36framez, 42nd Avenue, Justine Perry and Aaron J and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Dekmantel At Night - Friday | Afra, Blasha & Allatt, DJ Stingray 313, MARRØN, Mari Sakurai, Phase Fatale, Rene Wise |
 | Sat, 1 Aug 2026 | Dekmantel At Night - Saturday | AMORAL, Decoder, JASSS, Jasmín, Luke Slater, Ottagone, Sandrien, Steffi |
 | Sun, 2 Aug 2026 | Dekmantel At Night - Sunday | Aaron J, DJ MARIA., Fadi Mohem, GiGi FM, Hitam, Marco Shuttle, Oscar Mulero, Sarkawt Hamad, Woody92 |
 | Fri, 7 Aug 2026 | RADION invites Justine Perry | Justine Perry, Paula Koski, Virginia |
@@ -18,9 +17,10 @@ RADION is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, w
 | Sat, 5 Sept 2026 | RADION Season Opener | Flits, Hashashin, Hedemann, Isaiah (NL), Lobster (NL), Malou (NL), SHE/HER, The Advent, Vuur |
 | Sat, 10 Oct 2026 | GEGEN AMSTERDAM | Buday, Cristian Marras, Hyperaktivist, Mar/us, OCD, Technoslave_69, Volvox |
 | Thu, 22 Oct 2026 | LNR - ADE edition | Beau Didier, Beste Hira, Cokobloko, Flits, Isaiah (NL), Lasse, Remco Beekwilder, SHE/HER, Ultrastation, stranger (NL) |
+| Fri, 23 Oct 2026 | DJ Bone presents: FURTHER x Homeless Homies ADE 2026 |  |
 
 ## Address
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

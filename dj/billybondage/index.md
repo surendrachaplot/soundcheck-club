@@ -1,14 +1,14 @@
 # Billy Bondage
 
-Billy Bondage is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Dd's, Montreal on Tue, 18 Aug 2026.
+Billy Bondage is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club Dd's, Montreal on Wed, 19 Aug 2026.
 
-Billy Bondage is a techno and club artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside Public Appeal, Baby Bimbo and Monib. Next up: Club Dd's, Montreal on Tue 18 Aug.
+Billy Bondage is a techno and club artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside Public Appeal, Baby Bimbo and Monib. Next up: Club Dd's, Montreal on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 18 Aug 2026 | Club Dd's | Montreal |
+| Wed, 19 Aug 2026 | Club Dd's | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Billy Bondage is a techno and club artist based in Canada, tracked on soundcheck
 
 Public Appeal, Baby Bimbo, Monib
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billybondage/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billybondage/)*

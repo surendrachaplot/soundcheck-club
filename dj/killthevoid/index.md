@@ -1,6 +1,6 @@
 # Kill the Void
 
-Kill the Void is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Kill the Void is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Kill the Void is a techno and hardcore artist based in France, tracked on soundcheck, with 7 sets logged across Berlin, Budapest, Lyon and Manchester and 3 more. Often billed alongside SIKOTI, 5ogol and A.N.I.. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Kill the Void is a techno and hardcore artist based in France, tracked on soundc
 
 SIKOTI, 5ogol, A.N.I.
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/killthevoid/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killthevoid/)*

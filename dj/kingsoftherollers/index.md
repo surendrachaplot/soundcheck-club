@@ -1,6 +1,6 @@
 # Kings of the Rollers
 
-Kings of the Rollers is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Kings of the Rollers is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Auckland, Brighton and Bristol and 9 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 
 Inja, Hedex, Bou (UK)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*

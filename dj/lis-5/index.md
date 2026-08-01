@@ -1,20 +1,20 @@
 # lis (5)
 
-lis (5) is a Ambient and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
+lis (5) is a Ambient and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Waterkant, Amsterdam on Sat, 1 Aug 2026.
 
-lis (5) is an ambient and house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside ARCHANGEL (US), Afra and Ambu Bambu. Next up: TILLATEC, Amsterdam on Fri 31 Jul.
+lis (5) is an ambient and house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside ARCHANGEL (US), Afra and Ambu Bambu. Next up: Waterkant, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TILLATEC | Amsterdam |
 | Sat, 1 Aug 2026 | Waterkant | Amsterdam |
 | Sat, 15 Aug 2026 | Garage Noord | Amsterdam |
 | Sun, 30 Aug 2026 | murmur | Amsterdam |
 
 ## Recently played
 
+- TILLATEC, Amsterdam — Fri, 31 Jul 2026
 - CLUB RAUM, Amsterdam — Fri, 24 Jul 2026
 - Yellow House, Amsterdam — Sat, 20 Jun 2026
 - Garage Noord, Amsterdam — Sun, 14 Jun 2026
@@ -23,4 +23,4 @@ lis (5) is an ambient and house artist based in Netherlands, tracked on soundche
 
 ARCHANGEL (US), Afra, Ambu Bambu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*

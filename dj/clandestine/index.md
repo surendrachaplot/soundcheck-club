@@ -1,6 +1,6 @@
 # Clandestine
 
-Clandestine is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+Clandestine is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 Clandestine is an electronic artist based in Argentina, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside INEXXSTABLE, Amaliah and Arielo. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Clandestine is an electronic artist based in Argentina, tracked on soundcheck, w
 
 INEXXSTABLE, Amaliah, Arielo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clandestine/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clandestine/)*

@@ -1,6 +1,6 @@
 # Mellin
 
-Mellin is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
+Mellin is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
 
 Mellin is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside HEATNAVI, Maskka and Bristol Luke. Next up: Nice N Sleazy, Glasgow on Tue 25 Aug.
 
@@ -19,4 +19,4 @@ Mellin is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 HEATNAVI, Maskka, Bristol Luke
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mellin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellin/)*

@@ -1,6 +1,6 @@
 # DJ Woo Girl
 
-DJ Woo Girl is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Onkel Dannys Plads, Copenhagen on Sat, 8 Aug 2026.
+DJ Woo Girl is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Onkel Dannys Plads, Copenhagen on Sat, 8 Aug 2026.
 
 DJ Woo Girl is an electronic artist based in Denmark, tracked on soundcheck, with 19 sets logged across Copenhagen. Often billed alongside Baltza, DJ Nah Care and Frederik Tollund. Next up: Onkel Dannys Plads, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Woo Girl is an electronic artist based in Denmark, tracked on soundcheck, wit
 
 Baltza, DJ Nah Care, Frederik Tollund
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*

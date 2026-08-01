@@ -1,14 +1,15 @@
 # Yukari BB
 
-Yukari BB is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Socore Factory, Osaka on Fri, 7 Aug 2026.
+Yukari BB is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Socore Factory, Osaka on Fri, 7 Aug 2026.
 
-Yukari BB is a house and jazz artist based in Japan, tracked on soundcheck, with 33 sets logged across Amsterdam, Kyoto, London and Osaka and 1 more. Often billed alongside Masaki Tamura, Midori Aoyama and Shuya Okino. Next up: Socore Factory, Osaka on Fri 7 Aug.
+Yukari BB is a house and jazz artist based in Japan, tracked on soundcheck, with 34 sets logged across Amsterdam, Kyoto, London and Osaka and 1 more. Often billed alongside Masaki Tamura, Midori Aoyama and Shuya Okino. Next up: Socore Factory, Osaka on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Socore Factory | Osaka |
+| Sat, 26 Sept 2026 | Club Metro | Kyoto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yukari BB is a house and jazz artist based in Japan, tracked on soundcheck, with
 
 Masaki Tamura, Midori Aoyama, Shuya Okino
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukaribb/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukaribb/)*

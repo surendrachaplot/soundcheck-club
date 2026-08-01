@@ -1,6 +1,6 @@
 # Jedi
 
-Jedi is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Objktt Record Bar, Seoul on Sat, 1 Aug 2026.
+Jedi is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Objktt Record Bar, Seoul on Sat, 1 Aug 2026.
 
 Jedi is a drum & bass and hip-hop artist tracked on soundcheck, with 9 sets logged across Berlin, London, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Baxa, Billy Daniel Bunter and Bryan Gee. Next up: Objktt Record Bar, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jedi is a drum & bass and hip-hop artist tracked on soundcheck, with 9 sets logg
 
 Baxa, Billy Daniel Bunter, Bryan Gee
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jedi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedi/)*

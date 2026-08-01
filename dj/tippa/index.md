@@ -1,6 +1,6 @@
 # Tippa
 
-Tippa is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Tippa is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 Tippa is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London. Often billed alongside Supa D, Mark Radford and Shenin Amara. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Tippa is a house and deep house artist based in United Kingdom, tracked on sound
 
 Supa D, Mark Radford, Shenin Amara
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*

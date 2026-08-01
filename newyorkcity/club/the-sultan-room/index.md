@@ -1,14 +1,13 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Afrobeat Nights NYC" on Fri, 31 Jul 2026.
+The Sultan Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Minimal Detroit presents: Liquid Todd, K2, Destro187, madeera" on Sat, 1 Aug 2026.
 
-The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Aleska, Bandolover, Destro187 and elle xxo and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Aleska, Bandolover, Destro187 and elle xxo and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Afrobeat Nights NYC |  |
 | Sat, 1 Aug 2026 | Minimal Detroit presents: Liquid Todd, K2, Destro187, madeera | Destro187, Liquid Todd, madeera |
 | Sat, 1 Aug 2026 | Gorgeous Gorgeous: Renaissance |  |
 | Tue, 11 Aug 2026 | The Pink Rambo: DJ Party with Live Dancers | Hard Boiled Babe, Nina Moss, Veeps |
@@ -18,9 +17,10 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcomin
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Sun, 23 Aug 2026 | Putiverso Rooftop | Bandolover, grunge mum |
+| Fri, 28 Aug 2026 | Afro Carnival Riddim N Bass |  |
 
 ## Address
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

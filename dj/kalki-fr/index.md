@@ -1,6 +1,6 @@
 # Kalki
 
-Kalki is a Hardcore and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
+Kalki is a Hardcore and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
 
 Kalki is a hardcore and psytrance artist based in France, tracked on soundcheck, with 10 sets logged across Antwerp, Ghent and Paris. Often billed alongside 23Shayatin, JAEL and Albiovix. Next up: Chinastraat, Ghent on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kalki is a hardcore and psytrance artist based in France, tracked on soundcheck,
 
 23Shayatin, JAEL, Albiovix
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalki-fr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalki-fr/)*

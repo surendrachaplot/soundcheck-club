@@ -1,6 +1,6 @@
 # Fox (US)
 
-Fox (US) is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 30 Aug 2026.
+Fox (US) is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 30 Aug 2026.
 
 Fox (US) is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 21 sets logged across Bristol, Leeds, London and Manchester and 3 more. Often billed alongside Lenzman, Strategy and Rich Reason. Next up: Aoyama Hachi, Tokyo on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Fox (US) is a house and drum & bass artist based in United States of America, tr
 
 Lenzman, Strategy, Rich Reason
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*

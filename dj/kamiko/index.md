@@ -1,6 +1,6 @@
 # KAMIKO
 
-KAMIKO is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 7 Aug 2026.
+KAMIKO is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 7 Aug 2026.
 
 KAMIKO is a drum & bass and dubstep artist based in Thailand, tracked on soundcheck, with 8 sets logged across Bangkok. Often billed alongside LXYN, JOJOH and NENEIA. Next up: TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ KAMIKO is a drum & bass and dubstep artist based in Thailand, tracked on soundch
 
 LXYN, JOJOH, NENEIA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamiko/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamiko/)*

@@ -1,6 +1,6 @@
 # Like This
 
-Like This is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Like This is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 Like This is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Acid Steve, Hughesee and Jerome Hill. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Like This is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 Acid Steve, Hughesee, Jerome Hill
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/likethis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/likethis/)*

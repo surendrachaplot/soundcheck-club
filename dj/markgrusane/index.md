@@ -1,13 +1,14 @@
 # Mark Grusane
 
-Mark Grusane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Arbella, Chicago on Fri, 14 Aug 2026.
+Mark Grusane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
 
-Mark Grusane is a house and disco artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Austin and Berlin and 15 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: Arbella, Chicago on Fri 14 Aug.
+Mark Grusane is a house and disco artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Austin and Berlin and 15 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TBA - 6910 Shirley Avenue Austin, TX | Austin |
 | Fri, 14 Aug 2026 | Arbella | Chicago |
 | Fri, 4 Sept 2026 | Djoon | Paris |
 
@@ -26,4 +27,4 @@ Mark Grusane is a house and disco artist based in United States of America, trac
 
 Brett Johnson, Scott Zacharias, CTRLZORA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*

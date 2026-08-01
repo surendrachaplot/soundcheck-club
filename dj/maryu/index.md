@@ -1,6 +1,6 @@
 # Maryu
 
-Maryu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cadavra, Madrid on Sat, 19 Sept 2026.
+Maryu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Cadavra, Madrid on Sat, 19 Sept 2026.
 
 Maryu is a trance and techno artist based in France, tracked on soundcheck, with 27 sets logged across Barcelona, Madrid, Marseille and Mexicocity and 1 more. Often billed alongside Jolly (FR), Lastvuska and HORS-SOL. Next up: Cadavra, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Maryu is a trance and techno artist based in France, tracked on soundcheck, with
 
 Jolly (FR), Lastvuska, HORS-SOL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryu/)*

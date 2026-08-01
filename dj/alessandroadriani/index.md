@@ -1,6 +1,6 @@
 # Alessandro Adriani
 
-Alessandro Adriani is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The White Hotel, Manchester on Thu, 10 Sept 2026.
+Alessandro Adriani is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The White Hotel, Manchester on Thu, 10 Sept 2026.
 
 Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: The White Hotel, Manchester on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 92 set
 
 Tasha Safari, Franz Scala, The Hacker
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*

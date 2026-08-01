@@ -1,6 +1,6 @@
 # Adam Husa
 
-Adam Husa is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at StereoBar, Montreal on Sun, 23 Aug 2026.
+Adam Husa is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at StereoBar, Montreal on Sun, 23 Aug 2026.
 
 Adam Husa is a deep house and house artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal, Tbilisi and Toronto. Often billed alongside Lowfish, Mika Oki and Skesa (CA). Next up: StereoBar, Montreal on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ Adam Husa is a deep house and house artist based in Canada, tracked on soundchec
 
 Lowfish, Mika Oki, Skesa (CA)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamhusa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamhusa/)*

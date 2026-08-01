@@ -1,6 +1,6 @@
 # Trucha
 
-Trucha is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Leith Arches, Edinburgh on Fri, 14 Aug 2026.
+Trucha is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Leith Arches, Edinburgh on Fri, 14 Aug 2026.
 
 Trucha is a house and disco artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Austin and Edinburgh. Often billed alongside A Pavlo, Ben Kok (2) and Hobbes. Next up: Leith Arches, Edinburgh on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Trucha is a house and disco artist based in United Kingdom, tracked on soundchec
 
 A Pavlo, Ben Kok (2), Hobbes
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*

@@ -1,6 +1,6 @@
 # Magic Stick
 
-Magic Stick is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Who The F%$K Is Waldo?! - Fred V" on Fri, 11 Sept 2026.
+Magic Stick is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Who The F%$K Is Waldo?! - Fred V" on Fri, 11 Sept 2026.
 
 Magic Stick is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Fred V. Browse upcoming dates, start times and who's playing. 4120-4140 Woodward Avenue; Detroit, MI 48201; United States.
 
@@ -14,4 +14,4 @@ Magic Stick is a music venue in Detroit listed on soundcheck. 1 upcoming night, 
 
 4120-4140 Woodward Avenue; Detroit, MI 48201; United States, Detroit
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*

@@ -1,6 +1,6 @@
 # Mona Sage
 
-Mona Sage is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
+Mona Sage is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
 
 Mona Sage is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen and London. Often billed alongside Manni Dee, S Ruston and James Newmarch. Next up: Distillery N17, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mona Sage is a techno and trance artist tracked on soundcheck, with 16 sets logg
 
 Manni Dee, S Ruston, James Newmarch
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*

@@ -1,6 +1,6 @@
 # Dico Nemus
 
-Dico Nemus is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 1 Aug 2026.
+Dico Nemus is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 1 Aug 2026.
 
 Dico Nemus is a techno artist based in Denmark, tracked on soundcheck, with 17 sets logged across Copenhagen. Often billed alongside Holtz (2), SORT SIND and David Cortese. Next up: Den Anden Side, Copenhagen on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Dico Nemus is a techno artist based in Denmark, tracked on soundcheck, with 17 s
 
 Holtz (2), SORT SIND, David Cortese
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diconemus/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diconemus/)*

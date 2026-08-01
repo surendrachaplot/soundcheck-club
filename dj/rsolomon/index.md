@@ -1,6 +1,6 @@
 # R. Solomon
 
-R. Solomon is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lincoln Factory, Detroit on Sat, 1 Aug 2026.
+R. Solomon is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lincoln Factory, Detroit on Sat, 1 Aug 2026.
 
 R. Solomon is an electronic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Detroit. Often billed alongside K.atou, Lo Dazz and Madam X. Next up: Lincoln Factory, Detroit on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ R. Solomon is an electronic artist based in United States of America, tracked on
 
 K.atou, Lo Dazz, Madam X
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rsolomon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsolomon/)*

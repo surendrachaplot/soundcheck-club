@@ -1,6 +1,6 @@
 # Dámaris
 
-Dámaris is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at City Hall, Barcelona on Mon, 3 Aug 2026.
+Dámaris is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at City Hall, Barcelona on Mon, 3 Aug 2026.
 
 Dámaris is a techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside EstroFlex, Mazón and Sergio Aaron. Next up: City Hall, Barcelona on Mon 3 Aug.
 
@@ -20,4 +20,4 @@ Dámaris is a techno artist based in Spain, tracked on soundcheck, with 4 sets l
 
 EstroFlex, Mazón, Sergio Aaron
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damaris/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damaris/)*

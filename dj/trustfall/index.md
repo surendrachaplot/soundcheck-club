@@ -1,8 +1,8 @@
 # Trustfall
 
-Trustfall is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Jama, Toronto on Wed, 5 Aug 2026.
+Trustfall is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Jama, Toronto on Wed, 5 Aug 2026.
 
-Trustfall is a techno and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Melbourne, Portland and Toronto. Often billed alongside Peter Sheppard, Andy Warren and DJ Trustfall. Next up: The Jama, Toronto on Wed 5 Aug.
+Trustfall is a techno and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Melbourne, Portland and Toronto. Often billed alongside Peter Sheppard, Andy Warren and DJ Trustfall. Next up: The Jama, Toronto on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Trustfall is a techno and house artist based in United States of America, tracke
 | Wed, 5 Aug 2026 | The Jama | Toronto |
 | Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
 | Thu, 13 Aug 2026 | Standard Time | Toronto |
+| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Trustfall is a techno and house artist based in United States of America, tracke
 
 Peter Sheppard, Andy Warren, DJ Trustfall
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*

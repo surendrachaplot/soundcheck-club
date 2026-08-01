@@ -1,6 +1,6 @@
 # Rasmus Damkier
 
-Rasmus Damkier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+Rasmus Damkier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
 Rasmus Damkier is a house and techno artist based in Sweden, tracked on soundcheck, with 30 sets logged across Berlin and Stockholm. Often billed alongside Otto Ferdinand, Dodi and Marten Attling. Next up: TBA, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rasmus Damkier is a house and techno artist based in Sweden, tracked on soundche
 
 Otto Ferdinand, Dodi, Marten Attling
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rasmusdamkier/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasmusdamkier/)*

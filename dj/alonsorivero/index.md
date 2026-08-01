@@ -1,6 +1,6 @@
 # Alonso Rivero
 
-Alonso Rivero is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fünk, Mexico City on Sat, 29 Aug 2026.
+Alonso Rivero is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fünk, Mexico City on Sat, 29 Aug 2026.
 
 Alonso Rivero is a house and deep house artist based in Mexico, tracked on soundcheck, with 14 sets logged across Madrid, Mexicocity and Tokyo. Often billed alongside FEROTO, JAWAR (3) and Alejandro Veneno. Next up: Fünk, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alonso Rivero is a house and deep house artist based in Mexico, tracked on sound
 
 FEROTO, JAWAR (3), Alejandro Veneno
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsorivero/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsorivero/)*

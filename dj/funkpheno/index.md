@@ -1,6 +1,6 @@
 # Funkpheno
 
-Funkpheno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Cafe, Bangkok on Sat, 1 Aug 2026.
+Funkpheno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Culture Cafe, Bangkok on Sat, 1 Aug 2026.
 
 Funkpheno is a techno and house artist based in Thailand, tracked on soundcheck, with 51 sets logged across Bangkok. Often billed alongside Krit Su, plazdj and Tetez. Next up: Culture Cafe, Bangkok on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Funkpheno is a techno and house artist based in Thailand, tracked on soundcheck,
 
 Krit Su, plazdj, Tetez
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funkpheno/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funkpheno/)*

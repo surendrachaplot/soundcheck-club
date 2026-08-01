@@ -1,6 +1,6 @@
 # Batukizer
 
-Batukizer is a Funk / Soul and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at arkaoda Berlin, Berlin on Sat, 1 Aug 2026.
+Batukizer is a Funk / Soul and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 1 Aug 2026.
 
 Batukizer is a funk / soul and balearic artist based in Brazil, tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen, London and Saopaulo and 1 more. Often billed alongside Fergus Murphy, ZAG ERLAT and Bokéh. Next up: arkaoda Berlin, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Batukizer is a funk / soul and balearic artist based in Brazil, tracked on sound
 
 Fergus Murphy, ZAG ERLAT, Bokéh
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batukizer/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batukizer/)*

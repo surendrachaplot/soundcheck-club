@@ -1,6 +1,6 @@
 # Sausha
 
-Sausha is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tuff Club, Singapore on Fri, 7 Aug 2026.
+Sausha is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tuff Club, Singapore on Fri, 7 Aug 2026.
 
 Sausha is a techno and club artist based in Colombia, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside FASHION (US), Via App and LSDXOXO. Next up: Tuff Club, Singapore on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sausha is a techno and club artist based in Colombia, tracked on soundcheck, wit
 
 FASHION (US), Via App, LSDXOXO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sausha/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sausha/)*

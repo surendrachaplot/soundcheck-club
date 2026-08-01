@@ -1,6 +1,6 @@
 # Riviani
 
-Riviani is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Riviani is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Riviani is a house and electro artist tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Malaga. Often billed alongside Jorgge Decar, Andrés Sancho and Excenital. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Riviani is a house and electro artist tracked on soundcheck, with 15 sets logged
 
 Jorgge Decar, Andrés Sancho, Excenital
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riviani/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riviani/)*

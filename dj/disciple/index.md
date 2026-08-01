@@ -1,6 +1,6 @@
 # Disciple
 
-Disciple is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Commodore Barry Park, New York City on Sun, 16 Aug 2026.
+Disciple is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Commodore Barry Park, New York City on Sun, 16 Aug 2026.
 
 Disciple is a house and dubstep artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit, Leeds, Newyorkcity and Sydney. Often billed alongside 18+, Chris I'Anson and Eli Escobar. Next up: Commodore Barry Park, Newyorkcity on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Disciple is a house and dubstep artist based in United States of America, tracke
 
 18+, Chris I'Anson, Eli Escobar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disciple/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disciple/)*

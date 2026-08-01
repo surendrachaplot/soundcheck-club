@@ -1,6 +1,6 @@
 # VIDO (DE)
 
-VIDO (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
+VIDO (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
 VIDO (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Jacøb, Medus and Paul Munz. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ VIDO (DE) is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Jacøb, Medus, Paul Munz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vido/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vido/)*

@@ -1,6 +1,6 @@
 # Carla Martinez
 
-Carla Martinez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Old Royal Naval College, London on Sat, 1 Aug 2026.
+Carla Martinez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Old Royal Naval College, London on Sat, 1 Aug 2026.
 
 Carla Martinez is a house and techno artist tracked on soundcheck, with 9 sets logged across London, Melbourne and Sydney. Often billed alongside Dom Dolla, James Pepper and Jordan Brando. Next up: Old Royal Naval College, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Carla Martinez is a house and techno artist tracked on soundcheck, with 9 sets l
 
 Dom Dolla, James Pepper, Jordan Brando
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*

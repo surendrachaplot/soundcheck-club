@@ -1,6 +1,6 @@
 # Moplen
 
-Moplen is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paloma, Berlin on Sat, 5 Sept 2026.
+Moplen is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paloma, Berlin on Sat, 5 Sept 2026.
 
 Moplen is a disco and house artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Giles Smith, Pal Joey and LEV (UK). Next up: Paloma, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Moplen is a disco and house artist based in Italy, tracked on soundcheck, with 1
 
 Giles Smith, Pal Joey, LEV (UK)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moplen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moplen/)*

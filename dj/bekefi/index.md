@@ -1,6 +1,6 @@
 # Bekefi
 
-Bekefi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
+Bekefi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
 
 Bekefi is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Budapest, London and Manchester. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: The White Hotel, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bekefi is a house and techno artist tracked on soundcheck, with 38 sets logged a
 
 S_STEELE, HOLY C, Hayley Wallace
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*

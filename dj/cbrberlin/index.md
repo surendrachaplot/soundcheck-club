@@ -1,6 +1,6 @@
 # CBR (Berlin)
 
-CBR (Berlin) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
+CBR (Berlin) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Coco Boule, Berlin on Sat, 22 Aug 2026.
 
 CBR (Berlin) is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Viénce, Laurent Lorenzo and Lilli Winter. Next up: Coco Boule, Berlin on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ CBR (Berlin) is a house and techno artist tracked on soundcheck, with 8 sets log
 
 Viénce, Laurent Lorenzo, Lilli Winter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cbrberlin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cbrberlin/)*

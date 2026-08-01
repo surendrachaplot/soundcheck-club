@@ -1,6 +1,6 @@
 # Sndyvibes
 
-Sndyvibes is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Battersea Arts Centre, London on Sat, 1 Aug 2026.
+Sndyvibes is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Battersea Arts Centre, London on Sat, 1 Aug 2026.
 
 Sndyvibes is a hip-hop and r&b artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Signorina, SHINZEE and leverson. Next up: Battersea Arts Centre, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sndyvibes is a hip-hop and r&b artist tracked on soundcheck, with 25 sets logged
 
 Signorina, SHINZEE, leverson
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sndyvibes/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sndyvibes/)*

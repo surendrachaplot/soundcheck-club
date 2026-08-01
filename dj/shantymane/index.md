@@ -1,6 +1,6 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Apollo Studio, New York City on Sat, 15 Aug 2026.
+shanty mane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Apollo Studio, New York City on Sat, 15 Aug 2026.
 
 shanty mane is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside EREZ.JPG, Willy Gorgon and Gill (US). Next up: Apollo Studio, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ shanty mane is a house and techno artist based in United States of America, trac
 
 EREZ.JPG, Willy Gorgon, Gill (US)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

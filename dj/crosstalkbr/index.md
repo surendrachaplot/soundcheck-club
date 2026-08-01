@@ -1,6 +1,6 @@
 # Crosstalk (BR)
 
-Crosstalk (BR) is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bonobo, Tokyo on Sat, 1 Aug 2026.
+Crosstalk (BR) is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bonobo, Tokyo on Sat, 1 Aug 2026.
 
 Crosstalk (BR) is a baile funk and garage artist based in Brazil, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Chediak, ceza and ANTCONSTANTINO. Next up: Bonobo, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Crosstalk (BR) is a baile funk and garage artist based in Brazil, tracked on sou
 
 Chediak, ceza, ANTCONSTANTINO
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crosstalkbr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crosstalkbr/)*

@@ -1,6 +1,6 @@
 # Chiara Kidd
 
-Chiara Kidd is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Chiara Kidd is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
 Chiara Kidd is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Ibiza and London. Often billed alongside Alexis Raphael, Simon Morell and BASHKKA. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
@@ -24,4 +24,4 @@ Chiara Kidd is a deep house and house artist based in United Kingdom, tracked on
 
 Alexis Raphael, Simon Morell, BASHKKA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakidd/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakidd/)*

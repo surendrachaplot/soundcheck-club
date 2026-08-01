@@ -1,6 +1,6 @@
 # Erika de Casier
 
-Erika de Casier is a Electronica and R&B artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+Erika de Casier is a Electronica and R&B artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
 Erika de Casier is an electronica and r&b artist based in Denmark, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Jayda G, Nick León and Manuka Honey. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Erika de Casier is an electronica and r&b artist based in Denmark, tracked on so
 
 Jayda G, Nick León, Manuka Honey
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikadecasier/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikadecasier/)*

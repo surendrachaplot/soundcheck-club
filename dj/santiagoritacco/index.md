@@ -1,6 +1,6 @@
 # Santiago Ritacco
 
-Santiago Ritacco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+Santiago Ritacco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 Santiago Ritacco is a house and tech house artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Adria (ES), Pau Rosés and 4Pleasure. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Santiago Ritacco is a house and tech house artist based in Spain, tracked on sou
 
 Adria (ES), Pau Rosés, 4Pleasure
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagoritacco/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagoritacco/)*

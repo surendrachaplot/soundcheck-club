@@ -1,14 +1,13 @@
 # Ciel
 
-Ciel is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
+Ciel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
-Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 47 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: Cafeteria, Toronto on Fri 31 Jul.
+Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 47 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Cafeteria | Toronto |
 | Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
 | Sat, 15 Aug 2026 | Smoke & Mirrors | Chicago |
 | Sat, 22 Aug 2026 | TBA | Vancouver |
@@ -19,17 +18,17 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 
 ## Recently played
 
+- Cafeteria, Toronto — Fri, 31 Jul 2026
 - public records, New York City — Sat, 25 Jul 2026
 - Juice, Toronto — Fri, 24 Jul 2026
-- Sonnenraum, Berlin — Sun, 5 Jul 2026
+- TBA, Berlin — Sun, 5 Jul 2026
 - BRET, Amsterdam — Sat, 4 Jul 2026
 - TBA - Announced to Ticketholders DOS, Seattle — Sat, 20 Jun 2026
 - TBA, Toronto — Fri, 19 Jun 2026
 - Fitzroy, Berlin — Sat, 6 Jun 2026
-- TBA, Los Angeles — Sat, 30 May 2026
 
 ## Shares bills with
 
 Milch (1), Venus in Foil, CCL
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

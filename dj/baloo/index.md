@@ -1,6 +1,6 @@
 # Baloo
 
-Baloo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Oven Club, Valencia on Sat, 8 Aug 2026.
+Baloo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Oven Club, Valencia on Sat, 8 Aug 2026.
 
 Baloo is a disco and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Frankfurt, Ibiza and London and 2 more. Often billed alongside Bolts, Danuka and Yadava. Next up: Oven Club, Valencia on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Baloo is a disco and house artist based in United Kingdom, tracked on soundcheck
 
 Bolts, Danuka, Yadava
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baloo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baloo/)*

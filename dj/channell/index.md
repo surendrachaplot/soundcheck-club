@@ -1,6 +1,6 @@
 # Channell
 
-Channell is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Planet Wax, London on Sat, 1 Aug 2026.
+Channell is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Planet Wax, London on Sat, 1 Aug 2026.
 
 Channell is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Manchester. Often billed alongside Zar., MC Fox and EVABEE. Next up: Planet Wax, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Channell is a drum & bass and dubstep artist based in United Kingdom, tracked on
 
 Zar., MC Fox, EVABEE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channell/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channell/)*

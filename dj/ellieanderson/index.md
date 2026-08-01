@@ -1,6 +1,6 @@
 # Ellie Anderson
 
-Ellie Anderson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Strange Brew, Bristol on Sat, 15 Aug 2026.
+Ellie Anderson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Strange Brew, Bristol on Sat, 15 Aug 2026.
 
 Ellie Anderson is a house and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Bristol, London and Manchester. Often billed alongside Flash Mitra, Addsound and Dave Harvey. Next up: Strange Brew, Bristol on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ellie Anderson is a house and disco artist based in United Kingdom, tracked on s
 
 Flash Mitra, Addsound, Dave Harvey
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*

@@ -1,6 +1,6 @@
 # Brunello presents Mellow Circus at Knockdown Center
 
-Brunello presents Mellow Circus at Knockdown Center on Sun 20 Sept, Newyorkcity. 2 acts on the bill: Brunello and Emanuel Satie. Tech House. Preview the line-up and save it on soundcheck.
+Brunello presents Mellow Circus at Knockdown Center on Sun 20 Sept, Newyorkcity. 3 acts on the bill: Bee Chapin, Brunello and Emanuel Satie. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Brunello presents Mellow Circus at Knockdown Center on Sun 20 Sept, Newyorkcity.
 
 ## Line-up
 
+- Bee Chapin
 - Brunello
 - Emanuel Satie
 

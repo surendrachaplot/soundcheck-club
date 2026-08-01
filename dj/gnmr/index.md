@@ -1,6 +1,6 @@
 # GNMR
 
-GNMR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
+GNMR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
 
 GNMR is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Club der Visionaere, Berlin on Wed 12 Aug.
 
@@ -27,4 +27,4 @@ GNMR is a techno and house artist tracked on soundcheck, with 136 sets logged ac
 
 Marcolino, IRIDE, Giammarco Orsini
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*

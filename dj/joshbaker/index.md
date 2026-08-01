@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
+Josh Baker is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
 
 Josh Baker is a house and tech house artist tracked on soundcheck, with 222 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 222 sets
 
 Max Dean, Rossi, Prospa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

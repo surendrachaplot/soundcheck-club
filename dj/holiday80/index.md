@@ -1,6 +1,6 @@
 # Holiday 80
 
-Holiday 80 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at MONKEY LOVE, Warsaw on Sat, 1 Aug 2026.
+Holiday 80 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at MONKEY LOVE, Warsaw on Sat, 1 Aug 2026.
 
 Holiday 80 is a techno and house artist based in Poland, tracked on soundcheck, with 8 sets logged across Krakow and Warsaw. Often billed alongside Alinka, Boston 168 and DJ BORING. Next up: MONKEY LOVE, Warsaw on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Holiday 80 is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Alinka, Boston 168, DJ BORING
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holiday80/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holiday80/)*

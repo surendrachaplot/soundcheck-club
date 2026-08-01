@@ -1,14 +1,13 @@
 # FFAN
 
-FFAN is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Atdge Seoul, Seoul on Fri, 31 Jul 2026.
+FFAN is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Nyapi, Seoul on Sat, 1 Aug 2026.
 
-FFAN is a house and techno artist based in South Korea, tracked on soundcheck, with 207 sets logged across Amsterdam, Bali, Berlin and Hongkong and 8 more. Often billed alongside Juncheol, Kyper and YAMARCHY. Next up: Atdge Seoul, Seoul on Fri 31 Jul.
+FFAN is a house and techno artist based in South Korea, tracked on soundcheck, with 213 sets logged across Amsterdam, Bali, Berlin and Hongkong and 8 more. Often billed alongside Juncheol, Kyper and YAMARCHY. Next up: Nyapi, Seoul on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Atdge Seoul | Seoul |
 | Sat, 1 Aug 2026 | Nyapi | Seoul |
 | Thu, 6 Aug 2026 | Nyapi | Seoul |
 | Fri, 7 Aug 2026 | Nyapi | Seoul |
@@ -18,17 +17,17 @@ FFAN is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 ## Recently played
 
+- Atdge Seoul, Seoul — Fri, 31 Jul 2026
+- Nyapi, Seoul — Sat, 25 Jul 2026
+- Nyapi, Seoul — Thu, 23 Jul 2026
 - Nyapi, Seoul — Thu, 23 Jul 2026
 - Nyapi, Seoul — Fri, 17 Jul 2026
-- Department.en, Seoul — Sat, 27 Jun 2026
-- Kockiri, Seoul — Sat, 27 Jun 2026
-- Noon + Cafe, Osaka — Sat, 13 Jun 2026
-- Mitsuki, Tokyo — Fri, 12 Jun 2026
-- Mitsuki, Tokyo — Thu, 11 Jun 2026
-- Nyapi, Seoul — Fri, 5 Jun 2026
+- Nyapi, Seoul — Fri, 17 Jul 2026
+- Bar Piment, Seoul — Fri, 10 Jul 2026
+- Nyapi, Seoul — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Juncheol, Kyper, YAMARCHY
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ffan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ffan/)*

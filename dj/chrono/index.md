@@ -1,6 +1,6 @@
 # Chrono
 
-Chrono is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 8 Aug 2026.
+Chrono is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 8 Aug 2026.
 
 Chrono is a gabber and hardcore artist based in Serbia, tracked on soundcheck, with 4 sets logged across Amsterdam, Frankfurt and Sandiego. Often billed alongside Tripped, Akira and Angerfist. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Chrono is a gabber and hardcore artist based in Serbia, tracked on soundcheck, w
 
 Tripped, Akira, Angerfist
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrono/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrono/)*

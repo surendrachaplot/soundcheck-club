@@ -1,6 +1,6 @@
 # DJ G-PUNKT
 
-DJ G-PUNKT is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+DJ G-PUNKT is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 DJ G-PUNKT is a techno and downtempo artist based in Germany, tracked on soundcheck, with 2 sets logged across Nurnberg. Often billed alongside Frida Darko, Acud and Adana Twins. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -18,4 +18,4 @@ DJ G-PUNKT is a techno and downtempo artist based in Germany, tracked on soundch
 
 Frida Darko, Acud, Adana Twins
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg-punkt/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djg-punkt/)*

@@ -1,6 +1,6 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ouseburn Garden, Newcastle on Sun, 2 Aug 2026.
+Tre Reynolds is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ouseburn Garden, Newcastle on Sun, 2 Aug 2026.
 
 Tre Reynolds is a tech house and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: Ouseburn Garden, Newcastle on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Tre Reynolds is a tech house and house artist tracked on soundcheck, with 46 set
 
 AMMARA, Andhim, Armand Van Helden
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*

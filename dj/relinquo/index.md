@@ -1,6 +1,6 @@
 # Relinquo
 
-Relinquo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Fri, 21 Aug 2026.
+Relinquo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Culture Box, Copenhagen on Fri, 21 Aug 2026.
 
 Relinquo is a techno and acid artist based in Austria, tracked on soundcheck, with 55 sets logged across Budapest, Copenhagen, Munich and Tokyo and 2 more. Often billed alongside DANBERG, Patrik Pagan and Alena Noctis. Next up: Culture Box, Copenhagen on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Relinquo is a techno and acid artist based in Austria, tracked on soundcheck, wi
 
 DANBERG, Patrik Pagan, Alena Noctis
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/relinquo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relinquo/)*

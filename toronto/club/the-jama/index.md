@@ -1,14 +1,13 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "PRE 002 - Trailcam + R-ODERICK + Blkvirgo + DJ CHRIS" on Fri, 31 Jul 2026.
+The Jama is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "After Hours w/ Shen, maxedvisa, Critter & Theysiii" on Sat, 1 Aug 2026.
 
-The Jama is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Blkvirgo, Conna Haraway, Critter and DJ Chris (CA) and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
+The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Conna Haraway, Critter, Dj Hermano and Hemlock (CA) and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | PRE 002 - Trailcam + R-ODERICK + Blkvirgo + DJ CHRIS | Blkvirgo, DJ Chris (CA), R-ODERICK, Trailcam |
 | Sat, 1 Aug 2026 | After Hours w/ Shen, maxedvisa, Critter & Theysiii | Critter, Shen (2), Theysiii, maxedvisa |
 | Wed, 5 Aug 2026 | evidence #3 feat. Soga (CDMX), Xodkaar, Dermabrasion, KERUB, David Hodgson, Trustfall at JAMA | KERUB, Trustfall |
 | Fri, 7 Aug 2026 | STRIPPER NEWS:  |  |
@@ -19,4 +18,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 6 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

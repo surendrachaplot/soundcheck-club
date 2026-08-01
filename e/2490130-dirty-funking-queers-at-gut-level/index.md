@@ -1,6 +1,6 @@
 # Dirty Funking Queers at Gut Level
 
-Dirty Funking Queers at Gut Level on Fri 28 Aug, Sheffield. 3 acts on the bill: HausKlown, Paniolo and Sportsdyke. Tech House and Acid. Preview the line-up and save it on soundcheck.
+Dirty Funking Queers at Gut Level on Fri 28 Aug, Sheffield. 3 acts on the bill: HausKlown, Paniolo and Sportsdyke. Acid and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

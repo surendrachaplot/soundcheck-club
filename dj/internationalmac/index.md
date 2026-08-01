@@ -1,6 +1,6 @@
 # International Mac
 
-International Mac is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stage and Radio, Manchester on Sat, 1 Aug 2026.
+International Mac is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Stage and Radio, Manchester on Sat, 1 Aug 2026.
 
 International Mac is a house and electro artist based in France, tracked on soundcheck, with 48 sets logged across Bangkok, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Tau Car, Admo and Sibil (1). Next up: Stage and Radio, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ International Mac is a house and electro artist based in France, tracked on soun
 
 Tau Car, Admo, Sibil (1)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalmac/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalmac/)*

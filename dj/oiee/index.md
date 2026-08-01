@@ -1,6 +1,6 @@
 # OIEE
 
-OIEE is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
+OIEE is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
 
 OIEE is a house and pop artist based in Hungary, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brighton and Budapest and 2 more. Often billed alongside Saya Noé, MIN t and Maron. Next up: Vila Štvanice, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ OIEE is a house and pop artist based in Hungary, tracked on soundcheck, with 24 
 
 Saya Noé, MIN t, Maron
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oiee/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oiee/)*

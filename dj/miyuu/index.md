@@ -1,6 +1,6 @@
 # MIYUU
 
-MIYUU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at rake?raka?, Osaka on Wed, 5 Aug 2026.
+MIYUU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at rake?raka?, Osaka on Wed, 5 Aug 2026.
 
 MIYUU is a techno and house artist tracked on soundcheck, with 36 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside HSC (1), Cine and Ryogo. Next up: rake?raka?, Osaka on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ MIYUU is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 HSC (1), Cine, Ryogo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuu/)*

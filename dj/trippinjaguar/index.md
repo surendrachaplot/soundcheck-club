@@ -1,6 +1,6 @@
 # Trippin Jaguar
 
-Trippin Jaguar is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Trippin Jaguar is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Trippin Jaguar is a deep house and downtempo artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Boston and Stockholm and 1 more. Often billed alongside Anthoni Logos, Genii and Noraj Cue. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Trippin Jaguar is a deep house and downtempo artist based in Netherlands, tracke
 
 Anthoni Logos, Genii, Noraj Cue
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trippinjaguar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippinjaguar/)*

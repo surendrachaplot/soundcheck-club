@@ -1,6 +1,6 @@
 # Adri
 
-Adri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fvtvr, Paris on Sat, 1 Aug 2026.
+Adri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fvtvr, Paris on Sat, 1 Aug 2026.
 
 Adri is a house and techno artist based in France, tracked on soundcheck, with 25 sets logged across Newyorkcity and Paris. Often billed alongside Afshin, Kapela and Hugo LX. Next up: Fvtvr, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Adri is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Afshin, Kapela, Hugo LX
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adri/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adri/)*

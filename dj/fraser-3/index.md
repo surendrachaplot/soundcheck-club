@@ -1,6 +1,6 @@
 # FRASER (3)
 
-FRASER (3) is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Glove That Fits, London on Sat, 19 Sept 2026.
+FRASER (3) is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Glove That Fits, London on Sat, 19 Sept 2026.
 
 FRASER (3) is a balearic and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside AJ Manning, Evie and Baby Rollén. Next up: The Glove That Fits, London on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ FRASER (3) is a balearic and house artist based in United Kingdom, tracked on so
 
 AJ Manning, Evie, Baby Rollén
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fraser-3/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fraser-3/)*

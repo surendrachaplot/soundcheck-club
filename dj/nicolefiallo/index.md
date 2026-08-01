@@ -1,6 +1,6 @@
 # Nicole Fiallo
 
-Nicole Fiallo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Superior Ingredients, New York City on Sat, 1 Aug 2026.
+Nicole Fiallo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Superior Ingredients, New York City on Sat, 1 Aug 2026.
 
 Nicole Fiallo is a house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Ibiza, Madrid, Miami and Montreal and 3 more. Often billed alongside Lazaro Casanova, Oscar G and Doc Brown. Next up: Superior Ingredients, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nicole Fiallo is a house and tech house artist based in United States of America
 
 Lazaro Casanova, Oscar G, Doc Brown
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolefiallo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolefiallo/)*

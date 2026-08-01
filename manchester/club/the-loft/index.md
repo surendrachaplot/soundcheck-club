@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Ivy Collective - Show 1 (Manchester)" on Sat, 1 Aug 2026.
+The Loft is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Ivy Collective - Show 1 (Manchester)" on Sat, 1 Aug 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including KT, ADMNTi, Boss Priester and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -9,7 +9,7 @@ The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Ivy Collective - Show 1 (Manchester) |  |
-| Fri, 7 Aug 2026 | The Loft: Nicola Cruz, Matthias & Larushkin | Larushkin, Nicola Cruz |
+| Fri, 7 Aug 2026 | The Loft: Nicola Cruz, Matthias & Larushkin | Larushkin, Matthias (1), Nicola Cruz |
 | Fri, 21 Aug 2026 | Vibrant: Burnski, Admnti b2b Just Jam ++ | ADMNTi, Burnski, Just Jam |
 | Sun, 30 Aug 2026 | Animal Crossing & Dr Banana presents: The Afters | Dr Banana |
 | Fri, 4 Sept 2026 | The Loft: Garrett David, Daisy Moon & KT | Daisy Moon, Garrett David, KT |
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming nights
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

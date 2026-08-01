@@ -1,6 +1,6 @@
 # px601
 
-px601 is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+px601 is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 px601 is a garage and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Portland. Often billed alongside DJ CEA, Aaron Davis and Andy Warren. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ px601 is a garage and house artist based in United States of America, tracked on
 
 DJ CEA, Aaron Davis, Andy Warren
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/px601/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/px601/)*

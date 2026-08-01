@@ -1,6 +1,6 @@
 # Dillon Francis
 
-Dillon Francis is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Concourse Project, Austin on Fri, 7 Aug 2026.
+Dillon Francis is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Concourse Project, Austin on Fri, 7 Aug 2026.
 
 Dillon Francis is a house and bass artist tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside Flosstradamus, Hamdi and Alignment. Next up: The Concourse Project, Austin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Dillon Francis is a house and bass artist tracked on soundcheck, with 37 sets lo
 
 Flosstradamus, Hamdi, Alignment
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*

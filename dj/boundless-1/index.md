@@ -1,6 +1,6 @@
 # Boundless (1)
 
-Boundless (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Boundless (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Boundless (1) is a techno and house artist based in Portugal, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen, Lisbon and London and 4 more. Often billed alongside Jorge Martins, Ben Jammin and Bryan Ro. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Boundless (1) is a techno and house artist based in Portugal, tracked on soundch
 
 Jorge Martins, Ben Jammin, Bryan Ro
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*

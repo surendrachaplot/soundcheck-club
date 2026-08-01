@@ -1,6 +1,6 @@
 # David James MCR
 
-David James MCR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 15 Aug 2026.
+David James MCR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 15 Aug 2026.
 
 David James MCR is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside Jase Jeffery, Esmé and Fastlove. Next up: TBA - Fountain Records | King Street, Stretford, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ David James MCR is a house and techno artist based in United Kingdom, tracked on
 
 Jase Jeffery, Esmé, Fastlove
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjames-mcr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjames-mcr/)*

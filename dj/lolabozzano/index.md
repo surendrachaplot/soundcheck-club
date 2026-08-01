@@ -1,6 +1,6 @@
 # Lola Bozzano
 
-Lola Bozzano is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
+Lola Bozzano is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
 
 Lola Bozzano is a house and afro house artist based in Spain, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Stavroz, DJ Holographic and Marcel Dettmann. Next up: Forte Santo António da Barra, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lola Bozzano is a house and afro house artist based in Spain, tracked on soundch
 
 Stavroz, DJ Holographic, Marcel Dettmann
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolabozzano/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolabozzano/)*

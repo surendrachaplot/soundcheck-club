@@ -1,6 +1,6 @@
 # No Author
 
-No Author is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
+No Author is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
 
 No Author is an experimental and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Edinburgh and Philadelphia. Often billed alongside Cole Roberts, Phreakwency and Precolumbian. Next up: Bastet, Philadelphia on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ No Author is an experimental and club artist based in United States of America, 
 
 Cole Roberts, Phreakwency, Precolumbian
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noauthor/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noauthor/)*

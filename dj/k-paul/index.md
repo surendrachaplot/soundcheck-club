@@ -1,6 +1,6 @@
 # K-Paul
 
-K-Paul is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
+K-Paul is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
 K-Paul is a techno and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Dusseldorf and Warsaw. Often billed alongside Cherry, Westbam and Hardy Hard. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ K-Paul is a techno and tech house artist based in Germany, tracked on soundcheck
 
 Cherry, Westbam, Hardy Hard
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k-paul/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-paul/)*

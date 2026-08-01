@@ -1,6 +1,6 @@
 # Dakota Dean
 
-Dakota Dean is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Palihotel Hollywood, Los Angeles on Sun, 2 Aug 2026.
+Dakota Dean is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palihotel Hollywood, Los Angeles on Sun, 2 Aug 2026.
 
 Dakota Dean is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Lubelski, Ray Kash and Afriqua. Next up: Palihotel Hollywood, Losangeles on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Dakota Dean is a house and disco artist based in United States of America, track
 
 Lubelski, Ray Kash, Afriqua
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dakotadean/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dakotadean/)*

@@ -1,6 +1,6 @@
 # Niko Hoke
 
-Niko Hoke is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
+Niko Hoke is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
 
 Niko Hoke is a trance and techno artist based in Belgium, tracked on soundcheck, with 17 sets logged across Brussels. Often billed alongside John Gilliot, Maëlle and ATARAXY. Next up: Circle Park, Brussels on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Niko Hoke is a trance and techno artist based in Belgium, tracked on soundcheck,
 
 John Gilliot, Maëlle, ATARAXY
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*

@@ -1,6 +1,6 @@
 # Gosia
 
-Gosia is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Gosia is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 Gosia is a techno and deep house artist tracked on soundcheck, with 11 sets logged across Brighton. Often billed alongside Ross Harper, Nathan Godolphin and Acid Carbon. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Gosia is a techno and deep house artist tracked on soundcheck, with 11 sets logg
 
 Ross Harper, Nathan Godolphin, Acid Carbon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gosia/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gosia/)*

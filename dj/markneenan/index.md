@@ -1,6 +1,6 @@
 # Mark Neenan
 
-Mark Neenan is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
+Mark Neenan is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
 
 Mark Neenan is an acid and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol, Leeds and London. Often billed alongside B.S.E, Paul Z and Lisa Oakes. Next up: Lost Horizon, Bristol on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Mark Neenan is an acid and techno artist based in United Kingdom, tracked on sou
 
 B.S.E, Paul Z, Lisa Oakes
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markneenan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markneenan/)*

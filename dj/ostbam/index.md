@@ -1,6 +1,6 @@
 # Ostbam
 
-Ostbam is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
+Ostbam is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
 
 Ostbam is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin and Leipzig. Often billed alongside Bephål, DJ Ferrari (2) and genelle. Next up: elipamanoke, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ostbam is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Bephål, DJ Ferrari (2), genelle
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ostbam/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ostbam/)*

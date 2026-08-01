@@ -1,6 +1,6 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Helios37, Cologne on Fri, 7 Aug 2026.
+DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Helios37, Cologne on Fri, 7 Aug 2026.
 
 DURDENHAUER is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Carla Schmitt, DJ GUESTLIST and Elotrance. Next up: Helios37, Cologne on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ DURDENHAUER is a techno and trance artist tracked on soundcheck, with 67 sets lo
 
 Carla Schmitt, DJ GUESTLIST, Elotrance
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

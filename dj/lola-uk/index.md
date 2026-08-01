@@ -1,6 +1,6 @@
 # Lola (UK)
 
-Lola (UK) is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Lola (UK) is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 Lola (UK) is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, London, Miami and Prague. Often billed alongside POoK, Ross Harper and Cage (1). Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Lola (UK) is a techno and deep house artist based in United Kingdom, tracked on 
 
 POoK, Ross Harper, Cage (1)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lola-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lola-uk/)*

@@ -1,6 +1,6 @@
 # Patrick
 
-Patrick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Rua Rego Freitas - Republica, São Paulo - SP, 01220-010, Brasil, Sao Paulo on Sat, 1 Aug 2026.
+Patrick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Rua Rego Freitas - Republica, São Paulo - SP, 01220-010, Brasil, Sao Paulo on Sat, 1 Aug 2026.
 
 Patrick is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Frankfurt, Montreal and Saopaulo and 1 more. Often billed alongside Patrick (6), Paula Pretel and bbyboybleu. Next up: TBA - Rua Rego Freitas - Republica, São Paulo - SP, 01220-010, Brasil, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Patrick is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Patrick (6), Paula Pretel, bbyboybleu
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrick/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrick/)*

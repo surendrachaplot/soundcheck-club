@@ -1,6 +1,6 @@
 # Stagira
 
-Stagira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Flash, Washington DC on Sat, 1 Aug 2026.
+Stagira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Flash, Washington DC on Sat, 1 Aug 2026.
 
 Stagira is a techno and house artist based in India, tracked on soundcheck, with 20 sets logged across Detroit, Sandiego, Toronto and Washingtondc. Often billed alongside SPCL.K, Eric Yaz and SaintMark. Next up: Flash, Washingtondc on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Stagira is a techno and house artist based in India, tracked on soundcheck, with
 
 SPCL.K, Eric Yaz, SaintMark
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stagira/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stagira/)*

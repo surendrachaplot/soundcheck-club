@@ -1,6 +1,6 @@
 # Judas
 
-Judas is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - arxitektoniki , Athens on Sat, 1 Aug 2026.
+Judas is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - arxitektoniki , Athens on Sat, 1 Aug 2026.
 
 Judas is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Athens, London and Manchester. Often billed alongside Freja, Sirod and RQuality. Next up: TBA - arxitektoniki , Athens on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Judas is a trance and techno artist based in United Kingdom, tracked on soundche
 
 Freja, Sirod, RQuality
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judas/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judas/)*

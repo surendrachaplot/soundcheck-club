@@ -1,6 +1,6 @@
 # Index
 
-Index is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Index D8 Afters: Silva Bumpa" on Sat, 1 Aug 2026.
+Index is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Index D8 Afters: Silva Bumpa" on Sat, 1 Aug 2026.
 
 Index is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including 808 State, DIEBYVEG, Fish56Octagon and Hidde van Wee and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
@@ -18,4 +18,4 @@ Index is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with l
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

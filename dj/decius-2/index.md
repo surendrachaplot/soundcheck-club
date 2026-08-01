@@ -1,6 +1,6 @@
 # Decius
 
-Decius is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Islington Assembly Hall, London on Sat, 1 Aug 2026.
+Decius is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Islington Assembly Hall, London on Sat, 1 Aug 2026.
 
 Decius is a house and disco artist tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Bucharest and Dublin and 10 more. Often billed alongside Erol Alkan, Tia Cousins and babyschön. Next up: Islington Assembly Hall, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Decius is a house and disco artist tracked on soundcheck, with 26 sets logged ac
 
 Erol Alkan, Tia Cousins, babyschön
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*

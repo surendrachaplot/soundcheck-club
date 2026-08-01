@@ -1,6 +1,6 @@
 # Jawrs
 
-Jawrs is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bricks, London on Fri, 7 Aug 2026.
+Jawrs is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
 
 Jawrs is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside 0_Lxvi, ANT1 (2) and Alex, from Deep. Next up: Bricks, London on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Jawrs is a drum & bass and garage artist based in United Kingdom, tracked on sou
 
 0_Lxvi, ANT1 (2), Alex, from Deep
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jawrs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawrs/)*

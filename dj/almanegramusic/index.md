@@ -1,6 +1,6 @@
 # Alma Negra
 
-Alma Negra is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uus Laine, Tallinn on Fri, 4 Sept 2026.
+Alma Negra is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Uus Laine, Tallinn on Fri, 4 Sept 2026.
 
 Alma Negra is an afro house and afrobeat artist based in Switzerland, tracked on soundcheck, with 7 sets logged across Basel, Milan, Strasbourg and Tallinn. Often billed alongside Pepe Brogna, Danni Gato and AfroKillerz. Next up: Uus Laine, Tallinn on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Alma Negra is an afro house and afrobeat artist based in Switzerland, tracked on
 
 Pepe Brogna, Danni Gato, AfroKillerz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegramusic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegramusic/)*

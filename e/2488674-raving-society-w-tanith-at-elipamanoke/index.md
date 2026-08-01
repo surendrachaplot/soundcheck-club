@@ -1,6 +1,6 @@
 # Raving Society w/ Tanith at elipamanoke
 
-Raving Society w/ Tanith at elipamanoke on Sat 1 Aug, Leipzig. 5 acts on the bill: Acid Goldee, LUNA.le, Ostbam and Tanith and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Raving Society w/ Tanith at elipamanoke on Sat 1 Aug, Leipzig. 6 acts on the bill: Acid Goldee, KETA PERRY, LUNA.le and Ostbam and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Raving Society w/ Tanith at elipamanoke on Sat 1 Aug, Leipzig. 5 acts on the bil
 ## Line-up
 
 - Acid Goldee
+- KETA PERRY
 - LUNA.le
 - Ostbam
 - Tanith

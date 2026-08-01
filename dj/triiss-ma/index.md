@@ -1,6 +1,6 @@
 # TRÏÏSS
 
-TRÏÏSS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
+TRÏÏSS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
 
 TRÏÏSS is a techno and industrial artist based in Malta, tracked on soundcheck, with 20 sets logged across Malta. Often billed alongside NEVYALC, A-THØX and Shryy. Next up: Liquid Club, Malta on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ TRÏÏSS is a techno and industrial artist based in Malta, tracked on soundcheck
 
 NEVYALC, A-THØX, Shryy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triiss-ma/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triiss-ma/)*

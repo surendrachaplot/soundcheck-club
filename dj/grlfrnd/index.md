@@ -1,6 +1,6 @@
 # GRLFRND
 
-GRLFRND is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Utopia, Los Angeles on Sat, 1 Aug 2026.
+GRLFRND is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Utopia, Los Angeles on Sat, 1 Aug 2026.
 
 GRLFRND is a techno and house artist tracked on soundcheck, with 25 sets logged across Losangeles and Sandiego. Often billed alongside RCKSLVR, Chamoy Baby and Tamara Lanza. Next up: Utopia, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ GRLFRND is a techno and house artist tracked on soundcheck, with 25 sets logged 
 
 RCKSLVR, Chamoy Baby, Tamara Lanza
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grlfrnd/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grlfrnd/)*

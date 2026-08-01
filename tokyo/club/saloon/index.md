@@ -1,14 +1,13 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "AZTEC TOUR" on Fri, 31 Jul 2026.
+Saloon is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "'freedom is me' Release Party" on Sat, 1 Aug 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 35DH-1, BASiRiNO, ecec and Eichi Abe and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 35DH-1, BASiRiNO, ecec and Eichi Abe and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | AZTEC TOUR |  |
 | Sat, 1 Aug 2026 | 'freedom is me' Release Party | WASP, zendo |
 | Wed, 5 Aug 2026 | NØCLR presents -CONNECT VOL.1- |  |
 | Mon, 10 Aug 2026 | For the homies |  |
@@ -21,4 +20,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with l
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

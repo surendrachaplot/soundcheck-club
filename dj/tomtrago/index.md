@@ -1,6 +1,6 @@
 # Tom Trago
 
-Tom Trago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Radio Radio, Amsterdam on Fri, 7 Aug 2026.
+Tom Trago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Radio Radio, Amsterdam on Fri, 7 Aug 2026.
 
 Tom Trago is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside BELLA (NL), Carlos Valdes and David Vunk. Next up: Radio Radio, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Tom Trago is a house and techno artist tracked on soundcheck, with 126 sets logg
 
 BELLA (NL), Carlos Valdes, David Vunk
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*

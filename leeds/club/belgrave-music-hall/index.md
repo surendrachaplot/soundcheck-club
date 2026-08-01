@@ -1,8 +1,8 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dr Disco & Friends" on Sat, 1 Aug 2026.
+Belgrave Music Hall is a music venue in Leeds with 12 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dr Disco & Friends" on Sat, 1 Aug 2026.
 
-Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including Bel Cobain, Frost Children, Romare and Takuya Nakamura. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
+Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 12 upcoming nights, with line-ups including Bel Cobain, Elder Island, Frost Children and Romare and 1 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 10 upcoming 
 | Sun, 30 Aug 2026 | The Space Lady |  |
 | Tue, 1 Sept 2026 | Frost Children | Frost Children |
 | Thu, 3 Sept 2026 | Lowertown |  |
+| Sat, 3 Oct 2026 | Anish Kumar |  |
 | Sat, 10 Oct 2026 | New North Indie: One-Dayer |  |
 | Sat, 10 Oct 2026 | Jembaa Groove |  |
 | Mon, 12 Oct 2026 | Takuya Nakamura [Live] - In The Round | Takuya Nakamura |
 | Wed, 14 Oct 2026 | Bel Cobain | Bel Cobain |
-| Thu, 29 Oct 2026 | Romare (Live) | Romare |
 
 ## Address
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

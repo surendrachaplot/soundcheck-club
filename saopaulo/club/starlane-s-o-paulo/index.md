@@ -1,13 +1,14 @@
 # Starlane São Paulo
 
-Starlane São Paulo is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "STARLANE PRESENTS: Anthea" on Thu, 6 Aug 2026.
+Starlane São Paulo is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "STARLANE PRESENTS: Anthea" on Thu, 6 Aug 2026.
 
-Starlane São Paulo is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Anthea. Browse upcoming dates, start times and who's playing.
+Starlane São Paulo is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights, with line-ups including Anthea and Dyed Soundorom. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | STARLANE PRESENTS: Anthea | Anthea |
+| Thu, 20 Aug 2026 | STARLANE PRESENTS: Dyed Soundorom | Dyed Soundorom |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/starlane-s-o-paulo/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/starlane-s-o-paulo/)*

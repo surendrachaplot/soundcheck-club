@@ -1,6 +1,6 @@
 # Anatoly
 
-Anatoly is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Yan Gastro, Istanbul on Sat, 1 Aug 2026.
+Anatoly is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Yan Gastro, Istanbul on Sat, 1 Aug 2026.
 
 Anatoly is a disco and house artist based in Russia, tracked on soundcheck, with 14 sets logged across Bangkok and Istanbul. Often billed alongside Alexandr Grecov, Barter and Foori. Next up: Yan Gastro, Istanbul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Anatoly is a disco and house artist based in Russia, tracked on soundcheck, with
 
 Alexandr Grecov, Barter, Foori
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anatoly/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anatoly/)*

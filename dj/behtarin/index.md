@@ -1,6 +1,6 @@
 # BehTarin
 
-BehTarin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
+BehTarin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
 
 BehTarin is a house and deep house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity and Washingtondc. Often billed alongside Heather Luna, VYNX and shilimili. Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BehTarin is a house and deep house artist based in United States of America, tra
 
 Heather Luna, VYNX, shilimili
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*

@@ -1,6 +1,6 @@
 # Bubba Oasis, Islington
 
-Bubba Oasis, Islington is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Golden Hour" on Sat, 1 Aug 2026.
+Bubba Oasis, Islington is a music venue in London with 12 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Golden Hour" on Sat, 1 Aug 2026.
 
 Bubba Oasis, Islington is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Teray. Browse upcoming dates, start times and who's playing. 57-58 Upper St, London, N1 0NY.
 
@@ -23,4 +23,4 @@ Bubba Oasis, Islington is a music venue in London listed on soundcheck. 12 upcom
 
 57-58 Upper St, London, N1 0NY, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis-islington/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis-islington/)*

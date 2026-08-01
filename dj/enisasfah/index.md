@@ -1,6 +1,6 @@
 # Enis Asfah
 
-Enis Asfah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Weekend, Berlin on Fri, 7 Aug 2026.
+Enis Asfah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Weekend, Berlin on Fri, 7 Aug 2026.
 
 Enis Asfah is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside MIKA G, BERF and Talia Dorr. Next up: Weekend, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Enis Asfah is a techno and house artist based in Germany, tracked on soundcheck,
 
 MIKA G, BERF, Talia Dorr
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enisasfah/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enisasfah/)*

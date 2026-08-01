@@ -1,6 +1,6 @@
 # Zed Bias
 
-Zed Bias is a Garage and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 1 Aug 2026.
+Zed Bias is a Garage and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Freight Island Newcastle, Newcastle on Sat, 1 Aug 2026.
 
 Zed Bias is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 11 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: Freight Island Newcastle, Newcastle on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Zed Bias is a garage and jungle artist based in United Kingdom, tracked on sound
 
 Chunky, Bakey, Chimpo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*

@@ -1,14 +1,14 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Best Weekend Ever" on Fri, 31 Jul 2026.
+Lakota is a music venue in Bristol with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "BOXXED OFF DNB 360 OUTDOOR FEST" on Sun, 2 Aug 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including Akira (Buntai), Amoss, Betsy Mae and camukg and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 16 upcoming nights, with line-ups including Akira (Buntai), Amoss, Betsy Mae and camukg and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Best Weekend Ever |  |
+| Sun, 2 Aug 2026 | BOXXED OFF DNB 360 OUTDOOR FEST | Devilman |
 | Sat, 8 Aug 2026 | The South West 64th Jamaican Independence Day Celebration |  |
 | Sat, 8 Aug 2026 | Lakota After Hours: Amoss | Amoss |
 | Sat, 15 Aug 2026 | House of Unity: Summer Day Party |  |
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming nights, wit
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

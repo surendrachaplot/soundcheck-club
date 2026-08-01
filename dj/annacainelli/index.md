@@ -1,6 +1,6 @@
 # Anna Cainelli
 
-Anna Cainelli is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Blackfoot Beach, Cologne on Sun, 9 Aug 2026.
+Anna Cainelli is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Blackfoot Beach, Cologne on Sun, 9 Aug 2026.
 
 Anna Cainelli is a house and disco artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf. Often billed alongside Savsannah, Nikity and Sedaction. Next up: TBA - Blackfoot Beach, Cologne on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Anna Cainelli is a house and disco artist based in Germany, tracked on soundchec
 
 Savsannah, Nikity, Sedaction
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*

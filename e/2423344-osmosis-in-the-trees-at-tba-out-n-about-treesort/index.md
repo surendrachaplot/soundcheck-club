@@ -1,6 +1,6 @@
 # Osmosis in the Trees at TBA - Out ‘n’ About Treesort
 
-Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portland. 10 acts on the bill: Batu, DJ Fart in the Club, Jake Muir and Kia (AU) and 6 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portland. 45 acts on the bill: 8maos, Aaron Davis, Alvaro and Andrew Paris and 41 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,48 @@ Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portlan
 
 ## Line-up
 
+- 8maos
+- Aaron Davis
+- Alvaro
+- Andrew Paris
+- Andy Warren
+- Baby Leo
 - Batu
+- Ben Bondy
+- CCL
+- DJ DEADNAME
+- DJ DISSOLVE
+- DJ Eft
 - DJ Fart in the Club
+- enereph
+- fallen matter
+- Gardenparty
+- Gi Gi
+- Hyeonje
+- IHA (CA)
 - Jake Muir
+- JASSS
+- Jesse Sugar Moore
 - Kia (AU)
+- kk.Shucko
 - Konduku
+- Lena Willikens
 - Loidis
+- mor-f
+- Moussa-k
+- Mozhgan
+- noRecall
 - Notte Infinita
+- OK EG
+- Peter Sheppard
+- R A L L Y
+- Solar
+- Special Guest DJ
+- Spencer FM
+- suade (US)
+- Succubass
+- sysk
+- Trustfall
 - Vlada
 - Wata Igarashi
 - Yumi

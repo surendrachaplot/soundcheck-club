@@ -1,6 +1,6 @@
 # Luke Gomm
 
-Luke Gomm is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
+Luke Gomm is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
 
 Luke Gomm is a jungle and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside AUDIO DUNE, warmluke and Baloo. Next up: Brixton Jamm, London on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Luke Gomm is a jungle and house artist based in United Kingdom, tracked on sound
 
 AUDIO DUNE, warmluke, Baloo
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukegomm/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukegomm/)*

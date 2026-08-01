@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Pins 'N Needles Angel Takeover" on Fri, 31 Jul 2026.
+Angel Music Bar is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Angel presents Mikalah Watego, B.Caszh, Luna" on Sat, 1 Aug 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Aaliyah Salem, b. caszh, Chino and DELLA and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Aaliyah Salem, b. caszh, Chino and DELLA and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Pins 'N Needles Angel Takeover | Kate Miller, Makoyana, Miki (3), Neil E, Pedestrian |
 | Sat, 1 Aug 2026 | Angel presents Mikalah Watego, B.Caszh, Luna | b. caszh |
 | Fri, 7 Aug 2026 | DOGMA (Act 1) | Aaliyah Salem, DJ CASPER (2), F!NN, FOZZA, Laces, Rakhi, mishLXY |
 | Fri, 14 Aug 2026 | U//D Full Venue Takeover | DELLA, Martha, Monique Tya, Pugilist, SELENA |
@@ -18,4 +17,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 5 upcoming n
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

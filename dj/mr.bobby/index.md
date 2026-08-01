@@ -1,6 +1,6 @@
 # Mr. Bobby
 
-Mr. Bobby is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Subterrannean, Chicago on Thu, 6 Aug 2026.
+Mr. Bobby is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Subterrannean, Chicago on Thu, 6 Aug 2026.
 
 Mr. Bobby is a tech house and house artist tracked on soundcheck, with 78 sets logged across Chicago. Often billed alongside Flores Negras, Jimmie Page and LADIESMAN. Next up: Subterrannean, Chicago on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Mr. Bobby is a tech house and house artist tracked on soundcheck, with 78 sets l
 
 Flores Negras, Jimmie Page, LADIESMAN
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*

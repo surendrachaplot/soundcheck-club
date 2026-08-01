@@ -1,6 +1,6 @@
 # PunkFunkLove
 
-PunkFunkLove is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Loods 12, Amsterdam on Sat, 1 Aug 2026.
+PunkFunkLove is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Loods 12, Amsterdam on Sat, 1 Aug 2026.
 
 PunkFunkLove is a techno and afro house artist tracked on soundcheck, with 20 sets logged across Amsterdam and Rotterdam. Often billed alongside Jayzo, Gostoso and SHIMMER. Next up: Loods 12, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ PunkFunkLove is a techno and afro house artist tracked on soundcheck, with 20 se
 
 Jayzo, Gostoso, SHIMMER
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/punkfunklove/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punkfunklove/)*

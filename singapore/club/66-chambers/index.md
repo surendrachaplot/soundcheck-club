@@ -1,15 +1,14 @@
 # 66 Chambers
 
-66 Chambers is a music venue in Singapore with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "RED ROOM: ON AIR" on Fri, 31 Jul 2026.
+66 Chambers is a music venue in Singapore with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "RED ROOM: ON AIR" on Fri, 14 Aug 2026.
 
-66 Chambers is a music venue in Singapore listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing.
+66 Chambers is a music venue in Singapore listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | RED ROOM: ON AIR |  |
 | Fri, 14 Aug 2026 | RED ROOM: ON AIR |  |
 | Fri, 21 Aug 2026 | RED ROOM: ON AIR |  |
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/66-chambers/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/66-chambers/)*

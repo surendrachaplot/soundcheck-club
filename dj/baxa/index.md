@@ -1,6 +1,6 @@
 # Baxa
 
-Baxa is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Objktt Record Bar, Seoul on Sat, 1 Aug 2026.
+Baxa is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Objktt Record Bar, Seoul on Sat, 1 Aug 2026.
 
 Baxa is a house and disco artist tracked on soundcheck, with 31 sets logged across Seoul and Tokyo. Often billed alongside Hans Nieswandt, DJ Funny and Mellan. Next up: Objktt Record Bar, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Baxa is a house and disco artist tracked on soundcheck, with 31 sets logged acro
 
 Hans Nieswandt, DJ Funny, Mellan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baxa/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baxa/)*

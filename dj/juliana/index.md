@@ -1,18 +1,18 @@
 # Juliana
 
-Juliana is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BRET, Amsterdam on Fri, 31 Jul 2026.
+Juliana is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Madam, Amsterdam on Sat, 1 Aug 2026.
 
-Juliana is a house and disco artist tracked on soundcheck, with 10 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Benny Rodrigues, Benwal and Cynthia Spiering. Next up: BRET, Amsterdam on Fri 31 Jul.
+Juliana is a house and disco artist tracked on soundcheck, with 10 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Benny Rodrigues, Benwal and Cynthia Spiering. Next up: Madam, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BRET | Amsterdam |
 | Sat, 1 Aug 2026 | Madam | Amsterdam |
 
 ## Recently played
 
+- BRET, Amsterdam — Fri, 31 Jul 2026
 - Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
 - Skatecafe, Amsterdam — Sun, 26 Oct 2025
 - EKKO, Utrecht — Sat, 30 Nov 2024
@@ -20,10 +20,9 @@ Juliana is a house and disco artist tracked on soundcheck, with 10 sets logged a
 - Openluchttheater Amersfoort, Amsterdam — Fri, 20 Sept 2024
 - Sloterpark, Amsterdam — Sat, 15 Jun 2024
 - Pacific Amsterdam, Amsterdam — Fri, 7 Jun 2024
-- Pacific Amsterdam, Amsterdam — Fri, 5 Apr 2024
 
 ## Shares bills with
 
 Benny Rodrigues, Benwal, Cynthia Spiering
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliana/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliana/)*

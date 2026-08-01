@@ -1,6 +1,6 @@
 # Mary Jane
 
-Mary Jane is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+Mary Jane is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 Mary Jane is a house and deep house artist based in Germany, tracked on soundcheck, with 9 sets logged across Birmingham, Manchester, Miami and Newyorkcity. Often billed alongside Kike Roldan, Nico Moon and A.M. Project. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mary Jane is a house and deep house artist based in Germany, tracked on soundche
 
 Kike Roldan, Nico Moon, A.M. Project
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane/)*

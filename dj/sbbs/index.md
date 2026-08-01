@@ -1,6 +1,6 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
+SBBS is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
 
 SBBS is a techno and tech house artist tracked on soundcheck, with 21 sets logged across Brighton, London and Mexicocity. Often billed alongside Varanasi, DELARA and Modlar. Next up: Volks, Brighton on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ SBBS is a techno and tech house artist tracked on soundcheck, with 21 sets logge
 
 Varanasi, DELARA, Modlar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

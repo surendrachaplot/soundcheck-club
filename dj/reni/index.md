@@ -1,6 +1,6 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ormside Projects, London on Sat, 1 Aug 2026.
+re:ni is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ormside Projects, London on Sat, 1 Aug 2026.
 
 re:ni is a techno and bass artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 42 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Ormside Projects, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ re:ni is a techno and bass artist tracked on soundcheck, with 142 sets logged ac
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

@@ -1,6 +1,6 @@
 # AyChibs
 
-AyChibs is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Electrowerkz, London on Fri, 18 Sept 2026.
+AyChibs is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Electrowerkz, London on Fri, 18 Sept 2026.
 
 AyChibs is a hip-hop and afrobeats artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Hamburg, London and Sydney. Often billed alongside ELLADHC, Donnie Sunshine and Mayowa. Next up: Electrowerkz, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ AyChibs is a hip-hop and afrobeats artist based in United Kingdom, tracked on so
 
 ELLADHC, Donnie Sunshine, Mayowa
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aychibs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aychibs/)*

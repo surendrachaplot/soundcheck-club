@@ -1,6 +1,6 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+KYRUH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
 
 KYRUH is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and KXAH. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ KYRUH is a techno and house artist tracked on soundcheck, with 147 sets logged a
 
 WTCHCRFT, Katie Rex, KXAH
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*

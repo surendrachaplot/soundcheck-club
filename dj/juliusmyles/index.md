@@ -1,14 +1,16 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Dr Morse, Melbourne on Fri, 7 Aug 2026.
+Julius Myles is a Deep House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Fiftyfive, Melbourne on Sun, 2 Aug 2026.
 
-Julius Myles is a deep house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and Bby Cass. Next up: Dr Morse, Melbourne on Fri 7 Aug.
+Julius Myles is a deep house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and Bby Cass. Next up: Fiftyfive, Melbourne on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | Fiftyfive | Melbourne |
 | Fri, 7 Aug 2026 | Dr Morse | Melbourne |
+| Sat, 15 Aug 2026 | Lane's Edge Wine Bar | Melbourne |
 | Sat, 29 Aug 2026 | Joey Smalls | Melbourne |
 
 ## Recently played
@@ -26,4 +28,4 @@ Julius Myles is a deep house and funk / soul artist based in United Kingdom, tra
 
 Miles Ahead, Emotive Experience, Bby Cass
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

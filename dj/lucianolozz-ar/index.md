@@ -1,6 +1,6 @@
 # Luciano Lozz
 
-Luciano Lozz is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
+Luciano Lozz is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
 
 Luciano Lozz is a progressive house and deep house artist based in Argentina, tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza. Often billed alongside Henry Saiz, Agatha Pher and Audera. Next up: Seaseaclub Barcelona, Barcelona on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Luciano Lozz is a progressive house and deep house artist based in Argentina, tr
 
 Henry Saiz, Agatha Pher, Audera
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianolozz-ar/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianolozz-ar/)*

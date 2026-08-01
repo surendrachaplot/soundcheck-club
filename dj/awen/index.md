@@ -1,13 +1,14 @@
 # AWEN
 
-AWEN is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Savaya Bali, Bali on Sun, 23 Aug 2026.
+AWEN is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Zumana Bali, Bali on Fri, 21 Aug 2026.
 
-AWEN is a house and afro house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Shimza, Francis Mercier and DJEFF. Next up: Savaya Bali, Bali on Sun 23 Aug.
+AWEN is an afro house and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Shimza, Francis Mercier and DJEFF. Next up: Zumana Bali, Bali on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Zumana Bali | Bali |
 | Sun, 23 Aug 2026 | Savaya Bali | Bali |
 | Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Bazart | Montreal |
@@ -28,4 +29,4 @@ AWEN is a house and afro house artist tracked on soundcheck, with 72 sets logged
 
 Shimza, Francis Mercier, DJEFF
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

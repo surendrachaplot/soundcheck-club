@@ -1,6 +1,6 @@
 # Danielle
 
-Danielle is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Sun, 2 Aug 2026.
+Danielle is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Else, Berlin on Sun, 2 Aug 2026.
 
 Danielle is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Else, Berlin on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ Danielle is a techno and house artist tracked on soundcheck, with 139 sets logge
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

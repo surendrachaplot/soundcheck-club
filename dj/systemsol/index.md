@@ -1,6 +1,6 @@
 # System Sol
 
-System Sol is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Badaboum, Paris on Sat, 1 Aug 2026.
+System Sol is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Badaboum, Paris on Sat, 1 Aug 2026.
 
 System Sol is a house and disco artist tracked on soundcheck, with 20 sets logged across Marseille, Nantes and Paris. Often billed alongside Damiano von Erckert, 42L (1) and Abstraxion. Next up: Badaboum, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ System Sol is a house and disco artist tracked on soundcheck, with 20 sets logge
 
 Damiano von Erckert, 42L (1), Abstraxion
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/systemsol/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/systemsol/)*

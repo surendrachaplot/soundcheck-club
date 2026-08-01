@@ -1,6 +1,6 @@
 # Krispy
 
-Krispy is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Reading Terminal Market, Philadelphia on Sun, 2 Aug 2026.
+Krispy is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Reading Terminal Market, Philadelphia on Sun, 2 Aug 2026.
 
 Krispy is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 21 sets logged across Philadelphia. Often billed alongside Club Advisory, OPIYO and SOUNDBWOY. Next up: Reading Terminal Market, Philadelphia on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Krispy is a club and hip-hop artist based in United States of America, tracked o
 
 Club Advisory, OPIYO, SOUNDBWOY
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krispy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krispy/)*

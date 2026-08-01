@@ -1,6 +1,6 @@
 # capitano (she/her)
 
-capitano (she/her) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kukumu, Berlin on Sat, 1 Aug 2026.
+capitano (she/her) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kukumu, Berlin on Sat, 1 Aug 2026.
 
 capitano (she/her) is a techno and experimental artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Deae, Freya Algiz and ailin. Next up: Kukumu, Berlin on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ capitano (she/her) is a techno and experimental artist based in Germany, tracked
 
 Deae, Freya Algiz, ailin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanosheher/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanosheher/)*

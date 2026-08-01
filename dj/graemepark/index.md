@@ -1,6 +1,6 @@
 # Graeme Park
 
-Graeme Park is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
+Graeme Park is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
 
 Graeme Park is a house and club artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Aberdeen, Bristol, Dublin and Edinburgh and 9 more. Often billed alongside DJ Paulette, Greg Wilson and David Morales. Next up: Clifton Downs, Bristol on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Graeme Park is a house and club artist based in United Kingdom, tracked on sound
 
 DJ Paulette, Greg Wilson, David Morales
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*

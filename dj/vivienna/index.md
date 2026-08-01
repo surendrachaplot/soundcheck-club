@@ -1,6 +1,6 @@
 # Vivienna
 
-Vivienna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
+Vivienna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
 Vivienna is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin, Leipzig, Munich and Vienna. Often billed alongside Armin Hermann, Bitschu Batschu and Serafin. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Vivienna is a techno and trance artist tracked on soundcheck, with 24 sets logge
 
 Armin Hermann, Bitschu Batschu, Serafin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*

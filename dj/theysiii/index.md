@@ -1,6 +1,6 @@
 # Theysiii
 
-Theysiii is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Jama, Toronto on Sat, 1 Aug 2026.
+Theysiii is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Jama, Toronto on Sat, 1 Aug 2026.
 
 Theysiii is a house and electro artist tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Shen (2), Aperçu and Critter. Next up: The Jama, Toronto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Theysiii is a house and electro artist tracked on soundcheck, with 21 sets logge
 
 Shen (2), Aperçu, Critter
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theysiii/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theysiii/)*

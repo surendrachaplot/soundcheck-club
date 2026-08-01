@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
+Hayley Zalassi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
 
 Hayley Zalassi is a house and techno artist tracked on soundcheck, with 87 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Quarters, Brighton on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 87 sets 
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

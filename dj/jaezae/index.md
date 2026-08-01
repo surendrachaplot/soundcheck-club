@@ -1,6 +1,6 @@
 # Jaezae
 
-Jaezae is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kockiri, Seoul on Sat, 1 Aug 2026.
+Jaezae is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kockiri, Seoul on Sat, 1 Aug 2026.
 
 Jaezae is a house and disco artist based in South Korea, tracked on soundcheck, with 37 sets logged across Bangkok and Seoul. Often billed alongside Coolrnch, Cozyhoon and dguru. Next up: Kockiri, Seoul on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Jaezae is a house and disco artist based in South Korea, tracked on soundcheck, 
 
 Coolrnch, Cozyhoon, dguru
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaezae/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaezae/)*

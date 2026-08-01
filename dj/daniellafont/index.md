@@ -1,6 +1,6 @@
 # Daniella Font
 
-Daniella Font is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
+Daniella Font is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
 
 Daniella Font is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Omari, BECKIE ADAMS and Jaden Pace. Next up: Ministry Of Sound, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Daniella Font is a house and tech house artist based in United Kingdom, tracked 
 
 Omari, BECKIE ADAMS, Jaden Pace
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellafont/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellafont/)*

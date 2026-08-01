@@ -1,6 +1,6 @@
 # Cia Rebeck
 
-Cia Rebeck is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tresor / Globus, Berlin on Mon, 17 Aug 2026.
+Cia Rebeck is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tresor / Globus, Berlin on Mon, 17 Aug 2026.
 
 Cia Rebeck is a techno and downtempo artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Buenosaires and Saopaulo. Often billed alongside Julieta Kopp, KRISSFA and Mariano DC. Next up: Tresor / Globus, Berlin on Mon 17 Aug.
 
@@ -25,4 +25,4 @@ Cia Rebeck is a techno and downtempo artist tracked on soundcheck, with 38 sets 
 
 Julieta Kopp, KRISSFA, Mariano DC
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ciarebeck/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciarebeck/)*

@@ -1,6 +1,6 @@
 # Second Storey
 
-Second Storey is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
+Second Storey is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
 
 Second Storey is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Bristol, Hamburg and Istanbul. Often billed alongside DJ Regret, Appleblim and Lz MC Can. Next up: Moon Club, Bristol on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Second Storey is a techno and electro artist based in United Kingdom, tracked on
 
 DJ Regret, Appleblim, Lz MC Can
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secondstorey/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondstorey/)*

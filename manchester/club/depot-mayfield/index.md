@@ -1,8 +1,8 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including 2Shy MC, Kepler, ADR (US) and Aiden Francis and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including 2Shy MC, Kepler, ADR (US) and Aiden Francis and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 9 upcoming n
 | Sat, 10 Oct 2026 | Interplanetary Criminal presents | Anz, Bakey, Camille Doe, Club Angel, DJ Cosworth, DJ Seinfeld, Dr Dubplate, Faster Horses, HAAi, Helena Lauwaert, Interplanetary Criminal, Joy Orbison, Jyoty, La La, Larishka, Lauren Lo Sung, Lewis Taylor, MALUGI, Main Phase, Notion, Oldboy, Osmosis Jones, Prozak (IRL), Silva Bumpa, Skin On Skin, bullet tooth |
 | Fri, 16 Oct 2026 | WHP + Teletech presents DOOF - Hannah Laing | Hannah Laing |
 | Sat, 24 Oct 2026 | Duke Dumont, Manchester | Duke Dumont |
+| Fri, 30 Oct 2026 | Overmono presents Pure Devotion - World Tour, Manchester | Andy C, Ash Lauryn, Aurora Halal, Blackhaine, Blawan, Cersy, DJ Bone, DJ SET (Uk), DR MYSTERY, Helena Hauff, James Blake, Joy Orbison, KAVARI, Lee Gamble, Moodymann, Nkisi, Overmono, Rainy Miller, Space Afrika, Special Guest (US) |
 
 ## Address
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

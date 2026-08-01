@@ -1,8 +1,8 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
+Succubass is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
 
-Succubass is a techno and bass artist tracked on soundcheck, with 86 sets logged across Berlin, Detroit, London and Losangeles and 7 more. Often billed alongside Sharlese, DJ DEADNAME and DJ Eft. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
+Succubass is a techno and bass artist tracked on soundcheck, with 87 sets logged across Berlin, Detroit, London and Losangeles and 7 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Succubass is a techno and bass artist tracked on soundcheck, with 86 sets logged
 | Sat, 1 Aug 2026 | TBA - Ming Lounge | Portland |
 | Sun, 2 Aug 2026 | Biltmore Cabaret | Vancouver |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
+| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Succubass is a techno and bass artist tracked on soundcheck, with 86 sets logged
 
 ## Shares bills with
 
-Sharlese, DJ DEADNAME, DJ Eft
+DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

@@ -1,6 +1,6 @@
 # San Paloma
 
-San Paloma is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Saturday Summer Rooftop" on Sat, 1 Aug 2026.
+San Paloma is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Saturday Summer Rooftop" on Sat, 1 Aug 2026.
 
 San Paloma is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 11 Port de la Rapée, 75012 Paris.
 
@@ -14,4 +14,4 @@ San Paloma is a music venue in Paris listed on soundcheck. 1 upcoming night. Bro
 
 11 Port de la Rapée, 75012 Paris, Paris
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/san-paloma/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/san-paloma/)*

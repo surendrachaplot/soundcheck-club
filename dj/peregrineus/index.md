@@ -1,6 +1,6 @@
 # Peregrine (US)
 
-Peregrine (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mood Ring, New York City on Sat, 1 Aug 2026.
+Peregrine (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mood Ring, New York City on Sat, 1 Aug 2026.
 
 Peregrine (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity and Seattle. Often billed alongside BUNZ, DJ Ant (US) and Boydell. Next up: Mood Ring, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Peregrine (US) is a techno and club artist based in United States of America, tr
 
 BUNZ, DJ Ant (US), Boydell
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peregrineus/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peregrineus/)*

@@ -1,14 +1,13 @@
 # Kidcat
 
-Kidcat is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+Kidcat is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Renate, Berlin on Thu, 20 Aug 2026.
 
-Kidcat is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Bike Jesus, Prague on Fri 31 Jul.
+Kidcat is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Renate, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Bike Jesus | Prague |
 | Thu, 20 Aug 2026 | Renate | Berlin |
 | Sat, 22 Aug 2026 | Marmorbar | Berlin |
 | Fri, 28 Aug 2026 | Kater | Berlin |
@@ -16,6 +15,7 @@ Kidcat is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- Bike Jesus, Prague — Fri, 31 Jul 2026
 - Crack Bellmer, Berlin — Sat, 25 Jul 2026
 - Urban Spree, Berlin — Sun, 19 Jul 2026
 - Kater, Berlin — Sat, 20 Jun 2026
@@ -23,10 +23,9 @@ Kidcat is a techno and house artist based in Germany, tracked on soundcheck, wit
 - Klunkerkranich, Berlin — Thu, 4 Jun 2026
 - Fuchs2, Prague — Fri, 22 May 2026
 - TBA - Secret location Neukölln, Berlin — Fri, 8 May 2026
-- OST, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

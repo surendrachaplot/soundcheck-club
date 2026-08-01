@@ -1,8 +1,8 @@
 # Randomer
 
-Randomer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Randomer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
-Randomer is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
+Randomer is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Randomer is a techno and house artist tracked on soundcheck, with 77 sets logged
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
 | Sat, 15 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 28 Aug 2026 | Paragon | New York City |
+| Sat, 19 Sept 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Randomer is a techno and house artist tracked on soundcheck, with 77 sets logged
 
 AADJA, Anetha, Clouds
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

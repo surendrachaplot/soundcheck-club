@@ -1,6 +1,6 @@
 # KEPK
 
-KEPK is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sonotex" on Sat, 8 Aug 2026.
+KEPK is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Sonotex" on Sat, 8 Aug 2026.
 
 KEPK is a music venue in Brisbane listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Unit J2/241 Station Rd, Yeerongpilly QLD 4105, Australia.
 
@@ -14,4 +14,4 @@ KEPK is a music venue in Brisbane listed on soundcheck. 1 upcoming night. Browse
 
 Unit J2/241 Station Rd, Yeerongpilly QLD 4105, Australia, Brisbane
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/kepk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/kepk/)*

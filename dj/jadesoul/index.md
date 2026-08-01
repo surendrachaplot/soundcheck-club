@@ -1,6 +1,6 @@
 # JADE SOUL
 
-JADE SOUL is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+JADE SOUL is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 JADE SOUL is a hip-hop and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, London, Newyorkcity and Paris and 2 more. Often billed alongside Eileen (NL), Ays (NL) and Moody Mehran. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ JADE SOUL is a hip-hop and house artist tracked on soundcheck, with 24 sets logg
 
 Eileen (NL), Ays (NL), Moody Mehran
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jadesoul/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadesoul/)*

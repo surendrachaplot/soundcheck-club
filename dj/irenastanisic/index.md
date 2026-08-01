@@ -1,13 +1,14 @@
 # Irena Stanisic
 
-Irena Stanisic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Good Room, New York City on Sat, 8 Aug 2026.
+Irena Stanisic is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at MAD Radio NYC, New York City on Fri, 7 Aug 2026.
 
-Irena Stanisic is a house and deep house artist based in North Macedonia, tracked on soundcheck, with 56 sets logged across Mexicocity and Newyorkcity. Often billed alongside Barreto, JNGLEJ and papa jazz. Next up: Good Room, Newyorkcity on Sat 8 Aug.
+Irena Stanisic is a house and deep house artist based in North Macedonia, tracked on soundcheck, with 57 sets logged across Mexicocity and Newyorkcity. Often billed alongside Barreto, JNGLEJ and papa jazz. Next up: MAD Radio NYC, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | MAD Radio NYC | New York City |
 | Sat, 8 Aug 2026 | Good Room | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Irena Stanisic is a house and deep house artist based in North Macedonia, tracke
 
 Barreto, JNGLEJ, papa jazz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irenastanisic/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irenastanisic/)*

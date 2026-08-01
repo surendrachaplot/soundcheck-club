@@ -1,6 +1,6 @@
 # Özten
 
-Özten is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
+Özten is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kaiho, London on Sat, 1 Aug 2026.
 
 Özten is a house and garage artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Marco (UK), Adela and JEEM. Next up: Kaiho, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 Marco (UK), Adela, JEEM
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*

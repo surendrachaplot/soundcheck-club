@@ -1,6 +1,6 @@
 # KRTM
 
-KRTM is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+KRTM is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 KRTM is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Manu Le Malin, Somniac One and Thrasher. Next up: Levenslang Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ KRTM is a techno and hardcore artist based in Belgium, tracked on soundcheck, wi
 
 Manu Le Malin, Somniac One, Thrasher
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krtm/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krtm/)*

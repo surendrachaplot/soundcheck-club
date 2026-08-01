@@ -1,6 +1,6 @@
 # Blue Ringed Baby
 
-Blue Ringed Baby is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
+Blue Ringed Baby is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
 
 Blue Ringed Baby is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London, Osaka and Tokyo. Often billed alongside Jake de Glanville, SIMMS and ŌKAMI. Next up: Vespers Club, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Blue Ringed Baby is a jungle and bass artist based in United Kingdom, tracked on
 
 Jake de Glanville, SIMMS, ŌKAMI
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blueringedbaby/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blueringedbaby/)*

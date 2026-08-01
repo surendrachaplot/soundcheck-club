@@ -1,6 +1,6 @@
 # Benny Bysouth
 
-Benny Bysouth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
+Benny Bysouth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
 
 Benny Bysouth is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Leeds, London and Nottingham. Often billed alongside Cam Harrop, A.Wild and Alexia Glensy. Next up: NUMBER 90 LONDON, London on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Benny Bysouth is a techno and house artist based in United Kingdom, tracked on s
 
 Cam Harrop, A.Wild, Alexia Glensy
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybysouth/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybysouth/)*

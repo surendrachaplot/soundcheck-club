@@ -1,18 +1,18 @@
 # CHERCHES
 
-CHERCHES is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+CHERCHES is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club Lucia, Vienna on Fri, 7 Aug 2026.
 
-CHERCHES is a drum & bass and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside COBRA, KEEO.FM and Paul Mile. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+CHERCHES is a drum & bass and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside COBRA, KEEO.FM and Paul Mile. Next up: Club Lucia, Vienna on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 7 Aug 2026 | Club Lucia | Vienna |
 
 ## Recently played
 
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - PRST, Vienna — Sat, 18 Jul 2026
 - TBA - Palais Auersperg, Vienna — Sat, 30 May 2026
 - Das Werk, Vienna — Sun, 24 May 2026
@@ -20,10 +20,9 @@ CHERCHES is a drum & bass and house artist based in Germany, tracked on soundche
 - PRST, Vienna — Fri, 1 May 2026
 - Club Lucia, Vienna — Fri, 20 Mar 2026
 - PRST, Vienna — Fri, 9 Jan 2026
-- Cafe Francais / LE Club, Vienna — Fri, 23 May 2025
 
 ## Shares bills with
 
 COBRA, KEEO.FM, Paul Mile
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cherches/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherches/)*

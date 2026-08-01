@@ -1,6 +1,6 @@
 # Several Definitions
 
-Several Definitions is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+Several Definitions is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 Several Definitions is a techno and club artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Cologne, Geneva, Munich and Zurich. Often billed alongside La Forêt, Rimbu (CH) and Alchemiah. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Several Definitions is a techno and club artist based in Switzerland, tracked on
 
 La Forêt, Rimbu (CH), Alchemiah
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/severaldefinitions/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/severaldefinitions/)*

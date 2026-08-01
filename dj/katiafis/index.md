@@ -1,6 +1,6 @@
 # Katia Fis
 
-Katia Fis is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
+Katia Fis is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
 
 Katia Fis is a bass and house artist tracked on soundcheck, with 17 sets logged across Berlin and Tokyo. Often billed alongside yungfya, Hassandra and Jiun. Next up: TBA, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Katia Fis is a bass and house artist tracked on soundcheck, with 17 sets logged 
 
 yungfya, Hassandra, Jiun
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiafis/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiafis/)*

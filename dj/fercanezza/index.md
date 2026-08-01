@@ -1,6 +1,6 @@
 # Fer Canezza
 
-Fer Canezza is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 7833 Soundlab, Barcelona on Sat, 8 Aug 2026.
+Fer Canezza is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 7833 Soundlab, Barcelona on Sat, 8 Aug 2026.
 
 Fer Canezza is a house and deep house artist based in Chile, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Francis Dhuit, Lukson and Sergio LLamas. Next up: 7833 Soundlab, Barcelona on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Fer Canezza is a house and deep house artist based in Chile, tracked on soundche
 
 Francis Dhuit, Lukson, Sergio LLamas
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fercanezza/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fercanezza/)*

@@ -1,6 +1,6 @@
 # DJ Visitor
 
-DJ Visitor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bambi's, Toronto on Fri, 21 Aug 2026.
+DJ Visitor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bambi's, Toronto on Fri, 21 Aug 2026.
 
 DJ Visitor is a techno and house artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside kathy beu, DR 4SKYN and emmy.wav. Next up: Bambi's, Toronto on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ DJ Visitor is a techno and house artist based in Canada, tracked on soundcheck, 
 
 kathy beu, DR 4SKYN, emmy.wav
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvisitor/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvisitor/)*

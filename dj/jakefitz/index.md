@@ -1,6 +1,6 @@
 # Jake Fitz
 
-Jake Fitz is a Electronica and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Button Factory, Dublin on Sat, 1 Aug 2026.
+Jake Fitz is a Electronica and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Button Factory, Dublin on Sat, 1 Aug 2026.
 
 Jake Fitz is an electronica and minimal artist based in Ireland, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside DIEBYVEG, Hidde van Wee and Lewis Taylor. Next up: Button Factory, Dublin on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Jake Fitz is an electronica and minimal artist based in Ireland, tracked on soun
 
 DIEBYVEG, Hidde van Wee, Lewis Taylor
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*

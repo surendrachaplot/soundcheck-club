@@ -1,6 +1,6 @@
 # malicedeejay
 
-malicedeejay is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Blue Velvet, Berlin on Sun, 2 Aug 2026.
+malicedeejay is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blue Velvet, Berlin on Sun, 2 Aug 2026.
 
 malicedeejay is a hardcore and club artist tracked on soundcheck, with 22 sets logged across Berlin and Edinburgh. Often billed alongside al gu, DV60 and miira. Next up: Blue Velvet, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ malicedeejay is a hardcore and club artist tracked on soundcheck, with 22 sets l
 
 al gu, DV60, miira
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malicedeejay/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malicedeejay/)*

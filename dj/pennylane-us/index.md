@@ -1,6 +1,6 @@
 # Penny Lane
 
-Penny Lane is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat, 1 Aug 2026.
+Penny Lane is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat, 1 Aug 2026.
 
 Penny Lane is a house and deep house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Austin, Miami and Newyorkcity. Often billed alongside Atomyard, Kike Roldan and EQ Music. Next up: TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Penny Lane is a house and deep house artist based in United States of America, t
 
 Atomyard, Kike Roldan, EQ Music
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pennylane-us/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pennylane-us/)*

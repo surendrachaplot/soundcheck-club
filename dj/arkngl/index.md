@@ -1,6 +1,6 @@
 # ARKNGL
 
-ARKNGL is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+ARKNGL is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 ARKNGL is a house and ghetto tech artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside BBSHKALES, Jean Blaire and SALD3E. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ARKNGL is a house and ghetto tech artist tracked on soundcheck, with 9 sets logg
 
 BBSHKALES, Jean Blaire, SALD3E
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*

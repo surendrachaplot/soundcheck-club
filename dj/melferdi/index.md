@@ -1,6 +1,6 @@
 # MelFerdi
 
-MelFerdi is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at John Doe, Amsterdam on Wed, 19 Aug 2026.
+MelFerdi is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at John Doe, Amsterdam on Wed, 19 Aug 2026.
 
 MelFerdi is a techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside All Dave, Baliology and Cortese. Next up: John Doe, Amsterdam on Wed 19 Aug.
 
@@ -23,4 +23,4 @@ MelFerdi is a techno artist based in Netherlands, tracked on soundcheck, with 7 
 
 All Dave, Baliology, Cortese
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*

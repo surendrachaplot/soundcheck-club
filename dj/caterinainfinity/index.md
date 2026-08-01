@@ -1,6 +1,6 @@
 # Caterina Infinity
 
-Caterina Infinity is a Downtempo and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+Caterina Infinity is a Downtempo and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 Caterina Infinity is a downtempo and electro artist based in Canada, tracked on soundcheck, with 11 sets logged across Barcelona, Mexicocity and Montreal. Often billed alongside Don Mescal, Soul Of Zoo and Arteriam. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Caterina Infinity is a downtempo and electro artist based in Canada, tracked on 
 
 Don Mescal, Soul Of Zoo, Arteriam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caterinainfinity/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caterinainfinity/)*

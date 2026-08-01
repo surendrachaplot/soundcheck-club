@@ -1,6 +1,6 @@
 # Félix (UK)
 
-Félix (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
+Félix (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
 
 Félix (UK) is a minimal and tech house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Bali, Barcelona and Ibiza and 1 more. Often billed alongside ACA (YU), Reelow and Dani Corberó. Next up: Eden, Ibiza on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Félix (UK) is a minimal and tech house artist tracked on soundcheck, with 19 se
 
 ACA (YU), Reelow, Dani Corberó
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixuk/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixuk/)*

@@ -1,6 +1,6 @@
 # NVMB
 
-NVMB is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sala Pirandelo, Madrid on Sat, 5 Sept 2026.
+NVMB is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sala Pirandelo, Madrid on Sat, 5 Sept 2026.
 
 NVMB is a trance and techno artist tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Miguel Rivas, P1P3 and JRG. Next up: Sala Pirandelo, Madrid on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ NVMB is a trance and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Miguel Rivas, P1P3, JRG
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nvmb/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nvmb/)*

@@ -1,6 +1,6 @@
 # IZIK
 
-IZIK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hawthorn, San Francisco/Oakland on Sat, 1 Aug 2026.
+IZIK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hawthorn, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 IZIK is a house and techno artist tracked on soundcheck, with 40 sets logged across Miami and Sanfrancisco. Often billed alongside Emanate, Vann Essa and Gru.di. Next up: Hawthorn, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ IZIK is a house and techno artist tracked on soundcheck, with 40 sets logged acr
 
 Emanate, Vann Essa, Gru.di
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*

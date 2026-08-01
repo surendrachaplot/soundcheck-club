@@ -1,6 +1,6 @@
 # Spam
 
-Spam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mood Ring, New York City on Thu, 20 Aug 2026.
+Spam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mood Ring, New York City on Thu, 20 Aug 2026.
 
 Spam is a house and minimal artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Losangeles and Miami and 4 more. Often billed alongside Mz3 (1), Heidi Lawden and Lonald J. Bandz. Next up: Mood Ring, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Spam is a house and minimal artist based in United States of America, tracked on
 
 Mz3 (1), Heidi Lawden, Lonald J. Bandz
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spam/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spam/)*

@@ -1,6 +1,6 @@
 # Khotin
 
-Khotin is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+Khotin is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Khotin is a house and electronica artist tracked on soundcheck, with 30 sets logged across Losangeles, Montreal, Newyorkcity and Osaka and 6 more. Often billed alongside DJ D.Dee, Dane and Patrick Holland. Next up: 1015 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Khotin is a house and electronica artist tracked on soundcheck, with 30 sets log
 
 DJ D.Dee, Dane, Patrick Holland
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/khotin/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khotin/)*

@@ -1,15 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Down & Dirty - LESBERLIN Mud Wrestling Fundraiser" on Fri, 31 Jul 2026.
+OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Small Great House 'August Edition' (Open Air + Indoor)" on Sat, 1 Aug 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Alada, Alexander Kowalski, Alison Swing and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Alexander Kowalski, Alison Swing, Ana Molina and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Down & Dirty - LESBERLIN Mud Wrestling Fundraiser | Haus of Ralph, Trigger T |
-| Fri, 31 Jul 2026 | Dyketopia Club Night / & Official Mud Wrestling After Party  | Alada, DJ Petite, Kiar Oscuro, Miss T Delight, Or_ion |
 | Sat, 1 Aug 2026 | Small Great House 'August Edition' (Open Air + Indoor) | Anna Schreit, Black Loops, Bruno Otranto, DJ Glitterelli, Eva Crystaltips, ICTV, Jay Ru, Jones, Lealaetitia, Luca Olivotto, Malte Süß, Nephews, Quadrakey, Shabi, Siggatunez, Small Great Things. Soundsystem |
 | Sun, 2 Aug 2026 | OXI presents: WRONG ERA (Slow Motion) (OPEN AIR & INDOOR) | Fabrizio Mammarella, Giulia Gutterer, Radondo |
 | Tue, 4 Aug 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Blame The Mono, DJ SKIN, FILTRACK, JenTen |
@@ -18,9 +16,11 @@ OXI is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with li
 | Sat, 8 Aug 2026 | OXI GARTEN 'OPEN AIR' W/ Alison Swing , Baroć , Andrea Zadro b2b DJ Haribo | Alison Swing, Andrea Zadro, Baroć, DJ Haribo |
 | Sun, 9 Aug 2026 | OXI SUNDAYS (OPEN AIR & INDOOR) | Andre Zimmer, Kisling, Lea Czychy, Michal Zietara, Nyna Curtis |
 | Tue, 11 Aug 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Marcel Fengler, Rakans, TAUBE, Zelyna je Belle |
+| Thu, 13 Aug 2026 | DRAG BINGO with Amy Strong 'FREE ENTRY!' |  |
+| Fri, 14 Aug 2026 | ReSolute goes Berlin (Day & Night) | Mari.te, Melchior Productions Ltd, O.BEE, Rasho, Tomas Station, XDB |
 
 ## Address
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

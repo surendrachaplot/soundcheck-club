@@ -1,14 +1,15 @@
 # Frank Leder
 
-Frank Leder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Frau Holle, Hamburg on Fri, 7 Aug 2026.
+Frank Leder is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 7 Aug 2026.
 
-Frank Leder is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Hamburg. Often billed alongside Oliver Eich, Chris Mantanz and Elbstrõm. Next up: Club Frau Holle, Hamburg on Fri 7 Aug.
+Frank Leder is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Hamburg. Often billed alongside Oliver Eich, Chris Mantanz and D.GTLE. Next up: Club Frau Holle, Hamburg on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Club Frau Holle | Hamburg |
+| Sat, 17 Oct 2026 | TBA - Secret Location | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Frank Leder is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Oliver Eich, Chris Mantanz, Elbstrõm
+Oliver Eich, Chris Mantanz, D.GTLE
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankleder/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankleder/)*

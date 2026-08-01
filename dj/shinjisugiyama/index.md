@@ -1,6 +1,6 @@
 # Shinji Sugiyama
 
-Shinji Sugiyama is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 戦国大統領, Osaka on Sat, 8 Aug 2026.
+Shinji Sugiyama is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 戦国大統領, Osaka on Sat, 8 Aug 2026.
 
 Shinji Sugiyama is a psytrance and techno artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka and Tokyo. Often billed alongside Tom Monkey, YUKI.T and MASOI. Next up: 戦国大統領, Osaka on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Shinji Sugiyama is a psytrance and techno artist based in Japan, tracked on soun
 
 Tom Monkey, YUKI.T, MASOI
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinjisugiyama/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinjisugiyama/)*

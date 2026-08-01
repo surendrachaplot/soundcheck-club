@@ -1,14 +1,13 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+DJ Gigola is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-DJ Gigola is a techno and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+DJ Gigola is a techno and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Sat, 8 Aug 2026 | M.O.T | London |
 | Sun, 16 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 239 sets logg
 | Sat, 5 Sept 2026 | TBA | Los Angeles |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
 
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Else, Berlin — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
@@ -30,10 +31,9 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 239 sets logg
 - Under the K Bridge, New York City — Sat, 27 Jun 2026
 - TBA, Paris — Sun, 21 Jun 2026
 - KALT, Strasbourg — Sat, 20 Jun 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 
 ## Shares bills with
 
 MCR-T, KI/KI, Anetha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 32 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "BLINK: MARLO, P.O.U, MIKE BOND, KARLIE CHUI" on Fri, 31 Jul 2026.
+Ministry Of Sound is a music venue in London with 31 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "URGE 007: Ale De Tuglie b2b Frank Storm, Ramoss + more" on Sat, 1 Aug 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including Ale De Tuglie, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Ale De Tuglie, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | BLINK: MARLO, P.O.U, MIKE BOND, KARLIE CHUI | P.O.U |
 | Sat, 1 Aug 2026 | URGE 007: Ale De Tuglie b2b Frank Storm, Ramoss + more | Ale De Tuglie, Daniella Font, Frank Storm, James Wyler, MACK (IS), Murr, Ramoss, Shahar |
 | Fri, 7 Aug 2026 | BLINK: ZERB, ROLIPSO, MDDLTN, Opus | Kruel Intentions, Opus |
 | Sat, 8 Aug 2026 | BLINK: TOM ENZY, Eden Prince + MORE | Eden Prince |
@@ -18,9 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 32 upcoming n
 | Sat, 15 Aug 2026 | Release Day Party | Sef Kombo, Teaser DJ |
 | Tue, 18 Aug 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 21 Aug 2026 | BLINK: KAREN HARDING, Nancie, RAPHI, STEPHANI B | Nancie |
+| Sat, 22 Aug 2026 | Rulin: DJ Harvey (All Night Long) | DJ Harvey |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

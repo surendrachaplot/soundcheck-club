@@ -1,6 +1,6 @@
 # 3 Minds
 
-3 Minds is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
+3 Minds is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
 
 3 Minds is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Ibiza, Leeds, London and Manchester and 2 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: The Fox and Firkin, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 Terry Francis, Eddie Richards, Silverlining
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*

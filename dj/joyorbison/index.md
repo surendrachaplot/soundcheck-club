@@ -1,8 +1,8 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Joy Orbison is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
-Joy Orbison is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
+Joy Orbison is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 98 sets log
 | Sat, 5 Sept 2026 | TBA | Toronto |
 | Sun, 6 Sept 2026 | Knockdown Center | New York City |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 98 sets log
 
 Interplanetary Criminal, Overmono, Jyoty
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*

@@ -1,6 +1,6 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "PIP Season Opening" on Sat, 29 Aug 2026.
+PIP Den Haag is a music venue in The Hague with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "PIP Season Opening" on Sat, 29 Aug 2026.
 
 PIP Den Haag is a music venue in Thehague listed on soundcheck. 7 upcoming nights, with line-ups including Afra, David Vunk, Doppelgang and Eileen (NL) and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
@@ -20,4 +20,4 @@ PIP Den Haag is a music venue in Thehague listed on soundcheck. 7 upcoming night
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

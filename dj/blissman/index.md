@@ -1,6 +1,6 @@
 # Blissman
 
-Blissman is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at BERHTA, Washington DC on Sat, 1 Aug 2026.
+Blissman is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at BERHTA, Washington DC on Sat, 1 Aug 2026.
 
 Blissman is an amapiano and afrobeats artist tracked on soundcheck, with 7 sets logged across London, Losangeles and Washingtondc. Often billed alongside Space FX, Charisse C and Hu Dat. Next up: BERHTA, Washingtondc on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Blissman is an amapiano and afrobeats artist tracked on soundcheck, with 7 sets 
 
 Space FX, Charisse C, Hu Dat
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blissman/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blissman/)*

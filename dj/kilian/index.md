@@ -1,6 +1,6 @@
 # KILIÅN
 
-KILIÅN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
+KILIÅN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Das Werk, Vienna on Fri, 14 Aug 2026.
 
 KILIÅN is a techno and trance artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Milan, Nurnberg and Stockholm and 1 more. Often billed alongside Joey (2), Crystal O and keha. Next up: Das Werk, Vienna on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ KILIÅN is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Joey (2), Crystal O, keha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilian/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilian/)*

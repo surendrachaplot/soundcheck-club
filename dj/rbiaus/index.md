@@ -1,6 +1,6 @@
 # RBI (Aus)
 
-RBI (Aus) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
+RBI (Aus) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
 
 RBI (Aus) is a trance and techno artist based in Australia, tracked on soundcheck, with 17 sets logged across Athens, Berlin, London and Madrid and 4 more. Often billed alongside Jan Swam, TSUNIMAN and colell. Next up: Ormside Projects, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ RBI (Aus) is a trance and techno artist based in Australia, tracked on soundchec
 
 Jan Swam, TSUNIMAN, colell
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rbiaus/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rbiaus/)*

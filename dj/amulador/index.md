@@ -1,14 +1,13 @@
 # Amulador
 
-Amulador is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ministerium Club, Lisbon on Fri, 31 Jul 2026.
+Amulador is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gare Porto, Porto on Sat, 1 Aug 2026.
 
-Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Ministerium Club, Lisbon on Fri 31 Jul.
+Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Gare Porto, Porto on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Ministerium Club | Lisbon |
 | Sat, 1 Aug 2026 | Gare Porto | Porto |
 | Thu, 6 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 14 Aug 2026 | Gare Porto | Porto |
@@ -18,6 +17,7 @@ Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets
 
 ## Recently played
 
+- Ministerium Club, Lisbon — Fri, 31 Jul 2026
 - Gare Porto, Porto — Sat, 18 Jul 2026
 - Gare Porto, Porto — Sat, 11 Jul 2026
 - 5A, Lisbon — Sat, 4 Jul 2026
@@ -25,10 +25,9 @@ Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets
 - Gare Porto, Porto — Fri, 26 Jun 2026
 - Harbour Music Shelter, Lisbon — Sat, 13 Jun 2026
 - KHIDI, Tbilisi — Fri, 5 Jun 2026
-- Gare Porto, Porto — Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Andre Cascais, Maria Callapez, Tiago Fragateiro
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*

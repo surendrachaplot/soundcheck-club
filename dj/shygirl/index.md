@@ -1,6 +1,6 @@
 # Shygirl
 
-Shygirl is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Shygirl is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Shygirl is a pop and techno artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 18 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Shygirl is a pop and techno artist based in United Kingdom, tracked on soundchec
 
 Charlotte de Witte, Eliza Rose, Honey Dijon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*

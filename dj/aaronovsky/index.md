@@ -1,8 +1,8 @@
 # Aaronovsky
 
-Aaronovsky is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
+Aaronovsky is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
 
-Aaronovsky is a house and trance artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Aezron, Bakläxa and FoxMind. Next up: Plattenvereinigung, Berlin on Sun 16 Aug.
+Aaronovsky is a bass and techno artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Aezron, Bakläxa and FoxMind. Next up: Plattenvereinigung, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Aaronovsky is a house and trance artist tracked on soundcheck, with 16 sets logg
 
 ## Recently played
 
+- THF Radio / Torhaus, Berlin — Sat, 11 Jul 2026
 - OHM, Berlin — Thu, 2 Apr 2026
 - Renate, Berlin — Thu, 4 Dec 2025
 - Panke, Berlin — Sun, 28 Sept 2025
@@ -19,10 +20,9 @@ Aaronovsky is a house and trance artist tracked on soundcheck, with 16 sets logg
 - TBA - Neukölln, Berlin — Sat, 17 May 2025
 - TBA - Secret location Neukölln, Berlin — Sun, 23 Mar 2025
 - Grüner Salon Der Volksbühne, Berlin — Fri, 7 Feb 2025
-- Humboldthain Club, Berlin — Sat, 30 Nov 2024
 
 ## Shares bills with
 
 Aezron, Bakläxa, FoxMind
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronovsky/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronovsky/)*

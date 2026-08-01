@@ -1,6 +1,6 @@
 # MFD
 
-MFD is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+MFD is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 MFD is a house and afro house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Boston and London. Often billed alongside Beezo, DJ S (UK) and DRIA. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ MFD is a house and afro house artist based in United States of America, tracked 
 
 Beezo, DJ S (UK), DRIA
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfd/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfd/)*

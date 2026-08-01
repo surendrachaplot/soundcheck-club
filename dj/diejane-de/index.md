@@ -1,6 +1,6 @@
 # Die Jane
 
-Die Jane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 1 Aug 2026.
+Die Jane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 1 Aug 2026.
 
 Die Jane is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne, Tokyo and Vienna. Often billed alongside MoodFreak, Planty Snips and Vagabund. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Die Jane is a house and techno artist based in Germany, tracked on soundcheck, w
 
 MoodFreak, Planty Snips, Vagabund
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diejane-de/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diejane-de/)*

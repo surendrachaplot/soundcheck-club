@@ -1,6 +1,6 @@
 # maurinstarr
 
-maurinstarr is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 1 Aug 2026.
+maurinstarr is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 1 Aug 2026.
 
 maurinstarr is a techno and trance artist based in Denmark, tracked on soundcheck, with 25 sets logged across Berlin, Budapest, Copenhagen and Melbourne and 4 more. Often billed alongside Matriark, Sham (DK) and Afgang. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ maurinstarr is a techno and trance artist based in Denmark, tracked on soundchec
 
 Matriark, Sham (DK), Afgang
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maurinstarr/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurinstarr/)*

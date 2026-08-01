@@ -1,6 +1,6 @@
 # Le Kaiju
 
-Le Kaiju is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le Sucre, Lyon on Fri, 7 Aug 2026.
+Le Kaiju is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Sucre, Lyon on Fri, 7 Aug 2026.
 
 Le Kaiju is a techno and electro artist based in France, tracked on soundcheck, with 28 sets logged across Brussels, Lyon, Marseille and Nantes and 2 more. Often billed alongside MARIAD, encore une autre and Ellen Allien. Next up: Le Sucre, Lyon on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Le Kaiju is a techno and electro artist based in France, tracked on soundcheck, 
 
 MARIAD, encore une autre, Ellen Allien
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lekaiju/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lekaiju/)*

@@ -1,6 +1,6 @@
 # Ennio Tyson
 
-Ennio Tyson is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at C12, Brussels on Sat, 1 Aug 2026.
+Ennio Tyson is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at C12, Brussels on Sat, 1 Aug 2026.
 
 Ennio Tyson is an electro and minimal artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Brussels. Often billed alongside Kappen, Yela and Latence. Next up: C12, Brussels on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Ennio Tyson is an electro and minimal artist based in Netherlands, tracked on so
 
 Kappen, Yela, Latence
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enniotyson/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enniotyson/)*

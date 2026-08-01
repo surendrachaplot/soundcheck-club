@@ -1,6 +1,6 @@
 # Ollie Drummond
 
-Ollie Drummond is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Ollie Drummond is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Ollie Drummond is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside Jake Hodgkinson, Terry Francis and 3 Minds. Next up: TBA, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ollie Drummond is a house and techno artist tracked on soundcheck, with 24 sets 
 
 Jake Hodgkinson, Terry Francis, 3 Minds
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olliedrummond/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olliedrummond/)*

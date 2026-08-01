@@ -1,6 +1,6 @@
 # Hannie Phi
 
-Hannie Phi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at frachtkante, Berlin on Sat, 1 Aug 2026.
+Hannie Phi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at frachtkante, Berlin on Sat, 1 Aug 2026.
 
 Hannie Phi is a house and techno artist tracked on soundcheck, with 41 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside jewelry, karete bu and Josiane. Next up: frachtkante, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Hannie Phi is a house and techno artist tracked on soundcheck, with 41 sets logg
 
 jewelry, karete bu, Josiane
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanniephi/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanniephi/)*

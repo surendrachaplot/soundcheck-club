@@ -1,6 +1,6 @@
 # Bouki
 
-Bouki is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chinese Laundry, Sydney on Sat, 29 Aug 2026.
+Bouki is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Chinese Laundry, Sydney on Sat, 29 Aug 2026.
 
 Bouki is a garage and bass artist tracked on soundcheck, with 59 sets logged across Brisbane, Lyon, Melbourne and Strasbourg and 1 more. Often billed alongside Obeido, Bella Bella and Mimi J. Next up: Chinese Laundry, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bouki is a garage and bass artist tracked on soundcheck, with 59 sets logged acr
 
 Obeido, Bella Bella, Mimi J
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*

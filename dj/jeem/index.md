@@ -1,6 +1,6 @@
 # JEEM
 
-JEEM is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
+JEEM is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kaiho, London on Sat, 1 Aug 2026.
 
 JEEM is a disco and house artist based in Saudi Arabia, tracked on soundcheck, with 8 sets logged across London and Seoul. Often billed alongside Mom Jeans, Owen PM and fat hands. Next up: Kaiho, London on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ JEEM is a disco and house artist based in Saudi Arabia, tracked on soundcheck, w
 
 Mom Jeans, Owen PM, fat hands
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeem/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeem/)*

@@ -1,6 +1,6 @@
 # Bäggy
 
-Bäggy is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Insomnia, Berlin on Fri, 21 Aug 2026.
+Bäggy is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Insomnia, Berlin on Fri, 21 Aug 2026.
 
 Bäggy is a techno and progressive house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Cologne and Munich. Often billed alongside Kriszpy, OELEX and Upzet. Next up: Insomnia, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bäggy is a techno and progressive house artist based in Germany, tracked on sou
 
 Kriszpy, OELEX, Upzet
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baggy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baggy/)*

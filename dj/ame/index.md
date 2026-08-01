@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+Âme is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
 Âme is a techno and house artist tracked on soundcheck, with 342 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Boston Manor Park, London on Sat 1 Aug.
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

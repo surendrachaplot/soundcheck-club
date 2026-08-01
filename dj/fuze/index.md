@@ -1,6 +1,6 @@
 # FUZE
 
-FUZE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bermondsey Social Club, London on Sat, 15 Aug 2026.
+FUZE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bermondsey Social Club, London on Sat, 15 Aug 2026.
 
 FUZE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside ACID HARRY, Anton X and HARTY. Next up: Bermondsey Social Club, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ FUZE is a house and tech house artist based in United Kingdom, tracked on soundc
 
 ACID HARRY, Anton X, HARTY
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuze/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fuze/)*

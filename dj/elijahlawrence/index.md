@@ -1,6 +1,6 @@
 # Elijah Lawrence
 
-Elijah Lawrence is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
+Elijah Lawrence is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Sat, 15 Aug 2026.
 
 Elijah Lawrence is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Manchester. Often billed alongside Lescu, Jack Ling and Jayar. Next up: Starlane Pizza Bar, London on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Elijah Lawrence is a trance and techno artist based in United Kingdom, tracked o
 
 Lescu, Jack Ling, Jayar
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahlawrence/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahlawrence/)*

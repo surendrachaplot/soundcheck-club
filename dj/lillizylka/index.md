@@ -1,6 +1,6 @@
 # Lilli Zylka
 
-Lilli Zylka is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Lilli Zylka is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Lilli Zylka is a techno and jungle artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Oslo. Often billed alongside LILLI, Severja and Aa Sudd. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Lilli Zylka is a techno and jungle artist based in Germany, tracked on soundchec
 
 LILLI, Severja, Aa Sudd
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillizylka/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillizylka/)*

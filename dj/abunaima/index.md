@@ -1,6 +1,6 @@
 # Abu Naima
 
-Abu Naima is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Soulkitchen Vienna, Vienna on Sat, 1 Aug 2026.
+Abu Naima is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Soulkitchen Vienna, Vienna on Sat, 1 Aug 2026.
 
 Abu Naima is an electronic artist based in Austria, tracked on soundcheck, with 11 sets logged across Berlin and Vienna. Often billed alongside Qamareen, LIONESSA and Leila Moon. Next up: Soulkitchen Vienna, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Abu Naima is an electronic artist based in Austria, tracked on soundcheck, with 
 
 Qamareen, LIONESSA, Leila Moon
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abunaima/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abunaima/)*

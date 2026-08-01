@@ -1,6 +1,6 @@
 # sima k
 
-sima k is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at BRET, Amsterdam on Sat, 22 Aug 2026.
+sima k is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at BRET, Amsterdam on Sat, 22 Aug 2026.
 
 sima k is a house and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Ghent, London and Rotterdam. Often billed alongside Daan Donk, Taylor Taylor and Ramos (3). Next up: BRET, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ sima k is a house and techno artist tracked on soundcheck, with 22 sets logged a
 
 Daan Donk, Taylor Taylor, Ramos (3)
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sima-k/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sima-k/)*

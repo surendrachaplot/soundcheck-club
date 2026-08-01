@@ -1,6 +1,6 @@
 # SIKOTI
 
-SIKOTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+SIKOTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 SIKOTI is a techno and trance artist tracked on soundcheck, with 134 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 39 more. Often billed alongside Alex Farell, Azyr and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SIKOTI is a techno and trance artist tracked on soundcheck, with 134 sets logged
 
 Alex Farell, Azyr, Faster Horses
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikoti/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikoti/)*

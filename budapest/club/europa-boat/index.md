@@ -1,6 +1,6 @@
 # Europa Boat
 
-Europa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SOLD OUT Cruisin x B/plr. x Uvar x Deepfields with Priku / Arapu / Sepp / Nu Zau" on Sat, 1 Aug 2026.
+Europa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SOLD OUT Cruisin x B/plr. x Uvar x Deepfields with Priku / Arapu / Sepp / Nu Zau" on Sat, 1 Aug 2026.
 
 Europa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Adriana Lopez, Arapu, Claudio PRC and Evil Nine and 2 more. Browse upcoming dates, start times and who's playing. Szilágyi Dezső tér, 1011 Budapest.
 
@@ -18,4 +18,4 @@ Europa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights
 
 Szilágyi Dezső tér, 1011 Budapest, Budapest
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/europa-boat/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/europa-boat/)*

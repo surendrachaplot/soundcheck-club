@@ -1,6 +1,6 @@
 # Anja Zaube
 
-Anja Zaube is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Anja Zaube is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Anja Zaube is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Wasn & Wunderwaffel, Diwa and Barbara Hofmann. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Anja Zaube is a techno and house artist based in Germany, tracked on soundcheck,
 
 Wasn & Wunderwaffel, Diwa, Barbara Hofmann
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anjazaube/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjazaube/)*

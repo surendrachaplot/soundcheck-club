@@ -1,6 +1,6 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+STRAWBRY is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 STRAWBRY is a house and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco. Often billed alongside ATRIP, BIATA and Hannah Laing. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ STRAWBRY is a house and club artist based in United States of America, tracked o
 
 ATRIP, BIATA, Hannah Laing
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*

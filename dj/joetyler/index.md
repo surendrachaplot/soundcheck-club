@@ -1,6 +1,6 @@
 # Joe Tyler
 
-Joe Tyler is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+Joe Tyler is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
 Joe Tyler is a house and acid artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Mary X, macchiato and Aletha. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Joe Tyler is a house and acid artist based in United Kingdom, tracked on soundch
 
 Mary X, macchiato, Aletha
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joetyler/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joetyler/)*

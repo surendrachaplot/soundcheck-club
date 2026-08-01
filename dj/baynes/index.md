@@ -1,6 +1,6 @@
 # BAYNES
 
-BAYNES is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
+BAYNES is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
 
 BAYNES is a techno and house artist tracked on soundcheck, with 14 sets logged across Dublin, London and Manchester. Often billed alongside Diana Loredana, Thomas Galbardi and Joevkid. Next up: Pawn Shop, Dublin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BAYNES is a techno and house artist tracked on soundcheck, with 14 sets logged a
 
 Diana Loredana, Thomas Galbardi, Joevkid
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baynes/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baynes/)*

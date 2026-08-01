@@ -1,6 +1,6 @@
 # Maslow Unknown
 
-Maslow Unknown is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 11 Sept 2026.
+Maslow Unknown is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Maslow Unknown is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Brighton, Ibiza and Leeds and 5 more. Often billed alongside Bedfactory Records, Sway-B and Ashkaan. Next up: Hï Ibiza, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Maslow Unknown is a house and deep house artist based in United Kingdom, tracked
 
 Bedfactory Records, Sway-B, Ashkaan
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maslowunknown/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maslowunknown/)*

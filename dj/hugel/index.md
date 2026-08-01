@@ -1,6 +1,6 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Hugel is a House and Afro House artist with 15 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Hugel is a house and afro house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Hugel is a house and afro house artist tracked on soundcheck, with 131 sets logg
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

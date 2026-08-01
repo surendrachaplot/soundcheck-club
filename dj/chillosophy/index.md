@@ -1,14 +1,15 @@
 # Chillosophy
 
-Chillosophy is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Bushwick Location (revealed to ticket holders), New York City on Sat, 1 Aug 2026.
+Chillosophy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Bushwick Location (revealed to ticket holders), New York City on Sat, 1 Aug 2026.
 
-Chillosophy is a techno and tech house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Berlin, Leipzig and Newyorkcity. Often billed alongside baby-g, ACIDMOM and Zombi Adam. Next up: TBA - Secret Bushwick Location (revealed to ticket holders), Newyorkcity on Sat 1 Aug.
+Chillosophy is a techno and house artist based in United States of America, tracked on soundcheck, with 62 sets logged across Berlin, Leipzig and Newyorkcity. Often billed alongside baby-g, ACIDMOM and Zombi Adam. Next up: TBA - Secret Bushwick Location (revealed to ticket holders), Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Secret Bushwick Location (revealed to ticket holders) | New York City |
+| Sat, 19 Sept 2026 | The Onyx Room at House of Yes | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Chillosophy is a techno and tech house artist based in United States of America,
 
 baby-g, ACIDMOM, Zombi Adam
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chillosophy/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chillosophy/)*

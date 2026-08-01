@@ -1,6 +1,6 @@
 # Slowmode
 
-Slowmode is a Electronica and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at B-SIDE, Warsaw on Sat, 1 Aug 2026.
+Slowmode is a Electronica and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at B-SIDE, Warsaw on Sat, 1 Aug 2026.
 
 Slowmode is an electronica and minimal artist tracked on soundcheck, with 60 sets logged across Krakow and Warsaw. Often billed alongside zeroday, Salat and Pean. Next up: B-SIDE, Warsaw on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Slowmode is an electronica and minimal artist tracked on soundcheck, with 60 set
 
 zeroday, Salat, Pean
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*

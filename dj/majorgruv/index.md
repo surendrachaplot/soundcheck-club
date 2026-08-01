@@ -1,6 +1,6 @@
 # Major Gruv
 
-Major Gruv is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
+Major Gruv is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
 
 Major Gruv is a house and progressive house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity and Washingtondc. Often billed alongside microfossil, Giovannii and maenad. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Major Gruv is a house and progressive house artist based in United States of Ame
 
 microfossil, Giovannii, maenad
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majorgruv/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majorgruv/)*

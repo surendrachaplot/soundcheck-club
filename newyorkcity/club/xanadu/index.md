@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & auden barbour " on Sun, 2 Aug 2026.
+Xanadu is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & auden barbour " on Sun, 2 Aug 2026.
 
 Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Dirtyfinger and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -21,4 +21,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

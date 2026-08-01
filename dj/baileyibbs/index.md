@@ -1,6 +1,6 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Fri, 7 Aug 2026.
+Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Else, Berlin on Fri, 7 Aug 2026.
 
 Bailey Ibbs is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 43 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Else, Berlin on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 154 sets lo
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

@@ -1,6 +1,6 @@
 # Cathy Grogan
 
-Cathy Grogan is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Radio Radio, Amsterdam on Sat, 1 Aug 2026.
+Cathy Grogan is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Radio Radio, Amsterdam on Sat, 1 Aug 2026.
 
 Cathy Grogan is a house artist based in Ireland, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside BELLA (NL), Benny2 and Cinnaman. Next up: Radio Radio, Amsterdam on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Cathy Grogan is a house artist based in Ireland, tracked on soundcheck, with 4 s
 
 BELLA (NL), Benny2, Cinnaman
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cathygrogan/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cathygrogan/)*

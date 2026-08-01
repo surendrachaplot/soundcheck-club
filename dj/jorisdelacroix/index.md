@@ -1,6 +1,6 @@
 # Joris Delacroix
 
-Joris Delacroix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Friche Belle de Mai, Marseille on Thu, 6 Aug 2026.
+Joris Delacroix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Friche Belle de Mai, Marseille on Thu, 6 Aug 2026.
 
 Joris Delacroix is a techno and house artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Geneva and Ibiza and 10 more. Often billed alongside Joachim Pastor, Teho and Acid Arab. Next up: Friche Belle de Mai, Marseille on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Joris Delacroix is a techno and house artist based in France, tracked on soundch
 
 Joachim Pastor, Teho, Acid Arab
 
-*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisdelacroix/)*
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisdelacroix/)*
