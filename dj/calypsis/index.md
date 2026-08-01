@@ -1,13 +1,14 @@
 # Calypsis
 
-Calypsis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+Calypsis is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Calypsis is a techno and house artist based in Mexico, tracked on soundcheck, with 63 sets logged across Berlin, Frankfurt, Istanbul and Leipzig and 2 more. Often billed alongside Basstronauten, Daniel Boon and Markus Klee. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
+Calypsis is a techno and house artist based in Mexico, tracked on soundcheck, with 64 sets logged across Berlin, Frankfurt, Istanbul and Leipzig and 2 more. Often billed alongside Markus Klee, Basstronauten and Daniel Boon. Next up: TBA - Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 5 Sept 2026 | MTW | Frankfurt |
 
@@ -24,6 +25,6 @@ Calypsis is a techno and house artist based in Mexico, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Basstronauten, Daniel Boon, Markus Klee
+Markus Klee, Basstronauten, Daniel Boon
 
 *Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsis/)*

@@ -10,7 +10,7 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming nights,
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Blowout UK: The Divided Kingdom Tour - Leeds |  |
 | Mon, 24 Aug 2026 | Hyperfixation | LUNAx3 |
-| Fri, 28 Aug 2026 | SUBVERGE W/ James Frances ,Rachel Jazz ,Chris I'Anson ,Adam Bennett & Optimistic Soul | Chris I'Anson, James Frances, Optimistic Soul, Rachel Jazz |
+| Fri, 28 Aug 2026 | SUBVERGE W/ James Frances, Rachel Jazz, Chris I'Anson, Adam Bennett & Optimistic Soul | Chris I'Anson, James Frances, Optimistic Soul, Rachel Jazz |
 | Sat, 5 Sept 2026 | ARC LIVE | B-HIND, Gaz Rowland, camukg |
 | Sat, 12 Sept 2026 | Fortissimo presents: DJ Bax | DJ Bax |
 | Fri, 18 Sept 2026 | T40: RUFFRUFF | Rubb3rducki |

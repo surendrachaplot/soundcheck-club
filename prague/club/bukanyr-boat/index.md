@@ -14,7 +14,7 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming nights,
 | Fri, 14 Aug 2026 | SPANK - djs Identic, Ondrej K, Manntracs | Identic, Manntracs, Ondrej K |
 | Sat, 15 Aug 2026 | VIZE - djs Jesse, ASCENDER, Hiro, Jan Nedvěd | ASCENDER, Hiro |
 | Fri, 21 Aug 2026 | Vivacity - Pavel Bidlo, Cubik, Kobe | Cubik, Kobe |
-| Sat, 22 Aug 2026 | Moving Pictures - djs Roman Rai, Vik, Daniel Neighbour | Daniel Neighbour, Roman Rai |
+| Sat, 22 Aug 2026 | Moving Pictures - djs Roman Rai, Vik, Daniel Neighbour, Sidartha Siliceo live (sitar & drums) | Daniel Neighbour, Roman Rai |
 | Fri, 28 Aug 2026 | Bukanyr Boat: 28th Anniversary w. Biesmans (Running Back / Berlin) | Biesmans, Biodan, Blackloud, S.Tian |
 | Sat, 29 Aug 2026 | Weltraum - djs Silvester Suske, Axis Alpha, Eva Falt | Axis Alpha, Eva Falt |
 

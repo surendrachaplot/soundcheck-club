@@ -1,13 +1,14 @@
 # Esoniq
 
-Esoniq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
+Esoniq is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
 
-Esoniq is a house and techno artist tracked on soundcheck, with 46 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Waxid and HP-82. Next up: Teritorija, Riga on Fri 14 Aug.
+Esoniq is a house and techno artist tracked on soundcheck, with 47 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Waxid and HP-82. Next up: Teritorija, Riga on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Teritorija | Riga |
 | Fri, 14 Aug 2026 | Teritorija | Riga |
 
 ## Recently played

@@ -11,7 +11,7 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 180 sets log
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Wed, 5 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
-| Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Thu, 27 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |

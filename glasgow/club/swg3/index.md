@@ -1,8 +1,8 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLY presents Chris Stussy Scotland | Lost, Found & Forgotten..." on Fri, 7 Aug 2026.
+SWG3 is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLY presents Chris Stussy Scotland | Lost, Found & Forgotten..." on Fri, 7 Aug 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including AXION, Benwal, Chris Stussy and Funk Tribu and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including AXION, Benwal, Chris Stussy and Funk Tribu and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 

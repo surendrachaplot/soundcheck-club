@@ -1,8 +1,8 @@
 # Hades
 
-Hades is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ZEROTOKYO, Tokyo on Mon, 10 Aug 2026.
+Hades is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ZEROTOKYO, Tokyo on Mon, 10 Aug 2026.
 
-Hades is a techno and hardcore artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside KARAH, CARV and JAZZY (2). Next up: ZEROTOKYO, Tokyo on Mon 10 Aug.
+Hades is a techno and hardcore artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside KARAH, CARV and JAZZY (2). Next up: ZEROTOKYO, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hades is a techno and hardcore artist tracked on soundcheck, with 64 sets logged
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | ZEROTOKYO | Tokyo |
 | Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
+| Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 
 ## Recently played
 

@@ -1,14 +1,14 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Basement Sessions: Syntax, Reimond, Hanz b2b King Arthur" on Sat, 1 Aug 2026.
+Hidden is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "[CANCELLED] Basement Sessions: Syntax, Reimond, Hanz b2b King Arthur" on Sat, 1 Aug 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including Charlie Shell, Chimpo, Christian AB and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including Charlie Shell, Chimpo, Christian AB and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Basement Sessions: Syntax, Reimond, Hanz b2b King Arthur | Hanz, K1ng Arthur, Reimond, Syntax (2) |
+| Sat, 1 Aug 2026 | [CANCELLED] Basement Sessions: Syntax, Reimond, Hanz b2b King Arthur | Hanz, K1ng Arthur, Reimond, Syntax (2) |
 | Sat, 8 Aug 2026 | Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky  | Chimpo, DJ Flight, Spooky |
 | Fri, 21 Aug 2026 | Parallel: Keefy G + Support | Hanz, Jovak, K1ng Arthur, Keefy G |
 | Sun, 30 Aug 2026 | Luke Una presents É Soul Cultura | Luke Una |

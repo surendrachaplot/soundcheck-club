@@ -1,8 +1,8 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ETHERNET ft Madness Of" on Sat, 1 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ETHERNET ft Madness Of" on Sat, 1 Aug 2026.
 
-TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 15 upcoming nights, with line-ups including ARMANA KHAN, Binh, CFCF and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 16 upcoming nights, with line-ups including ARMANA KHAN, Binh, CFCF and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
@@ -17,7 +17,7 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 15 upcomi
 | Fri, 7 Aug 2026 | ARMANA KHAN RESIDENCY 001 | ARMANA KHAN, Franxx |
 | Sat, 8 Aug 2026 | ARMANA KHAN RESIDENCY 001 | ARMANA KHAN |
 | Thu, 13 Aug 2026 | Substrate Pres. Moktar | Moktar |
-| Thu, 20 Aug 2026 | Substrate pres. DJ Stingray 313 | DJ Stingray 313 |
+| Sat, 15 Aug 2026 | MÖYA AFRO HOUSE PRESENTS G-WASH10 |  |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # MIDI War
 
-MIDI War is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
+MIDI War is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at clubasia, Tokyo on Wed, 5 Aug 2026.
 
-MIDI War is a hardcore and techno artist tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside Coretex, KAMIKAZE and DJ Shimamura. Next up: Circus Tokyo, Tokyo on Sat 8 Aug.
+MIDI War is a hardcore and techno artist tracked on soundcheck, with 48 sets logged across Osaka and Tokyo. Often billed alongside Coretex, KAMIKAZE and DJ Shimamura. Next up: clubasia, Tokyo on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 5 Aug 2026 | clubasia | Tokyo |
 | Sat, 8 Aug 2026 | Circus Tokyo | Tokyo |
 | Fri, 21 Aug 2026 | R Lounge | Tokyo |
 

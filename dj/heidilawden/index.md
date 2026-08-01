@@ -21,7 +21,7 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 164 sets lo
 - TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 17 Jul 2026
 - The Escondite (The Hideout), Los Angeles — Sun, 12 Jul 2026
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - TBA - 1800 Ocean Front Walk, Venice , Los Angeles — Fri, 10 Jul 2026
 - TBA - Rave DEN, Los Angeles — Sat, 27 Jun 2026
 - François Ghebaly + Night Gallery, Los Angeles — Sat, 27 Jun 2026

@@ -9,7 +9,7 @@ Mark Dekoda is a techno and electro artist tracked on soundcheck, with 54 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
-| Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

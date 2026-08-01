@@ -2,7 +2,7 @@
 
 Dru Ruiz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
-Dru Ruiz is a techno and house artist tracked on soundcheck, with 139 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside DJ Hyperactive, Garrison XR and Augustus Williams. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
+Dru Ruiz is a techno and house artist tracked on soundcheck, with 140 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside DJ Hyperactive, Garrison XR and Augustus Williams. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -16,11 +16,11 @@ Dru Ruiz is a techno and house artist tracked on soundcheck, with 139 sets logge
 - Spkrbox, Detroit — Sun, 26 Jul 2026
 - TBA - The Vault 313, Detroit — Sat, 25 Jul 2026
 - Spkrbox, Detroit — Sun, 12 Jul 2026
+- MotorCity Wine, Detroit — Mon, 6 Jul 2026
 - Spkrbox, Detroit — Sun, 28 Jun 2026
 - Cannons, Detroit — Sat, 27 Jun 2026
 - Cannons, Detroit — Sat, 20 Jun 2026
 - Spkrbox, Detroit — Sun, 14 Jun 2026
-- Spkrbox, Detroit — Tue, 26 May 2026
 
 ## Shares bills with
 

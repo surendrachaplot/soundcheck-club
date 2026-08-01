@@ -1,14 +1,15 @@
 # Avision
 
-Avision is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Stereo, Montreal on Sat, 1 Aug 2026.
+Avision is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Stereo, Montreal on Sat, 1 Aug 2026.
 
-Avision is a house and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Maceo Plex, Victor Calderone and Alan Fitzpatrick. Next up: Stereo, Montreal on Sat 1 Aug.
+Avision is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Maceo Plex, Victor Calderone and Alan Fitzpatrick. Next up: Stereo, Montreal on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Stereo | Montreal |
+| Sat, 8 Aug 2026 | Refuge | New York City |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # BENZA
 
-BENZA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Red Rattler, Sydney on Sat, 1 Aug 2026.
+BENZA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Red Rattler, Sydney on Sat, 1 Aug 2026.
 
-BENZA is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 13 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: The Red Rattler, Sydney on Sat 1 Aug.
+BENZA is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 14 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: The Red Rattler, Sydney on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BENZA is a techno and house artist tracked on soundcheck, with 59 sets logged ac
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | The Red Rattler | Sydney |
 | Fri, 7 Aug 2026 | Else | Berlin |
+| Fri, 21 Aug 2026 | Refuge | New York City |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played

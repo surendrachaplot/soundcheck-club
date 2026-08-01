@@ -1,14 +1,15 @@
 # Diffrent
 
-Diffrent is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Thompsons Garage, Belfast on Sat, 8 Aug 2026.
+Diffrent is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Thompsons Garage, Belfast on Sat, 8 Aug 2026.
 
-Diffrent is a garage and house artist tracked on soundcheck, with 123 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 38 more. Often billed alongside Kyle Starkey, SAIDAH and Faster Horses. Next up: Thompsons Garage, Belfast on Sat 8 Aug.
+Diffrent is a house and garage artist tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 38 more. Often billed alongside Kyle Starkey, SAIDAH and Faster Horses. Next up: Thompsons Garage, Belfast on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Thompsons Garage | Belfast |
+| Fri, 21 Aug 2026 | Artheater | Cologne |
 | Mon, 24 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 27 Aug 2026 | Night Tales | London |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |

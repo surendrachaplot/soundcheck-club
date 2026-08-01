@@ -13,7 +13,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 30 upcoming 
 | Sun, 2 Aug 2026 | Saints & Sinners with Jeneva b2b Vesolo, Noah Tauber, S Ruston, Ylia b2b Aniaef | Aniaef, Jeneva, Noah Tauber, S Ruston, Vesolo, Ylia (UK) |
 | Fri, 7 Aug 2026 | LITM @ Starlane Pizza Bar | HCTR, JFULLER, Myles Basford, Reece Daines, Robbie Cullen, TommyGDJ, jjmorris4 |
 | Sat, 8 Aug 2026 | Lewis Carroll (All Day Long) [SOLD OUT]  | Lewis Carroll |
-| Sat, 8 Aug 2026 | Juice Rekords | Jeremy Sylvester |
+| Sat, 8 Aug 2026 | Juice Rekords presents: Jeremy Sylvester + more | Jeremy Sylvester |
 | Sun, 9 Aug 2026 | Groove27 | House Purist, Mylania, ad*n |
 | Fri, 14 Aug 2026 | Twinspinsz ↠ Ishtar's Birthday Bash | Dylan James, Emile, FITS ME FUNNY, dylan.james |
 | Sat, 15 Aug 2026 | The Summerhouse Project: Starlane Pizza Bar | Rodney (3), Sahil |

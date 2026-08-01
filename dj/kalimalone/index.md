@@ -1,13 +1,14 @@
 # Kali Malone
 
-Kali Malone is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Kali Malone is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
 
-Kali Malone is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Stephen O'Malley, ojoo and KMRU. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Kali Malone is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Stephen O'Malley, ojoo and KMRU. Next up: Neue Nationalgalerie, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Thu, 27 Aug 2026 | Maison Symphonique de Montréal | Montreal |
 

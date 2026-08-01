@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 14 Aug, Berlin. 7 acts on the bill: DaSoMaZo, Erøx, Groove and k.meower and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 14 Aug, Berlin. 10 acts on the bill: DaSoMaZo, Erøx, Groove and k.meower and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,10 @@ ETHER at Sensorium on Fri 14 Aug, Berlin. 7 acts on the bill: DaSoMaZo, Erøx, G
 - Groove
 - k.meower
 - Michi
+- Michi (US)
 - peak2soon
+- SAOX
 - Sonse
+- springēr
 
 *Source: [soundcheck](https://soundcheck.club/e/2497119-ether-at-sensorium/)*

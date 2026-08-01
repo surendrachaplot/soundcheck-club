@@ -14,7 +14,7 @@ Ray Kash is a house and deep house artist based in United States of America, tra
 
 - The Bridge, Los Angeles — Fri, 24 Jul 2026
 - Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - TBA, Los Angeles — Fri, 12 Jun 2026
 - Club M2 Miami, Miami — Fri, 5 Jun 2026
 - Club M2 Miami, Miami — Fri, 5 Jun 2026

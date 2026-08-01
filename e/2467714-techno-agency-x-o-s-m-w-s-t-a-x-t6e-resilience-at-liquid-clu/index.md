@@ -1,6 +1,6 @@
 # Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at Liquid Club
 
-Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at Liquid Club on Fri 28 Aug, Malta. 1 act on the bill: Chopper. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at Liquid Club on Fri 28 Aug, Malta. 4 acts on the bill: Chopper, Dari Dark, Ertug Karakas and Marixia. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at Liquid Club on Fri 28 Aug, Mal
 ## Line-up
 
 - Chopper
+- Dari Dark
+- Ertug Karakas
+- Marixia
 
 *Source: [soundcheck](https://soundcheck.club/e/2467714-techno-agency-x-o-s-m-w-s-t-a-x-t6e-resilience-at-liquid-clu/)*

@@ -9,7 +9,7 @@ Sylvie Miles is a techno and house artist based in Germany, tracked on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Edelfettwerk | Hamburg |
-| Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

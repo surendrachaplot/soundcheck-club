@@ -1,6 +1,6 @@
 # Pista Quente Na Casinha Em Noite De Lua Cheia at Casinha cc
 
-Pista Quente Na Casinha Em Noite De Lua Cheia at Casinha cc on Sat 1 Aug, Saopaulo. 1 act on the bill: Pista Quente. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Pista Quente Na Casinha Em Noite De Lua Cheia at Casinha cc on Sat 1 Aug, Saopaulo. 1 act on the bill: Pista Quente. Balearic and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

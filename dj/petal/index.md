@@ -1,8 +1,8 @@
-# Pètal
+# Petal
 
-Pètal is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SMUT Athens, Athens on Sat, 1 Aug 2026.
+Petal is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SMUT Athens, Athens on Sat, 1 Aug 2026.
 
-Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: SMUT Athens, Athens on Sat 1 Aug.
+Petal is a club and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: SMUT Athens, Athens on Sat 1 Aug.
 
 ## Upcoming shows
 

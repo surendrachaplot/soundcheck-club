@@ -10,7 +10,7 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 22 upcoming 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | BARANGAY: Jay Dalawa, Alcantara, LANSUH, JAV/ , Gabriel Etrata | Alcantara, Gabriel Etrata, Jay Dalawa, LANSUH |
 | Sun, 2 Aug 2026 | Spatial Ability: DJ Alone Again, The Pintauro Brothers, GEOTHEORY | DJ Alone Again, GEOTHEORY, The Pintauro Brothers |
-| Wed, 5 Aug 2026 | Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY | CMD+JAZMINE, MANGUMAMI, Pètal, Soo Intoit, XOY, Xana 101 |
+| Wed, 5 Aug 2026 | Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY | CMD+JAZMINE, MANGUMAMI, Petal, Soo Intoit, XOY, Xana 101 |
 | Thu, 6 Aug 2026 | Beneath x Electrosol present: Garden State of Mind feat. SOICY, Mike Foch, TOR$O, Matt Pace | Matt Pace, Mike Foch, SOICY, TOR$O |
 | Fri, 7 Aug 2026 | Top Secret Grand Prix Record Release Party: Spiñorita, DJ Shannon, Cosmo | Cosmo, Cosmo (NY), DJ Shannon, Spiñorita |
 | Sat, 8 Aug 2026 | HEADCRACK: C Powers, Fugitive Artifact | C Powers, Fugitive Artifact |

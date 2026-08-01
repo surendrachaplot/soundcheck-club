@@ -25,7 +25,7 @@ Nesi is a house and tech house artist tracked on soundcheck, with 227 sets logge
 
 - Noxe Barcelona, Barcelona — Thu, 30 Jul 2026
 - Noxe Barcelona, Barcelona — Mon, 27 Jul 2026
-- LA Casita Brooklyn, New York City — Sat, 25 Jul 2026
+- Lost in Paradise Rooftop, New York City — Sat, 25 Jul 2026
 - Bridge 48, Barcelona — Fri, 24 Jul 2026
 - Noxe Barcelona, Barcelona — Mon, 20 Jul 2026
 - Luz De Gas, Barcelona — Fri, 17 Jul 2026

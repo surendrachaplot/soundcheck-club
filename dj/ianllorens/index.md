@@ -14,7 +14,7 @@ Ian Llorens is a house and deep house artist based in Puerto Rico, tracked on so
 
 ## Recently played
 
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 12 Jun 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 8 May 2026
 - The Bridge, Los Angeles — Sun, 3 May 2026

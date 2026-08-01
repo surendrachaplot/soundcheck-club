@@ -1,10 +1,10 @@
 # SUMMER RUSH 8/1 at TBA - RSVP for location day of
 
-SUMMER RUSH 8/1 at TBA - RSVP for location day of on Fri 31 Jul, Philadelphia. 4 acts on the bill: Firestone, Gravers Lane, hopifer and Riva + Bianca. Techno and Club. Preview the line-up and save it on soundcheck.
+SUMMER RUSH 8/1 at TBA - RSVP for location day of on Sat 1 Aug, Philadelphia. 4 acts on the bill: Firestone, Gravers Lane, hopifer and Riva + Bianca. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 31 Jul 2026 |
+| Date | Sat, 1 Aug 2026 |
 | Venue | TBA - RSVP for location day of |
 | City | Philadelphia |
 

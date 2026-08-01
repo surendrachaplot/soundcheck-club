@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Angerfist is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
-Angerfist is a techno and hardcore artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Trym, 999999999 and Alignment. Next up: Medusa Beach, Valencia on Thu 13 Aug.
+Angerfist is a techno and hardcore artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Alignment, Trym and 999999999. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 62 sets lo
 | Tue, 25 Aug 2026 | Eden | Ibiza |
 | Sat, 19 Sept 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 9 Oct 2026 | Sala Urbana | Mexico City |
+| Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 62 sets lo
 
 ## Shares bills with
 
-Trym, 999999999, Alignment
+Alignment, Trym, 999999999
 
 *Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

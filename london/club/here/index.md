@@ -1,13 +1,14 @@
 # HERE
 
-HERE is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "HVYWGHT x 10 Years of 1985: Alix Perez (140 set)" on Fri, 4 Sept 2026.
+HERE is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
 
-HERE is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Alix Perez, Beatrice M., Breakage and Cesco and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
+HERE is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alix Perez, Beatrice M., Breakage and Cesco and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Tue, 1 Sept 2026 | Abel Selaocoe: live in London |  |
 | Fri, 4 Sept 2026 | HVYWGHT x 10 Years of 1985: Alix Perez (140 set) | Alix Perez, Beatrice M., Breakage, Cesco, HIJINX, Monty, Mr. G, SP:MC, Sharnie, Tasha, Visages |
 | Fri, 25 Sept 2026 | AVA London x RA25 - Outernet |  |
 | Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet |  |

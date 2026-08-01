@@ -12,7 +12,7 @@ Cassia is a house and deep house artist tracked on soundcheck, with 62 sets logg
 
 ## Recently played
 
-- TBA - DC, Washington DC — Fri, 31 Jul 2026
+- 618 DC, Washington DC — Fri, 31 Jul 2026
 - Flash, Washington DC — Fri, 24 Jul 2026
 - Tigres de la Noche, Washington DC — Fri, 26 Jun 2026
 - La Fabrica, Washington DC — Fri, 15 May 2026

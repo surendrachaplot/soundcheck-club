@@ -1,14 +1,15 @@
 # The Liquid Dude
 
-The Liquid Dude is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sigma, Ibiza on Sat, 1 Aug 2026.
+The Liquid Dude is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Sigma, Ibiza on Sat, 1 Aug 2026.
 
-The Liquid Dude is a house and electro artist based in Spain, tracked on soundcheck, with 17 sets logged across Frankfurt, Ibiza and Paris. Often billed alongside Ko Mu, Luigi Rossi and Woodson. Next up: Sigma, Ibiza on Sat 1 Aug.
+The Liquid Dude is a house and electro artist based in Spain, tracked on soundcheck, with 18 sets logged across Frankfurt, Ibiza, Paris and Valencia. Often billed alongside Ko Mu, Luigi Rossi and Woodson. Next up: Sigma, Ibiza on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Sigma | Ibiza |
+| Fri, 7 Aug 2026 | 33/45 Club | Valencia |
 
 ## Recently played
 

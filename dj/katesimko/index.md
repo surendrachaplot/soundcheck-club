@@ -1,14 +1,15 @@
 # Kate Simko
 
-Kate Simko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club Vinyl, Denver on Sat, 1 Aug 2026.
+Kate Simko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club Vinyl, Denver on Sat, 1 Aug 2026.
 
-Kate Simko is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Chicago, Denver, Detroit and Ibiza and 3 more. Often billed alongside Ataxia, Herodot and John Acquaviva. Next up: Club Vinyl, Denver on Sat 1 Aug.
+Kate Simko is a house and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Chicago, Denver, Detroit and Ibiza and 3 more. Often billed alongside Ataxia, Herodot and John Acquaviva. Next up: Club Vinyl, Denver on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Club Vinyl | Denver |
+| Sat, 8 Aug 2026 | Refuge | New York City |
 
 ## Recently played
 

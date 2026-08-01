@@ -1,13 +1,14 @@
 # Mila Gama
 
-Mila Gama is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club M2 Miami, Miami on Fri, 21 Aug 2026.
+Mila Gama is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club M2 Miami, Miami on Fri, 21 Aug 2026.
 
-Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with 15 sets logged across Miami and Newyorkcity. Often billed alongside Robyn Sin Love, Ultrathem and Lady Narcisse. Next up: Club M2 Miami, Miami on Fri 21 Aug.
+Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with 16 sets logged across Miami and Newyorkcity. Often billed alongside Robyn Sin Love, Ultrathem and Diana Franco. Next up: Club M2 Miami, Miami on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Club M2 Miami | Miami |
 | Fri, 21 Aug 2026 | Club M2 Miami | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with
 
 ## Shares bills with
 
-Robyn Sin Love, Ultrathem, Lady Narcisse
+Robyn Sin Love, Ultrathem, Diana Franco
 
 *Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milagama/)*

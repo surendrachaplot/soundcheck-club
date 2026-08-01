@@ -17,7 +17,7 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 187 sets logg
 ## Recently played
 
 - TBA - Downtown, Los Angeles — Thu, 30 Jul 2026
-- TBA, San Diego — Fri, 24 Jul 2026
+- TBA - 3464 pickett st, san diego, ca 92110, San Diego — Fri, 24 Jul 2026
 - Razzmatazz, Barcelona — Sat, 18 Jul 2026
 - Bossa Nova Civic Club, New York City — Sat, 4 Jul 2026
 - Signal, New York City — Fri, 3 Jul 2026

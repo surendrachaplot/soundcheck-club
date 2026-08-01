@@ -1,8 +1,8 @@
 # salute
 
-salute is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+salute is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-salute is a house and garage artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+salute is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 

@@ -13,7 +13,7 @@ SEEPS is a house and deep house artist tracked on soundcheck, with 61 sets logge
 
 ## Recently played
 
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - TBA - IYKYK , Los Angeles — Sat, 27 Jun 2026
 - TBA, Los Angeles — Sat, 2 May 2026
 - TBA - Downtown Los Angeles, Los Angeles — Sat, 14 Mar 2026

@@ -1,8 +1,8 @@
 # DYEN
 
-DYEN is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 1 Aug 2026.
+DYEN is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 1 Aug 2026.
 
-DYEN is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Club Phoenix - Gianpula Village, Malta on Sat 1 Aug.
+DYEN is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Club Phoenix - Gianpula Village, Malta on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DYEN is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Fri, 25 Sept 2026 | E1 | London |
+| Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 
 ## Recently played
 

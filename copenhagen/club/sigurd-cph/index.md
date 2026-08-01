@@ -16,7 +16,7 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 9 upcoming night
 | Fri, 21 Aug 2026 | 2200 | John Vincent |
 | Sat, 22 Aug 2026 | Endless Summer | Slackin Beats |
 | Fri, 28 Aug 2026 | 2200 |  |
-| Sat, 29 Aug 2026 | VAN - Vinyls All Night |  |
+| Sat, 29 Aug 2026 | VAN - Vinyl All Night |  |
 
 ## Address
 

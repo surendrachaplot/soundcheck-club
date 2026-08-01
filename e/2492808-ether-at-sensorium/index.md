@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 28 Aug, Berlin. 5 acts on the bill: Cyberpsychosis, ØVERLOAD, Teen A Teen and UniKhatu and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 28 Aug, Berlin. 5 acts on the bill: Cyberpsychosis, Overload, Teen A Teen and UniKhatu and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ ETHER at Sensorium on Fri 28 Aug, Berlin. 5 acts on the bill: Cyberpsychosis, Ø
 ## Line-up
 
 - Cyberpsychosis
-- ØVERLOAD
+- Overload
 - Teen A Teen
 - UniKhatu
 - Uninvited

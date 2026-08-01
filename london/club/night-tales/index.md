@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 34 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Night Tales: Olga Korol, Per Hammar, ADMNTi" on Sat, 1 Aug 2026.
+Night Tales is a music venue in London with 35 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Night Tales: Olga Korol, Per Hammar, ADMNTi" on Sat, 1 Aug 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 34 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Alex Neri and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Alex Neri and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 

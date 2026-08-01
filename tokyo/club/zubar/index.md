@@ -1,8 +1,8 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DIRTY" on Sat, 1 Aug 2026.
+ZUBAR is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DIRTY" on Sat, 1 Aug 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including AKARI, Eda, Emerson and Kana (BR) and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AKARI, Eda, Emerson and Kana (BR) and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 

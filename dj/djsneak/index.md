@@ -16,7 +16,7 @@ DJ Sneak is a house and deep house artist tracked on soundcheck, with 73 sets lo
 
 - Flash, Washington DC — Sun, 19 Jul 2026
 - TBA - West Town, Chicago — Fri, 17 Jul 2026
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - Exodos Lounge, Detroit — Mon, 25 May 2026
 - Acqua Supper Club, Toronto — Fri, 22 May 2026
 - smartbar, Chicago — Sat, 18 Apr 2026

@@ -1,8 +1,8 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Neon Dreams Cologne" on Fri, 7 Aug 2026.
+Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Neon Dreams Cologne" on Fri, 7 Aug 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including 3LEEZA, alleira, Annemalie and Arninho and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including 3LEEZA, alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 | Fri, 7 Aug 2026 | Neon Dreams Cologne | 3LEEZA, Bruno Brero, DjRundfunk, Glen West, LSG, NIA (3), Noise Mafia, PEAKSOU, Saar (FR), nordcorreia.mp3 |
 | Sat, 8 Aug 2026 | Katana x shockwerk |  |
 | Fri, 14 Aug 2026 | SCHRANZ is BACK Köln with Felix Kröcher & Neon Graveyard | Felix Kröcher, Neon Graveyard |
+| Fri, 21 Aug 2026 | Jump House | Diffrent, Lizzle, Tristan K (1), anyka, snoritz |
 | Sat, 22 Aug 2026 | jedermensch. x PhonoVision | Annemalie, Arninho, HiHat, Schuhmacher (3), alleira, lollo |
 | Fri, 28 Aug 2026 | Aura Extra with slin & Tarkno all night long on vinyl | Tarkno, slin |
 | Fri, 11 Sept 2026 | rau.ton x Toolboxxx PRESENTS | Cinthie, Efdemin, HWRD, Lea Occhi, Sandilé, Shrff, Virginia, pik (1) |

@@ -1,13 +1,14 @@
 # Diossa
 
-Diossa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Diossa is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Refuge, New York City on Fri, 21 Aug 2026.
 
-Diossa is a techno and trance artist based in United States of America, tracked on soundcheck, with 16 sets logged across Amsterdam, Boston, Miami and Newyorkcity and 2 more. Often billed alongside Ramsey Neville, Junkfile and Marco Neves. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+Diossa is a techno and trance artist based in United States of America, tracked on soundcheck, with 17 sets logged across Amsterdam, Boston, Miami and Newyorkcity and 2 more. Often billed alongside Ramsey Neville, Junkfile and Marco Neves. Next up: Refuge, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Refuge | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 

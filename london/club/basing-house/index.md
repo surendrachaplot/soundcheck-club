@@ -9,7 +9,7 @@ Basing House is a music venue in London listed on soundcheck. 24 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Certified Ravers : Nocturnal |  |
-| Sun, 2 Aug 2026 | Housewarming presents: Rooftop Sessions Summer Day Party | Beyond Blonde, House of Allegro |
+| Sun, 2 Aug 2026 | [CANCELLED] Housewarming presents: Rooftop Sessions Summer Day Party | Beyond Blonde, House of Allegro |
 | Fri, 7 Aug 2026 | COMMUNITY LDN | Ayrts, DJ BIZZIBEE, Ginn LDN |
 | Fri, 7 Aug 2026 | Cooking for the People presents: Spinning Plates | Stateless (UK) |
 | Sat, 8 Aug 2026 | INFORMAL . Jungle Promoters Night | DJ Ron, IC3, Marly Marl, Micky Finn, The Ragga Twins |

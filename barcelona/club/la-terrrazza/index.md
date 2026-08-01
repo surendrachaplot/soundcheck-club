@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Happy Techno at La Terrrazza Barcelona - Open Air / Daytime" on Sat, 1 Aug 2026.
+La Terrrazza is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "[LAST 50] Happy Techno at La Terrrazza Barcelona - Open Air / Daytime" on Sat, 1 Aug 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including Alice Caroline, Belu Rodriguez, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -8,7 +8,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Happy Techno at La Terrrazza Barcelona - Open Air / Daytime | Cris Ocaña, Lexlay, Shitake, Stefano Noferini |
+| Sat, 1 Aug 2026 | [LAST 50] Happy Techno at La Terrrazza Barcelona - Open Air / Daytime | Cris Ocaña, Lexlay, Shitake, Stefano Noferini |
 | Sat, 1 Aug 2026 | Mainline 10 th Anniversary | Daniel 2000, John Heaven, Marcelo Pantani, Nile Fee, Yung Prado |
 | Thu, 6 Aug 2026 | SUMMER HEROES: Open Air with Reelow | Eze k, Fat-P, Giuliano, Reelow, SUSØ |
 | Fri, 7 Aug 2026 | Friday - La Terrrazza - Official Afterparty Brunch Electronik Festival w/ Danilo Plessow | Danilo Plessow, Gee Lane, Kamma, Masalo |

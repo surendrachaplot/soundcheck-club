@@ -19,7 +19,7 @@ Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, wit
 - TBA, London — Sat, 25 Jul 2026
 - Hootananny Brixton, London — Fri, 24 Jul 2026
 - TBA - Los Angeles, Los Angeles — Sat, 11 Jul 2026
-- Worms Music Studios, Los Angeles — Sat, 11 Jul 2026
+- TBA, Los Angeles — Sat, 11 Jul 2026
 - The Cause, London — Sun, 14 Jun 2026
 - Brixton Jamm, London — Thu, 9 Apr 2026
 

@@ -1,8 +1,8 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
+Silva Bumpa is a Garage and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
 
-Silva Bumpa is a garage and house artist tracked on soundcheck, with 201 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
+Silva Bumpa is a garage and house artist tracked on soundcheck, with 203 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
 
 ## Upcoming shows
 

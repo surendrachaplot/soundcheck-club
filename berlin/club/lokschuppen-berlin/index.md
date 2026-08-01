@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 76 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN AIR & INDOOR" on Sat, 1 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN AIR & INDOOR" on Sat, 1 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 76 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 77 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 

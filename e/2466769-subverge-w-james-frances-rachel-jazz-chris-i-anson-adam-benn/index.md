@@ -1,6 +1,6 @@
-# SUBVERGE W/ James Frances ,Rachel Jazz ,Chris I'Anson ,Adam Bennett & Optimistic Soul at Eiger Studios
+# SUBVERGE W/ James Frances, Rachel Jazz, Chris I'Anson, Adam Bennett & Optimistic Soul at Eiger Studios
 
-SUBVERGE W/ James Frances ,Rachel Jazz ,Chris I'Anson ,Adam Bennett & Optimistic Soul at Eiger Studios on Fri 28 Aug, Leeds. 4 acts on the bill: Chris I'Anson, James Frances, Optimistic Soul and Rachel Jazz. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
+SUBVERGE W/ James Frances, Rachel Jazz, Chris I'Anson, Adam Bennett & Optimistic Soul at Eiger Studios on Fri 28 Aug, Leeds. 4 acts on the bill: Chris I'Anson, James Frances, Optimistic Soul and Rachel Jazz. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Leith FAB Cricket Club
 
-Leith FAB Cricket Club is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Circle Dance Comes To Leith" on Fri, 14 Aug 2026.
+Leith FAB Cricket Club is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Circle Dance Comes To Leith: Muckers, Ravelston, otisworming, Bog Factor, discjocelyne" on Fri, 14 Aug 2026.
 
 Leith FAB Cricket Club is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including discjocelyne, otisworming and Ravelston. Browse upcoming dates, start times and who's playing. 1 Leith Links, Leith, Edinburgh EH6 7QR.
 
@@ -8,7 +8,7 @@ Leith FAB Cricket Club is a music venue in Edinburgh listed on soundcheck. 1 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Circle Dance Comes To Leith | Ravelston, discjocelyne, otisworming |
+| Fri, 14 Aug 2026 | Circle Dance Comes To Leith: Muckers, Ravelston, otisworming, Bog Factor, discjocelyne | Ravelston, discjocelyne, otisworming |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Interplanetary Criminal is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 249 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 250 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 14 Aug 2026 | Nitsa Club | Barcelona |
 | Thu, 17 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |

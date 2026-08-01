@@ -1,0 +1,13 @@
+# Annua
+
+Annua is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Kyrøn present's Density" on Fri, 28 Aug 2026.
+
+Annua is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 28 Aug 2026 | Kyrøn present's Density |  |
+
+*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/annua/)*

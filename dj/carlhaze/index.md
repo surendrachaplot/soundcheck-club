@@ -1,14 +1,15 @@
 # Carl Haze
 
-Carl Haze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at O der Klub, Vienna on Sat, 1 Aug 2026.
+Carl Haze is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at O der Klub, Vienna on Sat, 1 Aug 2026.
 
-Carl Haze is a techno and industrial artist based in Austria, tracked on soundcheck, with 25 sets logged across Bangkok, Istanbul and Vienna. Often billed alongside SAMDMA, Huebl and ASCHENBRENNER. Next up: O der Klub, Vienna on Sat 1 Aug.
+Carl Haze is a techno and industrial artist based in Austria, tracked on soundcheck, with 26 sets logged across Bangkok, Istanbul and Vienna. Often billed alongside SAMDMA, Huebl and ASCHENBRENNER. Next up: O der Klub, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | O der Klub | Vienna |
+| Fri, 7 Aug 2026 | Usus am Wasser | Vienna |
 
 ## Recently played
 

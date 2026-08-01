@@ -17,7 +17,7 @@ Dosem is a progressive house and techno artist tracked on soundcheck, with 72 se
 
 - Open Aera, Toronto — Sat, 11 Jul 2026
 - Echostage, Washington DC — Fri, 10 Jul 2026
-- TBA - 624 S Anderson St., Los Angeles — Fri, 3 Jul 2026
+- TBA - 624 S Anderson St, Los Angeles, CA 90023, Los Angeles — Fri, 3 Jul 2026
 - PROGRESS, Manchester — Sat, 30 May 2026
 - Ritter Butzke, Berlin — Sat, 23 May 2026
 - Seaseaclub Barcelona, Barcelona — Sat, 18 Apr 2026

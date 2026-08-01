@@ -14,7 +14,7 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 81 sets lo
 
 ## Recently played
 
-- TBA - DC, Washington DC — Fri, 31 Jul 2026
+- 618 DC, Washington DC — Fri, 31 Jul 2026
 - TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
 - smartbar, Chicago — Sun, 19 Jul 2026
 - Do Not Sit On The Furniture, Miami — Fri, 17 Jul 2026

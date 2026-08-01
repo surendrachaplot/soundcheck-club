@@ -1,8 +1,8 @@
 # Alignment
 
-Alignment is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Alignment is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
-Alignment is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
+Alignment is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Alignment is a techno and house artist tracked on soundcheck, with 211 sets logg
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Sun, 6 Sept 2026 | The Concourse Project | Austin |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 
 ## Recently played
 

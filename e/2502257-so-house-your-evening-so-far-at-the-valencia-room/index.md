@@ -1,10 +1,10 @@
 # So House Your Evening So Far at The Valencia Room
 
-So House Your Evening So Far at The Valencia Room on Fri 31 Jul, Sanfrancisco. House. Preview the line-up and save it on soundcheck.
+So House Your Evening So Far at The Valencia Room on Mon 3 Aug, Sanfrancisco. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 31 Jul 2026 |
+| Date | Mon, 3 Aug 2026 |
 | Venue | The Valencia Room |
 | City | San Francisco/Oakland |
 

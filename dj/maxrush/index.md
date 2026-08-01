@@ -1,14 +1,15 @@
 # Max Rush
 
-Max Rush is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Dusty Vinyl, Los Angeles on Fri, 7 Aug 2026.
+Max Rush is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Dusty Vinyl, Los Angeles on Fri, 7 Aug 2026.
 
-Max Rush is a house and minimal artist based in United States of America, tracked on soundcheck, with 77 sets logged across Losangeles, Sandiego and Tokyo. Often billed alongside Lavenge, BLANC MAMBA and Aplex. Next up: Dusty Vinyl, Losangeles on Fri 7 Aug.
+Max Rush is a house and minimal artist based in United States of America, tracked on soundcheck, with 78 sets logged across Losangeles, Sandiego and Tokyo. Often billed alongside Lavenge, BLANC MAMBA and Aplex. Next up: Dusty Vinyl, Losangeles on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Dusty Vinyl | Los Angeles |
+| Fri, 14 Aug 2026 | Dusty Vinyl | Los Angeles |
 
 ## Recently played
 

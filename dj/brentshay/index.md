@@ -2,7 +2,7 @@
 
 Brent Shay is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Spkrbox, Detroit on Sat, 1 Aug 2026.
 
-Brent Shay is a techno and house artist tracked on soundcheck, with 85 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Spkrbox, Detroit on Sat 1 Aug.
+Brent Shay is a techno and house artist tracked on soundcheck, with 86 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Spkrbox, Detroit on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 85 sets logg
 
 ## Recently played
 
+- Corktown Tavern, Detroit — Thu, 30 Jul 2026
 - Spkrbox, Detroit — Sun, 26 Jul 2026
 - Spkrbox, Detroit — Thu, 25 Jun 2026
 - Garden Bowl, Detroit — Sun, 21 Jun 2026
@@ -22,7 +23,6 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 85 sets logg
 - Spkrbox, Detroit — Wed, 3 Jun 2026
 - Bookies, Detroit — Tue, 26 May 2026
 - Garden Bowl, Detroit — Sun, 24 May 2026
-- Corktown Tavern, Detroit — Sun, 24 May 2026
 
 ## Shares bills with
 

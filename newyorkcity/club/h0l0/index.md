@@ -8,8 +8,8 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | H0NEYM00N | BABEITSPURR, Pètal |
-| Thu, 6 Aug 2026 | H0NEYM00N | Pètal, g.io |
+| Thu, 6 Aug 2026 | H0NEYM00N | BABEITSPURR, Petal |
+| Thu, 6 Aug 2026 | H0NEYM00N | Petal, g.io |
 | Fri, 7 Aug 2026 | LIQUID: A spiritual Drum & Bass Session | Agent 137, Dave Shichman, Dieselboy |
 | Fri, 4 Sept 2026 | ReSolute presents: Traumer All-Night Long | Traumer |
 | Sat, 26 Sept 2026 | ReSolute x Yoyaku | Chez Damier, Garrett David, Gulp, Kian OK, Lis Sarroca, Maksim, Mari.te, Mike Servito, Rachel Noon, Satoshi Tomiie, Vincent Lemieux, Yamour, limbic sis |

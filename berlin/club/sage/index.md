@@ -9,7 +9,7 @@ SAGE is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with li
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Throwback BERLIN - Back to 80s, 90s & 00s at SAGE |  |
-| Sat, 1 Aug 2026 | Hop on The Top BERLIN - Opening Party (Hip Hop, R&B, Funk & Soul) |  |
+| Sat, 1 Aug 2026 | [Tickets at Door] Hop on The Top BERLIN - Opening Party (Hip Hop, R&B, Funk & Soul) |  |
 | Sat, 1 Aug 2026 | [CANCELLED] Berlin Boat Party Sessions 2.0 | TSNR |
 | Sat, 8 Aug 2026 | Watergate x Power Open Air with Traumer, dj sweet6teen, Bradley Zero, Yamour, Immy, Power Squad | Bradley Zero, Dj Norma, Greta Spark, Immy, Joiah, Power Squad, Traumer, Yamour, dj sweet6teen |
 | Sat, 15 Aug 2026 | SPIN Open Air | Daisy Weweh, Ede, Fritz Kalkbrenner, KENZA KAYATI, Le TIZI, MUKKIMIAU, Swimming Paul, Tripolism |

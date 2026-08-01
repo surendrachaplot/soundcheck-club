@@ -1,6 +1,6 @@
 # Festival Dominicano: mundo + Brian Cid presents Ladobé at House of Yes
 
-Festival Dominicano: mundo + Brian Cid presents Ladobé at House of Yes on Sat 8 Aug, Newyorkcity. 4 acts on the bill: Brian Cid, DJ Ultra Violet, Dos Flakos and mundo. Deep House and Reggaeton. Preview the line-up and save it on soundcheck.
+Festival Dominicano: mundo + Brian Cid presents Ladobé at House of Yes on Sat 8 Aug, Newyorkcity. 4 acts on the bill: Brian Cid, DJ Ultra Violet, Dos Flakos and mundo. House and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

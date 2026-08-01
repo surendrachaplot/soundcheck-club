@@ -1,6 +1,6 @@
 # PHAT TRAX presents: Poolhaus, LABNON, Miata Boys, MF Lize at The Sultan Room
 
-PHAT TRAX presents: Poolhaus, LABNON, Miata Boys, MF Lize at The Sultan Room on Fri 11 Sept, Newyorkcity. 3 acts on the bill: LABNON, Miata Boys and Poolhaus. House. Preview the line-up and save it on soundcheck.
+PHAT TRAX presents: Poolhaus, LABNON, Miata Boys, MF Lize at The Sultan Room on Fri 11 Sept, Newyorkcity. 3 acts on the bill: LABNON, Miata Boys and Poolhaus. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

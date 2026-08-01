@@ -1,8 +1,8 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+upsammy is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
+upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 180 sets
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
+| Wed, 12 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Wed, 12 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
 | Sat, 29 Aug 2026 | Palais de Tokyo | Paris |

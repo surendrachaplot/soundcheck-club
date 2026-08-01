@@ -1,8 +1,8 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Andy C is a Drum & Bass and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Andy C is a drum & bass and jungle artist tracked on soundcheck, with 98 sets logged across Amsterdam, Auckland, Austin and Barcelona and 40 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Andy C is a drum & bass and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Auckland, Austin and Barcelona and 40 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 

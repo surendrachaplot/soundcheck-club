@@ -2,7 +2,7 @@
 
 Hopelesss is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 25 Aug 2026.
 
-Hopelesss is an ebm and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Sanfrancisco. Often billed alongside Hex Embrace, ImpirumCrypt and KAJE. Next up: F8 1192 Folsom, Sanfrancisco on Tue 25 Aug.
+Hopelesss is an ebm and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Sanfrancisco. Often billed alongside Hex Embrace, ImpirumCrypt and Byter. Next up: F8 1192 Folsom, Sanfrancisco on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Hopelesss is an ebm and club artist based in United States of America, tracked o
 
 ## Shares bills with
 
-Hex Embrace, ImpirumCrypt, KAJE
+Hex Embrace, ImpirumCrypt, Byter
 
 *Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hopelesss/)*

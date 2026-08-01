@@ -1,14 +1,15 @@
 # Dari Dark
 
-Dari Dark is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lieberscholli, Munich on Fri, 7 Aug 2026.
+Dari Dark is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Lieberscholli, Munich on Fri, 7 Aug 2026.
 
-Dari Dark is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Munich. Often billed alongside CDB (1), Dan Mlinar and EGE363. Next up: Lieberscholli, Munich on Fri 7 Aug.
+Dari Dark is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Malta and Munich. Often billed alongside CDB (1), Chopper and Dan Mlinar. Next up: Lieberscholli, Munich on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Lieberscholli | Munich |
+| Fri, 28 Aug 2026 | Liquid Club | Malta |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Dari Dark is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-CDB (1), Dan Mlinar, EGE363
+CDB (1), Chopper, Dan Mlinar
 
 *Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daridark/)*

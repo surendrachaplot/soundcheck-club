@@ -1,6 +1,6 @@
 # CHILLING CITY: Shisha with music at UNDERCITY
 
-CHILLING CITY: Shisha with music at UNDERCITY on Sat 1 Aug, Seoul. Techno and House. Preview the line-up and save it on soundcheck.
+CHILLING CITY: Shisha with music at UNDERCITY on Sat 1 Aug, Seoul. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

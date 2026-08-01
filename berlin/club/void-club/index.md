@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "VOID x Druschba Psy Crew Vol. 2" on Sat, 1 Aug 2026.
+Void Club is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "VOID x Druschba Psy Crew Vol. 2" on Sat, 1 Aug 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, w
 | Fri, 7 Aug 2026 | Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu | Dino S, Ed Shepherd, Honschu Lee, Sagrivox, Upzet, buktuu |
 | Sat, 8 Aug 2026 | Stoic Music x Breakout DNB (NL) | Anton Quasi, Initia, phasebound |
 | Sat, 8 Aug 2026 | TORQUE - Groove & Hardgroove with LEANNE (SI), North (SI), Modulatos, Mavidius | LEANNE, Mavidius, Modulatos |
-| Fri, 14 Aug 2026 | Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Andi Beat, Boudi Boudin, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Ida Scheppert, Shaded Lines, Upzet, unknown.dnb |
+| Fri, 14 Aug 2026 | Upzet's Bday Rave with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Andi Beat, Boudi Boudin, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Ida Scheppert, Shaded Lines, Upzet, unknown.dnb |
 | Sat, 15 Aug 2026 | Kinder der Nacht - Parade After Party w/ T78 | ADOBE, Activator, Avex, DJ Jordan, Dave Demon, Ewelina Koll, GHOST DE, Jacopo Susini, Jens Schwan, Klipp&Klar, LEPIDO, Marc van Linden, Rob Robsen, Ronny Luft, SXF Thunderscream, Seimen Dexter, T78, YOZÉ |
 | Fri, 21 Aug 2026 | 10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz | Luca Hagenmüller, MARIE.MOON, Nebuchadnezzar, Upzet, dela Moon |
 | Sat, 22 Aug 2026 | VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui | Aynaet, Gabrielle (DE), K.EULE, Section 63, Will Tempo, kutscher |

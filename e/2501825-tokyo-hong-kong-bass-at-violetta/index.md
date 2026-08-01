@@ -1,6 +1,6 @@
-# TOKYO × HONG KONG BASS at Violetta
+# TOKYO × HONG KONG - BASS at Violetta
 
-TOKYO × HONG KONG BASS at Violetta on Fri 7 Aug, Tokyo. 4 acts on the bill: Blue Flower, DJ MOCHIZUKI, FT (JP) and Waisty. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+TOKYO × HONG KONG - BASS at Violetta on Fri 7 Aug, Tokyo. 4 acts on the bill: Blue Flower, DJ MOCHIZUKI, FT (JP) and Waisty. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

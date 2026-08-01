@@ -1,8 +1,8 @@
 # SHDW
 
-SHDW is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+SHDW is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-SHDW is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Gianpula Village, Malta on Wed 12 Aug.
+SHDW is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ SHDW is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 | Fri, 2 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 9 Oct 2026 | Virage | Paris |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
+| Fri, 30 Oct 2026 | Hive Club | Zurich |
 
 ## Recently played
 

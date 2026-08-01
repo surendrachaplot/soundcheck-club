@@ -1,6 +1,6 @@
 # BRONX PRIDE: Makode, Per Qx, DJ KILLING, Marten, Dj Handbag, Nina Michelle, Pedrodollar, TBA at TBA
 
-BRONX PRIDE: Makode, Per Qx, DJ KILLING, Marten, Dj Handbag, Nina Michelle, Pedrodollar, TBA on Sat 1 Aug, Stockholm. 15 acts on the bill: CC Luna, Dj handbag, DJ KILLING and Joanna Party and 11 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+BRONX PRIDE: Makode, Per Qx, DJ KILLING, Marten, Dj Handbag, Nina Michelle, Pedrodollar, TBA on Sat 1 Aug, Stockholm. 16 acts on the bill: CC Luna, Dj handbag, DJ KILLING and Joanna Party and 12 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ BRONX PRIDE: Makode, Per Qx, DJ KILLING, Marten, Dj Handbag, Nina Michelle, Pedr
 - Marten Attling
 - MERILIN
 - Nina Michelle
+- Off The Meds
 - Pedrodollar
 - Per Qx
 - Rasmus Damkier

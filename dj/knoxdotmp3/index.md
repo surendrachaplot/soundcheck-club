@@ -14,7 +14,7 @@ KNOXDOTMP3 is a club and techno artist based in United States of America, tracke
 
 - Concrete, Paris — Sat, 25 Jul 2026
 - Tresor / Globus, Berlin — Sat, 25 Jul 2026
-- TBA - DTLA, Los Angeles — Fri, 24 Jul 2026
+- TBA, Los Angeles — Fri, 24 Jul 2026
 - TBA, Los Angeles — Sat, 4 Jul 2026
 - TBA, Los Angeles — Sat, 21 Mar 2026
 - TBA - Detour , Los Angeles — Fri, 6 Mar 2026

@@ -1,8 +1,8 @@
 # Prozak (IRL)
 
-Prozak (IRL) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
+Prozak (IRL) is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
 
-Prozak (IRL) is a garage and bass artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: Ouseburn Garden, Newcastle on Fri 7 Aug.
+Prozak (IRL) is a garage and bass artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: Ouseburn Garden, Newcastle on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Prozak (IRL) is a garage and bass artist tracked on soundcheck, with 129 sets lo
 | Fri, 25 Sept 2026 | Yamamori Tengu | Dublin |
 | Sat, 26 Sept 2026 | The Warehouse | Leeds |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 30 Oct 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
 

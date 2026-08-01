@@ -1,8 +1,8 @@
 # miaw
 
-miaw is a Garage and Vaporwave artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
+miaw is a Garage and Vaporwave artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Trifolium, Copenhagen on Fri, 11 Sept 2026.
 
-miaw is a garage and vaporwave artist based in Denmark, tracked on soundcheck, with 8 sets logged across Berlin and Copenhagen. Often billed alongside Alba Akvama, A Good Year and DJ John Key. Next up: Trifolium, Copenhagen on Fri 11 Sept.
+miaw is a garage and vaporwave artist based in Denmark, tracked on soundcheck, with 9 sets logged across Berlin and Copenhagen. Often billed alongside Alba Akvama, A Good Year and DJ John Key. Next up: Trifolium, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ miaw is a garage and vaporwave artist based in Denmark, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Trifolium | Copenhagen |
 | Tue, 15 Sept 2026 | 8MM | Berlin |
+| Fri, 30 Oct 2026 | Loppen Christiania | Copenhagen |
 
 ## Recently played
 

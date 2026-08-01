@@ -20,7 +20,7 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 201 sets logg
 
 - Blue Marlin Ibiza, Ibiza — Wed, 22 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 17 Jul 2026
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - Public Works, San Francisco/Oakland — Fri, 10 Jul 2026
 - public records, New York City — Sun, 5 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 19 Jun 2026

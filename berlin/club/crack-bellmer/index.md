@@ -9,7 +9,7 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Motion Unit presents Bellmer Nights | Candice Blonde, KONZ, Nedelcut |
-| Sun, 2 Aug 2026 | Echo Bloom presents: Midsommar Rituals | EZQIZITA, Part-Time Lesbian, dj prinskorv, ilbroccolovolante |
+| Sun, 2 Aug 2026 | Echo Bloom presents: Midsommar Rituals | EZQIZITA, MAD.MOD, Part-Time Lesbian, dj prinskorv, ilbroccolovolante |
 | Wed, 5 Aug 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 6 Aug 2026 | C.U.N.T. - fundraiser & party  | DotDash |
 | Fri, 7 Aug 2026 | BLURRY BELLMER ✧FREE from 9 to 11PM✧ | Hitomi (DE), MLE (UK), Otal, SELESSA T., Viénce |

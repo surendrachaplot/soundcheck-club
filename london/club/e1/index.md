@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 30 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "House Of Silk - Summer House Party" on Sat, 1 Aug 2026.
+E1 is a music venue in London with 31 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "House Of Silk - Summer House Party" on Sat, 1 Aug 2026.
 
-E1 is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 8KAYS, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including 8KAYS, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 

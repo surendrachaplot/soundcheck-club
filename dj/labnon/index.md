@@ -1,8 +1,8 @@
 # LABNON
 
-LABNON is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Sultan Room, New York City on Fri, 11 Sept 2026.
+LABNON is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Sultan Room, New York City on Fri, 11 Sept 2026.
 
-LABNON is a house and electro artist tracked on soundcheck, with 4 sets logged across Boston and Newyorkcity. Often billed alongside Poolhaus, Beni Hana and Colapso. Next up: The Sultan Room, Newyorkcity on Fri 11 Sept.
+LABNON is a house and trance artist tracked on soundcheck, with 4 sets logged across Boston and Newyorkcity. Often billed alongside Poolhaus, Beni Hana and Colapso. Next up: The Sultan Room, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 

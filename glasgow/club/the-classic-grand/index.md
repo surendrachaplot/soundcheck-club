@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Thunder Rave - HARDCORE TO DA BONE 2" on Sat, 1 Aug 2026.
+The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Thunder Rave - HARDCORE TO DA BONE 2" on Sat, 1 Aug 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Carbon Based Lifeforms, Charlie B, Dougal and George Bowie and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Carbon Based Lifeforms, Charlie B, Dougal and George Bowie and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 

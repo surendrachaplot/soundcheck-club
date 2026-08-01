@@ -1,6 +1,6 @@
 # Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY at Jupiter Disco
 
-Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY at Jupiter Disco on Wed 5 Aug, Newyorkcity. 6 acts on the bill: CMD+JAZMINE, MANGUMAMI, Pètal and Soo Intoit and 2 more. Preview the line-up and save it on soundcheck.
+Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY at Jupiter Disco on Wed 5 Aug, Newyorkcity. 6 acts on the bill: CMD+JAZMINE, MANGUMAMI, Petal and Soo Intoit and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY at Jupit
 
 - CMD+JAZMINE
 - MANGUMAMI
-- Pètal
+- Petal
 - Soo Intoit
 - Xana 101
 - XOY

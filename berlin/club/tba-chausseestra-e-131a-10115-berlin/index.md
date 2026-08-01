@@ -1,8 +1,8 @@
-# TBA - Chausseestraße 131A, 10115 Berlin
+# TBA - Chausseestraße 131A 10115 Berlin
 
-TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "[8] / ENDLESS CLUBBING SALON OPERA TAKEOVER [2 FLOORS]" on Sat, 8 Aug 2026.
+TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "[8] / ENDLESS CLUBBING SALON OPERA TAKEOVER [2 FLOORS]" on Sat, 8 Aug 2026.
 
-TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing.
+TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

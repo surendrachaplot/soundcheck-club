@@ -1,14 +1,15 @@
 # Benwal
 
-Benwal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Benwal is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
-Benwal is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Burgess Park, London on Sat 1 Aug.
+Benwal is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Burgess Park, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Burgess Park | London |
+| Fri, 7 Aug 2026 | Nitsa Club | Barcelona |
 | Mon, 10 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |

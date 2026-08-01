@@ -1,11 +1,11 @@
-# Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - Secret Bushwick Location (revealed to ticket holders)
+# Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - 30 Meadow St., Brooklyn
 
-Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - Secret Bushwick Location (revealed to ticket holders) on Sat 1 Aug, Newyorkcity. 3 acts on the bill: baby-g, Chillosophy and Dr. Strangefunk. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - 30 Meadow St., Brooklyn on Sat 1 Aug, Newyorkcity. 3 acts on the bill: baby-g, Chillosophy and Dr. Strangefunk. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 1 Aug 2026 |
-| Venue | TBA - Secret Bushwick Location (revealed to ticket holders) |
+| Venue | TBA - 30 Meadow St., Brooklyn |
 | City | New York City |
 
 ## Line-up

@@ -1,8 +1,8 @@
-# Soju Gang
+# Numero 6
 
-Soju Gang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Java, Paris on Sat, 5 Sept 2026.
+Numero 6 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Java, Paris on Sat, 5 Sept 2026.
 
-Soju Gang is a house and techno artist tracked on soundcheck, with 109 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: La Java, Paris on Sat 5 Sept.
+Numero 6 is a house and techno artist tracked on soundcheck, with 109 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: La Java, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 

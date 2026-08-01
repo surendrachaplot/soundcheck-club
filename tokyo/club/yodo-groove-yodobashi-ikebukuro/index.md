@@ -9,7 +9,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Tokyo Rooftop House Music Sunset - DAISHI DANCE at YODO GROOVE | Leon, PUNK N MATRIX, YOSHIMASA, ch1y0 |
-| Sun, 2 Aug 2026 | Escape the City – Tokyo Rooftop Sunset / Organic House & Progressive | Nanlaze, YOSHIMASA |
+| Sun, 2 Aug 2026 | Skyline Sessions Tokyo – Sunset to Night Rooftop Experience | Nanlaze, YOSHIMASA |
 | Sun, 9 Aug 2026 | Tokyo Sunset Rooftop Experience ft Ken Ishii | DJ SAWA, KENJI FURUYA, Ken Ishii, Ko Kimura |
 | Sun, 16 Aug 2026 | BUNKER IS HEADING TO THE ROOFTOP. HARD GROOVE / TRANCE | EMILIO (3), LYOM, STRATAH, VÏVÏ, uuu7 |
 | Sat, 22 Aug 2026 | SUBSPACE at YODO GROOVE |  |

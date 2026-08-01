@@ -1,14 +1,15 @@
 # Bélavie
 
-Bélavie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+Bélavie is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
-Bélavie is a trance and techno artist based in Croatia, tracked on soundcheck, with 81 sets logged across Berlin, Cologne, Hamburg and Madrid and 1 more. Often billed alongside alemiko, ONNY CHO and Zoanthropiia. Next up: ://about blank, Berlin on Fri 21 Aug.
+Bélavie is a trance and techno artist based in Croatia, tracked on soundcheck, with 82 sets logged across Berlin, Cologne, Hamburg and Madrid and 1 more. Often billed alongside alemiko, ONNY CHO and Zoanthropiia. Next up: ://about blank, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | ://about blank | Berlin |
+| Fri, 30 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 

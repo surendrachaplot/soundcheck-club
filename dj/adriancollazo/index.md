@@ -12,7 +12,7 @@ Adrian Collazo is a disco and funk / soul artist based in United States of Ameri
 
 ## Recently played
 
-- TBA - Cana, Washington DC — Sat, 25 Jul 2026
+- CANA, Washington DC — Sat, 25 Jul 2026
 - Showtime Lounge, Washington DC — Sat, 27 Jun 2026
 - Showtime Lounge, Washington DC — Fri, 1 May 2026
 - Flash, Washington DC — Fri, 3 Apr 2026

@@ -13,7 +13,7 @@ Karizma is a house and deep house artist tracked on soundcheck, with 52 sets log
 ## Recently played
 
 - TV Lounge, Detroit — Sat, 18 Jul 2026
-- TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles — Sat, 11 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - TBA, San Francisco/Oakland — Sat, 27 Jun 2026
 - Mess Hall, Washington DC — Sun, 21 Jun 2026
 - Cannons, Detroit — Sun, 24 May 2026

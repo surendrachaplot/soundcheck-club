@@ -1,6 +1,6 @@
 # Sound in the Garden 2026, Sunday (Sound installations for Fujiko Nakaya) at Neue Nationalgalerie
 
-Sound in the Garden 2026, Sunday (Sound installations for Fujiko Nakaya) at Neue Nationalgalerie on Sun 16 Aug, Berlin. 3 acts on the bill: Alva Noto, Ryuichi Sakamoto and Stephen O'Malley. Ambient and Classical. Preview the line-up and save it on soundcheck.
+Sound in the Garden 2026, Sunday (Sound installations for Fujiko Nakaya) at Neue Nationalgalerie on Sun 16 Aug, Berlin. 4 acts on the bill: Alva Noto, Kali Malone, Ryuichi Sakamoto and Stephen O'Malley. Ambient and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Sound in the Garden 2026, Sunday (Sound installations for Fujiko Nakaya) at Neue
 ## Line-up
 
 - Alva Noto
+- Kali Malone
 - Ryuichi Sakamoto
 - Stephen O'Malley
 

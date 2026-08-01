@@ -11,7 +11,7 @@ Circle Line Cruises is a music venue in Newyorkcity listed on soundcheck. 5 upco
 | Sat, 15 Aug 2026 | Zero presents: The Dusty Boat with ELIF | ELIF, Lovecraft |
 | Sun, 16 Aug 2026 | Kinder Circus - MAGIC BOAT RIDE | C.M.A., Jordi Iven |
 | Sun, 23 Aug 2026 | SOUL ALLIANCE BOAT PARTY 2026 | Danny Krivit, Joe Claussell |
-| Sun, 6 Sept 2026 | Gabriel & Dresden Classics Only Boat Party |  |
+| Sun, 6 Sept 2026 | Gabriel & Dresden Classics Only NYC Boat Party |  |
 | Sat, 26 Sept 2026 | Circle Line Summer Series: Silva Bumpa | Silva Bumpa |
 
 ## Address
