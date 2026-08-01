@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Gaffe x Late Night Shopper present Vladimir Ivkovic, Kristana May (live), Allecto & Luca Gaffe" on Sat, 1 Aug 2026.
+Gaffe is a music venue in London with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Gaffe x Late Night Shopper presents Vladimir Ivkovic, Kristina May (live), Allecto & Luca Gaffe" on Sat, 1 Aug 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -8,8 +8,8 @@ Gaffe is a music venue in London listed on soundcheck. 20 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Gaffe x Late Night Shopper present Vladimir Ivkovic, Kristana May (live), Allecto & Luca Gaffe | Allecto, Kristina May, Luca Gaffe, Vladimir Ivkovic |
-| Sat, 1 Aug 2026 | Free Daytime Party - Transmissions Label Launch with Sunju Hargun | Alicia (UK), Inner Zone, Sunju Hargun |
+| Sat, 1 Aug 2026 | Gaffe x Late Night Shopper presents Vladimir Ivkovic, Kristina May (live), Allecto & Luca Gaffe | Allecto, Kristina May, Luca Gaffe, Vladimir Ivkovic |
+| Sat, 1 Aug 2026 | Daytime Party - Transmissions Label Launch with Sunju Hargun | Alicia (UK), Inner Zone, Sunju Hargun |
 | Sat, 8 Aug 2026 | Elata Collective 013: 26hours Summer Edition [Part One] | 1BYAKKO, Aniaef, Deranged, GIZZI, H Grade, Hitam, James Harbrecht, Justine Perry, KETCH, TAARIS, Uväll, WINDFUHR, Ylia (UK), markellos |
 | Sat, 15 Aug 2026 | Noise Orchestra presents: PHASE SHIFT – Open Air Extended | Antonio De Angelis, Deranged, Kameliia, Livid (UK), Madtronik, Mattia Koväl, Pre Silent, Quelza, Silpagare, TAITO, UFO95 |
 | Sun, 16 Aug 2026 | PARTICLES | Jane Fitz, Marco Shuttle |
