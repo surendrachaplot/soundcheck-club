@@ -1,6 +1,6 @@
 # CreamyZound
 
-CreamyZound is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ipse, Berlin on Sat, 8 Aug 2026.
+CreamyZound is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ipse, Berlin on Sat, 8 Aug 2026.
 
 CreamyZound is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Cologne. Often billed alongside Sokool, Lueking and BARTi. Next up: Ipse, Berlin on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ CreamyZound is a techno and house artist based in Germany, tracked on soundcheck
 
 Sokool, Lueking, BARTi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creamyzound/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creamyzound/)*

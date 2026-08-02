@@ -1,18 +1,18 @@
 # Lyss
 
-Lyss is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at La Prairie du Canal, Paris on Sat, 1 Aug 2026.
+Lyss is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Fri, 28 Aug 2026.
 
-Lyss is a house and electro artist based in France, tracked on soundcheck, with 62 sets logged across Berlin, London, Lyon and Nantes and 1 more. Often billed alongside LeLeon, Maison Blanche and Pierrinski. Next up: La Prairie du Canal, Paris on Sat 1 Aug.
+Lyss is a house and electro artist based in France, tracked on soundcheck, with 62 sets logged across Berlin, London, Lyon and Nantes and 1 more. Often billed alongside LeLeon, Maison Blanche and Pierrinski. Next up: Le Sucre, Lyon on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | La Prairie du Canal | Paris |
 | Fri, 28 Aug 2026 | Le Sucre | Lyon |
 
 ## Recently played
 
+- La Prairie du Canal, Paris — Sat, 1 Aug 2026
 - Macadam, Nantes — Sat, 18 Apr 2026
 - Virage, Paris — Thu, 16 Apr 2026
 - Sacré, Paris — Fri, 27 Feb 2026
@@ -20,10 +20,9 @@ Lyss is a house and electro artist based in France, tracked on soundcheck, with 
 - Badaboum, Paris — Fri, 31 Oct 2025
 - La Machine Du Moulin Rouge, Paris — Fri, 12 Sept 2025
 - Fvtvr, Paris — Fri, 1 Aug 2025
-- TBA - Château de Farcheville, Paris — Thu, 24 Jul 2025
 
 ## Shares bills with
 
 LeLeon, Maison Blanche, Pierrinski
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyss/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyss/)*

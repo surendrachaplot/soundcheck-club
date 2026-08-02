@@ -1,6 +1,6 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ISOamsterdam, Amsterdam on Sun, 2 Aug 2026.
+Xiaolin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at ISOamsterdam, Amsterdam on Sun, 2 Aug 2026.
 
 Xiaolin is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Sunsiaré, Rødhåd and Wata Igarashi. Next up: ISOamsterdam, Amsterdam on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Xiaolin is a house and techno artist tracked on soundcheck, with 75 sets logged 
 
 Sunsiaré, Rødhåd, Wata Igarashi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

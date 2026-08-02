@@ -1,14 +1,13 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Social Sounds: Hannah B2B Sophie All Night Long " on Sat, 1 Aug 2026.
+The Ulster Sports Club is a music venue in Belfast with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Plain Sailing's Irish B2B Special" on Fri, 7 Aug 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Adam Munn, Blark, brawni and Christopher Coe and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 8 upcoming nights, with line-ups including Adam Munn, Blark, brawni and Christopher Coe and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Social Sounds: Hannah B2B Sophie All Night Long  | Hannah (1), Sophie (2) |
 | Fri, 7 Aug 2026 | Plain Sailing's Irish B2B Special | Matcha, Matheson, Plain Sailing DJs, Reger, Rhyzine, Sahana, brawni |
 | Sat, 8 Aug 2026 | Félíneach W/ Conor Schmtz & Matcha | Conor Schmtz, Matcha |
 | Fri, 21 Aug 2026 | TUUUNEz.INC PRES. HAPPY MUSIC |  |
@@ -22,4 +21,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

@@ -1,6 +1,6 @@
 # STŒWE
 
-STŒWE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
+STŒWE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
 
 STŒWE is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside XHOUSTED, Ayham and LNZ.. Next up: YAAM Berlin, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ STŒWE is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 XHOUSTED, Ayham, LNZ.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoewe/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoewe/)*

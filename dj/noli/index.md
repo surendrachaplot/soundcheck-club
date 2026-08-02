@@ -1,6 +1,6 @@
 # NOLI
 
-NOLI is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jumbi, London on Sun, 2 Aug 2026.
+NOLI is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jumbi, London on Sun, 2 Aug 2026.
 
 NOLI is a breakbeat and jungle artist tracked on soundcheck, with 14 sets logged across London and Paris. Often billed alongside G.ear, Aasi and Amelia Leigh. Next up: Jumbi, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ NOLI is a breakbeat and jungle artist tracked on soundcheck, with 14 sets logged
 
 G.ear, Aasi, Amelia Leigh
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noli/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noli/)*

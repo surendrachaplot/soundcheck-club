@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Sunday SerVice: Long Weekend FAM JAM Edition" on Sun, 2 Aug 2026.
+Wiggle Room is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Sunday SerVice: Long Weekend FAM JAM Edition" on Sun, 2 Aug 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including Addy, Barroness, Carabetta and Dick Diamonds and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -21,4 +21,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 8 upcoming nights,
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

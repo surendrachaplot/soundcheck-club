@@ -1,6 +1,6 @@
 # maxim_jl
 
-maxim_jl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+maxim_jl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 maxim_jl is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Nikklaas, Bákayan and Julian Sander. Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ maxim_jl is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Nikklaas, Bákayan, Julian Sander
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*

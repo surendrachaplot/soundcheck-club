@@ -1,6 +1,6 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Anacalypto & Friends" on Sat, 5 Sept 2026.
+OT301 is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Anacalypto & Friends" on Sat, 5 Sept 2026.
 
 OT301 is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Anacalypto, Bardo (1), Charlton and DJ Aleksi and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
@@ -16,4 +16,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, wit
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

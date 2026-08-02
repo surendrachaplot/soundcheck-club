@@ -1,6 +1,6 @@
 # TBA - Secret location in Nishi Azabu
 
-TBA - Secret location in Nishi Azabu is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Pandæmonium: The Eleventh Circle" on Sat, 8 Aug 2026.
+TBA - Secret location in Nishi Azabu is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Pandæmonium: The Eleventh Circle" on Sat, 8 Aug 2026.
 
 TBA - Secret location in Nishi Azabu is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Eichi Abe, Pointhope and USB DRIVE. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret location in Nishi Azabu is a music venue in Tokyo listed on soundch
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Pandæmonium: The Eleventh Circle | Eichi Abe, Pointhope, USB DRIVE |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-secret-location-in-nishi-azabu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-secret-location-in-nishi-azabu/)*

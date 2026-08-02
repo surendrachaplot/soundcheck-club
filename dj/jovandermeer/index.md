@@ -1,6 +1,6 @@
 # Jo van der Meer
 
-Jo van der Meer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Eden, Ibiza on Mon, 3 Aug 2026.
+Jo van der Meer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Eden, Ibiza on Mon, 3 Aug 2026.
 
 Jo van der Meer is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Hamburg and Ibiza and 2 more. Often billed alongside AMOUNKA, Benzsoul and Convinzed. Next up: Eden, Ibiza on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Jo van der Meer is a house and techno artist tracked on soundcheck, with 18 sets
 
 AMOUNKA, Benzsoul, Convinzed
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jovandermeer/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jovandermeer/)*

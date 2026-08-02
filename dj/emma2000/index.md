@@ -1,14 +1,13 @@
 # Emma 2000
 
-Emma 2000 is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 1 Aug 2026.
+Emma 2000 is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 15 Aug 2026.
 
-Emma 2000 is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Obskur and Julian Fijma. Next up: Ushuaïa Ibiza, Ibiza on Sat 1 Aug.
+Emma 2000 is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Obskur and Julian Fijma. Next up: Ouseburn Garden, Newcastle on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Ouseburn Garden | Newcastle |
 | Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -16,6 +15,7 @@ Emma 2000 is a house and tech house artist tracked on soundcheck, with 24 sets l
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sat, 1 Aug 2026
 - Mint Warehouse, Leeds — Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
 - Cova Santa, Ibiza — Tue, 16 Jun 2026
@@ -23,10 +23,9 @@ Emma 2000 is a house and tech house artist tracked on soundcheck, with 24 sets l
 - Amnesia Ibiza, Ibiza — Tue, 9 Jun 2026
 - Digital, Newcastle — Fri, 5 Jun 2026
 - KOKO, London — Sun, 3 May 2026
-- Newsam Green Farm, Leeds — Sat, 2 May 2026
 
 ## Shares bills with
 
 Joss Dean, Obskur, Julian Fijma
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*

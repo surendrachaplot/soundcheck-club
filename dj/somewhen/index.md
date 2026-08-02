@@ -1,14 +1,13 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Somewhen is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Somewhen is a techno and trance artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Donauinsel, Vienna on Sat 1 Aug.
+Somewhen is a techno and trance artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Donauinsel | Vienna |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
@@ -21,6 +20,7 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 203 sets logg
 
 ## Recently played
 
+- Donauinsel, Vienna — Sat, 1 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Union Park, Chicago — Sat, 18 Jul 2026
 - Sala Urbana, Mexico City — Fri, 17 Jul 2026
@@ -28,10 +28,9 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 203 sets logg
 - Fabrik, Madrid — Sat, 27 Jun 2026
 - TBA - TANZ INSEL OPEN AIR, Nürnberg — Sat, 27 Jun 2026
 - Overclub, Mallorca — Fri, 26 Jun 2026
-- Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

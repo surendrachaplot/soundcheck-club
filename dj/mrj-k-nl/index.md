@@ -1,6 +1,6 @@
 # MRJ-K
 
-MRJ-K is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Toffler, Rotterdam on Fri, 7 Aug 2026.
+MRJ-K is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Toffler, Rotterdam on Fri, 7 Aug 2026.
 
 MRJ-K is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Glasgow and Rotterdam. Often billed alongside MIT (6), Mossa and NKI (1). Next up: Toffler, Rotterdam on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ MRJ-K is an industrial and techno artist based in Netherlands, tracked on soundc
 
 MIT (6), Mossa, NKI (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrj-k-nl/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrj-k-nl/)*

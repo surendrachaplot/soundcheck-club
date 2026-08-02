@@ -1,6 +1,6 @@
 # Bread & Butter Arch
 
-Bread & Butter Arch is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Track Record Goes East" on Sat, 26 Sept 2026.
+Bread & Butter Arch is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Track Record Goes East" on Sat, 26 Sept 2026.
 
 Bread & Butter Arch is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including BRUSS, Gratia (2) and S.U.R.E.. Browse upcoming dates, start times and who's playing. 3 Bohemia Place, Hackney Central, E8 1DU.
 
@@ -14,4 +14,4 @@ Bread & Butter Arch is a music venue in London listed on soundcheck. 1 upcoming 
 
 3 Bohemia Place, Hackney Central, E8 1DU, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*

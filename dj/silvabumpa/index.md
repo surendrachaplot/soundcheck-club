@@ -1,15 +1,13 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
+Silva Bumpa is a Garage and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 9 Aug 2026.
 
-Silva Bumpa is a garage and house artist tracked on soundcheck, with 203 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
+Silva Bumpa is a garage and house artist tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Amnesia Ibiza, Ibiza on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Palmerstown House Estate | Dublin |
-| Sat, 1 Aug 2026 | Index | Dublin |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 20 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,20 +18,22 @@ Silva Bumpa is a garage and house artist tracked on soundcheck, with 203 sets lo
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Circle Line Cruises | New York City |
 | Fri, 2 Oct 2026 | The Roundhouse | London |
+| Fri, 9 Oct 2026 | The Limelight | Belfast |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Sat, 1 Aug 2026
+- Index, Dublin — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 16 Jul 2026
 - BCM, Mallorca — Tue, 7 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 6 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- Parc del Fòrum, Barcelona — Sat, 20 Jun 2026
-- Balkenhaven, Amsterdam — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Soul Mass Transit System, Main Phase, Prozak (IRL)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

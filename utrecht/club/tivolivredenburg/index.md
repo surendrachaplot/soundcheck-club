@@ -1,6 +1,6 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Hush with Rooleh, Easttown & More" on Sat, 29 Aug 2026.
+TivoliVredenburg is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Hush with Rooleh, Easttown & More" on Sat, 29 Aug 2026.
 
 TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 5 upcoming nights, with line-ups including AAT (NL), Aphrodite, Black Sun Empire and Cici Daze and 2 more. Browse upcoming dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
@@ -18,4 +18,4 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 5 upcoming ni
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

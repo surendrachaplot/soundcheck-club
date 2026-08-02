@@ -1,6 +1,6 @@
 # Blark
 
-Blark is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 4 Sept 2026.
+Blark is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 4 Sept 2026.
 
 Blark is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Belfast. Often billed alongside Cricky Lyttle, Ryan Dallas and Nez. Next up: The Ulster Sports Club, Belfast on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Blark is a techno and dub techno artist based in United Kingdom, tracked on soun
 
 Cricky Lyttle, Ryan Dallas, Nez
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blark/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blark/)*

@@ -1,6 +1,6 @@
 # AIRS
 
-AIRS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
+AIRS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
 
 AIRS is a house and disco artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles. Often billed alongside Chase Aldridge, Magic Touch and Apiento. Next up: Elysian Park, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AIRS is a house and disco artist based in United States of America, tracked on s
 
 Chase Aldridge, Magic Touch, Apiento
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airs/)*

@@ -1,6 +1,6 @@
 # Centrikal
 
-Centrikal is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Sonder Bar, Portland on Fri, 7 Aug 2026.
+Centrikal is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Sonder Bar, Portland on Fri, 7 Aug 2026.
 
 Centrikal is an electro and breakbeat artist based in United States of America, tracked on soundcheck, with 13 sets logged across Portland. Often billed alongside 214, The Perfect Cyn and ADJ. Next up: The Sonder Bar, Portland on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Centrikal is an electro and breakbeat artist based in United States of America, 
 
 214, The Perfect Cyn, ADJ
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/centrikal/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/centrikal/)*

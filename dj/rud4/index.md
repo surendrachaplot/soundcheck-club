@@ -1,6 +1,6 @@
 # RUD4
 
-RUD4 is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 7 Aug 2026.
+RUD4 is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 7 Aug 2026.
 
 RUD4 is an electronica and techno artist based in Venezuela, tracked on soundcheck, with 8 sets logged across Amsterdam and Barcelona. Often billed alongside AAlva, ETER (2) and Eli Kapowski. Next up: Born 2B Music Bar, Barcelona on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ RUD4 is an electronica and techno artist based in Venezuela, tracked on soundche
 
 AAlva, ETER (2), Eli Kapowski
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rud4/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rud4/)*

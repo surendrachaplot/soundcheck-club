@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Analog Volts x SB: Binh - Percü" on Sat, 1 Aug 2026.
+StereoBar is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "LBD: Simbasōl (All Night Long)" on Sun, 2 Aug 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Binh and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and CPR Annie and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Analog Volts x SB: Binh - Percü | Binh, Percü |
 | Sun, 2 Aug 2026 | LBD: Simbasōl (All Night Long) | Simbasōl |
 | Fri, 7 Aug 2026 | Pablo Bozzi - Molyness | Molyness, Pablo Bozzi |
 | Sat, 8 Aug 2026 | Tony Romera (All Night Long) | Tony Romera |
@@ -18,9 +17,10 @@ StereoBar is a music venue in Montreal listed on soundcheck. 14 upcoming nights,
 | Sun, 16 Aug 2026 | LBD: FAMÜ & K.Lein | FAMÜ |
 | Fri, 21 Aug 2026 | Volen Sentir - Moti | Moti (CR), Volen Sentir |
 | Sat, 22 Aug 2026 | Shift Radio x SB: Wheelbite - Vincent Lemieux - Audrey Bélanger | Audrey Bélanger, Vincent Lemieux, Wheelbite |
+| Sun, 23 Aug 2026 | LBD: Adam Husa (All Night Long) | Adam Husa |
 
 ## Address
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

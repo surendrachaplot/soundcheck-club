@@ -1,18 +1,18 @@
 # SØMOS
 
-SØMOS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+SØMOS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
 
-SØMOS is a techno and trance artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Losangeles. Often billed alongside SØMOS, Cobb Douglas and nat the f*kn rat. Next up: Schrotty, Cologne on Sat 1 Aug.
+SØMOS is a techno and trance artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Losangeles. Often billed alongside SØMOS, Cobb Douglas and nat the f*kn rat. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Schrotty | Cologne |
 | Fri, 28 Aug 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- Schrotty, Cologne — Sat, 1 Aug 2026
 - TBA, Los Angeles — Sat, 11 Jul 2026
 - TBA - DTLA, Los Angeles — Sat, 14 Mar 2026
 - TBA - DTLA, Los Angeles — Fri, 6 Mar 2026
@@ -23,4 +23,4 @@ SØMOS is a techno and trance artist based in United States of America, tracked 
 
 SØMOS, Cobb Douglas, nat the f*kn rat
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somos/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somos/)*

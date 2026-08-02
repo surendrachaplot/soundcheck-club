@@ -1,6 +1,6 @@
 # Aristo G
 
-Aristo G is a New Wave and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Revolver Upstairs, Melbourne on Wed, 19 Aug 2026.
+Aristo G is a New Wave and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Revolver Upstairs, Melbourne on Wed, 19 Aug 2026.
 
 Aristo G is a new wave and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne. Often billed alongside Stockholm Syndrome, Mitch Tonta and Traxion. Next up: Revolver Upstairs, Melbourne on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Aristo G is a new wave and house artist based in Australia, tracked on soundchec
 
 Stockholm Syndrome, Mitch Tonta, Traxion
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aristog/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aristog/)*

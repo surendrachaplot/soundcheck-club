@@ -1,6 +1,6 @@
 # MENACE (CA)
 
-MENACE (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
+MENACE (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
 
 MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside Burnii, KILL 9 1 and A_C_E.. Next up: The Comfort Zone, Toronto on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ MENACE (CA) is a techno and industrial artist based in Canada, tracked on soundc
 
 Burnii, KILL 9 1, A_C_E.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menaceca/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menaceca/)*

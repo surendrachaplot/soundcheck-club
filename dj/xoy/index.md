@@ -1,6 +1,6 @@
 # XOY
 
-XOY is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jupiter Disco, New York City on Wed, 5 Aug 2026.
+XOY is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jupiter Disco, New York City on Wed, 5 Aug 2026.
 
 XOY is a club and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Austin, Houston and Newyorkcity. Often billed alongside DJ BAD APPLE, DanyKiss and Juan40. Next up: Jupiter Disco, Newyorkcity on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ XOY is a club and techno artist based in United States of America, tracked on so
 
 DJ BAD APPLE, DanyKiss, Juan40
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xoy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xoy/)*

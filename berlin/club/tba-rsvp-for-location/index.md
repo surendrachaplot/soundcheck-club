@@ -1,6 +1,6 @@
 # TBA - RSVP FOR LOCATION
 
-TBA - RSVP FOR LOCATION is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Bass Advent Festival: System Failure Sound System Workshop" on Sat, 8 Aug 2026.
+TBA - RSVP FOR LOCATION is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Bass Advent Festival: System Failure Sound System Workshop" on Sat, 8 Aug 2026.
 
 TBA - RSVP FOR LOCATION is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - RSVP FOR LOCATION is a music venue in Berlin listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Bass Advent Festival: System Failure Sound System Workshop |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-rsvp-for-location/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-rsvp-for-location/)*

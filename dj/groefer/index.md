@@ -1,6 +1,6 @@
 # Groefer
 
-Groefer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 8 Aug 2026.
+Groefer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 8 Aug 2026.
 
 Groefer is a house and techno artist based in Morocco, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside CELESTAI and Chrissandro. Next up: Geary Avenue Warehouse Project, Toronto on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Groefer is a house and techno artist based in Morocco, tracked on soundcheck, wi
 
 CELESTAI, Chrissandro
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groefer/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groefer/)*

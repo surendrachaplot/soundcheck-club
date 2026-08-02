@@ -1,6 +1,6 @@
 # Flymeon
 
-Flymeon is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
+Flymeon is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
 
 Flymeon is a techno and industrial artist based in France, tracked on soundcheck, with 57 sets logged across Barcelona, Basel, Berlin and Cologne and 18 more. Often billed alongside Paolo Ferrara, Lorenzo Raganzini and BIIA. Next up: Le Kilowatt, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Flymeon is a techno and industrial artist based in France, tracked on soundcheck
 
 Paolo Ferrara, Lorenzo Raganzini, BIIA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flymeon/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flymeon/)*

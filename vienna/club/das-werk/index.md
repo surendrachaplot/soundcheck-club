@@ -1,14 +1,14 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien" on Sat, 1 Aug 2026.
+Das Werk is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DYSTOPIA RAVE with Plea5urepul5e" on Sat, 8 Aug 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Albin Brezlan, Bangerfabrique, carlo kalu and Crystal O and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Bangerfabrique, carlo kalu, Crystal O and DJ WIFI and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien | Albin Brezlan, Huebl, Paul Boese |
+| Sat, 8 Aug 2026 | DYSTOPIA RAVE with Plea5urepul5e | Plea5urepul5e |
 | Fri, 14 Aug 2026 | HERZFREQUENZ: SUMMER BOUNCE EDITION | Crystal O, DJ WIFI, DJ Wolle, DORAH, Joey (2), KILIÅN, Limoncello, Melle, Pixie Dust, SAYA |
 | Sat, 15 Aug 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
 | Fri, 11 Sept 2026 | HERZFREQUENZ: NIGHT | Crystal O, DJ Wolle, DORAH, Joey (2), KILIÅN, Kat Ze, Kø:lab, SEKTOR69, WO.IZZY, YØNDER, carlo kalu |
@@ -19,4 +19,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 6 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

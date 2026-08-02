@@ -1,6 +1,6 @@
 # TSHA
 
-TSHA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
+TSHA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
 
 TSHA is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Old Royal Naval College, London on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ TSHA is a house and techno artist tracked on soundcheck, with 181 sets logged ac
 
 Eliza Rose, Honey Dijon, Seth Troxler
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*

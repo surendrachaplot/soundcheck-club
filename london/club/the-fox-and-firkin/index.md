@@ -1,14 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Bizarre Trax Open Air" on Sat, 1 Aug 2026.
+The Fox and Firkin is a music venue in London with 17 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Jamaican Independence Day Celebration with Rum 'N' Bass & DJ Croc" on Thu, 6 Aug 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including a life in space, ARLYSS, Aroop Roy and Bok Bok and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Bizarre Trax Open Air | 3 Minds, B.Love, Ethel, Jhobei, Melody RA+RE, Oliver.r, Sam Bangura, ZEUS |
 | Thu, 6 Aug 2026 | Jamaican Independence Day Celebration with Rum 'N' Bass & DJ Croc |  |
 | Fri, 7 Aug 2026 | Congo Natty | Congo Natty |
 | Sat, 8 Aug 2026 | Day & Night Refugee Fundraiser (Skull Rub X High Hats X Felt Sound System) | ARLYSS, Bok Bok, M.I.C (The Master of Inane Conversation), Nammy Wams, Rohan Rakhit, THEMPRESS, Yug (UK), a life in space, nasar |
@@ -18,9 +17,10 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming 
 | Fri, 21 Aug 2026 | Havana Meets Kingston Sound System |  |
 | Sat, 22 Aug 2026 | Dubtendo Day Party |  |
 | Thu, 27 Aug 2026 | Dende Nation Pre Carnival Night with Reggae Choir |  |
+| Fri, 28 Aug 2026 | Ray Keith's Dread Bank Holiday | DJ Millz, Five Alive, Grooverider, HEXA, KL (8), KONZ, Ray Keith, Ty |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

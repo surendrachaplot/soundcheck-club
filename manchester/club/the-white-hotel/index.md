@@ -1,15 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 32 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live]" on Sat, 1 Aug 2026.
+The White Hotel is a music venue in Manchester with 30 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Bodyworks 4: Anti-Symposium" on Fri, 7 Aug 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Alessandro Adriani and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 30 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Alessandro Adriani and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] | CITYTRONIX, Chande, FURIOUS STYLES, M.I.C (The Master of Inane Conversation), SHERI (2) |
-| Sat, 1 Aug 2026 | Freak Queer Rave w/ TEDESCO, Michael Upson, Bekefi, Jus'T | Bekefi, Jus’T, Michael Upson, TEDESCO |
 | Fri, 7 Aug 2026 | Bodyworks 4: Anti-Symposium | GINA (UK), Kop-Z, Syntax (2), TOOT |
 | Sat, 8 Aug 2026 | Red Laser Summer Hummer | Il Bosco, Kickin Pigeon, Pharaoh Brunson, Tam Tam, babyschön |
 | Sun, 9 Aug 2026 | BENT - SUN:SET | BAY-BUSH-KA, Jase Jeffery, Josh Caffé |
@@ -18,9 +16,11 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming
 | Sat, 15 Aug 2026 | Sully / Jossy Mitsu / Scapa | Jossy Mitsu, Scapa, Sully |
 | Sun, 16 Aug 2026 | DJ Spanish Fly / Tom Boogizm | Tom Boogizm |
 | Thu, 20 Aug 2026 | Marie Davidson (LIVE) | Marie Davidson |
+| Fri, 21 Aug 2026 | 01366̸Quelza, Jin Synth & colell | HØLEIGH, Jin Synth, Quelza, Sylvia (ES), colell |
+| Sat, 22 Aug 2026 | KAVARI / Dazegxd / Kamixlo / Ship Sket | Dazegxd, KAVARI, Kamixlo, Ship Sket |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

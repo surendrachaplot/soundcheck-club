@@ -1,6 +1,6 @@
 # Miette
 
-Miette is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Salon Daomé, Montreal on Sat, 15 Aug 2026.
+Miette is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Salon Daomé, Montreal on Sat, 15 Aug 2026.
 
 Miette is a techno and experimental artist based in Canada, tracked on soundcheck, with 12 sets logged across Montreal. Often billed alongside Sloppy, Safia Nihil and s.talbot. Next up: Salon Daomé, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Miette is a techno and experimental artist based in Canada, tracked on soundchec
 
 Sloppy, Safia Nihil, s.talbot
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miette/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miette/)*

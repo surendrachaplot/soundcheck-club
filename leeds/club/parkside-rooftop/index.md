@@ -1,6 +1,6 @@
 # Parkside Rooftop
 
-Parkside Rooftop is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "INNERCITY VIBE: Roof Terrace Sessions with Riley" on Sat, 22 Aug 2026.
+Parkside Rooftop is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "INNERCITY VIBE: Roof Terrace Sessions with Riley" on Sat, 22 Aug 2026.
 
 Parkside Rooftop is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Casika, Myles Harris and Riley. Browse upcoming dates, start times and who's playing. St Johns House, Merrion Street, Leeds, LS2 8JE.
 
@@ -14,4 +14,4 @@ Parkside Rooftop is a music venue in Leeds listed on soundcheck. 1 upcoming nigh
 
 St Johns House, Merrion Street, Leeds, LS2 8JE, Leeds
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/parkside-rooftop/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/parkside-rooftop/)*

@@ -1,14 +1,13 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
+Raresh is a House and Minimal artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
 
-Raresh is a house and minimal artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 1 Aug.
+Raresh is a house and minimal artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: 528 Ibiza, Ibiza on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Sun, 2 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 7 Aug 2026 | Supermarket | Zurich |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Raresh is a house and minimal artist tracked on soundcheck, with 188 sets logged
 
 ## Recently played
 
+- Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 1 Aug 2026
 - Club Guesthouse, Bucharest — Sun, 26 Jul 2026
 - Playa Soleil Ibiza, Ibiza — Wed, 22 Jul 2026
 - Fvtvr, Paris — Fri, 3 Jul 2026
@@ -28,10 +28,9 @@ Raresh is a house and minimal artist tracked on soundcheck, with 188 sets logged
 - Amnesia Ibiza, Ibiza — Sun, 14 Jun 2026
 - Kapsule, Liverpool — Sat, 30 May 2026
 - Moon Club, Bristol — Fri, 29 May 2026
-- LDN East, London — Sun, 24 May 2026
 
 ## Shares bills with
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

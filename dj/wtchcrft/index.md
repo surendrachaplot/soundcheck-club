@@ -1,20 +1,20 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 5 Aug 2026.
 
-WTCHCRFT is a techno and club artist tracked on soundcheck, with 150 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, estoc and nextdimensional. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
+WTCHCRFT is a techno and club artist tracked on soundcheck, with 150 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, estoc and nextdimensional. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TRANSMISSION DC | Washington DC |
 | Wed, 5 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 28 Aug 2026 | La Récré | Montreal |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC — Sat, 1 Aug 2026
 - Signal, New York City — Fri, 31 Jul 2026
 - Paragon, New York City — Fri, 17 Jul 2026
 - Bossa Nova Civic Club, New York City — Thu, 9 Jul 2026
@@ -22,10 +22,9 @@ WTCHCRFT is a techno and club artist tracked on soundcheck, with 150 sets logged
 - TBA - Secret Location, New York City — Sat, 6 Jun 2026
 - Radius, Chicago — Fri, 5 Jun 2026
 - Delirium, New York City — Sun, 31 May 2026
-- Paragon, New York City — Fri, 29 May 2026
 
 ## Shares bills with
 
 KYRUH, estoc, nextdimensional
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

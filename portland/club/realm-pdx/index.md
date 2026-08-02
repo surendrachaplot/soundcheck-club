@@ -1,6 +1,6 @@
 # Realm PDX
 
-Realm PDX is a music venue in Portland with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Mall Grab" on Fri, 7 Aug 2026.
+Realm PDX is a music venue in Portland with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Mall Grab" on Fri, 7 Aug 2026.
 
 Realm PDX is a music venue in Portland listed on soundcheck. 1 upcoming night, with line-ups including Ben Tactic and Mall Grab. Browse upcoming dates, start times and who's playing. 615 SE Alder St, Portland, OR 97212.
 
@@ -14,4 +14,4 @@ Realm PDX is a music venue in Portland listed on soundcheck. 1 upcoming night, w
 
 615 SE Alder St, Portland, OR 97212, Portland
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/realm-pdx/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/realm-pdx/)*

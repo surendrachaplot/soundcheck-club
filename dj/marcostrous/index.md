@@ -1,14 +1,13 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Jolene Downtown Miami, Miami on Sat, 1 Aug 2026.
+Marco Strous is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 37 sets logged across Austin, Boston, Chicago and Houston and 13 more. Often billed alongside Chris Lake, MPH (1) and Ale Grooves. Next up: Jolene Downtown Miami, Miami on Sat 1 Aug.
+Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 37 sets logged across Austin, Boston, Chicago and Houston and 13 more. Often billed alongside Chris Lake, MPH (1) and Ale Grooves. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Thu, 1 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 3 Oct 2026 | Flash | Washington DC |
@@ -17,6 +16,7 @@ Marco Strous is a tech house and house artist based in Portugal, tracked on soun
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Sat, 1 Aug 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 12 Jul 2026
 - Spin, San Diego — Sat, 11 Jul 2026
 - Night We Met, Nashville — Fri, 26 Jun 2026
@@ -24,10 +24,9 @@ Marco Strous is a tech house and house artist based in Portugal, tracked on soun
 - Floyd, Miami — Fri, 5 Jun 2026
 - Superior Ingredients, New York City — Sat, 9 May 2026
 - Coda, Toronto — Fri, 8 May 2026
-- Pier 48's Shed A, San Francisco/Oakland — Sat, 2 May 2026
 
 ## Shares bills with
 
 Chris Lake, MPH (1), Ale Grooves
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

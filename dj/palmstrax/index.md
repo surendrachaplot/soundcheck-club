@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Palms Trax is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 Palms Trax is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 193 sets log
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

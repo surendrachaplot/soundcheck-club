@@ -1,6 +1,6 @@
 # James Dean Brown
 
-James Dean Brown is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club der Visionaere, Berlin on Sun, 2 Aug 2026.
+James Dean Brown is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club der Visionaere, Berlin on Sun, 2 Aug 2026.
 
 James Dean Brown is a minimal techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Geneva and Paris. Often billed alongside Sammy Dee, Argenis Brito and Chica Paula. Next up: Club der Visionaere, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ James Dean Brown is a minimal techno and house artist based in Germany, tracked 
 
 Sammy Dee, Argenis Brito, Chica Paula
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdeanbrown/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdeanbrown/)*

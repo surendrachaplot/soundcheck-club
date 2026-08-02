@@ -1,6 +1,6 @@
 # Gleis19
 
-Gleis19 is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "KÖSTLICH X PROLETEN - SPEISEWAGEN" on Fri, 7 Aug 2026.
+Gleis19 is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "KÖSTLICH X PROLETEN - SPEISEWAGEN" on Fri, 7 Aug 2026.
 
 Gleis19 is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Anni Herzer, Chiara Allnutt, Dimitrios (2) and DJ FERRARI and 2 more. Browse upcoming dates, start times and who's playing. Gundoldstraße 12, 1190 Wien.
 
@@ -16,4 +16,4 @@ Gleis19 is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with
 
 Gundoldstraße 12, 1190 Wien, Vienna
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*

@@ -1,6 +1,6 @@
 # Uni (3)
 
-Uni (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Temp., Bangkok on Sun, 2 Aug 2026.
+Uni (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bar Temp., Bangkok on Sun, 2 Aug 2026.
 
 Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck, with 38 sets logged across Bangkok, Newyorkcity and Seoul. Often billed alongside Bolm, YAREE and DAMIE (KR). Next up: Bar Temp., Bangkok on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck
 
 Bolm, YAREE, DAMIE (KR)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-3/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-3/)*

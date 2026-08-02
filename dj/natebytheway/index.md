@@ -1,6 +1,6 @@
 # natebytheway
 
-natebytheway is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
+natebytheway is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 natebytheway is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Sanfrancisco. Often billed alongside Phil Spank, Clancy Hickinbotham and &ndmore. Next up: Monarch, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ natebytheway is a house and techno artist based in United States of America, tra
 
 Phil Spank, Clancy Hickinbotham, &ndmore
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*

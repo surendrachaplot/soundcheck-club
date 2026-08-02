@@ -1,6 +1,6 @@
 # Pat
 
-Pat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
+Pat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
 
 Pat is a house and disco artist based in Ireland, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Do you know Juno, Tatiana and 3MZY. Next up: Prince Charles, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Pat is a house and disco artist based in Ireland, tracked on soundcheck, with 19
 
 Do you know Juno, Tatiana, 3MZY
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pat/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pat/)*

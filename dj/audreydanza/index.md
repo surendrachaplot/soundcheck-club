@@ -1,14 +1,13 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at essaim, Paris on Sat, 1 Aug 2026.
+Audrey Danza is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Sun, 23 Aug 2026.
 
-Audrey Danza is a techno and trance artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: essaim, Paris on Sat 1 Aug.
+Audrey Danza is a techno and trance artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Le Sucre, Lyon on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | essaim | Paris |
 | Sun, 23 Aug 2026 | Le Sucre | Lyon |
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
 | Sat, 5 Sept 2026 | Motel Campo | Geneva |
@@ -16,6 +15,7 @@ Audrey Danza is a techno and trance artist tracked on soundcheck, with 174 sets 
 
 ## Recently played
 
+- essaim, Paris — Sat, 1 Aug 2026
 - Motel Campo, Geneva — Sat, 25 Jul 2026
 - Else, Berlin — Fri, 24 Jul 2026
 - fi, Cologne — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Audrey Danza is a techno and trance artist tracked on soundcheck, with 174 sets 
 - The Cause, London — Sat, 6 Jun 2026
 - Strange Brew, Bristol — Fri, 29 May 2026
 - Rex Club, Paris — Sat, 23 May 2026
-- Motel Campo, Geneva — Sat, 16 May 2026
 
 ## Shares bills with
 
 Kasper Marott, Anetha, DJ TOOL
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

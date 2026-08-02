@@ -1,15 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "AOTM X Fundbureau with SAM PELL" on Sat, 1 Aug 2026.
+Fundbureau is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BIMÄN // Nettta // TECHNIKER ALLSTARS" on Fri, 7 Aug 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 14 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | AOTM X Fundbureau with SAM PELL |  |
-| Sat, 1 Aug 2026 | CSD AFTERSHOW MIT Nils Primas // SKKIN VELVET // HIDA.DOUSE // CLUBM8 | Nils Primas, SKKIN VELVET |
 | Fri, 7 Aug 2026 | BIMÄN // Nettta // TECHNIKER ALLSTARS | Bi Män, Nettta |
 | Sat, 8 Aug 2026 | Oldies & Trash Night Trance Classics 2000 |  |
 | Fri, 14 Aug 2026 | Andreas Henneberg // Fercho salazar // SVE ANL | Andreas Henneberg, Fercho salazar, SVE |
@@ -18,9 +16,11 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 14 upcoming nights,
 | Fri, 21 Aug 2026 | Jessie Dols // DJ Discostoff // SIMAY GONULTAS // Timeless Moments | DJ Discostoff, Jessie Dols, Timeless Moments |
 | Sat, 22 Aug 2026 | Eva Charley // Stacy // FRAME KOLLEKTIV | Eva Charley, Stacy |
 | Fri, 28 Aug 2026 | Avocado // SevenDays // LOLA KOLLEKTIV ANL | Avocado, SevenDays |
+| Sat, 29 Aug 2026 | Isabelle Beaucamp // Randali // Nikiija ANL | Isabelle Beaucamp, Nikiija, Randali |
+| Sat, 5 Sept 2026 | Trybe Summer Closing: Afterparty |  |
 
 ## Address
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

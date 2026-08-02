@@ -1,6 +1,6 @@
 # Jnr Windross
 
-Jnr Windross is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at XOYO, London on Sat, 8 Aug 2026.
+Jnr Windross is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at XOYO, London on Sat, 8 Aug 2026.
 
 Jnr Windross is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside Boon (UK), Steven Cee and Artikal. Next up: XOYO, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Jnr Windross is a deep house and house artist based in United Kingdom, tracked o
 
 Boon (UK), Steven Cee, Artikal
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jnrwindross/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jnrwindross/)*

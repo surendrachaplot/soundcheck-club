@@ -1,6 +1,6 @@
 # Ostrich
 
-Ostrich is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Stereo, Montreal on Sat, 8 Aug 2026.
+Ostrich is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Stereo, Montreal on Sat, 8 Aug 2026.
 
 Ostrich is a house and progressive house artist based in Canada, tracked on soundcheck, with 46 sets logged across Montreal, Newyorkcity, Toronto and Vancouver. Often billed alongside John Digweed, Nature of Music and Crescenzo. Next up: Stereo, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ostrich is a house and progressive house artist based in Canada, tracked on soun
 
 John Digweed, Nature of Music, Crescenzo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ostrich/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ostrich/)*

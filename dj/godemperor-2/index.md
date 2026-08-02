@@ -1,6 +1,6 @@
 # godemperor (2)
 
-godemperor (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
+godemperor (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
 
 godemperor (2) is a techno and house artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside AZA, Dunaway and Program Sam. Next up: Cherry Beach, Toronto on Sun 30 Aug.
 
@@ -14,4 +14,4 @@ godemperor (2) is a techno and house artist based in Canada, tracked on soundche
 
 AZA, Dunaway, Program Sam
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godemperor-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godemperor-2/)*

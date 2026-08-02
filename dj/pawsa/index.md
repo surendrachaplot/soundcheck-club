@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Königsplatz München, Munich on Sat, 29 Aug 2026.
+PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Königsplatz München, Munich on Sat, 29 Aug 2026.
 
 PAWSA is a house and tech house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, ANOTR and Chris Stussy. Next up: Königsplatz München, Munich on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 140 sets logg
 
 Dennis Cruz, ANOTR, Chris Stussy
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

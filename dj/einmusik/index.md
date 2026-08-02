@@ -1,14 +1,13 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Wolkezwei, Leipzig on Sat, 1 Aug 2026.
+Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Fri, 14 Aug 2026.
 
-Einmusik is a techno and progressive house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Wolkezwei, Leipzig on Sat 1 Aug.
+Einmusik is a techno and progressive house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Wolkezwei | Leipzig |
 | Fri, 14 Aug 2026 | TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4 | Cologne |
 | Sat, 5 Sept 2026 | Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1. | Krakow |
 | Sat, 19 Sept 2026 | Seaseaclub Barcelona | Barcelona |
@@ -17,6 +16,7 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 
 ## Recently played
 
+- Wolkezwei, Leipzig — Sat, 1 Aug 2026
 - 1134, Denver — Thu, 16 Jul 2026
 - Ritter Butzke, Berlin — Sat, 4 Jul 2026
 - Village Underground, London — Sat, 20 Jun 2026
@@ -24,10 +24,9 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 - Hive Club, Zurich — Sun, 24 May 2026
 - Tuinen van West, Amsterdam — Sat, 23 May 2026
 - MS Beethoven, Cologne — Sat, 16 May 2026
-- Fridas Pier, Stuttgart — Thu, 14 May 2026
 
 ## Shares bills with
 
 Prismode, Solvane, Markus Klee
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*

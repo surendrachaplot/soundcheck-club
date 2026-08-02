@@ -1,6 +1,6 @@
 # nasar
 
-nasar is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
+nasar is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
 
 nasar is a jungle and bass artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Yug (UK), ARLYSS and AUDIO DUNE. Next up: The Fox and Firkin, London on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ nasar is a jungle and bass artist tracked on soundcheck, with 5 sets logged acro
 
 Yug (UK), ARLYSS, AUDIO DUNE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasar/)*

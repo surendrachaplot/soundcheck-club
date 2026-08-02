@@ -1,6 +1,6 @@
 # NIØ (DE)
 
-NIØ (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
+NIØ (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
 
 NIØ (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Luli Panasci, DJ Henk and DJ.P. Next up: YAAM Berlin, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ NIØ (DE) is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Luli Panasci, DJ Henk, DJ.P
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-de/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-de/)*

@@ -1,6 +1,6 @@
 # Grouper
 
-Grouper is a Experimental and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Théâtre Outremont, Montreal on Thu, 10 Sept 2026.
+Grouper is a Experimental and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Théâtre Outremont, Montreal on Thu, 10 Sept 2026.
 
 Grouper is an experimental and pop artist based in United States of America, tracked on soundcheck, with 3 sets logged across London, Montreal and Turin. Often billed alongside Arca, Bladee and Carl Stone. Next up: TBA - Théâtre Outremont, Montreal on Thu 10 Sept.
 
@@ -19,4 +19,4 @@ Grouper is an experimental and pop artist based in United States of America, tra
 
 Arca, Bladee, Carl Stone
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grouper/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grouper/)*

@@ -1,6 +1,6 @@
 # Joey Breakdown
 
-Joey Breakdown is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
+Joey Breakdown is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
 
 Joey Breakdown is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 15 sets logged across Philadelphia. Often billed alongside Art Cuebik, Armen and Mis-Ty. Next up: Nameless, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Joey Breakdown is a drum & bass and jungle artist based in United States of Amer
 
 Art Cuebik, Armen, Mis-Ty
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybreakdown/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybreakdown/)*

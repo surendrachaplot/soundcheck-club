@@ -1,14 +1,13 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
+Joseph Capriati is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
 
-Joseph Capriati is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Son Fusteret, Mallorca on Sat 1 Aug.
+Joseph Capriati is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Amnesia Ibiza, Ibiza on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Son Fusteret | Mallorca |
 | Tue, 4 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 6 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Burgess Park | London |
@@ -20,9 +19,11 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 214 set
 | Sun, 30 Aug 2026 | Kiesgrube | Düsseldorf |
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Madrid Caja Mágica | Madrid |
+| Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Son Fusteret, Mallorca — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 21 Jul 2026
@@ -30,10 +31,9 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 214 set
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - Tapada da Ajuda, Lisbon — Sun, 12 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

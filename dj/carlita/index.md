@@ -1,6 +1,6 @@
 # Carlita
 
-Carlita is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 7 Aug 2026.
+Carlita is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 7 Aug 2026.
 
 Carlita is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Sunset Park Rooftop, Newyorkcity on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Carlita is a house and techno artist tracked on soundcheck, with 192 sets logged
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

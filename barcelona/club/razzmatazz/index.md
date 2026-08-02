@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "RAZZCLUBS:  Kitty Ca$h + Drea + Nene H + Hyperaktivist + olesia " on Sat, 1 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "RAZZCLUBS: Ross From Friends + La Cangri: West Dubai + Suicide Club: EVE & more" on Fri, 7 Aug 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including 8Kitoo, Alienata, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including 8Kitoo, Alienata, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | RAZZCLUBS:  Kitty Ca$h + Drea + Nene H + Hyperaktivist + olesia  | Carolina, DJ KETAFLUSH, Dirti Larita, Doppelganger, Drea, Fakeguido, Hyperaktivist, Kaidara, Nene H, Speare, Toner, olesia |
 | Fri, 7 Aug 2026 | RAZZCLUBS: Ross From Friends + La Cangri: West Dubai + Suicide Club: EVE & more | 8Kitoo, Bulma, DJ2D2, John Heaven, Kilo Vee, Nile Fee, Ross From Friends |
 | Sat, 8 Aug 2026 | RAZZCLUBS: Bao G + DJ Stingray 313 + Bound by Endogamy Live  | C.ru.z, DJ Stingray 313, Dirti Larita, Nila, Spacer |
 | Sat, 15 Aug 2026 | RAZZCLUBS: Bmt: Fold + Dasha Rush  BAHN·: Blazej Malinowski & MORE | Cyklos, Dasha Rush, Fold, Toner, Unreal |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | Sat, 29 Aug 2026 | RAZZCLUBS: Donis + Drea + Wata Igarashi + Desireé Falessi + Alienata & Anika Kunst & MORE | Alienata, Anika Kunst, CarDona, Donis, Drea, Hi-Ki, Martí Cros, Wata Igarashi |
 | Sat, 19 Sept 2026 | Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more | Drew McDowall, Pedro Maia, Shakti, The Hacker, Years of Denial |
 | Sat, 26 Sept 2026 | Fat Freddy's Drop - Barcelona | Fat Freddys Drop |
+| Sun, 27 Sept 2026 | Fat Freddy's Drop - Barcelona (2) | Fat Freddys Drop |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

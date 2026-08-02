@@ -1,14 +1,13 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Ministry of House" on Sat, 1 Aug 2026.
+Epic Prague is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Sigala" on Sat, 8 Aug 2026.
 
-Epic Prague is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Andrew Rayel, Dave, Deborah De Luca and DJ S (UK) and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
+Epic Prague is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including Andrew Rayel, Deborah De Luca, Moksi and Radical Redemption and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Ministry of House | DJ S (UK), Dave |
 | Sat, 8 Aug 2026 | Sigala | Sigala |
 | Sat, 15 Aug 2026 | USH x TOXIC MACHINERY |  |
 | Fri, 21 Aug 2026 | MARLO |  |
@@ -22,4 +21,4 @@ Epic Prague is a music venue in Prague listed on soundcheck. 9 upcoming nights, 
 
 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia, Prague
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*

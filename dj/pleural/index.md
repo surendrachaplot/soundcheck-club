@@ -1,6 +1,6 @@
 # Pleural
 
-Pleural is a Club and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+Pleural is a Club and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 Pleural is a club and guaracha artist tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside Loris, MARIA MANUELA and No Light. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -20,4 +20,4 @@ Pleural is a club and guaracha artist tracked on soundcheck, with 4 sets logged 
 
 Loris, MARIA MANUELA, No Light
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleural/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleural/)*

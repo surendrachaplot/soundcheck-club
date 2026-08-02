@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Smolna, Warsaw on Sat, 8 Aug 2026.
+bolo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Smolna, Warsaw on Sat, 8 Aug 2026.
 
 bolo is a techno and trance artist tracked on soundcheck, with 42 sets logged across Losangeles, Nashville, Newyorkcity and Warsaw. Often billed alongside Abrew, Kobayashkn and CRACKD. Next up: Smolna, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ bolo is a techno and trance artist tracked on soundcheck, with 42 sets logged ac
 
 Abrew, Kobayashkn, CRACKD
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

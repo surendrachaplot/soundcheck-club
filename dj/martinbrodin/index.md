@@ -1,6 +1,6 @@
 # Martin Brodin
 
-Martin Brodin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
+Martin Brodin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
 
 Martin Brodin is a house and minimal artist based in Sweden, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Jesper Aubin, Kaldera and Raj Shindi. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Martin Brodin is a house and minimal artist based in Sweden, tracked on soundche
 
 Jesper Aubin, Kaldera, Raj Shindi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbrodin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbrodin/)*

@@ -1,6 +1,6 @@
 # You Liang
 
-You Liang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at WOMB, Tokyo on Sun, 9 Aug 2026.
+You Liang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at WOMB, Tokyo on Sun, 9 Aug 2026.
 
 You Liang is a house and techno artist based in Singapore, tracked on soundcheck, with 127 sets logged across Amsterdam, Ibiza, Miami and Seoul and 2 more. Often billed alongside Nanlaze, TORUKK and Tuyetmizuno. Next up: WOMB, Tokyo on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ You Liang is a house and techno artist based in Singapore, tracked on soundcheck
 
 Nanlaze, TORUKK, Tuyetmizuno
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youliang/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youliang/)*

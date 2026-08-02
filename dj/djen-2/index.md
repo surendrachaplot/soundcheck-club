@@ -1,6 +1,6 @@
 # Djen (2)
 
-Djen (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Djen (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Djen (2) is a techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Madrid and Vienna. Often billed alongside Jona Sorger, LUAR (NL) and Taylor Taylor. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Djen (2) is a techno artist based in Netherlands, tracked on soundcheck, with 8 
 
 Jona Sorger, LUAR (NL), Taylor Taylor
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djen-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djen-2/)*

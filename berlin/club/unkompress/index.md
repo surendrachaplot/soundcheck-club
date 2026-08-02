@@ -1,14 +1,13 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Unkompress Saturday Session: Soul Zucco" on Sat, 1 Aug 2026.
+Unkompress is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Unkompress Saturday Session: JINI" on Sat, 8 Aug 2026.
 
-Unkompress is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including JINI and Lovellious. Browse upcoming dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
+Unkompress is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including JINI and Lovellious. Browse upcoming dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Unkompress Saturday Session: Soul Zucco |  |
 | Sat, 8 Aug 2026 | Unkompress Saturday Session: JINI | JINI |
 | Sat, 15 Aug 2026 | Unkompress Saturday Session: Eritrean Anthology |  |
 | Wed, 19 Aug 2026 | Unkompress Deep Dive: Open Roads |  |
@@ -20,4 +19,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 7 upcoming nights, w
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

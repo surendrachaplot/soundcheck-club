@@ -1,14 +1,13 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "UNDERGROUND SOUND: Record Sale & Free Party" on Sat, 1 Aug 2026.
+Ouseburn Garden is a music venue in Newcastle with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DIGITAL presents: Tre Reynolds" on Sun, 2 Aug 2026.
 
-Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 11 upcoming nights, with line-ups including Adam Lance, Alec Falconer, Alousea and Bobby O'Donnell and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
+Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 10 upcoming nights, with line-ups including Adam Lance, Alec Falconer, Bobby O'Donnell and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | UNDERGROUND SOUND: Record Sale & Free Party | Alousea, DJ Beers, Emily Jacko, FroD, James Worker, Molly Sinnott, Moose In The Wild, PHJ.WAV, keks |
 | Sun, 2 Aug 2026 | DIGITAL presents: Tre Reynolds | Tre Reynolds |
 | Fri, 7 Aug 2026 | Prozak B2B Oldboy + Veritas  | Jack C (2), Oldboy, Prozak (IRL), VERITAS (UK) |
 | Sat, 15 Aug 2026 | DIGITAL presents: Joss Dean | Emma 2000, Joss Dean |
@@ -18,9 +17,10 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 11 upcoming 
 | Sat, 12 Sept 2026 | HED x Top Floor presents HearThuG (Day + Night)  | Garbo (2), HearThug, Mr. Jones |
 | Sat, 19 Sept 2026 | Special Delivery presents: Tania Vulcano, Inland Knights, Bobby ODonnell B2B Foz | Adam Lance, Bobby O'Donnell, Foz, Inland Knights, Tania Vulcano, Wakka |
 | Fri, 25 Sept 2026 | Krazed W/ DJ BAX, NOVA CHEQ, MALWARE |  |
+| Sat, 26 Sept 2026 | Special Delivery presents: Dan Ghenacia, Captain Wallop + Special Guest | Adam Lance, Captain Wallop, Dan Ghenacia, Wakka |
 
 ## Address
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

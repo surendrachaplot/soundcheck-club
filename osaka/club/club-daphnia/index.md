@@ -1,6 +1,6 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "magao9" on Sat, 8 Aug 2026.
+Club Daphnia is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "magao9" on Sat, 8 Aug 2026.
 
 Club Daphnia is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including Aspara, imazutsubasa, Ryogo and Ryoma Sasaki. Browse upcoming dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
@@ -15,4 +15,4 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 2 upcoming nights, 
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

@@ -1,6 +1,6 @@
 # TBA - Underground Rave -> Location only via Telegram 
 
-TBA - Underground Rave -> Location only via Telegram  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "KATHARSIS VIII // Underground Rave // OverdosedBerlin" on Sat, 8 Aug 2026.
+TBA - Underground Rave -> Location only via Telegram  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "KATHARSIS VIII // Underground Rave // OverdosedBerlin" on Sat, 8 Aug 2026.
 
 TBA - Underground Rave -> Location only via Telegram  is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Underground Rave -> Location only via Telegram  is a music venue in Berlin
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | KATHARSIS VIII // Underground Rave // OverdosedBerlin |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-underground-rave-location-only-via-telegram/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-underground-rave-location-only-via-telegram/)*

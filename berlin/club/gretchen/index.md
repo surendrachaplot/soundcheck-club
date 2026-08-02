@@ -1,8 +1,8 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SYSTEMA SOLAR *live" on Tue, 4 Aug 2026.
+Gretchen is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SYSTEMA SOLAR *live" on Tue, 4 Aug 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including Acid Arab, Allynx, DJ Krush and DRS and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including Acid Arab, Allynx, DJ Krush and DRS and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 28 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

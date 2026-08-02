@@ -1,6 +1,6 @@
 # Pamela_ and her sons
 
-Pamela_ and her sons is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Pamela_ and her sons is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Pamela_ and her sons are an experimental and acid duo based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside 30000AD, Kiernan Laveaux and MIRA MIRA. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Pamela_ and her sons are an experimental and acid duo based in United States of 
 
 30000AD, Kiernan Laveaux, MIRA MIRA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pamela-andhersons/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pamela-andhersons/)*

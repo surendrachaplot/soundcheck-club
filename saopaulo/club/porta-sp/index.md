@@ -1,6 +1,6 @@
 # Porta (SP)
 
-Porta (SP) is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Interiør" on Sat, 29 Aug 2026.
+Porta (SP) is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Interiør Showcase - Protocol, Data Assault" on Sat, 29 Aug 2026.
 
 Porta (SP) is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Data Assault. Browse upcoming dates, start times and who's playing. R. Horácio Lane, 95 - Pinheiros, São Paulo - SP, 05432-030, Brasil.
 
@@ -8,10 +8,10 @@ Porta (SP) is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Interiør | Data Assault |
+| Sat, 29 Aug 2026 | Interiør Showcase - Protocol, Data Assault | Data Assault |
 
 ## Address
 
 R. Horácio Lane, 95 - Pinheiros, São Paulo - SP, 05432-030, Brasil, Sao Paulo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/porta-sp/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/porta-sp/)*

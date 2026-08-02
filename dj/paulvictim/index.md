@@ -1,6 +1,6 @@
 # paul victim
 
-paul victim is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Zorba, Paris on Sun, 2 Aug 2026.
+paul victim is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Zorba, Paris on Sun, 2 Aug 2026.
 
 paul victim is an experimental and electro artist tracked on soundcheck, with 3 sets logged across Brussels and Paris. Often billed alongside Intercostal Croisière, Freestyler (2) and Justine Ferrer. Next up: Le Zorba, Paris on Sun 2 Aug.
 
@@ -19,4 +19,4 @@ paul victim is an experimental and electro artist tracked on soundcheck, with 3 
 
 Intercostal Croisière, Freestyler (2), Justine Ferrer
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulvictim/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulvictim/)*

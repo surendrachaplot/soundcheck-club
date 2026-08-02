@@ -1,6 +1,6 @@
 # Canelle Doublekick
 
-Canelle Doublekick is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Sucre, Lyon on Sun, 2 Aug 2026.
+Canelle Doublekick is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Sun, 2 Aug 2026.
 
 Canelle Doublekick is a trance and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Geneva and 7 more. Often billed alongside Die Klar, DJ Kwamē and Esteban Desigual. Next up: Le Sucre, Lyon on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Canelle Doublekick is a trance and techno artist tracked on soundcheck, with 44 
 
 Die Klar, DJ Kwamē, Esteban Desigual
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*

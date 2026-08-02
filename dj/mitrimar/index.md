@@ -1,6 +1,6 @@
 # Mitrimar
 
-Mitrimar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, New York City on Fri, 7 Aug 2026.
+Mitrimar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, New York City on Fri, 7 Aug 2026.
 
 Mitrimar is a house and techno artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Woreq, Max Sprauer and Anthea. Next up: TBA, Newyorkcity on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Mitrimar is a house and techno artist tracked on soundcheck, with 7 sets logged 
 
 Woreq, Max Sprauer, Anthea
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrimar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrimar/)*

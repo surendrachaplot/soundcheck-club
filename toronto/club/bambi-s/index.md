@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Milch & Hasa" on Sat, 1 Aug 2026.
+Bambi's is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "pirouette" on Fri, 7 Aug 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including AKWA, Amedeo (CA), Cosmic JD and DINO (3) and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including AKWA, Amedeo (CA), Cosmic JD and DINO (3) and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Milch & Hasa | Milch (1), Underwaterhasa |
 | Fri, 7 Aug 2026 | pirouette | Amedeo (CA), Program Sam, maxedvisa |
 | Sat, 8 Aug 2026 | 4.5 Hours of Power: Tony Price Live | Tony Price |
 | Fri, 14 Aug 2026 | MOON KIKI W/ Kiki LeFreak and Moon King | Kiki LeFreak, Moon King |
@@ -21,4 +20,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming nights, wit
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

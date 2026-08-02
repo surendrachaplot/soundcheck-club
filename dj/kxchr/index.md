@@ -1,6 +1,6 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - DTLA, Los Angeles on Sun, 2 Aug 2026.
+KX CHR is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - DTLA, Los Angeles on Sun, 2 Aug 2026.
 
 KX CHR is a techno and industrial artist based in France, tracked on soundcheck, with 43 sets logged across Athens, Belfast, Berlin and Brisbane and 24 more. Often billed alongside Alex Farell, OMAKS and Nik Kastel. Next up: TBA - DTLA, Losangeles on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ KX CHR is a techno and industrial artist based in France, tracked on soundcheck,
 
 Alex Farell, OMAKS, Nik Kastel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

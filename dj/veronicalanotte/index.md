@@ -1,6 +1,6 @@
 # Veronica Lanotte
 
-Veronica Lanotte is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OneSixOne, Melbourne on Sun, 2 Aug 2026.
+Veronica Lanotte is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OneSixOne, Melbourne on Sun, 2 Aug 2026.
 
 Veronica Lanotte is an electronic artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London, Melbourne and Milan. Often billed alongside Lorenzo Morresi, Alex Neri and Colette. Next up: OneSixOne, Melbourne on Sun 2 Aug.
 
@@ -20,4 +20,4 @@ Veronica Lanotte is an electronic artist based in United Kingdom, tracked on sou
 
 Lorenzo Morresi, Alex Neri, Colette
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicalanotte/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicalanotte/)*

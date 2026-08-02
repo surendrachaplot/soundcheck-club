@@ -1,8 +1,8 @@
 # Tammy Lakkis
 
-Tammy Lakkis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at smartbar, Chicago on Sun, 2 Aug 2026.
+Tammy Lakkis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at smartbar, Chicago on Sun, 2 Aug 2026.
 
-Tammy Lakkis is a house and techno artist tracked on soundcheck, with 265 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: smartbar, Chicago on Sun 2 Aug.
+Tammy Lakkis is a house and techno artist tracked on soundcheck, with 266 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: smartbar, Chicago on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tammy Lakkis is a house and techno artist tracked on soundcheck, with 265 sets l
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | smartbar | Chicago |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
+| Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tammy Lakkis is a house and techno artist tracked on soundcheck, with 265 sets l
 
 Shigeto, Kenjiro, Ryan Spencer
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*

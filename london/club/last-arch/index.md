@@ -1,14 +1,13 @@
 # Last Arch
 
-Last Arch is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Enchanted Forest" on Sat, 1 Aug 2026.
+Last Arch is a music venue in London with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "RITA: LAUNCH PARTY" on Sat, 8 Aug 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | The Enchanted Forest |  |
 | Sat, 8 Aug 2026 | RITA: LAUNCH PARTY | Mack Maddox |
 | Fri, 14 Aug 2026 | NO DECAF w/ KODY (Leftwing:Kody) / Funktion-one sound system / Underground House | Ale Grooves, Jo Cruz, KAYDNCE, Leftwing & Kody, Sonata Collective |
 | Sat, 15 Aug 2026 | Mystra x Woody van Eyden | Alythia Kwan, GYS (TT), Tibor |
@@ -18,9 +17,10 @@ Last Arch is a music venue in London listed on soundcheck. 11 upcoming nights, w
 | Fri, 4 Sept 2026 | Last Arch invites |  |
 | Sat, 5 Sept 2026 | take1 presents: TRANCE1 |  |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
+| Sat, 3 Oct 2026 | GROUNDED. // LABEL LAUNCH // LIQUID DNB | ETHICS, Episode Three, Swampman, karishma |
 
 ## Address
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

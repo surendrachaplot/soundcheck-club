@@ -1,14 +1,15 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+Soul Mass Transit System is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
-Soul Mass Transit System is a garage and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Auckland and Bali and 37 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Finsbury Park, London on Fri 7 Aug.
+Soul Mass Transit System is a garage and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Auckland and Bali and 37 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Finsbury Park, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Finsbury Park | London |
+| Sat, 31 Oct 2026 | Quarters | Brighton |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Soul Mass Transit System is a garage and house artist tracked on soundcheck, wit
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

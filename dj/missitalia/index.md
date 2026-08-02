@@ -1,6 +1,6 @@
 # Miss Italia
 
-Miss Italia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tresor / Globus, Berlin on Wed, 5 Aug 2026.
+Miss Italia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Wed, 5 Aug 2026.
 
 Miss Italia is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin. Often billed alongside Handmade, Rangelova and VCO. Next up: Tresor / Globus, Berlin on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Miss Italia is a techno and house artist based in Germany, tracked on soundcheck
 
 Handmade, Rangelova, VCO
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missitalia/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missitalia/)*

@@ -1,6 +1,6 @@
 # Chris Massey
 
-Chris Massey is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Yard, Manchester on Sat, 12 Sept 2026.
+Chris Massey is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Yard, Manchester on Sat, 12 Sept 2026.
 
 Chris Massey is a disco and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Dundee, Leeds and Manchester. Often billed alongside Muddy Feet, Supernature Disco and Psychederek. Next up: The Yard, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Chris Massey is a disco and house artist based in United Kingdom, tracked on sou
 
 Muddy Feet, Supernature Disco, Psychederek
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismassey/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismassey/)*

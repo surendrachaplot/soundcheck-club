@@ -1,14 +1,13 @@
 # Else
 
-Else is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Else x Freddy K pres. KEY Vinyl [12:00 starting time]" on Sat, 1 Aug 2026.
+Else is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Else x Nachti" on Sun, 2 Aug 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including AgainstMe, ain't Marco, ALCATRAZ and ALI3N and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including ALCATRAZ, ALI3N, Alex Kassian and Amanda Mussi and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Else x Freddy K pres. KEY Vinyl [12:00 starting time] | AYLIN IDAH, AgainstMe, Annie Lew, Fergus Sweetland, Freddy K, Kim She, Mara Menace, Philippa Pacho, Sons Of Hidden, Toobris, ain't Marco |
 | Sun, 2 Aug 2026 | Else x Nachti | Courtesy, DJ MILLE, Danielle, Elias Mazian, Jenny Cara, MILLE, Mille (DE), Moopie |
 | Fri, 7 Aug 2026 | Else: TRANSITION x Smile Sessions | Amphia, BENZA, Bailey Ibbs, Gloria Rose, JKS, Lobster (NL), Ponygirl, Pōnky, Vilchezz |
 | Sat, 8 Aug 2026 | Else Birthday: 40 hrs: Len Faki, Nightmares on Wax, Young Marco, Matrixxman, Kameliia | ALI3N, Angel D'lite, Blue Hour, COZi, Carl Bergé, Cecilia Tosh, DJ SOURCE, DJ SUN (CH/DE), DJ Sun, DJ TOOL, Dee Diggs, KVLR, Kameliia, Len Faki, Matrixxman, Nightmares on Wax, Stella Zekri, Stephanie Sykes, Talia Dorr, Thabo, Vincent Neumann, Young Marco, jiyun kim, nthng |
@@ -18,9 +17,10 @@ Else is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with l
 | Sat, 22 Aug 2026 | Else x İÇ İÇE | Dornika, Melis Köke, Miss T Delight, Mohajer, Sanaz, Slimgirl fat, Souci, evin |
 | Sun, 23 Aug 2026 | Else x DJ Gigola pres. Bigroom Sensual | ALCATRAZ, DJ Gigola, Dj Babatr, LB aka LABAT, LYZZA, Luke Hovey, Margo XS, SWART (BE) |
 | Fri, 28 Aug 2026 | Else x Job Jobse invites | Alex Kassian, Eoin DJ, Jessica Nightlife, Job Jobse, LIA, limbic sis |
+| Sat, 29 Aug 2026 | Else x Innellea, Massano, Dyzen, Ede and many more | Dyzen, Ede, Innellea, Massano |
 
 ## Address
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

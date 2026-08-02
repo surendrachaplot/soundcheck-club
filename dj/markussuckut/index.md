@@ -1,6 +1,6 @@
 # Markus Suckut
 
-Markus Suckut is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 7 Aug 2026.
+Markus Suckut is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 7 Aug 2026.
 
 Markus Suckut is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Temudo, Altinbas and Ben Kaczor. Next up: RSO.BERLIN, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Markus Suckut is a techno and house artist based in Germany, tracked on soundche
 
 Temudo, Altinbas, Ben Kaczor
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussuckut/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markussuckut/)*

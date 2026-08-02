@@ -1,6 +1,6 @@
 # RoseRed
 
-RoseRed is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Chicago on Sat, 15 Aug 2026.
+RoseRed is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Chicago on Sat, 15 Aug 2026.
 
 RoseRed is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago and Sanfrancisco. Often billed alongside DJ Dan, Mike Bledsoe and VITIGRRL. Next up: TBA, Chicago on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ RoseRed is a house and deep house artist based in United States of America, trac
 
 DJ Dan, Mike Bledsoe, VITIGRRL
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosered/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosered/)*

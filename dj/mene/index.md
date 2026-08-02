@@ -1,6 +1,6 @@
 # Mene
 
-Mene is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
+Mene is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
 
 Mene is a tech house and house artist tracked on soundcheck, with 37 sets logged across Barcelona, Belgrade, Ibiza and Lisbon and 2 more. Often billed alongside Nemax, ACA (YU) and Dimitri J. Next up: E1, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mene is a tech house and house artist tracked on soundcheck, with 37 sets logged
 
 Nemax, ACA (YU), Dimitri J
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*

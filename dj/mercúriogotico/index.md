@@ -1,14 +1,15 @@
 # Mercúrio Gótico
 
-Mercúrio Gótico is a Industrial and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Peer Hat, Manchester on Fri, 18 Sept 2026.
+Mercúrio Gótico is a Industrial and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Peer Hat, Manchester on Fri, 18 Sept 2026.
 
-Mercúrio Gótico is an industrial and electronica artist based in Brazil, tracked on soundcheck, with 5 sets logged across Berlin and Manchester. Often billed alongside Daniel Knutz, Subkultur and Electric Visionary. Next up: The Peer Hat, Manchester on Fri 18 Sept.
+Mercúrio Gótico is an industrial and ebm artist based in Brazil, tracked on soundcheck, with 6 sets logged across Berlin and Manchester. Often billed alongside Daniel Knutz, Subkultur and Absolute Body Control. Next up: The Peer Hat, Manchester on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Peer Hat | Manchester |
+| Sat, 31 Oct 2026 | Festsaal Kreuzberg | Berlin |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Mercúrio Gótico is an industrial and electronica artist based in Brazil, track
 
 ## Shares bills with
 
-Daniel Knutz, Subkultur, Electric Visionary
+Daniel Knutz, Subkultur, Absolute Body Control
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mercúriogotico/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mercúriogotico/)*

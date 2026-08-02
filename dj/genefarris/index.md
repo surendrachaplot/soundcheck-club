@@ -1,6 +1,6 @@
 # Gene Farris
 
-Gene Farris is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TV Lounge, Detroit on Sat, 8 Aug 2026.
+Gene Farris is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TV Lounge, Detroit on Sat, 8 Aug 2026.
 
 Gene Farris is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Boston and 18 more. Often billed alongside OFFAIAH, Mark Knight and Anthony Attalla. Next up: TV Lounge, Detroit on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Gene Farris is a house and tech house artist tracked on soundcheck, with 108 set
 
 OFFAIAH, Mark Knight, Anthony Attalla
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*

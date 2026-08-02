@@ -1,6 +1,6 @@
 # Danytribe
 
-Danytribe is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Melkweg, Amsterdam on Sat, 5 Sept 2026.
+Danytribe is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Melkweg, Amsterdam on Sat, 5 Sept 2026.
 
 Danytribe is an acid and techno artist based in Italy, tracked on soundcheck, with 4 sets logged across Amsterdam and Rome. Often billed alongside D-Leria, Delirium and GIANO (2). Next up: Melkweg, Amsterdam on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Danytribe is an acid and techno artist based in Italy, tracked on soundcheck, wi
 
 D-Leria, Delirium, GIANO (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danytribe/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danytribe/)*

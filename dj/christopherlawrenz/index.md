@@ -1,6 +1,6 @@
 # Christopher Lawrenz
 
-Christopher Lawrenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Christopher Lawrenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
 Christopher Lawrenz is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Hagel, LAWRENZ and RAFAELO. Next up: Kater, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Christopher Lawrenz is a techno and house artist tracked on soundcheck, with 23 
 
 Hagel, LAWRENZ, RAFAELO
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherlawrenz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherlawrenz/)*

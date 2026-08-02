@@ -1,14 +1,13 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Sound in Mind - FREE ENTRY (deep house / tech house / techno)" on Sat, 1 Aug 2026.
+Club Makossa is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "GONE FISHIN' OPEN DECKS (ALL GENRES IN EAST LONDON)" on Thu, 6 Aug 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, babybear (2) and BIDOIS and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, BIDOIS and Dan Louder and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Sound in Mind - FREE ENTRY (deep house / tech house / techno) | David Beckett, Reeves (1), Wanderer, babybear (2) |
 | Thu, 6 Aug 2026 | GONE FISHIN' OPEN DECKS (ALL GENRES IN EAST LONDON) |  |
 | Fri, 7 Aug 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) |  |
 | Sat, 8 Aug 2026 | WALLOP! x BASSICALLY SUMMER SHELL-OUT PT 2 |  |
@@ -23,4 +22,4 @@ Club Makossa is a music venue in London listed on soundcheck. 10 upcoming nights
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

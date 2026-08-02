@@ -1,6 +1,6 @@
 # DJ Paradox
 
-DJ Paradox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ez Inn, Chicago on Sat, 8 Aug 2026.
+DJ Paradox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ez Inn, Chicago on Sat, 8 Aug 2026.
 
 DJ Paradox is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin and Chicago. Often billed alongside David Samó, Thielking and Ravejezuz. Next up: Ez Inn, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Paradox is a techno and trance artist tracked on soundcheck, with 12 sets log
 
 David Samó, Thielking, Ravejezuz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djparadox/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djparadox/)*

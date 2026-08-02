@@ -1,6 +1,6 @@
 # Laura Krieg
 
-Laura Krieg is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Sotterenea, Montreal on Fri, 28 Aug 2026.
+Laura Krieg is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Sotterenea, Montreal on Fri, 28 Aug 2026.
 
 Laura Krieg is a post-punk and new wave artist based in Canada, tracked on soundcheck, with 7 sets logged across Athens, Berlin, Brussels and Montreal and 3 more. Often billed alongside Caillou (DE), Der Mord and Julie Fleischer. Next up: La Sotterenea, Montreal on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Laura Krieg is a post-punk and new wave artist based in Canada, tracked on sound
 
 Caillou (DE), Der Mord, Julie Fleischer
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurakrieg/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurakrieg/)*

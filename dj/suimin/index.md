@@ -1,6 +1,6 @@
 # suimin
 
-suimin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bonobo, Tokyo on Wed, 26 Aug 2026.
+suimin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bonobo, Tokyo on Wed, 26 Aug 2026.
 
 suimin is a techno and house artist based in Japan, tracked on soundcheck, with 94 sets logged across Osaka and Tokyo. Often billed alongside YELLOWUHURU, 7e and TEI TEI. Next up: Bonobo, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ suimin is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 YELLOWUHURU, 7e, TEI TEI
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suimin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suimin/)*

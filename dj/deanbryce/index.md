@@ -1,6 +1,6 @@
 # Dean Bryce
 
-Dean Bryce is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Night Tales, London on Thu, 6 Aug 2026.
+Dean Bryce is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Night Tales, London on Thu, 6 Aug 2026.
 
 Dean Bryce is a house and funk / soul artist tracked on soundcheck, with 33 sets logged across Amsterdam, Leeds, London and Miami and 2 more. Often billed alongside Charlie Dark, Chinese Daughter and Jon K. Next up: Night Tales, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Dean Bryce is a house and funk / soul artist tracked on soundcheck, with 33 sets
 
 Charlie Dark, Chinese Daughter, Jon K
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanbryce/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanbryce/)*

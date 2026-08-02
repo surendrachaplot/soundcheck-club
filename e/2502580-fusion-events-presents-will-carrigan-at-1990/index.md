@@ -1,6 +1,6 @@
-# Fusion Events PRESENTS: WILL CARRIGAN at 1990
+# Fusion Events presents : WILL CARRIGAN at 1990
 
-Fusion Events PRESENTS: WILL CARRIGAN at 1990 on Sat 19 Sept, Glasgow. 1 act on the bill: WILL CARRIGAN.. Trance and House. Preview the line-up and save it on soundcheck.
+Fusion Events presents : WILL CARRIGAN at 1990 on Sat 19 Sept, Glasgow. 1 act on the bill: WILL CARRIGAN.. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

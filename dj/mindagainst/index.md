@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Mind Against is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Mind Against is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Adriatique, Tale Of Us and sideral. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Mind Against is a techno and house artist tracked on soundcheck, with 152 sets l
 
 Adriatique, Tale Of Us, sideral
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

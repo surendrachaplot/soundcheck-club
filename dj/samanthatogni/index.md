@@ -1,15 +1,13 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Samantha Togni is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
+Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: TILLATEC, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
-| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 | Sat, 8 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
 | Sat, 15 Aug 2026 | Pumpehuset | Copenhagen |
@@ -18,17 +16,17 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- Tide Nightclub, Brighton — Sat, 1 Aug 2026
+- Tide Nightclub, Brighton — Sat, 1 Aug 2026
 - Fvtvr, Paris — Sat, 25 Jul 2026
 - Circus Tokyo, Tokyo — Fri, 17 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
 - Blackfriars Pier, London — Sat, 4 Jul 2026
 - BASEMENT, New York City — Fri, 26 Jun 2026
 - Brutal Mx, Mexico City — Sat, 20 Jun 2026
-- The DBA, Manchester — Fri, 15 May 2026
-- DETROIT CLUB, Barcelona — Sat, 2 May 2026
 
 ## Shares bills with
 
 Mar/us, Lewis G. Burton, Nanzhen Yang
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

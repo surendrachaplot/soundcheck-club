@@ -1,6 +1,6 @@
 # Darude
 
-Darude is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Q Nightclub, Seattle on Fri, 21 Aug 2026.
+Darude is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Q Nightclub, Seattle on Fri, 21 Aug 2026.
 
 Darude is a trance and techno artist based in Finland, tracked on soundcheck, with 28 sets logged across Amsterdam, Auckland, Austin and Chicago and 16 more. Often billed alongside Markus Schulz, ABOUT SOFIYA and AVALON. Next up: Q Nightclub, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Darude is a trance and techno artist based in Finland, tracked on soundcheck, wi
 
 Markus Schulz, ABOUT SOFIYA, AVALON
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*

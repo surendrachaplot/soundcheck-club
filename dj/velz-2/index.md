@@ -1,6 +1,6 @@
 # VELZ (2)
 
-VELZ (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
+VELZ (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
 
 VELZ (2) is a house and techno artist based in Argentina, tracked on soundcheck, with 14 sets logged across Barcelona, Buenosaires and Madrid. Often billed alongside Bermani, Camila Isabel and Djs Pareja. Next up: Blow, Buenosaires on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ VELZ (2) is a house and techno artist based in Argentina, tracked on soundcheck,
 
 Bermani, Camila Isabel, Djs Pareja
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velz-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velz-2/)*

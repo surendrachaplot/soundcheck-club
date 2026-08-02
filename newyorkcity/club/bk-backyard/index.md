@@ -1,19 +1,17 @@
 # BK Backyard
 
-BK Backyard is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "YOTTO" on Sat, 1 Aug 2026.
+BK Backyard is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Teksupport: Rossi. & Jamback" on Fri, 21 Aug 2026.
 
-BK Backyard is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Charles D (US), Jamback, Rossi and Yotto. Browse upcoming dates, start times and who's playing. 151 Banker Street, Brooklyn, NY 11222, USA.
+BK Backyard is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Jamback and Rossi. Browse upcoming dates, start times and who's playing. 151 Banker Street, Brooklyn, NY 11222, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | YOTTO |  |
-| Sat, 1 Aug 2026 | Teksupport: Yotto, Charles D & Amanda Usher | Charles D (US), Yotto |
 | Fri, 21 Aug 2026 | Teksupport: Rossi. & Jamback | Jamback, Rossi |
 
 ## Address
 
 151 Banker Street, Brooklyn, NY 11222, USA, New York City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bk-backyard/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bk-backyard/)*

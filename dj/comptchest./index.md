@@ -1,6 +1,6 @@
 # Comptche St.
 
-Comptche St. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Fábrica de Hielo, Valencia on Fri, 21 Aug 2026.
+Comptche St. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Fábrica de Hielo, Valencia on Fri, 21 Aug 2026.
 
 Comptche St. is a house and deep house artist based in Argentina, tracked on soundcheck, with 2 sets logged across Valencia. Often billed alongside S.T.R.E.S.S.E.D. Next up: La Fábrica de Hielo, Valencia on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Comptche St. is a house and deep house artist based in Argentina, tracked on sou
 
 S.T.R.E.S.S.E.D
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comptchest./)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comptchest./)*

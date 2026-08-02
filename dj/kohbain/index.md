@@ -1,6 +1,6 @@
 # Kohbain
 
-Kohbain is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+Kohbain is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Kohbain is a tech house and deep house artist based in Australia, tracked on soundcheck, with 15 sets logged across Sanfrancisco. Often billed alongside Matony, Yaz and SAGMO. Next up: F8 1192 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Kohbain is a tech house and deep house artist based in Australia, tracked on sou
 
 Matony, Yaz, SAGMO
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kohbain/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kohbain/)*

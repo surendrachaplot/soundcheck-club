@@ -1,6 +1,6 @@
 # Kathryn
 
-Kathryn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Kathryn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
 
 Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged across Liverpool. Often billed alongside Aly P, Kirwan and Pea (5). Next up: St Brides Church, Liverpool on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged 
 
 Aly P, Kirwan, Pea (5)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathryn-uk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathryn-uk/)*

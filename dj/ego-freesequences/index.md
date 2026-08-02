@@ -1,6 +1,6 @@
 # Ego-Free Sequences
 
-Ego-Free Sequences is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Stage and Radio, Manchester on Sat, 15 Aug 2026.
+Ego-Free Sequences is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Stage and Radio, Manchester on Sat, 15 Aug 2026.
 
 Ego-Free Sequences is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside contact groove, Deselecta and Esmé. Next up: Stage and Radio, Manchester on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Ego-Free Sequences is a drum & bass and dubstep artist based in United Kingdom, 
 
 contact groove, Deselecta, Esmé
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ego-freesequences/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ego-freesequences/)*

@@ -1,6 +1,6 @@
 # Ivxn
 
-Ivxn is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
+Ivxn is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
 
 Ivxn is a techno and acid artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexicocity. Often billed alongside Fuckboyzo, DJLOVETHEPARTY and Mr. Increible. Next up: TBA - República de Cuba 58, Mexicocity on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Ivxn is a techno and acid artist based in Mexico, tracked on soundcheck, with 8 
 
 Fuckboyzo, DJLOVETHEPARTY, Mr. Increible
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivxn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivxn/)*

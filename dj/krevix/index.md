@@ -1,6 +1,6 @@
 # Krevix
 
-Krevix is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
+Krevix is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
 
 Krevix is a tech house and trance artist based in Netherlands, tracked on soundcheck, with 1 set logged across London. Often billed alongside Aidyscape, Aldor and Andrew Sharpe. Next up: XOYO, London on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Krevix is a tech house and trance artist based in Netherlands, tracked on soundc
 
 Aidyscape, Aldor, Andrew Sharpe
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krevix/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krevix/)*

@@ -1,6 +1,6 @@
 # Arise festival: London edition at Unit 58
 
-Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 11 acts on the bill: acidhousewife3000, BJ Holy, costi (1) and dbeater and 7 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 12 acts on the bill: acidhousewife3000, BJ Holy, bod [包家巷] and costi (1) and 8 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 11 acts on the b
 
 - acidhousewife3000
 - BJ Holy
+- bod [包家巷]
 - costi (1)
 - dbeater
 - Hovsep

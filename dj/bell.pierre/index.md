@@ -1,6 +1,6 @@
 # bell.pierre
 
-bell.pierre is a Club and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sans Soleil, Montreal on Mon, 3 Aug 2026.
+bell.pierre is a Club and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sans Soleil, Montreal on Mon, 3 Aug 2026.
 
 bell.pierre is a club and jazz artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal. Often billed alongside 3mpath, Chloe Lallouz and JASHIM. Next up: Sans Soleil, Montreal on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ bell.pierre is a club and jazz artist based in Canada, tracked on soundcheck, wi
 
 3mpath, Chloe Lallouz, JASHIM
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bell.pierre/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bell.pierre/)*

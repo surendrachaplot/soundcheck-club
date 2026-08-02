@@ -1,6 +1,6 @@
 # InFiltr
 
-InFiltr is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Red Room, Montreal on Sun, 2 Aug 2026.
+InFiltr is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Red Room, Montreal on Sun, 2 Aug 2026.
 
 InFiltr is a techno and acid artist tracked on soundcheck, with 24 sets logged across Montreal. Often billed alongside Daroach, Claudel and ArioVistus. Next up: Le Red Room, Montreal on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ InFiltr is a techno and acid artist tracked on soundcheck, with 24 sets logged a
 
 Daroach, Claudel, ArioVistus
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infiltr/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infiltr/)*

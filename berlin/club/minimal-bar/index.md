@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 80 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "sturmfrei mit Mario Lauriano and friends" on Sat, 1 Aug 2026.
+Minimal Bar is a music venue in Berlin with 80 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "lazy.sunday mit Jim Dz" on Sun, 2 Aug 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming nights, with line-ups including Andi de Luxe, Beta Basti, Bin Okin and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -8,7 +8,6 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | sturmfrei mit Mario Lauriano and friends | Mario Lauriano, friend |
 | Sun, 2 Aug 2026 | lazy.sunday mit Jim Dz | Fenoma, Jim Dz |
 | Mon, 3 Aug 2026 | manic.monday mit Saudade | Saudade (1) |
 | Tue, 4 Aug 2026 | go.play mit Keyvan  | Keyvan |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming nights,
 | Sat, 8 Aug 2026 | DAZA & freunde | DAZA |
 | Sun, 9 Aug 2026 | lazy.sunday mit Flip Marlou | Flip Marlou |
 | Mon, 10 Aug 2026 | manic.monday mit Nalin |  |
+| Tue, 11 Aug 2026 | go.play mit Chroma | Chroma |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

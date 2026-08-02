@@ -1,6 +1,6 @@
 # Giraffi Dog
 
-Giraffi Dog is a Trance and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Giraffi Dog is a Trance and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Giraffi Dog is a trance and breakbeat artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Lyon. Often billed alongside DJ Normal 4, Erik Jäähalli and Jotel California. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Giraffi Dog is a trance and breakbeat artist based in Germany, tracked on soundc
 
 DJ Normal 4, Erik Jäähalli, Jotel California
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giraffidog-de/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giraffidog-de/)*

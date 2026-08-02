@@ -1,6 +1,6 @@
 # Helen Svart-Vit
 
-Helen Svart-Vit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
+Helen Svart-Vit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
 
 Helen Svart-Vit is a house and techno artist based in Ukraine, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Anna Hjalmarsson, Caren Callas and Desolate Discotheque. Next up: ://about blank, Berlin on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ Helen Svart-Vit is a house and techno artist based in Ukraine, tracked on soundc
 
 Anna Hjalmarsson, Caren Callas, Desolate Discotheque
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helensvart-vit/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helensvart-vit/)*

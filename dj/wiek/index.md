@@ -1,6 +1,6 @@
 # WIEK
 
-WIEK is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Alte Münze, Berlin on Sat, 24 Oct 2026.
+WIEK is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Alte Münze, Berlin on Sat, 24 Oct 2026.
 
 WIEK is a techno and downtempo artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Hamburg and Munich. Often billed alongside TraumaMia, Katzenohr and Apolonia. Next up: Alte Münze, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ WIEK is a techno and downtempo artist based in Germany, tracked on soundcheck, w
 
 TraumaMia, Katzenohr, Apolonia
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiek/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiek/)*

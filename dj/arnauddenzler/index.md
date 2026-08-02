@@ -1,6 +1,6 @@
 # Arnaud Denzler
 
-Arnaud Denzler is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paloma, Berlin on Sat, 22 Aug 2026.
+Arnaud Denzler is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paloma, Berlin on Sat, 22 Aug 2026.
 
 Arnaud Denzler is a house and deep house artist based in France, tracked on soundcheck, with 32 sets logged across Berlin and Paris. Often billed alongside de la Phone, Balthazar Martinez and Luksek. Next up: Paloma, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Arnaud Denzler is a house and deep house artist based in France, tracked on soun
 
 de la Phone, Balthazar Martinez, Luksek
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauddenzler/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauddenzler/)*

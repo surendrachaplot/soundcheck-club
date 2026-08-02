@@ -1,6 +1,6 @@
 # Goldie Palm
 
-Goldie Palm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
+Goldie Palm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
 
 Goldie Palm is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Leipzig, Munich and Stuttgart. Often billed alongside :MUMM, ANKA (2) and Dilivius Lenni. Next up: Distillery, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Goldie Palm is a house and techno artist tracked on soundcheck, with 35 sets log
 
 :MUMM, ANKA (2), Dilivius Lenni
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldiepalm/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldiepalm/)*

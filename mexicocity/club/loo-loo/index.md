@@ -1,6 +1,6 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dor Danino" on Thu, 6 Aug 2026.
+Loo Loo is a music venue in Mexico City with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Dor Danino" on Thu, 6 Aug 2026.
 
 Loo Loo is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, with line-ups including DECO (MX), Dor Danino, Elderbrook and Forester and 2 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
@@ -23,4 +23,4 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights,
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

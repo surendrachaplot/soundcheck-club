@@ -1,6 +1,6 @@
 # Yug (UK)
 
-Yug (UK) is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
+Yug (UK) is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
 
 Yug (UK) is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside nasar, ARLYSS and Bok Bok. Next up: The Fox and Firkin, London on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Yug (UK) is a bass and dubstep artist based in United Kingdom, tracked on soundc
 
 nasar, ARLYSS, Bok Bok
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuguk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuguk/)*

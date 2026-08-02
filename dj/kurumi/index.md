@@ -1,6 +1,6 @@
 # Kurumi
 
-Kurumi is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
+Kurumi is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
 
 Kurumi is a hip-hop and r&b artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside Amu (1), Assassin and DJ B2B. Next up: VENT, Tokyo on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Kurumi is a hip-hop and r&b artist based in Japan, tracked on soundcheck, with 3
 
 Amu (1), Assassin, DJ B2B
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurumi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurumi/)*

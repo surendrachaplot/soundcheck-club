@@ -1,6 +1,6 @@
 # LuLu (CZ)
 
-LuLu (CZ) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bike Jesus, Prague on Fri, 7 Aug 2026.
+LuLu (CZ) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bike Jesus, Prague on Fri, 7 Aug 2026.
 
 LuLu (CZ) is a techno and house artist based in Czech Republic, tracked on soundcheck, with 17 sets logged across Prague. Often billed alongside Yan (CZ), Alfred Czital and Fembot. Next up: Bike Jesus, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ LuLu (CZ) is a techno and house artist based in Czech Republic, tracked on sound
 
 Yan (CZ), Alfred Czital, Fembot
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulucz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulucz/)*

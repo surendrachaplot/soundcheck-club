@@ -1,6 +1,6 @@
 # Gleo
 
-Gleo is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Morphine Raum, Berlin on Fri, 14 Aug 2026.
+Gleo is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Morphine Raum, Berlin on Fri, 14 Aug 2026.
 
 Gleo is an experimental and ambient artist based in Ireland, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Gregory Pearce, Aalia Iraki and Able Noise. Next up: Morphine Raum, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Gleo is an experimental and ambient artist based in Ireland, tracked on soundche
 
 Gregory Pearce, Aalia Iraki, Able Noise
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gleo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gleo/)*

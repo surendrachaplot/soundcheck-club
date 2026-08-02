@@ -1,6 +1,6 @@
 # TBA - Inner West Sydney
 
-TBA - Inner West Sydney is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "TANGENT x NEUMA inv. Kleo, Tommy, Darcy" on Sat, 22 Aug 2026.
+TBA - Inner West Sydney is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "TANGENT x NEUMA inv. Kleo, Tommy, Darcy" on Sat, 22 Aug 2026.
 
 TBA - Inner West Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Inner West Sydney is a music venue in Sydney listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TANGENT x NEUMA inv. Kleo, Tommy, Darcy |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-sydney/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-sydney/)*

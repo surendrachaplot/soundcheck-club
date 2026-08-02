@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "An Official Lollapalooza Aftershow… Brothers Macklovitch - DJ Heather - Quicktastic" on Sat, 1 Aug 2026.
+smartbar is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Queen! feat. Derrick Carter - Tammy Lakkis - Michael Serafini" on Sun, 2 Aug 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Ariel Zetina, Bambounou, Brenda and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including Ariel Zetina, Bambounou, Brenda and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | An Official Lollapalooza Aftershow… Brothers Macklovitch - DJ Heather - Quicktastic | DJ Heather, Quicktastic |
 | Sun, 2 Aug 2026 | Queen! feat. Derrick Carter - Tammy Lakkis - Michael Serafini | Derrick Carter, Michael Serafini, Tammy Lakkis |
 | Fri, 7 Aug 2026 | Chris Cruse - Harry Cross - Mister Hoochiemama | Chris Cruse, Harry Cross, Mister Hoochiemama |
 | Sat, 8 Aug 2026 | LADYBEAR feat. Kevin Aviance - Shaun J Wright - Rika B | Kevin Aviance, Shaun J. Wright |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, w
 | Sun, 16 Aug 2026 | Nico's Birthday Queen! Medusa's '80s Night | Derrick Carter, Michael Serafini |
 | Fri, 21 Aug 2026 | Diamond Formation feat. PAURRO - Ariel Zetina - Cryberbully | Ariel Zetina, PAURRO |
 | Sat, 22 Aug 2026 | Leon Vynehall - Sorrbet - Moorhaus | Leon Vynehall, Moorhaus, Sorrbet |
+| Sun, 23 Aug 2026 | Queen! feat. Derrick Carter - Dirtie B - Michael Serafini | Derrick Carter, Michael Serafini |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

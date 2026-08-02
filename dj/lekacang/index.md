@@ -1,6 +1,6 @@
 # LE KACANG
 
-LE KACANG is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
+LE KACANG is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
 
 LE KACANG is a bass and garage artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Rotterdam. Often billed alongside Bevan, CHALÉ and EYCEE. Next up: Nine Lives Gallery, Rotterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ LE KACANG is a bass and garage artist based in Netherlands, tracked on soundchec
 
 Bevan, CHALÉ, EYCEE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lekacang/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lekacang/)*

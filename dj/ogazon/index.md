@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Ogazón is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 Ogazón is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Ryan Elliott, Marcel Dettmann and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -35,4 +35,4 @@ Ogazón is a techno and house artist tracked on soundcheck, with 261 sets logged
 
 Ryan Elliott, Marcel Dettmann, Christian AB
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

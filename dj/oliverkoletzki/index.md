@@ -1,14 +1,13 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
+Oliver Koletzki is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
 
-Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Refuge, Newyorkcity on Sat 1 Aug.
+Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Cova Santa, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Refuge | New York City |
 | Fri, 7 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 21 Aug 2026 | Public Works | San Francisco/Oakland |
 | Sat, 22 Aug 2026 | Berlin | Los Angeles |
@@ -17,6 +16,7 @@ Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 set
 
 ## Recently played
 
+- Refuge, New York City — Sat, 1 Aug 2026
 - TBA - Camp Summerdaze Montreal, Montreal — Thu, 30 Jul 2026
 - TBA - Toronto, Toronto — Thu, 30 Jul 2026
 - Stil vor Talent Headquarter, Berlin — Sun, 21 Jun 2026
@@ -24,10 +24,9 @@ Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 set
 - Bikini Beach, Cologne — Wed, 3 Jun 2026
 - fi, Cologne — Wed, 3 Jun 2026
 - Castaways, Chicago — Sat, 30 May 2026
-- Hive Club, Zurich — Sat, 23 May 2026
 
 ## Shares bills with
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

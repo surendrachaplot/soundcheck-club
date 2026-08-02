@@ -1,8 +1,8 @@
 # Dima Roas
 
-Dima Roas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
+Dima Roas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
-Dima Roas is a techno and house artist tracked on soundcheck, with 37 sets logged across Montreal, Paris and Strasbourg. Often billed alongside STU (FR), Roan and ANNUN. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
+Dima Roas is a techno and house artist tracked on soundcheck, with 38 sets logged across Montreal, Paris and Strasbourg. Often billed alongside STU (FR), Roan and ANNUN. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dima Roas is a techno and house artist tracked on soundcheck, with 37 sets logge
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Centre-sud | Montreal |
 | Sat, 15 Aug 2026 | KALT | Strasbourg |
+| Sat, 31 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dima Roas is a techno and house artist tracked on soundcheck, with 37 sets logge
 
 STU (FR), Roan, ANNUN
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaroas/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaroas/)*

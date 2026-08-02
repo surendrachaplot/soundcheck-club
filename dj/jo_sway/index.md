@@ -1,6 +1,6 @@
 # jo_sway
 
-jo_sway is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at El Cid, Los Angeles on Fri, 14 Aug 2026.
+jo_sway is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at El Cid, Los Angeles on Fri, 14 Aug 2026.
 
 jo_sway is a club and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside purp, Bodegaparty and NoahG. Next up: El Cid, Losangeles on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ jo_sway is a club and techno artist based in United States of America, tracked o
 
 purp, Bodegaparty, NoahG
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*

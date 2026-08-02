@@ -1,6 +1,6 @@
 # Dave Leatherman
 
-Dave Leatherman is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Dave Leatherman is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Dave Leatherman is a house and acid artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Alexander Koning, ROOG and Dimitri (1). Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dave Leatherman is a house and acid artist based in Netherlands, tracked on soun
 
 Alexander Koning, ROOG, Dimitri (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveleatherman/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveleatherman/)*

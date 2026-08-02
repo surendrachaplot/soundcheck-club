@@ -1,6 +1,6 @@
 # Perra Inmunda
 
-Perra Inmunda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
+Perra Inmunda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
 
 Perra Inmunda is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: TRAUM, Antwerp on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Perra Inmunda is a techno and house artist tracked on soundcheck, with 75 sets l
 
 DJ Gigola, MCR-T, ALCATRAZ
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*

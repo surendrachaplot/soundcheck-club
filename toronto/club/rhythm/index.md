@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SOLD OUT // Measure Divide (Open to Close)" on Mon, 3 Aug 2026.
+Rhythm is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SOLD OUT // Measure Divide (Open to Close)" on Mon, 3 Aug 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 666.pastel, Antwon Faulkner, Art Behaviour and AUX_ID and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -22,4 +22,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

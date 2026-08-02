@@ -1,6 +1,6 @@
 # Aldar Agd
 
-Aldar Agd is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
+Aldar Agd is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
 
 Aldar Agd is a progressive house and tech house artist based in Mongolia, tracked on soundcheck, with 9 sets logged across Dublin. Often billed alongside ACKERMAN, Bob Manzanilla and Cáit. Next up: Electric Garden, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aldar Agd is a progressive house and tech house artist based in Mongolia, tracke
 
 ACKERMAN, Bob Manzanilla, Cáit
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldaragd/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldaragd/)*

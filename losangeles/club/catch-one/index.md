@@ -1,14 +1,13 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Das Bunker's Summer Massive" on Sat, 1 Aug 2026.
+Catch One is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY" on Sat, 8 Aug 2026.
 
-Catch One is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Club Drippy, Franz & Shape, mimi cry and Pixel Grip. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
+Catch One is a music venue in Losangeles listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Das Bunker's Summer Massive | Club Drippy, Franz & Shape, Pixel Grip, mimi cry |
 | Sat, 8 Aug 2026 | PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY |  |
 | Sat, 15 Aug 2026 | DOES YOUR MAMA KNOW? (DYMK FINALE) |  |
 | Fri, 28 Aug 2026 | HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG) |  |
@@ -19,4 +18,4 @@ Catch One is a music venue in Losangeles listed on soundcheck. 6 upcoming nights
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

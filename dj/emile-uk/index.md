@@ -1,6 +1,6 @@
 # Emile
 
-Emile is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Fri, 14 Aug 2026.
+Emile is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Fri, 14 Aug 2026.
 
 Emile is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Liverpool, London and Manchester. Often billed alongside FITS ME FUNNY, Ben Kay and AJC (UK). Next up: Starlane Pizza Bar, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Emile is a house and techno artist based in United Kingdom, tracked on soundchec
 
 FITS ME FUNNY, Ben Kay, AJC (UK)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*

@@ -1,6 +1,6 @@
 # Jackie Ong
 
-Jackie Ong is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Jackie Ong is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
 Jackie Ong is an electronic artist based in Indonesia, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Alex Ranzino, Alienata and Audrey Danza. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Jackie Ong is an electronic artist based in Indonesia, tracked on soundcheck, wi
 
 Alex Ranzino, Alienata, Audrey Danza
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackieong/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackieong/)*

@@ -1,6 +1,6 @@
 # LevyM
 
-LevyM is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 5 Sept 2026.
+LevyM is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 5 Sept 2026.
 
 LevyM is an afro tech and afro house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Ibiza, London and Madrid and 1 more. Often billed alongside Philou Louzolo, Rancido and DJEFF. Next up: Het Sieraad, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ LevyM is an afro tech and afro house artist tracked on soundcheck, with 39 sets 
 
 Philou Louzolo, Rancido, DJEFF
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levym/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levym/)*

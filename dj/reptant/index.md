@@ -1,14 +1,13 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Strange Brew, Bristol on Sat, 1 Aug 2026.
+Reptant is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
 
-Reptant is an electro and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 34 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Strange Brew, Bristol on Sat 1 Aug.
+Reptant is an electro and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 34 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Backsteinboot, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Strange Brew | Bristol |
 | Sat, 15 Aug 2026 | Backsteinboot | Berlin |
 | Mon, 24 Aug 2026 | Club der Visionaere | Berlin |
 | Sat, 12 Sept 2026 | The Cause | London |
@@ -17,6 +16,7 @@ Reptant is an electro and techno artist tracked on soundcheck, with 127 sets log
 
 ## Recently played
 
+- Strange Brew, Bristol — Sat, 1 Aug 2026
 - Concept Haus, Manchester — Fri, 31 Jul 2026
 - FOLD, London — Sat, 4 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 3 Jul 2026
@@ -24,10 +24,9 @@ Reptant is an electro and techno artist tracked on soundcheck, with 127 sets log
 - TBA - Bunker, Sheffield — Fri, 19 Jun 2026
 - Les Enfants Brillants, Barcelona — Thu, 18 Jun 2026
 - UMI, Brussels — Sat, 6 Jun 2026
-- Distrikt, Leeds — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

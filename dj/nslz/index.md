@@ -1,6 +1,6 @@
 # NSLZ
 
-NSLZ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 19 Aug 2026.
+NSLZ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 19 Aug 2026.
 
 NSLZ is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Benleh, Feta Felice and Lisek. Next up: Lokschuppen Berlin, Berlin on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ NSLZ is a techno and trance artist tracked on soundcheck, with 10 sets logged ac
 
 Benleh, Feta Felice, Lisek
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*

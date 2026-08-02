@@ -1,6 +1,6 @@
 # Decaz
 
-Decaz is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club Lucia, Vienna on Fri, 7 Aug 2026.
+Decaz is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club Lucia, Vienna on Fri, 7 Aug 2026.
 
 Decaz is a drum & bass and electronica artist tracked on soundcheck, with 5 sets logged across London, Newcastle and Vienna. Often billed alongside Acris, con:volute and CHERCHES. Next up: Club Lucia, Vienna on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Decaz is a drum & bass and electronica artist tracked on soundcheck, with 5 sets
 
 Acris, con:volute, CHERCHES
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decaz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decaz/)*

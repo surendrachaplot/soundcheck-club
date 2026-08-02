@@ -1,6 +1,6 @@
 # Iko
 
-Iko is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Spook Club, Valencia on Sat, 22 Aug 2026.
+Iko is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Spook Club, Valencia on Sat, 22 Aug 2026.
 
 Iko is a house and tech house artist based in Indonesia, tracked on soundcheck, with 9 sets logged across Tbilisi and Valencia. Often billed alongside Caballeri, BAR (DE) and Bero. Next up: Spook Club, Valencia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Iko is a house and tech house artist based in Indonesia, tracked on soundcheck, 
 
 Caballeri, BAR (DE), Bero
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iko/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iko/)*

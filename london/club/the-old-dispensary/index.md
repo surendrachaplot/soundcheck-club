@@ -1,6 +1,6 @@
 # The Old Dispensary
 
-The Old Dispensary is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Grooves For Good" on Sat, 8 Aug 2026.
+The Old Dispensary is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Grooves For Good" on Sat, 8 Aug 2026.
 
 The Old Dispensary is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Rivera (UK). Browse upcoming dates, start times and who's playing. 325 Camberwell New Road, London, SE5 0TF.
 
@@ -14,4 +14,4 @@ The Old Dispensary is a music venue in London listed on soundcheck. 1 upcoming n
 
 325 Camberwell New Road, London, SE5 0TF, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-dispensary/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-dispensary/)*

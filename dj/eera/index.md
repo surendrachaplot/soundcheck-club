@@ -1,6 +1,6 @@
 # Eera
 
-Eera is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Factory Town, Miami on Sat, 19 Sept 2026.
+Eera is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Factory Town, Miami on Sat, 19 Sept 2026.
 
 Eera is an electronica and electro artist tracked on soundcheck, with 44 sets logged across Austin, Berlin, Boston and Bristol and 19 more. Often billed alongside Snow Strippers, Chippy Nonstop and Europa (1). Next up: Factory Town, Miami on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Eera is an electronica and electro artist tracked on soundcheck, with 44 sets lo
 
 Snow Strippers, Chippy Nonstop, Europa (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eera/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eera/)*

@@ -1,8 +1,8 @@
 # The Blaze
 
-The Blaze is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+The Blaze is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-The Blaze is a house and electro artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 25 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 25 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ The Blaze is a house and electro artist tracked on soundcheck, with 51 sets logg
 | Sat, 12 Sept 2026 | Forbindelsehallen | Stockholm |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 2 Oct 2026 | Magazzini Generali | Milan |
+| Sat, 31 Oct 2026 | TBA - Arts District Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ The Blaze is a house and electro artist tracked on soundcheck, with 51 sets logg
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

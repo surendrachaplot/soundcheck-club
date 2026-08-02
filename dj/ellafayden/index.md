@@ -1,6 +1,6 @@
 # Ella Fayden
 
-Ella Fayden is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Algha's Plantroom, London on Sat, 29 Aug 2026.
+Ella Fayden is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Algha's Plantroom, London on Sat, 29 Aug 2026.
 
 Ella Fayden is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, London and Manchester. Often billed alongside Duowe, Maxibon (2) and Picasso. Next up: Algha's Plantroom, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ella Fayden is a house and deep house artist based in United Kingdom, tracked on
 
 Duowe, Maxibon (2), Picasso
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellafayden/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellafayden/)*

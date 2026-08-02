@@ -1,6 +1,6 @@
 # Sookie
 
-Sookie is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Sookie is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Sookie is a techno and bass artist tracked on soundcheck, with 12 sets logged across Brussels, Detroit, Ghent and Seoul. Often billed alongside STDJ, Violently Happy and Bobbi Watson. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sookie is a techno and bass artist tracked on soundcheck, with 12 sets logged ac
 
 STDJ, Violently Happy, Bobbi Watson
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie/)*

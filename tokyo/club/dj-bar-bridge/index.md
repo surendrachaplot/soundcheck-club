@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 53 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "STONE JAM" on Sat, 1 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 52 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "キングストン秘宝館" on Sun, 2 Aug 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 53 upcoming nights, with line-ups including ALEXANDER M, DJ Emma, DJ Nori and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 52 upcoming nights, with line-ups including ALEXANDER M, DJ Emma, DJ Nori and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | STONE JAM | Toshiyuki Goto |
 | Sun, 2 Aug 2026 | キングストン秘宝館 |  |
 | Mon, 3 Aug 2026 | KANGO, SHINYA, HIRO & NATT |  |
 | Tue, 4 Aug 2026 | PRIMAL DUB, hayato hattori, Sakura & YAYAKO |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 53 upcoming nights
 | Sat, 8 Aug 2026 | KZA & KINYA | KZA |
 | Mon, 10 Aug 2026 | DJ MINOYAMA, DAH-ISHI, ISABELLE & CHEBB |  |
 | Tue, 11 Aug 2026 | RYOSUKE, EDDY & DJ NOTSUYA |  |
+| Wed, 12 Aug 2026 | KUBOTA,TAKESHI & ZUKIE |  |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

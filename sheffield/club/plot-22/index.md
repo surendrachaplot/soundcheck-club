@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "LOCAL with Wavform: Below Zero" on Sat, 15 Aug 2026.
+Plot 22 is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "LOCAL with Wavform: Below Zero" on Sat, 15 Aug 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -14,4 +14,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 1 upcoming night. Br
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

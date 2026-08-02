@@ -1,6 +1,6 @@
 # Toi Whakairo
 
-Toi Whakairo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Toi Whakairo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 Toi Whakairo is a techno and house artist based in Japan, tracked on soundcheck, with 4 sets logged across Vancouver. Often billed alongside Kozue, Christa Belle and DJ Hannah. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Toi Whakairo is a techno and house artist based in Japan, tracked on soundcheck,
 
 Kozue, Christa Belle, DJ Hannah
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toiwhakairo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toiwhakairo/)*

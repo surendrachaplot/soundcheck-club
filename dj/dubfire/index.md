@@ -1,14 +1,13 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 1 Aug 2026.
+Dubfire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
 
-Dubfire is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: Hï Ibiza, Ibiza on Sat 1 Aug.
+Dubfire is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: BERHTA, Washingtondc on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | BERHTA | Washington DC |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -16,6 +15,7 @@ Dubfire is a techno and house artist tracked on soundcheck, with 145 sets logged
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sat, 1 Aug 2026
 - fabric, London — Fri, 31 Jul 2026
 - Frankhan Selectist, Istanbul — Sat, 25 Jul 2026
 - TBA, Paris — Fri, 26 Jun 2026
@@ -23,10 +23,9 @@ Dubfire is a techno and house artist tracked on soundcheck, with 145 sets logged
 - Les Enfants Brillants, Barcelona — Sun, 21 Jun 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 18 Jun 2026
 - Ministerium Club, Lisbon — Sat, 6 Jun 2026
-- Kiesgrube, Düsseldorf — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Joseph Capriati, Cristoph, Anfisa Letyago
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

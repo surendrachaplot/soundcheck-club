@@ -1,6 +1,6 @@
 # Greata
 
-Greata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
+Greata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
 
 Greata is a house and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Leipzig. Often billed alongside ANBU, Bephål and Bertrand.. Next up: Distillery, Leipzig on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Greata is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ANBU, Bephål, Bertrand.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greata/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greata/)*

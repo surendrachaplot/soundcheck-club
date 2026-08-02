@@ -1,6 +1,6 @@
 # TR4CE
 
-TR4CE is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Soleil, Toronto on Sat, 15 Aug 2026.
+TR4CE is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Soleil, Toronto on Sat, 15 Aug 2026.
 
 TR4CE is a tech house and techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside JOOOF, Donny Vega and Angelphroot. Next up: Soleil, Toronto on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ TR4CE is a tech house and techno artist based in Canada, tracked on soundcheck, 
 
 JOOOF, Donny Vega, Angelphroot
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ce/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ce/)*

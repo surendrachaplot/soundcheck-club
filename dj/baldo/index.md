@@ -1,14 +1,15 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 2 Aug 2026.
+Baldo is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 2 Aug 2026.
 
-Baldo is a house and acid artist tracked on soundcheck, with 77 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Sunseabar Beach Club, Barcelona on Sun 2 Aug.
+Baldo is a house and acid artist tracked on soundcheck, with 78 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Sunseabar Beach Club, Barcelona on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Sunseabar Beach Club | Barcelona |
+| Sat, 22 Aug 2026 | Club der Visionaere | Berlin |
 | Sat, 5 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Baldo is a house and acid artist tracked on soundcheck, with 77 sets logged acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

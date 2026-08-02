@@ -1,6 +1,6 @@
 # Oscide
 
-Oscide is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
+Oscide is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
 
 Oscide is a house and techno artist based in Ireland, tracked on soundcheck, with 13 sets logged across Dublin. Often billed alongside JUSTDYL, Dicko and Fran Ortu. Next up: Electric Garden, Dublin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Oscide is a house and techno artist based in Ireland, tracked on soundcheck, wit
 
 JUSTDYL, Dicko, Fran Ortu
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscide/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscide/)*

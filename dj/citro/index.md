@@ -1,6 +1,6 @@
 # Citro
 
-Citro is a Techno and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Flex, Vienna on Fri, 7 Aug 2026.
+Citro is a Techno and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Flex, Vienna on Fri, 7 Aug 2026.
 
 Citro is a techno and breakcore artist based in Poland, tracked on soundcheck, with 11 sets logged across Krakow and Vienna. Often billed alongside A.C., Verma and Firefly. Next up: Flex, Vienna on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Citro is a techno and breakcore artist based in Poland, tracked on soundcheck, w
 
 A.C., Verma, Firefly
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citro/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citro/)*

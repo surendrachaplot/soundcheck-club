@@ -1,6 +1,6 @@
 # STONK
 
-STONK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+STONK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 STONK is a techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside E.DN, Arkane and COHĒSION. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ STONK is a techno artist based in United Kingdom, tracked on soundcheck, with 4 
 
 E.DN, Arkane, COHĒSION
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonk/)*

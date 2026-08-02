@@ -1,6 +1,6 @@
 # yepecc
 
-yepecc is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mad Radio Miami, Miami on Wed, 5 Aug 2026.
+yepecc is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mad Radio Miami, Miami on Wed, 5 Aug 2026.
 
 yepecc is a house and acid artist tracked on soundcheck, with 28 sets logged across Austin and Miami. Often billed alongside Grateron, Yawar and Saul mj. Next up: Mad Radio Miami, Miami on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ yepecc is a house and acid artist tracked on soundcheck, with 28 sets logged acr
 
 Grateron, Yawar, Saul mj
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yepecc/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yepecc/)*

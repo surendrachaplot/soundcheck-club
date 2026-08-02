@@ -1,6 +1,6 @@
 # CALiACRA
 
-CALiACRA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Climax-Institutes, Stuttgart on Fri, 21 Aug 2026.
+CALiACRA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Climax-Institutes, Stuttgart on Fri, 21 Aug 2026.
 
 CALiACRA is a techno and trance artist based in Bulgaria, tracked on soundcheck, with 33 sets logged across Berlin and Stuttgart. Often billed alongside Basti Thielburg, PSYCO RYTM and Kollektiv Basszendent. Next up: Climax-Institutes, Stuttgart on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CALiACRA is a techno and trance artist based in Bulgaria, tracked on soundcheck,
 
 Basti Thielburg, PSYCO RYTM, Kollektiv Basszendent
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caliacra/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caliacra/)*

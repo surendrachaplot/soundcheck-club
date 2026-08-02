@@ -1,6 +1,6 @@
 # OYYMMIT
 
-OYYMMIT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at vurt., Seoul on Fri, 7 Aug 2026.
+OYYMMIT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at vurt., Seoul on Fri, 7 Aug 2026.
 
 OYYMMIT is a techno and house artist based in South Korea, tracked on soundcheck, with 35 sets logged across Seoul. Often billed alongside Inger, Djilogue and SJK (1). Next up: vurt., Seoul on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ OYYMMIT is a techno and house artist based in South Korea, tracked on soundcheck
 
 Inger, Djilogue, SJK (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyymmit/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyymmit/)*

@@ -1,19 +1,19 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
+Carl H is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gaffe, London on Sun, 6 Sept 2026.
 
-Carl H is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
+Carl H is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Gaffe, London on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Invisible Wind Factory | Liverpool |
 | Sun, 6 Sept 2026 | Gaffe | London |
 | Sat, 12 Sept 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
+- Invisible Wind Factory, Liverpool — Sat, 1 Aug 2026
 - TBA, Mexico City — Sat, 18 Jul 2026
 - TBA - Secret Location, Sheffield — Fri, 10 Jul 2026
 - Hotel Butterfly, Rome — Thu, 9 Jul 2026
@@ -21,10 +21,9 @@ Carl H is a techno and trance artist tracked on soundcheck, with 118 sets logged
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 12 Jun 2026
 - Signal, New York City — Fri, 5 Jun 2026
 - The Jama, Toronto — Fri, 5 Jun 2026
-- 1520, Manchester — Sun, 24 May 2026
 
 ## Shares bills with
 
 So-Fi, DJ TEETH, Jane Fitz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

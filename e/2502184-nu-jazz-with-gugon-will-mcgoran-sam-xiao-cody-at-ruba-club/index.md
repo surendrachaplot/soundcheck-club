@@ -1,6 +1,6 @@
-# Nu Jazz with GUGON & Will McGoran & Sam Xiao Cody at Ruba Club
+# Nu Jazz with Gugon & Will McGoran & Sam Xiao Cody at Ruba Club
 
-Nu Jazz with GUGON & Will McGoran & Sam Xiao Cody at Ruba Club on Thu 27 Aug, Philadelphia. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Nu Jazz with Gugon & Will McGoran & Sam Xiao Cody at Ruba Club on Thu 27 Aug, Philadelphia. Experimental and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Fastlove - Bounce New Faces with stargurl [Fra]" on Sat, 1 Aug 2026.
+Kømplex Lisbon is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Disturb Rave with Cristobal Pesce" on Fri, 14 Aug 2026.
 
-Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including ANNĒ, Cristobal Pesce, CucaRafa and DIMENSION 9 and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
+Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including ANNĒ, Cristobal Pesce, CucaRafa and DIMENSION 9 and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Fastlove - Bounce New Faces with stargurl [Fra] | PAISANA, stargurl |
 | Fri, 14 Aug 2026 | Disturb Rave with Cristobal Pesce | Cristobal Pesce, DIMENSION 9, Ga7o |
 | Sat, 15 Aug 2026 | SØLIID with ANNĒ [Mutual Rytm, Gre] | ANNĒ, CucaRafa, ophell |
 | Sat, 15 Aug 2026 | FRESCA invites Sara Delirio (to Sunrise) | Mayan (PT), Sara Delirio |
@@ -19,4 +18,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 6 upcoming nigh
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

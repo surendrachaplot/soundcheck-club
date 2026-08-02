@@ -1,6 +1,6 @@
 # Ramon Rivé
 
-Ramon Rivé is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Madam, Amsterdam on Fri, 28 Aug 2026.
+Ramon Rivé is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Madam, Amsterdam on Fri, 28 Aug 2026.
 
 Ramon Rivé is a tech house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside JOKOÁ, Anil Aras and Bandi. Next up: Madam, Amsterdam on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Ramon Rivé is a tech house artist based in Netherlands, tracked on soundcheck, 
 
 JOKOÁ, Anil Aras, Bandi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonrive/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonrive/)*

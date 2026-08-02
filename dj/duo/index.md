@@ -1,6 +1,6 @@
 # Duo
 
-Duo is a Afro House and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
+Duo is a Afro House and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
 
 Duo is an afro house and afrobeats artist based in France, tracked on soundcheck, with 13 sets logged across London, Naples and Toronto. Often billed alongside Juls, Larizzle and Charisse C. Next up: The Jazz Cafe, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Duo is an afro house and afrobeats artist based in France, tracked on soundcheck
 
 Juls, Larizzle, Charisse C
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duo/)*

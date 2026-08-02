@@ -1,6 +1,6 @@
 # PAVEL__
 
-PAVEL__ is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+PAVEL__ is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 PAVEL__ is a techno artist based in Romania, tracked on soundcheck, with 5 sets logged across London. Often billed alongside DELARA, Jonas Lesitoc and Alek Mater. Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ PAVEL__ is a techno artist based in Romania, tracked on soundcheck, with 5 sets 
 
 DELARA, Jonas Lesitoc, Alek Mater
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pavel__/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pavel__/)*

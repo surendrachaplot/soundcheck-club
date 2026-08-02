@@ -1,6 +1,6 @@
 # Tyler Hill
 
-Tyler Hill is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Wiggle Room, Toronto on Sun, 2 Aug 2026.
+Tyler Hill is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Wiggle Room, Toronto on Sun, 2 Aug 2026.
 
 Tyler Hill is a tech house and house artist tracked on soundcheck, with 124 sets logged across Montreal and Toronto. Often billed alongside Barroness, TAKiN and Manzone & Strong. Next up: Wiggle Room, Toronto on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Tyler Hill is a tech house and house artist tracked on soundcheck, with 124 sets
 
 Barroness, TAKiN, Manzone & Strong
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerhill/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerhill/)*

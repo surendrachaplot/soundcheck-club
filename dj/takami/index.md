@@ -1,6 +1,6 @@
 # Takami
 
-Takami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Z Maruyama, Tokyo on Mon, 10 Aug 2026.
+Takami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Z Maruyama, Tokyo on Mon, 10 Aug 2026.
 
 Takami is a techno and house artist based in Japan, tracked on soundcheck, with 94 sets logged across Osaka and Tokyo. Often billed alongside BEPPU, ATT and Q'hey. Next up: Z Maruyama, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Takami is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 BEPPU, ATT, Q'hey
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takami/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takami/)*

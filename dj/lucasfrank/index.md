@@ -1,6 +1,6 @@
 # Lucas Frank
 
-Lucas Frank is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 2 Aug 2026.
+Lucas Frank is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 2 Aug 2026.
 
 Lucas Frank is a house and afro house artist based in Argentina, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Babo, Isa Rojas and Santi Lecot. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ Lucas Frank is a house and afro house artist based in Argentina, tracked on soun
 
 Babo, Isa Rojas, Santi Lecot
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*

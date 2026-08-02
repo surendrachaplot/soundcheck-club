@@ -1,6 +1,6 @@
 # Rough Trade Berlin
 
-Rough Trade Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Joyeria" on Sat, 8 Aug 2026.
+Rough Trade Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Joyeria" on Sat, 8 Aug 2026.
 
 Rough Trade Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Antony Szmierek. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 101, 12043 Berlin.
 
@@ -16,4 +16,4 @@ Rough Trade Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming n
 
 Karl-Marx-Straße 101, 12043 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rough-trade-berlin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rough-trade-berlin/)*

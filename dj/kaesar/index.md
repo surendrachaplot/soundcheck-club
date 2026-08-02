@@ -1,6 +1,6 @@
 # Kaesar
 
-Kaesar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 2 Aug 2026.
+Kaesar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 2 Aug 2026.
 
 Kaesar is a techno and house artist based in Portugal, tracked on soundcheck, with 96 sets logged across Lisbon, Malaga, Porto and Tbilisi. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: Harbour Music Shelter, Lisbon on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Kaesar is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 Bernardo Vaz, Gear, Kokeshi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*

@@ -1,6 +1,6 @@
 # Ratkay
 
-Ratkay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
+Ratkay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
 
 Ratkay is a house and techno artist tracked on soundcheck, with 95 sets logged across Budapest, Ibiza and Vienna. Often billed alongside Viktor Bondar, StereoStrip and ANESI. Next up: Pontoon Budapest, Budapest on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Ratkay is a house and techno artist tracked on soundcheck, with 95 sets logged a
 
 Viktor Bondar, StereoStrip, ANESI
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratkay/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratkay/)*

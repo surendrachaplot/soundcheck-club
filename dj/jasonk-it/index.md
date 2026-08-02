@@ -1,6 +1,6 @@
 # Jason K (IT)
 
-Jason K (IT) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 2 Aug 2026.
+Jason K (IT) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 2 Aug 2026.
 
 Jason K (IT) is a disco and house artist tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Ibiza and Istanbul and 6 more. Often billed alongside Kapote, Fusco Stefano and Antonio Aiello. Next up: TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Jason K (IT) is a disco and house artist tracked on soundcheck, with 74 sets log
 
 Kapote, Fusco Stefano, Antonio Aiello
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonk-it/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonk-it/)*

@@ -1,14 +1,13 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "dhj presents: Dodo Meets Nikki Nair" on Sat, 1 Aug 2026.
+Cakeshop is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Eastern Union presents: Underground Pop" on Fri, 7 Aug 2026.
 
-Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including Citi Jeong, Excultist, Hugh Hardie and JIHEE KIM and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
+Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including Excultist, Hugh Hardie, rue (3) and Safety Trance. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | dhj presents: Dodo Meets Nikki Nair | Citi Jeong, JIHEE KIM, KIRARA, LFT (KR), Mount XLR, Nikki Nair, oddeen, pa de haan. |
 | Fri, 7 Aug 2026 | Eastern Union presents: Underground Pop | rue (3) |
 | Sat, 8 Aug 2026 | Heaven Sent | Excultist |
 | Thu, 13 Aug 2026 | RED PILL OR BLUE PILL |  |
@@ -20,4 +19,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

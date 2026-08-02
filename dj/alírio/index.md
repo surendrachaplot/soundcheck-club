@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
+Alírio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
 
 Alírio is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: SMUT Athens, Athens on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Alírio is a house and techno artist tracked on soundcheck, with 78 sets logged 
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

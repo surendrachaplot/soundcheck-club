@@ -1,6 +1,6 @@
 # The Knocks
 
-The Knocks is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Bellwether, Los Angeles on Fri, 21 Aug 2026.
+The Knocks is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Bellwether, Los Angeles on Fri, 21 Aug 2026.
 
 The Knocks is a house and electronica artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Destructo, KSHMR and LOVRA. Next up: The Bellwether, Losangeles on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ The Knocks is a house and electronica artist based in United States of America, 
 
 Destructo, KSHMR, LOVRA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*

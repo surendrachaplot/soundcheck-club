@@ -1,6 +1,6 @@
 # MYOHMY
 
-MYOHMY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
+MYOHMY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
 
 MYOHMY is a techno and house artist tracked on soundcheck, with 34 sets logged across Liverpool, London and Manchester. Often billed alongside Dan Chan, Mia Mai and TAMAN (2). Next up: Quarry, Liverpool on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ MYOHMY is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 Dan Chan, Mia Mai, TAMAN (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*

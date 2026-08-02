@@ -1,6 +1,6 @@
 # BJ Holy
 
-BJ Holy is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Spanners, London on Thu, 20 Aug 2026.
+BJ Holy is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Spanners, London on Thu, 20 Aug 2026.
 
 BJ Holy is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Paris and Turin. Often billed alongside Kenichi Iwasa, Coby Sey and Bianca Scout. Next up: Spanners, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ BJ Holy is an experimental and electronica artist based in United Kingdom, track
 
 Kenichi Iwasa, Coby Sey, Bianca Scout
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bjholy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bjholy/)*

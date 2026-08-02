@@ -1,6 +1,6 @@
 # LX one
 
-LX one is a Dubstep and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+LX one is a Dubstep and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 LX one is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol and London. Often billed alongside SP:MC, Cesco and MC GQ. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ LX one is a dubstep and drum & bass artist based in United Kingdom, tracked on s
 
 SP:MC, Cesco, MC GQ
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lxone/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lxone/)*

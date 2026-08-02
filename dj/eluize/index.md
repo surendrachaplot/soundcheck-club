@@ -1,6 +1,6 @@
 # Eluize
 
-Eluize is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
+Eluize is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
 
 Eluize is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Bali, Berlin and Bristol and 5 more. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Revolver Upstairs, Melbourne on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Eluize is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Mike Callander, Acid Safari, Chiara Kickdrum
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eluize/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eluize/)*

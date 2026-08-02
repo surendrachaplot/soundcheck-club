@@ -1,6 +1,6 @@
 # Johnny Malek
 
-Johnny Malek is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tangent Gallery, Detroit on Sat, 15 Aug 2026.
+Johnny Malek is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tangent Gallery, Detroit on Sat, 15 Aug 2026.
 
 Johnny Malek is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit and Ibiza. Often billed alongside Brav0, Jason Brown and Delano Smith. Next up: Tangent Gallery, Detroit on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Johnny Malek is a house and techno artist based in United States of America, tra
 
 Brav0, Jason Brown, Delano Smith
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnymalek/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnymalek/)*

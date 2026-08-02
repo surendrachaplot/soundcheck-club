@@ -1,6 +1,6 @@
 # Thundercat
 
-Thundercat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OLT Rivierenhof, Antwerp on Tue, 18 Aug 2026.
+Thundercat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OLT Rivierenhof, Antwerp on Tue, 18 Aug 2026.
 
 Thundercat is a house and disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Antwerp, Losangeles, Melbourne and Miami and 3 more. Often billed alongside Barry Can't Swim, Dom Dolla and Jayda G. Next up: OLT Rivierenhof, Antwerp on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Thundercat is a house and disco artist based in United States of America, tracke
 
 Barry Can't Swim, Dom Dolla, Jayda G
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thundercat/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thundercat/)*

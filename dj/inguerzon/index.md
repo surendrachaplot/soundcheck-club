@@ -1,6 +1,6 @@
 # Inguerzon
 
-Inguerzon is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Dune Park, Buenos Aires on Fri, 7 Aug 2026.
+Inguerzon is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Dune Park, Buenos Aires on Fri, 7 Aug 2026.
 
 Inguerzon is a drum & bass and jungle artist based in Chile, tracked on soundcheck, with 1 set logged across Buenosaires. Often billed alongside Bad Boy Orange and L-Side. Next up: Dune Park, Buenosaires on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ Inguerzon is a drum & bass and jungle artist based in Chile, tracked on soundche
 
 Bad Boy Orange, L-Side
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inguerzon/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inguerzon/)*

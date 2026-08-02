@@ -1,6 +1,6 @@
 # Bande de Filles
 
-Bande de Filles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Badaboum, Paris on Sat, 15 Aug 2026.
+Bande de Filles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Badaboum, Paris on Sat, 15 Aug 2026.
 
 Bande de Filles is a house and techno artist based in France, tracked on soundcheck, with 38 sets logged across Geneva, Marseille and Paris. Often billed alongside LeLeon, Naajet (2) and Joe Lewandowski. Next up: Badaboum, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bande de Filles is a house and techno artist based in France, tracked on soundch
 
 LeLeon, Naajet (2), Joe Lewandowski
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bandedefilles/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bandedefilles/)*

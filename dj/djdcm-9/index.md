@@ -1,6 +1,6 @@
 # DJ DCM-9
 
-DJ DCM-9 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 8 Aug 2026.
+DJ DCM-9 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 8 Aug 2026.
 
 DJ DCM-9 is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside DJ Blasian, DR MILLER and JFREE. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ DJ DCM-9 is a house and techno artist based in United States of America, tracked
 
 DJ Blasian, DR MILLER, JFREE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdcm-9/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdcm-9/)*

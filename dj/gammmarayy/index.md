@@ -1,6 +1,6 @@
 # gammmarayy
 
-gammmarayy is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
+gammmarayy is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
 
 gammmarayy is a house and bass artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Ahni, Bent and DJ Willy. Next up: Mucha, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ gammmarayy is a house and bass artist tracked on soundcheck, with 3 sets logged 
 
 Ahni, Bent, DJ Willy
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammmarayy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammmarayy/)*

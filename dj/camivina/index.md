@@ -1,6 +1,6 @@
 # CAMIVINA
 
-CAMIVINA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, London on Sun, 27 Sept 2026.
+CAMIVINA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, London on Sun, 27 Sept 2026.
 
 CAMIVINA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Belin, EVSKA and Horston. Next up: TBA, London on Sun 27 Sept.
 
@@ -19,4 +19,4 @@ CAMIVINA is a techno and house artist based in United Kingdom, tracked on soundc
 
 Belin, EVSKA, Horston
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camivina/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camivina/)*

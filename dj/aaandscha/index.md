@@ -1,6 +1,6 @@
 # aaandscha
 
-aaandscha is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
+aaandscha is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
 aaandscha is a house and downtempo artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Munich. Often billed alongside Almedina (2), Bonfante and Bunny. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ aaandscha is a house and downtempo artist based in Germany, tracked on soundchec
 
 Almedina (2), Bonfante, Bunny
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaandscha/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaandscha/)*

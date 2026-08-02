@@ -1,6 +1,6 @@
 # Simon Sizer
 
-Simon Sizer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Stereo, Montreal on Fri, 7 Aug 2026.
+Simon Sizer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Stereo, Montreal on Fri, 7 Aug 2026.
 
 Simon Sizer is a techno and progressive house artist based in Canada, tracked on soundcheck, with 12 sets logged across Amsterdam and Montreal. Often billed alongside Jares, 6RAJ and A-drift Radio. Next up: Stereo, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Simon Sizer is a techno and progressive house artist based in Canada, tracked on
 
 Jares, 6RAJ, A-drift Radio
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsizer/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsizer/)*

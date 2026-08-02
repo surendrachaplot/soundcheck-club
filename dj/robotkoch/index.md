@@ -1,6 +1,6 @@
 # Robot Koch
 
-Robot Koch is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Stargate, Amsterdam on Fri, 28 Aug 2026.
+Robot Koch is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Stargate, Amsterdam on Fri, 28 Aug 2026.
 
 Robot Koch is an experimental and ambient artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Basel, Berlin and Losangeles and 2 more. Often billed alongside Meredi, Anahit Vardanyan and Bernhard Hollinger. Next up: The Stargate, Amsterdam on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Robot Koch is an experimental and ambient artist based in Germany, tracked on so
 
 Meredi, Anahit Vardanyan, Bernhard Hollinger
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robotkoch/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robotkoch/)*

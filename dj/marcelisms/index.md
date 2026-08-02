@@ -1,6 +1,6 @@
 # marcelisms
 
-marcelisms is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at BarKa, Warsaw on Thu, 6 Aug 2026.
+marcelisms is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at BarKa, Warsaw on Thu, 6 Aug 2026.
 
 marcelisms is a bass and electro artist based in Poland, tracked on soundcheck, with 6 sets logged across Warsaw. Often billed alongside Cyntia G. Wabia, KAROLINDA and faron. Next up: BarKa, Warsaw on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ marcelisms is a bass and electro artist based in Poland, tracked on soundcheck, 
 
 Cyntia G. Wabia, KAROLINDA, faron
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelisms/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelisms/)*

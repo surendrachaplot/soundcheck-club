@@ -1,6 +1,6 @@
 # DDX (1)
 
-DDX (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Club M2 Miami, Miami on Fri, 21 Aug 2026.
+DDX (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Club M2 Miami, Miami on Fri, 21 Aug 2026.
 
 DDX (1) is a techno and trance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside Diana Franco, Mila Gama and DomnRob. Next up: Club M2 Miami, Miami on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ DDX (1) is a techno and trance artist based in United States of America, tracked
 
 Diana Franco, Mila Gama, DomnRob
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddx-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddx-1/)*

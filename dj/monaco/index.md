@@ -1,6 +1,6 @@
 # Monaco
 
-Monaco is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sacré, Paris on Sat, 8 Aug 2026.
+Monaco is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sacré, Paris on Sat, 8 Aug 2026.
 
 Monaco is a house and club artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds, London, Oslo and Paris and 1 more. Often billed alongside Allecto, Anthony Linell and Fiaa. Next up: Sacré, Paris on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Monaco is a house and club artist based in United Kingdom, tracked on soundcheck
 
 Allecto, Anthony Linell, Fiaa
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monaco/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monaco/)*

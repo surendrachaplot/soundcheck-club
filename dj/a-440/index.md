@@ -1,6 +1,6 @@
 # A-440
 
-A-440 is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
+A-440 is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
 
 A-440 is a house and trance artist based in France, tracked on soundcheck, with 37 sets logged across Berlin, London, Nantes and Paris and 1 more. Often billed alongside Ixpé, Ba-Vic and Julie Desire. Next up: Wanderlust, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ A-440 is a house and trance artist based in France, tracked on soundcheck, with 
 
 Ixpé, Ba-Vic, Julie Desire
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-440/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-440/)*

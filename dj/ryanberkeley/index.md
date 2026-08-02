@@ -1,6 +1,6 @@
 # Ryan Berkeley
 
-Ryan Berkeley is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Goblin, Auckland on Thu, 6 Aug 2026.
+Ryan Berkeley is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Goblin, Auckland on Thu, 6 Aug 2026.
 
 Ryan Berkeley is a house and deep house artist based in Australia, tracked on soundcheck, with 16 sets logged across Auckland, Melbourne and Sydney. Often billed alongside DJ Ingrid, DJ JNETT and Mikekon. Next up: Goblin, Auckland on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Ryan Berkeley is a house and deep house artist based in Australia, tracked on so
 
 DJ Ingrid, DJ JNETT, Mikekon
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanberkeley/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanberkeley/)*

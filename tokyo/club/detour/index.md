@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "J-NATION" on Sat, 1 Aug 2026.
+DeTour is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DT HOUSE SESSION" on Sun, 2 Aug 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 204 (1), BEPPU, DJ Kita and hidemi and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 204 (1), BEPPU, DJ Kita and hidemi and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | J-NATION | BEPPU |
 | Sun, 2 Aug 2026 | DT HOUSE SESSION | BEPPU, KENJI FURUYA, Neri |
 | Tue, 4 Aug 2026 | DT TUESDAY | BEPPU, Jay Turio |
 | Thu, 6 Aug 2026 | DT THURSDAY | BEPPU |
@@ -22,4 +21,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with l
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

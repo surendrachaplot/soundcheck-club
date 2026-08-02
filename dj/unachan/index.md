@@ -1,6 +1,6 @@
 # UNACHAN
 
-UNACHAN is a House and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at S-Pod, Kyoto on Mon, 3 Aug 2026.
+UNACHAN is a House and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at S-Pod, Kyoto on Mon, 3 Aug 2026.
 
 UNACHAN is a house and vaporwave artist based in Japan, tracked on soundcheck, with 2 sets logged across Kyoto. Often billed alongside KEIMIN. Next up: S-Pod, Kyoto on Mon 3 Aug.
 
@@ -18,4 +18,4 @@ UNACHAN is a house and vaporwave artist based in Japan, tracked on soundcheck, w
 
 KEIMIN
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unachan/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unachan/)*

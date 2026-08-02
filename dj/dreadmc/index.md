@@ -1,6 +1,6 @@
 # DREAD MC
 
-DREAD MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Bag Factory, Manchester on Sat, 22 Aug 2026.
+DREAD MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Bag Factory, Manchester on Sat, 22 Aug 2026.
 
 DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Brighton, Bristol, Cardiff and Ibiza and 7 more. Often billed alongside Harriet Jaxxon, K Motionz and Voltage. Next up: The Bag Factory, Manchester on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Harriet Jaxxon, K Motionz, Voltage
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadmc/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadmc/)*

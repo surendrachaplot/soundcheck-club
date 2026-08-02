@@ -1,14 +1,13 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Lick the Click" on Sat, 1 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Sôlace Sonora ~ Pontoon ~ Sunday Sundown by ELB" on Sun, 2 Aug 2026.
 
-Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Agettro, ANESI, CT Kidobó and Hadron Lundgren and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
+Pontoon Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Agettro, ANESI, CT Kidobó and Hadron Lundgren and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Lick the Click |  |
 | Sun, 2 Aug 2026 | Sôlace Sonora ~ Pontoon ~ Sunday Sundown by ELB | ANESI, Agettro, Jan Nedved, Kloos, OWLS |
 | Thu, 6 Aug 2026 | DD10YRS Night: Hadron Lundgren live, CT Kidobó, Imre Kiss, S Olbricht, DDSS | CT Kidobó, Hadron Lundgren, Imre Kiss, Max Sinclair, S Olbricht |
 | Fri, 7 Aug 2026 | Torso presents: PRIORI |  |
@@ -19,4 +18,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

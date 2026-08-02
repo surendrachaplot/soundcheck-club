@@ -1,14 +1,13 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 1 Aug 2026.
+Claptone is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 2 Aug 2026.
 
-Claptone is a house and tech house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Chinois Ibiza, Ibiza on Sat 1 Aug.
+Claptone is a house and tech house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Ku Barcelona, Barcelona on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sun, 2 Aug 2026 | Ku Barcelona | Barcelona |
 | Sat, 8 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Café del Mar Malta | Malta |
@@ -20,9 +19,11 @@ Claptone is a house and tech house artist tracked on soundcheck, with 227 sets l
 | Sat, 5 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 12 Sept 2026 | Chinois Ibiza | Ibiza |
+| Sat, 19 Sept 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Sat, 1 Aug 2026
 - Chinois Ibiza, Ibiza — Sat, 25 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 18 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 11 Jul 2026
@@ -30,10 +31,9 @@ Claptone is a house and tech house artist tracked on soundcheck, with 227 sets l
 - Chinois Ibiza, Ibiza — Sat, 4 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 4 Jul 2026
 - Club Space Miami, Miami — Fri, 3 Jul 2026
-- Solaris Nerja, Malaga — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

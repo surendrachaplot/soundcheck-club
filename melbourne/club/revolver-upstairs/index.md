@@ -1,15 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 25 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Late Show" on Sat, 1 Aug 2026.
+Revolver Upstairs is a music venue in Melbourne with 23 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Maxi Meraki (BE) - Winter Series pres. by Thick As Thieves" on Sun, 2 Aug 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 25 upcoming nights, with line-ups including Acid Safari, Agent 86, Aimann and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 23 upcoming nights, with line-ups including Acid Safari, Agent 86, Aimann and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | The Late Show | CAGED, Lewis Cancut |
-| Sat, 1 Aug 2026 | Rise & Shine | Sunshine |
 | Sun, 2 Aug 2026 | Maxi Meraki (BE) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Bridget, Haylo, KELLY TEE, Maxi Meraki, Perka, Spacey Space |
 | Wed, 5 Aug 2026 | Tilt Shift Wednesday | Aimann, Stockholm Syndrome |
 | Fri, 7 Aug 2026 | Our Garage x Revolver Fridays | Acid Safari, Bby Cass, Chloe Tinton, Claddy, Cosy (2), Eluize, Mike Callander, Safe, Syrup |
@@ -18,9 +16,11 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 25 upcomin
 | Wed, 12 Aug 2026 | Tilt Shift Wednesdays | Shell Shock |
 | Fri, 14 Aug 2026 | SHADOWS | ARTISAH, CJ Slayer, WISER, Yulia Kasa |
 | Fri, 14 Aug 2026 | REVOLVER BANDROOM: Fortify Records presents — Culture Shock x Bolt Cutter | Boltcutter, Culture Shock, PM, Unfound |
+| Sat, 15 Aug 2026 | REVOLVER BANDROOM: Hate Complex (AU) |  |
+| Sun, 16 Aug 2026 | Samantha Loverdige & Cooper Smith - Winter Series pres. by Thick As Thieves | Ben Silver (AUS), Boogs, Rem Siman, Samantha Loveridge, Spacey Space, The Journey |
 
 ## Address
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

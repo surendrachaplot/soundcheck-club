@@ -1,6 +1,6 @@
 # monielu.h
 
-monielu.h is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 6 Aug 2026.
+monielu.h is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 6 Aug 2026.
 
 monielu.h is a house and techno artist based in Japan, tracked on soundcheck, with 100 sets logged across Tokyo. Often billed alongside RAHA, SUETSUGU and RYOHEI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ monielu.h is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 RAHA, SUETSUGU, RYOHEI
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monielu.h/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monielu.h/)*

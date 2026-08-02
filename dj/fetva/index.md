@@ -1,6 +1,6 @@
 # fetva
 
-fetva is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Marseille, Marseille on Fri, 7 Aug 2026.
+fetva is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Marseille, Marseille on Fri, 7 Aug 2026.
 
 fetva is an electro and experimental artist based in France, tracked on soundcheck, with 38 sets logged across Athens, Berlin, London and Marseille and 2 more. Often billed alongside Golce, DJ Music and Bamao Yendé. Next up: TBA - Marseille, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ fetva is an electro and experimental artist based in France, tracked on soundche
 
 Golce, DJ Music, Bamao Yendé
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*

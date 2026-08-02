@@ -1,6 +1,6 @@
 # Fiftyfive
 
-Fiftyfive is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Burnin' Knock On's: With Ess" on Sun, 2 Aug 2026.
+Fiftyfive is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Burnin' Knock On's: With Ess" on Sun, 2 Aug 2026.
 
 Fiftyfive is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Andrew88, Freddy Gardens, Julius Myles and saith and 1 more. Browse upcoming dates, start times and who's playing. 55 Elizabeth St; Melbourne, VIC 3000; Australia.
 
@@ -18,4 +18,4 @@ Fiftyfive is a music venue in Melbourne listed on soundcheck. 5 upcoming nights,
 
 55 Elizabeth St; Melbourne, VIC 3000; Australia, Melbourne
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/fiftyfive/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/fiftyfive/)*

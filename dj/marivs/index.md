@@ -1,6 +1,6 @@
 # Marivs
 
-Marivs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
+Marivs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
 
 Marivs is a techno and house artist tracked on soundcheck, with 35 sets logged across Barcelona, Detroit, Montreal and Newyorkcity and 1 more. Often billed alongside Antwon Faulkner, DJ Seoul and RestLes. Next up: Rhythm, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Marivs is a techno and house artist tracked on soundcheck, with 35 sets logged a
 
 Antwon Faulkner, DJ Seoul, RestLes
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marivs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marivs/)*

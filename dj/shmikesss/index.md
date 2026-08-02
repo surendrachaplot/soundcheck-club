@@ -1,6 +1,6 @@
 # SHMIKESSS
 
-SHMIKESSS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
+SHMIKESSS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
 SHMIKESSS is a techno and house artist based in South Africa, tracked on soundcheck, with 3 sets logged across Berlin and Munich. Often billed alongside Almedina (2), Brigade and Davy (Crème Club). Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ SHMIKESSS is a techno and house artist based in South Africa, tracked on soundch
 
 Almedina (2), Brigade, Davy (Crème Club)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shmikesss/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shmikesss/)*

@@ -1,6 +1,6 @@
 # Ayesha
 
-Ayesha is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 6 Aug 2026.
+Ayesha is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 6 Aug 2026.
 
 Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged ac
 
 Ma Sha, Batu, Doctor Jeep
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*

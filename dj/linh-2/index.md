@@ -1,6 +1,6 @@
 # Linh (2)
 
-Linh (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+Linh (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 Linh (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Alex Benz, Sodom and co:co. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Linh (2) is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Alex Benz, Sodom, co:co
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*

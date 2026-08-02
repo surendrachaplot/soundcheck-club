@@ -1,14 +1,13 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Lehmann Clubnacht with Len Faki, FJAAK, Beste Hira, Raphael Dincsoy, Tamara Wirth" on Sat, 1 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina" on Fri, 7 Aug 2026.
 
-Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Afem Syko, Beste Hira, cyaabottom and dasstudach and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
+Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Afem Syko, cyaabottom, dasstudach and DICE and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Lehmann Clubnacht with Len Faki, FJAAK, Beste Hira, Raphael Dincsoy, Tamara Wirth | Beste Hira, FJAAK, Jannis Maxim, Len Faki, Raphael Dincsoy, Tamara Wirth |
 | Fri, 7 Aug 2026 | HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina | Afem Syko, PETERBLUE |
 | Sat, 8 Aug 2026 | LEHMANN Schranznacht with In Verruf, dasstudach, MOIA, GAAAS | GAAAS, In Verruf, MOIA, dasstudach |
 | Fri, 14 Aug 2026 | HARDCORE GENERATORS pres. 2YEARS STUTTGART HARDCORE SOUND | Edgerunner, IceLipzz, LØUS, Medusa, SYNTH3SE, Tayphoon, cyaabottom |
@@ -20,4 +19,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

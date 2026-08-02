@@ -1,6 +1,6 @@
 # Astúria
 
-Astúria is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rooftop Nijinsky, Paris on Fri, 21 Aug 2026.
+Astúria is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rooftop Nijinsky, Paris on Fri, 21 Aug 2026.
 
 Astúria is a deep house and afro house artist based in Brazil, tracked on soundcheck, with 7 sets logged across Paris. Often billed alongside ARODES, Ams (FR) and Arthur Nozen. Next up: Rooftop Nijinsky, Paris on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Astúria is a deep house and afro house artist based in Brazil, tracked on sound
 
 ARODES, Ams (FR), Arthur Nozen
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asturia-br/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asturia-br/)*

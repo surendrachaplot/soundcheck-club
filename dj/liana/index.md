@@ -1,6 +1,6 @@
 # Liana
 
-Liana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
+Liana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
 
 Liana is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Pacome, Fer (ES) and A.M. Project. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Liana is a house and techno artist tracked on soundcheck, with 40 sets logged ac
 
 Pacome, Fer (ES), A.M. Project
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liana/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liana/)*

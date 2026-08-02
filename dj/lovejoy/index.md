@@ -1,6 +1,6 @@
 # Lovejoy
 
-Lovejoy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 7 Aug 2026.
+Lovejoy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 7 Aug 2026.
 
 Lovejoy is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, Edinburgh, Glasgow and Sydney. Often billed alongside DJ Smoker, Andy Barton and LAZLO. Next up: The Berkeley Suite, Glasgow on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lovejoy is a techno and trance artist based in United Kingdom, tracked on soundc
 
 DJ Smoker, Andy Barton, LAZLO
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovejoy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovejoy/)*

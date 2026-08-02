@@ -1,6 +1,6 @@
 # Sebastian Ludvig
 
-Sebastian Ludvig is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Sebastian Ludvig is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Sebastian Ludvig is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside DJ Jordan, Millie Forsberg and Son of Adria. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Sebastian Ludvig is a techno and trance artist based in Germany, tracked on soun
 
 DJ Jordan, Millie Forsberg, Son of Adria
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianludvig/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianludvig/)*

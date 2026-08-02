@@ -1,6 +1,6 @@
 # MANGUMAMI
 
-MANGUMAMI is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Jupiter Disco, New York City on Wed, 5 Aug 2026.
+MANGUMAMI is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Jupiter Disco, New York City on Wed, 5 Aug 2026.
 
 MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside CMD+JAZMINE, EL SUCIO and BOJAQ. Next up: Jupiter Disco, Newyorkcity on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ MANGUMAMI is a club and techno artist based in United States of America, tracked
 
 CMD+JAZMINE, EL SUCIO, BOJAQ
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*

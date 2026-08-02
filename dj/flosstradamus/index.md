@@ -1,6 +1,6 @@
 # Flosstradamus
 
-Flosstradamus is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Concourse Project, Austin on Fri, 7 Aug 2026.
+Flosstradamus is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Concourse Project, Austin on Fri, 7 Aug 2026.
 
 Flosstradamus is a bass and hip-hop artist based in United States of America, tracked on soundcheck, with 17 sets logged across Austin, Boston, Chicago and Denver and 7 more. Often billed alongside Dillon Francis, AMÉMÉ and Alix Perez. Next up: The Concourse Project, Austin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Flosstradamus is a bass and hip-hop artist based in United States of America, tr
 
 Dillon Francis, AMÉMÉ, Alix Perez
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flosstradamus/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flosstradamus/)*

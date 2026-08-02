@@ -1,6 +1,6 @@
 # THE FLAG TWINS
 
-THE FLAG TWINS is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at E1, London on Sat, 29 Aug 2026.
+THE FLAG TWINS is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at E1, London on Sat, 29 Aug 2026.
 
 THE FLAG TWINS is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, London and Newyorkcity. Often billed alongside Anthony P. (CH), Bread & Butter and Devontae. Next up: E1, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ THE FLAG TWINS is a house and afro house artist based in United Kingdom, tracked
 
 Anthony P. (CH), Bread & Butter, Devontae
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theflagtwins/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theflagtwins/)*

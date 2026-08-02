@@ -1,6 +1,6 @@
 # KIMYA
 
-KIMYA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
+KIMYA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
 
 KIMYA is a techno and trance artist based in Germany, tracked on soundcheck, with 24 sets logged across Leipzig. Often billed alongside DJ STIMULA, Siggi Petrol and ELOISA. Next up: Distillery, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KIMYA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 DJ STIMULA, Siggi Petrol, ELOISA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimya/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimya/)*

@@ -1,6 +1,6 @@
 # Safahs
 
-Safahs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Unter Deck, Munich on Wed, 16 Sept 2026.
+Safahs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Unter Deck, Munich on Wed, 16 Sept 2026.
 
 Safahs is a techno and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Kim_Twiddle. Next up: Unter Deck, Munich on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Safahs is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Kim_Twiddle
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safahs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safahs/)*

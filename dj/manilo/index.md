@@ -1,6 +1,6 @@
 # Manlio
 
-Manlio is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 6 Aug 2026.
+Manlio is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 6 Aug 2026.
 
 Manlio is a techno and electro artist based in Italy, tracked on soundcheck, with 22 sets logged across Liverpool, London and Rome. Often billed alongside Desiree', Gianmarco Gazzillo and Ordep (UK). Next up: THE MAGICK BAR, Rome on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Manlio is a techno and electro artist based in Italy, tracked on soundcheck, wit
 
 Desiree', Gianmarco Gazzillo, Ordep (UK)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manilo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manilo/)*

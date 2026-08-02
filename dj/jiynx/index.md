@@ -1,6 +1,6 @@
 # JIYNX
 
-JIYNX is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Piston, Toronto on Thu, 13 Aug 2026.
+JIYNX is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Piston, Toronto on Thu, 13 Aug 2026.
 
 JIYNX is a club and bass artist based in Canada, tracked on soundcheck, with 28 sets logged across Miami and Toronto. Often billed alongside 999ADJ, Ard1n and HVN (1). Next up: The Piston, Toronto on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ JIYNX is a club and bass artist based in Canada, tracked on soundcheck, with 28 
 
 999ADJ, Ard1n, HVN (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*

@@ -1,14 +1,13 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Brama Summer Fling: KRN & Toby, Serenda & Seb Odyssey, Sam PV" on Sat, 1 Aug 2026.
+Crate Brewery is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Darktimes FREE PARTY in Hackney Wick" on Sun, 2 Aug 2026.
 
-Crate Brewery is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alec Falconer, BÁHDO, BK86 and DATA RYDER and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
+Crate Brewery is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alec Falconer, BÁHDO, BK86 and DATA RYDER and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Brama Summer Fling: KRN & Toby, Serenda & Seb Odyssey, Sam PV | KRN, Sam PV, Seb Odyssey, Serenda, Toby (UK) |
 | Sun, 2 Aug 2026 | Darktimes FREE PARTY in Hackney Wick | Jugin, Pato, Studio Batsumi |
 | Sat, 15 Aug 2026 | JWY & FRIENDS (Part 2) | BK86, BÁHDO, DATA RYDER, DJ Karmawi, JWY (1), Jenn Hession, Roo Honeychild |
 | Sun, 16 Aug 2026 | Step Inside Open Air | Jordan Masters, MUNNI, TODDZ, ThreeFifty6, Wax Material |
@@ -20,4 +19,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 7 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

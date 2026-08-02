@@ -1,6 +1,6 @@
 # Pandora (1)
 
-Pandora (1) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Pandora (1) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Pandora (1) is a house and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, London and Vienna. Often billed alongside Juan Diego Drouet, Aras and Balthazar Martinez. Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pandora (1) is a house and acid artist based in United Kingdom, tracked on sound
 
 Juan Diego Drouet, Aras, Balthazar Martinez
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pandora/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pandora/)*

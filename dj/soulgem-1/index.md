@@ -1,6 +1,6 @@
 # Soulgem (1)
 
-Soulgem (1) is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Colour Factory, London on Fri, 14 Aug 2026.
+Soulgem (1) is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Colour Factory, London on Fri, 14 Aug 2026.
 
 Soulgem (1) is an experimental and hardcore artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Tokyo. Often billed alongside AC (dot robot), Meow Meow and Slayphex Twins. Next up: Colour Factory, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Soulgem (1) is an experimental and hardcore artist based in United Kingdom, trac
 
 AC (dot robot), Meow Meow, Slayphex Twins
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulgem-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulgem-1/)*

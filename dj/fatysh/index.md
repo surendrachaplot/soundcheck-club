@@ -1,6 +1,6 @@
 # Fatysh
 
-Fatysh is a Drum & Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+Fatysh is a Drum & Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 Fatysh is a drum & bass and experimental artist based in Tunisia, tracked on soundcheck, with 1 set logged across Istanbul. Often billed alongside BERENALP, Ezkiel and Fosil. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -14,4 +14,4 @@ Fatysh is a drum & bass and experimental artist based in Tunisia, tracked on sou
 
 BERENALP, Ezkiel, Fosil
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatysh/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatysh/)*

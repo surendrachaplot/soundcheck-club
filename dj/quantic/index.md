@@ -1,6 +1,6 @@
 # Quantic
 
-Quantic is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fidelity Studio, Dublin on Sat, 8 Aug 2026.
+Quantic is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fidelity Studio, Dublin on Sat, 8 Aug 2026.
 
 Quantic is a jazz and funk / soul artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Alejandra Sabillón, Mafalda and Steven Julien. Next up: Fidelity Studio, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Quantic is a jazz and funk / soul artist tracked on soundcheck, with 34 sets log
 
 Alejandra Sabillón, Mafalda, Steven Julien
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*

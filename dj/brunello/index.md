@@ -1,14 +1,13 @@
 # Brunello
 
-Brunello is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Brunello is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 8 Aug 2026.
 
-Brunello is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Ibiza, Losangeles and Miami and 3 more. Often billed alongside Pegassi, Azzecca and Beltran. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Brunello is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Ibiza, Losangeles and Miami and 3 more. Often billed alongside Pegassi, Azzecca and Beltran. Next up: Hï Ibiza, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 8 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | TBA | Toronto |
@@ -17,10 +16,11 @@ Brunello is a house and tech house artist based in United States of America, tra
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Club Space Miami, Miami — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Pegassi, Azzecca, Beltran
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

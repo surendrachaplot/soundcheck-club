@@ -1,6 +1,6 @@
 # Uma Scheffer
 
-Uma Scheffer is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at John Doe, Amsterdam on Wed, 12 Aug 2026.
+Uma Scheffer is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at John Doe, Amsterdam on Wed, 12 Aug 2026.
 
 Uma Scheffer is a techno and electronica artist based in Argentina, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Deimov, Julieta Kopp and oyokai. Next up: John Doe, Amsterdam on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Uma Scheffer is a techno and electronica artist based in Argentina, tracked on s
 
 Deimov, Julieta Kopp, oyokai
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umascheffer/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umascheffer/)*

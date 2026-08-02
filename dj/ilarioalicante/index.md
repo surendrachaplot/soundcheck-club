@@ -1,14 +1,13 @@
 # Ilario Alicante
 
-Ilario Alicante is a Tech House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Ilario Alicante is a Tech House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
+Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 25 Aug 2026 | Hï Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 29 Jul 2026
 - UNO MALTA, Malta — Sun, 19 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 11 Jul 2026
@@ -28,10 +28,9 @@ Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 19
 - Son Fusteret, Mallorca — Sat, 4 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 30 Jun 2026
 - Pacha Ibiza, Ibiza — Fri, 26 Jun 2026
-- Poble Espanyol, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Marco Carola, Paco Osuna, Franky Rizardo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*

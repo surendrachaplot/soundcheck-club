@@ -1,14 +1,13 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+Perc is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at RASA, Singapore on Fri, 7 Aug 2026.
 
-Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Somniac One, Ansome and DAX J. Next up: Levenslang Amsterdam, Amsterdam on Sat 1 Aug.
+Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Somniac One, Ansome and DAX J. Next up: RASA, Singapore on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 7 Aug 2026 | RASA | Singapore |
 | Sat, 8 Aug 2026 | OIL Club | Shenzhen |
 | Fri, 21 Aug 2026 | clubasia | Tokyo |
@@ -18,6 +17,7 @@ Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logg
 
 ## Recently played
 
+- Levenslang Amsterdam, Amsterdam — Sat, 1 Aug 2026
 - Tresor / Globus, Berlin — Fri, 31 Jul 2026
 - Union Park, Chicago — Sat, 18 Jul 2026
 - Catch One, Los Angeles — Sat, 27 Jun 2026
@@ -25,10 +25,9 @@ Perc is a techno and industrial artist tracked on soundcheck, with 155 sets logg
 - TBA - Denver, Denver — Fri, 19 Jun 2026
 - TBA, Boston — Thu, 18 Jun 2026
 - BASEMENT, New York City — Sat, 13 Jun 2026
-- Unité.22, Marseille — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Somniac One, Ansome, DAX J
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

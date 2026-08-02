@@ -1,6 +1,6 @@
 # Satori
 
-Satori is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ace Hotel & Swim Club Athens, Athens on Fri, 18 Sept 2026.
+Satori is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ace Hotel & Swim Club Athens, Athens on Fri, 18 Sept 2026.
 
 Satori is a house and techno artist based in Netherlands, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Sorä, Cera Khin and Marco Carola. Next up: Ace Hotel & Swim Club Athens, Athens on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Satori is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Sorä, Cera Khin, Marco Carola
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

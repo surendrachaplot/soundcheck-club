@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Groove Galore" on Fri, 7 Aug 2026.
+Lieberscholli is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Groove Galore" on Fri, 7 Aug 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including Alex Volta, Anna Reusch, Apolonia and Black Box and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -23,4 +23,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming night
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

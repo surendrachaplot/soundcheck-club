@@ -1,6 +1,6 @@
 # Shaun Soomro
 
-Shaun Soomro is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rūmu, Lisbon on Sat, 15 Aug 2026.
+Shaun Soomro is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rūmu, Lisbon on Sat, 15 Aug 2026.
 
 Shaun Soomro is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Lisbon, London, Milan and Paris. Often billed alongside Ams (FR), Ben Vedren and DJ W!ld. Next up: Rūmu, Lisbon on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Shaun Soomro is a techno and deep house artist based in United Kingdom, tracked 
 
 Ams (FR), Ben Vedren, DJ W!ld
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunsoomro/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunsoomro/)*

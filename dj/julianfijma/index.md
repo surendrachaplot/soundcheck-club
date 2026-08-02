@@ -1,14 +1,13 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 1 Aug 2026.
+Julian Fijma is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Julian Fijma is a house and tech house artist tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 29 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Ushuaïa Ibiza, Ibiza on Sat 1 Aug.
+Julian Fijma is a house and tech house artist tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 29 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 8 Aug 2026 | Palmerstown House Estate | Dublin |
 | Sat, 15 Aug 2026 | Refuge | New York City |
@@ -23,6 +22,7 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 107 se
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sat, 1 Aug 2026
 - Colorado Charlie, The Hague — Sun, 26 Jul 2026
 - [UNVRS], Ibiza — Wed, 22 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
@@ -30,10 +30,9 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 107 se
 - 528 Ibiza, Ibiza — Fri, 3 Jul 2026
 - TBA - Wave, Mallorca — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "CHRIS NG • Mullen (UK)" on Sat, 1 Aug 2026.
+Wax Music Lounge is a music venue in Melbourne with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "WAX MUSEUM RECORDS" on Sun, 2 Aug 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Chris NG, Mullen and Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 12 upcoming nights, with line-ups including Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | CHRIS NG • Mullen (UK) | Chris NG, Mullen |
 | Sun, 2 Aug 2026 | WAX MUSEUM RECORDS |  |
 | Tue, 4 Aug 2026 | BRAZLOMBIA |  |
 | Wed, 5 Aug 2026 | MELLOWDÍAS THUMP |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 13 upcoming
 | Tue, 18 Aug 2026 | BRAZLOMBIA |  |
 | Wed, 19 Aug 2026 | CLOSED FOR PRIVATE FUNCTION FROM 8PM |  |
 | Tue, 25 Aug 2026 | BRAZLOMBIA |  |
+| Wed, 26 Aug 2026 | MELLOWDÍAS THUMP |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

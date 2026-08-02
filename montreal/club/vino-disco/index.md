@@ -1,14 +1,13 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "WE ARE YOUR FRIENDS - 'Rewind. One Night Only'" on Sat, 1 Aug 2026.
+Vino Disco is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "JEUDREDI AVEC WALKER & GOOD YOU" on Thu, 6 Aug 2026.
 
-Vino Disco is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including A-Rock, Akpossoul, Andie and Damacadam and 2 more. Browse upcoming dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
+Vino Disco is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Akpossoul, Andie, Damacadam and Dimitry and 2 more. Browse upcoming dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | WE ARE YOUR FRIENDS - 'Rewind. One Night Only' | A-Rock, Shaydakiss |
 | Thu, 6 Aug 2026 | JEUDREDI AVEC WALKER & GOOD YOU |  |
 | Fri, 7 Aug 2026 | Andie | Andie |
 | Sat, 8 Aug 2026 | MONTREAL MUSIC WEEK - GABA COLLECTIVE x BAROQUE AGENCY PRESENT: EXPO'67 | Damacadam |
@@ -18,9 +17,10 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 13 upcoming nights
 | Thu, 20 Aug 2026 | JEUDREDI - Laurence Matte | Laurence Matte |
 | Fri, 21 Aug 2026 | Groovy Castle | Groovy Castle, Jean Pascal Groove |
 | Sat, 22 Aug 2026 | Ultreme | Ultreme |
+| Thu, 27 Aug 2026 | JEUDREDI - FORREST | Forrest. |
 
 ## Address
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

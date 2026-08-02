@@ -1,18 +1,18 @@
 # Bianca Lexis
 
-Bianca Lexis is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
+Bianca Lexis is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Bianca Lexis is a house and club artist tracked on soundcheck, with 53 sets logged across London, Losangeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: Los Globos, Losangeles on Sat 1 Aug.
+Bianca Lexis is a house and club artist tracked on soundcheck, with 53 sets logged across London, Losangeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Los Globos | Los Angeles |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played
 
+- Los Globos, Los Angeles — Sat, 1 Aug 2026
 - TBA - 44, boulevard du Temple, Paris, Paris — Sun, 21 Jun 2026
 - Homage Brewing, Los Angeles — Fri, 22 May 2026
 - Homage Brewing, Los Angeles — Sat, 17 Jan 2026
@@ -20,10 +20,9 @@ Bianca Lexis is a house and club artist tracked on soundcheck, with 53 sets logg
 - Northcote Theatre, Melbourne — Sat, 18 Oct 2025
 - public records, New York City — Sat, 18 Oct 2025
 - Cockatoo Island, Sydney — Sat, 11 Oct 2025
-- Sidney Myer Music Bowl, Melbourne — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Juan Izguerra, Goddollars, 1tbsp
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*

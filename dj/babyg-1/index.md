@@ -1,6 +1,6 @@
 # Baby G
 
-Baby G is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Milneys, Melbourne on Sat, 15 Aug 2026.
+Baby G is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Milneys, Melbourne on Sat, 15 Aug 2026.
 
 Baby G is a house and techno artist based in Australia, tracked on soundcheck, with 46 sets logged across Hobart, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Bertie, Afrodisiac and DAWS. Next up: Milneys, Melbourne on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Baby G is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Bertie, Afrodisiac, DAWS
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*

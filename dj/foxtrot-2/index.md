@@ -1,6 +1,6 @@
 # Foxtrot (2)
 
-Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OHM Town, Nantes on Sat, 29 Aug 2026.
+Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OHM Town, Nantes on Sat, 29 Aug 2026.
 
 Foxtrot (2) is a techno and dub techno artist tracked on soundcheck, with 7 sets logged across Auckland, London, Nantes and Sydney. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: OHM Town, Nantes on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Foxtrot (2) is a techno and dub techno artist tracked on soundcheck, with 7 sets
 
 Caru (NZ), Clay Louis, Peach Milk
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*

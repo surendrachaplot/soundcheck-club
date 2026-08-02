@@ -1,6 +1,6 @@
 # candice a.m
 
-candice a.m is a Dub and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hayling Island, London on Sun, 2 Aug 2026.
+candice a.m is a Dub and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hayling Island, London on Sun, 2 Aug 2026.
 
 candice a.m is a dub and uk funky artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside DJ-CK, Bryan By Day and Ed Goes Steady. Next up: Hayling Island, London on Sun 2 Aug.
 
@@ -21,4 +21,4 @@ candice a.m is a dub and uk funky artist based in United Kingdom, tracked on sou
 
 DJ-CK, Bryan By Day, Ed Goes Steady
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candicea.m/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candicea.m/)*

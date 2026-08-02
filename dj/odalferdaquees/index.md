@@ -1,6 +1,6 @@
 # Odalfer Daquees
 
-Odalfer Daquees is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Los Angeles on Sun, 16 Aug 2026.
+Odalfer Daquees is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Los Angeles on Sun, 16 Aug 2026.
 
 Odalfer Daquees is an acid and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Drew Holly, Musashi and Jeronimo Watson. Next up: TBA, Losangeles on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Odalfer Daquees is an acid and electronica artist based in United States of Amer
 
 Drew Holly, Musashi, Jeronimo Watson
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odalferdaquees/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odalferdaquees/)*

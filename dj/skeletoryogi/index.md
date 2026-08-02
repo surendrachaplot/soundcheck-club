@@ -1,6 +1,6 @@
 # Skeletor Yogi
 
-Skeletor Yogi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Charlatan, Ghent on Sat, 8 Aug 2026.
+Skeletor Yogi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Charlatan, Ghent on Sat, 8 Aug 2026.
 
 Skeletor Yogi is a techno and trance artist based in Belgium, tracked on soundcheck, with 43 sets logged across Antwerp, Brussels and Ghent. Often billed alongside MOKER, Pete Howl and Lena De Roose. Next up: Charlatan, Ghent on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Skeletor Yogi is a techno and trance artist based in Belgium, tracked on soundch
 
 MOKER, Pete Howl, Lena De Roose
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletoryogi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletoryogi/)*

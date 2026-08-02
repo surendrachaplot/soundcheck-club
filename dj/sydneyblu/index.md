@@ -1,6 +1,6 @@
 # Sydney Blu
 
-Sydney Blu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
+Sydney Blu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
 
 Sydney Blu is a house and tech house artist based in Canada, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 9 more. Often billed alongside SHERA, Videri and Alley Kay. Next up: Kater, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sydney Blu is a house and tech house artist based in Canada, tracked on soundche
 
 SHERA, Videri, Alley Kay
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*

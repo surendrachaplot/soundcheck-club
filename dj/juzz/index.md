@@ -1,6 +1,6 @@
 # Juzz
 
-Juzz is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Juzz is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Juzz is a minimal techno and deep house artist tracked on soundcheck, with 19 sets logged across Zurich. Often billed alongside Benosah, Flavio (CH) and Tajara. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Juzz is a minimal techno and deep house artist tracked on soundcheck, with 19 se
 
 Benosah, Flavio (CH), Tajara
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juzz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juzz/)*

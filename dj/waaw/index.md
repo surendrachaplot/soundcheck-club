@@ -1,6 +1,6 @@
 # WAAW
 
-WAAW is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
+WAAW is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
 
 WAAW is a house and dancehall artist tracked on soundcheck, with 46 sets logged across London. Often billed alongside Ab.Diablo, VIRI$$ and RAAANDY. Next up: Ormside Projects, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ WAAW is a house and dancehall artist tracked on soundcheck, with 46 sets logged 
 
 Ab.Diablo, VIRI$$, RAAANDY
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waaw/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waaw/)*

@@ -1,19 +1,19 @@
 # Colored Craig
 
-Colored Craig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
+Colored Craig is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Doka, Amsterdam on Sat, 5 Sept 2026.
 
-Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Ashley Younniä and BAE BAE. Next up: TBA - 3rd & Ontario, Vancouver on Sat 1 Aug.
+Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Ashley Younniä and BAE BAE. Next up: Doka, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - 3rd & Ontario | Vancouver |
 | Sat, 5 Sept 2026 | Doka | Amsterdam |
 | Sat, 26 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |
 
 ## Recently played
 
+- TBA - 3rd & Ontario, Vancouver — Sat, 1 Aug 2026
 - Public Works, San Francisco/Oakland — Fri, 31 Jul 2026
 - BASEMENT, New York City — Sat, 25 Jul 2026
 - Good Room, New York City — Sat, 18 Jul 2026
@@ -21,10 +21,9 @@ Colored Craig is a house and techno artist based in United States of America, tr
 - House of Yes, New York City — Sat, 20 Jun 2026
 - Signal, New York City — Sun, 26 Apr 2026
 - public records, New York City — Sat, 18 Apr 2026
-- Nowadays, New York City — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Kilopatrah Jones, Ashley Younniä, BAE BAE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*

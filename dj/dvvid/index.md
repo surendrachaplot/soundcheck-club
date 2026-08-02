@@ -1,6 +1,6 @@
 # DVViD
 
-DVViD is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
+DVViD is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
 
 DVViD is a deep house and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Losangeles. Often billed alongside Andrey Pushkarev and Taimur. Next up: TBA - Downtown LA, Losangeles on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ DVViD is a deep house and techno artist based in United States of America, track
 
 Andrey Pushkarev, Taimur
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvvid/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvvid/)*

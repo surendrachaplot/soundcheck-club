@@ -1,8 +1,8 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
+DRUMSHEDS is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
 
-DRUMSHEDS is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 2ManyDJs, 6 SENSE, Alan Braxe and Alexis Taylor and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
+DRUMSHEDS is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 2ManyDJs, 6 SENSE, Alan Braxe and Alexis Taylor and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
 ## What's on
 
@@ -15,9 +15,10 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 7 upcoming nights, wi
 | Sat, 10 Oct 2026 | Bugged Out! 2001 & On | 2ManyDJs, Alan Braxe, Alexis Taylor, DJ F16 Falcon, Dave Clarke, Erol Alkan, Etienne De Crecy, FC Kahuna, Fall Forward, Felix Da Housecat, Friendly Fires, Heidi, Joe Goddard, Leftfield, Lou Hayter, MEERA (UK), Miss Kittin, Myd, New Young Pony Club, SebastiAn, Simian Mobile Disco, Tatyana Jane, The Avalanches, The Hacker |
 | Fri, 23 Oct 2026 | Terminal V London | 6 SENSE, Cara Elizabeth, DJ Cringey, Helena Lauwaert, Holy Priest, Juicy Romance, KLOUD, LAUZ, Laure Croft, Lola Cerise, MARIEEEA, Nikolina, Onlynumbers, Pablo Bozzi |
 | Sat, 24 Oct 2026 | False Idols w/ Kim Petras (live), COBRAH (live), Rose Gray | COBRAH, Joshua James |
+| Sat, 31 Oct 2026 | elrow Horroween Festival |  |
 
 ## Address
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

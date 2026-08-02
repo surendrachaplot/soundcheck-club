@@ -1,6 +1,6 @@
 # Dimarziio
 
-Dimarziio is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 2 Aug 2026.
+Dimarziio is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 2 Aug 2026.
 
 Dimarziio is a house and electro artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona and Berlin. Often billed alongside Ale Hope, BERNOUT and Crisalide. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Dimarziio is a house and electro artist based in Spain, tracked on soundcheck, w
 
 Ale Hope, BERNOUT, Crisalide
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*

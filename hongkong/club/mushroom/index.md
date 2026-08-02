@@ -1,6 +1,6 @@
 # Mushroom
 
-Mushroom is a music venue in Hong Kong with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "INTO THE VOID" on Sat, 15 Aug 2026.
+Mushroom is a music venue in Hong Kong with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "INTO THE VOID" on Sat, 15 Aug 2026.
 
 Mushroom is a music venue in Hongkong listed on soundcheck. 1 upcoming night, with line-ups including Fischmonger and kimmy6.6.6. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mushroom is a music venue in Hongkong listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | INTO THE VOID | Fischmonger, kimmy6.6.6 |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/mushroom/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/mushroom/)*

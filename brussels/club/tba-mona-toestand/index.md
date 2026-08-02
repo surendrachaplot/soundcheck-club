@@ -1,6 +1,6 @@
 # TBA - Mona (Toestand)
 
-TBA - Mona (Toestand) is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "ATTUNED x BLACK HILL fundraiser for Zone NEUTRE" on Sun, 6 Sept 2026.
+TBA - Mona (Toestand) is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "ATTUNED x BLACK HILL fundraiser for Zone NEUTRE" on Sun, 6 Sept 2026.
 
 TBA - Mona (Toestand) is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Mona (Toestand) is a music venue in Brussels listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | ATTUNED x BLACK HILL fundraiser for Zone NEUTRE |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-mona-toestand/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-mona-toestand/)*

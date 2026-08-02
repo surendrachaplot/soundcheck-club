@@ -1,6 +1,6 @@
 # Mathilda
 
-Mathilda is a Techno and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Mathilda is a Techno and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Mathilda is a techno and breakcore artist based in Finland, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Istanbul and London. Often billed alongside Carluschka, BNZN and ALKARLINE. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Mathilda is a techno and breakcore artist based in Finland, tracked on soundchec
 
 Carluschka, BNZN, ALKARLINE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda/)*

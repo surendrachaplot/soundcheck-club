@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FETISCH" on Sat, 22 Aug 2026.
+Gut Level is a music venue in Sheffield with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "FETISCH" on Sat, 22 Aug 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 6 upcoming nights, with line-ups including Byron Yeates, Chris Jackson, FM Arlo and HausKlown and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -19,4 +19,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 6 upcoming nights,
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

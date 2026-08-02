@@ -1,6 +1,6 @@
 # Immy
 
-Immy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
+Immy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
 
 Immy is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: SAGE, Berlin on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Immy is a house and techno artist tracked on soundcheck, with 98 sets logged acr
 
 Triqi, DJ NORTHERN, Jana Falcon
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*

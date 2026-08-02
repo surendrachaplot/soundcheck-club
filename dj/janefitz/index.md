@@ -1,6 +1,6 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Jane Fitz is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 Jane Fitz is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ Jane Fitz is a techno and house artist tracked on soundcheck, with 166 sets logg
 
 Marco Shuttle, Francesco Del Garda, DJ Nobu
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

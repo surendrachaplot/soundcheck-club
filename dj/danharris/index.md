@@ -1,6 +1,6 @@
 # Dan Harris
 
-Dan Harris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ikii, Berlin on Wed, 5 Aug 2026.
+Dan Harris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ikii, Berlin on Wed, 5 Aug 2026.
 
 Dan Harris is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Bali, Berlin and Sanfrancisco. Often billed alongside Vio PRG, Aceedo and Adis Is OK. Next up: Ikii, Berlin on Wed 5 Aug.
 
@@ -21,4 +21,4 @@ Dan Harris is a house and techno artist based in United States of America, track
 
 Vio PRG, Aceedo, Adis Is OK
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danharris/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danharris/)*

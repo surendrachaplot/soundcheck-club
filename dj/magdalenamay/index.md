@@ -1,6 +1,6 @@
 # MAGDALENA MAY
 
-MAGDALENA MAY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OST, Berlin on Fri, 14 Aug 2026.
+MAGDALENA MAY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OST, Berlin on Fri, 14 Aug 2026.
 
 MAGDALENA MAY is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Basel, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside TIKOA, M21SIX and Alina Viktoria. Next up: OST, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ MAGDALENA MAY is a techno and house artist based in Germany, tracked on soundche
 
 TIKOA, M21SIX, Alina Viktoria
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalenamay/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalenamay/)*

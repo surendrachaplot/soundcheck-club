@@ -1,6 +1,6 @@
 # DEEPFAKE
 
-DEEPFAKE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+DEEPFAKE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 DEEPFAKE is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Austin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside RAEDY LEX, Drop Catch and Gene Farris. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DEEPFAKE is a techno and house artist based in United States of America, tracked
 
 RAEDY LEX, Drop Catch, Gene Farris
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfake/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfake/)*

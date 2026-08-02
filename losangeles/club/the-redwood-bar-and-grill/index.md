@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 29 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Midnite Lustura" on Sat, 1 Aug 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 28 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Wax Owls" on Sun, 2 Aug 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 29 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 28 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Midnite Lustura |  |
 | Sun, 2 Aug 2026 | Wax Owls |  |
 | Tue, 4 Aug 2026 | Hoaxed |  |
 | Wed, 5 Aug 2026 | Grey Delisle & the Blue Ribbon Boys |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 2
 | Sat, 8 Aug 2026 | Bats in the Belfry |  |
 | Sun, 9 Aug 2026 | International Pop Overthrow |  |
 | Mon, 10 Aug 2026 | International Pop Overthrow |  |
+| Tue, 11 Aug 2026 | International Pop Overthrow |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

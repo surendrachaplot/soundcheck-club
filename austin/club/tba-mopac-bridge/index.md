@@ -1,6 +1,6 @@
 # TBA - Mopac Bridge
 
-TBA - Mopac Bridge is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Bridge Party" on Fri, 7 Aug 2026.
+TBA - Mopac Bridge is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Bridge Party" on Fri, 7 Aug 2026.
 
 TBA - Mopac Bridge is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Yaros. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Mopac Bridge is a music venue in Austin listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Bridge Party | Yaros |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-mopac-bridge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-mopac-bridge/)*

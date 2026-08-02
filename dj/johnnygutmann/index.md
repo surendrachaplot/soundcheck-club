@@ -1,6 +1,6 @@
 # Johnny Gutmann
 
-Johnny Gutmann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
+Johnny Gutmann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
 
 Johnny Gutmann is a techno and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Coyo (Berlin), MKLY and Monika Punanski. Next up: Beate Uwe, Berlin on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Johnny Gutmann is a techno and house artist tracked on soundcheck, with 6 sets l
 
 Coyo (Berlin), MKLY, Monika Punanski
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnygutmann/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnygutmann/)*

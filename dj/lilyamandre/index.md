@@ -1,6 +1,6 @@
 # Lilya Mandre
 
-Lilya Mandre is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 2 Aug 2026.
+Lilya Mandre is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 2 Aug 2026.
 
 Lilya Mandre is a house and afro house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 10 more. Often billed alongside Black Coffee, Paul Reynolds and Damian Lazarus. Next up: Kiesgrube, Dusseldorf on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Lilya Mandre is a house and afro house artist tracked on soundcheck, with 26 set
 
 Black Coffee, Paul Reynolds, Damian Lazarus
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*

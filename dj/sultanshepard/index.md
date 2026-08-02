@@ -1,6 +1,6 @@
 # Sultan + Shepard
 
-Sultan + Shepard is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Sultan + Shepard is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Sultan + Shepard are a house and progressive house duo based in Canada, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Belfast and Brisbane and 16 more. Often billed alongside Lane 8, Le Youth and EMBRZ (IE). Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Sultan + Shepard are a house and progressive house duo based in Canada, tracked 
 
 Lane 8, Le Youth, EMBRZ (IE)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sultanshepard/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sultanshepard/)*

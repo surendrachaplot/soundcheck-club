@@ -1,6 +1,6 @@
 # Evil
 
-Evil is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Socore Factory, Osaka on Thu, 17 Sept 2026.
+Evil is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Socore Factory, Osaka on Thu, 17 Sept 2026.
 
 Evil is an electronic artist based in Nepal, tracked on soundcheck, with 1 set logged across Osaka. Often billed alongside Century. Next up: Socore Factory, Osaka on Thu 17 Sept.
 
@@ -14,4 +14,4 @@ Evil is an electronic artist based in Nepal, tracked on soundcheck, with 1 set l
 
 Century
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evil/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evil/)*

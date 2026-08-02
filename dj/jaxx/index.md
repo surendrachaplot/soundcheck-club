@@ -1,6 +1,6 @@
 # Jaxx
 
-Jaxx is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+Jaxx is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 Jaxx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Chicago, Mexicocity and Sydney. Often billed alongside Ariel Zetina, Miss Twink USA and Ana Armada. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ Jaxx is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Ariel Zetina, Miss Twink USA, Ana Armada
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*

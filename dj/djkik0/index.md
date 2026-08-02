@@ -1,6 +1,6 @@
 # DJ KIK0
 
-DJ KIK0 is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery N17, London on Fri, 7 Aug 2026.
+DJ KIK0 is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery N17, London on Fri, 7 Aug 2026.
 
 DJ KIK0 is a bass and experimental artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside bloodonmybalmains, sky suzuya and Joutema. Next up: Distillery N17, London on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ DJ KIK0 is a bass and experimental artist tracked on soundcheck, with 3 sets log
 
 bloodonmybalmains, sky suzuya, Joutema
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkik0/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkik0/)*

@@ -1,6 +1,6 @@
 # DJ Willy
 
-DJ Willy is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
+DJ Willy is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
 
 DJ Willy is a bass and house artist tracked on soundcheck, with 4 sets logged across Berlin and Vienna. Often billed alongside Der Werther, Elva (2) and Joshua Hammer. Next up: Mucha, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ DJ Willy is a bass and house artist tracked on soundcheck, with 4 sets logged ac
 
 Der Werther, Elva (2), Joshua Hammer
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwilly/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwilly/)*

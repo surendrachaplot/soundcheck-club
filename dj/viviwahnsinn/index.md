@@ -1,6 +1,6 @@
 # Vivi Wahnsinn
 
-Vivi Wahnsinn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Vivi Wahnsinn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Vivi Wahnsinn is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside AGNY, Eszter and LEYLA\ /NOUHEYLA. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Vivi Wahnsinn is a house and techno artist based in Germany, tracked on soundche
 
 AGNY, Eszter, LEYLA\ /NOUHEYLA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viviwahnsinn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viviwahnsinn/)*

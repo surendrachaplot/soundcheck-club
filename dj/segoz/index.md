@@ -1,6 +1,6 @@
 # Segoz
 
-Segoz is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
+Segoz is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
 
 Segoz is a house artist based in France, tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Amine S, Chtak. and DJ Suze. Next up: Mia Mao, Paris on Thu 10 Sept.
 
@@ -18,4 +18,4 @@ Segoz is a house artist based in France, tracked on soundcheck, with 2 sets logg
 
 Amine S, Chtak., DJ Suze
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/segoz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/segoz/)*

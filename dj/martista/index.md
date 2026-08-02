@@ -1,6 +1,6 @@
 # MARTISTA
 
-MARTISTA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 2 Aug 2026.
+MARTISTA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 2 Aug 2026.
 
 MARTISTA is an afro house and house artist tracked on soundcheck, with 71 sets logged across Barcelona. Often billed alongside Marcel BS, Edu Natored (2) and Cucut. Next up: Seaseaclub Barcelona, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ MARTISTA is an afro house and house artist tracked on soundcheck, with 71 sets l
 
 Marcel BS, Edu Natored (2), Cucut
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*

@@ -1,6 +1,6 @@
 # IRON
 
-IRON is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
+IRON is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
 
 IRON is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Seoul and Tokyo. Often billed alongside OCCA, LiaRako and DJ SO. Next up: VENT, Tokyo on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ IRON is a techno and house artist based in Japan, tracked on soundcheck, with 21
 
 OCCA, LiaRako, DJ SO
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iron-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iron-2/)*

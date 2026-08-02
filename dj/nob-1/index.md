@@ -1,6 +1,6 @@
 # NOB (1)
 
-NOB (1) is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
+NOB (1) is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
 NOB (1) is a house and jungle artist based in Japan, tracked on soundcheck, with 8 sets logged across Berlin, Osaka and Tokyo. Often billed alongside Cleymoore, Karuta and Ascalypso. Next up: Renate, Berlin on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ NOB (1) is a house and jungle artist based in Japan, tracked on soundcheck, with
 
 Cleymoore, Karuta, Ascalypso
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nob-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nob-1/)*

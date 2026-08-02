@@ -1,6 +1,6 @@
 # Kutkh Jackdaw
 
-Kutkh Jackdaw is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at radial, London on Fri, 7 Aug 2026.
+Kutkh Jackdaw is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at radial, London on Fri, 7 Aug 2026.
 
 Kutkh Jackdaw is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Brighton, Brussels and London and 1 more. Often billed alongside DSD uk, Acid Carbon and DUKU. Next up: radial, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kutkh Jackdaw is a techno and ebm artist based in United Kingdom, tracked on sou
 
 DSD uk, Acid Carbon, DUKU
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kutkhjackdaw/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kutkhjackdaw/)*

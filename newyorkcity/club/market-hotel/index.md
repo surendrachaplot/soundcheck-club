@@ -1,14 +1,13 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "THE RECESSION POP PARTY! PARTY LIKE IT'S 2008" on Sat, 1 Aug 2026.
+Market Hotel is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "JB vs 1D: JUSTIN BIEBER & ONE DIRECTION PARTY" on Sat, 8 Aug 2026.
 
-Market Hotel is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
+Market Hotel is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | THE RECESSION POP PARTY! PARTY LIKE IT'S 2008 |  |
 | Sat, 8 Aug 2026 | JB vs 1D: JUSTIN BIEBER & ONE DIRECTION PARTY |  |
 | Sat, 15 Aug 2026 | GOTHIQUE HOTEL: GOTH, DARKWAVE, NEWWAVE, POSTPUNK PARTY |  |
 
@@ -16,4 +15,4 @@ Market Hotel is a music venue in Newyorkcity listed on soundcheck. 3 upcoming ni
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

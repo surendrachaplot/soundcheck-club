@@ -1,6 +1,6 @@
 # Refuge Worldwide / Niemetzstraße
 
-Refuge Worldwide / Niemetzstraße is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Herzel at Refuge Worldwide" on Fri, 14 Aug 2026.
+Refuge Worldwide / Niemetzstraße is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Herzel at Refuge Worldwide" on Fri, 14 Aug 2026.
 
 Refuge Worldwide / Niemetzstraße is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Herzel. Browse upcoming dates, start times and who's playing. Niemetzstraße 1, 12055 Berlin.
 
@@ -14,4 +14,4 @@ Refuge Worldwide / Niemetzstraße is a music venue in Berlin listed on soundchec
 
 Niemetzstraße 1, 12055 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/refuge-worldwide-niemetzstra-e/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/refuge-worldwide-niemetzstra-e/)*

@@ -1,6 +1,6 @@
 # ONO (3)
 
-ONO (3) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Socore Factory, Osaka on Mon, 10 Aug 2026.
+ONO (3) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Socore Factory, Osaka on Mon, 10 Aug 2026.
 
 ONO (3) is a techno and minimal artist based in Japan, tracked on soundcheck, with 32 sets logged across Montreal, Osaka and Tokyo. Often billed alongside Shingo, VIDEOBOY and Kohei. Next up: Socore Factory, Osaka on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ ONO (3) is a techno and minimal artist based in Japan, tracked on soundcheck, wi
 
 Shingo, VIDEOBOY, Kohei
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*

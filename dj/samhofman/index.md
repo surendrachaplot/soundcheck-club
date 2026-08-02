@@ -1,8 +1,8 @@
 # Sam Hofman
 
-Sam Hofman is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at La Terrrazza, Barcelona on Thu, 13 Aug 2026.
+Sam Hofman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Terrrazza, Barcelona on Thu, 13 Aug 2026.
 
-Sam Hofman is a house and trance artist tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Fiene and Rozie. Next up: La Terrrazza, Barcelona on Thu 13 Aug.
+Sam Hofman is a house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and DAF. Next up: La Terrrazza, Barcelona on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sam Hofman is a house and trance artist tracked on soundcheck, with 6 sets logge
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | La Terrrazza | Barcelona |
 | Sun, 6 Sept 2026 | Boomerang Beach | The Hague |
+| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Sam Hofman is a house and trance artist tracked on soundcheck, with 6 sets logge
 
 ## Shares bills with
 
-Benny Rodrigues, Fiene, Rozie
+Benny Rodrigues, AUTOFLOWER, DAF
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*

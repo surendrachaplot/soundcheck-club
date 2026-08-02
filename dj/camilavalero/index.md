@@ -1,6 +1,6 @@
 # Camila Valero
 
-Camila Valero is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
+Camila Valero is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
 
 Camila Valero is a house and electronica artist based in Mexico, tracked on soundcheck, with 23 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside GOLDEN PINEAPPLE, AGSULO and Barreto. Next up: Dead Letter No. 9, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Camila Valero is a house and electronica artist based in Mexico, tracked on soun
 
 GOLDEN PINEAPPLE, AGSULO, Barreto
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilavalero/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilavalero/)*

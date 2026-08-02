@@ -1,14 +1,13 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+DJ GUESTLIST is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
-DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
+DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Peißnitzinsel Halle | Leipzig |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Sat, 8 Aug 2026 | Schrotty | Cologne |
 | Fri, 28 Aug 2026 | Lokschuppen Berlin | Berlin |
@@ -20,6 +19,7 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets 
 
 ## Recently played
 
+- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
 - Lehmann Club, Stuttgart — Fri, 24 Jul 2026
 - E1, London — Fri, 17 Jul 2026
 - Tanzhaus West, Frankfurt — Fri, 3 Jul 2026
@@ -27,10 +27,9 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets 
 - TBA - Tägi Wettingen, Zurich — Sat, 23 May 2026
 - RSO.BERLIN, Berlin — Sat, 16 May 2026
 - Le point fort d'Aubervilliers, Paris — Sat, 16 May 2026
-- Uebel & Gefährlich, Hamburg — Fri, 8 May 2026
 
 ## Shares bills with
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

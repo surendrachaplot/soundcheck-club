@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Else, Berlin on Sat, 1 Aug 2026.
+Freddy K is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at FOLD, London on Fri, 7 Aug 2026.
 
-Freddy K is a techno and house artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: Else, Berlin on Sat 1 Aug.
+Freddy K is a techno and house artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: FOLD, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Else | Berlin |
 | Fri, 7 Aug 2026 | FOLD | London |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
@@ -20,9 +19,11 @@ Freddy K is a techno and house artist tracked on soundcheck, with 269 sets logge
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
+- Else, Berlin — Sat, 1 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - The Yard, Manchester — Sat, 25 Jul 2026
 - Forte Antenne, Rome — Fri, 24 Jul 2026
@@ -30,10 +31,9 @@ Freddy K is a techno and house artist tracked on soundcheck, with 269 sets logge
 - Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
 - Lehmann Club, Stuttgart — Sat, 4 Jul 2026
 - essaim, Paris — Fri, 3 Jul 2026
-- Altrove, Milan — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Alarico, Blasha & Allatt, Chlär
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

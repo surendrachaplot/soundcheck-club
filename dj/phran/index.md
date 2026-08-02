@@ -1,6 +1,6 @@
 # Phran
 
-Phran is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Sucre, Lyon on Sat, 8 Aug 2026.
+Phran is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Sat, 8 Aug 2026.
 
 Phran is an experimental and house artist based in Venezuela, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Copenhagen and Dusseldorf and 3 more. Often billed alongside Chica Acosta, Dengue Dengue Dengue and EYRA. Next up: Le Sucre, Lyon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Phran is an experimental and house artist based in Venezuela, tracked on soundch
 
 Chica Acosta, Dengue Dengue Dengue, EYRA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phran/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phran/)*

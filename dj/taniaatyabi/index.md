@@ -1,14 +1,15 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Greyhound, London on Fri, 7 Aug 2026.
+Tania Atyabi is a Electro and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Greyhound, London on Fri, 7 Aug 2026.
 
-Tania Atyabi is an electro and disco artist tracked on soundcheck, with 22 sets logged across London and Manchester. Often billed alongside Medallion Man, YouYou (2) and ARA-U. Next up: The Greyhound, London on Fri 7 Aug.
+Tania Atyabi is an electro and disco artist tracked on soundcheck, with 23 sets logged across London and Manchester. Often billed alongside Medallion Man, YouYou (2) and ARA-U. Next up: The Greyhound, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Greyhound | London |
+| Sat, 31 Oct 2026 | The Glove That Fits | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tania Atyabi is an electro and disco artist tracked on soundcheck, with 22 sets 
 
 Medallion Man, YouYou (2), ARA-U
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*

@@ -1,6 +1,6 @@
 # Kertsman
 
-Kertsman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bastian Beach Club, Barcelona on Sun, 16 Aug 2026.
+Kertsman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bastian Beach Club, Barcelona on Sun, 16 Aug 2026.
 
 Kertsman is a house and deep house artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Zadiraka, Sasha Kohana and Tanya Andros. Next up: Bastian Beach Club, Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Kertsman is a house and deep house artist tracked on soundcheck, with 10 sets lo
 
 Zadiraka, Sasha Kohana, Tanya Andros
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kertsman/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kertsman/)*

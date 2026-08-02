@@ -1,6 +1,6 @@
 # Cesar Merveille
 
-Cesar Merveille is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
+Cesar Merveille is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
 
 Cesar Merveille is a house and minimal artist tracked on soundcheck, with 69 sets logged across Berlin, Brussels, Bucharest and Detroit and 14 more. Often billed alongside Clovis, Viken Arman and VIZARE Live. Next up: Green Room NYC, Newyorkcity on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Cesar Merveille is a house and minimal artist tracked on soundcheck, with 69 set
 
 Clovis, Viken Arman, VIZARE Live
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*

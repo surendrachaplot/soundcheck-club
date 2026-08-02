@@ -1,6 +1,6 @@
 # Satoshi Matsui
 
-Satoshi Matsui is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Red Bar, Tokyo on Sun, 2 Aug 2026.
+Satoshi Matsui is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Red Bar, Tokyo on Sun, 2 Aug 2026.
 
 Satoshi Matsui is a house and techno artist based in Japan, tracked on soundcheck, with 78 sets logged across Tokyo. Often billed alongside Kengo, Kaory and Yonenaga. Next up: Red Bar, Tokyo on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Satoshi Matsui is a house and techno artist based in Japan, tracked on soundchec
 
 Kengo, Kaory, Yonenaga
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshimatsui/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshimatsui/)*

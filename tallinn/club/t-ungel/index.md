@@ -1,14 +1,13 @@
 # Tšungel
 
-Tšungel is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Healer Records: Katja Adrikova / Kiimsask / Squash" on Sat, 1 Aug 2026.
+Tšungel is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "klmn" on Thu, 6 Aug 2026.
 
-Tšungel is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, with line-ups including Charch, Fedo (UA), Katja Adrikova and klmn and 2 more. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
+Tšungel is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with line-ups including Charch, Fedo (UA), klmn and Micaela Saraceno and 1 more. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Healer Records: Katja Adrikova / Kiimsask / Squash | Katja Adrikova, Squash |
 | Thu, 6 Aug 2026 | klmn | klmn |
 | Fri, 7 Aug 2026 | micaxsan Summer Fiesta | Micaela Saraceno |
 | Sat, 8 Aug 2026 | FEDO (Tripsy/Samm) | Fedo (UA) |
@@ -19,4 +18,4 @@ Tšungel is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, wi
 
 Kopli 1, Tallinn, 10412, Harjumaa, Estonia, Tallinn
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*

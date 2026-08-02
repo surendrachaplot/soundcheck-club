@@ -1,22 +1,22 @@
 # SWAG DO COMPLEXO
 
-SWAG DO COMPLEXO is a Baile Funk and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tendinha dos Clérigos, Porto on Sat, 1 Aug 2026.
+SWAG DO COMPLEXO is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Virage, Paris on Sat, 15 Aug 2026.
 
-SWAG DO COMPLEXO is a baile funk and afrobeats artist based in Brazil, tracked on soundcheck, with 3 sets logged across Amsterdam, Paris and Porto. Often billed alongside KBRAL and S4DO. Next up: Tendinha dos Clérigos, Porto on Sat 1 Aug.
+SWAG DO COMPLEXO is a baile funk and afrobeats artist based in Brazil, tracked on soundcheck, with 3 sets logged across Amsterdam, Paris and Porto. Often billed alongside KBRAL and S4DO. Next up: Virage, Paris on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Tendinha dos Clérigos | Porto |
 | Sat, 15 Aug 2026 | Virage | Paris |
 
 ## Recently played
 
+- Tendinha dos Clérigos, Porto — Sat, 1 Aug 2026
 - Parallel, Amsterdam — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 KBRAL, S4DO
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swagdocomplexo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swagdocomplexo/)*

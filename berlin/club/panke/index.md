@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "KOSMO KULTUR ONE DAY MUSIC FEST" on Sat, 1 Aug 2026.
+Panke is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is ">>Who got da Props?!?<< - Open Mic with DJ BOOM BAP" on Wed, 5 Aug 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ALEX WANG, Assyouti, bela and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -8,7 +8,7 @@ Panke is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | KOSMO KULTUR ONE DAY MUSIC FEST |  |
+| Wed, 5 Aug 2026 | >>Who got da Props?!?<< - Open Mic with DJ BOOM BAP |  |
 | Fri, 7 Aug 2026 | CALENTURA VINYL ALL STARS Vol. 2 | PAULAH, Simón JaVa, eÑe (1) |
 | Sat, 8 Aug 2026 | EEE | ALEX WANG, Assyouti, Kilo Vee, Ziúr, bela |
 | Thu, 13 Aug 2026 | LA MONA SONIC EXPLORATION FEST |  |
@@ -21,4 +21,4 @@ Panke is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with l
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

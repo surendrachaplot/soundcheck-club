@@ -1,6 +1,6 @@
 # skyra
 
-skyra is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bassiani, Tbilisi on Fri, 14 Aug 2026.
+skyra is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bassiani, Tbilisi on Fri, 14 Aug 2026.
 
 skyra is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Tallinn and Tbilisi. Often billed alongside Boyá, HVL and Ndrx. Next up: Bassiani, Tbilisi on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ skyra is a house and techno artist tracked on soundcheck, with 91 sets logged ac
 
 Boyá, HVL, Ndrx
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*

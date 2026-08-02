@@ -1,14 +1,13 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Flash, Washington DC on Sat, 1 Aug 2026.
+Nick Curly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Superior Ingredients, New York City on Sun, 2 Aug 2026.
 
-Nick Curly is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Flash, Washingtondc on Sat 1 Aug.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Superior Ingredients, Newyorkcity on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Flash | Washington DC |
 | Sun, 2 Aug 2026 | Superior Ingredients | New York City |
 | Fri, 14 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Sat, 15 Aug 2026 | Gewölbe | Cologne |
@@ -19,6 +18,7 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 107 sets
 
 ## Recently played
 
+- Flash, Washington DC — Sat, 1 Aug 2026
 - Floyd, Miami — Fri, 31 Jul 2026
 - Club Vinyl, Denver — Sat, 25 Jul 2026
 - Loo Loo, Mexico City — Thu, 23 Jul 2026
@@ -26,10 +26,9 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 107 sets
 - Sacré, Paris — Fri, 10 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 9 Jul 2026
 - Manko Athens, Athens — Sun, 5 Jul 2026
-- Safari Disco Club, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Andrew Azara, Easttown, Reboot
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

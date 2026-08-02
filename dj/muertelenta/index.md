@@ -1,6 +1,6 @@
 # Muerte Lenta
 
-Muerte Lenta is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
+Muerte Lenta is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
 
 Muerte Lenta is a techno and ebm artist based in United States of America, tracked on soundcheck, with 33 sets logged across Newyorkcity and Tbilisi. Often billed alongside DREAMINSLOW, DJ Sour and Umfang. Next up: Paragon, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Muerte Lenta is a techno and ebm artist based in United States of America, track
 
 DREAMINSLOW, DJ Sour, Umfang
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muertelenta/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muertelenta/)*

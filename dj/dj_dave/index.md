@@ -1,14 +1,15 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 17 Oct 2026.
+DJ_Dave is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 17 Oct 2026.
 
-DJ_Dave is a techno and electronica artist based in United States of America, tracked on soundcheck, with 23 sets logged across Barcelona, Losangeles, Lyon and Miami and 5 more. Often billed alongside Alice Longyu Gao, B0YG1RL and Ella Warren. Next up: Bar Le Ritz PDB, Montreal on Sat 17 Oct.
+DJ_Dave is a techno and electronica artist based in United States of America, tracked on soundcheck, with 24 sets logged across Barcelona, Boston, Losangeles and Lyon and 6 more. Often billed alongside Alice Longyu Gao, B0YG1RL and Ella Warren. Next up: Bar Le Ritz PDB, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Bar Le Ritz PDB | Montreal |
+| Sat, 31 Oct 2026 | Roadrunner | Boston |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ_Dave is a techno and electronica artist based in United States of America, tr
 
 Alice Longyu Gao, B0YG1RL, Ella Warren
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*

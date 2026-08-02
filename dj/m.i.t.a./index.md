@@ -1,6 +1,6 @@
 # M.I.T.A.
 
-M.I.T.A. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 8 Aug 2026.
+M.I.T.A. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 8 Aug 2026.
 
 M.I.T.A. is a techno and house artist tracked on soundcheck, with 17 sets logged across Barcelona, Cologne, London and Losangeles and 5 more. Often billed alongside SYM, AJ Reyes and ALZU. Next up: Tempio del Futuro Perduto, Milan on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ M.I.T.A. is a techno and house artist tracked on soundcheck, with 17 sets logged
 
 SYM, AJ Reyes, ALZU
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.t.a./)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.t.a./)*

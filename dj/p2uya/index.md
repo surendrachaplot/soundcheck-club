@@ -1,6 +1,6 @@
 # P2UYA
 
-P2UYA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
+P2UYA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
 
 P2UYA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across London. Often billed alongside Nojan, Karillix and Bread & Butter. Next up: Paloma, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ P2UYA is a house and tech house artist based in United Kingdom, tracked on sound
 
 Nojan, Karillix, Bread & Butter
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p2uya/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p2uya/)*

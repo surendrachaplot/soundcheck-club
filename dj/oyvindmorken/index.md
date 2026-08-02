@@ -1,6 +1,6 @@
 # Øyvind Morken
 
-Øyvind Morken is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Jaeger, Oslo on Fri, 7 Aug 2026.
+Øyvind Morken is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Jaeger, Oslo on Fri, 7 Aug 2026.
 
 Øyvind Morken is a house and techno artist tracked on soundcheck, with 132 sets logged across Chicago, London and Oslo. Often billed alongside G-HA, Olanskii and Olefonken. Next up: Jaeger, Oslo on Fri 7 Aug.
 
@@ -26,4 +26,4 @@
 
 G-HA, Olanskii, Olefonken
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyvindmorken/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyvindmorken/)*

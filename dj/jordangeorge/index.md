@@ -1,6 +1,6 @@
 # Jordan George
 
-Jordan George is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Meraki, Liverpool on Sat, 8 Aug 2026.
+Jordan George is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Meraki, Liverpool on Sat, 8 Aug 2026.
 
 Jordan George is a house and electro artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Copenhagen, Dublin, Edinburgh and Liverpool. Often billed alongside Adrian Salcedo, BORLEY and Harrison Heat. Next up: Meraki, Liverpool on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Jordan George is a house and electro artist based in United Kingdom, tracked on 
 
 Adrian Salcedo, BORLEY, Harrison Heat
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*

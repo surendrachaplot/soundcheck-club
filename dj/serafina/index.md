@@ -1,14 +1,13 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Serafina is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Serafina is a techno and trance artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Burgess Park, London on Sat 1 Aug.
+Serafina is a techno and trance artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Burgess Park | London |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,9 +19,11 @@ Serafina is a techno and trance artist tracked on soundcheck, with 156 sets logg
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
+| Sat, 26 Sept 2026 | The Ivy | Sydney |
 
 ## Recently played
 
+- Burgess Park, London — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 21 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ Serafina is a techno and trance artist tracked on soundcheck, with 156 sets logg
 - Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- TBA - Lucky Star Munich, Munich — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

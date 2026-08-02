@@ -1,14 +1,15 @@
 # Judge Jules
 
-Judge Jules is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Limelight, Belfast on Sat, 8 Aug 2026.
+Judge Jules is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Limelight, Belfast on Sat, 8 Aug 2026.
 
-Judge Jules is a house and trance artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Aberdeen, Auckland, Belfast and Birmingham and 14 more. Often billed alongside Seb Fontaine, Mauro Picotto and Jeremy Healy. Next up: The Limelight, Belfast on Sat 8 Aug.
+Judge Jules is a trance and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Aberdeen, Auckland, Belfast and Birmingham and 14 more. Often billed alongside Seb Fontaine, Mauro Picotto and Fergie. Next up: The Limelight, Belfast on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Limelight | Belfast |
+| Sat, 31 Oct 2026 | O2 Academy | Glasgow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Judge Jules is a house and trance artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Seb Fontaine, Mauro Picotto, Jeremy Healy
+Seb Fontaine, Mauro Picotto, Fergie
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*

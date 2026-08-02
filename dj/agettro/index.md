@@ -1,6 +1,6 @@
 # Agettro
 
-Agettro is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 2 Aug 2026.
+Agettro is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 2 Aug 2026.
 
 Agettro is a house and progressive house artist based in Brazil, tracked on soundcheck, with 5 sets logged across Budapest. Often billed alongside Kloos, ANESI and Ben Dover. Next up: Pontoon Budapest, Budapest on Sun 2 Aug.
 
@@ -21,4 +21,4 @@ Agettro is a house and progressive house artist based in Brazil, tracked on soun
 
 Kloos, ANESI, Ben Dover
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agettro/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agettro/)*

@@ -1,6 +1,6 @@
 # Anything But Becky
 
-Anything But Becky is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Trinity Centre, Bristol on Sun, 2 Aug 2026.
+Anything But Becky is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Trinity Centre, Bristol on Sun, 2 Aug 2026.
 
 Anything But Becky is a jungle and footwork artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol, London and Strasbourg. Often billed alongside SLAGGAMUFFIN, AÆE and DJ Stolen. Next up: The Trinity Centre, Bristol on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Anything But Becky is a jungle and footwork artist based in United Kingdom, trac
 
 SLAGGAMUFFIN, AÆE, DJ Stolen
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anythingbutbecky/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anythingbutbecky/)*

@@ -1,6 +1,6 @@
 # Mari Mac Dowell
 
-Mari Mac Dowell is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
+Mari Mac Dowell is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Brooklyn Loft Location <3, New York City on Fri, 14 Aug 2026.
 
 Mari Mac Dowell is a house and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Gaspar Muniz, Justin Strauss and LARISSA JENNINGS. Next up: TBA - Brooklyn Loft Location <3, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mari Mac Dowell is a house and club artist based in United States of America, tr
 
 Gaspar Muniz, Justin Strauss, LARISSA JENNINGS
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marimacdowell/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marimacdowell/)*

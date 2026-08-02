@@ -1,6 +1,6 @@
 # Andree Wischnewski
 
-Andree Wischnewski is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Andree Wischnewski is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Andree Wischnewski is a techno and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Basstronauten, Calypsis and Daniel Boon. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Andree Wischnewski is a techno and tech house artist based in Germany, tracked o
 
 Basstronauten, Calypsis, Daniel Boon
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreewischnewski/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreewischnewski/)*

@@ -1,6 +1,6 @@
 # Dro Carey
 
-Dro Carey is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Vanguard, Sydney on Fri, 21 Aug 2026.
+Dro Carey is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Vanguard, Sydney on Fri, 21 Aug 2026.
 
 Dro Carey is a bass and techno artist tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside 2touch, Anomie and Arsonist. Next up: The Vanguard, Sydney on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Dro Carey is a bass and techno artist tracked on soundcheck, with 4 sets logged 
 
 2touch, Anomie, Arsonist
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drocarey/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drocarey/)*

@@ -1,6 +1,6 @@
 # Lint
 
-Lint is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Midnight Memories: A Fantasy Rave" on Sat, 15 Aug 2026.
+Lint is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Midnight Memories: A Fantasy Rave" on Sat, 15 Aug 2026.
 
 Lint is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1611 S Hope St..
 
@@ -14,4 +14,4 @@ Lint is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Brow
 
 1611 S Hope St., Los Angeles
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/lint/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/lint/)*

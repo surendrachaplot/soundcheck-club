@@ -1,15 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 21 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas" on Sat, 1 Aug 2026.
+Virage is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "More Girls Behind Decks x Le Virage du Mercredi: Bitter Babe, Maco Maria, Mayou Picchu" on Wed, 5 Aug 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 21 upcoming nights, with line-ups including 4000 Hz, abs8lute, aerodynamisme and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Arkhan and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas | DJ MARIA., Polygonia, Toscan Haas, abs8lute |
-| Sat, 1 Aug 2026 | Halfpipe Records Day Party: Ahadadream, Jaguar & more | Ahadadream, Jaguar, Swoush |
 | Wed, 5 Aug 2026 | More Girls Behind Decks x Le Virage du Mercredi: Bitter Babe, Maco Maria, Mayou Picchu | Bitter Babe, Carmen (5), Maco Maria |
 | Fri, 7 Aug 2026 | Virage Présente: Six Sex (live), Linapary, Louise Pétrouchka, Rebequita b2b Vera Moro | Linapary, Louise Pétrouchka, Rebequita, Six Sex, Vera Moro |
 | Sat, 8 Aug 2026 | FLUID: Frederic., FJUSHA, Florian Picasso b2b BISOUX, Serō | BISOUX, FJUSHA, Florian Picasso, Frederic., Serō |
@@ -18,9 +16,11 @@ Virage is a music venue in Paris listed on soundcheck. 21 upcoming nights, with 
 | Fri, 14 Aug 2026 | DISORDER: Estella Boersma, DJ SEXSTASY, CVNSUMED, Ey.rah & MORE | Arkhan, CVNSUMED, DJ SEXSTASY, Estella Boersma, Ey.rah, Raven, Salomé DV |
 | Sat, 15 Aug 2026 | FERVO FLUXO 5TH BIRTHDAY | KBRAL, SWAG DO COMPLEXO |
 | Wed, 19 Aug 2026 | DISMAL? & SCHLACHTAUS: Tarkno, ARRABIATA B2B LYMSA | Tarkno |
+| Fri, 21 Aug 2026 | RITMO FATALE: The Hacker b2b Andi, Kendal, Jordan Nocturne, RAG | Andi, Jordan Nocturne, Kendal, RAG, The Hacker |
+| Sat, 22 Aug 2026 | GALOP GALOP: Afem Syko, Cara Elizabeth, SATYS FYRE | Afem Syko, Aureb, Cara Elizabeth, SATYS FYRE |
 
 ## Address
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

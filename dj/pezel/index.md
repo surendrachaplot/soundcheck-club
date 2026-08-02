@@ -1,6 +1,6 @@
 # pezel
 
-pezel is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+pezel is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 pezel is a techno and electronica artist tracked on soundcheck, with 28 sets logged across Vienna. Often billed alongside PAUNA, Dcascallana and Angiko (2). Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ pezel is a techno and electronica artist tracked on soundcheck, with 28 sets log
 
 PAUNA, Dcascallana, Angiko (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pezel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pezel/)*

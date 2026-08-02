@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Chin Chin - im Zauberwald" on Fri, 28 Aug 2026.
+Garagen is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Chin Chin - im Zauberwald" on Fri, 28 Aug 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including Egyptian Lover, ENNA, LUZIA and MARRED. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -15,4 +15,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 2 upcoming nights, wit
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

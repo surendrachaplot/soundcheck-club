@@ -1,6 +1,6 @@
 # Primordial Om
 
-Primordial Om is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+Primordial Om is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 Primordial Om is a latin bass and club artist based in Mexico, tracked on soundcheck, with 33 sets logged across Mexicocity. Often billed alongside Dj Diego (1), Dj Rankng and Phanta. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Primordial Om is a latin bass and club artist based in Mexico, tracked on soundc
 
 Dj Diego (1), Dj Rankng, Phanta
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/primordialom/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/primordialom/)*

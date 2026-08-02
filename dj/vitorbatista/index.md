@@ -1,6 +1,6 @@
 # Vitor Batista
 
-Vitor Batista is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 5A, Lisbon on Sat, 8 Aug 2026.
+Vitor Batista is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 5A, Lisbon on Sat, 8 Aug 2026.
 
 Vitor Batista is an electronica and techno artist based in Portugal, tracked on soundcheck, with 12 sets logged across Lisbon. Often billed alongside Schlingen, Diana Oliveira and Gear. Next up: 5A, Lisbon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Vitor Batista is an electronica and techno artist based in Portugal, tracked on 
 
 Schlingen, Diana Oliveira, Gear
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorbatista/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorbatista/)*

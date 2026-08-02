@@ -1,6 +1,6 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
+Lindsey Herbert is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
 
 Lindsey Herbert is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 106 set
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

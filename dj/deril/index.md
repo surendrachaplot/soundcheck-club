@@ -1,6 +1,6 @@
 # Deril
 
-Deril is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Culture Box, Copenhagen on Sat, 26 Sept 2026.
+Deril is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Culture Box, Copenhagen on Sat, 26 Sept 2026.
 
 Deril is a techno and trance artist based in Denmark, tracked on soundcheck, with 19 sets logged across Copenhagen and Oslo. Often billed alongside Kate Miao, SORT SIND and Aydin Imani. Next up: Culture Box, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Deril is a techno and trance artist based in Denmark, tracked on soundcheck, wit
 
 Kate Miao, SORT SIND, Aydin Imani
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deril/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deril/)*

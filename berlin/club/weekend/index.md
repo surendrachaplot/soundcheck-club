@@ -1,14 +1,13 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "OFFLINE – DISCONNECT TO FEEL" on Sat, 1 Aug 2026.
+Weekend is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "WKND X STUCK IN SPACE" on Fri, 7 Aug 2026.
 
-Weekend is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alex Gallus, BOHO, Dennis Beutler and Denno Matini and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
+Weekend is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Alex Gallus, BOHO, Dennis Beutler and Denno Matini and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | OFFLINE – DISCONNECT TO FEEL | DJ PayPaul, ERKU, Elisa Elisa, FORTUNATA |
 | Fri, 7 Aug 2026 | WKND X STUCK IN SPACE | Enis Asfah |
 | Fri, 21 Aug 2026 | WKND X OPERATOR | Dennis Beutler |
 | Fri, 28 Aug 2026 | WKND X USHA BERLIN | Denno Matini |
@@ -23,4 +22,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 10 upcoming nights, wit
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

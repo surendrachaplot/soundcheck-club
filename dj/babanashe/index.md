@@ -1,6 +1,6 @@
 # BABANASHE
 
-BABANASHE is a Amapiano and Gqom artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Section 8, Melbourne on Sat, 8 Aug 2026.
+BABANASHE is a Amapiano and Gqom artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Section 8, Melbourne on Sat, 8 Aug 2026.
 
 BABANASHE is an amapiano and gqom artist based in Zimbabwe, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside KALI (AU). Next up: Section 8, Melbourne on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ BABANASHE is an amapiano and gqom artist based in Zimbabwe, tracked on soundchec
 
 KALI (AU)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babanashe/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babanashe/)*

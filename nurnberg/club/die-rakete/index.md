@@ -1,14 +1,13 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "NASTY pres The Reason Y" on Sat, 1 Aug 2026.
+Die Rakete is a music venue in Nürnberg with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Jukal" on Fri, 7 Aug 2026.
 
-Die Rakete is a music venue in Nurnberg listed on soundcheck. 7 upcoming nights, with line-ups including Bernhard Groeger, Felix Kröcher, Lena Brysch and Return Fall and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
+Die Rakete is a music venue in Nurnberg listed on soundcheck. 6 upcoming nights, with line-ups including Felix Kröcher, Lena Brysch, Return Fall and Rishka. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | NASTY pres The Reason Y | Bernhard Groeger, The Reason Y |
 | Fri, 7 Aug 2026 | Jukal |  |
 | Sat, 8 Aug 2026 | CSD OFFICIAL NBG PRIDE AFTERPARTY – TOGETHER |  |
 | Fri, 21 Aug 2026 | Raw Frequencies mit George Radsport | Rishka |
@@ -20,4 +19,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 7 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

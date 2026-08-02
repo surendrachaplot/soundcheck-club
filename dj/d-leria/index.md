@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OIL Club, Shenzhen on Sat, 29 Aug 2026.
+D-Leria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OIL Club, Shenzhen on Sat, 29 Aug 2026.
 
 D-Leria is a techno and house artist based in Italy, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: OIL Club, Shenzhen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ D-Leria is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

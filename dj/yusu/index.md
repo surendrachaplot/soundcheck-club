@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Yu Su is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Yu Su is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Barcelona and 42 more. Often billed alongside DJ Python, Paula Tape and Alex Kassian. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Yu Su is a house and techno artist tracked on soundcheck, with 136 sets logged a
 
 DJ Python, Paula Tape, Alex Kassian
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

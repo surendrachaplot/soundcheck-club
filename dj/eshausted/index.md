@@ -1,6 +1,6 @@
 # ESHAUSTED
 
-ESHAUSTED is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
+ESHAUSTED is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
 
 ESHAUSTED is a trance and techno artist based in Indonesia, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside DJ YARAK, EliaHaze and AbuGlitsch. Next up: Locke, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ESHAUSTED is a trance and techno artist based in Indonesia, tracked on soundchec
 
 DJ YARAK, EliaHaze, AbuGlitsch
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eshausted/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eshausted/)*

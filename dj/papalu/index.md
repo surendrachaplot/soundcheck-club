@@ -1,6 +1,6 @@
 # Papa Lu
 
-Papa Lu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Signal, New York City on Sat, 15 Aug 2026.
+Papa Lu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Signal, New York City on Sat, 15 Aug 2026.
 
 Papa Lu is a house and tech house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco and 1 more. Often billed alongside Jimmy B, Galen and Thee Mike B. Next up: Signal, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Papa Lu is a house and tech house artist based in United States of America, trac
 
 Jimmy B, Galen, Thee Mike B
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papalu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papalu/)*

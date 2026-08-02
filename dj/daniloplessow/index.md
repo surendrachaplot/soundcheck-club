@@ -1,6 +1,6 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
+Danilo Plessow is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
 
 Danilo Plessow is a house and disco artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: La Terrrazza, Barcelona on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 160 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

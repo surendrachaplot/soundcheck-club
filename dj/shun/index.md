@@ -1,6 +1,6 @@
 # Shun
 
-Shun is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Decabar Super, Tokyo on Sat, 15 Aug 2026.
+Shun is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Decabar Super, Tokyo on Sat, 15 Aug 2026.
 
 Shun is a techno and electro artist based in Japan, tracked on soundcheck, with 20 sets logged across Amsterdam, Osaka, Shenzhen and Tokyo. Often billed alongside Kanse, RYOOKY and Dihi. Next up: Decabar Super, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Shun is a techno and electro artist based in Japan, tracked on soundcheck, with 
 
 Kanse, RYOOKY, Dihi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shun/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shun/)*

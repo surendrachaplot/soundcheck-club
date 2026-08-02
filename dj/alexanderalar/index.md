@@ -1,6 +1,6 @@
 # Alexander ALAR
 
-Alexander ALAR is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun, 2 Aug 2026.
+Alexander ALAR is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun, 2 Aug 2026.
 
 Alexander ALAR is a house and tech house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Istanbul and Sanfrancisco. Often billed alongside Alexandr Grecov, Anna Belove and Misha Svirid. Next up: TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Alexander ALAR is a house and tech house artist based in Ukraine, tracked on sou
 
 Alexandr Grecov, Anna Belove, Misha Svirid
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderalar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderalar/)*

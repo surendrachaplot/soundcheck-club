@@ -1,6 +1,6 @@
 # Choukroun
 
-Choukroun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Outer Heaven, New York City on Thu, 6 Aug 2026.
+Choukroun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Outer Heaven, New York City on Thu, 6 Aug 2026.
 
 Choukroun is a house and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Miami and Newyorkcity. Often billed alongside Armii1n, Zayd and Monk (2). Next up: Outer Heaven, Newyorkcity on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Choukroun is a house and techno artist based in United States of America, tracke
 
 Armii1n, Zayd, Monk (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choukroun/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choukroun/)*

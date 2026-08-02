@@ -1,6 +1,6 @@
 # Single Grind
 
-Single Grind is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location, Boston on Fri, 4 Sept 2026.
+Single Grind is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location, Boston on Fri, 4 Sept 2026.
 
 Single Grind is an acid and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Boston. Often billed alongside Mos (NYC), The Consciousness and Versus (DE). Next up: TBA - Secret Location, Boston on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Single Grind is an acid and techno artist based in United States of America, tra
 
 Mos (NYC), The Consciousness, Versus (DE)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/singlegrind/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/singlegrind/)*

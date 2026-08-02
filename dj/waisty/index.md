@@ -1,6 +1,6 @@
 # Waisty
 
-Waisty is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Violetta, Tokyo on Fri, 7 Aug 2026.
+Waisty is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Violetta, Tokyo on Fri, 7 Aug 2026.
 
 Waisty is a bass and drum & bass artist tracked on soundcheck, with 5 sets logged across Hongkong and Tokyo. Often billed alongside Teng, BABAK (2) and Blue Flower. Next up: Violetta, Tokyo on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Waisty is a bass and drum & bass artist tracked on soundcheck, with 5 sets logge
 
 Teng, BABAK (2), Blue Flower
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waisty/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waisty/)*

@@ -1,6 +1,6 @@
 # Lockhart
 
-Lockhart is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
+Lockhart is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
 
 Lockhart is a techno and industrial artist tracked on soundcheck, with 40 sets logged across Berlin, Bristol, Leipzig and London and 2 more. Often billed alongside Voicedrone, Alba Heidari and James Newmarch. Next up: The Glove That Fits, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lockhart is a techno and industrial artist tracked on soundcheck, with 40 sets l
 
 Voicedrone, Alba Heidari, James Newmarch
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*

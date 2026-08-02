@@ -1,6 +1,6 @@
 # Domi (FR)
 
-Domi (FR) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Plantation, Paris on Fri, 21 Aug 2026.
+Domi (FR) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Plantation, Paris on Fri, 21 Aug 2026.
 
 Domi (FR) is an electro and house artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Jolly (FR), Lastvuska and Lumbago. Next up: Plantation, Paris on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Domi (FR) is an electro and house artist tracked on soundcheck, with 64 sets log
 
 Jolly (FR), Lastvuska, Lumbago
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*

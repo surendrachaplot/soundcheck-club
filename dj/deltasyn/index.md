@@ -1,6 +1,6 @@
 # delta syn
 
-delta syn is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Viu, Barcelona on Fri, 7 Aug 2026.
+delta syn is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bar Viu, Barcelona on Fri, 7 Aug 2026.
 
 delta syn is an electro and techno artist based in Brazil, tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside KIQ (1), Goi. and Mati Guarnaccia. Next up: Bar Viu, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ delta syn is an electro and techno artist based in Brazil, tracked on soundcheck
 
 KIQ (1), Goi., Mati Guarnaccia
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltasyn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltasyn/)*

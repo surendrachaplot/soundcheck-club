@@ -1,6 +1,6 @@
 # warmluke
 
-warmluke is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
+warmluke is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
 
 warmluke is a house and broken beat artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside DJoe, Beringei and AUDIO DUNE. Next up: Brixton Jamm, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ warmluke is a house and broken beat artist tracked on soundcheck, with 23 sets l
 
 DJoe, Beringei, AUDIO DUNE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warmluke/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warmluke/)*

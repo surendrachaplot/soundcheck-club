@@ -1,6 +1,6 @@
 # Sickdat
 
-Sickdat is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Smolna, Warsaw on Sat, 5 Sept 2026.
+Sickdat is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Smolna, Warsaw on Sat, 5 Sept 2026.
 
 Sickdat is a techno and minimal techno artist based in Poland, tracked on soundcheck, with 39 sets logged across Krakow and Warsaw. Often billed alongside Mordeaux, Sabre (PL) and Saint Peter. Next up: Smolna, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sickdat is a techno and minimal techno artist based in Poland, tracked on soundc
 
 Mordeaux, Sabre (PL), Saint Peter
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sickdat/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sickdat/)*

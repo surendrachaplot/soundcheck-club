@@ -1,6 +1,6 @@
 # Karim Bitar
 
-Karim Bitar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
+Karim Bitar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
 
 Karim Bitar is a house and electro artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Kenzel, Amaliah and Eds D1. Next up: Brixton Jamm, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Karim Bitar is a house and electro artist tracked on soundcheck, with 12 sets lo
 
 Kenzel, Amaliah, Eds D1
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karimbitar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karimbitar/)*

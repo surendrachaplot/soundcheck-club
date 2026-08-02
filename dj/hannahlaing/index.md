@@ -1,14 +1,13 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Hannah Laing is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
-Hannah Laing is a techno and house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Hannah Laing is a techno and house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
 | Sat, 15 Aug 2026 | OST | Berlin |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
@@ -20,9 +19,11 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 167 sets l
 | Mon, 7 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
+| Wed, 30 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Under the K Bridge, New York City — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 8 Jul 2026
 - Camperdown Country Park, Dundee — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 167 sets l
 - Amnesia Ibiza, Ibiza — Thu, 25 Jun 2026
 - NUMBER 90 LONDON, London — Wed, 10 Jun 2026
 - Galopprennbahn, Munich — Sat, 9 May 2026
-- TBA - Port of Belgrade, Belgrade — Fri, 8 May 2026
 
 ## Shares bills with
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

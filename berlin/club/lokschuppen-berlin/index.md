@@ -1,15 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN AIR & INDOOR" on Sat, 1 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 76 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "KDW X TRANCECORE - FREE OPEN AIR + MARKET + EXHIBITION" on Sun, 2 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 77 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 76 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN AIR & INDOOR | Athina, Carotin, DJ HÖRDE, DJ Mischkonsum, DJ TIPSTER, DJ Tallboy, HØLLE (2), Krash Cora, S.3000, Sire Jonah, Trashabelle, XIMA |
-| Sat, 1 Aug 2026 | Feiern wie früher - nur früher |  |
 | Sun, 2 Aug 2026 | KDW X TRANCECORE - FREE OPEN AIR + MARKET + EXHIBITION |  |
 | Sun, 2 Aug 2026 | 5€ Charity Ticket / Trancecore X The Hotbox x KDW DAY RAVE w/ zwilling., George Radsport, SZG | Amøn, DICE, DJ Nicelife, Fronsi, GEORGE aka DR.RADSPORT, Maschérie, Morelia, Pixie Dust, SZG, djvonnebenan, zwilling. |
 | Sun, 2 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | Ariezzz, Cobb Douglas, DOCTOR MÜCKE, Edgar Os, Nettta |
@@ -18,9 +16,11 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 77 upcoming 
 | Wed, 5 Aug 2026 | POOL Series [LIVE]: Afterwork with silikon and Mitsu2000 | Alexa Fluor, Alina Viktoria, Dexy's Midnight, Punktmidi, SKKIN VELVET, Sabu! |
 | Thu, 6 Aug 2026 | Chantal's House of Shame |  |
 | Fri, 7 Aug 2026 | Act Like Adults w/ STÜM, Blame The Mono | AUTOFLOWER, Benleh, Blame The Mono, Cobb Douglas, DJ Sweedee, Listenblondie, NAGINI, STÜM, Shake Daddy, Teleshop, Vaneska, Vivienna, subcutan |
+| Sat, 8 Aug 2026 | DEMOLATE x VULGED OPEN AIR w/ V.Honorio, Isaiah, Flits | Alex Friday, Ana Alves, Flits, GLIA, Isaiah (NL), L-AUX, Lasse, Maximus (DE), Mefteh, Ricksen, SHE/HER, Vinicius Honorio |
+| Sun, 9 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

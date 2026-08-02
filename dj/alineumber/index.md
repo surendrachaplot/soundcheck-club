@@ -1,6 +1,6 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 9 Aug 2026.
+Aline Umber is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 9 Aug 2026.
 
 Aline Umber is a house and minimal artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Quinta do Miratejo, Lisbon on Sun 9 Aug.
 
@@ -29,4 +29,4 @@ Aline Umber is a house and minimal artist tracked on soundcheck, with 97 sets lo
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

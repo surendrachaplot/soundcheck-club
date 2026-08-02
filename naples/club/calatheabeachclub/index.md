@@ -1,14 +1,13 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ONDA • Habibi Funk + Bassolino (dj set), Fabrizio Fattore, Audioteca Collectors" on Sat, 1 Aug 2026.
+Calatheabeachclub is a music venue in Naples with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "ONDA x NEUHM • Tony Humphries + Gigi Testa, Drunkdrivers, Balbucea" on Sat, 8 Aug 2026.
 
-Calatheabeachclub is a music venue in Naples listed on soundcheck. 6 upcoming nights, with line-ups including Bassolino, Dirty Channels, Drunkdrivers and Fabrizio Fattore and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
+Calatheabeachclub is a music venue in Naples listed on soundcheck. 5 upcoming nights, with line-ups including Dirty Channels, Drunkdrivers, Fabrizio Fattore and Gigi Testa and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ONDA • Habibi Funk + Bassolino (dj set), Fabrizio Fattore, Audioteca Collectors | Bassolino, Fabrizio Fattore, Habibi Funk |
 | Sat, 8 Aug 2026 | ONDA x NEUHM • Tony Humphries + Gigi Testa, Drunkdrivers, Balbucea | Drunkdrivers, Gigi Testa, Tony Humphries |
 | Sat, 15 Aug 2026 | ONDA • Dirty Channels + THE FUNKIN' MACHINE live + more | Dirty Channels |
 | Sat, 22 Aug 2026 | ONDA • Timmy Regisford + Fabrizio Fattore | Fabrizio Fattore, Timmy Regisford |
@@ -19,4 +18,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 6 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

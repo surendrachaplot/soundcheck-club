@@ -1,18 +1,18 @@
 # Robbo
 
-Robbo is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
+Robbo is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, London on Mon, 31 Aug 2026.
 
-Robbo is a house and garage artist tracked on soundcheck, with 38 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Jenson., Jenson and Josh Keit. Next up: Meraki, Liverpool on Sat 1 Aug.
+Robbo is a house and garage artist tracked on soundcheck, with 38 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Jenson., Jenson and Josh Keit. Next up: TBA, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Meraki | Liverpool |
 | Mon, 31 Aug 2026 | TBA | London |
 
 ## Recently played
 
+- Meraki, Liverpool — Sat, 1 Aug 2026
 - Last Arch, London — Sat, 18 Jul 2026
 - The Lion and Lamb, London — Fri, 26 Jun 2026
 - The Lion and Lamb, London — Fri, 1 May 2026
@@ -20,10 +20,9 @@ Robbo is a house and garage artist tracked on soundcheck, with 38 sets logged ac
 - Gaffe, London — Sat, 13 Dec 2025
 - M.O.T, London — Sat, 15 Nov 2025
 - Starlane Pizza Bar, London — Fri, 31 Oct 2025
-- The Lion and Lamb, London — Sun, 5 Oct 2025
 
 ## Shares bills with
 
 Jenson., Jenson, Josh Keit
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*

@@ -1,6 +1,6 @@
 # Ta1da
 
-Ta1da is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Ta1da is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Ta1da is a house and italo disco artist based in Norway, tracked on soundcheck, with 6 sets logged across Oslo. Often billed alongside Loveshy, Morstaq and NASHA. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Ta1da is a house and italo disco artist based in Norway, tracked on soundcheck, 
 
 Loveshy, Morstaq, NASHA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*

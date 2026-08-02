@@ -1,14 +1,15 @@
 # Vialla
 
-Vialla is a Industrial and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fuchs2, Prague on Fri, 14 Aug 2026.
+Vialla is a Industrial and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Fuchs2, Prague on Fri, 14 Aug 2026.
 
-Vialla is an industrial and breakbeat artist based in Czech Republic, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside DJ SABI, A.BOT_ONE and VLZQUES. Next up: Fuchs2, Prague on Fri 14 Aug.
+Vialla is an industrial and breakbeat artist based in Czech Republic, tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside DJ SABI, A.BOT_ONE and Katrixia. Next up: Fuchs2, Prague on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Fuchs2 | Prague |
+| Sat, 15 Aug 2026 | Cross Club | Prague |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Vialla is an industrial and breakbeat artist based in Czech Republic, tracked on
 
 ## Shares bills with
 
-DJ SABI, A.BOT_ONE, VLZQUES
+DJ SABI, A.BOT_ONE, Katrixia
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vialla/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vialla/)*

@@ -1,14 +1,13 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "14 JAHRE Kowalski – PART I • Anna Tur (DRUMCODE • ARMADA • TRUESOUL • IBIZA) • VIKOSH" on Sat, 1 Aug 2026.
+Kowalski is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "WHAT YOU SAY¿ - Terrasse - Open Air" on Sun, 2 Aug 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Anna Tur, DJ Unholy, Fabian Kaa and FANXI B and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including DJ Unholy, Fabian Kaa, FANXI B and Jochen Pash and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | 14 JAHRE Kowalski – PART I • Anna Tur (DRUMCODE • ARMADA • TRUESOUL • IBIZA) • VIKOSH | Anna Tur |
 | Sun, 2 Aug 2026 | WHAT YOU SAY¿ - Terrasse - Open Air |  |
 | Fri, 7 Aug 2026 | 07ELEVEN X Kowalski | DJ Unholy, FANXI B, Fabian Kaa, Paradox, Paradox.NKR, Thomas Colin |
 | Fri, 14 Aug 2026 | 14 JAHRE KOWA B-DAY – TIMELESS HOUSE CLASSICS |  |
@@ -21,4 +20,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

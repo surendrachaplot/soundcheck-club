@@ -1,6 +1,6 @@
 # RZVX
 
-RZVX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
+RZVX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
 
 RZVX is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Frik, Madson Carpenter and Valak. Next up: Ministerium Club, Lisbon on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ RZVX is a techno and hardcore artist based in Portugal, tracked on soundcheck, w
 
 Frik, Madson Carpenter, Valak
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rzvx/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rzvx/)*

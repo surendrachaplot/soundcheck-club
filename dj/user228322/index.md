@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mastak, Warsaw on Sun, 2 Aug 2026.
+user228322 is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mastak, Warsaw on Sun, 2 Aug 2026.
 
 user228322 is an electro and tech house artist tracked on soundcheck, with 52 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: Mastak, Warsaw on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ user228322 is an electro and tech house artist tracked on soundcheck, with 52 se
 
 Boreichuk, Badalian, Slowmode
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

@@ -1,6 +1,6 @@
 # Luis Radio
 
-Luis Radio is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Golden Gate, Berlin on Sat, 8 Aug 2026.
+Luis Radio is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Golden Gate, Berlin on Sat, 8 Aug 2026.
 
 Luis Radio is a house and club artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin, London and Rome. Often billed alongside Kikko, Marco Moreggia and Kenny Carpenter. Next up: Golden Gate, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Luis Radio is a house and club artist based in Italy, tracked on soundcheck, wit
 
 Kikko, Marco Moreggia, Kenny Carpenter
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisradio/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisradio/)*

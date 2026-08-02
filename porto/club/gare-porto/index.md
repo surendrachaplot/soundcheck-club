@@ -1,14 +1,13 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Astral Industries with Ario, o.utlier, Amulador" on Sat, 1 Aug 2026.
+Gare Porto is a music venue in Porto with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Fhase 87, Chich" on Fri, 7 Aug 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 9 upcoming nights, with line-ups including Alexa Strange, Amulador, Ario and Carrier and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming nights, with line-ups including Alexa Strange, Amulador, Carrier and Catarina Silva and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Astral Industries with Ario, o.utlier, Amulador | Amulador, Ario, o.utlier |
 | Fri, 7 Aug 2026 | Fhase 87, Chich | Chich, Fhase 87 |
 | Sat, 8 Aug 2026 | Mod.1, James Grouper | James Grouper, Mod.1 |
 | Fri, 14 Aug 2026 | Jin Synth, Catarina Silva, Amulador | Amulador, Catarina Silva, Jin Synth |
@@ -22,4 +21,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 9 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

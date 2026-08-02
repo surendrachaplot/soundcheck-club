@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
+JakoJako is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
 | Thu, 6 Aug 2026 | Silent Green | Berlin |
 | Thu, 6 Aug 2026 | Silent Green | Berlin |
@@ -19,9 +18,11 @@ JakoJako is a techno and house artist tracked on soundcheck, with 156 sets logge
 | Sat, 5 Sept 2026 | SMUT Athens | Athens |
 | Sat, 12 Sept 2026 | Palais | London |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sat, 31 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Fvtvr, Paris — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
@@ -29,10 +30,9 @@ JakoJako is a techno and house artist tracked on soundcheck, with 156 sets logge
 - VENT, Tokyo — Fri, 10 Jul 2026
 - The Cause, London — Sat, 13 Jun 2026
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 23 May 2026
 
 ## Shares bills with
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

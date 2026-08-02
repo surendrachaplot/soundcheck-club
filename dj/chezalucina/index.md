@@ -1,6 +1,6 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Cause, London on Sat, 5 Sept 2026.
+CHEZA LUCINA is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Cause, London on Sat, 5 Sept 2026.
 
 CHEZA LUCINA is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Brighton, London and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: The Cause, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ CHEZA LUCINA is a jungle and drum & bass artist based in United Kingdom, tracked
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

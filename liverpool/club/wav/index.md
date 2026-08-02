@@ -1,6 +1,6 @@
 # WaV
 
-WaV is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Twisted Tunnels & Music Medicine: 12 hours at WaV Liverpool" on Sat, 8 Aug 2026.
+WaV is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Twisted Tunnels & Music Medicine: 12 hours at WaV Liverpool" on Sat, 8 Aug 2026.
 
 WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including Aidyscape, Blasha & Allatt, Ciaran McAuley and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
@@ -23,4 +23,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

@@ -1,6 +1,6 @@
 # Source Code
 
-Source Code is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 15 Aug 2026.
+Source Code is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 15 Aug 2026.
 
 Source Code is a techno artist based in Slovakia, tracked on soundcheck, with 3 sets logged across Stuttgart. Often billed alongside Johannes Schuster, Mad Maex and Mila Black. Next up: Lehmann Club, Stuttgart on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Source Code is a techno artist based in Slovakia, tracked on soundcheck, with 3 
 
 Johannes Schuster, Mad Maex, Mila Black
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcecode/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcecode/)*

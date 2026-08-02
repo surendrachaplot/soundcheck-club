@@ -1,14 +1,13 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
+Sidney Charles is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Sidney Charles is a house and tech house artist tracked on soundcheck, with 210 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Son Fusteret, Mallorca on Sat 1 Aug.
+Sidney Charles is a house and tech house artist tracked on soundcheck, with 210 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Son Fusteret | Mallorca |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 210 
 | Sun, 20 Sept 2026 | TBA - Estadio Nacional, Ezeiza | Buenos Aires |
 | Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
+| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 
 ## Recently played
 
+- Son Fusteret, Mallorca — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - Luz De Gas, Barcelona — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
@@ -30,10 +31,9 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 210 
 - Luz De Gas, Barcelona — Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 16 Jul 2026
 - LDN East, London — Sun, 12 Jul 2026
-- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Prunk, ALISHA, Gaskin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

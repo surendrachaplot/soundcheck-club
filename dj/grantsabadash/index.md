@@ -1,6 +1,6 @@
 # grant sabadash
 
-grant sabadash is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Domicile, Miami on Sat, 8 Aug 2026.
+grant sabadash is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Domicile, Miami on Sat, 8 Aug 2026.
 
 grant sabadash is a techno and experimental artist based in United States of America, tracked on soundcheck, with 11 sets logged across Miami. Often billed alongside Shir Miya, Nikita Green and True Vine. Next up: Domicile, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ grant sabadash is a techno and experimental artist based in United States of Ame
 
 Shir Miya, Nikita Green, True Vine
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grantsabadash/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grantsabadash/)*

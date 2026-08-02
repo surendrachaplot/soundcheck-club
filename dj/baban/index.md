@@ -1,6 +1,6 @@
 # Baban
 
-Baban is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Frankhan Selectist, Istanbul on Sun, 2 Aug 2026.
+Baban is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Frankhan Selectist, Istanbul on Sun, 2 Aug 2026.
 
 Baban is a house and minimal artist tracked on soundcheck, with 40 sets logged across Budapest, Istanbul, Newyorkcity and Tokyo and 1 more. Often billed alongside Taycan, Morteza Minouei and Childplay. Next up: Frankhan Selectist, Istanbul on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Baban is a house and minimal artist tracked on soundcheck, with 40 sets logged a
 
 Taycan, Morteza Minouei, Childplay
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baban/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baban/)*

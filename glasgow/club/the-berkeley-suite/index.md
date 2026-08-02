@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov" on Sun, 2 Aug 2026.
+The Berkeley Suite is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov" on Sun, 2 Aug 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including AKA DISPLAY, Angel Negrin, Austin Ato and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

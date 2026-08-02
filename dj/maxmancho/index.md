@@ -1,6 +1,6 @@
 # Max Mancho
 
-Max Mancho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Teritorija, Riga on Sat, 15 Aug 2026.
+Max Mancho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Teritorija, Riga on Sat, 15 Aug 2026.
 
 Max Mancho is a house and techno artist tracked on soundcheck, with 20 sets logged across Riga. Often billed alongside Shorohoff, Waxid and Aniri Chan. Next up: Teritorija, Riga on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Max Mancho is a house and techno artist tracked on soundcheck, with 20 sets logg
 
 Shorohoff, Waxid, Aniri Chan
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmancho/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmancho/)*

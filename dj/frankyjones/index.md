@@ -1,6 +1,6 @@
 # Franky Jones
 
-Franky Jones is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Franky Jones is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Franky Jones is a techno and acid artist based in Belgium, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and Ghent. Often billed alongside Alexander Koning, Buzz Fuzz and Erick E. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Franky Jones is a techno and acid artist based in Belgium, tracked on soundcheck
 
 Alexander Koning, Buzz Fuzz, Erick E
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*

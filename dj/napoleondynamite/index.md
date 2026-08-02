@@ -1,6 +1,6 @@
 # Napoleon Dynamite
 
-Napoleon Dynamite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
+Napoleon Dynamite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
 
 Napoleon Dynamite is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Leipzig. Often billed alongside BONBONS, Ninette and Thomas Stieler. Next up: Distillery, Leipzig on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Napoleon Dynamite is a house and techno artist based in Germany, tracked on soun
 
 BONBONS, Ninette, Thomas Stieler
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/napoleondynamite/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/napoleondynamite/)*

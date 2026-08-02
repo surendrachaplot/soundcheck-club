@@ -1,6 +1,6 @@
 # Omeria
 
-Omeria is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Omeria is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Omeria is a house and electronica artist based in Turkey, tracked on soundcheck, with 3 sets logged across Istanbul and Rome. Often billed alongside Aline Umber, Benga and Björk. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Omeria is a house and electronica artist based in Turkey, tracked on soundcheck,
 
 Aline Umber, Benga, Björk
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omeria/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omeria/)*

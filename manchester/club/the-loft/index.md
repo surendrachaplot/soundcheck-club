@@ -1,14 +1,13 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Ivy Collective - Show 1 (Manchester)" on Sat, 1 Aug 2026.
+The Loft is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "The Loft: Nicola Cruz, Matthias & Larushkin" on Fri, 7 Aug 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including KT, ADMNTi, Boss Priester and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including KT, ADMNTi, Boss Priester and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Ivy Collective - Show 1 (Manchester) |  |
 | Fri, 7 Aug 2026 | The Loft: Nicola Cruz, Matthias & Larushkin | Larushkin, Matthias (1), Nicola Cruz |
 | Fri, 21 Aug 2026 | Vibrant: Burnski, Admnti b2b Just Jam ++ | ADMNTi, Burnski, Just Jam |
 | Sun, 30 Aug 2026 | Animal Crossing & Dr Banana presents: The Afters | Dr Banana |
@@ -18,9 +17,10 @@ The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming nights
 | Thu, 17 Sept 2026 | The Loft: Us Two (All Night Long) | Us Two |
 | Fri, 18 Sept 2026 | The Loft: Joss Dean (All Night Long) | Joss Dean |
 | Sat, 19 Sept 2026 | The Loft: Voigtmann & Samuel Deep (All Night Long) | Samuel Deep, Voigtmann |
+| Thu, 24 Sept 2026 | The Loft: Captain Wallop (All Night Long) | Captain Wallop |
 
 ## Address
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

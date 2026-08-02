@@ -1,6 +1,6 @@
 # Malachi (2)
 
-Malachi (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
+Malachi (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
 
 Malachi (2) is a house and disco artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Newyorkcity. Often billed alongside Malachi, Bruce & H and Deams. Next up: Xanadu, Newyorkcity on Sun 2 Aug.
 
@@ -19,4 +19,4 @@ Malachi (2) is a house and disco artist based in United Kingdom, tracked on soun
 
 Malachi, Bruce & H, Deams
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi-2/)*

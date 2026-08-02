@@ -1,6 +1,6 @@
 # Zomerfabriek
 
-Zomerfabriek is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Festival around art, music and culture" on Sat, 8 Aug 2026.
+Zomerfabriek is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Festival around art, music and culture" on Sat, 8 Aug 2026.
 
 Zomerfabriek is a music venue in Antwerp listed on soundcheck. 3 upcoming nights, with line-ups including DJ Tracksuit and milliyen. Browse upcoming dates, start times and who's playing. Minkelersstraat, 2018 Antwerp, Belgium.
 
@@ -16,4 +16,4 @@ Zomerfabriek is a music venue in Antwerp listed on soundcheck. 3 upcoming nights
 
 Minkelersstraat, 2018 Antwerp, Belgium, Antwerp
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/zomerfabriek/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/zomerfabriek/)*

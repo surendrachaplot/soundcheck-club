@@ -1,6 +1,6 @@
 # CJ Posada
 
-CJ Posada is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Beach House San Diego, San Diego on Sun, 2 Aug 2026.
+CJ Posada is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Beach House San Diego, San Diego on Sun, 2 Aug 2026.
 
 CJ Posada is a house and tech house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Miami and Sandiego. Often billed alongside Bondar, Oleg Bondar and Malik Mantra. Next up: Beach House San Diego, Sandiego on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ CJ Posada is a house and tech house artist based in United States of America, tr
 
 Bondar, Oleg Bondar, Malik Mantra
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjposada/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjposada/)*

@@ -1,15 +1,13 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Soul Selectors summer party" on Sat, 1 Aug 2026.
+The Horse & Groom is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Soul on Wax free daytime party" on Sat, 8 Aug 2026.
 
-The Horse & Groom is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Danny Howells, Grant McKay, HENDERSON and Industry Standard and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
+The Horse & Groom is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Danny Howells, Grant McKay, HENDERSON and Industry Standard and 1 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Soul Selectors summer party | Simon Dunmore |
-| Sat, 1 Aug 2026 | Maizon 3rd Birthday - W/ Johannes Albert (Frank Music, Berlin) (FREE ENTRY ALL NIGHT) | Johannes Albert, Julian Debbag, Maizon DJs |
 | Sat, 8 Aug 2026 | Soul on Wax free daytime party |  |
 | Sat, 15 Aug 2026 | Unique Rhythm free August daytime party |  |
 | Sat, 22 Aug 2026 | Just Good Grooves Summer mini all dayer | HENDERSON |
@@ -19,4 +17,4 @@ The Horse & Groom is a music venue in London listed on soundcheck. 6 upcoming ni
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

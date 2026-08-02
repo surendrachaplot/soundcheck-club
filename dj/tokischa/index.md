@@ -1,19 +1,19 @@
 # Tokischa
 
-Tokischa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Tokischa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Tokischa is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 10 sets logged across Berlin, London, Losangeles and Mexicocity and 3 more. Often billed alongside Jyoty, Adam Port and Charlotte de Witte. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Tokischa is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 10 sets logged across Berlin, London, Losangeles and Mexicocity and 3 more. Often billed alongside Jyoty, Adam Port and Charlotte de Witte. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Lido Berlin, Berlin — Sat, 19 Apr 2025
 - TBA - Under the K Bridge, New York City — Fri, 28 Jun 2024
 - The Warfield, San Francisco/Oakland — Sun, 9 Jun 2024
@@ -26,4 +26,4 @@ Tokischa is a house and techno artist based in Dominican Republic, tracked on so
 
 Jyoty, Adam Port, Charlotte de Witte
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*

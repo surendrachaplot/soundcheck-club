@@ -1,6 +1,6 @@
 # Alva Noto
 
-Alva Noto is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
+Alva Noto is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
 
 Alva Noto is an experimental and electronica artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside PAURRO, Ryuichi Sakamoto and Daito Manabe. Next up: Neue Nationalgalerie, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Alva Noto is an experimental and electronica artist based in Germany, tracked on
 
 PAURRO, Ryuichi Sakamoto, Daito Manabe
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alvanoto/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alvanoto/)*

@@ -1,6 +1,6 @@
 # Baltza
 
-Baltza is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Jolene, Copenhagen on Fri, 7 Aug 2026.
+Baltza is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Jolene, Copenhagen on Fri, 7 Aug 2026.
 
 Baltza is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin and Copenhagen. Often billed alongside Lucky Lube, Dgeral and DJ Woo Girl. Next up: Jolene, Copenhagen on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Baltza is a house and techno artist tracked on soundcheck, with 31 sets logged a
 
 Lucky Lube, Dgeral, DJ Woo Girl
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baltza/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baltza/)*

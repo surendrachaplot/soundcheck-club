@@ -1,6 +1,6 @@
 # Halfpipe Records
 
-Halfpipe Records is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Lux Fragil, Lisbon on Thu, 13 Aug 2026.
+Halfpipe Records is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lux Fragil, Lisbon on Thu, 13 Aug 2026.
 
 Halfpipe Records is a house and bass artist based in France, tracked on soundcheck, with 43 sets logged across Berlin, Lisbon, London and Lyon and 5 more. Often billed alongside Unsho, Me & George and GOGO GREEN. Next up: Lux Fragil, Lisbon on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Halfpipe Records is a house and bass artist based in France, tracked on soundche
 
 Unsho, Me & George, GOGO GREEN
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpiperecords/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpiperecords/)*

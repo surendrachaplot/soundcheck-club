@@ -1,6 +1,6 @@
 # Moktar
 
-Moktar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TRANSMISSION DC, Washington DC on Thu, 13 Aug 2026.
+Moktar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TRANSMISSION DC, Washington DC on Thu, 13 Aug 2026.
 
 Moktar is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Surusinghe, Roza Terenzi and Yung Singh. Next up: TRANSMISSION DC, Washingtondc on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Moktar is a techno and house artist tracked on soundcheck, with 55 sets logged a
 
 Surusinghe, Roza Terenzi, Yung Singh
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*

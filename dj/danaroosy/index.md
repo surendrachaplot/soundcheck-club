@@ -1,6 +1,6 @@
 # Dana Roosy
 
-Dana Roosy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Dana Roosy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Dana Roosy is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Dusseldorf and Sydney. Often billed alongside Ropemaker, ADEMES and Jester. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Dana Roosy is a techno and trance artist based in Germany, tracked on soundcheck
 
 Ropemaker, ADEMES, Jester
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danaroosy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danaroosy/)*

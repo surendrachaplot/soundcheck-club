@@ -1,6 +1,6 @@
 # Broodoo Ramses
 
-Broodoo Ramses is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+Broodoo Ramses is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 Broodoo Ramses is a club and baile funk artist tracked on soundcheck, with 50 sets logged across Belgrade, Berlin, Geneva and Hamburg and 5 more. Often billed alongside Bamao Yendé, Crystallmess and Aaliyahnelle. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Broodoo Ramses is a club and baile funk artist tracked on soundcheck, with 50 se
 
 Bamao Yendé, Crystallmess, Aaliyahnelle
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*

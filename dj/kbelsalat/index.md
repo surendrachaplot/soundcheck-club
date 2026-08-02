@@ -1,6 +1,6 @@
 # K Bel Salat
 
-K Bel Salat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+K Bel Salat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 K Bel Salat is a techno and house artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Athina, EUROBABES and Krash Cora. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ K Bel Salat is a techno and house artist tracked on soundcheck, with 2 sets logg
 
 Athina, EUROBABES, Krash Cora
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kbelsalat/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kbelsalat/)*

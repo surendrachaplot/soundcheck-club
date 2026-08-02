@@ -1,6 +1,6 @@
 # moUnique
 
-moUnique is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 29 Aug 2026.
+moUnique is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 29 Aug 2026.
 
 moUnique is a techno and tech house artist tracked on soundcheck, with 36 sets logged across Barcelona, Lisbon and Madrid. Often billed alongside ADRIANNA, Billy Nasty and Cambric. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ moUnique is a techno and tech house artist tracked on soundcheck, with 36 sets l
 
 ADRIANNA, Billy Nasty, Cambric
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mounique-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mounique-2/)*

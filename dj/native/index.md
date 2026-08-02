@@ -1,6 +1,6 @@
 # Native
 
-Native is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
+Native is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
 
 Native is a bass and house artist tracked on soundcheck, with 4 sets logged across Belfast and Manchester. Often billed alongside Alix Perez, Amelia Leigh and CHY (1). Next up: Freight Island, Manchester on Sun 2 Aug.
 
@@ -20,4 +20,4 @@ Native is a bass and house artist tracked on soundcheck, with 4 sets logged acro
 
 Alix Perez, Amelia Leigh, CHY (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/native/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/native/)*

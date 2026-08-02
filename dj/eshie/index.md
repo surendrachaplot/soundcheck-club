@@ -1,6 +1,6 @@
 # Eshie
 
-Eshie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+Eshie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 Eshie is a techno and house artist tracked on soundcheck, with 17 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside ATST, Amrisha and Corvair. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Eshie is a techno and house artist tracked on soundcheck, with 17 sets logged ac
 
 ATST, Amrisha, Corvair
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eshie/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eshie/)*

@@ -1,6 +1,6 @@
 # Booker T
 
-Booker T is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Planet Wax, London on Sun, 2 Aug 2026.
+Booker T is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Planet Wax, London on Sun, 2 Aug 2026.
 
 Booker T is a house and funk / soul artist tracked on soundcheck, with 23 sets logged across Bristol, Edinburgh, Liverpool and London and 2 more. Often billed alongside Sy Sez, Ace Shyllon and DJ Spen. Next up: Planet Wax, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Booker T is a house and funk / soul artist tracked on soundcheck, with 23 sets l
 
 Sy Sez, Ace Shyllon, DJ Spen
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bookert/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bookert/)*

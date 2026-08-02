@@ -1,6 +1,6 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "H.O.T.H" on Tue, 4 Aug 2026.
+The California Clipper is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "H.O.T.H" on Tue, 4 Aug 2026.
 
 The California Clipper is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Beau Wanzer, Casper McFadden, Miss Twink USA and Zona Cinco. Browse upcoming dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
@@ -15,4 +15,4 @@ The California Clipper is a music venue in Chicago listed on soundcheck. 2 upcom
 
 1002 N California Ave, Chicago, IL 60622, Chicago
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*

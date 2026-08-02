@@ -1,6 +1,6 @@
 # Abdul Qadim Haqq
 
-Abdul Qadim Haqq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Vancouver on Sat, 15 Aug 2026.
+Abdul Qadim Haqq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Vancouver on Sat, 15 Aug 2026.
 
 Abdul Qadim Haqq is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across London, Osaka and Vancouver. Often billed alongside DJ Compufunk, Dopplereffekt and Josey Rebelle. Next up: TBA, Vancouver on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Abdul Qadim Haqq is a house and techno artist based in United States of America,
 
 DJ Compufunk, Dopplereffekt, Josey Rebelle
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abdulqadimhaqq/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abdulqadimhaqq/)*

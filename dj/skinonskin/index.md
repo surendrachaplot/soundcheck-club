@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sun, 2 Aug 2026.
+Skin On Skin is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Palmerstown House Estate, Dublin on Sun, 2 Aug 2026.
 
 Skin On Skin is a techno and house artist tracked on soundcheck, with 129 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Palmerstown House Estate, Dublin on Sun 2 Aug.
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 129 sets l
 
 KETTAMA, Mall Grab, CRUSH3d
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

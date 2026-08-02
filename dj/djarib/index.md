@@ -1,6 +1,6 @@
 # DJ Ari B
 
-DJ Ari B is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
+DJ Ari B is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
 
 DJ Ari B is a club and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Discnogirl, 40split and DJ Buck. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ DJ Ari B is a club and house artist based in United States of America, tracked o
 
 Discnogirl, 40split, DJ Buck
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djarib/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djarib/)*

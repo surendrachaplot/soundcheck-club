@@ -1,14 +1,13 @@
 # vinylDJ Eiji Takehana
 
-vinylDJ Eiji Takehana is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Shibuya Club Ball, Tokyo on Sat, 1 Aug 2026.
+vinylDJ Eiji Takehana is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Dogenzaka Church, Tokyo on Fri, 7 Aug 2026.
 
-vinylDJ Eiji Takehana is a drum & bass and jungle artist tracked on soundcheck, with 140 sets logged across Tokyo. Often billed alongside Kenta Tominaga, Hironobu Jyounai and Yuta Takahashi. Next up: Shibuya Club Ball, Tokyo on Sat 1 Aug.
+vinylDJ Eiji Takehana is a drum & bass and jungle artist tracked on soundcheck, with 140 sets logged across Tokyo. Often billed alongside Kenta Tominaga, Hironobu Jyounai and Yuta Takahashi. Next up: Dogenzaka Church, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Shibuya Club Ball | Tokyo |
 | Fri, 7 Aug 2026 | Dogenzaka Church | Tokyo |
 | Sat, 8 Aug 2026 | Shibuya OTO | Tokyo |
 | Fri, 14 Aug 2026 | Live Haus | Tokyo |
@@ -21,6 +20,7 @@ vinylDJ Eiji Takehana is a drum & bass and jungle artist tracked on soundcheck, 
 
 ## Recently played
 
+- Shibuya Club Ball, Tokyo — Sat, 1 Aug 2026
 - Aoyama Hachi, Tokyo — Fri, 24 Jul 2026
 - Live Haus, Tokyo — Sun, 19 Jul 2026
 - Aoyama Hachi, Tokyo — Sun, 12 Jul 2026
@@ -28,10 +28,9 @@ vinylDJ Eiji Takehana is a drum & bass and jungle artist tracked on soundcheck, 
 - Dogenzaka Church, Tokyo — Fri, 3 Jul 2026
 - Aoyama Hachi, Tokyo — Fri, 26 Jun 2026
 - Shibuya OTO, Tokyo — Sat, 13 Jun 2026
-- Shibuya Club Ball, Tokyo — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Kenta Tominaga, Hironobu Jyounai, Yuta Takahashi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldjeijitakehana/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldjeijitakehana/)*

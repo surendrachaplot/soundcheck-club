@@ -1,14 +1,13 @@
 # Domicile
 
-Domicile is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FACE 2 FACE" on Sat, 1 Aug 2026.
+Domicile is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DØMINA" on Fri, 7 Aug 2026.
 
-Domicile is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including ANTICHRIS, Diana Franco, Don Woezik and EMP and 2 more. Browse upcoming dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
+Domicile is a music venue in Miami listed on soundcheck. 9 upcoming nights, with line-ups including ANTICHRIS, Diana Franco, Don Woezik and EMP and 2 more. Browse upcoming dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FACE 2 FACE | Gioh Cecato, Jay Toledo, Naomi Luna, NËBULÄ |
 | Fri, 7 Aug 2026 | DØMINA | ANTICHRIS, Jay Toledo, Leeopatra, tabea |
 | Sat, 8 Aug 2026 | STATIC | Meghan Lee, Nikita Green, Sinopoli, True Vine, Ultrathem, grant sabadash |
 | Fri, 14 Aug 2026 | PALACIO Miami debut | PALACIO |
@@ -23,4 +22,4 @@ Domicile is a music venue in Miami listed on soundcheck. 10 upcoming nights, wit
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

@@ -1,8 +1,8 @@
 # DJ Spice
 
-DJ Spice is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at MODULE, Copenhagen on Sat, 15 Aug 2026.
+DJ Spice is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at MODULE, Copenhagen on Sat, 15 Aug 2026.
 
-DJ Spice is a house and trance artist based in Denmark, tracked on soundcheck, with 29 sets logged across Copenhagen and Oslo. Often billed alongside DRABER666, Ryan Dank (2) and Anna Logic. Next up: MODULE, Copenhagen on Sat 15 Aug.
+DJ Spice is a house and techno artist based in Denmark, tracked on soundcheck, with 30 sets logged across Copenhagen and Oslo. Often billed alongside DRABER666, Ryan Dank (2) and Anna Logic. Next up: MODULE, Copenhagen on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Spice is a house and trance artist based in Denmark, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | MODULE | Copenhagen |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
+| Fri, 2 Oct 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Spice is a house and trance artist based in Denmark, tracked on soundcheck, w
 
 DRABER666, Ryan Dank (2), Anna Logic
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspice/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspice/)*

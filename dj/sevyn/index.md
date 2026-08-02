@@ -1,6 +1,6 @@
 # Sevyn
 
-Sevyn is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at public records, New York City on Sat, 8 Aug 2026.
+Sevyn is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at public records, New York City on Sat, 8 Aug 2026.
 
 Sevyn is a house and deep house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Berlin, Chicago, Copenhagen and Detroit and 9 more. Often billed alongside VARSHA, Damar Davis and Ashley Younniä. Next up: public records, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sevyn is a house and deep house artist based in United States of America, tracke
 
 VARSHA, Damar Davis, Ashley Younniä
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn/)*

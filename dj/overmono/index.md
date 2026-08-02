@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+Overmono is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
 Overmono is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Joy Orbison. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Overmono is a techno and house artist tracked on soundcheck, with 97 sets logged
 
 DJ Heartstring, Interplanetary Criminal, Joy Orbison
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

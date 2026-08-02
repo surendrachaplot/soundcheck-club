@@ -1,8 +1,8 @@
 # Luxi Villar
 
-Luxi Villar is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Luxi Villar is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
-Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and Adiel. Next up: UNO MALTA, Malta on Sat 8 Aug.
+Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and Adiel. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, 
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
+| Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, 
 
 Andres Campo, Fatima Hajji, Adiel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*

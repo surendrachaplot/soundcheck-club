@@ -1,14 +1,13 @@
 # Apollo Studio
 
-Apollo Studio is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Apollo Studio w/ Simon Heyliger, Ariel me Llamo, Sammir, Petar Marniku" on Sat, 1 Aug 2026.
+Apollo Studio is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Apollo Studio presents" on Fri, 7 Aug 2026.
 
-Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including Ariel me Llamo, Armii1n, Bella Mutino and Miguel Gallardo and 2 more. Browse upcoming dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
+Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including Armii1n, Bella Mutino, Miguel Gallardo and Mungo Sound Machine and 2 more. Browse upcoming dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Apollo Studio w/ Simon Heyliger, Ariel me Llamo, Sammir, Petar Marniku | Ariel me Llamo, Petar Marniku, Sammir, Simon Heyliger |
 | Fri, 7 Aug 2026 | Apollo Studio presents |  |
 | Sat, 8 Aug 2026 | Apollo Studio presents |  |
 | Fri, 14 Aug 2026 | Apollo Studio presents Low & Directive  |  |
@@ -18,9 +17,10 @@ Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 27 upcoming 
 | Sat, 22 Aug 2026 | Apollo Studio presents |  |
 | Fri, 28 Aug 2026 | Apollo Studio presents Nocturnal |  |
 | Sat, 29 Aug 2026 | Apollo Studio presents |  |
+| Fri, 4 Sept 2026 | Apollo Studio presents |  |
 
 ## Address
 
 72 Apollo St Brooklyn, NY 11222, New York City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*

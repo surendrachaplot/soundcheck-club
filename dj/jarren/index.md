@@ -1,6 +1,6 @@
 # Jarren
 
-Jarren is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
+Jarren is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
 
 Jarren is a house and disco artist based in United States of America, tracked on soundcheck, with 14 sets logged across London, Losangeles, Newyorkcity and Tokyo. Often billed alongside Steven Julien, UNITYCHECK and Andy Oro. Next up: General Lee's Cocktail House, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Jarren is a house and disco artist based in United States of America, tracked on
 
 Steven Julien, UNITYCHECK, Andy Oro
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jarren/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jarren/)*

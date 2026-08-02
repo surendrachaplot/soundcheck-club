@@ -1,6 +1,6 @@
 # TBA - Palacio Alsina, Microcentro
 
-TBA - Palacio Alsina, Microcentro is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Max Styler + Zagitar - by SAVAGE, PALACIO ALSINA" on Sat, 8 Aug 2026.
+TBA - Palacio Alsina, Microcentro is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Max Styler + Zagitar - by SAVAGE, PALACIO ALSINA" on Sat, 8 Aug 2026.
 
 TBA - Palacio Alsina, Microcentro is a music venue in Buenosaires listed on soundcheck. 3 upcoming nights, with line-ups including Adam Sellouk, Agustin Giri, Layton Giordani and Max Styler and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Palacio Alsina, Microcentro is a music venue in Buenosaires listed on soun
 | Fri, 11 Sept 2026 | Adam Sellouk & MORE ARTISTS - by ELEMENTS, PALACIO ALSINA | Adam Sellouk, No Rush, Temple Gate |
 | Fri, 18 Sept 2026 | Layton Giordani + Agustin Giri - by DESERT IN ME, PALACIO ALSINA | Agustin Giri, Layton Giordani |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-palacio-alsina-microcentro/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-palacio-alsina-microcentro/)*

@@ -1,15 +1,13 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Hard Techno 'Pure Madness'" on Sat, 1 Aug 2026.
+Karmakoma is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Sacha Mambo All Night Long" on Fri, 7 Aug 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming nights, with line-ups including ACOR, Ciel, Feloneezy and Gerd Janson and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, with line-ups including Ciel, Feloneezy, Gerd Janson and Johana and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Hard Techno 'Pure Madness' | ACOR |
-| Sat, 1 Aug 2026 | Feloneezy & Phillie P | Feloneezy, Phillie P |
 | Fri, 7 Aug 2026 | Sacha Mambo All Night Long | Sacha Mambo |
 | Thu, 3 Sept 2026 | Nadja (CA) — Drone Doom Legends in Belgrade |  |
 | Fri, 11 Sept 2026 | Apgrade Weekend September 2026 | Ciel, Feloneezy, Gerd Janson, Johana, Lipelis, Nikola Vemic, Objekt, Olgica |
@@ -19,4 +17,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

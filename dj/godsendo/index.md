@@ -1,6 +1,6 @@
 # Godsendo
 
-Godsendo is a Afrobeat and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Skatecafe, Amsterdam on Sat, 15 Aug 2026.
+Godsendo is a Afrobeat and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Skatecafe, Amsterdam on Sat, 15 Aug 2026.
 
 Godsendo is an afrobeat and hip-hop artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam. Often billed alongside DJ EZ, Kingdom Sound and Sandor Dayala. Next up: Skatecafe, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Godsendo is an afrobeat and hip-hop artist based in Netherlands, tracked on soun
 
 DJ EZ, Kingdom Sound, Sandor Dayala
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godsendo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godsendo/)*

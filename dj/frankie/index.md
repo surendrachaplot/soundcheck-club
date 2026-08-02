@@ -1,6 +1,6 @@
 # Frankie
 
-Frankie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Frankie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Frankie is a house and techno artist based in France, tracked on soundcheck, with 19 sets logged across Bristol, Dusseldorf, Losangeles and Madrid and 5 more. Often billed alongside Abiu, Dis Fig and Hayato Iwaki. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -26,4 +26,4 @@ Frankie is a house and techno artist based in France, tracked on soundcheck, wit
 
 Abiu, Dis Fig, Hayato Iwaki
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie/)*

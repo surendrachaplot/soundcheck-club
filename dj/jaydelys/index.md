@@ -1,6 +1,6 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
+Jay de Lys is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 Jay de Lys is a tech house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Joey Daniel. Next up: Ushuaïa Ibiza, Ibiza on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Jay de Lys is a tech house and house artist tracked on soundcheck, with 67 sets 
 
 Franky Rizardo, Easttown, Joey Daniel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

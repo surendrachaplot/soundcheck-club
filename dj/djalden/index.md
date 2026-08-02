@@ -1,6 +1,6 @@
 # DJ Alden
 
-DJ Alden is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Utopia, Los Angeles on Sun, 2 Aug 2026.
+DJ Alden is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Utopia, Los Angeles on Sun, 2 Aug 2026.
 
 DJ Alden is a tech house and techno artist tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside DENYC, RCKSLVR and Frida Henson. Next up: Utopia, Losangeles on Sun 2 Aug.
 
@@ -18,4 +18,4 @@ DJ Alden is a tech house and techno artist tracked on soundcheck, with 2 sets lo
 
 DENYC, RCKSLVR, Frida Henson
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djalden/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djalden/)*

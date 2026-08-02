@@ -1,6 +1,6 @@
 # Wave Arising
 
-Wave Arising is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 20 Aug 2026.
+Wave Arising is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 20 Aug 2026.
 
 Wave Arising is an electronic artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin, Marseille and Paris. Often billed alongside 69DB, Beatrice M. and Ebony Willis. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 20 Aug.
 
@@ -19,4 +19,4 @@ Wave Arising is an electronic artist based in United Kingdom, tracked on soundch
 
 69DB, Beatrice M., Ebony Willis
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wavearising/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wavearising/)*

@@ -1,6 +1,6 @@
 # feeo
 
-feeo is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ormside Projects, London on Thu, 27 Aug 2026.
+feeo is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ormside Projects, London on Thu, 27 Aug 2026.
 
 feeo is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside Ugnė Uma, Valentina Magaletti and mi-el. Next up: Ormside Projects, London on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ feeo is an experimental and electronica artist based in United Kingdom, tracked 
 
 Ugnė Uma, Valentina Magaletti, mi-el
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*

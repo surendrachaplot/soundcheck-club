@@ -1,14 +1,13 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+KARAH is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Spook Club, Valencia on Sat, 22 Aug 2026.
 
-KARAH is a techno and industrial artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+KARAH is a techno and industrial artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Spook Club, Valencia on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Sat, 22 Aug 2026 | Spook Club | Valencia |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | E1 | London |
@@ -18,6 +17,7 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 133 sets log
 
 ## Recently played
 
+- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - UNO MALTA, Malta — Fri, 24 Jul 2026
 - Afas Live, Amsterdam — Sat, 27 Jun 2026
 - Gate Milano, Milan — Fri, 19 Jun 2026
@@ -25,10 +25,9 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 133 sets log
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Riverside, Glasgow — Sat, 30 May 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
-- OST, Berlin — Sat, 16 May 2026
 
 ## Shares bills with
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

@@ -1,6 +1,6 @@
 # Josh Hoppen
 
-Josh Hoppen is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
+Josh Hoppen is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
 
 Josh Hoppen is an ambient and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Binomi, AC2 and Agonis. Next up: TBA - Pratdip (Tarragona, Spain), Barcelona on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Josh Hoppen is an ambient and techno artist based in United Kingdom, tracked on 
 
 Binomi, AC2, Agonis
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoppen/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoppen/)*

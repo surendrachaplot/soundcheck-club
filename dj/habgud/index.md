@@ -1,6 +1,6 @@
 # Habgud
 
-Habgud is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+Habgud is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 Habgud is a techno and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Galway, Leeds and London and 7 more. Often billed alongside Cleric, INLIMEN and Arkane. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Habgud is a techno and house artist based in United Kingdom, tracked on soundche
 
 Cleric, INLIMEN, Arkane
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habgud/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/habgud/)*

@@ -1,6 +1,6 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Job Jobse is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 Job Jobse is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -33,4 +33,4 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 141 sets logg
 
 Palms Trax, BASHKKA, Saoirse
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

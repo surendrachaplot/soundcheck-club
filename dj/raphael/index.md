@@ -1,6 +1,6 @@
 # Raphael
 
-Raphael is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Raphael is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 Raphael is a house and techno artist based in France, tracked on soundcheck, with 5 sets logged across Antwerp, Detroit, London and Vancouver. Often billed alongside 888lambchop, Aroh and BAR (DE). Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ Raphael is a house and techno artist based in France, tracked on soundcheck, wit
 
 888lambchop, Aroh, BAR (DE)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael/)*

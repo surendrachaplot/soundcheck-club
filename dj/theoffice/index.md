@@ -1,6 +1,6 @@
 # The Office
 
-The Office is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at gART.n, Berlin on Sat, 8 Aug 2026.
+The Office is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at gART.n, Berlin on Sat, 8 Aug 2026.
 
 The Office is a house and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Amsterdam and Berlin. Often billed alongside Oliver Koletzki, Frida Darko and Kotoe. Next up: gART.n, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ The Office is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Oliver Koletzki, Frida Darko, Kotoe
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theoffice/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theoffice/)*

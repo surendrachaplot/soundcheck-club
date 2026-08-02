@@ -1,6 +1,6 @@
 # B.S.E
 
-B.S.E is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
+B.S.E is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
 
 B.S.E is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Bristol and London. Often billed alongside Paul Z, Mark Neenan and Cinquedea. Next up: Lost Horizon, Bristol on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ B.S.E is a techno and acid artist based in United Kingdom, tracked on soundcheck
 
 Paul Z, Mark Neenan, Cinquedea
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b.s.e/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b.s.e/)*

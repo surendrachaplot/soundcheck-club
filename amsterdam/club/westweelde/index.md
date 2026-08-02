@@ -1,14 +1,13 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FunHouse - The World Pride Saturday Edition" on Sat, 1 Aug 2026.
+WestWeelde is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "RAPIDO x FunHouse - World Pride Sunday Daytime Rave" on Sun, 2 Aug 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Abel Aguilera, Alejandro Alvarez, Alex Sharp and BELLA (NL) and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Abel Aguilera, Alex Sharp, BELLA (NL) and Binh and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FunHouse - The World Pride Saturday Edition | Alejandro Alvarez, Nathalie Henriette |
 | Sun, 2 Aug 2026 | RAPIDO x FunHouse - World Pride Sunday Daytime Rave | Abel Aguilera, Moussa Barcelona |
 | Sun, 2 Aug 2026 | Our World Pride Closing - The After |  |
 | Sun, 6 Sept 2026 | Shermanology - Lucien Foort / Soft Landing | Alex Sharp, Lucien Foort, Shermanology |
@@ -23,4 +22,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 10 upcoming night
 
 Klönneplein 4, Amsterdam
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

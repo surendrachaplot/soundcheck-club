@@ -1,14 +1,13 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 22 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Crusy" on Sat, 1 Aug 2026.
+Night We Met is a music venue in Nashville with 21 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DJ Seinfeld" on Fri, 7 Aug 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 22 upcoming nights, with line-ups including Amtrac, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 21 upcoming nights, with line-ups including Amtrac, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Crusy | Crusy |
 | Fri, 7 Aug 2026 | DJ Seinfeld | DJ Seinfeld |
 | Sat, 8 Aug 2026 | Dj Sliink | Dj Sliink, Maniia |
 | Fri, 14 Aug 2026 | Elliot Schooling & Liam Palmer | Elliot Schooling, Liam Palmer |
@@ -18,9 +17,10 @@ Night We Met is a music venue in Nashville listed on soundcheck. 22 upcoming nig
 | Fri, 28 Aug 2026 | Yung Bae |  |
 | Sat, 29 Aug 2026 | Marie Vaunt | Marie Vaunt |
 | Fri, 4 Sept 2026 | Acraze |  |
+| Sat, 5 Sept 2026 | Swimming Paul | Swimming Paul |
 
 ## Address
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

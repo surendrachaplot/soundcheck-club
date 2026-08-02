@@ -1,6 +1,6 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Macadam, Nantes on Sun, 9 Aug 2026.
+Tijana T is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Macadam, Nantes on Sun, 9 Aug 2026.
 
 Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 35 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: Macadam, Nantes on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 
 Marcel Dettmann, Sedef Adasï, Adiel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*

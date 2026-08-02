@@ -1,6 +1,6 @@
 # François Dulac
 
-François Dulac is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
+François Dulac is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
 
 François Dulac is a house and club artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside hi.fí, Femur and Miss T Delight. Next up: Bulbul Berlin, Berlin on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ François Dulac is a house and club artist based in United Kingdom, tracked on s
 
 hi.fí, Femur, Miss T Delight
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisdulac/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisdulac/)*

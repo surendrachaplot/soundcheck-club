@@ -1,6 +1,6 @@
-# RETROgrade at KEYBAR
+# RETROgrade ♄ at KEYBAR
 
-RETROgrade at KEYBAR on Thu 20 Aug, Newyorkcity. House and Club. Preview the line-up and save it on soundcheck.
+RETROgrade ♄ at KEYBAR on Thu 20 Aug, Newyorkcity. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

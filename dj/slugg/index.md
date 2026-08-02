@@ -1,18 +1,18 @@
 # slugg
 
-slugg is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at H0l0 Yard, New York City on Sat, 1 Aug 2026.
+slugg is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 13 Aug 2026.
 
-slugg is a tech house and house artist tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: H0l0 Yard, Newyorkcity on Sat 1 Aug.
+slugg is a tech house and house artist tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Jolene Downtown Miami, Miami on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | H0l0 Yard | New York City |
 | Thu, 13 Aug 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
 
+- H0l0 Yard, New York City — Sat, 1 Aug 2026
 - StereoBar, Montreal — Fri, 31 Jul 2026
 - Stratus Lounge, Philadelphia — Sun, 26 Jul 2026
 - Tongva Park, Los Angeles — Sat, 11 Jul 2026
@@ -20,10 +20,9 @@ slugg is a tech house and house artist tracked on soundcheck, with 81 sets logge
 - Spybar, Chicago — Fri, 19 Jun 2026
 - TBA - Twins Nightclub - 315 Lavaca St, Austin, TX 78701, Austin — Sat, 13 Jun 2026
 - Floyd, Miami — Sun, 7 Jun 2026
-- Factory Town, Miami — Sun, 3 May 2026
 
 ## Shares bills with
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

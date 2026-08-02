@@ -1,0 +1,17 @@
+# Workshow
+
+Workshow is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "DEVIANCE HORROR PARTY + AFTER" on Sat, 31 Oct 2026.
+
+Workshow is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 173 rue Saint-Martin, 75003 Paris.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | DEVIANCE HORROR PARTY + AFTER |  |
+
+## Address
+
+173 rue Saint-Martin, 75003 Paris, Paris
+
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/workshow/)*

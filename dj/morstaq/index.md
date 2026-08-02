@@ -1,6 +1,6 @@
 # Morstaq
 
-Morstaq is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Morstaq is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Morstaq is a house and hip-hop artist tracked on soundcheck, with 16 sets logged across Oslo. Often billed alongside Tia Taro, Posner and RAUAND I.. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Morstaq is a house and hip-hop artist tracked on soundcheck, with 16 sets logged
 
 Tia Taro, Posner, RAUAND I.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morstaq/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morstaq/)*

@@ -1,6 +1,6 @@
 # DJ SPOT
 
-DJ SPOT is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Socore Factory, Osaka on Fri, 4 Sept 2026.
+DJ SPOT is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Socore Factory, Osaka on Fri, 4 Sept 2026.
 
 DJ SPOT is a minimal and minimal techno artist based in Japan, tracked on soundcheck, with 23 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Shingo, AOKI takamasa and DAIY. Next up: Socore Factory, Osaka on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ SPOT is a minimal and minimal techno artist based in Japan, tracked on soundc
 
 Shingo, AOKI takamasa, DAIY
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspot/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspot/)*

@@ -1,15 +1,13 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Pegassi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Pegassi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 45 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Pegassi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 45 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
-| Sat, 1 Aug 2026 | Exchange LA | Los Angeles |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
@@ -20,20 +18,22 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 163 sets logge
 | Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 19 Sept 2026 | Mondo | Madrid |
 | Sat, 3 Oct 2026 | The Limelight | Belfast |
+| Sat, 10 Oct 2026 | Escala25 | Lisbon |
+| Sat, 17 Oct 2026 | Roxy | Prague |
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
+- Exchange LA, Los Angeles — Sat, 1 Aug 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 31 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Mdlr, Singapore — Sat, 4 Jul 2026
 - Soho House Hong Kong, Hong Kong — Tue, 30 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
 - Hangaren, Copenhagen — Wed, 3 Jun 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- E1, London — Fri, 29 May 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

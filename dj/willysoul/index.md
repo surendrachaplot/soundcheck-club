@@ -1,19 +1,19 @@
 # Willy Soul
 
-Willy Soul is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at fi, Cologne on Sat, 1 Aug 2026.
+Willy Soul is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1), Berlin on Sun, 9 Aug 2026.
 
-Willy Soul is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Greg Paulus and Nickodemus. Next up: fi, Cologne on Sat 1 Aug.
+Willy Soul is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Greg Paulus and Nickodemus. Next up: ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1), Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | fi | Cologne |
 | Sun, 9 Aug 2026 | ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1) | Berlin |
 | Fri, 21 Aug 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
+- fi, Cologne — Sat, 1 Aug 2026
 - Elsewhere, New York City — Sun, 21 Jun 2026
 - H0L0, New York City — Sat, 30 May 2026
 - Xanadu, New York City — Fri, 29 May 2026
@@ -21,10 +21,9 @@ Willy Soul is a house and techno artist based in United States of America, track
 - H0L0, New York City — Sat, 25 Apr 2026
 - 314 Scholes, New York City — Fri, 24 Apr 2026
 - H0L0, New York City — Sat, 4 Apr 2026
-- H0L0, New York City — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Disgonuts, Greg Paulus, Nickodemus
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willysoul/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willysoul/)*

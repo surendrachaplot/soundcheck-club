@@ -1,6 +1,6 @@
 # Ruki
 
-Ruki is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at R Lounge, Tokyo on Fri, 21 Aug 2026.
+Ruki is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at R Lounge, Tokyo on Fri, 21 Aug 2026.
 
 Ruki is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside MIDI War, DJ Shufflemaster and Kaori Watt. Next up: R Lounge, Tokyo on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Ruki is a techno and hardcore artist based in United Kingdom, tracked on soundch
 
 MIDI War, DJ Shufflemaster, Kaori Watt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruki/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruki/)*

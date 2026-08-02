@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "GROOVE SENSATION w/Niko Herz & MCG" on Sat, 1 Aug 2026.
+Climax-Institutes is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Bei zuurii schepperts" on Fri, 7 Aug 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Aniza (DE), CALiACRA, Chamelio 3000 and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Aniza (DE), CALiACRA, Chamelio 3000 and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | GROOVE SENSATION w/Niko Herz & MCG | Michael Clash Gottschalk |
 | Fri, 7 Aug 2026 | Bei zuurii schepperts |  |
 | Sat, 8 Aug 2026 | PULSE SPECIAL w/Schlepp Geist | Chamelio 3000, Lars Christian Müller, Schlepp Geist |
 | Thu, 13 Aug 2026 | HGM 'CONNECTED' - Holiday Edition w/erika schneider (Berlin) & rls (Fuchs und Hase) |  |
@@ -20,4 +19,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

@@ -1,6 +1,6 @@
 # Space Afrika
 
-Space Afrika is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Space Afrika is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 Space Afrika is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Helena Hauff, Loraine James and Rainy Miller. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Space Afrika is an experimental and ambient artist based in United Kingdom, trac
 
 Helena Hauff, Loraine James, Rainy Miller
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*

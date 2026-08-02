@@ -1,14 +1,13 @@
 # SG Lewis
 
-SG Lewis is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Old Royal Naval College, London on Sat, 1 Aug 2026.
+SG Lewis is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
 
-SG Lewis is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Old Royal Naval College, London on Sat 1 Aug.
+SG Lewis is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Ushuaïa Ibiza, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Old Royal Naval College | London |
 | Sat, 8 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Knockdown Center | New York City |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -18,6 +17,7 @@ SG Lewis is a house and tech house artist tracked on soundcheck, with 79 sets lo
 
 ## Recently played
 
+- Old Royal Naval College, London — Sat, 1 Aug 2026
 - [UNVRS], Ibiza — Sat, 25 Jul 2026
 - Level 1 @ Cannonball Arts, Seattle — Fri, 10 Jul 2026
 - The Church Nightclub, Denver — Fri, 19 Jun 2026
@@ -25,10 +25,9 @@ SG Lewis is a house and tech house artist tracked on soundcheck, with 79 sets lo
 - [UNVRS], Ibiza — Mon, 8 Jun 2026
 - UNO MALTA, Malta — Thu, 28 May 2026
 - Pacha Ibiza, Ibiza — Wed, 27 May 2026
-- Studio Club Malaga, Malaga — Sat, 23 May 2026
 
 ## Shares bills with
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

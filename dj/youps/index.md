@@ -1,6 +1,6 @@
 # Youps
 
-Youps is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+Youps is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 Youps is a house and techno artist based in France, tracked on soundcheck, with 16 sets logged across Nantes and Paris. Often billed alongside Youl, Combe and Akira Yamagata. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Youps is a house and techno artist based in France, tracked on soundcheck, with 
 
 Youl, Combe, Akira Yamagata
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youps/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youps/)*

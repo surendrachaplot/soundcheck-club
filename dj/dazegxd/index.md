@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
+Dazegxd is a Jungle and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
 
 Dazegxd is a jungle and house artist tracked on soundcheck, with 96 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Nameless, Philadelphia on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 96 sets logged 
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

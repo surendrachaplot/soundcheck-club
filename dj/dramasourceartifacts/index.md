@@ -1,6 +1,6 @@
 # DRAMA SOURCE ARTIFACTS
 
-DRAMA SOURCE ARTIFACTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
+DRAMA SOURCE ARTIFACTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
 
 DRAMA SOURCE ARTIFACTS is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Madrid, Stuttgart and Tbilisi. Often billed alongside Galo (2), Astral Travel and Eliza (2). Next up: OHM, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DRAMA SOURCE ARTIFACTS is a techno and house artist tracked on soundcheck, with 
 
 Galo (2), Astral Travel, Eliza (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dramasourceartifacts/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dramasourceartifacts/)*

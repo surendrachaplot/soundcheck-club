@@ -1,14 +1,13 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+upsammy is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
+upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
 | Wed, 12 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Wed, 12 Aug 2026 | Neue Nationalgalerie | Berlin |
@@ -21,6 +20,7 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Jul 2026
 - Melkweg, Amsterdam — Thu, 30 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -28,10 +28,9 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Garage Noord, Amsterdam — Fri, 3 Jul 2026
 - Botanique, Brussels — Sun, 31 May 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

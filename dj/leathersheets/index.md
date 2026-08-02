@@ -1,6 +1,6 @@
 # leathersheets
 
-leathersheets is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
+leathersheets is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
 
 leathersheets is a techno and breakbeat artist based in Canada, tracked on soundcheck, with 24 sets logged across Montreal. Often billed alongside Sperdakos, Pretty Privilege and cashboii. Next up: Village au Pied-du-Courant, Montreal on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ leathersheets is a techno and breakbeat artist based in Canada, tracked on sound
 
 Sperdakos, Pretty Privilege, cashboii
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leathersheets/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leathersheets/)*

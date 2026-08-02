@@ -1,6 +1,6 @@
 # ESC (5)
 
-ESC (5) is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+ESC (5) is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
 ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Antwerp, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Dr Dubplate, Prozak (IRL) and Silva Bumpa. Next up: Finsbury Park, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Dr Dubplate, Prozak (IRL), Silva Bumpa
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*

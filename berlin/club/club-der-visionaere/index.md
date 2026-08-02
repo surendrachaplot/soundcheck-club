@@ -1,6 +1,6 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dropout" on Sat, 1 Aug 2026.
+Club der Visionaere is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Disco Sour Machine" on Sun, 2 Aug 2026.
 
 Club der Visionaere is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Pakkadej, Alex Picone, Alien Communications and Ancut and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
@@ -8,7 +8,6 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 19 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Dropout | Gebrüder Teichmann, Jackbox, Raymond Ernst, S-max |
 | Sun, 2 Aug 2026 | Disco Sour Machine | Argenis Brito, Chica Paula, Dandy Jack, Dimitrios (3), James Dean Brown, Pakkadej, Ponura, Tau Car, Yapacc, himeee |
 | Mon, 3 Aug 2026 | Dunkle Dummies | Andrea Ferlin, Christine Benz |
 | Tue, 4 Aug 2026 | Tentacles | Dirac, Modex |
@@ -18,9 +17,10 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 19 upcoming
 | Sun, 9 Aug 2026 | Perfect Sundays:: | André Galluzzi, Cesar Merveille, Lorenzo Chiabotti, Luc Ringeisen, Que Sakamoto |
 | Tue, 11 Aug 2026 | Outer Place | Dean Denali, Ma.to, Naima (2), Robin Ordell, Stephanie Sykes |
 | Wed, 12 Aug 2026 | Zukunft | Claudio PRC, Costanza, GNMR, Lea Occhi |
+| Thu, 13 Aug 2026 | Same Same But Different | Idit Frenkel, Karina Schneider, Kenneth Scott, Marc Schneider, Robin RB |
 
 ## Address
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

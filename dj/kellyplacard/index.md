@@ -1,6 +1,6 @@
 # Kelly Placard
 
-Kelly Placard is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 15 Aug 2026.
+Kelly Placard is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 15 Aug 2026.
 
 Kelly Placard is a techno and post-punk artist based in France, tracked on soundcheck, with 7 sets logged across Strasbourg. Often billed alongside Bjr Alex, C.K and DJ Godfather. Next up: Karmen Camina, Strasbourg on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Kelly Placard is a techno and post-punk artist based in France, tracked on sound
 
 Bjr Alex, C.K, DJ Godfather
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyplacard/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyplacard/)*

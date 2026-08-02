@@ -1,6 +1,6 @@
 # ki (43)
 
-ki (43) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at clubasia, Tokyo on Wed, 5 Aug 2026.
+ki (43) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at clubasia, Tokyo on Wed, 5 Aug 2026.
 
 ki (43) is a techno and house artist based in Japan, tracked on soundcheck, with 17 sets logged across Barcelona and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and SINZIN. Next up: clubasia, Tokyo on Wed 5 Aug.
 
@@ -26,4 +26,4 @@ ki (43) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 SIGNAL (JP), MOTOKA, SINZIN
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*

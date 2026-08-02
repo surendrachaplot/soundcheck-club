@@ -1,19 +1,19 @@
 # mafiii
 
-mafiii is a Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Aahhh Rooftop, Munich on Sat, 1 Aug 2026.
+mafiii is a Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Praterinsel, Munich on Sat, 22 Aug 2026.
 
-mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Madrid and Munich. Often billed alongside groovian peruvian, Katopodis and Anthony Godfather (2). Next up: Aahhh Rooftop, Munich on Sat 1 Aug.
+mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Madrid and Munich. Often billed alongside groovian peruvian, Katopodis and Anthony Godfather (2). Next up: Praterinsel, Munich on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Aahhh Rooftop | Munich |
 | Sat, 22 Aug 2026 | Praterinsel | Munich |
 | Sat, 29 Aug 2026 | Komplex Berlin | Berlin |
 
 ## Recently played
 
+- Aahhh Rooftop, Munich — Sat, 1 Aug 2026
 - Madam, Amsterdam — Sat, 25 Jul 2026
 - Madam, Amsterdam — Sat, 25 Jul 2026
 - Space for Skate, Munich — Sat, 11 Jul 2026
@@ -26,4 +26,4 @@ mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10
 
 groovian peruvian, Katopodis, Anthony Godfather (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*

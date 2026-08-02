@@ -1,6 +1,6 @@
 # E.DN
 
-E.DN is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+E.DN is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 E.DN is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Aberdeen, Dublin, Edinburgh and Glasgow and 2 more. Often billed alongside Frazi.er, DV60 and Smiff. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ E.DN is a techno and jungle artist based in United Kingdom, tracked on soundchec
 
 Frazi.er, DV60, Smiff
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.dn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.dn/)*

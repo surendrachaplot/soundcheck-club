@@ -1,6 +1,6 @@
 # Silvahfonk
 
-Silvahfonk is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Melkweg, Amsterdam on Mon, 3 Aug 2026.
+Silvahfonk is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Melkweg, Amsterdam on Mon, 3 Aug 2026.
 
 Silvahfonk is a drum & bass and jungle artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Black Sun Empire, Enei and Insom. Next up: Melkweg, Amsterdam on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Silvahfonk is a drum & bass and jungle artist based in Netherlands, tracked on s
 
 Black Sun Empire, Enei, Insom
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvahfonk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvahfonk/)*

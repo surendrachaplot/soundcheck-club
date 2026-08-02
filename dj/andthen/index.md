@@ -1,6 +1,6 @@
 # AndThen
 
-AndThen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
+AndThen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
 
 AndThen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brighton and London. Often billed alongside RJ Mullen, Deams and Jay Wilson. Next up: Egg London, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AndThen is a house and tech house artist based in United Kingdom, tracked on sou
 
 RJ Mullen, Deams, Jay Wilson
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andthen/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andthen/)*

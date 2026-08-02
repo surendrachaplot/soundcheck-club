@@ -1,6 +1,6 @@
 # Dana Lu
 
-Dana Lu is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - TSQ LIVE, New York City on Tue, 4 Aug 2026.
+Dana Lu is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - TSQ LIVE, New York City on Tue, 4 Aug 2026.
 
 Dana Lu is a house and reggaeton artist tracked on soundcheck, with 36 sets logged across Geneva and Newyorkcity. Often billed alongside DADA COZMIC, DJ Ultra Violet and Jeremy Giros. Next up: TBA - TSQ LIVE, Newyorkcity on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Dana Lu is a house and reggaeton artist tracked on soundcheck, with 36 sets logg
 
 DADA COZMIC, DJ Ultra Violet, Jeremy Giros
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danalu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danalu/)*

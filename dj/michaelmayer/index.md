@@ -1,14 +1,13 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Michael Mayer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lux Fragil, Lisbon on Fri, 28 Aug 2026.
 
-Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: ://about blank, Berlin on Sat 1 Aug.
+Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Lux Fragil, Lisbon on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ://about blank | Berlin |
 | Fri, 28 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 5 Sept 2026 | Treibgut | Düsseldorf |
 | Sat, 19 Sept 2026 | Specka | Madrid |
@@ -18,6 +17,7 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets l
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 1 Aug 2026
 - Luz De Gas, Barcelona — Fri, 24 Jul 2026
 - Landesmuseum, Zurich — Mon, 20 Jul 2026
 - Audio Club, Geneva — Fri, 10 Jul 2026
@@ -25,10 +25,9 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets l
 - Seaseaclub Barcelona, Barcelona — Sun, 21 Jun 2026
 - Parkcafe, Cologne — Sun, 3 May 2026
 - Parkcafe, Cologne — Sun, 19 Apr 2026
-- fi, Cologne — Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

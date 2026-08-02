@@ -1,20 +1,20 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
+Hayley Zalassi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-Hayley Zalassi is a house and techno artist tracked on soundcheck, with 87 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Quarters, Brighton on Sat 1 Aug.
+Hayley Zalassi is a house and techno artist tracked on soundcheck, with 87 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Quarters | Brighton |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 29 Aug 2026 | Ratpack Piano Bar | Edinburgh |
 
 ## Recently played
 
+- Quarters, Brighton — Sat, 1 Aug 2026
 - Hidden, Manchester — Fri, 17 Jul 2026
 - Hazlehead Park Aberdeen, Aberdeen — Fri, 26 Jun 2026
 - Gallery, London — Fri, 29 May 2026
@@ -22,10 +22,9 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 87 sets 
 - The Bongo Club, Edinburgh — Sat, 16 May 2026
 - The Caves, Edinburgh — Fri, 1 May 2026
 - Jacaranda Records, Liverpool — Wed, 8 Apr 2026
-- Sub Club, Glasgow — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

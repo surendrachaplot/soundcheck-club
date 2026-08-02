@@ -1,8 +1,8 @@
 # Claude VonStroke
 
-Claude VonStroke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
+Claude VonStroke is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
 
-Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
+Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Knockdown Center | New York City |
 | Sun, 16 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 31 Oct 2026 | TBA - Arts District Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 
 Green Velvet, Ardalan, Boys Noize
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*

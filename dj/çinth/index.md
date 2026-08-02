@@ -1,18 +1,18 @@
 # ÇINTH
 
-ÇINTH is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
+ÇINTH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
 
-ÇINTH is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside RBI (Aus), Agata (PL) and Aquamarine. Next up: Distillery N17, London on Sat 1 Aug.
+ÇINTH is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside RBI (Aus), Agata (PL) and Aquamarine. Next up: Ormside Projects, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Distillery N17 | London |
 | Fri, 14 Aug 2026 | Ormside Projects | London |
 
 ## Recently played
 
+- Distillery N17, London — Sat, 1 Aug 2026
 - SET Vault, London — Sat, 9 Aug 2025
 - TBA - London, London — Sat, 14 Jun 2025
 - ://about blank, Berlin — Fri, 11 Apr 2025
@@ -25,4 +25,4 @@
 
 RBI (Aus), Agata (PL), Aquamarine
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/çinth/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/çinth/)*

@@ -1,6 +1,6 @@
 # TWOEF
 
-TWOEF is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+TWOEF is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
 TWOEF is a tech house and house artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Angelo Ferreri, Benson (IT) and Bianchetti. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ TWOEF is a tech house and house artist based in Italy, tracked on soundcheck, wi
 
 Angelo Ferreri, Benson (IT), Bianchetti
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twoef/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twoef/)*

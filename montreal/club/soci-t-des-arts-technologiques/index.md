@@ -1,14 +1,13 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DJ Chaotic Ugly + Crystallmess + Gabber Eleganza + D. Blavatsky + Strawberry Gothcake" on Sat, 1 Aug 2026.
+Société des arts technologiques is a music venue in Montreal with 15 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Dômesicle x Ferias — Alina b2b Guthrie" on Fri, 7 Aug 2026.
 
-Société des arts technologiques is a music venue in Montreal listed on soundcheck. 16 upcoming nights, with line-ups including A Guy Called Gerald, Alan Harman, Alina (MTL) and ARMANA KHAN and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
+Société des arts technologiques is a music venue in Montreal listed on soundcheck. 15 upcoming nights, with line-ups including A Guy Called Gerald, Alan Harman, Alina (MTL) and ARMANA KHAN and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | DJ Chaotic Ugly + Crystallmess + Gabber Eleganza + D. Blavatsky + Strawberry Gothcake | Chaotic Ugly, Crystallmess, D.Blavatsky, Gabber Eleganza, Machine Girl, Mowie (2), Outback, the bald girl |
 | Fri, 7 Aug 2026 | Dômesicle x Ferias — Alina b2b Guthrie | Alina (MTL), Guthrie |
 | Sat, 8 Aug 2026 | SUNSAT | Kiju, Laurence Matte |
 | Sat, 8 Aug 2026 | DISCOÑO Orgullo Pride | ARMANA KHAN, Byrell The Great, Cakes Da Killa, Clementaum, DJ Punani, Ekitwanda, La Niña Kiwi, Ms Nina (ES), Rosa Pistola, Syana, UNiiQU3, mCherry |
@@ -18,9 +17,10 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 | Thu, 27 Aug 2026 | Jump Source, ELECTRONICOS FANTASTICOS!, Zora Jones, Noémi Büchi, Korea Town Acid - MUTEK 27 | Jump Source, Korea Town Acid, Zora Jones |
 | Fri, 28 Aug 2026 | A Guy Called Gerald, gyrofield, Honeydrip, Mia Koden, Florence-Delphine Roux - MUTEK 27 | A Guy Called Gerald, Honeydrip, Mia Koden, Mika Oki, Murthovic, Sara Persico, gyrofield |
 | Sat, 29 Aug 2026 | Violent Magic Orchestra, Cry (Relaxer & Kilbourne), Alan Harman, Evicshen - MUTEK 27 | Alan Harman, Con Secuencias, El Ángel Exterminador, M Salaciak, Violent Magic Orchestra |
+| Sun, 30 Aug 2026 | Dana Ruh, Dave Huismans, Nazar, Purelink, Matthew Herbert & Julian Sartorius - MUTEK 27 | Dana Ruh, Dave Huismans, Matthew Herbert, Nazar, Poirier |
 
 ## Address
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

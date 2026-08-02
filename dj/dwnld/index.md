@@ -1,6 +1,6 @@
 # dwnld
 
-dwnld is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Ng Fook Thong temple, Georgetown, Penang, Kuala Lumpur on Fri, 7 Aug 2026.
+dwnld is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Ng Fook Thong temple, Georgetown, Penang, Kuala Lumpur on Fri, 7 Aug 2026.
 
 dwnld is a techno and experimental artist based in Malaysia, tracked on soundcheck, with 12 sets logged across Kualalumpur, Shenzhen and Singapore. Often billed alongside Cumboard, Nazarud and 535eye. Next up: TBA - Ng Fook Thong temple, Georgetown, Penang, Kualalumpur on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ dwnld is a techno and experimental artist based in Malaysia, tracked on soundche
 
 Cumboard, Nazarud, 535eye
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwnld/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwnld/)*

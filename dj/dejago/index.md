@@ -1,6 +1,6 @@
 # Dejago
 
-Dejago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Fridas Pier, Stuttgart on Sun, 2 Aug 2026.
+Dejago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fridas Pier, Stuttgart on Sun, 2 Aug 2026.
 
 Dejago is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Stuttgart. Often billed alongside Marius Lehnert, Miss Evoice and Jakob Mäder. Next up: Fridas Pier, Stuttgart on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Dejago is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Marius Lehnert, Miss Evoice, Jakob Mäder
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dejago/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dejago/)*

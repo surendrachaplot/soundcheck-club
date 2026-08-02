@@ -1,19 +1,19 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Poolen, Copenhagen on Sat, 1 Aug 2026.
+Nooriyah is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Culture, Washington DC on Sat, 19 Sept 2026.
 
-Nooriyah is a house and club artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside NIKS, Jyoty and Soichi Terada. Next up: Poolen, Copenhagen on Sat 1 Aug.
+Nooriyah is a house and club artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside NIKS, Jyoty and Soichi Terada. Next up: Culture, Washingtondc on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Poolen | Copenhagen |
 | Sat, 19 Sept 2026 | Culture | Washington DC |
 | Fri, 2 Oct 2026 | New Century Locker | Manchester |
 
 ## Recently played
 
+- Poolen, Copenhagen — Sat, 1 Aug 2026
 - TBA - La Citadelle de Marseille , Marseille — Thu, 30 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 31 May 2026
 - Exhibition London, London — Sat, 25 Apr 2026
@@ -21,10 +21,9 @@ Nooriyah is a house and club artist based in United Kingdom, tracked on soundche
 - Melkweg, Amsterdam — Sat, 14 Feb 2026
 - Elysée Montmartre, Paris — Fri, 6 Feb 2026
 - Botanique, Brussels — Sat, 31 Jan 2026
-- The Prince Consort, Brisbane — Sat, 24 Jan 2026
 
 ## Shares bills with
 
 NIKS, Jyoty, Soichi Terada
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

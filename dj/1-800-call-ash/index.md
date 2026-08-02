@@ -1,6 +1,6 @@
 # 1-800-CALL-ASH
 
-1-800-CALL-ASH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
+1-800-CALL-ASH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
 
 1-800-CALL-ASH is a house and disco artist based in United States of America, tracked on soundcheck, with 22 sets logged across Detroit. Often billed alongside Haute to Death, Charles Trees and LATEX GIRL. Next up: Paris Bar, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@
 
 Haute to Death, Charles Trees, LATEX GIRL
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800-call-ash/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800-call-ash/)*

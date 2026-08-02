@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
+Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
 
 Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Tommy Phillips, Ozzie Guven and DXNBY. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
 
@@ -35,4 +35,4 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets l
 
 Tommy Phillips, Ozzie Guven, DXNBY
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

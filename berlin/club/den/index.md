@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV " on Sat, 1 Aug 2026.
+ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "NOX CULTURA EVENTS" on Thu, 6 Aug 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alexa Fluor and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV  | ALIS., Alexa Fluor, DJ Gianni, ELOISA, Lisek, Melanchromie, NASTYA NVRSLP, Razzle Dazzler, YENKOV |
 | Thu, 6 Aug 2026 | NOX CULTURA EVENTS | Fazi, GM1 (IT), Kizu, MISSTAKEN, Take1More |
 | Fri, 7 Aug 2026 | Ten Years SYNOID | Acierate, AnD, PINKBOIALWAYSCRY, Rebekah, SLV |
 | Fri, 7 Aug 2026 | ANTI ANTI ENERGY |  |
@@ -18,9 +17,10 @@
 | Fri, 21 Aug 2026 | BPM x Anechoic: Summer Ride | August Kind, B.R.K.Ø., Bruno Brero, Deltapeak, E.T., Eli Bot, Hanne B, MIMI404, OnlyWithYou, bbymeister, e.leptic, jeanska, k4mi, queen yasmeen, sterni (DE) |
 | Sat, 22 Aug 2026 | FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) | Dylan Fogarty, EMIRA, Human Experiments, JenTen, Jessie Granqvist, Ksenia K, MAURER, Maris Shilton, Mython, PØVE, Santos., TAUREAN (2), Taurean, VOICEX |
 | Sun, 23 Aug 2026 | Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arbër, MXC, Vaccaro | DJ Pete, K-H1, KIV., MXC, Mottomo, No Auer, Spencer Parker, Vaccaro, arbër, kts<3, luci., søssa |
+| Thu, 27 Aug 2026 | CANCELLED -  OBXENE |  |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

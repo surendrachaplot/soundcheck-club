@@ -1,14 +1,13 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Resonate Pres. Justin Robertson" on Sat, 1 Aug 2026.
+Piccadilly Central is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SWAY PRESENTS: THE LOCK IN PART DEUX" on Fri, 14 Aug 2026.
 
-Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including DJ NORTHERN, Doc Martin, Groovy D (1) and House of Pengshui and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
+Piccadilly Central is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including DJ NORTHERN, Doc Martin, Groovy D (1) and House of Pengshui and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Resonate Pres. Justin Robertson | Justin Robertson, Miguel Manzano |
 | Fri, 14 Aug 2026 | SWAY PRESENTS: THE LOCK IN PART DEUX | Groovy D (1), House of Pengshui, Mix-Stress |
 | Fri, 21 Aug 2026 | I Am & Resonate Pres. Doc Martin | Doc Martin |
 | Sat, 29 Aug 2026 | Mixing Mates with DJ NORTHERN | DJ NORTHERN, Pangölin, Róisín W, Skip, The Brokers, WeeDot |
@@ -17,4 +16,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

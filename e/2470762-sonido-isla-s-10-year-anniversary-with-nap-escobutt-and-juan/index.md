@@ -1,6 +1,6 @@
-# Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and juanito at Standard Time
+# Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and Juanito at Standard Time
 
-Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and juanito at Standard Time on Fri 21 Aug, Toronto. 3 acts on the bill: ESCOBUTT, Juanit0 and NAP (MX). Preview the line-up and save it on soundcheck.
+Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and Juanito at Standard Time on Fri 21 Aug, Toronto. 3 acts on the bill: ESCOBUTT, Juanit0 and NAP (MX). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

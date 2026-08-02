@@ -1,6 +1,6 @@
 # Neutralised
 
-Neutralised is a Bass and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blue Velvet, Berlin on Sun, 2 Aug 2026.
+Neutralised is a Bass and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Blue Velvet, Berlin on Sun, 2 Aug 2026.
 
 Neutralised is a bass and breakcore artist tracked on soundcheck, with 9 sets logged across Berlin and Bristol. Often billed alongside Baxua, FoxMind and Janna N. Next up: Blue Velvet, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Neutralised is a bass and breakcore artist tracked on soundcheck, with 9 sets lo
 
 Baxua, FoxMind, Janna N
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neutralised/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neutralised/)*

@@ -1,6 +1,6 @@
 # Das Amt
 
-Das Amt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
+Das Amt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
 
 Das Amt is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Zurich. Often billed alongside Alan Lao, andYUso and Waikiki. Next up: TBA, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Das Amt is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Alan Lao, andYUso, Waikiki
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasamt/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasamt/)*

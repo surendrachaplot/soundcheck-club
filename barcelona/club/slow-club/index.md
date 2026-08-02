@@ -1,14 +1,13 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Drivin' pres. Navider" on Sat, 1 Aug 2026.
+Slow Club is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Deep, Tech, House by Navider" on Thu, 6 Aug 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Drivin' pres. Navider | Navider |
 | Thu, 6 Aug 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 7 Aug 2026 | Soulful City pres. Navider | Navider |
 | Sat, 8 Aug 2026 | Glamour Freaks: Navider invites vernimoon | Navider, vernimoon |
@@ -18,9 +17,10 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 25 upcoming nights
 | Thu, 20 Aug 2026 | Deep, Tech, House: Hermes Disco Eterno | Hermes Disco Eterno |
 | Fri, 21 Aug 2026 | Glamour Freaks: Hermes Disco Eterno | Hermes Disco Eterno |
 | Sat, 22 Aug 2026 | The Retrospective: Navider | Navider |
+| Thu, 27 Aug 2026 | Deep, Tech, House by Navider | Navider |
 
 ## Address
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

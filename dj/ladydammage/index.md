@@ -1,6 +1,6 @@
 # Lady Dammage
 
-Lady Dammage is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
+Lady Dammage is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
 
 Lady Dammage is a techno and hardcore artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Dimitri K, Hysteria and John Holt. Next up: M7 Club, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Lady Dammage is a techno and hardcore artist based in Spain, tracked on soundche
 
 Dimitri K, Hysteria, John Holt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*

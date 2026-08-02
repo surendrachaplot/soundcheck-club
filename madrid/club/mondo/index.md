@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Paige Tomlinson / Gerardo Niva / Mike Momburg" on Sat, 1 Aug 2026.
+Mondo is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Gerardo Niva / Jim Jonathan / doccudder" on Thu, 6 Aug 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with line-ups including Alarico, Alba Franch, Andres Campo and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -8,7 +8,6 @@ Mondo is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Paige Tomlinson / Gerardo Niva / Mike Momburg | Gerardo Niva, Mike Momburg, Paige Tomlinson |
 | Thu, 6 Aug 2026 | Gerardo Niva / Jim Jonathan / doccudder | Gerardo Niva, doccudder |
 | Sat, 8 Aug 2026 | X-Coast / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Gerardo Niva, X-Coast |
 | Thu, 13 Aug 2026 | Gerardo Niva B2B pavvvvvvlo / DJ SWISHERMAN B2B doccudder | DJ SWISHERMAN, Gerardo Niva, doccudder, pavvvvvvlo |
@@ -18,9 +17,10 @@ Mondo is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with 
 | Thu, 27 Aug 2026 | Demi Riquisimo / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Demi Riquisimo, Gerardo Niva |
 | Sat, 29 Aug 2026 | STÜM / Gerardo Niva | Gerardo Niva, STÜM |
 | Sat, 5 Sept 2026 | AFTERPARTY: Kyle Starkey / DART / Gerardo Niva B2B S3PPA | DART, Gerardo Niva, Kyle Starkey, S3PPA |
+| Sat, 12 Sept 2026 | AFTERPARTY: Faster Horses / Gerardo Niva / Alba Franch | Alba Franch, Faster Horses, Gerardo Niva |
 
 ## Address
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

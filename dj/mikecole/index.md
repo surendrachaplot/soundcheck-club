@@ -1,6 +1,6 @@
 # Mike Cole
 
-Mike Cole is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Chicago on Fri, 14 Aug 2026.
+Mike Cole is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Chicago on Fri, 14 Aug 2026.
 
 Mike Cole is a house and deep house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Chicago. Often billed alongside Gene Hunt. Next up: TBA, Chicago on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Mike Cole is a house and deep house artist based in United States of America, tr
 
 Gene Hunt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikecole/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikecole/)*

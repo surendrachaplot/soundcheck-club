@@ -1,6 +1,6 @@
 # nguyendowsXP
 
-nguyendowsXP is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at MoMA PS1, New York City on Fri, 7 Aug 2026.
+nguyendowsXP is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at MoMA PS1, New York City on Fri, 7 Aug 2026.
 
 nguyendowsXP is a techno and club artist based in Vietnam, tracked on soundcheck, with 45 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside moong!rl, Mengze and Mui Mui. Next up: MoMA PS1, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ nguyendowsXP is a techno and club artist based in Vietnam, tracked on soundcheck
 
 moong!rl, Mengze, Mui Mui
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nguyendowsxp/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nguyendowsxp/)*

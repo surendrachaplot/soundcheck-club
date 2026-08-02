@@ -1,14 +1,13 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 1 Aug 2026.
+Dyed Soundorom is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Fünk, Mexico City on Sat, 15 Aug 2026.
 
-Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Auckland and 51 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Tokonoma Club, Frankfurt on Sat 1 Aug.
+Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Auckland and 51 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Fünk, Mexicocity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Tokonoma Club | Frankfurt |
 | Sat, 15 Aug 2026 | Fünk | Mexico City |
 | Thu, 20 Aug 2026 | Starlane São Paulo | Sao Paulo |
 | Fri, 21 Aug 2026 | Crobar - Buenos Aires | Buenos Aires |
@@ -21,6 +20,7 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 219 
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt — Sat, 1 Aug 2026
 - TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon — Thu, 30 Jul 2026
 - Place Poelaertplein, Brussels — Sat, 25 Jul 2026
 - UMI, Brussels — Sat, 25 Jul 2026
@@ -28,10 +28,9 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 219 
 - Playa Soleil Ibiza, Ibiza — Wed, 8 Jul 2026
 - Sawmills, Bristol — Sat, 4 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
-- Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

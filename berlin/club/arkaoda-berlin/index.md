@@ -1,14 +1,13 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Batukizer & Kabulom at arkaoda" on Sat, 1 Aug 2026.
+arkaoda Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Vinyl Market with Batukizer" on Sun, 2 Aug 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including A.Wild, Alada, Batukizer and Cousin and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including A.Wild, Alada, Cousin and COZi and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Batukizer & Kabulom at arkaoda | Batukizer, Kabulom |
 | Sun, 2 Aug 2026 | Vinyl Market with Batukizer |  |
 | Thu, 6 Aug 2026 | Noche Cierva en Arkaoda | CRUHDA, Kappa Cat, Kasja |
 | Fri, 7 Aug 2026 | X-Kalay with *Special Guest*, DJ Life, evin, Georgia Bird, Sam | COZi, DJ Life, Georgia Bird, evin |
@@ -18,9 +17,10 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nigh
 | Fri, 14 Aug 2026 | TroubleMaker Records — 10th Anniversary | Alada, DJ Pichula, Gadutra, MADAKYA |
 | Thu, 27 Aug 2026 | Wormhole 005 and Last Thursday ever at Arkaoda | Emanuele Barilli, Josefina Tapia (2), Sean Gonzalez, Velasco |
 | Sat, 3 Oct 2026 | LEYA / Berlin Concert | LEYA |
+| Fri, 23 Oct 2026 | lovetempo (Mattie Safer of The Rapture), Moriah Plaza | Moriah Plaza, lovetempo |
 
 ## Address
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

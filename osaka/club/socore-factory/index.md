@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ENISHIT! Release GIG BAAD BEAT GOOD GROOVE" on Sat, 1 Aug 2026.
+Socore Factory is a music venue in Osaka with 15 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "WORM OSAKA 5th Anniversary Party" on Fri, 7 Aug 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming nights, with line-ups including AKIHIRO, Akira Saotome, Ane and Bass and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 15 upcoming nights, with line-ups including AKIHIRO, Akira Saotome, Ane and Bass and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ENISHIT! Release GIG BAAD BEAT GOOD GROOVE |  |
 | Fri, 7 Aug 2026 | WORM OSAKA 5th Anniversary Party | Yukari BB |
 | Mon, 10 Aug 2026 | POUND | IKUZO, Itou, ONO (3), Yudai Sugiyama |
 | Tue, 11 Aug 2026 | スーパーオギャー夏祭り！ |  |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming night
 | Wed, 19 Aug 2026 | SOCORE WAVE ~Rebel with a Cause 東名阪ツアー~ | JIN CROMANYON |
 | Thu, 20 Aug 2026 | Ivy presents ぼくは地球と歌う | Ivy |
 | Sun, 23 Aug 2026 | DOURAKU RECORDS 7th Anniversary | Gumbo, KEi |
+| Tue, 1 Sept 2026 | ナインティーズは突然に |  |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

@@ -1,6 +1,6 @@
 # Yoru (KR)
 
-Yoru (KR) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Atdge Seoul, Seoul on Fri, 14 Aug 2026.
+Yoru (KR) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Atdge Seoul, Seoul on Fri, 14 Aug 2026.
 
 Yoru (KR) is a house and disco artist based in South Korea, tracked on soundcheck, with 21 sets logged across Seoul. Often billed alongside Gio (KR), Yusuf and KYVU. Next up: Atdge Seoul, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Yoru (KR) is a house and disco artist based in South Korea, tracked on soundchec
 
 Gio (KR), Yusuf, KYVU
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yorukr/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yorukr/)*

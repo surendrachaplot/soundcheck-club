@@ -1,14 +1,13 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FNGRS CRSSD presents Anjunadeep Open Air at Palms Beach Club" on Sat, 1 Aug 2026.
+Beach House San Diego is a music venue in San Diego with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "RENEW - A BEACHSIDE WELLNESS EXPERIENCE FT. Big Gigantic" on Sun, 2 Aug 2026.
 
-Beach House San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nights, with line-ups including 999999999, Ben Sterling, Big Gigantic and CJ Posada and 2 more. Browse upcoming dates, start times and who's playing. 3125 Ocean Front Walk.
+Beach House San Diego is a music venue in Sandiego listed on soundcheck. 10 upcoming nights, with line-ups including 999999999, Ben Sterling, Big Gigantic and CJ Posada and 2 more. Browse upcoming dates, start times and who's playing. 3125 Ocean Front Walk.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FNGRS CRSSD presents Anjunadeep Open Air at Palms Beach Club | CRi, Nicky Elisabeth, Rezident, Romain Garcia |
 | Sun, 2 Aug 2026 | RENEW - A BEACHSIDE WELLNESS EXPERIENCE FT. Big Gigantic | Big Gigantic, CJ Posada |
 | Fri, 14 Aug 2026 | LED presents Whethan [SOLD OUT] |  |
 | Sat, 15 Aug 2026 | LED presents Whethan [SOLD OUT] |  |
@@ -18,9 +17,10 @@ Beach House San Diego is a music venue in Sandiego listed on soundcheck. 11 upco
 | Sun, 6 Sept 2026 | FNGRS CRSSD presents Palms Beach Club with 999999999 | 999999999 |
 | Sun, 13 Sept 2026 | FNGRS CRSSD presents Palms Beach Club with Ben Sterling + Locky | Ben Sterling, Locky |
 | Sat, 24 Oct 2026 | LED presents Eazybaked with Richard Finger |  |
+| Sun, 25 Oct 2026 | LED Day Club with Jai Wolf [10 Year Anniversary Tour] |  |
 
 ## Address
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

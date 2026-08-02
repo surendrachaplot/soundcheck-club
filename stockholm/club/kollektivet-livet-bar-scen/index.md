@@ -1,6 +1,6 @@
 # Kollektivet Livet Bar & Scen
 
-Kollektivet Livet Bar & Scen is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Com Truise (DJ-set)" on Wed, 5 Aug 2026.
+Kollektivet Livet Bar & Scen is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Com Truise (DJ-set)" on Wed, 5 Aug 2026.
 
 Kollektivet Livet Bar & Scen is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, with line-ups including Com Truise, DJ Krush and IAMX. Browse upcoming dates, start times and who's playing. Stadsgårdsterminalen, 116 45 Stockholm, Sweden.
 
@@ -16,4 +16,4 @@ Kollektivet Livet Bar & Scen is a music venue in Stockholm listed on soundcheck.
 
 Stadsgårdsterminalen, 116 45 Stockholm, Sweden, Stockholm
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kollektivet-livet-bar-scen/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kollektivet-livet-bar-scen/)*

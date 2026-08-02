@@ -1,6 +1,6 @@
 # Innersha
 
-Innersha is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Innersha is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
 Innersha is a techno and trance artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Brussels and Budapest and 11 more. Often billed alongside Woody92, Agonis and Garçon. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Innersha is a techno and trance artist tracked on soundcheck, with 20 sets logge
 
 Woody92, Agonis, Garçon
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

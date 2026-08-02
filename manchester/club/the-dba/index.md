@@ -1,14 +1,13 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLY GIRLS$: THE DIABLA RAVE" on Sat, 1 Aug 2026.
+The DBA is a music venue in Manchester with 19 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BOOTLEG: VOL2" on Fri, 7 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including 4STR0, Aiden Francis, Arkane and atalaya and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming nights, with line-ups including 4STR0, Aiden Francis, Arkane and atalaya and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FLY GIRLS$: THE DIABLA RAVE |  |
 | Fri, 7 Aug 2026 | BOOTLEG: VOL2 |  |
 | Fri, 7 Aug 2026 | I KISSED A GIRL at Tenz |  |
 | Sat, 8 Aug 2026 | DBA Summer Fête |  |
@@ -18,9 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights,
 | Sun, 16 Aug 2026 | Going West |  |
 | Thu, 20 Aug 2026 | VALIS 1.0 - The Difference Engine | Lapalace, sclews |
 | Fri, 21 Aug 2026 | HOUSE RULES x EUPHÓRIA: Chapter III | BRNE, FXCKBOUT, HSTN, KeepKeep, RYLO (UK), SHUNTA, blo rida, imad:re |
+| Sat, 22 Aug 2026 | HØL: Phil Berg, Blame The Mono, Arkane b2b INLIMEN, Danny Roach, djcd, švedka, Edac | Arkane, Blame The Mono, Danny Roach, Edac, INLIMEN, Phil Berg, djcd, švedka |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

@@ -1,15 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Bunker Nonstop: Rrose, Timnah, Carrier, Carlos Souffront, Patrick Russell, Scotia + more" on Sat, 1 Aug 2026.
+Nowadays is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Mister Sunday: Justin Carter and Bridge" on Sun, 2 Aug 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights, with line-ups including Akanbi, Ali Coleman, Baalti and Bendito and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights, with line-ups including Akanbi, Ali Coleman, Baalti and Bendito and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | The Bunker Nonstop: Rrose, Timnah, Carrier, Carlos Souffront, Patrick Russell, Scotia + more | Carlos Souffront, Carrier, Lauren Flax, Patrick Russell, Rrose, Scotia, Sevyn Love, Timnah |
-| Sat, 1 Aug 2026 | YARD MART PRINT CAMP: A Local Artist Market and Open Format Screen Printing Workshop |  |
 | Sun, 2 Aug 2026 | Mister Sunday: Justin Carter and Bridge | Bridge (NY), Justin Carter |
 | Fri, 7 Aug 2026 | Label Night: 15 Years of Príncipe with Danifox, DJ Lycox, DJ Nigga Fox, SAY3 | DJ Lycox, DJ Nigga Fox, Dj Danifox, SAY3 |
 | Sat, 8 Aug 2026 | Nonstop: Cora, DJ Bone, DJ Miss Parker, Kasra V, Love Letters, Yazzus | Cora (CN), DJ Bone, Kasra V, Love Letters, Miss Parker, Yazzus |
@@ -18,9 +16,11 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 26 upcoming night
 | Wed, 12 Aug 2026 | Intro to Ableton Lab: How to Make Your Own Edits and Mashups | JP Solis, The New York Record Club for The Advancement of The Arts |
 | Fri, 14 Aug 2026 | Club Night: Derrick Carter & YASMEENAH | Derrick Carter, YASMEENAH (2) |
 | Sat, 15 Aug 2026 | GROOVY GROOVY Nonstop: Gavsborg, Baalti, DJ Noir, DJ SWISHA, KATA, Lechuga Zafiro, NVST + more | /KATA/, Akanbi, Baalti, DJ Noir, DJ SWISHA, Gavsborg, Lechuga Zafiro, NVST |
+| Sun, 16 Aug 2026 | Mister Sunday: Eamon Harkin and Justin Carter | Eamon Harkin, Justin Carter |
+| Wed, 19 Aug 2026 | Intro to Ableton Lab: How to Arrange Your Own Edits and Mashups | JP Solis, The New York Record Club for The Advancement of The Arts |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

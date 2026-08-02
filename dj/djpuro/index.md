@@ -1,6 +1,6 @@
 # DJ Puro
 
-DJ Puro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
+DJ Puro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
 
 DJ Puro is a tech house and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside I's (US), Omer Mil and Talk Shivi. Next up: Athens Square, Newyorkcity on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ DJ Puro is a tech house and house artist based in United States of America, trac
 
 I's (US), Omer Mil, Talk Shivi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpuro/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpuro/)*

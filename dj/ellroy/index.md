@@ -1,6 +1,6 @@
 # Ellroy
 
-Ellroy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Salon Daomé, Montreal on Fri, 14 Aug 2026.
+Ellroy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Salon Daomé, Montreal on Fri, 14 Aug 2026.
 
 Ellroy is an electronic artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside Joris Voorn, Dennis Cruz and Jimmy Be. Next up: Salon Daomé, Montreal on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Ellroy is an electronic artist based in Canada, tracked on soundcheck, with 7 se
 
 Joris Voorn, Dennis Cruz, Jimmy Be
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellroy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellroy/)*

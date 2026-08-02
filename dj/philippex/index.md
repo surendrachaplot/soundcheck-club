@@ -1,6 +1,6 @@
 # Philippe X
 
-Philippe X is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Unveiled, New York City on Sat, 8 Aug 2026.
+Philippe X is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Unveiled, New York City on Sat, 8 Aug 2026.
 
 Philippe X is a house and afro house artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Groovecreator and SECR3T KEY. Next up: Unveiled, Newyorkcity on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Philippe X is a house and afro house artist tracked on soundcheck, with 2 sets l
 
 Groovecreator, SECR3T KEY
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippex/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippex/)*

@@ -1,6 +1,6 @@
 # Dj Diego (1)
 
-Dj Diego (1) is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+Dj Diego (1) is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 Dj Diego (1) is a latin bass and guaracha artist based in Mexico, tracked on soundcheck, with 32 sets logged across Mexicocity. Often billed alongside Primordial Om, Dj Rankng and Ranma Entero. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Dj Diego (1) is a latin bass and guaracha artist based in Mexico, tracked on sou
 
 Primordial Om, Dj Rankng, Ranma Entero
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiego/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiego/)*

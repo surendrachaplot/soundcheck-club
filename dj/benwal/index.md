@@ -1,14 +1,13 @@
 # Benwal
 
-Benwal is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Benwal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
 
-Benwal is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Burgess Park, London on Sat 1 Aug.
+Benwal is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Nitsa Club, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Burgess Park | London |
 | Fri, 7 Aug 2026 | Nitsa Club | Barcelona |
 | Mon, 10 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -22,6 +21,7 @@ Benwal is a techno and house artist tracked on soundcheck, with 165 sets logged 
 
 ## Recently played
 
+- Burgess Park, London — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Woodstock'69, Amsterdam — Sun, 19 Jul 2026
@@ -29,10 +29,9 @@ Benwal is a techno and house artist tracked on soundcheck, with 165 sets logged 
 - The Ulster Sports Club, Belfast — Fri, 3 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- Mondo Open Air, Madrid — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

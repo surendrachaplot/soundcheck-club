@@ -1,6 +1,6 @@
 # Paradox
 
-Paradox is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kowalski, Stuttgart on Fri, 7 Aug 2026.
+Paradox is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kowalski, Stuttgart on Fri, 7 Aug 2026.
 
 Paradox is a drum & bass and jungle artist tracked on soundcheck, with 41 sets logged across Antwerp, Berlin, Brighton and Bristol and 19 more. Often billed alongside Dillinja, Double O and Gremlinz. Next up: Kowalski, Stuttgart on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Paradox is a drum & bass and jungle artist tracked on soundcheck, with 41 sets l
 
 Dillinja, Double O, Gremlinz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox/)*

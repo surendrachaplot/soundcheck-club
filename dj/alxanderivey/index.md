@@ -1,6 +1,6 @@
 # Alxander Ivey
 
-Alxander Ivey is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 22 Aug 2026.
+Alxander Ivey is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 22 Aug 2026.
 
 Alxander Ivey is a club and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Losangeles. Often billed alongside DeFacto X, CHRYSALIS and Cquestt. Next up: TBA - DTLA, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Alxander Ivey is a club and house artist based in United States of America, trac
 
 DeFacto X, CHRYSALIS, Cquestt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alxanderivey/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alxanderivey/)*

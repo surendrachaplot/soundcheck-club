@@ -1,6 +1,6 @@
 # Moruki
 
-Moruki is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at fabric, London on Sun, 2 Aug 2026.
+Moruki is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at fabric, London on Sun, 2 Aug 2026.
 
 Moruki is an electronica and house artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Memed Awad, Arval and Ray Okpara. Next up: fabric, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Moruki is an electronica and house artist based in Spain, tracked on soundcheck,
 
 Memed Awad, Arval, Ray Okpara
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moruki/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moruki/)*

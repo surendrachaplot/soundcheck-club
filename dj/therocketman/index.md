@@ -1,6 +1,6 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
+The Rocketman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
 
 The Rocketman is a techno and trance artist tracked on soundcheck, with 34 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 17 more. Often billed alongside Maddix, Hannah Laing and Acid Asian. Next up: OST, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ The Rocketman is a techno and trance artist tracked on soundcheck, with 34 sets 
 
 Maddix, Hannah Laing, Acid Asian
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

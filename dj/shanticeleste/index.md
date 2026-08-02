@@ -1,14 +1,13 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+Shanti Celeste is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 22 Aug 2026 | The White Hotel | Manchester |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -20,9 +19,11 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets
 | Sat, 3 Oct 2026 | Under The Arches | Leeds |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
+| Sat, 24 Oct 2026 | KOKO | London |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 28 Jul 2026
 - TBA, Glasgow — Fri, 24 Jul 2026
@@ -30,10 +31,9 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 21 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 20 Jun 2026
-- Esferic Bcn, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

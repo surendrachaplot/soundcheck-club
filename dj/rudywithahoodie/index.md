@@ -1,6 +1,6 @@
 # Rudy With a Hoodie
 
-Rudy With a Hoodie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at FOLD, London on Fri, 9 Oct 2026.
+Rudy With a Hoodie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at FOLD, London on Fri, 9 Oct 2026.
 
 Rudy With a Hoodie is a house and techno artist tracked on soundcheck, with 4 sets logged across Amsterdam, London and Paris. Often billed alongside Andre Zimmer, Ashee and Bambounou. Next up: FOLD, London on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Rudy With a Hoodie is a house and techno artist tracked on soundcheck, with 4 se
 
 Andre Zimmer, Ashee, Bambounou
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudywithahoodie/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudywithahoodie/)*

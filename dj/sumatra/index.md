@@ -1,6 +1,6 @@
 # Sumatra
 
-Sumatra is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at NWHR, Montreal on Fri, 7 Aug 2026.
+Sumatra is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at NWHR, Montreal on Fri, 7 Aug 2026.
 
 Sumatra is a techno and industrial artist tracked on soundcheck, with 4 sets logged across Berlin and Montreal. Often billed alongside 7AZ (1), Beltran and D.Blavatsky. Next up: NWHR, Montreal on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Sumatra is a techno and industrial artist tracked on soundcheck, with 4 sets log
 
 7AZ (1), Beltran, D.Blavatsky
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sumatra/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sumatra/)*

@@ -1,8 +1,8 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Sat, 8 Aug 2026.
+Lewis Carroll is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Sat, 8 Aug 2026.
 
-Lewis Carroll is a house and garage artist tracked on soundcheck, with 44 sets logged across Birmingham, Brighton, Edinburgh and Leeds and 3 more. Often billed alongside Dan Schofield, Tom Da Silva and Harry McCanna. Next up: Starlane Pizza Bar, London on Sat 8 Aug.
+Lewis Carroll is a house and garage artist tracked on soundcheck, with 45 sets logged across Birmingham, Brighton, Edinburgh and Glasgow and 4 more. Often billed alongside Dan Schofield, Tom Da Silva and Harry McCanna. Next up: Starlane Pizza Bar, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lewis Carroll is a house and garage artist tracked on soundcheck, with 44 sets l
 | Sat, 8 Aug 2026 | Starlane Pizza Bar | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | fabric | London |
+| Thu, 3 Sept 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Lewis Carroll is a house and garage artist tracked on soundcheck, with 44 sets l
 
 Dan Schofield, Tom Da Silva, Harry McCanna
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

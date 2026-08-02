@@ -1,6 +1,6 @@
 # Generous B
 
-Generous B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 6 Aug 2026.
+Generous B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 6 Aug 2026.
 
 Generous B is a house and disco artist tracked on soundcheck, with 21 sets logged across Miami. Often billed alongside JOVIGIBS, Mr. Tron and Souls Departed. Next up: Jolene Downtown Miami, Miami on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Generous B is a house and disco artist tracked on soundcheck, with 21 sets logge
 
 JOVIGIBS, Mr. Tron, Souls Departed
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*

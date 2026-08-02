@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 18 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 2 Aug 2026.
+Mahmut Orhan is a House and Afro House artist with 18 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 2 Aug 2026.
 
 Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Kiesgrube, Dusseldorf on Sun 2 Aug.
 
@@ -36,4 +36,4 @@ Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 120 se
 
 Shimza, Adriatique, Andrea Oliva
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

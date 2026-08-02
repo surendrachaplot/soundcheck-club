@@ -1,6 +1,6 @@
 # Sisi Carini
 
-Sisi Carini is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Manii Beach, Amsterdam on Sun, 2 Aug 2026.
+Sisi Carini is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Manii Beach, Amsterdam on Sun, 2 Aug 2026.
 
 Sisi Carini is an afro house and house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Hoani Teano, Bart Blankman and Caelestis. Next up: Manii Beach, Amsterdam on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Sisi Carini is an afro house and house artist tracked on soundcheck, with 6 sets
 
 Hoani Teano, Bart Blankman, Caelestis
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisicarini/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisicarini/)*

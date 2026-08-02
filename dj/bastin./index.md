@@ -1,6 +1,6 @@
 # Bastin.
 
-Bastin. is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Regatta Beach, Antwerp on Sat, 8 Aug 2026.
+Bastin. is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Regatta Beach, Antwerp on Sat, 8 Aug 2026.
 
 Bastin. is an afro house and deep house artist based in Belgium, tracked on soundcheck, with 2 sets logged across Antwerp and Ghent. Often billed alongside Makasi, Deco (BE) and Koda Prague. Next up: Regatta Beach, Antwerp on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Bastin. is an afro house and deep house artist based in Belgium, tracked on soun
 
 Makasi, Deco (BE), Koda Prague
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastin./)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastin./)*

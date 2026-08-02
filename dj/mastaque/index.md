@@ -1,6 +1,6 @@
 # mastaque
 
-mastaque is a Hip-Hop and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Setlist @ Somerset House, London on Sat, 15 Aug 2026.
+mastaque is a Hip-Hop and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Setlist @ Somerset House, London on Sat, 15 Aug 2026.
 
 mastaque is a hip-hop and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Cass Brewster, Continental GT and Crazy Cousinz. Next up: Setlist @ Somerset House, London on Sat 15 Aug.
 
@@ -16,4 +16,4 @@ mastaque is a hip-hop and garage artist based in United Kingdom, tracked on soun
 
 Cass Brewster, Continental GT, Crazy Cousinz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*

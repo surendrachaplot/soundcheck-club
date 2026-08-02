@@ -1,6 +1,6 @@
 # Katnada
 
-Katnada is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
+Katnada is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Katnada is a techno and tech house artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Ibiza and Milan. Often billed alongside Mar-T, Marco Faraone and SEMREH. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Katnada is a techno and tech house artist tracked on soundcheck, with 34 sets lo
 
 Mar-T, Marco Faraone, SEMREH
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katnada/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katnada/)*

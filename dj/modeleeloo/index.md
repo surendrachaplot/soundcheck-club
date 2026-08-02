@@ -1,6 +1,6 @@
 # Mode Leeloo
 
-Mode Leeloo is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 12 Aug 2026.
+Mode Leeloo is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 12 Aug 2026.
 
 Mode Leeloo is a house and afro house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Sanfrancisco. Often billed alongside HIDRA, Jeff Straw and ALEX GOODCAT. Next up: F8 1192 Folsom, Sanfrancisco on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Mode Leeloo is a house and afro house artist based in United States of America, 
 
 HIDRA, Jeff Straw, ALEX GOODCAT
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modeleeloo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modeleeloo/)*

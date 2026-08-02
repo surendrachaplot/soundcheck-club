@@ -1,6 +1,6 @@
 # Avex
 
-Avex is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+Avex is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 Avex is a house and trance artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin, Milan and Turin. Often billed alongside ADOBE, Activator and DJ Jordan. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Avex is a house and trance artist based in Italy, tracked on soundcheck, with 3 
 
 ADOBE, Activator, DJ Jordan
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avex/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avex/)*

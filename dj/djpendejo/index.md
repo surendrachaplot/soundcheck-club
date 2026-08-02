@@ -1,6 +1,6 @@
 # DJ Pendejo
 
-DJ Pendejo is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Neue Zukunft, Berlin on Fri, 7 Aug 2026.
+DJ Pendejo is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Neue Zukunft, Berlin on Fri, 7 Aug 2026.
 
 DJ Pendejo is a techno and reggaeton artist tracked on soundcheck, with 19 sets logged across Berlin, Dublin, Leipzig and Mexicocity. Often billed alongside IRONBOARD, Isa GT and kopo. Next up: Neue Zukunft, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Pendejo is a techno and reggaeton artist tracked on soundcheck, with 19 sets 
 
 IRONBOARD, Isa GT, kopo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpendejo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpendejo/)*

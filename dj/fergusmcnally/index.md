@@ -1,6 +1,6 @@
 # fergusmcnally
 
-fergusmcnally is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 7 Aug 2026.
+fergusmcnally is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 7 Aug 2026.
 
 fergusmcnally is an electro and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Glasgow. Often billed alongside Work Coach, DJ CABLECAR and Jemima from the Bible. Next up: La Cheetah Club, Glasgow on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ fergusmcnally is an electro and garage artist based in United Kingdom, tracked o
 
 Work Coach, DJ CABLECAR, Jemima from the Bible
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmcnally/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmcnally/)*

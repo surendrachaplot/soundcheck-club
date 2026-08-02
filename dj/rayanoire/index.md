@@ -1,6 +1,6 @@
 # Raya Noire
 
-Raya Noire is a Experimental and New Wave artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Brussels on Thu, 13 Aug 2026.
+Raya Noire is a Experimental and New Wave artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Brussels on Thu, 13 Aug 2026.
 
 Raya Noire is an experimental and new wave artist based in Canada, tracked on soundcheck, with 7 sets logged across Berlin, Brussels, Montreal and Newyorkcity. Often billed alongside online threat, Tuchscreen and guelay. Next up: TBA, Brussels on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Raya Noire is an experimental and new wave artist based in Canada, tracked on so
 
 online threat, Tuchscreen, guelay
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayanoire/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayanoire/)*

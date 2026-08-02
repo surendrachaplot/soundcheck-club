@@ -1,8 +1,8 @@
 # Antony Szmierek
 
-Antony Szmierek is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Antony Szmierek is a Funk / Soul and Jazz artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
-Antony Szmierek is a funk / soul and jazz artist tracked on soundcheck, with 8 sets logged across Berlin, Birmingham, Bristol and Budapest and 4 more. Often billed alongside 1-800 GIRLS, ANNA and Aiden Francis. Next up: Obudai Island, Budapest on Tue 11 Aug.
+Antony Szmierek is a funk / soul and jazz artist tracked on soundcheck, with 9 sets logged across Berlin, Birmingham, Bristol and Brussels and 5 more. Often billed alongside 1-800 GIRLS, ANNA and Aiden Francis. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Antony Szmierek is a funk / soul and jazz artist tracked on soundcheck, with 8 s
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Tue, 25 Aug 2026 | Jacaranda Baltic | Liverpool |
 | Wed, 9 Sept 2026 | Rough Trade Berlin | Berlin |
+| Sat, 31 Oct 2026 | Botanique | Brussels |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Antony Szmierek is a funk / soul and jazz artist tracked on soundcheck, with 8 s
 
 1-800 GIRLS, ANNA, Aiden Francis
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*

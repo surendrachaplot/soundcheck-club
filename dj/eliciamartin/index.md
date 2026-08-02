@@ -1,6 +1,6 @@
 # Elicia Martin
 
-Elicia Martin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Salon Daomé, Montreal on Thu, 20 Aug 2026.
+Elicia Martin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Salon Daomé, Montreal on Thu, 20 Aug 2026.
 
 Elicia Martin is a techno and trance artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Jeff Noir, Kozy and Beathead. Next up: Salon Daomé, Montreal on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Elicia Martin is a techno and trance artist based in Canada, tracked on soundche
 
 Jeff Noir, Kozy, Beathead
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliciamartin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliciamartin/)*

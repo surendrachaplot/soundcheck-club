@@ -1,6 +1,6 @@
 # Jamira Estrada
 
-Jamira Estrada is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Jamira Estrada is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Jamira Estrada is a club and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Basel, Berlin and Brussels and 9 more. Often billed alongside fka phaedra, Manuel Fischer and Alex Dallas. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Jamira Estrada is a club and house artist tracked on soundcheck, with 63 sets lo
 
 fka phaedra, Manuel Fischer, Alex Dallas
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*

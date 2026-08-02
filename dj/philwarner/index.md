@@ -1,6 +1,6 @@
 # Phil Warner
 
-Phil Warner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Outlaws Yacht Club, Leeds on Fri, 4 Sept 2026.
+Phil Warner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Outlaws Yacht Club, Leeds on Fri, 4 Sept 2026.
 
 Phil Warner is a house and techno artist tracked on soundcheck, with 59 sets logged across Leeds, London and Manchester. Often billed alongside Roya Brehl, Joe Reece and Pete Melba. Next up: Outlaws Yacht Club, Leeds on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Phil Warner is a house and techno artist tracked on soundcheck, with 59 sets log
 
 Roya Brehl, Joe Reece, Pete Melba
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philwarner/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philwarner/)*

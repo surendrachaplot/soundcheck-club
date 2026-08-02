@@ -1,6 +1,6 @@
 # Phaeleh
 
-Phaeleh is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Black Box, Denver on Sat, 15 Aug 2026.
+Phaeleh is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Black Box, Denver on Sat, 15 Aug 2026.
 
 Phaeleh is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Antwerp, Austin, Bristol and Denver and 2 more. Often billed alongside Biome, Joker and Luke Mandala. Next up: The Black Box, Denver on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Phaeleh is a bass and dubstep artist based in United Kingdom, tracked on soundch
 
 Biome, Joker, Luke Mandala
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phaeleh/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phaeleh/)*

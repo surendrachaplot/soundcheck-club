@@ -1,6 +1,6 @@
 # Big Night Live
 
-Big Night Live is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Eli Brown" on Fri, 7 Aug 2026.
+Big Night Live is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Eli Brown" on Fri, 7 Aug 2026.
 
 Big Night Live is a music venue in Boston listed on soundcheck. 5 upcoming nights, with line-ups including Afrojack, Eli Brown, Ian Asher and San Holo. Browse upcoming dates, start times and who's playing. 110 Causeway St, Boston, MA 02114, USA.
 
@@ -18,4 +18,4 @@ Big Night Live is a music venue in Boston listed on soundcheck. 5 upcoming night
 
 110 Causeway St, Boston, MA 02114, USA, Boston
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*

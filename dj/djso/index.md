@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at BAR Inc, Osaka on Sat, 8 Aug 2026.
+DJ SO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at BAR Inc, Osaka on Sat, 8 Aug 2026.
 
 DJ SO is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 12 more. Often billed alongside Yo Nishijima, Cityboy from Seoul and DJ Sodeyama. Next up: BAR Inc, Osaka on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ SO is a techno and house artist tracked on soundcheck, with 80 sets logged ac
 
 Yo Nishijima, Cityboy from Seoul, DJ Sodeyama
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

@@ -1,6 +1,6 @@
 # Yuma (UK)
 
-Yuma (UK) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
+Yuma (UK) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
 
 Yuma (UK) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, London and Malaga. Often billed alongside Oren (IT), Peter Grand and Oren.. Next up: Doggy Klœb, Malaga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Yuma (UK) is an electro and house artist based in United Kingdom, tracked on sou
 
 Oren (IT), Peter Grand, Oren.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*

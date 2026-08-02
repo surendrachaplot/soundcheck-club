@@ -1,18 +1,17 @@
 # Meteor Studio
 
-Meteor Studio is a music venue in Tbilisi with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "MTR057" on Sat, 1 Aug 2026.
+Meteor Studio is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "SOD" on Sun, 2 Aug 2026.
 
-Meteor Studio is a music venue in Tbilisi listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Kosta Khetagurov 26, Tbilisi, Georgia 0102.
+Meteor Studio is a music venue in Tbilisi listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Kosta Khetagurov 26, Tbilisi, Georgia 0102.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | MTR057 |  |
 | Sun, 2 Aug 2026 | SOD |  |
 
 ## Address
 
 Kosta Khetagurov 26, Tbilisi, Georgia 0102, Tbilisi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/meteor-studio/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/meteor-studio/)*

@@ -1,6 +1,6 @@
 # donkey basketball
 
-donkey basketball is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ulana's, Philadelphia on Fri, 7 Aug 2026.
+donkey basketball is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ulana's, Philadelphia on Fri, 7 Aug 2026.
 
 donkey basketball is a techno and experimental artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago and Philadelphia. Often billed alongside Mina Mills, easygoingtech and Aathee. Next up: Ulana's, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ donkey basketball is a techno and experimental artist based in United States of 
 
 Mina Mills, easygoingtech, Aathee
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donkeybasketball/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donkeybasketball/)*

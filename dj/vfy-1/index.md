@@ -1,6 +1,6 @@
 # VFY (1)
 
-VFY (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+VFY (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
 
 VFY (1) is a house and techno artist based in Georgia, tracked on soundcheck, with 28 sets logged across Tbilisi. Often billed alongside Sevda, Tomma and Ani Kvirkvelia. Next up: TBA, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ VFY (1) is a house and techno artist based in Georgia, tracked on soundcheck, wi
 
 Sevda, Tomma, Ani Kvirkvelia
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vfy-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vfy-1/)*

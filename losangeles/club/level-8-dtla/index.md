@@ -1,14 +1,13 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLOAT Rooftop Pool Party ft. Chambord [2-8 PM]" on Sat, 1 Aug 2026.
+Level 8 DTLA is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Summer Club LA: Young Hollywood Rooftop Pool Party" on Sun, 2 Aug 2026.
 
-Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including Apache, Chambord, David Paul and Durante and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
+Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including Apache, David Paul, Durante and Grum and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FLOAT Rooftop Pool Party ft. Chambord [2-8 PM] | Chambord |
 | Sun, 2 Aug 2026 | Summer Club LA: Young Hollywood Rooftop Pool Party |  |
 | Fri, 7 Aug 2026 | SUNSET SESSIONS presents: 'GOOD GIRL' Release Party | David Paul, Tamara Lanza |
 | Sat, 8 Aug 2026 | Phantoms POOL PARTY at Level 8 | Phantoms |
@@ -23,4 +22,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming ni
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

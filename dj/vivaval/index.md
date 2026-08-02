@@ -1,6 +1,6 @@
 # vivaval
 
-vivaval is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Deep End, New York City on Fri, 7 Aug 2026.
+vivaval is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Deep End, New York City on Fri, 7 Aug 2026.
 
 vivaval is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside shirlz, AJACENT and Adesi. Next up: The Deep End, Newyorkcity on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ vivaval is a techno and house artist based in United States of America, tracked 
 
 shirlz, AJACENT, Adesi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivaval/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivaval/)*

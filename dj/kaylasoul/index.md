@@ -1,6 +1,6 @@
 # KayLaSoul
 
-KayLaSoul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Flash, Washington DC on Sun, 9 Aug 2026.
+KayLaSoul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Flash, Washington DC on Sun, 9 Aug 2026.
 
 KayLaSoul is a house and deep house artist tracked on soundcheck, with 79 sets logged across Newyorkcity and Washingtondc. Often billed alongside G.E.N.E., Jus Nowhere and enz.O. Next up: Flash, Washingtondc on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ KayLaSoul is a house and deep house artist tracked on soundcheck, with 79 sets l
 
 G.E.N.E., Jus Nowhere, enz.O
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylasoul/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylasoul/)*

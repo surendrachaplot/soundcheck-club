@@ -1,6 +1,6 @@
 # Karl B.
 
-Karl B. is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
+Karl B. is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
 
 Karl B. is a house and downtempo artist based in Germany, tracked on soundcheck, with 17 sets logged across Munich. Often billed alongside A-DEE, A-Dee and Dasmo and Alessia Ceruti. Next up: Bahnwärter Thiel, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Karl B. is a house and downtempo artist based in Germany, tracked on soundcheck,
 
 A-DEE, A-Dee and Dasmo, Alessia Ceruti
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karlb./)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karlb./)*

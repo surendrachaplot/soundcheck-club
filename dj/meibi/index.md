@@ -1,6 +1,6 @@
 # Meibi
 
-Meibi is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lux Fragil, Lisbon on Thu, 6 Aug 2026.
+Meibi is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lux Fragil, Lisbon on Thu, 6 Aug 2026.
 
 Meibi is an electro and techno artist based in Portugal, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Lisbon and London and 1 more. Often billed alongside Dexter Lux, Viegas and Afonso Peixoto. Next up: Lux Fragil, Lisbon on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Meibi is an electro and techno artist based in Portugal, tracked on soundcheck, 
 
 Dexter Lux, Viegas, Afonso Peixoto
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*

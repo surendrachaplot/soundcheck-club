@@ -1,6 +1,6 @@
 # Herbst
 
-Herbst is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Herbst is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Herbst is a pop and experimental artist based in Germany, tracked on soundcheck, with 1 set logged across Dusseldorf. Often billed alongside Anushka Chkheidze, Cardinals and Chris Imler. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -14,4 +14,4 @@ Herbst is a pop and experimental artist based in Germany, tracked on soundcheck,
 
 Anushka Chkheidze, Cardinals, Chris Imler
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herbst/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herbst/)*

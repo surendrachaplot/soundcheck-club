@@ -1,6 +1,6 @@
 # Umoya
 
-Umoya is a music venue in Naples with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Soul Express with Moodymann" on Sun, 20 Sept 2026.
+Umoya is a music venue in Naples with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Soul Express with Moodymann" on Sun, 20 Sept 2026.
 
 Umoya is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including Giuseppe Fava, KARLOVE, Luca Sorrentini and Moodymann and 2 more. Browse upcoming dates, start times and who's playing. Castel Volturno CE 81030 Via Mezzagni.
 
@@ -14,4 +14,4 @@ Umoya is a music venue in Naples listed on soundcheck. 1 upcoming night, with li
 
 Castel Volturno CE 81030 Via Mezzagni, Naples
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/umoya/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/umoya/)*

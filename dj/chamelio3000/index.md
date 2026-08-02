@@ -1,6 +1,6 @@
 # Chamelio 3000
 
-Chamelio 3000 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Climax-Institutes, Stuttgart on Sat, 8 Aug 2026.
+Chamelio 3000 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Climax-Institutes, Stuttgart on Sat, 8 Aug 2026.
 
 Chamelio 3000 is a house and techno artist tracked on soundcheck, with 47 sets logged across Berlin and Stuttgart. Often billed alongside Michael Clash Gottschalk, Schlepp Geist and Alexander Maier. Next up: Climax-Institutes, Stuttgart on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Chamelio 3000 is a house and techno artist tracked on soundcheck, with 47 sets l
 
 Michael Clash Gottschalk, Schlepp Geist, Alexander Maier
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chamelio3000/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chamelio3000/)*

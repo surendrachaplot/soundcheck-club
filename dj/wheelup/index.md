@@ -1,20 +1,20 @@
 # WheelUP
 
-WheelUP is a Funk / Soul and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Jazz Cafe, London on Sat, 1 Aug 2026.
+WheelUP is a Funk / Soul and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
-WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 21 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Maria Hanlon. Next up: The Jazz Cafe, London on Sat 1 Aug.
+WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 21 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Maria Hanlon. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | The Jazz Cafe | London |
 | Fri, 14 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | The Jazz Cafe | London |
 | Sun, 4 Oct 2026 | Patterns | Brighton |
 
 ## Recently played
 
+- The Jazz Cafe, London — Sat, 1 Aug 2026
 - Grow, London — Sat, 13 Jun 2026
 - Night Tales Loft, London — Sat, 14 Mar 2026
 - Djoon, Paris — Fri, 13 Mar 2026
@@ -22,10 +22,9 @@ WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 21 s
 - Lost Horizon, Bristol — Thu, 18 Sept 2025
 - Urban Baristas - Twickenham, London — Sat, 6 Sept 2025
 - Grow, London — Sat, 23 Aug 2025
-- The Carpet Shop, London — Fri, 11 Jul 2025
 
 ## Shares bills with
 
 Robert Luis, Cengiz, Maria Hanlon
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

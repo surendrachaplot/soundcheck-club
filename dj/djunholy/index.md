@@ -1,6 +1,6 @@
 # DJ Unholy
 
-DJ Unholy is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kowalski, Stuttgart on Fri, 7 Aug 2026.
+DJ Unholy is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kowalski, Stuttgart on Fri, 7 Aug 2026.
 
 DJ Unholy is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Fabian Kaa, Caldarelli and Liroy. Next up: Kowalski, Stuttgart on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Unholy is a trance and techno artist based in Germany, tracked on soundcheck,
 
 Fabian Kaa, Caldarelli, Liroy
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djunholy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djunholy/)*

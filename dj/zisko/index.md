@@ -1,6 +1,6 @@
 # Zisko
 
-Zisko is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Spook Club, Valencia on Sat, 8 Aug 2026.
+Zisko is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Spook Club, Valencia on Sat, 8 Aug 2026.
 
 Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: Spook Club, Valencia on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Zisko is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Blasha & Allatt, Marcal, Ogazón
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*

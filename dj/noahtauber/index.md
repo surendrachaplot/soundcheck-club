@@ -1,6 +1,6 @@
 # Noah Tauber
 
-Noah Tauber is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
+Noah Tauber is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
 
 Noah Tauber is a techno and dub techno artist tracked on soundcheck, with 27 sets logged across Berlin, Glasgow, Hamburg and Lisbon and 3 more. Often billed alongside nohexcode, Ylia (UK) and CITYTRONIX. Next up: Starlane Pizza Bar, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Noah Tauber is a techno and dub techno artist tracked on soundcheck, with 27 set
 
 nohexcode, Ylia (UK), CITYTRONIX
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*

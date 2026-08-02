@@ -1,6 +1,6 @@
 # FELINE (JP)
 
-FELINE (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Enter Shibuya, Tokyo on Tue, 4 Aug 2026.
+FELINE (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Enter Shibuya, Tokyo on Tue, 4 Aug 2026.
 
 FELINE (JP) is a house and techno artist tracked on soundcheck, with 217 sets logged across Kyoto, Osaka, Sanfrancisco and Tokyo. Often billed alongside okadada, K8 (TYO GQOM) and kengotaki. Next up: Enter Shibuya, Tokyo on Tue 4 Aug.
 
@@ -30,4 +30,4 @@ FELINE (JP) is a house and techno artist tracked on soundcheck, with 217 sets lo
 
 okadada, K8 (TYO GQOM), kengotaki
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*

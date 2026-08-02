@@ -1,6 +1,6 @@
 # easygoingtech
 
-easygoingtech is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Venue, Chicago on Sat, 15 Aug 2026.
+easygoingtech is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Venue, Chicago on Sat, 15 Aug 2026.
 
 easygoingtech is a techno and experimental artist based in United States of America, tracked on soundcheck, with 48 sets logged across Chicago, Detroit, Nashville and Philadelphia and 1 more. Often billed alongside Mina Mills, Seanni B and Ariel Zetina. Next up: TBA - Secret Venue, Chicago on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ easygoingtech is a techno and experimental artist based in United States of Amer
 
 Mina Mills, Seanni B, Ariel Zetina
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easygoingtech/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easygoingtech/)*

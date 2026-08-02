@@ -1,8 +1,8 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+Job de Jong is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
-Job de Jong is a house and tech house artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Prunk, M-High and Dennis Quin. Next up: SISSI'S Amsterdam, Amsterdam on Fri 7 Aug.
+Job de Jong is a house and tech house artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Prunk, M-High and Dennis Quin. Next up: SISSI'S Amsterdam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 159 set
 
 Prunk, M-High, Dennis Quin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

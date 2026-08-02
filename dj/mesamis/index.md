@@ -1,6 +1,6 @@
 # mes amis
 
-mes amis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+mes amis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 mes amis is a techno and trance artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Dominique Lamee, KLING&KLANG and Towicz. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ mes amis is a techno and trance artist tracked on soundcheck, with 22 sets logge
 
 Dominique Lamee, KLING&KLANG, Towicz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesamis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesamis/)*

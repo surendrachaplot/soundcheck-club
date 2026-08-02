@@ -1,6 +1,6 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 26 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Hayden James" on Sat, 1 Aug 2026.
+Savaya Bali is a music venue in Bali with 26 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Denis Sulta" on Sun, 2 Aug 2026.
 
 Savaya Bali is a music venue in Bali listed on soundcheck. 26 upcoming nights, with line-ups including AARON SEVILLA, Alex Wann, AWEN and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
@@ -8,7 +8,6 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 26 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Hayden James | Hayden James |
 | Sun, 2 Aug 2026 | Denis Sulta | Denis Sulta |
 | Sat, 8 Aug 2026 | Joel Corry |  |
 | Sun, 9 Aug 2026 | Da Capo | Da Capo |
@@ -18,9 +17,10 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 26 upcoming nights, w
 | Fri, 21 Aug 2026 | Defected | Ferreck Dawn, Low Steppa |
 | Sat, 22 Aug 2026 | Cristoph | Cristoph |
 | Sun, 23 Aug 2026 | AWEN | AWEN |
+| Fri, 28 Aug 2026 | Sam Feldt | Sam Feldt |
 
 ## Address
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

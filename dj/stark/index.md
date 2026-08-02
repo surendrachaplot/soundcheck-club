@@ -1,6 +1,6 @@
 # Stark
 
-Stark is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sensorium, Berlin on Sun, 2 Aug 2026.
+Stark is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sensorium, Berlin on Sun, 2 Aug 2026.
 
 Stark is a tech house and acid artist tracked on soundcheck, with 22 sets logged across Berlin, Budapest and Newyorkcity. Often billed alongside Hanussen, Knoll and MSKD. Next up: Sensorium, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Stark is a tech house and acid artist tracked on soundcheck, with 22 sets logged
 
 Hanussen, Knoll, MSKD
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*

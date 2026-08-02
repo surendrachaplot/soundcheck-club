@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
+Jepe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
 
 Jepe is a house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Berny, Manu Strasse and Alexander Maier. Next up: Lux Fragil, Lisbon on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Jepe is a house and techno artist tracked on soundcheck, with 38 sets logged acr
 
 Berny, Manu Strasse, Alexander Maier
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

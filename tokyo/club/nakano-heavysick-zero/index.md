@@ -1,6 +1,6 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "heavysick K-LOUNGE" on Fri, 7 Aug 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "heavysick K-LOUNGE" on Fri, 7 Aug 2026.
 
 Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including ato夢, HiroHiro, Rëgret and SEIGI. and 1 more. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
@@ -16,4 +16,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 3 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

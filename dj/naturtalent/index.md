@@ -1,6 +1,6 @@
 # NATURTALENT
 
-NATURTALENT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Adam Riese, Frankfurt on Sat, 8 Aug 2026.
+NATURTALENT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Adam Riese, Frankfurt on Sat, 8 Aug 2026.
 
 NATURTALENT is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Frankfurt and Leipzig. Often billed alongside DeGuzman, Eurodance2000 and NIKUSH. Next up: Adam Riese, Frankfurt on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ NATURTALENT is a techno and trance artist based in Germany, tracked on soundchec
 
 DeGuzman, Eurodance2000, NIKUSH
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naturtalent/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naturtalent/)*

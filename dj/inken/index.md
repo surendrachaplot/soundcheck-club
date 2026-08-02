@@ -1,6 +1,6 @@
 # Inken
 
-Inken is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
+Inken is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
 
 Inken is a club and experimental artist tracked on soundcheck, with 5 sets logged across Berlin and Dusseldorf. Often billed alongside Marc Matter, Andrea Ida and Anna Butter. Next up: Salon des Amateurs, Dusseldorf on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Inken is a club and experimental artist tracked on soundcheck, with 5 sets logge
 
 Marc Matter, Andrea Ida, Anna Butter
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inken/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inken/)*

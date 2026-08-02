@@ -1,14 +1,13 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+DJ Seinfeld is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Night We Met, Nashville on Fri, 7 Aug 2026.
 
-DJ Seinfeld is a house and techno artist tracked on soundcheck, with 182 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside Sossa, Dom Dolla and Chris Stussy. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+DJ Seinfeld is a house and techno artist tracked on soundcheck, with 182 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside Sossa, Dom Dolla and Chris Stussy. Next up: Night We Met, Nashville on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Fri, 7 Aug 2026 | Night We Met | Nashville |
 | Thu, 17 Sept 2026 | Sub Club | Glasgow |
 | Fri, 18 Sept 2026 | Button Factory | Dublin |
@@ -18,6 +17,7 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 182 sets lo
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Fortune Sound Club, Vancouver — Fri, 31 Jul 2026
 - Refuge, New York City — Fri, 3 Jul 2026
 - Kalle Rooftop Neukölln, Berlin — Sat, 20 Jun 2026
@@ -25,10 +25,9 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 182 sets lo
 - Art Club, Houston — Sat, 13 Jun 2026
 - smartbar, Chicago — Sat, 6 Jun 2026
 - Jolene Downtown Miami, Miami — Fri, 5 Jun 2026
-- The Pitt Market, Edinburgh — Sat, 30 May 2026
 
 ## Shares bills with
 
 Sossa, Dom Dolla, Chris Stussy
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

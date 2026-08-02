@@ -1,8 +1,8 @@
 # 4am Kru
 
-4am Kru is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Cause, London on Sun, 2 Aug 2026.
+4am Kru is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Cause, London on Sun, 2 Aug 2026.
 
-4am Kru is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Bakey, Sexy Lady Massive and Oppidan. Next up: The Cause, London on Sun 2 Aug.
+4am Kru is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Bakey, Sexy Lady Massive and Oppidan. Next up: The Cause, London on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | The Cause | London |
 | Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
+| Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Bakey, Sexy Lady Massive, Oppidan
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*

@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Nachspiel" on Sun, 2 Aug 2026.
+KitKatClub is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Nachspiel" on Sun, 2 Aug 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including Albin Brezlan, alemiko, Alexander Paulski and Alex Friday and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, 
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

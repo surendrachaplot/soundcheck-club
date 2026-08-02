@@ -1,6 +1,6 @@
 # Mayowa
 
-Mayowa is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tola, London on Fri, 14 Aug 2026.
+Mayowa is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tola, London on Fri, 14 Aug 2026.
 
 Mayowa is a club and ghetto tech artist tracked on soundcheck, with 15 sets logged across Birmingham and London. Often billed alongside AyChibs, Donnie Sunshine and Imaniii. Next up: Tola, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Mayowa is a club and ghetto tech artist tracked on soundcheck, with 15 sets logg
 
 AyChibs, Donnie Sunshine, Imaniii
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayowa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayowa/)*

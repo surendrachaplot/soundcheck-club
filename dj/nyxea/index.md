@@ -1,6 +1,6 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at M-BIA, Berlin on Fri, 30 Oct 2026.
+NYXEA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at M-BIA, Berlin on Fri, 30 Oct 2026.
 
 NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside RHYTMOX, Texo and Daora. Next up: M-BIA, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 RHYTMOX, Texo, Daora
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

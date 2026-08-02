@@ -1,14 +1,13 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FAMILY POOL DAY" on Sat, 1 Aug 2026.
+Maaya is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "WUB, Amour Africain & Delírio present:" on Sun, 2 Aug 2026.
 
-Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including AMBRA, Amine K, CRYME and Curses and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
+Maaya is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AMBRA, Amine K, CRYME and Curses and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FAMILY POOL DAY |  |
 | Sun, 2 Aug 2026 | WUB, Amour Africain & Delírio present: | DJ STRAIGHT GIRL, JCow, SXCL, dj latinchat, sin serif |
 | Thu, 6 Aug 2026 | RIPPLES with Amine K & Guests | Amine K |
 | Fri, 7 Aug 2026 | HOMECOMING - DJ WORKSHOP - BIPOC ONLY |  |
@@ -22,4 +21,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with l
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

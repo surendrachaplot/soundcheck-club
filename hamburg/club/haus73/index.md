@@ -1,14 +1,13 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DarkBassGang Solirave" on Sat, 1 Aug 2026.
+Haus73 is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Funker Society Kollektiv" on Sat, 8 Aug 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Draluca, G-Lamour, JIBS and LAURIX (DE) and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Draluca, G-Lamour and JIBS. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | DarkBassGang Solirave | LAURIX (DE), MANTIS, PASSA, Qualle, Techlex, mi, unjani |
 | Sat, 8 Aug 2026 | Funker Society Kollektiv |  |
 | Sat, 8 Aug 2026 | Born to Groove - FSK | G-Lamour, JIBS |
 | Sat, 15 Aug 2026 | Unisex | Draluca |
@@ -17,4 +16,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

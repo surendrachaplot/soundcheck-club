@@ -1,14 +1,13 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Official Lollapalooza Aftershow: DJ Dextro" on Sat, 1 Aug 2026.
+Smoke & Mirrors is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Official Lollapalooza Afterparty: Dombresky" on Sun, 2 Aug 2026.
 
-Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including Ciel, Club Drippy, dirtymoney and DJ Dextro and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
+Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 7 upcoming nights, with line-ups including Ciel, Club Drippy, dirtymoney and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Official Lollapalooza Aftershow: DJ Dextro | DJ Dextro |
 | Sun, 2 Aug 2026 | Official Lollapalooza Afterparty: Dombresky | Dombresky |
 | Fri, 7 Aug 2026 | DJ Fuckoff + LOVEFOXY | DJ Fuckoff, Jenny Fox, LOVEFOXY |
 | Sat, 8 Aug 2026 | Pablo Bozzi | Club Drippy, Pablo Bozzi, Veri Peri |
@@ -21,4 +20,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nig
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

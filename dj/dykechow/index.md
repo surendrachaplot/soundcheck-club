@@ -1,6 +1,6 @@
 # DykeChow
 
-DykeChow is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paris Bar, Detroit on Sat, 8 Aug 2026.
+DykeChow is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paris Bar, Detroit on Sat, 8 Aug 2026.
 
 DykeChow is a techno and electro artist based in United States of America, tracked on soundcheck, with 32 sets logged across Detroit and Newyorkcity. Often billed alongside Nick Burgess, Auntie Chanel and madeofants. Next up: Paris Bar, Detroit on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DykeChow is a techno and electro artist based in United States of America, track
 
 Nick Burgess, Auntie Chanel, madeofants
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dykechow/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dykechow/)*

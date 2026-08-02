@@ -1,6 +1,6 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
+New Flesh (2) is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
 
 New Flesh (2) is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Toni S, AAKAARA and Becky Stroke. Next up: Aaja Basement, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ New Flesh (2) is an experimental and ambient artist based in United Kingdom, tra
 
 Toni S, AAKAARA, Becky Stroke
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*

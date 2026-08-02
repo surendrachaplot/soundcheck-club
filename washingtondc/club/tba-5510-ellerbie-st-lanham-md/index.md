@@ -1,6 +1,6 @@
 # TBA - 5510 ellerbie st lanham MD
 
-TBA - 5510 ellerbie st lanham MD is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Fairy Fest" on Sat, 15 Aug 2026.
+TBA - 5510 ellerbie st lanham MD is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Fairy Fest" on Sat, 15 Aug 2026.
 
 TBA - 5510 ellerbie st lanham MD is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including CYB3R T0NIN, JACKIECHANSDOG, phosphorrgirl and Rolodex. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 5510 ellerbie st lanham MD is a music venue in Washingtondc listed on soun
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Fairy Fest | CYB3R T0NIN, JACKIECHANSDOG, Rolodex, phosphorrgirl |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-5510-ellerbie-st-lanham-md/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-5510-ellerbie-st-lanham-md/)*

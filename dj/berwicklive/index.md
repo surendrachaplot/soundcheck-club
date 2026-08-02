@@ -1,6 +1,6 @@
 # Berwick (Live)
 
-Berwick (Live) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vespers Club, London on Fri, 4 Sept 2026.
+Berwick (Live) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Vespers Club, London on Fri, 4 Sept 2026.
 
 Berwick (Live) is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bristol, London and Sheffield. Often billed alongside Berwick, YouYou (2) and youyou. Next up: Vespers Club, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Berwick (Live) is a techno and electro artist based in United Kingdom, tracked o
 
 Berwick, YouYou (2), youyou
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berwicklive/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berwicklive/)*

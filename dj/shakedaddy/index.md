@@ -1,14 +1,13 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
+Shake Daddy is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
-Shake Daddy is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Brisbane, Edinburgh and Glasgow and 6 more. Often billed alongside GEN97, SATYS FYRE and Eva Charley. Next up: Späti 4 You, Berlin on Sat 1 Aug.
+Shake Daddy is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Brisbane, Edinburgh and Glasgow and 6 more. Often billed alongside GEN97, SATYS FYRE and Eva Charley. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Späti 4 You | Berlin |
 | Fri, 7 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
@@ -19,6 +18,7 @@ Shake Daddy is a techno and trance artist tracked on soundcheck, with 51 sets lo
 
 ## Recently played
 
+- Späti 4 You, Berlin — Sat, 1 Aug 2026
 - Humboldthain Club, Berlin — Sat, 18 Jul 2026
 - OST, Berlin — Sat, 11 Jul 2026
 - Else, Berlin — Fri, 10 Jul 2026
@@ -26,10 +26,9 @@ Shake Daddy is a techno and trance artist tracked on soundcheck, with 51 sets lo
 - elipamanoke, Leipzig — Sat, 20 Jun 2026
 - Lokschuppen Berlin, Berlin — Sat, 6 Jun 2026
 - ÆDEN, Berlin — Sat, 30 May 2026
-- ÆDEN, Berlin — Wed, 13 May 2026
 
 ## Shares bills with
 
 GEN97, SATYS FYRE, Eva Charley
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*

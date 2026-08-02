@@ -1,18 +1,18 @@
 # Sleepy & Boo
 
-Sleepy & Boo is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Danger Danger, New York City on Sat, 1 Aug 2026.
+Sleepy & Boo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ARTSPACE, New York City on Sat, 15 Aug 2026.
 
-Sleepy & Boo are a deep house and techno duo tracked on soundcheck, with 190 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: Danger Danger, Newyorkcity on Sat 1 Aug.
+Sleepy & Boo are a deep house and techno duo tracked on soundcheck, with 190 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: ARTSPACE, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Danger Danger | New York City |
 | Sat, 15 Aug 2026 | ARTSPACE | New York City |
 
 ## Recently played
 
+- Danger Danger, New York City — Sat, 1 Aug 2026
 - ARTSPACE, New York City — Sat, 25 Jul 2026
 - ARTSPACE, New York City — Sat, 13 Jun 2026
 - Danger Danger, New York City — Fri, 5 Jun 2026
@@ -20,10 +20,9 @@ Sleepy & Boo are a deep house and techno duo tracked on soundcheck, with 190 set
 - Mad Radio Miami, Miami — Sat, 24 Jan 2026
 - Danger Danger, New York City — Sat, 10 Jan 2026
 - Studio (Maison Nur), New York City — Wed, 31 Dec 2025
-- Danger Danger, New York City — Sat, 20 Dec 2025
 
 ## Shares bills with
 
 Navider, Alex Sharp, D.T.H.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*

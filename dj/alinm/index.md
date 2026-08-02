@@ -1,6 +1,6 @@
 # 北極 / Ali NM
 
-北極 / Ali NM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at White Space Lab, Tokyo on Wed, 19 Aug 2026.
+北極 / Ali NM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at White Space Lab, Tokyo on Wed, 19 Aug 2026.
 
 北極 / Ali NM is a techno and house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside KEI_DJ, HIZAT and MOTOKA. Next up: White Space Lab, Tokyo on Wed 19 Aug.
 
@@ -18,4 +18,4 @@
 
 KEI_DJ, HIZAT, MOTOKA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alinm/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alinm/)*

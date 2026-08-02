@@ -1,6 +1,6 @@
 # Jacky Murda
 
-Jacky Murda is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 22 Aug 2026.
+Jacky Murda is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 22 Aug 2026.
 
 Jacky Murda is a drum & bass and dubstep artist tracked on soundcheck, with 11 sets logged across Bristol, Dublin and London. Often billed alongside DJ Sy, Kenny Ken and Rub A Dub HiFi. Next up: Yamamori Tengu, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jacky Murda is a drum & bass and dubstep artist tracked on soundcheck, with 11 s
 
 DJ Sy, Kenny Ken, Rub A Dub HiFi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackymurda/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackymurda/)*

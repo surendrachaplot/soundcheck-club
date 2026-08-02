@@ -1,6 +1,6 @@
 # DJ Jauche
 
-DJ Jauche is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at RSO.BERLIN, Berlin on Sun, 23 Aug 2026.
+DJ Jauche is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at RSO.BERLIN, Berlin on Sun, 23 Aug 2026.
 
 DJ Jauche is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin and Newcastle. Often billed alongside Tanith, Der Würfler and WolleXDP. Next up: RSO.BERLIN, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ DJ Jauche is a techno and house artist tracked on soundcheck, with 39 sets logge
 
 Tanith, Der Würfler, WolleXDP
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjauche/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjauche/)*

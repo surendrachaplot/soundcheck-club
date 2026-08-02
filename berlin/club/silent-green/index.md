@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "HTRK" on Sun, 2 Aug 2026.
+Silent Green is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "HTRK" on Sun, 2 Aug 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Daniel Miller, HTRK, JakoJako and Loraine James and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 7 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

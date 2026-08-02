@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "FLARE" on Sat, 1 Aug 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "VGM Sound Collision" on Mon, 3 Aug 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including --- mr ---, CITY1, DJ Shimamura and Dustvoxx and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -8,7 +8,6 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | FLARE | Kotatsu, Sugiurumn |
 | Mon, 3 Aug 2026 | VGM Sound Collision | --- mr ---, tom2 |
 | Fri, 7 Aug 2026 | Peeps | JUN INAGAWA, ecec |
 | Sat, 8 Aug 2026 | PsynOpticz Records - Label Party |  |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, wit
 | Thu, 20 Aug 2026 | H.O.F | Ëmbyrblume |
 | Fri, 21 Aug 2026 | mewww:Aries | MIDI War, Ruki, meweta, 宇宙チンチラ |
 | Sat, 22 Aug 2026 | terrordome Vol.54 | DJ Shimamura |
+| Sat, 22 Aug 2026 | 夢幻 vol.9 | Dustvoxx |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

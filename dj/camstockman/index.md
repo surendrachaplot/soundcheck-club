@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
+Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
 
@@ -32,4 +32,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

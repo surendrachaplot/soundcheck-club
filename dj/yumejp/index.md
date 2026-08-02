@@ -1,6 +1,6 @@
 # Yume (JP)
 
-Yume (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Royal Lounge, Tokyo on Sat, 8 Aug 2026.
+Yume (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Royal Lounge, Tokyo on Sat, 8 Aug 2026.
 
 Yume (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Torus and ARISA. Next up: Royal Lounge, Tokyo on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Yume (JP) is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 SIGNAL (JP), Torus, ARISA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yumejp/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yumejp/)*

@@ -1,6 +1,6 @@
 # Nafe Smallz
 
-Nafe Smallz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Nafe Smallz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Nafe Smallz is a house and minimal artist tracked on soundcheck, with 5 sets logged across Glasgow and London. Often billed alongside Jaden Thompson, Luke Dean_ and ADMNTi. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Nafe Smallz is a house and minimal artist tracked on soundcheck, with 5 sets log
 
 Jaden Thompson, Luke Dean_, ADMNTi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nafesmallz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nafesmallz/)*

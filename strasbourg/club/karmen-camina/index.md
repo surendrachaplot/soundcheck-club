@@ -1,14 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "KC [Teki Latex • Regal86 • CRRDR • Aoûj • Veine • Emmanuelle • 33Soleil]" on Sat, 1 Aug 2026.
+Karmen Camina is a music venue in Strasbourg with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Freeday Camina - trb! ZGA #4 [bluzu • DJ Nesquick • goatz • 33Soleil]" on Fri, 7 Aug 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 33Soleil, AMORAL, Bambounou and C.K and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming nights, with line-ups including 33Soleil, AMORAL, Bambounou and C.K and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | KC [Teki Latex • Regal86 • CRRDR • Aoûj • Veine • Emmanuelle • 33Soleil] | 33Soleil, CRRDR, Regal86, Teki Latex |
 | Fri, 7 Aug 2026 | Freeday Camina - trb! ZGA #4 [bluzu • DJ Nesquick • goatz • 33Soleil] | 33Soleil |
 | Sat, 8 Aug 2026 | KC [Function (3H30 set) • Tommy Four Seven (3H set) • marie tonic • teinture-mère] | Function, Tommy Four Seven, marie tonic |
 | Fri, 14 Aug 2026 | Freeday Camina - 31 Hertz [USLSS • Alex Stingler & Syn • L'Ouïe • Lior] | USLSS |
@@ -22,4 +21,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

@@ -1,6 +1,6 @@
 # Guy From Downstairs
 
-Guy From Downstairs is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Forge, Bucharest on Sat, 8 Aug 2026.
+Guy From Downstairs is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Forge, Bucharest on Sat, 8 Aug 2026.
 
 Guy From Downstairs is a house and minimal artist based in Romania, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bucharest and Geneva and 8 more. Often billed alongside Dona, Luciano and Praslea. Next up: Forge, Bucharest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Guy From Downstairs is a house and minimal artist based in Romania, tracked on s
 
 Dona, Luciano, Praslea
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guyfromdownstairs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guyfromdownstairs/)*

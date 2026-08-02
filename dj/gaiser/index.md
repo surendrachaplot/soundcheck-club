@@ -1,6 +1,6 @@
 # Gaiser
 
-Gaiser is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - warehouse Denver Colorado , Denver on Sat, 22 Aug 2026.
+Gaiser is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - warehouse Denver Colorado , Denver on Sat, 22 Aug 2026.
 
 Gaiser is a tech house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Athens, Berlin, Denver and Miami and 1 more. Often billed alongside Anfisa Letyago, Arkan and Blackchild. Next up: TBA - warehouse Denver Colorado , Denver on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Gaiser is a tech house and techno artist based in United States of America, trac
 
 Anfisa Letyago, Arkan, Blackchild
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*

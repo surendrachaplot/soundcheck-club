@@ -1,6 +1,6 @@
 # ØIAM
 
-ØIAM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Desterro, Lisbon on Thu, 20 Aug 2026.
+ØIAM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Desterro, Lisbon on Thu, 20 Aug 2026.
 
 ØIAM is a techno and trance artist based in Portugal, tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside João Melgueira, LVCENA and ViRiD!S. Next up: Desterro, Lisbon on Thu 20 Aug.
 
@@ -19,4 +19,4 @@
 
 João Melgueira, LVCENA, ViRiD!S
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oiam/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oiam/)*

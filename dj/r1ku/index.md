@@ -1,6 +1,6 @@
 # r1ku
 
-r1ku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 7 Aug 2026.
+r1ku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 7 Aug 2026.
 
 r1ku is a house and techno artist based in Japan, tracked on soundcheck, with 187 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ r1ku is a house and techno artist based in Japan, tracked on soundcheck, with 18
 
 kengotaki, SAMO (JP), YUVIE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*

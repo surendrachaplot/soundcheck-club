@@ -1,6 +1,6 @@
 # KEHIW
 
-KEHIW is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Los Angeles on Sun, 2 Aug 2026.
+KEHIW is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Los Angeles on Sun, 2 Aug 2026.
 
 KEHIW is a club and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Losangeles and Toronto. Often billed alongside DJ Kehiw, Banoffee and Bradley John. Next up: TBA, Losangeles on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ KEHIW is a club and house artist based in Canada, tracked on soundcheck, with 8 
 
 DJ Kehiw, Banoffee, Bradley John
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kehiw/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kehiw/)*

@@ -1,14 +1,13 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Interplanetary Criminal is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 9 Aug 2026.
 
-Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 250 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 250 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Amnesia Ibiza, Ibiza on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Nitsa Club | Barcelona |
 | Thu, 17 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Knockdown Center, New York City — Fri, 31 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Under the K Bridge, New York City — Sat, 11 Jul 2026
@@ -29,10 +29,9 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 - FOUND, Berlin — Sat, 27 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Studio Club Malaga, Malaga — Sat, 20 Jun 2026
-- DC-10, Ibiza — Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

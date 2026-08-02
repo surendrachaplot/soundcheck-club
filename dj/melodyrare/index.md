@@ -1,14 +1,13 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
+Melody RA+RE is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at BRET, Amsterdam on Fri, 14 Aug 2026.
 
-Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: The Fox and Firkin, London on Sat 1 Aug.
+Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: BRET, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | The Fox and Firkin | London |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Sat, 15 Aug 2026 | essaim | Paris |
@@ -19,6 +18,7 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets 
 
 ## Recently played
 
+- The Fox and Firkin, London — Sat, 1 Aug 2026
 - renae, Manchester — Thu, 30 Jul 2026
 - THE MAGICK BAR, Rome — Fri, 26 Jun 2026
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
@@ -26,10 +26,9 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets 
 - The Cause, London — Sat, 30 May 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 22 May 2026
 - PRST, Vienna — Thu, 30 Apr 2026
-- 93 Feet East, London — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

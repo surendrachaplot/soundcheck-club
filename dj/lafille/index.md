@@ -1,6 +1,6 @@
 # La Fille
 
-La Fille is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+La Fille is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 La Fille is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, London and Newyorkcity. Often billed alongside Distal_, Eli Escobar and Alex Friday. Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ La Fille is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Distal_, Eli Escobar, Alex Friday
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafille/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafille/)*

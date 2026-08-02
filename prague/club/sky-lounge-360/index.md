@@ -1,15 +1,13 @@
 # Sky Lounge 360
 
-Sky Lounge 360 is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SOUNDSET on Rooftop w/Rampue" on Sat, 1 Aug 2026.
+Sky Lounge 360 is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Pride in the Sky / Rooftop Party" on Thu, 6 Aug 2026.
 
-Sky Lounge 360 is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including DJ Lumiere, Eli Sha, Golpe and Hugorieri and 2 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
+Sky Lounge 360 is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including DJ Lumiere, Golpe, Hugorieri and JB & FLESH and 2 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | SOUNDSET on Rooftop w/Rampue | Eli Sha, Kleitone, Rampue |
-| Sat, 1 Aug 2026 | Morning Rave Ritual — PILOT EDITION | Hugorieri, Sam Gittis |
 | Thu, 6 Aug 2026 | Pride in the Sky / Rooftop Party | DJ Lumiere |
 | Sat, 15 Aug 2026 | Code Rooftop | JB & FLESH, Nika77, Orkus |
 | Sat, 29 Aug 2026 | Rave Rooftop with Golpe | Golpe, Hugorieri, KOBOV, Paul Krist |
@@ -19,4 +17,4 @@ Sky Lounge 360 is a music venue in Prague listed on soundcheck. 6 upcoming night
 
 Náměstí Republiky 5, 110 00 Praha 1, Prague
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*

@@ -1,6 +1,6 @@
 # Gigi Masin
 
-Gigi Masin is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Gigi Masin is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 Gigi Masin is an ambient and experimental artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, Dublin, Manchester and Milan and 1 more. Often billed alongside Valentina Magaletti, upsammy and Born in 1986. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -23,4 +23,4 @@ Gigi Masin is an ambient and experimental artist based in Italy, tracked on soun
 
 Valentina Magaletti, upsammy, Born in 1986
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*

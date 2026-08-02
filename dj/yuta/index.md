@@ -1,6 +1,6 @@
 # YUTA
 
-YUTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Gare Porto, Porto on Sat, 15 Aug 2026.
+YUTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gare Porto, Porto on Sat, 15 Aug 2026.
 
 YUTA is a techno and house artist tracked on soundcheck, with 88 sets logged across Bangkok, Berlin, Hongkong and Krakow and 7 more. Often billed alongside Shinsuke Goto, DJ Yazi and DJ Nobu. Next up: Gare Porto, Porto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ YUTA is a techno and house artist tracked on soundcheck, with 88 sets logged acr
 
 Shinsuke Goto, DJ Yazi, DJ Nobu
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuta/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuta/)*

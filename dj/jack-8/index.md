@@ -1,6 +1,6 @@
 # JACK-8
 
-JACK-8 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Harbour Event Centre, Vancouver on Sat, 8 Aug 2026.
+JACK-8 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Harbour Event Centre, Vancouver on Sat, 8 Aug 2026.
 
 JACK-8 is a techno and bass artist based in Canada, tracked on soundcheck, with 3 sets logged across Vancouver. Often billed alongside buny, Doruksen and EtOH. Next up: Harbour Event Centre, Vancouver on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ JACK-8 is a techno and bass artist based in Canada, tracked on soundcheck, with 
 
 buny, Doruksen, EtOH
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jack-8/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jack-8/)*

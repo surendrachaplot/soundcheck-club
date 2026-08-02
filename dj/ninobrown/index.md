@@ -1,6 +1,6 @@
 # Nino Brown
 
-Nino Brown is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Standard Time, Toronto on Sun, 2 Aug 2026.
+Nino Brown is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Standard Time, Toronto on Sun, 2 Aug 2026.
 
 Nino Brown is a techno and house artist based in Australia, tracked on soundcheck, with 8 sets logged across Newyorkcity and Toronto. Often billed alongside Young Teesh, 999ADJ and Bambii. Next up: Standard Time, Toronto on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ Nino Brown is a techno and house artist based in Australia, tracked on soundchec
 
 Young Teesh, 999ADJ, Bambii
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown/)*

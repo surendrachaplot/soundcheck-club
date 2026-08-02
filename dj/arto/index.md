@@ -1,6 +1,6 @@
 # Arto
 
-Arto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Arto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Arto is a techno and house artist based in Estonia, tracked on soundcheck, with 29 sets logged across Tallinn. Often billed alongside Tanel Mütt, Pavliuk and klmn. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Arto is a techno and house artist based in Estonia, tracked on soundcheck, with 
 
 Tanel Mütt, Pavliuk, klmn
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arto/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arto/)*

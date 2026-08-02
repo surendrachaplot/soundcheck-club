@@ -1,6 +1,6 @@
 # Gabela
 
-Gabela is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Location - Free access, Barcelona on Fri, 7 Aug 2026.
+Gabela is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location - Free access, Barcelona on Fri, 7 Aug 2026.
 
 Gabela is a techno and afro house artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, Ibiza and Valencia. Often billed alongside kttarsis, DIDIXX and Føggeist. Next up: TBA - Secret Location - Free access, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Gabela is a techno and afro house artist based in Spain, tracked on soundcheck, 
 
 kttarsis, DIDIXX, Føggeist
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabela/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabela/)*

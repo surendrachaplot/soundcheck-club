@@ -1,14 +1,15 @@
 # Onkel Tom
 
-Onkel Tom is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at KitKatClub, Berlin on Sun, 2 Aug 2026.
+Onkel Tom is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at KitKatClub, Berlin on Sun, 2 Aug 2026.
 
-Onkel Tom is a techno and electro artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Till Krimsen, Daora and Fran-Cee. Next up: KitKatClub, Berlin on Sun 2 Aug.
+Onkel Tom is a techno and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Daora, Till Krimsen and Fran-Cee. Next up: KitKatClub, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | KitKatClub | Berlin |
+| Sat, 22 Aug 2026 | M-BIA | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Onkel Tom is a techno and electro artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Till Krimsen, Daora, Fran-Cee
+Daora, Till Krimsen, Fran-Cee
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onkeltom/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onkeltom/)*

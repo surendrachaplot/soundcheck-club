@@ -1,6 +1,6 @@
 # Marcela
 
-Marcela is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Golden Gate, Berlin on Thu, 6 Aug 2026.
+Marcela is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Golden Gate, Berlin on Thu, 6 Aug 2026.
 
 Marcela is an electronic artist based in Croatia, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Neco and Sudo (US). Next up: Golden Gate, Berlin on Thu 6 Aug.
 
@@ -14,4 +14,4 @@ Marcela is an electronic artist based in Croatia, tracked on soundcheck, with 1 
 
 Neco, Sudo (US)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcela-cr/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcela-cr/)*

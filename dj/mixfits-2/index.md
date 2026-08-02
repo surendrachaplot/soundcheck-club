@@ -1,6 +1,6 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 20 Aug 2026.
+Mixfits (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 20 Aug 2026.
 
 Mixfits (2) is a house and techno artist tracked on soundcheck, with 35 sets logged across Edinburgh and Glasgow. Often billed alongside TOOKAST, CLEAR UK and Geordie. Next up: People's Leisure Club, Edinburgh on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Mixfits (2) is a house and techno artist tracked on soundcheck, with 35 sets log
 
 TOOKAST, CLEAR UK, Geordie
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

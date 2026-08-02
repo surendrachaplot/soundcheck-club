@@ -1,6 +1,6 @@
 # tonyy
 
-tonyy is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 7 Aug 2026.
+tonyy is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 7 Aug 2026.
 
 tonyy is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Erik Braun, Melona and Ron Like Hell. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ tonyy is a techno and dub techno artist based in United States of America, track
 
 Erik Braun, Melona, Ron Like Hell
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyy/)*

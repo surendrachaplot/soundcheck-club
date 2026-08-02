@@ -1,14 +1,13 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
-¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: 1015 Folsom, Sanfrancisco on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Thu, 6 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Thu, 20 Aug 2026 | Haus der Visionäre | Berlin |
 | Sun, 30 Aug 2026 | Live From Wythenshawe Park | Manchester |
@@ -18,6 +17,7 @@
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Bolivar Beach Bar, Athens — Fri, 26 Jun 2026
@@ -25,10 +25,9 @@
 - Mondo Open Air, Madrid — Sat, 6 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
 - Titanic Slipways, Belfast — Fri, 29 May 2026
-- TBA - La Nuvola , Rome — Fri, 29 May 2026
 
 ## Shares bills with
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

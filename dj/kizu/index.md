@@ -1,6 +1,6 @@
 # Kizu
 
-Kizu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
+Kizu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
 
 Kizu is a trance and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Vaneska, Amo (IT) and DJ ORDNUNGSAMT. Next up: ÆDEN, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Kizu is a trance and techno artist based in Germany, tracked on soundcheck, with
 
 Vaneska, Amo (IT), DJ ORDNUNGSAMT
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kizu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kizu/)*

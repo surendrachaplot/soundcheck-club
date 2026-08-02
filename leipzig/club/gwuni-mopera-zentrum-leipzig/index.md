@@ -1,18 +1,17 @@
 # Gwuni Mopera Zentrum Leipzig
 
-Gwuni Mopera Zentrum Leipzig is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ULTRAFAST BLOCKPARTY W// 3LEEZA & Paul Meier" on Sat, 1 Aug 2026.
+Gwuni Mopera Zentrum Leipzig is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Fragmento vol. 4" on Sat, 8 Aug 2026.
 
-Gwuni Mopera Zentrum Leipzig is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including 3LEEZA, Delirante, DJ KAIDO and Jørdø (AR) and 2 more. Browse upcoming dates, start times and who's playing. Sternwartenstraße 4-6, 04103 Leipzig.
+Gwuni Mopera Zentrum Leipzig is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including Delirante, Jørdø (AR) and k.naxXxo. Browse upcoming dates, start times and who's playing. Sternwartenstraße 4-6, 04103 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ULTRAFAST BLOCKPARTY W// 3LEEZA & Paul Meier | 3LEEZA, DJ KAIDO, Paul Meier |
 | Sat, 8 Aug 2026 | Fragmento vol. 4 | Delirante, Jørdø (AR), k.naxXxo |
 
 ## Address
 
 Sternwartenstraße 4-6, 04103 Leipzig, Leipzig
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/gwuni-mopera-zentrum-leipzig/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/gwuni-mopera-zentrum-leipzig/)*

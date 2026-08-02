@@ -1,6 +1,6 @@
 # Alleviate
 
-Alleviate is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Melkweg, Amsterdam on Mon, 24 Aug 2026.
+Alleviate is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Melkweg, Amsterdam on Mon, 24 Aug 2026.
 
 Alleviate is a drum & bass artist based in Australia, tracked on soundcheck, with 2 sets logged across Amsterdam and Utrecht. Often billed alongside Doldrums, FLOWZ and FUTURE PROOF. Next up: Melkweg, Amsterdam on Mon 24 Aug.
 
@@ -18,4 +18,4 @@ Alleviate is a drum & bass artist based in Australia, tracked on soundcheck, wit
 
 Doldrums, FLOWZ, FUTURE PROOF
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleviate/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleviate/)*

@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> T.B.A" on Sat, 5 Sept 2026.
+Eventhuset is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> T.B.A" on Sat, 5 Sept 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including MERILIN, Nina Michelle and Paralich. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -14,4 +14,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 1 upcoming night,
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

@@ -1,14 +1,13 @@
 # Signal
 
-Signal is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "nyc rave girls: Bonnie Spacey, Heidi Lawden, Ksenyeah, La Vega" on Sat, 1 Aug 2026.
+Signal is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Lakuti, Yvonne Turner, Lovie" on Sun, 2 Aug 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including LYDO, MORENXXX, alexander:louis and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including LYDO, MORENXXX, alexander:louis and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | nyc rave girls: Bonnie Spacey, Heidi Lawden, Ksenyeah, La Vega | Bonnie Spacey, Heidi Lawden, Ksenyeah, La Vega |
 | Sun, 2 Aug 2026 | Lakuti, Yvonne Turner, Lovie | Kilopatrah Jones, Lakuti, Lovie |
 | Thu, 6 Aug 2026 | Frontyard FM & Level III with K.Tea & Spiñorita | Dennis Free, MESA (DJ), Spiñorita, k.tea |
 | Fri, 7 Aug 2026 | Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and Navid navbox | Avenue F, Loren, Navid Navbox, Satoshi Tomiie, Shaun Reeves, Stretch, britty. |
@@ -18,9 +17,10 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights,
 | Fri, 14 Aug 2026 | Night & Day: Ivan Smagghe, Youandewan, Lauren Flax, Patrick Russell, J. Richards | Ivan Smagghe, J. Richards, Lauren Flax, Patrick Russell, Youandewan |
 | Sat, 15 Aug 2026 | Maya Records presents: La Santa, Papa Lu, Joeski, alexander:louis | Joeski, La Santa, Papa Lu, alexander:louis |
 | Sun, 16 Aug 2026 | Jen Cardini, Kim Anh, Michael Cignarale | Jen Cardini, Kim Anh, Michael Cignarale |
+| Fri, 21 Aug 2026 | Night & Day: Ash Lauryn, JADALAREIGN, Jay Duncan, shekdash, Donis | Ash Lauryn, Donis, JADALAREIGN, Jay Duncan, shekdash |
 
 ## Address
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

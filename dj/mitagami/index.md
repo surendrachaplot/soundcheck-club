@@ -1,14 +1,13 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - YAANGA PARK, Los Angeles on Sat, 1 Aug 2026.
+Mita Gami is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: TBA - YAANGA PARK, Losangeles on Sat 1 Aug.
+Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - YAANGA PARK | Los Angeles |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 8 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
@@ -19,6 +18,7 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logg
 
 ## Recently played
 
+- TBA - YAANGA PARK, Los Angeles — Sat, 1 Aug 2026
 - Pacha Ibiza, Ibiza — Wed, 29 Jul 2026
 - Central Park SummerStage, New York City — Sat, 25 Jul 2026
 - Jolene Downtown Miami, Miami — Sat, 11 Jul 2026
@@ -26,10 +26,9 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logg
 - Stereo, Montreal — Tue, 30 Jun 2026
 - BERHTA, Washington DC — Sat, 27 Jun 2026
 - Domicile, Miami — Thu, 11 Jun 2026
-- Bolivar Beach Bar, Athens — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

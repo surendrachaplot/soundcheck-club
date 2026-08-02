@@ -1,6 +1,6 @@
 # KNEIPENKLÄNGE /// BOX OFFICE 15€ at Humboldthain Club
 
-KNEIPENKLÄNGE /// BOX OFFICE 15€ at Humboldthain Club on Sat 12 Sept, Berlin. 5 acts on the bill: DJ Buona Sara, Lisatrix, M1RABELLE and S.3000 and 1 more. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+KNEIPENKLÄNGE /// BOX OFFICE 15€ at Humboldthain Club on Sat 12 Sept, Berlin. 8 acts on the bill: DJ Buona Sara, DJ Sweedee, HØLLE (2) and Lisatrix and 4 more. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,11 @@ KNEIPENKLÄNGE /// BOX OFFICE 15€ at Humboldthain Club on Sat 12 Sept, Berlin.
 ## Line-up
 
 - DJ Buona Sara
+- DJ Sweedee
+- HØLLE (2)
 - Lisatrix
 - M1RABELLE
+- Plattenlieferant
 - S.3000
 - tamarawrx3
 

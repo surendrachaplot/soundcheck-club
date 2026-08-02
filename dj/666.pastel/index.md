@@ -1,6 +1,6 @@
 # 666.pastel
 
-666.pastel is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Rhythm, Toronto on Wed, 5 Aug 2026.
+666.pastel is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Rhythm, Toronto on Wed, 5 Aug 2026.
 
 666.pastel is a hardcore and techno artist tracked on soundcheck, with 30 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Rareasfck, Crushenhaus and Ms. GothicFish. Next up: Rhythm, Toronto on Wed 5 Aug.
 
@@ -26,4 +26,4 @@
 
 Rareasfck, Crushenhaus, Ms. GothicFish
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/666.pastel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/666.pastel/)*

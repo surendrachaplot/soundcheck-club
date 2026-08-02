@@ -1,6 +1,6 @@
 # Carbajal
 
-Carbajal is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Foro Nahual Teotihuacan, Mexico City on Sun, 2 Aug 2026.
+Carbajal is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Foro Nahual Teotihuacan, Mexico City on Sun, 2 Aug 2026.
 
 Carbajal is a techno and electronica artist tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Enya Botello, Adriana Roma and Celice Monnette. Next up: Foro Nahual Teotihuacan, Mexicocity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Carbajal is a techno and electronica artist tracked on soundcheck, with 12 sets 
 
 Enya Botello, Adriana Roma, Celice Monnette
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carbajal/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carbajal/)*

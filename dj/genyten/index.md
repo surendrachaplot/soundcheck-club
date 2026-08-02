@@ -1,6 +1,6 @@
 # Genyten
 
-Genyten is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+Genyten is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
 Genyten is an electro and idm artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam and Rotterdam. Often billed alongside dirtydms, Alberta Balsam and DJ TOOL. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Genyten is an electro and idm artist based in Netherlands, tracked on soundcheck
 
 dirtydms, Alberta Balsam, DJ TOOL
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genyten/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genyten/)*

@@ -1,6 +1,6 @@
 # Addiy
 
-Addiy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bank30, Tokyo on Sat, 8 Aug 2026.
+Addiy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bank30, Tokyo on Sat, 8 Aug 2026.
 
 Addiy is a house and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across London and Tokyo. Often billed alongside Yamariki, BNN WKND and kagurun. Next up: Bank30, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Addiy is a house and tech house artist based in Japan, tracked on soundcheck, wi
 
 Yamariki, BNN WKND, kagurun
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addiy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addiy/)*

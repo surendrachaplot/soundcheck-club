@@ -1,6 +1,6 @@
 # Michael James
 
-Michael James is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 11 Sept 2026.
+Michael James is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 11 Sept 2026.
 
 Michael James is a tech house and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Nolga, Adam Nahalewicz and Rich NXT. Next up: 303 Audiophile Bar, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Michael James is a tech house and house artist tracked on soundcheck, with 36 se
 
 Nolga, Adam Nahalewicz, Rich NXT
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeljames/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeljames/)*

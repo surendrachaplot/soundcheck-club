@@ -1,6 +1,6 @@
 # Outergrace
 
-Outergrace is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at broad hall., Philadelphia on Fri, 7 Aug 2026.
+Outergrace is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at broad hall., Philadelphia on Fri, 7 Aug 2026.
 
 Outergrace is a house and club artist tracked on soundcheck, with 9 sets logged across Philadelphia. Often billed alongside mel b, ANDi MANDi and Dance. Next up: broad hall., Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Outergrace is a house and club artist tracked on soundcheck, with 9 sets logged 
 
 mel b, ANDi MANDi, Dance
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outergrace/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outergrace/)*

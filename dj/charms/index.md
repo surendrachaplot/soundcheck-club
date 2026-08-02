@@ -1,6 +1,6 @@
 # Charms
 
-Charms is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
+Charms is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
 
 Charms is a club and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London, Manchester and Melbourne. Often billed alongside Cam Joon, Hannah O'Gorman and Korzi. Next up: renae, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Charms is a club and bass artist based in United Kingdom, tracked on soundcheck,
 
 Cam Joon, Hannah O'Gorman, Korzi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*

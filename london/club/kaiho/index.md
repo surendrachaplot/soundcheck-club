@@ -1,14 +1,13 @@
 # Kaiho
 
-Kaiho is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ALL DAY PARTY - SIBLING 1 YEAR ANNIVERSARY" on Sat, 1 Aug 2026.
+Kaiho is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "leverson x Kaihō カイホウ (vinyl set)" on Sat, 29 Aug 2026.
 
-Kaiho is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including fat hands, Hen Borton, isavars and JEEM and 2 more. Browse upcoming dates, start times and who's playing.
+Kaiho is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including leverson. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ALL DAY PARTY - SIBLING 1 YEAR ANNIVERSARY | Hen Borton, JEEM, K-SLICE, fat hands, isavars, Özten |
 | Sat, 29 Aug 2026 | leverson x Kaihō カイホウ (vinyl set) | leverson |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kaiho/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kaiho/)*

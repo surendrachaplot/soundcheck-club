@@ -1,6 +1,6 @@
 # TBA - Tiergarten – Secret Location 
 
-TBA - Tiergarten – Secret Location  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Ambient Picnic" on Sat, 8 Aug 2026.
+TBA - Tiergarten – Secret Location  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Ambient Picnic" on Sat, 8 Aug 2026.
 
 TBA - Tiergarten – Secret Location  is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Tiergarten – Secret Location  is a music venue in Berlin listed on sound
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ambient Picnic |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-tiergarten-secret-location/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-tiergarten-secret-location/)*

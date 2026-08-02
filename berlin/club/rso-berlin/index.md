@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Unreal Day & Night at Valley & RSO BERLIN with A.N.I. , Svetec, RIKHTER, uvm" on Sat, 1 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AADJA and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AADJA and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Unreal Day & Night at Valley & RSO BERLIN with A.N.I. , Svetec, RIKHTER, uvm | A.N.I., Afem Syko, BIXBITA, EMILIJA, In Verruf, Johannes Schuster, KLOUD, KTK (DE), Kander, L.zwo, O.B.I. (DE), RIKHTER, Svetec, Tham |
 | Fri, 7 Aug 2026 | XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane | AADJA, Chontane, Markus Suckut, Sanna Mun |
 | Sat, 8 Aug 2026 | MAGMA Festival / 08. & 09. August 2026 | Ata Kak, Blawan, Cho Room, DJ KILLING, DJ Pipe, DJ Python, DJ Travella, Deki Alem, Doudou MD, Erika de Casier, Garage Girls, Hekt, HiTech, JAXX TMS, Joy Orbison, Lauren Duffus, Luca Eck, Meg10, Mia Koden, Mietze Conte, Mobilegirl, NEW YORK, Pearson Sound, Penglord, SENU, Six Sex, Skin On Skin, Sophia Stel, Surusinghe, Tai Lokun, The Dare, Tracey, Yaeji, bambinodj, x3butterfly, yungfya |
 | Sat, 8 Aug 2026 | MAGMA BY NIGHT with Blawan, Pearson Sound, JAX TMS, Garage Girls | Blawan, DJ Pipe, Garage Girls, Hekt, JAXX TMS, Luca Eck, Pearson Sound, Surusinghe, Tracey, yungfya |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, 
 | Sun, 23 Aug 2026 | JAUCHOMATIC - Open Air - By the People for the People (since 1995) / Baergarten | DJ Jauche |
 | Sat, 29 Aug 2026 | XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia | Akua, Alarico, Decka, Henning Baer, Kameliia, Laia, Nadia Struiwigh, ORBE, Olivia Mendez, Psyk, Roll Dann, Sandrien, Shadow Hrym (ES) |
 | Fri, 4 Sept 2026 | PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT |  |
+| Sat, 12 Sept 2026 | Home Again Festival - 10 Years | Andra, Blame Anthony, Butterhands, Cassy, Chris Stussy, DJ Split, Dan Ghenacia, Disguised, Dj Norma, Eris Drew, GOME, Greta Spark, Home Again Soundsystem, LIA, Lobster (NL), Manuel Fischer, Mara Menace, Marsch, Meggy, Power Squad, Quest, Quest (IT), Robert Owens, Robin RB, Rosa Red, Ryan Elliott, Solomun, TSHA, Thabo, Thalo Santana, Tiago Oudman, Vera, ferrari rot, hawi |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

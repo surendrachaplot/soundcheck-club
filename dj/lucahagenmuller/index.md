@@ -1,6 +1,6 @@
 # Luca Hagenmüller
 
-Luca Hagenmüller is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
+Luca Hagenmüller is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
 
 Luca Hagenmüller is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside 5euroGoldi, Astema (GER) and Athina. Next up: Void Club, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Luca Hagenmüller is a techno and drum & bass artist based in Germany, tracked o
 
 5euroGoldi, Astema (GER), Athina
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucahagenmuller/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucahagenmuller/)*

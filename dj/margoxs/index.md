@@ -1,6 +1,6 @@
 # Margo XS
 
-Margo XS is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Chiso Cafe AT Dada, Los Angeles on Sun, 2 Aug 2026.
+Margo XS is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Chiso Cafe AT Dada, Los Angeles on Sun, 2 Aug 2026.
 
 Margo XS is a house and club artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, London and Losangeles and 3 more. Often billed alongside DJ Gigola, ALCATRAZ and Goddollars. Next up: Chiso Cafe AT Dada, Losangeles on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Margo XS is a house and club artist tracked on soundcheck, with 21 sets logged a
 
 DJ Gigola, ALCATRAZ, Goddollars
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margoxs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margoxs/)*

@@ -1,6 +1,6 @@
 # Camilo Franco
 
-Camilo Franco is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+Camilo Franco is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
 
 Camilo Franco is a club and house artist based in Spain, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Brussels and Ibiza and 2 more. Often billed alongside Nadja, Julia Sandstorm and Satori. Next up: TBA, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Camilo Franco is a club and house artist based in Spain, tracked on soundcheck, 
 
 Nadja, Julia Sandstorm, Satori
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilofranco/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilofranco/)*

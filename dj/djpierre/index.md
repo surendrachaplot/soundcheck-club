@@ -1,14 +1,16 @@
 # DJ Pierre
 
-DJ Pierre is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at LoHi, New York City on Sat, 22 Aug 2026.
+DJ Pierre is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at LoHi, New York City on Sat, 22 Aug 2026.
 
-DJ Pierre is an acid and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Buenosaires and 15 more. Often billed alongside Alex Pi, BLACKCLUB and BRKN. Next up: LoHi, Newyorkcity on Sat 22 Aug.
+DJ Pierre is a techno and acid artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Buenosaires and 15 more. Often billed alongside Alex Pi, BLACKCLUB and BRKN. Next up: LoHi, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | LoHi | New York City |
+| Fri, 23 Oct 2026 | The Bulldog Palace | Amsterdam |
+| Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ DJ Pierre is an acid and techno artist based in United States of America, tracke
 
 Alex Pi, BLACKCLUB, BRKN
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*

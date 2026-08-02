@@ -1,6 +1,6 @@
 # Simik
 
-Simik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
+Simik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
 
 Simik is a techno and house artist based in Portugal, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Chris Husky, Paperplane and Yova Yager. Next up: The Steel Yard, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Simik is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Chris Husky, Paperplane, Yova Yager
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simik/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simik/)*

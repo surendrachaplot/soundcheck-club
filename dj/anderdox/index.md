@@ -1,6 +1,6 @@
 # Anderdox
 
-Anderdox is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
+Anderdox is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
 
 Anderdox is a tech house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague. Often billed alongside Rayzir, ADEZ and Lola Flores (2). Next up: Toffler, Rotterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Anderdox is a tech house and house artist tracked on soundcheck, with 29 sets lo
 
 Rayzir, ADEZ, Lola Flores (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderdox/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderdox/)*

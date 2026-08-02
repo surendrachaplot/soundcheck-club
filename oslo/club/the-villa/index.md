@@ -1,14 +1,13 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 14 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Nina Yamada (JP) & Olefonken (Hubbabubbaklubb) / SS: Rune & Larsen" on Sat, 1 Aug 2026.
+The Villa is a music venue in Oslo with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Novelty Waves with Bok Bok (UK / NIGHT SLUGS)" on Fri, 7 Aug 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 14 upcoming nights, with line-ups including Bok Bok, Daichi Wada, DJ Fart in the Club and DJ IBON and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 13 upcoming nights, with line-ups including Bok Bok, Daichi Wada, DJ Fart in the Club and DJ IBON and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Nina Yamada (JP) & Olefonken (Hubbabubbaklubb) / SS: Rune & Larsen | Nina Yamada, Olefonken |
 | Fri, 7 Aug 2026 | Novelty Waves with Bok Bok (UK / NIGHT SLUGS) | Bok Bok, Svebbe |
 | Sat, 8 Aug 2026 | Mike Midnight (AU) & BEA1991 (NL) / DJ Set) + Slem (Live), EMACS, Kenmeth  / The Villa | Mike Midnight |
 | Fri, 14 Aug 2026 | Øyanatt: Evian Christ (UK / Warp Records) + ICR (LIVE), Peak Sinner & DJ IBON | DJ IBON, Evian Christ, Onleash |
@@ -18,9 +17,10 @@ The Villa is a music venue in Oslo listed on soundcheck. 14 upcoming nights, wit
 | Sat, 29 Aug 2026 | Skatebård | Skatebård |
 | Sat, 5 Sept 2026 | DJ Hell (DE) | DJ Hell |
 | Sat, 12 Sept 2026 | Sam Girling (UK) | Sam Girling |
+| Fri, 18 Sept 2026 | Objekt (DE / PAN) | Objekt |
 
 ## Address
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

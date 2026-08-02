@@ -1,14 +1,13 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ZAP" on Sat, 1 Aug 2026.
+Live Haus is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "LOCALINE" on Mon, 3 Aug 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 6.do, KCT (1), Kenta Tominaga and kuniii and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including 6.do, KCT (1), Kenta Tominaga and kuniii and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ZAP | Shuta |
 | Mon, 3 Aug 2026 | LOCALINE | SOGI |
 | Fri, 7 Aug 2026 | Salute | Muse (1), kuniii, savezearth |
 | Fri, 14 Aug 2026 | JAZZ'N'BASS - Double Time Feel=Drum'n'Bass | Kenta Tominaga, vinylDJ Eiji Takehana |
@@ -20,4 +19,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, wit
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

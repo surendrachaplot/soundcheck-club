@@ -1,6 +1,6 @@
 # mark andrew (2)
 
-mark andrew (2) is a Jungle and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 8 Aug 2026.
+mark andrew (2) is a Jungle and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 8 Aug 2026.
 
 mark andrew (2) is a jungle and breakcore artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Sheffield. Often billed alongside Earl Grey (2), Tommy Badman and Enduser. Next up: Southbank Warehouse, Sheffield on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ mark andrew (2) is a jungle and breakcore artist based in United Kingdom, tracke
 
 Earl Grey (2), Tommy Badman, Enduser
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markandrew-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markandrew-2/)*

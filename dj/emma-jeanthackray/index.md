@@ -1,6 +1,6 @@
 # Emma-Jean Thackray
 
-Emma-Jean Thackray is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Cité De La Musique, Paris on Thu, 3 Sept 2026.
+Emma-Jean Thackray is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cité De La Musique, Paris on Thu, 3 Sept 2026.
 
 Emma-Jean Thackray is a jazz and funk / soul artist tracked on soundcheck, with 15 sets logged across Antwerp, Birmingham, Cologne and Leeds and 6 more. Often billed alongside Jamz Supernova, Carl Craig and Crazy P. Next up: Cité De La Musique, Paris on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Emma-Jean Thackray is a jazz and funk / soul artist tracked on soundcheck, with 
 
 Jamz Supernova, Carl Craig, Crazy P
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-jeanthackray/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-jeanthackray/)*

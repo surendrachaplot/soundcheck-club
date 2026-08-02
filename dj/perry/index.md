@@ -1,6 +1,6 @@
 # Perry (US)
 
-Perry (US) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Adventure Coast, Southport, Liverpool on Sun, 2 Aug 2026.
+Perry (US) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Adventure Coast, Southport, Liverpool on Sun, 2 Aug 2026.
 
 Perry (US) is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Ibiza and Liverpool. Often billed alongside Darius Syrossian, Enzo is Burning and Freya. Next up: Adventure Coast, Southport, Liverpool on Sun 2 Aug.
 
@@ -18,4 +18,4 @@ Perry (US) is an electronic artist based in United States of America, tracked on
 
 Darius Syrossian, Enzo is Burning, Freya
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perry/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perry/)*

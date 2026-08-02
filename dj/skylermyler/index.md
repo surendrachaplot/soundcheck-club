@@ -1,6 +1,6 @@
 # SKYLERMYLER
 
-SKYLERMYLER is a Electronica and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Ferry, Glasgow on Sat, 15 Aug 2026.
+SKYLERMYLER is a Electronica and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Ferry, Glasgow on Sat, 15 Aug 2026.
 
 SKYLERMYLER is an electronica and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside CLO (2), Céleste and DART. Next up: The Ferry, Glasgow on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ SKYLERMYLER is an electronica and progressive house artist based in United Kingd
 
 CLO (2), Céleste, DART
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*

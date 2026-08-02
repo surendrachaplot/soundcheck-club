@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 17 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Whitenoise / Bar: Nate Cabrera & Domscott" on Sat, 1 Aug 2026.
+Oven Club is a music venue in Valencia with 16 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Volte b2b Giorgio Bonetti" on Wed, 5 Aug 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 17 upcoming nights, with line-ups including Aguirre, Ariezzz, Baloo and BAR (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 16 upcoming nights, with line-ups including Aguirre, Ariezzz, Baloo and BAR (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Whitenoise / Bar: Nate Cabrera & Domscott | Whitenoise (PT) |
 | Wed, 5 Aug 2026 | Volte b2b Giorgio Bonetti |  |
 | Thu, 6 Aug 2026 | Alpa + XaviChan + Cone | Cone |
 | Fri, 7 Aug 2026 | Velasco + Pin / Bar: Mardi & Depanachi | Pin, Velasco |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 17 upcoming nights,
 | Fri, 14 Aug 2026 | Total: Hello Sasy + Ariezzz + Achav3 / Bar: VELMOJAH (Bcn) & Nomart | Ariezzz, Dystorizon, Hello Sasy |
 | Sat, 15 Aug 2026 | Pau Pérez + Kamiel + Melo + Santiago Guilá / Bar: Dalsy & Nomart | Melo (ES), Pau Pérez |
 | Wed, 19 Aug 2026 | Disco Sour: SOUMZ b2b Giorgio Bonetti | Disco Sour |
+| Thu, 20 Aug 2026 | Blanch + Ladrillovitz + Serret | Blanch, Ladrillovitz |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

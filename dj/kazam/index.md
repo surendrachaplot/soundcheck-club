@@ -1,6 +1,6 @@
 # KAZAM
 
-KAZAM is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
+KAZAM is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
 
 KAZAM is a house and tech house artist based in France, tracked on soundcheck, with 20 sets logged across Barcelona and Paris. Often billed alongside Māokē, Victor Tomasi and Flabaire. Next up: Le Mazette, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ KAZAM is a house and tech house artist based in France, tracked on soundcheck, w
 
 Māokē, Victor Tomasi, Flabaire
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazam/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazam/)*

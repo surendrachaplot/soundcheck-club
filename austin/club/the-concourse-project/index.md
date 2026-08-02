@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 34 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Matroda (Extended Set)" on Sat, 1 Aug 2026.
+The Concourse Project is a music venue in Austin with 34 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "GUDFELLA" on Thu, 6 Aug 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcoming nights, with line-ups including Adam Port, Alignment, Audien and Azzecca and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -8,7 +8,6 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Matroda (Extended Set) | Matroda |
 | Thu, 6 Aug 2026 | GUDFELLA |  |
 | Fri, 7 Aug 2026 | DILLSTRADAMUS | Dillon Francis, Flosstradamus |
 | Sat, 8 Aug 2026 | SIDEQUEST | Side Quest |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcomi
 | Fri, 21 Aug 2026 | Azzecca (Extended Set) + William Kiss - Austin | Azzecca, William Kiss |
 | Thu, 27 Aug 2026 | FREE with RSVP: Tony Romera + ESSEL | Tony Romera |
 | Fri, 28 Aug 2026 | Kayzo presents The Cage | Kayzo, hhunter |
+| Fri, 28 Aug 2026 | Westend (The Hangar) |  |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

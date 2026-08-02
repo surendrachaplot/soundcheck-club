@@ -1,6 +1,6 @@
 # Kasia
 
-Kasia is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 12 Aug 2026.
+Kasia is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Kasia is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Austin, Barcelona, Frankfurt and Ibiza and 3 more. Often billed alongside Kasia (OFC), Bakey and Champion. Next up: Amnesia Ibiza, Ibiza on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Kasia is a techno and tech house artist based in United Kingdom, tracked on soun
 
 Kasia (OFC), Bakey, Champion
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia/)*

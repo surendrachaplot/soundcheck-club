@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Kitchenrave by CiaoCiao" on Fri, 7 Aug 2026.
+AMT is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Kitchenrave by CiaoCiao" on Fri, 7 Aug 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Lobby (FR), ALVA (FR), Alva and Annina and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ AMT is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with lin
 | Fri, 11 Sept 2026 | CLASH | Danny Roach, Esther Dune, Lixi, RuBi. |
 | Sat, 12 Sept 2026 | CAGE: Techno / Hard Techno [Kinky] |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

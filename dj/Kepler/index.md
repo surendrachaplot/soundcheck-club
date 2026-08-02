@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
+Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
 
 Kepler is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: Palmerstown House Estate, Dublin on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Kepler is a house and tech house artist tracked on soundcheck, with 150 sets log
 
 Burnski, L.P. Rhythm, Enzo Siragusa
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

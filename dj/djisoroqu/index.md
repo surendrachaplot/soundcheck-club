@@ -1,14 +1,15 @@
 # Isoroqu
 
-Isoroqu is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Aoyama Hachi, Tokyo on Tue, 4 Aug 2026.
+Isoroqu is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Aoyama Hachi, Tokyo on Tue, 4 Aug 2026.
 
-Isoroqu is a house and deep house artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside Manami T.B, Gara and Charlie. Next up: Aoyama Hachi, Tokyo on Tue 4 Aug.
+Isoroqu is a house and deep house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside Manami T.B, Gara and Charlie. Next up: Aoyama Hachi, Tokyo on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | Aoyama Hachi | Tokyo |
+| Sat, 29 Aug 2026 | Numm | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Isoroqu is a house and deep house artist based in Japan, tracked on soundcheck, 
 
 Manami T.B, Gara, Charlie
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djisoroqu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djisoroqu/)*

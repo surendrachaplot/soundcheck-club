@@ -1,6 +1,6 @@
 # Sam Supplier
 
-Sam Supplier is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Sun, 9 Aug 2026.
+Sam Supplier is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Sam Supplier is a tech house and house artist tracked on soundcheck, with 70 sets logged across Brighton, Ibiza and London. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: Tomorrowland Store Ibiza, Ibiza on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Sam Supplier is a tech house and house artist tracked on soundcheck, with 70 set
 
 JAYDAA, DJ S (UK), Jerome Six
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsupplier/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsupplier/)*

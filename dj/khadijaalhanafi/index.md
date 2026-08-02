@@ -1,6 +1,6 @@
 # Khadija Al Hanafi
 
-Khadija Al Hanafi is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Khadija Al Hanafi is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
 Khadija Al Hanafi is a footwork and bass artist based in Tunisia, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside ABADIR, Crystallmess and RHR. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Khadija Al Hanafi is a footwork and bass artist based in Tunisia, tracked on sou
 
 ABADIR, Crystallmess, RHR
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khadijaalhanafi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khadijaalhanafi/)*

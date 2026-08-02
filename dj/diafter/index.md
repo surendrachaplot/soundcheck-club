@@ -1,6 +1,6 @@
 # Di After
 
-Di After is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+Di After is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
 Di After is a techno and house artist tracked on soundcheck, with 10 sets logged across Amsterdam and Utrecht. Often billed alongside AUTOFLOWER, Boris Coelman and Koperblond. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Di After is a techno and house artist tracked on soundcheck, with 10 sets logged
 
 AUTOFLOWER, Boris Coelman, Koperblond
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diafter/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diafter/)*

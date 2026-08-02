@@ -1,15 +1,13 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
+Gaskin is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 15 Aug 2026.
 
-Gaskin is a house and tech house artist tracked on soundcheck, with 178 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Tiger Yard, Cardiff on Sat 1 Aug.
+Gaskin is a house and tech house artist tracked on soundcheck, with 178 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Ushuaïa Ibiza, Ibiza on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Tiger Yard | Cardiff |
-| Sat, 1 Aug 2026 | The Nest | Nottingham |
 | Sat, 15 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Thuishaven | Amsterdam |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,20 +18,22 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 178 sets log
 | Sun, 13 Sept 2026 | Colorado Charlie | The Hague |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
+| Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
 
+- Tiger Yard, Cardiff — Sat, 1 Aug 2026
+- The Nest, Nottingham — Sat, 1 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 26 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 18 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 7 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
 - Esferic Bcn, Barcelona — Fri, 19 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
-- Castell de BEN Viure, Barcelona — Thu, 18 Jun 2026
-- 528 Ibiza, Ibiza — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

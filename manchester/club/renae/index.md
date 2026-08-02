@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "renae: Levi Love" on Sat, 1 Aug 2026.
+renae is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "renae: Supernature Disco" on Sun, 2 Aug 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Abena, April (UK), Ayy Den and Charms and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Abena, April (UK), Ayy Den and Charms and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | renae: Levi Love | Levi Love |
 | Sun, 2 Aug 2026 | renae: Supernature Disco | Supernature Disco |
 | Fri, 7 Aug 2026 | Staple Music at topp (renae) | KAZIA, SAVANNAHH, Shimrise, Urbi |
 | Thu, 13 Aug 2026 | Open To Close with Willow, ngoma & Rhod Parry | Rhod Parry, Willow, ngoma |
@@ -23,4 +22,4 @@ renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, w
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

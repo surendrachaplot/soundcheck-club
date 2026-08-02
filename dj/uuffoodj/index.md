@@ -1,6 +1,6 @@
 # UUFFOO DJ
 
-UUFFOO DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 14 Aug 2026.
+UUFFOO DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 14 Aug 2026.
 
 UUFFOO DJ is a techno and house artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside B+, Bluecommand and Deejay Energy. Next up: YuYu Cine Club, Mexicocity on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ UUFFOO DJ is a techno and house artist based in Mexico, tracked on soundcheck, w
 
 B+, Bluecommand, Deejay Energy
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uuffoodj/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uuffoodj/)*

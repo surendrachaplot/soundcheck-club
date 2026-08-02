@@ -1,8 +1,8 @@
 # The Bellwether
 
-The Bellwether is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Earlybirds Club at Camille's" on Fri, 14 Aug 2026.
+The Bellwether is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Earlybirds Club at Camille's" on Fri, 14 Aug 2026.
 
-The Bellwether is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Midnight Magic, The Knocks and Tricky. Browse upcoming dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
+The Bellwether is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Midnight Magic, Parra for Cuva, The Knocks and Tricky. Browse upcoming dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
 
 ## What's on
 
@@ -14,9 +14,10 @@ The Bellwether is a music venue in Losangeles listed on soundcheck. 6 upcoming n
 | Thu, 24 Sept 2026 | Tricky | Tricky |
 | Thu, 24 Sept 2026 | KCRW presents Tricky |  |
 | Fri, 25 Sept 2026 | Mind Enterprises |  |
+| Sat, 31 Oct 2026 | Parra for Cuva | Parra for Cuva |
 
 ## Address
 
 333 S Boylston St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*

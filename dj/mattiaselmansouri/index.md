@@ -1,14 +1,13 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Trädgården, Stockholm on Sat, 1 Aug 2026.
+Mattias El Mansouri is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Radio Radio, Amsterdam on Sat, 8 Aug 2026.
 
-Mattias El Mansouri is a house and techno artist based in Sweden, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Sergej Orlov, Hunee and Bennet (DE). Next up: Trädgården, Stockholm on Sat 1 Aug.
+Mattias El Mansouri is a house and techno artist based in Sweden, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Sergej Orlov, Hunee and Bennet (DE). Next up: Radio Radio, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Trädgården | Stockholm |
 | Sat, 8 Aug 2026 | Radio Radio | Amsterdam |
 | Sat, 22 Aug 2026 | essaim | Paris |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -17,6 +16,7 @@ Mattias El Mansouri is a house and techno artist based in Sweden, tracked on sou
 
 ## Recently played
 
+- Trädgården, Stockholm — Sat, 1 Aug 2026
 - BLITZ, Munich — Sat, 25 Jul 2026
 - Jolene, Copenhagen — Fri, 17 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 10 Jul 2026
@@ -24,10 +24,9 @@ Mattias El Mansouri is a house and techno artist based in Sweden, tracked on sou
 - Timebar, Stockholm — Sat, 30 May 2026
 - Tresor / Globus, Berlin — Sat, 23 May 2026
 - Trädgården, Stockholm — Sat, 16 May 2026
-- Doka, Amsterdam — Fri, 1 May 2026
 
 ## Shares bills with
 
 Sergej Orlov, Hunee, Bennet (DE)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*

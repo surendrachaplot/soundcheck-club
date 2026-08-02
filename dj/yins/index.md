@@ -1,6 +1,6 @@
 # Yins
 
-Yins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at EL SÓTANO, Madrid on Thu, 6 Aug 2026.
+Yins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at EL SÓTANO, Madrid on Thu, 6 Aug 2026.
 
 Yins is a house and tech house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Madrid. Often billed alongside Hadex (2), Loopi.ta and Raisa. Next up: EL SÓTANO, Madrid on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Yins is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Hadex (2), Loopi.ta, Raisa
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yins/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yins/)*

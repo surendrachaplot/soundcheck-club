@@ -1,6 +1,6 @@
 # Waxlily
 
-Waxlily is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Chinese Laundry, Sydney on Fri, 7 Aug 2026.
+Waxlily is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Chinese Laundry, Sydney on Fri, 7 Aug 2026.
 
 Waxlily is a house and techno artist based in Australia, tracked on soundcheck, with 16 sets logged across Sydney. Often billed alongside Caleb Jackson, Elijah Something and Litmus. Next up: Chinese Laundry, Sydney on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Waxlily is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Caleb Jackson, Elijah Something, Litmus
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waxlily/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waxlily/)*

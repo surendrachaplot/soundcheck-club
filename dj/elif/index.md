@@ -1,14 +1,13 @@
 # ELIF
 
-ELIF is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Berlin, Los Angeles on Sat, 1 Aug 2026.
+ELIF is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Berlin, Losangeles on Sat 1 Aug.
+ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Berlin | Los Angeles |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
@@ -20,6 +19,7 @@ ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged ac
 
 ## Recently played
 
+- Berlin, Los Angeles — Sat, 1 Aug 2026
 - Napa Music Hall, San Francisco/Oakland — Fri, 31 Jul 2026
 - M.N.Roy, Mexico City — Thu, 2 Jul 2026
 - Bridge 48, Barcelona — Thu, 18 Jun 2026
@@ -27,10 +27,9 @@ ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged ac
 - Pracht, Frankfurt — Thu, 4 Jun 2026
 - Lieberscholli, Munich — Wed, 3 Jun 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 16 May 2026
-- Bikini Club, Barcelona — Sat, 2 May 2026
 
 ## Shares bills with
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

@@ -1,6 +1,6 @@
 # Matt Pace
 
-Matt Pace is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jupiter Disco, New York City on Thu, 6 Aug 2026.
+Matt Pace is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jupiter Disco, New York City on Thu, 6 Aug 2026.
 
 Matt Pace is a house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside TOR$O, Parker Mac and Beneath. Next up: Jupiter Disco, Newyorkcity on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ Matt Pace is a house and deep house artist based in United States of America, tr
 
 TOR$O, Parker Mac, Beneath
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattpace/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattpace/)*

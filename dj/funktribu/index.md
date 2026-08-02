@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+Funk Tribu is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
 
 Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Boston Manor Park, London on Sun 2 Aug.
 
@@ -33,4 +33,4 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets lo
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

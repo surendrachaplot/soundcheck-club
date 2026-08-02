@@ -1,6 +1,6 @@
 # Dor Wand
 
-Dor Wand is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Dor Wand is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
 
 Dor Wand is a house and downtempo artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Tottie, Dimples and Dj Kerry. Next up: The Bridge, Losangeles on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dor Wand is a house and downtempo artist based in United States of America, trac
 
 Tottie, Dimples, Dj Kerry
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorwand/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorwand/)*

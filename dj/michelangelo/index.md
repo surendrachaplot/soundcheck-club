@@ -1,6 +1,6 @@
 # Michelangelo
 
-Michelangelo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 8 Aug 2026.
+Michelangelo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 8 Aug 2026.
 
 Michelangelo is a house and minimal artist based in United States of America, tracked on soundcheck, with 12 sets logged across Frankfurt and Newyorkcity. Often billed alongside Dimatteo, Kofman and Martín Y Corazón. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Michelangelo is a house and minimal artist based in United States of America, tr
 
 Dimatteo, Kofman, Martín Y Corazón
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelangelo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelangelo/)*

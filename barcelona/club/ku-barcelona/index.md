@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh" on Sun, 2 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh" on Sun, 2 Aug 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alex Now, Claptone, Giorgio Stefano and James Hype (UK) and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -19,4 +19,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

@@ -1,14 +1,13 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Mason Collective is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Mason Collective is a tech house and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
+Mason Collective is a tech house and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Tue, 25 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | KOKO | London |
@@ -23,6 +22,7 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 
 ## Recently played
 
+- Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 10 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 7 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 3 Jul 2026
@@ -30,10 +30,9 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 - Ku Barcelona, Barcelona — Sun, 21 Jun 2026
 - Particular Mataró, Barcelona — Sun, 21 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
-- UNLOCKED, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Jamie Jones, Franky Rizardo, Marco Carola
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

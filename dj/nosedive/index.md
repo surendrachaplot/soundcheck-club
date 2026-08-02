@@ -1,6 +1,6 @@
 # Nose Dive
 
-Nose Dive is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at radial, London on Fri, 28 Aug 2026.
+Nose Dive is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at radial, London on Fri, 28 Aug 2026.
 
 Nose Dive is a techno and club artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Genzun, John Xie and Baby Rollén. Next up: radial, London on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Nose Dive is a techno and club artist based in United Kingdom, tracked on soundc
 
 Genzun, John Xie, Baby Rollén
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedive/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedive/)*

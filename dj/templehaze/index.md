@@ -1,6 +1,6 @@
 # Temple Haze
 
-Temple Haze is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Cova Santa, Ibiza on Fri, 11 Sept 2026.
+Temple Haze is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cova Santa, Ibiza on Fri, 11 Sept 2026.
 
 Temple Haze is an electronica and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Berlin, Ibiza and Mexicocity. Often billed alongside Martha van Straaten, Parallelle and Valentin Huedo. Next up: Cova Santa, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Temple Haze is an electronica and house artist based in United States of America
 
 Martha van Straaten, Parallelle, Valentin Huedo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/templehaze/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/templehaze/)*

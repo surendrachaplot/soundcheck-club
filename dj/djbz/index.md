@@ -1,6 +1,6 @@
 # DJ Bz
 
-DJ Bz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Distrikt, Leeds on Sat, 15 Aug 2026.
+DJ Bz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distrikt, Leeds on Sat, 15 Aug 2026.
 
 DJ Bz is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Basel, Berlin and Dundee and 6 more. Often billed alongside Doogi, Sammy Peeps and Kirmelian. Next up: Distrikt, Leeds on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Bz is a house and minimal artist based in United Kingdom, tracked on soundche
 
 Doogi, Sammy Peeps, Kirmelian
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*

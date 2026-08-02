@@ -1,8 +1,8 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Parra for Cuva is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Parra for Cuva is a house and deep house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Parra for Cuva is a house and deep house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Parra for Cuva is a house and deep house artist tracked on soundcheck, with 66 s
 | Tue, 29 Sept 2026 | Docks | Hamburg |
 | Thu, 1 Oct 2026 | Carlswerk Victoria | Cologne |
 | Thu, 8 Oct 2026 | Akropolis | Prague |
+| Sat, 31 Oct 2026 | The Bellwether | Los Angeles |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Parra for Cuva is a house and deep house artist tracked on soundcheck, with 66 s
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

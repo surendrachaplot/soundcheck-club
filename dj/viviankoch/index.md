@@ -1,6 +1,6 @@
 # Vivian Koch
 
-Vivian Koch is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
+Vivian Koch is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
 
 Vivian Koch is an ambient and electronica artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Animistic Beliefs, Carrier and Lee Gamble. Next up: ://about blank, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Vivian Koch is an ambient and electronica artist based in Germany, tracked on so
 
 Animistic Beliefs, Carrier, Lee Gamble
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viviankoch/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viviankoch/)*

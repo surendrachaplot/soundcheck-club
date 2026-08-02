@@ -1,8 +1,8 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Club Salami - Setwun, D'Monk, Donsurf, Kusasa, Jimmy Smith" on Fri, 7 Aug 2026.
+The Glove That Fits is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Club Salami - Setwun, D'Monk, Donsurf, Kusasa, Jimmy Smith" on Fri, 7 Aug 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 7005, Aero (1), AJ Manning and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 7005, Aero (1), AJ Manning and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

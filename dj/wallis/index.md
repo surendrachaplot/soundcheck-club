@@ -1,6 +1,6 @@
 # Wallis
 
-Wallis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at PTR-Usine, Geneva on Fri, 28 Aug 2026.
+Wallis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at PTR-Usine, Geneva on Fri, 28 Aug 2026.
 
 Wallis is a techno and house artist based in France, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Samantha Togni, Blawan and Rakans. Next up: PTR-Usine, Geneva on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Wallis is a techno and house artist based in France, tracked on soundcheck, with
 
 Samantha Togni, Blawan, Rakans
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*

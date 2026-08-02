@@ -1,6 +1,6 @@
 # Yaros
 
-Yaros is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Mopac Bridge, Austin on Fri, 7 Aug 2026.
+Yaros is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Mopac Bridge, Austin on Fri, 7 Aug 2026.
 
 Yaros is a house and techno artist based in Mexico, tracked on soundcheck, with 12 sets logged across Austin. Often billed alongside El Zárate, Evan Guerra and Mauricio Meade. Next up: TBA - Mopac Bridge, Austin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Yaros is a house and techno artist based in Mexico, tracked on soundcheck, with 
 
 El Zárate, Evan Guerra, Mauricio Meade
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaros/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaros/)*

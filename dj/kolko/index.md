@@ -1,6 +1,6 @@
 # Kolko
 
-Kolko is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Studio Stereo, Barcelona on Thu, 27 Aug 2026.
+Kolko is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Studio Stereo, Barcelona on Thu, 27 Aug 2026.
 
 Kolko is an electro and house artist based in Argentina, tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside MENTA, BERNOUT and Crisalide. Next up: Studio Stereo, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Kolko is an electro and house artist based in Argentina, tracked on soundcheck, 
 
 MENTA, BERNOUT, Crisalide
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolko/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolko/)*

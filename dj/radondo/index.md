@@ -1,6 +1,6 @@
 # Radondo
 
-Radondo is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OXI, Berlin on Sun, 2 Aug 2026.
+Radondo is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OXI, Berlin on Sun, 2 Aug 2026.
 
 Radondo is an italo disco and ebm artist based in Germany, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Frankfurt and London and 6 more. Often billed alongside Neu-Romancer, Franz Scala and Giulia Gutterer. Next up: OXI, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Radondo is an italo disco and ebm artist based in Germany, tracked on soundcheck
 
 Neu-Romancer, Franz Scala, Giulia Gutterer
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radondo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radondo/)*

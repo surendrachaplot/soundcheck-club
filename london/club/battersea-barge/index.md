@@ -1,6 +1,6 @@
 # Battersea Barge
 
-Battersea Barge is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Necropolis Festival: Pirate Rave " on Sun, 9 Aug 2026.
+Battersea Barge is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Necropolis Festival: Pirate Rave " on Sun, 9 Aug 2026.
 
 Battersea Barge is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Arrosa, Claudia Kane, DungeonMaster and Jane Darke and 2 more. Browse upcoming dates, start times and who's playing. Nine Elms Lane; South Lambeth; London SW8 5BP; United Kingdom.
 
@@ -14,4 +14,4 @@ Battersea Barge is a music venue in London listed on soundcheck. 1 upcoming nigh
 
 Nine Elms Lane; South Lambeth; London SW8 5BP; United Kingdom, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/battersea-barge/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/battersea-barge/)*

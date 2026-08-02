@@ -1,6 +1,6 @@
 # Koljah
 
-Koljah is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Golden Gate, Berlin on Sat, 15 Aug 2026.
+Koljah is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Golden Gate, Berlin on Sat, 15 Aug 2026.
 
 Koljah is a deep house and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin and Munich. Often billed alongside Edgar Peng, Nils Ohrmann and Lena Brumby. Next up: Golden Gate, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Koljah is a deep house and house artist based in Germany, tracked on soundcheck,
 
 Edgar Peng, Nils Ohrmann, Lena Brumby
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koljah/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koljah/)*

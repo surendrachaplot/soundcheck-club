@@ -1,6 +1,6 @@
 # Dadame
 
-Dadame is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at La Terrrazza, Barcelona on Sat, 22 Aug 2026.
+Dadame is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Terrrazza, Barcelona on Sat, 22 Aug 2026.
 
 Dadame is a house and deep house artist based in Spain, tracked on soundcheck, with 106 sets logged across Barcelona. Often billed alongside Marc Gimeno, Tamborero and Alice Youngling. Next up: La Terrrazza, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dadame is a house and deep house artist based in Spain, tracked on soundcheck, w
 
 Marc Gimeno, Tamborero, Alice Youngling
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dadame/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dadame/)*

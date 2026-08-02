@@ -1,6 +1,6 @@
 # Valesuchi
 
-Valesuchi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
+Valesuchi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
 
 Valesuchi is a techno and experimental artist based in Chile, tracked on soundcheck, with 25 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 7 more. Often billed alongside Bitter Babe, Cashu and Clementaum. Next up: Central 1926, Saopaulo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Valesuchi is a techno and experimental artist based in Chile, tracked on soundch
 
 Bitter Babe, Cashu, Clementaum
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valesuchi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valesuchi/)*

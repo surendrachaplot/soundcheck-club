@@ -1,6 +1,6 @@
 # Raia
 
-Raia is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 22 Aug 2026.
+Raia is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 22 Aug 2026.
 
 Raia is an electronica and ambient artist based in Bulgaria, tracked on soundcheck, with 7 sets logged across Barcelona and Berlin. Often billed alongside Octo Åeterna, monosym and Forest On Stasys. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Raia is an electronica and ambient artist based in Bulgaria, tracked on soundche
 
 Octo Åeterna, monosym, Forest On Stasys
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raia-de/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raia-de/)*

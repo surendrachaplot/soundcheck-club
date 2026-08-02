@@ -1,18 +1,18 @@
 # SCRAAATCH
 
-SCRAAATCH is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Paragon, New York City on Sat, 1 Aug 2026.
+SCRAAATCH is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 21 Aug 2026.
 
-SCRAAATCH is an experimental and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity and Philadelphia. Often billed alongside chuki, MHYSA and 1morning. Next up: Paragon, Newyorkcity on Sat 1 Aug.
+SCRAAATCH is an experimental and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity and Philadelphia. Often billed alongside chuki, MHYSA and 1morning. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Paragon | New York City |
 | Fri, 21 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
+- Paragon, New York City — Sat, 1 Aug 2026
 - MoMA PS1, New York City — Fri, 31 Jul 2026
 - Paragon, New York City — Sat, 11 Apr 2026
 - TBA - Various Venues, New York City — Tue, 17 Feb 2026
@@ -20,10 +20,9 @@ SCRAAATCH is an experimental and techno artist based in United States of America
 - Green Room NYC, New York City — Sat, 27 Dec 2025
 - Philamoca, Philadelphia — Fri, 28 Nov 2025
 - Nowadays, New York City — Sat, 22 Nov 2025
-- Bossa Nova Civic Club, New York City — Fri, 22 Aug 2025
 
 ## Shares bills with
 
 chuki, MHYSA, 1morning
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*

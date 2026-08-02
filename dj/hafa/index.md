@@ -1,6 +1,6 @@
 # Hafa
 
-Hafa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+Hafa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
 
 Hafa is a house and techno artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam and Ghent. Often billed alongside Hame (1), Gizem and Lola Haro. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Hafa is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Hame (1), Gizem, Lola Haro
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hafa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hafa/)*

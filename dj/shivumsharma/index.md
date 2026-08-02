@@ -1,6 +1,6 @@
 # Shivum Sharma
 
-Shivum Sharma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
+Shivum Sharma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
 
 Shivum Sharma is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Manchester. Often billed alongside Goh Well, Shannen SP and Tash LC. Next up: The Carpet Shop, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Shivum Sharma is a house and techno artist based in United Kingdom, tracked on s
 
 Goh Well, Shannen SP, Tash LC
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shivumsharma/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shivumsharma/)*

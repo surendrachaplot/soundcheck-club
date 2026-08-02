@@ -1,6 +1,6 @@
 # Fella's Q-Tips
 
-Fella's Q-Tips is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Système, Montreal on Sun, 2 Aug 2026.
+Fella's Q-Tips is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Système, Montreal on Sun, 2 Aug 2026.
 
 Fella's Q-Tips is a house and deep house artist tracked on soundcheck, with 42 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside BisouBizou, Frankie Teardrop and Fred Everything. Next up: Système, Montreal on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Fella's Q-Tips is a house and deep house artist tracked on soundcheck, with 42 s
 
 BisouBizou, Frankie Teardrop, Fred Everything
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fellasq-tips/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fellasq-tips/)*

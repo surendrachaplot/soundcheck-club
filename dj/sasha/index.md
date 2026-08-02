@@ -1,14 +1,13 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at World Headquarters, Newcastle on Sat, 1 Aug 2026.
+Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 14 Aug 2026.
 
-Sasha is a progressive house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: World Headquarters, Newcastle on Sat 1 Aug.
+Sasha is a progressive house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Jolene Downtown Miami, Miami on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | World Headquarters | Newcastle |
 | Fri, 14 Aug 2026 | Jolene Downtown Miami | Miami |
 | Sat, 15 Aug 2026 | Stereo | Montreal |
 | Sun, 23 Aug 2026 | Castaways | Chicago |
@@ -20,6 +19,7 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 159 s
 
 ## Recently played
 
+- World Headquarters, Newcastle — Sat, 1 Aug 2026
 - Manko Athens, Athens — Sat, 18 Jul 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 17 Jul 2026
 - Sala UNI Madrid, Madrid — Fri, 17 Jul 2026
@@ -27,10 +27,9 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 159 s
 - Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
 - TBA - Felons Barrel Room, Manly, Sydney — Sun, 7 Jun 2026
 - Plaza Hotel Sydney, Sydney — Sun, 7 Jun 2026
-- TBA - Eclipse, Brisbane — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

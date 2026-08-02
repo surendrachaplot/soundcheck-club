@@ -1,8 +1,8 @@
 # Bill Brewster
 
-Bill Brewster is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palais, London on Sun, 16 Aug 2026.
+Bill Brewster is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Palais, London on Sun, 16 Aug 2026.
 
-Bill Brewster is a disco and house artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Bristol and Cardiff and 11 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: Palais, London on Sun 16 Aug.
+Bill Brewster is a disco and house artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Bristol and Cardiff and 11 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: Palais, London on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bill Brewster is a disco and house artist tracked on soundcheck, with 53 sets lo
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Palais | London |
 | Fri, 28 Aug 2026 | Cobalt Studios | Newcastle |
+| Sat, 31 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bill Brewster is a disco and house artist tracked on soundcheck, with 53 sets lo
 
 Sarahtonin, Frank Broughton, Ray Mang
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*

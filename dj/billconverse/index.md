@@ -1,6 +1,6 @@
 # Bill Converse
 
-Bill Converse is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - 6910 Shirley , Austin on Sat, 8 Aug 2026.
+Bill Converse is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - 6910 Shirley , Austin on Sat, 8 Aug 2026.
 
 Bill Converse is an acid and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin, Denver, Dublin and Galway and 3 more. Often billed alongside Atrevido, Carlos Souffront and Joshua Cordova. Next up: TBA - 6910 Shirley , Austin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bill Converse is an acid and techno artist based in United States of America, tr
 
 Atrevido, Carlos Souffront, Joshua Cordova
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billconverse/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billconverse/)*

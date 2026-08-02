@@ -1,14 +1,13 @@
 # Joey Daniel
 
-Joey Daniel is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Joey Daniel is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
 
-Joey Daniel is a tech house and house artist based in Netherlands, tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
+Joey Daniel is a tech house and house artist based in Netherlands, tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
 | Sun, 2 Aug 2026 | Thuishaven | Amsterdam |
 | Fri, 14 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Sat, 22 Aug 2026 | Kaap Amsterdam | Amsterdam |
@@ -16,6 +15,7 @@ Joey Daniel is a tech house and house artist based in Netherlands, tracked on so
 
 ## Recently played
 
+- Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
 - Playa Soleil & Bora Bora, Ibiza — Fri, 17 Jul 2026
 - Boomerang Beach, The Hague — Sun, 5 Jul 2026
@@ -23,10 +23,9 @@ Joey Daniel is a tech house and house artist based in Netherlands, tracked on so
 - Pacha Ibiza, Ibiza — Fri, 29 May 2026
 - Óbuda Bay, Budapest — Sat, 23 May 2026
 - Basement, Amsterdam — Sat, 16 May 2026
-- Meerpark, Amsterdam — Sat, 9 May 2026
 
 ## Shares bills with
 
 Marco Carola, Franky Rizardo, Ale De Tuglie
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*

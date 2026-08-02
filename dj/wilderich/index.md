@@ -1,14 +1,13 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+WILDERÍCH is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
-WILDERÍCH is a techno and trance artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
+WILDERÍCH is a techno and trance artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Peißnitzinsel Halle | Leipzig |
 | Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | Industry City | New York City |
@@ -19,6 +18,7 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 86 sets log
 
 ## Recently played
 
+- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
 - Uebel & Gefährlich, Hamburg — Sat, 25 Jul 2026
 - Flava Beach, Naples — Sat, 18 Jul 2026
 - Uebel & Gefährlich, Hamburg — Sat, 11 Jul 2026
@@ -26,10 +26,9 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 86 sets log
 - Studio Club Malaga, Malaga — Fri, 29 May 2026
 - Cieloterra, Rome — Sat, 23 May 2026
 - Das Werk, Vienna — Fri, 22 May 2026
-- Sala Cocó, Madrid — Sat, 9 May 2026
 
 ## Shares bills with
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

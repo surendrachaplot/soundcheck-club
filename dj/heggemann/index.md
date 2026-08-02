@@ -1,15 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
+Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 7 Aug 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and PRADA2000. Next up: Beton-T, Utrecht on Sat 1 Aug.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Studio Club Malaga, Malaga on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Beton-T | Utrecht |
-| Sat, 1 Aug 2026 | BASIS | Utrecht |
 | Fri, 7 Aug 2026 | Studio Club Malaga | Malaga |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 16 Aug 2026 | Escala25 | Lisbon |
@@ -20,20 +18,21 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 159 set
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
+| Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
 
 ## Recently played
 
+- Beton-T, Utrecht — Sat, 1 Aug 2026
+- BASIS, Utrecht — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 31 Jul 2026
 - Else, Berlin — Fri, 10 Jul 2026
 - DNA Club, Munich — Fri, 3 Jul 2026
 - Kømplex Lisbon, Lisbon — Sat, 27 Jun 2026
 - TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
 - TBA - Lucky Star Munich, Munich — Sat, 6 Jun 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
-- 99 Scott Ave, New York City — Sat, 30 May 2026
 
 ## Shares bills with
 
-Cleopard2000, Trancemaster Krause, PRADA2000
+Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

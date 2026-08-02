@@ -1,6 +1,6 @@
 # ANTI-NOTHING
 
-ANTI-NOTHING is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at KW Studios, Vancouver on Fri, 18 Sept 2026.
+ANTI-NOTHING is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KW Studios, Vancouver on Fri, 18 Sept 2026.
 
 ANTI-NOTHING is a techno and club artist based in Canada, tracked on soundcheck, with 19 sets logged across Vancouver. Often billed alongside EtOH, C4TNIP and West.IV. Next up: KW Studios, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ANTI-NOTHING is a techno and club artist based in Canada, tracked on soundcheck,
 
 EtOH, C4TNIP, West.IV
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anti-nothing/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anti-nothing/)*

@@ -1,6 +1,6 @@
 # Fip Squad
 
-Fip Squad is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at River's King, Paris on Tue, 11 Aug 2026.
+Fip Squad is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at River's King, Paris on Tue, 11 Aug 2026.
 
 Fip Squad is a house and bass artist based in France, tracked on soundcheck, with 16 sets logged across Paris. Often billed alongside Naajet (2), Tweak Soundsystem and ALL MY COUSINS. Next up: River's King, Paris on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Fip Squad is a house and bass artist based in France, tracked on soundcheck, wit
 
 Naajet (2), Tweak Soundsystem, ALL MY COUSINS
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fipsquad/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fipsquad/)*

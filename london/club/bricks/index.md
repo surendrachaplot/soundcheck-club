@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Anything But House (Brixton)" on Fri, 7 Aug 2026.
+Bricks is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Anything But House (Brixton)" on Fri, 7 Aug 2026.
 
 Bricks is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Ardishko, BIDOIS, DJ Leeloo and Jawrs and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -19,4 +19,4 @@ Bricks is a music venue in London listed on soundcheck. 6 upcoming nights, with 
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

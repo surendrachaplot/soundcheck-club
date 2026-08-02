@@ -1,6 +1,6 @@
 # felix (2)
 
-felix (2) is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+felix (2) is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
 felix (2) is a techno and ghetto tech artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Berlin, Brisbane, Budapest and Frankfurt and 2 more. Often billed alongside (NOT) XCESS, Akoriz and Alexander Aurel. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ felix (2) is a techno and ghetto tech artist based in Switzerland, tracked on so
 
 (NOT) XCESS, Akoriz, Alexander Aurel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-2/)*

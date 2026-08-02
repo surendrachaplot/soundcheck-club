@@ -1,6 +1,6 @@
 # PETER PAHN
 
-PETER PAHN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
+PETER PAHN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
 
 PETER PAHN is a techno and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Cologne, Frankfurt and Glasgow and 2 more. Often billed alongside Alchemiah, Alignment and Amelie Lens. Next up: Freilichtbühne im Harburger Stadtpark, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ PETER PAHN is a techno and tech house artist based in Germany, tracked on soundc
 
 Alchemiah, Alignment, Amelie Lens
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpahn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpahn/)*

@@ -1,6 +1,6 @@
 # Raphus
 
-Raphus is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Sucre, Lyon on Fri, 21 Aug 2026.
+Raphus is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Fri, 21 Aug 2026.
 
 Raphus is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Leipzig and Lyon. Often billed alongside VLUNA, CAVVØ and Meyhartt. Next up: Le Sucre, Lyon on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Raphus is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 VLUNA, CAVVØ, Meyhartt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphus/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphus/)*

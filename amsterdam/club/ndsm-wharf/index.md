@@ -1,6 +1,6 @@
 # Ndsm Wharf
 
-Ndsm Wharf is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Into the Woods ADE 2026" on Fri, 23 Oct 2026.
+Ndsm Wharf is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Into the Woods ADE 2026" on Fri, 23 Oct 2026.
 
 Ndsm Wharf is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including ANNĒ, Boss Priester, Clara Cuvé and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. T.T. Neveritaweg 1033 WB Amsterdam Netherlands.
 
@@ -14,4 +14,4 @@ Ndsm Wharf is a music venue in Amsterdam listed on soundcheck. 1 upcoming night,
 
 T.T. Neveritaweg 1033 WB Amsterdam Netherlands, Amsterdam
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-wharf/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-wharf/)*

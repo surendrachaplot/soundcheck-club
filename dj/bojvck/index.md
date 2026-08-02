@@ -1,6 +1,6 @@
 # bojvck
 
-bojvck is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue, 4 Aug 2026.
+bojvck is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue, 4 Aug 2026.
 
 bojvck is a club and bass artist tracked on soundcheck, with 94 sets logged across Hongkong, London, Paris and Seoul and 2 more. Often billed alongside DJ Co.kr, DJ POOL and SINAHILL. Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ bojvck is a club and bass artist tracked on soundcheck, with 94 sets logged acro
 
 DJ Co.kr, DJ POOL, SINAHILL
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bojvck/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bojvck/)*

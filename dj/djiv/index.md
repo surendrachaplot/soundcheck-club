@@ -1,6 +1,6 @@
 # DJ IV
 
-DJ IV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+DJ IV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 DJ IV is a techno and electro artist based in Kenya, tracked on soundcheck, with 1 set logged across Detroit. Often billed alongside Brent Shay, DJ Candor and DJ I.V.. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ DJ IV is a techno and electro artist based in Kenya, tracked on soundcheck, with
 
 Brent Shay, DJ Candor, DJ I.V.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djiv/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djiv/)*

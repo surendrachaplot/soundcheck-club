@@ -1,6 +1,6 @@
 # Ryan Maxwell
 
-Ryan Maxwell is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Eden NYC, New York City on Fri, 7 Aug 2026.
+Ryan Maxwell is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Eden NYC, New York City on Fri, 7 Aug 2026.
 
 Ryan Maxwell is a house and minimal artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami and Newyorkcity. Often billed alongside Nico Noir, BLU (3) and CokeKayn. Next up: Eden NYC, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ryan Maxwell is a house and minimal artist based in United States of America, tr
 
 Nico Noir, BLU (3), CokeKayn
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmaxwell/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmaxwell/)*

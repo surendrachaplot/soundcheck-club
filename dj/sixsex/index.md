@@ -1,14 +1,13 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Six Sex is a Techno and Reggaeton artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Virage, Paris on Fri, 7 Aug 2026.
 
-Six Sex is a techno and reggaeton artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Six Sex is a techno and reggaeton artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Virage, Paris on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Fri, 7 Aug 2026 | Virage | Paris |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | Nitsa Club | Barcelona |
@@ -19,6 +18,7 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 45 sets log
 
 ## Recently played
 
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Mondo, Madrid — Thu, 2 Jul 2026
 - RADION, Amsterdam — Fri, 26 Jun 2026
 - Stereo, Glasgow — Sat, 20 Jun 2026
@@ -26,10 +26,9 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 45 sets log
 - Silencio, Paris — Sat, 6 Jun 2026
 - Don Quixote, Los Angeles — Thu, 2 Apr 2026
 - The Ground at Club Space, Miami — Wed, 25 Mar 2026
-- Club Ciudad de Buenos Aires, Buenos Aires — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

@@ -1,6 +1,6 @@
 # Sharanya
 
-Sharanya is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
+Sharanya is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
 
 Sharanya is a house and dub artist based in Malaysia, tracked on soundcheck, with 17 sets logged across Melbourne. Often billed alongside DJ Wise, Mas Kato and Mike Callander. Next up: Revolver Upstairs, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sharanya is a house and dub artist based in Malaysia, tracked on soundcheck, wit
 
 DJ Wise, Mas Kato, Mike Callander
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharanya/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharanya/)*

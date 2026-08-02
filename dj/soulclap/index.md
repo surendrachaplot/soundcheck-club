@@ -1,6 +1,6 @@
 # Soul Clap
 
-Soul Clap is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Soul Clap is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Soul Clap is a house and disco artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 27 more. Often billed alongside DJ Minx, Stacey Pullen and LADYMONIX. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Soul Clap is a house and disco artist tracked on soundcheck, with 156 sets logge
 
 DJ Minx, Stacey Pullen, LADYMONIX
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*

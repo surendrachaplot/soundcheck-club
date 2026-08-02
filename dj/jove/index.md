@@ -1,6 +1,6 @@
 # JOVE
 
-JOVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Meraki, Liverpool on Sat, 8 Aug 2026.
+JOVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Meraki, Liverpool on Sat, 8 Aug 2026.
 
 JOVE is a house and techno artist tracked on soundcheck, with 84 sets logged across Cologne, Liverpool, Melbourne and Sydney. Often billed alongside HAUSWiFE, Casey Leaver and Mitch Tonta. Next up: Meraki, Liverpool on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ JOVE is a house and techno artist tracked on soundcheck, with 84 sets logged acr
 
 HAUSWiFE, Casey Leaver, Mitch Tonta
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jove/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jove/)*

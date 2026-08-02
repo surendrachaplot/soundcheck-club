@@ -1,6 +1,6 @@
 # Brandon Ewing
 
-Brandon Ewing is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
+Brandon Ewing is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
 
 Brandon Ewing is a house and disco artist based in United States of America, tracked on soundcheck, with 5 sets logged across Buenosaires and Toronto. Often billed alongside Ana Helder, Aerobica and Betas. Next up: Blow, Buenosaires on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Brandon Ewing is a house and disco artist based in United States of America, tra
 
 Ana Helder, Aerobica, Betas
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonewing/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonewing/)*

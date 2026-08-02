@@ -1,14 +1,13 @@
 # Roxy
 
-Roxy is a music venue in Prague with 18 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "TECHNO NIGHT ∞ ROXY Prague" on Sat, 1 Aug 2026.
+Roxy is a music venue in Prague with 17 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "RAVE & GEAR - The biggest LGBTQ+ & gear party" on Fri, 7 Aug 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 18 upcoming nights, with line-ups including 1991 (UK), Adrian Mills, Andy C and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 17 upcoming nights, with line-ups including 1991 (UK), Adrian Mills, Andy C and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TECHNO NIGHT ∞ ROXY Prague | Big Lil, Domek, SJ Yellow |
 | Fri, 7 Aug 2026 | RAVE & GEAR - The biggest LGBTQ+ & gear party | KOBOV, NONSENSE (CZ), Paul Krist |
 | Sat, 8 Aug 2026 | HOVR (Berlin - Stil vor Talent) ✶ Pride Parade Afterparty ✶ House Of Love  | Arton (CZ), Axis Alpha, Eva Falt, Fembot, HOVR, Telly Savalas |
 | Fri, 14 Aug 2026 | TECHNO NIGHT ∞ ROXY Prague | Domek, Jaqullin, Orbith |
@@ -18,9 +17,10 @@ Roxy is a music venue in Prague listed on soundcheck. 18 upcoming nights, with l
 | Fri, 28 Aug 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
 | Sat, 29 Aug 2026 | TECHNO[RAVE] #14 ∞ ROXY Prague | KOBOV, Nonalis |
 | Fri, 4 Sept 2026 | SICKICK ∞ ROXY Prague |  |
+| Fri, 11 Sept 2026 | Clara Cuvé ∞ ROXY Prague | Clara Cuvé |
 
 ## Address
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

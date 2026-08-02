@@ -1,6 +1,6 @@
 # Mindset Madness
 
-Mindset Madness is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Killing Time, Valencia on Fri, 7 Aug 2026.
+Mindset Madness is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Killing Time, Valencia on Fri, 7 Aug 2026.
 
 Mindset Madness is an electro and techno artist tracked on soundcheck, with 6 sets logged across Madrid and Valencia. Often billed alongside DHERMIDA, DIGUES and Detroit Techno Militia 2x4. Next up: Killing Time, Valencia on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Mindset Madness is an electro and techno artist tracked on soundcheck, with 6 se
 
 DHERMIDA, DIGUES, Detroit Techno Militia 2x4
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindsetmadness/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindsetmadness/)*

@@ -1,14 +1,15 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Sarah Sommers is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Sarah Sommers is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 19 more. Often billed alongside Josef Kunz, Tomo in der Muhlen and Trovarsi. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
+Sarah Sommers is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 19 more. Often billed alongside Josef Kunz, Tomo in der Muhlen and Trovarsi. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
+| Sat, 31 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sarah Sommers is a techno and house artist tracked on soundcheck, with 51 sets l
 
 Josef Kunz, Tomo in der Muhlen, Trovarsi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

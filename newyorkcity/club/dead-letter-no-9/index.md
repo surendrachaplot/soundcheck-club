@@ -1,14 +1,13 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "The Disco Express: Blvck Truffle, Bea Trinidad, Bustin' Loose, Roland & Brother Rich" on Sat, 1 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more" on Fri, 7 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | The Disco Express: Blvck Truffle, Bea Trinidad, Bustin' Loose, Roland & Brother Rich | Bea Trinidad, Blvck Truffle, Bustin' Loose, Roland & Brother Rich |
 | Fri, 7 Aug 2026 | Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more | CatLadyHi, Eric Modz, Miss Hazard, Orson.NYC |
 | Sat, 8 Aug 2026 | Disgonuts, Omer Mil, Armii1n, Michael Magnan, Borbón - Dead Letter No.9 | Armii1n, Borbón, Disgonuts, Michael Magnan, Omer Mil |
 | Thu, 13 Aug 2026 | Timo Lee, Armii1n - Dead Letter No.9 | Armii1n, Timo Lee |
@@ -18,9 +17,10 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 11 upcom
 | Thu, 20 Aug 2026 | Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans | Alcantara, DJ Houseplants, Florence Cecile, Gabriel Etrata, Jay Dalawa, Vans |
 | Fri, 21 Aug 2026 | Dos Flakos, Camila Valero, Raphael Ernesto, Úrsula - Dead Letter No.9 | Camila Valero, Dos Flakos, Úrsula |
 | Sat, 22 Aug 2026 | Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio |  |
+| Sat, 5 Sept 2026 | Tommie Sunshine, Amber Valenine, SPRFRK - Dead Letter No.9 | Amber Valentine, SPRFRK, Tommie Sunshine |
 
 ## Address
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

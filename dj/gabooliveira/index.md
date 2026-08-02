@@ -1,6 +1,6 @@
 # Gabo Oliveira
 
-Gabo Oliveira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
+Gabo Oliveira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
 
 Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundcheck, with 52 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Rods Franchin, XipNoize and Vitor Munhoz. Next up: Forum Station, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundchec
 
 Rods Franchin, XipNoize, Vitor Munhoz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*

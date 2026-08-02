@@ -1,6 +1,6 @@
 # DJ 2LATE
 
-DJ 2LATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hangaren, Copenhagen on Fri, 7 Aug 2026.
+DJ 2LATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hangaren, Copenhagen on Fri, 7 Aug 2026.
 
 DJ 2LATE is a techno and trance artist tracked on soundcheck, with 72 sets logged across Copenhagen and Oslo. Often billed alongside steamboi, Anna Logic and Anton Goltermann. Next up: Hangaren, Copenhagen on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ 2LATE is a techno and trance artist tracked on soundcheck, with 72 sets logge
 
 steamboi, Anna Logic, Anton Goltermann
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2late/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2late/)*

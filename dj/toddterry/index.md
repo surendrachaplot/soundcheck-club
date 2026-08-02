@@ -1,14 +1,13 @@
 # Todd Terry
 
-Todd Terry is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Joshua Brooks, Manchester on Sat, 1 Aug 2026.
+Todd Terry is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Todd Terry is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Bristol and 28 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Joshua Brooks, Manchester on Sat 1 Aug.
+Todd Terry is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Bristol and 28 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Joshua Brooks | Manchester |
 | Fri, 21 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Paragon | New York City |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
@@ -21,6 +20,7 @@ Todd Terry is a house and tech house artist tracked on soundcheck, with 143 sets
 
 ## Recently played
 
+- Joshua Brooks, Manchester — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - O Beach, Ibiza — Thu, 23 Jul 2026
@@ -28,10 +28,9 @@ Todd Terry is a house and tech house artist tracked on soundcheck, with 143 sets
 - The Vault, London — Sat, 4 Jul 2026
 - Orrell Hill Woods, Liverpool — Sat, 27 Jun 2026
 - Amnesia Ibiza, Ibiza — Fri, 26 Jun 2026
-- Liverpool Pier Head, Liverpool — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

@@ -1,8 +1,8 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "OPENING SEASON with LOOP & The Martinez Brothers" on Sat, 5 Sept 2026.
+Fabrik is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "OPENING SEASON with LOOP & The Martinez Brothers" on Sat, 5 Sept 2026.
 
-Fabrik is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Anetha, ArceX, CESAR ALMENA and Fatboy Slim and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
+Fabrik is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Anetha, ArceX, CESAR ALMENA and Charlotte de Witte and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Fabrik is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with 
 | Sat, 19 Sept 2026 | 150 with Hardwell in Fabrik | Hardwell, Sound Rush, Yeyo |
 | Sat, 10 Oct 2026 | LOOP with Fatboy Slim | Fatboy Slim |
 | Sun, 11 Oct 2026 | CODE pres. UNREAL x KUKO All Night Long World Tour | KUKO |
+| Sat, 31 Oct 2026 | Hallowfest en Fabrik with Charlotte de Witte | Charlotte de Witte |
 
 ## Address
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

@@ -1,6 +1,6 @@
 # Ridney
 
-Ridney is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
+Ridney is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at fabric, London on Sat, 24 Oct 2026.
 
 Ridney is a house and disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Ibiza and London. Often billed alongside Doctor Feelgood, Allister Whitehead and Angelo Ferreri. Next up: fabric, London on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Ridney is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Doctor Feelgood, Allister Whitehead, Angelo Ferreri
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*

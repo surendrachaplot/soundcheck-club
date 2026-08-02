@@ -1,6 +1,6 @@
 # marie tonic
 
-marie tonic is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 8 Aug 2026.
+marie tonic is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 8 Aug 2026.
 
 marie tonic is a trance and techno artist tracked on soundcheck, with 2 sets logged across Paris and Strasbourg. Often billed alongside EliseThere, Fragment Mille and Function. Next up: Karmen Camina, Strasbourg on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ marie tonic is a trance and techno artist tracked on soundcheck, with 2 sets log
 
 EliseThere, Fragment Mille, Function
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marietonic/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marietonic/)*

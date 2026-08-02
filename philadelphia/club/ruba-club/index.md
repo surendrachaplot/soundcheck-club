@@ -1,6 +1,6 @@
 # Ruba Club
 
-Ruba Club is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "DANCE CLASS" on Sat, 8 Aug 2026.
+Ruba Club is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DANCE CLASS" on Sat, 8 Aug 2026.
 
 Ruba Club is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 416 Green St; Philadelphia; PA 19123.
 
@@ -9,10 +9,10 @@ Ruba Club is a music venue in Philadelphia listed on soundcheck. 2 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | DANCE CLASS |  |
-| Thu, 27 Aug 2026 | Nu Jazz with GUGON & Will McGoran & Sam Xiao Cody |  |
+| Thu, 27 Aug 2026 | Nu Jazz with Gugon & Will McGoran & Sam Xiao Cody |  |
 
 ## Address
 
 416 Green St; Philadelphia; PA 19123, Philadelphia
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/ruba-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/ruba-club/)*

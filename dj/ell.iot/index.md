@@ -1,6 +1,6 @@
 # ell.iot
 
-ell.iot is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hosoi, Stockholm on Fri, 9 Oct 2026.
+ell.iot is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hosoi, Stockholm on Fri, 9 Oct 2026.
 
 ell.iot is a house and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Cardiff, Dublin, Leeds and Liverpool and 4 more. Often billed alongside Dowd, DJ Peach Iced Tea and Quick William. Next up: Hosoi, Stockholm on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ell.iot is a house and electro artist based in United Kingdom, tracked on soundc
 
 Dowd, DJ Peach Iced Tea, Quick William
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*

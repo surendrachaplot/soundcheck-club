@@ -1,14 +1,13 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Les Enfants x Roots AFTER PARTY - Praslesh at Hola" on Sat, 1 Aug 2026.
+Les Enfants Brillants is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Noizer x Gare pres. Amulador + The Ripped" on Thu, 6 Aug 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 26 upcoming nights, with line-ups including Mariiin, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including Mariiin, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Les Enfants x Roots AFTER PARTY - Praslesh at Hola |  |
 | Thu, 6 Aug 2026 | Noizer x Gare pres. Amulador + The Ripped | Amulador |
 | Fri, 7 Aug 2026 | Unnanounced by Raxon |  |
 | Sat, 8 Aug 2026 | Les Enfants pres. DJ Koolt All Night Long | DJ Koolt |
@@ -18,9 +17,10 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 26 upc
 | Thu, 20 Aug 2026 | Noizer pres. Sara Delirio + Kai Galactic | Sara Delirio |
 | Fri, 21 Aug 2026 | Les Enfants pres. Mariiin All Night Long | Mariiin |
 | Sat, 22 Aug 2026 | Les Enfants pres. JUAAN All Night Long | JUAAN |
+| Thu, 27 Aug 2026 | Noizer pres. Linkan Ray + Ronze | Linkan Ray, Ronze |
 
 ## Address
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

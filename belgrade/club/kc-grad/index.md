@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Alexander Zaloopin, Uvazhaemiy, DJ Blevanson" on Thu, 15 Oct 2026.
+KC Grad is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Alexander Zaloopin, Uvazhaemiy, DJ Blevanson" on Thu, 15 Oct 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -14,4 +14,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Bro
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

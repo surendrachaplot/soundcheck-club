@@ -1,6 +1,6 @@
 # Animal Trainer
 
-Animal Trainer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+Animal Trainer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 Animal Trainer is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside ACID FLORA, Anthik and Dejan. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Animal Trainer is a house and techno artist tracked on soundcheck, with 69 sets 
 
 ACID FLORA, Anthik, Dejan
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*

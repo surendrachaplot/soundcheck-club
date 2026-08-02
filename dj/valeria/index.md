@@ -1,6 +1,6 @@
 # Valeria
 
-Valeria is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
+Valeria is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
 
 Valeria is a techno artist tracked on soundcheck, with 13 sets logged across Berlin, Hamburg, Losangeles and Munich and 1 more. Often billed alongside BOTHEN, Bernd Affleck and Blosvenn. Next up: Rote Sonne, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Valeria is a techno artist tracked on soundcheck, with 13 sets logged across Ber
 
 BOTHEN, Bernd Affleck, Blosvenn
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria/)*

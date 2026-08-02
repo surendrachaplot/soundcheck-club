@@ -1,6 +1,6 @@
 # No Light
 
-No Light is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+No Light is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 No Light is a techno and ambient artist tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Lyo XS, Un Dilema and Ana Armada. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ No Light is a techno and ambient artist tracked on soundcheck, with 9 sets logge
 
 Lyo XS, Un Dilema, Ana Armada
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nolight/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nolight/)*

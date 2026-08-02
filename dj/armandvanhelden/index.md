@@ -1,14 +1,13 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
+Armand Van Helden is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Pacha Ibiza, Ibiza on Mon, 10 Aug 2026.
 
-Armand Van Helden is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 30 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Preston Park, Brighton, Berlin on Sat 1 Aug.
+Armand Van Helden is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 30 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Pacha Ibiza, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Preston Park, Brighton | Berlin |
 | Mon, 10 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Forte Santo António da Barra | Lisbon |
 | Tue, 18 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Armand Van Helden is a house and tech house artist tracked on soundcheck, with 1
 
 ## Recently played
 
+- Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
 - BCM, Mallorca — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
 - Cavo Paradiso, Mykonos — Sun, 19 Jul 2026
@@ -29,10 +29,9 @@ Armand Van Helden is a house and tech house artist tracked on soundcheck, with 1
 - O Beach, Ibiza — Mon, 29 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
-- Chinois Ibiza, Ibiza — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Fatzo, Oden, MiNNA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

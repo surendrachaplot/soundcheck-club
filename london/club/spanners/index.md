@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Patterns: NZO (Live), KD22LR and Lali" on Fri, 7 Aug 2026.
+Spanners is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Patterns: NZO (Live), KD22LR and Lali" on Fri, 7 Aug 2026.
 
 Spanners is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Angel D'lite, Bethan, BJ Holy and Jim Janco and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -19,4 +19,4 @@ Spanners is a music venue in London listed on soundcheck. 6 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

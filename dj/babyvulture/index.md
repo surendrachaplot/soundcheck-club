@@ -1,6 +1,6 @@
 # Baby Vulture
 
-Baby Vulture is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
+Baby Vulture is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
 
 Baby Vulture is an experimental and electro artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Glasgow. Often billed alongside Deadbeat, Hubble and Jake Muir. Next up: Club der Visionaere, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Baby Vulture is an experimental and electro artist based in Germany, tracked on 
 
 Deadbeat, Hubble, Jake Muir
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyvulture/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyvulture/)*

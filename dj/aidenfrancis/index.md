@@ -1,6 +1,6 @@
 # Aiden Francis
 
-Aiden Francis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
+Aiden Francis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
 
 Aiden Francis is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Berlin and Bristol and 9 more. Often billed alongside Fastlove, Bollibubbles and Jase Jeffery. Next up: Hal25, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Aiden Francis is a house and techno artist tracked on soundcheck, with 69 sets l
 
 Fastlove, Bollibubbles, Jase Jeffery
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenfrancis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenfrancis/)*

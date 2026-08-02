@@ -1,6 +1,6 @@
 # Unknown Concept
 
-Unknown Concept is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Solace, Melbourne on Fri, 28 Aug 2026.
+Unknown Concept is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Solace, Melbourne on Fri, 28 Aug 2026.
 
 Unknown Concept is a techno and trance artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne, Montreal, Philadelphia and Sydney. Often billed alongside Kozy, Adarah and Alex Dowsing. Next up: Solace, Melbourne on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Unknown Concept is a techno and trance artist based in Australia, tracked on sou
 
 Kozy, Adarah, Alex Dowsing
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownconcept/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownconcept/)*

@@ -1,6 +1,6 @@
-# BIG Summer Pool Party || - Porto at Villa Madalena
+# BIG Summer Pool Party - Porto at Villa Madalena
 
-BIG Summer Pool Party || - Porto at Villa Madalena on Sun 30 Aug, Porto. Disco and Pop. Preview the line-up and save it on soundcheck.
+BIG Summer Pool Party - Porto at Villa Madalena on Sun 30 Aug, Porto. Disco and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

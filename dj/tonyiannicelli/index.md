@@ -1,6 +1,6 @@
 # TONY IANNICELLI
 
-TONY IANNICELLI is a Tech House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Rumore Nightclub Capri, Naples on Thu, 27 Aug 2026.
+TONY IANNICELLI is a Tech House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Rumore Nightclub Capri, Naples on Thu, 27 Aug 2026.
 
 TONY IANNICELLI is a tech house and electronica artist tracked on soundcheck, with 13 sets logged across Barcelona and Naples. Often billed alongside Agostino Casillo, Carlo Martino and Cole Knight. Next up: Rumore Nightclub Capri, Naples on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ TONY IANNICELLI is a tech house and electronica artist tracked on soundcheck, wi
 
 Agostino Casillo, Carlo Martino, Cole Knight
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyiannicelli/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyiannicelli/)*

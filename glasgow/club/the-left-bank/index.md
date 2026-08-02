@@ -1,6 +1,6 @@
 # The Left Bank
 
-The Left Bank is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Jazz Lab" on Sun, 2 Aug 2026.
+The Left Bank is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Jazz Lab" on Sun, 2 Aug 2026.
 
 The Left Bank is a music venue in Glasgow listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 33-35 Gibson St, Glasgow G12 8NU.
 
@@ -18,4 +18,4 @@ The Left Bank is a music venue in Glasgow listed on soundcheck. 5 upcoming night
 
 33-35 Gibson St, Glasgow G12 8NU, Glasgow
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*

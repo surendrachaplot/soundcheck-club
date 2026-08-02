@@ -1,6 +1,6 @@
 # Neu Verboten
 
-Neu Verboten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
+Neu Verboten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
 
 Neu Verboten is a techno and house artist based in Mexico, tracked on soundcheck, with 13 sets logged across Berlin, Lyon and Zurich. Often billed alongside DJ LOUI FROM JUPITER4, Nuevo Prohibido and CRRDR. Next up: KREUZWERK, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Neu Verboten is a techno and house artist based in Mexico, tracked on soundcheck
 
 DJ LOUI FROM JUPITER4, Nuevo Prohibido, CRRDR
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuverboten/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuverboten/)*

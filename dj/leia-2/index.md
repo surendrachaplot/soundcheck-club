@@ -1,6 +1,6 @@
 # LEIA (2)
 
-LEIA (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lokschuppen Berlin, Berlin on Tue, 4 Aug 2026.
+LEIA (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Tue, 4 Aug 2026.
 
 LEIA (2) is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Raw Image and lisa.wav. Next up: Lokschuppen Berlin, Berlin on Tue 4 Aug.
 
@@ -14,4 +14,4 @@ LEIA (2) is a techno artist based in Germany, tracked on soundcheck, with 1 set 
 
 Raw Image, lisa.wav
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leia-2/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leia-2/)*

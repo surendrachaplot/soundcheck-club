@@ -1,6 +1,6 @@
 # SSSLIP
 
-SSSLIP is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Strange Brew, Bristol on Fri, 7 Aug 2026.
+SSSLIP is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Strange Brew, Bristol on Fri, 7 Aug 2026.
 
 SSSLIP is a techno and club artist tracked on soundcheck, with 31 sets logged across Bristol, Brussels, Istanbul and London and 1 more. Often billed alongside Mulholland, Milly on Air and R.E.D. Next up: Strange Brew, Bristol on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SSSLIP is a techno and club artist tracked on soundcheck, with 31 sets logged ac
 
 Mulholland, Milly on Air, R.E.D
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssslip/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssslip/)*

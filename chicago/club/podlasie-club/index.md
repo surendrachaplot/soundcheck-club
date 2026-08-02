@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "JKriv, Inés, Yanna Lynette" on Sat, 1 Aug 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "STRAPPED presents BUTCH BOX" on Thu, 6 Aug 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | JKriv, Inés, Yanna Lynette | Inés (US), JKriv |
 | Thu, 6 Aug 2026 | STRAPPED presents BUTCH BOX |  |
 | Fri, 7 Aug 2026 | All Things Bounce 006 | Nanoos |
 | Sat, 8 Aug 2026 | Flow State with Young Muscle, Gladstone Deluxe, Spacey Lacey, Celeste (host) | Gladstone Deluxe, Spacey Lacey, Young Muscle |
@@ -23,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nigh
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

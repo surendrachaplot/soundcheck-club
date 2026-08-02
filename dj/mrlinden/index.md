@@ -1,6 +1,6 @@
 # Mr. Linden
 
-Mr. Linden is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Monkey Loft, Seattle on Fri, 7 Aug 2026.
+Mr. Linden is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Monkey Loft, Seattle on Fri, 7 Aug 2026.
 
 Mr. Linden is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Seattle. Often billed alongside Hector Rodriguez, Jon Lee and Christine Michelle. Next up: The Monkey Loft, Seattle on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mr. Linden is a house and deep house artist based in United States of America, t
 
 Hector Rodriguez, Jon Lee, Christine Michelle
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlinden/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlinden/)*

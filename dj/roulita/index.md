@@ -1,18 +1,18 @@
 # Roulita
 
-Roulita is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
+Roulita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Glazart, Paris on Sat, 29 Aug 2026.
 
-Roulita is a techno and trance artist tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Adiel, Litoshka and Olivia Mendez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 1 Aug.
+Roulita is a techno and trance artist tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Adiel, Litoshka and Olivia Mendez. Next up: Glazart, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 29 Aug 2026 | Glazart | Paris |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 1 Aug 2026
 - Unité.22, Marseille — Fri, 24 Jul 2026
 - Fvtvr, Paris — Fri, 10 Jul 2026
 - Macadam, Nantes — Sun, 7 Jun 2026
@@ -20,10 +20,9 @@ Roulita is a techno and trance artist tracked on soundcheck, with 37 sets logged
 - Le Sucre, Lyon — Sat, 21 Mar 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 7 Mar 2026
 - essaim, Paris — Sun, 1 Mar 2026
-- La Cité Fertile, Paris — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Adiel, Litoshka, Olivia Mendez
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*

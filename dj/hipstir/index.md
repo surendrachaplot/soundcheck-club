@@ -1,6 +1,6 @@
 # Hip Stir
 
-Hip Stir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Brushy Street Commons, Austin on Sun, 16 Aug 2026.
+Hip Stir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Brushy Street Commons, Austin on Sun, 16 Aug 2026.
 
 Hip Stir is a house and techno artist tracked on soundcheck, with 36 sets logged across Austin, Newyorkcity and Sanfrancisco. Often billed alongside DJ BAD APPLE, Lefty and Sarah Pederzani. Next up: Brushy Street Commons, Austin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Hip Stir is a house and techno artist tracked on soundcheck, with 36 sets logged
 
 DJ BAD APPLE, Lefty, Sarah Pederzani
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hipstir/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hipstir/)*

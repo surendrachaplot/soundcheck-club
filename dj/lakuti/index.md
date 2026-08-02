@@ -1,8 +1,8 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Signal, New York City on Sun, 2 Aug 2026.
+Lakuti is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Signal, New York City on Sun, 2 Aug 2026.
 
-Lakuti is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Signal, Newyorkcity on Sun 2 Aug.
+Lakuti is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Signal, Newyorkcity on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lakuti is a house and techno artist tracked on soundcheck, with 188 sets logged 
 | Sat, 29 Aug 2026 | NAR | Utrecht |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
+| Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Lakuti is a house and techno artist tracked on soundcheck, with 188 sets logged 
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

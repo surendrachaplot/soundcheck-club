@@ -1,6 +1,6 @@
 # Nabor
 
-Nabor is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
+Nabor is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OST, Berlin on Sat, 15 Aug 2026.
 
 Nabor is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Johannes Schuster, Kander and Neon Graveyard. Next up: OST, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nabor is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Johannes Schuster, Kander, Neon Graveyard
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabor/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabor/)*

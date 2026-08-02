@@ -1,14 +1,15 @@
 # Felipe Valenzuela
 
-Felipe Valenzuela is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Resume Valencia, Valencia on Fri, 14 Aug 2026.
+Felipe Valenzuela is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Resume Valencia, Valencia on Fri, 14 Aug 2026.
 
-Felipe Valenzuela is a house and tech house artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 10 more. Often billed alongside Dani Casarano, Abscal and Momo Trosman. Next up: Resume Valencia, Valencia on Fri 14 Aug.
+Felipe Valenzuela is a house and tech house artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 10 more. Often billed alongside Dani Casarano, Abscal and Momo Trosman. Next up: Resume Valencia, Valencia on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Resume Valencia | Valencia |
+| Sat, 22 Aug 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Felipe Valenzuela is a house and tech house artist tracked on soundcheck, with 6
 
 Dani Casarano, Abscal, Momo Trosman
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*

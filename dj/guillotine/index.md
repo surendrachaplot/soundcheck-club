@@ -1,6 +1,6 @@
 # Guillotine
 
-Guillotine is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paragon, New York City on Fri, 7 Aug 2026.
+Guillotine is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paragon, New York City on Fri, 7 Aug 2026.
 
 Guillotine is a techno and drum & bass artist tracked on soundcheck, with 12 sets logged across Chicago, London and Newyorkcity. Often billed alongside BASSBEAR!!, Lethal Trip and Andi. Next up: Paragon, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Guillotine is a techno and drum & bass artist tracked on soundcheck, with 12 set
 
 BASSBEAR!!, Lethal Trip, Andi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillotine/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillotine/)*

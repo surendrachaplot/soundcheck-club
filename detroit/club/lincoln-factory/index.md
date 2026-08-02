@@ -1,14 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Madam X, Psy-Chick, R. Solomon" on Sat, 1 Aug 2026.
+Lincoln Factory is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "EAZYBAKED x DISTINCT MOTIVE" on Fri, 7 Aug 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including AK (US), Alan Fitzpatrick, Arlo Parks and Augustus Williams and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including AK (US), Alan Fitzpatrick, Arlo Parks and Augustus Williams and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Madam X, Psy-Chick, R. Solomon | Madam X, Psy-Chick, R. Solomon |
 | Fri, 7 Aug 2026 | EAZYBAKED x DISTINCT MOTIVE |  |
 | Sat, 8 Aug 2026 | SECRET SETS |  |
 | Thu, 13 Aug 2026 | AD HOC: Alan Fitzpatrick, Draftsman | Alan Fitzpatrick |
@@ -23,4 +22,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming ni
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

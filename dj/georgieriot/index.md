@@ -1,6 +1,6 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 14 Aug 2026.
+Georgie Riot is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 14 Aug 2026.
 
 Georgie Riot is a drum & bass and bass artist tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: The Brooklyn Monarch, Newyorkcity on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Georgie Riot is a drum & bass and bass artist tracked on soundcheck, with 18 set
 
 Anaïs, Benny L, Benny Page
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*

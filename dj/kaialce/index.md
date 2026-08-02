@@ -1,20 +1,20 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at fi, Cologne on Sat, 1 Aug 2026.
+Kai Alce is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
 
-Kai Alce is a house and deep house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and Omer Mil. Next up: fi, Cologne on Sat 1 Aug.
+Kai Alce is a house and deep house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and Omer Mil. Next up: TBA - National Union Building, Washingtondc on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | fi | Cologne |
 | Sat, 8 Aug 2026 | TBA - National Union Building | Washington DC |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
+- fi, Cologne — Sat, 1 Aug 2026
 - The Foundry, San Francisco/Oakland — Sat, 18 Jul 2026
 - TBA - East Williamsburg, New York City — Sat, 4 Jul 2026
 - Praia Irmão, Lisbon — Thu, 18 Jun 2026
@@ -22,10 +22,9 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 81 sets lo
 - TBA, Melbourne — Sun, 7 Jun 2026
 - Spot Lite Detroit, Detroit — Mon, 25 May 2026
 - MIX Bricktown, Detroit — Sun, 24 May 2026
-- TBA, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ Kemit, Ash Lauryn, Omer Mil
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

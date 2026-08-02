@@ -1,6 +1,6 @@
 # Mario Maltese
 
-Mario Maltese is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Chalet Nonna Carmela, Naples on Fri, 7 Aug 2026.
+Mario Maltese is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Chalet Nonna Carmela, Naples on Fri, 7 Aug 2026.
 
 Mario Maltese is a disco and house artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan and Naples. Often billed alongside FIMIANI, Jamie 3:26 and Kirollus. Next up: Chalet Nonna Carmela, Naples on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Mario Maltese is a disco and house artist based in Italy, tracked on soundcheck,
 
 FIMIANI, Jamie 3:26, Kirollus
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariomaltese/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariomaltese/)*

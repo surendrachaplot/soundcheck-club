@@ -1,6 +1,6 @@
 # DJ Vela
 
-DJ Vela is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Eschschloraque, Berlin on Fri, 14 Aug 2026.
+DJ Vela is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Eschschloraque, Berlin on Fri, 14 Aug 2026.
 
 DJ Vela is a techno and post-punk artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside ED2000, Sky Deep and Terri Lee. Next up: Eschschloraque, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Vela is a techno and post-punk artist based in Germany, tracked on soundcheck
 
 ED2000, Sky Deep, Terri Lee
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvela/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvela/)*

@@ -1,8 +1,8 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "[CANCELLED] Slack Babbath" on Sat, 22 Aug 2026.
+Are You Affiliated is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "[CANCELLED] Slack Babbath" on Sat, 22 Aug 2026.
 
-Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcoming nights, with line-ups including Gerd Janson, HAAi, Jacklyn and Mairi 'b' Pots and 2 more. Browse upcoming dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
+Are You Affiliated is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Decius, Gerd Janson, HAAi and Jacklyn and 2 more. Browse upcoming dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcomin
 | Sun, 30 Aug 2026 | Keep It Shields Day & Night with HAAi, Gerd Janson B2B Optimo, Man Power, Jacklyn and more | Gerd Janson, HAAi, Jacklyn, Mairi 'b' Pots, Man Power, Optimo (Espacio) |
 | Sat, 3 Oct 2026 | JIM + Support |  |
 | Fri, 23 Oct 2026 | Knats + Support |  |
+| Sat, 31 Oct 2026 | Me Me Me Halloween Annual Fancy Dress Ball with Decius (Live!) plus Man Power & ROSIE | Decius, Man Power, ROSIE |
 
 ## Address
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

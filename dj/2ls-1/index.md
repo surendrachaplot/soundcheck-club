@@ -1,6 +1,6 @@
 # 2LS (1)
 
-2LS (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at John Doe, Amsterdam on Tue, 4 Aug 2026.
+2LS (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at John Doe, Amsterdam on Tue, 4 Aug 2026.
 
 2LS (1) is a techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside TRANZ, Ahku and DIEDE. Next up: John Doe, Amsterdam on Tue 4 Aug.
 
@@ -19,4 +19,4 @@
 
 TRANZ, Ahku, DIEDE
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2ls-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2ls-1/)*

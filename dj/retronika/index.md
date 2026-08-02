@@ -1,6 +1,6 @@
 # Retronika
 
-Retronika is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+Retronika is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 Retronika is an electro and house artist based in Uruguay, tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside San Dee, Ostara and Saul mj. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Retronika is an electro and house artist based in Uruguay, tracked on soundcheck
 
 San Dee, Ostara, Saul mj
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retronika/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retronika/)*

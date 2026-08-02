@@ -1,18 +1,18 @@
 # dreamcastmoe
 
-dreamcastmoe is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Kazimier Garden, Liverpool on Sat, 1 Aug 2026.
+dreamcastmoe is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Wed, 26 Aug 2026.
 
-dreamcastmoe is a house and r&b artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Bradley Zero, DJ Tennis and Jyoty. Next up: Kazimier Garden, Liverpool on Sat 1 Aug.
+dreamcastmoe is a house and r&b artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Bradley Zero, DJ Tennis and Jyoty. Next up: Tresor / Globus, Berlin on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Kazimier Garden | Liverpool |
 | Wed, 26 Aug 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
+- Kazimier Garden, Liverpool — Sat, 1 Aug 2026
 - Strange Brew, Bristol — Sat, 25 Jul 2026
 - BERHTA, Washington DC — Fri, 10 Jul 2026
 - The Industrique, Melbourne — Sat, 9 May 2026
@@ -20,10 +20,9 @@ dreamcastmoe is a house and r&b artist based in United States of America, tracke
 - TBA, Vancouver — Fri, 6 Mar 2026
 - Charlie, Munich — Sat, 25 Oct 2025
 - The Greyhound, London — Sat, 18 Oct 2025
-- Radio Radio, Amsterdam — Fri, 17 Oct 2025
 
 ## Shares bills with
 
 Bradley Zero, DJ Tennis, Jyoty
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*

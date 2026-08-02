@@ -1,8 +1,8 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Jonathan Rogers Park, Vancouver on Sat, 22 Aug 2026.
+Luigi Madonna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Jonathan Rogers Park, Vancouver on Sat, 22 Aug 2026.
 
-Luigi Madonna is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: TBA - Jonathan Rogers Park, Vancouver on Sat 22 Aug.
+Luigi Madonna is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: TBA - Jonathan Rogers Park, Vancouver on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Luigi Madonna is a techno and house artist tracked on soundcheck, with 57 sets l
 | Sat, 22 Aug 2026 | TBA - Jonathan Rogers Park | Vancouver |
 | Fri, 28 Aug 2026 | Stereo | Montreal |
 | Sat, 29 Aug 2026 | TBA - Warehouse | Toronto |
+| Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Luigi Madonna is a techno and house artist tracked on soundcheck, with 57 sets l
 
 Indira Paganotto, Markantonio, Joseph Capriati
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*

@@ -1,14 +1,13 @@
 # KOKO
 
-KOKO is a music venue in London with 22 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Good Fortune presents: Dom Dolla & Friends (London Afterparty) " on Sat, 1 Aug 2026.
+KOKO is a music venue in London with 21 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "KOKO Electronic: Krankbrother - After Dark pt.1" on Fri, 7 Aug 2026.
 
-KOKO is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including Alan Dixon, Anane, Benji B and Carla Martinez and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Alan Dixon, Anane, Benji B and Charisse C and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Good Fortune presents: Dom Dolla & Friends (London Afterparty)  | Carla Martinez, DJ BORING, Dom Dolla, Jordan Brando |
 | Fri, 7 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.1 |  |
 | Sat, 8 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.2 | Krankbrother, Sofia Kourtesis |
 | Fri, 14 Aug 2026 | KOKO Electronic: Neil Frances | Lulah Francs, Masha Mar, Neil Frances |
@@ -18,9 +17,10 @@ KOKO is a music venue in London listed on soundcheck. 22 upcoming nights, with l
 | Fri, 28 Aug 2026 | KOKO Electronic: Paco Osuna | Joëlla Jackson, Mason Collective, Paco Osuna |
 | Sat, 29 Aug 2026 | KOKO Electronic: Mustard | DJ Mustard |
 | Fri, 4 Sept 2026 | Louie Vega & Anané: The Ritual | Anane, KingCrowney, Louie Vega, Max Sinàl |
+| Sat, 5 Sept 2026 | KOKO Electronic: Sébastien Léger & Roy Rosenfeld | Roy Rosenfeld, Sebastien Leger |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

@@ -1,6 +1,6 @@
 # 25 years of NOVEK at SWG3
 
-25 years of NOVEK at SWG3 on Fri 25 Sept, Glasgow. 2 acts on the bill: AXION and NOVEK (SCO). Techno and House. Preview the line-up and save it on soundcheck.
+25 years of NOVEK at SWG3 on Fri 25 Sept, Glasgow. 2 acts on the bill: AXION and NOVEK (SCO). Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

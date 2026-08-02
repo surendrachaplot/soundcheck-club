@@ -1,6 +1,6 @@
 # Daniele Pavoni
 
-Daniele Pavoni is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hotel Butterfly, Rome on Thu, 6 Aug 2026.
+Daniele Pavoni is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hotel Butterfly, Rome on Thu, 6 Aug 2026.
 
 Daniele Pavoni is a club and house artist based in Italy, tracked on soundcheck, with 27 sets logged across Milan and Rome. Often billed alongside GNMR, IRIDE and Francesco Maria. Next up: Hotel Butterfly, Rome on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Daniele Pavoni is a club and house artist based in Italy, tracked on soundcheck,
 
 GNMR, IRIDE, Francesco Maria
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepavoni/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepavoni/)*

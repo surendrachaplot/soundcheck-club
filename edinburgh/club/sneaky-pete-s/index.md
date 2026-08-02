@@ -1,17 +1,17 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 38 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "ehfm club night" on Sat, 1 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 39 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Postal: PASO" on Sun, 2 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 38 upcoming nights, with line-ups including Alexis Taylor, al gu, amhailt.xox and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 39 upcoming nights, with line-ups including Alexis Taylor, amhailt.xox, ANNX and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ehfm club night | DV60, al gu, persiajoon |
 | Sun, 2 Aug 2026 | Postal: PASO | PASO |
 | Mon, 3 Aug 2026 | Ride n Bounce | Bartek, m1 (1), monicat |
 | Tue, 4 Aug 2026 | RARE Club // Geordie All Night Long  | Geordie |
+| Wed, 5 Aug 2026 | Midnight Bass presents Janaway (Up Ya Archives) | Janaway, Kay Dee, Lara Sinclair |
 | Thu, 6 Aug 2026 | Import Summer Bash | Buckfast Barbie, Princess Elf Bar |
 | Fri, 7 Aug 2026 | Hot Mess: Queer Dance Party | Simonotron |
 | Sat, 8 Aug 2026 | POPULAR MUSIC with Sea Urchin | Nick from Sneaks, Sea Urchin |
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 38 upcoming ni
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

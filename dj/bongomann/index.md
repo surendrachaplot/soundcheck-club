@@ -1,6 +1,6 @@
 # Bongomann
 
-Bongomann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
+Bongomann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
 
 Bongomann is a house and techno artist based in Singapore, tracked on soundcheck, with 49 sets logged across Bali, Bangkok, Hongkong and Osaka and 2 more. Often billed alongside Toppings, MUTO (2) and Dexter Colt. Next up: The Pantry, Singapore on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bongomann is a house and techno artist based in Singapore, tracked on soundcheck
 
 Toppings, MUTO (2), Dexter Colt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*

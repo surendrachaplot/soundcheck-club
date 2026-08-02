@@ -1,6 +1,6 @@
 # Tiago Walter
 
-Tiago Walter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+Tiago Walter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 Tiago Walter is a house and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 5 more. Often billed alongside Jannis Brinkmann, Phil Evans and Markus Sommer. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tiago Walter is a house and techno artist based in Germany, tracked on soundchec
 
 Jannis Brinkmann, Phil Evans, Markus Sommer
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagowalter/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagowalter/)*

@@ -1,6 +1,6 @@
 # SAAMO
 
-SAAMO is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sensorium, Berlin on Wed, 16 Sept 2026.
+SAAMO is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sensorium, Berlin on Wed, 16 Sept 2026.
 
 SAAMO is a tech house and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Newcastle. Often billed alongside NYCTO, Artificial DNA and Blck-Swan. Next up: Sensorium, Berlin on Wed 16 Sept.
 
@@ -19,4 +19,4 @@ SAAMO is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 NYCTO, Artificial DNA, Blck-Swan
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saamo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saamo/)*

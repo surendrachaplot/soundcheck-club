@@ -1,6 +1,6 @@
 # Tolu
 
-Tolu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Colour Factory, London on Sun, 2 Aug 2026.
+Tolu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Colour Factory, London on Sun, 2 Aug 2026.
 
 Tolu is a house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Leeds, London and Newcastle. Often billed alongside Baba T, Babajide and DTM Funk. Next up: Colour Factory, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Tolu is a house and disco artist based in United Kingdom, tracked on soundcheck,
 
 Baba T, Babajide, DTM Funk
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolu/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolu/)*

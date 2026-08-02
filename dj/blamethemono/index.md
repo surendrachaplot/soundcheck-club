@@ -1,6 +1,6 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at OXI, Berlin on Tue, 4 Aug 2026.
+Blame The Mono is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at OXI, Berlin on Tue, 4 Aug 2026.
 
 Blame The Mono is a techno and trance artist tracked on soundcheck, with 59 sets logged across Athens, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DLV, CAIVA and DJ Hyperdrive. Next up: OXI, Berlin on Tue 4 Aug.
 
@@ -29,4 +29,4 @@ Blame The Mono is a techno and trance artist tracked on soundcheck, with 59 sets
 
 DLV, CAIVA, DJ Hyperdrive
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*

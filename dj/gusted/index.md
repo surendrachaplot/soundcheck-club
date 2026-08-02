@@ -1,18 +1,18 @@
 # Gusted
 
-Gusted is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 1 Aug 2026.
+Gusted is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
-Gusted is a trance and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Denver and 8 more. Often billed alongside Mija, Mischluft and Bad Boombox. Next up: Edelfettwerk, Hamburg on Sat 1 Aug.
+Gusted is a trance and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Denver and 8 more. Often billed alongside Mija, Mischluft and Bad Boombox. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Edelfettwerk | Hamburg |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Edelfettwerk, Hamburg — Sat, 1 Aug 2026
 - Else, Berlin — Sat, 18 Jul 2026
 - OST, Berlin — Sat, 11 Jul 2026
 - Else, Berlin — Fri, 8 May 2026
@@ -20,10 +20,9 @@ Gusted is a trance and techno artist tracked on soundcheck, with 26 sets logged 
 - Central Studios, Utrecht — Sat, 21 Mar 2026
 - Südpol, Hamburg — Fri, 20 Mar 2026
 - RSO.BERLIN, Berlin — Fri, 19 Dec 2025
-- RSO.BERLIN, Berlin — Sat, 13 Dec 2025
 
 ## Shares bills with
 
 Mija, Mischluft, Bad Boombox
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*

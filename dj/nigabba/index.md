@@ -1,6 +1,6 @@
 # Nigabba
 
-Nigabba is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sala Pirandelo, Madrid on Sat, 8 Aug 2026.
+Nigabba is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sala Pirandelo, Madrid on Sat, 8 Aug 2026.
 
 Nigabba is a techno and acid artist based in Spain, tracked on soundcheck, with 67 sets logged across Ibiza and Madrid. Often billed alongside Pulpix, Nixy and Trenzark. Next up: Sala Pirandelo, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nigabba is a techno and acid artist based in Spain, tracked on soundcheck, with 
 
 Pulpix, Nixy, Trenzark
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nigabba/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nigabba/)*

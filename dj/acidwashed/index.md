@@ -1,6 +1,6 @@
 # Acid Washed
 
-Acid Washed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Rumore Nightclub Capri, Naples on Thu, 13 Aug 2026.
+Acid Washed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rumore Nightclub Capri, Naples on Thu, 13 Aug 2026.
 
 Acid Washed is a house and techno artist based in France, tracked on soundcheck, with 46 sets logged across Berlin, Naples and Paris. Often billed alongside Pyrame, Frozilla and Paty Vapor. Next up: Rumore Nightclub Capri, Naples on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Acid Washed is a house and techno artist based in France, tracked on soundcheck,
 
 Pyrame, Frozilla, Paty Vapor
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidwashed/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidwashed/)*

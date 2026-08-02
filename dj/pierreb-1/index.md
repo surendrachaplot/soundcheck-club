@@ -1,6 +1,6 @@
 # Pierre B (1)
 
-Pierre B (1) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paloma, Berlin on Fri, 7 Aug 2026.
+Pierre B (1) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paloma, Berlin on Fri, 7 Aug 2026.
 
 Pierre B (1) is a tech house and techno artist based in France, tracked on soundcheck, with 5 sets logged across Berlin, Newcastle, Strasbourg and Tbilisi. Often billed alongside 11:68PM, Anthony Georges Patrice and Candy Jones. Next up: Paloma, Berlin on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Pierre B (1) is a tech house and techno artist based in France, tracked on sound
 
 11:68PM, Anthony Georges Patrice, Candy Jones
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierreb-1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierreb-1/)*

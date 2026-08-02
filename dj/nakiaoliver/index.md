@@ -1,6 +1,6 @@
 # Nakia Oliver
 
-Nakia Oliver is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Honey Street Studio, Manchester on Sat, 8 Aug 2026.
+Nakia Oliver is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Honey Street Studio, Manchester on Sat, 8 Aug 2026.
 
 Nakia Oliver is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Subz. Next up: Honey Street Studio, Manchester on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Nakia Oliver is a house and tech house artist based in United Kingdom, tracked o
 
 Subz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakiaoliver/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakiaoliver/)*

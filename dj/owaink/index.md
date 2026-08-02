@@ -1,6 +1,6 @@
 # Owain K
 
-Owain K is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at La Panza, Bristol on Sun, 2 Aug 2026.
+Owain K is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Panza, Bristol on Sun, 2 Aug 2026.
 
 Owain K is a house and acid artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Bristol, Cardiff, London and Manchester. Often billed alongside Placid, Zobol and Alien Communications. Next up: La Panza, Bristol on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Owain K is a house and acid artist based in United Kingdom, tracked on soundchec
 
 Placid, Zobol, Alien Communications
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*

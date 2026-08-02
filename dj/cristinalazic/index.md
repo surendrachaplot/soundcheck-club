@@ -1,6 +1,6 @@
 # Cristina Lazic
 
-Cristina Lazic is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 5 Aug 2026.
+Cristina Lazic is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Cristina Lazic is a tech house and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside East End Dubs, Black Coffee and Damian Lazarus. Next up: Playa Soleil Ibiza, Ibiza on Wed 5 Aug.
 
@@ -28,4 +28,4 @@ Cristina Lazic is a tech house and house artist tracked on soundcheck, with 75 s
 
 East End Dubs, Black Coffee, Damian Lazarus
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

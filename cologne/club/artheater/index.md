@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Neon Dreams Cologne" on Fri, 7 Aug 2026.
+Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Neon Dreams Cologne" on Fri, 7 Aug 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including 3LEEZA, alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -22,4 +22,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

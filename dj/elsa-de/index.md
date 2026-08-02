@@ -1,6 +1,6 @@
 # ELSA (DE)
 
-ELSA (DE) is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
+ELSA (DE) is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
 
 ELSA (DE) is a dub techno and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside BA’AL, Connor Wall and DJ Klosing. Next up: Tanzhaus West, Frankfurt on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ ELSA (DE) is a dub techno and techno artist based in Germany, tracked on soundch
 
 BA’AL, Connor Wall, DJ Klosing
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*

@@ -1,6 +1,6 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+Rebekah is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 Rebekah is a techno and hardcore artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Basel and 56 more. Often billed alongside SNTS, AnD and DYEN. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Rebekah is a techno and hardcore artist tracked on soundcheck, with 155 sets log
 
 SNTS, AnD, DYEN
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

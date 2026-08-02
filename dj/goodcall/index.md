@@ -1,6 +1,6 @@
 # Good Call
 
-Good Call is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Mäurer, Cologne on Fri, 14 Aug 2026.
+Good Call is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mäurer, Cologne on Fri, 14 Aug 2026.
 
 Good Call is a deep house and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Cologne, Edinburgh and Paris. Often billed alongside Flabaire, Isabel del Valle and Amber Leith. Next up: Mäurer, Cologne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Good Call is a deep house and disco artist based in Germany, tracked on soundche
 
 Flabaire, Isabel del Valle, Amber Leith
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcall/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcall/)*

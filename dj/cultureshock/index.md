@@ -1,6 +1,6 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
+Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
 
 Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Austin and 34 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Finsbury Park, London on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 70 se
 
 Sub Focus, Dimension, 1991
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

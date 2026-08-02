@@ -1,15 +1,13 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kamī" on Sat, 1 Aug 2026.
+Vespers Club is a music venue in London with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Fruit on the Dancefloor" on Fri, 7 Aug 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AAKAARA, Asphodèle, bemmeblu and Berwick (Live) and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including AAKAARA, Berwick (Live), Chidera O and Dhangsha and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kamī | Asphodèle, Blue Ringed Baby, JUPiTA, Suki Quasimodo, bemmeblu |
-| Sat, 1 Aug 2026 | Lava La Rue Release After-Party | Franzine |
 | Fri, 7 Aug 2026 | Fruit on the Dancefloor |  |
 | Sat, 8 Aug 2026 | PRIVATELIFE010 | Evanora Unlimited, Helen Sun, Madjestic Kasual |
 | Sun, 16 Aug 2026 | Industrial Dirt | Dhangsha, Kelan, Richard Fearless, Samson A.K, Wes Baggaley |
@@ -18,9 +16,11 @@ Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights
 | Sat, 22 Aug 2026 | Ghouls Kiss | FrEaKyNoRiKy, LUNAx3, Princess Elf Bar, Takenbymarshall, Triff (2) |
 | Sat, 29 Aug 2026 | VEN3NO | ORFIGYAL |
 | Sun, 30 Aug 2026 | HEATED'S CARNIVAL AFTERS at VESPERS | Chidera O, MOYA_ |
+| Fri, 4 Sept 2026 | Out Of Office: Team Building | AAKAARA, Berwick (Live), Engineer (Live), lifeloose |
+| Fri, 11 Sept 2026 | Meridian Invites… |  |
 
 ## Address
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

@@ -1,6 +1,6 @@
 # Brix LDN
 
-Brix LDN is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Dankie Sounds x Moves Recordings: Etania (Life Of The Party)" on Thu, 6 Aug 2026.
+Brix LDN is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Dankie Sounds x Moves Recordings: Etania (Life Of The Party)" on Thu, 6 Aug 2026.
 
 Brix LDN is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 16 Great Guildford St, London SE1 0HS, United Kingdom.
 
@@ -14,4 +14,4 @@ Brix LDN is a music venue in London listed on soundcheck. 1 upcoming night. Brow
 
 16 Great Guildford St, London SE1 0HS, United Kingdom, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brix-ldn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brix-ldn/)*

@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "BASS ISLAND by TraumaMia w. 2komponentenkleber, OhOhOuzo, TraumaMia, Zahara, Dydaa Forne" on Sat, 1 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Tanzen3000: 5th BIRTHDAY" on Tue, 4 Aug 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Andeel, Ben Pavlidis, Cem Orlow and Dydaa Forne and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Andeel, Ben Pavlidis, Cem Orlow and Faisal and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | BASS ISLAND by TraumaMia w. 2komponentenkleber, OhOhOuzo, TraumaMia, Zahara, Dydaa Forne | Dydaa Forne, K.EULE, Oscar Wandel, TraumaMia |
 | Tue, 4 Aug 2026 | Tanzen3000: 5th BIRTHDAY | Ben Pavlidis |
 | Wed, 5 Aug 2026 | WOCHENMITTE w. Pascale Project |  |
 | Fri, 7 Aug 2026 | VULVAA POWER x WE KÜYEN w. Ativ Aras, Samer Odeh, Lila Veil, The Official Darling, Nuvm, Lima | Andeel, Faisal, Lima, MonoAbe |
@@ -21,4 +20,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

@@ -1,6 +1,6 @@
 # Metabora
 
-Metabora is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+Metabora is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 Metabora is a techno and club artist based in Estonia, tracked on soundcheck, with 9 sets logged across London and Tallinn. Often billed alongside White Gloss, Fake Versace and Tanel Mütt. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Metabora is a techno and club artist based in Estonia, tracked on soundcheck, wi
 
 White Gloss, Fake Versace, Tanel Mütt
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metabora/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metabora/)*

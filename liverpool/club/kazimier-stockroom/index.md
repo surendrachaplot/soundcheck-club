@@ -1,6 +1,6 @@
 # Kazimier Stockroom
 
-Kazimier Stockroom is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Super Duper x Kensuke Sudo - world tour - (with AMBERS)" on Wed, 26 Aug 2026.
+Kazimier Stockroom is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Super Duper x Kensuke Sudo - world tour - (with AMBERS)" on Wed, 26 Aug 2026.
 
 Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 32 Seel Street, Liverpool, L1 4JJ, United Kingdom.
 
@@ -17,4 +17,4 @@ Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 4 upcomin
 
 32 Seel Street, Liverpool, L1 4JJ, United Kingdom, Liverpool
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*

@@ -1,6 +1,6 @@
 # James Hurr
 
-James Hurr is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Eden, Ibiza on Thu, 6 Aug 2026.
+James Hurr is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Eden, Ibiza on Thu, 6 Aug 2026.
 
 James Hurr is a house and tech house artist tracked on soundcheck, with 14 sets logged across Barcelona, Ibiza, London and Losangeles and 3 more. Often billed alongside Alexis Knox, CHANEY and Jenn Getz. Next up: Eden, Ibiza on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ James Hurr is a house and tech house artist tracked on soundcheck, with 14 sets 
 
 Alexis Knox, CHANEY, Jenn Getz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshurr/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshurr/)*

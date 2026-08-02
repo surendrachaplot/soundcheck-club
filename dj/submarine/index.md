@@ -1,6 +1,6 @@
 # submarine
 
-submarine is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+submarine is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 submarine is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Basel, Berlin, Bristol and Cologne and 6 more. Often billed alongside Alix Perez, Sancta and Amoss. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ submarine is a drum & bass and techno artist based in Germany, tracked on soundc
 
 Alix Perez, Sancta, Amoss
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*

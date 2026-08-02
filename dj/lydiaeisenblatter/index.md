@@ -1,18 +1,18 @@
 # Lydia Eisenblätter
 
-Lydia Eisenblätter is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Lydia Eisenblätter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
-Lydia Eisenblätter is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Jana Falcon, Jorkes and TiZiAN (DE). Next up: ://about blank, Berlin on Sat 1 Aug.
+Lydia Eisenblätter is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Jana Falcon, Jorkes and TiZiAN (DE). Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | ://about blank | Berlin |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 1 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 24 Jan 2026
 - Paloma, Berlin — Sun, 28 Dec 2025
 - Distillery, Leipzig — Sat, 18 Oct 2025
@@ -20,10 +20,9 @@ Lydia Eisenblätter is a house and techno artist based in Germany, tracked on so
 - Pratersauna, Vienna — Sat, 13 Sept 2025
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 9 Aug 2025
 - Goldener Reiter, Munich — Fri, 16 May 2025
-- ://about blank, Berlin — Fri, 25 Apr 2025
 
 ## Shares bills with
 
 Jana Falcon, Jorkes, TiZiAN (DE)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiaeisenblatter/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiaeisenblatter/)*

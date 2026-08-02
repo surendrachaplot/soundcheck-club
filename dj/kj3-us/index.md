@@ -1,6 +1,6 @@
 # KJ3 (US)
 
-KJ3 (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at On The Hiyu, Seattle on Fri, 7 Aug 2026.
+KJ3 (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at On The Hiyu, Seattle on Fri, 7 Aug 2026.
 
 KJ3 (US) is a house and techno artist tracked on soundcheck, with 18 sets logged across Seattle. Often billed alongside Temenon, alexia.f and Freddy M. Next up: On The Hiyu, Seattle on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ KJ3 (US) is a house and techno artist tracked on soundcheck, with 18 sets logged
 
 Temenon, alexia.f, Freddy M
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*

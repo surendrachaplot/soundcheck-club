@@ -1,6 +1,6 @@
 # Luishock
 
-Luishock is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 12 Sept 2026.
+Luishock is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 12 Sept 2026.
 
 Luishock is an electronic artist tracked on soundcheck, with 4 sets logged across Barcelona and Madrid. Often billed alongside 1st Degree, Carl H and Harut Hov. Next up: Les Enfants Brillants, Barcelona on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Luishock is an electronic artist tracked on soundcheck, with 4 sets logged acros
 
 1st Degree, Carl H, Harut Hov
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luishock/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luishock/)*

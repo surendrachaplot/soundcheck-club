@@ -1,6 +1,6 @@
 # NorthSouth
 
-NorthSouth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+NorthSouth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 NorthSouth is a house and tech house artist tracked on soundcheck, with 30 sets logged across Bristol, Leeds, London and Manchester. Often billed alongside Dale Mussington, Harry McCanna and Sam Bangura. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ NorthSouth is a house and tech house artist tracked on soundcheck, with 30 sets 
 
 Dale Mussington, Harry McCanna, Sam Bangura
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/northsouth/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/northsouth/)*

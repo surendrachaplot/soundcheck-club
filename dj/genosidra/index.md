@@ -1,6 +1,6 @@
 # Genosidra
 
-Genosidra is a Neo Perreo and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
+Genosidra is a Neo Perreo and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
 
 Genosidra is a neo perreo and techno artist based in Colombia, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Buenosaires and Geneva and 9 more. Often billed alongside FKS (1), Gadutra and Lechuga Zafiro. Next up: Nitsa Club, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Genosidra is a neo perreo and techno artist based in Colombia, tracked on soundc
 
 FKS (1), Gadutra, Lechuga Zafiro
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genosidra/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genosidra/)*

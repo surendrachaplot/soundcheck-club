@@ -1,6 +1,6 @@
 # TBA - Royal Lounge Club
 
-TBA - Royal Lounge Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Inner Circle BCN - After Dark" on Fri, 7 Aug 2026.
+TBA - Royal Lounge Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Inner Circle BCN - After Dark" on Fri, 7 Aug 2026.
 
 TBA - Royal Lounge Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Royal Lounge Club is a music venue in Barcelona listed on soundcheck. 1 up
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Inner Circle BCN - After Dark |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-royal-lounge-club/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-royal-lounge-club/)*

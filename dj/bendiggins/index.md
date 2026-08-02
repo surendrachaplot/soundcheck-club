@@ -1,6 +1,6 @@
 # Ben Diggins
 
-Ben Diggins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
+Ben Diggins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
 
 Ben Diggins is a house and techno artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside LIMA (NL), Steven Pieters and select motion. Next up: Brewpub Reijngoud, Rotterdam on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Ben Diggins is a house and techno artist based in Netherlands, tracked on soundc
 
 LIMA (NL), Steven Pieters, select motion
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendiggins/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendiggins/)*

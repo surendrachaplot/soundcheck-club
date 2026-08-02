@@ -1,6 +1,6 @@
 # Grasps
 
-Grasps is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Red Rattler, Sydney on Fri, 7 Aug 2026.
+Grasps is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Red Rattler, Sydney on Fri, 7 Aug 2026.
 
 Grasps is an experimental and electronica artist based in Australia, tracked on soundcheck, with 11 sets logged across Sydney. Often billed alongside Marcus Whale, ealing and Arsonist. Next up: The Red Rattler, Sydney on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Grasps is an experimental and electronica artist based in Australia, tracked on 
 
 Marcus Whale, ealing, Arsonist
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grasps/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grasps/)*

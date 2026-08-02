@@ -1,6 +1,6 @@
 # Euphrat
 
-Euphrat is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+Euphrat is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 Euphrat is a baile funk and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Frankfurt. Often billed alongside Brauer, DJ Fucks Himself and EUROBABES. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Euphrat is a baile funk and house artist based in Germany, tracked on soundcheck
 
 Brauer, DJ Fucks Himself, EUROBABES
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*

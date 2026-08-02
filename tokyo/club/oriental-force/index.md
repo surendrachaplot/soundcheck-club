@@ -1,6 +1,6 @@
 # Oriental Force
 
-Oriental Force is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "佐伯とキッチュの脳みそどんどん4" on Sun, 2 Aug 2026.
+Oriental Force is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "佐伯とキッチュの脳みそどんどん4" on Sun, 2 Aug 2026.
 
 Oriental Force is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Oriental Force is a music venue in Tokyo listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | 佐伯とキッチュの脳みそどんどん4 |  |
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oriental-force/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oriental-force/)*

@@ -1,6 +1,6 @@
 # DJ Life
 
-DJ Life is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 7 Aug 2026.
+DJ Life is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 7 Aug 2026.
 
 DJ Life is a house and techno artist based in Australia, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside DJ Niamh, Hannah D and Mabel. Next up: arkaoda Berlin, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ DJ Life is a house and techno artist based in Australia, tracked on soundcheck, 
 
 DJ Niamh, Hannah D, Mabel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlife/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlife/)*

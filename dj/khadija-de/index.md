@@ -1,6 +1,6 @@
 # Khadija (DE)
 
-Khadija (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Khadija (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Khadija (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 2 more. Often billed alongside Njeri, Anele and Katerinha. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Khadija (DE) is a house and techno artist based in Germany, tracked on soundchec
 
 Njeri, Anele, Katerinha
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khadija-de/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khadija-de/)*

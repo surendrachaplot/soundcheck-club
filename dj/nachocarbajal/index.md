@@ -1,18 +1,18 @@
 # Nacho Carbajal
 
-Nacho Carbajal is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat, 1 Aug 2026.
+Nacho Carbajal is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
 
-Nacho Carbajal is a house and deep house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside Chuki Juri, Mati Amoretti and No Silver Bullet. Next up: TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat 1 Aug.
+Nacho Carbajal is a house and deep house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside Chuki Juri, Mati Amoretti and No Silver Bullet. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Secret Audiophile c/ Badajoz 115 | Barcelona |
 | Thu, 20 Aug 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
+- TBA - Secret Audiophile c/ Badajoz 115, Barcelona — Sat, 1 Aug 2026
 - berlinClub, Madrid — Fri, 24 Jul 2026
 - Beate Uwe, Berlin — Sat, 11 Jul 2026
 - Fabrique im Gängeviertel, Hamburg — Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Nacho Carbajal is a house and deep house artist based in Argentina, tracked on s
 - Bulbul Berlin, Berlin — Sat, 4 Apr 2026
 - Mom's Limousine Service, Berlin — Thu, 2 Apr 2026
 - Mena Berlin, Berlin — Fri, 20 Feb 2026
-- Crack Bellmer, Berlin — Wed, 24 Dec 2025
 
 ## Shares bills with
 
 Chuki Juri, Mati Amoretti, No Silver Bullet
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocarbajal/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocarbajal/)*

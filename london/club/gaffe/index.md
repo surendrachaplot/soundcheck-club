@@ -1,15 +1,13 @@
 # Gaffe
 
-Gaffe is a music venue in London with 20 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Gaffe x Late Night Shopper presents Vladimir Ivkovic, Kristina May (live), Allecto & Luca Gaffe" on Sat, 1 Aug 2026.
+Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Elata Collective 013: 26hours Summer Edition [Part One]" on Sat, 8 Aug 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Gaffe x Late Night Shopper presents Vladimir Ivkovic, Kristina May (live), Allecto & Luca Gaffe | Allecto, Kristina May, Luca Gaffe, Vladimir Ivkovic |
-| Sat, 1 Aug 2026 | Daytime Party - Transmissions Label Launch with Sunju Hargun | Alicia (UK), Inner Zone, Sunju Hargun |
 | Sat, 8 Aug 2026 | Elata Collective 013: 26hours Summer Edition [Part One] | 1BYAKKO, Aniaef, Deranged, GIZZI, H Grade, Hitam, James Harbrecht, Justine Perry, KETCH, TAARIS, Uväll, WINDFUHR, Ylia (UK), markellos |
 | Sat, 15 Aug 2026 | Noise Orchestra presents: PHASE SHIFT – Open Air Extended | Antonio De Angelis, Deranged, Kameliia, Livid (UK), Madtronik, Mattia Koväl, Pre Silent, Quelza, Silpagare, TAITO, UFO95 |
 | Sun, 16 Aug 2026 | PARTICLES | Jane Fitz, Marco Shuttle |
@@ -18,9 +16,11 @@ Gaffe is a music venue in London listed on soundcheck. 20 upcoming nights, with 
 | Fri, 28 Aug 2026 | FREEDIVE//004:Wendy,Gamine,Massimo | Gamine, Wendy Bkz |
 | Sun, 30 Aug 2026 | May I? - Holy Tongue (Live), Craig Richards, Enrica Falqui, Chez De Milo, Jay Duncan + more | Chez de Milo, Craig Richards, Enrica Falqui, Gabriel Rai, Jay Duncan, Kian OK, Patrick Rowe |
 | Sat, 5 Sept 2026 | thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day | Bunney, DJ Fart in the Club, DJ Rino, Dockett Eddy, Ella Fayden, Kuba'97, Mia Cecille, Picasso, Vlada, tom thumb |
+| Sun, 6 Sept 2026 | Animals on Psychedelics x Braintickle | Carl H, GNMR, Katya, Naone, Richard Gregory |
+| Sat, 12 Sept 2026 | A day with 1-800 GIRLS & Friends | 1-800 GIRLS |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

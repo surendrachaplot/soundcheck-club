@@ -1,15 +1,13 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
-Restricted is a techno and hardcore artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Restricted is a techno and hardcore artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
-| Sat, 1 Aug 2026 | Donauinsel | Vienna |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
 | Sat, 8 Aug 2026 | MÄX | Zurich |
 | Wed, 19 Aug 2026 | Arzenal | Budapest |
@@ -21,17 +19,17 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 67 sets l
 
 ## Recently played
 
+- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
+- Donauinsel, Vienna — Sat, 1 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
 - Flanders Expo Centre, Ghent — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- Index, Dublin — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Azyr, JAZZY (2), Nikolina
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

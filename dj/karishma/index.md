@@ -1,6 +1,6 @@
 # karishma
 
-karishma is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at The Jago, London on Sun, 9 Aug 2026.
+karishma is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Jago, London on Sun, 9 Aug 2026.
 
 karishma is a jungle and drum & bass artist tracked on soundcheck, with 29 sets logged across Leeds and London. Often billed alongside Deselecta, MF Ceól and The Dangers of Jazz. Next up: The Jago, London on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ karishma is a jungle and drum & bass artist tracked on soundcheck, with 29 sets 
 
 Deselecta, MF Ceól, The Dangers of Jazz
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*

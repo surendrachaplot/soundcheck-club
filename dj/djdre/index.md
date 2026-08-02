@@ -1,6 +1,6 @@
 # DJ Dre
 
-DJ Dre is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at North Bowl, Philadelphia on Sun, 2 Aug 2026.
+DJ Dre is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at North Bowl, Philadelphia on Sun, 2 Aug 2026.
 
 DJ Dre is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Sweater, DJ Dommis and DJ Matpat. Next up: North Bowl, Philadelphia on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ DJ Dre is a house and techno artist based in United States of America, tracked o
 
 Sweater, DJ Dommis, DJ Matpat
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdre/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdre/)*

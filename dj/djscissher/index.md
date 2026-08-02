@@ -1,6 +1,6 @@
 # DJ Scissher
 
-DJ Scissher is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Honey Street Studio, Manchester on Sat, 15 Aug 2026.
+DJ Scissher is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Honey Street Studio, Manchester on Sat, 15 Aug 2026.
 
 DJ Scissher is a house and club artist tracked on soundcheck, with 12 sets logged across Brighton and Manchester. Often billed alongside Treble Gemini, Kate Meyher and DJ Klitbait. Next up: Honey Street Studio, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Scissher is a house and club artist tracked on soundcheck, with 12 sets logge
 
 Treble Gemini, Kate Meyher, DJ Klitbait
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djscissher/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djscissher/)*

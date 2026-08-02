@@ -1,6 +1,6 @@
 # Barbara Hryciuk
 
-Barbara Hryciuk is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at H15 Scene & Studio, Copenhagen on Sun, 2 Aug 2026.
+Barbara Hryciuk is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at H15 Scene & Studio, Copenhagen on Sun, 2 Aug 2026.
 
 Barbara Hryciuk is a house and dub artist based in Poland, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Anton Goltermann, Crisco and DJ Sea View. Next up: H15 Scene & Studio, Copenhagen on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Barbara Hryciuk is a house and dub artist based in Poland, tracked on soundcheck
 
 Anton Goltermann, Crisco, DJ Sea View
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarahryciuk/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarahryciuk/)*

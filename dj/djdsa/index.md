@@ -1,6 +1,6 @@
 # DJ DSA
 
-DJ DSA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Waterhouse Studios, Amsterdam on Fri, 14 Aug 2026.
+DJ DSA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Waterhouse Studios, Amsterdam on Fri, 14 Aug 2026.
 
 DJ DSA is a techno and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Amsterdam and Ibiza. Often billed alongside MøR., Borch and C.R.A.C.K.E.N.. Next up: Waterhouse Studios, Amsterdam on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ DJ DSA is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 MøR., Borch, C.R.A.C.K.E.N.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdsa/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdsa/)*

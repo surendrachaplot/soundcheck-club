@@ -1,6 +1,6 @@
 # Nadia
 
-Nadia is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Brixton Jamm, London on Sat, 24 Oct 2026.
+Nadia is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Brixton Jamm, London on Sat, 24 Oct 2026.
 
 Nadia is a progressive house and techno artist tracked on soundcheck, with 8 sets logged across Berlin, Brighton and London. Often billed alongside Markus Saarländer, Auseeb and Bushy Squirrel. Next up: Brixton Jamm, London on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Nadia is a progressive house and techno artist tracked on soundcheck, with 8 set
 
 Markus Saarländer, Auseeb, Bushy Squirrel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadia/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadia/)*

@@ -1,6 +1,6 @@
 # KASSIS
 
-KASSIS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
+KASSIS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
 KASSIS is a techno and industrial artist based in Bulgaria, tracked on soundcheck, with 7 sets logged across Berlin, Lisbon, London and Osaka. Often billed alongside Labåzuy, Diana Bravo and ANXIETY (2). Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ KASSIS is a techno and industrial artist based in Bulgaria, tracked on soundchec
 
 Labåzuy, Diana Bravo, ANXIETY (2)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kassis/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kassis/)*

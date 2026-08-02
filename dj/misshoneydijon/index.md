@@ -1,8 +1,8 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
+Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 196 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 195 sets lo
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 31 Oct 2026 | Magazine London | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 195 sets lo
 
 Chloé Caillet, Mochakk, TSHA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

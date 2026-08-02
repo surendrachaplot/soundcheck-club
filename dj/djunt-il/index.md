@@ -1,6 +1,6 @@
 # dj unt.il
 
-dj unt.il is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Sinners and Saints, Washington DC on Fri, 7 Aug 2026.
+dj unt.il is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sinners and Saints, Washington DC on Fri, 7 Aug 2026.
 
 dj unt.il is a club and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity and Washingtondc. Often billed alongside Tromac, Izzy Holmes and lady lavender. Next up: Sinners and Saints, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ dj unt.il is a club and house artist based in United States of America, tracked 
 
 Tromac, Izzy Holmes, lady lavender
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djunt-il/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djunt-il/)*

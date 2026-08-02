@@ -1,14 +1,15 @@
 # Luna Ludmila
 
-Luna Ludmila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at public records, New York City on Fri, 14 Aug 2026.
+Luna Ludmila is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at public records, New York City on Fri, 14 Aug 2026.
 
-Luna Ludmila is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Nuno dos Santos, Bart Skils and Carlos Valdes. Next up: public records, Newyorkcity on Fri 14 Aug.
+Luna Ludmila is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Nuno dos Santos, Bart Skils and Carlos Valdes. Next up: public records, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | public records | New York City |
+| Sat, 31 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Luna Ludmila is a house and techno artist tracked on soundcheck, with 93 sets lo
 
 Nuno dos Santos, Bart Skils, Carlos Valdes
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*

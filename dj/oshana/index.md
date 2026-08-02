@@ -1,6 +1,6 @@
 # Oshana
 
-Oshana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
+Oshana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
 
 Oshana is a house and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Anthea, Astral Travel and Giammarco Orsini. Next up: Green Room NYC, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Oshana is a house and techno artist based in United States of America, tracked o
 
 Anthea, Astral Travel, Giammarco Orsini
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*

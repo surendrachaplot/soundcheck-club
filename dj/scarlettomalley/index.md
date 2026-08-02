@@ -1,14 +1,13 @@
 # Scarlett O'Malley
 
-Scarlett O'Malley is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
+Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: Quarters, Brighton on Sat 1 Aug.
+Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Quarters | Brighton |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -19,6 +18,7 @@ Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 93 set
 
 ## Recently played
 
+- Quarters, Brighton — Sat, 1 Aug 2026
 - Kater, Berlin — Fri, 24 Jul 2026
 - The Carpet Shop, London — Fri, 26 Jun 2026
 - Thuishaven, Amsterdam — Sat, 6 Jun 2026
@@ -26,10 +26,9 @@ Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 93 set
 - Lakota, Bristol — Sat, 9 May 2026
 - The Cause, London — Sat, 9 May 2026
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- Sunday Sunday, Mexico City — Sun, 19 Apr 2026
 
 ## Shares bills with
 
 Ella Knight, Lulah Francs, Michelle Manetti
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*

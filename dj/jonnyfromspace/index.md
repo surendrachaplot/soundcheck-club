@@ -1,6 +1,6 @@
 # Jonny From Space
 
-Jonny From Space is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+Jonny From Space is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Jonny From Space is a techno and house artist tracked on soundcheck, with 91 sets logged across Berlin, Chicago, Denver and Detroit and 7 more. Often billed alongside Sister System, Nick León and Danny Daze. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Jonny From Space is a techno and house artist tracked on soundcheck, with 91 set
 
 Sister System, Nick León, Danny Daze
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfromspace/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfromspace/)*

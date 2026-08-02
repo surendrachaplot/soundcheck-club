@@ -1,6 +1,6 @@
 # Mabel
 
-Mabel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Miscellania, Melbourne on Fri, 28 Aug 2026.
+Mabel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Miscellania, Melbourne on Fri, 28 Aug 2026.
 
 Mabel is a techno and trance artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Miscellania, Melbourne on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mabel is a techno and trance artist tracked on soundcheck, with 104 sets logged 
 
 suki, Hannah D, Ricky Nord
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

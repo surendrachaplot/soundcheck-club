@@ -1,6 +1,6 @@
 # metaverde
 
-metaverde is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Ikii, Berlin on Wed, 5 Aug 2026.
+metaverde is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ikii, Berlin on Wed, 5 Aug 2026.
 
 metaverde is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside Vio PRG, Enchanted Rhythms and MFX (1). Next up: Ikii, Berlin on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ metaverde is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Vio PRG, Enchanted Rhythms, MFX (1)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metaverde/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metaverde/)*

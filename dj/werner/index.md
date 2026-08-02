@@ -1,6 +1,6 @@
 # Werner
 
-Werner is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Goya Social Club, Madrid on Wed, 5 Aug 2026.
+Werner is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Goya Social Club, Madrid on Wed, 5 Aug 2026.
 
 Werner is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Madrid and Mexicocity. Often billed alongside KITAE, Leofix and Ursula Prawn. Next up: Goya Social Club, Madrid on Wed 5 Aug.
 
@@ -19,4 +19,4 @@ Werner is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 KITAE, Leofix, Ursula Prawn
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/werner/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/werner/)*

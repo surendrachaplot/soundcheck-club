@@ -1,6 +1,6 @@
 # Creamy
 
-Creamy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
+Creamy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
 
 Creamy is a techno and electro artist tracked on soundcheck, with 43 sets logged across Basel, Berlin, Milan and Naples and 1 more. Often billed alongside Giale, Andrewww and Hiroko Hacci. Next up: Ex Macello, Milan on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Creamy is a techno and electro artist tracked on soundcheck, with 43 sets logged
 
 Giale, Andrewww, Hiroko Hacci
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creamy/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creamy/)*

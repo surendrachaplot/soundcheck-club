@@ -1,6 +1,6 @@
 # Radio Marrakech
 
-Radio Marrakech is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
+Radio Marrakech is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
 
 Radio Marrakech is a house and techno artist based in Sweden, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 4 more. Often billed alongside Da Simurgh, Anders HP and Baime. Next up: Birgit, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Radio Marrakech is a house and techno artist based in Sweden, tracked on soundch
 
 Da Simurgh, Anders HP, Baime
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radiomarrakech/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radiomarrakech/)*

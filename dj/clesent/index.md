@@ -1,6 +1,6 @@
 # CLESENT
 
-CLESENT is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
+CLESENT is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
 
 CLESENT is a tech house and house artist based in Japan, tracked on soundcheck, with 105 sets logged across Seoul and Tokyo. Often billed alongside Daitto, BNN WKND and IRODORI. Next up: WOMB, Tokyo on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ CLESENT is a tech house and house artist based in Japan, tracked on soundcheck, 
 
 Daitto, BNN WKND, IRODORI
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clesent/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clesent/)*

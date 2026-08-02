@@ -1,6 +1,6 @@
 # XSB-R
 
-XSB-R is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Jade, New York City on Tue, 18 Aug 2026.
+XSB-R is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jade, New York City on Tue, 18 Aug 2026.
 
 XSB-R is a techno and ebm artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Charity Kill, DJ Flesh_Bot and Facets. Next up: Jade, Newyorkcity on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ XSB-R is a techno and ebm artist based in United States of America, tracked on s
 
 Charity Kill, DJ Flesh_Bot, Facets
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*

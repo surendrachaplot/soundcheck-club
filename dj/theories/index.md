@@ -1,6 +1,6 @@
 # theories
 
-theories is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+theories is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 theories is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin and Brussels. Often billed alongside MFX (1), Menzel and DJ Buona Sara. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ theories is a techno and trance artist tracked on soundcheck, with 24 sets logge
 
 MFX (1), Menzel, DJ Buona Sara
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*

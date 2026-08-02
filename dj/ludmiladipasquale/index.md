@@ -1,6 +1,6 @@
 # Ludmila Di Pasquale
 
-Ludmila Di Pasquale is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 8 Aug 2026.
+Ludmila Di Pasquale is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 8 Aug 2026.
 
 Ludmila Di Pasquale is a house and techno artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 2 more. Often billed alongside Bermani, Lucas Escarioni and Camila Isabel. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ludmila Di Pasquale is a house and techno artist tracked on soundcheck, with 48 
 
 Bermani, Lucas Escarioni, Camila Isabel
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*

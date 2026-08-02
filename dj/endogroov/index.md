@@ -1,6 +1,6 @@
 # Endogroov
 
-Endogroov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Berkeley Suite, Glasgow on Sun, 2 Aug 2026.
+Endogroov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Berkeley Suite, Glasgow on Sun, 2 Aug 2026.
 
 Endogroov is a techno and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside GFA, 3rdcrush and Arthur Robert. Next up: The Berkeley Suite, Glasgow on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Endogroov is a techno and house artist based in United Kingdom, tracked on sound
 
 GFA, 3rdcrush, Arthur Robert
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endogroov/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endogroov/)*

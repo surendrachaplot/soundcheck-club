@@ -1,6 +1,6 @@
 # HANÀ
 
-HANÀ is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+HANÀ is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 HANÀ is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Hamburg and Paris and 1 more. Often billed alongside 3LEEZA, Niotech and two girls one mom. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ HANÀ is a trance and techno artist based in United Kingdom, tracked on soundche
 
 3LEEZA, Niotech, two girls one mom
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanà/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanà/)*

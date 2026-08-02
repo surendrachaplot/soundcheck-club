@@ -1,6 +1,6 @@
 # Sandunga
 
-Sandunga is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+Sandunga is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 Sandunga is an electronica and downtempo artist tracked on soundcheck, with 19 sets logged across Berlin and Mexicocity. Often billed alongside DJ Putilla, Kassie and Kodemul. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Sandunga is an electronica and downtempo artist tracked on soundcheck, with 19 s
 
 DJ Putilla, Kassie, Kodemul
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandunga/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandunga/)*

@@ -1,6 +1,6 @@
 # manu abeca
 
-manu abeca is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Tresor / Globus, Berlin on Wed, 5 Aug 2026.
+manu abeca is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Wed, 5 Aug 2026.
 
 manu abeca is a techno and ambient artist tracked on soundcheck, with 19 sets logged across Berlin, Madrid, Munich and Osaka and 1 more. Often billed alongside bw (AR), Sam Eyvaz and Até.. Next up: Tresor / Globus, Berlin on Wed 5 Aug.
 
@@ -26,4 +26,4 @@ manu abeca is a techno and ambient artist tracked on soundcheck, with 19 sets lo
 
 bw (AR), Sam Eyvaz, Até.
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuabeca/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuabeca/)*

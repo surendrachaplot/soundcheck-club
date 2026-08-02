@@ -1,6 +1,6 @@
 # hi.fí
 
-hi.fí is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
+hi.fí is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
 
 hi.fí is a club and house artist based in Ireland, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Meriem S, François Dulac and Miss T Delight. Next up: Bulbul Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ hi.fí is a club and house artist based in Ireland, tracked on soundcheck, with 
 
 Meriem S, François Dulac, Miss T Delight
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*

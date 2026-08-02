@@ -1,18 +1,18 @@
 # Malzof
 
-Malzof is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+Malzof is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
-Malzof is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit, Losangeles, Newyorkcity and Philadelphia and 2 more. Often billed alongside Kiernan Laveaux, Security Dog and Tammy Lakkis. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
+Malzof is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit, Losangeles, Newyorkcity and Philadelphia and 2 more. Often billed alongside Kiernan Laveaux, Security Dog and Tammy Lakkis. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC — Sat, 1 Aug 2026
 - MotorCity Wine, Detroit — Mon, 11 May 2026
 - TBA - Philadelphia Museum of Art, Philadelphia — Fri, 20 Mar 2026
 - TBA - DTLA, Los Angeles — Sat, 20 Dec 2025
@@ -25,4 +25,4 @@ Malzof is a techno and house artist based in United States of America, tracked o
 
 Kiernan Laveaux, Security Dog, Tammy Lakkis
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

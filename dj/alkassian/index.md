@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
+Alex Kassian is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
 
 Alex Kassian is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: KREUZWERK, Berlin on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ Alex Kassian is a house and techno artist tracked on soundcheck, with 170 sets l
 
 PARAMIDA, Job Jobse, Running Hot
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

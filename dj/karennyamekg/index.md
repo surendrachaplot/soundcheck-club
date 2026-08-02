@@ -1,6 +1,6 @@
 # Karen Nyame KG
 
-Karen Nyame KG is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Magazine Open–Air, London on Sun, 16 Aug 2026.
+Karen Nyame KG is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Magazine Open–Air, London on Sun, 16 Aug 2026.
 
 Karen Nyame KG is a house and amapiano artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brussels and Dublin and 10 more. Often billed alongside Ikonika, Fiyahdred and AYAYA. Next up: Magazine Open–Air, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Karen Nyame KG is a house and amapiano artist tracked on soundcheck, with 62 set
 
 Ikonika, Fiyahdred, AYAYA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karennyamekg/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karennyamekg/)*

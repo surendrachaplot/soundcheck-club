@@ -1,6 +1,6 @@
 # Basilone
 
-Basilone is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Ground at Club Space, Miami on Fri, 7 Aug 2026.
+Basilone is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Ground at Club Space, Miami on Fri, 7 Aug 2026.
 
 Basilone is a house and trance artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Chicago and Miami. Often billed alongside Luccio, ShyMan and Alex Sharp. Next up: The Ground at Club Space, Miami on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Basilone is a house and trance artist based in United States of America, tracked
 
 Luccio, ShyMan, Alex Sharp
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basilone/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basilone/)*

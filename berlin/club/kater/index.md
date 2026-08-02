@@ -1,14 +1,13 @@
 # Kater
 
-Kater is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Kater x Wabi-Sabi & Flirt Records" on Sat, 1 Aug 2026.
+Kater is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "The Funky Chicken Club" on Tue, 4 Aug 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Kater x Wabi-Sabi & Flirt Records | Andrea Fiorito, Cabizbajo, Cosmic Cherry, Damon Jee, Daraio, Josiane, KALEA, Mystigrix, TDKK |
 | Tue, 4 Aug 2026 | The Funky Chicken Club | Disco Gessner, Eric D. Clark |
 | Fri, 7 Aug 2026 | Katernacht with GiZ, Nyra, Ben Evers, Diass + more | Ben Evers, Diass, Dj Diass, GiZ, Mely, Naajet (2), Nyra, Sven Dohse, goldie (2) |
 | Sat, 8 Aug 2026 | Kater x GOOEY | Adriana Ruas, Alfonsvs, Emmanuel K, Jan Ketel, Jennifer Touch, Joe Cleen, Luzie, Meriem S, Norman Weber, Siggatunez, The Brvtalist, Zaatar |
@@ -18,9 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with 
 | Tue, 18 Aug 2026 | The Funky Chicken Club | Disco Gessner, Justus Kohncke |
 | Fri, 21 Aug 2026 | DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) | Alma Linda, Armen Miran, BODYSHIFT, Biesmans, Bonjour Ben, Britta Arnold, Caleesi, Cassy, Chris Schwarzwälder, DJ ZBB, David Dorad, David Mayer, Demi Riquisimo, ELIF, ELIZEN THE EMPEROR, Enzio Etchaberri, Esther Silex, Fabrizio Mammarella, Foolik, Franca, Gina Sabatini, Iron Curtis, Jama, Johannes Albert, Joséphine de Retour, KIRSCH, Karina Schneider, LuLu Malina, MOOGLI (DE), Marc Schneider, Mark Gill, Mila Stern, Mira, Mona Moore, Monty Luke, Moses, Nadine Hennig, Neu-Romancer, Noema, Pascal Hetzel, Pauli Pocket, Peter Schumann, Qualia Trax, Sarah Kreis, Sascha Cawa, Shumi, Sportbrigade Sparwasser, Stan Starry, Stella Stellar, Steve Challier, Sven Dohse, The Hacker, eveava, karete bu |
 | Tue, 25 Aug 2026 | The Funky Chicken Club | Daniel Wang, Disco Gessner |
+| Fri, 28 Aug 2026 | 4Q4 ERROR Festival: Heatwave | BLVSH |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

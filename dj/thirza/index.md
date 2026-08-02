@@ -1,6 +1,6 @@
 # THIRZA
 
-THIRZA is a Garage and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
+THIRZA is a Garage and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
 
 THIRZA is a garage and tech house artist based in New Zealand, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Hyan (2), Sam Deeley and Flamingo Pier. Next up: Planet Wax, London on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ THIRZA is a garage and tech house artist based in New Zealand, tracked on soundc
 
 Hyan (2), Sam Deeley, Flamingo Pier
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirza/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirza/)*

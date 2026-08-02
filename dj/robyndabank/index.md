@@ -1,6 +1,6 @@
 # Robyn DaBank
 
-Robyn DaBank is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Le Bain, New York City on Thu, 20 Aug 2026.
+Robyn DaBank is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Bain, New York City on Thu, 20 Aug 2026.
 
 Robyn DaBank is a techno and club artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside Gagbert, Malcolm XL and ASTER (DJ). Next up: Le Bain, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Robyn DaBank is a techno and club artist based in United States of America, trac
 
 Gagbert, Malcolm XL, ASTER (DJ)
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*

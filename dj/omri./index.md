@@ -1,6 +1,6 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 8 Aug 2026.
+OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 OMRI. is a house and tech house artist tracked on soundcheck, with 63 sets logged across Austin, Barcelona, Brussels and Buenosaires and 15 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: Hï Ibiza, Ibiza on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ OMRI. is a house and tech house artist tracked on soundcheck, with 63 sets logge
 
 Damian Lazarus, Jamie Jones, Black Coffee
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

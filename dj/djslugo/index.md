@@ -1,19 +1,19 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at TBA - SECRET DTLA LOCATION , Los Angeles on Sat, 1 Aug 2026.
+DJ Slugo is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at El Club, Detroit on Sat, 8 Aug 2026.
 
-DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: TBA - SECRET DTLA LOCATION , Losangeles on Sat 1 Aug.
+DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: El Club, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - SECRET DTLA LOCATION  | Los Angeles |
 | Sat, 8 Aug 2026 | El Club | Detroit |
 | Fri, 14 Aug 2026 | Ramova Loft | Chicago |
 
 ## Recently played
 
+- TBA - SECRET DTLA LOCATION , Los Angeles — Sat, 1 Aug 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 31 Jul 2026
 - Paragon, New York City — Fri, 24 Jul 2026
 - Sunnygun, Chicago — Sun, 12 Jul 2026
@@ -21,10 +21,9 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets l
 - Smoke & Mirrors, Chicago — Sat, 27 Jun 2026
 - Lulo, Nashville — Fri, 26 Jun 2026
 - Nowadays, New York City — Fri, 19 Jun 2026
-- Union Park, Chicago — Sat, 23 May 2026
 
 ## Shares bills with
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

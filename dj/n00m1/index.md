@@ -1,6 +1,6 @@
 # N00M1
 
-N00M1 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Liquid Club, Malta on Fri, 7 Aug 2026.
+N00M1 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Liquid Club, Malta on Fri, 7 Aug 2026.
 
 N00M1 is a techno and acid artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Cologne and Malta and 4 more. Often billed alongside DIØN, KARAH and Azyr. Next up: Liquid Club, Malta on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ N00M1 is a techno and acid artist based in Netherlands, tracked on soundcheck, w
 
 DIØN, KARAH, Azyr
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*

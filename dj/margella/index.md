@@ -1,6 +1,6 @@
 # Margella
 
-Margella is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
+Margella is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
 
 Margella is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside tasha.mp4, BIDOIS and Noizfiend. Next up: Bricks, London on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Margella is a garage and drum & bass artist based in United Kingdom, tracked on 
 
 tasha.mp4, BIDOIS, Noizfiend
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margella/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margella/)*

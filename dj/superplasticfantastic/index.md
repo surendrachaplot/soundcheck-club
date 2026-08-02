@@ -1,6 +1,6 @@
 # superplasticfantastic
 
-superplasticfantastic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
+superplasticfantastic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at NO HOUSE, Mexico City on Sun, 2 Aug 2026.
 
 superplasticfantastic is a house and techno artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexicocity and Tokyo. Often billed alongside Dj Diego (1), Fig (DYN) and OBTA. Next up: NO HOUSE, Mexicocity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ superplasticfantastic is a house and techno artist based in Mexico, tracked on s
 
 Dj Diego (1), Fig (DYN), OBTA
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superplasticfantastic/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superplasticfantastic/)*

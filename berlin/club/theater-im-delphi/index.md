@@ -1,6 +1,6 @@
 # Theater im Delphi
 
-Theater im Delphi is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 1 Aug 2026; the next is "Delphis Orakel x Makoto Sakamoto" on Sun, 9 Aug 2026.
+Theater im Delphi is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Delphis Orakel x Makoto Sakamoto" on Sun, 9 Aug 2026.
 
 Theater im Delphi is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Makoto Sakamoto. Browse upcoming dates, start times and who's playing. Gustav-Adolf-Straße 2, 13086 Berlin.
 
@@ -14,4 +14,4 @@ Theater im Delphi is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Gustav-Adolf-Straße 2, 13086 Berlin, Berlin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/theater-im-delphi/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/theater-im-delphi/)*

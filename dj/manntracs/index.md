@@ -1,18 +1,18 @@
 # Manntracs
 
-Manntracs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Groove Bar, Prague on Sat, 1 Aug 2026.
+Manntracs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bukanyr Boat, Prague on Fri, 14 Aug 2026.
 
-Manntracs is a house and techno artist based in Czech Republic, tracked on soundcheck, with 56 sets logged across Belgrade and Prague. Often billed alongside Raphael Kosmos, Identic and Olinstvi. Next up: Groove Bar, Prague on Sat 1 Aug.
+Manntracs is a house and techno artist based in Czech Republic, tracked on soundcheck, with 56 sets logged across Belgrade and Prague. Often billed alongside Raphael Kosmos, Identic and Olinstvi. Next up: Bukanyr Boat, Prague on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Groove Bar | Prague |
 | Fri, 14 Aug 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
 
+- Groove Bar, Prague — Sat, 1 Aug 2026
 - Stalin, Prague — Fri, 31 Jul 2026
 - TBA - Kostrcany, Prague — Fri, 17 Jul 2026
 - Bukanyr Boat, Prague — Fri, 3 Jul 2026
@@ -20,10 +20,9 @@ Manntracs is a house and techno artist based in Czech Republic, tracked on sound
 - Groove Bar, Prague — Sat, 30 May 2026
 - Bukanyr Boat, Prague — Sat, 25 Apr 2026
 - Bar v Krymský, Prague — Sat, 4 Apr 2026
-- Groove Bar, Prague — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Raphael Kosmos, Identic, Olinstvi
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manntracs/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manntracs/)*

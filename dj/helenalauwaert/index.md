@@ -1,14 +1,13 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Helena Lauwaert is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 11 Sept 2026 | TBA | Brussels |
@@ -18,6 +17,7 @@ Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 130 se
 
 ## Recently played
 
+- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - La Terrrazza, Barcelona — Thu, 25 Jun 2026
@@ -25,10 +25,9 @@ Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 130 se
 - Ampere, Antwerp — Sat, 6 Jun 2026
 - Circle Park, Brussels — Sat, 30 May 2026
 - E1, London — Fri, 29 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 Pegassi, EMILIJA, Faster Horses
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*

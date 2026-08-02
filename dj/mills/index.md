@@ -1,6 +1,6 @@
 # MiLLS
 
-MiLLS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at The Bunker, Liverpool on Sat, 15 Aug 2026.
+MiLLS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Bunker, Liverpool on Sat, 15 Aug 2026.
 
 MiLLS is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh, Ibiza, Liverpool and Mexicocity and 1 more. Often billed alongside AMO, AWOL and Allister Whitehead. Next up: The Bunker, Liverpool on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ MiLLS is a techno and hardcore artist based in United Kingdom, tracked on soundc
 
 AMO, AWOL, Allister Whitehead
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mills/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mills/)*

@@ -1,6 +1,6 @@
 # Vivra Verra
 
-Vivra Verra is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+Vivra Verra is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 Vivra Verra is a techno and house artist based in Lebanon, tracked on soundcheck, with 17 sets logged across Bangkok, London, Manchester and Singapore. Often billed alongside Figs, HORN-E and Tara Erizo. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Vivra Verra is a techno and house artist based in Lebanon, tracked on soundcheck
 
 Figs, HORN-E, Tara Erizo
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivraverra/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivraverra/)*

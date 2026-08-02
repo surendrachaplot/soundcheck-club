@@ -1,14 +1,13 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Palais, London on Sat, 1 Aug 2026.
+DVS1 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-DVS1 is a techno and house artist tracked on soundcheck, with 300 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Palais, London on Sat 1 Aug.
+DVS1 is a techno and house artist tracked on soundcheck, with 300 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Palais | London |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 28 Aug 2026 | Hive Club | Zurich |
 | Fri, 11 Sept 2026 | TBA | Brussels |
@@ -20,6 +19,7 @@ DVS1 is a techno and house artist tracked on soundcheck, with 300 sets logged ac
 
 ## Recently played
 
+- Palais, London — Sat, 1 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Nowadays, New York City — Sat, 25 Jul 2026
@@ -27,10 +27,9 @@ DVS1 is a techno and house artist tracked on soundcheck, with 300 sets logged ac
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Forte Antenne, Rome — Fri, 10 Jul 2026
-- The Bongo Club, Edinburgh — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

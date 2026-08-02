@@ -1,6 +1,6 @@
 # Hypoxia
 
-Hypoxia is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Subspace, Denver on Sat, 8 Aug 2026.
+Hypoxia is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Subspace, Denver on Sat, 8 Aug 2026.
 
 Hypoxia is a techno and ambient artist based in United States of America, tracked on soundcheck, with 4 sets logged across Denver and Losangeles. Often billed alongside JIA, Secus and Uun. Next up: Subspace, Denver on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Hypoxia is a techno and ambient artist based in United States of America, tracke
 
 JIA, Secus, Uun
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoxia/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoxia/)*

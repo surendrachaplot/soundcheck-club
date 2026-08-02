@@ -1,6 +1,6 @@
 # Rello
 
-Rello is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at [UNVRS], Ibiza on Thu, 13 Aug 2026.
+Rello is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at [UNVRS], Ibiza on Thu, 13 Aug 2026.
 
 Rello is a tech house and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Austin, Ibiza, Miami and Newyorkcity and 1 more. Often billed alongside Avilo, Black V Neck and Cody Schneida. Next up: [UNVRS], Ibiza on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Rello is a tech house and house artist based in United States of America, tracke
 
 Avilo, Black V Neck, Cody Schneida
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*

@@ -1,6 +1,6 @@
 # lali:
 
-lali: is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Spanners, London on Fri, 7 Aug 2026.
+lali: is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Spanners, London on Fri, 7 Aug 2026.
 
 lali: is a house and acid artist tracked on soundcheck, with 11 sets logged across London, Manchester and Tokyo. Often billed alongside A Psychic Yes, YELLOWUHURU and YAMARCHY. Next up: Spanners, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ lali: is a house and acid artist tracked on soundcheck, with 11 sets logged acro
 
 A Psychic Yes, YELLOWUHURU, YAMARCHY
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*

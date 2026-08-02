@@ -1,6 +1,6 @@
 # Jean Blaire
 
-Jean Blaire is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+Jean Blaire is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 Jean Blaire is a club and afrobeats artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside XT1ANA, BBSHKALES and SALD3E. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Jean Blaire is a club and afrobeats artist based in United Kingdom, tracked on s
 
 XT1ANA, BBSHKALES, SALD3E
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanblaire/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanblaire/)*

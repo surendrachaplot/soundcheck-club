@@ -1,6 +1,6 @@
 # Donny Vega
 
-Donny Vega is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 1 Aug 2026, next at Soleil, Toronto on Sat, 15 Aug 2026.
+Donny Vega is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Soleil, Toronto on Sat, 15 Aug 2026.
 
 Donny Vega is a techno and tech house artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside HVN (1), Ana Luisa and Ard1n. Next up: Soleil, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Donny Vega is a techno and tech house artist based in Canada, tracked on soundch
 
 HVN (1), Ana Luisa, Ard1n
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnyvega/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnyvega/)*

@@ -1,6 +1,6 @@
 # Annebel
 
-Annebel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
+Annebel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
 
 Annebel is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Ambu Bambu, Conduct Disorder and Darwin. Next up: murmur, Amsterdam on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Annebel is a techno and house artist tracked on soundcheck, with 22 sets logged 
 
 Ambu Bambu, Conduct Disorder, Darwin
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annebel/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annebel/)*

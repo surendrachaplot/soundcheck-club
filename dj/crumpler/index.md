@@ -1,6 +1,6 @@
 # Crumpler
 
-Crumpler is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
+Crumpler is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
 
 Crumpler is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Listiq, Sam Sharp and Yozza. Next up: Vittoria Wharf Studio, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Crumpler is a house and deep house artist based in United Kingdom, tracked on so
 
 Listiq, Sam Sharp, Yozza
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crumpler/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crumpler/)*

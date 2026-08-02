@@ -1,14 +1,13 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Sat, 1 Aug 2026; the next is "Ishmael Ensemble Residency #02 with Charlie Dark" on Sat, 1 Aug 2026.
+The Love Inn is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Moopie" on Fri, 7 Aug 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including Black Rave Culture, Charlie Dark, CHIDA and Moopie and 1 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including Black Rave Culture, CHIDA, Moopie and Paul Bozak Morrissey. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Ishmael Ensemble Residency #02 with Charlie Dark | Charlie Dark |
 | Fri, 7 Aug 2026 | Moopie | Moopie |
 | Sat, 8 Aug 2026 | Black Rave Culture [all night long] | Black Rave Culture |
 | Fri, 14 Aug 2026 | CHIDA | CHIDA |
@@ -18,4 +17,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 5 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

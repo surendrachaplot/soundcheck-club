@@ -1,6 +1,6 @@
 # Fergus Clark
 
-Fergus Clark is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Ikii, Berlin on Thu, 6 Aug 2026.
+Fergus Clark is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ikii, Berlin on Thu, 6 Aug 2026.
 
 Fergus Clark is a house and dub artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, Copenhagen, Glasgow and London and 6 more. Often billed alongside David Barbarossa, DJ Sundae and MR TC. Next up: Ikii, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Fergus Clark is a house and dub artist based in United Kingdom, tracked on sound
 
 David Barbarossa, DJ Sundae, MR TC
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusclark/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusclark/)*

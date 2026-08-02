@@ -1,6 +1,6 @@
 # Frølår
 
-Frølår is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Hangaren, Copenhagen on Sun, 9 Aug 2026.
+Frølår is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hangaren, Copenhagen on Sun, 9 Aug 2026.
 
 Frølår is a trance and psytrance artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside FILTH.y, DJ Sea View and Filen. Next up: Hangaren, Copenhagen on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Frølår is a trance and psytrance artist based in Denmark, tracked on soundchec
 
 FILTH.y, DJ Sea View, Filen
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frolar/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frolar/)*

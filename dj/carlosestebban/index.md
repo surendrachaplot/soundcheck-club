@@ -1,6 +1,6 @@
 # Carlos Estebban
 
-Carlos Estebban is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 1 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 2 Aug 2026.
+Carlos Estebban is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 2 Aug 2026.
 
 Carlos Estebban is a house and deep house artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Nicholas Nothing, Underwaterhasa and Eddie Logix. Next up: Paradise Grapevine Winery, Toronto on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Carlos Estebban is a house and deep house artist based in Canada, tracked on sou
 
 Nicholas Nothing, Underwaterhasa, Eddie Logix
 
-*Updated Sat, 1 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosestebban/)*
+*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosestebban/)*
