@@ -3791,7 +3791,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785708793029">
+<meta name="sc-build" content="1785709289940">
 </head>
 <body>
   <main class="wrap">
@@ -4562,9 +4562,14 @@
               // which point an unbounded skip is an infinite loop that hammers
               // the dead-report endpoint. One pass through the queue, then stop
               // and say so. scQErr resets the moment anything actually plays.
-              scQErr++;
-              if(scQ && scQ.length>1 && scQErr < scQ.length){ showToast('Skipping an unplayable set\u2026'); playScQ(scQi+1); }
-              else { scQErr=0; showToast(scQ&&scQ.length>1?'No playable sets in this queue yet.':'That set is no longer playable on YouTube.'); }
+              // Same artist, another platform, before writing them off.
+              var cur=(scQ&&scQ[scQi])||null;
+              playFallback(cur).then(function(ok){
+                if(ok){ showToast('Playing from '+(cur&&cur.name?cur.name:'another source')+' instead\u2026'); return; }
+                scQErr++;
+                if(scQ && scQ.length>1 && scQErr < scQ.length){ showToast('Skipping an unplayable set\u2026'); playScQ(scQi+1); }
+                else { scQErr=0; showToast(scQ&&scQ.length>1?'No playable sets in this queue yet.':'That set is no longer playable.'); }
+              });
             }
           }
         });
@@ -4626,6 +4631,38 @@
     // single unplayable act ended the whole thing with a toast. Now that searches
     // never happen on a page view, most acts are unresolvable until the nightly
     // pass reaches them, so "the play button doesn't work" was the normal case.
+    // Play any SoundCloud-hosted url in the dock. NTS episodes are SoundCloud
+    // audio too, so one helper covers both and the Sets tab uses it as well.
+    function playScUrl(url, title, art, source){
+      if(!url) return false;
+      var el=document.createElement('button'); el.className='play sc';
+      el.dataset.sc=url; el.dataset.name=title||'Set';
+      el.dataset.poster=art||''; el.dataset.venue=source||'SoundCloud';
+      playSc(el); return true;
+    }
+    // WHEN YOUTUBE FAILS AN ARTIST, PLAY THEM ANYWAY.
+    //
+    // A listener tapped an artist, not a platform. Stopping because one video is
+    // dead — when the same artist has a SoundCloud mix or an NTS show sitting in
+    // the list right below — is the app giving up on its own behalf. Both fall
+    // back to the SC widget, so there is nothing new to play them with.
+    //
+    // Tried in order of how likely they are to BE that artist: SoundCloud is
+    // their own account, NTS is a show they appeared on.
+    async function playFallback(entry){
+      if(!entry || !entry.slug) return false;
+      try{
+        var r=await fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(entry.slug));
+        var sc=((await r.json())||{}).sets||[];
+        if(sc.length && sc[0].url) return playScUrl(sc[0].url, sc[0].title, sc[0].artwork, 'SoundCloud');
+      }catch(_){}
+      try{
+        var r2=await fetch(API_BASE+'/api/nts/sets?slug='+encodeURIComponent(entry.slug)+'&name='+encodeURIComponent(entry.name||entry.slug));
+        var nt=((await r2.json())||{}).sets||[];
+        if(nt.length && nt[0].audio) return playScUrl(nt[0].audio, nt[0].title, nt[0].image, 'NTS Radio');
+      }catch(_){}
+      return false;
+    }
     var scQErr=0;   // consecutive playback failures in the current queue
     async function playYtList(list, startIdx){
       list=(list||[]).filter(function(a){ return a && a.slug; });
@@ -4639,7 +4676,15 @@
                    .map(function(a){ if(!a.videoId) a.videoId=m[a.slug]; return a; });
         }catch(_){ /* offline → fall through and let the queue try as before */ }
       }
-      if(!list.length){ showToast('No sets ready for this line-up yet.'); return; }
+      if(!list.length){
+        // Nothing on YouTube is not the same as nothing to play. With searches off
+        // the request path most artists are unresolved on YouTube until the
+        // nightly pass reaches them, while their SoundCloud or NTS sets are
+        // already sitting in the database.
+        var first=(arguments[0]||[])[startIdx||0] || (arguments[0]||[])[0];
+        if(await playFallback(first)) return;
+        showToast('No sets ready for this line-up yet.'); return;
+      }
       scQErr=0; scQ=list; playScQ(startIdx||0);
     }
     // Play an artist's sets as a dock queue — the ▶/next button walks to another
@@ -8301,10 +8346,7 @@
               if(it.kind==='yt'){ playYtList(ytQ, ytQ.findIndex(function(x){ return x.videoId===it.videoId; })); return; }
               // SoundCloud and NTS both play through the SC widget — an NTS
               // episode's audio_source IS a soundcloud url.
-              var el=document.createElement('button'); el.className='play sc';
-              el.dataset.sc=it.url||it.audio; el.dataset.name=it.title;
-              el.dataset.poster=it.thumb||''; el.dataset.venue=it.badge==='NTS'?'NTS Radio':'SoundCloud';
-              playSc(el);
+              playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':'SoundCloud');
             }); });
 
             // Shelves are keyed by videoId, so they stay on the YouTube rows.
