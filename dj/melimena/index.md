@@ -1,14 +1,15 @@
 # Meli Mena
 
-Meli Mena is a Italo Disco and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Place Noord, Brussels on Fri, 14 Aug 2026.
+Meli Mena is a Italo Disco and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Place Noord, Brussels on Fri, 14 Aug 2026.
 
-Meli Mena is an italo disco and breakbeat artist based in France, tracked on soundcheck, with 21 sets logged across Brussels and Paris. Often billed alongside ergen101, Anisetta Brothers and Fatale Furylax. Next up: Place Noord, Brussels on Fri 14 Aug.
+Meli Mena is an italo disco and breakbeat artist based in France, tracked on soundcheck, with 22 sets logged across Brussels and Paris. Often billed alongside Fatale Furylax, ergen101 and Anisetta Brothers. Next up: Place Noord, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Place Noord | Brussels |
+| Fri, 4 Sept 2026 | Bal Chavaux | Paris |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Meli Mena is an italo disco and breakbeat artist based in France, tracked on sou
 
 ## Shares bills with
 
-ergen101, Anisetta Brothers, Fatale Furylax
+Fatale Furylax, ergen101, Anisetta Brothers
 
 *Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melimena/)*

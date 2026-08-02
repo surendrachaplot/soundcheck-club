@@ -9,7 +9,7 @@ Wanderlust is a music venue in Paris listed on soundcheck. 3 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Jeudi OK: Studio 2054 + Transgenik | 1NSONGE, XTRATAKI, stargurl |
-| Thu, 13 Aug 2026 | Jeudi OK: Dreamachine + Mental Queer | A-440, HIBI, Ixpé, Khanh (2), Mely |
+| Thu, 13 Aug 2026 | Jeudi OK: Discoquette + Mental Queer | A-440, HIBI, Ixpé, Khanh (2), Mely |
 | Thu, 3 Sept 2026 | Jeudi OK: SERVlNG + BØX | STAANA |
 
 ## Address

@@ -1,8 +1,8 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
+Harry McCanna is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Distrikt, Leeds on Fri 14 Aug.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Distrikt, Leeds on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 132 s
 | Fri, 11 Sept 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
+| Sat, 26 Sept 2026 | Arc Space | Nottingham |
 | Sat, 17 Oct 2026 | fabric | London |
 
 ## Recently played

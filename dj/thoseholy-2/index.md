@@ -2,7 +2,7 @@
 
 Those Holy (2) is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Quarry, Liverpool on Thu, 27 Aug 2026.
 
-Those Holy (2) is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Crimewave and Karman. Next up: Quarry, Liverpool on Thu 27 Aug.
+Those Holy (2) is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Karman and Crimewave. Next up: Quarry, Liverpool on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Those Holy (2) is an electronica and experimental artist based in United Kingdom
 
 ## Shares bills with
 
-Crimewave, Karman
+Karman, Crimewave
 
 *Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoseholy-2/)*

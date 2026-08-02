@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "NOX CULTURA EVENTS" on Thu, 6 Aug 2026.
+ÆDEN is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "NOX CULTURA EVENTS" on Thu, 6 Aug 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 

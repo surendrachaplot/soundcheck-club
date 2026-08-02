@@ -2,7 +2,7 @@
 
 Whyman is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at [UNVRS], Ibiza on Tue, 11 Aug 2026.
 
-Whyman is a progressive house artist based in Cyprus, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Anyma, Kevin de Vries and Woo York. Next up: [UNVRS], Ibiza on Tue 11 Aug.
+Whyman is a progressive house artist based in Cyprus, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Woo York, Kevin de Vries and Anyma. Next up: [UNVRS], Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Whyman is a progressive house artist based in Cyprus, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Anyma, Kevin de Vries, Woo York
+Woo York, Kevin de Vries, Anyma
 
 *Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whyman/)*

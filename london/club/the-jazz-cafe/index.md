@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 44 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Richie Spice (Matinee Show)" on Sun, 2 Aug 2026.
+The Jazz Cafe is a music venue in London with 47 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Richie Spice (Matinee Show)" on Sun, 2 Aug 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 44 upcoming nights, with line-ups including AMANDA SZE, AMARI, ASIAN BRAT and Ata Kak and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 47 upcoming nights, with line-ups including AMANDA SZE, AMARI, ASIAN BRAT and Ata Kak and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 

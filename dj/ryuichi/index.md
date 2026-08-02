@@ -1,14 +1,15 @@
 # Ryuichi
 
-Ryuichi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 3 Aug 2026.
+Ryuichi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 3 Aug 2026.
 
-Ryuichi is a house and disco artist based in Japan, tracked on soundcheck, with 29 sets logged across Losangeles and Tokyo. Often billed alongside KDT, TOYO and sui_rex. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 3 Aug.
+Ryuichi is a house and disco artist based in Japan, tracked on soundcheck, with 30 sets logged across Losangeles and Tokyo. Often billed alongside KDT, TOYO and sui_rex. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Thu, 13 Aug 2026 | Numm | Tokyo |
 
 ## Recently played
 

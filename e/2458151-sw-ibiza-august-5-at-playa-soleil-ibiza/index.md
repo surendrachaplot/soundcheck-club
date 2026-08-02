@@ -1,6 +1,6 @@
 # SW ♡ IBIZA AUGUST 5 at Playa Soleil Ibiza
 
-SW ♡ IBIZA AUGUST 5 at Playa Soleil Ibiza on Wed 5 Aug, Ibiza. 5 acts on the bill: BILA, Cristina Lazic, Leon and Priku and 1 more. Preview the line-up and save it on soundcheck.
+SW ♡ IBIZA AUGUST 5 at Playa Soleil Ibiza on Wed 5 Aug, Ibiza. 6 acts on the bill: BILA, Cristina Lazic, Leon and Marco Faraone and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ SW ♡ IBIZA AUGUST 5 at Playa Soleil Ibiza on Wed 5 Aug, Ibiza. 5 acts on the b
 - BILA
 - Cristina Lazic
 - Leon
+- Marco Faraone
 - Priku
 - Shonky
 

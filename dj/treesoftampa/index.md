@@ -2,7 +2,7 @@
 
 Trees Of Tampa is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-Trees Of Tampa is an electronic artist based in Switzerland, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside BRAINDAAMAGE, Bondi (DE) and CLTX. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
+Trees Of Tampa is an electronic artist based in Switzerland, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside fraumuhlin, Pascal Brugger and Juli Lee. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Trees Of Tampa is an electronic artist based in Switzerland, tracked on soundche
 
 ## Shares bills with
 
-BRAINDAAMAGE, Bondi (DE), CLTX
+fraumuhlin, Pascal Brugger, Juli Lee
 
 *Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treesoftampa/)*

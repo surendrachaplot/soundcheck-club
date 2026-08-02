@@ -1,8 +1,8 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Elata Collective 013: 26hours Summer Edition [AFTERHOURS]" on Sun, 9 Aug 2026.
+NUMBER 90 LONDON is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Elata Collective 013: 26hours Summer Edition [AFTERHOURS]" on Sun, 9 Aug 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mariiin and Ruby SD and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Crack Bellmer, Berlin on Sun, 2 Aug 2026.
+ilbroccolovolante is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Crack Bellmer, Berlin on Sun, 2 Aug 2026.
 
-ilbroccolovolante is a progressive house and techno artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Crack Bellmer, Berlin on Sun 2 Aug.
+ilbroccolovolante is a techno and progressive house artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Crack Bellmer, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 

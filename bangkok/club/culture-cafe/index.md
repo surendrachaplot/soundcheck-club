@@ -1,8 +1,8 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 31 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 2 Aug 2026.
+Culture Cafe is a music venue in Bangkok with 43 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 2 Aug 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 31 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 43 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 

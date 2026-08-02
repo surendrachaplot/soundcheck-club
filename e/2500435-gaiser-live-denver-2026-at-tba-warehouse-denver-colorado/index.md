@@ -1,6 +1,6 @@
 # Gaiser live Denver 2026 at TBA - warehouse Denver Colorado 
 
-Gaiser live Denver 2026 at TBA - warehouse Denver Colorado  on Sat 22 Aug, Denver. 2 acts on the bill: Brunson and Gaiser. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Gaiser live Denver 2026 at TBA - warehouse Denver Colorado  on Sat 22 Aug, Denver. 3 acts on the bill: Brunson, Gaiser and Nico Tobón. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Gaiser live Denver 2026 at TBA - warehouse Denver Colorado  on Sat 22 Aug, Denve
 
 - Brunson
 - Gaiser
+- Nico Tobón
 
 *Source: [soundcheck](https://soundcheck.club/e/2500435-gaiser-live-denver-2026-at-tba-warehouse-denver-colorado/)*

@@ -1,14 +1,15 @@
 # Light Asylum
 
-Light Asylum is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Thu, 20 Aug 2026.
+Light Asylum is a EBM and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Thu, 20 Aug 2026.
 
-Light Asylum is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside EchoDroides, Heavy Halo and Vyper. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Thu 20 Aug.
+Light Asylum is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside EchoDroides, Heavy Halo and Vyper. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Fri, 11 Sept 2026 | ÆDEN | Berlin |
 | Wed, 23 Sept 2026 | Botanique | Brussels |
 
 ## Recently played

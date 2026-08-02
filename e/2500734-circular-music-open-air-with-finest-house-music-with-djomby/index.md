@@ -1,6 +1,6 @@
-# Circular Music 'Open Air' with finest House Music with Djomby at Gestrandet An Der Jannowitzbrücke
+# Circular Music 'Open Air' with finest House Music with Djomby (ESP) at Gestrandet An Der Jannowitzbrücke
 
-Circular Music 'Open Air' with finest House Music with Djomby at Gestrandet An Der Jannowitzbrücke on Fri 14 Aug, Berlin. 4 acts on the bill: Djomby, Karsten Schmidt, Oliver Raumklang and Rafael. House and Disco. Preview the line-up and save it on soundcheck.
+Circular Music 'Open Air' with finest House Music with Djomby (ESP) at Gestrandet An Der Jannowitzbrücke on Fri 14 Aug, Berlin. 4 acts on the bill: Djomby, Karsten Schmidt, Oliver Raumklang and Rafael. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

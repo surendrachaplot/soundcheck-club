@@ -8,7 +8,7 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | SW ♡ IBIZA AUGUST 5 | BILA, Cristina Lazic, Leon, Priku, Shonky |
+| Wed, 5 Aug 2026 | SW ♡ IBIZA AUGUST 5 | BILA, Cristina Lazic, Leon, Marco Faraone, Priku, Shonky |
 | Sat, 8 Aug 2026 | Crême de Crême |  |
 | Tue, 11 Aug 2026 | UTOPIA — BIRTHDAY & ANNIVERSARY SPECIAL | Antares (UK), Oliver Marshak, The Organism |
 | Wed, 12 Aug 2026 | SW ♡ IBIZA AUGUST 12 |  |

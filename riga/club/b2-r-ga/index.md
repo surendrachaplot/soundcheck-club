@@ -9,7 +9,7 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 2 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | PIXEL | Jaroška, PUPA |
-| Sat, 8 Aug 2026 | KEEPEESCH 008 - PRE-REGISTER FOR FREE TICKETS | D I N, Kapusta, Nicolas Barnes, Rexton, Riposte, Tony (LV) |
+| Sat, 8 Aug 2026 | KEEPEESCH 008: B2 TAKEOVER | D I N, Kapusta, Nicolas Barnes, Rexton, Riposte, Tony (LV) |
 
 ## Address
 

@@ -13,7 +13,7 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, w
 | Fri, 14 Aug 2026 | Invisible City presents: CUERPOS (Live) | CUERPOS, Ficilio, Marnigurl, Milch (1) |
 | Fri, 21 Aug 2026 | unimmune: 10cust | 10cust, sopretty |
 | Thu, 24 Sept 2026 | Kontravoid with Buzz Kull |  |
-| Fri, 16 Oct 2026 | Bass Station X Soul in Motion LDN  |  |
+| Fri, 16 Oct 2026 | Bass Station X Soul in Motion LDN  | Gremlinz, Need For Mirrors, Rhythmo |
 
 ## Address
 

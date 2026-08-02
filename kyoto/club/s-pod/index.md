@@ -12,7 +12,7 @@ S-Pod is a music venue in Kyoto listed on soundcheck. 5 upcoming nights, with li
 | Fri, 7 Aug 2026 | BARDA Japan tour in Kyoto | Aiconga |
 | Sat, 22 Aug 2026 | audioscape | NHK yx koyxen, Paul Leonard, Riki Leonard |
 | Mon, 24 Aug 2026 | SLOW DANCE ver.4 |  |
-| Sat, 29 Aug 2026 | Weekend Traveler Kyoto | DJ GEKI, LEiCA |
+| Sat, 29 Aug 2026 | Weekend Traveler | DJ GEKI, LEiCA |
 
 ## Address
 

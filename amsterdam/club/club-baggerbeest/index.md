@@ -8,7 +8,7 @@ Club Baggerbeest is a music venue in Amsterdam listed on soundcheck. 3 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Big Bells x Audiosolo ADE 2026 | Adnan Jakubovic, Arrakis (GER), DJ Ruby, Mir Omar |
+| Wed, 21 Oct 2026 | Big Bells x Audiosolo ADE 2026 | Adnan Jakubovic, Arrakis (GER), DJ Ruby, Jerpa, Mir Omar |
 | Fri, 23 Oct 2026 | Soundvision presents... Loko Meets Gaia Mama ADE 2026 | Bubba Brothers, ChillOhm, Eddy Romero |
 | Sun, 25 Oct 2026 | Daydreaming & EQUINOX PRESENT CONNEXION | FREEGO, Hector Moreno, Ornery |
 

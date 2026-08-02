@@ -1,8 +1,8 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Electric Garden, Dublin on Sun, 2 Aug 2026.
+Joris Turenhout is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Electric Garden, Dublin on Sun, 2 Aug 2026.
 
-Joris Turenhout is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: Electric Garden, Dublin on Sun 2 Aug.
+Joris Turenhout is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: Electric Garden, Dublin on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Joris Turenhout is a techno and tech house artist based in Netherlands, tracked 
 | Sun, 2 Aug 2026 | Electric Garden | Dublin |
 | Wed, 26 Aug 2026 | KitKatClub | Berlin |
 | Fri, 2 Oct 2026 | O der Klub | Vienna |
+| Sun, 25 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 

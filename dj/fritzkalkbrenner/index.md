@@ -1,8 +1,8 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Eden, Ibiza on Mon, 3 Aug 2026.
+Fritz Kalkbrenner is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Eden, Ibiza on Mon, 3 Aug 2026.
 
-Fritz Kalkbrenner is a house and deep house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Eden, Ibiza on Mon 3 Aug.
+Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Eden, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 

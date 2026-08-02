@@ -1,6 +1,6 @@
 # Om [ॐ] ep.1: 첫 울림 / Gong Live Performance by EOA at Nué Seoul
 
-Om [ॐ] ep.1: 첫 울림 / Gong Live Performance by EOA at Nué Seoul on Sat 8 Aug, Seoul. 4 acts on the bill: Gong, Minuc, Seongsoo and Youngisland. Preview the line-up and save it on soundcheck.
+Om [ॐ] ep.1: 첫 울림 / Gong Live Performance by EOA at Nué Seoul on Sat 8 Aug, Seoul. 5 acts on the bill: Gio (KR), Gong, Minuc and Seongsoo and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Om [ॐ] ep.1: 첫 울림 / Gong Live Performance by EOA at Nué Seoul on Sat 8 
 
 ## Line-up
 
+- Gio (KR)
 - Gong
 - Minuc
 - Seongsoo

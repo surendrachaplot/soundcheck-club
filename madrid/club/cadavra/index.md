@@ -17,7 +17,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, wit
 | Fri, 28 Aug 2026 | CDVR invites Sigh.Club | Avo (ES), Cesc (ES), DANIL0 |
 | Sat, 29 Aug 2026 | CDVR invites Blotter Hall | Alvaro Cabana, Javi Redondo |
 | Fri, 4 Sept 2026 | La Movida Radioactiva with Franzizca | EMIR-B, Franzizca. |
-| Sat, 5 Sept 2026 | SUBWAX x CDVR with Ethel & Baldo | Baldo, Ethel, Margott |
+| Sat, 5 Sept 2026 | SUBWAX with Baldo & Ethel | Baldo, Ethel, Margott |
 
 ## Address
 

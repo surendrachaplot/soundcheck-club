@@ -9,7 +9,7 @@ Hall is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Dark Side of the Moon 2026 | Arto, Artur Lääts, Blasha & Allatt, Brett Rästas, Charch, FAKIGN, Hicham (FR), Jeku, Katja Adrikova, Laurine, Micaela Saraceno, Nikolajev, Ojelma, Pavliuk, Steffi, Unai Trotti |
-| Fri, 4 Sept 2026 | New date! - KONTRAST with Mija - Hall x SVE x culture unseen | Mija, QSLAP, Unknown Horizon |
+| Fri, 4 Sept 2026 | KONTRAST with Mija - Hall x SVE x culture unseen | Mija, QSLAP, Unknown Horizon |
 | Sat, 5 Sept 2026 | Scorched Earth: Skee Mask | Skee Mask, Tanel Mütt, animaTek (2), no-a |
 | Fri, 11 Sept 2026 | HELLINN - CROSS BORDER EDITION | In Furcht, MEDINA, QSLAP |
 

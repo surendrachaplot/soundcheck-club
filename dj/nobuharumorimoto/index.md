@@ -1,8 +1,8 @@
 # Nobuharu Morimoto
 
-Nobuharu Morimoto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 8 Aug 2026.
+Nobuharu Morimoto is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 8 Aug 2026.
 
-Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundcheck, with 58 sets logged across Tokyo. Often billed alongside Negami, nylon and COSMOGANG. Next up: Aoyama Hachi, Tokyo on Sat 8 Aug.
+Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Negami, COSMOGANG and nylon. Next up: Aoyama Hachi, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundc
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Aoyama Hachi | Tokyo |
 | Thu, 20 Aug 2026 | Solfa | Tokyo |
+| Sun, 13 Sept 2026 | Shibuya OTO | Tokyo |
 | Fri, 18 Sept 2026 | R Lounge | Tokyo |
 
 ## Recently played
@@ -25,6 +26,6 @@ Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundc
 
 ## Shares bills with
 
-Negami, nylon, COSMOGANG
+Negami, COSMOGANG, nylon
 
 *Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuharumorimoto/)*

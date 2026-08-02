@@ -9,7 +9,7 @@ The Liquid Room Warehouse is a music venue in Edinburgh listed on soundcheck. 2 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Fringe Opening Party - Sara Delirio (EPiKA 5th Birthday) | Iona.Violet, Sara Delirio, ona:v |
-| Thu, 8 Oct 2026 | REDEMPTION presents HEADLINE SECRET SET |  |
+| Thu, 8 Oct 2026 | REDEMPTION presents HEADLINER SECRET SET |  |
 
 ## Address
 

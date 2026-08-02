@@ -1,14 +1,15 @@
 # encore une autre
 
-encore une autre is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Fri, 7 Aug 2026.
+encore une autre is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Fri, 7 Aug 2026.
 
-encore une autre is a hip-hop and techno artist tracked on soundcheck, with 29 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside MARIAD, Le Kaiju and Rebequita. Next up: Le Sucre, Lyon on Fri 7 Aug.
+encore une autre is a hip-hop and techno artist tracked on soundcheck, with 30 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside MARIAD, Le Kaiju and Rebequita. Next up: Le Sucre, Lyon on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Le Sucre | Lyon |
+| Fri, 4 Sept 2026 | Bal Chavaux | Paris |
 
 ## Recently played
 

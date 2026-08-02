@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 252 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "MRZ DJ SET: BREAK SILENCE SEOUL" on Sun, 2 Aug 2026.
+TBA is a music venue in London with 250 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "MRZ DJ SET: BREAK SILENCE SEOUL" on Sun, 2 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 252 upcoming nights, with line-ups including 2M (CH), 619!, 666.pastel and 999999999 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 250 upcoming nights, with line-ups including 2M (CH), 619!, 666.pastel and 999999999 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

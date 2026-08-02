@@ -1,8 +1,8 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BIMÄN // Nettta // TECHNIKER ALLSTARS" on Fri, 7 Aug 2026.
+Fundbureau is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BIMÄN // Nettta // TECHNIKER ALLSTARS" on Fri, 7 Aug 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 12 upcoming nights,
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | BIMÄN // Nettta // TECHNIKER ALLSTARS | Bi Män, Nettta |
 | Sat, 8 Aug 2026 | Oldies & Trash Night Trance Classics 2000 |  |
-| Fri, 14 Aug 2026 | Andreas Henneberg // Fercho salazar // SVE ANL | Andreas Henneberg, Fercho salazar, SVE |
+| Fri, 14 Aug 2026 | Andreas Henneberg // Fercho salazar // SVE // Majandra | Andreas Henneberg, Fercho salazar, Majandra, SVE |
 | Sat, 15 Aug 2026 | CRITICAL ERROR 404 // Softdrive // DJ Handtuch // CHAEF | CRITICAL ERROR 404, DJ Handtuch, Softdrive |
 | Sat, 15 Aug 2026 | FLINTA* Open Decks |  |
 | Fri, 21 Aug 2026 | Jessie Dols // DJ Discostoff // SIMAY GONULTAS // Timeless Moments | DJ Discostoff, Jessie Dols, Timeless Moments |

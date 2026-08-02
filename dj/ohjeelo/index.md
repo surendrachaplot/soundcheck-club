@@ -1,14 +1,15 @@
 # ohjeelo
 
-ohjeelo is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
+ohjeelo is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
 
-ohjeelo is a bass and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Ormside Projects, London on Fri 28 Aug.
+ohjeelo is a bass and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Ormside Projects, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Ormside Projects | London |
+| Fri, 4 Sept 2026 | Bal Chavaux | Paris |
 | Thu, 22 Oct 2026 | Communale Saint-Ouen | Paris |
 
 ## Recently played

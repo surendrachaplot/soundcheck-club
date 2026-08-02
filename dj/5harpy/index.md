@@ -1,13 +1,14 @@
 # 5harpy
 
-5harpy is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bonobo, Tokyo on Fri, 14 Aug 2026.
+5harpy is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
 
-5harpy is a house and dub artist based in Japan, tracked on soundcheck, with 43 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside bungo, jima and OG Militant B. Next up: Bonobo, Tokyo on Fri 14 Aug.
+5harpy is a house and dub artist based in Japan, tracked on soundcheck, with 44 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside bungo, jima and OG Militant B. Next up: clubasia, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | clubasia | Tokyo |
 | Fri, 14 Aug 2026 | Bonobo | Tokyo |
 
 ## Recently played

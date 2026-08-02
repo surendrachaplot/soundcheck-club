@@ -1,14 +1,15 @@
 # RADYK
 
-RADYK is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+RADYK is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
-RADYK is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Berlin and Prague. Often billed alongside zazitech, DDK (1) and jardabpm. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
+RADYK is a techno and tech house artist tracked on soundcheck, with 28 sets logged across Berlin and Prague. Often billed alongside zazitech, DDK (1) and jardabpm. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
+| Thu, 20 Aug 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 

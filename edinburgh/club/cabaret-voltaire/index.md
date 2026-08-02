@@ -1,8 +1,8 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "FLY Fringe - Us Two [no art] - 5am Licence" on Fri, 7 Aug 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "FLY Fringe - Us Two [no art] - 5am Licence" on Fri, 7 Aug 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming nights, with line-ups including Ben Kok (2), Benwal, Crazy P and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming nights, with line-ups including YVI, Ben Kok (2), Benwal and Crazy P and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming
 | Sat, 12 Sept 2026 | FLY Festival Edinbugh - Sat Afterhours - Cab Vol |  |
 | Sun, 13 Sept 2026 | FLY Festival Edinbugh - Sun Afterhours - Cab Vol |  |
 | Sun, 13 Sept 2026 | FLY Festival Edinbugh - Sun Afterhours - La Belle Angèle |  |
-| Wed, 16 Sept 2026 | Night Tube Returns // Crazy P (DJ Set) | Ben Kok (2), Crazy P, Pheebs |
+| Mon, 14 Sept 2026 | Temperate Sounds presents: Fresher's Week Special | Mixfits (2), Selecta Slippa, YVI |
 
 ## Address
 

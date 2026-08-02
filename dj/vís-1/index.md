@@ -1,14 +1,15 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club Metro, Kyoto on Tue, 11 Aug 2026.
+Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Club Metro, Kyoto on Tue, 11 Aug 2026.
 
-Vís (1) is a techno and dub artist tracked on soundcheck, with 123 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Club Metro, Kyoto on Tue 11 Aug.
+Vís (1) is a techno and dub artist tracked on soundcheck, with 124 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Club Metro, Kyoto on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | Club Metro | Kyoto |
+| Fri, 14 Aug 2026 | Spread | Tokyo |
 
 ## Recently played
 

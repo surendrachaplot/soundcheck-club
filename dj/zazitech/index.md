@@ -1,8 +1,8 @@
 # zazitech
 
-zazitech is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+zazitech is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
-zazitech is a techno and tech house artist tracked on soundcheck, with 85 sets logged across Berlin, Krakow, Madrid and Prague and 1 more. Often billed alongside DDK (1), jardabpm and RADYK. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
+zazitech is a techno and tech house artist tracked on soundcheck, with 86 sets logged across Berlin, Krakow, Madrid and Prague and 1 more. Often billed alongside DDK (1), jardabpm and RADYK. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ zazitech is a techno and tech house artist tracked on soundcheck, with 85 sets l
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
 | Sat, 15 Aug 2026 | Fuchs2 | Prague |
+| Thu, 20 Aug 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 

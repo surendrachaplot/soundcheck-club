@@ -3785,7 +3785,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785679909660">
+<meta name="sc-build" content="1785704549286">
 </head>
 <body>
   <main class="wrap">
@@ -3834,7 +3834,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">29 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">70 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">102 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">29 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">70 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">102 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4583,9 +4583,27 @@
       if(item.artist) b.dataset.artist=item.artist;        // track queue: the DJ, shown + linked in the sub-line
       return b; // detached on purpose — handleYtClick keeps the queue for off-DOM buttons
     }
-    function playYtList(list, startIdx){
+    // Play a line-up. Entries WITHOUT a pre-resolved videoId get looked up in one
+    // batch against the database — no YouTube call — and anything we cannot play
+    // is dropped before the queue starts.
+    //
+    // It used to resolve artists one at a time as the queue reached them, and a
+    // single unplayable act ended the whole thing with a toast. Now that searches
+    // never happen on a page view, most acts are unresolvable until the nightly
+    // pass reaches them, so "the play button doesn't work" was the normal case.
+    async function playYtList(list, startIdx){
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('Nothing to play yet.'); return; }
+      var need=list.filter(function(a){ return !a.videoId; }).map(function(a){ return a.slug; });
+      if(need.length){
+        try{
+          var r=await fetch(API_BASE+'/api/youtube/cached?slugs='+encodeURIComponent(need.slice(0,60).join(',')));
+          var m=(await r.json()).map||{};
+          list=list.filter(function(a){ return a.videoId || m[a.slug]; })
+                   .map(function(a){ if(!a.videoId) a.videoId=m[a.slug]; return a; });
+        }catch(_){ /* offline → fall through and let the queue try as before */ }
+      }
+      if(!list.length){ showToast('No sets ready for this line-up yet.'); return; }
       scQ=list; playScQ(startIdx||0);
     }
     // Play an artist's sets as a dock queue — the ▶/next button walks to another
@@ -8182,58 +8200,86 @@
         function loadSetsTab(){
           if(_setsLoaded) return; _setsLoaded=true;
           var box=document.getElementById('fp-sets'); if(!box) return;
-          box.innerHTML='<div id="fp-sets-yt"><div class="fp-sets-load">Loading sets…</div></div><div id="fp-sets-sc"></div>';
-          var ytBox=box.querySelector('#fp-sets-yt'), scBox=box.querySelector('#fp-sets-sc');
+          box.innerHTML='<div class="fp-sets-load">Loading sets\u2026</div>';
           function fmtDur(s){ s=Math.round(s||0); var h=Math.floor(s/3600), m=Math.floor((s%3600)/60), ss=s%60, p=function(n){ return String(n).padStart(2,'0'); }; return h? h+':'+p(m)+':'+p(ss) : m+':'+p(ss); }
-          var _ytDone=false,_scDone=false,_ytHas=false,_scHas=false;
-          var _ytDegraded=false;
-          // "No sets" and "we couldn't ask YouTube" are different facts. The daily
-          // search quota is small enough that it does run out, and telling someone
-          // an artist has no sets when we simply never looked is a lie the page
-          // repeats every time they visit.
-          function settleEmpty(){ if(_ytDone&&_scDone&&!_ytHas&&!_scHas){ box.innerHTML='<div class="fp-sets-empty">'+(_ytDegraded?'Sets are temporarily unavailable &mdash; try again later.':'No full sets found for '+esc(a.name||slug)+' yet.')+'</div>'; } }
-          // ── YouTube sets ──
-          fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
-            var sets=(j&&j.sets)||[]; _ytDone=true; _ytDegraded=!!(j&&j.degraded);
-            if(!sets.length){ ytBox.innerHTML=''; settleEmpty(); return; }
-            _ytHas=true;
-            var items=sets.map(function(s){ return { slug:slug, name:a.name||slug, title:s.title||'', videoId:s.videoId, poster:(a.image||'') }; });
-            ytBox.innerHTML='<div class="fp-sets-grid">'+sets.map(function(s,i){ var th='https://i.ytimg.com/vi/'+encodeURIComponent(s.videoId)+'/mqdefault.jpg'; var d=s.duration?fmtDur(s.duration):'';
-                return '<div class="fp-skw"><button class="fp-sk" type="button" data-i="'+i+'"><span class="fp-sk-th" style="background-image:url(\''+th+'\')">'+(d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span><span class="fp-sk-ti">'+esc(s.title||'Set')+'</span>'+(s.channel?'<span class="fp-sk-ch">'+esc(s.channel)+'</span>':'')+'</button>'+
-                  '<div class="fp-sk-acts"><button class="fp-sk-act" type="button" data-shq="'+i+'">+ Queue</button><button class="fp-sk-act" type="button" data-shl="'+i+'">Listened</button></div></div>';
-              }).join('')+'</div>';
-            ytBox.querySelectorAll('.fp-sk[data-i]').forEach(function(b){ b.addEventListener('click',function(){ playYtList(items, +b.dataset.i); }); });
-            // queue / listened shelf toggles — Goodreads for sets
+          var artist=a.name||slug;
+          function grab(u){ return fetch(API_BASE+u).then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; }); }
+          // ONE list, every source in it. Sets used to render as separate blocks
+          // per platform, which made an artist with two YouTube sets and one NTS
+          // show look like three half-empty sections. A set is a set; where it is
+          // hosted belongs on the row, not in the layout.
+          Promise.all([
+            grab('/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)),
+            grab('/api/soundcloud/sets?slug='+encodeURIComponent(slug)),
+            grab('/api/nts/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist))
+          ]).then(function(res){
+            var yj=res[0]||{}, sj=res[1]||{}, nj=res[2]||{};
+            var items=[];
+            // YouTube first — it is the primary source and usually the fullest.
+            ((yj.sets)||[]).forEach(function(s){ items.push({
+              kind:'yt', title:s.title||'Set', src:s.channel||'YouTube', badge:'YT',
+              thumb:'https://i.ytimg.com/vi/'+encodeURIComponent(s.videoId)+'/mqdefault.jpg',
+              dur:s.duration, videoId:s.videoId }); });
+            ((sj.sets)||[]).forEach(function(s){ items.push({
+              kind:'sc', title:s.title||'Set', src:'SoundCloud', badge:'SC',
+              thumb:s.artwork||'', dur:s.duration, url:s.url }); });
+            ((nj.sets)||[]).forEach(function(s){ items.push({
+              kind:'nts', title:s.title||'Set', src:'NTS'+(s.location?' \u00b7 '+s.location:''), badge:'NTS',
+              thumb:s.image||'', audio:s.audio, page:s.url }); });
+
+            if(!items.length){
+              box.innerHTML='<div class="fp-sets-empty">'+(yj.degraded?'Sets are temporarily unavailable \u2014 try again later.':(yj.pending?'Looking for sets by '+esc(artist)+' \u2014 check back shortly.':'No full sets found for '+esc(artist)+' yet.'))+'</div>';
+              return;
+            }
+            box.innerHTML='<div class="fp-sets-grid">'+items.map(function(it,i){
+              var d=it.dur?fmtDur(it.dur):'';
+              // "Mixmag \u00b7 YT" — the set's name, then where it came from.
+              var sub=esc(it.src)+' \u00b7 '+it.badge;
+              return '<div class="fp-skw"><button class="fp-sk" type="button" data-i="'+i+'">'+
+                '<span class="fp-sk-th"'+(it.thumb?' style="background-image:url(\''+esc(it.thumb)+'\')"':'')+'>'+
+                (d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span>'+
+                '<span class="fp-sk-ti">'+esc(it.title)+'</span><span class="fp-sk-ch">'+sub+'</span></button>'+
+                (it.kind==='yt'?'<div class="fp-sk-acts"><button class="fp-sk-act" type="button" data-shq="'+i+'">+ Queue</button><button class="fp-sk-act" type="button" data-shl="'+i+'">Listened</button></div>':'')+
+                '</div>';
+            }).join('')+'</div>';
+
+            // A YouTube row starts a queue of the YouTube rows, so next/prev walk
+            // sets rather than jumping between players mid-listen.
+            var ytQ=items.filter(function(x){ return x.kind==='yt'; })
+                         .map(function(x){ return { slug:slug, name:artist, title:x.title, videoId:x.videoId, poster:(a.image||'') }; });
+            box.querySelectorAll('.fp-sk[data-i]').forEach(function(b){ b.addEventListener('click',function(){
+              var it=items[+b.dataset.i]; if(!it) return;
+              if(it.kind==='yt'){ playYtList(ytQ, ytQ.findIndex(function(x){ return x.videoId===it.videoId; })); return; }
+              // SoundCloud and NTS both play through the SC widget — an NTS
+              // episode's audio_source IS a soundcloud url.
+              var el=document.createElement('button'); el.className='play sc';
+              el.dataset.sc=it.url||it.audio; el.dataset.name=it.title;
+              el.dataset.poster=it.thumb||''; el.dataset.venue=it.badge==='NTS'?'NTS Radio':'SoundCloud';
+              playSc(el);
+            }); });
+
+            // Shelves are keyed by videoId, so they stay on the YouTube rows.
             function paintShelf(){
               var m=_setShelf||{};
-              sets.forEach(function(s,i){
-                var st=(m[s.videoId]||{}).status;
-                var q=ytBox.querySelector('[data-shq="'+i+'"]'), l=ytBox.querySelector('[data-shl="'+i+'"]');
-                if(q){ q.classList.toggle('on', st==='queue'); q.textContent=st==='queue'?'Queued ✓':'+ Queue'; }
-                if(l){ l.classList.toggle('on', st==='listened'); l.textContent=st==='listened'?'Listened ✓':'Listened'; }
+              items.forEach(function(it,i){
+                if(it.kind!=='yt') return;
+                var st=(m[it.videoId]||{}).status;
+                var q=box.querySelector('[data-shq="'+i+'"]'), l=box.querySelector('[data-shl="'+i+'"]');
+                if(q){ q.classList.toggle('on', st==='queue'); q.textContent=st==='queue'?'Queued \u2713':'+ Queue'; }
+                if(l){ l.classList.toggle('on', st==='listened'); l.textContent=st==='listened'?'Listened \u2713':'Listened'; }
               });
             }
             ensureSetShelf().then(paintShelf);
             function shelfClick(i, want){
-              var s=sets[i]; if(!s) return;
+              var it=items[i]; if(!it||it.kind!=='yt') return;
               if(!currentUser){ openAuth(); return; }
-              var st=((_setShelf||{})[s.videoId]||{}).status;
-              setShelfSave(s.videoId, st===want?null:want, { artistSlug:slug, artistName:a.name||slug, title:s.title||'' });
+              var st=((_setShelf||{})[it.videoId]||{}).status;
+              setShelfSave(it.videoId, st===want?null:want, { artistSlug:slug, artistName:artist, title:it.title||'' });
               paintShelf();
             }
-            ytBox.querySelectorAll('[data-shq]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shq,'queue'); }); });
-            ytBox.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shl,'listened'); }); });
-          }).catch(function(){ _ytDone=true; ytBox.innerHTML=''; settleEmpty(); });
-          // ── SoundCloud sets (the artist's long-form mixes) — appended below, played via the SC widget ──
-          fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
-            var scs=(j&&j.sets)||[]; _scDone=true;
-            if(!scs.length){ settleEmpty(); return; }
-            _scHas=true;
-            scBox.innerHTML='<div class="fp-sets-sch">On SoundCloud</div><div class="fp-sets-grid">'+scs.map(function(s){ var art=s.artwork||''; var d=s.duration?fmtDur(s.duration):'';
-                return '<div class="fp-skw"><button class="fp-sk" type="button" data-scurl="'+esc(s.url)+'" data-title="'+esc(s.title||'Set')+'" data-art="'+esc(art)+'"><span class="fp-sk-th"'+(art?' style="background-image:url(\''+esc(art)+'\')"':'')+'>'+(d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span><span class="fp-sk-ti">'+esc(s.title||'Set')+'</span><span class="fp-sk-ch">SoundCloud</span></button></div>';
-              }).join('')+'</div>';
-            scBox.querySelectorAll('.fp-sk[data-scurl]').forEach(function(b){ b.addEventListener('click',function(){ var el=document.createElement('button'); el.className='play sc'; el.dataset.sc=b.dataset.scurl; el.dataset.name=b.dataset.title; el.dataset.poster=b.dataset.art; el.dataset.venue='SoundCloud'; playSc(el); }); });
-          }).catch(function(){ _scDone=true; settleEmpty(); });
+            box.querySelectorAll('[data-shq]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); shelfClick(+b.dataset.shq,'queue'); }); });
+            box.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); shelfClick(+b.dataset.shl,'listened'); }); });
+          });
         }
         // Tracks tab — most-played tracks aggregated from their sets' parsed tracklists.
         // Tap a row to jump to that drop in the set (timestamped), else YouTube-search it.

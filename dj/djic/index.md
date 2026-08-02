@@ -1,14 +1,15 @@
 # DJ IC
 
-DJ IC is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
+DJ IC is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
 
-DJ IC is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Birmingham and London. Often billed alongside Supa D, Tippa and LOKI (2). Next up: Paloma, London on Sat 22 Aug.
+DJ IC is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Birmingham and London. Often billed alongside Supa D, Tippa and LOKI (2). Next up: Paloma, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Paloma | London |
+| Sun, 13 Sept 2026 | Studio 338 | London |
 
 ## Recently played
 

@@ -8,11 +8,11 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 11 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Summer Sunday |  |
-| Thu, 6 Aug 2026 | Summer Thursday |  |
+| Sun, 2 Aug 2026 | Summer Sunday | Felipe Bravo |
+| Thu, 6 Aug 2026 | Summer Thursday  | Riviani |
 | Fri, 7 Aug 2026 | Studio Club Invites: Mika Heggemann | Mika Heggemann |
 | Sat, 8 Aug 2026 | Studio Club Invites: Skream | Felipe Bravo, SDK (IT), Skream |
-| Sun, 9 Aug 2026 | Summer Sunday |  |
+| Sun, 9 Aug 2026 | Studio x Cocoa Summer Round II |  |
 | Thu, 27 Aug 2026 | Summer Thursday |  |
 | Fri, 28 Aug 2026 | Studio Club Invites: Chlär | Chlär, Montero, Norman Nodge |
 | Sat, 29 Aug 2026 | Studio Club Invites: HoneyLuv | Alvaro Medina, Bambi-S, HoneyLuv |

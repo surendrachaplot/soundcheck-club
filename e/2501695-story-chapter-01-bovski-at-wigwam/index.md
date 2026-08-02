@@ -1,6 +1,6 @@
-# STORY* Chapter 01 - BOVSKI at Wigwam
+# STORY* Chapter 01 — BOVSKI at Wigwam
 
-STORY* Chapter 01 - BOVSKI at Wigwam on Fri 11 Sept, Dublin. 3 acts on the bill: ALPER SKR, BOVSKI and WINSLAO. Techno and House. Preview the line-up and save it on soundcheck.
+STORY* Chapter 01 — BOVSKI at Wigwam on Fri 11 Sept, Dublin. 3 acts on the bill: ALPER SKR, BOVSKI and WINSLAO. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

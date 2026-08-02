@@ -1,19 +1,23 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "KEEP IT ROLL INVITES BASSGRAVE" on Sun, 2 Aug 2026.
+Cross Club is a music venue in Prague with 29 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "CROSS SQUARE with Butter Funk Family (USA) & KEEP IT ROLL INVITES BASSGRAVE" on Sun, 2 Aug 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including DJames (2), Ejdm, Katrixia and Plus One (1) and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 29 upcoming nights, with line-ups including Butter Funk Family, DJames (2), Dukla and Ejdm and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | KEEP IT ROLL INVITES BASSGRAVE |  |
+| Sun, 2 Aug 2026 | CROSS SQUARE with Butter Funk Family (USA) & KEEP IT ROLL INVITES BASSGRAVE | Butter Funk Family, Skinny P, TOXXISTENZE |
 | Mon, 3 Aug 2026 | MEZIPATRA PRIDE & LETNÍ KINO MEZIPATRA PRIDE & LOS TEKKENOS |  |
+| Tue, 4 Aug 2026 | PUNK NIGHT & DNB STAGE |  |
+| Wed, 5 Aug 2026 | CROSS SQUARE with MGHC & CHINA SOUP |  |
+| Thu, 6 Aug 2026 | STAN MEZIPATRA PRIDE & LETNÍ KINO MEZIPATRA PRIDE 21:00 & DNB TV AFTERPARTY |  |
 | Fri, 7 Aug 2026 | HARD RAVE & DIVERGENCE DNB | Ejdm, Plus One (1) |
 | Sat, 8 Aug 2026 | MOORDOOR - DAY'N NIGHT | TOXXISTENZE |
-| Sat, 15 Aug 2026 | Fast Lane | DJames (2), Katrixia, Vialla |
-| Mon, 17 Aug 2026 | Los Tekkenos ROM/CZ - Hardcore/Noise/Tekno |  |
+| Sun, 9 Aug 2026 | SUNDEJ SE SUNDAY |  |
+| Mon, 10 Aug 2026 | LOS TEKENOS |  |
+| Thu, 13 Aug 2026 | DOKUMENT KARYÉRA + FSRS |  |
 
 ## Address
 
