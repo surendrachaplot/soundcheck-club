@@ -2,7 +2,7 @@
 
 Bulbul Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "TANZFLOOR: Gabriel, Do you know Juno, Love Sensation, Karadi" on Thu, 6 Aug 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Agua con gas, Ahni, Aria Santillana and B. Clarke and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Agua con gas, Ahni, Aria Santillana and Ashbeat and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming night
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | TANZFLOOR: Gabriel, Do you know Juno, Love Sensation, Karadi | Do you know Juno, Love Sensation, ·gabriel· |
 | Fri, 7 Aug 2026 | The CHRANDY shop: Aria Santillana, CHRANDY, Tiny Handbag (hi.fí & François Dulac) | Aria Santillana, CHRANDY, François Dulac, hi.fí |
-| Sat, 8 Aug 2026 | Saturdaze: Tba |  |
+| Sat, 8 Aug 2026 | Club Morena: Julien Josh, Ashbeat, ZYMT & fuxi | Ashbeat, Julien Josh, ZYMT, fuxi |
 | Thu, 13 Aug 2026 | Welcome To My House: Flaaviø, dj prinskorv, La Terrasse | Flaaviø, La Terrasse, dj prinskorv |
 | Fri, 14 Aug 2026 | Fridaze: Tba |  |
 | Sat, 15 Aug 2026 | Organza invites: SENERGI, Agua con gas, elliephunk, Organza | Agua con gas, Organza, SENERGI, elliephunk |

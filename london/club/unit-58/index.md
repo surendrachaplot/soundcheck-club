@@ -8,7 +8,7 @@ Unit 58 is a music venue in London listed on soundcheck. 4 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | EMPORIUM NRG - LIVE WRESTLING + RAVE | DJ Love UK |
+| Fri, 14 Aug 2026 | EMPORIUM NRG - LIVE WRESTLING + RAVE | DJ Love UK, Sport Mode |
 | Fri, 4 Sept 2026 | House of Opus Volume 2 | Daniella Font, Korey |
 | Fri, 9 Oct 2026 | Arise festival: London edition | BJ Holy, Hovsep, Hovsep (AM), Moa Pillar, Mori Mori, Mujuice, Salena, Ushko, acidhousewife3000, bod [包家巷], costi (1), dbeater |
 | Fri, 23 Oct 2026 | Cosmic Blast – Monster Attack | Miss Lightbeam |

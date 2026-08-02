@@ -3791,7 +3791,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785705006161">
+<meta name="sc-build" content="1785708793029">
 </head>
 <body>
   <main class="wrap">
@@ -4533,9 +4533,38 @@
               // Flip to pause as soon as playback actually starts (buffering
               // counts — autoplay succeeded). If the browser blocked autoplay,
               // none of these fire and the icon stays ▶, so one tap plays it.
-              if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING) updatePP(true);
+              if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING){ updatePP(true); scQErr=0; }
               else if(e.data===YT.PlayerState.PAUSED || e.data===YT.PlayerState.CUED || e.data===YT.PlayerState.UNSTARTED) updatePP(false);
               else if(e.data===YT.PlayerState.ENDED){ updatePP(false); if(scQ&&scQ.length>1) playScQ(scQi+1); }
+            },
+            // THE MISSING HALF OF PLAYBACK. There was no onError at all, so a
+            // video that is deleted, private, region-blocked or has embedding
+            // switched off produced a spinner that never resolved — no message,
+            // no skip, nothing. Silent failure on the one feature the app is for.
+            //
+            //   2   malformed id        100  removed or private
+            //   5   html5 failure       101/150  owner disallows embedding
+            //
+            // Two things have to happen: move on so the listener still hears
+            // something, and TELL THE SERVER, because the API's embeddable flag
+            // does not know about deletions or region blocks — only a real
+            // listener hitting it ever finds out. Otherwise the same dead set
+            // sits at the top of that artist's list for everyone, forever.
+            onError:function(e){
+              var vid=(active&&active.button&&active.button.dataset&&active.button.dataset.yt)||'';
+              var code=String((e&&e.data)||'');
+              updatePP(false);
+              if(vid){
+                try{ fetch(API_BASE+'/api/youtube/dead',{method:'POST',headers:{'Content-Type':'application/json'},
+                  body:JSON.stringify({videoId:vid,reason:code})}).catch(function(){}); }catch(_){}
+              }
+              // BOUNDED. Skipping on error is right until every entry errors, at
+              // which point an unbounded skip is an infinite loop that hammers
+              // the dead-report endpoint. One pass through the queue, then stop
+              // and say so. scQErr resets the moment anything actually plays.
+              scQErr++;
+              if(scQ && scQ.length>1 && scQErr < scQ.length){ showToast('Skipping an unplayable set\u2026'); playScQ(scQi+1); }
+              else { scQErr=0; showToast(scQ&&scQ.length>1?'No playable sets in this queue yet.':'That set is no longer playable on YouTube.'); }
             }
           }
         });
@@ -4597,6 +4626,7 @@
     // single unplayable act ended the whole thing with a toast. Now that searches
     // never happen on a page view, most acts are unresolvable until the nightly
     // pass reaches them, so "the play button doesn't work" was the normal case.
+    var scQErr=0;   // consecutive playback failures in the current queue
     async function playYtList(list, startIdx){
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('Nothing to play yet.'); return; }
@@ -4610,7 +4640,7 @@
         }catch(_){ /* offline → fall through and let the queue try as before */ }
       }
       if(!list.length){ showToast('No sets ready for this line-up yet.'); return; }
-      scQ=list; playScQ(startIdx||0);
+      scQErr=0; scQ=list; playScQ(startIdx||0);
     }
     // Play an artist's sets as a dock queue — the ▶/next button walks to another
     // of their sets (Boiler Room excluded server-side).
