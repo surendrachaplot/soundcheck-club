@@ -2061,6 +2061,12 @@
     .auth-overlay.show { opacity:1; pointer-events:auto; }
     .auth-box { background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); padding:28px 26px 24px; width:100%; max-width:380px; position:relative; transform:translateY(10px); transition:transform .2s; }
     .auth-overlay.show .auth-box { transform:translateY(0); }
+    /* Full-size poster view. Reuses .auth-overlay for the backdrop — it is already
+       a dimmed, blurred, dismissable full-screen layer, and a second one would
+       drift from it. object-fit:contain because a flyer is portrait and cropping
+       it is the entire thing we are trying to undo. */
+    .imgv { max-width:min(96vw, 900px); max-height:88vh; width:auto; height:auto; object-fit:contain;
+            border-radius:var(--radius-lg); box-shadow:0 24px 60px rgba(0,0,0,.6); }
     .auth-box .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; color:var(--accent); }
     .auth-box h3 { font-family:var(--head); font-size:var(--fs-xl); font-weight:800; letter-spacing:-0.02em; line-height:1.1; margin:10px 0 8px; }
     .auth-box p { color:var(--muted); font-size:var(--fs-base); line-height:1.5; margin-bottom:16px; }
@@ -3785,7 +3791,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785704549286">
+<meta name="sc-build" content="1785705006161">
 </head>
 <body>
   <main class="wrap">
@@ -4618,6 +4624,19 @@
         playYtList(sets.map(function(s){ return { slug:slug, name:name, videoId:s.videoId }; }), 0);
       }catch(_){ showToast('Couldn’t load sets.'); }
       finally{ if(btn){ btn.disabled=false; btn.classList.remove('spinning'); } }
+    }
+    // Tap a poster, see the poster. Event flyers are the artwork of the night and
+    // the hero crops them to 16/9 on mobile — this shows the whole thing.
+    function openImageView(url, alt){
+      if(!url) return;
+      var ov=document.createElement('div'); ov.className='auth-overlay';
+      ov.innerHTML='<img class="imgv" alt="'+esc(alt||'Poster')+'" src="'+esc(url)+'">';
+      function close(){ ov.classList.remove('show'); setTimeout(function(){ ov.remove(); },200); document.removeEventListener('keydown',onKey); }
+      function onKey(e){ if(e.key==='Escape') close(); }
+      ov.addEventListener('click', close);          // anywhere, including the image
+      document.addEventListener('keydown', onKey);
+      document.body.appendChild(ov);
+      requestAnimationFrame(function(){ ov.classList.add('show'); });
     }
     function playScQ(i){
       if(!scQ || !scQ.length) return;
@@ -8711,7 +8730,7 @@
         var h='<div class="fp-event">'+
           '<button class="fp-ev-share-ic" id="fp-ev-share" type="button" aria-label="Share this event"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
           '<div class="fp-ev-hero">'+
-            '<div class="fp-ev-pcol"><div class="fp-ev-poster sc-hero" style="'+posterBg+'">'+stamp+(price?'<div class="fp-ev-price">'+esc(price)+'</div>':'')+'</div></div>'+
+            '<div class="fp-ev-pcol"><div class="fp-ev-poster sc-hero"'+(ev.poster?' id="fp-ev-pos" role="button" tabindex="0" aria-label="View poster full size" style="cursor:zoom-in;'+posterBg+'"':' style="'+posterBg+'"')+'>'+stamp+(price?'<div class="fp-ev-price">'+esc(price)+'</div>':'')+'</div></div>'+
             '<div class="fp-ev-main">'+
               '<div class="fp-kick">'+esc(when)+'</div>'+
               '<h1 class="fp-ev-title">'+esc(ev.title||'Event')+'</h1>'+
@@ -8747,6 +8766,14 @@
         h+='</div>';
         openPanel(h);
         wireReportCues(document.getElementById('page-body'));
+        (function(){
+          var pos=document.getElementById('fp-ev-pos'); if(!pos||!ev.poster) return;
+          // 1600 not the hero's 1000 — the point of opening it is to see it properly.
+          var full=imgUrl(ev.poster,1600);
+          function open(){ openImageView(full, ev.title||'Poster'); }
+          pos.addEventListener('click', open);
+          pos.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); open(); } });
+        })();
         var _canon=location.origin+SC_BASE+eventPath(id,_who,ev.venue)+'/';
         var _edesc=ev.description||((ev.title||_who||'This night')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and tickets on soundcheck.');
         setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', _edesc, musicEventLD(ev), _canon);   // MusicEvent JSON-LD (restored after the bespoke port dropped it)

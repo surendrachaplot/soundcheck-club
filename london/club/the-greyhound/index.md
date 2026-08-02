@@ -17,7 +17,7 @@ The Greyhound is a music venue in London listed on soundcheck. 14 upcoming night
 | Thu, 20 Aug 2026 | SILK | Ross Anderson, Taaz |
 | Fri, 21 Aug 2026 | blankspace |  |
 | Sat, 22 Aug 2026 | dh2: Oscar Farrell, Braga Circuit + special guests | Braga Circuit, Oscar Farrell |
-| Thu, 27 Aug 2026 | MiiKu Exe |  |
+| Thu, 27 Aug 2026 | MiiKu Exe (miku rave) |  |
 
 ## Address
 
