@@ -1,14 +1,15 @@
 # Cara Murphy
 
-Cara Murphy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 8 Aug 2026.
+Cara Murphy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 8 Aug 2026.
 
-Cara Murphy is a house and deep house artist tracked on soundcheck, with 186 sets logged across Amsterdam and Melbourne. Often billed alongside Agent 86, Jay Ramon and BoyBlewe. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 8 Aug.
+Cara Murphy is a house and deep house artist tracked on soundcheck, with 187 sets logged across Amsterdam and Melbourne. Often billed alongside Agent 86, Jay Ramon and BoyBlewe. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | TBA - Il Mercato Centrale | Melbourne |
+| Sat, 8 Aug 2026 | OneSixOne | Melbourne |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Indigo Eyes at Next Door Records Two
 
-Indigo Eyes at Next Door Records Two on Fri 7 Aug, London. 1 act on the bill: Indigo Eyes. House. Preview the line-up and save it on soundcheck.
+Indigo Eyes at Next Door Records Two on Fri 7 Aug, London. 2 acts on the bill: Indigo Eyes and shor. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Indigo Eyes at Next Door Records Two on Fri 7 Aug, London. 1 act on the bill: In
 ## Line-up
 
 - Indigo Eyes
+- shor
 
 *Source: [soundcheck](https://soundcheck.club/e/2490893-indigo-eyes-at-next-door-records-two/)*

@@ -1,13 +1,14 @@
 # FrezZ
 
-FrezZ is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
+FrezZ is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gallery, London on Thu, 20 Aug 2026.
 
-FrezZ is a tech house and minimal artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: Starlane Pizza Bar, London on Sun 23 Aug.
+FrezZ is a tech house and minimal artist tracked on soundcheck, with 43 sets logged across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: Gallery, London on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Gallery | London |
 | Sun, 23 Aug 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
