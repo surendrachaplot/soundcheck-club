@@ -1,8 +1,8 @@
 # NORA (BR)
 
-NORA (BR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Marmorbar, Berlin on Sat, 8 Aug 2026.
+NORA (BR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Marmorbar, Berlin on Sat, 8 Aug 2026.
 
-NORA (BR) is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 5 more. Often billed alongside IDLIBRA, BADSISTA and Coco Cobra. Next up: Marmorbar, Berlin on Sat 8 Aug.
+NORA (BR) is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 5 more. Often billed alongside IDLIBRA, Alada and BADSISTA. Next up: Marmorbar, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NORA (BR) is a house and techno artist tracked on soundcheck, with 32 sets logge
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Marmorbar | Berlin |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
+| Thu, 13 Aug 2026 | TORTE BAR | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ NORA (BR) is a house and techno artist tracked on soundcheck, with 32 sets logge
 
 ## Shares bills with
 
-IDLIBRA, BADSISTA, Coco Cobra
+IDLIBRA, Alada, BADSISTA
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*

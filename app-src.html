@@ -3479,6 +3479,25 @@
       .sc-lt{ opacity:1 !important; transform:none !important; }
       .sc-navtitle{ opacity:0 !important; transform:none !important; }
     }
+    /* PULL TO REFRESH — the native home has RefreshControl; installed as a PWA
+       there is no browser chrome to pull, so without this a standalone user has no
+       way to refresh at all. Mobile only, and only from a resting scroll top.
+       Follows the finger rather than appearing at a threshold: a control that
+       tracks your thumb tells you how far you still have to go. */
+    .ptr{ position:fixed; left:0; right:0; top:0; z-index:60; display:flex; justify-content:center;
+          pointer-events:none; transform:translateY(calc(var(--ptrY, 0px) - 44px));
+          opacity:var(--ptrO, 0); transition:opacity .12s linear; }
+    .ptr-d{ width:34px; height:34px; margin-top:10px; border-radius:var(--radius-pill);
+            background:var(--surface); border:1px solid var(--border);
+            display:inline-flex; align-items:center; justify-content:center;
+            box-shadow:0 6px 18px rgba(0,0,0,.4); }
+    .ptr-d svg{ width:17px; height:17px; color:var(--accent);
+                transform:rotate(calc(var(--ptrR, 0) * 1deg)); }
+    .ptr.armed .ptr-d{ border-color:var(--accent); }
+    .ptr.spin .ptr-d svg{ animation:ptrspin .7s linear infinite; }
+    @keyframes ptrspin{ to{ transform:rotate(360deg); } }
+    @media(min-width:721px){ .ptr{ display:none; } }
+    @media (prefers-reduced-motion: reduce){ .ptr{ transition:none; } .ptr.spin .ptr-d svg{ animation:none; } }
     .sc-reveal{ opacity:0; transform:translateY(12px); }
     .sc-reveal.in{ opacity:1; transform:none; transition:opacity 380ms var(--ease-standard), transform 380ms cubic-bezier(0.32,0.72,0,1); }
     /* STAGGER — ported from the native row, which delays each entrance by its
@@ -3836,9 +3855,10 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785768596225">
+<meta name="sc-build" content="1785769557398">
 </head>
 <body>
+  <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
   <main class="wrap">
     <nav>
       <a class="logo" href="." aria-label="Soundcheck — home">
@@ -6753,6 +6773,60 @@
         root.style.setProperty('--ntO', String(q));
         root.style.setProperty('--ntY', (7 * (1 - q)) + 'px');
       }
+      // PULL TO REFRESH. Native home has RefreshControl; installed as a PWA there
+      // is no browser chrome to pull, so a standalone user otherwise has no way to
+      // refresh at all. Only from a resting scroll top, and only when something
+      // has actually been loaded — _retryLoad is set by every loader and re-runs
+      // whatever view you are on, so this needs no knowledge of which that is.
+      (function(){
+        var ptr = document.getElementById('ptr');
+        if(!ptr) return;
+        var THRESHOLD = 72, MAX = 110;
+        var startY = 0, startX = 0, pulling = false, dist = 0, busy = false, axis = '';
+        function set(d){
+          root.style.setProperty('--ptrY', d + 'px');
+          root.style.setProperty('--ptrO', String(Math.min(1, d / 40)));
+          root.style.setProperty('--ptrR', String(Math.round((d / THRESHOLD) * 260)));
+          ptr.classList.toggle('armed', d >= THRESHOLD);
+        }
+        function reset(){ pulling = false; dist = 0; set(0); ptr.classList.remove('armed','spin'); }
+        document.addEventListener('touchstart', function(e){
+          if(busy || window.innerWidth > 720) return;
+          if((window.scrollY || root.scrollTop || 0) > 0) return;
+          if(e.touches.length !== 1) return;
+          startY = e.touches[0].clientY; startX = e.touches[0].clientX;
+          pulling = true; dist = 0; axis = '';
+        }, {passive:true});
+        document.addEventListener('touchmove', function(e){
+          if(!pulling) return;
+          var d  = e.touches[0].clientY - startY;
+          var dx = e.touches[0].clientX - startX;
+          // Decide the axis once, on the first meaningful movement, and stay with
+          // it. The date strip scrolls horizontally right under the pull zone —
+          // without this, swiping through dates drags the refresh spinner down
+          // with it. Locking the axis is how every native scroll view resolves
+          // exactly this conflict.
+          if(!axis && (Math.abs(d) > 6 || Math.abs(dx) > 6)) axis = Math.abs(dx) > Math.abs(d) ? 'x' : 'y';
+          if(axis === 'x'){ reset(); return; }
+          if(d <= 0){ reset(); return; }
+          // Resistance, so it never feels like the page is being dragged apart.
+          dist = Math.min(MAX, d * 0.5);
+          set(dist);
+        }, {passive:true});
+        document.addEventListener('touchend', function(){
+          if(!pulling) return;
+          if(dist >= THRESHOLD && typeof _retryLoad === 'function'){
+            busy = true; ptr.classList.add('spin'); set(THRESHOLD);
+            Promise.resolve().then(_retryLoad).catch(function(){}).then(function(){
+              // A refresh that finishes instantly reads as nothing happening.
+              setTimeout(function(){ busy = false; reset(); }, 450);
+            });
+            pulling = false; return;
+          }
+          reset();
+        }, {passive:true});
+      })();
+
       function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(frame); } }
       if(!reduce.matches) window.addEventListener('scroll', onScroll, {passive:true});
 

@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "JammRock - A Celebration of Jamaican Independence Day" on Fri, 7 Aug 2026.
+Brixton Jamm is a music venue in London with 15 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "JammRock - A Celebration of Jamaican Independence Day" on Fri, 7 Aug 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AUDIO DUNE, Chey Selecta, Deselecta and DJ Brockie and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including AUDIO DUNE, Chey Selecta, Deselecta and DJ Brockie and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # ZEI (Br)
 
-ZEI (Br) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+ZEI (Br) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TORTE BAR, Berlin on Thu, 13 Aug 2026.
 
-ZEI (Br) is a techno and house artist based in Brazil, tracked on soundcheck, with 8 sets logged across Barcelona, Miami, Newyorkcity and Saopaulo and 1 more. Often billed alongside SDRV, 00rt and 74.97. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
+ZEI (Br) is a techno and house artist based in Brazil, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Miami and Newyorkcity and 2 more. Often billed alongside SDRV, 00rt and 74.97. Next up: TORTE BAR, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | TORTE BAR | Berlin |
 | Sat, 22 Aug 2026 | Village Underground Barcelona | Barcelona |
 
 ## Recently played
