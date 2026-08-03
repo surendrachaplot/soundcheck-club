@@ -1,14 +1,15 @@
 # Levt
 
-Levt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Levt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Levt is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside I Hate Models, Alignment and Charlie Sparks. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Levt is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside I Hate Models, Alignment and Charlie Sparks. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Sat, 10 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 23 Oct 2026 | OST | Berlin |
 
 ## Recently played

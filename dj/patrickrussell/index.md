@@ -10,7 +10,7 @@ Patrick Russell is a techno and acid artist based in United States of America, t
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | public records | New York City |
 | Fri, 14 Aug 2026 | Signal | New York City |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

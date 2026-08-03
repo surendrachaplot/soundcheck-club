@@ -1,6 +1,6 @@
-# Blue Room Invites PTDF: LXR, Cech, A.Harmony at Blue Room
+# Blue Room Invites PTDF: LXR / Cech / A.Harmony at Blue Room
 
-Blue Room Invites PTDF: LXR, Cech, A.Harmony on Thu 6 Aug, Montreal. Preview the line-up and save it on soundcheck.
+Blue Room Invites PTDF: LXR / Cech / A.Harmony on Thu 6 Aug, Montreal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

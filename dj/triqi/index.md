@@ -1,13 +1,14 @@
 # Triqi
 
-Triqi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Marmorbar, Berlin on Sat, 22 Aug 2026.
+Triqi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
-Triqi is a house and techno artist tracked on soundcheck, with 121 sets logged across Berlin, Cologne, Hamburg and Prague. Often billed alongside Immy, INVERNO and hripsime. Next up: Marmorbar, Berlin on Sat 22 Aug.
+Triqi is a house and techno artist tracked on soundcheck, with 122 sets logged across Berlin, Cologne, Hamburg and Prague. Often billed alongside Immy, INVERNO and hripsime. Next up: AMT, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | AMT | Berlin |
 | Sat, 22 Aug 2026 | Marmorbar | Berlin |
 | Fri, 28 Aug 2026 | Kater | Berlin |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |

@@ -1,8 +1,8 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Night Tales, London on Thu, 13 Aug 2026.
+p-rallel is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Night Tales, London on Thu, 13 Aug 2026.
 
-p-rallel is a garage and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Dr Dubplate, Special Request and Casnova. Next up: Night Tales, London on Thu 13 Aug.
+p-rallel is a garage and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Dr Dubplate, Special Request and Casnova. Next up: Night Tales, London on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ p-rallel is a garage and house artist tracked on soundcheck, with 80 sets logged
 | Thu, 13 Aug 2026 | Night Tales | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sat, 31 Oct 2026 | Phonox | London |
 
 ## Recently played
 

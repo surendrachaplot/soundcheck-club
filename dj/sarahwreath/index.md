@@ -9,7 +9,7 @@ Sarah Wreath is a techno and ambient artist based in Germany, tracked on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | public records | New York City |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

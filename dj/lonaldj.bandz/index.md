@@ -11,7 +11,7 @@ Lonald J. Bandz is a club and techno artist based in United States of America, t
 | Fri, 7 Aug 2026 | Tamarack | San Francisco/Oakland |
 | Sat, 8 Aug 2026 | Underground SF | San Francisco/Oakland |
 | Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
-| Fri, 14 Aug 2026 | TBA - 7650 Hawley st Oakland | San Francisco/Oakland |
+| Fri, 14 Aug 2026 | TBA - Oakland | San Francisco/Oakland |
 
 ## Recently played
 

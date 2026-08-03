@@ -11,7 +11,7 @@ Garçon is a techno and house artist tracked on soundcheck, with 81 sets logged 
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Fri, 28 Aug 2026 | Trädgården | Stockholm |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | LAUT | Barcelona |
 
 ## Recently played

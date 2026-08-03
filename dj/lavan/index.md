@@ -1,13 +1,14 @@
 # Lavan
 
-Lavan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Giselle, Düsseldorf on Sat, 10 Oct 2026.
+Lavan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
 
-Lavan is a house and disco artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin and Dusseldorf. Often billed alongside Frau Braun, Quadrakey and Black Eyes. Next up: Giselle, Dusseldorf on Sat 10 Oct.
+Lavan is a house and disco artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Berlin and Dusseldorf. Often billed alongside Quadrakey, Eva Crystaltips and Frau Braun. Next up: OXI, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | OXI | Berlin |
 | Sat, 10 Oct 2026 | Giselle | Düsseldorf |
 
 ## Recently played
@@ -23,6 +24,6 @@ Lavan is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 ## Shares bills with
 
-Frau Braun, Quadrakey, Black Eyes
+Quadrakey, Eva Crystaltips, Frau Braun
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavan/)*

@@ -10,7 +10,7 @@ BMG is a techno and electro artist based in United States of America, tracked on
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | export | Rotterdam |
 | Sat, 5 Sept 2026 | TBA - East Vancouver | Vancouver |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 

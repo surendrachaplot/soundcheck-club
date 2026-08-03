@@ -1,13 +1,14 @@
 # Manolo. (DE)
 
-Manolo. (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+Manolo. (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
-Manolo. (DE) is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Newyorkcity and Nurnberg. Often billed alongside Camilla Rae, Julian Bainbridge and Stella Zekri. Next up: KREUZWERK, Berlin on Fri 21 Aug.
+Manolo. (DE) is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg, Newyorkcity and Nurnberg and 1 more. Often billed alongside Camilla Rae, Julian Bainbridge and Stella Zekri. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | TBA - La Louverie | Paris |
 | Fri, 21 Aug 2026 | KREUZWERK | Berlin |
 
 ## Recently played

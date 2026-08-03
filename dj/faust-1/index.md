@@ -1,14 +1,15 @@
 # FAUST (1)
 
-FAUST (1) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Nether Club, Bucharest on Sat, 8 Aug 2026.
+FAUST (1) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Nether Club, Bucharest on Sat, 8 Aug 2026.
 
-FAUST (1) is a techno and trance artist tracked on soundcheck, with 40 sets logged across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Nether Club, Bucharest on Sat 8 Aug.
+FAUST (1) is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Nether Club, Bucharest on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Nether Club | Bucharest |
+| Sat, 5 Sept 2026 | Nether Club | Bucharest |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
 | Wed, 16 Sept 2026 | Sensorium | Berlin |
 | Sat, 19 Sept 2026 | Eiger Studios | Leeds |

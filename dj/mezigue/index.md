@@ -1,8 +1,8 @@
 # Mézigue
 
-Mézigue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Badaboum, Paris on Fri, 7 Aug 2026.
+Mézigue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Badaboum, Paris on Fri, 7 Aug 2026.
 
-Mézigue is a house and techno artist based in France, tracked on soundcheck, with 59 sets logged across Brussels, Dublin, Geneva and Ghent and 10 more. Often billed alongside Mad Rey, Belaria and GGGG. Next up: Badaboum, Paris on Fri 7 Aug.
+Mézigue is a house and techno artist based in France, tracked on soundcheck, with 60 sets logged across Brussels, Dublin, Geneva and Ghent and 10 more. Often billed alongside Mad Rey, Belaria and GGGG. Next up: Badaboum, Paris on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mézigue is a house and techno artist based in France, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Badaboum | Paris |
 | Sat, 8 Aug 2026 | Unité.22 | Marseille |
+| Thu, 13 Aug 2026 | TBA - La Louverie | Paris |
 
 ## Recently played
 

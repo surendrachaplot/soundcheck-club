@@ -9,7 +9,7 @@ Afriqua is a house and techno artist tracked on soundcheck, with 50 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

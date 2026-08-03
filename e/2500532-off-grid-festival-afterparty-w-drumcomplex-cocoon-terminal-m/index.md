@@ -1,6 +1,6 @@
-# OFF GRID Festival - Afterparty w/ Drumcomplex ( Cocoon, Terminal M ), Romi Nation, Nana K at Club Frau Holle
+# OFF GRID Festival - Afterparty w/ Drumcomplex (Cocoon, Terminal M), Romi Nation, Nana K, at Club Frau Holle
 
-OFF GRID Festival - Afterparty w/ Drumcomplex ( Cocoon, Terminal M ), Romi Nation, Nana K at Club Frau Holle on Sat 8 Aug, Hamburg. 2 acts on the bill: Drumcomplex and Nana K.. Techno and House. Preview the line-up and save it on soundcheck.
+OFF GRID Festival - Afterparty w/ Drumcomplex (Cocoon, Terminal M), Romi Nation, Nana K, at Club Frau Holle on Sat 8 Aug, Hamburg. 2 acts on the bill: Drumcomplex and Nana K.. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

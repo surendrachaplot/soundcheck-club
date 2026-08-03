@@ -1,14 +1,15 @@
 # Kaikaina
 
-Kaikaina is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 8 Aug 2026.
+Kaikaina is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 8 Aug 2026.
 
-Kaikaina is a techno and ghetto tech artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside CyberFairy777, DAMN DANIEL and Seven Angels. Next up: De Fik Garden, Amsterdam on Sat 8 Aug.
+Kaikaina is a techno and ghetto tech artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside CyberFairy777, DAMN DANIEL and Seven Angels. Next up: De Fik Garden, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | De Fik Garden | Amsterdam |
+| Fri, 14 Aug 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 

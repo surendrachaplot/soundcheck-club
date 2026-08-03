@@ -1,13 +1,14 @@
 # Ren Yokoi
 
-Ren Yokoi is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
+Ren Yokoi is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Oath, Tokyo on Thu, 6 Aug 2026.
 
-Ren Yokoi is a house and hip-hop artist tracked on soundcheck, with 234 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Omar Santis, TAIKI and RYOHEI. Next up: clubasia, Tokyo on Sat 8 Aug.
+Ren Yokoi is a house and hip-hop artist tracked on soundcheck, with 235 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Omar Santis, TAIKI and RYOHEI. Next up: Oath, Tokyo on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Oath | Tokyo |
 | Sat, 8 Aug 2026 | clubasia | Tokyo |
 
 ## Recently played

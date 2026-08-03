@@ -1,13 +1,14 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Rainy Miller is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
-Rainy Miller is an experimental and electronica artist tracked on soundcheck, with 48 sets logged across Berlin, Brussels, Dublin and Glasgow and 12 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
+Rainy Miller is an experimental and electronica artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Dublin and 13 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Muziekgebouw aan t' IJ | Amsterdam |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

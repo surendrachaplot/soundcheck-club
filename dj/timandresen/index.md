@@ -1,14 +1,15 @@
 # Tim Andresen
 
-Tim Andresen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Sat, 15 Aug 2026.
+Tim Andresen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Sat, 15 Aug 2026.
 
-Tim Andresen is a house and techno artist based in Denmark, tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 14 more. Often billed alongside Gerssein, NILU and Shansen. Next up: Culture Box, Copenhagen on Sat 15 Aug.
+Tim Andresen is a house and techno artist based in Denmark, tracked on soundcheck, with 117 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 14 more. Often billed alongside Gerssein, NILU and Shansen. Next up: Culture Box, Copenhagen on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Culture Box | Copenhagen |
+| Sat, 19 Sept 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 

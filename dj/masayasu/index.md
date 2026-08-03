@@ -1,13 +1,14 @@
 # MASAYASU
 
-MASAYASU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Azumaya, Tokyo on Wed, 5 Aug 2026.
+MASAYASU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Oath, Tokyo on Tue, 4 Aug 2026.
 
-MASAYASU is a house and techno artist based in Japan, tracked on soundcheck, with 74 sets logged across Osaka and Tokyo. Often billed alongside DJ SHIKISAI, LIGHTING MIURA and Kamekawa. Next up: Azumaya, Tokyo on Wed 5 Aug.
+MASAYASU is a house and techno artist based in Japan, tracked on soundcheck, with 75 sets logged across Osaka and Tokyo. Often billed alongside DJ SHIKISAI, LIGHTING MIURA and Kamekawa. Next up: Oath, Tokyo on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 4 Aug 2026 | Oath | Tokyo |
 | Wed, 5 Aug 2026 | Azumaya | Tokyo |
 
 ## Recently played

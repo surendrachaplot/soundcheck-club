@@ -1,6 +1,6 @@
 # K39
 
-K39 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "WIR SIND EINS - K39 - 4 Etagen - 3-stöckiges" on Sat, 19 Sept 2026.
+K39 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "WE ARE ONE x KINKY SOLUTION K39 - KINKY" on Sat, 19 Sept 2026.
 
 K39 is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Kaiserstraße 39, 60329 Frankfurt am Main.
 
@@ -8,7 +8,7 @@ K39 is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights. Brows
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | WIR SIND EINS - K39 - 4 Etagen - 3-stöckiges |  |
+| Sat, 19 Sept 2026 | WE ARE ONE x KINKY SOLUTION K39 - KINKY |  |
 | Sat, 24 Oct 2026 | Naschen |  |
 
 ## Address

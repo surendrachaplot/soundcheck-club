@@ -1,6 +1,6 @@
 # Golden Record NYC x TAMED present Mihai Pol at Green Room NYC
 
-Golden Record NYC x TAMED present Mihai Pol at Green Room NYC on Fri 28 Aug, Newyorkcity. 1 act on the bill: Mihai Pol. House and Tech House. Preview the line-up and save it on soundcheck.
+Golden Record NYC x TAMED present Mihai Pol at Green Room NYC on Fri 28 Aug, Newyorkcity. 7 acts on the bill: Armii1n, Joiah, Max Sprauer and Miguel Gallardo and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ Golden Record NYC x TAMED present Mihai Pol at Green Room NYC on Fri 28 Aug, New
 
 ## Line-up
 
+- Armii1n
+- Joiah
+- Max Sprauer
+- Miguel Gallardo
 - Mihai Pol
+- RAAUL
+- Silent Duality
 
 *Source: [soundcheck](https://soundcheck.club/e/2501199-golden-record-nyc-x-tamed-present-mihai-pol-at-green-room-ny/)*

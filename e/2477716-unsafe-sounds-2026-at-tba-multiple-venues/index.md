@@ -1,6 +1,6 @@
 # Unsafe+Sounds 2026 at TBA - Multiple Venues
 
-Unsafe+Sounds 2026 at TBA - Multiple Venues on Fri 4 Sept, Vienna. 7 acts on the bill: Eomac, feeo, Fennesz and SKY H1 and 3 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Unsafe+Sounds 2026 at TBA - Multiple Venues on Fri 4 Sept, Vienna. 13 acts on the bill: Alpha Tracks, Amma Ateria, Eomac and feeo and 9 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,16 @@ Unsafe+Sounds 2026 at TBA - Multiple Venues on Fri 4 Sept, Vienna. 7 acts on the
 
 ## Line-up
 
+- Alpha Tracks
+- Amma Ateria
 - Eomac
 - feeo
 - Fennesz
+- Lolina
+- Omid Darvish
+- Organ Tapes
 - SKY H1
+- SKYH1
 - Torus
 - Ugnė Uma
 - Ulla

@@ -1,13 +1,14 @@
 # Gizmo
 
-Gizmo is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 14 Aug 2026.
+Gizmo is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lieberscholli, Munich on Sat, 8 Aug 2026.
 
-Gizmo is a hardcore and gabber artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Frankfurt, Ghent and Munich and 2 more. Often billed alongside Shabiki, Lazykid and Rad.Lez. Next up: Bahnwärter Thiel, Munich on Fri 14 Aug.
+Gizmo is a techno and hardcore artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Frankfurt, Ghent and Munich and 2 more. Often billed alongside Shabiki, Lazykid and Rad.Lez. Next up: Lieberscholli, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Lieberscholli | Munich |
 | Fri, 14 Aug 2026 | Bahnwärter Thiel | Munich |
 | Sat, 15 Aug 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 

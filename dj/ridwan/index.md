@@ -1,14 +1,15 @@
 # Ridwan
 
-Ridwan is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Klymax Discotheque, Bali on Fri, 14 Aug 2026.
+Ridwan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Klymax Discotheque, Bali on Fri, 14 Aug 2026.
 
-Ridwan is an electronic artist tracked on soundcheck, with 3 sets logged across Bali. Often billed alongside Bagvs, Jonathan Kusuma and Kimoji. Next up: Klymax Discotheque, Bali on Fri 14 Aug.
+Ridwan is a house and techno artist tracked on soundcheck, with 4 sets logged across Bali. Often billed alongside Bagvs, Jonathan Kusuma and Kimoji. Next up: Klymax Discotheque, Bali on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Klymax Discotheque | Bali |
+| Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 
 ## Recently played
 

@@ -17,7 +17,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, w
 | Sat, 22 Aug 2026 | VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui | Aynaet, Gabrielle (DE), K.EULE, Section 63, Will Tempo, kutscher |
 | Fri, 28 Aug 2026 | Berlin Bass Music Vibes with YOINK, Mikasta, Yoru, Migz, Dub Isotope, Jimi Handtrix, Upzet | Anton Quasi, Dub Isotope, EMBEE3, Jimi Handtrix, Lay.Dee Strange, Migz, MixB, Saint Popsy, Soniq, Upzet, Yoru, Yoru (Berlin) |
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
-| Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Andriiic, DJ Jordan, MCHL51, Marí Kozlovska, Mosher, Roger Lavelle, Sophie van Hayden, Vero_ |
+| Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Andriiic, DJ Jordan, MCHL51, Marí Kozlovska, Mosher, RHAPSODIE, Roger Lavelle, Sophie van Hayden, Vero_ |
 
 ## Address
 

@@ -12,7 +12,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets log
 | Fri, 21 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 
 ## Recently played

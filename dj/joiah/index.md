@@ -1,14 +1,15 @@
 # Joiah
 
-Joiah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
+Joiah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
 
-Joiah is a house and techno artist based in Italy, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Boston and Madrid and 6 more. Often billed alongside CAMILLA, Black Pomade and Armii1n. Next up: SAGE, Berlin on Sat 8 Aug.
+Joiah is a house and techno artist based in Italy, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Boston and Madrid and 6 more. Often billed alongside CAMILLA, Black Pomade and Armii1n. Next up: SAGE, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | SAGE | Berlin |
+| Fri, 28 Aug 2026 | Green Room NYC | New York City |
 
 ## Recently played
 

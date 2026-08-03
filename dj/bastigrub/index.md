@@ -1,13 +1,14 @@
 # Basti Grub
 
-Basti Grub is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MTW, Frankfurt on Fri, 4 Sept 2026.
+Basti Grub is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pimpernel, Munich on Sat, 15 Aug 2026.
 
-Basti Grub is a house and afro house artist based in Germany, tracked on soundcheck, with 8 sets logged across Bali, Frankfurt, Miami and Munich and 1 more. Often billed alongside 2Reisende, Biagio Sibilla and Bliss Inc.. Next up: MTW, Frankfurt on Fri 4 Sept.
+Basti Grub is a house and electro artist based in Germany, tracked on soundcheck, with 9 sets logged across Bali, Frankfurt, Miami and Munich and 1 more. Often billed alongside Sonson, 2Reisende and Biagio Sibilla. Next up: Pimpernel, Munich on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Pimpernel | Munich |
 | Fri, 4 Sept 2026 | MTW | Frankfurt |
 | Fri, 23 Oct 2026 | Do Not Sit On The Furniture | Miami |
 
@@ -22,6 +23,6 @@ Basti Grub is a house and afro house artist based in Germany, tracked on soundch
 
 ## Shares bills with
 
-2Reisende, Biagio Sibilla, Bliss Inc.
+Sonson, 2Reisende, Biagio Sibilla
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastigrub/)*

@@ -1,13 +1,14 @@
 # RICHKID
 
-RICHKID is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Joule, Osaka on Sat, 12 Sept 2026.
+RICHKID is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
 
-RICHKID is a house and techno artist based in Japan, tracked on soundcheck, with 30 sets logged across Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and Nao Nomura. Next up: Joule, Osaka on Sat 12 Sept.
+RICHKID is a house and techno artist based in Japan, tracked on soundcheck, with 31 sets logged across Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and Nao Nomura. Next up: The V, Osaka on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 5 Aug 2026 | The V | Osaka |
 | Sat, 12 Sept 2026 | Joule | Osaka |
 
 ## Recently played

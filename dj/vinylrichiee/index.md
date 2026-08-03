@@ -1,14 +1,15 @@
 # Vinyl Richiee
 
-Vinyl Richiee is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
+Vinyl Richiee is a Disco and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
 
-Vinyl Richiee is a disco and electronica artist tracked on soundcheck, with 16 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Sunny Side Up, Nonna Fab and Hames. Next up: The System, Sheffield on Sun 30 Aug.
+Vinyl Richiee is a disco and electronica artist tracked on soundcheck, with 17 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Sunny Side Up, Nonna Fab and Hames. Next up: The System, Sheffield on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | The System | Sheffield |
+| Sat, 19 Sept 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 

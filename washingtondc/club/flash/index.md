@@ -12,7 +12,7 @@ Flash is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights,
 | Sat, 8 Aug 2026 | Mystic Bill | DJ Technics, Edan Everywhere, Mystic Bill, Stretch (DET) |
 | Sun, 9 Aug 2026 | Sunday Love: Laidlaw - House Twelve - KayLaSoul | House Twelve, KayLaSoul, Laidlaw |
 | Fri, 14 Aug 2026 | Mark Farina | Arroyo, D.O.S, Mark Farina |
-| Sat, 15 Aug 2026 | Carl Craig | Carl Craig, Chris Nitti |
+| Sat, 15 Aug 2026 | Resident Nights: BehTarin - Gradient Descent - Henry P | BehTarin, Carl Craig, Chris Nitti, Gradient Descent, Henry P (US) |
 | Sun, 16 Aug 2026 | Sunday Love: Andrey Pushkarev - Vivian Wang - Unit J | Andrey Pushkarev, Vivian Wang |
 | Fri, 21 Aug 2026 | Eelke Kleijn | Eelke Kleijn, Tomas C |
 | Sun, 23 Aug 2026 | Sunday Love: Isaac Carter | Isaac Carter |

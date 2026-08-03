@@ -10,7 +10,7 @@ Agonis is a techno and experimental artist tracked on soundcheck, with 69 sets l
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Mischa Beton
 
-Mischa Beton is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Grelle Forelle, Vienna on Fri, 4 Sept 2026.
+Mischa Beton is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
 
-Mischa Beton is a techno and hardcore artist based in Austria, tracked on soundcheck, with 29 sets logged across Berlin, Vienna and Zurich. Often billed alongside Gydah, Caniche and Gerald VDH. Next up: Grelle Forelle, Vienna on Fri 4 Sept.
+Mischa Beton is a techno and hardcore artist based in Austria, tracked on soundcheck, with 30 sets logged across Berlin, Vienna and Zurich. Often billed alongside Gydah, Caniche and Gerald VDH. Next up: Celeste, Vienna on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Celeste | Vienna |
 | Fri, 4 Sept 2026 | Grelle Forelle | Vienna |
 
 ## Recently played

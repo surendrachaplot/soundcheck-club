@@ -2,13 +2,13 @@
 
 Glamorama is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Interval - TRUSTEE b2b WILS*RISH [3 Hours]" on Fri, 7 Aug 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including A.Well, bellxsxs, Dan Newman and DAYZZI and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including A.Well, bellxsxs, CHEEKI and Dan Newman and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Interval - TRUSTEE b2b WILS*RISH [3 Hours] | TRUSTEE, WILS*RISH |
+| Fri, 7 Aug 2026 | Interval - TRUSTEE b2b WILS*RISH [3 Hours] | CHEEKI, KJONES, N.Y.A, TRUSTEE, WILS*RISH |
 | Sat, 8 Aug 2026 | Slumdog + SALERNO at Glamorama Saturdays | Slumdog |
 | Fri, 14 Aug 2026 | Interval - Miguel De Bois [NL] | Miguel De Bois |
 | Fri, 14 Aug 2026 | Glam Open Decks: Winter Series #4 |  |

@@ -1,13 +1,14 @@
 # Bonnie
 
-Bonnie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Bonnie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
 
-Bonnie is a house and techno artist tracked on soundcheck, with 24 sets logged across Austin, Chicago, Hamburg and Losangeles and 4 more. Often billed alongside Clyde (2), arow and Liquid Stranger. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Bonnie is a house and techno artist tracked on soundcheck, with 25 sets logged across Austin, Chicago, Hamburg and Losangeles and 4 more. Often billed alongside Clyde (2), arow and Liquid Stranger. Next up: clubasia, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | clubasia | Tokyo |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played

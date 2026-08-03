@@ -1,0 +1,46 @@
+# Entanglement at TBA - San Francisco
+
+Entanglement at TBA - San Francisco on Fri 18 Sept, Sanfrancisco. 32 acts on the bill: Afriqua, Agonis, BMG and Carlos Souffront and 28 more. Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 18 Sept 2026 |
+| Venue | TBA - San Francisco |
+| City | San Francisco/Oakland |
+
+## Line-up
+
+- Afriqua
+- Agonis
+- BMG
+- Carlos Souffront
+- Christina Chatfield
+- Chuck Gunn
+- Clarisa Kimskii
+- Craig Gonzalez
+- Crossing Avenue
+- Daniel Bell
+- Derek Plaslaiko
+- DJ MARIA.
+- Erika
+- erika (SF)
+- Function
+- Garçon
+- Haruka
+- Hodge
+- Konduku
+- Kudeki
+- Marcal
+- Mozhgan
+- Nick Moss
+- Patrick Russell
+- Phase Fatale
+- Pianeti Sintetici
+- Raica
+- Sarah Wreath
+- sfcowboy
+- Suzanne Ciani
+- Torsion
+- Wata Igarashi
+
+*Source: [soundcheck](https://soundcheck.club/e/2460417-entanglement-at-tba-san-francisco/)*

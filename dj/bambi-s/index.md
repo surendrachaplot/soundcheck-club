@@ -1,13 +1,14 @@
 # Bambi-S
 
-Bambi-S is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Bambi-S is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
 
-Bambi-S is a house and disco artist based in Germany, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Stipo, It's George! and Techno Ganoven. Next up: Kater, Berlin on Sat 15 Aug.
+Bambi-S is a house and disco artist based in Germany, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Stipo, It's George! and Techno Ganoven. Next up: Tokonoma Club, Frankfurt on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Tokonoma Club | Frankfurt |
 | Sat, 15 Aug 2026 | Kater | Berlin |
 | Fri, 28 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 29 Aug 2026 | Studio Club Malaga | Malaga |

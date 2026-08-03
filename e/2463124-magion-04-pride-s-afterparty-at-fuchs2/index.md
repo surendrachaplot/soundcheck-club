@@ -1,6 +1,6 @@
 # MAGION 04 *Pride's Afterparty* at Fuchs2
 
-MAGION 04 *Pride's Afterparty* at Fuchs2 on Sat 8 Aug, Prague. 9 acts on the bill: Adamatron, Axis Alpha, Dj Poperz and frujty and 5 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+MAGION 04 *Pride's Afterparty* at Fuchs2 on Sat 8 Aug, Prague. 10 acts on the bill: Adamatron, Axis Alpha, Dj Poperz and frujty and 6 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ MAGION 04 *Pride's Afterparty* at Fuchs2 on Sat 8 Aug, Prague. 9 acts on the bil
 - Dj Poperz
 - frujty
 - JöëK
+- LuLu (CZ)
 - Mike Starr
 - Pink Concrete
 - Refrig

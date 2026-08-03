@@ -1,8 +1,8 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Boris pres Homies Showcase  - FREE TICKETS" on Fri, 7 Aug 2026.
+BORIS CLUB is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Boris pres Homies Showcase  - FREE TICKETS" on Fri, 7 Aug 2026.
 
-BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Andrea Castells, Daniel Aguilar (2), INOFF and Jessy and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
+BORIS CLUB is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Andrea Castells, Daniel Aguilar (2), INOFF and Jessy and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
 ## What's on
 
@@ -16,8 +16,8 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming night
 | Sat, 22 Aug 2026 | Boris Saturday - FREE TICKETS |  |
 | Fri, 28 Aug 2026 | Boris Friday - FREE TICKETS |  |
 | Sat, 29 Aug 2026 | Boris Saturday - FREE TICKETS |  |
+| Fri, 4 Sept 2026 | Boris Friday |  |
 | Sat, 5 Sept 2026 | Boris Saturday - FREE TICKETS | Jessy, K:ROL |
-| Fri, 18 Sept 2026 | Boris & Valhalla: Read the News - FREE TICKETS | Andrea Castells, K:ROL, Read the News, Rivellino |
 
 ## Address
 

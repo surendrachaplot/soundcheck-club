@@ -9,7 +9,7 @@ Erika is a techno and acid artist tracked on soundcheck, with 109 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | export | Rotterdam |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |

@@ -1,14 +1,14 @@
 # Nikes
 
-Nikes is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 7650 Hawley st Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
+Nikes is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-Nikes is a footwork and jungle artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Baby Uniq, Songco and Alleygorgon. Next up: TBA - 7650 Hawley st Oakland, Sanfrancisco on Fri 14 Aug.
+Nikes is a footwork and jungle artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Baby Uniq, Songco and Alleygorgon. Next up: TBA - Oakland, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - 7650 Hawley st Oakland | San Francisco/Oakland |
+| Fri, 14 Aug 2026 | TBA - Oakland | San Francisco/Oakland |
 
 ## Recently played
 

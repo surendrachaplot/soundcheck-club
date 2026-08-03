@@ -12,7 +12,7 @@ Marcal is a techno and house artist tracked on soundcheck, with 93 sets logged a
 | Fri, 14 Aug 2026 | Le Sucre | Lyon |
 | Sat, 29 Aug 2026 | KALT | Strasbourg |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

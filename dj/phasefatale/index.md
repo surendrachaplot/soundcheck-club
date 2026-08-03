@@ -12,7 +12,7 @@ Phase Fatale is a techno and ebm artist tracked on soundcheck, with 196 sets log
 | Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | Red Roof Church | Montreal |
 | Sat, 22 Aug 2026 | Paragon | New York City |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

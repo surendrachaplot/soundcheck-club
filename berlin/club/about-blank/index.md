@@ -1,8 +1,8 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "://sektgarten x sektgabis [free entry & open air]" on Tue, 4 Aug 2026.
+://about blank is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "://sektgarten x sektgabis [free entry & open air]" on Tue, 4 Aug 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -15,9 +15,9 @@
 | Sat, 8 Aug 2026 | STAUB |  |
 | Sat, 8 Aug 2026 | ://elements | Artifex (DE), EMAILLE, Franz Jäger, Kontinum, Noirnor, Shimmy Robin, THNTS, Vivian Koch, a:tok, vauna |
 | Sun, 9 Aug 2026 | FLINTA Lustgarten (sex positive, daytime, open-air / for flintas only) | Belen Zer, a:tok |
+| Thu, 13 Aug 2026 | DIFFUSE REALITY [14 Years Anniversary] | CSL, Catem, Fac3less, Just1, Origami, Raw Image, Squaric |
 | Fri, 14 Aug 2026 | bratty • with charli xcx & other brat coded artists • berlin |  |
 | Fri, 14 Aug 2026 | King Kong Kicks • Indie Pop & Hypes • ://about blank Berlin |  |
-| Sat, 15 Aug 2026 | Rave am Ring w/ Kleptos, S.3000, TZK & Frau Ciel | Brauer, DJ-Ween, Ecke & Hugo, HiHat, Ini Lamborghini, Katta Lana, Pavelo Promillo, Sophti, XIMA, Zetson |
 
 ## Address
 

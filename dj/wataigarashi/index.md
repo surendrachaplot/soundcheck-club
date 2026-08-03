@@ -13,7 +13,7 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets 
 | Sat, 29 Aug 2026 | Razzmatazz | Barcelona |
 | Sat, 12 Sept 2026 | THE MAGICK BAR | Rome |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 15 Oct 2026 | TRANSMISSION DC | Washington DC |

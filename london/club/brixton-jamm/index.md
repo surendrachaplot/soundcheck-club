@@ -9,7 +9,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 14 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | JammRock - A Celebration of Jamaican Independence Day | Chey Selecta |
-| Sat, 8 Aug 2026 | TASTE OF '96: #IN THE AIR - 08/08 - Submatic, Janaway, Jolie P, Luke Gomm, Samtheman, Tori etc | AUDIO DUNE, Janaway, Luke Gomm, Melly (1), Samtheman, warmluke |
+| Sat, 8 Aug 2026 | TASTE OF '96: #IN THE AIR - 08/08 - Submatic, Janaway, Jolie P, Luke Gomm, Samtheman, Melly etc | AUDIO DUNE, Janaway, Luke Gomm, Melly (1), Samtheman, warmluke |
 | Thu, 13 Aug 2026 | Talkofthetown |  |
 | Fri, 14 Aug 2026 | 0220's Jamm: Karim Bitar, Zak Miller  | DJ Ironing Board, Joe Rose, Karim Bitar, Kiwii, Zak Miller |
 | Fri, 14 Aug 2026 | Jungle Splash | DJ Brockie, Deselecta, Nicky Blackmarket, Potential Badboy, The Ragga Twins, Uncle Dugs, karishma |

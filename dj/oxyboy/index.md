@@ -1,13 +1,14 @@
 # OXYBOY
 
-OXYBOY is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Temp., Bangkok on Sat, 22 Aug 2026.
+OXYBOY is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Horn, Bangkok on Thu, 6 Aug 2026.
 
-OXYBOY is a club and techno artist based in Thailand, tracked on soundcheck, with 18 sets logged across Bangkok. Often billed alongside Genji, JWP. and .g (TH). Next up: Bar Temp., Bangkok on Sat 22 Aug.
+OXYBOY is a club and techno artist based in Thailand, tracked on soundcheck, with 19 sets logged across Bangkok. Often billed alongside Genji, JWP. and .g (TH). Next up: Horn, Bangkok on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Horn | Bangkok |
 | Sat, 22 Aug 2026 | Bar Temp. | Bangkok |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Mondo Open Air
 
-Mondo Open Air is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Mondo OPEN AIR #06: Kyle Starkey B2B DART / LAMMER / Gerardo Niva / S3PPA" on Sat, 5 Sept 2026.
+Mondo Open Air is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Mondo OPEN AIR #06: Kyle Starkey B2B DART / LAMMER / Gerardo Niva / S3PPA" on Sat, 5 Sept 2026.
 
-Mondo Open Air is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Alba Franch, Andres Campo, Bad Boombox and BIXBITA and 2 more. Browse upcoming dates, start times and who's playing. Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid.
+Mondo Open Air is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Alba Franch, Andres Campo, Bad Boombox and Benwal and 2 more. Browse upcoming dates, start times and who's playing. Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Mondo Open Air is a music venue in Madrid listed on soundcheck. 7 upcoming night
 | Sat, 3 Oct 2026 | Mondo OPEN AIR #10: Andres Campo / Gerardo Niva / Artist TBA / BIXBITA / DJ SWISHERMAN  | Andres Campo, BIXBITA, DJ SWISHERMAN, Gerardo Niva |
 | Sun, 11 Oct 2026 | Mondo Krystal: Bad Boombox / salute / Club Angel / Gerardo Niva B2B Artist TBA / doccudder | Bad Boombox, Club Angel, Gerardo Niva, TBA, doccudder, salute |
 | Sat, 31 Oct 2026 | Mondo KRYSTAL HALLOWEEN WEEKENDER - Jeff Mills / More Artist TBA | Jeff Mills |
+| Sun, 1 Nov 2026 |  Mondo KRYSTAL: Benwal / Gerardo Niva / Olive Anguz / More Artist TBA | Benwal, Gerardo Niva |
 
 ## Address
 

@@ -1,6 +1,6 @@
-# TASTE OF '96: #IN THE AIR - 08/08 - Submatic, Janaway, Jolie P, Luke Gomm, Samtheman, Tori etc at Brixton Jamm
+# TASTE OF '96: #IN THE AIR - 08/08 - Submatic, Janaway, Jolie P, Luke Gomm, Samtheman, Melly etc at Brixton Jamm
 
-TASTE OF '96: #IN THE AIR - 08/08 - Submatic, Janaway, Jolie P, Luke Gomm, Samtheman, Tori etc at Brixton Jamm on Sat 8 Aug, London. 6 acts on the bill: AUDIO DUNE, Janaway, Luke Gomm and Melly (1) and 2 more. House and Jungle. Preview the line-up and save it on soundcheck.
+TASTE OF '96: #IN THE AIR - 08/08 - Submatic, Janaway, Jolie P, Luke Gomm, Samtheman, Melly etc at Brixton Jamm on Sat 8 Aug, London. 6 acts on the bill: AUDIO DUNE, Janaway, Luke Gomm and Melly (1) and 2 more. House and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

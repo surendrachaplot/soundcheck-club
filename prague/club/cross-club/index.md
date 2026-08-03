@@ -1,8 +1,8 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 28 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "MEZIPATRA PRIDE & LETNÍ KINO MEZIPATRA PRIDE & LOS TEKKENOS" on Mon, 3 Aug 2026.
+Cross Club is a music venue in Prague with 29 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "MEZIPATRA PRIDE & LETNÍ KINO MEZIPATRA PRIDE & LOS TEKKENOS" on Mon, 3 Aug 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 28 upcoming nights, with line-ups including DJames (2), Dukla, Ejdm and Katrixia and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 29 upcoming nights, with line-ups including AMAR DURGA, DJames (2), Dukla and Ejdm and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 

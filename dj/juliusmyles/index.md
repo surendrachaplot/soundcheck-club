@@ -1,14 +1,15 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dr Morse, Melbourne on Fri, 7 Aug 2026.
+Julius Myles is a Deep House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dr Morse, Melbourne on Fri, 7 Aug 2026.
 
-Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and Andrew88. Next up: Dr Morse, Melbourne on Fri 7 Aug.
+Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and NALIITA. Next up: Dr Morse, Melbourne on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Dr Morse | Melbourne |
+| Sat, 8 Aug 2026 | Angel Music Bar | Melbourne |
 | Sun, 9 Aug 2026 | Fiftyfive | Melbourne |
 | Sat, 15 Aug 2026 | Lane's Edge Wine Bar | Melbourne |
 | Sun, 16 Aug 2026 | Fiftyfive | Melbourne |
@@ -29,6 +30,6 @@ Julius Myles is a deep house and disco artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Miles Ahead, Emotive Experience, Andrew88
+Miles Ahead, Emotive Experience, NALIITA
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

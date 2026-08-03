@@ -1,14 +1,14 @@
 # Craig Gonzalez
 
-Craig Gonzalez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+Craig Gonzalez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Craig Gonzalez is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: TBA, Sanfrancisco on Fri 18 Sept.
+Craig Gonzalez is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

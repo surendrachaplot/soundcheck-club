@@ -9,7 +9,7 @@ sfcowboy is a techno and house artist based in United States of America, tracked
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 
 ## Recently played

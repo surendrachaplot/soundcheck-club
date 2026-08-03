@@ -1,14 +1,15 @@
 # Andrew Cairns
 
-Andrew Cairns is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
+Andrew Cairns is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
 
-Andrew Cairns is a techno and hardcore artist tracked on soundcheck, with 27 sets logged across Belfast, Cologne, Dublin and Glasgow and 5 more. Often billed alongside Jason Cluff, Jezza & Jod and Azyr. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
+Andrew Cairns is a techno and hardcore artist tracked on soundcheck, with 28 sets logged across Belfast, Cologne, Dublin and Glasgow and 5 more. Often billed alongside Jason Cluff, Jezza & Jod and Azyr. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
+| Sun, 1 Nov 2026 | Content | Liverpool |
 
 ## Recently played
 

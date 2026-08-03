@@ -1,14 +1,15 @@
 # Henry P (US)
 
-Henry P (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
+Henry P (US) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
 
-Henry P (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Washingtondc. Often billed alongside Apollo Dust, Bad Reputations and BehTarin. Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
+Henry P (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Washingtondc. Often billed alongside Apollo Dust, BehTarin and Bad Reputations. Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | El Secreto De Rosita | Washington DC |
+| Sat, 15 Aug 2026 | Flash | Washington DC |
 | Fri, 11 Sept 2026 | Flash | Washington DC |
 
 ## Recently played
@@ -24,6 +25,6 @@ Henry P (US) is a house and techno artist based in United States of America, tra
 
 ## Shares bills with
 
-Apollo Dust, Bad Reputations, BehTarin
+Apollo Dust, BehTarin, Bad Reputations
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henryp-us/)*

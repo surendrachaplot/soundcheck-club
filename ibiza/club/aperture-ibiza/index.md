@@ -1,13 +1,14 @@
 # Aperture Ibiza
 
-Aperture Ibiza is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Sober Sound System Ibiza - ROOFTOP SESSIONS" on Sat, 29 Aug 2026.
+Aperture Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SOLAR ECLIPSE IN APERTURE" on Wed, 12 Aug 2026.
 
-Aperture Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle Sol Sortint, S/N, 07820 Ibiza, Spain.
+Aperture Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Calle Sol Sortint, S/N, 07820 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | SOLAR ECLIPSE IN APERTURE |  |
 | Sat, 29 Aug 2026 | Sober Sound System Ibiza - ROOFTOP SESSIONS |  |
 
 ## Address

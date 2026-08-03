@@ -9,7 +9,7 @@ Mozhgan is a techno and acid artist tracked on soundcheck, with 91 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Laytonville, CA | San Francisco/Oakland |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Subspace | Denver |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Sat, 26 Sept 2026 | The Stud | San Francisco/Oakland |

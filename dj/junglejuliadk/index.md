@@ -2,7 +2,7 @@
 
 Jungle Julia(DK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Onkel Dannys Plads, Copenhagen on Sat, 8 Aug 2026.
 
-Jungle Julia(DK) is a techno and house artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Acid Pauli, Amelie Lens and Bad Boombox. Next up: Onkel Dannys Plads, Copenhagen on Sat 8 Aug.
+Jungle Julia(DK) is a techno and house artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Acid Pauli, Afgang and Amelie Lens. Next up: Onkel Dannys Plads, Copenhagen on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Jungle Julia(DK) is a techno and house artist based in Denmark, tracked on sound
 
 ## Shares bills with
 
-Acid Pauli, Amelie Lens, Bad Boombox
+Acid Pauli, Afgang, Amelie Lens
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junglejuliadk/)*

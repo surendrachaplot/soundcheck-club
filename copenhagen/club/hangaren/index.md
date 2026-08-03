@@ -1,8 +1,8 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FINE CHAOS x Hangaren 'The Funeral' CPHFW Closing Party" on Fri, 7 Aug 2026.
+Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FINE CHAOS x Hangaren 'The Funeral' CPHFW Closing Party" on Fri, 7 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, Agata (PL), Âme and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Âme and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights
 | Fri, 21 Aug 2026 | Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis | Daria Kolosova, David Garset, Emma Priis, Johannes Astrup, pai-lin |
 | Sat, 22 Aug 2026 | Teenage Mutants, SCHAARUP, Azpecialguest, Eusherr, Gerssein, CERJ | Azpecialguest, CERJ, Gerssein, SCHAARUP, Teenage Mutants |
 | Sun, 23 Aug 2026 | Sunday Psy: Agata, Neri J, Matriark, Martin Gilleshøj | Agata (PL), Martin Gilleshøj, Matriark, Neri J |
-| Thu, 27 Aug 2026 | Karrusel / 27–29 Aug 2026 | Acid Pauli, Amelie Lens, Bad Boombox, Baime, Buja, Christian Löffler, Christina Evangelista, Conducta, DJ Spice, DRABER666, Dgeral, Disfunctional Disco, Egyptian Lover, Ellen Allien, Ena Cosovic, Halfdan Sandquist, Helena Lauwaert, Jungle Julia, Jungle Julia(DK), Kip Analog, Lou Nour, Mary Harp, Mia Kober, Mischluft, Monolink, NILU, Notion, Pentti Igor, RHR, RIRIA, Redline Warriors, Ricardo Roessel, Shkoon, Suzie The Cockroach, TINDRA, Valentina(DK), Vincent's Older Sister, Volker Arnold, Y U QT, babysquid, horsegiirL, parashoot |
-| Fri, 4 Sept 2026 | Âme (Live), Nandu, Radeckt | Nandu, Radeckt, Âme |
+| Thu, 27 Aug 2026 | Karrusel / 27–29 Aug 2026 | Acid Pauli, Afgang, Amelie Lens, Bad Boombox, Baime, Buja, Christian Löffler, Christina Evangelista, Conducta, DJ Spice, DRABER666, Dgeral, Disfunctional Disco, Egyptian Lover, Ellen Allien, Ena Cosovic, FILTH.y, Halfdan Sandquist, Helena Lauwaert, Jungle Julia, Jungle Julia(DK), Kip Analog, Lou Nour, Lucy Headburn, Mary Harp, Mia Kober, Milo Makua, Mischluft, Monolink, NILU, Notion, Peachlyfe, Pentti Igor, RHR, RIRIA, Redline Warriors, Ricardo Roessel, Shkoon, Suzie The Cockroach, TINDRA, Valentina(DK), Vincent's Older Sister, Volker Arnold, Y U QT, babysquid, horsegiirL, maurinstarr, parashoot |
+| Fri, 28 Aug 2026 | Karrusel Aterparty: Kyle Starkey, B From E, ENNA | B From E, ENNA, Kyle Starkey |
 
 ## Address
 

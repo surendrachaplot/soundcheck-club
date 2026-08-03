@@ -1,14 +1,15 @@
 # VAMØS GRAMØS
 
-VAMØS GRAMØS is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fröccsterasz, Budapest on Fri, 7 Aug 2026.
+VAMØS GRAMØS is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Fröccsterasz, Budapest on Fri, 7 Aug 2026.
 
-VAMØS GRAMØS is a minimal and house artist tracked on soundcheck, with 39 sets logged across Budapest. Often billed alongside Martin 'M, Artic Yoyo and Captain Knuckles. Next up: Fröccsterasz, Budapest on Fri 7 Aug.
+VAMØS GRAMØS is a minimal and house artist tracked on soundcheck, with 40 sets logged across Budapest. Often billed alongside Martin 'M, Artic Yoyo and Captain Knuckles. Next up: Fröccsterasz, Budapest on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Fröccsterasz | Budapest |
+| Sun, 16 Aug 2026 | Fröccsterasz | Budapest |
 
 ## Recently played
 

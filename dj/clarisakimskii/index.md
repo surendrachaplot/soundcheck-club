@@ -13,7 +13,7 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 set
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Sept 2026 | The Brooklyn Monarch | New York City |
 | Sat, 12 Sept 2026 | TRANSMISSION DC | Washington DC |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 

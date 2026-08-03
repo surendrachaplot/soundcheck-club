@@ -1,14 +1,14 @@
 # Rivs
 
-Rivs is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 7650 Hawley st Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
+Rivs is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-Rivs is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Lonald J. Bandz, Olly Junglist and RiDylan. Next up: TBA - 7650 Hawley st Oakland, Sanfrancisco on Fri 14 Aug.
+Rivs is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Lonald J. Bandz, Olly Junglist and RiDylan. Next up: TBA - Oakland, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - 7650 Hawley st Oakland | San Francisco/Oakland |
+| Fri, 14 Aug 2026 | TBA - Oakland | San Francisco/Oakland |
 | Sat, 29 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played

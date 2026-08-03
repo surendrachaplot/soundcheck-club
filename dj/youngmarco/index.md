@@ -1,8 +1,8 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
+Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
 
-Young Marco is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 64 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Else, Berlin on Sat 8 Aug.
+Young Marco is a house and techno artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 64 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Else, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Young Marco is a house and techno artist tracked on soundcheck, with 209 sets lo
 | Sat, 8 Aug 2026 | Else | Berlin |
 | Fri, 4 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Sat, 10 Oct 2026 | Village Underground | London |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played

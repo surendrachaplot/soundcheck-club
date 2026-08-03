@@ -13,7 +13,7 @@ Function is a techno and house artist based in United States of America, tracked
 | Sun, 9 Aug 2026 | Le Sucre | Lyon |
 | Sat, 15 Aug 2026 | BASEMENT | New York City |
 | Sat, 22 Aug 2026 | Tresor / Globus | Berlin |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 
 ## Recently played

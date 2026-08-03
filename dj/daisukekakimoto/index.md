@@ -1,14 +1,15 @@
 # Daisuke Kakimoto
 
-Daisuke Kakimoto is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Noon + Cafe, Osaka on Fri, 14 Aug 2026.
+Daisuke Kakimoto is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Noon + Cafe, Osaka on Fri, 14 Aug 2026.
 
-Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundcheck, with 26 sets logged across Osaka. Often billed alongside Norio, Mori Ra and 5ive. Next up: Noon + Cafe, Osaka on Fri 14 Aug.
+Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundcheck, with 27 sets logged across Osaka. Often billed alongside Norio, Mori Ra and 5ive. Next up: Noon + Cafe, Osaka on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Noon + Cafe | Osaka |
+| Sat, 5 Sept 2026 | Alffo Records | Osaka |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ Mayowa is a club and ghetto tech artist tracked on soundcheck, with 15 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Tola | London |
-| Sun, 30 Aug 2026 | TBA | London |
+| Sun, 30 Aug 2026 | The Clubhouse at The Victoria | London |
 | Fri, 18 Sept 2026 | Electrowerkz | London |
 
 ## Recently played

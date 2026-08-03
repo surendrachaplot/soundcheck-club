@@ -1,6 +1,6 @@
 # Interval - TRUSTEE b2b WILS*RISH [3 Hours] at Glamorama
 
-Interval - TRUSTEE b2b WILS*RISH [3 Hours] at Glamorama on Fri 7 Aug, Melbourne. 2 acts on the bill: TRUSTEE and WILS*RISH. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Interval - TRUSTEE b2b WILS*RISH [3 Hours] at Glamorama on Fri 7 Aug, Melbourne. 5 acts on the bill: CHEEKI, KJONES, N.Y.A and TRUSTEE and 1 more. Garage and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Interval - TRUSTEE b2b WILS*RISH [3 Hours] at Glamorama on Fri 7 Aug, Melbourne.
 
 ## Line-up
 
+- CHEEKI
+- KJONES
+- N.Y.A
 - TRUSTEE
 - WILS*RISH
 

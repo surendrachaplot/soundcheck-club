@@ -15,7 +15,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 13 upco
 | Sat, 15 Aug 2026 | Afrodanz – Open Air Afro House Experience with Major League Djz | Major League Djz, NIIXII, SOFIA PINEDA |
 | Sat, 15 Aug 2026 | El Bassline pres. CEZAR and Gescu | Bttologic, CEZAR, Galu Bla, Gescu, Silat Beksi |
 | Sun, 23 Aug 2026 | Les Enfants goes to Seaseaclub pres. Arapu Bday Bash with Miguelle & TONS, Butch, Priku  | Alex (ES), Arapu, Butch, Lancaster, Miguelle, Priku, TONS |
-| Sat, 5 Sept 2026 | Output pres. Apollonia + Sonja Moonear + Gabbs | Apollonia, Gabbs, Giorgio Maulini, Sonja Moonear, Terence :Terry: |
+| Sat, 5 Sept 2026 | Output pres. Apollonia + Sonja Moonear + Gabbs | Apollonia, Gabbs, Giorgio Maulini, Sonja Moonear, Tania Vulcano, Terence :Terry: |
 | Sat, 12 Sept 2026 | ONÍRICA pres Worakls LIVE | Worakls |
 | Sat, 19 Sept 2026 | TSOA: Fritz Kalkbrenner & Einmusik (Open Air) | Agatha Pher, Einmusik, Envel, Fritz Kalkbrenner |
 

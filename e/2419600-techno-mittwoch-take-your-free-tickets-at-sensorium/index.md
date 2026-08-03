@@ -1,0 +1,18 @@
+# TECHNO MITTWOCH: TAKE YOUR FREE TICKETS at Sensorium
+
+TECHNO MITTWOCH: TAKE YOUR FREE TICKETS at Sensorium on Wed 5 Aug, Berlin. 4 acts on the bill: Gabrielle (DE), Niklas Delhey, Royyy and Slimegoat144. Techno and Tech House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 5 Aug 2026 |
+| Venue | Sensorium |
+| City | Berlin |
+
+## Line-up
+
+- Gabrielle (DE)
+- Niklas Delhey
+- Royyy
+- Slimegoat144
+
+*Source: [soundcheck](https://soundcheck.club/e/2419600-techno-mittwoch-take-your-free-tickets-at-sensorium/)*

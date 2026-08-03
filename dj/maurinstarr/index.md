@@ -1,14 +1,15 @@
 # maurinstarr
 
-maurinstarr is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Christians Brygge 31, Copenhagen on Sat, 8 Aug 2026.
+maurinstarr is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Christians Brygge 31, Copenhagen on Sat, 8 Aug 2026.
 
-maurinstarr is a techno and trance artist based in Denmark, tracked on soundcheck, with 25 sets logged across Berlin, Budapest, Copenhagen and Melbourne and 4 more. Often billed alongside Matriark, Sham (DK) and Afgang. Next up: Christians Brygge 31, Copenhagen on Sat 8 Aug.
+maurinstarr is a techno and trance artist based in Denmark, tracked on soundcheck, with 26 sets logged across Berlin, Budapest, Copenhagen and Melbourne and 4 more. Often billed alongside Matriark, Afgang and Lucy Headburn. Next up: Christians Brygge 31, Copenhagen on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Christians Brygge 31 | Copenhagen |
+| Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ maurinstarr is a techno and trance artist based in Denmark, tracked on soundchec
 
 ## Shares bills with
 
-Matriark, Sham (DK), Afgang
+Matriark, Afgang, Lucy Headburn
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurinstarr/)*

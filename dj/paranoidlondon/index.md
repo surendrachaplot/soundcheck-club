@@ -1,14 +1,15 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
+Paranoid London is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
 
-Paranoid London is a techno and acid artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Golden Pudel Club, Hamburg on Fri 28 Aug.
+Paranoid London is a techno and acid artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Golden Pudel Club, Hamburg on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Golden Pudel Club | Hamburg |
+| Sat, 29 Aug 2026 | Shorts Sports & Recreation Club | Belfast |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 3 Oct 2026 | New Century Locker | Manchester |
 

@@ -1,6 +1,6 @@
 # SYZYGY at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona
 
-SYZYGY at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona on Wed 12 Aug, Barcelona. 8 acts on the bill: AINES, Alexx Zander Johnson, giac. and Pep Descals and 4 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
+SYZYGY at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona on Wed 12 Aug, Barcelona. 9 acts on the bill: AINES, Alexx Zander Johnson, giac. and Ilex and 5 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ SYZYGY at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona on Wed 12 Aug
 - AINES
 - Alexx Zander Johnson
 - giac.
+- Ilex
 - Pep Descals
 - Quim Clausell
 - shulliana.music

@@ -1,13 +1,14 @@
 # Enzio Etchaberri
 
-Enzio Etchaberri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Enzio Etchaberri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
-Enzio Etchaberri is a house and techno artist tracked on soundcheck, with 52 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Kater, Berlin on Fri 21 Aug.
+Enzio Etchaberri is a house and techno artist tracked on soundcheck, with 53 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: AMT, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | AMT | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 
 ## Recently played

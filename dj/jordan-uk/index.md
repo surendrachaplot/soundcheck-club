@@ -1,14 +1,15 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
+Jordan Nocturne is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
 
-Jordan Nocturne is a house and techno artist tracked on soundcheck, with 74 sets logged across Antwerp, Belfast, Berlin and Brisbane and 17 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: Virage, Paris on Fri 21 Aug.
+Jordan Nocturne is a house and techno artist tracked on soundcheck, with 75 sets logged across Antwerp, Belfast, Berlin and Brisbane and 17 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: Virage, Paris on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Virage | Paris |
+| Sat, 29 Aug 2026 | Shorts Sports & Recreation Club | Belfast |
 | Sat, 26 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played

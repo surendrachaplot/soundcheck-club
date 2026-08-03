@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Night Tales, London on Fri, 7 Aug 2026.
+Kyle Starkey is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Night Tales, London on Fri, 7 Aug 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 33 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Night Tales, London on Fri 7 Aug.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Night Tales, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 156 sets l
 | Mon, 10 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 28 Aug 2026 | Hangaren | Copenhagen |
 | Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 5 Sept 2026 | Mondo | Madrid |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Moon Club | Bristol |
-| Sat, 19 Sept 2026 | SWG3 | Glasgow |
 
 ## Recently played
 

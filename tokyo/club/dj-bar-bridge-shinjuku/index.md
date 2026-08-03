@@ -14,7 +14,7 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 45 upcomi
 | Thu, 6 Aug 2026 | PIRANHA, MINAMI & monielu.h | MINAMI, PIRANHA, monielu.h |
 | Fri, 7 Aug 2026 | TOHRU TAKAHASHI, Moodman & r1ku | Moodman, r1ku |
 | Sat, 8 Aug 2026 | SHOWHEY, MALKÖ & Gyusco | Gyusco, MALKÖ |
-| Mon, 10 Aug 2026 | ZUKIE |  |
+| Mon, 10 Aug 2026 | LOCAL SERVICE | JOKI |
 | Tue, 11 Aug 2026 | Toshiyuki Goto & TSU→ | Toshiyuki Goto |
 | Wed, 12 Aug 2026 | Nari & Yuki Maekawa | Nari (2) |
 | Thu, 13 Aug 2026 | Dubyama Jazzo & Yoshinori Hayashi | Yoshinori Hayashi |

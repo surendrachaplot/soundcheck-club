@@ -1,14 +1,15 @@
 # Prescott
 
-Prescott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Trädgården, Stockholm on Sat, 8 Aug 2026.
+Prescott is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Trädgården, Stockholm on Sat, 8 Aug 2026.
 
-Prescott is a house and techno artist based in Sweden, tracked on soundcheck, with 29 sets logged across Copenhagen and Stockholm. Often billed alongside dj døden, Marble and Dorisburg. Next up: Trädgården, Stockholm on Sat 8 Aug.
+Prescott is a house and techno artist based in Sweden, tracked on soundcheck, with 30 sets logged across Copenhagen and Stockholm. Often billed alongside dj døden, Marble and Amaliah. Next up: Trädgården, Stockholm on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Trädgården | Stockholm |
+| Sat, 8 Aug 2026 | TBA | Stockholm |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Prescott is a house and techno artist based in Sweden, tracked on soundcheck, wi
 
 ## Shares bills with
 
-dj døden, Marble, Dorisburg
+dj døden, Marble, Amaliah
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prescott/)*

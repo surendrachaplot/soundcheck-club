@@ -8,7 +8,7 @@ Odaiba is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | CIRCUS Odaiba | DREAD MC, Flowdan, Grafix, Lady Shaka, Metrik, Mura Masa, RIRIA, nasthug, ryota dj |
+| Tue, 22 Sept 2026 | CIRCUS Odaiba | DREAD MC, Flowdan, Grafix, Lady Shaka, Metrik, Mura Masa, Oppidan, RIRIA, Soichi Terada, nasthug, ryota dj |
 | Wed, 23 Sept 2026 | CIRCUS × CIRCUS Odaiba | Peterparker69 |
 
 ## Address

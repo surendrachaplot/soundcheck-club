@@ -1,8 +1,8 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
+Shermanology is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
 
-Shermanology is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: Madam, Amsterdam on Fri 7 Aug.
+Shermanology is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: Madam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 94 set
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Madam | Amsterdam |
 | Thu, 20 Aug 2026 | Chinois Ibiza | Ibiza |
+| Sat, 29 Aug 2026 | ZeyZey | Miami |
 | Sun, 6 Sept 2026 | WestWeelde | Amsterdam |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |

@@ -9,7 +9,7 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Groove Galore | CDB (1), Dari Dark, Sarica |
-| Sat, 8 Aug 2026 | Kinky Karneval Festival Edition |  |
+| Sat, 8 Aug 2026 | Kinky Karneval Festival Edition | Gizmo, Mhan Solo |
 | Sat, 15 Aug 2026 | Township Rebellion Invites Open Air | Nothing But Love, SKIY, Township Rebellion |
 | Fri, 21 Aug 2026 | Scholli pres. Volkoder | Genji Yoshida, Human Rias, Nicholsandroark, Volkoder |
 | Sat, 22 Aug 2026 | TOON TOWN RETURNS w. Grace Dahl (OPEN AIR & INDOOR) | Dolan, Elpawel, Grace Dahl, Inu G, Jeyrototo, Kamo, Kongusto, O/H/M, RAPH, SHAJAN, TONA |

@@ -1,14 +1,15 @@
 # Profesito
 
-Profesito is a Club and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 15 Aug 2026.
+Profesito is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 15 Aug 2026.
 
-Profesito is a club and reggaeton artist based in United States of America, tracked on soundcheck, with 60 sets logged across Losangeles and Sanfrancisco. Often billed alongside Louie El Ser, QUEENIE (US) and DJ Saratonin. Next up: The Great Northern, Sanfrancisco on Sat 15 Aug.
+Profesito is a club and reggaeton artist based in United States of America, tracked on soundcheck, with 61 sets logged across Losangeles and Sanfrancisco. Often billed alongside Louie El Ser, QUEENIE (US) and DJ Saratonin. Next up: The Great Northern, Sanfrancisco on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The Great Northern | San Francisco/Oakland |
+| Fri, 21 Aug 2026 | El Rio | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played

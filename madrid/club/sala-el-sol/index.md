@@ -12,9 +12,9 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 9 upcoming nights, 
 | Sat, 8 Aug 2026 | Elements Cave - Tere Ling | KHAOS IN ORDER, Lucía Gea, Pulpix, Tere Ling, Tori |
 | Wed, 12 Aug 2026 | Elements Cave |  |
 | Fri, 14 Aug 2026 | MIKE RISH - JODITA MADRID | Irene Yago |
-| Sat, 15 Aug 2026 | Elements Cave |  |
+| Sat, 15 Aug 2026 | Elements Cave x Euphoria |  |
 | Wed, 19 Aug 2026 | Elements Cave |  |
-| Sat, 22 Aug 2026 | Elements Cave |  |
+| Sat, 22 Aug 2026 | Elements Cave - Phat Otiz |  |
 | Wed, 26 Aug 2026 | Elements Cave |  |
 | Sat, 29 Aug 2026 | Elements Cave |  |
 

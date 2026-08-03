@@ -1,14 +1,15 @@
 # Medha Achar
 
-Medha Achar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 15 Aug 2026.
+Medha Achar is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 15 Aug 2026.
 
-Medha Achar is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit. Often billed alongside Dru Allan, hypemelo and Jorissen. Next up: Northern Lights Lounge, Detroit on Sat 15 Aug.
+Medha Achar is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit. Often billed alongside Dru Allan, hypemelo and Jorissen. Next up: Northern Lights Lounge, Detroit on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Northern Lights Lounge | Detroit |
+| Sat, 22 Aug 2026 | TBA | Detroit |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Michael Nowak
 
-Michael Nowak is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pimpernel, Munich on Tue, 4 Aug 2026.
+Michael Nowak is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pimpernel, Munich on Tue, 4 Aug 2026.
 
-Michael Nowak is a progressive house and house artist based in Germany, tracked on soundcheck, with 79 sets logged across Munich. Often billed alongside NOWAK, Alice DiMar and ROBOTIQ. Next up: Pimpernel, Munich on Tue 4 Aug.
+Michael Nowak is a house and progressive house artist based in Germany, tracked on soundcheck, with 80 sets logged across Munich. Often billed alongside NOWAK, Alice DiMar and ROBOTIQ. Next up: Pimpernel, Munich on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | Pimpernel | Munich |
+| Tue, 18 Aug 2026 | Pimpernel | Munich |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
-| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 
 ## Recently played

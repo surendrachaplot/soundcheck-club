@@ -9,7 +9,7 @@ The Workmans Club is a music venue in Dublin listed on soundcheck. 3 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | 08/08 // TRIAD at The Workmans Main Room |  |
-| Sat, 15 Aug 2026 | HEXO FUNDRAISER @WORKMANS |  |
+| Sat, 15 Aug 2026 | HEXO FUNDRAISER €3 (NIGHT PARTY) |  |
 | Fri, 4 Sept 2026 | Etienne de Crécy (DJ Set) | Pablo Fatty Fatty |
 
 ## Address

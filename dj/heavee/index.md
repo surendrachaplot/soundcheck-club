@@ -1,14 +1,14 @@
 # Heavee
 
-Heavee is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 7650 Hawley st Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
+Heavee is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-Heavee is a footwork and club artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Big Dope P, Kode9 and avas. Next up: TBA - 7650 Hawley st Oakland, Sanfrancisco on Fri 14 Aug.
+Heavee is a footwork and club artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Big Dope P, Kode9 and avas. Next up: TBA - Oakland, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - 7650 Hawley st Oakland | San Francisco/Oakland |
+| Fri, 14 Aug 2026 | TBA - Oakland | San Francisco/Oakland |
 | Thu, 20 Aug 2026 | public records | New York City |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Bloom Festival 2026 at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal
 
-Bloom Festival 2026 at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal on Fri 18 Sept, Porto. 17 acts on the bill: Bedouin, Bora Uzer, Dennis Cruz and DJ Vibe and 13 more. House. Preview the line-up and save it on soundcheck.
+Bloom Festival 2026 at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal on Fri 18 Sept, Porto. 18 acts on the bill: Antdot, Bedouin, Bora Uzer and Dennis Cruz and 14 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Bloom Festival 2026 at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portu
 
 ## Line-up
 
+- Antdot
 - Bedouin
 - Bora Uzer
 - Dennis Cruz

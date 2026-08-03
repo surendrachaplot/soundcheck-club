@@ -9,7 +9,7 @@ AMT is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with lin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Kitchenrave by CiaoCiao | Annina, BAHAA AL DEEN, Blosvenn, Jana Falcon, Keumzer, Lobby (FR), Mila Stern, Radio Marrakech, SURCO, Varia Aves |
-| Sat, 8 Aug 2026 | PUDDINGS x NEST pres. BEACHBALL |  |
+| Sat, 8 Aug 2026 | PUDDINGS x NEST pres. BEACHBALL | BODYSHIFT, Bruna N., Charlie Vaux, Enzio Etchaberri, James Lotion, Juan Ramos, Justin Shaffer, Robin Flux, SIBAST, Sub Sahara, Triqi, wannadosomething? |
 | Sat, 15 Aug 2026 | AMT x Moritz Biebl invites: | ALVA (FR), Alva, BUTZ, Hontas, Jay Dee, Moritz Biebl, Soulcontrol, Tosha |
 | Fri, 21 Aug 2026 | SUBSTATION |  |
 | Fri, 11 Sept 2026 | CLASH | Danny Roach, Esther Dune, Lixi, RuBi. |

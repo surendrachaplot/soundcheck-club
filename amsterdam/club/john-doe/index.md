@@ -1,8 +1,8 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 42 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE" on Mon, 3 Aug 2026.
+John Doe is a music venue in Amsterdam with 47 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE" on Mon, 3 Aug 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 42 upcoming nights, with line-ups including 2LS (1), Ahku, Alex Medina and ARTISTIKK and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 47 upcoming nights, with line-ups including 2LS (1), Ahku, Alex Medina and ARTISTIKK and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 

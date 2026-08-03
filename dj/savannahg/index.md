@@ -1,14 +1,15 @@
 # Savannah G
 
-Savannah G is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Paris Bar, Detroit on Sat, 8 Aug 2026.
+Savannah G is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Paris Bar, Detroit on Sat, 8 Aug 2026.
 
-Savannah G is a disco and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Detroit, Newyorkcity and Toronto. Often billed alongside Auntie Chanel, Stevano and Jesse Cory. Next up: Paris Bar, Detroit on Sat 8 Aug.
+Savannah G is a disco and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Detroit, Newyorkcity and Toronto. Often billed alongside Auntie Chanel, Stevano and Jesse Cory. Next up: Paris Bar, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Paris Bar | Detroit |
+| Sat, 22 Aug 2026 | TBA | Detroit |
 | Sat, 29 Aug 2026 | public records | New York City |
 
 ## Recently played
