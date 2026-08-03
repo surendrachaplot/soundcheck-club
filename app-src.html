@@ -3104,7 +3104,7 @@
     .pr-go{ flex:none; color:var(--muted); font-size:var(--fs-base); margin-top:2px; }
     .fp-skw{ min-width:0; }   /* grid item: cap auto-min so 1fr tracks stay equal (long titles/channels blew out one column) */
     .fp-sk{ display:flex; flex-direction:column; text-align:left; background:none; border:0; padding:0; cursor:pointer; color:var(--fg); min-width:0; }
-    .fp-sk-th{ position:relative; aspect-ratio:16/9; border-radius:var(--radius-md); background-size:cover; background-position:center; background-color:var(--surface-3); overflow:hidden; }
+    .fp-sk-th{ position:relative; width:100%; aspect-ratio:16/9; border-radius:var(--radius-md); background-size:cover; background-position:center; background-color:var(--surface-3); overflow:hidden; }
     .fp-sk-dur{ position:absolute; left:6px; bottom:6px; font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); background:rgba(22,16,42,.82); color:var(--fg); border-radius:var(--radius-2xs); padding:2px 6px; }
     .fp-sk-pl{ position:absolute; right:6px; bottom:6px; width:34px; height:34px; border-radius:50%; background:var(--accent); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-sm); border:1px solid var(--accent); }
     .fp-sk-ti{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-0.01em; line-height:1.2; margin-top:9px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
@@ -3907,7 +3907,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785790078545">
+<meta name="sc-build" content="1785790726103">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4805,8 +4805,14 @@
         // the request path most artists are unresolved on YouTube until the
         // nightly pass reaches them, while their SoundCloud or NTS sets are
         // already sitting in the database.
-        var first=(arguments[0]||[])[startIdx||0] || (arguments[0]||[])[0];
-        if(await playFallback(first)) return;
+        // Try EVERY act on the bill, not just the first. A four-artist line-up
+        // where the opener happens to have nothing indexed would otherwise report
+        // "no sets" while the headliner has a SoundCloud mix sitting in the DB —
+        // which is exactly what a whole event page looked like.
+        var all=(arguments[0]||[]);
+        var order=[]; var s0=startIdx||0;
+        for(var i=0;i<all.length;i++) order.push(all[(s0+i)%all.length]);
+        for(var j=0;j<order.length;j++){ if(await playFallback(order[j])) return; }
         showToast('No sets ready for this line-up yet.'); return;
       }
       scQErr=0; scQ=list; playScQ(startIdx||0);
@@ -5376,7 +5382,24 @@
       if(a.dataset.venue){ openVenue(a.dataset.venue, a.dataset.city||a.dataset.vcity||null); return; }
       var evEl=a.closest('[data-evt],[data-event-id],[data-open-evt]');
       var id=a.dataset.evt||a.dataset.eventId||a.dataset.openEvt||(evEl&&(evEl.dataset.evt||evEl.dataset.eventId||evEl.dataset.openEvt));
-      if(id!=null&&id!==''){ var o=(typeof lookup!=='undefined'&&lookup.byEvent)?lookup.byEvent[id]:null; if(o&&typeof openSheet==='function') openSheet(o); else if(typeof openEvent==='function') openEvent(id); }
+      if(id!=null&&id!==''){ var o=(typeof lookup!=='undefined'&&lookup.byEvent)?lookup.byEvent[id]:null; if(o&&typeof openSheet==='function') openSheet(o); else if(typeof openEvent==='function') openEvent(id); return; }
+      // GENERIC FALLBACK — the fix for the whole bug family this comment warns
+      // about. Anything above matches on a data-* hook; an anchor without one
+      // used to fall off the end already prevented and stopped, i.e. a link that
+      // does nothing on click but works on right-click → open-in-new-tab. That
+      // killed profile links once and every guide/list chip after that.
+      //
+      // So: resolve the href as an in-app route and dispatch it. If the router
+      // does not recognise it, hand it back to the browser rather than silently
+      // eating the click — a real navigation is always better than nothing.
+      var href=a.getAttribute('href')||'';
+      if(href && href.charAt(0)==='/'){
+        var prev=location.pathname+location.search+location.hash;
+        history.pushState({sc:1},'',href);
+        if(pathRoute()){ handleRoute(); return; }
+        history.replaceState({sc:1},'',prev);   // unknown route → undo, then really navigate
+      }
+      if(href) location.href=href;
     }, true);
     // 2) Fallback for nav elements that are NOT anchors yet: resolve the URL and open it.
     (function(){
@@ -8739,7 +8762,7 @@
         var nm=s.cityName||city;
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub">Who&rsquo;s playing, the venues they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
         h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-venues"></div><div id="cs-routes"></div>';
-        h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>';
+        h+='<div id="cs-areas"></div><div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>';
         openPanel(h);
         setSeo(nm+" scene guide — who's playing, the venues & sounds | soundcheck", 'The artists playing '+nm+' this month, the venues they’re in, upcoming nights and the sounds that define the city.', null, location.origin+SC_BASE+city+'/scene/');
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
@@ -8751,21 +8774,29 @@
         mountEventRail(document.getElementById('cs-posters'), (s.upcomingEvents||[]), { title:'Upcoming', mt:1 });
         mountVenueRail(document.getElementById('cs-venues'), (s.bestVenues||[]), { title:'Venues', city:city, mt:1 });
 
-        // Find your venue (sound → venues)
-        var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
-        if(croute && rts.length){
-          var rhtml='';
-          if(yr.length){
-            rhtml+='<div class="sec-h" style="margin-top:26px">Tuned to your taste</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' venues likely to play it.</p>'+sceneRouteHTML(yr);
-            var yrG={}; yr.forEach(function(r){ yrG[r.genre]=1; });
-            var rest=rts.filter(function(r){ return !yrG[r.genre]; });
-            if(rest.length) rhtml+='<div class="sec-h" style="margin-top:26px">More sounds here</div>'+sceneRouteHTML(rest);
-          } else {
-            rhtml+='<div class="sec-h" style="margin-top:26px">Find your venue</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' venues likely to play it.</p>'+sceneRouteHTML(rts);
-          }
-          croute.innerHTML=rhtml;
-          croute.querySelectorAll('.rf-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
-        }
+        // Sounds and areas — the same guides the hub links to, so a sound here is
+        // a real page rather than a taste-ranked list of venues that only made
+        // sense to the person logged in. Replaces the old taste-routed sections.
+        (function(){
+          var croute=document.getElementById('cs-routes'); if(!croute) return;
+          authedFetch('/api/guides?city='+encodeURIComponent(city)).then(function(r){ return r.json(); }).then(function(d){
+            var h='';
+            if((d.genres||[]).length){
+              h+=secH('By sound in '+nm, 1)+'<div class="gd-chips">'+d.genres.map(function(g){
+                return '<a class="gd-chip nav" href="'+esc(SC_BASE+city+'/'+g.slug+'/')+'">'+esc(g.name)+'<span class="gd-ct">'+g.count+'</span></a>';
+              }).join('')+'</div>';
+            }
+            // Areas sit directly ABOVE the map — you pick the part of town, then
+            // see it on the map, rather than scrolling past the map to find them.
+            if((d.areas||[]).length){
+              var am=document.getElementById('cs-areas');
+              if(am) am.innerHTML=secH('By area in '+nm, 1)+'<div class="gd-chips">'+d.areas.map(function(a){
+                return '<a class="gd-chip nav" href="'+esc(SC_BASE+city+'/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
+              }).join('')+'</div>';
+            }
+            croute.innerHTML=h;
+          }).catch(function(){ /* the guide is optional furniture on this page */ });
+        })();
 
         // Map — at the very bottom. Only the busiest venues (5+ upcoming nights), so the
         // pins read as a real scene map, not every geocoded address with a stray date.
