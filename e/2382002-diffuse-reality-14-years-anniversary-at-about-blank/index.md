@@ -1,6 +1,6 @@
 # DIFFUSE REALITY [14 Years Anniversary] at ://about blank
 
-DIFFUSE REALITY [14 Years Anniversary] at ://about blank on Thu 13 Aug, Berlin. 7 acts on the bill: Catem, CSL, Fac3less and Just1 and 3 more. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY [14 Years Anniversary] at ://about blank on Thu 13 Aug, Berlin. 8 acts on the bill: Catem, CSL, Fac3less and Florist and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ DIFFUSE REALITY [14 Years Anniversary] at ://about blank on Thu 13 Aug, Berlin. 
 - Catem
 - CSL
 - Fac3less
+- Florist
 - Just1
 - Origami
 - Raw Image

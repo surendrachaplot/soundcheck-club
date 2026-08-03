@@ -17,7 +17,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 47 upcoming nights,
 | Sun, 9 Aug 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 10 Aug 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
 | Tue, 11 Aug 2026 | [PHANTOM GROUP] KLUBNACHT w inKKiss | inKKiss |
-| Wed, 12 Aug 2026 | RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG] & Djaygo [NL] | Djaygo T, Uma Scheffer |
+| Wed, 12 Aug 2026 | RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick | Djaygo T, NELLIE, Uma Scheffer |
 
 ## Address
 

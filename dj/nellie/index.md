@@ -1,14 +1,15 @@
 # NELLIE
 
-NELLIE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at John Doe, Amsterdam on Wed, 5 Aug 2026.
+NELLIE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at John Doe, Amsterdam on Wed, 5 Aug 2026.
 
-NELLIE is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Rotterdam and Stockholm. Often billed alongside Danay, Deuvren and Djaygo T. Next up: John Doe, Amsterdam on Wed 5 Aug.
+NELLIE is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Rotterdam and Stockholm. Often billed alongside Djaygo T, Danay and Deuvren. Next up: John Doe, Amsterdam on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | John Doe | Amsterdam |
+| Wed, 12 Aug 2026 | John Doe | Amsterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ NELLIE is a techno and industrial artist based in Netherlands, tracked on soundc
 
 ## Shares bills with
 
-Danay, Deuvren, Djaygo T
+Djaygo T, Danay, Deuvren
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*

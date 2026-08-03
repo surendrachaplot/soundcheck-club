@@ -17,7 +17,7 @@
 | Sat, 8 Aug 2026 | STAUB |  |
 | Sat, 8 Aug 2026 | ://elements | Artifex (DE), EMAILLE, Franz Jäger, Kontinum, Noirnor, Shimmy Robin, THNTS, Vivian Koch, a:tok, vauna |
 | Sun, 9 Aug 2026 | FLINTA Lustgarten (sex positive, daytime, open-air / for flintas only) | Belen Zer, a:tok |
-| Thu, 13 Aug 2026 | DIFFUSE REALITY [14 Years Anniversary] | CSL, Catem, Fac3less, Just1, Origami, Raw Image, Squaric |
+| Thu, 13 Aug 2026 | DIFFUSE REALITY [14 Years Anniversary] | CSL, Catem, Fac3less, Florist, Just1, Origami, Raw Image, Squaric |
 
 ## Address
 

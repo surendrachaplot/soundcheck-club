@@ -31,7 +31,7 @@ WAH MALTA at UNO MALTA on Thu 3 Sept, Malta. 74 acts on the bill: A Little Sound
 - Double O
 - Duskee
 - Emily Makis
-- Envy
+- EN:VY
 - Flava D
 - Fracture
 - Gardna
