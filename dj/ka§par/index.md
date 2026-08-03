@@ -1,13 +1,14 @@
 # Ka§par
 
-Ka§par is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
+Ka§par is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 9 Aug 2026.
 
-Ka§par is a house and disco artist based in Portugal, tracked on soundcheck, with 4 sets logged across Lisbon. Often billed alongside Floorplan, GAYANCE and Jovonn. Next up: Lux Fragil, Lisbon on Fri 14 Aug.
+Ka§par is a house and deep house artist based in Portugal, tracked on soundcheck, with 5 sets logged across Lisbon. Often billed alongside Andrew Emil, Floorplan and GAYANCE. Next up: Carmo Rooftop, Lisbon on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Carmo Rooftop | Lisbon |
 | Fri, 14 Aug 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
@@ -18,6 +19,6 @@ Ka§par is a house and disco artist based in Portugal, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Floorplan, GAYANCE, Jovonn
+Andrew Emil, Floorplan, GAYANCE
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ka§par/)*

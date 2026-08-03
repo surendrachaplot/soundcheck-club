@@ -1,8 +1,8 @@
 # Laorden
 
-Laorden is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
+Laorden is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
 
-Laorden is a house and disco artist based in Spain, tracked on soundcheck, with 1 set logged across Madrid. Next up: Sala Siroco, Madrid on Fri 7 Aug.
+Laorden is a disco and house artist based in Spain, tracked on soundcheck, with 1 set logged across Madrid. Next up: Sala Siroco, Madrid on Fri 7 Aug.
 
 ## Upcoming shows
 

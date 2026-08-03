@@ -1,13 +1,14 @@
 # Kovvalsky
 
-Kovvalsky is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
+Kovvalsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 7 Aug 2026.
 
-Kovvalsky is a techno and house artist tracked on soundcheck, with 86 sets logged across Berlin, Krakow, Milan and Newyorkcity and 4 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: Jasna 1, Warsaw on Fri 11 Sept.
+Kovvalsky is a techno and house artist tracked on soundcheck, with 87 sets logged across Berlin, Krakow, Milan and Newyorkcity and 4 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: K-Bar Powiśle, Warsaw on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | K-Bar Powiśle | Warsaw |
 | Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 
 ## Recently played

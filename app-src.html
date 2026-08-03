@@ -3794,9 +3794,11 @@
        Everything here is composed from existing tokens; no new sizes, no new
        radii, and the buttons are the canonical .act-btn row. */
     .gd-head { margin-bottom:4px; }
-    .gd-actions { display:flex; flex-wrap:wrap; gap:9px; margin:18px 0 4px; max-width:440px; }
-    .gd-actions .act-btn { flex:1 1 calc(50% - 5px); text-decoration:none; }
-    .gd-actions .act-btn svg { width:var(--icon-sm); height:var(--icon-sm); }
+    /* Same row as the artist page action bar — .fp-ab carries every visual,
+       so the one gradient Play here is the SAME button as everywhere else. */
+    .gd-actions { display:flex; flex-wrap:wrap; gap:9px; margin:18px 0 4px; }
+    .gd-actions .fp-ab { text-decoration:none; }
+    
 
     /* chip strips: the sounds and areas of a city, and the sideways mesh */
     .gd-chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:10px; }
@@ -3911,7 +3913,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785787600332">
+<meta name="sc-build" content="1785788874755">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -8801,7 +8803,7 @@
     // and falls back to SoundCloud/NTS. NOTHING here may search YouTube.
     function guidePlayHTML(n){
       if(!n) return '';
-      return '<button class="act-btn radio" id="gd-play" type="button">'+PLAY_SVG+'Play</button>';
+      return '<button class="fp-ab go" id="gd-play" type="button">'+PLAY_SVG+'Play</button>';
     }
     function wireGuidePlay(play, label){
       var b=document.getElementById('gd-play'); if(!b) return;
@@ -8838,7 +8840,7 @@
         if(!r.ok){
           // A URL that is no longer a guide (a genre whose last event passed) is
           // not an error page — send them to the city they asked for.
-          openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="act-btn" id="gd-city" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
+          openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="fp-ab" id="gd-city" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
           var gc=document.getElementById('gd-city'); if(gc) gc.addEventListener('click',function(){ hidePage(); setCity(city,true); });
           return;
         }
@@ -8846,7 +8848,7 @@
         var h='<div class="gd-head"><h2 class="page-title">'+esc(g.title)+'</h2><div class="sub">'+esc(g.subtitle||'')+'</div>'+
               (g.blurb?'<p class="seo-desc">'+esc(g.blurb)+'</p>':'')+
               '<div class="gd-actions">'+guidePlayHTML((g.play||[]).length)+
-              '<button class="act-btn" id="gd-share" type="button">Share</button></div></div>';
+              '<button class="fp-ab" id="gd-share" type="button">Share</button></div></div>';
         (g.sections||[]).forEach(function(s,i){
           h+=secH(s.date?fmtDateLabel(s.date):s.label, i?1:0)+'<div class="gd-evs" data-sec="'+i+'"></div>';
         });
@@ -8902,7 +8904,7 @@
         var h='<div class="gd-head"><h2 class="page-title">'+esc(title)+'</h2><div class="sub">'+items.length+' selectors</div>'+
               '<p class="seo-desc">'+esc(blurb)+'</p>'+
               '<div class="gd-actions">'+guidePlayHTML(items.length)+
-              '<a class="act-btn nav" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
+              '<a class="fp-ab nav" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
         h+=guideArtistRowsHTML(items);
         openPanel(h);
         var canon=location.origin+url;
@@ -8920,8 +8922,8 @@
         var d=await r.json();
         var cn=d.cityName||cityLabel(currentCity);
         var h='<h2 class="page-title">Guides &amp; lists</h2><div class="sub">Where to go, by sound and by area — and lists made by people here.</div>';
-        h+='<div class="gd-actions"><button class="act-btn radio" id="gl-new" type="button">New list</button>'+
-           '<button class="act-btn" id="gl-mine" type="button">My lists</button></div>';
+        h+='<div class="gd-actions"><button class="fp-ab go" id="gl-new" type="button">New list</button>'+
+           '<button class="fp-ab" id="gl-mine" type="button">My lists</button></div>';
         if(d.weekend) h+=secH('Start here',1)+'<div class="gd-chips"><a class="gd-chip gd-chip-lg nav" href="'+esc(SC_BASE+d.city+'/this-weekend/')+'">'+esc(d.weekend.title)+'</a></div>';
         if((d.genres||[]).length) h+=secH('By sound in '+cn,1)+'<div class="gd-chips">'+d.genres.map(function(g){
           return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/'+g.slug+'/')+'">'+esc(g.name)+'<span class="gd-ct">'+g.count+'</span></a>';
@@ -8957,8 +8959,8 @@
               '<div class="sub">'+esc(L.count+(L.count===1?' artist':' artists'))+' · by <a class="nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(L.by.handle)+'/')+'">'+esc(L.by.name)+'</a>'+(L.public?'':' · private')+'</div>'+
               (L.blurb?'<p class="seo-desc">'+esc(L.blurb)+'</p>':'')+
               '<div class="gd-actions">'+guidePlayHTML((L.play||[]).length)+
-              '<button class="act-btn" id="gd-share" type="button">Share</button>'+
-              (L.mine?'<button class="act-btn" id="ls-edit" type="button">Edit</button>':'')+'</div></div>';
+              '<button class="fp-ab" id="gd-share" type="button">Share</button>'+
+              (L.mine?'<button class="fp-ab" id="ls-edit" type="button">Edit</button>':'')+'</div></div>';
         h+=(L.items||[]).length?guideArtistRowsHTML(L.items.filter(function(i){ return i.kind==='artist'; })):
            '<div class="empty">Nothing on this list yet.</div>';
         openPanel(h);
@@ -9025,7 +9027,7 @@
         '<label class="ee-l">Title</label><input type="text" id="el-title" maxlength="120" value="'+attrEsc(L.title)+'">'+
         '<label class="ee-l">Description</label><textarea id="el-blurb" maxlength="500">'+esc(L.blurb||'')+'</textarea>'+
         '<label class="ee-check"><input type="checkbox" id="el-pub"'+(L.public?' checked':'')+'> Anyone can see this list</label>'+
-        '<button class="act-btn ee-danger" id="el-del" type="button">Delete list</button>',
+        '<button class="fp-ab ee-danger" id="el-del" type="button">Delete list</button>',
         { cta:'Save', onGo: async function(close, o, go){
           var err=o.querySelector('[data-modal-err]'); go.disabled=true; err.textContent='';
           try{
@@ -9082,7 +9084,7 @@
                  '<span class="atl-name">'+esc(l.title)+'</span><span class="atl-ct">'+(l.has?'Added':'')+'</span></button>';
         }).join('');
         host.innerHTML=(rows||'<div class="empty">No lists yet — make your first.</div>')+
-          '<button class="act-btn" id="atl-new" type="button">New list</button>';
+          '<button class="fp-ab" id="atl-new" type="button">New list</button>';
         wire();
       }catch(_){ host.innerHTML='<div class="empty">Couldn’t load your lists.</div>'; }
     }
