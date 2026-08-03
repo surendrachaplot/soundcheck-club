@@ -1,6 +1,6 @@
 # P-Lucas
 
-P-Lucas is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+P-Lucas is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
 
 P-Lucas is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Kojay, Kanem and Otus. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ P-Lucas is a deep house and house artist based in United Kingdom, tracked on sou
 
 Kojay, Kanem, Otus
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*

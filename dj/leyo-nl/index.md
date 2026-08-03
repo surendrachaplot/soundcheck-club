@@ -1,6 +1,6 @@
 # LEYO (NL)
 
-LEYO (NL) is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
+LEYO (NL) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
 
 LEYO (NL) is a house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Ammé, FLETCH (GB) and Fleur Shore. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ LEYO (NL) is a house artist based in United Kingdom, tracked on soundcheck, with
 
 Ammé, FLETCH (GB), Fleur Shore
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyo-nl/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyo-nl/)*

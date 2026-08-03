@@ -1,6 +1,6 @@
 # Concept Haus
 
-Concept Haus is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "BITRATE.: Mr Weebl / SPINEE / koti parti / VGTBL.PL / lifeloose / Lucky Iris" on Sat, 15 Aug 2026.
+Concept Haus is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "BITRATE.: Mr Weebl / SPINEE / koti parti / VGTBL.PL / lifeloose / Lucky Iris" on Sat, 15 Aug 2026.
 
 Concept Haus is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including kaoti, lifeloose, PHIA SKY and SPINEE. Browse upcoming dates, start times and who's playing. 29 Cobden Street, Salford, M66WF.
 
@@ -14,4 +14,4 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 1 upcoming nig
 
 29 Cobden Street, Salford, M66WF, Manchester
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*

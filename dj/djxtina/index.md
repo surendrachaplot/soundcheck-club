@@ -1,6 +1,6 @@
 # DJ Xtina
 
-DJ Xtina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bastet, Philadelphia on Fri, 7 Aug 2026.
+DJ Xtina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bastet, Philadelphia on Fri, 7 Aug 2026.
 
 DJ Xtina is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity and Philadelphia. Often billed alongside Francisco Collazo, G I N A and Firestone. Next up: Bastet, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Xtina is a house and techno artist based in United States of America, tracked
 
 Francisco Collazo, G I N A, Firestone
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djxtina/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djxtina/)*

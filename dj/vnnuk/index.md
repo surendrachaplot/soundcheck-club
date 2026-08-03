@@ -1,6 +1,6 @@
 # VNNUK
 
-VNNUK is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Altenburg 1964, Prague on Thu, 6 Aug 2026.
+VNNUK is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Altenburg 1964, Prague on Thu, 6 Aug 2026.
 
 VNNUK is a techno and experimental artist based in Czech Republic, tracked on soundcheck, with 27 sets logged across Prague. Often billed alongside Atlaskin, zazitech and 3ever. Next up: Altenburg 1964, Prague on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ VNNUK is a techno and experimental artist based in Czech Republic, tracked on so
 
 Atlaskin, zazitech, 3ever
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*

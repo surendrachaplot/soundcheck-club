@@ -1,6 +1,6 @@
 # Lawrence
 
-Lawrence is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
+Lawrence is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
 
 Lawrence is a techno and house artist based in Germany, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Basel and Berlin and 16 more. Often billed alongside Edward, Konstantin and Leafar Legov. Next up: La Cité Fertile, Paris on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Lawrence is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Edward, Konstantin, Leafar Legov
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*

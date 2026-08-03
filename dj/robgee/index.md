@@ -1,6 +1,6 @@
 # Rob Gee
 
-Rob Gee is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Aaja Basement, London on Sat, 8 Aug 2026.
+Rob Gee is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Aaja Basement, London on Sat, 8 Aug 2026.
 
 Rob Gee is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 17 sets logged across Antwerp, Barcelona, Belfast and Berlin and 10 more. Often billed alongside Da Tweekaz, 4wallzz and ANGEL CANNON. Next up: Aaja Basement, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Rob Gee is a hardcore and gabber artist based in United States of America, track
 
 Da Tweekaz, 4wallzz, ANGEL CANNON
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robgee/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robgee/)*

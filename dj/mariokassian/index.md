@@ -1,6 +1,6 @@
 # Mario Kassian
 
-Mario Kassian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at West Harlem, Kyoto on Fri, 7 Aug 2026.
+Mario Kassian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at West Harlem, Kyoto on Fri, 7 Aug 2026.
 
 Mario Kassian is a house and techno artist tracked on soundcheck, with 41 sets logged across Kyoto and Osaka. Often billed alongside Matthias Abe, Lomax and EUREKA. Next up: West Harlem, Kyoto on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mario Kassian is a house and techno artist tracked on soundcheck, with 41 sets l
 
 Matthias Abe, Lomax, EUREKA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariokassian/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariokassian/)*

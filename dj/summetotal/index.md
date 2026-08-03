@@ -1,6 +1,6 @@
 # Summe Total
 
-Summe Total is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gewölbe, Cologne on Fri, 28 Aug 2026.
+Summe Total is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gewölbe, Cologne on Fri, 28 Aug 2026.
 
 Summe Total is an electronic artist based in Germany, tracked on soundcheck, with 8 sets logged across Cologne. Often billed alongside Leon Hagen, Pascal Wagner and Sebastian Habben. Next up: Gewölbe, Cologne on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Summe Total is an electronic artist based in Germany, tracked on soundcheck, wit
 
 Leon Hagen, Pascal Wagner, Sebastian Habben
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/summetotal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/summetotal/)*

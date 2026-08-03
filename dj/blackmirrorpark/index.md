@@ -1,6 +1,6 @@
 # Black Mirror Park
 
-Black Mirror Park is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Black Mirror Park is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Black Mirror Park is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 6 more. Often billed alongside bb:fm, MASCHA and O/Y. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Black Mirror Park is a techno and house artist based in Germany, tracked on soun
 
 bb:fm, MASCHA, O/Y
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*

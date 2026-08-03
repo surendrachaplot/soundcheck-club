@@ -1,6 +1,6 @@
 # Jellyf!sh
 
-Jellyf!sh is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at clubasia, Tokyo on Wed, 19 Aug 2026.
+Jellyf!sh is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at clubasia, Tokyo on Wed, 19 Aug 2026.
 
 Jellyf!sh is a house and minimal artist tracked on soundcheck, with 48 sets logged across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and kyuuu. Next up: clubasia, Tokyo on Wed 19 Aug.
 
@@ -27,4 +27,4 @@ Jellyf!sh is a house and minimal artist tracked on soundcheck, with 48 sets logg
 
 FUJI TRILL, misa nakamura, kyuuu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*

@@ -1,6 +1,6 @@
 # Mr. Tron
 
-Mr. Tron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
+Mr. Tron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
 
 Mr. Tron is a techno and house artist tracked on soundcheck, with 22 sets logged across Boston, Buenosaires and Miami. Often billed alongside feph, Souls Departed and Radar. Next up: Domicile, Miami on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mr. Tron is a techno and house artist tracked on soundcheck, with 22 sets logged
 
 feph, Souls Departed, Radar
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrtron/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrtron/)*

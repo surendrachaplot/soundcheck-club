@@ -1,6 +1,6 @@
 # Fear-E
 
-Fear-E is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at OHM, Berlin on Thu, 6 Aug 2026.
+Fear-E is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at OHM, Berlin on Thu, 6 Aug 2026.
 
 Fear-E is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 4 more. Often billed alongside Jerome Hill, Co-Accused and Nightwave. Next up: OHM, Berlin on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Fear-E is a techno and acid artist based in United Kingdom, tracked on soundchec
 
 Jerome Hill, Co-Accused, Nightwave
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*

@@ -1,14 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Southside Weekender Sunday Afterparty w/ Harri & Cinthie" on Sun, 2 Aug 2026.
+Sub Club is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FLY Summertime - Afterparty - Sub Club" on Fri, 7 Aug 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including Acido Cielo, Breathe, Cinthie and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Acido Cielo, Breathe, Dean Turnley and Dennis Quin and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Southside Weekender Sunday Afterparty w/ Harri & Cinthie | Cinthie, DJ Harri |
 | Fri, 7 Aug 2026 | FLY Summertime - Afterparty - Sub Club |  |
 | Sat, 8 Aug 2026 | Subculture w/ Harri + Telford | DJ Harri, Stevie Cox, Telford |
 | Thu, 13 Aug 2026 | FLY - Dean Turnley - Glasgow | Dean Turnley |
@@ -18,9 +17,10 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, w
 | Sat, 22 Aug 2026 | Subculture w/ Optimo + dj peanut | Optimo (Espacio), dj peanut |
 | Fri, 28 Aug 2026 | Animal Farm: Laure Croft + Quail & CASE | Laure Croft, Quail |
 | Sat, 29 Aug 2026 | Subculture w/ Stevie Cox [All Night Long] | Stevie Cox |
+| Thu, 3 Sept 2026 | Through The Roof // Dennis Quin & Ranger Trucco | Dennis Quin, Ranger Trucco |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

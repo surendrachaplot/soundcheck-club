@@ -1,6 +1,6 @@
 # Kozma
 
-Kozma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 8 Aug 2026.
+Kozma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 8 Aug 2026.
 
 Kozma is a techno and experimental artist tracked on soundcheck, with 17 sets logged across Budapest and London. Often billed alongside Atashi, Rovizz and SABBER. Next up: Pontoon Budapest, Budapest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kozma is a techno and experimental artist tracked on soundcheck, with 17 sets lo
 
 Atashi, Rovizz, SABBER
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kozma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kozma/)*

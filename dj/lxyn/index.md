@@ -1,6 +1,6 @@
 # LXYN
 
-LXYN is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 7 Aug 2026.
+LXYN is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 7 Aug 2026.
 
 LXYN is a drum & bass and techno artist based in Thailand, tracked on soundcheck, with 22 sets logged across Bangkok. Often billed alongside NENEIA, KAMIKO and JOJOH. Next up: TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ LXYN is a drum & bass and techno artist based in Thailand, tracked on soundcheck
 
 NENEIA, KAMIKO, JOJOH
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lxyn/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lxyn/)*

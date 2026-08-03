@@ -1,6 +1,6 @@
 # Rumbler
 
-Rumbler is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nitsa Club, Barcelona on Fri, 14 Aug 2026.
+Rumbler is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nitsa Club, Barcelona on Fri, 14 Aug 2026.
 
 Rumbler is a techno and club artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin and Madrid. Often billed alongside EYRA, Chica Acosta and Gazzi. Next up: Nitsa Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Rumbler is a techno and club artist based in Spain, tracked on soundcheck, with 
 
 EYRA, Chica Acosta, Gazzi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbler/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbler/)*

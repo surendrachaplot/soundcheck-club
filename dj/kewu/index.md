@@ -1,6 +1,6 @@
 # Kewu
 
-Kewu is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bike Jesus, Prague on Fri, 7 Aug 2026.
+Kewu is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bike Jesus, Prague on Fri, 7 Aug 2026.
 
 Kewu is a techno and garage artist based in Czech Republic, tracked on soundcheck, with 41 sets logged across Prague. Often billed alongside Fembot, Big Lil and AMB (6). Next up: Bike Jesus, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kewu is a techno and garage artist based in Czech Republic, tracked on soundchec
 
 Fembot, Big Lil, AMB (6)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kewu/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kewu/)*

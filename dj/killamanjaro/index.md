@@ -1,6 +1,6 @@
 # Killamanjaro
 
-Killamanjaro is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 6 Aug 2026.
+Killamanjaro is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 6 Aug 2026.
 
 Killamanjaro is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside DAIZ, Breakfake and Felixculpah. Next up: Eastern Bloc Records, Manchester on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Killamanjaro is a drum & bass and jungle artist based in United Kingdom, tracked
 
 DAIZ, Breakfake, Felixculpah
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*

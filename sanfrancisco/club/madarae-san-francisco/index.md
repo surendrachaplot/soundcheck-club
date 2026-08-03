@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Outside Lands Friday with Nico Morano" on Fri, 7 Aug 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Outside Lands Friday with Nico Morano" on Fri, 7 Aug 2026.
 
 Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including MAGA and Nico Morano. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -15,4 +15,4 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 2 u
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

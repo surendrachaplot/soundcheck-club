@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Samedia Fringe All-Nighter" on Sat, 8 Aug 2026.
+The Mash House is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Samedia Fringe All-Nighter" on Sat, 8 Aug 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Chris Astrojazz, DV60 and Samedia Shebeen. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 3 upcoming ni
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

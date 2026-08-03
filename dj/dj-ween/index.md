@@ -1,6 +1,6 @@
 # DJ-Ween
 
-DJ-Ween is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+DJ-Ween is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
 
 DJ-Ween is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside S.3000, Zetson and Daddy Short Leg. Next up: ://about blank, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ-Ween is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 S.3000, Zetson, Daddy Short Leg
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ween/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ween/)*

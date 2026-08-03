@@ -1,6 +1,6 @@
 # Mush Love (UK)
 
-Mush Love (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Model, Nottingham on Sat, 22 Aug 2026.
+Mush Love (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Model, Nottingham on Sat, 22 Aug 2026.
 
 Mush Love (UK) is a house and techno artist tracked on soundcheck, with 25 sets logged across Nottingham. Often billed alongside James Tristan, rPal and Evil Woman. Next up: The Model, Nottingham on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mush Love (UK) is a house and techno artist tracked on soundcheck, with 25 sets 
 
 James Tristan, rPal, Evil Woman
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mushlove-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mushlove-uk/)*

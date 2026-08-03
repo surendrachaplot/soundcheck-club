@@ -1,6 +1,6 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DJ Khaled" on Fri, 7 Aug 2026.
+LIV Nightclub Miami is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DJ Khaled" on Fri, 7 Aug 2026.
 
 LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including Korolova and Nicky Romero. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
@@ -23,4 +23,4 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 12 upcoming 
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

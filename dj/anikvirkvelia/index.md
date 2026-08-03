@@ -1,6 +1,6 @@
 # Ani Kvirkvelia
 
-Ani Kvirkvelia is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 14 Aug 2026.
+Ani Kvirkvelia is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 14 Aug 2026.
 
 Ani Kvirkvelia is a techno and acid artist based in Georgia, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 1 more. Often billed alongside Seqta, Sevda and Generali Minerali. Next up: Den Anden Side, Copenhagen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ani Kvirkvelia is a techno and acid artist based in Georgia, tracked on soundche
 
 Seqta, Sevda, Generali Minerali
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikvirkvelia/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikvirkvelia/)*

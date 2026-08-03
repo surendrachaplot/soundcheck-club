@@ -1,6 +1,6 @@
 # Giuliano
 
-Giuliano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
+Giuliano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
 
 Giuliano is a house and tech house artist based in Argentina, tracked on soundcheck, with 5 sets logged across Barcelona and Buenosaires. Often billed alongside Giuliano Lomonte, SUSØ and Chico Fadelli. Next up: La Terrrazza, Barcelona on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ Giuliano is a house and tech house artist based in Argentina, tracked on soundch
 
 Giuliano Lomonte, SUSØ, Chico Fadelli
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliano/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliano/)*

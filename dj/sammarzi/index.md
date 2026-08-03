@@ -1,6 +1,6 @@
 # Sam Marzi
 
-Sam Marzi is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
+Sam Marzi is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
 
 Sam Marzi is a techno and minimal artist tracked on soundcheck, with 13 sets logged across Ibiza. Often billed alongside Janina, Luigi Rossi and ACA (YU). Next up: Eden, Ibiza on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Sam Marzi is a techno and minimal artist tracked on soundcheck, with 13 sets log
 
 Janina, Luigi Rossi, ACA (YU)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammarzi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammarzi/)*

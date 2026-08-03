@@ -1,6 +1,6 @@
 # XT1ANA
 
-XT1ANA is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+XT1ANA is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 XT1ANA is a club and afrobeats artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Jean Blaire, BBSHKALES and SALD3E. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ XT1ANA is a club and afrobeats artist tracked on soundcheck, with 22 sets logged
 
 Jean Blaire, BBSHKALES, SALD3E
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*

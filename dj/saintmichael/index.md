@@ -1,6 +1,6 @@
 # SAINT MICHAEL
 
-SAINT MICHAEL is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+SAINT MICHAEL is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
 SAINT MICHAEL is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Lisbon and Losangeles. Often billed alongside DeFacto X, ANYA JAVYBZ and Alxander Ivey. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ SAINT MICHAEL is a club and ghetto tech artist based in United States of America
 
 DeFacto X, ANYA JAVYBZ, Alxander Ivey
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintmichael/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintmichael/)*

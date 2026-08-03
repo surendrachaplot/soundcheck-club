@@ -1,6 +1,6 @@
 # clju_2k
 
-clju_2k is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
+clju_2k is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
 
 clju_2k is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin and Leipzig. Often billed alongside RaverPik, Aivee and Sabu!. Next up: Distillery, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ clju_2k is a techno and trance artist tracked on soundcheck, with 23 sets logged
 
 RaverPik, Aivee, Sabu!
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clju_2k/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clju_2k/)*

@@ -1,6 +1,6 @@
 # Rene Oldenburg
 
-Rene Oldenburg is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat, 15 Aug 2026.
+Rene Oldenburg is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat, 15 Aug 2026.
 
 Rene Oldenburg is a tech house and techno artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Milk N Coffee, Somaphon and Marc Prochnow. Next up: TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Rene Oldenburg is a tech house and techno artist tracked on soundcheck, with 23 
 
 Milk N Coffee, Somaphon, Marc Prochnow
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*

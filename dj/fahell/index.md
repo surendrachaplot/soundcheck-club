@@ -1,6 +1,6 @@
 # fahell
 
-fahell is a Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+fahell is a Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
 fahell is a grime artist based in Czech Republic, tracked on soundcheck, with 17 sets logged across Prague. Often billed alongside TerminusTechnikus, Atch22 and Epoché. Next up: Fuchs2, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ fahell is a grime artist based in Czech Republic, tracked on soundcheck, with 17
 
 TerminusTechnikus, Atch22, Epoché
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fahell/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fahell/)*

@@ -1,6 +1,6 @@
 # Joel Mignott
 
-Joel Mignott is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Joel Mignott is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 Joel Mignott is a house and club artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London and Losangeles. Often billed alongside Joshua James, Paul Heron and Ryussi. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Joel Mignott is a house and club artist based in United Kingdom, tracked on soun
 
 Joshua James, Paul Heron, Ryussi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joelmignott/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joelmignott/)*

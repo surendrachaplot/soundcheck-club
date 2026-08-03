@@ -1,6 +1,6 @@
 # Eva Banks
 
-Eva Banks is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
+Eva Banks is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
 
 Eva Banks is a tech house and deep house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Duat, BERNT and ELRA. Next up: Onyx (E1), London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Eva Banks is a tech house and deep house artist tracked on soundcheck, with 7 se
 
 Duat, BERNT, ELRA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evabanks/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evabanks/)*

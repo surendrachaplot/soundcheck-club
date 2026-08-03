@@ -1,6 +1,6 @@
 # Gianmarco Limenta
 
-Gianmarco Limenta is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Noxe Barcelona, Barcelona on Thu, 27 Aug 2026.
+Gianmarco Limenta is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Noxe Barcelona, Barcelona on Thu, 27 Aug 2026.
 
 Gianmarco Limenta is a house and deep house artist tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside Nesi, Luca Pernice and Alex Silva. Next up: Noxe Barcelona, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Gianmarco Limenta is a house and deep house artist tracked on soundcheck, with 2
 
 Nesi, Luca Pernice, Alex Silva
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcolimenta/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcolimenta/)*

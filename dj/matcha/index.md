@@ -1,6 +1,6 @@
 # Matcha
 
-Matcha is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
+Matcha is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
 
 Matcha is a house and techno artist tracked on soundcheck, with 27 sets logged across Belfast and Tokyo. Often billed alongside twentyfourevan, IndeniaL and Sophie (2). Next up: The Ulster Sports Club, Belfast on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Matcha is a house and techno artist tracked on soundcheck, with 27 sets logged a
 
 twentyfourevan, IndeniaL, Sophie (2)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matcha/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matcha/)*

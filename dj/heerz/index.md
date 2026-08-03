@@ -1,6 +1,6 @@
 # heerz
 
-heerz is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
+heerz is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
 
 heerz is a progressive house and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside DAAS (1), Nacho Carbajal and 10961. Next up: Crack Bellmer, Berlin on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ heerz is a progressive house and house artist based in Germany, tracked on sound
 
 DAAS (1), Nacho Carbajal, 10961
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heerz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heerz/)*

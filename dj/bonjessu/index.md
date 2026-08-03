@@ -1,6 +1,6 @@
 # Bonjessu
 
-Bonjessu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Bonjessu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Bonjessu is a house and minimal artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside Bomchello, Bailey Brown and DJ Hellfire. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Bonjessu is a house and minimal artist based in Germany, tracked on soundcheck, 
 
 Bomchello, Bailey Brown, DJ Hellfire
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjessu/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjessu/)*

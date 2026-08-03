@@ -1,6 +1,6 @@
 # Skatebård
 
-Skatebård is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Villa, Oslo on Sat, 29 Aug 2026.
+Skatebård is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Villa, Oslo on Sat, 29 Aug 2026.
 
 Skatebård is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside G-HA, Olanskii and Anders Hajem. Next up: The Villa, Oslo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Skatebård is a house and techno artist tracked on soundcheck, with 84 sets logg
 
 G-HA, Olanskii, Anders Hajem
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skatebard/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skatebard/)*

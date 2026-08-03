@@ -1,6 +1,6 @@
 # Warehouse Preservation Society
 
-Warehouse Preservation Society is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Akbar, Los Angeles on Sun, 9 Aug 2026.
+Warehouse Preservation Society is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Akbar, Los Angeles on Sun, 9 Aug 2026.
 
 Warehouse Preservation Society is a house and acid artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Bristol, London and Losangeles and 3 more. Often billed alongside SONNS, Stacy Christine and Dave Aju. Next up: Akbar, Losangeles on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Warehouse Preservation Society is a house and acid artist based in United States
 
 SONNS, Stacy Christine, Dave Aju
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warehousepreservationsociety/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warehousepreservationsociety/)*

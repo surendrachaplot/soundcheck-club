@@ -1,6 +1,6 @@
 # TiM TASTE
 
-TiM TASTE is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fundbureau, Hamburg on Fri, 25 Sept 2026.
+TiM TASTE is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fundbureau, Hamburg on Fri, 25 Sept 2026.
 
 TiM TASTE is a techno and minimal techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Lampé, Roman Adam and Fast (DE). Next up: Fundbureau, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ TiM TASTE is a techno and minimal techno artist tracked on soundcheck, with 30 s
 
 Lampé, Roman Adam, Fast (DE)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timtaste/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timtaste/)*

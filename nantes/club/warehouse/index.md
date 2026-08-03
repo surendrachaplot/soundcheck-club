@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "La Nouvelle, Bloom & Annexe présentent SUBTERRA with Evil Grimace" on Fri, 7 Aug 2026.
+Warehouse is a music venue in Nantes with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "La Nouvelle, Bloom & Annexe présentent SUBTERRA with Evil Grimace" on Fri, 7 Aug 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming nights, with line-ups including 25EMEHEURE, Bob Sinclar, Corentin Mab and Dan Bono and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -21,4 +21,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming nights, wi
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

@@ -1,6 +1,6 @@
 # Rajuju
 
-Rajuju is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+Rajuju is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 Rajuju is an electronic artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside jakari wing, Rajuju Brown and Aku. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Rajuju is an electronic artist based in United States of America, tracked on sou
 
 jakari wing, Rajuju Brown, Aku
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajuju/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajuju/)*

@@ -1,6 +1,6 @@
 # Lost Cat / Found
 
-Lost Cat / Found is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "[CANCELLED] mixfag Launch Party" on Fri, 7 Aug 2026.
+Lost Cat / Found is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "[CANCELLED] mixfag Launch Party" on Fri, 7 Aug 2026.
 
 Lost Cat / Found is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Michael Upson, Mix-Stress and Róisín W. Browse upcoming dates, start times and who's playing. 64 Oldham St, Manchester, M4 1LE.
 
@@ -14,4 +14,4 @@ Lost Cat / Found is a music venue in Manchester listed on soundcheck. 1 upcoming
 
 64 Oldham St, Manchester, M4 1LE, Manchester
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/lost-cat-found/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/lost-cat-found/)*

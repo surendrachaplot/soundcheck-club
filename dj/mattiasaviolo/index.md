@@ -1,6 +1,6 @@
 # Mattia Saviolo
 
-Mattia Saviolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at E1, London on Sat, 12 Sept 2026.
+Mattia Saviolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at E1, London on Sat, 12 Sept 2026.
 
 Mattia Saviolo is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Istanbul, London and Munich and 2 more. Often billed alongside Teenage Mutants, NÚRIA (DE) and Techmo. Next up: E1, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mattia Saviolo is a techno and house artist tracked on soundcheck, with 23 sets 
 
 Teenage Mutants, NÚRIA (DE), Techmo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiasaviolo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiasaviolo/)*

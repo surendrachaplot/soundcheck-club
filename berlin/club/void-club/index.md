@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu" on Fri, 7 Aug 2026.
+Void Club is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu" on Fri, 7 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

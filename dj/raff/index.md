@@ -1,6 +1,6 @@
 # RAFF
 
-RAFF is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Volks, Brighton on Sat, 8 Aug 2026.
+RAFF is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Volks, Brighton on Sat, 8 Aug 2026.
 
 RAFF is a drum & bass and jungle artist tracked on soundcheck, with 7 sets logged across Amsterdam, Brighton and Rotterdam. Often billed alongside Eversines, John Talabot and MYNX. Next up: Volks, Brighton on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ RAFF is a drum & bass and jungle artist tracked on soundcheck, with 7 sets logge
 
 Eversines, John Talabot, MYNX
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raff/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raff/)*

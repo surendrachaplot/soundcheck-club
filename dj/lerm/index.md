@@ -1,6 +1,6 @@
 # LERM
 
-LERM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Whammy Bar, Auckland on Fri, 7 Aug 2026.
+LERM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Whammy Bar, Auckland on Fri, 7 Aug 2026.
 
 LERM is a techno and house artist tracked on soundcheck, with 17 sets logged across Auckland, Barcelona, Budapest and Mexicocity and 2 more. Often billed alongside Secret Factory, DJ Rush and Daria Kolosova. Next up: Whammy Bar, Auckland on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ LERM is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 Secret Factory, DJ Rush, Daria Kolosova
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lerm/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lerm/)*

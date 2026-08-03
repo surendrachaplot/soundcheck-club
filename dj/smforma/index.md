@@ -1,6 +1,6 @@
 # SMFORMA
 
-SMFORMA is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mikropol, Berlin on Fri, 4 Sept 2026.
+SMFORMA is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mikropol, Berlin on Fri, 4 Sept 2026.
 
 SMFORMA is an ebm and techno artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Madrid and Tokyo. Often billed alongside Squaric, Alemal and Alpha Sect. Next up: Mikropol, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ SMFORMA is an ebm and techno artist tracked on soundcheck, with 10 sets logged a
 
 Squaric, Alemal, Alpha Sect
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smforma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smforma/)*

@@ -1,6 +1,6 @@
 # M8NSE
 
-M8NSE is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Marmorbar, Berlin on Sat, 8 Aug 2026.
+M8NSE is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Marmorbar, Berlin on Sat, 8 Aug 2026.
 
 M8NSE is a latin bass and techno artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Brussels and Geneva and 6 more. Often billed alongside Acidnena, AMANTRA and ENGALANAN. Next up: Marmorbar, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ M8NSE is a latin bass and techno artist tracked on soundcheck, with 68 sets logg
 
 Acidnena, AMANTRA, ENGALANAN
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m8nse/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m8nse/)*

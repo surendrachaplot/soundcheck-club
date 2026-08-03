@@ -1,6 +1,6 @@
 # plazdj
 
-plazdj is a Minimal and Techno artist with 17 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Culture Cafe, Bangkok on Mon, 3 Aug 2026.
+plazdj is a Minimal and Techno artist with 17 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Cafe, Bangkok on Mon, 3 Aug 2026.
 
 plazdj is a minimal and techno artist tracked on soundcheck, with 394 sets logged across Bangkok. Often billed alongside Funkpheno, Yoongying and Krit Su. Next up: Culture Cafe, Bangkok on Mon 3 Aug.
 
@@ -36,4 +36,4 @@ plazdj is a minimal and techno artist tracked on soundcheck, with 394 sets logge
 
 Funkpheno, Yoongying, Krit Su
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plazdj/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plazdj/)*

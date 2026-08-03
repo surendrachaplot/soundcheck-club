@@ -1,6 +1,6 @@
 # SKYE.7.7.7
 
-SKYE.7.7.7 is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Oculist, Brighton on Fri, 7 Aug 2026.
+SKYE.7.7.7 is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Oculist, Brighton on Fri, 7 Aug 2026.
 
 SKYE.7.7.7 is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Brighton and London. Often billed alongside Aleromaze, KINIA G and Lau.tastic. Next up: Oculist, Brighton on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ SKYE.7.7.7 is a techno and jungle artist based in United Kingdom, tracked on sou
 
 Aleromaze, KINIA G, Lau.tastic
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skye.7.7.7/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skye.7.7.7/)*

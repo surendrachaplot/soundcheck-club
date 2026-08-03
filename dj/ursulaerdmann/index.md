@@ -1,6 +1,6 @@
 # Ursula Erdmann
 
-Ursula Erdmann is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
+Ursula Erdmann is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
 
 Ursula Erdmann is a house and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Cologne. Often billed alongside ZAHNATZIN, DJ Hyperdrive and DJ Palga. Next up: Schrotty, Cologne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ursula Erdmann is a house and trance artist based in Germany, tracked on soundch
 
 ZAHNATZIN, DJ Hyperdrive, DJ Palga
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaerdmann/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaerdmann/)*

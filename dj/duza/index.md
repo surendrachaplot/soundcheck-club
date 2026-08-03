@@ -1,6 +1,6 @@
 # DUZA
 
-DUZA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Salon Daomé, Montreal on Fri, 28 Aug 2026.
+DUZA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Salon Daomé, Montreal on Fri, 28 Aug 2026.
 
 DUZA is a house and disco artist tracked on soundcheck, with 27 sets logged across Montreal. Often billed alongside Manuel Falardeau, Napo Lugo and Colmee. Next up: Salon Daomé, Montreal on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DUZA is a house and disco artist tracked on soundcheck, with 27 sets logged acro
 
 Manuel Falardeau, Napo Lugo, Colmee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*

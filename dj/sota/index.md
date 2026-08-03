@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 9 Aug 2026.
+SOTA is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 9 Aug 2026.
 
 SOTA is a house and techno artist tracked on soundcheck, with 115 sets logged across Auckland, Brisbane, Kyoto and Leeds and 8 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Circus Tokyo, Tokyo on Sun 9 Aug.
 
@@ -30,4 +30,4 @@ SOTA is a house and techno artist tracked on soundcheck, with 115 sets logged ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

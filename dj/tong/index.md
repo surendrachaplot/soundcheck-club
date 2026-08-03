@@ -1,6 +1,6 @@
 # Tong 桐
 
-Tong 桐 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Solace, Melbourne on Sat, 8 Aug 2026.
+Tong 桐 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Solace, Melbourne on Sat, 8 Aug 2026.
 
 Tong 桐 is a house and techno artist based in China, tracked on soundcheck, with 31 sets logged across Melbourne. Often billed alongside Mike Callander, DJ JNETT and Lilian. Next up: Solace, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tong 桐 is a house and techno artist based in China, tracked on soundcheck, wit
 
 Mike Callander, DJ JNETT, Lilian
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tong/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tong/)*

@@ -1,6 +1,6 @@
 # Izco
 
-Izco is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at New Century Locker, Manchester on Sat, 24 Oct 2026.
+Izco is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at New Century Locker, Manchester on Sat, 24 Oct 2026.
 
 Izco is a garage and jungle artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Capo Lee, Bakey and Tim Reaper. Next up: New Century Locker, Manchester on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Izco is a garage and jungle artist tracked on soundcheck, with 76 sets logged ac
 
 Capo Lee, Bakey, Tim Reaper
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*

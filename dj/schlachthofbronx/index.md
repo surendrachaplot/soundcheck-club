@@ -1,6 +1,6 @@
 # Schlachthofbronx
 
-Schlachthofbronx is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ampere, Munich on Fri, 30 Oct 2026.
+Schlachthofbronx is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ampere, Munich on Fri, 30 Oct 2026.
 
 Schlachthofbronx is a bass and footwork artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Munich. Often billed alongside Meg10, SICARIA and die_ley. Next up: Ampere, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Schlachthofbronx is a bass and footwork artist based in Germany, tracked on soun
 
 Meg10, SICARIA, die_ley
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schlachthofbronx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schlachthofbronx/)*

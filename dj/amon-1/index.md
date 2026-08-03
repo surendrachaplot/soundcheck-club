@@ -1,6 +1,6 @@
 # AMON (1)
 
-AMON (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bangkok Island, Bangkok on Sat, 8 Aug 2026.
+AMON (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bangkok Island, Bangkok on Sat, 8 Aug 2026.
 
 AMON (1) is a techno and trance artist based in Colombia, tracked on soundcheck, with 13 sets logged across Bangkok, Berlin, Ghent and Sandiego. Often billed alongside Ampe, BENITO (DE) and BRTLGR. Next up: Bangkok Island, Bangkok on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ AMON (1) is a techno and trance artist based in Colombia, tracked on soundcheck,
 
 Ampe, BENITO (DE), BRTLGR
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amon-1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amon-1/)*

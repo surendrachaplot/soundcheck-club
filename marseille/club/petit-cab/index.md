@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "AFTER KOROSOUL @ Petit CAB" on Fri, 7 Aug 2026.
+Petit CAB is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "AFTER KOROSOUL @ Petit CAB" on Fri, 7 Aug 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including DouceSoeur, Doza, Nathan Fake and Satine. Browse upcoming dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -16,4 +16,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 3 upcoming nights,
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

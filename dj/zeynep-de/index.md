@@ -1,6 +1,6 @@
 # Zeynep
 
-Zeynep is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 22 Aug 2026.
+Zeynep is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 22 Aug 2026.
 
 Zeynep is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Alfred Czital, Yan (CZ) and Raleigh. Next up: Cabaret Sauvage, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zeynep is a techno and house artist tracked on soundcheck, with 89 sets logged a
 
 Alfred Czital, Yan (CZ), Raleigh
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*

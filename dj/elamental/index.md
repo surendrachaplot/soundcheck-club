@@ -1,6 +1,6 @@
 # ELA MENTAL
 
-ELA MENTAL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+ELA MENTAL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 ELA MENTAL is a techno and trance artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside Lil Laurie, Axela and CASPII. Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ELA MENTAL is a techno and trance artist based in United States of America, trac
 
 Lil Laurie, Axela, CASPII
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*

@@ -1,6 +1,6 @@
 # umru
 
-umru is a Club and Pop artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
+umru is a Club and Pop artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 umru is a club and pop artist based in United States of America, tracked on soundcheck, with 145 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Public Works, Sanfrancisco on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ umru is a club and pop artist based in United States of America, tracked on soun
 
 Petal Supply, Warpstr, GRRL
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

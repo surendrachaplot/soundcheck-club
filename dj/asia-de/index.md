@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun, 23 Aug 2026.
+ASIA (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun, 23 Aug 2026.
 
 ASIA (DE) is a house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside DJ Koolt, Neik and Cecilio. Next up: Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ ASIA (DE) is a house and techno artist tracked on soundcheck, with 37 sets logge
 
 DJ Koolt, Neik, Cecilio
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

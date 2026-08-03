@@ -1,14 +1,13 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh" on Sun, 2 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "AVALON x Dominik: Giorgio Stefano, Bruno Bona, Giordee, Greta Tima" on Wed, 5 Aug 2026.
 
-Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alex Now, Claptone, Giorgio Stefano and James Hype (UK) and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
+Ku Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alex Now, Giorgio Stefano, James Hype (UK) and jose fajardo and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh | Claptone, MIGANOVA, VITE |
 | Wed, 5 Aug 2026 | AVALON x Dominik: Giorgio Stefano, Bruno Bona, Giordee, Greta Tima | Giorgio Stefano |
 | Sun, 9 Aug 2026 | SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera | Alex Now, James Hype (UK), Pau Guilera |
 | Sun, 16 Aug 2026 | SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo | Marcel BS, Sonny Fodera, Xandro, jose fajardo |
@@ -19,4 +18,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

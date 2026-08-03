@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Blue Moon: Live Band + R&B Jam Session" on Wed, 5 Aug 2026.
+SOBs is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Blue Moon: Live Band + R&B Jam Session" on Wed, 5 Aug 2026.
 
 SOBs is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including DJ Vega and OatMilk. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -20,4 +20,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, wi
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

@@ -1,6 +1,6 @@
 # Strut SF and F8 present DJ Sauce at F8 1192 Folsom
 
-Strut SF and F8 present DJ Sauce at F8 1192 Folsom on Wed 5 Aug, Sanfrancisco. 4 acts on the bill: DJ Sauce, Joey Trip, Just Lucas and Nova Haus. House and Tech House. Preview the line-up and save it on soundcheck.
+Strut SF and F8 present DJ Sauce at F8 1192 Folsom on Wed 5 Aug, Sanfrancisco. 5 acts on the bill: DJ Sauce, Joey Trip, Just Lucas and LBXX and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Strut SF and F8 present DJ Sauce at F8 1192 Folsom on Wed 5 Aug, Sanfrancisco. 4
 - DJ Sauce
 - Joey Trip
 - Just Lucas
+- LBXX
 - Nova Haus
 
 *Source: [soundcheck](https://soundcheck.club/e/2494922-strut-sf-and-f8-present-dj-sauce-at-f8-1192-folsom/)*

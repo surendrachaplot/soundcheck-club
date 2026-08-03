@@ -1,6 +1,6 @@
 # Alex P
 
-Alex P is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Alex P is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Alex P is a house and club artist tracked on soundcheck, with 24 sets logged across Brighton, Liverpool and London. Often billed alongside Brandon Block, Tristan Ingram and Bongo Ben. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alex P is a house and club artist tracked on soundcheck, with 24 sets logged acr
 
 Brandon Block, Tristan Ingram, Bongo Ben
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexp/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexp/)*

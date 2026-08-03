@@ -1,6 +1,6 @@
 # Davide Squillace
 
-Davide Squillace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 7 Aug 2026.
+Davide Squillace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 Davide Squillace is a tech house and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Buenosaires and Denver and 11 more. Often billed alongside Marco Carola, Joey Daniel and Matthias Tanzmann. Next up: Pacha Ibiza, Ibiza on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Davide Squillace is a tech house and house artist tracked on soundcheck, with 54
 
 Marco Carola, Joey Daniel, Matthias Tanzmann
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidesquillace/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidesquillace/)*

@@ -1,6 +1,6 @@
 # Ziller Bas
 
-Ziller Bas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Ziller Bas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Ziller Bas is a techno and house artist based in Kenya, tracked on soundcheck, with 2 sets logged across Geneva and Zurich. Often billed alongside A Guy Called Gerald, After Cooking and Anna Wall. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Ziller Bas is a techno and house artist based in Kenya, tracked on soundcheck, w
 
 A Guy Called Gerald, After Cooking, Anna Wall
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zillerbas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zillerbas/)*

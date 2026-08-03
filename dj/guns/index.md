@@ -1,6 +1,6 @@
 # GUNS
 
-GUNS is a EBM and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
+GUNS is a EBM and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
 
 GUNS is an ebm and dubstep artist based in Turkey, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Akira (Buntai), Boofy and Elisa Do Brasil. Next up: The Carpet Shop, London on Sun 23 Aug.
 
@@ -19,4 +19,4 @@ GUNS is an ebm and dubstep artist based in Turkey, tracked on soundcheck, with 3
 
 Akira (Buntai), Boofy, Elisa Do Brasil
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guns/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guns/)*

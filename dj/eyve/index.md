@@ -1,6 +1,6 @@
 # EYVE
 
-EYVE is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at French Street (Strange Field), Glasgow on Sat, 8 Aug 2026.
+EYVE is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at French Street (Strange Field), Glasgow on Sat, 8 Aug 2026.
 
 EYVE is a house and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Dundee, Glasgow and Manchester. Often billed alongside Babyjaii, Kinz Luiz and Miss Cabbage. Next up: French Street (Strange Field), Glasgow on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ EYVE is a house and bass artist based in United Kingdom, tracked on soundcheck, 
 
 Babyjaii, Kinz Luiz, Miss Cabbage
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyve/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyve/)*

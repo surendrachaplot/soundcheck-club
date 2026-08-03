@@ -1,6 +1,6 @@
 # Veecio
 
-Veecio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+Veecio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
 Veecio is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Jeremy Giros, Bendito and The Pintauro Brothers. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Veecio is a house and techno artist based in United States of America, tracked o
 
 Jeremy Giros, Bendito, The Pintauro Brothers
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veecio/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veecio/)*

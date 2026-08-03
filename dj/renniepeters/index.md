@@ -1,6 +1,6 @@
 # Rennie Peters
 
-Rennie Peters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Rennie Peters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Rennie Peters is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Brighton and Ibiza and 4 more. Often billed alongside Sammy Porter, George Mensah and Tilli Murphy. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Rennie Peters is a house and tech house artist tracked on soundcheck, with 55 se
 
 Sammy Porter, George Mensah, Tilli Murphy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*

@@ -1,6 +1,6 @@
 # Bertha
 
-Bertha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
+Bertha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
 
 Bertha is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Moon In My Pocket, :MUMM and Vy Tran. Next up: TBA - Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bertha is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Moon In My Pocket, :MUMM, Vy Tran
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bertha/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bertha/)*

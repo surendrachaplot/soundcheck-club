@@ -1,6 +1,6 @@
 # Alexi Shell
 
-Alexi Shell is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
+Alexi Shell is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 Alexi Shell is a techno and club artist based in France, tracked on soundcheck, with 24 sets logged across London, Paris and Strasbourg. Often billed alongside DJ Football, RAG and TTristana. Next up: HWK, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Alexi Shell is a techno and club artist based in France, tracked on soundcheck, 
 
 DJ Football, RAG, TTristana
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishell/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishell/)*

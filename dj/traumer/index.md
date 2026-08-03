@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
+Traumer is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: SAGE, Berlin on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 302 sets logged
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

@@ -1,6 +1,6 @@
 # Swick
 
-Swick is a Dancehall and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
+Swick is a Dancehall and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
 
 Swick is a dancehall and bass artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne and Sydney. Often billed alongside Strict Face, D. Tyrone and FOURA. Next up: Milneys, Melbourne on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Swick is a dancehall and bass artist based in Australia, tracked on soundcheck, 
 
 Strict Face, D. Tyrone, FOURA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swick/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swick/)*

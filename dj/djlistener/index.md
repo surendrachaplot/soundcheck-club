@@ -1,6 +1,6 @@
 # DJ Listener
 
-DJ Listener is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Upper East, London on Sat, 12 Sept 2026.
+DJ Listener is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Upper East, London on Sat, 12 Sept 2026.
 
 DJ Listener is a house and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Norris Da Boss Windross, MC CKP and MC DT. Next up: Upper East, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Listener is a house and garage artist based in United Kingdom, tracked on sou
 
 Norris Da Boss Windross, MC CKP, MC DT
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlistener/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlistener/)*

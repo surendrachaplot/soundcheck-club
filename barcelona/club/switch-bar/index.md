@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Bobare Wednesday: NOBODYISALICE / LeMichael" on Wed, 5 Aug 2026.
+Switch Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Bobare Wednesday: NOBODYISALICE / LeMichael" on Wed, 5 Aug 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Alessa (ES), Edu C, LeMichael and NOBODYISALICE. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -16,4 +16,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

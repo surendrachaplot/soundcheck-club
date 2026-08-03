@@ -1,6 +1,6 @@
 # AARON GEHRIG
 
-AARON GEHRIG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+AARON GEHRIG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 AARON GEHRIG is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin and Valencia. Often billed alongside Victor Polo, AAA+ and Pizzicatto. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ AARON GEHRIG is a house and techno artist tracked on soundcheck, with 21 sets lo
 
 Victor Polo, AAA+, Pizzicatto
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aarongehrig/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aarongehrig/)*

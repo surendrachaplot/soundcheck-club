@@ -1,6 +1,6 @@
 # Catnapp
 
-Catnapp is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Chmury, Warsaw on Fri, 11 Sept 2026.
+Catnapp is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Chmury, Warsaw on Fri, 11 Sept 2026.
 
 Catnapp is a techno and breakbeat artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Buenosaires and Hamburg and 8 more. Often billed alongside Assyouti, Container and Israfil. Next up: Chmury, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Catnapp is a techno and breakbeat artist tracked on soundcheck, with 22 sets log
 
 Assyouti, Container, Israfil
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catnapp/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catnapp/)*

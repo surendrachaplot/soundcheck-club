@@ -1,6 +1,6 @@
 # Jayvi Velasco
 
-Jayvi Velasco is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fluid510, San Francisco/Oakland on Sat, 8 Aug 2026.
+Jayvi Velasco is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fluid510, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Jayvi Velasco is a house and afro house artist tracked on soundcheck, with 45 sets logged across Losangeles and Sanfrancisco. Often billed alongside David Harness, Coflo and Homero Espinosa. Next up: Fluid510, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jayvi Velasco is a house and afro house artist tracked on soundcheck, with 45 se
 
 David Harness, Coflo, Homero Espinosa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvivelasco/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvivelasco/)*

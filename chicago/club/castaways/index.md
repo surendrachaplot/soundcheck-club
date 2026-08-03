@@ -1,6 +1,6 @@
 # Castaways
 
-Castaways is a music venue in Chicago with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "ARC At The Lake with Yotto" on Fri, 7 Aug 2026.
+Castaways is a music venue in Chicago with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "ARC At The Lake with Yotto" on Fri, 7 Aug 2026.
 
 Castaways is a music venue in Chicago listed on soundcheck. 5 upcoming nights, with line-ups including Chris Luno, Cristoph, Nick Warren and Sasha and 1 more. Browse upcoming dates, start times and who's playing. 1603 N Lake Shore Dr, Chicago, Illinois 60614.
 
@@ -18,4 +18,4 @@ Castaways is a music venue in Chicago listed on soundcheck. 5 upcoming nights, w
 
 1603 N Lake Shore Dr, Chicago, Illinois 60614, Chicago
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*

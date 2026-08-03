@@ -1,6 +1,6 @@
 # OZ (5)
 
-OZ (5) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Toffler, Rotterdam on Fri, 7 Aug 2026.
+OZ (5) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Toffler, Rotterdam on Fri, 7 Aug 2026.
 
 OZ (5) is an industrial and techno artist based in Japan, tracked on soundcheck, with 1 set logged across Rotterdam. Often billed alongside MIT (6), MRJ-K and Mossa. Next up: Toffler, Rotterdam on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ OZ (5) is an industrial and techno artist based in Japan, tracked on soundcheck,
 
 MIT (6), MRJ-K, Mossa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oz-5/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oz-5/)*

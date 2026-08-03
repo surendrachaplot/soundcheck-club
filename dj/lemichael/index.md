@@ -1,6 +1,6 @@
 # LeMichael
 
-LeMichael is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Switch Bar, Barcelona on Wed, 5 Aug 2026.
+LeMichael is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Switch Bar, Barcelona on Wed, 5 Aug 2026.
 
 LeMichael is an electronica and house artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Edu C, Metaxxa and Alessa (ES). Next up: Switch Bar, Barcelona on Wed 5 Aug.
 
@@ -28,4 +28,4 @@ LeMichael is an electronica and house artist tracked on soundcheck, with 24 sets
 
 Edu C, Metaxxa, Alessa (ES)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemichael/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemichael/)*

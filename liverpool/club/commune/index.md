@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Cosmic at Commune" on Sat, 15 Aug 2026.
+Commune is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Cosmic at Commune" on Sat, 15 Aug 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including Fenn Piper, Jez Thelwell, Lo Five and Luna (1). Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -17,4 +17,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, w
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

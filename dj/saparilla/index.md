@@ -1,6 +1,6 @@
 # saparilla
 
-saparilla is a Club and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Stereo, Glasgow on Sat, 8 Aug 2026.
+saparilla is a Club and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Stereo, Glasgow on Sat, 8 Aug 2026.
 
 saparilla is a club and baile funk artist tracked on soundcheck, with 26 sets logged across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, makaya and spxo. Next up: Stereo, Glasgow on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ saparilla is a club and baile funk artist tracked on soundcheck, with 26 sets lo
 
 Kinz Luiz, makaya, spxo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*

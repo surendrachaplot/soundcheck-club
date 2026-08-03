@@ -1,6 +1,6 @@
 # Miss Drift
 
-Miss Drift is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at gART.n, Berlin on Sun, 9 Aug 2026.
+Miss Drift is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at gART.n, Berlin on Sun, 9 Aug 2026.
 
 Miss Drift is a deep house and house artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Franca, Jackyboom and Kon Faber. Next up: gART.n, Berlin on Sun 9 Aug.
 
@@ -14,4 +14,4 @@ Miss Drift is a deep house and house artist based in Germany, tracked on soundch
 
 Franca, Jackyboom, Kon Faber
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdrift/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdrift/)*

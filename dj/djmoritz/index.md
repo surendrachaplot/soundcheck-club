@@ -1,6 +1,6 @@
 # DJ Moritz
 
-DJ Moritz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pimpernel, Munich on Sat, 8 Aug 2026.
+DJ Moritz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pimpernel, Munich on Sat, 8 Aug 2026.
 
 DJ Moritz is a house and techno artist tracked on soundcheck, with 12 sets logged across Munich and Seoul. Often billed alongside DJ Funny, DJ Jinwook and Hans Nieswandt. Next up: Pimpernel, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Moritz is a house and techno artist tracked on soundcheck, with 12 sets logge
 
 DJ Funny, DJ Jinwook, Hans Nieswandt
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoritz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoritz/)*

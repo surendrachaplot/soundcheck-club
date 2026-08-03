@@ -1,6 +1,6 @@
 # suki
 
-suki is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Miscellania, Melbourne on Fri, 28 Aug 2026.
+suki is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Miscellania, Melbourne on Fri, 28 Aug 2026.
 
 suki is a techno and progressive house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: Miscellania, Melbourne on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ suki is a techno and progressive house artist tracked on soundcheck, with 66 set
 
 Mabel, Hannah D, Lex
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suki/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suki/)*

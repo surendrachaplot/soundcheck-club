@@ -1,6 +1,6 @@
 # Tom Mangan
 
-Tom Mangan is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
+Tom Mangan is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
 
 Tom Mangan is a house and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Mallorca. Often billed alongside Arnie Wrong, Dainty and Delonte Rivers. Next up: Parc de Sa Gravera, Mallorca on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Tom Mangan is a house and garage artist based in United Kingdom, tracked on soun
 
 Arnie Wrong, Dainty, Delonte Rivers
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommangan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommangan/)*

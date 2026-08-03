@@ -1,6 +1,6 @@
 # KEUT
 
-KEUT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Macadam, Nantes on Sun, 9 Aug 2026.
+KEUT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Macadam, Nantes on Sun, 9 Aug 2026.
 
 KEUT is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Losangeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: Macadam, Nantes on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ KEUT is a techno and house artist tracked on soundcheck, with 34 sets logged acr
 
 GOTIS, Gabbor, Lastvuska
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*

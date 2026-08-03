@@ -1,6 +1,6 @@
 # 35DH-1
 
-35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
+35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
 
 35DH-1 is an amapiano and techno artist based in Japan, tracked on soundcheck, with 160 sets logged across Tokyo. Often billed alongside Echigo, Arao and SN_Yeah. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 10 Aug.
 
@@ -26,4 +26,4 @@
 
 Echigo, Arao, SN_Yeah
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/35dh-1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/35dh-1/)*

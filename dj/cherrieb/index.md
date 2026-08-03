@@ -1,6 +1,6 @@
 # Cherrie B
 
-Cherrie B is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Waiting Room, London on Fri, 14 Aug 2026.
+Cherrie B is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Waiting Room, London on Fri, 14 Aug 2026.
 
 Cherrie B is a pop and experimental artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow, London, Losangeles and Newyorkcity. Often billed alongside Angel Money, Anop and Baby Teeth. Next up: The Waiting Room, London on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Cherrie B is a pop and experimental artist based in United Kingdom, tracked on s
 
 Angel Money, Anop, Baby Teeth
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrieb/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrieb/)*

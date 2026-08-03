@@ -1,6 +1,6 @@
 # KÜRÜF
 
-KÜRÜF is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Prisma, Berlin on Sun, 9 Aug 2026.
+KÜRÜF is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Prisma, Berlin on Sun, 9 Aug 2026.
 
 KÜRÜF is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Domovnika, Emilion Dollar Baby and Bee Lincoln. Next up: Prisma, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ KÜRÜF is a techno and tech house artist tracked on soundcheck, with 9 sets log
 
 Domovnika, Emilion Dollar Baby, Bee Lincoln
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*

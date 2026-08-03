@@ -1,6 +1,6 @@
 # Peverell
 
-Peverell is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Revolucion de Cuba, Newcastle on Sat, 5 Sept 2026.
+Peverell is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Revolucion de Cuba, Newcastle on Sat, 5 Sept 2026.
 
 Peverell is a house and disco artist tracked on soundcheck, with 4 sets logged across Ibiza and Newcastle. Often billed alongside Chus & Ceballos, Claptone and Ethan Gray. Next up: Revolucion de Cuba, Newcastle on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Peverell is a house and disco artist tracked on soundcheck, with 4 sets logged a
 
 Chus & Ceballos, Claptone, Ethan Gray
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peverell/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peverell/)*

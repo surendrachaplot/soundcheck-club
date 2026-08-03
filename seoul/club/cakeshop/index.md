@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Eastern Union presents: Underground Pop" on Fri, 7 Aug 2026.
+Cakeshop is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Eastern Union presents: Underground Pop" on Fri, 7 Aug 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including Excultist, Hugh Hardie, rue (3) and Safety Trance. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -19,4 +19,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

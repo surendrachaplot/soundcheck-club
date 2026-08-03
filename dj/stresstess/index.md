@@ -1,6 +1,6 @@
 # stress tess
 
-stress tess is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
+stress tess is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
 
 stress tess is a techno and trance artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside R-DNA, SEELIE. and dj33L. Next up: Mood Ring, Newyorkcity on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ stress tess is a techno and trance artist tracked on soundcheck, with 4 sets log
 
 R-DNA, SEELIE., dj33L
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stresstess/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stresstess/)*

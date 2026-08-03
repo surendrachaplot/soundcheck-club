@@ -1,6 +1,6 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+Whiney is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 Whiney is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside P Money, Degs and Unglued. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Whiney is a drum & bass and jungle artist tracked on soundcheck, with 58 sets lo
 
 P Money, Degs, Unglued
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*

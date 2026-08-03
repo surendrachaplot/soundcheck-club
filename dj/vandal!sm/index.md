@@ -1,6 +1,6 @@
 # Vandal!sm
 
-Vandal!sm is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Vandal!sm is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Vandal!sm is a gabber and hardcore artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Frankfurt, Glasgow and Madrid. Often billed alongside Noxiouz, Pinotello and Satirized. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Vandal!sm is a gabber and hardcore artist based in Netherlands, tracked on sound
 
 Noxiouz, Pinotello, Satirized
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandal!sm/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandal!sm/)*

@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 15 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "HIDEOUT SOCIAL CLUB #17 || MIOS x KRIZZY x Pazzi" on Wed, 5 Aug 2026.
+Smolna is a music venue in Warsaw with 15 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "HIDEOUT SOCIAL CLUB #17 || MIOS x KRIZZY x Pazzi" on Wed, 5 Aug 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 15 upcoming nights, with line-ups including Abrew, Anela, bolo and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 15 upcoming nights, with
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

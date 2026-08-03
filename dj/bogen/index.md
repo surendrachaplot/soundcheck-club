@@ -1,6 +1,6 @@
 # Bøgen
 
-Bøgen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Mena Berlin, Berlin on Sat, 15 Aug 2026.
+Bøgen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Mena Berlin, Berlin on Sat, 15 Aug 2026.
 
 Bøgen is a techno and house artist based in Chile, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Prague and Stockholm. Often billed alongside Vlad Yaki, Hugorieri and Stefan Muchte. Next up: Mena Berlin, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Bøgen is a techno and house artist based in Chile, tracked on soundcheck, with 
 
 Vlad Yaki, Hugorieri, Stefan Muchte
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*

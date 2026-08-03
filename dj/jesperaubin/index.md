@@ -1,6 +1,6 @@
 # Jesper Aubin
 
-Jesper Aubin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
+Jesper Aubin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
 
 Jesper Aubin is a house and minimal artist based in Sweden, tracked on soundcheck, with 12 sets logged across Berlin and Copenhagen. Often billed alongside Kaldera, Raj el Rey and Lex Ludlow. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Jesper Aubin is a house and minimal artist based in Sweden, tracked on soundchec
 
 Kaldera, Raj el Rey, Lex Ludlow
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperaubin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperaubin/)*

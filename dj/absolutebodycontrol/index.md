@@ -1,6 +1,6 @@
 # Absolute Body Control
 
-Absolute Body Control is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+Absolute Body Control is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
 Absolute Body Control is an ebm and industrial artist tracked on soundcheck, with 5 sets logged across Berlin, Leipzig and Stockholm. Often billed alongside Ashbury Heights, Chrom and Claudia Kane. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Absolute Body Control is an ebm and industrial artist tracked on soundcheck, wit
 
 Ashbury Heights, Chrom, Claudia Kane
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/absolutebodycontrol/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/absolutebodycontrol/)*

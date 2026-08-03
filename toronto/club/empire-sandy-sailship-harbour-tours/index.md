@@ -1,6 +1,6 @@
 # Empire Sandy Sailship, Harbour Tours
 
-Empire Sandy Sailship, Harbour Tours is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Ozmozis presents Waves Of Trance with Mark Sherry" on Fri, 21 Aug 2026.
+Empire Sandy Sailship, Harbour Tours is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Ozmozis presents Waves Of Trance with Mark Sherry" on Fri, 21 Aug 2026.
 
 Empire Sandy Sailship, Harbour Tours is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 437 Queens Quay West Toronto, ON M5V 3T1.
 
@@ -14,4 +14,4 @@ Empire Sandy Sailship, Harbour Tours is a music venue in Toronto listed on sound
 
 437 Queens Quay West Toronto, ON M5V 3T1, Toronto
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/empire-sandy-sailship-harbour-tours/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/empire-sandy-sailship-harbour-tours/)*

@@ -1,6 +1,6 @@
 # Tam Tam
 
-Tam Tam is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The White Hotel, Manchester on Sat, 8 Aug 2026.
+Tam Tam is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The White Hotel, Manchester on Sat, 8 Aug 2026.
 
 Tam Tam is a disco and italo disco artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Jonah Considine, DJ Subaru and Richii. Next up: The White Hotel, Manchester on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tam Tam is a disco and italo disco artist based in United Kingdom, tracked on so
 
 Jonah Considine, DJ Subaru, Richii
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*

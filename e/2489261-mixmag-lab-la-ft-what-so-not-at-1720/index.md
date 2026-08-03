@@ -1,6 +1,6 @@
 # Mixmag LAB: LA ft What So Not at 1720
 
-Mixmag LAB: LA ft What So Not at 1720 on Thu 6 Aug, Losangeles. 1 act on the bill: What So Not. Techno and Bass. Preview the line-up and save it on soundcheck.
+Mixmag LAB: LA ft What So Not at 1720 on Thu 6 Aug, Losangeles. 2 acts on the bill: clubaction and What So Not. Bass and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mixmag LAB: LA ft What So Not at 1720 on Thu 6 Aug, Losangeles. 1 act on the bil
 
 ## Line-up
 
+- clubaction
 - What So Not
 
 *Source: [soundcheck](https://soundcheck.club/e/2489261-mixmag-lab-la-ft-what-so-not-at-1720/)*

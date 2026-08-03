@@ -1,6 +1,6 @@
 # lena xx
 
-lena xx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
+lena xx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
 
 lena xx is a techno and trance artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Leipzig. Often billed alongside dj twerking class, :MUMM and Carotin. Next up: Distillery, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ lena xx is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 dj twerking class, :MUMM, Carotin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenaxx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenaxx/)*

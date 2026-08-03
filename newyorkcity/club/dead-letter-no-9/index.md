@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more" on Fri, 7 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more" on Fri, 7 Aug 2026.
 
 Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -23,4 +23,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcom
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

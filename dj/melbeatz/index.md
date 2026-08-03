@@ -1,6 +1,6 @@
 # Melbeatz
 
-Melbeatz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+Melbeatz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 Melbeatz is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin and Detroit. Often billed alongside Coss, Zettka and Hanebüchener. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Melbeatz is a house and tech house artist based in United States of America, tra
 
 Coss, Zettka, Hanebüchener
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melbeatz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melbeatz/)*

@@ -1,6 +1,6 @@
 # COEO
 
-COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Komitee, Munich on Sat, 8 Aug 2026.
+COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Komitee, Munich on Sat, 8 Aug 2026.
 
 COEO is a house and disco artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Kapote, Max NRG Supply and Athlete Whippet. Next up: Komitee, Munich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ COEO is a house and disco artist tracked on soundcheck, with 106 sets logged acr
 
 Kapote, Max NRG Supply, Athlete Whippet
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*

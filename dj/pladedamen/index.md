@@ -1,6 +1,6 @@
 # Pladedamen
 
-Pladedamen is a Funk / Soul and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 13 Aug 2026.
+Pladedamen is a Funk / Soul and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 13 Aug 2026.
 
 Pladedamen is a funk / soul and jazz artist based in Denmark, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside Ivan Dallmann and Vinocio. Next up: H15 Scene & Studio, Copenhagen on Thu 13 Aug.
 
@@ -14,4 +14,4 @@ Pladedamen is a funk / soul and jazz artist based in Denmark, tracked on soundch
 
 Ivan Dallmann, Vinocio
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pladedamen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pladedamen/)*

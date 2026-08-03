@@ -1,6 +1,6 @@
 # Ziyi
 
-Ziyi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 13 Aug 2026.
+Ziyi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 13 Aug 2026.
 
 Ziyi is a techno and house artist tracked on soundcheck, with 2 sets logged across Bangkok and Newyorkcity. Often billed alongside JESSXO, NIJEII and Saintclair. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 13 Aug.
 
@@ -18,4 +18,4 @@ Ziyi is a techno and house artist tracked on soundcheck, with 2 sets logged acro
 
 JESSXO, NIJEII, Saintclair
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziyi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziyi/)*

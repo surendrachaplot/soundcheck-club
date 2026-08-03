@@ -1,6 +1,6 @@
 # VINVAR
 
-VINVAR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
+VINVAR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
 
 VINVAR is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Rakans, CRYME and LOLSNAKE. Next up: Maaya, Berlin on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ VINVAR is a techno and house artist tracked on soundcheck, with 105 sets logged 
 
 Rakans, CRYME, LOLSNAKE
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*

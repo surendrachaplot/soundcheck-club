@@ -1,6 +1,6 @@
 # RY (US)
 
-RY (US) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Boston on Sat, 15 Aug 2026.
+RY (US) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Boston on Sat, 15 Aug 2026.
 
 RY (US) is a techno and minimal techno artist tracked on soundcheck, with 4 sets logged across Boston. Often billed alongside Niqi, Beatrice (DE) and Bullosa. Next up: TBA, Boston on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ RY (US) is a techno and minimal techno artist tracked on soundcheck, with 4 sets
 
 Niqi, Beatrice (DE), Bullosa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ry-12/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ry-12/)*

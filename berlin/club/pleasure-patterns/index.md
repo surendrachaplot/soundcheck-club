@@ -1,6 +1,6 @@
 # Pleasure Patterns
 
-Pleasure Patterns is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "CRUSH x Pleasure Patterns" on Thu, 13 Aug 2026.
+Pleasure Patterns is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "CRUSH x Pleasure Patterns" on Thu, 13 Aug 2026.
 
 Pleasure Patterns is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including alizé.e, femnms and Kat Never. Browse upcoming dates, start times and who's playing. Forster Str. 51, 10999 Berlin.
 
@@ -14,4 +14,4 @@ Pleasure Patterns is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Forster Str. 51, 10999 Berlin, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pleasure-patterns/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pleasure-patterns/)*

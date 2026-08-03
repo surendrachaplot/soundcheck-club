@@ -1,6 +1,6 @@
 # Super5
 
-Super5 is a music venue in Lyon with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BMK RESIDENCY - FADOO" on Wed, 5 Aug 2026.
+Super5 is a music venue in Lyon with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "BMK RESIDENCY - FADOO" on Wed, 5 Aug 2026.
 
 Super5 is a music venue in Lyon listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
@@ -17,4 +17,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 4 upcoming nights. Browse 
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

@@ -1,6 +1,6 @@
 # Abdy
 
-Abdy is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Liquid Club, Malta on Sat, 22 Aug 2026.
+Abdy is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Liquid Club, Malta on Sat, 22 Aug 2026.
 
 Abdy is a progressive house and techno artist based in Malta, tracked on soundcheck, with 38 sets logged across London, Malta and Zurich. Often billed alongside Philip Ackowsky, Shabab Khan and Adel dj. Next up: Liquid Club, Malta on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Abdy is a progressive house and techno artist based in Malta, tracked on soundch
 
 Philip Ackowsky, Shabab Khan, Adel dj
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*

@@ -1,6 +1,6 @@
 # Cidoine
 
-Cidoine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Système, Montreal on Fri, 7 Aug 2026.
+Cidoine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Système, Montreal on Fri, 7 Aug 2026.
 
 Cidoine is a house and electro artist based in Haiti, tracked on soundcheck, with 18 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Grid, MLLE CEE and Akpossoul. Next up: Système, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Cidoine is a house and electro artist based in Haiti, tracked on soundcheck, wit
 
 Grid, MLLE CEE, Akpossoul
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*

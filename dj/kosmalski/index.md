@@ -1,6 +1,6 @@
 # Kosmalski
 
-Kosmalski is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
+Kosmalski is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
 
 Kosmalski is a techno and acid artist based in Poland, tracked on soundcheck, with 10 sets logged across Berlin, Krakow and Warsaw. Often billed alongside dtekk, AKOMPANIAMENT and ALLG. Next up: Jasna 1, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Kosmalski is a techno and acid artist based in Poland, tracked on soundcheck, wi
 
 dtekk, AKOMPANIAMENT, ALLG
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmalski/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmalski/)*

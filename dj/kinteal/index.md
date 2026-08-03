@@ -1,6 +1,6 @@
 # Kin Teal
 
-Kin Teal is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Atno, Budapest on Fri, 7 Aug 2026.
+Kin Teal is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Atno, Budapest on Fri, 7 Aug 2026.
 
 Kin Teal is a bass and techno artist based in Hungary, tracked on soundcheck, with 9 sets logged across Budapest. Often billed alongside klpflrtpr, CQUE and Kiuz. Next up: Atno, Budapest on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kin Teal is a bass and techno artist based in Hungary, tracked on soundcheck, wi
 
 klpflrtpr, CQUE, Kiuz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinteal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinteal/)*

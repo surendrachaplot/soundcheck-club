@@ -1,6 +1,6 @@
 # Sundara Club
 
-Sundara Club is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza" on Sat, 15 Aug 2026.
+Sundara Club is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza" on Sat, 15 Aug 2026.
 
 Sundara Club is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with line-ups including Chrissy Meraki, Chrisy Stebbeds, Mr. Root and Nathassia and 2 more. Browse upcoming dates, start times and who's playing. Carrer Badajoz, 10, 07829 Sant Josep de sa Talaia, Ibiza San Antonio bay.
 
@@ -17,4 +17,4 @@ Sundara Club is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, 
 
 Carrer Badajoz, 10, 07829 Sant Josep de sa Talaia, Ibiza San Antonio bay, Ibiza
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sundara-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sundara-club/)*

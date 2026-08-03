@@ -1,6 +1,6 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 7 Aug 2026.
+DJ Fuckoff is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 7 Aug 2026.
 
 DJ Fuckoff is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Smoke & Mirrors, Chicago on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ DJ Fuckoff is a techno and house artist tracked on soundcheck, with 170 sets log
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

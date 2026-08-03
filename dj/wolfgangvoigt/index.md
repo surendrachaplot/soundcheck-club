@@ -1,6 +1,6 @@
 # Wolfgang Voigt
 
-Wolfgang Voigt is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Gaîté Lyrique, Paris on Wed, 23 Sept 2026.
+Wolfgang Voigt is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Gaîté Lyrique, Paris on Wed, 23 Sept 2026.
 
 Wolfgang Voigt is an ambient and classical artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Budapest, London and Milan and 1 more. Often billed alongside CT Kidobó, Hauschka and Laurine Frost. Next up: La Gaîté Lyrique, Paris on Wed 23 Sept.
 
@@ -23,4 +23,4 @@ Wolfgang Voigt is an ambient and classical artist based in Germany, tracked on s
 
 CT Kidobó, Hauschka, Laurine Frost
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfgangvoigt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfgangvoigt/)*

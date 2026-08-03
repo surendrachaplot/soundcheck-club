@@ -1,6 +1,6 @@
 # Ludi
 
-Ludi is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gaffe, London on Sun, 20 Sept 2026.
+Ludi is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sun, 20 Sept 2026.
 
 Ludi is a house artist tracked on soundcheck, with 8 sets logged across Geneva, London, Madrid and Paris. Often billed alongside Alexia Glensy, CAPTNNN' and Oliver Scala. Next up: Gaffe, London on Sun 20 Sept.
 
@@ -24,4 +24,4 @@ Ludi is a house artist tracked on soundcheck, with 8 sets logged across Geneva, 
 
 Alexia Glensy, CAPTNNN', Oliver Scala
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigspatz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigspatz/)*

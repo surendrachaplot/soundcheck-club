@@ -1,6 +1,6 @@
 # Lee Rands
 
-Lee Rands is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Lee Rands is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
 
 Lee Rands is a techno and house artist tracked on soundcheck, with 11 sets logged across Liverpool and London. Often billed alongside Alex Arnout, Aly P and Daniel Dutts. Next up: St Brides Church, Liverpool on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Lee Rands is a techno and house artist tracked on soundcheck, with 11 sets logge
 
 Alex Arnout, Aly P, Daniel Dutts
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leerands/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leerands/)*

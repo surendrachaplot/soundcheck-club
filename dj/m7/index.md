@@ -1,6 +1,6 @@
 # M7
 
-M7 is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Ground at Club Space, Miami on Sat, 22 Aug 2026.
+M7 is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Ground at Club Space, Miami on Sat, 22 Aug 2026.
 
 M7 is an industrial and techno artist tracked on soundcheck, with 2 sets logged across Miami. Often billed alongside Haumea, LOLSNAKE and Phase Fatale. Next up: The Ground at Club Space, Miami on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ M7 is an industrial and techno artist tracked on soundcheck, with 2 sets logged 
 
 Haumea, LOLSNAKE, Phase Fatale
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m7/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m7/)*

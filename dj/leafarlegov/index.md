@@ -1,6 +1,6 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at VENT, Tokyo on Fri, 14 Aug 2026.
+Leafar Legov is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at VENT, Tokyo on Fri, 14 Aug 2026.
 
 Leafar Legov is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: VENT, Tokyo on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Leafar Legov is a house and techno artist tracked on soundcheck, with 94 sets lo
 
 Konstantin, Edward, Map.ache
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

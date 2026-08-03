@@ -1,6 +1,6 @@
 # Estraperlo
 
-Estraperlo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "FU:SIÓ [nit 1]" on Sat, 5 Sept 2026.
+Estraperlo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FU:SIÓ [nit 1]" on Sat, 5 Sept 2026.
 
 Estraperlo is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Andrea Zarco, Debice and Ekwols. Browse upcoming dates, start times and who's playing. Carrer d'Isidre Nonell, 9, 08911 Badalona, Barcelona.
 
@@ -15,4 +15,4 @@ Estraperlo is a music venue in Barcelona listed on soundcheck. 2 upcoming nights
 
 Carrer d'Isidre Nonell, 9, 08911 Badalona, Barcelona, Barcelona
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/estraperlo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/estraperlo/)*

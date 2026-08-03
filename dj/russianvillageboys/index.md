@@ -1,6 +1,6 @@
 # Russian Village Boys
 
-Russian Village Boys is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Russian Village Boys is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Russian Village Boys is a techno and bass artist tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Berlin and Brussels and 13 more. Often billed alongside Angerfist, Hades and OMAKS. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Russian Village Boys is a techno and bass artist tracked on soundcheck, with 36 
 
 Angerfist, Hades, OMAKS
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*

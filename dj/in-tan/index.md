@@ -1,6 +1,6 @@
 # In-Tan
 
-In-Tan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Glazart, Paris on Sat, 15 Aug 2026.
+In-Tan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Glazart, Paris on Sat, 15 Aug 2026.
 
 In-Tan is a techno and house artist tracked on soundcheck, with 42 sets logged across Lyon, Marseille and Paris. Often billed alongside Kelbail, Artifak and Cattoni. Next up: Glazart, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ In-Tan is a techno and house artist tracked on soundcheck, with 42 sets logged a
 
 Kelbail, Artifak, Cattoni
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/in-tan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/in-tan/)*

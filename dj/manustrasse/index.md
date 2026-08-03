@@ -1,6 +1,6 @@
 # Manu Strasse
 
-Manu Strasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bukanyr Boat, Prague on Fri, 7 Aug 2026.
+Manu Strasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bukanyr Boat, Prague on Fri, 7 Aug 2026.
 
 Manu Strasse is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Hamburg, Madrid and Malaga and 3 more. Often billed alongside Adron_, magic.made.by.r and Leah Marie. Next up: Bukanyr Boat, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Manu Strasse is a techno and house artist tracked on soundcheck, with 68 sets lo
 
 Adron_, magic.made.by.r, Leah Marie
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manustrasse/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manustrasse/)*

@@ -1,6 +1,6 @@
 # Franz & Shape
 
-Franz & Shape is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+Franz & Shape is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 Franz & Shape are a techno and industrial duo based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, Losangeles, Rome and Sanfrancisco and 1 more. Often billed alongside Amatric, Berlin Bunny and Club Drippy. Next up: F8 1192 Folsom, Sanfrancisco on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ Franz & Shape are a techno and industrial duo based in Italy, tracked on soundch
 
 Amatric, Berlin Bunny, Club Drippy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzshape/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzshape/)*

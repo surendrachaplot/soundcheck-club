@@ -1,6 +1,6 @@
 # Hüma Utku
 
-Hüma Utku is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+Hüma Utku is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
 Hüma Utku is an experimental and ambient artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Basel and Berlin and 4 more. Often billed alongside UTKU, Zoë Mc Pherson and Andrea Belfi. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Hüma Utku is an experimental and ambient artist based in Germany, tracked on so
 
 UTKU, Zoë Mc Pherson, Andrea Belfi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humautku/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humautku/)*

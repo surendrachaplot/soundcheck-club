@@ -1,6 +1,6 @@
 # Tasya
 
-Tasya is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
+Tasya is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
 
 Tasya is a downtempo and techno artist based in Russia, tracked on soundcheck, with 18 sets logged across Prague and Thehague. Often billed alongside AMB (6), NEW MAGIC MEDIA and Surrealita. Next up: Ankali & Planeta Za, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Tasya is a downtempo and techno artist based in Russia, tracked on soundcheck, w
 
 AMB (6), NEW MAGIC MEDIA, Surrealita
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasya/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasya/)*

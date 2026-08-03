@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Solace Invites Ali Bilal [Sydney/Eora], Sensor Systems, neko.ea, frg.R, & TEAG" on Fri, 7 Aug 2026.
+Solace is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Solace Invites Ali Bilal [Sydney/Eora], Sensor Systems, neko.ea, frg.R, & TEAG" on Fri, 7 Aug 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including ADMINISTRATOR, Aidan Rudd, Ali Bilal and Asynine and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -19,4 +19,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, wi
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

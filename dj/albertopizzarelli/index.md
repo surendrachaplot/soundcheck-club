@@ -1,6 +1,6 @@
 # Alberto Pizzarelli
 
-Alberto Pizzarelli is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 7 Aug 2026.
+Alberto Pizzarelli is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 7 Aug 2026.
 
 Alberto Pizzarelli is a progressive house and techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Lisbon. Often billed alongside Chris Veron, DJ Disconnected and ELEVIN. Next up: Village Underground Lisboa, Lisbon on Fri 7 Aug.
 
@@ -15,4 +15,4 @@ Alberto Pizzarelli is a progressive house and techno artist based in Italy, trac
 
 Chris Veron, DJ Disconnected, ELEVIN
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albertopizzarelli/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albertopizzarelli/)*

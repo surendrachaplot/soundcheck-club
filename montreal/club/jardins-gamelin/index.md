@@ -1,6 +1,6 @@
 # Jardins Gamelin
 
-Jardins Gamelin is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "JARDINS D'ILLUSION | KOOKOO 🎧🎵 VAYIA, FLYTZ, ARIELLE ROBERGE" on Thu, 6 Aug 2026.
+Jardins Gamelin is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "JARDINS D'ILLUSION | KOOKOO 🎧🎵 VAYIA, FLYTZ, ARIELLE ROBERGE" on Thu, 6 Aug 2026.
 
 Jardins Gamelin is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including Ada Dielman, Arielle Roberge, ccil and ESPRIT LIBRE and 2 more. Browse upcoming dates, start times and who's playing. 1500 Rue Berri, Montréal, QC H2L 2C4.
 
@@ -17,4 +17,4 @@ Jardins Gamelin is a music venue in Montreal listed on soundcheck. 4 upcoming ni
 
 1500 Rue Berri, Montréal, QC H2L 2C4, Montreal
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/jardins-gamelin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/jardins-gamelin/)*

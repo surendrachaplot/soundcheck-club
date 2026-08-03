@@ -1,14 +1,13 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Vinyl Market with Batukizer" on Sun, 2 Aug 2026.
+arkaoda Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Noche Cierva en Arkaoda" on Thu, 6 Aug 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including A.Wild, Alada, Cousin and COZi and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including A.Wild, Alada, Cousin and COZi and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Vinyl Market with Batukizer |  |
 | Thu, 6 Aug 2026 | Noche Cierva en Arkaoda | CRUHDA, Kappa Cat, Kasja |
 | Fri, 7 Aug 2026 | X-Kalay with *Special Guest*, DJ Life, evin, Georgia Bird, Sam | COZi, DJ Life, Georgia Bird, evin |
 | Sat, 8 Aug 2026 | Braygray — 1 Year　A.Wild , Diamin b2b Sean Gates , SONOKI | A.Wild, Diamin, SONOKI |
@@ -23,4 +22,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

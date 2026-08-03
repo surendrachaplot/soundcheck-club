@@ -1,6 +1,6 @@
 # DJ Leeloo
 
-DJ Leeloo is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
+DJ Leeloo is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
 
 DJ Leeloo is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside BIDOIS, Jawrs and Margella. Next up: Bricks, London on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ DJ Leeloo is a drum & bass and garage artist based in United Kingdom, tracked on
 
 BIDOIS, Jawrs, Margella
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djleeloo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djleeloo/)*

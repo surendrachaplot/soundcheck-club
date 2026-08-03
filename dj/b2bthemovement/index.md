@@ -1,6 +1,6 @@
 # B2B The Movement
 
-B2B The Movement is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
+B2B The Movement is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
 
 B2B The Movement is a tech house and house artist tracked on soundcheck, with 9 sets logged across Liverpool, London and Malta. Often billed alongside Brian Smith, Steven Cee and JAYDAA. Next up: Ministry Of Sound, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ B2B The Movement is a tech house and house artist tracked on soundcheck, with 9 
 
 Brian Smith, Steven Cee, JAYDAA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bthemovement/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bthemovement/)*

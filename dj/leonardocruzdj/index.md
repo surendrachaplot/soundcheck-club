@@ -1,6 +1,6 @@
 # Leonardo Cruz DJ
 
-Leonardo Cruz DJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
+Leonardo Cruz DJ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
 Leonardo Cruz DJ is a house and tech house artist based in Brazil, tracked on soundcheck, with 35 sets logged across London. Often billed alongside Juliana Branco, Simoon Pedro and G Belmonte. Next up: Square Studio Lab, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Leonardo Cruz DJ is a house and tech house artist based in Brazil, tracked on so
 
 Juliana Branco, Simoon Pedro, G Belmonte
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruzdj/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruzdj/)*

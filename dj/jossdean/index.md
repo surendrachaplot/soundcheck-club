@@ -1,14 +1,13 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
+Joss Dean is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
-Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Tommy Phillips, Ozzie Guven and DXNBY. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
+Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Tommy Phillips, Ozzie Guven and DXNBY. Next up: Lab11, Birmingham on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 8 Aug 2026 | Lab11 | Birmingham |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Ouseburn Garden | Newcastle |
@@ -22,6 +21,7 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets l
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 2 Aug 2026
 - FORGE, Sheffield — Sun, 19 Jul 2026
 - Thuishaven, Amsterdam — Sat, 27 Jun 2026
 - TBA - Wave, Mallorca — Fri, 26 Jun 2026
@@ -29,10 +29,9 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets l
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
 - Sala Upload Barcelona, Barcelona — Thu, 18 Jun 2026
 - TivoliVredenburg, Utrecht — Sat, 13 Jun 2026
-- Amnesia Ibiza, Ibiza — Tue, 9 Jun 2026
 
 ## Shares bills with
 
 Tommy Phillips, Ozzie Guven, DXNBY
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

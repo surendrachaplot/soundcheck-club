@@ -1,6 +1,6 @@
 # LYOM
 
-LYOM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
+LYOM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
 
 LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside EMILIO (3), Calavera and FINYA. Next up: WOMB, Tokyo on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 6 
 
 EMILIO (3), Calavera, FINYA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

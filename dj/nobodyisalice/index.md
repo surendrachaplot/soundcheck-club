@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Switch Bar, Barcelona on Wed, 5 Aug 2026.
+NOBODYISALICE is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Switch Bar, Barcelona on Wed, 5 Aug 2026.
 
 NOBODYISALICE is a house and electro artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Lauriee, PAZ WAZ HERE and XipNoize. Next up: Switch Bar, Barcelona on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ NOBODYISALICE is a house and electro artist based in Spain, tracked on soundchec
 
 Lauriee, PAZ WAZ HERE, XipNoize
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

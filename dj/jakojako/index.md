@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 JakoJako is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -35,4 +35,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 157 sets logge
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

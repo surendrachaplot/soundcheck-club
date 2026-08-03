@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
+CEM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
 
 CEM is a techno and house artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Berlin and 48 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: La Station - Gare des Mines, Paris on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ CEM is a techno and house artist based in Germany, tracked on soundcheck, with 1
 
 MCMLXXXV, JASSS, Dj Saliva
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Open Decks & Tischtennis" on Tue, 4 Aug 2026.
+Humboldthain Club is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Open Decks & Tischtennis" on Tue, 4 Aug 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Athina, bump.FX, DJ Buona Sara and DJ Sweedee and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

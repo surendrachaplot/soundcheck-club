@@ -1,6 +1,6 @@
 # Yozza
 
-Yozza is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
+Yozza is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
 
 Yozza is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Sam Sharp, Crumpler and Listiq. Next up: Vittoria Wharf Studio, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Yozza is a funk / soul and disco artist based in United Kingdom, tracked on soun
 
 Sam Sharp, Crumpler, Listiq
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yozza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yozza/)*

@@ -1,6 +1,6 @@
 # ROU-H
 
-ROU-H is a Electronica and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
+ROU-H is a Electronica and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
 
 ROU-H is an electronica and afro tech artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Sandwavv, Dameer and MNSA. Next up: Standard Time, Toronto on Sun 16 Aug.
 
@@ -20,4 +20,4 @@ ROU-H is an electronica and afro tech artist based in Canada, tracked on soundch
 
 Sandwavv, Dameer, MNSA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rou-h/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rou-h/)*

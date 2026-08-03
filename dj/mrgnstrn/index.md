@@ -1,6 +1,6 @@
 # MRGNSTRN
 
-MRGNSTRN is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+MRGNSTRN is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 MRGNSTRN is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside KLING&KLANG, ELOISA and Ozzwald. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ MRGNSTRN is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 KLING&KLANG, ELOISA, Ozzwald
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*

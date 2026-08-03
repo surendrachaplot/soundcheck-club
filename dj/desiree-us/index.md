@@ -1,6 +1,6 @@
 # Desiree (US)
 
-Desiree (US) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 13 Sept 2026.
+Desiree (US) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 13 Sept 2026.
 
 Desiree (US) is a techno and tech house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Budapest and Ibiza. Often billed alongside 1991 (UK), 999999999 and Abstract Division. Next up: Pacha Ibiza, Ibiza on Sun 13 Sept.
 
@@ -18,4 +18,4 @@ Desiree (US) is a techno and tech house artist based in United States of America
 
 1991 (UK), 999999999, Abstract Division
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-us/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-us/)*

@@ -1,6 +1,6 @@
 # DJ Technics
 
-DJ Technics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Flash, Washington DC on Sat, 8 Aug 2026.
+DJ Technics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Flash, Washington DC on Sat, 8 Aug 2026.
 
 DJ Technics is a club and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Dee Clark, Joyce Lim and Kenny M. Next up: Flash, Washingtondc on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Technics is a club and techno artist based in United States of America, track
 
 Dee Clark, Joyce Lim, Kenny M
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtechnics/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtechnics/)*

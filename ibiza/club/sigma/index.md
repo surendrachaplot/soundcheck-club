@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Symmetric Space" on Sat, 8 Aug 2026.
+Sigma is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Symmetric Space" on Sat, 8 Aug 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with line-ups including DigitalKaos, KLOE, Luigi Rossi and Ren Ascutt and 1 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -18,4 +18,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with li
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

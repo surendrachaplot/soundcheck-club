@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Que DJ" on Fri, 7 Aug 2026.
+Circus Osaka is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Que DJ" on Fri, 7 Aug 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including Baby J (2), MARU (2), Mr. Ho and Que DJ and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -18,4 +18,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 5 upcoming nights, 
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

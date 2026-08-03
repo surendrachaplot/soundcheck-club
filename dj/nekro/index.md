@@ -1,6 +1,6 @@
 # Nekro
 
-Nekro is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Liquid Club, Malta on Sat, 22 Aug 2026.
+Nekro is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Liquid Club, Malta on Sat, 22 Aug 2026.
 
 Nekro is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Ibiza and Malta. Often billed alongside Philip Ackowsky, Abdy and Soofnic. Next up: Liquid Club, Malta on Sat 22 Aug.
 
@@ -15,4 +15,4 @@ Nekro is a progressive house and techno artist based in United Kingdom, tracked 
 
 Philip Ackowsky, Abdy, Soofnic
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekro/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekro/)*

@@ -1,6 +1,6 @@
 # Lo Dazz
 
-Lo Dazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
+Lo Dazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
 
 Lo Dazz is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Boston and Detroit. Often billed alongside Lady Witch, Hardin and Auntie Chanel. Next up: Marble Bar, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lo Dazz is a techno and house artist based in United States of America, tracked 
 
 Lady Witch, Hardin, Auntie Chanel
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lodazz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lodazz/)*

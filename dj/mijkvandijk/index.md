@@ -1,6 +1,6 @@
 # Mijk van Dijk
 
-Mijk van Dijk is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 14 Aug 2026.
+Mijk van Dijk is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 14 Aug 2026.
 
 Mijk van Dijk is a techno and tech house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Bristol and Leipzig and 3 more. Often billed alongside Nat SuPrise, Felix Reichelt and DJ Doorkeeper. Next up: Der Weiße Hase, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Mijk van Dijk is a techno and tech house artist tracked on soundcheck, with 46 s
 
 Nat SuPrise, Felix Reichelt, DJ Doorkeeper
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*

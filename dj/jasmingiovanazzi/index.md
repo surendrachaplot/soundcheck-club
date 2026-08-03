@@ -1,6 +1,6 @@
 # Jasmin Giovanazzi
 
-Jasmin Giovanazzi is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
+Jasmin Giovanazzi is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at OXI, Berlin on Thu, 20 Aug 2026.
 
 Jasmin Giovanazzi is a techno artist tracked on soundcheck, with 13 sets logged across Berlin and Stuttgart. Often billed alongside Solvados, DEN!SE and Dave Mech. Next up: OXI, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Jasmin Giovanazzi is a techno artist tracked on soundcheck, with 13 sets logged 
 
 Solvados, DEN!SE, Dave Mech
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmingiovanazzi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmingiovanazzi/)*

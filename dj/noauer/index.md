@@ -1,6 +1,6 @@
 # No Auer
 
-No Auer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+No Auer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 No Auer is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside MXC, Vaccaro and arbër. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ No Auer is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 MXC, Vaccaro, arbër
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noauer/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noauer/)*

@@ -1,6 +1,6 @@
 # iLAN
 
-iLAN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
+iLAN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
 
 iLAN is a techno and industrial artist tracked on soundcheck, with 16 sets logged across Warsaw. Often billed alongside NO FACE, Anela and KASSANDRA. Next up: Smolna, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ iLAN is a techno and industrial artist tracked on soundcheck, with 16 sets logge
 
 NO FACE, Anela, KASSANDRA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilan/)*

@@ -1,6 +1,6 @@
 # T.Schaui
 
-T.Schaui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at elipamanoke, Leipzig on Wed, 5 Aug 2026.
+T.Schaui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Wed, 5 Aug 2026.
 
 T.Schaui is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Leipzig. Often billed alongside OutWithJane, Beatris and Kalpea. Next up: elipamanoke, Leipzig on Wed 5 Aug.
 
@@ -21,4 +21,4 @@ T.Schaui is a techno and house artist based in Germany, tracked on soundcheck, w
 
 OutWithJane, Beatris, Kalpea
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.schaui/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.schaui/)*

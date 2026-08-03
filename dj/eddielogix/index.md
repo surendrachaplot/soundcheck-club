@@ -1,6 +1,6 @@
 # Eddie Logix
 
-Eddie Logix is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Eddie Logix is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 Eddie Logix is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 146 sets logged across Chicago, Detroit, Newyorkcity and Seattle and 1 more. Often billed alongside Jo Rad Silver, Peter Croce and Crate Digga. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Eddie Logix is a house and funk / soul artist based in United States of America,
 
 Jo Rad Silver, Peter Croce, Crate Digga
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*

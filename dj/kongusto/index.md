@@ -1,6 +1,6 @@
 # Kongusto
 
-Kongusto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
+Kongusto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
 
 Kongusto is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Munich. Often billed alongside Melchiorr, Neverglass and DASH (SLO). Next up: Lieberscholli, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kongusto is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Melchiorr, Neverglass, DASH (SLO)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kongusto/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kongusto/)*

@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Selección Mejicana de Djismo" on Thu, 13 Aug 2026.
+CHICO is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Selección Mejicana de Djismo" on Thu, 13 Aug 2026.
 
 CHICO is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -16,4 +16,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights. Br
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

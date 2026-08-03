@@ -1,6 +1,6 @@
 # SID MEHANI
 
-SID MEHANI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
+SID MEHANI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
 
 SID MEHANI is a house and deep house artist based in Algeria, tracked on soundcheck, with 10 sets logged across Berlin and Leipzig. Often billed alongside Wave Particle Singularity, HEAR and Julie Marghilano. Next up: Club der Visionaere, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SID MEHANI is a house and deep house artist based in Algeria, tracked on soundch
 
 Wave Particle Singularity, HEAR, Julie Marghilano
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidmehani/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidmehani/)*

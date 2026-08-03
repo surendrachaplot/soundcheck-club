@@ -1,6 +1,6 @@
 # Julian Feierabend
 
-Julian Feierabend is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Parkcafe, Cologne on Sat, 15 Aug 2026.
+Julian Feierabend is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parkcafe, Cologne on Sat, 15 Aug 2026.
 
 Julian Feierabend is a house and club artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Ramî, Paul Kine and Thalo Santana. Next up: Parkcafe, Cologne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Julian Feierabend is a house and club artist based in Germany, tracked on soundc
 
 Ramî, Paul Kine, Thalo Santana
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-feierabend/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-feierabend/)*

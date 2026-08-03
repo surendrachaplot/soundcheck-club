@@ -1,6 +1,6 @@
 # Perfo
 
-Perfo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Perfo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Perfo is a techno and industrial artist tracked on soundcheck, with 18 sets logged across Belgrade, Berlin, Cologne and Munich and 7 more. Often billed alongside Amotik, André Galluzzi and Anika Kunst. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Perfo is a techno and industrial artist tracked on soundcheck, with 18 sets logg
 
 Amotik, André Galluzzi, Anika Kunst
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perfo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perfo/)*

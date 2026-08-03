@@ -1,6 +1,6 @@
 # gAs
 
-gAs is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Macarena Club, Barcelona on Mon, 24 Aug 2026.
+gAs is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Macarena Club, Barcelona on Mon, 24 Aug 2026.
 
 gAs is a progressive house and house artist based in Italy, tracked on soundcheck, with 9 sets logged across Barcelona, Milan, Osaka and Rome. Often billed alongside 3AM, Jo-Sie and KA WAI. Next up: Macarena Club, Barcelona on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ gAs is a progressive house and house artist based in Italy, tracked on soundchec
 
 3AM, Jo-Sie, KA WAI
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gas/)*

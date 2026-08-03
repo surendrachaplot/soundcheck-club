@@ -1,14 +1,13 @@
 # The Workmans Club
 
-The Workmans Club is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "RAW - Founders Edition" on Sun, 2 Aug 2026.
+The Workmans Club is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "08/08 // TRIAD at The Workmans Main Room" on Sat, 8 Aug 2026.
 
-The Workmans Club is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including NILAAA, Pablo Fatty Fatty and Phil Bass. Browse upcoming dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
+The Workmans Club is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Pablo Fatty Fatty. Browse upcoming dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | RAW - Founders Edition | NILAAA, Phil Bass |
 | Sat, 8 Aug 2026 | 08/08 // TRIAD at The Workmans Main Room |  |
 | Sat, 15 Aug 2026 | HEXO FUNDRAISER @WORKMANS |  |
 | Fri, 4 Sept 2026 | Etienne de Crécy (DJ Set) | Pablo Fatty Fatty |
@@ -17,4 +16,4 @@ The Workmans Club is a music venue in Dublin listed on soundcheck. 4 upcoming ni
 
 10 Wellington Quay, Dublin 2, Dublin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*

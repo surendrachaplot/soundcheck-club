@@ -1,6 +1,6 @@
 # Gedächtniskirche
 
-Gedächtniskirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Sarah Davachi" on Thu, 22 Oct 2026.
+Gedächtniskirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Sarah Davachi" on Thu, 22 Oct 2026.
 
 Gedächtniskirche is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Sarah Davachi. Browse upcoming dates, start times and who's playing. Breitscheidplatz, 10789 Berlin.
 
@@ -14,4 +14,4 @@ Gedächtniskirche is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Breitscheidplatz, 10789 Berlin, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ged-chtniskirche/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ged-chtniskirche/)*

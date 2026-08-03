@@ -1,6 +1,6 @@
 # Zum Böhmischen Dorf
 
-Zum Böhmischen Dorf is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Chemistry Club" on Fri, 7 Aug 2026.
+Zum Böhmischen Dorf is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Chemistry Club" on Fri, 7 Aug 2026.
 
 Zum Böhmischen Dorf is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including bad_dubs and Haider. Browse upcoming dates, start times and who's playing. Sanderstraße 11, 12047 Berlin.
 
@@ -14,4 +14,4 @@ Zum Böhmischen Dorf is a music venue in Berlin listed on soundcheck. 1 upcoming
 
 Sanderstraße 11, 12047 Berlin, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zum-b-hmischen-dorf/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zum-b-hmischen-dorf/)*

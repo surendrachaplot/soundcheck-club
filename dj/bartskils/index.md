@@ -1,6 +1,6 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Bart Skils is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Bart Skils is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Bart Skils is a techno and house artist tracked on soundcheck, with 124 sets log
 
 Adam Beyer, Eli Brown, Victor Ruiz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

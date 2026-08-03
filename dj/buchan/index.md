@@ -1,6 +1,6 @@
 # Buchan
 
-Buchan is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
+Buchan is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Refuge, New York City on Sat, 22 Aug 2026.
 
 Buchan is an electronic artist tracked on soundcheck, with 41 sets logged across Krakow, Newyorkcity and Warsaw. Often billed alongside Edvvin, MATRIX3K and dd (PL). Next up: Refuge, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Buchan is an electronic artist tracked on soundcheck, with 41 sets logged across
 
 Edvvin, MATRIX3K, dd (PL)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*

@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Durante + JULIAN LUCERO - by PROGRESSIVE AR, LA BIBLIOTECA" on Fri, 7 Aug 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Durante + JULIAN LUCERO - by PROGRESSIVE AR, LA BIBLIOTECA" on Fri, 7 Aug 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 10 upcoming nights, with line-ups including Alex Stein, Durante, Franco Dalmati and Jody Wisternoff and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sat, 5 Sept 2026 | Victoria Engel x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Victoria Engel |
 | Fri, 11 Sept 2026 | Alex Stein x Karmic, La Biblioteca, San Telmo Buenos Aires | Alex Stein |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

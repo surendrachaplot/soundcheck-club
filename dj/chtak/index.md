@@ -1,6 +1,6 @@
 # Chtak.
 
-Chtak. is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Absolem Marseille, Marseille on Sat, 15 Aug 2026.
+Chtak. is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Absolem Marseille, Marseille on Sat, 15 Aug 2026.
 
 Chtak. is a progressive house and house artist tracked on soundcheck, with 13 sets logged across Marseille and Paris. Often billed alongside Ploum, Spicy Sofi and Daly. Next up: Absolem Marseille, Marseille on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Chtak. is a progressive house and house artist tracked on soundcheck, with 13 se
 
 Ploum, Spicy Sofi, Daly
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chtak/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chtak/)*

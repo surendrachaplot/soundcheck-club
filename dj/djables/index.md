@@ -1,6 +1,6 @@
 # DJABLÈS
 
-DJABLÈS is a Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Duo Clapham, London on Sat, 15 Aug 2026.
+DJABLÈS is a Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Duo Clapham, London on Sat, 15 Aug 2026.
 
 DJABLÈS is a dancehall artist based in France, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Ana Isabela, London Hatred and Almass Badat. Next up: Duo Clapham, London on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ DJABLÈS is a dancehall artist based in France, tracked on soundcheck, with 8 se
 
 Ana Isabela, London Hatred, Almass Badat
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djables/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djables/)*

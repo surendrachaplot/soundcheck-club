@@ -1,6 +1,6 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bar Oriente, Mexico City on Fri, 14 Aug 2026.
+Mystery Affair is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Oriente, Mexico City on Fri, 14 Aug 2026.
 
 Mystery Affair is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: Bar Oriente, Mexicocity on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Mystery Affair is a house and techno artist tracked on soundcheck, with 93 sets 
 
 Ursula Prawn, Portugal, sadgal
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*

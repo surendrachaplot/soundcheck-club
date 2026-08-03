@@ -1,6 +1,6 @@
 # LACEY
 
-LACEY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+LACEY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 LACEY is a house and techno artist tracked on soundcheck, with 13 sets logged across Bristol, Ibiza, Leeds and Liverpool and 3 more. Often billed alongside ELLIS (2), Lacey IQ and Yazmin Lacey. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ LACEY is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 ELLIS (2), Lacey IQ, Yazmin Lacey
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacey/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacey/)*

@@ -1,6 +1,6 @@
 # Armen
 
-Armen is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
+Armen is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
 
 Armen is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 10 sets logged across Philadelphia. Often billed alongside Art Cuebik, Joey Breakdown and Mis-Ty. Next up: Nameless, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Armen is a jungle and drum & bass artist based in United States of America, trac
 
 Art Cuebik, Joey Breakdown, Mis-Ty
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armendj/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armendj/)*

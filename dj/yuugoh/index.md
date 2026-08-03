@@ -1,6 +1,6 @@
 # YUUGOH
 
-YUUGOH is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 6 Aug 2026.
+YUUGOH is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 6 Aug 2026.
 
 YUUGOH is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 58 sets logged across Osaka and Tokyo. Often billed alongside TAKENOKO, SAMO (JP) and YUVIE. Next up: ZEROTOKYO, Tokyo on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ YUUGOH is a techno and hip-hop artist based in Japan, tracked on soundcheck, wit
 
 TAKENOKO, SAMO (JP), YUVIE
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuugoh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuugoh/)*

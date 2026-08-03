@@ -1,6 +1,6 @@
 # Varis
 
-Varis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Cadavra, Madrid on Fri, 7 Aug 2026.
+Varis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Cadavra, Madrid on Fri, 7 Aug 2026.
 
 Varis is a house and tech house artist tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Budapest and Madrid and 1 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: Cadavra, Madrid on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Varis is a house and tech house artist tracked on soundcheck, with 35 sets logge
 
 Pizzicatto, Pau Pérez, Sueezo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*

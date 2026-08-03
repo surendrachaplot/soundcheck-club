@@ -1,6 +1,6 @@
 # Club Drippy
 
-Club Drippy is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 8 Aug 2026.
+Club Drippy is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 8 Aug 2026.
 
 Club Drippy is a techno and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside JS Alvarez, Jumpr and Nolia. Next up: Smoke & Mirrors, Chicago on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Club Drippy is a techno and industrial artist based in United States of America,
 
 JS Alvarez, Jumpr, Nolia
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdrippy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdrippy/)*

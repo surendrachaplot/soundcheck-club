@@ -1,6 +1,6 @@
 # Milzy
 
-Milzy is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Milzy is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 Milzy is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Bristol, Cardiff, Edinburgh and Leeds and 5 more. Often billed alongside Amelia Leigh, Bakey and Betsy Mae. Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Milzy is a garage and bass artist based in United Kingdom, tracked on soundcheck
 
 Amelia Leigh, Bakey, Betsy Mae
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milzy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milzy/)*

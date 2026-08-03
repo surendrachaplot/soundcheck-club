@@ -1,6 +1,6 @@
 # ANDREASZ
 
-ANDREASZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
+ANDREASZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
 
 ANDREASZ is a house and techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Barcelona and Berlin. Often billed alongside Bruno Brero, DJ Achim Feuervogel and HANÀ. Next up: Lokschuppen Berlin, Berlin on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ ANDREASZ is a house and techno artist based in Netherlands, tracked on soundchec
 
 Bruno Brero, DJ Achim Feuervogel, HANÀ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasz/)*

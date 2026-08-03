@@ -1,6 +1,6 @@
 # Franz Jäger
 
-Franz Jäger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
+Franz Jäger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
 
 Franz Jäger is a techno and house artist based in Sweden, tracked on soundcheck, with 34 sets logged across Berlin, Brussels, Dusseldorf and Ghent and 10 more. Often billed alongside Egotot, Billie Jo and GT7. Next up: Rote Sonne, Munich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Franz Jäger is a techno and house artist based in Sweden, tracked on soundcheck
 
 Egotot, Billie Jo, GT7
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzjager/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzjager/)*

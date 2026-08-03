@@ -1,6 +1,6 @@
 # Revoxx
 
-Revoxx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
+Revoxx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
 
 Revoxx is a techno and house artist tracked on soundcheck, with 44 sets logged across Budapest, Glasgow, Sydney and Tokyo. Often billed alongside Jonymul, FLEDtokyo and Alejandro (3). Next up: Débris, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Revoxx is a techno and house artist tracked on soundcheck, with 44 sets logged a
 
 Jonymul, FLEDtokyo, Alejandro (3)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revoxx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revoxx/)*

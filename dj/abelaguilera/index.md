@@ -1,18 +1,18 @@
 # Abel Aguilera
 
-Abel Aguilera is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at WestWeelde, Amsterdam on Sun, 2 Aug 2026.
+Abel Aguilera is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Stereo, Montreal on Sun, 9 Aug 2026.
 
-Abel Aguilera is a tech house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam and Montreal. Often billed alongside Moussa Barcelona. Next up: WestWeelde, Amsterdam on Sun 2 Aug.
+Abel Aguilera is a tech house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam and Montreal. Often billed alongside Moussa Barcelona. Next up: Stereo, Montreal on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | WestWeelde | Amsterdam |
 | Sun, 9 Aug 2026 | Stereo | Montreal |
 
 ## Recently played
 
+- WestWeelde, Amsterdam — Sun, 2 Aug 2026
 - Stereo, Montreal — Sat, 6 Dec 2025
 - Stereo, Montreal — Sun, 10 Aug 2025
 - Stereo, Montreal — Sat, 21 Dec 2024
@@ -24,4 +24,4 @@ Abel Aguilera is a tech house and house artist based in United States of America
 
 Moussa Barcelona
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abelaguilera/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abelaguilera/)*

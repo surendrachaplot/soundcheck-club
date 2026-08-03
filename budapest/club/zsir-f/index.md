@@ -1,6 +1,6 @@
 # Zsiráf
 
-Zsiráf is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Joris Voorn by City Takeover" on Thu, 13 Aug 2026.
+Zsiráf is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Joris Voorn by City Takeover" on Thu, 13 Aug 2026.
 
 Zsiráf is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Joris Voorn. Browse upcoming dates, start times and who's playing. Budapest, Teréz krt. 53, 1062 Hungary.
 
@@ -14,4 +14,4 @@ Zsiráf is a music venue in Budapest listed on soundcheck. 1 upcoming night, wit
 
 Budapest, Teréz krt. 53, 1062 Hungary, Budapest
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*

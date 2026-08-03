@@ -1,18 +1,18 @@
 # cosmolady
 
-cosmolady is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Room, Tokyo on Sun, 2 Aug 2026.
+cosmolady is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 6 Aug 2026.
 
-cosmolady is a house and techno artist based in Japan, tracked on soundcheck, with 93 sets logged across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: The Room, Tokyo on Sun 2 Aug.
+cosmolady is a house and techno artist based in Japan, tracked on soundcheck, with 93 sets logged across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | The Room | Tokyo |
 | Thu, 6 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
 
+- The Room, Tokyo — Sun, 2 Aug 2026
 - Aoyama Hachi, Tokyo — Sun, 26 Jul 2026
 - Débris, Tokyo — Sun, 19 Jul 2026
 - Organ Bar, Tokyo — Mon, 13 Jul 2026
@@ -20,10 +20,9 @@ cosmolady is a house and techno artist based in Japan, tracked on soundcheck, wi
 - TBA - ROYAL LOUNGE jingu, Tokyo — Mon, 15 Jun 2026
 - DeTour, Tokyo — Sun, 14 Jun 2026
 - The Room, Tokyo — Sun, 7 Jun 2026
-- Numm, Tokyo — Fri, 29 May 2026
 
 ## Shares bills with
 
 SIGNAL (JP), hidemi, AMARI
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmolady/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmolady/)*

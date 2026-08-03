@@ -1,6 +1,6 @@
 # Gunselx
 
-Gunselx is a Experimental and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+Gunselx is a Experimental and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 Gunselx is an experimental and psytrance artist based in Turkey, tracked on soundcheck, with 2 sets logged across Istanbul. Often billed alongside BERENALP, Ezkiel and Fatysh. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -18,4 +18,4 @@ Gunselx is an experimental and psytrance artist based in Turkey, tracked on soun
 
 BERENALP, Ezkiel, Fatysh
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gunselx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gunselx/)*

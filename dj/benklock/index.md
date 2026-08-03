@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
+Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Amnesia Ibiza, Ibiza on Tue 4 Aug.
 
@@ -34,4 +34,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 244 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

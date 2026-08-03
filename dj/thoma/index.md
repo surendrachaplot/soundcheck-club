@@ -1,6 +1,6 @@
 # Thoma'
 
-Thoma' is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 9 Aug 2026.
+Thoma' is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 9 Aug 2026.
 
 Thoma' is a house and deep house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Akatana, DJ_FT and Hubble. Next up: Boat - MS Rhein, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Thoma' is a house and deep house artist based in Germany, tracked on soundcheck,
 
 Akatana, DJ_FT, Hubble
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoma/)*

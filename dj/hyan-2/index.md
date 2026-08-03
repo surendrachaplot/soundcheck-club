@@ -1,18 +1,18 @@
 # Hyan (2)
 
-Hyan (2) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Greyhound, London on Sun, 2 Aug 2026.
+Hyan (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
 
-Hyan (2) is a garage and house artist based in New Zealand, tracked on soundcheck, with 8 sets logged across Auckland and London. Often billed alongside THIRZA, Caru (NZ) and Alix Perez. Next up: The Greyhound, London on Sun 2 Aug.
+Hyan (2) is a garage and house artist based in New Zealand, tracked on soundcheck, with 8 sets logged across Auckland and London. Often billed alongside THIRZA, Caru (NZ) and Alix Perez. Next up: Planet Wax, London on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | The Greyhound | London |
 | Thu, 6 Aug 2026 | Planet Wax | London |
 
 ## Recently played
 
+- The Greyhound, London — Sun, 2 Aug 2026
 - The Cause, London — Sat, 18 Jul 2026
 - TBA - Secret Warehouse , Auckland — Fri, 24 Apr 2026
 - nami record bar, Auckland — Sat, 7 Mar 2026
@@ -24,4 +24,4 @@ Hyan (2) is a garage and house artist based in New Zealand, tracked on soundchec
 
 THIRZA, Caru (NZ), Alix Perez
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*

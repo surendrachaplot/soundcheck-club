@@ -1,6 +1,6 @@
 # Young Muscle
 
-Young Muscle is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Podlasie Club, Chicago on Sat, 8 Aug 2026.
+Young Muscle is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Podlasie Club, Chicago on Sat, 8 Aug 2026.
 
 Young Muscle is a bass and techno artist tracked on soundcheck, with 26 sets logged across Chicago, Detroit, Losangeles and Nashville and 1 more. Often billed alongside Nick Dagher, Duck Trash and Maheras. Next up: Podlasie Club, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Young Muscle is a bass and techno artist tracked on soundcheck, with 26 sets log
 
 Nick Dagher, Duck Trash, Maheras
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmuscle/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmuscle/)*

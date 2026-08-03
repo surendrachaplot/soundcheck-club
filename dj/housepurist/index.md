@@ -1,6 +1,6 @@
 # House Purist
 
-House Purist is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Sun, 9 Aug 2026.
+House Purist is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Starlane Pizza Bar, London on Sun, 9 Aug 2026.
 
 House Purist is a house and disco artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Nicão, Hudson’s Choice and Conrad Lee. Next up: Starlane Pizza Bar, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ House Purist is a house and disco artist based in United Kingdom, tracked on sou
 
 Nicão, Hudson’s Choice, Conrad Lee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housepurist/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housepurist/)*

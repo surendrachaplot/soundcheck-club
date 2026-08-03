@@ -1,14 +1,13 @@
 # Honey's
 
-Honey's is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Groove Tracker Nights (HiFi Rooftop Party)" on Sun, 2 Aug 2026.
+Honey's is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Swallowed Open Decks" on Wed, 5 Aug 2026.
 
-Honey's is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including 1ol1v1a, Ben Ready, bossy boots and COVE(US) and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
+Honey's is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including 1ol1v1a, Ben Ready, bossy boots and COVE(US) and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Groove Tracker Nights (HiFi Rooftop Party) | Isadora, Nick Boyd, Perna, The Hefker Girl, nycp |
 | Wed, 5 Aug 2026 | Swallowed Open Decks | DJ girlcrush, bossy boots |
 | Fri, 7 Aug 2026 | Oscil | Oscil |
 | Fri, 7 Aug 2026 | Floor Tactics | Emsho, Kindred (2), MIARISUA, okDUNC |
@@ -22,4 +21,4 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

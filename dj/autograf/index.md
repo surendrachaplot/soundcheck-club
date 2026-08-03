@@ -1,6 +1,6 @@
 # Autograf
 
-Autograf is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sacré, Paris on Sat, 29 Aug 2026.
+Autograf is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sacré, Paris on Sat, 29 Aug 2026.
 
 Autograf is a house and afro house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Austin, Barcelona, Boston and Chicago and 10 more. Often billed alongside Blindstares, Coyote Cat and David Ardila. Next up: Sacré, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Autograf is a house and afro house artist based in United States of America, tra
 
 Blindstares, Coyote Cat, David Ardila
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*

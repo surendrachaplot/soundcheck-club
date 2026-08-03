@@ -1,6 +1,6 @@
 # Andy Manston
 
-Andy Manston is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Andy Manston is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Andy Manston is a house and breakbeat artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Birmingham, Glasgow, Ibiza and Liverpool and 2 more. Often billed alongside Danny Clockwork, Bongo Ben and Alex P. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Andy Manston is a house and breakbeat artist based in United Kingdom, tracked on
 
 Danny Clockwork, Bongo Ben, Alex P
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymanston/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymanston/)*

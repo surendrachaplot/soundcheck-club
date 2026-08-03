@@ -1,6 +1,6 @@
 # SALIMATA
 
-SALIMATA is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
+SALIMATA is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
 
 SALIMATA is a house and afro house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside JANE RYSE, KimPalm and Bossy Doll Bina. Next up: Tresor / Globus, Berlin on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ SALIMATA is a house and afro house artist tracked on soundcheck, with 56 sets lo
 
 JANE RYSE, KimPalm, Bossy Doll Bina
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salimata/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salimata/)*

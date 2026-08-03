@@ -1,6 +1,6 @@
 # Security Dog
 
-Security Dog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Security Dog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Security Dog is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Detroit, Newyorkcity and Philadelphia. Often billed alongside Avalon Emerson, DJ Papaya and DJ Python. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Security Dog is a techno and house artist based in United States of America, tra
 
 Avalon Emerson, DJ Papaya, DJ Python
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/securitydog/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/securitydog/)*

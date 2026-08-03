@@ -1,6 +1,6 @@
 # MELTA
 
-MELTA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 28 Aug 2026.
+MELTA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 28 Aug 2026.
 
 MELTA is a drum & bass and jungle artist tracked on soundcheck, with 37 sets logged across Melbourne. Often billed alongside Stackpackers, SK4NK and HELIX [UK]. Next up: Sub Club Melbourne, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MELTA is a drum & bass and jungle artist tracked on soundcheck, with 37 sets log
 
 Stackpackers, SK4NK, HELIX [UK]
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melta/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melta/)*

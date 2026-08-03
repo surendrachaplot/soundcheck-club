@@ -1,6 +1,6 @@
 # DJ Duar
 
-DJ Duar is a Reggaeton and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at P.M. Club, Prague on Sat, 15 Aug 2026.
+DJ Duar is a Reggaeton and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at P.M. Club, Prague on Sat, 15 Aug 2026.
 
 DJ Duar is a reggaeton and afrobeats artist tracked on soundcheck, with 7 sets logged across Prague. Next up: P.M. Club, Prague on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ DJ Duar is a reggaeton and afrobeats artist tracked on soundcheck, with 7 sets l
 - Chapeau Rouge, Prague — Sat, 27 Jun 2026
 - Chapeau Rouge, Prague — Sat, 13 Jun 2026
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djduar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djduar/)*

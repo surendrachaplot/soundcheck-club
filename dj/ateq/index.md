@@ -1,6 +1,6 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+ATEQ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
 
 ATEQ is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Berlin and Cologne and 11 more. Often billed alongside ORION (IT), skyra and .VRIL. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ATEQ is a techno and house artist tracked on soundcheck, with 47 sets logged acr
 
 ORION (IT), skyra, .VRIL
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

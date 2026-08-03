@@ -1,6 +1,6 @@
 # Zigy
 
-Zigy is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
+Zigy is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
 
 Zigy is a minimal techno and minimal artist tracked on soundcheck, with 21 sets logged across London and Vienna. Often billed alongside LUUD, Myriam and Stefan Andrei. Next up: Starlane Pizza Bar, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Zigy is a minimal techno and minimal artist tracked on soundcheck, with 21 sets 
 
 LUUD, Myriam, Stefan Andrei
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zigy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zigy/)*

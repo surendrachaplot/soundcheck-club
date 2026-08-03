@@ -1,6 +1,6 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Max Dean is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Max Dean is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 223 sets l
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

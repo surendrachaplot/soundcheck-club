@@ -1,6 +1,6 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
+6EJOU is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
 
 6EJOU is a techno and industrial artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Hippodrome de Vincennes, Paris on Sat 8 Aug.
 
@@ -28,4 +28,4 @@
 
 KARAH, Raxeller, CARV
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

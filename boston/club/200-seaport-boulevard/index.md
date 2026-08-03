@@ -1,6 +1,6 @@
 # 200 Seaport Boulevard
 
-200 Seaport Boulevard is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Rave on the Harbor: Ibiza Edition feat. Twinem 08/08" on Sat, 8 Aug 2026.
+200 Seaport Boulevard is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Rave on the Harbor: Ibiza Edition feat. Twinem 08/08" on Sat, 8 Aug 2026.
 
 200 Seaport Boulevard is a music venue in Boston listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 200 Seaport BlvdBoston, MA 02210, USA.
 
@@ -17,4 +17,4 @@
 
 200 Seaport BlvdBoston, MA 02210, USA, Boston
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*

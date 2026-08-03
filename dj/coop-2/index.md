@@ -1,6 +1,6 @@
 # Coop (2)
 
-Coop (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at WaV, Liverpool on Fri, 14 Aug 2026.
+Coop (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at WaV, Liverpool on Fri, 14 Aug 2026.
 
 Coop (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Liverpool. Next up: WaV, Liverpool on Fri 14 Aug.
 
@@ -10,4 +10,4 @@ Coop (2) is a techno and trance artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | WaV | Liverpool |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coop-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coop-2/)*

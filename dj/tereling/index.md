@@ -1,6 +1,6 @@
 # Tere Ling
 
-Tere Ling is a Hardcore and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sala El Sol, Madrid on Sat, 8 Aug 2026.
+Tere Ling is a Hardcore and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sala El Sol, Madrid on Sat, 8 Aug 2026.
 
 Tere Ling is a hardcore and psytrance artist tracked on soundcheck, with 2 sets logged across Madrid and Valencia. Often billed alongside Art of Fighters, CRIME and Dimitri K. Next up: Sala El Sol, Madrid on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Tere Ling is a hardcore and psytrance artist tracked on soundcheck, with 2 sets 
 
 Art of Fighters, CRIME, Dimitri K
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tereling/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tereling/)*

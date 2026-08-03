@@ -1,6 +1,6 @@
 # Kotti D'Azur
 
-Kotti D'Azur is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 7 Aug 2026.
+Kotti D'Azur is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 7 Aug 2026.
 
 Kotti D'Azur is a techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Emma (8), Kopflos and TechNovaBader. Next up: Der Weiße Hase, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kotti D'Azur is a techno artist based in Germany, tracked on soundcheck, with 10
 
 Emma (8), Kopflos, TechNovaBader
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kottidazur/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kottidazur/)*

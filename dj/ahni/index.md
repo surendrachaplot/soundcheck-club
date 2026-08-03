@@ -1,6 +1,6 @@
 # Ahni
 
-Ahni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 20 Aug 2026.
+Ahni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 20 Aug 2026.
 
 Ahni is a house and disco artist based in Australia, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Manta, materia hache and INVERNO. Next up: Bulbul Berlin, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Ahni is a house and disco artist based in Australia, tracked on soundcheck, with
 
 Manta, materia hache, INVERNO
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*

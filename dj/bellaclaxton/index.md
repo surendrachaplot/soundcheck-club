@@ -1,6 +1,6 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Night Tales, London on Fri, 7 Aug 2026.
+Bella Claxton is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Night Tales, London on Fri, 7 Aug 2026.
 
 Bella Claxton is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: Night Tales, London on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 114 sets 
 
 Kyle Starkey, Faster Horses, LAMMER
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

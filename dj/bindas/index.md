@@ -1,6 +1,6 @@
 # Bindās
 
-Bindās is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
+Bindās is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
 
 Bindās is an uk funky and garage artist based in India, tracked on soundcheck, with 2 sets logged across London. Often billed alongside ISHU, KATALYSSST and Missy T. Next up: Brixton Radio, London on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Bindās is an uk funky and garage artist based in India, tracked on soundcheck, 
 
 ISHU, KATALYSSST, Missy T
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bindas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bindas/)*

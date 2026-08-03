@@ -1,14 +1,13 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at RADION, Amsterdam on Sun, 2 Aug 2026.
+DJ MARIA. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
 
-DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: RADION, Amsterdam on Sun 2 Aug.
+DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: WOMB, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | RADION | Amsterdam |
 | Sat, 15 Aug 2026 | WOMB | Tokyo |
 | Fri, 21 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -18,6 +17,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets log
 
 ## Recently played
 
+- RADION, Amsterdam — Sun, 2 Aug 2026
 - Virage, Paris — Sat, 1 Aug 2026
 - Hangaren, Copenhagen — Sun, 26 Jul 2026
 - Macadam, Nantes — Fri, 10 Jul 2026
@@ -25,10 +25,9 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets log
 - fabric, London — Sat, 27 Jun 2026
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- VENT, Tokyo — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 DJ Yazi, Spekki Webu, Takumi Inamoto
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

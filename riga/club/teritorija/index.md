@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Platz fur Tanz x Teritorija: Espen Lauritzen (Krill Music, NO)" on Fri, 7 Aug 2026.
+Teritorija is a music venue in Riga with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Platz fur Tanz x Teritorija: Espen Lauritzen (Krill Music, NO)" on Fri, 7 Aug 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, with line-ups including A$PHYXXXÏA, ARRISHA, ELYSIUM and Esoniq and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, wi
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

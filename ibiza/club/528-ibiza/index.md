@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 35 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "[2nd Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night" on Sun, 2 Aug 2026.
+528 Ibiza is a music venue in Ibiza with 34 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "PIKES PRESENTS AT 528 WITH Bonobo" on Tue, 4 Aug 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 34 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | [2nd Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night | Apollonia, Enzo Siragusa, Julian Anthony, Margaret Dygas, Raresh, Reeshy, Voigtmann |
 | Tue, 4 Aug 2026 | PIKES PRESENTS AT 528 WITH Bonobo | Bonobo, Bushwacka!, Optimo (Espacio) |
 | Sat, 8 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS | Allister Whitehead, Graham Sahara, Jason Bye, Sarah Main, Seb Fontaine |
 | Sun, 9 Aug 2026 | [9th Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night | Call Super, Enzo Siragusa, Kepler, Locky, Marlie, Miller, Rich NXT, Rossi, Ryan Elliott, Sweely, Traumer |
@@ -18,9 +17,10 @@
 | Sun, 16 Aug 2026 | [16th Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night | Across Boundaries, Ben UFO, Dr Banana, Elina, Enzo Siragusa, Laidlaw, Saoirse, Sonja Moonear |
 | Tue, 18 Aug 2026 | PIKES PRESENTS AT 528 X DISCO DISCO | Jayda G, Todd Terje |
 | Sat, 22 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS | Andy Baxter, Jason Bye, Jo Mills, Slipmatt, Tall Paul |
+| Sun, 23 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 23.08 / Bob Moses, Henrik Schwarz (Live) | Bob Moses, Cristina Tosio, Henrik Schwarz, Julia Sandstorm, Landikhan, Omer Tayar, SHARE (NL) |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

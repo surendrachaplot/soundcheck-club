@@ -1,6 +1,6 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Charivari Detroit • Parallel" on Thu, 13 Aug 2026.
+Tangent Gallery is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Charivari Detroit • Parallel" on Thu, 13 Aug 2026.
 
 Tangent Gallery is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including Afra, Aluna, BMG and britty. and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
@@ -12,7 +12,7 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 8 upcoming nig
 | Fri, 14 Aug 2026 | Tangent Friday Charivari Detroit Parallel | Garrison XR, Just Shacoi, MNTRA, TCHiLT, britty., jamea., sillygirlcarmen, we1sman |
 | Sat, 15 Aug 2026 | Charivari Detroit Tangent Gallery Saturday | Disc Jockey George, Duck Trash, Gettoblaster, Johnny Malek, LATEX GIRL, Mona Black, Wax Assassin |
 | Fri, 21 Aug 2026 | Summer Bliss Music & Arts Festival 2026 | Aluna, DEEPFAKE, DISCOBOT, Devin Jetski, Drop Catch, J Rush, JMT (2), Key Mitch, LostBoy, Melbeatz, Nanoos, OOZE, Ro Low |
-| Sat, 26 Sept 2026 | SHDW (Mutual Rytm) & MORE TBA // Urban Pulse | SHDW |
+| Sat, 26 Sept 2026 | SHDW (Mutual Rytm) & Redax (Urban Pulse) Extended Sets | Redax, SHDW |
 | Fri, 30 Oct 2026 | SAMHAIN XXVI WEEKEND | Afra, BMG, Daniel Bell, Erika, Eris Drew, Hodge, Lakuti, Mike Servito, Mozhgan, Neel, Octo Octa, Serge, Tama Sumo, Tammy Lakkis |
 | Fri, 30 Oct 2026 | I.T. presents Beyond | Daniel Bell |
 | Sat, 31 Oct 2026 | SAMHAIN XXVI | Afra, BMG, Erika, Eris Drew, Hodge, Lakuti, Mike Servito, Mozhgan, Neel, Octo Octa, Serge, Tama Sumo, Tammy Lakkis |
@@ -21,4 +21,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 8 upcoming nig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

@@ -1,6 +1,6 @@
 # Natalie Sandi
 
-Natalie Sandi is a Dancehall and R&B artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Natalie Sandi is a Dancehall and R&B artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 Natalie Sandi is a dancehall and r&b artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Joel Mignott, Shaun Ross and Donnie Sunshine. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -15,4 +15,4 @@ Natalie Sandi is a dancehall and r&b artist based in United Kingdom, tracked on 
 
 Joel Mignott, Shaun Ross, Donnie Sunshine
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliesandi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliesandi/)*

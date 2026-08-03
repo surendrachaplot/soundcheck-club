@@ -1,6 +1,6 @@
 # Kirwan
 
-Kirwan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Kirwan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
 
 Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged across Liverpool and Manchester. Often billed alongside 4D (UK), Allmark and Aly P. Next up: St Brides Church, Liverpool on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 4D (UK), Allmark, Aly P
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirwan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirwan/)*

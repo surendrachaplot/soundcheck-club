@@ -1,6 +1,6 @@
 # Dom Dolla
 
-Dom Dolla is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 7 Aug 2026.
+Dom Dolla is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 Dom Dolla is a house and tech house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Belfast and 28 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Hï Ibiza, Ibiza on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Dom Dolla is a house and tech house artist tracked on soundcheck, with 112 sets 
 
 Patrick Topping, Ewan McVicar, Charlotte de Witte
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*

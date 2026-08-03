@@ -1,6 +1,6 @@
 # Goldcap
 
-Goldcap is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Public Roof, New York City on Fri, 14 Aug 2026.
+Goldcap is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Public Roof, New York City on Fri, 14 Aug 2026.
 
 Goldcap is a deep house and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Bali, Chicago and Denver and 10 more. Often billed alongside Sabo, ELIF and Authentic. Next up: Public Roof, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Goldcap is a deep house and house artist based in United States of America, trac
 
 Sabo, ELIF, Authentic
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*

@@ -1,6 +1,6 @@
 # DJ Chuckie
 
-DJ Chuckie is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+DJ Chuckie is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 DJ Chuckie is a house and dancehall artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Miami, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Elias Mazian and Lisa Korver. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Chuckie is a house and dancehall artist based in Netherlands, tracked on soun
 
 Benny Rodrigues, Elias Mazian, Lisa Korver
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckie/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckie/)*

@@ -1,6 +1,6 @@
 # Cherolainne
 
-Cherolainne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+Cherolainne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
 
 Cherolainne is a house and techno artist based in Brazil, tracked on soundcheck, with 24 sets logged across Barcelona, London and Saopaulo. Often billed alongside Gezender, Kontronatura and L_cio. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cherolainne is a house and techno artist based in Brazil, tracked on soundcheck,
 
 Gezender, Kontronatura, L_cio
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherolainne/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherolainne/)*

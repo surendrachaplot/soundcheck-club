@@ -1,6 +1,6 @@
 # Federico Molinari
 
-Federico Molinari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Dune Park, Buenos Aires on Sat, 8 Aug 2026.
+Federico Molinari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dune Park, Buenos Aires on Sat, 8 Aug 2026.
 
 Federico Molinari is a house and techno artist tracked on soundcheck, with 65 sets logged across Athens, Austin, Bali and Berlin and 9 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: Dune Park, Buenosaires on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Federico Molinari is a house and techno artist tracked on soundcheck, with 65 se
 
 Nekes, Alvaro Medina, Dorian Paic
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*

@@ -1,6 +1,6 @@
 # The Liquid Dude
 
-The Liquid Dude is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 33/45 Club, Valencia on Fri, 7 Aug 2026.
+The Liquid Dude is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 33/45 Club, Valencia on Fri, 7 Aug 2026.
 
 The Liquid Dude is a house and electro artist based in Spain, tracked on soundcheck, with 18 sets logged across Frankfurt, Ibiza, Paris and Valencia. Often billed alongside Ko Mu, Luigi Rossi and Woodson. Next up: 33/45 Club, Valencia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ The Liquid Dude is a house and electro artist based in Spain, tracked on soundch
 
 Ko Mu, Luigi Rossi, Woodson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theliquiddude/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theliquiddude/)*

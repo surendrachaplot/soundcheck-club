@@ -1,6 +1,6 @@
 # Bon Public
 
-Bon Public is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
+Bon Public is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
 
 Bon Public is an electro and house artist tracked on soundcheck, with 39 sets logged across Antwerp, Barcelona, Berlin and Brussels and 1 more. Often billed alongside Umbra., DC Salas and Coline Cornélis. Next up: Renate, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bon Public is an electro and house artist tracked on soundcheck, with 39 sets lo
 
 Umbra., DC Salas, Coline Cornélis
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonpublic/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonpublic/)*

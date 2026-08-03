@@ -1,6 +1,6 @@
 # Gazin
 
-Gazin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Gazin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Gazin is a house and techno artist based in South Korea, tracked on soundcheck, with 7 sets logged across Portland. Often billed alongside Andy Warren, Aaron Davis and DJ DISSOLVE. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Gazin is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Andy Warren, Aaron Davis, DJ DISSOLVE
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazin/)*

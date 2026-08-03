@@ -1,6 +1,6 @@
 # Intimacy Simulator
 
-Intimacy Simulator is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jupiter Disco, New York City on Sat, 15 Aug 2026.
+Intimacy Simulator is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jupiter Disco, New York City on Sat, 15 Aug 2026.
 
 Intimacy Simulator is a techno and jungle artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin and Newyorkcity. Often billed alongside Lucía Beyond, MAJESTYOFDIVINITY and Dazegxd. Next up: Jupiter Disco, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Intimacy Simulator is a techno and jungle artist based in United States of Ameri
 
 Lucía Beyond, MAJESTYOFDIVINITY, Dazegxd
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*

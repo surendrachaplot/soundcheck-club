@@ -1,20 +1,20 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
+Ron Trent is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Ron Trent is a house and deep house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, MUSCLECARS and Ogazón. Next up: Prince Charles, Berlin on Sun 2 Aug.
+Ron Trent is a house and deep house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, MUSCLECARS and Ogazón. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Prince Charles | Berlin |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 
 ## Recently played
 
+- Prince Charles, Berlin — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parque da Pasteleira, Porto — Fri, 3 Jul 2026
@@ -22,10 +22,9 @@ Ron Trent is a house and deep house artist tracked on soundcheck, with 103 sets 
 - Praia Irmão, Lisbon — Thu, 18 Jun 2026
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - Ijland, Amsterdam — Sat, 28 Mar 2026
-- Ministry Of Sound, London — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Ben UFO, MUSCLECARS, Ogazón
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

@@ -1,6 +1,6 @@
 # Separat
 
-Separat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
+Separat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
 
 Separat is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Prague and 1 more. Often billed alongside Mariami, skyra and AMSL. Next up: fi, Cologne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Separat is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Mariami, skyra, AMSL
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*

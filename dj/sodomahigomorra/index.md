@@ -1,6 +1,6 @@
 # sodomahigomorra
 
-sodomahigomorra is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Trans-Pecos, New York City on Thu, 6 Aug 2026.
+sodomahigomorra is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Trans-Pecos, New York City on Thu, 6 Aug 2026.
 
 sodomahigomorra is a techno and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside ARCHANGEL (US), HARDKORE and Machine Girl. Next up: Trans-Pecos, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ sodomahigomorra is a techno and club artist based in United States of America, t
 
 ARCHANGEL (US), HARDKORE, Machine Girl
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sodomahigomorra/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sodomahigomorra/)*

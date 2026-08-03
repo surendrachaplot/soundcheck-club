@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
+Sunju Hargun is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
 
 Sunju Hargun is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: Tresor / Globus, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Sunju Hargun is a techno and house artist tracked on soundcheck, with 86 sets lo
 
 Kia (AU), Woody92, DJ MARIA.
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

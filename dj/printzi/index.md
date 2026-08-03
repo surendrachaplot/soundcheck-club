@@ -1,6 +1,6 @@
 # Printzi
 
-Printzi is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Komitee, Munich on Sat, 8 Aug 2026.
+Printzi is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Komitee, Munich on Sat, 8 Aug 2026.
 
 Printzi is a house and balearic artist based in Romania, tracked on soundcheck, with 1 set logged across Munich. Often billed alongside COEO, Julie Fleischer and Luvin'Lou. Next up: Komitee, Munich on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Printzi is a house and balearic artist based in Romania, tracked on soundcheck, 
 
 COEO, Julie Fleischer, Luvin'Lou
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/printzi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/printzi/)*

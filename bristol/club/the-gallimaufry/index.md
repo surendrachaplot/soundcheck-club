@@ -1,6 +1,6 @@
 # The Gallimaufry
 
-The Gallimaufry is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "We're Going Deep" on Sat, 8 Aug 2026.
+The Gallimaufry is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "We're Going Deep" on Sat, 8 Aug 2026.
 
 The Gallimaufry is a music venue in Bristol listed on soundcheck. 1 upcoming night, with line-ups including Owain K and Placid. Browse upcoming dates, start times and who's playing. 26/28 Gloucester Road, Bishopston, Bristol, BS7 8AL, United Kingdom.
 
@@ -14,4 +14,4 @@ The Gallimaufry is a music venue in Bristol listed on soundcheck. 1 upcoming nig
 
 26/28 Gloucester Road, Bishopston, Bristol, BS7 8AL, United Kingdom, Bristol
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-gallimaufry/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-gallimaufry/)*

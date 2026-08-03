@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Story Toronto, Toronto on Fri, 7 Aug 2026.
+Rodriguez Jr. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Story Toronto, Toronto on Fri, 7 Aug 2026.
 
 Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Auckland, Austin and Bali and 40 more. Often billed alongside Nick Warren, Ralf Kollmann and Francesca Lombardo. Next up: Story Toronto, Toronto on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 125 sets 
 
 Nick Warren, Ralf Kollmann, Francesca Lombardo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

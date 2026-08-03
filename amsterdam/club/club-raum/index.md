@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DKMNTL at RAUM" on Sun, 2 Aug 2026.
+CLUB RAUM is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "BASHKKA present INVIGORATE A.M" on Fri, 7 Aug 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including 36framez, Aldonna, Alienata and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including 36framez, Aldonna, Alienata and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | DKMNTL at RAUM |  |
 | Fri, 7 Aug 2026 | BASHKKA present INVIGORATE A.M | 36framez, BASHKKA, Clarisa Kimskii, Eris Drew, Juliana Huxtable |
 | Sat, 8 Aug 2026 | RAUM invites Gay Haze ...IsBurning |  |
 | Sat, 22 Aug 2026 | RAUM invites PAX-ROMANA 12HRS | Altinbas, BELLA (NL), Delano Legito, Lara Renner, Shinedoe, Tijana T, Tripeo, Voiski |
@@ -18,9 +17,10 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights
 | Fri, 18 Sept 2026 | RAUM invites One Eye Witness | Aldonna, Hylke, LazerGazer, Mark Broom, Mia Cecille, Nelly, Sansibar, Temple Rat |
 | Sat, 19 Sept 2026 | CARISTA, ROD, Prance | CARISTA, Prance, ROD |
 | Fri, 25 Sept 2026 | PARAMIDA (All Night Long) | PARAMIDA |
+| Sat, 26 Sept 2026 | Marco Shuttle, Sunil Sharpe, Maria Cue | Marco Shuttle, Maria Cue, Sunil Sharpe |
 
 ## Address
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

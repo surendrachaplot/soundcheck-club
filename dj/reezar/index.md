@@ -1,6 +1,6 @@
 # Reezar
 
-Reezar is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 6 Aug 2026.
+Reezar is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 6 Aug 2026.
 
 Reezar is an electronic artist tracked on soundcheck, with 60 sets logged across Barcelona. Often billed alongside Ivan Pugliares, Cipy and ERRANT. Next up: Sunseabar Beach Club, Barcelona on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Reezar is an electronic artist tracked on soundcheck, with 60 sets logged across
 
 Ivan Pugliares, Cipy, ERRANT
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*

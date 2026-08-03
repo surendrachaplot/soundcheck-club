@@ -1,6 +1,6 @@
 # Dose
 
-Dose is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KitKatClub, Berlin on Mon, 31 Aug 2026.
+Dose is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Mon, 31 Aug 2026.
 
 Dose is a techno and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Frankie Flowerz, Gioski and Tobi Dei (DE). Next up: KitKatClub, Berlin on Mon 31 Aug.
 
@@ -14,4 +14,4 @@ Dose is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Frankie Flowerz, Gioski, Tobi Dei (DE)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dose/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dose/)*

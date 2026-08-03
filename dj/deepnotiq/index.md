@@ -1,6 +1,6 @@
 # deepnotiQ
 
-deepnotiQ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Uproar Lounge, Washington DC on Fri, 7 Aug 2026.
+deepnotiQ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Uproar Lounge, Washington DC on Fri, 7 Aug 2026.
 
 deepnotiQ is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Washingtondc. Often billed alongside Edo, A Guy Called Gerald and Adiel. Next up: Uproar Lounge, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ deepnotiQ is a house and techno artist based in United States of America, tracke
 
 Edo, A Guy Called Gerald, Adiel
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepnotiq/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepnotiq/)*

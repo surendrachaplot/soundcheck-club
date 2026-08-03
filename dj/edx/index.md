@@ -1,6 +1,6 @@
 # EDX
 
-EDX is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+EDX is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 EDX is a house and progressive house artist tracked on soundcheck, with 27 sets logged across Austin, Basel, Denver and Detroit and 10 more. Often billed alongside Anthony Attalla, Nicky Romero and Nora En Pure. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ EDX is a house and progressive house artist tracked on soundcheck, with 27 sets 
 
 Anthony Attalla, Nicky Romero, Nora En Pure
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edx/)*

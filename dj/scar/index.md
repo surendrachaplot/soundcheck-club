@@ -1,6 +1,6 @@
 # Scar
 
-Scar is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hive Club, Zurich on Fri, 21 Aug 2026.
+Scar is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hive Club, Zurich on Fri, 21 Aug 2026.
 
 Scar is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Basel, Bristol, Glasgow and London and 3 more. Often billed alongside kso12, Alicia (UK) and Diverge. Next up: Hive Club, Zurich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Scar is a drum & bass and techno artist based in United Kingdom, tracked on soun
 
 kso12, Alicia (UK), Diverge
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*

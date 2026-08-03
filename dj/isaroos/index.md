@@ -1,6 +1,6 @@
 # Isa Roos
 
-Isa Roos is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 5 Aug 2026.
+Isa Roos is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Isa Roos is an afro house and house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Athens and Brussels and 2 more. Often billed alongside AJNA, Deer Jade and Kasango. Next up: Chinois Ibiza, Ibiza on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Isa Roos is an afro house and house artist based in Netherlands, tracked on soun
 
 AJNA, Deer Jade, Kasango
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaroos/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaroos/)*

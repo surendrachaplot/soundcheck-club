@@ -1,6 +1,6 @@
 # Nicola Piva
 
-Nicola Piva is a Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
+Nicola Piva is a Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
 
 Nicola Piva is a disco and minimal artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam, Utrecht and Vienna. Often billed alongside Be.a.son, Mission Architect and AnnaM (NL). Next up: KABUL à GoGo, Utrecht on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Nicola Piva is a disco and minimal artist based in Italy, tracked on soundcheck,
 
 Be.a.son, Mission Architect, AnnaM (NL)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolapiva/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolapiva/)*

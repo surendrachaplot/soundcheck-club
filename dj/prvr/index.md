@@ -1,6 +1,6 @@
 # PRVR
 
-PRVR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 14 Aug 2026.
+PRVR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 14 Aug 2026.
 
 PRVR is a techno and industrial artist based in Poland, tracked on soundcheck, with 25 sets logged across Krakow. Often billed alongside MRV (1), Pyotrek and RAJZ. Next up: STK 47 WAREHOUSE, Krakow on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ PRVR is a techno and industrial artist based in Poland, tracked on soundcheck, w
 
 MRV (1), Pyotrek, RAJZ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prvr/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prvr/)*

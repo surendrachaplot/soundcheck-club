@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "House of Grooves: Stretch Armstrong + Sissies of Mercy All Night" on Fri, 7 Aug 2026.
+House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "House of Grooves: Stretch Armstrong + Sissies of Mercy All Night" on Fri, 7 Aug 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Aluna, Brian Cid, Bridge (NY) and CAM GIRL and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

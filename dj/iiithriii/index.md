@@ -1,6 +1,6 @@
 # IIITHRIII
 
-IIITHRIII is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Récré, Montreal on Fri, 7 Aug 2026.
+IIITHRIII is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Récré, Montreal on Fri, 7 Aug 2026.
 
 IIITHRIII is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal. Often billed alongside Crimewave, Wally and Jeska. Next up: La Récré, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ IIITHRIII is a drum & bass and jungle artist based in Canada, tracked on soundch
 
 Crimewave, Wally, Jeska
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iiithriii/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iiithriii/)*

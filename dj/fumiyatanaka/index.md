@@ -1,14 +1,13 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Fumiya Tanaka is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
 
-Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Samuel Deep, Laidlaw and Doudou MD. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
+Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Samuel Deep, Laidlaw and Doudou MD. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Phonox | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -18,6 +17,7 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 123 sets 
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - WWW X, Tokyo — Sat, 18 Jul 2026
 - Circus Osaka, Osaka — Fri, 17 Jul 2026
@@ -25,10 +25,9 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 123 sets 
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Luz De Gas, Barcelona — Fri, 19 Jun 2026
 - High Lights - Barking Park, London — Sat, 30 May 2026
-- The Cause, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Samuel Deep, Laidlaw, Doudou MD
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

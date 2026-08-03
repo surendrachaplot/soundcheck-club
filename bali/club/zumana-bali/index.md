@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 7 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "AWEN" on Fri, 21 Aug 2026.
+Zumana Bali is a music venue in Bali with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "AWEN" on Fri, 21 Aug 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 7 upcoming nights, with line-ups including AARON SEVILLA, AWEN, Laolu and Marten Lou and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 7 upcoming nights, wi
 | Fri, 25 Sept 2026 | The Martinez Brothers | The Martinez Brothers |
 | Sat, 26 Sept 2026 | Satori (Live) | Satori |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

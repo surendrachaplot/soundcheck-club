@@ -1,6 +1,6 @@
 # PIRANHA
 
-PIRANHA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 6 Aug 2026.
+PIRANHA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 6 Aug 2026.
 
 PIRANHA is a house and techno artist based in Japan, tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside MINAMI, HEAVEN and SUETSUGU. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ PIRANHA is a house and techno artist based in Japan, tracked on soundcheck, with
 
 MINAMI, HEAVEN, SUETSUGU
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piranha/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piranha/)*

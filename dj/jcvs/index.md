@@ -1,6 +1,6 @@
 # JCVS
 
-JCVS is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+JCVS is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 JCVS is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, Bristol, Brussels and Dublin and 3 more. Often billed alongside DJ RaMeMes, N3LYSTAR and SILVASURFER. Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ JCVS is a club and baile funk artist based in United Kingdom, tracked on soundch
 
 DJ RaMeMes, N3LYSTAR, SILVASURFER
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jcvs/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jcvs/)*

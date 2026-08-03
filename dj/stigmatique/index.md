@@ -1,6 +1,6 @@
 # Stigmatique
 
-Stigmatique is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at elipamanoke, Leipzig on Fri, 14 Aug 2026.
+Stigmatique is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Fri, 14 Aug 2026.
 
 Stigmatique is a techno and house artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 4 more. Often billed alongside JANEIN, Anna Hjalmarsson and Shaleen. Next up: elipamanoke, Leipzig on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Stigmatique is a techno and house artist based in Germany, tracked on soundcheck
 
 JANEIN, Anna Hjalmarsson, Shaleen
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stigmatique/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stigmatique/)*

@@ -1,6 +1,6 @@
 # SF Eagle
 
-SF Eagle is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Nuclear Winter: An Immersive Experience" on Sun, 16 Aug 2026.
+SF Eagle is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Nuclear Winter: An Immersive Experience" on Sun, 16 Aug 2026.
 
 SF Eagle is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 398 12th St, San Francisco, CA 94103, United States.
 
@@ -14,4 +14,4 @@ SF Eagle is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night
 
 398 12th St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/sf-eagle/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/sf-eagle/)*

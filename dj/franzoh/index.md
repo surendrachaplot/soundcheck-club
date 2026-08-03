@@ -1,6 +1,6 @@
 # Franzoh
 
-Franzoh is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 1 Sept 2026.
+Franzoh is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 1 Sept 2026.
 
 Franzoh is a techno and electro artist based in Italy, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, London and Madrid and 5 more. Often billed alongside Valerio Della Notte, Alexio and Dizzy. Next up: THE MAGICK BAR, Rome on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Franzoh is a techno and electro artist based in Italy, tracked on soundcheck, wi
 
 Valerio Della Notte, Alexio, Dizzy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzoh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzoh/)*

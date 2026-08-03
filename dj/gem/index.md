@@ -1,6 +1,6 @@
 # Gem
 
-Gem is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Gem is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Gem is a tech house and house artist based in Japan, tracked on soundcheck, with 12 sets logged across London, Losangeles, Tokyo and Toronto and 2 more. Often billed alongside Koki, RUDEE NIK and ANGEL CANNON. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Gem is a tech house and house artist based in Japan, tracked on soundcheck, with
 
 Koki, RUDEE NIK, ANGEL CANNON
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gem/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gem/)*

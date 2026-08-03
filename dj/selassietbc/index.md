@@ -1,6 +1,6 @@
 # Selassie TBC
 
-Selassie TBC is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+Selassie TBC is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
 
 Selassie TBC is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Bristol, London and Malaga. Often billed alongside Donut, Mr. Redley and Leanne Wright. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Selassie TBC is a house and hip-hop artist based in United Kingdom, tracked on s
 
 Donut, Mr. Redley, Leanne Wright
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*

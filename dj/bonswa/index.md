@@ -1,6 +1,6 @@
 # BONSWA
 
-BONSWA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Stage and Radio, Manchester on Fri, 7 Aug 2026.
+BONSWA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Stage and Radio, Manchester on Fri, 7 Aug 2026.
 
 BONSWA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Leeds and Manchester. Often billed alongside EDJM, BRNE and CHVZ. Next up: Stage and Radio, Manchester on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ BONSWA is a techno and house artist based in United Kingdom, tracked on soundche
 
 EDJM, BRNE, CHVZ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonswa/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonswa/)*

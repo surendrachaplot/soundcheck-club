@@ -1,6 +1,6 @@
 # AXÖN
 
-AXÖN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Circus Tokyo, Tokyo on Wed, 12 Aug 2026.
+AXÖN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Circus Tokyo, Tokyo on Wed, 12 Aug 2026.
 
 AXÖN is a house and tech house artist based in Japan, tracked on soundcheck, with 10 sets logged across Losangeles, Seattle, Seoul and Tokyo. Often billed alongside Kijta, Onacity and James Gatz. Next up: Circus Tokyo, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ AXÖN is a house and tech house artist based in Japan, tracked on soundcheck, wi
 
 Kijta, Onacity, James Gatz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axon-jp/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axon-jp/)*

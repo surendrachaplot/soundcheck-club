@@ -1,6 +1,6 @@
 # yura (2)
 
-yura (2) is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Miradouro de Baixo, Lisbon on Fri, 14 Aug 2026.
+yura (2) is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Miradouro de Baixo, Lisbon on Fri, 14 Aug 2026.
 
 yura (2) is a house and italo disco artist tracked on soundcheck, with 12 sets logged across Brussels and Lisbon. Often billed alongside AAguilAA, Kemetic and yuri rios. Next up: Miradouro de Baixo, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ yura (2) is a house and italo disco artist tracked on soundcheck, with 12 sets l
 
 AAguilAA, Kemetic, yuri rios
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yura-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yura-2/)*

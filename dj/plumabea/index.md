@@ -1,6 +1,6 @@
 # Pluma Bea
 
-Pluma Bea is a Minimal Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - address shared with ticket holder only, Lisbon on Thu, 6 Aug 2026.
+Pluma Bea is a Minimal Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - address shared with ticket holder only, Lisbon on Thu, 6 Aug 2026.
 
 Pluma Bea is a minimal techno and idm artist based in Brazil, tracked on soundcheck, with 7 sets logged across Berlin, Lisbon and Saopaulo. Often billed alongside Tau Car, Atzok and Cosmo (KR). Next up: TBA - address shared with ticket holder only, Lisbon on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ Pluma Bea is a minimal techno and idm artist based in Brazil, tracked on soundch
 
 Tau Car, Atzok, Cosmo (KR)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plumabea/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plumabea/)*

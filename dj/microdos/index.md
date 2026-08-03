@@ -1,6 +1,6 @@
 # Mic(RO) Dos
 
-Mic(RO) Dos is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Address Released to Ticket Holders, Denver on Fri, 14 Aug 2026.
+Mic(RO) Dos is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Address Released to Ticket Holders, Denver on Fri, 14 Aug 2026.
 
 Mic(RO) Dos is a minimal and tech house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver. Often billed alongside Pro-K and Hermans. Next up: TBA - Address Released to Ticket Holders, Denver on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Mic(RO) Dos is a minimal and tech house artist based in United States of America
 
 Pro-K, Hermans
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*

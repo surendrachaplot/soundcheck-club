@@ -1,6 +1,6 @@
 # Jaggy
 
-Jaggy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
+Jaggy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
 
 Jaggy is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Berlin, Chicago and Detroit. Often billed alongside patrick conahan, Josh Aaron and frail808. Next up: Club der Visionaere, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jaggy is a house and techno artist based in United States of America, tracked on
 
 patrick conahan, Josh Aaron, frail808
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaggy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaggy/)*

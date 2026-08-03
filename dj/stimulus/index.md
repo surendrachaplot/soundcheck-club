@@ -1,6 +1,6 @@
 # Stimulus
 
-Stimulus is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OXI, Berlin on Fri, 7 Aug 2026.
+Stimulus is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at OXI, Berlin on Fri, 7 Aug 2026.
 
 Stimulus is a baile funk and afro house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Lisbon and Newyorkcity. Often billed alongside Helina, Adonis Wolf and Calypsis. Next up: OXI, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Stimulus is a baile funk and afro house artist based in Germany, tracked on soun
 
 Helina, Adonis Wolf, Calypsis
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulus/)*

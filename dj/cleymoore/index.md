@@ -1,19 +1,19 @@
 # Cleymoore
 
-Cleymoore is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at MaHalla, Berlin on Sun, 2 Aug 2026.
+Cleymoore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
-Cleymoore is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside rubi*, Atree and ALINA (3). Next up: MaHalla, Berlin on Sun 2 Aug.
+Cleymoore is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside rubi*, Atree and ALINA (3). Next up: Renate, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | MaHalla | Berlin |
 | Fri, 7 Aug 2026 | Renate | Berlin |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 
 ## Recently played
 
+- MaHalla, Berlin — Sun, 2 Aug 2026
 - MaHalla, Berlin — Fri, 3 Jul 2026
 - Club der Visionaere, Berlin — Fri, 5 Jun 2026
 - Club der Visionaere, Berlin — Tue, 19 May 2026
@@ -21,10 +21,9 @@ Cleymoore is a house and techno artist tracked on soundcheck, with 56 sets logge
 - MaHalla, Berlin — Wed, 31 Dec 2025
 - Modeci, Seoul — Sat, 1 Nov 2025
 - Mitsuki, Tokyo — Tue, 28 Oct 2025
-- Club der Visionaere, Berlin — Sat, 13 Sept 2025
 
 ## Shares bills with
 
 rubi*, Atree, ALINA (3)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleymoore/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleymoore/)*

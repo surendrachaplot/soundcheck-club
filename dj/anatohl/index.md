@@ -1,6 +1,6 @@
 # Anatohl
 
-Anatohl is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Système, Montreal on Sun, 9 Aug 2026.
+Anatohl is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Système, Montreal on Sun, 9 Aug 2026.
 
 Anatohl is a techno and electro artist based in France, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Inside Blur, WANER and D.B.Y.. Next up: Système, Montreal on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Anatohl is a techno and electro artist based in France, tracked on soundcheck, w
 
 Inside Blur, WANER, D.B.Y.
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anatohl/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anatohl/)*

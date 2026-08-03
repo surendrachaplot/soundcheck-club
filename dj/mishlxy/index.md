@@ -1,6 +1,6 @@
 # mishLXY
 
-mishLXY is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
+mishLXY is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
 
 mishLXY is a techno and dub techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Steve Pan, Aaliyah Salem and Aidan Rudd. Next up: Angel Music Bar, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ mishLXY is a techno and dub techno artist based in Australia, tracked on soundch
 
 Steve Pan, Aaliyah Salem, Aidan Rudd
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*

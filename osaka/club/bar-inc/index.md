@@ -1,6 +1,6 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "WEEKEND SELECTERS" on Fri, 7 Aug 2026.
+BAR Inc is a music venue in Osaka with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "WEEKEND SELECTERS" on Fri, 7 Aug 2026.
 
 BAR Inc is a music venue in Osaka listed on soundcheck. 12 upcoming nights, with line-ups including DJ Garth, DJ HI-C, DJ Quietstorm and DJ SO and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
@@ -23,4 +23,4 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 12 upcoming nights, with
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

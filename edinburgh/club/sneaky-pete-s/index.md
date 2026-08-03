@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 39 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Postal: PASO" on Sun, 2 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 38 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Ride n Bounce" on Mon, 3 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 39 upcoming nights, with line-ups including Alexis Taylor, amhailt.xox, ANNX and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 38 upcoming nights, with line-ups including Alexis Taylor, amhailt.xox, ANNX and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Postal: PASO | PASO |
 | Mon, 3 Aug 2026 | Ride n Bounce | Bartek, m1 (1), monicat |
 | Tue, 4 Aug 2026 | RARE Club // Geordie All Night Long  | Geordie |
 | Wed, 5 Aug 2026 | Midnight Bass presents Janaway (Up Ya Archives) | Janaway, Kay Dee, Lara Sinclair |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 39 upcoming ni
 | Sun, 9 Aug 2026 | Postal Festival Opening Party: Lara Sinclair b2b JI_2001 | JI_2001, Lara Sinclair |
 | Mon, 10 Aug 2026 | Ride n Bounce | m1 (1), monicat |
 | Tue, 11 Aug 2026 | RARE Club // HAPOL with Breathe | Breathe, HAPOL |
+| Fri, 14 Aug 2026 | mantle: DANZA NUOVA 𖦹 La Ind0 & Balheim 𖦹 Feena | Balheim, Feena, La Ind0 |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

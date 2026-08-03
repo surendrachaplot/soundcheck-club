@@ -1,6 +1,6 @@
 # Zander
 
-Zander is a Bass and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
+Zander is a Bass and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
 
 Zander is a bass and progressive house artist tracked on soundcheck, with 3 sets logged across Glasgow, Miami and Vancouver. Often billed alongside Ardalan, Bob Moses and Boys Noize. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Zander is a bass and progressive house artist tracked on soundcheck, with 3 sets
 
 Ardalan, Bob Moses, Boys Noize
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zander/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zander/)*

@@ -1,6 +1,6 @@
 # Pe Dro
 
-Pe Dro is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+Pe Dro is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 Pe Dro is a drum & bass and techno artist based in Vietnam, tracked on soundcheck, with 6 sets logged across Buenosaires, Istanbul, Krakow and Toronto. Often billed alongside RUDEE NIK, 1TK (1) and AC (dot robot). Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Pe Dro is a drum & bass and techno artist based in Vietnam, tracked on soundchec
 
 RUDEE NIK, 1TK (1), AC (dot robot)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro/)*

@@ -1,6 +1,6 @@
 # Bubamara
 
-Bubamara is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+Bubamara is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 Bubamara is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Hamburg. Often billed alongside DJ Dreams, Muffel (2) and freesi. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bubamara is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 DJ Dreams, Muffel (2), freesi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bubamara/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bubamara/)*

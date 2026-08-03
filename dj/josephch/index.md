@@ -1,6 +1,6 @@
 # JOSEPH (CH)
 
-JOSEPH (CH) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+JOSEPH (CH) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 JOSEPH (CH) is an electronic artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Berlin, Cologne, Hamburg and London and 3 more. Often billed alongside :DARREN, Bondi (DE) and Domenico Ferrari. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ JOSEPH (CH) is an electronic artist based in Switzerland, tracked on soundcheck,
 
 :DARREN, Bondi (DE), Domenico Ferrari
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephch/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephch/)*

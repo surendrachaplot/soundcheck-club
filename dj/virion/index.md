@@ -1,6 +1,6 @@
 # Virion
 
-Virion is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 14 Aug 2026.
+Virion is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 14 Aug 2026.
 
 Virion is a garage and bass artist based in Myanmar, tracked on soundcheck, with 39 sets logged across Bangkok, Hongkong, Seoul and Tokyo. Often billed alongside BAAWLA, Shins and Dabin. Next up: TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Virion is a garage and bass artist based in Myanmar, tracked on soundcheck, with
 
 BAAWLA, Shins, Dabin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virion/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virion/)*

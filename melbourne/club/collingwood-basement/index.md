@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Billus & Neil E All Night Long" on Fri, 7 Aug 2026.
+Collingwood Basement is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Billus & Neil E All Night Long" on Fri, 7 Aug 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including AK-97, AROHA, Billus and Chucheewa and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -18,4 +18,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 5 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

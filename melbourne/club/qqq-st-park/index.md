@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DISHA - Launch Party" on Fri, 7 Aug 2026.
+QQQ ST. Park is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DISHA - Launch Party" on Fri, 7 Aug 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including BDE, CAITY WATSON, Darcy Justice and Kate Miller and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -19,4 +19,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

@@ -1,6 +1,6 @@
 # ElectroPleasure
 
-ElectroPleasure is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Notting Hill Arts Club, London on Sat, 8 Aug 2026.
+ElectroPleasure is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Notting Hill Arts Club, London on Sat, 8 Aug 2026.
 
 ElectroPleasure is a techno and electronica artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Samirah, Brian Andrade and Steve Brown. Next up: Notting Hill Arts Club, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ElectroPleasure is a techno and electronica artist tracked on soundcheck, with 9
 
 Samirah, Brian Andrade, Steve Brown
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electropleasure/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electropleasure/)*

@@ -1,6 +1,6 @@
 # Moli (3)
 
-Moli (3) is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at KGR(n), Tokyo on Mon, 10 Aug 2026.
+Moli (3) is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at KGR(n), Tokyo on Mon, 10 Aug 2026.
 
 Moli (3) is an experimental and techno artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside karanaki, C-KAY and In Ray. Next up: KGR(n), Tokyo on Mon 10 Aug.
 
@@ -21,4 +21,4 @@ Moli (3) is an experimental and techno artist based in Japan, tracked on soundch
 
 karanaki, C-KAY, In Ray
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moli-3/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moli-3/)*

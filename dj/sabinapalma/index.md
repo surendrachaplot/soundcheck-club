@@ -1,6 +1,6 @@
 # Sabina Palma
 
-Sabina Palma is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
+Sabina Palma is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
 
 Sabina Palma is a techno and electronica artist based in Mexico, tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside Deenia, Alessandra Fierro and Amapola Rose. Next up: TBA - República de Cuba 58, Mexicocity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Sabina Palma is a techno and electronica artist based in Mexico, tracked on soun
 
 Deenia, Alessandra Fierro, Amapola Rose
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*

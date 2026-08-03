@@ -1,6 +1,6 @@
 # O der Klub
 
-O der Klub is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SIGNAL presents SYSTEM RESTART" on Fri, 11 Sept 2026.
+O der Klub is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SIGNAL presents SYSTEM RESTART" on Fri, 11 Sept 2026.
 
 O der Klub is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Albin Brezlan, Chris Avantgarde, Denes Toth and ESH and 2 more. Browse upcoming dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
 
@@ -17,4 +17,4 @@ O der Klub is a music venue in Vienna listed on soundcheck. 4 upcoming nights, w
 
 Opernring/Operngasse, 1010 Wien, Vienna
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*

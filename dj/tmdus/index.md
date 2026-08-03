@@ -1,6 +1,6 @@
 # TMD (US)
 
-TMD (US) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+TMD (US) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 TMD (US) is a house and disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Miami. Often billed alongside San Dee, Giuliano Lomonte and Pavlo (2). Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ TMD (US) is a house and disco artist based in United States of America, tracked 
 
 San Dee, Giuliano Lomonte, Pavlo (2)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tmdus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tmdus/)*

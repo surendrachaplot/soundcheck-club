@@ -1,6 +1,6 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Luciano is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Luciano is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -34,4 +34,4 @@ Luciano is a house and tech house artist tracked on soundcheck, with 101 sets lo
 
 Sossa, Marco Carola, Prospa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

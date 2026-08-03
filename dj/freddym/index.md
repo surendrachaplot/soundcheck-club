@@ -1,6 +1,6 @@
 # Freddy M
 
-Freddy M is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Freddy M is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Freddy M is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Temenon, KJ3 (US) and Cy Hanson. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Freddy M is a house and techno artist based in United States of America, tracked
 
 Temenon, KJ3 (US), Cy Hanson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddym/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddym/)*

@@ -1,6 +1,6 @@
 # Paraiso Estereo
 
-Paraiso Estereo is a music venue in Miami with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Get Milked: DJ Perception (UK)" on Sat, 8 Aug 2026.
+Paraiso Estereo is a music venue in Miami with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Get Milked: DJ Perception (UK)" on Sat, 8 Aug 2026.
 
 Paraiso Estereo is a music venue in Miami listed on soundcheck. 1 upcoming night, with line-ups including Akarsh, DJ Perception, Dylan Schwartz and Highkin' and 1 more. Browse upcoming dates, start times and who's playing. 1306 North Miami Avenue, Miami, FL 33136 ,USA.
 
@@ -14,4 +14,4 @@ Paraiso Estereo is a music venue in Miami listed on soundcheck. 1 upcoming night
 
 1306 North Miami Avenue, Miami, FL 33136 ,USA, Miami
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/paraiso-estereo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/paraiso-estereo/)*

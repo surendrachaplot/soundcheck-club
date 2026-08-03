@@ -1,6 +1,6 @@
 # Lake Turner
 
-Lake Turner is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+Lake Turner is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
 
 Lake Turner is an electro and deep house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Alythia Kwan, Holly North and Innerstice. Next up: Camden Courtyard, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Lake Turner is an electro and deep house artist based in United Kingdom, tracked
 
 Alythia Kwan, Holly North, Innerstice
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laketurner/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laketurner/)*

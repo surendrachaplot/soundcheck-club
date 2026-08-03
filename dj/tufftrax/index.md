@@ -1,6 +1,6 @@
 # Tuff Trax
 
-Tuff Trax is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 15 Aug 2026.
+Tuff Trax is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 15 Aug 2026.
 
 Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside IsGwan, Kovac and Tinika. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck
 
 IsGwan, Kovac, Tinika
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*

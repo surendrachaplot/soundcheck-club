@@ -1,6 +1,6 @@
 # Naij
 
-Naij is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
+Naij is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
 
 Naij is a hardcore and techno artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexicocity and Philadelphia. Often billed alongside Lex Digital, MOLLY SIX and Rafa Beltran. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Naij is a hardcore and techno artist based in Mexico, tracked on soundcheck, wit
 
 Lex Digital, MOLLY SIX, Rafa Beltran
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naij/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naij/)*

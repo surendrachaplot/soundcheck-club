@@ -1,6 +1,6 @@
 # Das ist Vas
 
-Das ist Vas is a Industrial and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
+Das ist Vas is a Industrial and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
 
 Das ist Vas is an industrial and bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Engineer (Live), NCD_SOUNDSYSTEM and leaf node. Next up: Distillery N17, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Das ist Vas is an industrial and bass artist based in United Kingdom, tracked on
 
 Engineer (Live), NCD_SOUNDSYSTEM, leaf node
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasistvas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasistvas/)*

@@ -1,18 +1,18 @@
 # KingCrowney
 
-KingCrowney is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Setlist @ Somerset House, London on Sun, 2 Aug 2026.
+KingCrowney is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KOKO, London on Fri, 4 Sept 2026.
 
-KingCrowney is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Chris Wheatley, Faro and Handson Family. Next up: Setlist @ Somerset House, London on Sun 2 Aug.
+KingCrowney is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Chris Wheatley, Faro and Handson Family. Next up: KOKO, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Setlist @ Somerset House | London |
 | Fri, 4 Sept 2026 | KOKO | London |
 
 ## Recently played
 
+- Setlist @ Somerset House, London — Sun, 2 Aug 2026
 - Various Venues, London — Sat, 2 May 2026
 - Rolling Stock, London — Sat, 28 Mar 2026
 - CLF Art Lounge, London — Sun, 15 Jun 2025
@@ -24,4 +24,4 @@ KingCrowney is a deep house and disco artist based in United Kingdom, tracked on
 
 Chris Wheatley, Faro, Handson Family
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingcrowney/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingcrowney/)*

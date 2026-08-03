@@ -1,14 +1,13 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Miss Dreamz: Paradise Sessions" on Sun, 2 Aug 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Power Dance Club 24hours Anniversary" on Sat, 8 Aug 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 131bpm, 18:18, Alex Kassian and Amphia and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 131bpm, 18:18, Alex Kassian and Amphia and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Miss Dreamz: Paradise Sessions | Aunty Nora, Butchqueen.fm, Carly Zeng, DJ Petite, Ojos de miel, Sub Sahara |
 | Sat, 8 Aug 2026 | Power Dance Club 24hours Anniversary | Alex Kassian, CEM, Dj Warning, Hyperaktivist, Khloe, Luigi Di Venere, MCMLXXXV, Matisa, Neu Verboten, Partok, Stathis (GR), Tommy Hart |
 | Sun, 16 Aug 2026 | ESTRO x OECUS Open Air  | 18:18, GLIA, Maōh, Pink Concrete, Regent |
 | Fri, 21 Aug 2026 | Body Language | 131bpm, Hypoestes, Manolo. (DE), Mike Servito, rRoxymore, tiro! |
@@ -18,9 +17,10 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | Fri, 18 Sept 2026 | ABOV - FLINTA* |  |
 | Sat, 19 Sept 2026 | tracey |  |
 | Fri, 25 Sept 2026 | OVERLOAD #4 |  |
+| Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |
 
 ## Address
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

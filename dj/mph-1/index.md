@@ -1,14 +1,13 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Old Royal Naval College, London on Sun, 2 Aug 2026.
+MPH (1) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 37 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Old Royal Naval College, London on Sun 2 Aug.
+MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 37 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Ushuaïa Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Old Royal Naval College | London |
 | Fri, 21 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
@@ -20,6 +19,7 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged 
 
 ## Recently played
 
+- Old Royal Naval College, London — Sun, 2 Aug 2026
 - Smoke & Mirrors, Chicago — Thu, 30 Jul 2026
 - Colorado Charlie, The Hague — Fri, 24 Jul 2026
 - [UNVRS], Ibiza — Thu, 16 Jul 2026
@@ -27,10 +27,9 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged 
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - The Grand Social, Dublin — Sun, 31 May 2026
-- Common Market, Belfast — Sat, 30 May 2026
 
 ## Shares bills with
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

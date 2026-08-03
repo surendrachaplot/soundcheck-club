@@ -1,6 +1,6 @@
 # Nepōmuk
 
-Nepōmuk is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+Nepōmuk is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
 
 Nepōmuk is a techno and ambient artist based in Germany, tracked on soundcheck, with 17 sets logged across Belgrade, Berlin, Cologne and Madrid and 3 more. Often billed alongside Melchiorr, IZZYA and Punktmidi. Next up: Fuchs2, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Nepōmuk is a techno and ambient artist based in Germany, tracked on soundcheck,
 
 Melchiorr, IZZYA, Punktmidi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk5/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk5/)*

@@ -1,6 +1,6 @@
 # Zero Crossing Point
 
-Zero Crossing Point is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Sucre, Lyon on Sat, 29 Aug 2026.
+Zero Crossing Point is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Sucre, Lyon on Sat, 29 Aug 2026.
 
 Zero Crossing Point is an experimental and industrial artist based in France, tracked on soundcheck, with 8 sets logged across Lyon, Marseille, Nantes and Paris. Often billed alongside Assyouti and Async Figure. Next up: Le Sucre, Lyon on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Zero Crossing Point is an experimental and industrial artist based in France, tr
 
 , Assyouti, Async Figure
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerocrossingpoint/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerocrossingpoint/)*

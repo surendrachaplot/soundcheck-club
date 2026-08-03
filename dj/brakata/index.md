@@ -1,6 +1,6 @@
 # Brakata
 
-Brakata is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Prisma, Berlin on Tue, 4 Aug 2026.
+Brakata is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Prisma, Berlin on Tue, 4 Aug 2026.
 
 Brakata is a house and acid artist tracked on soundcheck, with 2 sets logged across Berlin and Leipzig. Often billed alongside Kazuki Takahashi and Prometheus. Next up: Prisma, Berlin on Tue 4 Aug.
 
@@ -18,4 +18,4 @@ Brakata is a house and acid artist tracked on soundcheck, with 2 sets logged acr
 
 Kazuki Takahashi, Prometheus
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brakata/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brakata/)*

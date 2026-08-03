@@ -1,6 +1,6 @@
 # Sansibar
 
-Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lux Fragil, Lisbon on Sat, 15 Aug 2026.
+Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lux Fragil, Lisbon on Sat, 15 Aug 2026.
 
 Sansibar is a techno and electro artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 44 more. Often billed alongside dj sweet6teen, Naone and Angel D'lite. Next up: Lux Fragil, Lisbon on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Sansibar is a techno and electro artist tracked on soundcheck, with 147 sets log
 
 dj sweet6teen, Naone, Angel D'lite
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

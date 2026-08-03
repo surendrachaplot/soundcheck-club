@@ -1,6 +1,6 @@
 # Saigön
 
-Saigön is a Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
+Saigön is a Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
 
 Saigön is a trance artist based in Poland, tracked on soundcheck, with 7 sets logged across Ibiza, Krakow and Warsaw. Often billed alongside Molson, Buchan and ALLG. Next up: Cova Santa, Ibiza on Tue 4 Aug.
 
@@ -23,4 +23,4 @@ Saigön is a trance artist based in Poland, tracked on soundcheck, with 7 sets l
 
 Molson, Buchan, ALLG
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saigon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saigon/)*

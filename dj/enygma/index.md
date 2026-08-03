@@ -1,6 +1,6 @@
 # Enygma
 
-Enygma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
+Enygma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
 
 Enygma is a techno and house artist based in Italy, tracked on soundcheck, with 20 sets logged across London, Milan and Rome. Often billed alongside Richey V, Dusk Poem and Massi Rocket. Next up: Department 184, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Enygma is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Richey V, Dusk Poem, Massi Rocket
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enygma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enygma/)*

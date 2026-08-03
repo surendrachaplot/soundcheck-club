@@ -1,6 +1,6 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
+DJ B2B is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
 
 DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Débris, Tokyo on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 200 sets logge
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

@@ -1,6 +1,6 @@
 # Felix Eul
 
-Felix Eul is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Felix Eul is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Felix Eul is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Berlin, Munich, Nurnberg and Zurich. Often billed alongside MILAN MILANO, Bernhard Groeger and Dominik Eulberg. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Felix Eul is a techno and tech house artist tracked on soundcheck, with 27 sets 
 
 MILAN MILANO, Bernhard Groeger, Dominik Eulberg
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixeul/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixeul/)*

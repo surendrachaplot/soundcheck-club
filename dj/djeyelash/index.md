@@ -1,6 +1,6 @@
 # DJ EYELASH
 
-DJ EYELASH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Azumaya, Tokyo on Mon, 3 Aug 2026.
+DJ EYELASH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Azumaya, Tokyo on Mon, 3 Aug 2026.
 
 DJ EYELASH is a house and techno artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside TAT2K, DJ POIPOI and MUNÉO. Next up: Azumaya, Tokyo on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ DJ EYELASH is a house and techno artist based in Japan, tracked on soundcheck, w
 
 TAT2K, DJ POIPOI, MUNÉO
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*

@@ -1,6 +1,6 @@
 # DJ Hochzeit
 
-DJ Hochzeit is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
+DJ Hochzeit is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
 
 DJ Hochzeit is a house and pop artist tracked on soundcheck, with 32 sets logged across Berlin, Hamburg and Munich. Often billed alongside ogmilian, DJ Babyblade and TTX (GER). Next up: Locke, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Hochzeit is a house and pop artist tracked on soundcheck, with 32 sets logged
 
 ogmilian, DJ Babyblade, TTX (GER)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*

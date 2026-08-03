@@ -1,6 +1,6 @@
 # T. Jacques
 
-T. Jacques is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
+T. Jacques is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
 
 T. Jacques is a house and garage artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Edinburgh and 7 more. Often billed alongside Jive Talk, Penzik & Burns and Adam Chapman. Next up: The Glove That Fits, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ T. Jacques is a house and garage artist based in United Kingdom, tracked on soun
 
 Jive Talk, Penzik & Burns, Adam Chapman
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tjacques/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tjacques/)*

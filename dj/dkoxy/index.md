@@ -1,6 +1,6 @@
 # D|K|OXY
 
-D|K|OXY is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at H7 Warehouse, Amsterdam on Sat, 22 Aug 2026.
+D|K|OXY is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at H7 Warehouse, Amsterdam on Sat, 22 Aug 2026.
 
 D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 11 more. Often billed alongside PARAPHER, Bildgewalt and Sørenga. Next up: H7 Warehouse, Amsterdam on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundchec
 
 PARAPHER, Bildgewalt, Sørenga
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*

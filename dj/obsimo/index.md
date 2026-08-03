@@ -1,6 +1,6 @@
 # Obsimo
 
-Obsimo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Knust, Hamburg on Sat, 3 Oct 2026.
+Obsimo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Knust, Hamburg on Sat, 3 Oct 2026.
 
 Obsimo is a house and electronica artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Brussels, Hamburg and Lyon and 2 more. Often billed alongside ABRAN, Duskus and Weval. Next up: Knust, Hamburg on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Obsimo is a house and electronica artist based in France, tracked on soundcheck,
 
 ABRAN, Duskus, Weval
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obsimo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obsimo/)*

@@ -1,6 +1,6 @@
 # VOLTMARIE
 
-VOLTMARIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at PRST, Vienna on Fri, 7 Aug 2026.
+VOLTMARIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at PRST, Vienna on Fri, 7 Aug 2026.
 
 VOLTMARIE is a techno and trance artist tracked on soundcheck, with 16 sets logged across Vienna. Often billed alongside Eminelli, MELIMEKO and ninon.. Next up: PRST, Vienna on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ VOLTMARIE is a techno and trance artist tracked on soundcheck, with 16 sets logg
 
 Eminelli, MELIMEKO, ninon.
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*

@@ -1,6 +1,6 @@
 # Matthew Dear
 
-Matthew Dear is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TV Lounge, Detroit on Sun, 6 Sept 2026.
+Matthew Dear is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TV Lounge, Detroit on Sun, 6 Sept 2026.
 
 Matthew Dear is a techno and house artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Boston and Chicago and 12 more. Often billed alongside Juan Maclean, Carl Craig and Trip Report. Next up: TV Lounge, Detroit on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Matthew Dear is a techno and house artist tracked on soundcheck, with 48 sets lo
 
 Juan Maclean, Carl Craig, Trip Report
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*

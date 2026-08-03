@@ -1,6 +1,6 @@
 # Fourth Precinct
 
-Fourth Precinct is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
+Fourth Precinct is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
 
 Fourth Precinct is a garage and house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Edinburgh, Glasgow, London and Tokyo. Often billed alongside Lowree, Skillis and Feena. Next up: Planet Wax, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fourth Precinct is a garage and house artist based in United Kingdom, tracked on
 
 Lowree, Skillis, Feena
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthprecinct/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthprecinct/)*

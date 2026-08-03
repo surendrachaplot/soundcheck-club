@@ -1,6 +1,6 @@
 # Phil James
 
-Phil James is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
+Phil James is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
 
 Phil James is an acid and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Benebe, Fari Mond and Grace Sands. Next up: Hoxton Cabin, London on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ Phil James is an acid and house artist based in United Kingdom, tracked on sound
 
 Benebe, Fari Mond, Grace Sands
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philjames/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philjames/)*

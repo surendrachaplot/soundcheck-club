@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 5 Aug 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 5 Aug 2026.
 
 WTCHCRFT is a techno and club artist tracked on soundcheck, with 150 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, estoc and nextdimensional. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ WTCHCRFT is a techno and club artist tracked on soundcheck, with 150 sets logged
 
 KYRUH, estoc, nextdimensional
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

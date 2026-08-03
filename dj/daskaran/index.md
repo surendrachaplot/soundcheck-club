@@ -1,6 +1,6 @@
 # Daskaran
 
-Daskaran is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+Daskaran is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
 Daskaran is a techno and club artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Lisbon and London. Often billed alongside LO-LOW, Varanasi and BLEID. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Daskaran is a techno and club artist based in United Kingdom, tracked on soundch
 
 LO-LOW, Varanasi, BLEID
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*

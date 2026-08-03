@@ -1,6 +1,6 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Toronto, Toronto on Sat, 8 Aug 2026.
+ALT8 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Toronto, Toronto on Sat, 8 Aug 2026.
 
 ALT8 is a techno and trance artist tracked on soundcheck, with 132 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: TBA - Toronto, Toronto on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ ALT8 is a techno and trance artist tracked on soundcheck, with 132 sets logged a
 
 Sara Landry, OGUZ, Stan Christ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

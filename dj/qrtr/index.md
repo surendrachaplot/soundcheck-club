@@ -1,6 +1,6 @@
 # QRTR
 
-QRTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+QRTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 QRTR is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Austin, Chicago, Losangeles and Miami and 6 more. Often billed alongside JEWELSSEA, DJ Papaya and Jubilee. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ QRTR is a techno and house artist based in United States of America, tracked on 
 
 JEWELSSEA, DJ Papaya, Jubilee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qrtr/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qrtr/)*

@@ -1,6 +1,6 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
+Dubfire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
 
 Dubfire is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: BERHTA, Washingtondc on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Dubfire is a techno and house artist tracked on soundcheck, with 145 sets logged
 
 Joseph Capriati, Cristoph, Anfisa Letyago
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

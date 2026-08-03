@@ -1,6 +1,6 @@
 # Corbeille Dallas
 
-Corbeille Dallas is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 29 Aug 2026.
+Corbeille Dallas is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 29 Aug 2026.
 
 Corbeille Dallas is a techno and club artist tracked on soundcheck, with 43 sets logged across Geneva and Paris. Often billed alongside De Vedelly, Cannonbar and Egna. Next up: La Station - Gare des Mines, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Corbeille Dallas is a techno and club artist tracked on soundcheck, with 43 sets
 
 De Vedelly, Cannonbar, Egna
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corbeilledallas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corbeilledallas/)*

@@ -1,6 +1,6 @@
 # 3LEEZA
 
-3LEEZA is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+3LEEZA is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 3LEEZA is a trance and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside Alex Friday, Niotech and HANÀ. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -28,4 +28,4 @@
 
 Alex Friday, Niotech, HANÀ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3leeza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3leeza/)*

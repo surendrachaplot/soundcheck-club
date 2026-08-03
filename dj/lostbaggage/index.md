@@ -1,6 +1,6 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Enter Shibuya, Tokyo on Wed, 5 Aug 2026.
+lostbaggage is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Enter Shibuya, Tokyo on Wed, 5 Aug 2026.
 
 lostbaggage is a house and techno artist tracked on soundcheck, with 152 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: Enter Shibuya, Tokyo on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ lostbaggage is a house and techno artist tracked on soundcheck, with 152 sets lo
 
 YELLOWUHURU, arow, AKIRAM EN
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*

@@ -1,6 +1,6 @@
 # j:me
 
-j:me is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Manchester on Fri, 4 Sept 2026.
+j:me is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Manchester on Fri, 4 Sept 2026.
 
 j:me is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: TBA, Manchester on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ j:me is a house and tech house artist tracked on soundcheck, with 34 sets logged
 
 Jude Lenihan, Benji King, Phill de Janeiro
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*

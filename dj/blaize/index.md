@@ -1,6 +1,6 @@
 # BLAIZE
 
-BLAIZE is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at C'mon Everybody, New York City on Fri, 7 Aug 2026.
+BLAIZE is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at C'mon Everybody, New York City on Fri, 7 Aug 2026.
 
 BLAIZE is a techno and club artist tracked on soundcheck, with 51 sets logged across Amsterdam, Budapest, London and Newyorkcity and 4 more. Often billed alongside ARCHANGEL (US), Amarji King and Byrell The Great. Next up: C'mon Everybody, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ BLAIZE is a techno and club artist tracked on soundcheck, with 51 sets logged ac
 
 ARCHANGEL (US), Amarji King, Byrell The Great
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*

@@ -1,6 +1,6 @@
 # Motives
 
-Motives is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tigres de la Noche, Washington DC on Sat, 29 Aug 2026.
+Motives is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tigres de la Noche, Washington DC on Sat, 29 Aug 2026.
 
 Motives is a house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity and Washingtondc. Often billed alongside Carlson (1), Keenan and 2theT. Next up: Tigres de la Noche, Washingtondc on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Motives is a house and deep house artist based in United States of America, trac
 
 Carlson (1), Keenan, 2theT
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motives/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motives/)*

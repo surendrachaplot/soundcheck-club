@@ -1,6 +1,6 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Circus Osaka, Osaka on Sat, 8 Aug 2026.
+Mr. Ho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Circus Osaka, Osaka on Sat, 8 Aug 2026.
 
 Mr. Ho is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Auckland and Bali and 35 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: Circus Osaka, Osaka on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Mr. Ho is a house and techno artist tracked on soundcheck, with 117 sets logged 
 
 Luca Lozano, Wada Yosuke, Mogwaa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

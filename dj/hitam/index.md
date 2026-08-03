@@ -1,14 +1,13 @@
 # Hitam
 
-Hitam is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at RADION, Amsterdam on Sun, 2 Aug 2026.
+Hitam is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
-Hitam is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Bali and Berlin and 28 more. Often billed alongside WINDFUHR, AMORAL and MARRØN. Next up: RADION, Amsterdam on Sun 2 Aug.
+Hitam is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Bali and Berlin and 28 more. Often billed alongside WINDFUHR, AMORAL and MARRØN. Next up: Gaffe, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | RADION | Amsterdam |
 | Sat, 8 Aug 2026 | Gaffe | London |
 | Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
 | Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
@@ -16,6 +15,7 @@ Hitam is a techno and minimal techno artist based in Netherlands, tracked on sou
 
 ## Recently played
 
+- RADION, Amsterdam — Sun, 2 Aug 2026
 - Ministerium Club, Lisbon — Sat, 11 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 3 Jul 2026
 - CLUB RAUM, Amsterdam — Sat, 23 May 2026
@@ -23,10 +23,9 @@ Hitam is a techno and minimal techno artist based in Netherlands, tracked on sou
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 30 Apr 2026
 - Levenslang Amsterdam, Amsterdam — Mon, 27 Apr 2026
 - Garage Noord, Amsterdam — Sat, 21 Mar 2026
-- export, Rotterdam — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 WINDFUHR, AMORAL, MARRØN
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

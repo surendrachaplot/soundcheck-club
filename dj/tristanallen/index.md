@@ -1,6 +1,6 @@
 # Tristan Allen
 
-Tristan Allen is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cassette, New York City on Sat, 8 Aug 2026.
+Tristan Allen is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cassette, New York City on Sat, 8 Aug 2026.
 
 Tristan Allen is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity and Philadelphia. Often billed alongside Alessandro Cortini, Analog Soul and Andrew Devlin. Next up: Cassette, Newyorkcity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Tristan Allen is an experimental and ambient artist based in United States of Am
 
 Alessandro Cortini, Analog Soul, Andrew Devlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanallen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanallen/)*

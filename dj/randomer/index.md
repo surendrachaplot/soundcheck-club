@@ -1,6 +1,6 @@
 # Randomer
 
-Randomer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 15 Aug 2026.
+Randomer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 15 Aug 2026.
 
 Randomer is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside AADJA, Anetha and Clouds. Next up: TBA - Los Angeles, Losangeles on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Randomer is a techno and house artist tracked on soundcheck, with 79 sets logged
 
 AADJA, Anetha, Clouds
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

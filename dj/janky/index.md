@@ -1,6 +1,6 @@
 # Janky
 
-Janky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Janky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Janky is a house and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Chicago, Istanbul and London and 7 more. Often billed alongside Towicz, Derrick Carter and Dominique Lamee. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Janky is a house and techno artist tracked on soundcheck, with 36 sets logged ac
 
 Towicz, Derrick Carter, Dominique Lamee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*

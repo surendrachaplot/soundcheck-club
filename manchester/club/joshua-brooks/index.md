@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Day Time Disco: Melvo Baptiste" on Sat, 8 Aug 2026.
+Joshua Brooks is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Day Time Disco: Melvo Baptiste" on Sat, 8 Aug 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Badger (UK), Because of Art, Cristoph and Doc Scott and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 11 upcoming n
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

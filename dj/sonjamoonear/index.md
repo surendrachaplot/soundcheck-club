@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: DC-10, Ibiza on Mon 3 Aug.
 
@@ -32,4 +32,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 186 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

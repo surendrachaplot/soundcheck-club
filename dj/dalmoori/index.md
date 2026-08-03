@@ -1,6 +1,6 @@
 # Dalmoori
 
-Dalmoori is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
+Dalmoori is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
 
 Dalmoori is a techno and trance artist based in South Korea, tracked on soundcheck, with 1 set logged across Seoul. Often billed alongside Casepeat, Kaeno and Kago Pengchi. Next up: Ximxim Bar, Seoul on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Dalmoori is a techno and trance artist based in South Korea, tracked on soundche
 
 Casepeat, Kaeno, Kago Pengchi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalmoori/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalmoori/)*

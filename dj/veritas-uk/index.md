@@ -1,6 +1,6 @@
 # VERITAS (UK)
 
-VERITAS (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
+VERITAS (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
 
 VERITAS (UK) is a minimal and tech house artist tracked on soundcheck, with 12 sets logged across Liverpool, London, Malta and Newcastle. Often billed alongside DIM FLO, DXNBY and BVNQUET. Next up: Ouseburn Garden, Newcastle on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ VERITAS (UK) is a minimal and tech house artist tracked on soundcheck, with 12 s
 
 DIM FLO, DXNBY, BVNQUET
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veritas-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veritas-uk/)*

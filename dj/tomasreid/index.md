@@ -1,6 +1,6 @@
 # Tomas Reid
 
-Tomas Reid is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
+Tomas Reid is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
 
 Tomas Reid is a minimal and house artist based in Chile, tracked on soundcheck, with 21 sets logged across Berlin and Mexicocity. Often billed alongside Ernest Duke, Itza Chacón and Majo Villalobos. Next up: Club der Visionaere, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tomas Reid is a minimal and house artist based in Chile, tracked on soundcheck, 
 
 Ernest Duke, Itza Chacón, Majo Villalobos
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasreid/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasreid/)*

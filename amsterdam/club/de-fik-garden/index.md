@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SOTO" on Sat, 8 Aug 2026.
+De Fik Garden is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SOTO" on Sat, 8 Aug 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Anémi, Ben Kaczor, Chami and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -23,4 +23,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 11 upcoming ni
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

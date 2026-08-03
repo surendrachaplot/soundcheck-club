@@ -1,6 +1,6 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and EBM artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kung Fu Necktie, Philadelphia on Thu, 6 Aug 2026.
+DJ Baby Berlin is a New Wave and EBM artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kung Fu Necktie, Philadelphia on Thu, 6 Aug 2026.
 
 DJ Baby Berlin is a new wave and ebm artist based in United States of America, tracked on soundcheck, with 76 sets logged across Newyorkcity and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Void Vision. Next up: Kung Fu Necktie, Philadelphia on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ DJ Baby Berlin is a new wave and ebm artist based in United States of America, t
 
 Brad Scott, DJ Nightwitch, Void Vision
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

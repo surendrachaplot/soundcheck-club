@@ -1,6 +1,6 @@
 # Rohaan
 
-Rohaan is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Rohaan is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Rohaan is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Auckland, Brighton, Brisbane and Bristol and 15 more. Often billed alongside Buunshin, Ivy Lab and ENiGMA Dubz. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Rohaan is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Buunshin, Ivy Lab, ENiGMA Dubz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*

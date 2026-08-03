@@ -1,6 +1,6 @@
 # DALJAE
 
-DALJAE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lion Super Club, Seoul on Sat, 8 Aug 2026.
+DALJAE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lion Super Club, Seoul on Sat, 8 Aug 2026.
 
 DALJAE is a techno and industrial artist tracked on soundcheck, with 91 sets logged across Amsterdam, Milan, Osaka and Seoul and 2 more. Often billed alongside Kaito, YOXIKI and YUXI. Next up: Lion Super Club, Seoul on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DALJAE is a techno and industrial artist tracked on soundcheck, with 91 sets log
 
 Kaito, YOXIKI, YUXI
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*

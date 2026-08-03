@@ -1,6 +1,6 @@
 # El Cassar
 
-El Cassar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+El Cassar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 El Cassar is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Malta. Often billed alongside Ty Henry, Cristian Ebasta and Enrico Chirchiello. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ El Cassar is a tech house and house artist based in United Kingdom, tracked on s
 
 Ty Henry, Cristian Ebasta, Enrico Chirchiello
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elcassar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elcassar/)*

@@ -1,6 +1,6 @@
 # Tusculum Prague
 
-Tusculum Prague is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Tuculum Live: Medard Zeman" on Tue, 11 Aug 2026.
+Tusculum Prague is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Tuculum Live: Medard Zeman" on Tue, 11 Aug 2026.
 
 Tusculum Prague is a music venue in Prague listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Chittussiho 144/1 Prague 6.
 
@@ -15,4 +15,4 @@ Tusculum Prague is a music venue in Prague listed on soundcheck. 2 upcoming nigh
 
 Chittussiho 144/1 Prague 6, Prague
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tusculum-prague/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tusculum-prague/)*

@@ -1,6 +1,6 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Thu, 13 Aug 2026.
+The Ghost is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Thu, 13 Aug 2026.
 
 The Ghost is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 37 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Tresor / Globus, Berlin on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 171 sets 
 
 Gene On Earth, Coast 2 Coast, Dr Banana
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

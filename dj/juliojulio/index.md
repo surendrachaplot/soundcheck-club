@@ -1,6 +1,6 @@
 # juliojulio
 
-juliojulio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
+juliojulio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
 
 juliojulio is a house and electro artist based in Belgium, tracked on soundcheck, with 10 sets logged across Antwerp and Brussels. Often billed alongside Dana Kuehr, seja (1) and Catalina. Next up: Ruiterijcomplex, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ juliojulio is a house and electro artist based in Belgium, tracked on soundcheck
 
 Dana Kuehr, seja (1), Catalina
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliojulio/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliojulio/)*

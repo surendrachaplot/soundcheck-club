@@ -1,6 +1,6 @@
 # William Quintero (2)
 
-William Quintero (2) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
+William Quintero (2) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
 
 William Quintero (2) is a tech house and house artist tracked on soundcheck, with 41 sets logged across London. Often billed alongside Bread & Butter, TIME LVPSE and Billa Bazz. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ William Quintero (2) is a tech house and house artist tracked on soundcheck, wit
 
 Bread & Butter, TIME LVPSE, Billa Bazz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williamquintero-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williamquintero-2/)*

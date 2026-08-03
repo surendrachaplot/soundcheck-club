@@ -1,6 +1,6 @@
 # Yuval
 
-Yuval is a Afrobeat and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bangkok Island, Bangkok on Sat, 8 Aug 2026.
+Yuval is a Afrobeat and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bangkok Island, Bangkok on Sat, 8 Aug 2026.
 
 Yuval is an afrobeat and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Bangkok and Berlin. Often billed alongside Paulita, AMON (1) and Angel Karel. Next up: Bangkok Island, Bangkok on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Yuval is an afrobeat and techno artist based in Germany, tracked on soundcheck, 
 
 Paulita, AMON (1), Angel Karel
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuval/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuval/)*

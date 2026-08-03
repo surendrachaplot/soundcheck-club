@@ -1,6 +1,6 @@
 # Posner
 
-Posner is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Posner is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Posner is a techno and experimental artist based in Norway, tracked on soundcheck, with 18 sets logged across Oslo and Tokyo. Often billed alongside HIMAWARI, Niilas and Abiu. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Posner is a techno and experimental artist based in Norway, tracked on soundchec
 
 HIMAWARI, Niilas, Abiu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/posner/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/posner/)*

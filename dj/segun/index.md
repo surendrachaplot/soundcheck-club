@@ -1,6 +1,6 @@
 # Segun
 
-Segun is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bar Neun, Berlin on Sat, 15 Aug 2026.
+Segun is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Neun, Berlin on Sat, 15 Aug 2026.
 
 Segun is a trance and house artist tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside Kopflos, A.I.F.O.S. and DaSoMaZo. Next up: Bar Neun, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Segun is a trance and house artist tracked on soundcheck, with 24 sets logged ac
 
 Kopflos, A.I.F.O.S., DaSoMaZo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/segun/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/segun/)*

@@ -1,6 +1,6 @@
 # Sai
 
-Sai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+Sai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 Sai is a techno and house artist based in Japan, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Ibiza and Losangeles and 5 more. Often billed alongside FUJIMON, Alex Friday and Alexander Paulski. Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sai is a techno and house artist based in Japan, tracked on soundcheck, with 19 
 
 FUJIMON, Alex Friday, Alexander Paulski
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sai/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sai/)*

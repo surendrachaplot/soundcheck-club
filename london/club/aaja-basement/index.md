@@ -1,6 +1,6 @@
 # Aaja Basement
 
-Aaja Basement is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser" on Fri, 7 Aug 2026.
+Aaja Basement is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser" on Fri, 7 Aug 2026.
 
 Aaja Basement is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including ARKNGL, Baytee Baytak, BBSHKALES and Choronzon and 2 more. Browse upcoming dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
 
@@ -19,4 +19,4 @@ Aaja Basement is a music venue in London listed on soundcheck. 6 upcoming nights
 
 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*

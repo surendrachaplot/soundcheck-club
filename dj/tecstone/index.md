@@ -1,6 +1,6 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 8 Aug 2026.
+TECSTONE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 8 Aug 2026.
 
 TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 SIGNAL (JP), ALLY, Krankent
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*

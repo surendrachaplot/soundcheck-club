@@ -1,6 +1,6 @@
 # Ducky
 
-Ducky is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
+Ducky is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Ducky is a club and pop artist tracked on soundcheck, with 7 sets logged across Antwerp, Losangeles, Riga and Sanfrancisco. Often billed alongside MAMA SAN, Beverly Chills and Cali Rose. Next up: Public Works, Sanfrancisco on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Ducky is a club and pop artist tracked on soundcheck, with 7 sets logged across 
 
 MAMA SAN, Beverly Chills, Cali Rose
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ducky/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ducky/)*

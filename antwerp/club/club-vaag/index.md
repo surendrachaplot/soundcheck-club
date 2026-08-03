@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Club Vaag invites DJ AYA & SIREN" on Sat, 8 Aug 2026.
+Club Vaag is a music venue in Antwerp with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Club Vaag invites DJ AYA & SIREN" on Sat, 8 Aug 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 8 upcoming nights, with line-ups including 6 SENSE, ANSWR, Benleh and DJ AYA and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -21,4 +21,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 8 upcoming nights, w
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

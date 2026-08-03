@@ -1,6 +1,6 @@
 # Zeigler
 
-Zeigler is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
+Zeigler is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
 
 Zeigler is a house and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Montreal, Newyorkcity and Philadelphia. Often billed alongside maenad, SWIMMIE and Scruff Angel. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Zeigler is a house and club artist based in United States of America, tracked on
 
 maenad, SWIMMIE, Scruff Angel
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeigler/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeigler/)*

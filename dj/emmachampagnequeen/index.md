@@ -1,14 +1,13 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Radio Radio, Amsterdam on Sun, 2 Aug 2026.
+Emma Champagne Queen is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
 
-Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: Radio Radio, Amsterdam on Sun 2 Aug.
+Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: Madam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Radio Radio | Amsterdam |
 | Fri, 7 Aug 2026 | Madam | Amsterdam |
 | Sat, 22 Aug 2026 | Club NYX | Amsterdam |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
@@ -16,6 +15,7 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, tracked o
 
 ## Recently played
 
+- Radio Radio, Amsterdam — Sun, 2 Aug 2026
 - TILLATEC, Amsterdam — Sat, 1 Aug 2026
 - Club NYX, Amsterdam — Wed, 29 Jul 2026
 - TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam — Sat, 25 Jul 2026
@@ -23,10 +23,9 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, tracked o
 - SISSI'S Amsterdam, Amsterdam — Fri, 19 Jun 2026
 - TBA - Condensatorweg 48c, Amsterdam — Sun, 7 Jun 2026
 - TBA - Tonton Noord, Amsterdam — Sat, 30 May 2026
-- THE OTHER SIDE, Amsterdam — Fri, 22 May 2026
 
 ## Shares bills with
 
 Kirilski, Pura Pachanga, Benny Rodrigues
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*

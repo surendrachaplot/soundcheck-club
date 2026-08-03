@@ -1,6 +1,6 @@
 # Larse
 
-Larse is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 8 Aug 2026.
+Larse is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 8 Aug 2026.
 
 Larse is a disco and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Barcelona and Ibiza. Often billed alongside Dan Shake, David Morales and Eats Everything. Next up: Purobeach Barcelona, Barcelona on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Larse is a disco and house artist based in Germany, tracked on soundcheck, with 
 
 Dan Shake, David Morales, Eats Everything
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larse/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larse/)*

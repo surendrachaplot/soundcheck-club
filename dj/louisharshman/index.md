@@ -1,6 +1,6 @@
 # Louis Harshman
 
-Louis Harshman is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Louis Harshman is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Louis Harshman is a techno and trance artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Frankfurt, Hamburg and Nurnberg. Often billed alongside ZOEVITA, Cara Elizabeth and DIE FUNKELZIFFER. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Louis Harshman is a techno and trance artist based in Germany, tracked on soundc
 
 ZOEVITA, Cara Elizabeth, DIE FUNKELZIFFER
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisharshman/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisharshman/)*

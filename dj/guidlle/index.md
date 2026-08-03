@@ -1,6 +1,6 @@
 # guidlle
 
-guidlle is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cadavra, Madrid on Sat, 22 Aug 2026.
+guidlle is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cadavra, Madrid on Sat, 22 Aug 2026.
 
 guidlle is an electronica artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside ARTIIC, ATYCO and BIXBITA. Next up: Cadavra, Madrid on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ guidlle is an electronica artist based in Spain, tracked on soundcheck, with 6 s
 
 ARTIIC, ATYCO, BIXBITA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidlle/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidlle/)*

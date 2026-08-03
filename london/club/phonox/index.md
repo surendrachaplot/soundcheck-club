@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter" on Fri, 7 Aug 2026.
+Phonox is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter" on Fri, 7 Aug 2026.
 
 Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

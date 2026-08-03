@@ -1,6 +1,6 @@
 # Carasel
 
-Carasel is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Carasel is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Carasel is a drum & bass and jungle artist tracked on soundcheck, with 69 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 7 more. Often billed alongside Jakes, IC3 and Inja. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Carasel is a drum & bass and jungle artist tracked on soundcheck, with 69 sets l
 
 Jakes, IC3, Inja
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*

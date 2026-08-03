@@ -1,6 +1,6 @@
 # GODINI
 
-GODINI is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
+GODINI is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
 
 GODINI is a techno and hardcore artist based in Romania, tracked on soundcheck, with 18 sets logged across Bucharest, Budapest and Munich. Often billed alongside DA NA, KØMI and Sandraz. Next up: Nether Club, Bucharest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ GODINI is a techno and hardcore artist based in Romania, tracked on soundcheck, 
 
 DA NA, KØMI, Sandraz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godini/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godini/)*

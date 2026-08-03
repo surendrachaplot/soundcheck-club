@@ -1,6 +1,6 @@
 # Atakan Uysal
 
-Atakan Uysal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kastel, Istanbul on Sat, 8 Aug 2026.
+Atakan Uysal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kastel, Istanbul on Sat, 8 Aug 2026.
 
 Atakan Uysal is a house and techno artist based in Turkey, tracked on soundcheck, with 29 sets logged across Istanbul. Often billed alongside Volkan Gunduz, FAITH and Gunes Ergun. Next up: Kastel, Istanbul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Atakan Uysal is a house and techno artist based in Turkey, tracked on soundcheck
 
 Volkan Gunduz, FAITH, Gunes Ergun
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atakanuysal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atakanuysal/)*

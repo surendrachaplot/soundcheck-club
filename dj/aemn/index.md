@@ -1,6 +1,6 @@
 # AEMN
 
-AEMN is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+AEMN is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 AEMN is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Dusseldorf, Frankfurt and Stuttgart. Often billed alongside AKONI, FENIM0RE and ÜBERKIKZ. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ AEMN is a trance and techno artist based in Germany, tracked on soundcheck, with
 
 AKONI, FENIM0RE, ÜBERKIKZ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aemn/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aemn/)*

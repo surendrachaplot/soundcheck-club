@@ -1,6 +1,6 @@
 # Disturbed Berlin
 
-Disturbed Berlin is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 22 Aug 2026.
+Disturbed Berlin is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 22 Aug 2026.
 
 Disturbed Berlin is a techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Wiebe Roose, Chaos Techno.Berlin and Chris Veron. Next up: Der Weiße Hase, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Disturbed Berlin is a techno artist based in Germany, tracked on soundcheck, wit
 
 Wiebe Roose, Chaos Techno.Berlin, Chris Veron
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disturbedberlin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disturbedberlin/)*

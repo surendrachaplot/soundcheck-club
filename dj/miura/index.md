@@ -1,6 +1,6 @@
 # Miura
 
-Miura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 15 Aug 2026.
+Miura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 15 Aug 2026.
 
 Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Bali and Berlin and 17 more. Often billed alongside Eva Selezneva, CAPTNNN' and Agathe Mougin. Next up: Rumore Nightclub Capri, Naples on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with
 
 Eva Selezneva, CAPTNNN', Agathe Mougin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*

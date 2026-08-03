@@ -1,6 +1,6 @@
 # mölly
 
-mölly is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Open Aera, Toronto on Thu, 10 Sept 2026.
+mölly is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Open Aera, Toronto on Thu, 10 Sept 2026.
 
 mölly is an electronica and progressive house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Chicago, Denver and London and 4 more. Often billed alongside Estiva, Authentic and BLOND:ISH. Next up: Open Aera, Toronto on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ mölly is an electronica and progressive house artist based in United States of 
 
 Estiva, Authentic, BLOND:ISH
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molly-us/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molly-us/)*

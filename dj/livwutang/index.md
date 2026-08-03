@@ -1,14 +1,13 @@
 # livwutang
 
-livwutang is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
+livwutang is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Palais, London on Sat, 8 Aug 2026.
 
-livwutang is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Prince Charles, Berlin on Sun 2 Aug.
+livwutang is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Palais, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Prince Charles | Berlin |
 | Sat, 8 Aug 2026 | Palais | London |
 | Sat, 22 Aug 2026 | Buda BXL | Brussels |
 | Sun, 23 Aug 2026 | OXI | Berlin |
@@ -21,6 +20,7 @@ livwutang is a techno and house artist tracked on soundcheck, with 183 sets logg
 
 ## Recently played
 
+- Prince Charles, Berlin — Sun, 2 Aug 2026
 - OHM, Berlin — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -28,10 +28,9 @@ livwutang is a techno and house artist tracked on soundcheck, with 183 sets logg
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Nowadays, New York City — Sat, 30 May 2026
 - Floyd, Miami — Fri, 29 May 2026
-- Sonnenraum, Berlin — Sun, 24 May 2026
 
 ## Shares bills with
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

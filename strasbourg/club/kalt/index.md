@@ -1,6 +1,6 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Faster Horses" on Sat, 8 Aug 2026.
+KALT is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Faster Horses" on Sat, 8 Aug 2026.
 
 KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, with line-ups including Justine Perry, Alarico, Alex Nantaya and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
@@ -23,4 +23,4 @@ KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, wi
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

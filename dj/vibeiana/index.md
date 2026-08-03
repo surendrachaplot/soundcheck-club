@@ -1,6 +1,6 @@
 # Vibeiana
 
-Vibeiana is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at MAD Radio NYC, New York City on Fri, 7 Aug 2026.
+Vibeiana is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MAD Radio NYC, New York City on Fri, 7 Aug 2026.
 
 Vibeiana is a house and electro artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Matt FX, Mona Matsuoka and Tim Lucent. Next up: MAD Radio NYC, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Vibeiana is a house and electro artist based in United States of America, tracke
 
 Matt FX, Mona Matsuoka, Tim Lucent
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibeiana/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibeiana/)*

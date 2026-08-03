@@ -1,6 +1,6 @@
 # Kele (ES)
 
-Kele (ES) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
+Kele (ES) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
 
 Kele (ES) is a house and electronica artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Linxes, Kaeru and Alan Jimenez. Next up: Es Secret, Barcelona on Wed 5 Aug.
 
@@ -22,4 +22,4 @@ Kele (ES) is a house and electronica artist based in Spain, tracked on soundchec
 
 Linxes, Kaeru, Alan Jimenez
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelees/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelees/)*

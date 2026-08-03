@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Boat Cruise Summer Series, Boston on Fri, 7 Aug 2026.
+Linska is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Boat Cruise Summer Series, Boston on Fri, 7 Aug 2026.
 
 Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Austin, Boston and Chicago and 15 more. Often billed alongside Gorgon City, Adam Beyer and Cassian. Next up: Boat Cruise Summer Series, Boston on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gorgon City, Adam Beyer, Cassian
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

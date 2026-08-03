@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 4 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 4 Aug 2026.
 
 Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Hï Ibiza, Ibiza on Tue 4 Aug.
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

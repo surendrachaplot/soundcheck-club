@@ -1,6 +1,6 @@
 # Hypoestes
 
-Hypoestes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+Hypoestes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
 
 Hypoestes is a techno and house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Leipzig. Often billed alongside 131bpm, Kodemul and rRoxymore. Next up: KREUZWERK, Berlin on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Hypoestes is a techno and house artist tracked on soundcheck, with 4 sets logged
 
 131bpm, Kodemul, rRoxymore
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoestes/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoestes/)*

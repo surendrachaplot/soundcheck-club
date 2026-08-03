@@ -1,6 +1,6 @@
 # Daniel Aguilar (2)
 
-Daniel Aguilar (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
+Daniel Aguilar (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
 
 Daniel Aguilar (2) is a tech house and house artist tracked on soundcheck, with 16 sets logged across Barcelona and Hongkong. Often billed alongside MøønkiZa, EVES DJ and Miguel Bastida. Next up: BORIS CLUB, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Daniel Aguilar (2) is a tech house and house artist tracked on soundcheck, with 
 
 MøønkiZa, EVES DJ, Miguel Bastida
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielaguilar-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielaguilar-2/)*

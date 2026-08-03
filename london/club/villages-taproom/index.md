@@ -1,6 +1,6 @@
 # Villages Taproom
 
-Villages Taproom is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "TWO STEP 003 - SUMMER SESSIONS" on Sat, 15 Aug 2026.
+Villages Taproom is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "TWO STEP 003 - SUMMER SESSIONS" on Sat, 15 Aug 2026.
 
 Villages Taproom is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 21-22 resolution way Deptford, SE8 4NT, United Kingdom.
 
@@ -14,4 +14,4 @@ Villages Taproom is a music venue in London listed on soundcheck. 1 upcoming nig
 
 21-22 resolution way Deptford, SE8 4NT, United Kingdom, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/villages-taproom/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/villages-taproom/)*

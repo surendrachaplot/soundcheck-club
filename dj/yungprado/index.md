@@ -1,6 +1,6 @@
 # Yung Prado
 
-Yung Prado is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
+Yung Prado is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
 
 Yung Prado is a house and electronica artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Nile Fee, Adria (ES) and Baldman. Next up: Es Secret, Barcelona on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Yung Prado is a house and electronica artist tracked on soundcheck, with 40 sets
 
 Nile Fee, Adria (ES), Baldman
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungprado/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungprado/)*

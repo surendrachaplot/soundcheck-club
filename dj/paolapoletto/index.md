@@ -1,6 +1,6 @@
 # Paola Poletto
 
-Paola Poletto is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 30 Aug 2026.
+Paola Poletto is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 30 Aug 2026.
 
 Paola Poletto is a techno and tech house artist based in Spain, tracked on soundcheck, with 2 sets logged across Dusseldorf and Ibiza. Often billed alongside Francisco Allendes, Chelina Manuhutu and DJ Gigola. Next up: Kiesgrube, Dusseldorf on Sun 30 Aug.
 
@@ -18,4 +18,4 @@ Paola Poletto is a techno and tech house artist based in Spain, tracked on sound
 
 Francisco Allendes, Chelina Manuhutu, DJ Gigola
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paolapoletto/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paolapoletto/)*

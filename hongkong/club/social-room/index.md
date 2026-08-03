@@ -1,6 +1,6 @@
 # Social Room
 
-Social Room is a music venue in Hong Kong with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "LOW-END TROUGH: Deep Dark Bass Night" on Fri, 7 Aug 2026.
+Social Room is a music venue in Hong Kong with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "LOW-END TROUGH: Deep Dark Bass Night" on Fri, 7 Aug 2026.
 
 Social Room is a music venue in Hongkong listed on soundcheck. 1 upcoming night, with line-ups including KOLAK. Browse upcoming dates, start times and who's playing. 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong.
 
@@ -14,4 +14,4 @@ Social Room is a music venue in Hongkong listed on soundcheck. 1 upcoming night,
 
 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong, Hong Kong
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*

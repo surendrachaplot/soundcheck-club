@@ -1,14 +1,13 @@
 # Prospa
 
-Prospa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Old Royal Naval College, London on Sun, 2 Aug 2026.
+Prospa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Prospa is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Old Royal Naval College, London on Sun 2 Aug.
+Prospa is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Pacha Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Old Royal Naval College | London |
 | Fri, 7 Aug 2026 | Pacha Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Santanna Mykonos | Mykonos |
 | Mon, 24 Aug 2026 | Santanna Mykonos | Mykonos |
@@ -23,6 +22,7 @@ Prospa is a house and techno artist tracked on soundcheck, with 173 sets logged 
 
 ## Recently played
 
+- Old Royal Naval College, London — Sun, 2 Aug 2026
 - DC-10, Ibiza — Mon, 27 Jul 2026
 - DC-10, Ibiza — Mon, 6 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
@@ -30,10 +30,9 @@ Prospa is a house and techno artist tracked on soundcheck, with 173 sets logged 
 - Amok Club, Mallorca — Sun, 28 Jun 2026
 - [UNVRS], Ibiza — Tue, 23 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- Parc del Fòrum, Barcelona — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Seth Troxler, Josh Baker, Sossa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

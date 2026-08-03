@@ -1,6 +1,6 @@
 # Kon Faber
 
-Kon Faber is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at gART.n, Berlin on Sun, 9 Aug 2026.
+Kon Faber is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at gART.n, Berlin on Sun, 9 Aug 2026.
 
 Kon Faber is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Brisbane, Copenhagen and Frankfurt and 8 more. Often billed alongside DirdyGerdi, Fabian Krooss and Isabeau Fort. Next up: gART.n, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Kon Faber is a house and techno artist based in Germany, tracked on soundcheck, 
 
 DirdyGerdi, Fabian Krooss, Isabeau Fort
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konfaber/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konfaber/)*

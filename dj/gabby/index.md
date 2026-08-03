@@ -1,6 +1,6 @@
 # GABBY
 
-GABBY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+GABBY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 GABBY is a house and techno artist based in Australia, tracked on soundcheck, with 13 sets logged across Montreal, Sydney and Warsaw. Often billed alongside Ben Nott, Jake Hough and Cassette. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ GABBY is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Ben Nott, Jake Hough, Cassette
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabby/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabby/)*

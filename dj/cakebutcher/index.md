@@ -1,6 +1,6 @@
 # Cakebutcher
 
-Cakebutcher is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at MODULE, Copenhagen on Sat, 15 Aug 2026.
+Cakebutcher is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at MODULE, Copenhagen on Sat, 15 Aug 2026.
 
 Cakebutcher is a techno and trance artist tracked on soundcheck, with 12 sets logged across Copenhagen. Often billed alongside Kardinal Bertram, Kallax and steamboi. Next up: MODULE, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cakebutcher is a techno and trance artist tracked on soundcheck, with 12 sets lo
 
 Kardinal Bertram, Kallax, steamboi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cakebutcher/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cakebutcher/)*

@@ -1,6 +1,6 @@
 # DJ Shannon
 
-DJ Shannon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Mood Ring, New York City on Thu, 6 Aug 2026.
+DJ Shannon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Thu, 6 Aug 2026.
 
 DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 110 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: Mood Ring, Newyorkcity on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ DJ Shannon is a house and techno artist based in United States of America, track
 
 Niyah West, HONEY B, Kandylion
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*

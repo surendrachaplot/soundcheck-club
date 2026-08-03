@@ -1,6 +1,6 @@
 # Marc Matter
 
-Marc Matter is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
+Marc Matter is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Salon des Amateurs, Düsseldorf on Sat, 22 Aug 2026.
 
 Marc Matter is a techno and experimental artist tracked on soundcheck, with 11 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside Anna Butter, DON'T DJ and Inken. Next up: Salon des Amateurs, Dusseldorf on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Marc Matter is a techno and experimental artist tracked on soundcheck, with 11 s
 
 Anna Butter, DON'T DJ, Inken
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmatter/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmatter/)*

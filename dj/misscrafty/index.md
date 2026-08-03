@@ -1,6 +1,6 @@
 # Miss Crafty
 
-Miss Crafty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 8 Aug 2026.
+Miss Crafty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Miss Crafty is a techno and house artist tracked on soundcheck, with 46 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside SNAQ, Romii and Clarity (3). Next up: DNA Lounge, Sanfrancisco on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Miss Crafty is a techno and house artist tracked on soundcheck, with 46 sets log
 
 SNAQ, Romii, Clarity (3)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*

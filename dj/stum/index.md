@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
+STÜM is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
 STÜM is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Sam Alfred, 6 SENSE and Ewan McVicar. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ STÜM is a techno and house artist tracked on soundcheck, with 60 sets logged ac
 
 Sam Alfred, 6 SENSE, Ewan McVicar
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

@@ -1,6 +1,6 @@
 # Pandilla LTD
 
-Pandilla LTD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 5A, Lisbon on Sat, 22 Aug 2026.
+Pandilla LTD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 5A, Lisbon on Sat, 22 Aug 2026.
 
 Pandilla LTD is a techno and house artist based in Portugal, tracked on soundcheck, with 18 sets logged across Lisbon. Often billed alongside Kee_ko, Elless & Benn and Solid-Funk. Next up: 5A, Lisbon on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Pandilla LTD is a techno and house artist based in Portugal, tracked on soundche
 
 Kee_ko, Elless & Benn, Solid-Funk
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pandillaltd/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pandillaltd/)*

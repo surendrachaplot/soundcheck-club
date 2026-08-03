@@ -1,6 +1,6 @@
 # Spray
 
-Spray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
+Spray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
 
 Spray is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Hal25, Amsterdam on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Spray is a techno and house artist tracked on soundcheck, with 194 sets logged a
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

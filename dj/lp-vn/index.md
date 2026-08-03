@@ -1,6 +1,6 @@
 # LP (VN)
 
-LP (VN) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+LP (VN) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 LP (VN) is a tech house and house artist based in Uzbekistan, tracked on soundcheck, with 1 set logged across London. Often billed alongside A.L.F, Blackromeo and Burnski. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ LP (VN) is a tech house and house artist based in Uzbekistan, tracked on soundch
 
 A.L.F, Blackromeo, Burnski
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lp-vn/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lp-vn/)*

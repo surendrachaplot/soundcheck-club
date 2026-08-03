@@ -1,6 +1,6 @@
 # Stenny
 
-Stenny is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at OHM, Berlin on Thu, 27 Aug 2026.
+Stenny is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at OHM, Berlin on Thu, 27 Aug 2026.
 
 Stenny is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: OHM, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Stenny is a techno and house artist tracked on soundcheck, with 121 sets logged 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

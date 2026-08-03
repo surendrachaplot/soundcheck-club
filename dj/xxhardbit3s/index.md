@@ -1,6 +1,6 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Boyfriend co-op, New York City on Thu, 6 Aug 2026.
+XXHARDBIT3S is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Boyfriend co-op, New York City on Thu, 6 Aug 2026.
 
 XXHARDBIT3S is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Boston, Denver, Montreal and Newyorkcity and 3 more. Often billed alongside JESSXO, 3mouth and Soo Intoit. Next up: Boyfriend co-op, Newyorkcity on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ XXHARDBIT3S is a hardcore and techno artist based in United States of America, t
 
 JESSXO, 3mouth, Soo Intoit
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

@@ -1,6 +1,6 @@
 # gau7t
 
-gau7t is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at XOYO, London on Thu, 27 Aug 2026.
+gau7t is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at XOYO, London on Thu, 27 Aug 2026.
 
 gau7t is a techno and house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Oakley Carter, Tedzx and HERBS. Next up: XOYO, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ gau7t is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Oakley Carter, Tedzx, HERBS
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*

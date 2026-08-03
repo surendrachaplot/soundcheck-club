@@ -1,6 +1,6 @@
 # shot by stanley
 
-shot by stanley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+shot by stanley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
 
 shot by stanley is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Chicago and Munich. Often billed alongside ALXJ, Bombata and Calypsis. Next up: Beate Uwe, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ shot by stanley is a house and techno artist tracked on soundcheck, with 15 sets
 
 ALXJ, Bombata, Calypsis
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*

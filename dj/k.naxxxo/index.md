@@ -1,6 +1,6 @@
 # k.naxXxo
 
-k.naxXxo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 8 Aug 2026.
+k.naxXxo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 8 Aug 2026.
 
 k.naxXxo is a techno and house artist based in Chile, tracked on soundcheck, with 2 sets logged across Leipzig. Often billed alongside Jørdø (AR) and Delirante. Next up: Gwuni Mopera Zentrum Leipzig, Leipzig on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ k.naxXxo is a techno and house artist based in Chile, tracked on soundcheck, wit
 
 Jørdø (AR), Delirante
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.naxxxo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.naxxxo/)*

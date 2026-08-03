@@ -1,6 +1,6 @@
 # Crystallmess
 
-Crystallmess is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Crystallmess is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Crystallmess is a techno and club artist based in France, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Crystallmess is a techno and club artist based in France, tracked on soundcheck,
 
 ojoo, Bill Kouligas, Blawan
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*

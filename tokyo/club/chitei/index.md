@@ -1,6 +1,6 @@
 # Chitei 地底
 
-Chitei 地底 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "底 Bottom" on Fri, 7 Aug 2026.
+Chitei 地底 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "底 Bottom" on Fri, 7 Aug 2026.
 
 Chitei 地底 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Takashi Mori and YOUSUKE FUYAMA. Browse upcoming dates, start times and who's playing. Tokyo Otsuka Building B1, 1-14-6, Kitaotsuka, Toshima-ku, Tokyo, 170-0004, Japan.
 
@@ -14,4 +14,4 @@ Chitei 地底 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, 
 
 Tokyo Otsuka Building B1, 1-14-6, Kitaotsuka, Toshima-ku, Tokyo, 170-0004, Japan, Tokyo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/chitei/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/chitei/)*

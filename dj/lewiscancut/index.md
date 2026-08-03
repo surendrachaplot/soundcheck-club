@@ -1,6 +1,6 @@
 # Lewis Cancut
 
-Lewis Cancut is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 8 Aug 2026.
+Lewis Cancut is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 8 Aug 2026.
 
 Lewis Cancut is a house and techno artist based in Australia, tracked on soundcheck, with 92 sets logged across Melbourne and Sydney. Often billed alongside Kovac, 3rd Orbit and Hysteric. Next up: Revolver Upstairs, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lewis Cancut is a house and techno artist based in Australia, tracked on soundch
 
 Kovac, 3rd Orbit, Hysteric
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscancut/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscancut/)*

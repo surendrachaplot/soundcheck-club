@@ -1,6 +1,6 @@
 # Emilia G
 
-Emilia G is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Emilia G is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Emilia G is an acid and house artist tracked on soundcheck, with 17 sets logged across Amsterdam and London. Often billed alongside Chess, Joey Fontaine and Shamaya. Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Emilia G is an acid and house artist tracked on soundcheck, with 17 sets logged 
 
 Chess, Joey Fontaine, Shamaya
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliag/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliag/)*

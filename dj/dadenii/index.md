@@ -1,6 +1,6 @@
 # Dadenii
 
-Dadenii is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Pan-Pan, Birmingham on Wed, 19 Aug 2026.
+Dadenii is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pan-Pan, Birmingham on Wed, 19 Aug 2026.
 
 Dadenii is an ambient and dub artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Birmingham, London and Manchester. Often billed alongside Jay Carder, An Avrin and Carré. Next up: Pan-Pan, Birmingham on Wed 19 Aug.
 
@@ -21,4 +21,4 @@ Dadenii is an ambient and dub artist based in United Kingdom, tracked on soundch
 
 Jay Carder, An Avrin, Carré
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dadenii/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dadenii/)*

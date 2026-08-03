@@ -1,6 +1,6 @@
 # Sophie Jones
 
-Sophie Jones is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cherry Beach, Toronto on Sun, 23 Aug 2026.
+Sophie Jones is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cherry Beach, Toronto on Sun, 23 Aug 2026.
 
 Sophie Jones is a house and club artist based in Canada, tracked on soundcheck, with 17 sets logged across London and Toronto. Often billed alongside THIRDEYE, KRISHAWN and Phillippe. Next up: Cherry Beach, Toronto on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Sophie Jones is a house and club artist based in Canada, tracked on soundcheck, 
 
 THIRDEYE, KRISHAWN, Phillippe
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiejones/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiejones/)*

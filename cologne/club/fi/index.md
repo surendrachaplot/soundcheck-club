@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "fi Garten x Langer Tag x Krystal Klear & avontuur" on Sat, 8 Aug 2026.
+fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "fi Garten x Langer Tag x Krystal Klear & avontuur" on Sat, 8 Aug 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Ada, Aino DJ, Anna Mancarella and Borella and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -19,4 +19,4 @@ fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

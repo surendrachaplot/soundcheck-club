@@ -1,6 +1,6 @@
 # Aepricity
 
-Aepricity is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Aepricity is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Aepricity is a techno and club artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside Just Another Bitch, Day Thief and Oso Feo (2). Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Aepricity is a techno and club artist based in United States of America, tracked
 
 Just Another Bitch, Day Thief, Oso Feo (2)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aepricity/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aepricity/)*

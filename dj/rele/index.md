@@ -1,6 +1,6 @@
 # Rele
 
-Rele is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Macarena Club, Barcelona on Mon, 3 Aug 2026.
+Rele is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Macarena Club, Barcelona on Mon, 3 Aug 2026.
 
 Rele is a house and electro artist based in Italy, tracked on soundcheck, with 59 sets logged across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: Macarena Club, Barcelona on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Rele is a house and electro artist based in Italy, tracked on soundcheck, with 5
 
 Alexxx, PAZ WAZ HERE, lorenzo del po
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*

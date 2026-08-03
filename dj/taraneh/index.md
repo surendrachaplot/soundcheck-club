@@ -1,6 +1,6 @@
 # Taraneh
 
-Taraneh is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Taraneh is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Taraneh is a techno and club artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside RITCHRD, FINISHHER and Tom Marsi. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Taraneh is a techno and club artist based in United States of America, tracked o
 
 RITCHRD, FINISHHER, Tom Marsi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taraneh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taraneh/)*

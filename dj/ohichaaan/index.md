@@ -1,6 +1,6 @@
 # ohichaaan
 
-ohichaaan is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Asagaya Drift, Tokyo on Sat, 8 Aug 2026.
+ohichaaan is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Asagaya Drift, Tokyo on Sat, 8 Aug 2026.
 
 ohichaaan is a bass and electro artist based in Japan, tracked on soundcheck, with 11 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Acrocanthosaurus, moemiki and 0mSv. Next up: Asagaya Drift, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ohichaaan is a bass and electro artist based in Japan, tracked on soundcheck, wi
 
 Acrocanthosaurus, moemiki, 0mSv
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohichaaan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohichaaan/)*

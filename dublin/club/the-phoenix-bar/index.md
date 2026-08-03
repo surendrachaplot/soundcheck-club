@@ -1,6 +1,6 @@
 # The Phoenix Bar
 
-The Phoenix Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Dancefloor Malfunction #4" on Sat, 19 Sept 2026.
+The Phoenix Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Dancefloor Malfunction #4" on Sat, 19 Sept 2026.
 
 The Phoenix Bar is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Ancient Methods and Poynting. Browse upcoming dates, start times and who's playing. 2 Dalymount, Phibsborough, Dublin, D07 WF89.
 
@@ -14,4 +14,4 @@ The Phoenix Bar is a music venue in Dublin listed on soundcheck. 1 upcoming nigh
 
 2 Dalymount, Phibsborough, Dublin, D07 WF89, Dublin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-phoenix-bar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-phoenix-bar/)*

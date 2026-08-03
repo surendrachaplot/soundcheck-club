@@ -1,6 +1,6 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Hot Since 82 is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Hot Since 82 is a house and tech house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Jamie Jones, Prunk and Manda Moor. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Hot Since 82 is a house and tech house artist tracked on soundcheck, with 202 se
 
 Jamie Jones, Prunk, Manda Moor
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

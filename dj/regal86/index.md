@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Strange Brew, Bristol on Fri, 7 Aug 2026.
+Regal86 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Strange Brew, Bristol on Fri, 7 Aug 2026.
 
 Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Strange Brew, Bristol on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Regal86 is a techno and club artist tracked on soundcheck, with 121 sets logged 
 
 1morning, 1OO1O, MoMA Ready
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

@@ -1,6 +1,6 @@
 # Leod
 
-Leod is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+Leod is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
 Leod is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London, Manchester and Paris. Often billed alongside Akua, Anika Kunst and Beatrice M.. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Leod is a house and electronica artist based in United Kingdom, tracked on sound
 
 Akua, Anika Kunst, Beatrice M.
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leod-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leod-uk/)*

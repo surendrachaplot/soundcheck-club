@@ -1,6 +1,6 @@
 # Tom Pavicich
 
-Tom Pavicich is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
+Tom Pavicich is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
 
 Tom Pavicich is a house and progressive house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: Crack Bellmer, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tom Pavicich is a house and progressive house artist tracked on soundcheck, with
 
 oulcan, Mati Amoretti, FTRXPRS
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompavicich/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompavicich/)*

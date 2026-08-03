@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DEAR MONDAY, vol.297" on Mon, 3 Aug 2026.
+rake?raka? is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DEAR MONDAY, vol.297" on Mon, 3 Aug 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including ALTF4, ast midori, beatman and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -23,4 +23,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 10 upcoming nights, w
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

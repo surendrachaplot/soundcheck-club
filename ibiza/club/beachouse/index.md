@@ -1,6 +1,6 @@
 # Beachouse
 
-Beachouse is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "LUNAR: SOLAR ECLIPSE" on Wed, 12 Aug 2026.
+Beachouse is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "LUNAR: SOLAR ECLIPSE" on Wed, 12 Aug 2026.
 
 Beachouse is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, with line-ups including Guy Gerber, Nadja, Omer Tayar and PAAX Tulum. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa, 2, 07817 Sant Jordi de ses Salines, Illes Balears, España.
 
@@ -16,4 +16,4 @@ Beachouse is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, wit
 
 Ctra. de Platja d'en Bossa, 2, 07817 Sant Jordi de ses Salines, Illes Balears, España, Ibiza
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/beachouse/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/beachouse/)*

@@ -1,6 +1,6 @@
 # NX46
 
-NX46 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kauz, Zurich on Sat, 8 Aug 2026.
+NX46 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kauz, Zurich on Sat, 8 Aug 2026.
 
 NX46 is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Zurich. Often billed alongside Thomas Bianco, VNTX and Exgüsi. Next up: Kauz, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ NX46 is a techno and industrial artist based in Switzerland, tracked on soundche
 
 Thomas Bianco, VNTX, Exgüsi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nx46/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nx46/)*

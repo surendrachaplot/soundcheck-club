@@ -1,14 +1,13 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Objekt is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
-Objekt is a techno and bass artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
+Objekt is a techno and bass artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 30 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 5 Sept 2026 | Sophie Festival | Malaga |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
@@ -19,6 +18,7 @@ Objekt is a techno and bass artist tracked on soundcheck, with 170 sets logged a
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -26,10 +26,9 @@ Objekt is a techno and bass artist tracked on soundcheck, with 170 sets logged a
 - C115, Berlin — Fri, 26 Jun 2026
 - Village Underground Barcelona, Barcelona — Thu, 18 Jun 2026
 - Tresor / Globus, Berlin — Fri, 5 Jun 2026
-- Jolene, Copenhagen — Sat, 30 May 2026
 
 ## Shares bills with
 
 CCL, DjRUM, Call Super
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

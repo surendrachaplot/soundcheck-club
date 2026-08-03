@@ -1,6 +1,6 @@
 # YJ(KOR)
 
-YJ(KOR) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at UNDERCITY, Seoul on Sat, 8 Aug 2026.
+YJ(KOR) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at UNDERCITY, Seoul on Sat, 8 Aug 2026.
 
 YJ(KOR) is a techno and hardcore artist based in South Korea, tracked on soundcheck, with 6 sets logged across Bangkok and Seoul. Often billed alongside lucii, ATISMIA and D.E.F. Next up: UNDERCITY, Seoul on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ YJ(KOR) is a techno and hardcore artist based in South Korea, tracked on soundch
 
 lucii, ATISMIA, D.E.F
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yjkor/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yjkor/)*

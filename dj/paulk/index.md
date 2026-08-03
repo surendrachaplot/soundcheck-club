@@ -1,6 +1,6 @@
 # Paul K
 
-Paul K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Paul K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Paul K is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Zurich. Often billed alongside Petre Inspirescu, Aline (CH) and Arapu. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Paul K is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Petre Inspirescu, Aline (CH), Arapu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulk/)*

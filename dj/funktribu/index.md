@@ -1,14 +1,13 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+Funk Tribu is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Boston Manor Park, London on Sun 2 Aug.
+Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Boston Manor Park | London |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Boucher Road Fields | Belfast |
 | Fri, 18 Sept 2026 | SWG3 | Glasgow |
@@ -20,6 +19,7 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets lo
 
 ## Recently played
 
+- Boston Manor Park, London — Sun, 2 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Elysia, Basel — Sat, 27 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
@@ -27,10 +27,9 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 166 sets lo
 - Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
 - The Prospect Building, Bristol — Sun, 3 May 2026
 - Meerpark, Amsterdam — Mon, 27 Apr 2026
-- Roel Langerakpark, Rotterdam — Mon, 27 Apr 2026
 
 ## Shares bills with
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

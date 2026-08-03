@@ -1,6 +1,6 @@
 # Yu Yang
 
-Yu Yang is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
+Yu Yang is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
 
 Yu Yang is a progressive house and house artist based in China, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Calder, D'Nice and Manta. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Yu Yang is a progressive house and house artist based in China, tracked on sound
 
 Calder, D'Nice, Manta
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuyang/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuyang/)*

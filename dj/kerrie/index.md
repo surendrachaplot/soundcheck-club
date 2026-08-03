@@ -1,6 +1,6 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Kerrie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
 Kerrie is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, Sunil Sharpe and DJ Bone. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kerrie is a techno and house artist tracked on soundcheck, with 123 sets logged 
 
 Mareena, Sunil Sharpe, DJ Bone
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

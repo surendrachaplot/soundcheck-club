@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Oosh Day Party Summer Edition" on Sat, 8 Aug 2026.
+Honey Street Studio is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Oosh Day Party Summer Edition" on Sat, 8 Aug 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Allius, Anop, Cersy and chlo333e and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -22,4 +22,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcom
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

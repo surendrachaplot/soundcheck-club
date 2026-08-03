@@ -1,6 +1,6 @@
 # A-Sides
 
-A-Sides is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
+A-Sides is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
 
 A-Sides is a drum & bass and jungle artist tracked on soundcheck, with 8 sets logged across Amsterdam, Brighton, Budapest and London. Often billed alongside Break, Grooverider and Kenny Ken. Next up: Ormside Projects, London on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ A-Sides is a drum & bass and jungle artist tracked on soundcheck, with 8 sets lo
 
 Break, Grooverider, Kenny Ken
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asides/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asides/)*

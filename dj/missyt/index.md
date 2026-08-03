@@ -1,6 +1,6 @@
 # Missy T
 
-Missy T is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Jago, London on Sun, 9 Aug 2026.
+Missy T is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Jago, London on Sun, 9 Aug 2026.
 
 Missy T is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Ovrtic, JuicySteamedHams and RacHell. Next up: The Jago, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Missy T is a garage and uk funky artist based in United Kingdom, tracked on soun
 
 Ovrtic, JuicySteamedHams, RacHell
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missyt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missyt/)*

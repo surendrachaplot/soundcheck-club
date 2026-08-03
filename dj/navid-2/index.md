@@ -1,6 +1,6 @@
 # Navid (2)
 
-Navid (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Golden Gate, Berlin on Fri, 14 Aug 2026.
+Navid (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Golden Gate, Berlin on Fri, 14 Aug 2026.
 
 Navid (2) is a house and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Olli Rubber, Buzé and CeeDeeGee. Next up: Golden Gate, Berlin on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Navid (2) is a house and tech house artist based in Germany, tracked on soundche
 
 Olli Rubber, Buzé, CeeDeeGee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navid-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navid-2/)*

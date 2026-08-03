@@ -1,6 +1,6 @@
 # xylon
 
-xylon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 宀 Club, Hong Kong on Sat, 8 Aug 2026.
+xylon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 宀 Club, Hong Kong on Sat, 8 Aug 2026.
 
 xylon is a techno and house artist based in China, tracked on soundcheck, with 29 sets logged across Hongkong and Shenzhen. Often billed alongside Faxtory, ADRIANNA.C and VSLORIA. Next up: 宀 Club, Hongkong on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ xylon is a techno and house artist based in China, tracked on soundcheck, with 2
 
 Faxtory, ADRIANNA.C, VSLORIA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*

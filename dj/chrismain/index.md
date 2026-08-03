@@ -1,6 +1,6 @@
 # Chris Main
 
-Chris Main is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 15 Aug 2026.
+Chris Main is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 15 Aug 2026.
 
 Chris Main is a house and disco artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside Jon Peña, DIROS and Alejo mata. Next up: BUS Hexperience, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chris Main is a house and disco artist based in Spain, tracked on soundcheck, wi
 
 Jon Peña, DIROS, Alejo mata
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismain/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismain/)*

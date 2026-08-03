@@ -1,6 +1,6 @@
 # Desiludildo
 
-Desiludildo is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
+Desiludildo is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
 
 Desiludildo is an electronic artist based in Portugal, tracked on soundcheck, with 12 sets logged across Glasgow and London. Often billed alongside AC (dot robot), Becky Stroke and Lewis G. Burton. Next up: Distillery N17, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Desiludildo is an electronic artist based in Portugal, tracked on soundcheck, wi
 
 AC (dot robot), Becky Stroke, Lewis G. Burton
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*

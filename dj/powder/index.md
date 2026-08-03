@@ -1,6 +1,6 @@
 # Powder
 
-Powder is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
+Powder is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
 
 Powder is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bangkok, Berlin and Boston and 21 more. Often billed alongside 5ive, KOOLMFL and Helena Hauff. Next up: The Cause, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Powder is a house and techno artist tracked on soundcheck, with 58 sets logged a
 
 5ive, KOOLMFL, Helena Hauff
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*

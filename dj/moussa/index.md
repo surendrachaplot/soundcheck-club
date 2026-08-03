@@ -1,6 +1,6 @@
 # Moussa
 
-Moussa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Moussa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Moussa is a house and techno artist based in France, tracked on soundcheck, with 4 sets logged across Nantes and Portland. Often billed alongside Combe, Aaron Davis and Andy Warren. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Moussa is a house and techno artist based in France, tracked on soundcheck, with
 
 Combe, Aaron Davis, Andy Warren
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moussa/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moussa/)*

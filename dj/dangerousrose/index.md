@@ -1,6 +1,6 @@
 # Dangerous Rose
 
-Dangerous Rose is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Nocturna, Ibiza on Wed, 5 Aug 2026.
+Dangerous Rose is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Nocturna, Ibiza on Wed, 5 Aug 2026.
 
 Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Ibiza, Losangeles and Newyorkcity. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Nocturna, Ibiza on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Dangerous Rose is a techno and house artist based in United States of America, t
 
 Makadsi, FASHION (US), Memphy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*

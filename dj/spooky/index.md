@@ -1,6 +1,6 @@
 # Spooky
 
-Spooky is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hidden, Manchester on Sat, 8 Aug 2026.
+Spooky is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hidden, Manchester on Sat, 8 Aug 2026.
 
 Spooky is a garage and grime artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Brighton, Bristol, Leeds and London and 4 more. Often billed alongside Braindead, N-Type and DEVZ. Next up: Hidden, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Spooky is a garage and grime artist based in United Kingdom, tracked on soundche
 
 Braindead, N-Type, DEVZ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spooky/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spooky/)*

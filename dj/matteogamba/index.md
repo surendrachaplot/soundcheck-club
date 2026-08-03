@@ -1,6 +1,6 @@
 # Matteo Gamba
 
-Matteo Gamba is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+Matteo Gamba is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 Matteo Gamba is a house and techno artist tracked on soundcheck, with 46 sets logged across Berlin. Often billed alongside Sciarada, Fabrizio Brancaccio and Aidan. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Matteo Gamba is a house and techno artist tracked on soundcheck, with 46 sets lo
 
 Sciarada, Fabrizio Brancaccio, Aidan
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteogamba/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteogamba/)*

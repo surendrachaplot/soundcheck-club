@@ -1,6 +1,6 @@
 # Lukson
 
-Lukson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 7833 Soundlab, Barcelona on Sat, 8 Aug 2026.
+Lukson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 7833 Soundlab, Barcelona on Sat, 8 Aug 2026.
 
 Lukson is a house and tech house artist based in Argentina, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Agus Martinez, Fer Canezza and nacho llerandi. Next up: 7833 Soundlab, Barcelona on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Lukson is a house and tech house artist based in Argentina, tracked on soundchec
 
 Agus Martinez, Fer Canezza, nacho llerandi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukson/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukson/)*

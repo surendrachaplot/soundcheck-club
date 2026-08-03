@@ -1,6 +1,6 @@
 # Corrado
 
-Corrado is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Corrado is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Corrado is an electronic artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam and Zurich. Often billed alongside BRAINDAAMAGE, Bondi (DE) and CLTX. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -18,4 +18,4 @@ Corrado is an electronic artist based in Italy, tracked on soundcheck, with 2 se
 
 BRAINDAAMAGE, Bondi (DE), CLTX
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corrado/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corrado/)*

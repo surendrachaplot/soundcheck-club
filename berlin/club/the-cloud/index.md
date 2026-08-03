@@ -1,6 +1,6 @@
 # The Cloud
 
-The Cloud is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "WE RAVE - After The Parade" on Sat, 15 Aug 2026.
+The Cloud is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "WE RAVE - After The Parade" on Sat, 15 Aug 2026.
 
 The Cloud is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Epicx. Browse upcoming dates, start times and who's playing. Alexanderstraße 7 / 10178 Berlin.
 
@@ -14,4 +14,4 @@ The Cloud is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Alexanderstraße 7 / 10178 Berlin, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*

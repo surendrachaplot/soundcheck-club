@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Tipcap presents Showcase: Live & DJs - Math Rock Night " on Thu, 6 Aug 2026.
+Movers is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Tipcap presents Showcase: Live & DJs - Math Rock Night " on Thu, 6 Aug 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jonna and 1 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

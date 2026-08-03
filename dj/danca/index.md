@@ -1,6 +1,6 @@
 # Danca
 
-Danca is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 7 Aug 2026.
+Danca is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 7 Aug 2026.
 
 Danca is a techno and tech house artist tracked on soundcheck, with 41 sets logged across Berlin, Frankfurt, Hamburg and Losangeles and 4 more. Often billed alongside Einmusik, Dominik Eulberg and 9LALEY. Next up: Bahnwärter Thiel, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Danca is a techno and tech house artist tracked on soundcheck, with 41 sets logg
 
 Einmusik, Dominik Eulberg, 9LALEY
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*

@@ -1,6 +1,6 @@
 # Justin Drake
 
-Justin Drake is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gloves Off, London on Sat, 15 Aug 2026.
+Justin Drake is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gloves Off, London on Sat, 15 Aug 2026.
 
 Justin Drake is a disco and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside RAW SILK. Next up: Gloves Off, London on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Justin Drake is a disco and house artist based in United Kingdom, tracked on sou
 
 RAW SILK
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justindrake/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justindrake/)*

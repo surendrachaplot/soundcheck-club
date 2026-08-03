@@ -1,6 +1,6 @@
 # Sandar Sánchez
 
-Sandar Sánchez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Flux, Istanbul on Fri, 7 Aug 2026.
+Sandar Sánchez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Flux, Istanbul on Fri, 7 Aug 2026.
 
 Sandar Sánchez is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Budapest, Frankfurt and Hamburg and 5 more. Often billed alongside Alay, BOHO and Bonnie Ford. Next up: Flux, Istanbul on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Sandar Sánchez is a techno and house artist based in Germany, tracked on soundc
 
 Alay, BOHO, Bonnie Ford
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*

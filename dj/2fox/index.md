@@ -1,6 +1,6 @@
 # 2fox
 
-2fox is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+2fox is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 2fox is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Lisbon and London. Often billed alongside Bel Cobain, ZENA and Abel (FR). Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@
 
 Bel Cobain, ZENA, Abel (FR)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2fox/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2fox/)*

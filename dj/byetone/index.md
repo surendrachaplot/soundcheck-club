@@ -1,6 +1,6 @@
 # Byetone
 
-Byetone is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Byetone is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Byetone is a techno and experimental artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Cryptofauna, ENNIO and Ellen Allien. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Byetone is a techno and experimental artist based in Germany, tracked on soundch
 
 Cryptofauna, ENNIO, Ellen Allien
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byetone/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byetone/)*

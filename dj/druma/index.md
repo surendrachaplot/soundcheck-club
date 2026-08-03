@@ -1,6 +1,6 @@
 # DRUMA
 
-DRUMA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 6 Aug 2026.
+DRUMA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 6 Aug 2026.
 
 DRUMA is a house and disco artist tracked on soundcheck, with 41 sets logged across Edinburgh and Glasgow. Often billed alongside Shaneo, Burna UK and Hobbes. Next up: La Cheetah Club, Glasgow on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ DRUMA is a house and disco artist tracked on soundcheck, with 41 sets logged acr
 
 Shaneo, Burna UK, Hobbes
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/druma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/druma/)*

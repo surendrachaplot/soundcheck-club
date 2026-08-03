@@ -1,6 +1,6 @@
 # Factory Setup
 
-Factory Setup is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
+Factory Setup is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fünk, Mexico City on Fri, 14 Aug 2026.
 
 Factory Setup is a house and techno artist based in Mexico, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Madrid and Mexicocity. Often billed alongside Rafatel, Soos and AGSULO. Next up: Fünk, Mexicocity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Factory Setup is a house and techno artist based in Mexico, tracked on soundchec
 
 Rafatel, Soos, AGSULO
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/factorysetup/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/factorysetup/)*

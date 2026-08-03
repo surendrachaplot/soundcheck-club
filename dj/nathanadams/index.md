@@ -1,6 +1,6 @@
 # Nathan Adams
 
-Nathan Adams is a Pop and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Theata, London on Sat, 29 Aug 2026.
+Nathan Adams is a Pop and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Theata, London on Sat, 29 Aug 2026.
 
 Nathan Adams is a pop and r&b artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside BADBOX, European 305 and Leeda. Next up: Theata, London on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Nathan Adams is a pop and r&b artist tracked on soundcheck, with 6 sets logged a
 
 BADBOX, European 305, Leeda
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanadams/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanadams/)*

@@ -1,6 +1,6 @@
 # Jay Fase
 
-Jay Fase is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
+Jay Fase is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
 
 Jay Fase is a house and tech house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Geneva, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Kintar, Kyle Linco and Panyer. Next up: Hive Club, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Jay Fase is a house and tech house artist based in Switzerland, tracked on sound
 
 Kintar, Kyle Linco, Panyer
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*

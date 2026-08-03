@@ -1,6 +1,6 @@
 # Lekkerfaces
 
-Lekkerfaces is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Warehouse, Nantes on Fri, 4 Sept 2026.
+Lekkerfaces is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Warehouse, Nantes on Fri, 4 Sept 2026.
 
 Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 17 sets logged across Antwerp, Cologne, Frankfurt and Glasgow and 3 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Warehouse, Nantes on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundchec
 
 Pinotello, The Dark Horror, Noxiouz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*

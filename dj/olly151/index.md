@@ -1,6 +1,6 @@
 # Olly151
 
-Olly151 is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
+Olly151 is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
 
 Olly151 is a house and club artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Finn, Sakers and Shadeda. Next up: Botanical Gin Garden, Liverpool on Sun 30 Aug.
 
@@ -14,4 +14,4 @@ Olly151 is a house and club artist based in United Kingdom, tracked on soundchec
 
 Finn, Sakers, Shadeda
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olly151/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olly151/)*

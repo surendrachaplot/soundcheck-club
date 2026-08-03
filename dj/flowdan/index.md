@@ -1,6 +1,6 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+Flowdan is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
 
 Flowdan is a bass and garage artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Odaiba, Tokyo on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Flowdan is a bass and garage artist tracked on soundcheck, with 106 sets logged 
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

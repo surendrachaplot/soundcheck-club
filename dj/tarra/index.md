@@ -1,6 +1,6 @@
 # Tarra
 
-Tarra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Tarra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Tarra is a house and techno artist based in Ukraine, tracked on soundcheck, with 6 sets logged across Amsterdam, Ghent and Rotterdam. Often billed alongside Serge, Auua. and Cool Tiger. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Tarra is a house and techno artist based in Ukraine, tracked on soundcheck, with
 
 Serge, Auua., Cool Tiger
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarra/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarra/)*

@@ -1,6 +1,6 @@
 # Sonic Rain
 
-Sonic Rain is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 7 Aug 2026.
+Sonic Rain is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 7 Aug 2026.
 
 Sonic Rain is a techno and house artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Berlin, Budapest, Krakow and Malta and 1 more. Often billed alongside Daniel Moritz, Meduzah and Svetec. Next up: Aether Club Budapest, Budapest on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Sonic Rain is a techno and house artist based in United Kingdom, tracked on soun
 
 Daniel Moritz, Meduzah, Svetec
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicrain/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicrain/)*

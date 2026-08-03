@@ -1,6 +1,6 @@
 # Thierry
 
-Thierry is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, London on Mon, 31 Aug 2026.
+Thierry is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, London on Mon, 31 Aug 2026.
 
 Thierry is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside caLLy, Audio Werner and Chrissy Hope. Next up: TBA, London on Mon 31 Aug.
 
@@ -21,4 +21,4 @@ Thierry is a house and minimal artist based in United Kingdom, tracked on soundc
 
 caLLy, Audio Werner, Chrissy Hope
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thierry/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thierry/)*

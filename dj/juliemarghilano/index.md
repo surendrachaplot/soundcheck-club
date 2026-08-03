@@ -1,6 +1,6 @@
 # Julie Marghilano
 
-Julie Marghilano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
+Julie Marghilano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
 
 Julie Marghilano is a house and techno artist based in Germany, tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 10 more. Often billed alongside Corrina, Alexkid and Johannes Albert. Next up: Club der Visionaere, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Julie Marghilano is a house and techno artist based in Germany, tracked on sound
 
 Corrina, Alexkid, Johannes Albert
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*

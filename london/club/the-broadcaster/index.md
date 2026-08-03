@@ -1,6 +1,6 @@
 # The Broadcaster
 
-The Broadcaster is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Harrison" on Thu, 6 Aug 2026.
+The Broadcaster is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Harrison" on Thu, 6 Aug 2026.
 
 The Broadcaster is a music venue in London listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 89 Wood Ln, London W12 7FX.
 
@@ -19,4 +19,4 @@ The Broadcaster is a music venue in London listed on soundcheck. 6 upcoming nigh
 
 89 Wood Ln, London W12 7FX, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-broadcaster/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-broadcaster/)*

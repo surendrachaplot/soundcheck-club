@@ -1,6 +1,6 @@
 # Ku$h
 
-Ku$h is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Vespers Club, London on Tue, 18 Aug 2026.
+Ku$h is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Vespers Club, London on Tue, 18 Aug 2026.
 
 Ku$h is a house and hip-hop artist based in Peru, tracked on soundcheck, with 19 sets logged across Barcelona, Lisbon, London and Madrid. Often billed alongside Bruno (ES), Marco Spalletta and Alex Dima. Next up: Vespers Club, London on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Ku$h is a house and hip-hop artist based in Peru, tracked on soundcheck, with 19
 
 Bruno (ES), Marco Spalletta, Alex Dima
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuh/)*

@@ -1,6 +1,6 @@
 # Sonico
 
-Sonico is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
+Sonico is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
 
 Sonico is a techno and electronica artist based in Colombia, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Aleja Vargas, BELCEBÚ and DEMEN-TEK. Next up: Bredouille, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sonico is a techno and electronica artist based in Colombia, tracked on soundche
 
 Aleja Vargas, BELCEBÚ, DEMEN-TEK
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonico/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonico/)*

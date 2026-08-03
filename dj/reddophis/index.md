@@ -1,6 +1,6 @@
 # Redd Ophis
 
-Redd Ophis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
+Redd Ophis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
 
 Redd Ophis is a techno and industrial artist tracked on soundcheck, with 21 sets logged across Brighton, Bucharest, Dublin and London and 1 more. Often billed alongside Claus Fuss, Giselle Guedes and Pre Silent. Next up: Dalston Den, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Redd Ophis is a techno and industrial artist tracked on soundcheck, with 21 sets
 
 Claus Fuss, Giselle Guedes, Pre Silent
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reddophis/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reddophis/)*

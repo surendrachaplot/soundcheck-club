@@ -1,6 +1,6 @@
 # Sikh Knowledge
 
-Sikh Knowledge is a Experimental and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
+Sikh Knowledge is a Experimental and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 15 Aug 2026.
 
 Sikh Knowledge is an experimental and jungle artist based in Canada, tracked on soundcheck, with 5 sets logged across Newyorkcity and Toronto. Often billed alongside DJ Habibeats, Dargan and Dos Flakos. Next up: Geary Avenue Warehouse Project, Toronto on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Sikh Knowledge is an experimental and jungle artist based in Canada, tracked on 
 
 DJ Habibeats, Dargan, Dos Flakos
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikhknowledge/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikhknowledge/)*

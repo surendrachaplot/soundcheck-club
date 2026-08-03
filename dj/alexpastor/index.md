@@ -1,6 +1,6 @@
 # Alex Pastor
 
-Alex Pastor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 5 Sept 2026.
+Alex Pastor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 5 Sept 2026.
 
 Alex Pastor is a house and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Amsterdam, Boston, Chicago and Denver and 8 more. Often billed alongside Kev Gee, John Patrick and Connor Mikami. Next up: Waterhouse Studios, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Alex Pastor is a house and techno artist based in United States of America, trac
 
 Kev Gee, John Patrick, Connor Mikami
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*

@@ -1,6 +1,6 @@
 # Zelyna je Belle
 
-Zelyna je Belle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Zelyna je Belle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Zelyna je Belle is a techno and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside G4F4RØU, Jaamann and MAURER. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Zelyna je Belle is a techno and trance artist based in Germany, tracked on sound
 
 G4F4RØU, Jaamann, MAURER
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zelynajebelle/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zelynajebelle/)*

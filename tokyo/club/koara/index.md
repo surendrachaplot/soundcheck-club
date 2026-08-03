@@ -1,6 +1,6 @@
 # Koara
 
-Koara is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Emergency Exit" on Sun, 9 Aug 2026.
+Koara is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Emergency Exit" on Sun, 9 Aug 2026.
 
 Koara is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including eurlica, Lvca and PUCCI (2). Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -15,4 +15,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with li
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

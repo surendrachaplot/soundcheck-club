@@ -1,14 +1,13 @@
 # Danielle
 
-Danielle is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Else, Berlin on Sun, 2 Aug 2026.
+Danielle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 5 Aug 2026.
 
-Danielle is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Else, Berlin on Sun 2 Aug.
+Danielle is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Do Not Sit On The Furniture, Miami on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Else | Berlin |
 | Wed, 5 Aug 2026 | Do Not Sit On The Furniture | Miami |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
@@ -17,6 +16,7 @@ Danielle is a techno and house artist tracked on soundcheck, with 139 sets logge
 
 ## Recently played
 
+- Else, Berlin — Sun, 2 Aug 2026
 - Radio Radio, Amsterdam — Fri, 24 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
@@ -24,10 +24,9 @@ Danielle is a techno and house artist tracked on soundcheck, with 139 sets logge
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 30 May 2026
-- Strange Brew, Bristol — Sun, 24 May 2026
 
 ## Shares bills with
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

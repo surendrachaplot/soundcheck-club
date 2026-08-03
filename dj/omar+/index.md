@@ -1,19 +1,19 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Sun, 2 Aug 2026.
+Omar+ is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Losangeles on Sun 2 Aug.
+Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033 | Los Angeles |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Sun, 2 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - [UNVRS], Ibiza — Wed, 29 Jul 2026
 - Art Club, Houston — Fri, 24 Jul 2026
@@ -21,10 +21,9 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logge
 - Tiger Yard, Cardiff — Sat, 11 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
 - Joshua Brooks, Manchester — Sun, 21 Jun 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Obskur, Joss Dean, Prospa
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

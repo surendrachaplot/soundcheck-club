@@ -1,6 +1,6 @@
 # elle xxo
 
-elle xxo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
+elle xxo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
 
 elle xxo is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Newyorkcity. Often billed alongside Crush Club, Aleska and Cowgrrrl. Next up: The Sultan Room, Newyorkcity on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ elle xxo is a techno and house artist based in United States of America, tracked
 
 Crush Club, Aleska, Cowgrrrl
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*

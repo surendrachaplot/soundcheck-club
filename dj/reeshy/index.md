@@ -1,14 +1,13 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
+Reeshy is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
 
-Reeshy is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Mella Dee. Next up: 528 Ibiza, Ibiza on Sun 2 Aug.
+Reeshy is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Mella Dee. Next up: Palmerstown House Estate, Dublin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Palmerstown House Estate | Dublin |
 | Sat, 8 Aug 2026 | block. | Dublin |
 | Sun, 9 Aug 2026 | Burgess Park | London |
@@ -22,6 +21,7 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 105 sets log
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sun, 2 Aug 2026
 - Gallery, London — Thu, 2 Jul 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Colorado Charlie, The Hague — Sun, 7 Jun 2026
@@ -29,10 +29,9 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 105 sets log
 - The Cause, London — Sat, 30 May 2026
 - Distrikt, Leeds — Sun, 24 May 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
-- Under The Arches, Leeds — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Laidlaw, Mella Dee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

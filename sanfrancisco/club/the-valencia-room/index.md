@@ -1,6 +1,6 @@
 # The Valencia Room
 
-The Valencia Room is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "So House Your Evening So Far" on Mon, 3 Aug 2026.
+The Valencia Room is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "So House Your Evening So Far" on Mon, 3 Aug 2026.
 
 The Valencia Room is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 647 Valencia Street San Francisco, California 94110.
 
@@ -14,4 +14,4 @@ The Valencia Room is a music venue in Sanfrancisco listed on soundcheck. 1 upcom
 
 647 Valencia Street San Francisco, California 94110, San Francisco/Oakland
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-valencia-room/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-valencia-room/)*

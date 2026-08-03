@@ -1,6 +1,6 @@
 # Ricci
 
-Ricci is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
+Ricci is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
 
 Ricci is a techno and trance artist based in Australia, tracked on soundcheck, with 8 sets logged across Hobart, Lisbon, Melbourne and Newyorkcity. Often billed alongside Nat Salih, Aarti Jadu and Anuraag. Next up: Quinta do Miratejo, Lisbon on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Ricci is a techno and trance artist based in Australia, tracked on soundcheck, w
 
 Nat Salih, Aarti Jadu, Anuraag
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricci/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricci/)*

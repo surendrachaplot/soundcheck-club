@@ -1,6 +1,6 @@
 # Shoal
 
-Shoal is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Shoal is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
 Shoal is a techno and electro artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Vand, Laura BCR and Spekki Webu. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Shoal is a techno and electro artist tracked on soundcheck, with 54 sets logged 
 
 Vand, Laura BCR, Spekki Webu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*

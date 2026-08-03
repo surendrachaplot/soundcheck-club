@@ -1,6 +1,6 @@
 # Amulador
 
-Amulador is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 6 Aug 2026.
+Amulador is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 6 Aug 2026.
 
 Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Les Enfants Brillants, Barcelona on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets
 
 Andre Cascais, Maria Callapez, Tiago Fragateiro
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*

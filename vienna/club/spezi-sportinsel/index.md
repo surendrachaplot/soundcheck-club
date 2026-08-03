@@ -1,6 +1,6 @@
 # Spezi Sportinsel
 
-Spezi Sportinsel is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Travmkinder Vol.1" on Sat, 8 Aug 2026.
+Spezi Sportinsel is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Travmkinder Vol.1" on Sat, 8 Aug 2026.
 
 Spezi Sportinsel is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Alk Torres, DANBERG and Travmkind. Browse upcoming dates, start times and who's playing. Sportinsel 1210.
 
@@ -14,4 +14,4 @@ Spezi Sportinsel is a music venue in Vienna listed on soundcheck. 1 upcoming nig
 
 Sportinsel 1210, Vienna
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/spezi-sportinsel/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/spezi-sportinsel/)*

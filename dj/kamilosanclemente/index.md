@@ -1,6 +1,6 @@
 # Kamilo Sanclemente
 
-Kamilo Sanclemente is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Kamilo Sanclemente is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Kamilo Sanclemente is a progressive house and deep house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 12 more. Often billed alongside Antrim, Emi Galvan and Guy Mantzur. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kamilo Sanclemente is a progressive house and deep house artist tracked on sound
 
 Antrim, Emi Galvan, Guy Mantzur
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*

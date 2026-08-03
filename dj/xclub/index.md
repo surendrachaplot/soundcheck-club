@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Substation, Seattle on Sat, 8 Aug 2026.
+X CLUB. is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Substation, Seattle on Sat, 8 Aug 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 213 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Substation, Seattle on Sat 8 Aug.
 
@@ -33,4 +33,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 213 sets logged
 
 KETTAMA, VTSS, DJ Heartstring
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

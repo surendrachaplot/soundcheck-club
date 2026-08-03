@@ -1,6 +1,6 @@
 # Tyke
 
-Tyke is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
+Tyke is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
 
 Tyke is a drum & bass and jungle artist tracked on soundcheck, with 14 sets logged across Athens, Bangkok, Brighton and Hamburg and 2 more. Often billed alongside DJ Hype, DJ Hazard and Taxman. Next up: Phonox, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Tyke is a drum & bass and jungle artist tracked on soundcheck, with 14 sets logg
 
 DJ Hype, DJ Hazard, Taxman
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyke/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyke/)*

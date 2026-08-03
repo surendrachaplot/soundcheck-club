@@ -1,6 +1,6 @@
 # Clocky Chulo
 
-Clocky Chulo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
+Clocky Chulo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
 
 Clocky Chulo is a house and disco artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside DJ ing, To The End. and Brant Wolff. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Clocky Chulo is a house and disco artist based in United States of America, trac
 
 DJ ing, To The End., Brant Wolff
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clockychulo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clockychulo/)*

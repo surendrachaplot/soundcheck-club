@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 BASHKKA is a techno and house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and ISAbella. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 296 sets logged
 
 Sedef Adasï, Gabrielle Kwarteng, ISAbella
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

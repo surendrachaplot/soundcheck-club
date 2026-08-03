@@ -1,6 +1,6 @@
 # Pei
 
-Pei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
+Pei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
 
 Pei is a techno and house artist based in China, tracked on soundcheck, with 10 sets logged across Bangkok, Berlin, Osaka and Shenzhen and 1 more. Often billed alongside YOSHI KANOU, AiMii and NADOKA. Next up: TBA - Berlin - Secret Location - Neukölln, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Pei is a techno and house artist based in China, tracked on soundcheck, with 10 
 
 YOSHI KANOU, AiMii, NADOKA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*

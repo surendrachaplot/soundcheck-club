@@ -1,6 +1,6 @@
 # Nanna Makina
 
-Nanna Makina is a Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Saint Judes, Glasgow on Sat, 5 Sept 2026.
+Nanna Makina is a Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Saint Judes, Glasgow on Sat, 5 Sept 2026.
 
 Nanna Makina is a trance artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Lugzy. Next up: Saint Judes, Glasgow on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ Nanna Makina is a trance artist based in United Kingdom, tracked on soundcheck, 
 
 Lugzy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*

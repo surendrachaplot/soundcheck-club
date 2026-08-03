@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 16 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT)" on Sun, 2 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 15 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Prunk ALL DAY" on Fri, 7 Aug 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 16 upcoming nights, with line-ups including 22 Interns, AAT (NL), Benny Rodrigues and Boris Coelman and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 15 upcoming nights, with line-ups including 22 Interns, AAT (NL), Benny Rodrigues and Boris Coelman and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT) | East End Dubs |
 | Fri, 7 Aug 2026 | Prunk ALL DAY | Prunk |
 | Sat, 8 Aug 2026 | Colorado Charlie with Marsolo (All Day Long) (SOLD OUT) | Marsolo |
 | Sun, 9 Aug 2026 | Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT) | Benny Rodrigues, Dennis Quin, Mees Mattern, Michel de Hey |
@@ -18,9 +17,10 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 16 upcoming 
 | Sat, 22 Aug 2026 | Colorado Charlie with Jan Blomqvist, Helsloot, Sinca | Helsloot, Jan Blomqvist, Sinca |
 | Sun, 23 Aug 2026 | Colorado Charlie with Luke Dean B2B Locky (3hrs), Lauren Lo Sung, DAF (SOLD OUT) | Lauren Lo Sung, Locky, Luke Dean_ |
 | Fri, 28 Aug 2026 | PIV AT THE BEACH | AAT (NL), Prunk, Robbie Doherty |
+| Sat, 29 Aug 2026 | Distant Beach with Mees Salomé & Friends | Mees Salomé |
 
 ## Address
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

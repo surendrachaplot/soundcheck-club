@@ -1,6 +1,6 @@
 # Eva Nyx
 
-Eva Nyx is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Baalsaal, Hamburg on Fri, 14 Aug 2026.
+Eva Nyx is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Baalsaal, Hamburg on Fri, 14 Aug 2026.
 
 Eva Nyx is a techno and tech house artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Hamburg. Often billed alongside Beat Konsum, Zulu and AH-N!CE. Next up: Baalsaal, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Eva Nyx is a techno and tech house artist based in Germany, tracked on soundchec
 
 Beat Konsum, Zulu, AH-N!CE
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanyx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanyx/)*

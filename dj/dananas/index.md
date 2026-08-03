@@ -1,6 +1,6 @@
 # dananas
 
-dananas is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Underground SF, San Francisco/Oakland on Fri, 7 Aug 2026.
+dananas is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Underground SF, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 dananas is a house and garage artist tracked on soundcheck, with 12 sets logged across Losangeles and Sanfrancisco. Often billed alongside Kaytree, Del G Audio and Fygma. Next up: Underground SF, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ dananas is a house and garage artist tracked on soundcheck, with 12 sets logged 
 
 Kaytree, Del G Audio, Fygma
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dananas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dananas/)*

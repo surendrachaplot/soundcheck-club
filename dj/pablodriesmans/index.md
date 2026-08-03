@@ -1,6 +1,6 @@
 # Pablo Driesmans
 
-Pablo Driesmans is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
+Pablo Driesmans is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
 
 Pablo Driesmans is a house and breakbeat artist based in Belgium, tracked on soundcheck, with 7 sets logged across Brussels and Ghent. Often billed alongside Boudewijn Ericx, Gurl and Ben Kamal. Next up: Buda BXL, Brussels on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Pablo Driesmans is a house and breakbeat artist based in Belgium, tracked on sou
 
 Boudewijn Ericx, Gurl, Ben Kamal
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablodriesmans/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablodriesmans/)*

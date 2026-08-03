@@ -1,6 +1,6 @@
 # VITO (UK)
 
-VITO (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Maya Beach Experience, Naples on Sat, 8 Aug 2026.
+VITO (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Maya Beach Experience, Naples on Sat, 8 Aug 2026.
 
 VITO (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Boston and Bucharest and 12 more. Often billed alongside AJ Christou, Burdi and Harvy Valencia. Next up: Maya Beach Experience, Naples on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ VITO (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 AJ Christou, Burdi, Harvy Valencia
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

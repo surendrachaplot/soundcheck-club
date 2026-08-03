@@ -1,6 +1,6 @@
 # J.WOCKENFUSS
 
-J.WOCKENFUSS is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+J.WOCKENFUSS is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 J.WOCKENFUSS is a downtempo and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Maria Theresia von Eberg, Danilo Kupfernagel and Kalipo. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ J.WOCKENFUSS is a downtempo and techno artist based in Germany, tracked on sound
 
 Maria Theresia von Eberg, Danilo Kupfernagel, Kalipo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wockenfuss/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wockenfuss/)*

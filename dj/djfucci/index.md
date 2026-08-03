@@ -1,6 +1,6 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 15 Aug 2026.
+Dj Fucci is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 15 Aug 2026.
 
 Dj Fucci is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 11 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: YuYu Cine Club, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dj Fucci is a techno and house artist tracked on soundcheck, with 106 sets logge
 
 sadgal, Enya Botello, Octoptic
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*

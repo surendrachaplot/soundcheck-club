@@ -1,6 +1,6 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+Victor (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

@@ -1,6 +1,6 @@
 # Het Dorp
 
-Het Dorp is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "ADE Naturalis festival Preview" on Thu, 22 Oct 2026.
+Het Dorp is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "ADE Naturalis festival Preview" on Thu, 22 Oct 2026.
 
 Het Dorp is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Noordwal 1, 1021 PX Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. B
 
 Noordwal 1, 1021 PX Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*

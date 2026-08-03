@@ -1,6 +1,6 @@
 # Vera Moro
 
-Vera Moro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Virage, Paris on Fri, 7 Aug 2026.
+Vera Moro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Virage, Paris on Fri, 7 Aug 2026.
 
 Vera Moro is a techno and trance artist based in Belgium, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside NMSS, Stanislawa and Ricky Corazón. Next up: Virage, Paris on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Vera Moro is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 NMSS, Stanislawa, Ricky Corazón
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veramoro/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veramoro/)*

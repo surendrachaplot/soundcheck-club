@@ -1,6 +1,6 @@
 # Jan Weber
 
-Jan Weber is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 9 Aug 2026.
+Jan Weber is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 9 Aug 2026.
 
 Jan Weber is a dub techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside BUTZ, JANE (DE) and L-AUX. Next up: Lokschuppen Berlin, Berlin on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Jan Weber is a dub techno and house artist based in Germany, tracked on soundche
 
 BUTZ, JANE (DE), L-AUX
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janweber/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janweber/)*

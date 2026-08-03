@@ -1,6 +1,6 @@
 # MASSAGIO
 
-MASSAGIO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
+MASSAGIO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
 
 MASSAGIO is a trance and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside ENERGY TAPE, DJ Yugo and Krash Cora. Next up: Bahnwärter Thiel, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MASSAGIO is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ENERGY TAPE, DJ Yugo, Krash Cora
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massagio/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massagio/)*

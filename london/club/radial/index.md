@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "ODYSSEY:CLUB X VO!D D!SCO" on Fri, 7 Aug 2026.
+radial is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "ODYSSEY:CLUB X VO!D D!SCO" on Fri, 7 Aug 2026.
 
 radial is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Brother of Set, Claudia Kane, Coinín Beag and Danny Goliger and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -22,4 +22,4 @@ radial is a music venue in London listed on soundcheck. 9 upcoming nights, with 
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

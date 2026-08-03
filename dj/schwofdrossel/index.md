@@ -1,6 +1,6 @@
 # Schwofdrossel
 
-Schwofdrossel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lieberscholli, Munich on Sun, 6 Sept 2026.
+Schwofdrossel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lieberscholli, Munich on Sun, 6 Sept 2026.
 
 Schwofdrossel is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside Anders HP, Baime and Bomchello. Next up: Lieberscholli, Munich on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Schwofdrossel is a techno and house artist based in Germany, tracked on soundche
 
 Anders HP, Baime, Bomchello
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwofdrossel/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwofdrossel/)*

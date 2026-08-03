@@ -1,6 +1,6 @@
 # agraybé
 
-agraybé is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, San Diego on Sat, 15 Aug 2026.
+agraybé is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, San Diego on Sat, 15 Aug 2026.
 
 agraybé is a house and deep house artist based in United States of America, tracked on soundcheck, with 82 sets logged across Chicago, Detroit, Losangeles and Sandiego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: TBA, Sandiego on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ agraybé is a house and deep house artist based in United States of America, tra
 
 Akumen, Andy Oro, No Pressure
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agraybe/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agraybe/)*

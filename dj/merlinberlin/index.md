@@ -1,6 +1,6 @@
 # MerlinBerlin
 
-MerlinBerlin is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Fabrica, Washington DC on Fri, 7 Aug 2026.
+MerlinBerlin is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Fabrica, Washington DC on Fri, 7 Aug 2026.
 
 MerlinBerlin is a techno and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside B_X_R_N_X_R_D, Blvksite and Chris Nitti. Next up: La Fabrica, Washingtondc on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ MerlinBerlin is a techno and tech house artist based in United States of America
 
 B_X_R_N_X_R_D, Blvksite, Chris Nitti
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinberlin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinberlin/)*

@@ -1,6 +1,6 @@
 # Princess Dimebag
 
-Princess Dimebag is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Honey's at Star Love, Los Angeles on Sat, 8 Aug 2026.
+Princess Dimebag is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honey's at Star Love, Los Angeles on Sat, 8 Aug 2026.
 
 Princess Dimebag is a house and club artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles and Portland. Often billed alongside BROWNSKINHAZEL, Blake the Reject and Brown Amy. Next up: Honey's at Star Love, Losangeles on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Princess Dimebag is a house and club artist based in United States of America, t
 
 BROWNSKINHAZEL, Blake the Reject, Brown Amy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princessdimebag/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princessdimebag/)*

@@ -1,6 +1,6 @@
 # Lenny Mailleau
 
-Lenny Mailleau is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Lenny Mailleau is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Lenny Mailleau is an electronic artist tracked on soundcheck, with 32 sets logged across Berlin and Newyorkcity. Often billed alongside Cez (1), Hubble and Cesar Merveille. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lenny Mailleau is an electronic artist tracked on soundcheck, with 32 sets logge
 
 Cez (1), Hubble, Cesar Merveille
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennymailleau/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennymailleau/)*

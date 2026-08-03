@@ -1,14 +1,13 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Bear Necessity T-Dance" on Sun, 2 Aug 2026.
+Panama is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Backdoor x We Party – World Pride" on Fri, 7 Aug 2026.
 
-Panama is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including FHNX. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
+Panama is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including FHNX. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Bear Necessity T-Dance |  |
 | Fri, 7 Aug 2026 | Backdoor x We Party – World Pride |  |
 | Sat, 8 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave w/ TOMAGAN [AT] / ØLCZYK / BRIZZIA   |  |
 | Sat, 15 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave w/ WON / FHNX / GO-BLIN  | FHNX |
@@ -19,4 +18,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, wi
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

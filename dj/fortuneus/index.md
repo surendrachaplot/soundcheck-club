@@ -1,6 +1,6 @@
 # Fortune (US)
 
-Fortune (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
+Fortune (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
 
 Fortune (US) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Chicago and Detroit. Often billed alongside Jaggy, Andrew Emil and Bai-ee. Next up: TBA - Secret Location, Chicago on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fortune (US) is a house and techno artist based in United Kingdom, tracked on so
 
 Jaggy, Andrew Emil, Bai-ee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortuneus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortuneus/)*

@@ -1,6 +1,6 @@
 # Ana De Llor
 
-Ana De Llor is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Daltons Brighton, Brighton on Sun, 23 Aug 2026.
+Ana De Llor is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Daltons Brighton, Brighton on Sun, 23 Aug 2026.
 
 Ana De Llor is a trance and techno artist based in Portugal, tracked on soundcheck, with 1 set logged across Brighton. Often billed alongside Arrosa, Yiota and skywalka. Next up: Daltons Brighton, Brighton on Sun 23 Aug.
 
@@ -14,4 +14,4 @@ Ana De Llor is a trance and techno artist based in Portugal, tracked on soundche
 
 Arrosa, Yiota, skywalka
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anadellor/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anadellor/)*

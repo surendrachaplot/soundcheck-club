@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Tartelet Records presents: Wille - Progressive Balearic EP release" on Fri, 7 Aug 2026.
+Jolene is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Tartelet Records presents: Wille - Progressive Balearic EP release" on Fri, 7 Aug 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Baltza, Daniel Savi, Entree and Cockwhore & Macho and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -15,4 +15,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

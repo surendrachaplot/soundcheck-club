@@ -1,6 +1,6 @@
 # Eliel Capa
 
-Eliel Capa is a Techno and Guaracha artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Eliel Capa is a Techno and Guaracha artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Eliel Capa is a techno and guaracha artist based in Mexico, tracked on soundcheck, with 95 sets logged across Berlin, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside Enya Botello, Pablo Lara and Diego Walle. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Eliel Capa is a techno and guaracha artist based in Mexico, tracked on soundchec
 
 Enya Botello, Pablo Lara, Diego Walle
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*

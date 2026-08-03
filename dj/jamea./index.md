@@ -1,13 +1,14 @@
 # jamea.
 
-jamea. is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Whistler, Chicago on Fri, 7 Aug 2026.
+jamea. is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Spkrbox, Detroit on Thu, 6 Aug 2026.
 
-jamea. is a techno and club artist tracked on soundcheck, with 42 sets logged across Chicago, Detroit, Nashville and Newyorkcity. Often billed alongside we1sman, Ember LaFiamma and Wax Assassin. Next up: Whistler, Chicago on Fri 7 Aug.
+jamea. is a techno and club artist tracked on soundcheck, with 43 sets logged across Chicago, Detroit, Nashville and Newyorkcity. Often billed alongside we1sman, Ember LaFiamma and Wax Assassin. Next up: Spkrbox, Detroit on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Spkrbox | Detroit |
 | Fri, 7 Aug 2026 | Whistler | Chicago |
 | Sat, 8 Aug 2026 | Northern Lights Lounge | Detroit |
 | Fri, 14 Aug 2026 | Tangent Gallery | Detroit |
@@ -27,4 +28,4 @@ jamea. is a techno and club artist tracked on soundcheck, with 42 sets logged ac
 
 we1sman, Ember LaFiamma, Wax Assassin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

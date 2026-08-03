@@ -1,6 +1,6 @@
 # Mod.1
 
-Mod.1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gare Porto, Porto on Sat, 8 Aug 2026.
+Mod.1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gare Porto, Porto on Sat, 8 Aug 2026.
 
 Mod.1 is a techno and dub techno artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Madrid and Milan and 3 more. Often billed alongside ABSIS, Queixal and Ana Alves. Next up: Gare Porto, Porto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mod.1 is a techno and dub techno artist tracked on soundcheck, with 62 sets logg
 
 ABSIS, Queixal, Ana Alves
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*

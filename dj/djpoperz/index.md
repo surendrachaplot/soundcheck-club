@@ -1,6 +1,6 @@
 # Dj Poperz
 
-Dj Poperz is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
+Dj Poperz is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
 
 Dj Poperz is an electronica and progressive house artist tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside CEREAL, Feenicks and Axis Alpha. Next up: Fuchs2, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dj Poperz is an electronica and progressive house artist tracked on soundcheck, 
 
 CEREAL, Feenicks, Axis Alpha
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoperz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoperz/)*

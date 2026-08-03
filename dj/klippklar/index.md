@@ -1,6 +1,6 @@
 # Klipp&Klar
 
-Klipp&Klar is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+Klipp&Klar is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 Klipp&Klar is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside GHOST DE, Rob Robsen and DJ Jordan. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Klipp&Klar is a trance and techno artist based in Germany, tracked on soundcheck
 
 GHOST DE, Rob Robsen, DJ Jordan
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klippklar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klippklar/)*

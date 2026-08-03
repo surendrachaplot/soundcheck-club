@@ -1,6 +1,6 @@
 # ueue (2)
 
-ueue (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mizu no Oto, Osaka on Fri, 7 Aug 2026.
+ueue (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mizu no Oto, Osaka on Fri, 7 Aug 2026.
 
 ueue (2) is a house and disco artist based in Japan, tracked on soundcheck, with 32 sets logged across Osaka and Tokyo. Often billed alongside Kairi Komoda, The Library and Kobashi Mitsuki. Next up: Mizu no Oto, Osaka on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ueue (2) is a house and disco artist based in Japan, tracked on soundcheck, with
 
 Kairi Komoda, The Library, Kobashi Mitsuki
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueue-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueue-2/)*

@@ -1,6 +1,6 @@
 # Tony Rafael
 
-Tony Rafael is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Quartyard, San Diego on Sun, 16 Aug 2026.
+Tony Rafael is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Quartyard, San Diego on Sun, 16 Aug 2026.
 
 Tony Rafael is a house and minimal artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles and Sandiego. Often billed alongside Boys Don't Disco, Paul Najera and Brett Johnson. Next up: Quartyard, Sandiego on Sun 16 Aug.
 
@@ -22,4 +22,4 @@ Tony Rafael is a house and minimal artist based in United States of America, tra
 
 Boys Don't Disco, Paul Najera, Brett Johnson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyrafael/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyrafael/)*

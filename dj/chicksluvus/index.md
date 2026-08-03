@@ -1,6 +1,6 @@
 # Chicks Luv Us
 
-Chicks Luv Us is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Studio 338, London on Sat, 31 Oct 2026.
+Chicks Luv Us is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Studio 338, London on Sat, 31 Oct 2026.
 
 Chicks Luv Us is a tech house and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Brussels and Bucharest and 16 more. Often billed alongside Chris Di Perri, GW Harrison and Ben Sterling. Next up: Studio 338, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chicks Luv Us is a tech house and house artist tracked on soundcheck, with 55 se
 
 Chris Di Perri, GW Harrison, Ben Sterling
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicksluvus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicksluvus/)*

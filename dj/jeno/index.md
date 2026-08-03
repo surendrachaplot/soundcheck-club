@@ -1,6 +1,6 @@
 # Jeno
 
-Jeno is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
+Jeno is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Jeno is a house and acid artist based in United States of America, tracked on soundcheck, with 23 sets logged across Losangeles and Sanfrancisco. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Phoenix Hotel, Sanfrancisco on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Jeno is a house and acid artist based in United States of America, tracked on so
 
 DJ Spun, Doc Martin, Tranquil Elephantizer
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeno/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeno/)*

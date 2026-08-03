@@ -1,6 +1,6 @@
 # Janesita
 
-Janesita is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Janesita is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Janesita is a house and footwork artist based in United States of America, tracked on soundcheck, with 63 sets logged across Chicago, Detroit and Mexicocity. Often billed alongside Jillian x, Jaggy and Jana Rush. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Janesita is a house and footwork artist based in United States of America, track
 
 Jillian x, Jaggy, Jana Rush
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janesita/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janesita/)*

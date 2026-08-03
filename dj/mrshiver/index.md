@@ -1,6 +1,6 @@
 # Mr Shiver
 
-Mr Shiver is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
+Mr Shiver is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
 
 Mr Shiver is a house and disco artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Si Kurrage, Sancho Panza and Stuart Patterson. Next up: The North London Tavern, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Mr Shiver is a house and disco artist tracked on soundcheck, with 25 sets logged
 
 Si Kurrage, Sancho Panza, Stuart Patterson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrshiver/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrshiver/)*

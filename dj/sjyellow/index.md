@@ -1,6 +1,6 @@
 # SJ Yellow
 
-SJ Yellow is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+SJ Yellow is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundcheck, with 140 sets logged across Amsterdam, Berlin, Budapest and London and 2 more. Often billed alongside tmk (CZ), Nina Farrina and yo haan. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundchec
 
 tmk (CZ), Nina Farrina, yo haan
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*

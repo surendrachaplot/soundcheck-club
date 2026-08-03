@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 4 Sept 2026.
+Peach is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 4 Sept 2026.
 
 Peach is a house and techno artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Karmen Camina, Strasbourg on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Peach is a house and techno artist tracked on soundcheck, with 202 sets logged a
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

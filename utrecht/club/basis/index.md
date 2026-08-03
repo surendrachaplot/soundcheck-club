@@ -1,6 +1,6 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI" on Fri, 7 Aug 2026.
+BASIS is a music venue in Utrecht with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI" on Fri, 7 Aug 2026.
 
 BASIS is a music venue in Utrecht listed on soundcheck. 13 upcoming nights, with line-ups including 36framez, Alarico, Blame The Mono and Brent Honey and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ BASIS is a music venue in Utrecht listed on soundcheck. 13 upcoming nights, with
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

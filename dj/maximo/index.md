@@ -1,6 +1,6 @@
 # Maxi Mo
 
-Maxi Mo is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
+Maxi Mo is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
 
 Maxi Mo is a drum & bass and electronica artist based in Denmark, tracked on soundcheck, with 17 sets logged across Copenhagen and Osaka. Often billed alongside HDN, Lulla-Li and AMITTET. Next up: Culture Box, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Maxi Mo is a drum & bass and electronica artist based in Denmark, tracked on sou
 
 HDN, Lulla-Li, AMITTET
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximo/)*

@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "PIXEL" on Fri, 7 Aug 2026.
+B2 Rīga is a music venue in Riga with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "PIXEL" on Fri, 7 Aug 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 2 upcoming nights, with line-ups including D I N, Jaroška, Kapusta and Nicolas Barnes and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -15,4 +15,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 2 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

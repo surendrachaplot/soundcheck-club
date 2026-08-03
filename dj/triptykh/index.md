@@ -1,6 +1,6 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at NWHR, Montreal on Fri, 7 Aug 2026.
+TRIPTYKH is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at NWHR, Montreal on Fri, 7 Aug 2026.
 
 TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 45 sets logged across Antwerp, Auckland, Austin and Barcelona and 26 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: NWHR, Montreal on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 
 Aiden (DE), Kobosil, Ornella
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

@@ -1,6 +1,6 @@
 # Corinthian Club
 
-Corinthian Club is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Frisson Events pres. LOSTLY" on Sat, 22 Aug 2026.
+Corinthian Club is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Frisson Events pres. LOSTLY" on Sat, 22 Aug 2026.
 
 Corinthian Club is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 191 Ingram St, Glasgow G1 1DA.
 
@@ -15,4 +15,4 @@ Corinthian Club is a music venue in Glasgow listed on soundcheck. 2 upcoming nig
 
 191 Ingram St, Glasgow G1 1DA, Glasgow
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/corinthian-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/corinthian-club/)*

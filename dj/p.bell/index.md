@@ -1,6 +1,6 @@
 # P.Bell
 
-P.Bell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+P.Bell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 P.Bell is a techno and house artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Berlin and Zurich. Often billed alongside Playlove, Styro 2000 and fabulus. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ P.Bell is a techno and house artist based in Switzerland, tracked on soundcheck,
 
 Playlove, Styro 2000, fabulus
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p.bell/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p.bell/)*

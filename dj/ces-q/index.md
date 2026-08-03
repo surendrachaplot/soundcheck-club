@@ -1,6 +1,6 @@
 # Ces-Q
 
-Ces-Q is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cadavra, Madrid on Fri, 7 Aug 2026.
+Ces-Q is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cadavra, Madrid on Fri, 7 Aug 2026.
 
 Ces-Q is an electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside 2garlics, Flavio Folco and Gancho. Next up: Cadavra, Madrid on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Ces-Q is an electronica artist based in Spain, tracked on soundcheck, with 2 set
 
 2garlics, Flavio Folco, Gancho
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ces-q/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ces-q/)*

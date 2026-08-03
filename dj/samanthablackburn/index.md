@@ -1,6 +1,6 @@
 # Samantha Blackburn
 
-Samantha Blackburn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Arch 535, London on Sat, 8 Aug 2026.
+Samantha Blackburn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Arch 535, London on Sat, 8 Aug 2026.
 
 Samantha Blackburn is a house and techno artist tracked on soundcheck, with 40 sets logged across London. Often billed alongside Kat Richmond, Guy Herman and La Gosse. Next up: Arch 535, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Samantha Blackburn is a house and techno artist tracked on soundcheck, with 40 s
 
 Kat Richmond, Guy Herman, La Gosse
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthablackburn/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthablackburn/)*

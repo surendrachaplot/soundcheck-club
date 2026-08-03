@@ -1,6 +1,6 @@
 # Charry
 
-Charry is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Turbina, Budapest on Sat, 22 Aug 2026.
+Charry is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Turbina, Budapest on Sat, 22 Aug 2026.
 
 Charry is a trance and techno artist based in Colombia, tracked on soundcheck, with 15 sets logged across Budapest and Prague. Often billed alongside DJ Müz, Technokool and Akác. Next up: Turbina, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Charry is a trance and techno artist based in Colombia, tracked on soundcheck, w
 
 DJ Müz, Technokool, Akác
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charry/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charry/)*

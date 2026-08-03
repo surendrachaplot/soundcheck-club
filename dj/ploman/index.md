@@ -1,6 +1,6 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Péniche Éliane, Brussels on Fri, 7 Aug 2026.
+PLO Man is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Péniche Éliane, Brussels on Fri, 7 Aug 2026.
 
 PLO Man is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Péniche Éliane, Brussels on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ PLO Man is a techno and house artist tracked on soundcheck, with 149 sets logged
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

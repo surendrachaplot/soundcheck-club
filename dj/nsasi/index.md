@@ -1,6 +1,6 @@
 # Nsasi
 
-Nsasi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+Nsasi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 Nsasi is a techno and acid artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 7 more. Often billed alongside Authentically Plastic, Turkana and Hibotep. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Nsasi is a techno and acid artist tracked on soundcheck, with 30 sets logged acr
 
 Authentically Plastic, Turkana, Hibotep
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsasi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsasi/)*

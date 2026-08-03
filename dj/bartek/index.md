@@ -1,6 +1,6 @@
 # Bartek
 
-Bartek is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 3 Aug 2026.
+Bartek is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 3 Aug 2026.
 
 Bartek is a house and garage artist tracked on soundcheck, with 87 sets logged across Amsterdam, Edinburgh, Losangeles and Manchester and 2 more. Often billed alongside Bokonon, freddy haptic and Releaf. Next up: Sneaky Pete's, Edinburgh on Mon 3 Aug.
 
@@ -27,4 +27,4 @@ Bartek is a house and garage artist tracked on soundcheck, with 87 sets logged a
 
 Bokonon, freddy haptic, Releaf
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartek/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartek/)*

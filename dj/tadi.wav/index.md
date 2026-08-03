@@ -1,6 +1,6 @@
 # Tadi.wav
 
-Tadi.wav is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
+Tadi.wav is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
 
 Tadi.wav is an afro house and gqom artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Nésa Thea, Supa D and Ade Smilez. Next up: 93 Feet East, London on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Tadi.wav is an afro house and gqom artist based in United Kingdom, tracked on so
 
 Nésa Thea, Supa D, Ade Smilez
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tadi.wav/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tadi.wav/)*

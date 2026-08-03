@@ -1,14 +1,13 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Fiftyfive, Melbourne on Sun, 2 Aug 2026.
+Julius Myles is a Deep House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dr Morse, Melbourne on Fri, 7 Aug 2026.
 
-Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and Andrew88. Next up: Fiftyfive, Melbourne on Sun 2 Aug.
+Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and Andrew88. Next up: Dr Morse, Melbourne on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Fiftyfive | Melbourne |
 | Fri, 7 Aug 2026 | Dr Morse | Melbourne |
 | Sun, 9 Aug 2026 | Fiftyfive | Melbourne |
 | Sat, 15 Aug 2026 | Lane's Edge Wine Bar | Melbourne |
@@ -19,6 +18,7 @@ Julius Myles is a deep house and disco artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- Fiftyfive, Melbourne — Sun, 2 Aug 2026
 - Runner Up Rooftop Bar, Melbourne — Sun, 7 Jun 2026
 - Workshop, Melbourne — Fri, 8 May 2026
 - Dr Morse, Melbourne — Sun, 5 Apr 2026
@@ -26,10 +26,9 @@ Julius Myles is a deep house and disco artist based in United Kingdom, tracked o
 - The Vic Bar, Melbourne — Sat, 14 Mar 2026
 - QUIVR, Brisbane — Fri, 27 Feb 2026
 - Solace, Melbourne — Tue, 17 Feb 2026
-- Joey Smalls, Melbourne — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Miles Ahead, Emotive Experience, Andrew88
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

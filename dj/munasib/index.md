@@ -1,6 +1,6 @@
 # Munasib
 
-Munasib is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
+Munasib is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
 Munasib is an electronica and club artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne, Newyorkcity and Sydney. Often billed alongside Deepa, Jhassic and Rakish. Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Munasib is an electronica and club artist based in Australia, tracked on soundch
 
 Deepa, Jhassic, Rakish
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munasib/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munasib/)*

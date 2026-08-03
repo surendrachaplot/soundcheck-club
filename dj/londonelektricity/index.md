@@ -1,6 +1,6 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Fox and Firkin, London on Fri, 2 Oct 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Fox and Firkin, London on Fri, 2 Oct 2026.
 
 London Elektricity is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Auckland, Berlin, Boston and Bristol and 22 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: The Fox and Firkin, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, t
 
 Makoto, Degs, Nu:Tone
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

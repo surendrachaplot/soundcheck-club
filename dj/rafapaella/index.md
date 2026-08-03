@@ -1,6 +1,6 @@
 # Rafa Paella
 
-Rafa Paella is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+Rafa Paella is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 Rafa Paella is a house and disco artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Eren (2), Alexander Paulski and Mischa (2). Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Rafa Paella is a house and disco artist based in Germany, tracked on soundcheck,
 
 Eren (2), Alexander Paulski, Mischa (2)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafapaella/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafapaella/)*

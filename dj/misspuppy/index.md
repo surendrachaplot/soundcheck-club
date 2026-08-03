@@ -1,6 +1,6 @@
 # Miss Puppy
 
-Miss Puppy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Hangaren, Copenhagen on Fri, 7 Aug 2026.
+Miss Puppy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hangaren, Copenhagen on Fri, 7 Aug 2026.
 
 Miss Puppy is a techno and house artist based in Denmark, tracked on soundcheck, with 55 sets logged across Brussels, Copenhagen and Hamburg. Often billed alongside Ida Aya, Phloem and Milo Makua. Next up: Hangaren, Copenhagen on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Miss Puppy is a techno and house artist based in Denmark, tracked on soundcheck,
 
 Ida Aya, Phloem, Milo Makua
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misspuppy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misspuppy/)*

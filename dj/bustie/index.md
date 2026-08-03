@@ -1,6 +1,6 @@
 # Bustié
 
-Bustié is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Talon Bar, New York City on Fri, 14 Aug 2026.
+Bustié is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Talon Bar, New York City on Fri, 14 Aug 2026.
 
 Bustié is an industrial and ebm artist based in United States of America, tracked on soundcheck, with 7 sets logged across Houston, Losangeles and Newyorkcity. Often billed alongside 4LOKA, BAE BAE and DanyKiss. Next up: Talon Bar, Newyorkcity on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Bustié is an industrial and ebm artist based in United States of America, track
 
 4LOKA, BAE BAE, DanyKiss
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustie/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustie/)*

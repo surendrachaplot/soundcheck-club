@@ -1,6 +1,6 @@
 # Alpha Tracks
 
-Alpha Tracks is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 14 Aug 2026.
+Alpha Tracks is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 14 Aug 2026.
 
 Alpha Tracks is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bangkok and Basel and 29 more. Often billed alongside DINA, Blue Hour and Oprofessionell. Next up: Ankali & Planeta Za, Prague on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Alpha Tracks is a techno and trance artist tracked on soundcheck, with 92 sets l
 
 DINA, Blue Hour, Oprofessionell
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*

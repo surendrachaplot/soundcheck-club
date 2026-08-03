@@ -1,6 +1,6 @@
 # Rob Tissera
 
-Rob Tissera is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Beaver Works, Leeds on Sat, 8 Aug 2026.
+Rob Tissera is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Beaver Works, Leeds on Sat, 8 Aug 2026.
 
 Rob Tissera is a trance and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Ibiza, Leeds and Liverpool and 4 more. Often billed alongside Dale Castell, Slipmatt and John Marshall. Next up: Beaver Works, Leeds on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Rob Tissera is a trance and house artist tracked on soundcheck, with 50 sets log
 
 Dale Castell, Slipmatt, John Marshall
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*

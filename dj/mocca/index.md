@@ -1,6 +1,6 @@
 # mocca*
 
-mocca* is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mizu no Oto, Osaka on Fri, 7 Aug 2026.
+mocca* is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mizu no Oto, Osaka on Fri, 7 Aug 2026.
 
 mocca* is a house and broken beat artist tracked on soundcheck, with 30 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mercy., DJ GEKI and DMITRI ABSINTHE. Next up: Mizu no Oto, Osaka on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ mocca* is a house and broken beat artist tracked on soundcheck, with 30 sets log
 
 Mercy., DJ GEKI, DMITRI ABSINTHE
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mocca/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mocca/)*

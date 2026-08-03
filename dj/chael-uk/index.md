@@ -1,6 +1,6 @@
 # Chael-UK
 
-Chael-UK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Off The Square, Manchester on Sat, 8 Aug 2026.
+Chael-UK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Off The Square, Manchester on Sat, 8 Aug 2026.
 
 Chael-UK is a house and tech house artist tracked on soundcheck, with 11 sets logged across Manchester. Often billed alongside Shumbo Jebang, MAD Beats and Mat Matthews. Next up: Off The Square, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Chael-UK is a house and tech house artist tracked on soundcheck, with 11 sets lo
 
 Shumbo Jebang, MAD Beats, Mat Matthews
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chael-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chael-uk/)*

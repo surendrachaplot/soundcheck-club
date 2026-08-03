@@ -1,6 +1,6 @@
 # gi (24)
 
-gi (24) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Suite7a, Sydney on Sun, 9 Aug 2026.
+gi (24) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Suite7a, Sydney on Sun, 9 Aug 2026.
 
 gi (24) is a techno and bass artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Carrier, AERAE and Autogenesis. Next up: Suite7a, Sydney on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ gi (24) is a techno and bass artist tracked on soundcheck, with 16 sets logged a
 
 Carrier, AERAE, Autogenesis
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gi-24/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gi-24/)*

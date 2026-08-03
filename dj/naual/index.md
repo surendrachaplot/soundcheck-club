@@ -1,6 +1,6 @@
 # NAUAL
 
-NAUAL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Bünker Mataró, Barcelona on Fri, 4 Sept 2026.
+NAUAL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bünker Mataró, Barcelona on Fri, 4 Sept 2026.
 
 NAUAL is a techno and electronica artist tracked on soundcheck, with 23 sets logged across Barcelona and Madrid. Often billed alongside Rabent, Giusseppi and Felinae. Next up: Bünker Mataró, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ NAUAL is a techno and electronica artist tracked on soundcheck, with 23 sets log
 
 Rabent, Giusseppi, Felinae
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*

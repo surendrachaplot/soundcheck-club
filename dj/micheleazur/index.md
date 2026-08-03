@@ -1,6 +1,6 @@
 # Michele Azur
 
-Michele Azur is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Mile End Outdoors, Montreal on Sun, 9 Aug 2026.
+Michele Azur is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Mile End Outdoors, Montreal on Sun, 9 Aug 2026.
 
 Michele Azur is a breakbeat and house artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal and Newyorkcity. Often billed alongside Hex P, Goblin Can Dance and JIALING. Next up: TBA - Mile End Outdoors, Montreal on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Michele Azur is a breakbeat and house artist based in Canada, tracked on soundch
 
 Hex P, Goblin Can Dance, JIALING
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheleazur/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheleazur/)*

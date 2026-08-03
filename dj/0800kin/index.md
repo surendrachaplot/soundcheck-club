@@ -1,6 +1,6 @@
 # 0800KIN
 
-0800KIN is a Footwork and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Colombian Hotel, Sydney on Fri, 21 Aug 2026.
+0800KIN is a Footwork and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Colombian Hotel, Sydney on Fri, 21 Aug 2026.
 
 0800KIN is a footwork and hard drum artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside know.clu, Aaliyah Salem and Chaotiic Good. Next up: Colombian Hotel, Sydney on Fri 21 Aug.
 
@@ -20,4 +20,4 @@
 
 know.clu, Aaliyah Salem, Chaotiic Good
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/0800kin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/0800kin/)*

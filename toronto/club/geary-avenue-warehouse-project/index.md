@@ -1,14 +1,13 @@
 # Geary Avenue Warehouse Project
 
-Geary Avenue Warehouse Project is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "FULL VOLUME 2" on Sun, 2 Aug 2026.
+Geary Avenue Warehouse Project is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "AFTER PARTY at Geary Warehouse" on Sat, 8 Aug 2026.
 
-Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including ANTON BASHKOV, CELESTAI, Chrissandro and Dargan and 2 more. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
+Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including ANTON BASHKOV, CELESTAI, Chrissandro and Dargan and 2 more. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | FULL VOLUME 2 |  |
 | Sat, 8 Aug 2026 | AFTER PARTY at Geary Warehouse | CELESTAI, Chrissandro, Groefer |
 | Fri, 14 Aug 2026 | M O N O L I T H  0 0 3 | ANTON BASHKOV, Rudra Kush |
 | Sat, 15 Aug 2026 | Project Kulture: Southasian Rave Experience | Dargan, Nino Brown (2), Sikh Knowledge, Vodka |
@@ -22,4 +21,4 @@ Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck.
 
 209 Geary Ave, Toronto, ON, M6H2C1, Toronto
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*

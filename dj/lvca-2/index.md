@@ -1,6 +1,6 @@
 # LVCA (2)
 
-LVCA (2) is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 4 Sept 2026.
+LVCA (2) is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 4 Sept 2026.
 
 LVCA (2) is a minimal techno and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona, Madrid, Naples and Newyorkcity and 2 more. Often billed alongside Acid Partners, Alex (ES) and Antwork. Next up: Les Enfants Brillants, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ LVCA (2) is a minimal techno and house artist based in Spain, tracked on soundch
 
 Acid Partners, Alex (ES), Antwork
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvca-2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvca-2/)*

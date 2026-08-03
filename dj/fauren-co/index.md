@@ -1,6 +1,6 @@
 # Fauren
 
-Fauren is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Rhythm, Toronto on Fri, 14 Aug 2026.
+Fauren is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Rhythm, Toronto on Fri, 14 Aug 2026.
 
 Fauren is a minimal and house artist tracked on soundcheck, with 14 sets logged across Toronto. Often billed alongside Thomas James (2), Greg Burke and Hair Gel. Next up: Rhythm, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Fauren is a minimal and house artist tracked on soundcheck, with 14 sets logged 
 
 Thomas James (2), Greg Burke, Hair Gel
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fauren-co/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fauren-co/)*

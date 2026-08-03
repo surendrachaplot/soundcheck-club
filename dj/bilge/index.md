@@ -1,6 +1,6 @@
 # Bilge
 
-Bilge is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
+Bilge is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
 
 Bilge is a techno and electro artist based in Turkey, tracked on soundcheck, with 1 set logged across London. Often billed alongside Anahita Shamsaei, Innerstice and Ryan Licchelli. Next up: Club Cheek, London on Sun 13 Sept.
 
@@ -14,4 +14,4 @@ Bilge is a techno and electro artist based in Turkey, tracked on soundcheck, wit
 
 Anahita Shamsaei, Innerstice, Ryan Licchelli
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bilge/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bilge/)*

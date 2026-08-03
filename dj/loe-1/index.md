@@ -1,6 +1,6 @@
 # Loe (JP)
 
-Loe (JP) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Club Metro, Kyoto on Sat, 8 Aug 2026.
+Loe (JP) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Club Metro, Kyoto on Sat, 8 Aug 2026.
 
 Loe (JP) is a techno and ambient artist based in Japan, tracked on soundcheck, with 64 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Endurance, AOKI takamasa and SPINNUTS. Next up: Club Metro, Kyoto on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Loe (JP) is a techno and ambient artist based in Japan, tracked on soundcheck, w
 
 Endurance, AOKI takamasa, SPINNUTS
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loe-1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loe-1/)*

@@ -1,6 +1,6 @@
 # Nicolas Duvoisin
 
-Nicolas Duvoisin is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
+Nicolas Duvoisin is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
 
 Nicolas Duvoisin is a house and minimal artist based in Switzerland, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Kayode, Luca Mascolo and Daniel Meister. Next up: TBA - Berlin - Secret Location - Neukölln, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Nicolas Duvoisin is a house and minimal artist based in Switzerland, tracked on 
 
 Kayode, Luca Mascolo, Daniel Meister
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduvoisin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduvoisin/)*

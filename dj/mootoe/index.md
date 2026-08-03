@@ -1,6 +1,6 @@
 # MOOTOE
 
-MOOTOE is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+MOOTOE is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 MOOTOE is a bass and house artist based in Japan, tracked on soundcheck, with 101 sets logged across Osaka and Tokyo. Often billed alongside VECSILLE, ATAMI and SAKO. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ MOOTOE is a bass and house artist based in Japan, tracked on soundcheck, with 10
 
 VECSILLE, ATAMI, SAKO
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mootoe/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mootoe/)*

@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "STRAPPED presents BUTCH BOX" on Thu, 6 Aug 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "STRAPPED presents BUTCH BOX" on Thu, 6 Aug 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -22,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming night
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

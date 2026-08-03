@@ -1,6 +1,6 @@
 # Velocity Made Good
 
-Velocity Made Good is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Cinetol, Amsterdam on Wed, 28 Oct 2026.
+Velocity Made Good is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Cinetol, Amsterdam on Wed, 28 Oct 2026.
 
 Velocity Made Good is an electronic artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Daniël. Next up: Cinetol, Amsterdam on Wed 28 Oct.
 
@@ -19,4 +19,4 @@ Velocity Made Good is an electronic artist tracked on soundcheck, with 3 sets lo
 
 Daniël
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velocitymadegood/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velocitymadegood/)*

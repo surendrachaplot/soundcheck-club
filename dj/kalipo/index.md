@@ -1,6 +1,6 @@
 # Kalipo
 
-Kalipo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Kalipo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Kalipo is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Hamburg and Leipzig and 8 more. Often billed alongside Holly North, Local Suicide and Dina Summer. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Kalipo is a house and techno artist tracked on soundcheck, with 32 sets logged a
 
 Holly North, Local Suicide, Dina Summer
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalipo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalipo/)*

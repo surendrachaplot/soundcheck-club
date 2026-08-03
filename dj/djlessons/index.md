@@ -1,6 +1,6 @@
 # DJ LESSONS
 
-DJ LESSONS is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+DJ LESSONS is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
 DJ LESSONS is a jungle and electro artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across London. Often billed alongside Rhi Spect, bomb shelter crew and Hughesee. Next up: Club Cheek, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ LESSONS is a jungle and electro artist based in United Kingdom, tracked on so
 
 Rhi Spect, bomb shelter crew, Hughesee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlessons/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlessons/)*

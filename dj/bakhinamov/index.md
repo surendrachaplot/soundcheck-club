@@ -1,6 +1,6 @@
 # Bakh Inamov
 
-Bakh Inamov is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+Bakh Inamov is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Bakh Inamov is an ambient and downtempo artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside David Siska, Joe Rice and William Wardlaw. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Bakh Inamov is an ambient and downtempo artist based in United States of America
 
 David Siska, Joe Rice, William Wardlaw
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakhinamov/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakhinamov/)*

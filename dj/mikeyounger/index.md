@@ -1,6 +1,6 @@
 # Mike Younger
 
-Mike Younger is a House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Cause, London on Sat, 8 Aug 2026.
+Mike Younger is a House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Cause, London on Sat, 8 Aug 2026.
 
 Mike Younger is a house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Amsterdam, London and Malta. Often billed alongside G CHASE, HARTY and Mazos. Next up: The Cause, London on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Mike Younger is a house artist based in United Kingdom, tracked on soundcheck, w
 
 G CHASE, HARTY, Mazos
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyounger/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyounger/)*

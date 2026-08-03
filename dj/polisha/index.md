@@ -1,6 +1,6 @@
 # Polisha
 
-Polisha is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at City Hall, Barcelona on Tue, 11 Aug 2026.
+Polisha is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at City Hall, Barcelona on Tue, 11 Aug 2026.
 
 Polisha is an electro and electronica artist based in Argentina, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Agustina Aliaga, BRU ON and Bad Educated. Next up: City Hall, Barcelona on Tue 11 Aug.
 
@@ -21,4 +21,4 @@ Polisha is an electro and electronica artist based in Argentina, tracked on soun
 
 Agustina Aliaga, BRU ON, Bad Educated
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polisha/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polisha/)*

@@ -1,6 +1,6 @@
 # El Tel The Transcender
 
-El Tel The Transcender is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, London on Sat, 22 Aug 2026.
+El Tel The Transcender is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, London on Sat, 22 Aug 2026.
 
 El Tel The Transcender is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Birmingham, Bristol, Glasgow and London. Often billed alongside DJ Hexxen, MASS_IVe and Jon Edge. Next up: TBA, London on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ El Tel The Transcender is a techno and acid artist based in United Kingdom, trac
 
 DJ Hexxen, MASS_IVe, Jon Edge
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eltelthetranscender/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eltelthetranscender/)*

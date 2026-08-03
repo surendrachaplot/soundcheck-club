@@ -1,6 +1,6 @@
 # Innerworld
 
-Innerworld is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 宀 Club, Hong Kong on Fri, 21 Aug 2026.
+Innerworld is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 宀 Club, Hong Kong on Fri, 21 Aug 2026.
 
 Innerworld is a techno and minimal techno artist based in India, tracked on soundcheck, with 8 sets logged across Hongkong, Osaka and Tokyo. Often billed alongside OCCA, Faxtory and ADRIANNA.C. Next up: 宀 Club, Hongkong on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Innerworld is a techno and minimal techno artist based in India, tracked on soun
 
 OCCA, Faxtory, ADRIANNA.C
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerworld/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerworld/)*

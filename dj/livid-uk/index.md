@@ -1,6 +1,6 @@
 # Livid (UK)
 
-Livid (UK) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+Livid (UK) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
 Livid (UK) is a techno and electro artist tracked on soundcheck, with 36 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Slumber, Sofi. and Desiree'. Next up: Gaffe, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Livid (UK) is a techno and electro artist tracked on soundcheck, with 36 sets lo
 
 Slumber, Sofi., Desiree'
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livid-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livid-uk/)*

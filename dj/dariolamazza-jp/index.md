@@ -1,6 +1,6 @@
 # Dario La Mazza
 
-Dario La Mazza is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Hive Club, Zurich on Sat, 15 Aug 2026.
+Dario La Mazza is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hive Club, Zurich on Sat, 15 Aug 2026.
 
 Dario La Mazza is a tech house and electro artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Basel and Zurich. Often billed alongside And Hazel, Alex Kennon and Kantarik. Next up: Hive Club, Zurich on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Dario La Mazza is a tech house and electro artist based in Switzerland, tracked 
 
 And Hazel, Alex Kennon, Kantarik
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariolamazza-jp/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariolamazza-jp/)*

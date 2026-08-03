@@ -1,6 +1,6 @@
 # MIDNXGHT
 
-MIDNXGHT is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
+MIDNXGHT is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
 
 MIDNXGHT is a trance and techno artist tracked on soundcheck, with 24 sets logged across Berlin and Leipzig. Often billed alongside mp.ulle, DJ SOFTICE and marengo (2). Next up: elipamanoke, Leipzig on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ MIDNXGHT is a trance and techno artist tracked on soundcheck, with 24 sets logge
 
 mp.ulle, DJ SOFTICE, marengo (2)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*

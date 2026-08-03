@@ -1,6 +1,6 @@
 # ANNASNEL
 
-ANNASNEL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 14 Aug 2026.
+ANNASNEL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 14 Aug 2026.
 
 ANNASNEL is a house and techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Niklas Becher, UriBlanch and 22 Interns. Next up: Shelter Amsterdam, Amsterdam on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ ANNASNEL is a house and techno artist based in Netherlands, tracked on soundchec
 
 Niklas Becher, UriBlanch, 22 Interns
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annasnel/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annasnel/)*

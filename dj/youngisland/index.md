@@ -1,6 +1,6 @@
 # Youngisland
 
-Youngisland is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
+Youngisland is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
 
 Youngisland is a house and disco artist based in South Korea, tracked on soundcheck, with 163 sets logged across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Joshüa and Gio (KR). Next up: Nué Seoul, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Youngisland is a house and disco artist based in South Korea, tracked on soundch
 
 Cityboy from Seoul, Joshüa, Gio (KR)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*

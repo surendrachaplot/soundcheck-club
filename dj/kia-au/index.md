@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
+Kia (AU) is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
 
 Kia (AU) is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 46 more. Often billed alongside Reptant, DjRUM and livwutang. Next up: Lux Fragil, Lisbon on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Kia (AU) is a techno and house artist tracked on soundcheck, with 193 sets logge
 
 Reptant, DjRUM, livwutang
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

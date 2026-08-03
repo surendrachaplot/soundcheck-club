@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Nachspiel" on Sun, 2 Aug 2026.
+KitKatClub is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Electric Monday@KitKat Club on 2 Floors" on Mon, 3 Aug 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including Albin Brezlan, alemiko, Alexander Paulski and Alex Friday and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 33 upcoming nights, with line-ups including Albin Brezlan, alemiko, Alexander Paulski and Alex Friday and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Nachspiel | Fran-Cee, Onkel Tom |
 | Mon, 3 Aug 2026 | Electric Monday@KitKat Club on 2 Floors | Diana May, Frankie Flowerz, Melon Blush, Sylvie Maziarz |
 | Wed, 5 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Dirty Doering, Melanchromie, Nick Schwenderling |
 | Thu, 6 Aug 2026 | UNITY AT KITKAT CLUB | Joe Shmoo, Wiebe Roose |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, 
 | Wed, 12 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | Bombata, DJ Jordan, Gerrit X, Unerhört |
 | Thu, 13 Aug 2026 | UNITY AT KITKAT CLUB | Cobb Douglas, DJ Henk |
 | Fri, 14 Aug 2026 | The Mystic Rose meets MA FAIZA | Goa Jonas, Neobeo |
+| Sun, 16 Aug 2026 | Nachspiel |  |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

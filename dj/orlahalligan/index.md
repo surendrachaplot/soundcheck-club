@@ -1,6 +1,6 @@
 # Orla Halligan
 
-Orla Halligan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
+Orla Halligan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
 
 Orla Halligan is a techno and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Edinburgh and Glasgow. Often billed alongside Loose E, Jenn Gunn (2) and Et Al (1). Next up: The Clydesdale, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Orla Halligan is a techno and house artist based in United Kingdom, tracked on s
 
 Loose E, Jenn Gunn (2), Et Al (1)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orlahalligan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orlahalligan/)*

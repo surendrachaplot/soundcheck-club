@@ -1,6 +1,6 @@
 # Zuleta M
 
-Zuleta M is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mena Berlin, Berlin on Sat, 15 Aug 2026.
+Zuleta M is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mena Berlin, Berlin on Sat, 15 Aug 2026.
 
 Zuleta M is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Barcelona and Berlin. Often billed alongside Gonzalo Lavin (Chile), Besch and HANAFIA'. Next up: Mena Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Zuleta M is a techno and tech house artist tracked on soundcheck, with 17 sets l
 
 Gonzalo Lavin (Chile), Besch, HANAFIA'
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*

@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+dj sweet6teen is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 dj sweet6teen is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ dj sweet6teen is a house and techno artist tracked on soundcheck, with 235 sets 
 
 Angel D'lite, Sansibar, Peach
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

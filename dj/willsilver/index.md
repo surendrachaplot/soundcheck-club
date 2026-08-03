@@ -1,6 +1,6 @@
 # Will Silver
 
-Will Silver is a Afrobeat and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Aaja Basement, London on Fri, 4 Sept 2026.
+Will Silver is a Afrobeat and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Aaja Basement, London on Fri, 4 Sept 2026.
 
 Will Silver is an afrobeat and club artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam and London. Often billed alongside Emilia G, Joey Fontaine and R.E.D. Next up: Aaja Basement, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Will Silver is an afrobeat and club artist based in United Kingdom, tracked on s
 
 Emilia G, Joey Fontaine, R.E.D
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willsilver/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willsilver/)*

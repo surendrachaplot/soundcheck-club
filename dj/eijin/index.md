@@ -1,6 +1,6 @@
 # eijin
 
-eijin is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Spread, Tokyo on Fri, 14 Aug 2026.
+eijin is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Spread, Tokyo on Fri, 14 Aug 2026.
 
 eijin is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 48 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, ast midori and Whatman. Next up: Spread, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ eijin is a techno and hip-hop artist based in Japan, tracked on soundcheck, with
 
 E.O.U, ast midori, Whatman
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*

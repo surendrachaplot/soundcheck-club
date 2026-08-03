@@ -1,6 +1,6 @@
 # Dub Head
 
-Dub Head is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+Dub Head is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 Dub Head is a disco and house artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Amsterdam, Auckland, Bristol and Ghent and 1 more. Often billed alongside DLR, Chamba and Cupid. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Dub Head is a disco and house artist based in Ukraine, tracked on soundcheck, wi
 
 DLR, Chamba, Cupid
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubhead/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubhead/)*

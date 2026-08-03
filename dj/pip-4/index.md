@@ -1,6 +1,6 @@
 # pip (4)
 
-pip (4) is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+pip (4) is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 pip (4) is a downtempo and house artist based in Japan, tracked on soundcheck, with 1 set logged across Portland. Often billed alongside Aaron Davis, Andy Warren and Black Daria. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ pip (4) is a downtempo and house artist based in Japan, tracked on soundcheck, w
 
 Aaron Davis, Andy Warren, Black Daria
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pip-4/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pip-4/)*

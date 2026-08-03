@@ -1,6 +1,6 @@
 # Son of Paul
 
-Son of Paul is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
+Son of Paul is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
 
 Son of Paul is an electro and tech house artist tracked on soundcheck, with 30 sets logged across London. Often billed alongside Thom Parris, Gabriel Finch and Mantis (5). Next up: Vittoria Wharf Studio, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Son of Paul is an electro and tech house artist tracked on soundcheck, with 30 s
 
 Thom Parris, Gabriel Finch, Mantis (5)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofpaul/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofpaul/)*

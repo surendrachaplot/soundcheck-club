@@ -1,6 +1,6 @@
 # DJ Yazi
 
-DJ Yazi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Tresor / Globus, Berlin on Fri, 14 Aug 2026.
+DJ Yazi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Fri, 14 Aug 2026.
 
 DJ Yazi is a techno and house artist based in Japan, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Berlin and Hongkong and 9 more. Often billed alongside Mari Sakurai, DJ MARIA. and DJ Nobu. Next up: Tresor / Globus, Berlin on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ DJ Yazi is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Mari Sakurai, DJ MARIA., DJ Nobu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*

@@ -1,6 +1,6 @@
 # Dirk Schot
 
-Dirk Schot is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Madam, Amsterdam on Fri, 11 Sept 2026.
+Dirk Schot is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Madam, Amsterdam on Fri, 11 Sept 2026.
 
 Dirk Schot is a house and disco artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam. Often billed alongside Jay Latune, Mark Knight and Martien V.. Next up: Madam, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dirk Schot is a house and disco artist based in Netherlands, tracked on soundche
 
 Jay Latune, Mark Knight, Martien V.
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*

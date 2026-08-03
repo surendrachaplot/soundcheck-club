@@ -1,19 +1,19 @@
 # Jamesey
 
-Jamesey is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Setlist @ Somerset House, London on Sun, 2 Aug 2026.
+Jamesey is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Jazz Cafe, London on Sat, 29 Aug 2026.
 
-Jamesey is a deep house and disco artist tracked on soundcheck, with 53 sets logged across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: Setlist @ Somerset House, London on Sun 2 Aug.
+Jamesey is a deep house and disco artist tracked on soundcheck, with 53 sets logged across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: The Jazz Cafe, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Setlist @ Somerset House | London |
 | Sat, 29 Aug 2026 | The Jazz Cafe | London |
 | Mon, 31 Aug 2026 | Notting Hill Arts Club | London |
 
 ## Recently played
 
+- Setlist @ Somerset House, London — Sun, 2 Aug 2026
 - Two Tribes CAMPFIRE, London — Sat, 20 Jun 2026
 - Phonox, London — Sat, 16 May 2026
 - Bricks, London — Sat, 16 May 2026
@@ -21,10 +21,9 @@ Jamesey is a deep house and disco artist tracked on soundcheck, with 53 sets log
 - The BBE Store, London — Thu, 26 Mar 2026
 - The Timber Loft, London — Sat, 21 Mar 2026
 - NUMBER 90 LONDON, London — Sat, 7 Mar 2026
-- NUMBER 90 LONDON, London — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Matt L-S, Davide Del Vecchio, Kojay
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*

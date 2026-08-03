@@ -1,6 +1,6 @@
 # Paul Leonard
 
-Paul Leonard is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Compufunk Records, Osaka on Fri, 7 Aug 2026.
+Paul Leonard is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Compufunk Records, Osaka on Fri, 7 Aug 2026.
 
 Paul Leonard is a techno and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Kyoto and Osaka. Often billed alongside Ryoma Sasaki, Ouchi-S and Koichi (Koichiro Okada). Next up: Compufunk Records, Osaka on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Paul Leonard is a techno and house artist based in United Kingdom, tracked on so
 
 Ryoma Sasaki, Ouchi-S, Koichi (Koichiro Okada)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulleonard/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulleonard/)*

@@ -1,6 +1,6 @@
 # Kanedo
 
-Kanedo is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 6 Aug 2026.
+Kanedo is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 6 Aug 2026.
 
 Kanedo is a house and deep house artist tracked on soundcheck, with 123 sets logged across Athens, Barcelona, Ibiza and Tokyo. Often billed alongside Viktor Olle, Naommi and Michael Sutton. Next up: Sunseabar Beach Club, Barcelona on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ Kanedo is a house and deep house artist tracked on soundcheck, with 123 sets log
 
 Viktor Olle, Naommi, Michael Sutton
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*

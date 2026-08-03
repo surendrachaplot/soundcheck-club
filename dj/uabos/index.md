@@ -1,6 +1,6 @@
 # Uabos
 
-Uabos is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 4 Aug 2026.
+Uabos is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 4 Aug 2026.
 
 Uabos is a house and electronica artist based in Italy, tracked on soundcheck, with 46 sets logged across London, Milan, Rome and Seoul and 2 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: THE MAGICK BAR, Rome on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Uabos is a house and electronica artist based in Italy, tracked on soundcheck, w
 
 Giamma Soren, Vannelli Bros, San Pedro
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*

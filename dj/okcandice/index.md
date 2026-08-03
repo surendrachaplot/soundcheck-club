@@ -1,6 +1,6 @@
 # okcandice
 
-okcandice is a Gqom and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Brindley Cruises, Birmingham on Sat, 8 Aug 2026.
+okcandice is a Gqom and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Brindley Cruises, Birmingham on Sat, 8 Aug 2026.
 
 okcandice is a gqom and house artist tracked on soundcheck, with 2 sets logged across Barcelona and Birmingham. Often billed alongside Akazie, Francisco Morgan and Ikram Bouloum. Next up: TBA - Brindley Cruises, Birmingham on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ okcandice is a gqom and house artist tracked on soundcheck, with 2 sets logged a
 
 Akazie, Francisco Morgan, Ikram Bouloum
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okcandice/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okcandice/)*

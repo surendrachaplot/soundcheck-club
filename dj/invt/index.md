@@ -1,6 +1,6 @@
 # INVT
 
-INVT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
+INVT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
 
 INVT is a house and techno artist tracked on soundcheck, with 121 sets logged across Barcelona, Berlin, Birmingham and Bristol and 30 more. Often billed alongside Danny Daze, Jonny From Space and Jubilee. Next up: Good Room, Newyorkcity on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ INVT is a house and techno artist tracked on soundcheck, with 121 sets logged ac
 
 Danny Daze, Jonny From Space, Jubilee
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

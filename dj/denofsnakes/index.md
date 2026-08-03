@@ -1,6 +1,6 @@
 # Den Of Snakes
 
-Den Of Snakes is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Denver on Sat, 5 Sept 2026.
+Den Of Snakes is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Denver on Sat, 5 Sept 2026.
 
 Den Of Snakes is a minimal and minimal techno artist tracked on soundcheck, with 9 sets logged across Denver. Often billed alongside Kev Obrien, Lidas and Black/Tuesday. Next up: TBA, Denver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Den Of Snakes is a minimal and minimal techno artist tracked on soundcheck, with
 
 Kev Obrien, Lidas, Black/Tuesday
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denofsnakes/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denofsnakes/)*

@@ -1,6 +1,6 @@
 # Jaroška
 
-Jaroška is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at B2 Rīga, Riga on Fri, 7 Aug 2026.
+Jaroška is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at B2 Rīga, Riga on Fri, 7 Aug 2026.
 
 Jaroška is a house and minimal techno artist tracked on soundcheck, with 3 sets logged across Riga. Often billed alongside PUPA, Freiya March and Gretjane. Next up: B2 Rīga, Riga on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Jaroška is a house and minimal techno artist tracked on soundcheck, with 3 sets
 
 PUPA, Freiya March, Gretjane
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaroska/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaroska/)*

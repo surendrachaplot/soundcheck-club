@@ -1,6 +1,6 @@
 # Tim Engelhardt
 
-Tim Engelhardt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kowalski, Stuttgart on Sun, 16 Aug 2026.
+Tim Engelhardt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kowalski, Stuttgart on Sun, 16 Aug 2026.
 
 Tim Engelhardt is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside MAGA, Sean Doron and Emanuel Satie. Next up: Kowalski, Stuttgart on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Tim Engelhardt is a house and techno artist tracked on soundcheck, with 63 sets 
 
 MAGA, Sean Doron, Emanuel Satie
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timengelhardt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timengelhardt/)*

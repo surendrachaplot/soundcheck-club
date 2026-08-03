@@ -1,8 +1,8 @@
 # VENATOR
 
-VENATOR is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
+VENATOR is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
-VENATOR is an industrial and techno artist based in France, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside MAGMAOM, OnlyWithYou and DAESU. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
+VENATOR is an industrial and techno artist based in France, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside ANXIETY (2), DAESU and D|K|OXY. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ VENATOR is an industrial and techno artist based in France, tracked on soundchec
 
 ## Shares bills with
 
-MAGMAOM, OnlyWithYou, DAESU
+ANXIETY (2), DAESU, D|K|OXY
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venator/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venator/)*

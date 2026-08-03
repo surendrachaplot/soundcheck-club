@@ -1,6 +1,6 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Strange Brew, Bristol on Fri, 7 Aug 2026.
+Yushh is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Strange Brew, Bristol on Fri, 7 Aug 2026.
 
 Yushh is a bass and techno artist tracked on soundcheck, with 105 sets logged across Adelaide, Amsterdam, Athens and Berlin and 25 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Strange Brew, Bristol on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Yushh is a bass and techno artist tracked on soundcheck, with 105 sets logged ac
 
 Breaka, Dubrunner, Batu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

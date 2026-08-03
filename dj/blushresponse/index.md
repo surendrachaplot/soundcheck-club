@@ -1,6 +1,6 @@
 # Blush Response
 
-Blush Response is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Urban Spree, Berlin on Sat, 29 Aug 2026.
+Blush Response is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Urban Spree, Berlin on Sat, 29 Aug 2026.
 
 Blush Response is a techno and industrial artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Berlin, Detroit and Dusseldorf and 6 more. Often billed alongside Fangarm, Purusha and Stanislav Glazov. Next up: Urban Spree, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Blush Response is a techno and industrial artist based in United States of Ameri
 
 Fangarm, Purusha, Stanislav Glazov
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blushresponse/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blushresponse/)*

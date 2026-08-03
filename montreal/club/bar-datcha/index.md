@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Super Soak: DJEITY, venus in bed, Too, Moon" on Thu, 6 Aug 2026.
+Bar Datcha is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Super Soak: DJEITY, venus in bed, Too, Moon" on Thu, 6 Aug 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Alina (MTL), Anabasine, Andrea de Tour and AZARI and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -23,4 +23,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming nights
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

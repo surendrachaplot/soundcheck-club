@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Disco Dust x Fünk" on Thu, 6 Aug 2026.
+Fünk is a music venue in Mexico City with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Disco Dust x Fünk" on Thu, 6 Aug 2026.
 
 Fünk is a music venue in Mexicocity listed on soundcheck. 12 upcoming nights, with line-ups including Alejandro Veneno, Alena Vox, Alonso Rivero and Andy Woldman and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -23,4 +23,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 12 upcoming nights, w
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

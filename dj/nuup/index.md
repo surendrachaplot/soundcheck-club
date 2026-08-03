@@ -1,6 +1,6 @@
 # NUUP
 
-NUUP is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+NUUP is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 6
 
 Valderrama, Thomas Hernandez, JE·ROME
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*

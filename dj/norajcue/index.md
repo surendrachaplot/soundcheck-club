@@ -1,6 +1,6 @@
 # Noraj Cue
 
-Noraj Cue is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Houtrijk, Amsterdam on Sat, 5 Sept 2026.
+Noraj Cue is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Houtrijk, Amsterdam on Sat, 5 Sept 2026.
 
 Noraj Cue is a deep house and house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Ibiza and Stockholm and 1 more. Often billed alongside Gente Quente, Anthoni Logos and Britta Arnold. Next up: Houtrijk, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Noraj Cue is a deep house and house artist based in Netherlands, tracked on soun
 
 Gente Quente, Anthoni Logos, Britta Arnold
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norajcue/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norajcue/)*

@@ -1,6 +1,6 @@
 # Mrs Magoo
 
-Mrs Magoo is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 14 Aug 2026.
+Mrs Magoo is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 14 Aug 2026.
 
 Mrs Magoo is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Birmingham and Brisbane and 6 more. Often billed alongside DJ Brockie, Deefa and Kenny Ken. Next up: La Cheetah Club, Glasgow on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Mrs Magoo is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 DJ Brockie, Deefa, Kenny Ken
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsmagoo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsmagoo/)*

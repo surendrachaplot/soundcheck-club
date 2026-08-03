@@ -1,6 +1,6 @@
 # Sensu
 
-Sensu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
+Sensu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
 
 Sensu is a house and techno artist based in Belgium, tracked on soundcheck, with 4 sets logged across Amsterdam, Basel, London and Paris. Often billed alongside Arielle, Club Angel and DJ EZ. Next up: Badaboum, Paris on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Sensu is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 Arielle, Club Angel, DJ EZ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu/)*

@@ -1,6 +1,6 @@
 # Chey Selecta
 
-Chey Selecta is a Dancehall and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Brixton Jamm, London on Fri, 7 Aug 2026.
+Chey Selecta is a Dancehall and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Brixton Jamm, London on Fri, 7 Aug 2026.
 
 Chey Selecta is a dancehall and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside ELLADHC, CVSS and Amy Os. Next up: Brixton Jamm, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Chey Selecta is a dancehall and garage artist based in United Kingdom, tracked o
 
 ELLADHC, CVSS, Amy Os
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyselecta/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyselecta/)*

@@ -1,6 +1,6 @@
 # DJ Ron
 
-DJ Ron is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Basing House, London on Sat, 8 Aug 2026.
+DJ Ron is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Basing House, London on Sat, 8 Aug 2026.
 
 DJ Ron is a drum & bass and jungle artist tracked on soundcheck, with 30 sets logged across Cologne, Ibiza, London and Tokyo. Often billed alongside DJ Brockie, Jumping Jack Frost and Grooverider. Next up: Basing House, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DJ Ron is a drum & bass and jungle artist tracked on soundcheck, with 30 sets lo
 
 DJ Brockie, Jumping Jack Frost, Grooverider
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*

@@ -1,6 +1,6 @@
 # TBA - jorba piscina
 
-TBA - jorba piscina is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "80s90s2000s a la Bassa" on Sat, 8 Aug 2026.
+TBA - jorba piscina is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "80s90s2000s a la Bassa" on Sat, 8 Aug 2026.
 
 TBA - jorba piscina is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - jorba piscina is a music venue in Barcelona listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | 80s90s2000s a la Bassa |  |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-jorba-piscina/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-jorba-piscina/)*

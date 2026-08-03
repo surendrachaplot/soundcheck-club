@@ -1,6 +1,6 @@
 # Virginia
 
-Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at RADION, Amsterdam on Fri, 7 Aug 2026.
+Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at RADION, Amsterdam on Fri, 7 Aug 2026.
 
 Virginia is a house and techno artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: RADION, Amsterdam on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Virginia is a house and techno artist tracked on soundcheck, with 246 sets logge
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

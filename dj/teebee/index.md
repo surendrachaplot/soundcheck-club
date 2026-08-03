@@ -1,6 +1,6 @@
 # Teebee
 
-Teebee is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
+Teebee is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
 
 Teebee is a drum & bass and bass artist based in Norway, tracked on soundcheck, with 22 sets logged across Berlin, Boston, Bristol and Budapest and 9 more. Often billed alongside Craze, DLR and Matrix. Next up: Gretchen, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Teebee is a drum & bass and bass artist based in Norway, tracked on soundcheck, 
 
 Craze, DLR, Matrix
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teebee/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teebee/)*

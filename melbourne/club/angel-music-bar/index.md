@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "DOGMA (Act 1)" on Fri, 7 Aug 2026.
+Angel Music Bar is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DOGMA (Act 1)" on Fri, 7 Aug 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Aaliyah Salem, Chino, DELLA and DJ CASPER (2) and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -16,4 +16,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming n
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

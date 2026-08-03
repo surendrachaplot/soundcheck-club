@@ -1,6 +1,6 @@
 # Jesse Maas
 
-Jesse Maas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+Jesse Maas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
 
 Jesse Maas is a house and tech house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Auckland, Barcelona and Dublin and 11 more. Often billed alongside Prunk, Benny Rodrigues and Boss Priester. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Jesse Maas is a house and tech house artist tracked on soundcheck, with 72 sets 
 
 Prunk, Benny Rodrigues, Boss Priester
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*

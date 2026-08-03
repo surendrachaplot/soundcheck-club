@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "InTooDeep Sunset House Cruise - Sydney Harbour" on Sat, 8 Aug 2026.
+Inception Boat is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "InTooDeep Sunset House Cruise - Sydney Harbour" on Sat, 8 Aug 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -18,4 +18,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 5 upcoming night
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "TIMEmACHINE presents Timo Maas & Francesco Mami" on Sat, 8 Aug 2026.
+Esbirra Ibiza is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "TIMEmACHINE presents Timo Maas & Francesco Mami" on Sat, 8 Aug 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with line-ups including Chelu Garcia, Francesco Mami, John Acquaviva and Luna City Express and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -17,4 +17,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming nights,
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

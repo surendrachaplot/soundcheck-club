@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Juliet Fox is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Juliet Fox is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 110 sets log
 
 Adam Beyer, Joyhauser, Layton Giordani
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

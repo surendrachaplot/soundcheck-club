@@ -1,6 +1,6 @@
 # Queenie Jr
 
-Queenie Jr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Salon Daomé, Montreal on Sat, 8 Aug 2026.
+Queenie Jr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Salon Daomé, Montreal on Sat, 8 Aug 2026.
 
 Queenie Jr is a house and techno artist tracked on soundcheck, with 42 sets logged across Berlin and Montreal. Often billed alongside Flleur, Nathan Burns and Jean Pascal Groove. Next up: Salon Daomé, Montreal on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Queenie Jr is a house and techno artist tracked on soundcheck, with 42 sets logg
 
 Flleur, Nathan Burns, Jean Pascal Groove
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*

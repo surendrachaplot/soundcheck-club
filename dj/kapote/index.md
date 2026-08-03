@@ -1,6 +1,6 @@
 # Kapote
 
-Kapote is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Kapote is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Kapote is a house and disco artist tracked on soundcheck, with 215 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Athlete Whippet. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -28,4 +28,4 @@ Kapote is a house and disco artist tracked on soundcheck, with 215 sets logged a
 
 Sam Ruffillo, Gee Lane, Athlete Whippet
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

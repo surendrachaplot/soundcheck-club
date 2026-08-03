@@ -1,6 +1,6 @@
 # Abby Daze
 
-Abby Daze is a Jungle and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
+Abby Daze is a Jungle and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at M.O.T, London on Sat, 22 Aug 2026.
 
 Abby Daze is a jungle and dubstep artist tracked on soundcheck, with 57 sets logged across Amsterdam and London. Often billed alongside A.N.T, Uncle G and Yasmine (UK). Next up: M.O.T, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Abby Daze is a jungle and dubstep artist tracked on soundcheck, with 57 sets log
 
 A.N.T, Uncle G, Yasmine (UK)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*

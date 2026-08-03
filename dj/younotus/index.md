@@ -1,6 +1,6 @@
 # Younotus
 
-Younotus is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 6 Aug 2026.
+Younotus is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 6 Aug 2026.
 
 Younotus is a progressive house and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Ibiza. Often billed alongside Mika Heggemann, PRADA2000 and 1991. Next up: Ushuaïa Ibiza, Ibiza on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Younotus is a progressive house and house artist based in Germany, tracked on so
 
 Mika Heggemann, PRADA2000, 1991
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/younotus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/younotus/)*

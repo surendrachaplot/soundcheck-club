@@ -1,6 +1,6 @@
 # Toni S
 
-Toni S is a Experimental and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
+Toni S is a Experimental and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
 
 Toni S is an experimental and garage artist tracked on soundcheck, with 20 sets logged across Barcelona and London. Often billed alongside New Flesh (2), London Hatred and Becky Stroke. Next up: Aaja Basement, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Toni S is an experimental and garage artist tracked on soundcheck, with 20 sets 
 
 New Flesh (2), London Hatred, Becky Stroke
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonis/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonis/)*

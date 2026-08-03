@@ -1,6 +1,6 @@
 # Kruel Intentions
 
-Kruel Intentions is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ministry Of Sound, London on Fri, 7 Aug 2026.
+Kruel Intentions is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ministry Of Sound, London on Fri, 7 Aug 2026.
 
 Kruel Intentions is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Ryan Spicer, Dan Hayes and Tinie Tempah. Next up: Ministry Of Sound, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kruel Intentions is a house and tech house artist based in United Kingdom, track
 
 Ryan Spicer, Dan Hayes, Tinie Tempah
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelintentions/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelintentions/)*

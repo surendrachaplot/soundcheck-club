@@ -1,6 +1,6 @@
 # IDK Social Bar
 
-IDK Social Bar is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "DJ Contest Night" on Sat, 29 Aug 2026.
+IDK Social Bar is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "DJ Contest Night" on Sat, 29 Aug 2026.
 
 IDK Social Bar is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 172 Ossington Ave.
 
@@ -14,4 +14,4 @@ IDK Social Bar is a music venue in Toronto listed on soundcheck. 1 upcoming nigh
 
 172 Ossington Ave, Toronto
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/idk-social-bar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/idk-social-bar/)*

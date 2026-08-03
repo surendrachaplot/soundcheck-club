@@ -1,6 +1,6 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+ATRIP is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 ATRIP is a house and garage artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Barcelona and Belfast and 36 more. Often billed alongside Oppidan, salute and Daria Kolosova. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ ATRIP is a house and garage artist tracked on soundcheck, with 76 sets logged ac
 
 Oppidan, salute, Daria Kolosova
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

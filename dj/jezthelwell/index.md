@@ -1,6 +1,6 @@
 # Jez Thelwell
 
-Jez Thelwell is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Commune, Liverpool on Thu, 10 Sept 2026.
+Jez Thelwell is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Commune, Liverpool on Thu, 10 Sept 2026.
 
 Jez Thelwell is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Liverpool. Often billed alongside James Adrian Brown, Alex Spiers and Field Lines Cartographer. Next up: Commune, Liverpool on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ Jez Thelwell is an electronica and experimental artist based in United Kingdom, 
 
 James Adrian Brown, Alex Spiers, Field Lines Cartographer
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezthelwell/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezthelwell/)*

@@ -1,6 +1,6 @@
 # Amine S
 
-Amine S is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
+Amine S is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
 
 Amine S is a house artist based in France, tracked on soundcheck, with 7 sets logged across Paris. Often billed alongside Alich (1), Anah and Anthea. Next up: Mia Mao, Paris on Thu 10 Sept.
 
@@ -23,4 +23,4 @@ Amine S is a house artist based in France, tracked on soundcheck, with 7 sets lo
 
 Alich (1), Anah, Anthea
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amines/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amines/)*

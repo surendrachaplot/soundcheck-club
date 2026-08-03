@@ -1,6 +1,6 @@
 # Anushka (UK)
 
-Anushka (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Système, Montreal on Sat, 8 Aug 2026.
+Anushka (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Système, Montreal on Sat, 8 Aug 2026.
 
 Anushka (UK) is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London and Montreal. Often billed alongside ccil and hadis. Next up: Système, Montreal on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Anushka (UK) is an electronic artist based in United Kingdom, tracked on soundch
 
 ccil, hadis
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anushka-uk/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anushka-uk/)*

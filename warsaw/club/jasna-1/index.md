@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K" on Fri, 7 Aug 2026.
+Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K" on Fri, 7 Aug 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including Adelina, Badalian, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

@@ -1,6 +1,6 @@
 # Richy Happy Bar
 
-Richy Happy Bar is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "APERIDISCO" on Sat, 29 Aug 2026.
+Richy Happy Bar is a music venue in Prague with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "APERIDISCO" on Sat, 29 Aug 2026.
 
 Richy Happy Bar is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Nicco Lupen. Browse upcoming dates, start times and who's playing. Záhořanského 7, 120 00, Nové Město, Praha.
 
@@ -14,4 +14,4 @@ Richy Happy Bar is a music venue in Prague listed on soundcheck. 1 upcoming nigh
 
 Záhořanského 7, 120 00, Nové Město, Praha, Prague
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/richy-happy-bar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/richy-happy-bar/)*

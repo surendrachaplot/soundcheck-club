@@ -1,6 +1,6 @@
 # Bog (3)
 
-Bog (3) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Platforma Wolff, Bucharest on Thu, 6 Aug 2026.
+Bog (3) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Platforma Wolff, Bucharest on Thu, 6 Aug 2026.
 
 Bog (3) is an electro and techno artist based in Romania, tracked on soundcheck, with 6 sets logged across Berlin and Bucharest. Often billed alongside Alexandra, DJ Slim Fit and The Apricots. Next up: Platforma Wolff, Bucharest on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Bog (3) is an electro and techno artist based in Romania, tracked on soundcheck,
 
 Alexandra, DJ Slim Fit, The Apricots
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bog-3/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bog-3/)*

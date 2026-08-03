@@ -1,6 +1,6 @@
 # Soulfunky
 
-Soulfunky is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 21 Aug 2026.
+Soulfunky is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Soulfunky is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across Sanfrancisco. Often billed alongside J Key, LEDET and DJ M3. Next up: The Great Northern, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Soulfunky is a house and disco artist based in United States of America, tracked
 
 J Key, LEDET, DJ M3
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfunky/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfunky/)*

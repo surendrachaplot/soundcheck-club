@@ -1,6 +1,6 @@
 # Victor Tomasi
 
-Victor Tomasi is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
+Victor Tomasi is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
 
 Victor Tomasi is a tech house and deep house artist based in France, tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside KAZAM, Māokē and Flabaire. Next up: Le Mazette, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Victor Tomasi is a tech house and deep house artist based in France, tracked on 
 
 KAZAM, Māokē, Flabaire
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victortomasi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victortomasi/)*

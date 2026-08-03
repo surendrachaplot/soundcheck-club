@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "SYSTEM" on Wed, 5 Aug 2026.
+Mood Ring is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SYSTEM" on Wed, 5 Aug 2026.
 
 Mood Ring is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Pei Up, AJACENT, AMLA.DHAS and Atomheartmommy and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nigh
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

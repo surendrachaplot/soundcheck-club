@@ -1,6 +1,6 @@
 # Ale Acosta
 
-Ale Acosta is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Floyd, Miami on Sun, 9 Aug 2026.
+Ale Acosta is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Floyd, Miami on Sun, 9 Aug 2026.
 
 Ale Acosta is a tech house and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Miami and Newyorkcity. Often billed alongside HAZÓN, SATURNSARii and Roll-e. Next up: Floyd, Miami on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Ale Acosta is a tech house and house artist based in United States of America, t
 
 HAZÓN, SATURNSARii, Roll-e
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleacosta/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleacosta/)*

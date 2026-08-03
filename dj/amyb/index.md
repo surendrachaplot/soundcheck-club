@@ -1,6 +1,6 @@
 # Amy  B
 
-Amy  B is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 15 Aug 2026.
+Amy  B is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 15 Aug 2026.
 
 Amy  B is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside DJ Brockie, Darz and Hickey. Next up: Avalon Cafe Bermondsey, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Amy  B is a drum & bass and jungle artist tracked on soundcheck, with 4 sets log
 
 DJ Brockie, Darz, Hickey
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*

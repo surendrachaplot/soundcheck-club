@@ -1,6 +1,6 @@
 # Diass
 
-Diass is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
+Diass is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
 
 Diass is a techno and house artist based in Bulgaria, tracked on soundcheck, with 3 sets logged across Berlin and Ibiza. Often billed alongside Dj Diass, Bedouin and Ben Evers. Next up: Kater, Berlin on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Diass is a techno and house artist based in Bulgaria, tracked on soundcheck, wit
 
 Dj Diass, Bedouin, Ben Evers
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*

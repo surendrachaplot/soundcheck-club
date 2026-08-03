@@ -1,6 +1,6 @@
 # Mini Nik
 
-Mini Nik is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kaos Berlin, Berlin on Sun, 9 Aug 2026.
+Mini Nik is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kaos Berlin, Berlin on Sun, 9 Aug 2026.
 
 Mini Nik is a house and disco artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside Mat Fink, Dominik Szczepaniak and Hideto Omura. Next up: Kaos Berlin, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mini Nik is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 Mat Fink, Dominik Szczepaniak, Hideto Omura
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mininik/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mininik/)*

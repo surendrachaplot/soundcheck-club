@@ -1,6 +1,6 @@
 # DAX J
 
-DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 DAX J is a techno and house artist tracked on soundcheck, with 248 sets logged across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -35,4 +35,4 @@ DAX J is a techno and house artist tracked on soundcheck, with 248 sets logged a
 
 SPFDJ, Daria Kolosova, 999999999
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

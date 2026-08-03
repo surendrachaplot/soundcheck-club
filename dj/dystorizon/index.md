@@ -1,6 +1,6 @@
 # Dystorizon
 
-Dystorizon is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Oven Club, Valencia on Sat, 8 Aug 2026.
+Dystorizon is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Oven Club, Valencia on Sat, 8 Aug 2026.
 
 Dystorizon is a tech house and house artist based in India, tracked on soundcheck, with 12 sets logged across Berlin, Madrid and Valencia. Often billed alongside Blanch, Pau Pérez and blan.trrs. Next up: Oven Club, Valencia on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dystorizon is a tech house and house artist based in India, tracked on soundchec
 
 Blanch, Pau Pérez, blan.trrs
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dystorizon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dystorizon/)*

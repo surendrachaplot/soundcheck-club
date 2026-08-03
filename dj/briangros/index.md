@@ -1,6 +1,6 @@
 # Brian Gros
 
-Brian Gros is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Area Costanera, Quilmes, Buenos Aires on Sat, 8 Aug 2026.
+Brian Gros is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Area Costanera, Quilmes, Buenos Aires on Sat, 8 Aug 2026.
 
 Brian Gros is a techno and dub techno artist tracked on soundcheck, with 5 sets logged across Buenosaires. Often billed alongside Franco Smith, John Joseph (Arg) and Undercatt. Next up: TBA - Area Costanera, Quilmes, Buenosaires on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Brian Gros is a techno and dub techno artist tracked on soundcheck, with 5 sets 
 
 Franco Smith, John Joseph (Arg), Undercatt
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briangros/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briangros/)*

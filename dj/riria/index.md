@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+RIRIA is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 RIRIA is a techno and bass artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -33,4 +33,4 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 86 sets logged acr
 
 Diffrent, ryota dj, Ryota
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

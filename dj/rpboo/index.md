@@ -1,6 +1,6 @@
 # RP Boo
 
-RP Boo is a Footwork and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bourbon On Division, Chicago on Fri, 7 Aug 2026.
+RP Boo is a Footwork and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bourbon On Division, Chicago on Fri, 7 Aug 2026.
 
 RP Boo is a footwork and techno artist based in United States of America, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside DJ Spinn, Crystallmess and Introspekt. Next up: Bourbon On Division, Chicago on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ RP Boo is a footwork and techno artist based in United States of America, tracke
 
 DJ Spinn, Crystallmess, Introspekt
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

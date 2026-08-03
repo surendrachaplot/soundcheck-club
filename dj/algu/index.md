@@ -1,6 +1,6 @@
 # al gu
 
-al gu is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Summerhall, Edinburgh on Sun, 16 Aug 2026.
+al gu is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Summerhall, Edinburgh on Sun, 16 Aug 2026.
 
 al gu is a bass and electro artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Edinburgh and Glasgow. Often billed alongside miira, Buckfast Barbie and malicedeejay. Next up: Summerhall, Edinburgh on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ al gu is a bass and electro artist based in United Kingdom, tracked on soundchec
 
 miira, Buckfast Barbie, malicedeejay
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/algu/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/algu/)*

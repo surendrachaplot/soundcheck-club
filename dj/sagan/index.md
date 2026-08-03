@@ -1,6 +1,6 @@
 # SAGAN
 
-SAGAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
+SAGAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
 
 SAGAN is a house and techno artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Bristol and Lyon. Often billed alongside Mira, Mila Stern and Borella. Next up: Monarch, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ SAGAN is a house and techno artist tracked on soundcheck, with 40 sets logged ac
 
 Mira, Mila Stern, Borella
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sagan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sagan/)*

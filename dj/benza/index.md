@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Else, Berlin on Fri, 7 Aug 2026.
+BENZA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Else, Berlin on Fri, 7 Aug 2026.
 
 BENZA is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 14 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Else, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ BENZA is a techno and house artist tracked on soundcheck, with 60 sets logged ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

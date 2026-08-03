@@ -1,6 +1,6 @@
 # /KATA/
 
-/KATA/ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
+/KATA/ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
 
 /KATA/ is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Marco Neves, Lexicon and Tlim Shug. Next up: Nowadays, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@
 
 Marco Neves, Lexicon, Tlim Shug
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kata/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kata/)*

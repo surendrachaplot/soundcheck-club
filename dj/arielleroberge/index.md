@@ -1,6 +1,6 @@
 # Arielle Roberge
 
-Arielle Roberge is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 6 Aug 2026.
+Arielle Roberge is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 6 Aug 2026.
 
 Arielle Roberge is a house and disco artist based in Canada, tracked on soundcheck, with 26 sets logged across Montreal. Often billed alongside Bolarinho, Mandiz and Manuel Falardeau. Next up: Jardins Gamelin, Montreal on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Arielle Roberge is a house and disco artist based in Canada, tracked on soundche
 
 Bolarinho, Mandiz, Manuel Falardeau
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arielleroberge/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arielleroberge/)*

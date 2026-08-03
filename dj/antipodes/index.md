@@ -1,6 +1,6 @@
 # ANTIPODES
 
-ANTIPODES is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+ANTIPODES is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 ANTIPODES is a techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside dj people's princess, Blackromeo and CITYTRONIX. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ ANTIPODES is a techno artist based in United Kingdom, tracked on soundcheck, wit
 
 dj people's princess, Blackromeo, CITYTRONIX
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antipodes/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antipodes/)*

@@ -1,6 +1,6 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Serafina is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Serafina is a techno and trance artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -36,4 +36,4 @@ Serafina is a techno and trance artist tracked on soundcheck, with 156 sets logg
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

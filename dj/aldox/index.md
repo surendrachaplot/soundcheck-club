@@ -1,6 +1,6 @@
 # ALDOX
 
-ALDOX is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+ALDOX is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 ALDOX is a techno and electronica artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Cler., AAAA and Alytta. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ ALDOX is a techno and electronica artist based in Mexico, tracked on soundcheck,
 
 Cler., AAAA, Alytta
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldox/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldox/)*

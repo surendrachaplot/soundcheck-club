@@ -1,6 +1,6 @@
 # Elleinad
 
-Elleinad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
+Elleinad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
 
 Elleinad is a house and techno artist tracked on soundcheck, with 31 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Aly P, Nerram and Aerofunk. Next up: TBA, Liverpool on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Elleinad is a house and techno artist tracked on soundcheck, with 31 sets logged
 
 Aly P, Nerram, Aerofunk
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elleinad/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elleinad/)*

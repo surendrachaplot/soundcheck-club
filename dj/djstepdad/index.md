@@ -1,6 +1,6 @@
 # DJ STEPDAD
 
-DJ STEPDAD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jupiter Disco, New York City on Sun, 9 Aug 2026.
+DJ STEPDAD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jupiter Disco, New York City on Sun, 9 Aug 2026.
 
 DJ STEPDAD is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Boston, Nashville, Newyorkcity and Philadelphia and 1 more. Often billed alongside Alien D, Connector and Mole (US). Next up: Jupiter Disco, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ DJ STEPDAD is a techno and house artist based in United States of America, track
 
 Alien D, Connector, Mole (US)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstepdad/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstepdad/)*

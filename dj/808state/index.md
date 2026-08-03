@@ -1,6 +1,6 @@
 # 808 State
 
-808 State is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Index, Dublin on Thu, 20 Aug 2026.
+808 State is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Index, Dublin on Thu, 20 Aug 2026.
 
 808 State is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside Graeme Park, Jon Dasilva and Justin Robertson. Next up: Index, Dublin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@
 
 Graeme Park, Jon Dasilva, Justin Robertson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*

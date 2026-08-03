@@ -1,6 +1,6 @@
 # Kino Carey
 
-Kino Carey is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at WOMB, Tokyo on Sun, 9 Aug 2026.
+Kino Carey is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at WOMB, Tokyo on Sun, 9 Aug 2026.
 
 Kino Carey is a tech house and afro house artist based in Canada, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside You Liang, JEEN SEIGO and O.Goo. Next up: WOMB, Tokyo on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Kino Carey is a tech house and afro house artist based in Canada, tracked on sou
 
 You Liang, JEEN SEIGO, O.Goo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinocarey/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinocarey/)*

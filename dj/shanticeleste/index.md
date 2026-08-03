@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Shanti Celeste is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets
 
 Peach, Saoirse, Ogazón
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

@@ -1,6 +1,6 @@
 # Tom Kutsche
 
-Tom Kutsche is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1), Berlin on Sun, 9 Aug 2026.
+Tom Kutsche is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1), Berlin on Sun, 9 Aug 2026.
 
 Tom Kutsche is a house and disco artist based in Germany, tracked on soundcheck, with 74 sets logged across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Diskohengst, Merlin Monroe and Valentino 45. Next up: ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1), Berlin on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Tom Kutsche is a house and disco artist based in Germany, tracked on soundcheck,
 
 Diskohengst, Merlin Monroe, Valentino 45
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*

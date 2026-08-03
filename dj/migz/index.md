@@ -1,6 +1,6 @@
 # Migz
 
-Migz is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+Migz is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 Migz is a jungle and techno artist tracked on soundcheck, with 45 sets logged across Berlin, Malta and Stockholm. Often billed alongside Dub Isotope, Upzet and Jimi Handtrix. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Migz is a jungle and techno artist tracked on soundcheck, with 45 sets logged ac
 
 Dub Isotope, Upzet, Jimi Handtrix
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*

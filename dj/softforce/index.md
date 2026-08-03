@@ -1,6 +1,6 @@
 # Soft Force
 
-Soft Force is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at fi, Cologne on Sat, 8 Aug 2026.
+Soft Force is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at fi, Cologne on Sat, 8 Aug 2026.
 
 Soft Force is a techno and house artist based in Ukraine, tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside HADE (1), Krystal Klear and Lingy. Next up: fi, Cologne on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Soft Force is a techno and house artist based in Ukraine, tracked on soundcheck,
 
 HADE (1), Krystal Klear, Lingy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softforce/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softforce/)*

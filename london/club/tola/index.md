@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Basic Function's Second Birthday with Public House Hifi" on Sat, 8 Aug 2026.
+Tola is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Basic Function's Second Birthday with Public House Hifi" on Sat, 8 Aug 2026.
 
 Tola is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Basic Function, Buddy. (2), CHICCA and Harmony and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -18,4 +18,4 @@ Tola is a music venue in London listed on soundcheck. 5 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

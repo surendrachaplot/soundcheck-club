@@ -1,6 +1,6 @@
 # The Avener
 
-The Avener is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Base Aérienne 217, Paris on Fri, 11 Sept 2026.
+The Avener is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Base Aérienne 217, Paris on Fri, 11 Sept 2026.
 
 The Avener is a techno and electro artist based in France, tracked on soundcheck, with 8 sets logged across Brussels, Lyon, Marseille and Milan and 1 more. Often billed alongside 8KAYS, Acid Arab and Alex Wann. Next up: Base Aérienne 217, Paris on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ The Avener is a techno and electro artist based in France, tracked on soundcheck
 
 8KAYS, Acid Arab, Alex Wann
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theavener/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theavener/)*

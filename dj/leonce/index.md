@@ -1,6 +1,6 @@
 # Leonce
 
-Leonce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Art Club, Houston on Sat, 22 Aug 2026.
+Leonce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Art Club, Houston on Sat, 22 Aug 2026.
 
 Leonce is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Boston and 19 more. Often billed alongside Kilopatrah Jones, ALEXIS DE LA ROSA and Bok Bok. Next up: Art Club, Houston on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Leonce is a techno and house artist tracked on soundcheck, with 95 sets logged a
 
 Kilopatrah Jones, ALEXIS DE LA ROSA, Bok Bok
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*

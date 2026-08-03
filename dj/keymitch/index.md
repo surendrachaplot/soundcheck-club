@@ -1,6 +1,6 @@
 # Key Mitch
 
-Key Mitch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+Key Mitch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 Key Mitch is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit. Often billed alongside Drop Catch, Ro Low and DISCOBOT. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Key Mitch is a house and techno artist based in United States of America, tracke
 
 Drop Catch, Ro Low, DISCOBOT
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keymitch/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keymitch/)*

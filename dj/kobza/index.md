@@ -1,6 +1,6 @@
 # Kobza
 
-Kobza is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Noto Philadelphia, Philadelphia on Thu, 22 Oct 2026.
+Kobza is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Noto Philadelphia, Philadelphia on Thu, 22 Oct 2026.
 
 Kobza is a techno and progressive house artist tracked on soundcheck, with 35 sets logged across Philadelphia. Often billed alongside Maddalena, Mayank and NewiZ. Next up: Noto Philadelphia, Philadelphia on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kobza is a techno and progressive house artist tracked on soundcheck, with 35 se
 
 Maddalena, Mayank, NewiZ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobza/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobza/)*

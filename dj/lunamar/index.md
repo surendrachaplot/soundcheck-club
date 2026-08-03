@@ -1,6 +1,6 @@
 # Luna Mar
 
-Luna Mar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ciao Ciao, New York City on Sat, 15 Aug 2026.
+Luna Mar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ciao Ciao, New York City on Sat, 15 Aug 2026.
 
 Luna Mar is a house and tech house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside HVNLEE, Shahar and Anane. Next up: Ciao Ciao, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Luna Mar is a house and tech house artist based in United States of America, tra
 
 HVNLEE, Shahar, Anane
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunamar/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunamar/)*

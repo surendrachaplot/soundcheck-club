@@ -1,6 +1,6 @@
 # Earthly Measures
 
-Earthly Measures is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Folklore, London on Sat, 15 Aug 2026.
+Earthly Measures is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Folklore, London on Sat, 15 Aug 2026.
 
 Earthly Measures is a reggaeton and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Bristol, Ibiza, London and Manchester. Often billed alongside Baxtak, Charles Green and DJ Raff. Next up: Folklore, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Earthly Measures is a reggaeton and house artist based in United Kingdom, tracke
 
 Baxtak, Charles Green, DJ Raff
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earthlymeasures/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earthlymeasures/)*

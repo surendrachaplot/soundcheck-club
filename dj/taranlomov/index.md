@@ -1,6 +1,6 @@
 # Taran & Lomov
 
-Taran & Lomov is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 7 Aug 2026.
+Taran & Lomov is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 7 Aug 2026.
 
 Taran & Lomov are a house and techno duo tracked on soundcheck, with 18 sets logged across Riga. Often billed alongside Herren Ivo, mOZ (2) and Adroit. Next up: River Ship Vecrīga, Riga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Taran & Lomov are a house and techno duo tracked on soundcheck, with 18 sets log
 
 Herren Ivo, mOZ (2), Adroit
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taranlomov/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taranlomov/)*

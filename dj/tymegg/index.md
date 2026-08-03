@@ -1,6 +1,6 @@
 # TYMEGG
 
-TYMEGG is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Smolna, Warsaw on Sat, 8 Aug 2026.
+TYMEGG is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Smolna, Warsaw on Sat, 8 Aug 2026.
 
 TYMEGG is a techno and bass artist based in Poland, tracked on soundcheck, with 13 sets logged across Warsaw. Often billed alongside DJNIEMUSIAŁ, bolo and Abrew. Next up: Smolna, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ TYMEGG is a techno and bass artist based in Poland, tracked on soundcheck, with 
 
 DJNIEMUSIAŁ, bolo, Abrew
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tymegg/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tymegg/)*

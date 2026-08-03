@@ -1,6 +1,6 @@
 # Hellotrip
 
-Hellotrip is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mena Berlin, Berlin on Fri, 21 Aug 2026.
+Hellotrip is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mena Berlin, Berlin on Fri, 21 Aug 2026.
 
 Hellotrip is a techno and house artist based in Colombia, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside ANDI A., ATTA (GER) and Anna Schreit. Next up: Mena Berlin, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Hellotrip is a techno and house artist based in Colombia, tracked on soundcheck,
 
 ANDI A., ATTA (GER), Anna Schreit
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellotrip/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellotrip/)*

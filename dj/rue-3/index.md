@@ -1,6 +1,6 @@
 # rue (3)
 
-rue (3) is a Electro and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Cakeshop, Seoul on Fri, 7 Aug 2026.
+rue (3) is a Electro and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Cakeshop, Seoul on Fri, 7 Aug 2026.
 
 rue (3) is an electro and club artist based in South Korea, tracked on soundcheck, with 15 sets logged across Seoul. Often billed alongside DDD (2), Excultist and KING SHE. Next up: Cakeshop, Seoul on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ rue (3) is an electro and club artist based in South Korea, tracked on soundchec
 
 DDD (2), Excultist, KING SHE
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*

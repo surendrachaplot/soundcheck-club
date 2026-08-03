@@ -1,6 +1,6 @@
 # Drinks On Me
 
-Drinks On Me is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Thekla, Bristol on Fri, 25 Sept 2026.
+Drinks On Me is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Thekla, Bristol on Fri, 25 Sept 2026.
 
 Drinks On Me is a garage and drum & bass artist tracked on soundcheck, with 34 sets logged across Bristol, Edinburgh, Glasgow and Leeds and 2 more. Often billed alongside Southby, Flourish and Sam Day. Next up: Thekla, Bristol on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Drinks On Me is a garage and drum & bass artist tracked on soundcheck, with 34 s
 
 Southby, Flourish, Sam Day
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drinksonme/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drinksonme/)*

@@ -1,6 +1,6 @@
 # La Fabrica
 
-La Fabrica is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "AprTen presents: A10N After" on Fri, 7 Aug 2026.
+La Fabrica is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "AprTen presents: A10N After" on Fri, 7 Aug 2026.
 
 La Fabrica is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including BE EZY, Chris Nitti, Jandro and MAXIMILIANO (US) and 2 more. Browse upcoming dates, start times and who's playing. 1124 Congress St NE, Washington DC 20002.
 
@@ -15,4 +15,4 @@ La Fabrica is a music venue in Washingtondc listed on soundcheck. 2 upcoming nig
 
 1124 Congress St NE, Washington DC 20002, Washington DC
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*

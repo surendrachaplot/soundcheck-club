@@ -1,6 +1,6 @@
 # fatmuska
 
-fatmuska is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
+fatmuska is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
 
 fatmuska is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside DJ Purpur, ELLI B and tamarawrx3. Next up: elipamanoke, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ fatmuska is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 DJ Purpur, ELLI B, tamarawrx3
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmuska/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmuska/)*

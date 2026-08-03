@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "ROMAN SURVIVORS 07/08" on Fri, 7 Aug 2026.
+Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "ROMAN SURVIVORS 07/08" on Fri, 7 Aug 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, with line-ups including Adiel, Fabrizio Sala, Marcel Dettmann and Nina Kraviz and 1 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -17,4 +17,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

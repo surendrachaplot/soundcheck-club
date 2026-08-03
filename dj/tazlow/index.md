@@ -1,6 +1,6 @@
 # Tazlow
 
-Tazlow is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Red Room, Montreal on Wed, 19 Aug 2026.
+Tazlow is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Red Room, Montreal on Wed, 19 Aug 2026.
 
 Tazlow is a techno and acid artist tracked on soundcheck, with 8 sets logged across Geneva and Montreal. Often billed alongside TAZAR, Alva Peals and CedTek. Next up: Le Red Room, Montreal on Wed 19 Aug.
 
@@ -24,4 +24,4 @@ Tazlow is a techno and acid artist tracked on soundcheck, with 8 sets logged acr
 
 TAZAR, Alva Peals, CedTek
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tazlow/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tazlow/)*

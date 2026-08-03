@@ -1,6 +1,6 @@
 # jakari wing
 
-jakari wing is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+jakari wing is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 jakari wing is an electronic artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Rajuju, Aku and Arjxn. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ jakari wing is an electronic artist based in United States of America, tracked o
 
 Rajuju, Aku, Arjxn
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakariwing/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakariwing/)*

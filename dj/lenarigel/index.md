@@ -1,6 +1,6 @@
 # Lena Rigel
 
-Lena Rigel is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
+Lena Rigel is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
 
 Lena Rigel is a house and garage artist tracked on soundcheck, with 11 sets logged across Amsterdam. Often billed alongside Masha Wordpress, AYEDA and A Guy Called Gerald. Next up: murmur, Amsterdam on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Lena Rigel is a house and garage artist tracked on soundcheck, with 11 sets logg
 
 Masha Wordpress, AYEDA, A Guy Called Gerald
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenarigel/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenarigel/)*

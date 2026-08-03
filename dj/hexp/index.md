@@ -1,6 +1,6 @@
 # Hex P
 
-Hex P is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Mile End Outdoors, Montreal on Sun, 9 Aug 2026.
+Hex P is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Mile End Outdoors, Montreal on Sun, 9 Aug 2026.
 
 Hex P is a house and club artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside Michele Azur, Destiny (CA) and Anabasine. Next up: TBA - Mile End Outdoors, Montreal on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Hex P is a house and club artist based in Canada, tracked on soundcheck, with 20
 
 Michele Azur, Destiny (CA), Anabasine
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexp/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexp/)*

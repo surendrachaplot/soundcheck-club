@@ -1,6 +1,6 @@
 # NITA
 
-NITA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
+NITA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
 
 NITA is a techno and house artist tracked on soundcheck, with 79 sets logged across Tokyo. Often billed alongside Bundo, XINOVI and Rimo. Next up: clubasia, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NITA is a techno and house artist tracked on soundcheck, with 79 sets logged acr
 
 Bundo, XINOVI, Rimo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nita/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nita/)*

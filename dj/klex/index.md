@@ -1,6 +1,6 @@
 # Klex
 
-Klex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Klex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Klex is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen, Leipzig and Tbilisi. Often billed alongside Polygraphic Hate Alliance, Hanna Baertig and Lakehead. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Klex is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Polygraphic Hate Alliance, Hanna Baertig, Lakehead
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klex/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klex/)*

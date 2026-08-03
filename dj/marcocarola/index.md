@@ -1,6 +1,6 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 18 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 5 Aug 2026.
+Marco Carola is a Tech House and Techno artist with 18 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 5 Aug 2026.
 
 Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Wed 5 Aug.
 
@@ -36,4 +36,4 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 s
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

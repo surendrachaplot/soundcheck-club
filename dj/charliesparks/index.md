@@ -1,14 +1,13 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+Charlie Sparks is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Komplex Klub, Zurich on Sat, 8 Aug 2026.
 
-Charlie Sparks is a techno and trance artist tracked on soundcheck, with 253 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Boston Manor Park, London on Sun 2 Aug.
+Charlie Sparks is a techno and trance artist tracked on soundcheck, with 253 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Komplex Klub, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Boston Manor Park | London |
 | Sat, 8 Aug 2026 | Komplex Klub | Zurich |
 | Sun, 16 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Eden | Ibiza |
@@ -20,6 +19,7 @@ Charlie Sparks is a techno and trance artist tracked on soundcheck, with 253 set
 
 ## Recently played
 
+- Boston Manor Park, London — Sun, 2 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona — Thu, 23 Jul 2026
 - Tide Tokyo, Tokyo — Sun, 5 Jul 2026
@@ -27,10 +27,9 @@ Charlie Sparks is a techno and trance artist tracked on soundcheck, with 253 set
 - TBA - MATREZ , Belgrade — Sat, 27 Jun 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - Eden, Ibiza — Sat, 13 Jun 2026
-- Eden, Ibiza — Tue, 9 Jun 2026
 
 ## Shares bills with
 
 999999999, Parfait, I Hate Models
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

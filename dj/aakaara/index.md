@@ -1,6 +1,6 @@
 # AAKAARA
 
-AAKAARA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Vespers Club, London on Fri, 4 Sept 2026.
+AAKAARA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Vespers Club, London on Fri, 4 Sept 2026.
 
 AAKAARA is a techno and industrial artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Benebe, SIOBHAN. and TOOTHTAXI. Next up: Vespers Club, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ AAKAARA is a techno and industrial artist tracked on soundcheck, with 11 sets lo
 
 Benebe, SIOBHAN., TOOTHTAXI
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*

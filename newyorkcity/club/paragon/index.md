@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Club Stars: TOCCORORO, BEARCAT, Guillotine + No_4mat, Christian Tokyo" on Fri, 7 Aug 2026.
+Paragon is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Club Stars: TOCCORORO, BEARCAT, Guillotine + No_4mat, Christian Tokyo" on Fri, 7 Aug 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including 550am, MORENXXX, Adred and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

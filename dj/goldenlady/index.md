@@ -1,6 +1,6 @@
 # Golden Lady
 
-Golden Lady is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
+Golden Lady is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
 
 Golden Lady is an afro house and amapiano artist based in South Africa, tracked on soundcheck, with 34 sets logged across London and Paris. Often billed alongside INTUIT, Mixolis and Angela Rose. Next up: 93 Feet East, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Golden Lady is an afro house and amapiano artist based in South Africa, tracked 
 
 INTUIT, Mixolis, Angela Rose
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlady/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlady/)*

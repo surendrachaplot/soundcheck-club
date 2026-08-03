@@ -1,6 +1,6 @@
 # Alada
 
-Alada is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 14 Aug 2026.
+Alada is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 14 Aug 2026.
 
 Alada is a techno and baile funk artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside XD Erica, Slim Soledad and Dj Saliva. Next up: arkaoda Berlin, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Alada is a techno and baile funk artist tracked on soundcheck, with 37 sets logg
 
 XD Erica, Slim Soledad, Dj Saliva
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alada/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alada/)*

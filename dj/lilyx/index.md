@@ -1,6 +1,6 @@
 # LILY X
 
-LILY X is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Nice N Sleazy, Glasgow on Sat, 8 Aug 2026.
+LILY X is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nice N Sleazy, Glasgow on Sat, 8 Aug 2026.
 
 LILY X is a house and hardcore artist based in United States of America, tracked on soundcheck, with 9 sets logged across Frankfurt, Glasgow, Mexicocity and Seoul and 1 more. Often billed alongside Aki Dolanikov, YAMARCHY and 7e. Next up: Nice N Sleazy, Glasgow on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ LILY X is a house and hardcore artist based in United States of America, tracked
 
 Aki Dolanikov, YAMARCHY, 7e
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyx/)*

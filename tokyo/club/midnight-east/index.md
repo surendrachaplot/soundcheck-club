@@ -1,6 +1,6 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "電気菩薩" on Sat, 29 Aug 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "電気菩薩" on Sat, 29 Aug 2026.
 
 MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including DANDAN, egomania, ERIMIYA and HIMAWARI and 2 more. Browse upcoming dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -15,4 +15,4 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 2 upcoming nights,
 
 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*

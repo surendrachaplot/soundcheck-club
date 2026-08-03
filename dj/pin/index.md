@@ -1,6 +1,6 @@
 # Pin
 
-Pin is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Oven Club, Valencia on Fri, 7 Aug 2026.
+Pin is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Oven Club, Valencia on Fri, 7 Aug 2026.
 
 Pin is a house and tech house artist tracked on soundcheck, with 77 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Pau Pérez, Sueezo and Blanch. Next up: Oven Club, Valencia on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Pin is a house and tech house artist tracked on soundcheck, with 77 sets logged 
 
 Pau Pérez, Sueezo, Blanch
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pin/)*

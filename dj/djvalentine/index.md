@@ -1,6 +1,6 @@
 # DJ VALENTINE
 
-DJ VALENTINE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+DJ VALENTINE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 DJ VALENTINE is a techno and house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside FITS ME FUNNY, Helios Manoeuvres and Scampi. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ VALENTINE is a techno and house artist tracked on soundcheck, with 11 sets lo
 
 FITS ME FUNNY, Helios Manoeuvres, Scampi
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvalentine/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvalentine/)*

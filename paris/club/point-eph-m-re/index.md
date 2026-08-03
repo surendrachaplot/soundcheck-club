@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Louise Chen's EXTENDED PLAY" on Sat, 29 Aug 2026.
+Point Ephémère is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Louise Chen's EXTENDED PLAY" on Sat, 29 Aug 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Louise Chen. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -16,4 +16,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 3 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

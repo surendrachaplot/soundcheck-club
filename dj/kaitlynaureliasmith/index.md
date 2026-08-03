@@ -1,6 +1,6 @@
 # Kaitlyn Aurelia Smith
 
-Kaitlyn Aurelia Smith is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
+Kaitlyn Aurelia Smith is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
 
 Kaitlyn Aurelia Smith is an electro and ambient artist based in United States of America, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Aurora Halal, Erika de Casier and Marie Davidson. Next up: Finsbury Park, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kaitlyn Aurelia Smith is an electro and ambient artist based in United States of
 
 Aurora Halal, Erika de Casier, Marie Davidson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitlynaureliasmith/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitlynaureliasmith/)*

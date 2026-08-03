@@ -1,6 +1,6 @@
 # Nausy
 
-Nausy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
+Nausy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
 
 Nausy is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Leeds and Sheffield. Often billed alongside Mason Talbot, Finn Eden and Craig Cassiera. Next up: Distrikt, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nausy is a house and tech house artist based in United Kingdom, tracked on sound
 
 Mason Talbot, Finn Eden, Craig Cassiera
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nausy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nausy/)*

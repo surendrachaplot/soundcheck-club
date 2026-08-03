@@ -1,6 +1,6 @@
 # leisure fm
 
-leisure fm is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Spanners, London on Thu, 20 Aug 2026.
+leisure fm is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Spanners, London on Thu, 20 Aug 2026.
 
 leisure fm is a pop and experimental artist based in Poland, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Conrad Pack, Harietta and BJ Holy. Next up: Spanners, London on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ leisure fm is a pop and experimental artist based in Poland, tracked on soundche
 
 Conrad Pack, Harietta, BJ Holy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leisurefm/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leisurefm/)*

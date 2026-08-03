@@ -1,6 +1,6 @@
 # Luminescu
 
-Luminescu is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
+Luminescu is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
 
 Luminescu is a techno and minimal artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside somebody3lse, Claire and Ohm Hourani. Next up: TBA, Montreal on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Luminescu is a techno and minimal artist based in Canada, tracked on soundcheck,
 
 somebody3lse, Claire, Ohm Hourani
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luminescu/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luminescu/)*

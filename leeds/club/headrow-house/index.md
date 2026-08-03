@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "3PM Records - Headrow Rooftop" on Fri, 21 Aug 2026.
+Headrow House is a music venue in Leeds with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "3PM Records - Headrow Rooftop" on Fri, 21 Aug 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 12 upcoming nights, with line-ups including 3PM RECORDS, Fentonffp, Ms Ray and Partridge. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 12 upcoming nights
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

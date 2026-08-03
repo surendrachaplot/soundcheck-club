@@ -1,6 +1,6 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Story Toronto, Toronto on Sat, 8 Aug 2026.
+Demuir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Story Toronto, Toronto on Sat, 8 Aug 2026.
 
 Demuir is a house and deep house artist tracked on soundcheck, with 43 sets logged across Auckland, Austin, Chicago and Denver and 9 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: Story Toronto, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Demuir is a house and deep house artist tracked on soundcheck, with 43 sets logg
 
 Boys Don't Disco, Ian Llorens, Paul Najera
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

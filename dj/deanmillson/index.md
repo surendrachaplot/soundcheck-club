@@ -1,6 +1,6 @@
 # Dean Millson
 
-Dean Millson is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Joey Smalls, Melbourne on Sat, 12 Sept 2026.
+Dean Millson is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Joey Smalls, Melbourne on Sat, 12 Sept 2026.
 
 Dean Millson is a progressive house artist based in Australia, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside Gab Oliver. Next up: Joey Smalls, Melbourne on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ Dean Millson is a progressive house artist based in Australia, tracked on soundc
 
 Gab Oliver
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanmillson/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanmillson/)*

@@ -1,14 +1,13 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 19 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
+Cloudy is a Techno and Trance artist with 18 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - // HALLE622, Zurich on Sat, 8 Aug 2026.
 
-Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Valley, Berlin on Sun 2 Aug.
+Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: TBA - // HALLE622, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Valley | Berlin |
 | Sat, 8 Aug 2026 | TBA - // HALLE622 | Zurich |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 16 Aug 2026 | Boomerang Beach | The Hague |
@@ -20,9 +19,11 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 6 Sept 2026 | TBA | Toronto |
+| Mon, 7 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
 
+- Valley, Berlin — Sun, 2 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - Burgess Park, London — Sat, 1 Aug 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
@@ -30,10 +31,9 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 214 sets logged
 - Audiodrome, Turin — Sun, 5 Jul 2026
 - Westhafen, Leipzig — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- TBA - TANZ INSEL OPEN AIR, Nürnberg — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

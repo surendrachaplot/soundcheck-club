@@ -1,6 +1,6 @@
 # Beyond Def
 
-Beyond Def is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 8 Aug 2026.
+Beyond Def is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 8 Aug 2026.
 
 Beyond Def is a techno and minimal artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne and Sydney. Often billed alongside Bryan Ro, Andrea Guadalupi and Josh Heywood. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Beyond Def is a techno and minimal artist based in Australia, tracked on soundch
 
 Bryan Ro, Andrea Guadalupi, Josh Heywood
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beyonddef/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beyonddef/)*

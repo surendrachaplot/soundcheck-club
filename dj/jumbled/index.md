@@ -1,6 +1,6 @@
 # Jumbled
 
-Jumbled is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ramona, Manchester on Sat, 8 Aug 2026.
+Jumbled is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ramona, Manchester on Sat, 8 Aug 2026.
 
 Jumbled is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Manchester. Often billed alongside krioso, gr00vy.cat and Incupa97. Next up: Ramona, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jumbled is a techno and dubstep artist based in United Kingdom, tracked on sound
 
 krioso, gr00vy.cat, Incupa97
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jumbled/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jumbled/)*

@@ -1,6 +1,6 @@
 # Pei Up
 
-Pei Up is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mood Ring, New York City on Thu, 13 Aug 2026.
+Pei Up is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Thu, 13 Aug 2026.
 
 Pei Up is a club and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Glasgow, Losangeles and Newyorkcity. Often billed alongside DJ Janky, TO:NY and nmaito. Next up: Mood Ring, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Pei Up is a club and house artist based in United States of America, tracked on 
 
 DJ Janky, TO:NY, nmaito
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Pei-Up/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Pei-Up/)*

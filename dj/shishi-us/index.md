@@ -1,6 +1,6 @@
 # Shi Shi
 
-Shi Shi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Honey's at Star Love, Los Angeles on Sat, 8 Aug 2026.
+Shi Shi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honey's at Star Love, Los Angeles on Sat, 8 Aug 2026.
 
 Shi Shi is a house and club artist based in United States of America, tracked on soundcheck, with 37 sets logged across Chicago, London, Losangeles and Newyorkcity and 2 more. Often billed alongside Pacer, AceMo and sqip. Next up: Honey's at Star Love, Losangeles on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Shi Shi is a house and club artist based in United States of America, tracked on
 
 Pacer, AceMo, sqip
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*

@@ -1,6 +1,6 @@
 # Bulie Jordeaux
 
-Bulie Jordeaux is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
+Bulie Jordeaux is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
 
 Bulie Jordeaux is an electronic artist based in Belgium, tracked on soundcheck, with 14 sets logged across Brussels and Paris. Often billed alongside Ava Eva, Beatrice M. and Bon Public. Next up: Ruiterijcomplex, Brussels on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Bulie Jordeaux is an electronic artist based in Belgium, tracked on soundcheck, 
 
 Ava Eva, Beatrice M., Bon Public
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buliejordeaux/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buliejordeaux/)*

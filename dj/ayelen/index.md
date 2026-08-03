@@ -1,6 +1,6 @@
 # AYELEN
 
-AYELEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Culture Box, Copenhagen on Sat, 15 Aug 2026.
+AYELEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Sat, 15 Aug 2026.
 
 AYELEN is a techno and house artist tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Tim Andresen, Anders HP and Azpecialguest. Next up: Culture Box, Copenhagen on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ AYELEN is a techno and house artist tracked on soundcheck, with 4 sets logged ac
 
 Tim Andresen, Anders HP, Azpecialguest
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayelen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayelen/)*

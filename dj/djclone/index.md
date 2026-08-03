@@ -1,6 +1,6 @@
 # DJ Clone
 
-DJ Clone is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
+DJ Clone is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
 
 DJ Clone is a techno and club artist based in United States of America, tracked on soundcheck, with 46 sets logged across Austin, Barcelona, Miami and Newyorkcity and 2 more. Often billed alongside Word of Command, Miss Parker and flirty800. Next up: La Station - Gare des Mines, Paris on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Clone is a techno and club artist based in United States of America, tracked 
 
 Word of Command, Miss Parker, flirty800
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djclone/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djclone/)*

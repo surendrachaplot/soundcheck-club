@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Groove" on Fri, 14 Aug 2026.
+Baalsaal is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Groove" on Fri, 14 Aug 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including dannycookin, Eva Nyx, Kaizen and ROOB and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, w
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

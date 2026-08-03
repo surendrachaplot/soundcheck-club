@@ -1,6 +1,6 @@
 # YU-MA
 
-YU-MA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at flo Soakin, Osaka on Mon, 10 Aug 2026.
+YU-MA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at flo Soakin, Osaka on Mon, 10 Aug 2026.
 
 YU-MA is a techno and house artist based in Japan, tracked on soundcheck, with 41 sets logged across Osaka and Tokyo. Often billed alongside KUWAMAN, Takuto and Daisuke Pak. Next up: flo Soakin, Osaka on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ YU-MA is a techno and house artist based in Japan, tracked on soundcheck, with 4
 
 KUWAMAN, Takuto, Daisuke Pak
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-ma/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-ma/)*

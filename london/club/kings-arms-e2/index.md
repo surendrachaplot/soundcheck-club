@@ -1,14 +1,13 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Vinyl Open Decks with NOYB Vol. 5 [02.08.2026]" on Sun, 2 Aug 2026.
+Kings Arms E2 is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Kings Turntable: Sam Weddle [08.08.2026]" on Sat, 8 Aug 2026.
 
-Kings Arms E2 is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Kenji Kuroda, Lowree, NOYB and Nunonunonuno and 1 more. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
+Kings Arms E2 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Kenji Kuroda, Lowree, NOYB and Nunonunonuno and 1 more. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Vinyl Open Decks with NOYB Vol. 5 [02.08.2026] |  |
 | Sat, 8 Aug 2026 | Kings Turntable: Sam Weddle [08.08.2026] |  |
 | Sun, 9 Aug 2026 | Kings Turntable: Paloma [09.08.2026] | Paloma (DJ) |
 | Sat, 15 Aug 2026 | Kings Turntable: Kenji Kuroda & Lowree [15.08.2026] | Kenji Kuroda, Lowree |
@@ -18,9 +17,10 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 15 upcoming night
 | Sat, 29 Aug 2026 | Kings Resident DJs [29.08.2026] | NOYB |
 | Sun, 30 Aug 2026 | Kings Turntable: nongfaye [30.08.2026] |  |
 | Sat, 5 Sept 2026 | Kings Turntable |  |
+| Sun, 6 Sept 2026 | Vinyl Open Decks with George Kerr |  |
 
 ## Address
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

@@ -1,6 +1,6 @@
 # Darksidevinyl
 
-Darksidevinyl is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
+Darksidevinyl is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
 
 Darksidevinyl is a techno artist based in Austria, tracked on soundcheck, with 5 sets logged across Amsterdam, Ibiza, Stockholm and Zurich. Often billed alongside Alex Medina, Alex Sharp and D-Formation. Next up: John Doe, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Darksidevinyl is a techno artist based in Austria, tracked on soundcheck, with 5
 
 Alex Medina, Alex Sharp, D-Formation
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darksidevinyl/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darksidevinyl/)*

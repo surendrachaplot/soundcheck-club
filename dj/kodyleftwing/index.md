@@ -1,6 +1,6 @@
 # Leftwing & Kody
 
-Leftwing & Kody is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Last Arch, London on Fri, 14 Aug 2026.
+Leftwing & Kody is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Last Arch, London on Fri, 14 Aug 2026.
 
 Leftwing & Kody are a house and tech house duo based in United Kingdom, tracked on soundcheck, with 17 sets logged across Ibiza, Liverpool, London and Sandiego. Often billed alongside Ellie Cocks, Donna Love and Shane Fernandes. Next up: Last Arch, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Leftwing & Kody are a house and tech house duo based in United Kingdom, tracked 
 
 Ellie Cocks, Donna Love, Shane Fernandes
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodyleftwing/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodyleftwing/)*

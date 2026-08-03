@@ -1,6 +1,6 @@
 # DJ SAWA
 
-DJ SAWA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 9 Aug 2026.
+DJ SAWA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 9 Aug 2026.
 
 DJ SAWA is a house and disco artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside KENJI FURUYA, Ken Ishii and Ko Kimura. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 9 Aug.
 
@@ -20,4 +20,4 @@ DJ SAWA is a house and disco artist based in Japan, tracked on soundcheck, with 
 
 KENJI FURUYA, Ken Ishii, Ko Kimura
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsawa/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsawa/)*

@@ -1,6 +1,6 @@
 # Sleeping Village
 
-Sleeping Village is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Abstract Science + Satellite Era present Telephase with Chris Widman + Mithra" on Fri, 7 Aug 2026.
+Sleeping Village is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Abstract Science + Satellite Era present Telephase with Chris Widman + Mithra" on Fri, 7 Aug 2026.
 
 Sleeping Village is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Chris Widman and Mithra (3). Browse upcoming dates, start times and who's playing. 3734 W Belmont Ave, Chicago, IL 60618, USA.
 
@@ -14,4 +14,4 @@ Sleeping Village is a music venue in Chicago listed on soundcheck. 1 upcoming ni
 
 3734 W Belmont Ave, Chicago, IL 60618, USA, Chicago
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*

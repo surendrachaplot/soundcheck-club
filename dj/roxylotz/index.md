@@ -1,6 +1,6 @@
 # Roxy Lotz
 
-Roxy Lotz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Roxy Lotz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
 Roxy Lotz is a house and disco artist based in Australia, tracked on soundcheck, with 19 sets logged across Sydney. Often billed alongside Mina Tonic, SIILA and Waxlily. Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Roxy Lotz is a house and disco artist based in Australia, tracked on soundcheck,
 
 Mina Tonic, SIILA, Waxlily
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxylotz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxylotz/)*

@@ -1,6 +1,6 @@
 # STORM
 
-STORM is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at BRET, Amsterdam on Fri, 7 Aug 2026.
+STORM is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at BRET, Amsterdam on Fri, 7 Aug 2026.
 
 STORM is a house and hip-hop artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Brussels and Manchester and 5 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: BRET, Amsterdam on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ STORM is a house and hip-hop artist tracked on soundcheck, with 19 sets logged a
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*

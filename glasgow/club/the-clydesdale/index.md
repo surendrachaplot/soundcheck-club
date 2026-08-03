@@ -1,6 +1,6 @@
 # The Clydesdale
 
-The Clydesdale is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "VANISH Clydesdale Takeover" on Sat, 22 Aug 2026.
+The Clydesdale is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "VANISH Clydesdale Takeover" on Sat, 22 Aug 2026.
 
 The Clydesdale is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Génie, Jay Celino, Kairogen and LYLE (2) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Clydesdale is a music venue in Glasgow listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | VANISH Clydesdale Takeover | Génie, Jay Celino, Kairogen, LYLE (2), Orla Halligan, spleen (2) |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-clydesdale/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-clydesdale/)*

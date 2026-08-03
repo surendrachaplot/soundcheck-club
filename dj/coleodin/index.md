@@ -1,6 +1,6 @@
 # Cole Odin
 
-Cole Odin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 21 Aug 2026.
+Cole Odin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Cole Odin is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Sanfrancisco. Often billed alongside DJ M3, &ndmore and Anthony Mansfield. Next up: The Great Northern, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cole Odin is a house and disco artist based in United States of America, tracked
 
 DJ M3, &ndmore, Anthony Mansfield
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coleodin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coleodin/)*

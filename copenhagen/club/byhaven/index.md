@@ -1,14 +1,13 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Fruit-telle at Byhaven: Fruit-telle + ES + Tendo + Todi" on Sun, 2 Aug 2026.
+Byhaven is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "MTM & PETROLA80" on Thu, 6 Aug 2026.
 
-Byhaven is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Absalon Rieper, Britney Speed, Deb Foam and Entree and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
+Byhaven is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Absalon Rieper, Britney Speed, Deb Foam and Entree and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Fruit-telle at Byhaven: Fruit-telle + ES + Tendo + Todi |  |
 | Thu, 6 Aug 2026 | MTM & PETROLA80 | Deb Foam, Heddah, Lyra Valenza, Timmyia |
 | Sat, 8 Aug 2026 | DJ Typhoon & Friends |  |
 | Sun, 9 Aug 2026 | IKIGAI Sundays presents: Ricardo Roessel + Téa + NEC (AR) | Ricardo Roessel, Téa |
@@ -21,4 +20,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

@@ -1,6 +1,6 @@
 # Julia Linkogel
 
-Julia Linkogel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
+Julia Linkogel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
 
 Julia Linkogel is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Adriatique, Baime and Ae:ther. Next up: E1, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Julia Linkogel is a house and techno artist based in Germany, tracked on soundch
 
 Adriatique, Baime, Ae:ther
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*

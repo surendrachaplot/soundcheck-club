@@ -1,14 +1,13 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "YES YES YALL CARIBANA EDITION featuring JORDIOR, Nino Brown, POTATO and Young Teesh  " on Sun, 2 Aug 2026.
+Standard Time is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Daphni OPEN-CLOSE NIGHT 2" on Thu, 6 Aug 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Benski, Benski (CA), Dameer and Daphni and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Benski, Benski (CA), Dameer and Daphni and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | YES YES YALL CARIBANA EDITION featuring JORDIOR, Nino Brown, POTATO and Young Teesh   | Nino Brown, Young Teesh |
 | Thu, 6 Aug 2026 | Daphni OPEN-CLOSE NIGHT 2 | Daphni |
 | Fri, 7 Aug 2026 | TEED DJ-Kicks Tour with Kiinjo | Kiinjo, TEED |
 | Sat, 8 Aug 2026 | LEO SZN / PRESENTED BY CITYPOOLWARRIOR  | DR 4SKYN, Delicious DJ, EMRYSLAZULI, XANGA |
@@ -18,9 +17,10 @@ Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nigh
 | Fri, 21 Aug 2026 | Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and Juanito   | ESCOBUTT, Juanit0, NAP (MX) |
 | Fri, 28 Aug 2026 | Leon Vynehall Open to Close | Leon Vynehall |
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
+| Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

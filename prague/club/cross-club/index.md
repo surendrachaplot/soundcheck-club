@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 29 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "CROSS SQUARE with Butter Funk Family (USA) & KEEP IT ROLL INVITES BASSGRAVE" on Sun, 2 Aug 2026.
+Cross Club is a music venue in Prague with 28 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "MEZIPATRA PRIDE & LETNÍ KINO MEZIPATRA PRIDE & LOS TEKKENOS" on Mon, 3 Aug 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 29 upcoming nights, with line-ups including Butter Funk Family, DJames (2), Dukla and Ejdm and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 28 upcoming nights, with line-ups including DJames (2), Dukla, Ejdm and Katrixia and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | CROSS SQUARE with Butter Funk Family (USA) & KEEP IT ROLL INVITES BASSGRAVE | Butter Funk Family, Skinny P, TOXXISTENZE |
 | Mon, 3 Aug 2026 | MEZIPATRA PRIDE & LETNÍ KINO MEZIPATRA PRIDE & LOS TEKKENOS |  |
 | Tue, 4 Aug 2026 | PUNK NIGHT & DNB STAGE |  |
 | Wed, 5 Aug 2026 | CROSS SQUARE with MGHC & CHINA SOUP |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 29 upcoming nights, 
 | Sun, 9 Aug 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 10 Aug 2026 | LOS TEKENOS |  |
 | Thu, 13 Aug 2026 | DOKUMENT KARYÉRA + FSRS |  |
+| Fri, 14 Aug 2026 | CROSS SQUARE with THE STYLIST & TONYA GRAVES | Lucas Hulan, Rajky |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

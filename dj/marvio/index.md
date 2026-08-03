@@ -1,6 +1,6 @@
 # Marvio
 
-Marvio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Macarena Club, Barcelona on Fri, 14 Aug 2026.
+Marvio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Macarena Club, Barcelona on Fri, 14 Aug 2026.
 
 Marvio is a house and techno artist based in Argentina, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Buenosaires and Malaga. Often billed alongside Kevin Williams, Perch and Kev Williams. Next up: Macarena Club, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Marvio is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Kevin Williams, Perch, Kev Williams
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*

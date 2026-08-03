@@ -1,6 +1,6 @@
 # Sound Psychologist
 
-Sound Psychologist is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Ez Inn, Chicago on Sat, 8 Aug 2026.
+Sound Psychologist is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ez Inn, Chicago on Sat, 8 Aug 2026.
 
 Sound Psychologist is a techno and drum & bass artist based in Ireland, tracked on soundcheck, with 1 set logged across Chicago. Often billed alongside DJ Paradox and DJ Rico Culebra. Next up: Ez Inn, Chicago on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Sound Psychologist is a techno and drum & bass artist based in Ireland, tracked 
 
 DJ Paradox, DJ Rico Culebra
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundpsychologist/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundpsychologist/)*

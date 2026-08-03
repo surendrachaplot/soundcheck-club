@@ -1,6 +1,6 @@
 # Moses
 
-Moses is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Moses is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Moses is a house and techno artist based in Portugal, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Buenosaires and Detroit and 11 more. Often billed alongside Konstantin, Mira and Nuno Carneiro. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Moses is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Konstantin, Mira, Nuno Carneiro
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moses/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moses/)*

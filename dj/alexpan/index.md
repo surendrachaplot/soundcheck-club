@@ -1,6 +1,6 @@
 # ALEX PAN
 
-ALEX PAN is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Alphaville, New York City on Fri, 7 Aug 2026.
+ALEX PAN is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Alphaville, New York City on Fri, 7 Aug 2026.
 
 ALEX PAN is a garage and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit and Newyorkcity. Often billed alongside Abril IRL, Boydell and DNC (1). Next up: Alphaville, Newyorkcity on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ ALEX PAN is a garage and house artist based in United States of America, tracked
 
 Abril IRL, Boydell, DNC (1)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan/)*

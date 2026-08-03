@@ -1,6 +1,6 @@
 # The Lord Gladstone
 
-The Lord Gladstone is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Kudos Live Afterparty" on Thu, 6 Aug 2026.
+The Lord Gladstone is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Kudos Live Afterparty" on Thu, 6 Aug 2026.
 
 The Lord Gladstone is a music venue in Sydney listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
 
@@ -16,4 +16,4 @@ The Lord Gladstone is a music venue in Sydney listed on soundcheck. 3 upcoming n
 
 115 Regent St, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*

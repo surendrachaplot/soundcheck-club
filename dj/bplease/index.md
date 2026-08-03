@@ -1,6 +1,6 @@
 # BPlease
 
-BPlease is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Le Livart, Montreal on Sat, 8 Aug 2026.
+BPlease is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Livart, Montreal on Sat, 8 Aug 2026.
 
 BPlease is a techno and house artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Alex Murphy, ArioVistus and Char.l.n. Next up: Le Livart, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ BPlease is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Alex Murphy, ArioVistus, Char.l.n
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bplease/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bplease/)*

@@ -1,6 +1,6 @@
 # djst4rlight
 
-djst4rlight is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 12 Aug 2026.
+djst4rlight is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 12 Aug 2026.
 
 djst4rlight is a trance and techno artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Bélavie, DJ Steuerhinterziehung and FUNIC. Next up: Lokschuppen Berlin, Berlin on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ djst4rlight is a trance and techno artist tracked on soundcheck, with 14 sets lo
 
 Bélavie, DJ Steuerhinterziehung, FUNIC
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*

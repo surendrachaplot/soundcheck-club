@@ -1,6 +1,6 @@
 # Jonas Saalbach
 
-Jonas Saalbach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sun, 16 Aug 2026.
+Jonas Saalbach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sun, 16 Aug 2026.
 
 Jonas Saalbach is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Guzy, Dominik Eulberg and LOVRA. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Jonas Saalbach is a techno and house artist tracked on soundcheck, with 53 sets 
 
 Guzy, Dominik Eulberg, LOVRA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonassaalbach/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonassaalbach/)*

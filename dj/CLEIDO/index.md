@@ -1,6 +1,6 @@
 # CLEIDO
 
-CLEIDO is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Badaboum, Paris on Fri, 21 Aug 2026.
+CLEIDO is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Badaboum, Paris on Fri, 21 Aug 2026.
 
 CLEIDO is an afro house and deep house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Ibiza, London and Paris. Often billed alongside DJEFF, Dillan Desai and Angela Rose. Next up: Badaboum, Paris on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CLEIDO is an afro house and deep house artist tracked on soundcheck, with 54 set
 
 DJEFF, Dillan Desai, Angela Rose
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*

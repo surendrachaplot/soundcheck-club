@@ -1,6 +1,6 @@
 # Klingande
 
-Klingande is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
+Klingande is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
 
 Klingande is a deep house and house artist based in France, tracked on soundcheck, with 9 sets logged across Austin, Boston, Newyorkcity and Paris and 1 more. Often billed alongside E-Mood, Remniqe and Sam Karlson. Next up: Elsewhere, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Klingande is a deep house and house artist based in France, tracked on soundchec
 
 E-Mood, Remniqe, Sam Karlson
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klingande/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klingande/)*

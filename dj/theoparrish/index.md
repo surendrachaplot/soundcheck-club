@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Theo Parrish is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside Moodymann, Avalon Emerson and Batu. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Moodymann, Avalon Emerson, Batu
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

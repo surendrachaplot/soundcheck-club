@@ -1,6 +1,6 @@
 # Jan Oberlaender
 
-Jan Oberlaender is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
+Jan Oberlaender is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
 
 Jan Oberlaender is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside Maurice Mino, Prismode and Sin:port. Next up: Freilichtbühne im Harburger Stadtpark, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jan Oberlaender is a techno and house artist tracked on soundcheck, with 41 sets
 
 Maurice Mino, Prismode, Sin:port
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janoberlaender/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janoberlaender/)*

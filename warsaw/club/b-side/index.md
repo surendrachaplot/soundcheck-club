@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "DISCO MULE 5" on Sat, 29 Aug 2026.
+B-SIDE is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "DISCO MULE 5" on Sat, 29 Aug 2026.
 
 B-SIDE is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Liza Azemsha, Pawel Blot and Ric Piccolo. Browse upcoming dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
@@ -14,4 +14,4 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with l
 
 Piękna 19, 00-549 Warszawa, Warsaw
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*

@@ -1,6 +1,6 @@
 # CAOIMHE
 
-CAOIMHE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Liquid Nightclub, Belfast on Sat, 24 Oct 2026.
+CAOIMHE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Liquid Nightclub, Belfast on Sat, 24 Oct 2026.
 
 CAOIMHE is a house and techno artist tracked on soundcheck, with 29 sets logged across Belfast and Galway. Often billed alongside Danse Intermission, Holly Lester and Inside Moves. Next up: Liquid Nightclub, Belfast on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ CAOIMHE is a house and techno artist tracked on soundcheck, with 29 sets logged 
 
 Danse Intermission, Holly Lester, Inside Moves
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caoimhe/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caoimhe/)*

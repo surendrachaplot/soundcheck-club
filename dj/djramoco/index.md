@@ -1,6 +1,6 @@
 # DJ Ramoco
 
-DJ Ramoco is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ÆDEN, Berlin on Sun, 9 Aug 2026.
+DJ Ramoco is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Sun, 9 Aug 2026.
 
 DJ Ramoco is a tech house and deep house artist based in Slovenia, tracked on soundcheck, with 1 set logged across Berlin. Next up: ÆDEN, Berlin on Sun 9 Aug.
 
@@ -10,4 +10,4 @@ DJ Ramoco is a tech house and deep house artist based in Slovenia, tracked on so
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | ÆDEN | Berlin |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djramoco/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djramoco/)*

@@ -1,6 +1,6 @@
 # RYOHEI
 
-RYOHEI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
+RYOHEI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
 
 RYOHEI is a techno and house artist tracked on soundcheck, with 327 sets logged across Tokyo. Often billed alongside Osamu M, RINALUCKY and SUETSUGU. Next up: WOMB, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RYOHEI is a techno and house artist tracked on soundcheck, with 327 sets logged 
 
 Osamu M, RINALUCKY, SUETSUGU
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryohei/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryohei/)*

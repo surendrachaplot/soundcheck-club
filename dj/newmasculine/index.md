@@ -1,6 +1,6 @@
 # New Masculine
 
-New Masculine is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Tuff Club, Singapore on Fri, 7 Aug 2026.
+New Masculine is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tuff Club, Singapore on Fri, 7 Aug 2026.
 
 New Masculine is a club and techno artist based in Singapore, tracked on soundcheck, with 16 sets logged across Hongkong, Kualalumpur, Seoul and Singapore. Often billed alongside GODKORINE, Bclip and XAETHERX. Next up: Tuff Club, Singapore on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ New Masculine is a club and techno artist based in Singapore, tracked on soundch
 
 GODKORINE, Bclip, XAETHERX
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newmasculine/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newmasculine/)*

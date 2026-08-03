@@ -1,6 +1,6 @@
 # Rachdingue
 
-Rachdingue is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Le Jardin Surrealiste #2" on Sat, 8 Aug 2026.
+Rachdingue is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Le Jardin Surrealiste #2" on Sat, 8 Aug 2026.
 
 Rachdingue is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Cucut, Damon Jee, Darlyn Vlys and Doug Bass and 2 more. Browse upcoming dates, start times and who's playing. Vilajuïga, Alt Emporda, Costa Brava, Spain, 17493 Vilajuïga, Cataluna, Spain.
 
@@ -15,4 +15,4 @@ Rachdingue is a music venue in Barcelona listed on soundcheck. 2 upcoming nights
 
 Vilajuïga, Alt Emporda, Costa Brava, Spain, 17493 Vilajuïga, Cataluna, Spain, Barcelona
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/rachdingue/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/rachdingue/)*

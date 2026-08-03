@@ -1,6 +1,6 @@
 # Groove Division
 
-Groove Division is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Groove Division is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
 
 Groove Division is a house and techno artist tracked on soundcheck, with 7 sets logged across Liverpool and Manchester. Often billed alongside Aly P, Lee Rands and 4D (UK). Next up: St Brides Church, Liverpool on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Groove Division is a house and techno artist tracked on soundcheck, with 7 sets 
 
 Aly P, Lee Rands, 4D (UK)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedivision/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedivision/)*

@@ -1,6 +1,6 @@
 # ANN-LUX
 
-ANN-LUX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at MTW, Frankfurt on Sat, 15 Aug 2026.
+ANN-LUX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MTW, Frankfurt on Sat, 15 Aug 2026.
 
 ANN-LUX is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Frankfurt and Stuttgart. Often billed alongside The Belgian Stallion, DeGuzman and Kacy. Next up: MTW, Frankfurt on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ ANN-LUX is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 The Belgian Stallion, DeGuzman, Kacy
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ann-lux/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ann-lux/)*

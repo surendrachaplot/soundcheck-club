@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
+Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
 
 Ellen Allien is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Amnesia Ibiza, Ibiza on Tue 4 Aug.
 
@@ -34,4 +34,4 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 243 sets l
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

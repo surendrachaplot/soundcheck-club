@@ -1,6 +1,6 @@
 # Philipp Priebe
 
-Philipp Priebe is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Atdge Seoul, Seoul on Sat, 15 Aug 2026.
+Philipp Priebe is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Atdge Seoul, Seoul on Sat, 15 Aug 2026.
 
 Philipp Priebe is an ambient and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Chicago, London and Seoul. Often billed alongside eterna_l, Jetset Trash and Ben Kaczor. Next up: Atdge Seoul, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Philipp Priebe is an ambient and techno artist tracked on soundcheck, with 17 se
 
 eterna_l, Jetset Trash, Ben Kaczor
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philipppriebe/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philipppriebe/)*

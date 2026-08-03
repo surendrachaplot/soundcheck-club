@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+B.Love is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 12 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

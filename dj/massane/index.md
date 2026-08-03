@@ -1,6 +1,6 @@
 # Massane
 
-Massane is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Massane is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Massane is a house and deep house artist tracked on soundcheck, with 36 sets logged across Austin, Chicago, Denver and London and 12 more. Often billed alongside EMBRZ (IE), Le Youth and Lane 8. Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -29,4 +29,4 @@ Massane is a house and deep house artist tracked on soundcheck, with 36 sets log
 
 EMBRZ (IE), Le Youth, Lane 8
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massane/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massane/)*

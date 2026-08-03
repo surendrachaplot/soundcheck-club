@@ -1,6 +1,6 @@
 # Tal Fussman
 
-Tal Fussman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 2 Oct 2026.
+Tal Fussman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 2 Oct 2026.
 
 Tal Fussman is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: Do Not Sit On The Furniture, Miami on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tal Fussman is a house and techno artist tracked on soundcheck, with 100 sets lo
 
 Radio Slave, Hard To Tell, Anja Schneider
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*

@@ -1,6 +1,6 @@
 # Patient (MT)
 
-Patient (MT) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 30 Aug 2026.
+Patient (MT) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 30 Aug 2026.
 
 Patient (MT) is a techno and house artist based in Malta, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 23 more. Often billed alongside Identified Patient, Gordon Flash and mad miran. Next up: The Rooftop at Gianpula Village, Malta on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Patient (MT) is a techno and house artist based in Malta, tracked on soundcheck,
 
 Identified Patient, Gordon Flash, mad miran
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patient-mt/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patient-mt/)*

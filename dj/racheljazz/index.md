@@ -1,6 +1,6 @@
 # Rachel Jazz
 
-Rachel Jazz is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
+Rachel Jazz is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Eiger Studios, Leeds on Fri, 28 Aug 2026.
 
 Rachel Jazz is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds. Often billed alongside Bubs Baker, Chris I'Anson and Cosmikuro. Next up: Eiger Studios, Leeds on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Rachel Jazz is a deep house and disco artist based in United Kingdom, tracked on
 
 Bubs Baker, Chris I'Anson, Cosmikuro
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/racheljazz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/racheljazz/)*

@@ -1,6 +1,6 @@
 # Gabriel & Dresden
 
-Gabriel & Dresden is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Ground at Club Space, Miami on Fri, 7 Aug 2026.
+Gabriel & Dresden is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Ground at Club Space, Miami on Fri, 7 Aug 2026.
 
 Gabriel & Dresden are a trance and progressive house duo tracked on soundcheck, with 46 sets logged across Austin, Bristol, Chicago and Denver and 13 more. Often billed alongside Luccio, Amy Wiles and Mat Zo. Next up: The Ground at Club Space, Miami on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Gabriel & Dresden are a trance and progressive house duo tracked on soundcheck, 
 
 Luccio, Amy Wiles, Mat Zo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*

@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Surrender" on Thu, 13 Aug 2026.
+Jade is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Surrender" on Thu, 13 Aug 2026.
 
 Jade is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including boy_c0ded, ceviché, DJanae and esme2k and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -17,4 +17,4 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

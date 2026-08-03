@@ -1,6 +1,6 @@
 # pìccolo
 
-pìccolo is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Pistil, Seoul on Sun, 16 Aug 2026.
+pìccolo is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pistil, Seoul on Sun, 16 Aug 2026.
 
 pìccolo is a techno and baile funk artist based in Japan, tracked on soundcheck, with 26 sets logged across Seoul, Shanghai and Tokyo. Often billed alongside MUNÉO, mionn and MELEETIME. Next up: Pistil, Seoul on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ pìccolo is a techno and baile funk artist based in Japan, tracked on soundcheck
 
 MUNÉO, mionn, MELEETIME
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pìccolo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pìccolo/)*

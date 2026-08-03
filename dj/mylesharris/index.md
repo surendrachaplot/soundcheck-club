@@ -1,6 +1,6 @@
 # Myles Harris
 
-Myles Harris is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Parkside Rooftop, Leeds on Sat, 22 Aug 2026.
+Myles Harris is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parkside Rooftop, Leeds on Sat, 22 Aug 2026.
 
 Myles Harris is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds. Often billed alongside Casika, Keiran Hostead and ALTO  (UK). Next up: Parkside Rooftop, Leeds on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Myles Harris is a tech house and house artist based in United Kingdom, tracked o
 
 Casika, Keiran Hostead, ALTO  (UK)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesharris/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesharris/)*

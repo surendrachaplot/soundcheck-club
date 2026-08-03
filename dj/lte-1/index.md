@@ -1,6 +1,6 @@
 # LTE (1)
 
-LTE (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
+LTE (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
 
 LTE (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Jalpari, Alex Hell-n and Petal. Next up: Mood Ring, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ LTE (1) is a techno and experimental artist based in United States of America, t
 
 Jalpari, Alex Hell-n, Petal
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lte-1/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lte-1/)*

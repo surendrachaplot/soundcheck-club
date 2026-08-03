@@ -1,6 +1,6 @@
 # Schicktanz
 
-Schicktanz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Schicktanz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Schicktanz is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Hamburg and Munich. Often billed alongside Vysion, BNZN and DJ SPORTSCHUH. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Schicktanz is a techno and trance artist based in Germany, tracked on soundcheck
 
 Vysion, BNZN, DJ SPORTSCHUH
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*

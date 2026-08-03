@@ -1,6 +1,6 @@
 # Raivo Sloan
 
-Raivo Sloan is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 14 Aug 2026.
+Raivo Sloan is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 14 Aug 2026.
 
 Raivo Sloan is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh and Glasgow. Often billed alongside makaya, HUNTRESS and Isa Gordon. Next up: People's Leisure Club, Edinburgh on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Raivo Sloan is an experimental and electronica artist based in United Kingdom, t
 
 makaya, HUNTRESS, Isa Gordon
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raivosloan/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raivosloan/)*

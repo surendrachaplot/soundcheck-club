@@ -1,6 +1,6 @@
 # Asphodèle
 
-Asphodèle is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Tendermesh, Teilestraße 11-16, Berlin on Tue, 4 Aug 2026.
+Asphodèle is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Tendermesh, Teilestraße 11-16, Berlin on Tue, 4 Aug 2026.
 
 Asphodèle is a club and bass artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Dublin and Frankfurt and 8 more. Often billed alongside Daddy Kev, BAE BAE and Izella. Next up: TBA - Tendermesh, Teilestraße 11-16, Berlin on Tue 4 Aug.
 
@@ -27,4 +27,4 @@ Asphodèle is a club and bass artist based in United States of America, tracked 
 
 Daddy Kev, BAE BAE, Izella
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*

@@ -1,6 +1,6 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "TAKEOVER & system present ALT8 / OMAKS" on Sat, 8 Aug 2026.
+TBA - Toronto is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "TAKEOVER & system present ALT8 / OMAKS" on Sat, 8 Aug 2026.
 
 TBA - Toronto is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including ALT8, A++, OMAKS and Sex on Drugs. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Toronto is a music venue in Toronto listed on soundcheck. 6 upcoming night
 | Sat, 12 Sept 2026 | ROTE8 EVENTS presents: TBA |  |
 | Sat, 12 Sept 2026 | Rhythmic Roots X Ritual Recall: Open Air Summer Closer |  |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*

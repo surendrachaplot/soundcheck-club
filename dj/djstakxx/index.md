@@ -1,6 +1,6 @@
 # DJ STAKXX
 
-DJ STAKXX is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+DJ STAKXX is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 DJ STAKXX is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and Newyorkcity. Often billed alongside jamea., DJ KILLA SQUID and BEYBLADE SHAWTY. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ DJ STAKXX is a techno and club artist based in United States of America, tracked
 
 jamea., DJ KILLA SQUID, BEYBLADE SHAWTY
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstakxx/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstakxx/)*

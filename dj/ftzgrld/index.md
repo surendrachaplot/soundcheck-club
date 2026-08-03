@@ -1,6 +1,6 @@
 # FTZGRLD
 
-FTZGRLD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at The Local NY, New York City on Fri, 14 Aug 2026.
+FTZGRLD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Local NY, New York City on Fri, 14 Aug 2026.
 
 FTZGRLD is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside SurfingDJs, DJ Sauci Soni and ROBOTRAN. Next up: The Local NY, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ FTZGRLD is a techno and house artist based in United States of America, tracked 
 
 SurfingDJs, DJ Sauci Soni, ROBOTRAN
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ftzgrld/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ftzgrld/)*

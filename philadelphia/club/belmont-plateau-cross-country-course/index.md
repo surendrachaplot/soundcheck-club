@@ -1,6 +1,6 @@
 # Belmont Plateau Cross Country Course
 
-Belmont Plateau Cross Country Course is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Substratum presents: Vertical Infinities" on Sat, 8 Aug 2026.
+Belmont Plateau Cross Country Course is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Substratum presents: Vertical Infinities" on Sat, 8 Aug 2026.
 
 Belmont Plateau Cross Country Course is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including Fold Theory and Rudy Kardos. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Belmont Plateau Cross Country Course is a music venue in Philadelphia listed on 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Substratum presents: Vertical Infinities | Fold Theory, Rudy Kardos |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/belmont-plateau-cross-country-course/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/belmont-plateau-cross-country-course/)*

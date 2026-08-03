@@ -1,6 +1,6 @@
 # Franklin DJ
 
-Franklin DJ is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
+Franklin DJ is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
 
 Franklin DJ is a disco and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London and Newcastle. Often billed alongside Megan Leo, Tronik Youth and Delano (UK). Next up: Two More Years, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Franklin DJ is a disco and house artist based in United Kingdom, tracked on soun
 
 Megan Leo, Tronik Youth, Delano (UK)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franklindj/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franklindj/)*

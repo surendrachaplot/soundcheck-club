@@ -1,6 +1,6 @@
 # Shemm
 
-Shemm is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Shemm is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Shemm is a techno and trance artist based in Poland, tracked on soundcheck, with 23 sets logged across Berlin, Cologne and Munich. Often billed alongside YËDM, Amøn and DETOXX. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Shemm is a techno and trance artist based in Poland, tracked on soundcheck, with
 
 YËDM, Amøn, DETOXX
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shemm/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shemm/)*

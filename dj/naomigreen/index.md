@@ -1,6 +1,6 @@
 # Naomi Green
 
-Naomi Green is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
+Naomi Green is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
 
 Naomi Green is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Newyorkcity. Often billed alongside DJ Shroomie, Beggar and Akumen. Next up: The Airliner, Losangeles on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Naomi Green is a house and deep house artist based in United States of America, 
 
 DJ Shroomie, Beggar, Akumen
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomigreen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomigreen/)*

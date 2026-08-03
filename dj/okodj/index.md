@@ -1,6 +1,6 @@
 # OKO DJ
 
-OKO DJ is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+OKO DJ is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 OKO DJ is a techno and experimental artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ OKO DJ is a techno and experimental artist tracked on soundcheck, with 89 sets l
 
 Eiger Drums Propaganda, Nosedrip, Judaah
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*

@@ -1,6 +1,6 @@
 # Mark Oliver
 
-Mark Oliver is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
+Mark Oliver is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
 
 Mark Oliver is a house and techno artist tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside Jonathan Rosa, Kiki LeFreak and Milch (1). Next up: Cherry Beach, Toronto on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Mark Oliver is a house and techno artist tracked on soundcheck, with 20 sets log
 
 Jonathan Rosa, Kiki LeFreak, Milch (1)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*

@@ -1,6 +1,6 @@
 # Liv Ravden
 
-Liv Ravden is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at LA-YAM Rooftop, London on Sat, 8 Aug 2026.
+Liv Ravden is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at LA-YAM Rooftop, London on Sat, 8 Aug 2026.
 
 Liv Ravden is a r&b and hip-hop artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside ABEL (UK), Chris Luno and Cici. Next up: LA-YAM Rooftop, London on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Liv Ravden is a r&b and hip-hop artist tracked on soundcheck, with 6 sets logged
 
 ABEL (UK), Chris Luno, Cici
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livravden/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livravden/)*

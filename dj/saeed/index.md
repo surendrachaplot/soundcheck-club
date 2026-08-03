@@ -1,6 +1,6 @@
 # SAEED
 
-SAEED is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Barrio Cafe, Brussels on Sat, 15 Aug 2026.
+SAEED is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Barrio Cafe, Brussels on Sat, 15 Aug 2026.
 
 SAEED is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Brussels and Cologne. Often billed alongside Thomas M, A.N.I. and LeoSkiDj. Next up: Barrio Cafe, Brussels on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ SAEED is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Thomas M, A.N.I., LeoSkiDj
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saeed/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saeed/)*

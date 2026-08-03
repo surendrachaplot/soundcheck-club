@@ -1,6 +1,6 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Jamboree Dance Club, Barcelona on Fri, 7 Aug 2026.
+Maadraassoo is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jamboree Dance Club, Barcelona on Fri, 7 Aug 2026.
 
 Maadraassoo is a pop and electro artist tracked on soundcheck, with 203 sets logged across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Jamboree Dance Club, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Maadraassoo is a pop and electro artist tracked on soundcheck, with 203 sets log
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

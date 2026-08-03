@@ -1,6 +1,6 @@
 # Nick Garcia
 
-Nick Garcia is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
+Nick Garcia is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
 
 Nick Garcia is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Porto, Rotterdam and Sandiego and 1 more. Often billed alongside Gino Da Koda, Anderdox and Tomi & Kesh. Next up: Toffler, Rotterdam on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Nick Garcia is a house and tech house artist based in United States of America, 
 
 Gino Da Koda, Anderdox, Tomi & Kesh
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickgarcia/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickgarcia/)*

@@ -1,6 +1,6 @@
 # DJ Vahshi
 
-DJ Vahshi is a House and Footwork artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
+DJ Vahshi is a House and Footwork artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
 
 DJ Vahshi is a house and footwork artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside DJ Ari B, Jaeku and Zara Dekho. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ DJ Vahshi is a house and footwork artist based in United States of America, trac
 
 DJ Ari B, Jaeku, Zara Dekho
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvahshi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvahshi/)*

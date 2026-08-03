@@ -1,6 +1,6 @@
 # Gigi Testa
 
-Gigi Testa is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Calatheabeachclub, Naples on Sat, 8 Aug 2026.
+Gigi Testa is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Calatheabeachclub, Naples on Sat, 8 Aug 2026.
 
 Gigi Testa is a house and balearic artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Belgrade and Berlin and 11 more. Often billed alongside Davide D'Amico, Antal and Masalo. Next up: Calatheabeachclub, Naples on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Gigi Testa is a house and balearic artist based in Italy, tracked on soundcheck,
 
 Davide D'Amico, Antal, Masalo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*

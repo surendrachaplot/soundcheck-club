@@ -1,6 +1,6 @@
 # COUNTER CLUB
 
-COUNTER CLUB is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "THE MAGIC NUMBER" on Tue, 4 Aug 2026.
+COUNTER CLUB is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "THE MAGIC NUMBER" on Tue, 4 Aug 2026.
 
 COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including ANSWER (2), DJ Hazime, DJ S (UK) and Frankie and 2 more. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
 
@@ -22,4 +22,4 @@ COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, 
 
 SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan, Tokyo
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*

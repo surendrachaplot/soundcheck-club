@@ -1,6 +1,6 @@
 # Rolodex
 
-Rolodex is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
+Rolodex is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
 
 Rolodex is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside JACKIECHANSDOG, CYB3R T0NIN and DJ KORIS. Next up: TBA - 5510 ellerbie st lanham MD, Washingtondc on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Rolodex is a house and ghetto tech artist based in United States of America, tra
 
 JACKIECHANSDOG, CYB3R T0NIN, DJ KORIS
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolodex/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolodex/)*

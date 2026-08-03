@@ -1,6 +1,6 @@
 # Herra
 
-Herra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at BRET, Amsterdam on Fri, 28 Aug 2026.
+Herra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at BRET, Amsterdam on Fri, 28 Aug 2026.
 
 Herra is a house and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Ibiza and London. Often billed alongside Ferro, Andy Luff and Pelle (NL). Next up: BRET, Amsterdam on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Herra is a house and tech house artist tracked on soundcheck, with 26 sets logge
 
 Ferro, Andy Luff, Pelle (NL)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herra/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herra/)*

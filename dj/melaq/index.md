@@ -1,6 +1,6 @@
 # Mela Q
 
-Mela Q is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+Mela Q is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 Mela Q is a deep house and techno artist based in Italy, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Frankfurt and Hamburg and 8 more. Often billed alongside Yashar (UK), Lorenzo Dada and Allegra De Angelis. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mela Q is a deep house and techno artist based in Italy, tracked on soundcheck, 
 
 Yashar (UK), Lorenzo Dada, Allegra De Angelis
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melaq/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melaq/)*

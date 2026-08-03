@@ -1,6 +1,6 @@
 # Confusion
 
-Confusion is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
+Confusion is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
 
 Confusion is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 4 more. Often billed alongside Nastaran, CAIVA and Nortsch. Next up: Bahnwärter Thiel, Munich on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Confusion is a techno and minimal techno artist based in Germany, tracked on sou
 
 Nastaran, CAIVA, Nortsch
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*

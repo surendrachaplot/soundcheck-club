@@ -1,6 +1,6 @@
 # Topper
 
-Topper is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Golden Gate, Berlin on Sat, 8 Aug 2026.
+Topper is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Golden Gate, Berlin on Sat, 8 Aug 2026.
 
 Topper is a house and minimal artist tracked on soundcheck, with 85 sets logged across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Golden Gate, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Topper is a house and minimal artist tracked on soundcheck, with 85 sets logged 
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

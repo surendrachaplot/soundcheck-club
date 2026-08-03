@@ -1,14 +1,13 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Riot London August" on Sun, 2 Aug 2026.
+Electrowerkz is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "HONEY HONEY" on Fri, 14 Aug 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AyChibs, Dj.Malefica, Donnie Sunshine and Farius and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AyChibs, Dj.Malefica, Donnie Sunshine and Farius and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Riot London August |  |
 | Fri, 14 Aug 2026 | HONEY HONEY |  |
 | Sat, 15 Aug 2026 | Slimelight presents: SUMMERTIME SADNESS 2026 | Dj.Malefica, Ricardo Castro, Steve Weeks |
 | Thu, 20 Aug 2026 | GRIP [ XXX SPORTS NIGHT ] |  |
@@ -18,9 +17,10 @@ Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming nights
 | Fri, 28 Aug 2026 | KARMA KLUB |  |
 | Fri, 4 Sept 2026 | Riot x One Night SWer Pride Festival |  |
 | Sat, 5 Sept 2026 | BASH |  |
+| Fri, 18 Sept 2026 | To The Left | AyChibs, Donnie Sunshine, Mayowa |
 
 ## Address
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

@@ -1,6 +1,6 @@
 # Sakers
 
-Sakers is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
+Sakers is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Botanical Gin Garden, Liverpool on Sun, 30 Aug 2026.
 
 Sakers is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Liverpool. Often billed alongside Liv Leslie, Alien Izz and Dj Streaks. Next up: Botanical Gin Garden, Liverpool on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Sakers is a house and electronica artist based in United Kingdom, tracked on sou
 
 Liv Leslie, Alien Izz, Dj Streaks
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakers/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakers/)*

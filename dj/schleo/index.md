@@ -1,6 +1,6 @@
 # Schleo
 
-Schleo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+Schleo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 Schleo is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside BENDOM, FRËIHERR and Nilinski. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Schleo is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 BENDOM, FRËIHERR, Nilinski
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schleo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schleo/)*

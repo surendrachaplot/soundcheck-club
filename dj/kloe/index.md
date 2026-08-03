@@ -1,6 +1,6 @@
 # KLOE
 
-KLOE is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sigma, Ibiza on Sat, 8 Aug 2026.
+KLOE is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sigma, Ibiza on Sat, 8 Aug 2026.
 
 KLOE is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 32 sets logged across Berlin, Ibiza and Madrid. Often billed alongside FORTUNATA, KITAE and Lexmax. Next up: Sigma, Ibiza on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ KLOE is a techno and minimal techno artist based in Spain, tracked on soundcheck
 
 FORTUNATA, KITAE, Lexmax
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloe/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloe/)*

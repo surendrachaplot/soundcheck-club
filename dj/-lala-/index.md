@@ -1,6 +1,6 @@
 # -LaLa-
 
--LaLa- is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at SASS Music Club, Vienna on Fri, 7 Aug 2026.
+-LaLa- is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at SASS Music Club, Vienna on Fri, 7 Aug 2026.
 
 -LaLa- is a house and tech house artist based in Canada, tracked on soundcheck, with 19 sets logged across Berlin, Valencia and Vienna. Often billed alongside Æ-X, IAMBP and Nulek. Next up: SASS Music Club, Vienna on Fri 7 Aug.
 
@@ -25,4 +25,4 @@
 
 Æ-X, IAMBP, Nulek
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/-lala-/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/-lala-/)*

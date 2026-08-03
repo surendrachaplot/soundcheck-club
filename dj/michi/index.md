@@ -1,6 +1,6 @@
 # Michi
 
-Michi is a Hip-Hop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
+Michi is a Hip-Hop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
 Michi is a hip-hop and reggaeton artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Chicago, Madrid and Seattle and 1 more. Often billed alongside 2 Girls 1 Club, 300km/h and ANDI A.. Next up: Sensorium, Berlin on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Michi is a hip-hop and reggaeton artist based in Germany, tracked on soundcheck,
 
 2 Girls 1 Club, 300km/h, ANDI A.
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michi/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michi/)*

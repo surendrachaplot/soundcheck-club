@@ -1,6 +1,6 @@
 # Meraki (3)
 
-Meraki (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
+Meraki (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
 
 Meraki (3) is a techno and house artist based in Switzerland, tracked on soundcheck, with 17 sets logged across Seoul, Stuttgart and Zurich. Often billed alongside Caromelle, ACID FLORA and Manuel Moreno. Next up: Zinkbad Eventhalle, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Meraki (3) is a techno and house artist based in Switzerland, tracked on soundch
 
 Caromelle, ACID FLORA, Manuel Moreno
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meraki-3/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meraki-3/)*

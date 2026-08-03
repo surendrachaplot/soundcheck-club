@@ -1,14 +1,13 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Ogazón is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
-Ogazón is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Ryan Elliott, Marcel Dettmann and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
+Ogazón is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Ryan Elliott, Marcel Dettmann and Christian AB. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Fri, 14 Aug 2026 | Jaeger | Oslo |
@@ -22,6 +21,7 @@ Ogazón is a techno and house artist tracked on soundcheck, with 261 sets logged
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -29,10 +29,9 @@ Ogazón is a techno and house artist tracked on soundcheck, with 261 sets logged
 - Friedrichstraße 112, Berlin — Thu, 2 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- BRET, Amsterdam — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Ryan Elliott, Marcel Dettmann, Christian AB
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

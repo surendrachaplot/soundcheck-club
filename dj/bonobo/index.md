@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 4 Aug 2026.
+Bonobo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 4 Aug 2026.
 
 Bonobo is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: 528 Ibiza, Ibiza on Tue 4 Aug.
 
@@ -27,4 +27,4 @@ Bonobo is a house and techno artist tracked on soundcheck, with 92 sets logged a
 
 DJ Tennis, Sofia Kourtesis, Honey Dijon
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

@@ -1,6 +1,6 @@
 # Emma 2000
 
-Emma 2000 is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 15 Aug 2026.
+Emma 2000 is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 15 Aug 2026.
 
 Emma 2000 is a tech house and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Obskur and Julian Fijma. Next up: Ouseburn Garden, Newcastle on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Emma 2000 is a tech house and house artist tracked on soundcheck, with 25 sets l
 
 Joss Dean, Obskur, Julian Fijma
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*

@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Sun, 2 Aug 2026; the next is "Electrique Music: Andre VII, Moon Runner, ROCCO DESENTIS" on Fri, 7 Aug 2026.
+Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Electrique Music: Andre VII, Moon Runner, ROCCO DESENTIS" on Fri, 7 Aug 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Adrian Bluper, Andre VII, Borgetti and Bruja de Mentira and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -21,4 +21,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

@@ -1,6 +1,6 @@
 # Catching Flies
 
-Catching Flies is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Catching Flies is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Catching Flies is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Jody Wisternoff, Christian Löffler and Braxton. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Catching Flies is a house and electronica artist based in United Kingdom, tracke
 
 Jody Wisternoff, Christian Löffler, Braxton
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*

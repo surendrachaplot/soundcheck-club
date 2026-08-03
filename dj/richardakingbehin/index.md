@@ -1,14 +1,13 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
 
-Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
+Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 8 Aug 2026 | Palais | London |
 | Sat, 22 Aug 2026 | Blå | Oslo |
@@ -19,6 +18,7 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - BLITZ, Munich — Fri, 24 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
@@ -26,10 +26,9 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 - TBA - Somewhere in Berlin, Berlin — Fri, 26 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
 - La Péniche Cinéma, Paris — Fri, 29 May 2026
-- West Indian Centre, Leeds — Sun, 24 May 2026
 
 ## Shares bills with
 
 Tikiman, livwutang, BASHKKA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

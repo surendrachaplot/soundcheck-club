@@ -1,6 +1,6 @@
 # Nyboe
 
-Nyboe is a Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at RUST, Copenhagen on Thu, 6 Aug 2026.
+Nyboe is a Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at RUST, Copenhagen on Thu, 6 Aug 2026.
 
 Nyboe is a hip-hop artist based in Denmark, tracked on soundcheck, with 13 sets logged across Copenhagen and Prague. Often billed alongside Alex Wah Wah and Conway. Next up: RUST, Copenhagen on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Nyboe is a hip-hop artist based in Denmark, tracked on soundcheck, with 13 sets 
 
 Alex Wah Wah, Conway
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyboe/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyboe/)*

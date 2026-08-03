@@ -1,6 +1,6 @@
 # Coleeeette
 
-Coleeeette is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Coleeeette is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Coleeeette is a house and deep house artist based in France, tracked on soundcheck, with 14 sets logged across Nantes and Paris. Often billed alongside Chinau, Knuckle G and Kolter. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Coleeeette is a house and deep house artist based in France, tracked on soundche
 
 Chinau, Knuckle G, Kolter
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coleeeette/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coleeeette/)*

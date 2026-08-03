@@ -1,6 +1,6 @@
 # 2K88
 
-2K88 is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+2K88 is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 2K88 is an experimental and idm artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Brussels and Krakow and 11 more. Often billed alongside Rainy Miller, ojoo and Lauren Duffus. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@
 
 Rainy Miller, ojoo, Lauren Duffus
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*

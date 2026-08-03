@@ -1,6 +1,6 @@
 # Ricksen
 
-Ricksen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+Ricksen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
 Ricksen is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 2 more. Often billed alongside L-AUX, Mefteh and Alex Friday. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ricksen is a techno and trance artist tracked on soundcheck, with 21 sets logged
 
 L-AUX, Mefteh, Alex Friday
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricksen/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricksen/)*

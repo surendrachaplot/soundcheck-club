@@ -1,6 +1,6 @@
 # SBCSLY
 
-SBCSLY is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Mastak, Warsaw on Sat, 8 Aug 2026.
+SBCSLY is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mastak, Warsaw on Sat, 8 Aug 2026.
 
 SBCSLY is a techno artist based in Poland, tracked on soundcheck, with 1 set logged across Warsaw. Often billed alongside Lyor Kalt. Next up: Mastak, Warsaw on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ SBCSLY is a techno artist based in Poland, tracked on soundcheck, with 1 set log
 
 Lyor Kalt
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbcsly/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbcsly/)*

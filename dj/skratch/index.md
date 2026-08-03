@@ -1,6 +1,6 @@
 # Skratch
 
-Skratch is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Fri, 7 Aug 2026.
+Skratch is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Fri, 7 Aug 2026.
 
 Skratch is a dub and dubstep artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Fukinsei, Orson and Cate Hops. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Skratch is a dub and dubstep artist based in Germany, tracked on soundcheck, wit
 
 Fukinsei, Orson, Cate Hops
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skratch/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skratch/)*

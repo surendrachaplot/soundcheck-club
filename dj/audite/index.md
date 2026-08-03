@@ -1,6 +1,6 @@
 # audite
 
-audite is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
+audite is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
 
 audite is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Leipzig and Prague. Often billed alongside Upzet, Aynaet and Dubbalot. Next up: Distillery, Leipzig on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ audite is a drum & bass and dubstep artist based in Germany, tracked on soundche
 
 Upzet, Aynaet, Dubbalot
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*

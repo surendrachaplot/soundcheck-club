@@ -1,6 +1,6 @@
 # Martín Miguel
 
-Martín Miguel is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
+Martín Miguel is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
 
 Martín Miguel is a disco and house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Miami and Washingtondc. Often billed alongside Samantha Francesca, Kenny M and Les The DJ. Next up: TBA - National Union Building, Washingtondc on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Martín Miguel is a disco and house artist based in United States of America, tr
 
 Samantha Francesca, Kenny M, Les The DJ
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmiguel-us/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmiguel-us/)*

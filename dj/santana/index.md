@@ -1,6 +1,6 @@
 # santa:na
 
-santa:na is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Garage 442, Barcelona on Sat, 8 Aug 2026.
+santa:na is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Garage 442, Barcelona on Sat, 8 Aug 2026.
 
 santa:na is a club and electro artist based in Colombia, tracked on soundcheck, with 11 sets logged across Barcelona and Madrid. Often billed alongside Beghelli, Posada and BRND. Next up: Garage 442, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ santa:na is a club and electro artist based in Colombia, tracked on soundcheck, 
 
 Beghelli, Posada, BRND
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santana/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santana/)*

@@ -1,6 +1,6 @@
 # Lily C-D
 
-Lily C-D is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
+Lily C-D is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
 Lily C-D is a house and tech house artist tracked on soundcheck, with 22 sets logged across Birmingham, Ibiza, London and Manchester. Often billed alongside Alexandria, Joe Roche and Dennis Quin. Next up: Lab11, Birmingham on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Lily C-D is a house and tech house artist tracked on soundcheck, with 22 sets lo
 
 Alexandria, Joe Roche, Dennis Quin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*

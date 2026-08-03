@@ -1,6 +1,6 @@
 # Distrito Federal
 
-Distrito Federal is a music venue in Houston with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "CRSPY" on Sat, 22 Aug 2026.
+Distrito Federal is a music venue in Houston with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "CRSPY" on Sat, 22 Aug 2026.
 
 Distrito Federal is a music venue in Houston listed on soundcheck. 1 upcoming night, with line-ups including CRSPY. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Distrito Federal is a music venue in Houston listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | CRSPY | CRSPY |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/distrito-federal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/distrito-federal/)*

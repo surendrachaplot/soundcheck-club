@@ -1,6 +1,6 @@
 # UNZHA
 
-UNZHA is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 2 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
+UNZHA is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
 
 UNZHA is a house and funk / soul artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside DJ SOURCE, Tana (2) and yamagucci42. Next up: Kampnagel, Hamburg on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ UNZHA is a house and funk / soul artist based in Germany, tracked on soundcheck,
 
 DJ SOURCE, Tana (2), yamagucci42
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*

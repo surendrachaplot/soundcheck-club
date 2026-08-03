@@ -1,6 +1,6 @@
 # Laura BCR
 
-Laura BCR is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
+Laura BCR is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
 
 Laura BCR is a techno and dub techno artist based in France, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Luigi Tozzi, Polygonia and Claudio PRC. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Laura BCR is a techno and dub techno artist based in France, tracked on soundche
 
 Luigi Tozzi, Polygonia, Claudio PRC
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurabcr/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurabcr/)*

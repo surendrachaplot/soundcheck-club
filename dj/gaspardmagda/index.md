@@ -1,6 +1,6 @@
 # Gaspard Magda
 
-Gaspard Magda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Gaspard Magda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Gaspard Magda is a house and techno artist tracked on soundcheck, with 7 sets logged across Marseille, Paris and Tokyo. Often billed alongside Inner Lakes, Alexia Glensy and Andy Martin. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Gaspard Magda is a house and techno artist tracked on soundcheck, with 7 sets lo
 
 Inner Lakes, Alexia Glensy, Andy Martin
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspardmagda/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspardmagda/)*

@@ -1,6 +1,6 @@
 # Ricky Corazón
 
-Ricky Corazón is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at Lavallée, Brussels on Fri, 21 Aug 2026.
+Ricky Corazón is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lavallée, Brussels on Fri, 21 Aug 2026.
 
 Ricky Corazón is a latin bass and guaracha artist tracked on soundcheck, with 26 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Vera Moro, NMSS and VTT (BE). Next up: Lavallée, Brussels on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ricky Corazón is a latin bass and guaracha artist tracked on soundcheck, with 2
 
 Vera Moro, NMSS, VTT (BE)
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*

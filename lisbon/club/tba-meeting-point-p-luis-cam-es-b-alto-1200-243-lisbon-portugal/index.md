@@ -1,6 +1,6 @@
 # TBA - Meeting Point: Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal
 
-TBA - Meeting Point: Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sun, 2 Aug 2026; the next is "Pub Crawl" on Mon, 3 Aug 2026.
+TBA - Meeting Point: Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Pub Crawl" on Mon, 3 Aug 2026.
 
 TBA - Meeting Point: Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Meeting Point: Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a 
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | Pub Crawl |  |
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-meeting-point-p-luis-cam-es-b-alto-1200-243-lisbon-portugal/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-meeting-point-p-luis-cam-es-b-alto-1200-243-lisbon-portugal/)*

@@ -1,6 +1,6 @@
 # VIVUS
 
-VIVUS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 2 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+VIVUS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 VIVUS is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Melushka, 5euroGoldi and PASSA. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ VIVUS is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Melushka, 5euroGoldi, PASSA
 
-*Updated Sun, 2 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivus/)*
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivus/)*
