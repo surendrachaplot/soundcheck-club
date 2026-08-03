@@ -2,7 +2,7 @@
 
 Kindred (2) is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honey's, New York City on Fri, 7 Aug 2026.
 
-Kindred (2) is a progressive house artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Emsho, MIARISUA and okDUNC. Next up: Honey's, Newyorkcity on Fri 7 Aug.
+Kindred (2) is a progressive house artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside okDUNC, MIARISUA and Emsho. Next up: Honey's, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Kindred (2) is a progressive house artist based in United States of America, tra
 
 ## Shares bills with
 
-Emsho, MIARISUA, okDUNC
+okDUNC, MIARISUA, Emsho
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kindred-2/)*

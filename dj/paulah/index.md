@@ -1,14 +1,15 @@
 # PAULAH
 
-PAULAH is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Panke, Berlin on Fri, 7 Aug 2026.
+PAULAH is a Guaracha and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Panke, Berlin on Fri, 7 Aug 2026.
 
-PAULAH is a guaracha and latin bass artist tracked on soundcheck, with 46 sets logged across Barcelona and Berlin. Often billed alongside FISK, Paulawar and Simón JaVa. Next up: Panke, Berlin on Fri 7 Aug.
+PAULAH is a guaracha and latin bass artist tracked on soundcheck, with 47 sets logged across Barcelona and Berlin. Often billed alongside FISK, Paulawar and Simón JaVa. Next up: Panke, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Panke | Berlin |
+| Fri, 7 Aug 2026 | DV | Berlin |
 | Sat, 22 Aug 2026 | Panke | Berlin |
 
 ## Recently played

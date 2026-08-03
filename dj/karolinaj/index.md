@@ -1,8 +1,8 @@
 # Karolina J
 
-Karolina J is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
+Karolina J is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
 
-Karolina J is a house and deep house artist based in Poland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Jaggy, Josh Aaron and Julie Marghilano. Next up: Club der Visionaere, Berlin on Fri 7 Aug.
+Karolina J is a deep house and house artist based in Poland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Titonton Duvanté, Jaggy and SID MEHANI. Next up: Club der Visionaere, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Karolina J is a house and deep house artist based in Poland, tracked on soundche
 
 ## Shares bills with
 
-Jaggy, Josh Aaron, Julie Marghilano
+Titonton Duvanté, Jaggy, SID MEHANI
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinaj/)*

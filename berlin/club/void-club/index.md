@@ -13,7 +13,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, w
 | Sat, 8 Aug 2026 | TORQUE - Groove & Hardgroove with LEANNE (SI), North (SI), Modulatos, Mavidius | LEANNE, Mavidius, Modulatos |
 | Fri, 14 Aug 2026 | Upzet's Bday Rave with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Andi Beat, Boudi Boudin, Bäggy, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Ida Scheppert, Shaded Lines, Upzet, unknown.dnb |
 | Sat, 15 Aug 2026 | Kinder der Nacht - Parade After Party w/ T78 | ADOBE, Activator, Avex, DJ Jordan, Dave Demon, Ewelina Koll, GHOST DE, Jacopo Susini, Jens Schwan, Klipp&Klar, LEPIDO, Marc van Linden, Rob Robsen, Ronny Luft, SXF Thunderscream, Seimen Dexter, T78, YOZÉ |
-| Fri, 21 Aug 2026 | 10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz | Luca Hagenmüller, MARIE.MOON, Nebuchadnezzar, Upzet, dela Moon |
+| Fri, 21 Aug 2026 | 10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz | Luca Hagenmüller, MARIE.MOON, MixB, Nebuchadnezzar, Upzet, dela Moon |
 | Sat, 22 Aug 2026 | VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui | Aynaet, Gabrielle (DE), K.EULE, Section 63, Will Tempo, kutscher |
 | Fri, 28 Aug 2026 | Berlin Bass Music Vibes with YOINK, Mikasta, Yoru, Migz, Dub Isotope, Jimi Handtrix, Upzet | Anton Quasi, Dub Isotope, EMBEE3, Jimi Handtrix, Lay.Dee Strange, Migz, MixB, Saint Popsy, Soniq, Upzet, Yoru, Yoru (Berlin) |
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |

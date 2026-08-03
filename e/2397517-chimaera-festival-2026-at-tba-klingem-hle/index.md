@@ -1,6 +1,6 @@
 # Chimaera Festival 2026 at TBA - Klingemühle
 
-Chimaera Festival 2026 at TBA - Klingemühle on Fri 14 Aug, Berlin. 60 acts on the bill: Aber DJ, abs8lute, Asphalt DJ and Bambi (FR) and 56 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Chimaera Festival 2026 at TBA - Klingemühle on Fri 14 Aug, Berlin. 61 acts on the bill: Aber DJ, abs8lute, Asphalt DJ and Bambi (FR) and 57 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -67,6 +67,7 @@ Chimaera Festival 2026 at TBA - Klingemühle on Fri 14 Aug, Berlin. 60 acts on t
 - theories
 - Tim Niwo
 - Trancesetters of Westphalia
+- Uta
 - Vlada
 - Wilhelm Richard
 - Yowlandi

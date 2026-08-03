@@ -1,8 +1,8 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
+SG Lewis is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
 
-SG Lewis is a house and electronica artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Ushuaïa Ibiza, Ibiza on Sat 8 Aug.
+SG Lewis is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Ushuaïa Ibiza, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 

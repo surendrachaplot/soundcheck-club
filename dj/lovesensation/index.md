@@ -1,14 +1,15 @@
 # Love Sensation
 
-Love Sensation is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 6 Aug 2026.
+Love Sensation is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 6 Aug 2026.
 
-Love Sensation is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin and London. Often billed alongside MADDØG, Panooc and W.M.D. Next up: Bulbul Berlin, Berlin on Thu 6 Aug.
+Love Sensation is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin and London. Often billed alongside MADDØG, Panooc and W.M.D. Next up: Bulbul Berlin, Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Bulbul Berlin | Berlin |
+| Sat, 15 Aug 2026 | Wendel | Berlin |
 
 ## Recently played
 

@@ -109,12 +109,12 @@
        :where() has zero specificity, so this can't beat a component that
        positions itself — .evc-heart stays position:absolute and simply supplies
        its own containing block, which is all the ::after needs. */
-    :where(.heart, .share-btn, .iconbtn, .auth-close, .seen-btn, .more-btn, .hdr-city,
+    :where(.heart, .share-btn, .iconbtn, .auth-close, .more-btn, .hdr-city,
            .psticky-back, .fp-ev-share-ic, .slink, .fp-ab, .fp-pb, .fp-tab, .ds-filt,
            .fp-ev-follow, .report-cue, .fp-sk-act, .cb-btn, .evc-play,
            .leaflet-control-zoom-in, .leaflet-control-zoom-out) { position:relative; }
     .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
-    .seen-btn::after, .evc-heart::after, .more-btn::after, .hdr-city::after,
+    .evc-heart::after, .more-btn::after, .hdr-city::after,
     .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
     .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
     .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
@@ -126,7 +126,7 @@
     /* The expander must never sit above the control's own content (icons, the
        tab underline), only extend what's touchable beneath it. */
     .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
-    .seen-btn::after, .evc-heart::after, .more-btn::after, .hdr-city::after,
+    .evc-heart::after, .more-btn::after, .hdr-city::after,
     .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
     .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
     .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
@@ -135,10 +135,10 @@
        where a delay starts reading as lag, so it registers as the control
        responding rather than as an animation. */
     @media (hover:none){
-      .heart:active, .share-btn:active, .iconbtn:active, .seen-btn:active,
+      .heart:active, .share-btn:active, .iconbtn:active,
       .evc-heart:active, .dt:active, .qchip:active, .btn:active, .evc-chip:active { transform:scale(.94); }
     }
-    .heart, .share-btn, .iconbtn, .seen-btn, .evc-heart, .dt, .qchip, .evc-chip { transition:transform var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
+    .heart, .share-btn, .iconbtn, .evc-heart, .dt, .qchip, .evc-chip { transition:transform var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
     /* ── Motion ───────────────────────────────────────────────────────────────
        Three jobs, nothing decorative: say new content arrived (list entry), say
        a panel came from somewhere (panel enter), confirm a press (above).
@@ -711,19 +711,18 @@
     /* Dock heart/seen for the playing artist — compact ICON buttons (no labels) so the
        expanded player stays small; the next-gig venue shows on its own line below the name. */
     .dock-acts { display:flex; gap:8px; flex:0 0 auto; }   /* JS toggles inline display:none when the source isn't an artist */
-    /* Artist name + heart/seen share ONE line (the .dock-nmrow): the name flex-shrinks with an
+    /* Artist name + heart share ONE line (the .dock-nmrow): the name flex-shrinks with an
        ellipsis, the icons stay pinned right after it — expanded centres the whole group. */
     .dock-nmrow { display:flex; align-items:center; gap:8px; min-width:0; }   /* renamed from .nm-row to avoid colliding with the list-row .nm-row (which injected padding+border) */
     .dock-nmrow .nm { min-width:0; }
     .dock.expanded .dock-nmrow { justify-content:center; }
-    .dock-acts .heart span, .dock-acts .seen-btn span { display:none; }   /* default: icon-only (collapsed mini-bar stays tight) */
-    .dock-acts .heart, .dock-acts .seen-btn { width:36px; height:36px; padding:0; color:var(--fg); }   /* fg so they match the white transport icons; .on → salmon */
+    .dock-acts .heart span { display:none; }   /* default: icon-only (collapsed mini-bar stays tight) */
+    .dock-acts .heart { width:36px; height:36px; padding:0; color:var(--fg); }   /* fg so they match the white transport icons; .on → salmon */
     /* Expanded dock: heart shows its "Wanna see" label again; the tick stays icon-only. */
     .dock.expanded .dock-acts .heart { width:auto; padding:0 10px; gap:6px; display:inline-flex; align-items:center; }
     .dock.expanded .dock-acts .heart span { display:inline; font:600 var(--fs-sm)/var(--lh-sm) var(--body); }
     .dock:not(.expanded) .dock-acts { gap:6px; }
-    .dock:not(.expanded) .dock-acts .heart, .dock:not(.expanded) .dock-acts .seen-btn { width:34px; height:34px; }
-    @media (max-width:620px){ .dock:not(.expanded) #dock-seen { display:none; } }   /* phone mini-bar is too tight for both — heart only; both still show expanded */
+    .dock:not(.expanded) .dock-acts .heart { width:34px; height:34px; }
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
@@ -837,9 +836,9 @@
       .dock.expanded.has-next .info .sub { display:block; }   /* show the source under the name again (it's hidden on desktop-expanded) */
       .dock.expanded .info .dock-next { order:3; margin-top:8px; }
       /* heart + seen → tidy rounded icon buttons pinned right of the name (drop the "Wanna see" label) */
-      .dock.expanded .dock-acts .heart, .dock.expanded .dock-acts .seen-btn { width:44px; height:44px; padding:0; border-radius:var(--radius-md); border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
+      .dock.expanded .dock-acts .heart { width:44px; height:44px; padding:0; border-radius:var(--radius-md); border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
       .dock.expanded .dock-acts .heart span { display:none; }
-      .dock.expanded .dock-acts .heart.on, .dock.expanded .dock-acts .seen-btn.on { border-color:var(--accent); color:var(--accent); background:rgba(255,154,61,.14); }
+      .dock.expanded .dock-acts .heart.on { border-color:var(--accent); color:var(--accent); background:rgba(255,154,61,.14); }
       /* transport order (−15 · prev · next · +15) now comes from DOM order — same on web + mobile */
       body.has-dock { padding-bottom:380px; }
       body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -865,10 +864,6 @@
     .line li .heart, .line li .share-btn { margin-left:auto; }
     .sheet-line li .heart { margin-left:auto; }
     /* seen toggle (sheet rows) — a check that fills salmon when "seen live" */
-    .seen-btn { background:transparent; border:none; color:var(--muted); cursor:pointer; padding:0; border-radius:var(--radius-pill); display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; width:30px; height:30px; margin-left:6px; transition:color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
-    .seen-btn svg { width:var(--icon-sm); height:var(--icon-sm); display:block; }
-    .seen-btn:hover { color:var(--accent); }
-    .seen-btn.on { color:var(--accent); }
     .sheet-line li .heart { width:30px; height:30px; }
     .sheet-line li .heart svg { width:var(--icon-sm); height:var(--icon-sm); }
     .sheet-line li .share-btn { width:30px; height:30px; margin-left:6px; }
@@ -1573,7 +1568,6 @@
     .bb-mid { background:var(--bg); color:var(--accent); border:1px solid var(--accent); }
     .bill-why { display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; text-align:center; font:500 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); line-height:1.3; margin-top:-3px; max-width:100%; }
     .bill-acts { flex:none; display:flex; align-items:center; gap:6px; margin-left:4px; }
-    .bill-acts .seen-btn { margin-left:0; }
     .nm-box { margin-top:18px; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius-md); padding:14px 16px; }
     .nm-k { font:800 var(--fs-xs)/var(--lh-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
     .nm-k small { color:var(--muted); font-weight:500; letter-spacing:0; text-transform:none; }
@@ -3420,12 +3414,12 @@
        spring, and :active fires on touchstart so it tracks the finger. Transform
        and opacity only — both are compositor-only properties, so this stays on
        the GPU and cannot cause layout thrash on a long list. */
-    .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart, .seen-btn{
+    .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart{
       transition: transform 180ms cubic-bezier(0.32, 0.72, 0, 1), opacity 180ms ease;
     }
     .lvr:active, .gcard.evc:active{ transform:scale(0.985); opacity:0.88; }
     .dt:active, .fp-ab:active, .pf-btn:active, .go:active{ transform:scale(0.965); opacity:0.9; }
-    .iconbtn:active, .heart:active, .seen-btn:active{ transform:scale(0.86); }
+    .iconbtn:active, .heart:active{ transform:scale(0.86); }
 
     /* Overscroll hero. On the native detail screens the poster scales up when you
        pull past the top and parallaxes away as you scroll down — it is the single
@@ -3523,9 +3517,9 @@
 
     /* Respect the OS setting. Motion is a preference, not a decoration. */
     @media (prefers-reduced-motion: reduce){
-      .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart, .seen-btn{ transition:none; }
+      .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart{ transition:none; }
       .lvr:active, .gcard.evc:active, .dt:active, .fp-ab:active,
-      .pf-btn:active, .go:active, .iconbtn:active, .heart:active, .seen-btn:active{ transform:none; }
+      .pf-btn:active, .go:active, .iconbtn:active, .heart:active{ transform:none; }
       .fp-ev-poster, .fp-hero-img{ transform:none; }
       .sc-reveal, .sc-reveal.in{ opacity:1; transform:none; transition:none; }
       .sc-cta-out{ transition:none; }
@@ -3576,12 +3570,12 @@
     .fp-card-btns .pf-btn.primary.follow.following{ background:var(--sel)!important; color:var(--sel-ink)!important; border-color:var(--sel)!important; }
 
     /* 2 · icon toggles — hearts, bookmarks, seen ticks */
-    .heart:hover, .seen-btn:hover{ color:var(--sel); }
-    .heart.on, .seen-btn.on{ color:var(--sel); }
+    .heart:hover{ color:var(--sel); }
+    .heart.on{ color:var(--sel); }
     .heart.on svg{ fill:var(--sel); stroke:var(--sel); }
     .lvr .heart.evc-heart.on{ color:var(--sel); }
     .evc-heart.on{ background:var(--sel); color:var(--sel-ink); }
-    .dock.expanded .dock-acts .heart.on, .dock.expanded .dock-acts .seen-btn.on{
+    .dock.expanded .dock-acts .heart.on{
       border-color:var(--sel); color:var(--sel-text); background:var(--sel-weak); }
     .radio-fab .heart.on{ color:var(--sel-text); }
 
@@ -3618,7 +3612,7 @@
     /* 6 · keyboard focus — violet ring on toggles/selection, sunset ring on primaries */
     .fp-ab:focus-visible, .fp-pb:focus-visible, .follow-btn:focus-visible, .fp-ev-follow:focus-visible,
     .dt:focus-visible, .up-chip:focus-visible, .lg-chip:focus-visible, .vrv-chip:focus-visible,
-    .fp-tab:focus-visible, .heart:focus-visible, .seen-btn:focus-visible{
+    .fp-tab:focus-visible, .heart:focus-visible{
       outline:none; box-shadow:0 0 0 3px rgba(124,92,255,.45); }
     .evc-play:focus-visible, .fp-ab.go:focus-visible, .fp-pb.go:focus-visible, .play-main:focus-visible,
     .radio-fab:focus-visible, .auth-box .go:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(255,154,61,.45); }
@@ -3913,7 +3907,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785788874755">
+<meta name="sc-build" content="1785790078545">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4011,7 +4005,7 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
+        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
         <!-- Fixed order everywhere (web + mobile): −15 · prev · [play] · next · +15.
              The play button is hidden (the scrubber knob is play/pause), so the visible
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
@@ -4536,13 +4530,12 @@
         dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
       }
       setDockNextGig(navSlug); // expanded dock: the artist's next gig under the name
-      // Heart / Seen for the playing artist — labeled, in the expanded player. Reuse the
-      // .heart/.seen-btn data hooks so refreshArtistButtons() keeps them in sync everywhere.
+      // Heart / Wanna-see for the playing artist — labeled, in the expanded player. Reuses the
+      // .heart data hooks so refreshArtistButtons() keeps it in sync everywhere.
       var dockActs=document.getElementById('dock-acts');
       if(navSlug){
-        var dh=document.getElementById('dock-heart'), ds=document.getElementById('dock-seen');
+        var dh=document.getElementById('dock-heart');
         dh.setAttribute('data-pick-art', navSlug); dh.setAttribute('data-name', name);
-        ds.setAttribute('data-seen-art', navSlug); ds.setAttribute('data-name', name);
         refreshArtistButtons(navSlug);   // sets the .on state from current status
         dockActs.style.display='';
       } else { dockActs.style.display='none'; }
@@ -4873,7 +4866,6 @@
     document.getElementById('dock-prev').addEventListener('click',function(){ playAt(-1); });
     document.getElementById('dock-next').addEventListener('click',function(){ playAt(1); });
     document.getElementById('dock-heart').addEventListener('click',function(){ var s=this.getAttribute('data-pick-art'); if(s) toggleArtist(s,{name:this.getAttribute('data-name')}); });
-    document.getElementById('dock-seen').addEventListener('click',function(){ var s=this.getAttribute('data-seen-art'); if(s) toggleSeen(s,{name:this.getAttribute('data-name')}); });
     // Start resolving a button's YouTube id on pointerdown (fires before the
     // click), so the id is usually ready by tap time. Awaiting an already-
     // resolved promise is only a microtask, so playback still runs inside the
@@ -5452,11 +5444,6 @@
           else if(h.dataset.pickEvt) toggleEvent(h.dataset.pickEvt, {title:h.dataset.title, venue:h.dataset.venue, day:h.dataset.day});
           return;
         }
-        var sn=e.target.closest('.seen-btn'); if(sn){
-          e.preventDefault(); e.stopPropagation();
-          toggleSeen(sn.dataset.seenArt, {name:sn.dataset.name});
-          return;
-        }
         var s=e.target.closest('.share-btn'); if(s){
           e.preventDefault(); e.stopPropagation();
           if(s.dataset.shareArt) shareArtist(s.dataset.shareArt, s.dataset.name);
@@ -5593,16 +5580,9 @@
         .catch(function(){ showToast('Couldn’t save — try again'); });
     }
     // Seen / Not-going are account features → nudge sign-in when logged out
-    function toggleSeen(slug, meta){ if(!slug) return; if(!currentUser){ openAuth(); return; }
-      var wasSeen = artStatus(slug)==='seen';
-      setArtist(slug, wasSeen ? null : 'seen', meta&&meta.name);
-      // keep the instant one-tap tick, then nudge to log the actual gig (richer — dates the night, feeds Your scene)
-      if(!wasSeen) showToastAction('Seen ✓ '+((meta&&meta.name)||'this act'), 'Log the gig', function(){ openLog({ seenName:(meta&&meta.name)||'' }); });
-    }
     function refreshArtistButtons(slug){
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
-      document.querySelectorAll('.seen-btn[data-seen-art="'+k+'"]').forEach(function(b){ b.classList.toggle('on', st==='seen'); });
       // artist-page action buttons (immediate optimistic state, no re-render) — class-agnostic so it matches both .act-btn and the bespoke .fp-ab buttons
       document.querySelectorAll('[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'||st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); b.innerHTML=(st==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(st==='seen'?'Seen':'Wanna see')+'</span>'; });
       document.querySelectorAll('[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });

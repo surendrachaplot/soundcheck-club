@@ -1,17 +1,18 @@
 # CRUZ CTRL (3)
 
-CRUZ CTRL (3) is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
+CRUZ CTRL (3) is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at HWK, London on Sat, 12 Sept 2026.
 
-CRUZ CTRL (3) is an afro house and gqom artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside General C'mamane, Golden Lady and INTUIT. Next up: 93 Feet East, London on Sun 13 Sept.
+CRUZ CTRL (3) is an afro house and amapiano artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside A.K(lifee), Atomic Hooligan and Dj Clark Gabble. Next up: HWK, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | HWK | London |
 | Sun, 13 Sept 2026 | 93 Feet East | London |
 
 ## Shares bills with
 
-General C'mamane, Golden Lady, INTUIT
+A.K(lifee), Atomic Hooligan, Dj Clark Gabble
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzctrl-3/)*
