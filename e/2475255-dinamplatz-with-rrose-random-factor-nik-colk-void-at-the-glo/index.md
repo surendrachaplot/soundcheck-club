@@ -1,6 +1,6 @@
 # Dinamplatz with Rrose, Random Factor & Nik Colk Void at The Glove That Fits
 
-Dinamplatz with Rrose, Random Factor & Nik Colk Void at The Glove That Fits on Sat 22 Aug, London. 12 acts on the bill: Datassette, Equinox (UK), Kid Drama and Monoak and 8 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Dinamplatz with Rrose, Random Factor & Nik Colk Void at The Glove That Fits on Sat 22 Aug, London. 15 acts on the bill: Datassette, Equinox (UK), Kerrie and Kid Drama and 11 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,13 @@ Dinamplatz with Rrose, Random Factor & Nik Colk Void at The Glove That Fits on S
 
 - Datassette
 - Equinox (UK)
+- Kerrie
 - Kid Drama
+- London Modular
 - Monoak
 - Nik Colk Void
 - No data available
+- Radioactive Man
 - Random Factor
 - Rrose
 - Spatial

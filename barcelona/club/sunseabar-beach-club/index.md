@@ -15,7 +15,7 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 18 upco
 | Wed, 12 Aug 2026 | Eclipse beach Party at Platja del Forum |  |
 | Fri, 14 Aug 2026 | FREE OPEN AIR BEACH PARTY Wax Ritual by Coyu | Coyu, Radial, Serkin |
 | Sat, 15 Aug 2026 | FREE OPEN AIR BEACH PARTY - Spark On The Dust x Les Enfants | Alex (ES), Alex Pott, Goalmaker, Ion Pananides |
-| Sun, 16 Aug 2026 | OPEN AIR BEACH PARTY: Lost at Platja del Forum | Jean Pierre |
+| Sun, 16 Aug 2026 | FREE OPEN AIR BEACH PARTY: Lost x Pakate x Jean Perre | ATMEN, Cesar Martino, Jean Pierre, Karla Amaro |
 | Fri, 21 Aug 2026 | FREE OPEN AIR BEACH PARTY - 22 recordings | Bella Sarris, C.ru.z, IAMBP, Man/Ipulate |
 | Sat, 22 Aug 2026 | FREE OPEN AIR BEACH PARTY - Half Baked x Les Enfants | Nate S.U, Reflex Blue, Sami Daik |
 

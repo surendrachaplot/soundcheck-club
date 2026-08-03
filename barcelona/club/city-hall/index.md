@@ -13,7 +13,7 @@ City Hall is a music venue in Barcelona listed on soundcheck. 31 upcoming nights
 | Wed, 5 Aug 2026 | City Hall pres. COFFEETECH II Wednesday II FREE PASS BEFORE 1:00 A.M |  |
 | Wed, 5 Aug 2026 | Dr. Ginn presents Alchemy x Coffeetech | Dr. Ginn |
 | Wed, 5 Aug 2026 | EXPERIENCIA UNDERGROUND EN LA SECRET ROOM II PS x AQV II WEDNESDAY II GET YOUR FREE PASS |  |
-| Thu, 6 Aug 2026 | CITY HELL CLUB IS BACK! II Hard Techno II 2 Rooms |  |
+| Thu, 6 Aug 2026 | CITY HELL CLUB IS BACK! II Hard Techno II 2 Rooms | KSTX, Kynexis |
 | Thu, 6 Aug 2026 | TINY RAVE EN LA SECRET ROOM II THURSDAY II DOWNLOAD YOUR FREE PASS |  |
 | Fri, 7 Aug 2026 | VOODOO CLUB — Episode 89 August - Friday - City Hall, Barcelona | DJANE KARMA, HARUNA (2), REMIXIA, Spirit Disco |
 | Sat, 8 Aug 2026 | City Hall pres. REVENTÓN 2.0 |  |

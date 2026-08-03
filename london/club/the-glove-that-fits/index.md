@@ -16,7 +16,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming
 | Sat, 15 Aug 2026 | ZEM2 presents Crime Partners | Luc *, OllyK |
 | Sun, 16 Aug 2026 | Salotto Sounds - Sunday Open Air | Alfaz, NOIDMATE, Pandar, SCCO, Zak Miller |
 | Fri, 21 Aug 2026 | family affair volume X: a party for palestine | Richard Gregory, Sheriff Boo, Séarlait |
-| Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor & Nik Colk Void | Datassette, Equinox (UK), Kid Drama, Monoak, Nik Colk Void, No data available, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
+| Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor & Nik Colk Void | Datassette, Equinox (UK), Kerrie, Kid Drama, London Modular, Monoak, Nik Colk Void, No data available, Radioactive Man, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
 | Thu, 27 Aug 2026 | pwrSystm - 1st anniversary |  |
 
 ## Address

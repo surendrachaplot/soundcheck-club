@@ -2,13 +2,13 @@
 
 Dalston Den is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass" on Fri, 7 Aug 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AAKAARA, Das ist Vas, Engineer (Live) and Hemmi and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AAKAARA, Bryn Brax, Das ist Vas and Engineer (Live) and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass |  |
+| Fri, 7 Aug 2026 | Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass | Bryn Brax, Karmel Jäger, Whatsname, zoneSL |
 | Sat, 8 Aug 2026 | SUBSTANCE: Edition 2G 4.0 - hosted by Freq Foundation Sound System |  |
 | Fri, 14 Aug 2026 | Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass |  |
 | Fri, 21 Aug 2026 | Breakaway: FREE ENTRY BEFORE 12AM - Jungle/Hardcore |  |
