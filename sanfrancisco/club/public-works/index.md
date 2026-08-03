@@ -9,7 +9,7 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Function 500 presents: Bongo | AGROPOL, Buck Wilson, DJ Panderer, Golem (US) |
-| Fri, 7 Aug 2026 | QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More | Beverly Chills, Cali Rose, Ducky, MAMA SAN, gaszia, umru |
+| Fri, 7 Aug 2026 | QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More | Beverly Chills, Cali Rose, Ducky, Loft, MAMA SAN, gaszia, umru |
 | Fri, 14 Aug 2026 | Shan Nash, Roderic presented by LUT Project and Safra | Roderic, Shan Nash |
 | Fri, 14 Aug 2026 | Denham Audio, Bianca Oblivion, DJ Manny presented by FATCAP & Public Works | Bianca Oblivion, DJ Manny, Denham Audio |
 | Sat, 15 Aug 2026 | Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception, | DJ Perception, Dylan Schwartz, Highkin', Jason Peters, Juan Maclean, Louiv, Nicoshi |

@@ -1,8 +1,8 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "GAIA: Lilya Mandre" on Fri, 4 Sept 2026.
+Gate Milano is a music venue in Milan with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "GAIA: Lilya Mandre" on Fri, 4 Sept 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 10 upcoming nights, with line-ups including Alarico, Alex Akashi, ANNĒ and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 12 upcoming nights, with line-ups including Alarico, Alex Akashi, ANNĒ and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Gate Milano is a music venue in Milan listed on soundcheck. 10 upcoming nights, 
 | Fri, 25 Sept 2026 | Kobosil | HEMPTOTE, Kobosil, Pura Solenne |
 | Fri, 2 Oct 2026 | RAW: ANNĒ & Elli Acula & Inox Traxx & LPV | ANNĒ, Elli Acula, Inox Traxx, LPV |
 | Sat, 3 Oct 2026 | SCHRANZ MOVEMENT: O.B.I | Dstm, O.B.I. (DE) |
+| Fri, 9 Oct 2026 | ØTTA & Pegassi | Pegassi, RESA UTOPICA, ØTTA |
+| Fri, 9 Oct 2026 | ØTTA & Pegassi | Pegassi, RESA UTOPICA, ØTTA |
 | Fri, 16 Oct 2026 | Nikolina & KNTRLVRLST | KNTRLVRLST, PACKAPUNCH909 |
-| Fri, 23 Oct 2026 | Ueberrest & In Verruf | In Verruf, Ueberrest |
-| Sat, 24 Oct 2026 | Novocaine+: Neon Graveyard | Alex Akashi, Neon Graveyard |
 
 ## Address
 

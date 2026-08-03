@@ -3911,7 +3911,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785784856050">
+<meta name="sc-build" content="1785786541120">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -11052,7 +11052,11 @@
     // still resolve. All served via the Pages 404.html SPA fallback. pathRoute()
     // returns the render-route (e.g. 'club/fold' or 'dj/objekt'); pathCitySlug() the city.
     var ENTITY_RE=/^(dj|a|u|e|n|promoter)\/.+/;       // global, city-less (dj canonical; a = legacy alias)
-    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes)$/; // reserved first segments (never a city)
+    // Reserved first segments — never a city. Anything missing here is silently
+    // treated AS a city: /lists/ made currentCity 'lists', so the home feed asked
+    // for events in a city called "lists" and the hub asked for its guides, which
+    // came back empty. Add every new top-level route to this list.
+    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes|lists)$/;
     function pathRoute(){
       if(!onScPath()) return null;
       var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');

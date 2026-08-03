@@ -1,6 +1,6 @@
 # QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More at Public Works
 
-QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More at Public Works on Fri 7 Aug, Sanfrancisco. 6 acts on the bill: Beverly Chills, Cali Rose, Ducky and gaszia and 2 more. Preview the line-up and save it on soundcheck.
+QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More at Public Works on Fri 7 Aug, Sanfrancisco. 7 acts on the bill: Beverly Chills, Cali Rose, Ducky and gaszia and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More at Public Works on Fri 7 
 - Cali Rose
 - Ducky
 - gaszia
+- Loft
 - MAMA SAN
 - umru
 
