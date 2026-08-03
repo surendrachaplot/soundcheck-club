@@ -1,8 +1,8 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DEAD FISH - Euro Tour 2026 - Amsterdam" on Mon, 17 Aug 2026.
+Toekomstmuziek is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DEAD FISH - Euro Tour 2026 - Amsterdam" on Mon, 17 Aug 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 8 upcoming ni
 | Mon, 17 Aug 2026 | DEAD FISH - Euro Tour 2026 - Amsterdam | Pedro da Mata |
 | Sat, 29 Aug 2026 | Plastilina Mosh |  |
 | Sat, 5 Sept 2026 | Føler x LINKD x Toekomstmuziek minifestival | AUTOFLOWER, Michel de Hey |
+| Fri, 11 Sept 2026 | Omnibus w/ Bruno Schmidt | Bruno Schmidt, Combined Type |
 | Fri, 11 Sept 2026 | The Pink Room |  |
 | Fri, 2 Oct 2026 | UNTIED | Drabes, LIKE61 |
 | Thu, 22 Oct 2026 | Colorize: 15 Years - ADE | ALLKNIGHT, Alex Breitling, Datskie, Estiva, Falden, Fejká, Guy Didden, Helsloot, Jordin Post, Klur, L.GU., M.O.S., Matt Fax, Pete K |

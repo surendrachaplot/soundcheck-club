@@ -3911,7 +3911,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785783747788">
+<meta name="sc-build" content="1785784856050">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -11543,7 +11543,7 @@
     // home grid — while working fine once the app is already open. admin, map,
     // import, diary and pl/ were all missing, so every one of those was an
     // un-shareable, un-bookmarkable dead link. Add the case in BOTH places.
-    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|map|upcoming|import|admin|diary|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoter\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoter\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Synchronous (not deferred): the open* handlers add body.page-on before the

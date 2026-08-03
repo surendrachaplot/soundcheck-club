@@ -1,13 +1,14 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Bruno Schmidt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
 
-Bruno Schmidt is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Andrew James Gustav, P-Man and Vera. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Bruno Schmidt is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Andrew James Gustav, P-Man and Vera. Next up: Toekomstmuziek, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
