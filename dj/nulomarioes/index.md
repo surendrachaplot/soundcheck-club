@@ -2,7 +2,7 @@
 
 NULOMARIO (ES) is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-NULOMARIO (ES) is a minimal and techno artist based in Spain, tracked on soundcheck, with 1 set logged across Madrid. Often billed alongside Baldman, Bibi and Bleach. Next up: Heave Festival, Madrid on Fri 25 Sept.
+NULOMARIO (ES) is a minimal and techno artist based in Spain, tracked on soundcheck, with 1 set logged across Madrid. Often billed alongside Forest On Stasys, Ina Kacz and SENDA FATAL. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ NULOMARIO (ES) is a minimal and techno artist based in Spain, tracked on soundch
 
 ## Shares bills with
 
-Baldman, Bibi, Bleach
+Forest On Stasys, Ina Kacz, SENDA FATAL
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nulomarioes/)*

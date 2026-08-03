@@ -1,13 +1,14 @@
 # Regal
 
-Regal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
+Regal is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
 
-Regal is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Amelie Lens, Daria Kolosova and Nuke. Next up: Garage Klub, Antwerp on Sat 5 Sept.
+Regal is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Amelie Lens, Daria Kolosova and Nuke. Next up: Mia Mao, Paris on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Mia Mao | Paris |
 | Sat, 5 Sept 2026 | Garage Klub | Antwerp |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |

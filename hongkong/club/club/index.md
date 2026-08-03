@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 17 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Bà with Lucents (Reach, Hong Kong) and 小喇叭 (Xiaolaba, Shanghai)" on Fri, 7 Aug 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Bà with Lucents (Reach, Hong Kong) and 小喇叭 (Xiaolaba, Shanghai)" on Fri, 7 Aug 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 

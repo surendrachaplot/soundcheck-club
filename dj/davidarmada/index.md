@@ -1,13 +1,14 @@
 # David Armada
 
-David Armada is a Deep House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MH5 Rooftop, Munich on Sat, 8 Aug 2026.
+David Armada is a Deep House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Chez Jean-Luc, Geneva on Thu, 6 Aug 2026.
 
-David Armada is a deep house and electro artist tracked on soundcheck, with 87 sets logged across Cologne, Geneva, Lisbon and London and 1 more. Often billed alongside La Forêt, DJ Reas and Dub Tiger. Next up: MH5 Rooftop, Munich on Sat 8 Aug.
+David Armada is a deep house and electro artist tracked on soundcheck, with 88 sets logged across Cologne, Geneva, Lisbon and London and 1 more. Often billed alongside La Forêt, DJ Reas and Dub Tiger. Next up: Chez Jean-Luc, Geneva on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Chez Jean-Luc | Geneva |
 | Sat, 8 Aug 2026 | MH5 Rooftop | Munich |
 | Sat, 29 Aug 2026 | Backyard | Lisbon |
 

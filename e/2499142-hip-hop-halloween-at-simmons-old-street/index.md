@@ -1,6 +1,6 @@
 # Hip Hop Halloween at Simmons Old Street
 
-Hip Hop Halloween at Simmons Old Street on Sat 31 Oct, London. Afrobeat and Hip-Hop. Preview the line-up and save it on soundcheck.
+Hip Hop Halloween at Simmons Old Street on Sat 31 Oct, London. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

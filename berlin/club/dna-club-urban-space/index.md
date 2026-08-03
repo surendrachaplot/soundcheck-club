@@ -13,7 +13,7 @@ DNA. CLUB - urban Space is a music venue in Berlin listed on soundcheck. 22 upco
 | Sun, 9 Aug 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 13 Aug 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Fri, 14 Aug 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |
-| Sat, 15 Aug 2026 | UG 030- 3IS The Bootcamp Goa official After  'Rave the planet parade' party | Karim, Moto Moto, Rummy Sharma, Speaker Honey, Tom Wax, anastasia |
+| Sat, 15 Aug 2026 | 3IS The Bootcamp Goa Float | Karim, Moto Moto, Rummy Sharma, Speaker Honey, Tom Wax, anastasia |
 | Sun, 16 Aug 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 20 Aug 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Fri, 21 Aug 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |

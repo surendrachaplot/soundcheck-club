@@ -1,14 +1,15 @@
 # Apachi
 
-Apachi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lion Super Club, Seoul on Sat, 8 Aug 2026.
+Apachi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lion Super Club, Seoul on Sat, 8 Aug 2026.
 
-Apachi is a techno and electro artist based in South Korea, tracked on soundcheck, with 118 sets logged across Bangkok and Seoul. Often billed alongside Honn, KINGMCK and X2C (1). Next up: Lion Super Club, Seoul on Sat 8 Aug.
+Apachi is a techno and electro artist based in South Korea, tracked on soundcheck, with 119 sets logged across Bangkok and Seoul. Often billed alongside Honn, KINGMCK and X2C (1). Next up: Lion Super Club, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Lion Super Club | Seoul |
+| Sat, 8 Aug 2026 | Shelter | Seoul |
 
 ## Recently played
 

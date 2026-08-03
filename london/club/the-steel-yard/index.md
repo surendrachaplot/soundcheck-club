@@ -12,7 +12,7 @@ The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming nigh
 | Sat, 8 Aug 2026 | The Asylum x Online Mak 10's Birthday | Donae'o, Marcus Nasty, N Fostell, Pioneer, Shenin Amara |
 | Sat, 15 Aug 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *HEADLINERS*! FREE TICKETS & FREE DRINK | Bassface |
 | Sat, 15 Aug 2026 | FREE TICKETS + FREE DRINK - RnB, Afrohouse, Latin house, Reggaeton, Pop - MOTIVE |  |
-| Fri, 28 Aug 2026 | City Splash: Carnival Warm Up Party |  |
+| Fri, 28 Aug 2026 | City Splash: Carnival Warm Up Party | DJ Nate (UK), Rampage Sound |
 | Fri, 4 Sept 2026 | 10 YEARS OF Klub Verboten x LONDON - SOFT | Oliver Scala, SORAYA*, Steffi, Wes Baggaley |
 | Sat, 5 Sept 2026 | 10 YEARS OF Klub Verboten x LONDON - HARD | CITYTRONIX, Diana Isi, Laure Croft, Simik, nohexcode |
 | Fri, 11 Sept 2026 | Habibis y Azizams: A Middle Eastern / SWANA RAVE (CENTRAL LDN) | Milli, rára |

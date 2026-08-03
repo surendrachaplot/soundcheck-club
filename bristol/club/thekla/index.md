@@ -9,7 +9,7 @@ Thekla is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | PIXELATE Bristol Beach | Compulsive Leia, blo rida |
-| Wed, 16 Sept 2026 | UWE Bristol Official Freshers - Garage Boat Party |  |
+| Wed, 16 Sept 2026 | UWE Bristol Official Freshers - Garage Boat Party w/ Bvnquet |  |
 | Fri, 25 Sept 2026 | Dazed Muzic presents: Sophia Violet | Drinks On Me, Sophia Violet |
 | Fri, 2 Oct 2026 | Dazed Muzic presents: Badger | BEN GERRANS, Badger (UK) |
 | Fri, 9 Oct 2026 | Dazed Muzic presents: Oh My Rosh & Friends |  |

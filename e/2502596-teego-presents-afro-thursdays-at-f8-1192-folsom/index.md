@@ -1,6 +1,6 @@
 # Teego presents Afro Thursdays at F8 1192 Folsom
 
-Teego presents Afro Thursdays at F8 1192 Folsom on Thu 13 Aug, Sanfrancisco. 2 acts on the bill: Camillionaire and Mode Leeloo. House and Afro House. Preview the line-up and save it on soundcheck.
+Teego presents Afro Thursdays at F8 1192 Folsom on Thu 13 Aug, Sanfrancisco. 3 acts on the bill: Camillionaire, HIDRA and Mode Leeloo. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Teego presents Afro Thursdays at F8 1192 Folsom on Thu 13 Aug, Sanfrancisco. 2 a
 ## Line-up
 
 - Camillionaire
+- HIDRA
 - Mode Leeloo
 
 *Source: [soundcheck](https://soundcheck.club/e/2502596-teego-presents-afro-thursdays-at-f8-1192-folsom/)*

@@ -1,13 +1,14 @@
 # Ro Low
 
-Ro Low is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+Ro Low is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Belle Isle Park, Detroit on Sat, 8 Aug 2026.
 
-Ro Low is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit. Often billed alongside Key Mitch, Brent Shay and Dantiez. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
+Ro Low is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit. Often billed alongside Key Mitch, Brent Shay and Dantiez. Next up: Belle Isle Park, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Belle Isle Park | Detroit |
 | Fri, 21 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played

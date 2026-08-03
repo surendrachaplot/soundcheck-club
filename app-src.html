@@ -3788,6 +3788,62 @@
     .adm-area { border:1px solid var(--border); border-radius:var(--radius); padding:var(--sp-3); margin-bottom:var(--sp-3); }
     .adm-miss { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--accent); margin-top:var(--sp-2); }
 
+    /* ── Guides & lists ──────────────────────────────────────────────────────
+       Shared by computed guides (genre / area / this weekend / if-you-like) and
+       member lists — they are the same object to a reader, so they get one look.
+       Everything here is composed from existing tokens; no new sizes, no new
+       radii, and the buttons are the canonical .act-btn row. */
+    .gd-head { margin-bottom:4px; }
+    .gd-actions { display:flex; flex-wrap:wrap; gap:9px; margin:18px 0 4px; max-width:440px; }
+    .gd-actions .act-btn { flex:1 1 calc(50% - 5px); text-decoration:none; }
+    .gd-actions .act-btn svg { width:var(--icon-sm); height:var(--icon-sm); }
+
+    /* chip strips: the sounds and areas of a city, and the sideways mesh */
+    .gd-chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:10px; }
+    .gd-chip { display:inline-flex; align-items:center; gap:7px; padding:9px 13px; min-height:var(--tap-min);
+      background:var(--surface-2); border:1px solid var(--border); border-radius:var(--radius-pill);
+      color:var(--fg); text-decoration:none; font:600 var(--fs-sm)/var(--lh-sm) var(--body); transition:border-color .15s, color .15s; }
+    .gd-chip:hover { border-color:var(--accent); color:var(--accent); }
+    .gd-chip-lg { font-size:var(--fs-md); padding:12px 16px; }
+    .gd-ct { color:var(--muted); font:600 var(--fs-2xs)/1 var(--font-mono); }
+
+    /* artist rows — the shape shared by similar-artists and member lists */
+    .gd-rows { display:flex; flex-direction:column; gap:2px; margin-top:10px; }
+    .gd-row { display:flex; align-items:center; gap:12px; padding:10px 12px; min-height:var(--tap-min);
+      border-radius:var(--radius-sm); color:var(--fg); text-decoration:none; transition:background .15s; }
+    .gd-row:hover { background:var(--surface-2); }
+    .gd-av { flex:0 0 auto; width:44px; height:44px; border-radius:var(--radius-pill);
+      background-size:cover; background-position:center; }
+    .gd-av-list { display:flex; align-items:center; justify-content:center; background:var(--accent-grad); color:var(--ink); }
+    .gd-av-list svg { width:20px; height:20px; }
+    .gd-rtx { min-width:0; display:flex; flex-direction:column; gap:2px; }
+    .gd-name { font:600 var(--fs-md)/var(--lh-md) var(--body); }
+    .gd-note { color:var(--muted); font:500 var(--fs-sm)/var(--lh-sm) var(--body);
+      overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+
+    /* venues on an area guide */
+    .gd-venues { display:flex; flex-direction:column; gap:2px; margin-top:10px; }
+    .gd-venue { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:12px;
+      min-height:var(--tap-min); border-radius:var(--radius-sm); color:var(--fg); text-decoration:none; transition:background .15s; }
+    .gd-venue:hover { background:var(--surface-2); }
+    .gd-vname { font:600 var(--fs-md)/var(--lh-md) var(--body); }
+    .gd-vct { flex:0 0 auto; color:var(--muted); font:600 var(--fs-2xs)/1 var(--font-mono); }
+
+    /* add-to-list modal body */
+    .atl { display:flex; flex-direction:column; gap:6px; margin-top:6px; }
+    .atl-row { display:flex; align-items:center; justify-content:space-between; gap:10px; width:100%;
+      padding:12px 14px; min-height:var(--tap-min); background:var(--surface-2);
+      border:1px solid var(--border); border-radius:var(--radius-sm); color:var(--fg);
+      font:600 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; text-align:left; transition:border-color .15s, color .15s; }
+    .atl-row:hover { border-color:var(--accent); }
+    .atl-row.on { border-color:var(--accent); color:var(--accent); }
+    .atl-name { min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .atl-ct { flex:0 0 auto; color:var(--muted); font:600 var(--fs-2xs)/1 var(--font-mono); text-transform:uppercase; letter-spacing:.06em; }
+    .atl-row.on .atl-ct { color:var(--accent); }
+    .atl-load { color:var(--muted); font:500 var(--fs-sm)/var(--lh-sm) var(--body); padding:8px 0; }
+    .ee-danger { margin-top:14px; }
+    .ee-danger:hover { border-color:var(--bad, #ff5e7e); color:var(--bad, #ff5e7e); }
+
     /* ── MOBILE "BANDS" container layer ──────────────────────────────────────
        On phones the boxed-card chrome (1px border + radius + double insets)
        swaps for full-bleed surface bands separated by slivers of page bg —
@@ -3855,7 +3911,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785769557398">
+<meta name="sc-build" content="1785783747788">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -3868,6 +3924,7 @@
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="discover" type="button">Discover</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
+        <button class="nl" data-nav="lists" type="button">Guides</button>
         <button class="nl" data-nav="upcoming" type="button">Upcoming</button>
         <button class="nl" data-nav="radio" type="button">Radio</button>
       </div>
@@ -3912,7 +3969,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">72 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">103 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">72 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">106 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">35 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5456,6 +5513,7 @@
     var PLAY_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
     var STAR_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.7 5.9 6.4.6-4.85 4.3 1.45 6.3L12 16.9 6.3 19.7l1.45-6.3L2.9 9.1l6.4-.6z"/></svg>';
     var DOTS_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
+    var PLUS_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>';
     // Venue review vibe tags — MUST mirror VENUE_REVIEW_TAGS in reviews.js (server validates).
     var VENUE_TAGS=['Great sound','Intimate','Big room','Underground','Friendly staff','Tough door','Long queues','Good value','Pricey','Late license','Cash only','Smoking area'];
     var PICKS_KEY='sc_picks_v1';
@@ -8167,6 +8225,8 @@
       // Weekend radio pinned at the bottom of the search page (user pref)
       (function(){ var rf=document.getElementById('sx-radio-foot'); if(!rf) return;
         rf.innerHTML='<button class="sx-radio-row" id="sx-radio-btn" type="button"><span class="sx-radio-ic">'+RADIO_SVG+'</span><span class="sx-radio-tx"><b>Weekend radio</b><span>Every artist playing this weekend, shuffled</span></span>'+PLAY_SVG+'</button>';
+        rf.insertAdjacentHTML('afterbegin','<button class="sx-radio-row" id="sx-guides-btn" type="button"><span class="sx-radio-ic">'+PLUS_SVG+'</span><span class="sx-radio-tx"><b>Guides &amp; lists</b><span>Where to go by sound and area, and lists from the scene</span></span></button>');
+        var gb=document.getElementById('sx-guides-btn'); if(gb) gb.addEventListener('click',function(){ openLists(); });
         var b=document.getElementById('sx-radio-btn'); if(b) b.addEventListener('click',function(){ openRadio(); });
       })();
       var input=document.getElementById('sx-input'), results=document.getElementById('sx-results');
@@ -8372,6 +8432,7 @@
                 // seen artists don't need a "wanna see" — the button becomes a selected "Seen"
                 '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'">'+(mine==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(mine==='seen'?'Seen':'Wanna see')+'</span></button>'+
                 '<button class="fp-ab" id="ap-log" type="button">'+logSvg+'<span>Log a gig</span></button>'+
+                '<button class="fp-ab" id="ap-list" type="button">'+PLUS_SVG+'<span>Add to list</span></button>'+
               '</div>'+
             '</div>'+
           '</div>'+
@@ -8391,7 +8452,8 @@
         if((a.history||[]).length) secTabs.push({ key:'past', label:'Past events', count:a.history.length,
           html:'<div class="fp-sec"><div class="fp-sech">Past events <span>logged by the scene</span></div><div id="ap-past-cards"></div></div>' });
         if((a.alongside||[]).length) secTabs.push({ key:'similar', label:'Similar', count:null,
-          html:'<div class="fp-sec"><div class="fp-sech">More like '+esc(a.name||slug)+' <span>similar sound · shares bills</span></div><div class="fp-more" id="fp-morelike"></div></div>' });
+          html:'<div class="fp-sec"><div class="fp-sech">More like '+esc(a.name||slug)+' <span>similar sound · shares bills</span></div><div class="fp-more" id="fp-morelike"></div>'+
+                '<a class="gd-chip nav" style="margin-top:12px" href="'+esc(SC_BASE+'dj/'+encodeURIComponent(slug)+'/similar/')+'">If you like '+esc(a.name||slug)+' &rarr;</a></div>' });
         // Deep-link support: /dj/<slug>/#sets opens (and is shareable to) that tab.
         var _wantTab=_deepTab;
         // default tab = Sets (user pref) unless a hash deep-links another tab
@@ -8424,6 +8486,8 @@
           if(artStatus(slug)==='seen') setArtist(slug, null, a.name); else toggleArtist(slug,{name:a.name});
         });
         document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
+        var apl=document.getElementById('ap-list');
+        if(apl) apl.addEventListener('click',function(){ addToListSheet(slug, a.name||slug); });
         // Upcoming + Past events → the SAME homepage card/list template (poster on desktop, .lvr list on mobile) — consistent with every other event list
         if(up.length){ var _auc=document.getElementById('ap-upcoming-cards'); if(_auc) mountDatedEventCards(document.getElementById('ap-upcoming-strip'), _auc, up, {showCity:true}); }
         if((a.history||[]).length){ var _apc=document.getElementById('ap-past-cards'); if(_apc) mountEventCards(_apc, a.history, {showCity:true}); }
@@ -8726,6 +8790,322 @@
         mountVenueMap(document.getElementById('cs-map'), city, { scroll:false, minUpcoming:5 });
       }catch(_){ openPanel('<div class="empty">Couldn’t load the scene guide.</div>'); }
     }
+    // ════════════ Guides (computed) + Lists (member-made) ════════════
+    // One renderer, two sources. A guide is a question about right now
+    // ("techno in London this weekend") answered from live data; a list is a
+    // thing a person made. They look alike on purpose — the hub mixes them, and
+    // the only honest difference is the byline.
+
+    // The single gradient Play for a guide/list. Resolves through the cached
+    // index only — playYtList batches slugs to /api/youtube/cached (a DB read)
+    // and falls back to SoundCloud/NTS. NOTHING here may search YouTube.
+    function guidePlayHTML(n){
+      if(!n) return '';
+      return '<button class="act-btn radio" id="gd-play" type="button">'+PLAY_SVG+'Play</button>';
+    }
+    function wireGuidePlay(play, label){
+      var b=document.getElementById('gd-play'); if(!b) return;
+      b.addEventListener('click', function(){
+        if(!play || !play.length){ showToast('Nothing to play yet.'); return; }
+        b.disabled=true; b.classList.add('spinning');
+        playYtList(play.map(function(s){ return { slug:s, name:s }; }), 0)
+          .catch(function(){ showToast('Couldn’t start playback.'); })
+          .finally(function(){ b.disabled=false; b.classList.remove('spinning'); });
+      });
+    }
+
+    // Artist rows for similar-artist and list pages: photo, name, and the REASON.
+    // The reason is the whole point — "played 6 bills with Ben UFO" is checkable,
+    // "recommended for you" is not.
+    function guideArtistRowsHTML(items){
+      return '<div class="gd-rows">'+items.map(function(a){
+        var img=a.image?'<span class="gd-av" style="background-image:url('+esc(imgUrl(a.image,120))+')"></span>'
+                       :'<span class="gd-av" style="background-image:'+avatarBg(a.name,null)+'"></span>';
+        var sub=a.note?'<span class="gd-note">'+esc(a.note)+'</span>':(a.genres&&a.genres.length?'<span class="gd-note">'+esc(a.genres.join(' · '))+'</span>':'');
+        return '<a class="gd-row nav" href="'+esc(SC_BASE+'dj/'+encodeURIComponent(a.slug)+'/')+'" data-artist="'+esc(a.slug)+'">'+img+
+               '<span class="gd-rtx"><span class="gd-name">'+esc(a.name)+'</span>'+sub+'</span></a>';
+      }).join('')+'</div>';
+    }
+
+    // A guide: genre, area or this-weekend. All three share the shape
+    // {title, subtitle, blurb, sections:[{label,events}], venues?, play}.
+    async function openGuide(city, slug){
+      city=(city||currentCity||'london').toLowerCase();
+      var url=SC_BASE+city+'/'+slug+'/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/guide?type=auto&city='+encodeURIComponent(city)+'&slug='+encodeURIComponent(slug));
+        if(!r.ok){
+          // A URL that is no longer a guide (a genre whose last event passed) is
+          // not an error page — send them to the city they asked for.
+          openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="act-btn" id="gd-city" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
+          var gc=document.getElementById('gd-city'); if(gc) gc.addEventListener('click',function(){ hidePage(); setCity(city,true); });
+          return;
+        }
+        var g=await r.json();
+        var h='<div class="gd-head"><h2 class="page-title">'+esc(g.title)+'</h2><div class="sub">'+esc(g.subtitle||'')+'</div>'+
+              (g.blurb?'<p class="seo-desc">'+esc(g.blurb)+'</p>':'')+
+              '<div class="gd-actions">'+guidePlayHTML((g.play||[]).length)+
+              '<button class="act-btn" id="gd-share" type="button">Share</button></div></div>';
+        (g.sections||[]).forEach(function(s,i){
+          h+=secH(s.date?fmtDateLabel(s.date):s.label, i?1:0)+'<div class="gd-evs" data-sec="'+i+'"></div>';
+        });
+        if(g.venues && g.venues.length){
+          h+=secH('Venues', 1)+'<div class="gd-venues">'+g.venues.map(function(v){
+            return '<a class="gd-venue nav" href="'+esc(SC_BASE+city+'/club/'+encodeURIComponent(v.slug)+'/')+'" data-venue="'+esc(v.slug)+'">'+
+                   '<span class="gd-vname">'+esc(v.name)+'</span>'+
+                   (v.upcoming?'<span class="gd-vct">'+v.upcoming+' upcoming</span>':'')+'</a>';
+          }).join('')+'</div>';
+        }
+        h+='<div id="gd-more"></div>';
+        openPanel(h);
+        var canon=location.origin+SC_BASE+city+'/'+slug+'/';
+        setSeo(g.title+' | soundcheck', g.blurb||'', null, canon);
+        (g.sections||[]).forEach(function(s,i){
+          mountEventCards(document.querySelector('.gd-evs[data-sec="'+i+'"]'), s.events||[]);
+        });
+        wireGuidePlay(g.play, g.title);
+        var sh=document.getElementById('gd-share');
+        if(sh) sh.addEventListener('click', function(){ shareUrl(canon, g.title); });
+        // Cross-links: the other guides for this city. This is the internal link
+        // mesh Google follows, and the way a reader browses sideways.
+        renderGuideMesh(document.getElementById('gd-more'), city, slug);
+      }catch(_){ openPanel('<div class="empty">Couldn’t load this guide.</div>'); }
+    }
+
+    // "If you like X" — the shareable, playable, indexable surface for the
+    // similarity engine that already powers the artist page's Similar tab.
+    // It calls /api/artist/similar deliberately: that engine weights co-billing
+    // by IDF and adds shared promoters, venues and listener overlap. Computing a
+    // second opinion here would just be a worse answer arguing with a better one.
+    async function openSimilar(slug){
+      var url=SC_BASE+'dj/'+encodeURIComponent(slug)+'/similar/';
+      if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/artist/similar?slug='+encodeURIComponent(slug));
+        if(!r.ok){ openArtist(slug); return; }
+        var j=await r.json();
+        var sim=(j.similar||[]);
+        if(!sim.length){ openArtist(slug); return; }   // nothing to say → the artist page still works
+        var seed=j.seed||slug;
+        var items=sim.map(function(x){
+          // The engine's own `why` is the note — "Plays the same lineups as X",
+          // "Liked by fans of X". A reason the reader can check beats a score.
+          var bits=[x.why];
+          if(x.popularity) bits.push(x.popularity);
+          if(x.next && x.next.event_date) bits.push('Next: '+fmtDateLabel(String(x.next.event_date).slice(0,10)));
+          return { slug:x.slug, name:x.name, image:x.image, note:bits.filter(Boolean).join(' · ') };
+        });
+        var title='If you like '+seed;
+        var blurb='Artists who share '+seed+'’s lineups, promoters, venues and listeners — with a set from each.';
+        var h='<div class="gd-head"><h2 class="page-title">'+esc(title)+'</h2><div class="sub">'+items.length+' selectors</div>'+
+              '<p class="seo-desc">'+esc(blurb)+'</p>'+
+              '<div class="gd-actions">'+guidePlayHTML(items.length)+
+              '<a class="act-btn nav" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
+        h+=guideArtistRowsHTML(items);
+        openPanel(h);
+        var canon=location.origin+url;
+        setSeo(title+' — similar artists | soundcheck', blurb, null, canon);
+        wireGuidePlay(items.map(function(i){ return i.slug; }), title);
+      }catch(_){ openPanel('<div class="empty">Couldn’t load this.</div>'); }
+    }
+
+    // The hub: this city's guides, then the community's lists.
+    async function openLists(){
+      setRoute('lists');
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/guides?city='+encodeURIComponent(currentCity||'london'));
+        var d=await r.json();
+        var cn=d.cityName||cityLabel(currentCity);
+        var h='<h2 class="page-title">Guides &amp; lists</h2><div class="sub">Where to go, by sound and by area — and lists made by people here.</div>';
+        h+='<div class="gd-actions"><button class="act-btn radio" id="gl-new" type="button">New list</button>'+
+           '<button class="act-btn" id="gl-mine" type="button">My lists</button></div>';
+        if(d.weekend) h+=secH('Start here',1)+'<div class="gd-chips"><a class="gd-chip gd-chip-lg nav" href="'+esc(SC_BASE+d.city+'/this-weekend/')+'">'+esc(d.weekend.title)+'</a></div>';
+        if((d.genres||[]).length) h+=secH('By sound in '+cn,1)+'<div class="gd-chips">'+d.genres.map(function(g){
+          return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/'+g.slug+'/')+'">'+esc(g.name)+'<span class="gd-ct">'+g.count+'</span></a>';
+        }).join('')+'</div>';
+        if((d.areas||[]).length) h+=secH('By area in '+cn,1)+'<div class="gd-chips">'+d.areas.map(function(a){
+          return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
+        }).join('')+'</div>';
+        if((d.lists||[]).length) h+=secH('Lists from the scene',1)+'<div class="gd-rows">'+d.lists.map(function(l){
+          return '<a class="gd-row nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(l.by.handle)+'/list/'+encodeURIComponent(l.slug)+'/')+'">'+
+                 '<span class="gd-av gd-av-list">'+PLAY_SVG+'</span><span class="gd-rtx"><span class="gd-name">'+esc(l.title)+'</span>'+
+                 '<span class="gd-note">'+esc(l.count+(l.count===1?' artist':' artists'))+' · by '+esc(l.by.name)+'</span></span></a>';
+        }).join('')+'</div>';
+        openPanel(h);
+        setSeo('Guides & lists — '+cn+' | soundcheck', 'Where to go in '+cn+' by sound and by area, plus artist lists made by people in the scene.', null, location.origin+SC_BASE+'lists/');
+        var nb=document.getElementById('gl-new'); if(nb) nb.addEventListener('click',function(){ newListPrompt(); });
+        var mb=document.getElementById('gl-mine'); if(mb) mb.addEventListener('click',function(){
+          if(!currentUser){ openAuth(); return; }
+          openProfile(currentUser.handle);
+        });
+      }catch(_){ openPanel('<div class="empty">Couldn’t load guides.</div>'); }
+    }
+
+    // ── member lists ──────────────────────────────────────────────────────────
+    async function openList(handle, slug){
+      var url=SC_BASE+'u/'+encodeURIComponent(handle)+'/list/'+encodeURIComponent(slug)+'/';
+      if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/list?handle='+encodeURIComponent(handle)+'&slug='+encodeURIComponent(slug));
+        if(!r.ok){ openPanel('<div class="empty">That list isn’t here.</div>'); return; }
+        var L=await r.json();
+        var h='<div class="gd-head"><h2 class="page-title">'+esc(L.title)+'</h2>'+
+              '<div class="sub">'+esc(L.count+(L.count===1?' artist':' artists'))+' · by <a class="nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(L.by.handle)+'/')+'">'+esc(L.by.name)+'</a>'+(L.public?'':' · private')+'</div>'+
+              (L.blurb?'<p class="seo-desc">'+esc(L.blurb)+'</p>':'')+
+              '<div class="gd-actions">'+guidePlayHTML((L.play||[]).length)+
+              '<button class="act-btn" id="gd-share" type="button">Share</button>'+
+              (L.mine?'<button class="act-btn" id="ls-edit" type="button">Edit</button>':'')+'</div></div>';
+        h+=(L.items||[]).length?guideArtistRowsHTML(L.items.filter(function(i){ return i.kind==='artist'; })):
+           '<div class="empty">Nothing on this list yet.</div>';
+        openPanel(h);
+        var canon=location.origin+url;
+        setSeo(L.title+' — a list by '+L.by.name+' | soundcheck', L.blurb||('An artist list by '+L.by.name+' on soundcheck.'), null, canon);
+        wireGuidePlay(L.play, L.title);
+        var sh=document.getElementById('gd-share');
+        if(sh) sh.addEventListener('click', function(){ shareUrl(canon, L.title); });
+        var ed=document.getElementById('ls-edit');
+        if(ed) ed.addEventListener('click', function(){ editListSheet(L, function(){ openList(handle, slug); }); });
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that list.</div>'); }
+    }
+
+    async function listApi(body){
+      var r=await authedFetch('/api/list', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) });
+      var j=await r.json().catch(function(){ return {}; });
+      if(!r.ok) throw new Error(j.error||'failed');
+      return j;
+    }
+
+    // The shared modal shell the design tracker has been asking for (item 11).
+    // Six modals had hand-rolled this same overlay/box/close/esc scaffolding; the
+    // list modals use the extracted version rather than making it eight. Returns
+    // the overlay so callers can query into their own body.
+    function openModalShell(eyebrow, title, bodyHTML, opts){
+      opts=opts||{};
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box'+(opts.cls?' '+opts.cls:'')+'"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        (eyebrow?'<div class="eyebrow">'+esc(eyebrow)+'</div>':'')+'<h3>'+esc(title)+'</h3>'+bodyHTML+
+        (opts.cta?'<button class="go" data-modal-go type="button">'+esc(opts.cta)+'</button>':'')+
+        '<div class="err" data-modal-err></div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); document.removeEventListener('keydown', onKey); }
+      function onKey(e){ if(e.key==='Escape') close(); }
+      document.addEventListener('keydown', onKey);
+      ov.querySelector('.auth-close').addEventListener('click', close);
+      ov.addEventListener('click', function(e){ if(e.target===ov) close(); });
+      var go=ov.querySelector('[data-modal-go]');
+      if(go && opts.onGo) go.addEventListener('click', function(){ opts.onGo(close, ov, go); });
+      ov.close=close;
+      return ov;
+    }
+
+    function newListPrompt(after){
+      if(!currentUser){ openAuth(); return; }
+      openModalShell('List', 'New list',
+        '<label class="ee-l">Title</label><input type="text" id="nl-title" maxlength="120" placeholder="Best selectors for a 6am room">'+
+        '<label class="ee-l">Description</label><textarea id="nl-blurb" maxlength="500" placeholder="What ties these together?"></textarea>',
+        { cta:'Create', onGo: async function(close, ov, go){
+          var t=(document.getElementById('nl-title')||{}).value||'';
+          var err=ov.querySelector('[data-modal-err]');
+          if(!t.trim()){ err.textContent='Give it a title.'; return; }
+          go.disabled=true; err.textContent='';
+          try{
+            var j=await listApi({ op:'create', title:t, blurb:(document.getElementById('nl-blurb')||{}).value||'' });
+            close(); showToast('List created.');
+            if(after) after(j); else openList(j.handle, j.slug);
+          }catch(e){ err.textContent='Couldn’t create that list.'; go.disabled=false; }
+        }});
+    }
+
+    function editListSheet(L, after){
+      var ov=openModalShell('Edit', L.title,
+        '<label class="ee-l">Title</label><input type="text" id="el-title" maxlength="120" value="'+attrEsc(L.title)+'">'+
+        '<label class="ee-l">Description</label><textarea id="el-blurb" maxlength="500">'+esc(L.blurb||'')+'</textarea>'+
+        '<label class="ee-check"><input type="checkbox" id="el-pub"'+(L.public?' checked':'')+'> Anyone can see this list</label>'+
+        '<button class="act-btn ee-danger" id="el-del" type="button">Delete list</button>',
+        { cta:'Save', onGo: async function(close, o, go){
+          var err=o.querySelector('[data-modal-err]'); go.disabled=true; err.textContent='';
+          try{
+            await listApi({ op:'update', id:L.id, title:(document.getElementById('el-title')||{}).value,
+              blurb:(document.getElementById('el-blurb')||{}).value, public:!!(document.getElementById('el-pub')||{}).checked });
+            close(); showToast('Saved.'); if(after) after();
+          }catch(e){ err.textContent='Couldn’t save.'; go.disabled=false; }
+        }});
+      var d=ov.querySelector('#el-del');
+      if(d) d.addEventListener('click', async function(){
+        if(!confirm('Delete “'+L.title+'”? This can’t be undone.')) return;
+        try{ await listApi({ op:'delete', id:L.id }); ov.close(); showToast('List deleted.'); hidePage(); openLists(); }
+        catch(e){ ov.querySelector('[data-modal-err]').textContent='Couldn’t delete.'; }
+      });
+    }
+
+    // "Add to list" from an artist page. Shows which lists already hold them, so
+    // the same artist can't quietly be added twice.
+    async function addToListSheet(slug, name){
+      if(!currentUser){ openAuth(); return; }
+      var ov=openModalShell('Add to list', name, '<div class="atl" id="atl-body"><div class="atl-load">Loading…</div></div>');
+      var host=ov.querySelector('#atl-body');
+      function wire(){
+        ov.querySelectorAll('.atl-row').forEach(function(b){
+          b.addEventListener('click', async function(){
+            var has=b.dataset.has==='1';
+            b.disabled=true;
+            try{
+              await listApi({ op:has?'remove':'add', id:+b.dataset.id, kind:'artist', ref:slug });
+              b.dataset.has=has?'0':'1'; b.classList.toggle('on', !has);
+              b.querySelector('.atl-ct').textContent=has?'':'Added';
+              showToast(has?('Removed from '+b.querySelector('.atl-name').textContent):('Added to '+b.querySelector('.atl-name').textContent));
+            }catch(e){
+              // The optimistic update must not survive a failed write — the whole
+              // point of the tick is that it reflects the server.
+              showToast('Couldn’t update that list.');
+            } finally { b.disabled=false; }
+          });
+        });
+        var nb=ov.querySelector('#atl-new');
+        if(nb) nb.addEventListener('click', function(){
+          ov.close();
+          newListPrompt(async function(j){
+            try{ await listApi({ op:'add', id:j.id, kind:'artist', ref:slug }); showToast('Added '+name+'.'); }
+            catch(e){ showToast('List made, but couldn’t add '+name+'.'); }
+          });
+        });
+      }
+      try{
+        var r=await authedFetch('/api/list/mine?kind=artist&ref='+encodeURIComponent(slug));
+        var d=await r.json();
+        var rows=(d.lists||[]).map(function(l){
+          return '<button class="atl-row'+(l.has?' on':'')+'" type="button" data-id="'+l.id+'" data-has="'+(l.has?1:0)+'">'+
+                 '<span class="atl-name">'+esc(l.title)+'</span><span class="atl-ct">'+(l.has?'Added':'')+'</span></button>';
+        }).join('');
+        host.innerHTML=(rows||'<div class="empty">No lists yet — make your first.</div>')+
+          '<button class="act-btn" id="atl-new" type="button">New list</button>';
+        wire();
+      }catch(_){ host.innerHTML='<div class="empty">Couldn’t load your lists.</div>'; }
+    }
+
+    // Sideways links at the foot of a guide — the other sounds and areas here.
+    async function renderGuideMesh(el, city, current){
+      if(!el) return;
+      try{
+        var r=await authedFetch('/api/guides?city='+encodeURIComponent(city));
+        var d=await r.json();
+        var chips=[].concat(
+          (d.genres||[]).filter(function(g){ return g.slug!==current; }).slice(0,10)
+            .map(function(g){ return { href:SC_BASE+city+'/'+g.slug+'/', label:g.name }; }),
+          (d.areas||[]).filter(function(a){ return a.slug!==current; }).slice(0,8)
+            .map(function(a){ return { href:SC_BASE+city+'/'+a.slug+'/', label:a.name }; })
+        );
+        if(!chips.length) return;
+        el.innerHTML=secH('More in '+(d.cityName||cityLabel(city)),1)+'<div class="gd-chips">'+chips.map(function(c){
+          return '<a class="gd-chip nav" href="'+esc(c.href)+'">'+esc(c.label)+'</a>';
+        }).join('')+'</div>';
+      }catch(_){ /* the guide is still complete without its mesh */ }
+    }
+
     async function openPromoter(slug){
       setRoute('promoter/'+slug);
       openPanel(pageSkeleton());
@@ -10211,6 +10591,10 @@
       else if(hash.indexOf('e/')===0) openEvent(hash.slice(2));
       else if(hash.indexOf('n/')===0) openNight(hash.slice(2));
       else if(hash.indexOf('pl/')===0) openPlaylist(hash.slice(3));
+      else if(hash==='lists') openLists();
+      else if(hash.indexOf('guide/')===0){ var gp=hash.slice(6).split('/'); openGuide(gp[0], gp[1]); }
+      else if(hash.indexOf('similar/')===0) openSimilar(hash.slice(8));
+      else if(hash.indexOf('list/')===0){ var lp=hash.slice(5).split('/'); openList(lp[0], lp[1]); }
     }
     // Push a real history entry per forward navigation (pushState doesn't fire
     // popstate, so no double-render). Back/forward fire popstate → handleRoute.
@@ -10679,6 +11063,22 @@
       if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
       if(rest==='scenes') return 'scenes';               // /scenes → all-cities scene index
       if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
+      if(rest==='lists') return 'lists';                 // /lists → guides + lists hub
+      // /u/<handle>/list/<slug> → a member's list. Checked before the bare u/
+      // rule above would have swallowed it (that one matches ENTITY_RE first,
+      // so this must come through the explicit path branch).
+      var lm=rest.match(/^u\/([^/]+)\/list\/([^/]+)$/);
+      if(lm) return 'list/'+lm[1]+'/'+lm[2];
+      // /dj/<slug>/similar → if-you-like page
+      var sm=rest.match(/^dj\/([^/]+)\/similar$/);
+      if(sm) return 'similar/'+sm[1];
+      // /<city>/<slug>/ → a guide (genre, area or this-weekend). LAST, because
+      // this pattern is the widest in the app: everything above owns a specific
+      // shape and must claim it first. Dates (/<city>/2026-08-03/) stay with the
+      // home feed's own date handling, so they are excluded here.
+      var gm=rest.match(/^([a-z0-9-]+)\/([a-z0-9-]+)$/);
+      if(gm && !/^\d{4}-\d{2}-\d{2}$/.test(gm[2]) && !CITY_SEG_RE.test(gm[1]) && gm[2]!=='tonight')
+        return 'guide/'+gm[1]+'/'+gm[2];
       return null;
     }
     function pathCitySlug(){
@@ -10959,7 +11359,7 @@
     }
 
     document.getElementById('hdr-search').addEventListener('click',openSearch);
-    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); else if(n==='radio') openRadio(); }); });
+    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); else if(n==='radio') openRadio(); else if(n==='lists') openLists(); }); });
     var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
     // filters: the genre / price / near row is collapsed by default; the sliders
     // button reveals it (and shows a salmon dot when a filter is live).

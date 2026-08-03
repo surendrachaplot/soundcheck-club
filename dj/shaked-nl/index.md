@@ -1,14 +1,15 @@
 # Shakèd
 
-Shakèd is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
+Shakèd is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
 
-Shakèd is a house and minimal artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 5 more. Often billed alongside Cabanne, Job de Jong and Julien Simmons. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
+Shakèd is a house and minimal artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 5 more. Often billed alongside Cabanne, Job de Jong and Julien Simmons. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 21 Aug 2026 | Frankhan Selectist | Istanbul |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played

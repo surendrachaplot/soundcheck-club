@@ -1,8 +1,8 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Neon Dreams Cologne" on Fri, 7 Aug 2026.
+Artheater is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Neon Dreams Cologne" on Fri, 7 Aug 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including 3LEEZA, alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including 3LEEZA, Aaro (3), alleira and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, w
 | Fri, 21 Aug 2026 | Jump House | Diffrent, Lizzle, Tristan K (1), anyka, snoritz |
 | Sat, 22 Aug 2026 | jedermensch. x PhonoVision | Annemalie, Arninho, HiHat, Schuhmacher (3), alleira, lollo |
 | Fri, 28 Aug 2026 | Aura Extra with slin & Tarkno all night long on vinyl | Tarkno, slin |
+| Sat, 5 Sept 2026 | akt x hyperlove | Aaro (3), DJ ASS TITS, KLARYOKO, Maara, ZAHNATZIN |
 | Fri, 11 Sept 2026 | rau.ton x Toolboxxx PRESENTS | Cinthie, Efdemin, HWRD, Lea Occhi, Sandilé, Shrff, Virginia, pik (1) |
 | Sat, 19 Sept 2026 | Kluengel Klubnacht | Cara Elizabeth, HUELLE, Prossowski, RCGT, Sneaky Pete |
 | Sat, 19 Sept 2026 | 303 presents Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL u. v. m. | Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL |

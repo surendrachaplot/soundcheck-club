@@ -15,7 +15,7 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 20 upcoming 
 | Sun, 9 Aug 2026 | DJ STEPDAD, Soler System, 3 People | DJ STEPDAD |
 | Wed, 12 Aug 2026 | Woke Brian & Friends: s.c.k, sanatswrld, Eddy K | Sanat, Woke Brian, sanatswrld |
 | Thu, 13 Aug 2026 | IBM Doily  The Grouch DJ | IBM Doily, The Grouch Dj |
-| Fri, 14 Aug 2026 | cry$cross, Kfeelz, DJ Raqx | Kat Offline, Kfeelz, cry$cross |
+| Fri, 14 Aug 2026 | cry$cross, Kfeelz, DJ Raqx | Kat Offline, Kfeelz, RAQX, cry$cross |
 | Sat, 15 Aug 2026 | Tromac, Intimacy Simulator, MUSE(O)FIRE | Intimacy Simulator, MUSE(O)FIRE, Tromac |
 | Sun, 16 Aug 2026 | Pink Rambo, Hard Boiled Babe, Scott McPhie, DJ VEEPS, Nas Leber | Hard Boiled Babe, Nas Leber, Veeps |
 

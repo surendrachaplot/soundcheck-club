@@ -1,8 +1,8 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Kik0 runway / rave" on Fri, 7 Aug 2026.
+Distillery N17 is a music venue in London with 15 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Kik0 runway / rave" on Fri, 7 Aug 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 69DB, Ac1d Vicious, Acerbic and Acid Steve and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 69DB, Ac1d Vicious, Acerbic and Acid Steve and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 

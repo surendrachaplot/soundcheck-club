@@ -1,8 +1,8 @@
 # Fennek
 
-Fennek is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
+Fennek is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
 
-Fennek is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Langnikel, Moto Moto and Aio. Next up: elipamanoke, Leipzig on Sat 8 Aug.
+Fennek is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Langnikel, Moto Moto and Aio. Next up: elipamanoke, Leipzig on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fennek is a techno and house artist tracked on soundcheck, with 18 sets logged a
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | elipamanoke | Leipzig |
 | Fri, 14 Aug 2026 | Insomnia | Berlin |
+| Sat, 29 Aug 2026 | Freifläche Neue Messe | Leipzig |
 
 ## Recently played
 

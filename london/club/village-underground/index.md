@@ -10,7 +10,7 @@ Village Underground is a music venue in London listed on soundcheck. 15 upcoming
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | VU Summer Free Party: Special Guests TBA |  |
 | Fri, 28 Aug 2026 | Channel One Sound System - Carnival Warm Up | Channel One Sound |
-| Sat, 29 Aug 2026 | Places+Faces: 13 Year Party @ Village Underground w/ Secret Special Guests  | Shifa Ligero |
+| Sat, 29 Aug 2026 | Places+Faces: 13 Year Party @ Village Underground w/ Secret Guests + Ciesay + Chef Dee ++ more | Shifa Ligero |
 | Sat, 5 Sept 2026 | Origins x VU Free Rave: House Techno Trance |  |
 | Fri, 25 Sept 2026 | Central - Youandewan b2b Liquid Earth, Laurine, Ron Obvious | Adam Chapman, Checketts, Laurine, Liquid Earth, Ron Obvious, Youandewan |
 | Wed, 30 Sept 2026 | 1-800 GIRLS (Live) | 1-800 GIRLS |

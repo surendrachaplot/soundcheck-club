@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Colyn is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Colyn is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Colyn is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Colyn is a techno and house artist tracked on soundcheck, with 155 sets logged a
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 14 Aug 2026 | Sunset Park Rooftop | New York City |
 | Sat, 15 Aug 2026 | Coda | Toronto |
+| Fri, 28 Aug 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Sat, 12 Sept 2026 | Colorado Charlie | The Hague |
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |

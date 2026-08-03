@@ -1,14 +1,15 @@
 # Skeptic
 
-Skeptic is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at M.O.T, London on Fri, 25 Sept 2026.
+Skeptic is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
-Skeptic is a garage and house artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Aberdeen, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside Silva Bumpa, Dr Dubplate and Soul Mass Transit System. Next up: M.O.T, London on Fri 25 Sept.
+Skeptic is a garage and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Aberdeen, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside Silva Bumpa, Dr Dubplate and Soul Mass Transit System. Next up: M.O.T, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | M.O.T | London |
+| Sat, 10 Oct 2026 | Fisher Gate Point | Nottingham |
 
 ## Recently played
 

@@ -14,7 +14,7 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 263 sets log
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | TV Lounge | Detroit |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
-| Sat, 12 Sept 2026 | Darsena dei Navigli | Milan |
+| Sat, 12 Sept 2026 | P.za Ventiquattro Maggio | Milan |
 | Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | FOLD | London |
 | Thu, 24 Sept 2026 | Chinois Ibiza | Ibiza |

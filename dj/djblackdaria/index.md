@@ -1,14 +1,15 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Black Daria is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
-Black Daria is a hip-hop and club artist tracked on soundcheck, with 91 sets logged across Austin, Chicago, Mexicocity and Montreal and 4 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
+Black Daria is a club and hip-hop artist tracked on soundcheck, with 92 sets logged across Austin, Chicago, London and Mexicocity and 5 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
+| Sun, 30 Aug 2026 | Colour Factory | London |
 
 ## Recently played
 

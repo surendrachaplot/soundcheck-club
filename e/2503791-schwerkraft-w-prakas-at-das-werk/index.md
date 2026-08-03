@@ -1,6 +1,6 @@
 # SCHWERKRAFT W/ PRAKAS at Das Werk
 
-SCHWERKRAFT W/ PRAKAS at Das Werk on Sat 22 Aug, Vienna. 5 acts on the bill: Albin Brezlan, Farbod, Kat Ze and TAUSEND2Ø and 1 more. Techno. Preview the line-up and save it on soundcheck.
+SCHWERKRAFT W/ PRAKAS at Das Werk on Sat 22 Aug, Vienna. 6 acts on the bill: Albin Brezlan, Farbod, Kat Ze and TAUSEND2Ø and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ SCHWERKRAFT W/ PRAKAS at Das Werk on Sat 22 Aug, Vienna. 5 acts on the bill: Alb
 - Farbod
 - Kat Ze
 - TAUSEND2Ø
+- Wal_Halla
 - WO.IZZY
 
 *Source: [soundcheck](https://soundcheck.club/e/2503791-schwerkraft-w-prakas-at-das-werk/)*

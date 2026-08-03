@@ -1,14 +1,15 @@
 # G I N A
 
-G I N A is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Dolphin, Philadelphia on Fri, 7 Aug 2026.
+G I N A is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Dolphin, Philadelphia on Fri, 7 Aug 2026.
 
-G I N A is a techno and house artist tracked on soundcheck, with 218 sets logged across Barcelona, Liverpool, Losangeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Dolphin, Philadelphia on Fri 7 Aug.
+G I N A is a techno and house artist tracked on soundcheck, with 219 sets logged across Barcelona, Liverpool, Losangeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Dolphin, Philadelphia on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Dolphin | Philadelphia |
+| Sat, 8 Aug 2026 | Gabriela | New York City |
 | Sun, 9 Aug 2026 | Liberty Point | Philadelphia |
 | Fri, 14 Aug 2026 | Bastet | Philadelphia |
 

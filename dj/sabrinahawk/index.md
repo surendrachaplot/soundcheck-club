@@ -1,13 +1,14 @@
 # Sabrina Hawk
 
-Sabrina Hawk is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 8 Aug 2026.
+Sabrina Hawk is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Goldener Reiter, Munich on Fri, 7 Aug 2026.
 
-Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside Louisianaha, LIZZN and Leon Haller. Next up: Bahnwärter Thiel, Munich on Sat 8 Aug.
+Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside Louisianaha, LIZZN and Leon Haller. Next up: Goldener Reiter, Munich on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Goldener Reiter | Munich |
 | Sat, 8 Aug 2026 | Bahnwärter Thiel | Munich |
 | Sat, 15 Aug 2026 | Golden Gate | Berlin |
 

@@ -14,7 +14,7 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 21 upcomin
 | Fri, 7 Aug 2026 | SQUISH x program audio → INVT, Jubilee, Coffintexts b2b Jonny From Space | Coffintexts, INVT, Jonny From Space, Jubilee, Papa Xanny, Sholim Eso, Yuca Frita, erika (SF), likeholywine, nonsuit |
 | Tue, 11 Aug 2026 | INTERZONE Darkwave Tuesdays - Guest DJ Adrienne Scissorhands | Byter, Hex Embrace |
 | Wed, 12 Aug 2026 | Run it Back ft. Casmalia | Casmalia, DJ Parrot, Mode Leeloo |
-| Thu, 13 Aug 2026 | Teego presents Afro Thursdays | Camillionaire, Mode Leeloo |
+| Thu, 13 Aug 2026 | Teego presents Afro Thursdays | Camillionaire, HIDRA, Mode Leeloo |
 | Fri, 14 Aug 2026 | program audio: innerspeak:r | 2dahlia, Aepricity, Avi Loud, Chloe Battelle, Dance Maniacs, FINISHHER, Javi (US), Just Another Bitch, KIMOSABE, Lethargy, Liano, Lonald J. Bandz, M66 (1), Moonpie, Oak City Slums, Oso Feo (2), PSL, QRTR, Soulox, Taraneh, ZZ (4), djfix, ek:), erika (SF), jcore, jmo corleone, sfcowboy |
 | Tue, 18 Aug 2026 | INTERZONE Darkwave Tuesdays w/ DJs KREEPEEO, TyrantWorm & Sneakerz | Byter, Hex Embrace |
 | Wed, 19 Aug 2026 | Strut Sf 5 Year Anniversary feat DJ Three | DJ Three, Jeno |

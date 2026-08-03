@@ -1,6 +1,6 @@
 # cry$cross, Kfeelz, DJ Raqx at Jupiter Disco
 
-cry$cross, Kfeelz, DJ Raqx at Jupiter Disco on Fri 14 Aug, Newyorkcity. 3 acts on the bill: cry$cross, Kat Offline and Kfeelz. Preview the line-up and save it on soundcheck.
+cry$cross, Kfeelz, DJ Raqx at Jupiter Disco on Fri 14 Aug, Newyorkcity. 4 acts on the bill: cry$cross, Kat Offline, Kfeelz and RAQX. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ cry$cross, Kfeelz, DJ Raqx at Jupiter Disco on Fri 14 Aug, Newyorkcity. 3 acts o
 - cry$cross
 - Kat Offline
 - Kfeelz
+- RAQX
 
 *Source: [soundcheck](https://soundcheck.club/e/2489035-cry-cross-kfeelz-dj-raqx-at-jupiter-disco/)*

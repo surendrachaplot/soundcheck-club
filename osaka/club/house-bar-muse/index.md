@@ -1,13 +1,15 @@
 # House Bar Muse
 
-House Bar Muse is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "L4B presents 'Natsu 4B' 2026" on Sat, 22 Aug 2026.
+House Bar Muse is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "grooverevision" on Sun, 9 Aug 2026.
 
-House Bar Muse is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including coolsurf. Browse upcoming dates, start times and who's playing. 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan.
+House Bar Muse is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including coolsurf, Nanako Yamane and TERU. Browse upcoming dates, start times and who's playing. 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | grooverevision | TERU |
+| Fri, 21 Aug 2026 | HOUSE THE TRADITIONAL GUILD V.ol3 | Nanako Yamane |
 | Sat, 22 Aug 2026 | L4B presents 'Natsu 4B' 2026 | coolsurf |
 | Sat, 19 Sept 2026 | L4B#57 - LOVE 4 BEATS - | coolsurf |
 

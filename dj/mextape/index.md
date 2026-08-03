@@ -1,13 +1,14 @@
 # Mextape
 
-Mextape is a Downtempo and Classical artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at public records, New York City on Thu, 3 Sept 2026.
+Mextape is a Downtempo and Classical artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sun, 30 Aug 2026.
 
-Mextape is a downtempo and classical artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside hellotones, Abuelita and Beyou. Next up: public records, Newyorkcity on Thu 3 Sept.
+Mextape is a downtempo and classical artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Marvelito, hellotones and Abuelita. Next up: Elsewhere, Newyorkcity on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Elsewhere | New York City |
 | Thu, 3 Sept 2026 | public records | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mextape is a downtempo and classical artist based in United States of America, t
 
 ## Shares bills with
 
-hellotones, Abuelita, Beyou
+Marvelito, hellotones, Abuelita
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mextape/)*

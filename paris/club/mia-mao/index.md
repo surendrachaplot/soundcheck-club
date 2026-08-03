@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "VICE CITY: Junkie Kid, Luciid, Julian Wild, La Louve, RAVN" on Fri, 7 Aug 2026.
+Mia Mao is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "VICE CITY: Junkie Kid, Luciid, Julian Wild, La Louve, RAVN" on Fri, 7 Aug 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Amine S, Camille Doe, Candy Cox and CLTX and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including 00rt, Amine S, Camille Doe and Candy Cox and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Mia Mao is a music venue in Paris listed on soundcheck. 10 upcoming nights, with
 | Sat, 22 Aug 2026 | CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe | Camille Doe, Ewan McVicar, Lu.Re, Matrefakt |
 | Fri, 28 Aug 2026 | RAW: Danny Wabbit, KLOUD, LARS HUISSMANN, Tigerhead & Dizzy | Danny Wabbit, Dizzy, KLOUD, Tigerhead |
 | Sat, 29 Aug 2026 | Roar By Pisica: Jayron, Stan Christ, Rebekah & More | Radar (RU), Rebekah, Stan Christ |
+| Fri, 4 Sept 2026 | KHAOS X KHIDI 10 ans: Regal, NEUX, 00rt & Panzer | 00rt, NEUX, Panzer, Regal |
 | Sat, 5 Sept 2026 | Fluid: DJ GUESTLIST, CLTX, Noimage, Ghosty & Tara Toska | CLTX, DJ GUESTLIST, Ghosty (1), Noimage |
 | Thu, 10 Sept 2026 | Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE | Amine S, Seabra, Segoz |
 | Sat, 19 Sept 2026 | OFF THE GRID: Dave Clarke, Louisahhh, Candy Cox, L.F.T, David Shaw and The Beat live | Candy Cox, Dave Clarke, David Shaw and The Beat, L.F.T., Louisahhh |
-| Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Napes
 
-Napes is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Napes is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
-Napes is a drum & bass and jungle artist tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Brighton and Bristol and 12 more. Often billed alongside Samurai Breaks, Toby Ross and Cesco. Next up: The Prospect Building, Bristol on Sat 8 Aug.
+Napes is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logged across Amsterdam, Auckland, Brighton and Bristol and 12 more. Often billed alongside Samurai Breaks, Toby Ross and Cesco. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Prospect Building | Bristol |
+| Sat, 31 Oct 2026 | Meraki | Liverpool |
 
 ## Recently played
 

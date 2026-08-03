@@ -1,8 +1,8 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Eli Escobar is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Eli Escobar is a house and electro artist tracked on soundcheck, with 528 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Eli Escobar is a house and electro artist tracked on soundcheck, with 530 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 528 sets l
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Thu, 20 Aug 2026 | Gabriela | New York City |
+| Thu, 27 Aug 2026 | Gabriela | New York City |
 | Fri, 28 Aug 2026 | Signal | New York City |
 | Fri, 4 Sept 2026 | House of Yes | New York City |
 | Sun, 6 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |

@@ -2,7 +2,7 @@
 
 Nojja is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
-Nojja is a techno artist based in Netherlands, tracked on soundcheck, with 1 set logged across Manchester. Often billed alongside Arkane, COHĒSION and Command Control. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
+Nojja is a techno artist based in Netherlands, tracked on soundcheck, with 1 set logged across Manchester. Often billed alongside Vivra Verra, Arkane and Habgud. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Nojja is a techno artist based in Netherlands, tracked on soundcheck, with 1 set
 
 ## Shares bills with
 
-Arkane, COHĒSION, Command Control
+Vivra Verra, Arkane, Habgud
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nojja/)*

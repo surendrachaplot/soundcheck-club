@@ -2,7 +2,7 @@
 
 SCORP is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Barge, Belfast on Sat, 15 Aug 2026.
 
-SCORP is a house and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Belfast. Often billed alongside CLERK., Casual and DJ Crispy. Next up: The Barge, Belfast on Sat 15 Aug.
+SCORP is a house and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Belfast. Often billed alongside Casual, DJ Crispy and CLERK.. Next up: The Barge, Belfast on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ SCORP is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-CLERK., Casual, DJ Crispy
+Casual, DJ Crispy, CLERK.
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scorp/)*

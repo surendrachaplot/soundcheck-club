@@ -1,8 +1,8 @@
 # Nicola Zucchi
 
-Nicola Zucchi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Homa, Mykonos on Sun, 9 Aug 2026.
+Nicola Zucchi is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Homa, Mykonos on Sun, 9 Aug 2026.
 
-Nicola Zucchi is a house and disco artist based in Italy, tracked on soundcheck, with 1 set logged across Mykonos. Often billed alongside Sparkling Attitude. Next up: Homa, Mykonos on Sun 9 Aug.
+Nicola Zucchi is a disco and house artist based in Italy, tracked on soundcheck, with 1 set logged across Mykonos. Often billed alongside Sparkling Attitude. Next up: Homa, Mykonos on Sun 9 Aug.
 
 ## Upcoming shows
 

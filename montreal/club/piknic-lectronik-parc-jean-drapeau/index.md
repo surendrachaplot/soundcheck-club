@@ -9,7 +9,7 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Piknic Électronik MTL #12: Worakls | Anaïs Ley, Jares, Worakls |
-| Fri, 28 Aug 2026 | Adriatique - Parc Jean-Drapeau | Adriatique |
+| Fri, 28 Aug 2026 | Adriatique - Parc Jean-Drapeau | Adriatique, Colyn, Kolophane |
 | Sat, 29 Aug 2026 | Hernán Cattáneo - Parc Jean-Drapeau | Hernan Cattaneo |
 | Sun, 30 Aug 2026 | Piknic Électronik MTL #13: Danny Tenaglia / MUTEK | Danny Tenaglia, Guillaume Michaud |
 | Sat, 5 Sept 2026 | Sammy Virji - Parc Jean-Drapeau | Kiju, Sammy Virji, Silva Bumpa |

@@ -1,8 +1,8 @@
 # Donis
 
-Donis is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
+Donis is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
 
-Donis is a house and techno artist based in United States of America, tracked on soundcheck, with 136 sets logged across Barcelona, Boston, Chicago and Detroit and 6 more. Often billed alongside Total XTC, JADALAREIGN and k.tea. Next up: Paragon, Newyorkcity on Sun 9 Aug.
+Donis is a house and techno artist based in United States of America, tracked on soundcheck, with 137 sets logged across Barcelona, Boston, Chicago and Detroit and 6 more. Often billed alongside Total XTC, JADALAREIGN and k.tea. Next up: Paragon, Newyorkcity on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Donis is a house and techno artist based in United States of America, tracked on
 | Sun, 16 Aug 2026 | Dead Letter No. 9 | New York City |
 | Fri, 21 Aug 2026 | Signal | New York City |
 | Sat, 22 Aug 2026 | fabric | London |
+| Thu, 27 Aug 2026 | Colour Factory | London |
 | Sat, 29 Aug 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

@@ -1,0 +1,28 @@
+# XXOK
+
+XXOK is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Shelter, Seoul on Fri, 7 Aug 2026.
+
+XXOK is an electro and techno artist based in South Korea, tracked on soundcheck, with 57 sets logged across Seoul. Often billed alongside ANSR, OYKNI and Voiid Alpha. Next up: Shelter, Seoul on Fri 7 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 7 Aug 2026 | Shelter | Seoul |
+
+## Recently played
+
+- Shelter, Seoul — Sat, 25 Jul 2026
+- Faust, Seoul — Sat, 4 Jul 2026
+- Shelter, Seoul — Fri, 3 Jul 2026
+- Grain Haus, Seoul — Sat, 20 Jun 2026
+- Shelter, Seoul — Sat, 14 Mar 2026
+- Cakeshop, Seoul — Sun, 1 Mar 2026
+- Shelter, Seoul — Fri, 20 Feb 2026
+- Shelter, Seoul — Fri, 16 Jan 2026
+
+## Shares bills with
+
+ANSR, OYKNI, Voiid Alpha
+
+*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxok/)*

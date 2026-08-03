@@ -1,13 +1,14 @@
 # TERU
 
-TERU is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Fader, Osaka on Sun, 27 Sept 2026.
+TERU is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at House Bar Muse, Osaka on Sun, 9 Aug 2026.
 
-TERU is a bass and drum & bass artist tracked on soundcheck, with 71 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside CHISE, kakepon and yu-more. Next up: Bar Fader, Osaka on Sun 27 Sept.
+TERU is a bass and drum & bass artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside CHISE, kakepon and yu-more. Next up: House Bar Muse, Osaka on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | House Bar Muse | Osaka |
 | Sun, 27 Sept 2026 | Bar Fader | Osaka |
 
 ## Recently played

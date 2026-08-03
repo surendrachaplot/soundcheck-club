@@ -1,6 +1,6 @@
 # Pascale Voltaire & Friends - Open Air & Clubnight at Birgit
 
-Pascale Voltaire & Friends - Open Air & Clubnight at Birgit on Sat 29 Aug, Berlin. 5 acts on the bill: AELVA K, Daniel Schumann, Florian François and Pascale Voltaire and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Pascale Voltaire & Friends - Open Air & Clubnight at Birgit on Sat 29 Aug, Berlin. 6 acts on the bill: AELVA K, Daniel Schumann, Dirty Doering and Florian François and 2 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Pascale Voltaire & Friends - Open Air & Clubnight at Birgit on Sat 29 Aug, Berli
 
 - AELVA K
 - Daniel Schumann
+- Dirty Doering
 - Florian François
 - Pascale Voltaire
 - Yves Meyer

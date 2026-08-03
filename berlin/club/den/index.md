@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | NOX CULTURA EVENTS | Fazi, GM1 (IT), Kizu, MISSTAKEN, Take1More |
 | Fri, 7 Aug 2026 | Ten Years SYNOID | Acierate, AnD, PINKBOIALWAYSCRY, Rebekah, SLV |
-| Fri, 7 Aug 2026 | ANTI ANTI ENERGY |  |
+| Fri, 7 Aug 2026 | BRING THE NOISE  | Connor Wall, ENÈH, GAEL, K-H1, Lawrence Kurt, Maris Shilton, Parallx, Skungal, Toxido Mask, VNVK |
 | Sat, 8 Aug 2026 | TRINITY pt. IV w/ Lukas Meunier & David Strasser | BENDOM, David Strasser, FRËIHERR, Lukas Meunier, Nilinski, Phil Biehler, Schleo, SchokoZitrone, Yokio, kutscher, loumo |
 | Sun, 9 Aug 2026 | PALMAHOUSICA | DJ Ramoco |
 | Wed, 12 Aug 2026 | Lilith |  |

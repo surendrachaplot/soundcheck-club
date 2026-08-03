@@ -10,7 +10,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming n
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | Open Decks & Tischtennis |  |
 | Fri, 7 Aug 2026 | CHB Collective - SUMMERPARTY |  |
-| Sat, 8 Aug 2026 | Humboldthain Club - SOMMERFEST | Athina, ESCALEA, EUROBABES, Euphrat, HugoXL, K Bel Salat, Krash Cora, Nail on the Hat, Q NANi, Skinny Legend, bump.FX, elfie, fbi (1), get no, jojogigirl |
+| Sat, 8 Aug 2026 | Humboldthain Club - SOMMERFEST / openair & indoor | Athina, ESCALEA, EUROBABES, Euphrat, HugoXL, K Bel Salat, Krash Cora, Nail on the Hat, Q NANi, Skinny Legend, bump.FX, elfie, fbi (1), get no, jojogigirl |
 | Tue, 11 Aug 2026 | Open Decks & Tischtennis |  |
 | Fri, 14 Aug 2026 | BSM // FARBWECHSEL // TBA |  |
 | Sat, 15 Aug 2026 | Candyrecords - Bunny Bites Release Party | DOCTOR MÜCKE, Flex on Trax, Florelle, KANIKA, Rabe Rax, TIZIANO, YËDM, jeanska, kichererbsenstampf, subga |

@@ -1,13 +1,14 @@
 # Maris Shilton
 
-Maris Shilton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
+Maris Shilton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
-Maris Shilton is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Jessie Granqvist and Sicion. Next up: ÆDEN, Berlin on Sat 22 Aug.
+Maris Shilton is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Jessie Granqvist and Sicion. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | ÆDEN | Berlin |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played

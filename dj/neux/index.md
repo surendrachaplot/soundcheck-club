@@ -1,8 +1,8 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+NEUX is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
-NEUX is a techno and electro artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Ben Klock, Sevda and Frequency Shifter. Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
+NEUX is a techno and electro artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Ben Klock, Sevda and Frequency Shifter. Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ NEUX is a techno and electro artist tracked on soundcheck, with 70 sets logged a
 | Fri, 21 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 22 Aug 2026 | BASEMENT | New York City |
 | Sat, 29 Aug 2026 | Karmen Camina | Strasbourg |
+| Fri, 4 Sept 2026 | Mia Mao | Paris |
 | Sat, 19 Sept 2026 | E1 | London |
 
 ## Recently played

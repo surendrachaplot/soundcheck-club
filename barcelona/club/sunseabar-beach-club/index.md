@@ -1,8 +1,8 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "B48 live - Beach Club Edition (FREE ENTRY)" on Thu, 6 Aug 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "B48 live - Beach Club Edition (FREE ENTRY)" on Thu, 6 Aug 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including acidheaven, AFFKT, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including acidheaven, AFFKT, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upco
 | Wed, 12 Aug 2026 | Eclipse beach Party at Platja del Forum |  |
 | Fri, 14 Aug 2026 | FREE OPEN AIR BEACH PARTY Wax Ritual by Coyu | Coyu, Radial, Serkin |
 | Sat, 15 Aug 2026 | FREE OPEN AIR BEACH PARTY - Spark On The Dust x Les Enfants | Alex (ES), Alex Pott, Goalmaker, Ion Pananides |
-| Sun, 16 Aug 2026 | OPEN AIR BEACH PARTY: Lost at Platja del Forum |  |
+| Sun, 16 Aug 2026 | OPEN AIR BEACH PARTY: Lost at Platja del Forum | Jean Pierre |
 | Fri, 21 Aug 2026 | FREE OPEN AIR BEACH PARTY - 22 recordings | Bella Sarris, C.ru.z, IAMBP, Man/Ipulate |
 | Sat, 22 Aug 2026 | FREE OPEN AIR BEACH PARTY - Half Baked x Les Enfants | Nate S.U, Reflex Blue, Sami Daik |
 

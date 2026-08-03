@@ -1,13 +1,14 @@
 # LDN East
 
-LDN East is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "A day with LF SYSTEM [Summer Open Air]" on Sat, 15 Aug 2026.
+LDN East is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "BASHMENT NATION: JA Independence Block Day Party" on Sun, 9 Aug 2026.
 
-LDN East is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Crazy P, Don't F**k with Disco and LF SYSTEM. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
+LDN East is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Crazy P, Don't F**k with Disco and LF SYSTEM. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | BASHMENT NATION: JA Independence Block Day Party |  |
 | Sat, 15 Aug 2026 | A day with LF SYSTEM [Summer Open Air] | LF SYSTEM |
 | Sun, 16 Aug 2026 | AMAPIANOLAND - End of Summer Afrobeats & Amapiano Day Festival |  |
 | Sat, 22 Aug 2026 | Forward Motion Street Party |  |

@@ -10,7 +10,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 47 upcoming nights,
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE | NO1ELSE |
 | Tue, 4 Aug 2026 | [PHANTOM GROUP] KLUBNACHT w Ahku / 2LS / TOKOLOSHE / MAR. / Zerra | 2LS (1), Ahku, TRANZ, Zerra |
-| Wed, 5 Aug 2026 | RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens | NELLIE, Paroxyzm |
+| Wed, 5 Aug 2026 | RAVELAND: Hard Techno Rave with Paroxyzm [DE], Djaygo & Ludens | Djaygo T, NELLIE, Paroxyzm |
 | Thu, 6 Aug 2026 | Amsterdam Techno Sessions | Marco Ramos |
 | Fri, 7 Aug 2026 | Under One Groove - Melodic & Peak Time Techno | Alex Sharp |
 | Sat, 8 Aug 2026 | Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL] | BEZMEZH, Nina de Koning, RUL3, Robin Hastings, Zaphy |

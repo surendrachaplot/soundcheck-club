@@ -1,13 +1,14 @@
 # DMC.
 
-DMC. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 24 Kitchen Street, Liverpool on Fri, 2 Oct 2026.
+DMC. is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, London on Sat, 26 Sept 2026.
 
-DMC. is a house and electro artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: 24 Kitchen Street, Liverpool on Fri 2 Oct.
+DMC. is a house and electro artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: TBA, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA | London |
 | Fri, 2 Oct 2026 | 24 Kitchen Street | Liverpool |
 
 ## Recently played

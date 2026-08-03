@@ -1,8 +1,8 @@
 # Last Arch
 
-Last Arch is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "RITA: LAUNCH PARTY" on Sat, 8 Aug 2026.
+Last Arch is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "RITA: LAUNCH PARTY" on Sat, 8 Aug 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
@@ -17,7 +17,7 @@ Last Arch is a music venue in London listed on soundcheck. 10 upcoming nights, w
 | Fri, 4 Sept 2026 | Last Arch invites |  |
 | Sat, 5 Sept 2026 | take1 presents: TRANCE1 |  |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
-| Sat, 3 Oct 2026 | GROUNDED. // LABEL LAUNCH // LIQUID DNB | ETHICS, Episode Three, Swampman, karishma |
+| Fri, 2 Oct 2026 | REEK0 (All Night Long) |  |
 
 ## Address
 

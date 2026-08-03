@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Soul Express London with ThanksMate + 1MOREPIZZAPLS" on Fri, 7 Aug 2026.
+The Carpet Shop is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Soul Express London with ThanksMate + 1MOREPIZZAPLS" on Fri, 7 Aug 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 1MOREPIZZAPLS, Boofy, Borokov Borokov and Bushbby and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 1MOREPIZZAPLS, Boofy, Borokov Borokov and Bushbby and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Carpet Shop is a music venue in London listed on soundcheck. 12 upcoming nig
 | Fri, 21 Aug 2026 | Field Notes presents Behind the Curtain with Charlie Bones | Borokov Borokov, Charlie Bones, Field Notes DJs |
 | Sat, 22 Aug 2026 | After Hours presents: |  |
 | Sun, 23 Aug 2026 | White Peach: Day Party | Boofy, GUNS, Gundam (UK), Mystic State, Ourman, Yoofee, Zha (UK) |
+| Fri, 28 Aug 2026 | Baile Ijó presents Crÿbaby, PK + Special Guest | CXLI, Crybaby, OTDELTA, Ìyáàlù |
 | Sun, 30 Aug 2026 | Dusty Dan 'nd Pals XVI - Bank Holiday Sunday | Dusty Dan, HEDO HYDR8, Kutchi, NADZ., smokey.t |
-| Sat, 5 Sept 2026 | Moving Parts: Bushbby, Nancy June, Ricochet + more | Bushbby, Lozzy, Nancy June, Ricochet, Riel, Tibor |
 
 ## Address
 

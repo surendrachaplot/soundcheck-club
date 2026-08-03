@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers" on Fri, 7 Aug 2026.
+fabric is a music venue in London with 29 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers" on Fri, 7 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Adriatique, A For Alpha, A Hard Day's Dance and Amoss and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Adriatique, A For Alpha, A Hard Day's Dance and Amoss and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 

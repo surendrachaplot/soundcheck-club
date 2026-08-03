@@ -9,7 +9,7 @@ Otherside London is a music venue in London listed on soundcheck. 5 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Reggae Roast - Takeover at Otherside |  |
-| Sat, 29 Aug 2026 | Voltage & Friends - CARNIVAL SPECIAL Live DJ set at Otherside | Voltage |
+| Sat, 29 Aug 2026 | Nice N Decent X Otherside (Voltage & Friends) - NOTTING HILL CARNIVAL WARM UP Live at Otherside | Voltage |
 | Fri, 18 Sept 2026 | Horsepower Productions - Release Party at Otherside | Horsepower Productions |
 | Fri, 25 Sept 2026 | Speaker Louis - Release Party at Otherside |  |
 | Fri, 2 Oct 2026 | Jososick - Live set at Otherside |  |

@@ -10,7 +10,7 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 9 upcoming
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | The Pink Rambo: DJ Party with Live Dancers | Hard Boiled Babe, Nina Moss, Veeps |
 | Wed, 12 Aug 2026 | Earmrk presents: Aleska, elle xxo, Hope 808, La Vega | Aleska, Hope 808, La Vega, elle xxo |
-| Fri, 14 Aug 2026 | PEPPERPOT: Jungle Edition |  |
+| Fri, 14 Aug 2026 | PEPPERPOT: Jungle Edition | Samantha DaSilva, Vibeiana, Yesterdayneverhappened, kstrobez |
 | Tue, 18 Aug 2026 | Makeout City, Dead Love Triangle, Dayfiction, Artschool |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |

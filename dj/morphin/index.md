@@ -2,7 +2,7 @@
 
 morphin is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - secret venue [ask your local network], Leipzig on Sat, 15 Aug 2026.
 
-morphin is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Leipzig. Often billed alongside Caleb ESC, Jotam. and Nadine Talakovics. Next up: TBA - secret venue [ask your local network], Leipzig on Sat 15 Aug.
+morphin is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Leipzig. Often billed alongside Jotam., Caleb ESC and Nadine Talakovics. Next up: TBA - secret venue [ask your local network], Leipzig on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ morphin is a techno artist based in Germany, tracked on soundcheck, with 1 set l
 
 ## Shares bills with
 
-Caleb ESC, Jotam., Nadine Talakovics
+Jotam., Caleb ESC, Nadine Talakovics
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morphin/)*

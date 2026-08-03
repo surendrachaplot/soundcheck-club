@@ -1,13 +1,14 @@
 # Exit Reality
 
-Exit Reality is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Exit Reality with Vix & Cinerboy" on Wed, 5 Aug 2026.
+Exit Reality is a music venue in Singapore with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Exit Reality with Vix & Cinerboy" on Wed, 5 Aug 2026.
 
-Exit Reality is a music venue in Singapore listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+Exit Reality is a music venue in Singapore listed on soundcheck. 2 upcoming nights, with line-ups including Joshua Dillon and Vinnie Stew. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Exit Reality with Vix & Cinerboy |  |
+| Fri, 7 Aug 2026 | Exit Reality with Vinnie Stew & Joshua Dillon | Joshua Dillon, Vinnie Stew |
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*

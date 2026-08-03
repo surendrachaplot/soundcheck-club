@@ -1,8 +1,8 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "COSMO'S MIDNIGHT - BRIS - The Brightside" on Fri, 14 Aug 2026.
+The Brightside is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "COSMO'S MIDNIGHT - BRIS - The Brightside" on Fri, 14 Aug 2026.
 
-The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, with line-ups including Pola & Bryson. Browse upcoming dates, start times and who's playing. 27 Warner St, Fortitude Valley.
+The Brightside is a music venue in Brisbane listed on soundcheck. 3 upcoming nights, with line-ups including Guau, Pola & Bryson and Yo Speed. Browse upcoming dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
 ## What's on
 
@@ -10,6 +10,7 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming nig
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | COSMO'S MIDNIGHT - BRIS - The Brightside |  |
 | Sat, 12 Sept 2026 | Massive presents Pola & Bryson | Pola & Bryson |
+| Mon, 5 Oct 2026 | Guau x Yo Speed - BRISBANE - BREɅKS & BɅSS / | Guau, Yo Speed |
 
 ## Address
 

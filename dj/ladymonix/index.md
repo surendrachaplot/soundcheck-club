@@ -1,8 +1,8 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+LADYMONIX is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
-LADYMONIX is a house and techno artist tracked on soundcheck, with 146 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: TV Lounge, Detroit on Thu 13 Aug.
+LADYMONIX is a house and techno artist tracked on soundcheck, with 147 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 146 sets logg
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sat, 15 Aug 2026 | Northern Lights Lounge | Detroit |
+| Sun, 16 Aug 2026 | TV Lounge | Detroit |
 | Sat, 22 Aug 2026 | Nowadays | New York City |
 | Sat, 19 Sept 2026 | The Beaumont Studios | Vancouver |
 

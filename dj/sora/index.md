@@ -1,13 +1,14 @@
 # Sorä
 
-Sorä is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 23 Aug 2026.
+Sorä is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-Sorä is a deep house and house artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Ibiza, Istanbul and Lisbon and 6 more. Often billed alongside Satori, Edouard! and Bagô. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 23 Aug.
+Sorä is a deep house and house artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Ibiza, Istanbul and Lisbon and 6 more. Often billed alongside Satori, Clint Lee and Edouard!. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 11 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sorä is a deep house and house artist based in France, tracked on soundcheck, w
 
 ## Shares bills with
 
-Satori, Edouard!, Bagô
+Satori, Clint Lee, Edouard!
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sora/)*

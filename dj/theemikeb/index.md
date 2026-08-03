@@ -1,14 +1,15 @@
 # Thee Mike B
 
-Thee Mike B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 5 Aug 2026.
+Thee Mike B is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 5 Aug 2026.
 
-Thee Mike B is a house and disco artist tracked on soundcheck, with 40 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Ardalan, Giselle Peppers and Life on Planets. Next up: Jungle Hollywood, Losangeles on Wed 5 Aug.
+Thee Mike B is a house and disco artist tracked on soundcheck, with 41 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Ardalan, Giselle Peppers and Life on Planets. Next up: Jungle Hollywood, Losangeles on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Jungle Hollywood | Los Angeles |
+| Fri, 14 Aug 2026 | Gabriela | New York City |
 
 ## Recently played
 

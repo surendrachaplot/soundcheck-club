@@ -1,8 +1,8 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "#MITTWOCHENENDE feat. VENTRIS SpaceFriends in Odonien" on Wed, 5 Aug 2026.
+Odonien is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "#MITTWOCHENENDE feat. VENTRIS SpaceFriends in Odonien" on Wed, 5 Aug 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and An On Bast and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and An On Bast and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming nights, wi
 | Fri, 28 Aug 2026 | Moonbootica x Odonien | Moonbootica |
 | Sat, 29 Aug 2026 | Petrified Phoenix Showcase in Odonien | Avocado, Baerbel, Daniel Neuland, Danito, Dave Dinger, Justice, NUAH, Nic Lorenz, Pauli Pocket, Rallo, Susi&Paula, derderwandert, vivi, vom Feisten |
 | Fri, 4 Sept 2026 | Aura with ÜBERKIKZ & Alarico | Alarico, ÜBERKIKZ |
-| Fri, 25 Sept 2026 | Systematic Cologne | An On Bast, Drumcomplex, Frank Sonic, Marc Romboy, Robert Babicz |
+| Fri, 11 Sept 2026 | Kollektiv Turmstrasse in Odonien | Bergen |
 
 ## Address
 
