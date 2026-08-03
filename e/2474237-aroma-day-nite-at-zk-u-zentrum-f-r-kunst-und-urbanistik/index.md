@@ -1,6 +1,6 @@
 # AROMA DAY+NITE at ZK/U (Zentrum für Kunst und Urbanistik)
 
-AROMA DAY+NITE at ZK/U (Zentrum für Kunst und Urbanistik) on Sat 8 Aug, Berlin. 3 acts on the bill: asphalt angel, LG JASPER <3 and Sinan Varol. Trance and House. Preview the line-up and save it on soundcheck.
+AROMA DAY+NITE at ZK/U (Zentrum für Kunst und Urbanistik) on Sat 8 Aug, Berlin. 4 acts on the bill: asphalt angel, elliephunk, LG JASPER <3 and Sinan Varol. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ AROMA DAY+NITE at ZK/U (Zentrum für Kunst und Urbanistik) on Sat 8 Aug, Berlin.
 ## Line-up
 
 - asphalt angel
+- elliephunk
 - LG JASPER <3
 - Sinan Varol
 

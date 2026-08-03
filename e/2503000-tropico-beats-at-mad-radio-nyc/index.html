@@ -21,11 +21,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.ddf31521e427.css">
+  <link rel="stylesheet" href="/app.e262953f6dd0.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785766412170">
+<meta name="sc-build" content="1785768596225">
 <meta name="description" content="TROPICO BEATS at MAD Radio NYC on Wed 5 Aug, Newyorkcity. Disco. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2503000-tropico-beats-at-mad-radio-nyc/">
 <meta property="og:type" content="website">
@@ -46,6 +46,7 @@
       <a class="logo" href="." aria-label="Soundcheck — home">
         <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="32" y2="32"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
       <button class="hdr-city" id="hdr-city" type="button" aria-label="Change city"><span id="hdr-city-name">London</span><svg class="cs-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
+        <span class="sc-navtitle" id="sc-navtitle" aria-hidden="true">What&rsquo;s on</span>
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="discover" type="button">Discover</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
@@ -59,6 +60,12 @@
 
     <div id="home">
 
+    <!-- Ported from the native home screen: the page names itself, then hands
+         that name up to the nav as you scroll. Sits OUTSIDE .daterow — that is a
+         flex row, so a title placed inside becomes a flex item beside the dates,
+         and letting the row wrap instead orphaned the filter button onto its own
+         line. Both looked wrong on screen and fine in the markup. -->
+    <h1 class="sc-lt" id="sc-lt">What&rsquo;s on</h1>
     <div class="daterow">
       <div class="daystrip" id="daystrip"></div>
       <button class="ds-filt" id="ds-filt" type="button" aria-label="Filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="17" x2="14" y2="17"/></svg><span class="ds-dot" id="ds-dot" hidden></span></button>
@@ -87,7 +94,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">71 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">103 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">33 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">72 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">103 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -203,7 +210,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.ddf31521e427.js" defer></script>
+  <script src="/app.e262953f6dd0.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

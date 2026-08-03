@@ -16,7 +16,7 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 12 upcoming night
 | Sat, 22 Aug 2026 | Boris Saturday - FREE TICKETS |  |
 | Fri, 28 Aug 2026 | Boris Friday - FREE TICKETS |  |
 | Sat, 29 Aug 2026 | Boris Saturday - FREE TICKETS |  |
-| Fri, 4 Sept 2026 | Boris Friday |  |
+| Fri, 4 Sept 2026 | Boris Friday - FREE TICKETS |  |
 | Sat, 5 Sept 2026 | Boris Saturday - FREE TICKETS | Jessy, K:ROL |
 
 ## Address

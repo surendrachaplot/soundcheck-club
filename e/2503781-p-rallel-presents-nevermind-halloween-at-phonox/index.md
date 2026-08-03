@@ -1,6 +1,6 @@
-# P-RALLEL PRESENTS: NEVERMIND HALLOWEEN at Phonox
+# p-rallel presents: NEVERMIND HALLOWEEN at Phonox
 
-P-RALLEL PRESENTS: NEVERMIND HALLOWEEN at Phonox on Fri 30 Oct, London. Bass and Garage. Preview the line-up and save it on soundcheck.
+p-rallel presents: NEVERMIND HALLOWEEN at Phonox on Fri 30 Oct, London. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

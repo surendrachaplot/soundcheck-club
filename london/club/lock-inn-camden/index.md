@@ -2,13 +2,13 @@
 
 Lock Inn Camden is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "SUMMER Groove Savage" on Fri, 4 Sept 2026.
 
-Lock Inn Camden is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2 Jamestown road London NW1 7BY.
+Lock Inn Camden is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including DASHA (UK), VENERE and Vini Pistori. Browse upcoming dates, start times and who's playing. 2 Jamestown road London NW1 7BY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | SUMMER Groove Savage |  |
+| Fri, 4 Sept 2026 | SUMMER Groove Savage | DASHA (UK), VENERE, Vini Pistori |
 
 ## Address
 

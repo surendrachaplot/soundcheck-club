@@ -1,13 +1,14 @@
 # Mila Morr
 
-Mila Morr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Macarena Club, Barcelona on Sun, 23 Aug 2026.
+Mila Morr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 7 Aug 2026.
 
-Mila Morr is a house and techno artist tracked on soundcheck, with 50 sets logged across Barcelona and Ibiza. Often billed alongside Elwei, John Karam and Bttologic. Next up: Macarena Club, Barcelona on Sun 23 Aug.
+Mila Morr is a house and techno artist tracked on soundcheck, with 51 sets logged across Barcelona and Ibiza. Often billed alongside Elwei, John Karam and Bttologic. Next up: Seaseaclub Barcelona, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 | Sun, 23 Aug 2026 | Macarena Club | Barcelona |
 
 ## Recently played

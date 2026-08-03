@@ -1,8 +1,8 @@
 # Willow
 
-Willow is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
+Willow is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
-Willow is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: FOLD, London on Sat 8 Aug.
+Willow is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: FOLD, London on Sat 8 Aug.
 
 ## Upcoming shows
 

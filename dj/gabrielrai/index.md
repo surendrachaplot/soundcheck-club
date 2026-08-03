@@ -1,14 +1,15 @@
 # Gabriel Rai
 
-Gabriel Rai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Gabriel Rai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
-Gabriel Rai is a house and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Ibiza, Leeds and Lisbon and 5 more. Often billed alongside Craig Richards, Bobby. and Stckman. Next up: Gaffe, London on Sun 30 Aug.
+Gabriel Rai is a house and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Ibiza, Leeds and Lisbon and 5 more. Often billed alongside Craig Richards, Bobby. and Olita (UK). Next up: Gaffe, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Gaffe | London |
+| Sat, 19 Sept 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gabriel Rai is a house and techno artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Craig Richards, Bobby., Stckman
+Craig Richards, Bobby., Olita (UK)
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*

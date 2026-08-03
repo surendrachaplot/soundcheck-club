@@ -1,13 +1,14 @@
 # Chesster
 
-Chesster is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Chesster is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at W Barcelona, Barcelona on Sun, 23 Aug 2026.
 
-Chesster is a house and tech house artist based in Italy, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 8 more. Often billed alongside Prunk, Dennis Quin and Kellie Allen. Next up: UNO MALTA, Malta on Thu 1 Oct.
+Chesster is a house and tech house artist based in Italy, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 8 more. Often billed alongside Prunk, Dennis Quin and Kellie Allen. Next up: W Barcelona, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | W Barcelona | Barcelona |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played

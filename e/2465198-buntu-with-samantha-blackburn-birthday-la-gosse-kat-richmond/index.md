@@ -1,6 +1,6 @@
-# Buntu with Samantha Blackburn (Birthday), La Gosse, Kat Richmond & Mr Connect (Percussion) at Arch 535
+# Buntu with Samantha Blackburn (Birthday),La Gosse, Kat Richmond & Mr Connect-Percussion till 4am at Arch 535
 
-Buntu with Samantha Blackburn (Birthday), La Gosse, Kat Richmond & Mr Connect (Percussion) at Arch 535 on Sat 8 Aug, London. 3 acts on the bill: Kat Richmond, La Gosse and Samantha Blackburn. House and Tech House. Preview the line-up and save it on soundcheck.
+Buntu with Samantha Blackburn (Birthday),La Gosse, Kat Richmond & Mr Connect-Percussion till 4am at Arch 535 on Sat 8 Aug, London. 3 acts on the bill: Kat Richmond, La Gosse and Samantha Blackburn. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

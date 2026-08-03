@@ -1,14 +1,15 @@
 # AMÉMÉ
 
-AMÉMÉ is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+AMÉMÉ is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-AMÉMÉ is an afro house and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+AMÉMÉ is an afro house and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
+| Sun, 23 Aug 2026 | LA-YAM Rooftop | London |
 | Thu, 17 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |

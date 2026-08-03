@@ -1,14 +1,15 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
+C.ru.z is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
 
-C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and Curses. Next up: Razzmatazz, Barcelona on Sat 8 Aug.
+C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and Curses. Next up: Razzmatazz, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Razzmatazz | Barcelona |
+| Fri, 21 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 3 Oct 2026 | Village Underground | London |
 | Sat, 3 Oct 2026 | Village Underground Barcelona | Barcelona |
 

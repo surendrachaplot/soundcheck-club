@@ -1,14 +1,15 @@
 # Pagano
 
-Pagano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Electrowerkz, London on Sat, 22 Aug 2026.
+Pagano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Electrowerkz, London on Sat, 22 Aug 2026.
 
-Pagano is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Cologne and London and 6 more. Often billed alongside Jaycap, Ben Manson and Feel .MA. Next up: Electrowerkz, London on Sat 22 Aug.
+Pagano is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Cologne and London and 6 more. Often billed alongside Jaycap, Ben Manson and Feel .MA. Next up: Electrowerkz, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Electrowerkz | London |
+| Fri, 2 Oct 2026 | TBA | London |
 
 ## Recently played
 

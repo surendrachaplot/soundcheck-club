@@ -1,6 +1,6 @@
 # FREE Beach Party: Valhalla x Rummel at Sunseabar Beach Club
 
-FREE Beach Party: Valhalla x Rummel at Sunseabar Beach Club on Thu 10 Sept, Barcelona. 3 acts on the bill: AFFKT, Fernando Lagreca and Rivellino. Techno and House. Preview the line-up and save it on soundcheck.
+FREE Beach Party: Valhalla x Rummel at Sunseabar Beach Club on Thu 10 Sept, Barcelona. 9 acts on the bill: AFFKT, Amadori, Djolee and Fernando Lagreca and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,13 @@ FREE Beach Party: Valhalla x Rummel at Sunseabar Beach Club on Thu 10 Sept, Barc
 ## Line-up
 
 - AFFKT
+- Amadori
+- Djolee
 - Fernando Lagreca
+- Gespona
+- Martin Cozar
+- Marvio
+- no_ip
 - Rivellino
 
 *Source: [soundcheck](https://soundcheck.club/e/2497492-free-beach-party-valhalla-x-rummel-at-sunseabar-beach-club/)*

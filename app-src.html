@@ -3445,8 +3445,47 @@
     /* Sections below the fold arrive as you reach them, the same rise the native
        screens use on mount. IntersectionObserver, one-shot: an element that
        re-animates every time it re-enters reads as a page that can't settle. */
+    /* COLLAPSING HEADER — ported from the native app (ui/CollapsingHeader.tsx).
+       Native drives this off a scroll SharedValue interpolating over 46px; the web
+       gets the same numbers through one custom property, --hdrP (0 → 1), set by
+       the existing scroll listener. Same handoff distance, same curve endpoints,
+       so the two feel identical rather than merely similar.
+
+         large title   opacity 1→0 by 0.85 of the handoff, scale 1→0.94, y 0→-6
+         nav title     opacity 0→1 from 0.6 of the handoff, y 7→0
+
+       Mobile only: the desktop nav carries links and a search box and has no
+       large title to hand off from. */
+    .sc-lt{ display:none; }
+    @media(max-width:720px){
+      /* .daterow is display:flex, so a plain block child becomes a flex ITEM and
+         sits beside the date strip — it wrapped to two lines and squeezed the
+         dates off the row. flex-basis:100% makes it take the whole line, which is
+         what a page title is. Caught by looking at it; the interpolation numbers
+         were correct the whole time. */
+      .sc-lt{ display:block; font-family:var(--head); font-size:var(--fs-2xl); font-weight:800;
+              letter-spacing:-0.02em; line-height:1.05; margin:2px 0 10px;
+              opacity:var(--ltO, 1); transform:scale(var(--ltS, 1)) translateY(var(--ltY, 0px));
+              transform-origin:left center; will-change:opacity, transform; }
+      /* The nav title is absent until you scroll — it is the large title's echo,
+         not a second heading, so it must not occupy space while invisible. */
+      .sc-navtitle{ display:block; font-family:var(--head); font-size:var(--fs-md); font-weight:800;
+                    letter-spacing:-0.01em; margin-left:auto; color:var(--fg);
+                    opacity:var(--ntO, 0); transform:translateY(var(--ntY, 7px));
+                    pointer-events:none; will-change:opacity, transform; }
+    }
+    @media(min-width:721px){ .sc-navtitle{ display:none; } }
+    @media (prefers-reduced-motion: reduce){
+      .sc-lt{ opacity:1 !important; transform:none !important; }
+      .sc-navtitle{ opacity:0 !important; transform:none !important; }
+    }
     .sc-reveal{ opacity:0; transform:translateY(12px); }
     .sc-reveal.in{ opacity:1; transform:none; transition:opacity 380ms var(--ease-standard), transform 380ms cubic-bezier(0.32,0.72,0,1); }
+    /* STAGGER — ported from the native row, which delays each entrance by its
+       index (FadeInDown, capped at 8 so a long list never trails off). Without it
+       the web reveals a whole screen at once: same fade, but it reads as a switch
+       flipping rather than cards being dealt. --i is set at render time. */
+    .sc-reveal{ transition-delay:calc(var(--i, 0) * 45ms); }
 
     /* The log-a-night language, shared with the native screen: an outlined violet
        action (an invitation, not a demand — it must not compete with Play, which
@@ -3753,8 +3792,14 @@
       /* home top = ONE continuous surface (no bg trench): header, date strip,
          status line and the list all share the band, split by hairlines. The empty
          .status placeholder collapses until it actually carries a message. */
+      /* The title joins the date strip's full-bleed band rather than sitting on
+         the page background above it — two adjacent bands in different colours
+         read as a seam. The title carries the top border and top padding, the
+         strip carries the bottom, so together they are one surface. */
+      .sc-lt{ background:var(--surface); margin:0 calc(-1 * var(--gut));
+        padding:12px var(--gut) 0; border-top:1px solid var(--border); }
       .daterow{ background:var(--surface); margin:0 calc(-1 * var(--gut));
-        padding:12px var(--gut); border-top:1px solid var(--border); }
+        padding:8px var(--gut) 12px; }
       .status{ background:var(--surface); margin:0 calc(-1 * var(--gut)); padding:2px var(--gut) 8px; }
       .status:empty{ display:none; }
       /* A .status INSIDE #grid is already inside a full-bleed band, so the
@@ -3791,7 +3836,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785766412170">
+<meta name="sc-build" content="1785768596225">
 </head>
 <body>
   <main class="wrap">
@@ -3799,6 +3844,7 @@
       <a class="logo" href="." aria-label="Soundcheck — home">
         <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="32" y2="32"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
       <button class="hdr-city" id="hdr-city" type="button" aria-label="Change city"><span id="hdr-city-name">London</span><svg class="cs-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
+        <span class="sc-navtitle" id="sc-navtitle" aria-hidden="true">What&rsquo;s on</span>
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="discover" type="button">Discover</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
@@ -3812,6 +3858,12 @@
 
     <div id="home">
 
+    <!-- Ported from the native home screen: the page names itself, then hands
+         that name up to the nav as you scroll. Sits OUTSIDE .daterow — that is a
+         flex row, so a title placed inside becomes a flex item beside the dates,
+         and letting the row wrap instead orphaned the filter button onto its own
+         line. Both looked wrong on screen and fine in the markup. -->
+    <h1 class="sc-lt" id="sc-lt">What&rsquo;s on</h1>
     <div class="daterow">
       <div class="daystrip" id="daystrip"></div>
       <button class="ds-filt" id="ds-filt" type="button" aria-label="Filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="17" x2="14" y2="17"/></svg><span class="ds-dot" id="ds-dot" hidden></span></button>
@@ -3840,7 +3892,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">71 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">103 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">33 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">72 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">103 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6669,7 +6721,11 @@
       }
       function frame(){
         ticking = false;
-        if(!hero || window.innerWidth > 720) return;
+        if(window.innerWidth > 720) return;
+        headerFrame(window.scrollY || root.scrollTop || 0);
+        // The hero physics below are for pages that HAVE a hero. The header runs
+        // on every page, so it must be driven before this returns.
+        if(!hero) return;
         var y = window.scrollY || root.scrollTop || 0;
         if(y < 0){
           // Rubber-band: grow from the top edge, matching the native pull.
@@ -6681,6 +6737,21 @@
           root.style.setProperty('--heroS', '1');
           root.style.setProperty('--heroY', (y < hero.offsetHeight ? y * 0.5 : hero.offsetHeight * 0.5) + 'px');
         }
+      }
+      // COLLAPSING HEADER. Native interpolates over 46px of scroll; same distance
+      // and same endpoints here so the two read as one product rather than two
+      // implementations of a similar idea. Written as custom properties on :root
+      // so the CSS owns the presentation and this owns only the number.
+      var HANDOFF = 46;
+      function headerFrame(y){
+        var p = Math.max(0, Math.min(1, y / HANDOFF));
+        var clamp01 = function(v){ return v < 0 ? 0 : v > 1 ? 1 : v; };
+        root.style.setProperty('--ltO', String(1 - clamp01(y / (HANDOFF * 0.85))));
+        root.style.setProperty('--ltS', String(1 - p * 0.06));      // 1 → 0.94
+        root.style.setProperty('--ltY', (-6 * p) + 'px');
+        var q = clamp01((y - HANDOFF * 0.6) / (HANDOFF * 0.4));     // starts at 0.6 of the handoff
+        root.style.setProperty('--ntO', String(q));
+        root.style.setProperty('--ntY', (7 * (1 - q)) + 'px');
       }
       function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(frame); } }
       if(!reduce.matches) window.addEventListener('scroll', onScroll, {passive:true});
@@ -6712,6 +6783,14 @@
         var secs = document.querySelectorAll('#page-body .fp-sec, #page-body .pf-box');
         for(var j=0;j<secs.length;j++){
           if(secs[j].offsetParent !== null && !secs[j].classList.contains('in')) secs[j].classList.add('sc-reveal');
+        }
+        // Feed rows cascade rather than appearing together. Native delays each
+        // row's entrance by its index and caps at 8, so a long list finishes
+        // dealing instead of trailing off — same rule, same cap.
+        var rows = document.querySelectorAll('#grid .gcard.evc:not(.in)');
+        for(var k=0;k<rows.length;k++){
+          rows[k].classList.add('sc-reveal');
+          rows[k].style.setProperty('--i', String(Math.min(k, 8)));
         }
         var els = document.querySelectorAll('.sc-reveal:not(.in)');
         for(var i=0;i<els.length;i++){ if(io) io.observe(els[i]); else els[i].classList.add('in'); }

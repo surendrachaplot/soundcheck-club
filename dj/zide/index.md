@@ -2,7 +2,7 @@
 
 zide is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
 
-zide is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Nettle Dj, Mista Glitch and ChrisCarter. Next up: Groovetank Live, London on Fri 21 Aug.
+zide is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Mista Glitch, ChrisCarter and Nettle Dj. Next up: Groovetank Live, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ zide is an afro house and afro tech artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-Nettle Dj, Mista Glitch, ChrisCarter
+Mista Glitch, ChrisCarter, Nettle Dj
 
 *Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zide/)*
