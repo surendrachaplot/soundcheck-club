@@ -10,7 +10,7 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcomin
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Generous B presents | Ben Roberts, Generous B |
 | Fri, 7 Aug 2026 | MADAFAKAZ: Laidlaw | Laidlaw, Ms. Mada, Natalia Roth |
-| Sat, 8 Aug 2026 | LuSid | Mick Jerome, Thunderpony |
+| Sat, 8 Aug 2026 | LuSiD | Mick Jerome, Thunderpony |
 | Thu, 13 Aug 2026 | slugg b2b Ms. Mada (All Night Long) | Ms. Mada, slugg |
 | Fri, 14 Aug 2026 | Sasha | DIFFER, Nii Tei, Sasha |
 | Sat, 15 Aug 2026 | Magda | DJ Fitness, Jonny From Space, Magda |

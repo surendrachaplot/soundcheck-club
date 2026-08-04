@@ -1,6 +1,6 @@
-# LuSid at Jolene Downtown Miami
+# LuSiD at Jolene Downtown Miami
 
-LuSid at Jolene Downtown Miami on Sat 8 Aug, Miami. 2 acts on the bill: Mick Jerome and Thunderpony. House and Jazz. Preview the line-up and save it on soundcheck.
+LuSiD at Jolene Downtown Miami on Sat 8 Aug, Miami. 2 acts on the bill: Mick Jerome and Thunderpony. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
