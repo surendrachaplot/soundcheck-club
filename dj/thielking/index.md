@@ -1,13 +1,14 @@
 # Thielking
 
-Thielking is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+Thielking is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Underground Rave -> Location only via Telegram , Berlin on Sat, 8 Aug 2026.
 
-Thielking is a trance and techno artist tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside Ravejezuz, DJ Paradox and Trash Bandit. Next up: ÆDEN, Berlin on Fri 23 Oct.
+Thielking is a trance and techno artist tracked on soundcheck, with 12 sets logged across Berlin and Munich. Often billed alongside Ravejezuz, DJ Paradox and Trash Bandit. Next up: TBA - Underground Rave -> Location only via Telegram , Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | TBA - Underground Rave -> Location only via Telegram  | Berlin |
 | Fri, 23 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played

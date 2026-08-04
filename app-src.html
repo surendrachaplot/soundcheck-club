@@ -296,6 +296,18 @@
     /* web: the strip fills the row width; JS packs MORE day tiles (original size) to fill it */
     @media (min-width:621px){ .daystrip { flex:1 1 auto; } }
     .daystrip::-webkit-scrollbar { display:none; }
+    /* A half-clipped date tile with a hard edge reads as broken layout, not as
+       "there is more". The scrollbar is hidden (deliberately), so the ONLY cue
+       left is the cut itself — and a hard cut is ambiguous. A short fade on
+       whichever side has more content says "scroll me" without adding chrome.
+       Class-driven, not always-on: applied only while the strip actually
+       overflows, so a strip that fits is never faded for no reason. */
+    .ovf-r { -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 26px),transparent);
+                     mask-image:linear-gradient(90deg,#000 calc(100% - 26px),transparent); }
+    .ovf-l { -webkit-mask-image:linear-gradient(90deg,transparent,#000 26px);
+                     mask-image:linear-gradient(90deg,transparent,#000 26px); }
+    .ovf-l.ovf-r { -webkit-mask-image:linear-gradient(90deg,transparent,#000 26px,#000 calc(100% - 26px),transparent);
+                           mask-image:linear-gradient(90deg,transparent,#000 26px,#000 calc(100% - 26px),transparent); }
     /* Entity Upcoming date range: calendar tile + the live window beside it. */
     .ent-range { display:flex; align-items:center; gap:12px; margin:var(--sp-3) 0 var(--sp-4); flex-wrap:wrap; }
     /* The calendar tile occupies the POSTER column, so it must be exactly the
@@ -3934,7 +3946,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785802832253">
+<meta name="sc-build" content="1785804057734">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -6621,6 +6633,11 @@
       pageView.hidden=false;
       window.scrollTo(0,0);
       if(typeof syncTabs==='function') setTimeout(syncTabs,0); // hash settles after setRoute
+      // Tab bars and rails are rendered by the panel above, so they must be
+      // wired AFTER the markup lands — twice, because several panels fill
+      // themselves asynchronously and a scroller can only be measured once its
+      // content exists.
+      if(typeof wireXFade==='function'){ wireXFade(pageView); setTimeout(function(){ wireXFade(pageView); },400); }
       if(window.scFootHold) scFootHold();   // footer waits for this page's real content
       // Re-arm the hero physics + reveal for the page that just replaced the DOM.
       if(window.scAfterRender) scAfterRender();
@@ -11051,6 +11068,39 @@
     // under a "···" that expands them in place. A calendar tile covers anything
     // further out. syncChips() (name kept for callers) re-highlights the selection. ──
     var stripEl=document.getElementById('daystrip');
+    // ── scroll affordance, applied to EVERY hidden-scrollbar scroller ─────────
+    // Four of these existed and none had a cue. The worst was .fp-tabs: on a
+    // 375px phone the artist tab bar overflows by 211px, so "Past events" and
+    // "Similar" were entirely off-screen with nothing suggesting they existed.
+    // Two whole features, invisible on a phone.
+    //
+    // One mechanism rather than four patches, so a fifth scroller added later
+    // inherits it. Edges are MEASURED — a scroller that fits is never faded.
+    var XFADE_SEL = '.daystrip, .fp-tabs, .pb-rot-rail, .ob-car, .gd-chips';
+    function syncXFade(el){
+      if(!el) return;
+      var max=el.scrollWidth-el.clientWidth;
+      if(max<=1){ el.classList.remove('ovf-l','ovf-r'); return; }
+      el.classList.toggle('ovf-l', el.scrollLeft>2);
+      el.classList.toggle('ovf-r', el.scrollLeft<max-2);
+    }
+    function wireXFade(root){
+      var els=(root||document).querySelectorAll(XFADE_SEL);
+      for(var i=0;i<els.length;i++){
+        (function(el){
+          if(el._xf) { syncXFade(el); return; }   // already wired — just re-measure
+          el._xf=1;
+          el.addEventListener('scroll', function(){ syncXFade(el); }, {passive:true});
+          if(typeof ResizeObserver!=='undefined'){
+            try{ new ResizeObserver(function(){ syncXFade(el); }).observe(el); }catch(_){}
+          }
+          syncXFade(el);
+        })(els[i]);
+      }
+    }
+    window.addEventListener('resize', function(){ wireXFade(); });
+    // Panels render asynchronously, so re-wire after any page render too.
+
     var _stripMid=[], _stripExpanded=false, _stripFocus=null;
     function _addDaysISO(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return isoOf(d); }
     function _dtTile(iso, isToday){
@@ -11065,7 +11115,7 @@
     function _gapEll(){ return '<button class="dt dsell" data-ell-cal="1" type="button" aria-label="More dates">···<span class="dsell-c">4</span></button>'; }
     function _renderStrip(coreHTML, lastISO){
       var web = !window.matchMedia || matchMedia('(min-width:621px)').matches;
-      if(!web){ stripEl.innerHTML=coreHTML+_calTile(); return; }
+      if(!web){ stripEl.innerHTML=coreHTML+_calTile(); wireXFade(); return; }
       var html=coreHTML, last=lastISO, approx=stripEl.clientWidth ? Math.ceil(stripEl.clientWidth/56)+3 : 22, added=0, k=0;
       // fill with weekend blocks only — each Fri is preceded by a ··· standing in for that week's collapsed Mon–Thu
       while(added<approx && k++<420){
@@ -11074,6 +11124,7 @@
         else if(dw===6||dw===0){ html+=_dtTile(last); added++; }
       }
       stripEl.innerHTML=html+_calTile();
+      wireXFade();   // the cue depends on what was just rendered, so sync AFTER
       var cal=stripEl.lastElementChild, core=(coreHTML.match(/data-iso=/g)||[]).length, guard=0;
       while(stripEl.scrollWidth > stripEl.clientWidth+1 && guard++<80){
         if(stripEl.querySelectorAll('.dt[data-iso]').length<=core) break;
