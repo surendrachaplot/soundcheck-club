@@ -1,6 +1,6 @@
 # Susanne Bartsch Wants You ON TOP at Le Bain
 
-Susanne Bartsch Wants You ON TOP at Le Bain on Thu 20 Aug, Newyorkcity. 1 act on the bill: Robyn DaBank. Preview the line-up and save it on soundcheck.
+Susanne Bartsch Wants You ON TOP at Le Bain on Thu 20 Aug, Newyorkcity. 2 acts on the bill: Robyn DaBank and Vyper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Susanne Bartsch Wants You ON TOP at Le Bain on Thu 20 Aug, Newyorkcity. 1 act on
 ## Line-up
 
 - Robyn DaBank
+- Vyper
 
 *Source: [soundcheck](https://soundcheck.club/e/2500937-susanne-bartsch-wants-you-on-top-at-le-bain/)*

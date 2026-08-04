@@ -1,13 +1,14 @@
 # BeatLoaf
 
-BeatLoaf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+BeatLoaf is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
 
-BeatLoaf is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Chicago, Detroit and Leeds. Often billed alongside RIRKIN, Carl Bottles and Jeff Garcia. Next up: TV Lounge, Detroit on Thu 13 Aug.
+BeatLoaf is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, Detroit and Leeds. Often billed alongside RIRKIN, Carl Bottles and Jeff Garcia. Next up: Marble Bar, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Marble Bar | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 
 ## Recently played

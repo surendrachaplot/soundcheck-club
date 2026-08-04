@@ -1,8 +1,8 @@
 # VENT
 
-VENT is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "ANSWERCODE REQUEST" on Fri, 7 Aug 2026.
+VENT is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "ANSWERCODE REQUEST" on Fri, 7 Aug 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including Answer Code Request, BANANA-CHAN, Celter and Conures (DJ Tokunaga) and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including Answer Code Request, BANANA-CHAN, Celter and Conures (DJ Tokunaga) and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 

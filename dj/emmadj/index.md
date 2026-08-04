@@ -1,14 +1,15 @@
 # Emma DJ
 
-Emma DJ is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Emma DJ is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
-Emma DJ is an experimental and techno artist based in France, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside ojoo, Otis (BE) and Europa (1). Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
+Emma DJ is an experimental and techno artist based in France, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside ojoo, Otis (BE) and Europa (1). Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Haus der Visionäre | Berlin |
+| Sat, 29 Aug 2026 | Strange Brew | Bristol |
 
 ## Recently played
 

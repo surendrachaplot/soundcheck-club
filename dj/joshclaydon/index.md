@@ -2,7 +2,7 @@
 
 Josh Claydon is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
-Josh Claydon is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside FYN (1), KAZIA and Tremur. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
+Josh Claydon is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Ethan Flint, FYN (1) and KAZIA. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Josh Claydon is a house and minimal artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-FYN (1), KAZIA, Tremur
+Ethan Flint, FYN (1), KAZIA
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshclaydon/)*

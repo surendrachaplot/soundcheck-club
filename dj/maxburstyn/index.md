@@ -1,8 +1,8 @@
 # Max Burstyn
 
-Max Burstyn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
+Max Burstyn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Gaffe, London on Fri, 21 Aug 2026.
 
-Max Burstyn is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Medlock, Aleromaze and Cosmic Caz. Next up: Gaffe, London on Fri 21 Aug.
+Max Burstyn is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside AYIM, Aleromaze and Cosmic Caz. Next up: Gaffe, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Max Burstyn is a techno and trance artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-Medlock, Aleromaze, Cosmic Caz
+AYIM, Aleromaze, Cosmic Caz
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxburstyn/)*

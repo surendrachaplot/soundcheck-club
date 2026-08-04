@@ -2,7 +2,7 @@
 
 Name_Less is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
-Name_Less is a house artist based in Germany, tracked on soundcheck, with 1 set logged across Dusseldorf. Often billed alongside Nameless, Jezebel and critical P. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
+Name_Less is a house artist based in Germany, tracked on soundcheck, with 1 set logged across Dusseldorf. Often billed alongside Adam Charaf, Cali Caracho and Danito. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Name_Less is a house artist based in Germany, tracked on soundcheck, with 1 set 
 
 ## Shares bills with
 
-Nameless, Jezebel, critical P
+Adam Charaf, Cali Caracho, Danito
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/name_less/)*

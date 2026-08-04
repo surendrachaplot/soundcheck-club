@@ -1,6 +1,6 @@
 # ESOTEK - ENTRANCE at Bossa Nova Civic Club
 
-ESOTEK - ENTRANCE at Bossa Nova Civic Club on Tue 18 Aug, Newyorkcity. 4 acts on the bill: aka ieuan, CYNICAL (US), Friedberg and Wren's Lullaby. Techno. Preview the line-up and save it on soundcheck.
+ESOTEK - ENTRANCE at Bossa Nova Civic Club on Tue 18 Aug, Newyorkcity. 6 acts on the bill: aka ieuan, CYNICAL (US), Friedberg and MyCube and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ ESOTEK - ENTRANCE at Bossa Nova Civic Club on Tue 18 Aug, Newyorkcity. 4 acts on
 - aka ieuan
 - CYNICAL (US)
 - Friedberg
+- MyCube
+- Nöel Black
 - Wren's Lullaby
 
 *Source: [soundcheck](https://soundcheck.club/e/2500471-esotek-entrance-at-bossa-nova-civic-club/)*

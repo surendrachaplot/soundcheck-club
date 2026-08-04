@@ -2,7 +2,7 @@
 
 Scarlett (US) is a Afro Tech and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Zum Barbarossa, Amsterdam on Wed, 21 Oct 2026.
 
-Scarlett (US) is an afro tech and progressive house artist based in United States of America, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Paul Nolan, Cris-H and Tom One. Next up: Zum Barbarossa, Amsterdam on Wed 21 Oct.
+Scarlett (US) is an afro tech and progressive house artist based in United States of America, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside AND(W)Y, Cris-H and Paul Nolan. Next up: Zum Barbarossa, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Scarlett (US) is an afro tech and progressive house artist based in United State
 
 ## Shares bills with
 
-Paul Nolan, Cris-H, Tom One
+AND(W)Y, Cris-H, Paul Nolan
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettus/)*

@@ -1,14 +1,15 @@
 # Yuuki
 
-Yuuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lion Super Club, Seoul on Fri, 7 Aug 2026.
+Yuuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lion Super Club, Seoul on Fri, 7 Aug 2026.
 
-Yuuki is a house and techno artist tracked on soundcheck, with 22 sets logged across London, Osaka, Seoul and Tokyo. Often billed alongside Saumac, DJ AKi and Darley. Next up: Lion Super Club, Seoul on Fri 7 Aug.
+Yuuki is a house and techno artist tracked on soundcheck, with 23 sets logged across London, Newyorkcity, Osaka and Seoul and 1 more. Often billed alongside Saumac, DJ AKi and Darley. Next up: Lion Super Club, Seoul on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Lion Super Club | Seoul |
+| Fri, 21 Aug 2026 | Apollo Studio | New York City |
 
 ## Recently played
 

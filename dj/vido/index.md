@@ -1,13 +1,14 @@
 # VIDO (DE)
 
-VIDO (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
+VIDO (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Flinders, Sydney on Fri, 28 Aug 2026.
 
-VIDO (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Jacøb, Medus and Paul Munz. Next up: Kilomètre25, Paris on Sat 19 Sept.
+VIDO (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Hamburg, Leipzig and Munich and 3 more. Often billed alongside Jacøb, Medus and Paul Munz. Next up: The Flinders, Sydney on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | The Flinders | Sydney |
 | Sat, 19 Sept 2026 | Kilomètre25 | Paris |
 
 ## Recently played

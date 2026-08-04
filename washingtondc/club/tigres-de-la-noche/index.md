@@ -1,8 +1,8 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "SünDown: Nü Residents Takeover" on Sat, 8 Aug 2026.
+Tigres de la Noche is a music venue in Washington DC with 24 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "SünDown: Nü Residents Takeover" on Sat, 8 Aug 2026.
 
-Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including Bushbaby, Dublon, Dusky and Mark Azar and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights, with line-ups including Bushbaby, Dublon, Dusky and Mark Azar and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 

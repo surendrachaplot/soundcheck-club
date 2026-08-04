@@ -1,6 +1,6 @@
 # Mark Farina at Flash
 
-Mark Farina at Flash on Fri 14 Aug, Washingtondc. 3 acts on the bill: Arroyo, D.O.S and Mark Farina. House and Deep House. Preview the line-up and save it on soundcheck.
+Mark Farina at Flash on Fri 14 Aug, Washingtondc. 4 acts on the bill: Arroyo, Charles Martin, D.O.S and Mark Farina. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Mark Farina at Flash on Fri 14 Aug, Washingtondc. 3 acts on the bill: Arroyo, D.
 ## Line-up
 
 - Arroyo
+- Charles Martin
 - D.O.S
 - Mark Farina
 

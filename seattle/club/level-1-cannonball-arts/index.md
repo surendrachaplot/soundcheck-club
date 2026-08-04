@@ -1,8 +1,8 @@
 # Level 1 @ Cannonball Arts
 
-Level 1 @ Cannonball Arts is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "GRAVEDGR" on Sat, 29 Aug 2026.
+Level 1 @ Cannonball Arts is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "GRAVEDGR" on Sat, 29 Aug 2026.
 
-Level 1 @ Cannonball Arts is a music venue in Seattle listed on soundcheck. 3 upcoming nights, with line-ups including Fantasm and GRAVEDGR. Browse upcoming dates, start times and who's playing. 1930 3rd Ave, Seattle, WA 98101.
+Level 1 @ Cannonball Arts is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Fantasm, GRAVEDGR and Green Velvet. Browse upcoming dates, start times and who's playing. 1930 3rd Ave, Seattle, WA 98101.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Level 1 @ Cannonball Arts is a music venue in Seattle listed on soundcheck. 3 up
 | Sat, 29 Aug 2026 | GRAVEDGR | GRAVEDGR |
 | Thu, 3 Sept 2026 | Venjent |  |
 | Fri, 11 Sept 2026 | Fantasm | Fantasm |
+| Fri, 18 Sept 2026 | Green Velvet | Green Velvet |
 
 ## Address
 

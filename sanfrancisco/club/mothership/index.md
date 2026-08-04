@@ -9,7 +9,7 @@ Mothership is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | oksional First Thursdays: D!SHA | D!SHA, Justyn Myers |
-| Sat, 8 Aug 2026 | ASL - All System Live | ECTO (3) |
+| Sat, 8 Aug 2026 | ASL - All Systems Live | ECTO (3) |
 | Thu, 3 Sept 2026 | oksional First Thursdays: Professor Bang | Justyn Myers |
 | Sun, 4 Oct 2026 | Tromac |  |
 

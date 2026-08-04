@@ -2,7 +2,7 @@
 
 Peach Milk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Whammy Bar, Auckland on Sat, 8 Aug 2026.
 
-Peach Milk is a house and techno artist based in New Zealand, tracked on soundcheck, with 10 sets logged across Auckland. Often billed alongside Clay Louis, Dylan Biscuit and Foxtrot (2). Next up: Whammy Bar, Auckland on Sat 8 Aug.
+Peach Milk is a house and techno artist based in New Zealand, tracked on soundcheck, with 10 sets logged across Auckland. Often billed alongside Clay Louis, Cellphii and Dylan Biscuit. Next up: Whammy Bar, Auckland on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Peach Milk is a house and techno artist based in New Zealand, tracked on soundch
 
 ## Shares bills with
 
-Clay Louis, Dylan Biscuit, Foxtrot (2)
+Clay Louis, Cellphii, Dylan Biscuit
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachmilk/)*

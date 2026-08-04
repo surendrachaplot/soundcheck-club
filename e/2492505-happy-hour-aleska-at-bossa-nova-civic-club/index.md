@@ -1,10 +1,10 @@
 # Happy Hour: Aleska at Bossa Nova Civic Club
 
-Happy Hour: Aleska at Bossa Nova Civic Club on Sun 30 Aug, Newyorkcity. 1 act on the bill: Aleska. Techno. Preview the line-up and save it on soundcheck.
+Happy Hour: Aleska at Bossa Nova Civic Club on Sat 3 Oct, Newyorkcity. 1 act on the bill: Aleska. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 30 Aug 2026 |
+| Date | Sat, 3 Oct 2026 |
 | Venue | Bossa Nova Civic Club |
 | City | New York City |
 

@@ -1,8 +1,8 @@
 # Juaau
 
-Juaau is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Curva, Lisbon on Sat, 22 Aug 2026.
+Juaau is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Curva, Lisbon on Sat, 22 Aug 2026.
 
-Juaau is a disco and house artist based in Portugal, tracked on soundcheck, with 1 set logged across Lisbon. Next up: Curva, Lisbon on Sat 22 Aug.
+Juaau is a house and disco artist based in Portugal, tracked on soundcheck, with 1 set logged across Lisbon. Next up: Curva, Lisbon on Sat 22 Aug.
 
 ## Upcoming shows
 

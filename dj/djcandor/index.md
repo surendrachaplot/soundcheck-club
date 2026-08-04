@@ -1,13 +1,14 @@
 # DJ Candor
 
-DJ Candor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+DJ Candor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Marble Bar, Detroit on Sun, 9 Aug 2026.
 
-DJ Candor is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit. Often billed alongside Hood (US), Redax and Zafar. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
+DJ Candor is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit. Often billed alongside Hood (US), Redax and Zafar. Next up: Marble Bar, Detroit on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Marble Bar | Detroit |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played

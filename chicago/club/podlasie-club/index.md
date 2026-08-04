@@ -1,8 +1,8 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "STRAPPED presents BUTCH BOX" on Thu, 6 Aug 2026.
+Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "STRAPPED presents BUTCH BOX" on Thu, 6 Aug 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
@@ -15,8 +15,9 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming night
 | Fri, 14 Aug 2026 | Agua de Rosas feat. Lechuga Zafiro - J. Córdova - Toyacoyah - DJ Aguara'i | DJ Aguara'i, J. Córdova, Lechuga Zafiro, Toyacoyah |
 | Sat, 15 Aug 2026 | Glenn Underground, Evan G, Avon | Glenn Underground |
 | Wed, 19 Aug 2026 | VARIOUS DISTRACTIONS | Beau Wanzer, Conjunto Primitivo |
-| Thu, 20 Aug 2026 | LAB | Mina Mills, R°sha, easygoingtech |
+| Thu, 20 Aug 2026 | LAB | Mina Mills, R°sha, Swan Drama, easygoingtech |
 | Fri, 21 Aug 2026 | Local Memory 001 | Miss Twink USA, dj flood |
+| Sat, 29 Aug 2026 | Research & Development | JS Alvarez, Juana, La Spacer |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # Emanuele Barilli
 
-Emanuele Barilli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 27 Aug 2026.
+Emanuele Barilli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Left Bank, Tbilisi on Sat, 8 Aug 2026.
 
-Emanuele Barilli is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Istanbul and Milan and 2 more. Often billed alongside HolyU, Nephews and Black Loops. Next up: arkaoda Berlin, Berlin on Thu 27 Aug.
+Emanuele Barilli is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Istanbul and Milan and 2 more. Often billed alongside HolyU, Nephews and Black Loops. Next up: Left Bank, Tbilisi on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Left Bank | Tbilisi |
 | Thu, 27 Aug 2026 | arkaoda Berlin | Berlin |
 
 ## Recently played

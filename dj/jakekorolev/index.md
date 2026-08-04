@@ -1,14 +1,15 @@
 # Jake Korolev
 
-Jake Korolev is a Pop and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
+Jake Korolev is a Pop and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
 
-Jake Korolev is a pop and breakcore artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside FI-LO and Caratastrophe. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
+Jake Korolev is a pop and breakcore artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Caratastrophe and FI-LO. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Mood Ring | New York City |
+| Fri, 4 Sept 2026 | Jade | New York City |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Jake Korolev is a pop and breakcore artist based in United States of America, tr
 
 ## Shares bills with
 
-FI-LO, Caratastrophe
+Caratastrophe, FI-LO
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*

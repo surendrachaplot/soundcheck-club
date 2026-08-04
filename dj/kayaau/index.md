@@ -1,8 +1,8 @@
 # KAYA (AU)
 
-KAYA (AU) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+KAYA (AU) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
-KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck, with 13 sets logged across Brisbane, Melbourne, Newyorkcity and Sydney. Often billed alongside mara (AU), Nik Kastel and Alex Farell. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck, with 14 sets logged across Brisbane, Melbourne, Newyorkcity and Sydney. Often billed alongside mara (AU), Nik Kastel and Alex Farell. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 18 Sept 2026 | Cult Nightclub | Sydney |
+| Sat, 19 Sept 2026 | Oxford Art Factory | Sydney |
 
 ## Recently played
 

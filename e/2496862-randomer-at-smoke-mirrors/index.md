@@ -1,6 +1,6 @@
 # Randomer at Smoke & Mirrors
 
-Randomer at Smoke & Mirrors on Fri 14 Aug, Chicago. 2 acts on the bill: dirtymoney and Random Factor. Techno. Preview the line-up and save it on soundcheck.
+Randomer at Smoke & Mirrors on Fri 14 Aug, Chicago. 3 acts on the bill: dirtymoney, Random Factor and Randomer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Randomer at Smoke & Mirrors on Fri 14 Aug, Chicago. 2 acts on the bill: dirtymon
 
 - dirtymoney
 - Random Factor
+- Randomer
 
 *Source: [soundcheck](https://soundcheck.club/e/2496862-randomer-at-smoke-mirrors/)*

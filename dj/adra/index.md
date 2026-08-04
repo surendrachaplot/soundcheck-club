@@ -1,13 +1,14 @@
 # Adra
 
-Adra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Salesforce Park, San Francisco/Oakland on Sat, 22 Aug 2026.
+Adra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - UNDISCLOSED LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
-Adra is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Max Gardner, 9-System and Eichef. Next up: Salesforce Park, Sanfrancisco on Sat 22 Aug.
+Adra is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Max Gardner, Zachary Noel and 9-System. Next up: TBA - UNDISCLOSED LOCATION, Sanfrancisco on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - UNDISCLOSED LOCATION | San Francisco/Oakland |
 | Sat, 22 Aug 2026 | Salesforce Park | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Adra is a techno and house artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-Max Gardner, 9-System, Eichef
+Max Gardner, Zachary Noel, 9-System
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*

@@ -9,7 +9,7 @@ Trumbullplex is a music venue in Detroit listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Fundraver | GlamourDeath, Wax Assassin, joycxi |
-| Sat, 22 Aug 2026 | The Booty Shakem' Retreat | DJ Medusa, Dastardly Kids, Ember LaFiamma, JustShacoi, Medusa, MotorKam |
+| Sat, 22 Aug 2026 | The Booty Shakem' Retreat | DJ Medusa, Dastardly Kids, Ember LaFiamma, Just Shacoi, Medusa, MotorKam |
 
 ## Address
 

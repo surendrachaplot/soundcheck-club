@@ -1,8 +1,8 @@
 # LX (4)
 
-LX (4) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Wiggle Room, Toronto on Sat, 22 Aug 2026.
+LX (4) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Wiggle Room, Toronto on Sat, 22 Aug 2026.
 
-LX (4) is a house and tech house artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Nour (CAN) and SouthPawBrown. Next up: Wiggle Room, Toronto on Sat 22 Aug.
+LX (4) is a tech house and house artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Nour (CAN) and SouthPawBrown. Next up: Wiggle Room, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 

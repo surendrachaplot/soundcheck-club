@@ -1,14 +1,15 @@
 # Pandemonium
 
-Pandemonium is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Flinders, Sydney on Sat, 15 Aug 2026.
+Pandemonium is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Flinders, Sydney on Sat, 15 Aug 2026.
 
-Pandemonium is a techno and industrial artist based in Spain, tracked on soundcheck, with 17 sets logged across Sydney and Vancouver. Often billed alongside Sam I Am, ARTISAH and I-SO. Next up: The Flinders, Sydney on Sat 15 Aug.
+Pandemonium is a techno and industrial artist based in Spain, tracked on soundcheck, with 18 sets logged across Sydney and Vancouver. Often billed alongside Sam I Am, ARTISAH and I-SO. Next up: The Flinders, Sydney on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The Flinders | Sydney |
+| Sat, 12 Sept 2026 | The Flinders | Sydney |
 
 ## Recently played
 

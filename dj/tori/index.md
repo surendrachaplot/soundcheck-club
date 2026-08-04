@@ -1,14 +1,15 @@
 # Tori
 
-Tori is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sala El Sol, Madrid on Sat, 8 Aug 2026.
+Tori is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sala El Sol, Madrid on Sat, 8 Aug 2026.
 
-Tori is a techno and acid artist tracked on soundcheck, with 27 sets logged across London, Madrid, Mexicocity and Sydney. Often billed alongside Pulpix, KHAOS IN ORDER and Leofix. Next up: Sala El Sol, Madrid on Sat 8 Aug.
+Tori is a techno and acid artist tracked on soundcheck, with 28 sets logged across London, Madrid, Mexicocity and Sydney. Often billed alongside Pulpix, KHAOS IN ORDER and Leofix. Next up: Sala El Sol, Madrid on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Sala El Sol | Madrid |
+| Sat, 5 Sept 2026 | The Flinders | Sydney |
 
 ## Recently played
 

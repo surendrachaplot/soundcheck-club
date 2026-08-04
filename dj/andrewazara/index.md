@@ -1,13 +1,14 @@
 # Andrew Azara
 
-Andrew Azara is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
+Andrew Azara is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 7 Aug 2026.
 
-Andrew Azara is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 7 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Les Enfants Brillants, Barcelona on Fri 28 Aug.
+Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 8 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: 3oz Dive Club, Sandiego on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | 3oz Dive Club | San Diego |
 | Fri, 28 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Sun, 6 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 12 Sept 2026 | Shelter Amsterdam | Amsterdam |

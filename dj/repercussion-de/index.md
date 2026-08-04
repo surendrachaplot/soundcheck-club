@@ -1,14 +1,15 @@
 # Repercussion
 
-Repercussion is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Flinders, Sydney on Fri, 7 Aug 2026.
+Repercussion is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Flinders, Sydney on Fri, 7 Aug 2026.
 
-Repercussion is a techno and industrial artist based in Germany, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside ORKA, Davor and I-SO. Next up: The Flinders, Sydney on Fri 7 Aug.
+Repercussion is a techno and industrial artist based in Germany, tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside I-SO, ORKA and Davor. Next up: The Flinders, Sydney on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Flinders | Sydney |
+| Fri, 11 Sept 2026 | The Flinders | Sydney |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Repercussion is a techno and industrial artist based in Germany, tracked on soun
 
 ## Shares bills with
 
-ORKA, Davor, I-SO
+I-SO, ORKA, Davor
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/repercussion-de/)*

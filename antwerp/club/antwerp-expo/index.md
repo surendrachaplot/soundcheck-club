@@ -9,7 +9,7 @@ Antwerp Expo is a music venue in Antwerp listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Unfaced Dance Open Air | BOY (1), Dj Schnake, GIRL, Jacidorex, L.zwo, Panteros666, Pawlowski (UK) |
-| Sun, 23 Aug 2026 | UNFACED Open Air with Pawlowski, Jacidorex, L.zwo | BOY&GIRL, Dj Schnake, Jacidorex, L.zwo, Panteros666, Pawlowski |
+| Sun, 23 Aug 2026 | UNFACED Open Air with Pawlowski, Jacidorex, 2hot2play, L.zwo | BOY&GIRL, Dj Schnake, Jacidorex, L.zwo, Panteros666, Pawlowski |
 
 ## Address
 

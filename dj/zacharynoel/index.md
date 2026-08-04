@@ -1,13 +1,14 @@
 # Zachary Noel
 
-Zachary Noel is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Salesforce Park, San Francisco/Oakland on Sat, 22 Aug 2026.
+Zachary Noel is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - UNDISCLOSED LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
-Zachary Noel is a techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside Adra, Max Gardner and Another Human Red. Next up: Salesforce Park, Sanfrancisco on Sat 22 Aug.
+Zachary Noel is a techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Adra, Max Gardner and Another Human Red. Next up: TBA - UNDISCLOSED LOCATION, Sanfrancisco on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - UNDISCLOSED LOCATION | San Francisco/Oakland |
 | Sat, 22 Aug 2026 | Salesforce Park | San Francisco/Oakland |
 
 ## Recently played

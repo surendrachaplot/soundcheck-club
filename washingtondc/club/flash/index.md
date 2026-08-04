@@ -8,16 +8,16 @@ Flash is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | DJ W!ld - Gabbs | DJ W!ld, Gabbs, enz.O |
+| Fri, 7 Aug 2026 | DJ W!ld - Gabbs | DJ W!ld, Gabbs, Manny (us), enz.O |
 | Sat, 8 Aug 2026 | Mystic Bill | DJ Technics, Edan Everywhere, Mystic Bill, Stretch (DET) |
 | Sun, 9 Aug 2026 | Sunday Love: Laidlaw - House Twelve - KayLaSoul | House Twelve, KayLaSoul, Laidlaw |
-| Fri, 14 Aug 2026 | Mark Farina | Arroyo, D.O.S, Mark Farina |
+| Fri, 14 Aug 2026 | Mark Farina | Arroyo, Charles Martin, D.O.S, Mark Farina |
 | Sat, 15 Aug 2026 | Resident Nights: BehTarin - Gradient Descent - Henry P | BehTarin, Carl Craig, Chris Nitti, Gradient Descent, Henry P (US) |
 | Sun, 16 Aug 2026 | Sunday Love: Andrey Pushkarev - Vivian Wang - Unit J | Andrey Pushkarev, Vivian Wang |
 | Fri, 21 Aug 2026 | Eelke Kleijn | Eelke Kleijn, Tomas C |
 | Sun, 23 Aug 2026 | Sunday Love: Isaac Carter | Isaac Carter |
-| Fri, 28 Aug 2026 | Makèz | Makèz |
-| Sat, 29 Aug 2026 | Oliver Koletzki b2b Frida Darko | Adrian Collazo, DJ Soul (US), Frida Darko, Oliver Koletzki |
+| Fri, 28 Aug 2026 | Makèz | Dabz, Haffi, Makèz |
+| Sat, 29 Aug 2026 | Oliver Koletzki b2b Frida Darko | Adrian Collazo, DJ Soul (US), Frida Darko, Oliver Koletzki, TiERRA |
 
 ## Address
 

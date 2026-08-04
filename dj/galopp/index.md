@@ -1,14 +1,15 @@
 # Galopp
 
-Galopp is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
+Galopp is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
 
-Galopp is a techno and trance artist based in Switzerland, tracked on soundcheck, with 79 sets logged across Basel, Geneva and Zurich. Often billed alongside Dekerim, Megix and FALCO (2). Next up: Kunstraum Walcheturm, Zurich on Sat 8 Aug.
+Galopp is a techno and trance artist based in Switzerland, tracked on soundcheck, with 80 sets logged across Basel, Geneva and Zurich. Often billed alongside Dekerim, Megix and FALCO (2). Next up: Kunstraum Walcheturm, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Kunstraum Walcheturm | Zurich |
+| Sat, 29 Aug 2026 | Hafenkran | Basel |
 | Sat, 12 Sept 2026 | EXIL | Zurich |
 
 ## Recently played

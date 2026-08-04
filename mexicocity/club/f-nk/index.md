@@ -15,7 +15,7 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 12 upcoming nights, w
 | Fri, 14 Aug 2026 | Boyanza: Factory Setup + Francia Oropeza + Boyanza Collectors | Factory Setup, Francia Oropeza, Rafatel, papa jazz |
 | Sat, 15 Aug 2026 | Dyed Soundorom + Soul Of Hex | Dyed Soundorom, Soul Of Hex |
 | Thu, 20 Aug 2026 | Ssensorial x Fünk | Erika Mena, Gohtobi, Niño Arbol, Vargas |
-| Fri, 21 Aug 2026 | Fina b2b Young Drums (All Night Long) | Fina, Young Drums |
+| Fri, 21 Aug 2026 | Dance Your Name 13 años: Fina b2b Young Drums (All Night Long) | Fina, Young Drums |
 | Sat, 22 Aug 2026 | West Side Project x Fünk | Andy Woldman, Ëlorian |
 | Fri, 28 Aug 2026 | Pangaea + MNTY + Bluecommand | Bluecommand, MNTY, Pangaea |
 

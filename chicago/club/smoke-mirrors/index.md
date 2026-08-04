@@ -10,7 +10,7 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 6 upcoming nig
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | DJ Fuckoff + LOVEFOXY | DJ Fuckoff, Jenny Fox, LOVEFOXY |
 | Sat, 8 Aug 2026 | Pablo Bozzi | Club Drippy, Pablo Bozzi, Veri Peri |
-| Fri, 14 Aug 2026 | Randomer | Random Factor, dirtymoney |
+| Fri, 14 Aug 2026 | Randomer | Random Factor, Randomer, dirtymoney |
 | Sat, 15 Aug 2026 | Jen Cardini's Nightclubbing | Ciel, HOTPRETTY, Jen Cardini, Nolia |
 | Sat, 12 Sept 2026 | Julian Fijma | Julian Fijma |
 | Thu, 1 Oct 2026 | Loukeman | Loukeman |

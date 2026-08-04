@@ -1,13 +1,14 @@
 # Coyado
 
-Coyado is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
+Coyado is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Club Rawhide, New York City on Sat, 8 Aug 2026.
 
-Coyado is a techno and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity, Philadelphia and Sydney. Often billed alongside Heartbreaker, ALEXIS DE LA ROSA and Battygyal. Next up: Paragon, Newyorkcity on Fri 14 Aug.
+Coyado is a techno and club artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity, Philadelphia and Sydney. Often billed alongside Heartbreaker, ALEXIS DE LA ROSA and Battygyal. Next up: Club Rawhide, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Club Rawhide | New York City |
 | Fri, 14 Aug 2026 | Paragon | New York City |
 
 ## Recently played

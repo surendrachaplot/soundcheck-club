@@ -1,13 +1,14 @@
 # Moderna
 
-Moderna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Gabriela, New York City on Sat, 8 Aug 2026.
+Moderna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
 
-Moderna is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Krakow, Leipzig and Losangeles and 11 more. Often billed alongside Eli Escobar, G I N A and Daisy O'Dell. Next up: Gabriela, Newyorkcity on Sat 8 Aug.
+Moderna is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Berlin, Krakow, Leipzig and Losangeles and 11 more. Often billed alongside Eli Escobar, G I N A and Daisy O'Dell. Next up: Bar Oriente, Mexicocity on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Bar Oriente | Mexico City |
 | Sat, 8 Aug 2026 | Gabriela | New York City |
 
 ## Recently played

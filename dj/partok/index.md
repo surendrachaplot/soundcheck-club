@@ -1,14 +1,16 @@
 # Partok
 
-Partok is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
+Partok is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
 
-Partok is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: KREUZWERK, Berlin on Sat 8 Aug.
+Partok is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: KREUZWERK, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | KREUZWERK | Berlin |
+| Sat, 15 Aug 2026 | Good Room | New York City |
+| Fri, 21 Aug 2026 | TBA | Los Angeles |
 | Sat, 22 Aug 2026 | MAD Club Live | Miami |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
 

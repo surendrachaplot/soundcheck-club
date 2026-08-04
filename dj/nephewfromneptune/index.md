@@ -2,7 +2,7 @@
 
 Nephew from Neptune is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Arch 535, London on Sat, 22 Aug 2026.
 
-Nephew from Neptune is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Ni-am, Sleepy Jean and Jacob Trip. Next up: Arch 535, London on Sat 22 Aug.
+Nephew from Neptune is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Jacob Trip, Ni-am and Sleepy Jean. Next up: Arch 535, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Nephew from Neptune is an electronic artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Ni-am, Sleepy Jean, Jacob Trip
+Jacob Trip, Ni-am, Sleepy Jean
 
 *Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nephewfromneptune/)*

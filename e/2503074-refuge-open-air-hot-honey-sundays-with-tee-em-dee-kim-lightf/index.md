@@ -1,6 +1,6 @@
 # Refuge Open Air: Hot Honey Sundays with TEE EM DEE, Kim Lightfoot and HH DJs at Refuge
 
-Refuge Open Air: Hot Honey Sundays with TEE EM DEE, Kim Lightfoot and HH DJs on Sun 16 Aug, Newyorkcity. 3 acts on the bill: Anna Collecta, Kim Lightfoot and TEE EM DEE. Preview the line-up and save it on soundcheck.
+Refuge Open Air: Hot Honey Sundays with TEE EM DEE, Kim Lightfoot and HH DJs on Sun 16 Aug, Newyorkcity. 4 acts on the bill: Anna Collecta, Deo'jorge, Kim Lightfoot and TEE EM DEE. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Refuge Open Air: Hot Honey Sundays with TEE EM DEE, Kim Lightfoot and HH DJs on 
 ## Line-up
 
 - Anna Collecta
+- Deo'jorge
 - Kim Lightfoot
 - TEE EM DEE
 

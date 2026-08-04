@@ -1,8 +1,8 @@
 # D1TCHNYMPH
 
-D1TCHNYMPH is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
+D1TCHNYMPH is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
 
-D1TCHNYMPH is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Denver. Often billed alongside Technopagan, exmantera and moth.sanctuary. Next up: TBA - Secret Warehouse Location, Denver on Fri 21 Aug.
+D1TCHNYMPH is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 1 set logged across Denver. Often billed alongside Technopagan, exmantera and moth.sanctuary. Next up: TBA - Secret Warehouse Location, Denver on Fri 21 Aug.
 
 ## Upcoming shows
 

@@ -1,13 +1,14 @@
 # Randomer
 
-Randomer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 15 Aug 2026.
+Randomer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 14 Aug 2026.
 
-Randomer is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside AADJA, Anetha and Clouds. Next up: TBA - Los Angeles, Losangeles on Sat 15 Aug.
+Randomer is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Smoke & Mirrors, Chicago on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Smoke & Mirrors | Chicago |
 | Sat, 15 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 28 Aug 2026 | Paragon | New York City |
 | Sat, 19 Sept 2026 | VENT | Tokyo |

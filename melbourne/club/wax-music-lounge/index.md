@@ -10,11 +10,11 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 22 upcoming
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | BRAZLOMBIA |  |
 | Wed, 5 Aug 2026 | MELLOWDÍAS THUMP |  |
-| Fri, 7 Aug 2026 | DOWNSTAIRS DISCO |  |
 | Sat, 8 Aug 2026 | TANYA GEORGE • CONTRAST ALBUM LAUNCH | Tanya George |
 | Mon, 10 Aug 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 11 Aug 2026 | CLOSED FOR PRIVATE FUNCTION FROM 8PM |  |
 | Wed, 12 Aug 2026 | MELLOWDÍAS THUMP |  |
+| Fri, 14 Aug 2026 | DOWNSTAIRS DISCO |  |
 | Mon, 17 Aug 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 18 Aug 2026 | BRAZLOMBIA |  |
 | Wed, 19 Aug 2026 | CLOSED FOR PRIVATE FUNCTION FROM 8PM |  |

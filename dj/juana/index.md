@@ -1,13 +1,14 @@
 # Juana
 
-Juana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Juana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Podlasie Club, Chicago on Sat, 29 Aug 2026.
 
-Juana is a techno and house artist tracked on soundcheck, with 116 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Concrete Husband and Volvox. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
+Juana is a techno and house artist tracked on soundcheck, with 117 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Concrete Husband and Volvox. Next up: Podlasie Club, Chicago on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Podlasie Club | Chicago |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 
 ## Recently played

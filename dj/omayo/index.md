@@ -1,8 +1,8 @@
 # OMAYO
 
-OMAYO is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 15 Aug 2026.
+OMAYO is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 15 Aug 2026.
 
-OMAYO is an afro house and afro tech artist based in Turkey, tracked on soundcheck, with 1 set logged across Istanbul. Next up: Kafes x Milo, Istanbul on Sat 15 Aug.
+OMAYO is an afro tech and afro house artist based in Turkey, tracked on soundcheck, with 1 set logged across Istanbul. Next up: Kafes x Milo, Istanbul on Sat 15 Aug.
 
 ## Upcoming shows
 

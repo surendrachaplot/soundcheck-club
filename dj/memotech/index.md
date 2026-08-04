@@ -1,14 +1,15 @@
 # Memotech
 
-Memotech is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Jasna 1, Warsaw on Sat, 8 Aug 2026.
+Memotech is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Jasna 1, Warsaw on Sat, 8 Aug 2026.
 
-Memotech is a bass and techno artist tracked on soundcheck, with 87 sets logged across Cologne, Copenhagen, Istanbul and Tbilisi and 1 more. Often billed alongside Kraumur, Routes Not Roots and Wesley Wise. Next up: Jasna 1, Warsaw on Sat 8 Aug.
+Memotech is a bass and techno artist tracked on soundcheck, with 88 sets logged across Cologne, Copenhagen, Istanbul and Tbilisi and 1 more. Often billed alongside Kraumur, Routes Not Roots and Wesley Wise. Next up: Jasna 1, Warsaw on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Jasna 1 | Warsaw |
+| Sat, 22 Aug 2026 | Left Bank | Tbilisi |
 | Sat, 29 Aug 2026 | Bassiani | Tbilisi |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Sky Rivers
 
-Sky Rivers is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 15 Aug 2026.
+Sky Rivers is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Franca, Los Angeles on Thu, 6 Aug 2026.
 
-Sky Rivers is a house and minimal artist tracked on soundcheck, with 57 sets logged across London, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Hazy, Ian Llorens and Highkin'. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 15 Aug.
+Sky Rivers is a house and minimal artist tracked on soundcheck, with 58 sets logged across London, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Hazy, Ian Llorens and Highkin'. Next up: Bar Franca, Losangeles on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Bar Franca | Los Angeles |
 | Sat, 15 Aug 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 22 Aug 2026 | Grow | London |
 

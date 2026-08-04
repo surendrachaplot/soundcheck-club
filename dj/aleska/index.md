@@ -10,7 +10,7 @@ Aleska is a techno and house artist based in United States of America, tracked o
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | The Sultan Room | New York City |
 | Fri, 21 Aug 2026 | Newtown Radio | New York City |
-| Sun, 30 Aug 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 3 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

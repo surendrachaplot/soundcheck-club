@@ -10,7 +10,7 @@ estro is a techno and house artist based in United States of America, tracked on
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | ErF Studios | New York City |
 | Mon, 10 Aug 2026 | Bossa Nova Civic Club | New York City |
-| Sun, 16 Aug 2026 | TBA - Bushwick Rooftop | New York City |
+| Sun, 16 Aug 2026 | TBA - Bushwick Rooftop (11237) | New York City |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # DJ W!ld - Gabbs at Flash
 
-DJ W!ld - Gabbs at Flash on Fri 7 Aug, Washingtondc. 3 acts on the bill: DJ W!ld, enz.O and Gabbs. House and Tech House. Preview the line-up and save it on soundcheck.
+DJ W!ld - Gabbs at Flash on Fri 7 Aug, Washingtondc. 4 acts on the bill: DJ W!ld, enz.O, Gabbs and Manny (us). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ DJ W!ld - Gabbs at Flash on Fri 7 Aug, Washingtondc. 3 acts on the bill: DJ W!ld
 - DJ W!ld
 - enz.O
 - Gabbs
+- Manny (us)
 
 *Source: [soundcheck](https://soundcheck.club/e/2458919-dj-w-ld-gabbs-at-flash/)*

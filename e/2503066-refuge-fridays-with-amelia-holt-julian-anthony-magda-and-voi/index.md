@@ -1,6 +1,6 @@
 # Refuge Fridays with Amelia Holt, Julian Anthony, Magda and Voigtmann at Refuge
 
-Refuge Fridays with Amelia Holt, Julian Anthony, Magda and Voigtmann on Fri 14 Aug, Newyorkcity. 4 acts on the bill: Amelia Holt, Julian Anthony, Magda and Voigtmann. Preview the line-up and save it on soundcheck.
+Refuge Fridays with Amelia Holt, Julian Anthony, Magda and Voigtmann on Fri 14 Aug, Newyorkcity. 4 acts on the bill: Amelia Holt, Julian Anthony, Magda and Voigtmann. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
