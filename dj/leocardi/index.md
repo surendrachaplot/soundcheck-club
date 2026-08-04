@@ -1,6 +1,6 @@
 # Leo Cardi
 
-Leo Cardi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at block., Dublin on Fri, 11 Sept 2026.
+Leo Cardi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at block., Dublin on Fri, 11 Sept 2026.
 
 Leo Cardi is a techno and electronica artist tracked on soundcheck, with 12 sets logged across Cork and Dublin. Often billed alongside Connect, LISA (IT) and SAMUX. Next up: block., Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Leo Cardi is a techno and electronica artist tracked on soundcheck, with 12 sets
 
 Connect, LISA (IT), SAMUX
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leocardi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leocardi/)*

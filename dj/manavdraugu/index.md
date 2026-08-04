@@ -1,6 +1,6 @@
 # Manav/draugu
 
-Manav/draugu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
+Manav/draugu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
 
 Manav/draugu is a house and tech house artist based in Latvia, tracked on soundcheck, with 8 sets logged across Riga. Often billed alongside Adam Blake, Feldmanis and Kapusta. Next up: Teritorija, Riga on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Manav/draugu is a house and tech house artist based in Latvia, tracked on soundc
 
 Adam Blake, Feldmanis, Kapusta
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manavdraugu/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manavdraugu/)*

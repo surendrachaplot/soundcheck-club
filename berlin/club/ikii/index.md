@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Listening Session with Decoder, APRS, Endrew, nil, Noirnor" on Tue, 4 Aug 2026.
+Ikii is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Listening Session with Decoder, APRS, Endrew, nil, Noirnor" on Tue, 4 Aug 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Am Nil, APRS, azul and Dan Harris and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

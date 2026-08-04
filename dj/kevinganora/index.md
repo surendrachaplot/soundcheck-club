@@ -1,6 +1,6 @@
 # Kevin Ganora
 
-Kevin Ganora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dr. Dou Social Club, Barcelona on Thu, 6 Aug 2026.
+Kevin Ganora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Dr. Dou Social Club, Barcelona on Thu, 6 Aug 2026.
 
 Kevin Ganora is a house and techno artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Madrid and Mexicocity. Often billed alongside Valderrama, AMY (BG) and ANNARA. Next up: Dr. Dou Social Club, Barcelona on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Kevin Ganora is a house and techno artist based in Argentina, tracked on soundch
 
 Valderrama, AMY (BG), ANNARA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinganora/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinganora/)*

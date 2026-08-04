@@ -1,6 +1,6 @@
 # Kaiviti
 
-Kaiviti is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Neck of the Woods, Auckland on Tue, 4 Aug 2026.
+Kaiviti is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Neck of the Woods, Auckland on Tue, 4 Aug 2026.
 
 Kaiviti is a house and hip-hop artist based in New Zealand, tracked on soundcheck, with 4 sets logged across Auckland. Often billed alongside AJ Honeysuckle, Andwahn and BBYFACEKILLA. Next up: Neck of the Woods, Auckland on Tue 4 Aug.
 
@@ -20,4 +20,4 @@ Kaiviti is a house and hip-hop artist based in New Zealand, tracked on soundchec
 
 AJ Honeysuckle, Andwahn, BBYFACEKILLA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiviti/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiviti/)*

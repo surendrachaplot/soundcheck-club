@@ -1,6 +1,6 @@
 # Kevin Aviance
 
-Kevin Aviance is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at smartbar, Chicago on Sat, 8 Aug 2026.
+Kevin Aviance is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at smartbar, Chicago on Sat, 8 Aug 2026.
 
 Kevin Aviance is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Brussels, Chicago and Losangeles and 5 more. Often billed alongside Kilopatrah Jones, The Carry Nation and Boris. Next up: smartbar, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kevin Aviance is a house and techno artist based in United States of America, tr
 
 Kilopatrah Jones, The Carry Nation, Boris
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*

@@ -1,6 +1,6 @@
 # Chris Stussy
 
-Chris Stussy is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at [UNVRS], Ibiza on Wed, 5 Aug 2026.
+Chris Stussy is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Wed, 5 Aug 2026.
 
 Chris Stussy is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: [UNVRS], Ibiza on Wed 5 Aug.
 
@@ -36,4 +36,4 @@ Chris Stussy is a house and techno artist tracked on soundcheck, with 271 sets l
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

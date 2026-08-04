@@ -1,6 +1,6 @@
 # RIVKA R3 NYC
 
-RIVKA R3 NYC is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - BAR SOCIETY - 3015 STILLWELL AVE, BROOKLYN NY 11224, New York City on Sat, 8 Aug 2026.
+RIVKA R3 NYC is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - BAR SOCIETY - 3015 STILLWELL AVE, BROOKLYN NY 11224, New York City on Sat, 8 Aug 2026.
 
 RIVKA R3 NYC is a deep house and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Melowdee, Rebel Fusion NYC and RUBI (R3, NYC). Next up: TBA - BAR SOCIETY - 3015 STILLWELL AVE, BROOKLYN NY 11224, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RIVKA R3 NYC is a deep house and house artist based in United States of America,
 
 Melowdee, Rebel Fusion NYC, RUBI (R3, NYC)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivkar3nyc/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivkar3nyc/)*

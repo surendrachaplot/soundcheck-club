@@ -1,6 +1,6 @@
 # Fayeolo
 
-Fayeolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
+Fayeolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
 
 Fayeolo is a techno and house artist based in Ireland, tracked on soundcheck, with 16 sets logged across Berlin and Dublin. Often billed alongside EMMIE, Dylan Fogarty and Jack Devine. Next up: The Racket Space, Dublin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Fayeolo is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 EMMIE, Dylan Fogarty, Jack Devine
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fayeolo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fayeolo/)*

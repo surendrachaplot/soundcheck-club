@@ -1,6 +1,6 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "WE ARE ONE x MTW – Season Opening" on Sat, 15 Aug 2026.
+MTW is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "WE ARE ONE x MTW – Season Opening" on Sat, 15 Aug 2026.
 
 MTW is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, with line-ups including Ae:ther, ANN-LUX, Basti Grub and BIANCA BLANCO and 2 more. Browse upcoming dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
@@ -17,4 +17,4 @@ MTW is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, with 
 
 Nordring 131, 63067 Offenbach, Germany, Frankfurt
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*

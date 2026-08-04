@@ -1,6 +1,6 @@
 # Something Good (UK)
 
-Something Good (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at HWK Garden / Terrace, London on Sat, 19 Sept 2026.
+Something Good (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at HWK Garden / Terrace, London on Sat, 19 Sept 2026.
 
 Something Good (UK) is an electronic artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Bobby Scallop, Fenton Haslam and Alien Izz. Next up: HWK Garden / Terrace, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Something Good (UK) is an electronic artist based in United Kingdom, tracked on 
 
 Bobby Scallop, Fenton Haslam, Alien Izz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somethinggooduk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somethinggooduk/)*

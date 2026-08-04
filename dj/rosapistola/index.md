@@ -1,6 +1,6 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
 
 Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: Société des arts technologiques, Montreal on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 10
 
 Bclip, Freebot, DJ Travella
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*

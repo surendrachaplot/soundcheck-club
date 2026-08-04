@@ -1,6 +1,6 @@
 # Nakrasia
 
-Nakrasia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
+Nakrasia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
 
 Nakrasia is a techno and trance artist based in Hungary, tracked on soundcheck, with 70 sets logged across Berlin, Budapest, Prague and Vienna. Often billed alongside CRB, And/Or and Barbad. Next up: Altenburg 1964, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nakrasia is a techno and trance artist based in Hungary, tracked on soundcheck, 
 
 CRB, And/Or, Barbad
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakrasia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakrasia/)*

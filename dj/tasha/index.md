@@ -1,6 +1,6 @@
 # Tasha
 
-Tasha is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Cause, London on Fri, 7 Aug 2026.
+Tasha is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Cause, London on Fri, 7 Aug 2026.
 
 Tasha is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: The Cause, London on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Tasha is a techno and house artist tracked on soundcheck, with 185 sets logged a
 
 Steffi, Blasha & Allatt, DVS1
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

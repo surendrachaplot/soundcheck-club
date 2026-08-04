@@ -1,6 +1,6 @@
 # DJ Rico Culebra
 
-DJ Rico Culebra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ez Inn, Chicago on Sat, 8 Aug 2026.
+DJ Rico Culebra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ez Inn, Chicago on Sat, 8 Aug 2026.
 
 DJ Rico Culebra is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago and Detroit. Often billed alongside DJ 0Hatred, DJ N8 and DJ Paradox. Next up: Ez Inn, Chicago on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ DJ Rico Culebra is a techno and house artist based in United States of America, 
 
 DJ 0Hatred, DJ N8, DJ Paradox
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djricoculebra/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djricoculebra/)*

@@ -1,6 +1,6 @@
 # eÑe (1)
 
-eÑe (1) is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Panke, Berlin on Fri, 7 Aug 2026.
+eÑe (1) is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Panke, Berlin on Fri, 7 Aug 2026.
 
 eÑe (1) is a latin bass and reggaeton artist based in Ecuador, tracked on soundcheck, with 19 sets logged across Berlin and Leipzig. Often billed alongside Simón JaVa, PAULAH and Maque. Next up: Panke, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ eÑe (1) is a latin bass and reggaeton artist based in Ecuador, tracked on sound
 
 Simón JaVa, PAULAH, Maque
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ene-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ene-1/)*

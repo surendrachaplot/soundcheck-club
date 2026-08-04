@@ -1,6 +1,6 @@
 # Work Coach
 
-Work Coach is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 7 Aug 2026.
+Work Coach is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 7 Aug 2026.
 
 Work Coach is a garage and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Glasgow. Often billed alongside fergusmcnally, Shedcat and 3-Lix. Next up: La Cheetah Club, Glasgow on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Work Coach is a garage and electro artist based in United Kingdom, tracked on so
 
 fergusmcnally, Shedcat, 3-Lix
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workcoach/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workcoach/)*

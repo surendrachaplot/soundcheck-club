@@ -3787,6 +3787,28 @@
     .adm-area { border:1px solid var(--border); border-radius:var(--radius); padding:var(--sp-3); margin-bottom:var(--sp-3); }
     .adm-miss { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--accent); margin-top:var(--sp-2); }
 
+    /* Log a night — dead centre of the nav. Logging is the app's whole point, so
+       it gets the one gradient control in the bar; the four tabs stay flat and
+       equal around it. Uses --accent-grad, the SAME paint as every other primary
+       (fp-ab go), never a new colour. */
+    .bnav-log { flex:0 0 auto; width:52px; height:52px; margin:0 4px; align-self:center;
+      display:flex; align-items:center; justify-content:center;
+      background:var(--accent-grad); color:var(--accent-ink);
+      border:1.5px solid #16102a; border-radius:var(--radius-pill); cursor:pointer;
+      -webkit-tap-highlight-color:transparent; touch-action:manipulation;
+      transition:filter .15s ease, transform .12s ease; }
+    .bnav-log svg { width:24px; height:24px; }
+    .bnav-log:hover { filter:brightness(.92) saturate(1.08); }
+    .bnav-log:active { transform:scale(.94); }
+
+    /* Venue rating, already given — a summary, not the form again. */
+    .vrv-done { display:flex; align-items:center; gap:12px; flex-wrap:wrap; padding:10px 0; }
+    .vrv-done-tx { flex:1; min-width:0; color:var(--muted); font:600 var(--fs-sm)/var(--lh-sm) var(--body); }
+    .vrv-edit { flex:0 0 auto; background:transparent; border:1px solid var(--border); color:var(--fg);
+      border-radius:var(--radius-pill); padding:7px 14px; min-height:var(--tap-min);
+      font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.05em; text-transform:uppercase; cursor:pointer; }
+    .vrv-edit:hover { border-color:var(--accent); color:var(--accent); }
+
     /* ── Guides & lists ──────────────────────────────────────────────────────
        Shared by computed guides (genre / area / this weekend / if-you-like) and
        member lists — they are the same object to a reader, so they get one look.
@@ -3912,7 +3934,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785795886149">
+<meta name="sc-build" content="1785802832253">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4074,6 +4096,7 @@
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
+    <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a night"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
     <button class="bnav-tab" id="bnav-radio" type="button" aria-label="Radio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg><span class="bnav-l">Radio</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
@@ -5365,6 +5388,7 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-radio').addEventListener('click',function(){ openRadio(); });
+    document.getElementById('bnav-log').addEventListener('click',function(){ if(!currentUser){ openAuth(); return; } openLog(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('city'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
@@ -9638,12 +9662,14 @@
       renderLgLineup(); renderLgEvents();
       // fresh venue quick-read for this night, prefilled with any earlier answers
       lgVRev={ sound:null, crowd:null, toilets:null, wouldReturn:null, tags:[] };
+      lgVRevPrior=false; lgVRevOpen=false;
       renderLgVenueRev();
       if(currentUser && lgSel.venue_slug){
         var seq=++_lgVRevSeq;
         authedFetch('/api/venue/review?slug='+encodeURIComponent(lgSel.venue_slug)).then(function(r){ return r.json(); }).then(function(j){
           if(seq!==_lgVRevSeq || !(j&&j.mine)) return;
           lgVRev={ sound:j.mine.sound||null, crowd:j.mine.crowd||null, toilets:j.mine.toilets||null, wouldReturn:(j.mine.would_return!=null?j.mine.would_return:null), tags:(j.mine.tags||[]).slice() };
+          lgVRevPrior=lgVRevAnswered();
           renderLgVenueRev();
         }).catch(function(){});
       }
@@ -9652,6 +9678,11 @@
     // would-you-go-back, vibe tags. Saved alongside the diary entry (one POST to
     // /api/venue/review); replaced the old post-save popup sheet.
     var lgVRev={ sound:null, crowd:null, toilets:null, wouldReturn:null, tags:[] }, _lgVRevSeq=0;
+    // Rated this venue before? Then do not ask again. lgVRevPrior marks answers
+    // that came from an EARLIER night, so the block collapses to a one-line
+    // summary instead of re-presenting a form the user has already filled in.
+    // lgVRevOpen is the user re-opening it deliberately.
+    var lgVRevPrior=false, lgVRevOpen=false;
     function lgVRevAnswered(){ return lgVRev.sound!=null||lgVRev.crowd!=null||lgVRev.toilets!=null||lgVRev.wouldReturn!=null||lgVRev.tags.length>0; }
     function renderLgVenueRev(){
       var el=document.getElementById('lg-vrev'), field=document.getElementById('lg-vrev-field');
@@ -9659,6 +9690,19 @@
       if(!lgSel||!lgSel.venue){ field.style.display='none'; el.innerHTML=''; return; }
       field.style.display='';
       var nm=document.getElementById('lg-vrev-nm'); if(nm) nm.textContent=lgSel.venue;
+      // Already rated, and not deliberately re-opened → a summary, not the form.
+      if(lgVRevPrior && !lgVRevOpen){
+        var bits=[];
+        if(lgVRev.sound!=null) bits.push('Sound '+lgVRev.sound);
+        if(lgVRev.crowd!=null) bits.push('Crowd '+lgVRev.crowd);
+        if(lgVRev.toilets!=null) bits.push('Toilets '+lgVRev.toilets);
+        el.innerHTML='<div class="vrv-done"><span class="vrv-done-tx">You&rsquo;ve rated this venue'+
+          (bits.length?' &middot; '+esc(bits.join('  ')):'')+'</span>'+
+          '<button class="vrv-edit" id="vrv-edit" type="button">Edit</button></div>';
+        var eb=document.getElementById('vrv-edit');
+        if(eb) eb.addEventListener('click', function(){ lgVRevOpen=true; renderLgVenueRev(); });
+        return;
+      }
       var lcTags=lgVRev.tags.map(function(x){ return String(x).toLowerCase(); });
       var wr=[[2,'Definitely'],[1,'Maybe'],[0,'Nah']].map(function(o){ return '<button class="vrv-chip'+(lgVRev.wouldReturn===o[0]?' on':'')+'" type="button" data-wr="'+o[0]+'">'+o[1]+'</button>'; }).join('');
       var tags=VENUE_TAGS.map(function(t){ return '<button class="vrv-chip'+(lcTags.indexOf(t.toLowerCase())>=0?' on':'')+'" type="button" data-tag="'+esc(t)+'">'+esc(t)+'</button>'; }).join('');

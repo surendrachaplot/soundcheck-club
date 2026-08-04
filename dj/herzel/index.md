@@ -1,6 +1,6 @@
 # Herzel
 
-Herzel is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Fri, 14 Aug 2026.
+Herzel is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Fri, 14 Aug 2026.
 
 Herzel is an ambient and acid artist based in North Macedonia, tracked on soundcheck, with 4 sets logged across Berlin, Chicago and Paris. Often billed alongside m50 and Les Yeux Orange. Next up: Refuge Worldwide / Niemetzstraße, Berlin on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Herzel is an ambient and acid artist based in North Macedonia, tracked on soundc
 
 m50, Les Yeux Orange
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herzel/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herzel/)*

@@ -1,6 +1,6 @@
 # Lupion
 
-Lupion is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at teller, Seoul on Fri, 7 Aug 2026.
+Lupion is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at teller, Seoul on Fri, 7 Aug 2026.
 
 Lupion is a techno and electro artist based in Japan, tracked on soundcheck, with 10 sets logged across Seoul and Tokyo. Often billed alongside Ryunosuke Urabe, EVE (1) and KOSHIRO. Next up: teller, Seoul on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lupion is a techno and electro artist based in Japan, tracked on soundcheck, wit
 
 Ryunosuke Urabe, EVE (1), KOSHIRO
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lupion/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lupion/)*

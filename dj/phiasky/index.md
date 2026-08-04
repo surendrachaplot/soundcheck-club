@@ -1,6 +1,6 @@
 # PHIA SKY
 
-PHIA SKY is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Concept Haus, Manchester on Sat, 15 Aug 2026.
+PHIA SKY is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Concept Haus, Manchester on Sat, 15 Aug 2026.
 
 PHIA SKY is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London and Manchester. Often billed alongside FKA Hardcore, kaoti and David James MCR. Next up: Concept Haus, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ PHIA SKY is an electronica and house artist based in United Kingdom, tracked on 
 
 FKA Hardcore, kaoti, David James MCR
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phiasky/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phiasky/)*

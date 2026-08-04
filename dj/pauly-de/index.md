@@ -1,6 +1,6 @@
 # PAULY!
 
-PAULY! is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+PAULY! is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 PAULY! is a garage and jungle artist based in Germany, tracked on soundcheck, with 1 set logged across Bristol. Often billed alongside Janaway, Saint Ludo and Akira (Buntai). Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -14,4 +14,4 @@ PAULY! is a garage and jungle artist based in Germany, tracked on soundcheck, wi
 
 Janaway, Saint Ludo, Akira (Buntai)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauly-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauly-de/)*

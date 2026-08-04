@@ -1,6 +1,6 @@
 # Loveshy
 
-Loveshy is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Loveshy is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Loveshy is a house and italo disco artist based in Norway, tracked on soundcheck, with 15 sets logged across Oslo. Often billed alongside Olefonken, Anders Hajem and Annweiler. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Loveshy is a house and italo disco artist based in Norway, tracked on soundcheck
 
 Olefonken, Anders Hajem, Annweiler
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loveshy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loveshy/)*

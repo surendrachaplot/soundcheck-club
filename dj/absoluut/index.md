@@ -1,6 +1,6 @@
 # Absoluut
 
-Absoluut is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+Absoluut is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
 Absoluut is a pop and house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam. Often billed alongside TMORGZ, ASHTATTZ and Protopapa. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Absoluut is a pop and house artist based in Netherlands, tracked on soundcheck, 
 
 TMORGZ, ASHTATTZ, Protopapa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/absoluut/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/absoluut/)*

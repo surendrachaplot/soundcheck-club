@@ -1,6 +1,6 @@
 # Yass & Mali
 
-Yass & Mali is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
+Yass & Mali is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
 
 Yass & Mali are a house and tech house duo tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 5 more. Often billed alongside Samuel Deep, Doudou MD and Tristan da Cunha. Next up: Cova Santa, Ibiza on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Yass & Mali are a house and tech house duo tracked on soundcheck, with 24 sets l
 
 Samuel Deep, Doudou MD, Tristan da Cunha
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yass&mali/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yass&mali/)*

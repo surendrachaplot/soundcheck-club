@@ -1,6 +1,6 @@
 # Evil Nine
 
-Evil Nine is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Europa Boat, Budapest on Sat, 22 Aug 2026.
+Evil Nine is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Europa Boat, Budapest on Sat, 22 Aug 2026.
 
 Evil Nine is a house and breakbeat artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton, Budapest, London and Prague. Often billed alongside Stanton Warriors, Gemcamp and Adam Freeland. Next up: Europa Boat, Budapest on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Evil Nine is a house and breakbeat artist based in United Kingdom, tracked on so
 
 Stanton Warriors, Gemcamp, Adam Freeland
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilnine/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilnine/)*

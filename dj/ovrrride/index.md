@@ -1,6 +1,6 @@
 # ovrrride
 
-ovrrride is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Somewhere in NIshi Azabu, Tokyo on Fri, 14 Aug 2026.
+ovrrride is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Somewhere in NIshi Azabu, Tokyo on Fri, 14 Aug 2026.
 
 ovrrride is a bass and techno artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside BLUEMEW, DUCK and Andrew (TREKKIE TRAX). Next up: TBA - Somewhere in NIshi Azabu, Tokyo on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ ovrrride is a bass and techno artist based in Japan, tracked on soundcheck, with
 
 BLUEMEW, DUCK, Andrew (TREKKIE TRAX)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrrride/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrrride/)*

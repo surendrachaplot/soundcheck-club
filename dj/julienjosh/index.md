@@ -1,6 +1,6 @@
 # Julien Josh
 
-Julien Josh is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 8 Aug 2026.
+Julien Josh is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 8 Aug 2026.
 
 Julien Josh is a house and club artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Gregor Rost, Ashbeat and ZYMT. Next up: Bulbul Berlin, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Julien Josh is a house and club artist tracked on soundcheck, with 9 sets logged
 
 Gregor Rost, Ashbeat, ZYMT
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julienjosh/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julienjosh/)*

@@ -1,6 +1,6 @@
 # Uche
 
-Uche is a Afrobeats and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Bain, New York City on Wed, 5 Aug 2026.
+Uche is a Afrobeats and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Le Bain, New York City on Wed, 5 Aug 2026.
 
 Uche is an afrobeats and afro house artist based in Nigeria, tracked on soundcheck, with 22 sets logged across Brussels, Hamburg, Leipzig and London and 1 more. Often billed alongside J-Cush, SAY3 and Carlo Karacho. Next up: Le Bain, Newyorkcity on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Uche is an afrobeats and afro house artist based in Nigeria, tracked on soundche
 
 J-Cush, SAY3, Carlo Karacho
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uche/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uche/)*

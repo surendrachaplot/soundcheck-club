@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Portfolio Sessions" on Sun, 9 Aug 2026.
+Sound Machine is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Portfolio Sessions" on Sun, 9 Aug 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 178 Bathurst Street.
 
@@ -14,4 +14,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 1 upcoming night
 
 178 Bathurst Street, Toronto
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

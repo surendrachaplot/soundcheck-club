@@ -1,6 +1,6 @@
 # JDMA
 
-JDMA is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
+JDMA is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
 
 JDMA is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 1 set logged across Thehague. Often billed alongside RUL3, BORIS BOUNCE and slin. Next up: Kabelfabriek, Thehague on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ JDMA is a progressive house and techno artist based in Netherlands, tracked on s
 
 RUL3, BORIS BOUNCE, slin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdma/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdma/)*

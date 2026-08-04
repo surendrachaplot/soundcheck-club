@@ -1,6 +1,6 @@
 # xaxalxe
 
-xaxalxe is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
+xaxalxe is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
 
 xaxalxe is an experimental and pop artist based in Belgium, tracked on soundcheck, with 18 sets logged across Brussels, Marseille and Paris. Often billed alongside Bassvictim, Dela Savelli and Kafim. Next up: Ruiterijcomplex, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ xaxalxe is an experimental and pop artist based in Belgium, tracked on soundchec
 
 Bassvictim, Dela Savelli, Kafim
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xaxalxe/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xaxalxe/)*

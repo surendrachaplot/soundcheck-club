@@ -1,6 +1,6 @@
 # FRANÇOIS G
 
-FRANÇOIS G is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Smoot Standard, Boston on Sat, 8 Aug 2026.
+FRANÇOIS G is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Smoot Standard, Boston on Sat, 8 Aug 2026.
 
 FRANÇOIS G is a house and tech house artist based in Brazil, tracked on soundcheck, with 4 sets logged across Boston and Montreal. Often billed alongside DJ Yee. Next up: The Smoot Standard, Boston on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ FRANÇOIS G is a house and tech house artist based in Brazil, tracked on soundch
 
 DJ Yee
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisg/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisg/)*

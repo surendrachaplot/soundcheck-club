@@ -1,6 +1,6 @@
 # Espen Cook
 
-Espen Cook is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Revier Oslo, Oslo on Fri, 7 Aug 2026.
+Espen Cook is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Revier Oslo, Oslo on Fri, 7 Aug 2026.
 
 Espen Cook is a house and techno artist tracked on soundcheck, with 26 sets logged across Hongkong, Oslo, Shenzhen and Tokyo. Often billed alongside Al Jones, arow and Bonnie. Next up: Revier Oslo, Oslo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Espen Cook is a house and techno artist tracked on soundcheck, with 26 sets logg
 
 Al Jones, arow, Bonnie
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espencook/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espencook/)*

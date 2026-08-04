@@ -1,6 +1,6 @@
 # Dong
 
-Dong is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Atdge Seoul, Seoul on Sat, 15 Aug 2026.
+Dong is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Atdge Seoul, Seoul on Sat, 15 Aug 2026.
 
 Dong is a techno and electronica artist based in South Korea, tracked on soundcheck, with 26 sets logged across Berlin, London, Losangeles and Mexicocity and 4 more. Often billed alongside Zeemen, sehee and YOUKU. Next up: Atdge Seoul, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dong is a techno and electronica artist based in South Korea, tracked on soundch
 
 Zeemen, sehee, YOUKU
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dong-kr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dong-kr/)*

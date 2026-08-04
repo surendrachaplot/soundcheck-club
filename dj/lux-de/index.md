@@ -1,6 +1,6 @@
 # Lux.
 
-Lux. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Lux. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Lux. is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Boyá, Phonatic and Sevensol. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lux. is a techno and house artist tracked on soundcheck, with 15 sets logged acr
 
 Boyá, Phonatic, Sevensol
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*

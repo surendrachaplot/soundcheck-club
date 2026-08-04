@@ -1,6 +1,6 @@
 # Sarah Davachi
 
-Sarah Davachi is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at First Congregational Church of Los Angeles, Los Angeles on Thu, 10 Sept 2026.
+Sarah Davachi is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at First Congregational Church of Los Angeles, Los Angeles on Thu, 10 Sept 2026.
 
 Sarah Davachi is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 19 sets logged across Athens, Berlin, Hamburg and London and 8 more. Often billed alongside Justin Carter, Kara-Lis Coverdale and Athenaïs. Next up: First Congregational Church of Los Angeles, Losangeles on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Sarah Davachi is an experimental and ambient artist based in United States of Am
 
 Justin Carter, Kara-Lis Coverdale, Athenaïs
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*

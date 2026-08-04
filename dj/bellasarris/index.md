@@ -1,6 +1,6 @@
 # Bella Sarris
 
-Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Trädgården, Stockholm on Fri, 14 Aug 2026.
+Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Trädgården, Stockholm on Fri, 14 Aug 2026.
 
 Bella Sarris is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside ISAbella, Roza Terenzi and THC. Next up: Trädgården, Stockholm on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Bella Sarris is a house and techno artist tracked on soundcheck, with 73 sets lo
 
 ISAbella, Roza Terenzi, THC
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*

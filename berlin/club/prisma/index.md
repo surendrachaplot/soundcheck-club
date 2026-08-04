@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Klubkneipe x Tuesday Ritual - Female Empowerment Workshop" on Tue, 4 Aug 2026.
+Prisma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Klubkneipe x Tuesday Ritual - Female Empowerment Workshop" on Tue, 4 Aug 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Andi Beat, Benua, Brakata and DJoy and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -23,4 +23,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

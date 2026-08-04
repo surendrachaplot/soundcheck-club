@@ -1,6 +1,6 @@
 # Reza Jalilian
 
-Reza Jalilian is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Reza Jalilian is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
 Reza Jalilian is an electronic artist based in Iran, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Buday, FAUST (1) and Faust (3). Next up: KitKatClub, Berlin on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ Reza Jalilian is an electronic artist based in Iran, tracked on soundcheck, with
 
 Buday, FAUST (1), Faust (3)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rezajalilian/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rezajalilian/)*

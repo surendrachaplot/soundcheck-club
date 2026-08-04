@@ -1,6 +1,6 @@
 # Peter Marks
 
-Peter Marks is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Peter Marks is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Peter Marks is a downtempo and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Portland and Washingtondc. Often billed alongside Aaron Davis, Andy Warren and Black Daria. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Peter Marks is a downtempo and house artist based in United States of America, t
 
 Aaron Davis, Andy Warren, Black Daria
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petermarks/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petermarks/)*

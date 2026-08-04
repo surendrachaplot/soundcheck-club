@@ -1,6 +1,6 @@
 # HeAndMe
 
-HeAndMe is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sala Upload Barcelona, Barcelona on Fri, 7 Aug 2026.
+HeAndMe is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sala Upload Barcelona, Barcelona on Fri, 7 Aug 2026.
 
 HeAndMe is a house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona and Madrid. Often billed alongside Ivan Pugliares, Samm (BE) and ARODES. Next up: Sala Upload Barcelona, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ HeAndMe is a house artist based in Spain, tracked on soundcheck, with 16 sets lo
 
 Ivan Pugliares, Samm (BE), ARODES
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*

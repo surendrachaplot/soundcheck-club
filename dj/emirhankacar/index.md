@@ -1,6 +1,6 @@
 # Emirhan Kacar
 
-Emirhan Kacar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
+Emirhan Kacar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Yan Gastro, Istanbul on Sat, 15 Aug 2026.
 
 Emirhan Kacar is a house and techno artist tracked on soundcheck, with 28 sets logged across Istanbul. Often billed alongside Murat Uncuoglu, FUAT IYICALISKAN and Alican. Next up: Yan Gastro, Istanbul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Emirhan Kacar is a house and techno artist tracked on soundcheck, with 28 sets l
 
 Murat Uncuoglu, FUAT IYICALISKAN, Alican
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emirhankacar/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emirhankacar/)*

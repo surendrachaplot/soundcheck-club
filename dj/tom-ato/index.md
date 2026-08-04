@@ -1,6 +1,6 @@
 # Tom_Ato
 
-Tom_Ato is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Telep Budapest, Budapest on Thu, 6 Aug 2026.
+Tom_Ato is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Telep Budapest, Budapest on Thu, 6 Aug 2026.
 
 Tom_Ato is a trance and acid artist based in Hungary, tracked on soundcheck, with 21 sets logged across Budapest. Often billed alongside Faktor-X, Kvrk and SLYM. Next up: Telep Budapest, Budapest on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Tom_Ato is a trance and acid artist based in Hungary, tracked on soundcheck, wit
 
 Faktor-X, Kvrk, SLYM
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tom-ato/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tom-ato/)*

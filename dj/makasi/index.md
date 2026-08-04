@@ -1,6 +1,6 @@
 # Makasi
 
-Makasi is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Regatta Beach, Antwerp on Sat, 8 Aug 2026.
+Makasi is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Regatta Beach, Antwerp on Sat, 8 Aug 2026.
 
 Makasi is an afro house and house artist based in Belgium, tracked on soundcheck, with 6 sets logged across Antwerp, Bangkok, Brussels and Ghent and 1 more. Often billed alongside Bastin., Belben and BYAS. Next up: Regatta Beach, Antwerp on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Makasi is an afro house and house artist based in Belgium, tracked on soundcheck
 
 Bastin., Belben, BYAS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makasi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makasi/)*

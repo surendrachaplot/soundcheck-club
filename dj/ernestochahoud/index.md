@@ -1,6 +1,6 @@
 # Ernesto Chahoud
 
-Ernesto Chahoud is a Afrobeat and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Grow, London on Fri, 14 Aug 2026.
+Ernesto Chahoud is a Afrobeat and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Grow, London on Fri, 14 Aug 2026.
 
 Ernesto Chahoud is an afrobeat and disco artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, London and Paris. Often billed alongside Natalie Shooter, Beirut Groove Collective and Hamish & Toby. Next up: Grow, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ernesto Chahoud is an afrobeat and disco artist tracked on soundcheck, with 31 s
 
 Natalie Shooter, Beirut Groove Collective, Hamish & Toby
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*

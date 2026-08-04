@@ -1,6 +1,6 @@
 # Kaoru Inoue
 
-Kaoru Inoue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Numm, Tokyo on Sat, 15 Aug 2026.
+Kaoru Inoue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Numm, Tokyo on Sat, 15 Aug 2026.
 
 Kaoru Inoue is a house and techno artist based in Japan, tracked on soundcheck, with 38 sets logged across Kyoto, Mexicocity, Osaka and Tokyo. Often billed alongside CHIDA, SIGNAL (JP) and TAT2K. Next up: Numm, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kaoru Inoue is a house and techno artist based in Japan, tracked on soundcheck, 
 
 CHIDA, SIGNAL (JP), TAT2K
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoruinoue/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoruinoue/)*

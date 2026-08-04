@@ -1,6 +1,6 @@
 # Miles Alexander
 
-Miles Alexander is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Winston On The Water, Philadelphia on Sat, 22 Aug 2026.
+Miles Alexander is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Winston On The Water, Philadelphia on Sat, 22 Aug 2026.
 
 Miles Alexander is a progressive house and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Philadelphia. Often billed alongside Staysis, Mayank and Kobza. Next up: Winston On The Water, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Miles Alexander is a progressive house and house artist based in United States o
 
 Staysis, Mayank, Kobza
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesalexander/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesalexander/)*

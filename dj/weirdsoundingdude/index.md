@@ -1,6 +1,6 @@
 # Weird Sounding Dude
 
-Weird Sounding Dude is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Weird Sounding Dude is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Weird Sounding Dude is a progressive house and techno artist based in India, tracked on soundcheck, with 4 sets logged across Amsterdam and Glasgow. Often billed alongside Miss Dominguez, Not Demure and Rauschhaus. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Weird Sounding Dude is a progressive house and techno artist based in India, tra
 
 Miss Dominguez, Not Demure, Rauschhaus
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weirdsoundingdude/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weirdsoundingdude/)*

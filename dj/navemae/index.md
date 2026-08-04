@@ -1,6 +1,6 @@
 # Nave Mãe
 
-Nave Mãe is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bastet, Philadelphia on Sat, 8 Aug 2026.
+Nave Mãe is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bastet, Philadelphia on Sat, 8 Aug 2026.
 
 Nave Mãe is a house and electronica artist based in Portugal, tracked on soundcheck, with 26 sets logged across Newyorkcity, Philadelphia, Porto and Washingtondc. Often billed alongside Katarina Especial, Jandro and KayLaSoul. Next up: Bastet, Philadelphia on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nave Mãe is a house and electronica artist based in Portugal, tracked on soundc
 
 Katarina Especial, Jandro, KayLaSoul
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navemae/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navemae/)*

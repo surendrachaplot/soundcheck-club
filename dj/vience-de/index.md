@@ -1,6 +1,6 @@
 # Viénce
 
-Viénce is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
+Viénce is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
 
 Viénce is a house and techno artist tracked on soundcheck, with 18 sets logged across Amsterdam and Berlin. Often billed alongside Otal, SELESSA T. and Laurent Lorenzo. Next up: Crack Bellmer, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Viénce is a house and techno artist tracked on soundcheck, with 18 sets logged 
 
 Otal, SELESSA T., Laurent Lorenzo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*

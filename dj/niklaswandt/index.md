@@ -1,6 +1,6 @@
 # Niklas Wandt
 
-Niklas Wandt is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Niklas Wandt is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Niklas Wandt is a house and trance artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Neuzeitliche Bodenbeläge, Olsvangèr and Retromigration. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Niklas Wandt is a house and trance artist based in Germany, tracked on soundchec
 
 Neuzeitliche Bodenbeläge, Olsvangèr, Retromigration
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaswandt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaswandt/)*

@@ -1,6 +1,6 @@
 # Pauly
 
-Pauly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Pauly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 Pauly is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Bristol, Cologne and Frankfurt and 6 more. Often billed alongside Carl Bergé, Maxïm and Talia Dorr. Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Pauly is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Carl Bergé, Maxïm, Talia Dorr
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauly/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauly/)*

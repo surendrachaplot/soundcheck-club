@@ -1,6 +1,6 @@
 # Emma Moon
 
-Emma Moon is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Scoresby Warehouse, Melbourne on Sat, 17 Oct 2026.
+Emma Moon is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Scoresby Warehouse, Melbourne on Sat, 17 Oct 2026.
 
 Emma Moon is a techno and trance artist tracked on soundcheck, with 51 sets logged across Amsterdam, Ghent, Leipzig and Melbourne and 2 more. Often billed alongside Garfie, Pleasant Michelle and 2HOT2PLAY. Next up: Scoresby Warehouse, Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Emma Moon is a techno and trance artist tracked on soundcheck, with 51 sets logg
 
 Garfie, Pleasant Michelle, 2HOT2PLAY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*

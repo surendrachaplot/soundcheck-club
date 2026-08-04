@@ -1,6 +1,6 @@
 # SIBAST
 
-SIBAST is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
+SIBAST is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
 SIBAST is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Hamburg and London and 1 more. Often billed alongside CRYME, ANTHRAZIT and DJ Hyperdrive. Next up: AMT, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SIBAST is a techno and house artist tracked on soundcheck, with 36 sets logged a
 
 CRYME, ANTHRAZIT, DJ Hyperdrive
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sibast/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sibast/)*

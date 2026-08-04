@@ -1,8 +1,8 @@
 # ZAGUN
 
-ZAGUN is a Techno and Psytrance artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Blvck Water, Osaka on Tue, 4 Aug 2026.
+ZAGUN is a Techno and Psytrance artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Blvck Water, Osaka on Tue, 4 Aug 2026.
 
-ZAGUN is a techno and psytrance artist tracked on soundcheck, with 111 sets logged across Osaka and Tokyo. Often billed alongside FENGX2, _goodbyeforever_ and Liza. Next up: Blvck Water, Osaka on Tue 4 Aug.
+ZAGUN is a techno and psytrance artist tracked on soundcheck, with 112 sets logged across Osaka and Tokyo. Often billed alongside FENGX2, _goodbyeforever_ and Liza. Next up: Blvck Water, Osaka on Tue 4 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ ZAGUN is a techno and psytrance artist tracked on soundcheck, with 111 sets logg
 | Wed, 5 Aug 2026 | Blvck Water | Osaka |
 | Fri, 7 Aug 2026 | Blvck Water | Osaka |
 | Sat, 8 Aug 2026 | Blvck Water | Osaka |
+| Fri, 14 Aug 2026 | Joule | Osaka |
 | Sat, 22 Aug 2026 | Blvck Water | Osaka |
 
 ## Recently played
@@ -29,4 +30,4 @@ ZAGUN is a techno and psytrance artist tracked on soundcheck, with 111 sets logg
 
 FENGX2, _goodbyeforever_, Liza
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zagun/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zagun/)*

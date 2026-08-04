@@ -1,6 +1,6 @@
 # Ertug Karakas
 
-Ertug Karakas is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Madam, Amsterdam on Fri, 21 Aug 2026.
+Ertug Karakas is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Madam, Amsterdam on Fri, 21 Aug 2026.
 
 Ertug Karakas is a techno and progressive house artist based in Turkey, tracked on soundcheck, with 12 sets logged across Amsterdam, Istanbul and Malta. Often billed alongside BUSSI, Fratello and Jadeite. Next up: Madam, Amsterdam on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Ertug Karakas is a techno and progressive house artist based in Turkey, tracked 
 
 BUSSI, Fratello, Jadeite
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ertugkarakas/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ertugkarakas/)*

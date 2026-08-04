@@ -1,6 +1,6 @@
 # PAU (6)
 
-PAU (6) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+PAU (6) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
 
 PAU (6) is a techno and trance artist tracked on soundcheck, with 34 sets logged across Berlin, Frankfurt, Munich and Paris and 1 more. Often billed alongside Polytoxic, DJ Cringey and Lenny Fuck. Next up: Renate, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ PAU (6) is a techno and trance artist tracked on soundcheck, with 34 sets logged
 
 Polytoxic, DJ Cringey, Lenny Fuck
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*

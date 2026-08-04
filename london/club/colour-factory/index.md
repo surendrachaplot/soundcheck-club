@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Club Voices Radio x Colour Factory: A Club Friendly Free Party (Femme Special)" on Fri, 7 Aug 2026.
+Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Club Voices Radio x Colour Factory: A Club Friendly Free Party (Femme Special)" on Fri, 7 Aug 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Andrea Giudice, Brown Excellence, Cable! and CHEZA LUCINA and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nigh
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

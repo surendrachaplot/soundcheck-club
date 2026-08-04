@@ -1,6 +1,6 @@
 # &ME
 
-&ME is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Finsbury Park, London on Sun, 9 Aug 2026.
+&ME is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Finsbury Park, London on Sun, 9 Aug 2026.
 
 &ME is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Finsbury Park, London on Sun 9 Aug.
 
@@ -31,4 +31,4 @@
 
 Rampa, Adam Port, Sossa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

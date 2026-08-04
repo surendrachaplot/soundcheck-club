@@ -1,6 +1,6 @@
 # Cinquedea
 
-Cinquedea is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
+Cinquedea is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
 
 Cinquedea is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Birmingham, Bristol, Cork and Dublin and 2 more. Often billed alongside DAVE the Drummer, Hamaton3 and B.S.E. Next up: Lost Horizon, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cinquedea is a techno and hardcore artist tracked on soundcheck, with 14 sets lo
 
 DAVE the Drummer, Hamaton3, B.S.E
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinquedea/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinquedea/)*

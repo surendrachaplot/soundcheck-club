@@ -1,6 +1,6 @@
 # Reka
 
-Reka is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Astron Club, Athens on Sat, 8 Aug 2026.
+Reka is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Astron Club, Athens on Sat, 8 Aug 2026.
 
 Reka is a techno and ebm artist based in Spain, tracked on soundcheck, with 40 sets logged across Athens, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Phase Fatale, Unhuman and Bloody Mary. Next up: Astron Club, Athens on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Reka is a techno and ebm artist based in Spain, tracked on soundcheck, with 40 s
 
 Phase Fatale, Unhuman, Bloody Mary
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*

@@ -1,6 +1,6 @@
 # Ugo Banchi
 
-Ugo Banchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
+Ugo Banchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
 
 Ugo Banchi is a house and techno artist tracked on soundcheck, with 22 sets logged across Austin, Barcelona, Bristol and Chicago and 8 more. Often billed alongside Max Styler, Gorgon City and Mathame. Next up: Elsewhere, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ugo Banchi is a house and techno artist tracked on soundcheck, with 22 sets logg
 
 Max Styler, Gorgon City, Mathame
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ugobanchi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ugobanchi/)*

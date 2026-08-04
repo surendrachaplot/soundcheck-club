@@ -1,6 +1,6 @@
 # MAD Beats
 
-MAD Beats is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Off The Square, Manchester on Sat, 8 Aug 2026.
+MAD Beats is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Off The Square, Manchester on Sat, 8 Aug 2026.
 
 MAD Beats is a tech house and techno artist tracked on soundcheck, with 17 sets logged across Amsterdam and Manchester. Often billed alongside Shumbo Jebang, Chael-UK and Mat Matthews. Next up: Off The Square, Manchester on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ MAD Beats is a tech house and techno artist tracked on soundcheck, with 17 sets 
 
 Shumbo Jebang, Chael-UK, Mat Matthews
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madbeats/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madbeats/)*

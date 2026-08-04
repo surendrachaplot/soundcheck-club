@@ -1,14 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 38 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Cheeky Monday: Silvahfonk" on Mon, 3 Aug 2026.
+Melkweg is a music venue in Amsterdam with 37 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM" on Tue, 4 Aug 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 38 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, _hiø and Alexa Strange and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 37 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, _hiø and Alexa Strange and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | Cheeky Monday: Silvahfonk | Silvahfonk |
 | Tue, 4 Aug 2026 | Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM | Dexon, Jayzo, MONORITAM |
 | Thu, 6 Aug 2026 | Heated Rivalrave | The Heartbreaks |
 | Fri, 7 Aug 2026 | Striptopia - Club Chrome | Alma Negrot, Asphodèle, DJ Westfa, Shaw Cain, Tida Kamara |
@@ -18,9 +17,10 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 38 upcoming nights, 
 | Tue, 11 Aug 2026 | Techno Tuesday Amsterdam, Alexa Strange, Dexon, A.R.T | A.R.T., Alexa Strange, Dexon |
 | Mon, 17 Aug 2026 | Cheeky Monday: Natty Lou | Insom |
 | Tue, 18 Aug 2026 | Techno Tuesday Amsterdam, Dexon, CHAFA, Alix | CHAFA, Dexon |
+| Fri, 21 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

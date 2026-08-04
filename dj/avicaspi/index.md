@@ -1,6 +1,6 @@
 # Avi Caspi
 
-Avi Caspi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Halle, Berlin on Fri, 11 Sept 2026.
+Avi Caspi is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Halle, Berlin on Fri, 11 Sept 2026.
 
 Avi Caspi is an electronic artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Ila Moire, Izumi Yamamoto and Melancholia Metamorphosis. Next up: Halle, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Avi Caspi is an electronic artist tracked on soundcheck, with 15 sets logged acr
 
 Ila Moire, Izumi Yamamoto, Melancholia Metamorphosis
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avicaspi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avicaspi/)*

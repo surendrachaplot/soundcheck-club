@@ -1,6 +1,6 @@
 # Trafic MC
 
-Trafic MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Clock Factory, Bristol on Sat, 29 Aug 2026.
+Trafic MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Clock Factory, Bristol on Sat, 29 Aug 2026.
 
 Trafic MC is a drum & bass and jungle artist tracked on soundcheck, with 27 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Crossy, Aries and Carasel. Next up: The Clock Factory, Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Trafic MC is a drum & bass and jungle artist tracked on soundcheck, with 27 sets
 
 Crossy, Aries, Carasel
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*

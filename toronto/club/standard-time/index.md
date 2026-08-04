@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Daphni OPEN-CLOSE NIGHT 2" on Thu, 6 Aug 2026.
+Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Daphni OPEN-CLOSE NIGHT 2" on Thu, 6 Aug 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Benski, Benski (CA), Dameer and Daphni and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

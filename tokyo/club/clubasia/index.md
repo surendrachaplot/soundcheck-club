@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Party Hard Tuesday" on Tue, 4 Aug 2026.
+clubasia is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Party Hard Tuesday" on Tue, 4 Aug 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including 5harpy, AMANE, Bonnie and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -23,4 +23,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, wit
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

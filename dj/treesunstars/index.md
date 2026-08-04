@@ -1,6 +1,6 @@
 # treesunstars
 
-treesunstars is a Progressive House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+treesunstars is a Progressive House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 treesunstars is a progressive house and minimal techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside 1ol1v1a, COVE(US) and Cow Tools. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ treesunstars is a progressive house and minimal techno artist based in United St
 
 1ol1v1a, COVE(US), Cow Tools
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treesunstars/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treesunstars/)*

@@ -1,6 +1,6 @@
 # DA SEYKO
 
-DA SEYKO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+DA SEYKO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
 DA SEYKO is a techno and house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Utrecht. Often billed alongside TheKoosy, ArioVistus and Belocca. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ DA SEYKO is a techno and house artist based in Netherlands, tracked on soundchec
 
 TheKoosy, ArioVistus, Belocca
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daseyko/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daseyko/)*

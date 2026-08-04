@@ -1,6 +1,6 @@
 # Azyr
 
-Azyr is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 9 Aug 2026.
+Azyr is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Azyr is a techno and house artist tracked on soundcheck, with 221 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Hï Ibiza, Ibiza on Sun 9 Aug.
 
@@ -32,4 +32,4 @@ Azyr is a techno and house artist tracked on soundcheck, with 221 sets logged ac
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

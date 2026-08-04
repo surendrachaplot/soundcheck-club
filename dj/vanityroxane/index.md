@@ -1,6 +1,6 @@
 # Vanity Roxane
 
-Vanity Roxane is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Vanity Roxane is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Vanity Roxane is a drum & bass and dubstep artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, London and Utrecht. Often billed alongside MC Fox, Brutuzz and Lenzman. Next up: The Cause, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Vanity Roxane is a drum & bass and dubstep artist based in Netherlands, tracked 
 
 MC Fox, Brutuzz, Lenzman
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanityroxane/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanityroxane/)*

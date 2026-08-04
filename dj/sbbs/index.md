@@ -1,6 +1,6 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+SBBS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 SBBS is a techno and tech house artist tracked on soundcheck, with 21 sets logged across Brighton, London and Mexicocity. Often billed alongside Varanasi, DELARA and Modlar. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SBBS is a techno and tech house artist tracked on soundcheck, with 21 sets logge
 
 Varanasi, DELARA, Modlar
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

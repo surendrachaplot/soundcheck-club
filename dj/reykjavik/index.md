@@ -1,6 +1,6 @@
 # Rey&Kjavik
 
-Rey&Kjavik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
+Rey&Kjavik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
 
 Rey&Kjavik is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Frankfurt, Geneva and Hamburg and 9 more. Often billed alongside Barseghian, Dominik Eulberg and Glani. Next up: Phoxxi Green Area, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rey&Kjavik is a techno and house artist based in Germany, tracked on soundcheck,
 
 Barseghian, Dominik Eulberg, Glani
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reykjavik/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reykjavik/)*

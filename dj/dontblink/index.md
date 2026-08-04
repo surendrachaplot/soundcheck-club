@@ -1,6 +1,6 @@
 # DONT BLINK
 
-DONT BLINK is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Twenty One , Leipzig on Fri, 7 Aug 2026.
+DONT BLINK is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Twenty One , Leipzig on Fri, 7 Aug 2026.
 
 DONT BLINK is a tech house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Bangkok, Berlin and Frankfurt and 10 more. Often billed alongside Jil Tanner, Juliet Sikora and LOVRA. Next up: TBA - Twenty One , Leipzig on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ DONT BLINK is a tech house and techno artist tracked on soundcheck, with 20 sets
 
 Jil Tanner, Juliet Sikora, LOVRA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*

@@ -1,6 +1,6 @@
 # ALEX WANG
 
-ALEX WANG is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
+ALEX WANG is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
 
 ALEX WANG is an experimental and bass artist based in China, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg and Milan. Often billed alongside TRYCE, YUI (4) and Anh Phi. Next up: Panke, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ALEX WANG is an experimental and bass artist based in China, tracked on soundche
 
 TRYCE, YUI (4), Anh Phi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwang/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwang/)*

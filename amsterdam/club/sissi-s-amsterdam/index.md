@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Sissi's Friday with Job de Jong, NIV, INA & Fanny" on Fri, 7 Aug 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Sissi's Friday with Job de Jong, NIV, INA & Fanny" on Fri, 7 Aug 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Benny2, Boris Coelman, DJ Split and Doppelgang and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

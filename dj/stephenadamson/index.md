@@ -1,6 +1,6 @@
 # Stephen Adamson
 
-Stephen Adamson is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
+Stephen Adamson is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
 
 Stephen Adamson is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Glasgow and London. Often billed alongside Boxer, Grum and Kyau & Albert. Next up: Saint Judes, Glasgow on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Stephen Adamson is a progressive house and trance artist based in United Kingdom
 
 Boxer, Grum, Kyau & Albert
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenadamson/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenadamson/)*

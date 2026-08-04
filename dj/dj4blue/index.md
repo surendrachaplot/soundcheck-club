@@ -1,14 +1,15 @@
 # DJ4BLUE
 
-DJ4BLUE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Various Venues, Ibiza on Mon, 10 Aug 2026.
+DJ4BLUE is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Various Venues Ibiza, Ibiza on Mon, 10 Aug 2026.
 
-DJ4BLUE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Ibiza and London. Often billed alongside CARO (3), DJ LIL-E and JFOX. Next up: TBA - Various Venues, Ibiza on Mon 10 Aug.
+DJ4BLUE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Ibiza and London. Often billed alongside CARO (3), DJ LIL-E and JFOX. Next up: TBA - Various Venues Ibiza, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 10 Aug 2026 | TBA - Various Venues | Ibiza |
+| Mon, 10 Aug 2026 | TBA - Various Venues Ibiza | Ibiza |
+| Thu, 13 Aug 2026 | Ibiza Jet | Ibiza |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ4BLUE is a tech house and house artist based in United Kingdom, tracked on sou
 
 CARO (3), DJ LIL-E, JFOX
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj4blue/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj4blue/)*

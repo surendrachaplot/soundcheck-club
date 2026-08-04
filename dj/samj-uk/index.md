@@ -1,6 +1,6 @@
 # Sam J
 
-Sam J is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sensorium, Berlin on Wed, 26 Aug 2026.
+Sam J is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Wed, 26 Aug 2026.
 
 Sam J is a techno and electro artist tracked on soundcheck, with 21 sets logged across Berlin and Sheffield. Often billed alongside Torque (2), Harrison (UK) and Linnemann. Next up: Sensorium, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Sam J is a techno and electro artist tracked on soundcheck, with 21 sets logged 
 
 Torque (2), Harrison (UK), Linnemann
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samj-uk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samj-uk/)*

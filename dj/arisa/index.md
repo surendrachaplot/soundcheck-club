@@ -1,6 +1,6 @@
 # ARISA
 
-ARISA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Dusty Vinyl, Los Angeles on Fri, 7 Aug 2026.
+ARISA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Dusty Vinyl, Los Angeles on Fri, 7 Aug 2026.
 
 ARISA is a house and techno artist based in Japan, tracked on soundcheck, with 19 sets logged across Losangeles, Rome and Tokyo. Often billed alongside SIGNAL (JP), Gewnky and cosmolady. Next up: Dusty Vinyl, Losangeles on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ ARISA is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 SIGNAL (JP), Gewnky, cosmolady
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arisa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arisa/)*

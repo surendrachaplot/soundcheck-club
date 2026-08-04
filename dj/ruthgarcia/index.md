@@ -1,6 +1,6 @@
 # Ruth García
 
-Ruth García is a Electro and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Doggy Klœb, Malaga on Sat, 8 Aug 2026.
+Ruth García is a Electro and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Doggy Klœb, Malaga on Sat, 8 Aug 2026.
 
 Ruth García is an electro and post-punk artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin and Malaga. Often billed alongside Annechoic, Yoshi (DE) and ZFK (1). Next up: Doggy Klœb, Malaga on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Ruth García is an electro and post-punk artist based in Spain, tracked on sound
 
 Annechoic, Yoshi (DE), ZFK (1)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruthgarcia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruthgarcia/)*

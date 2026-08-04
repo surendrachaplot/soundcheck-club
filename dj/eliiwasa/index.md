@@ -1,6 +1,6 @@
 # Eli Iwasa
 
-Eli Iwasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Sao Paulo on Sat, 22 Aug 2026.
+Eli Iwasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Sao Paulo on Sat, 22 Aug 2026.
 
 Eli Iwasa is a house and techno artist tracked on soundcheck, with 56 sets logged across Bali, Barcelona, Dublin and Ibiza and 6 more. Often billed alongside L_cio, DJ DUE and From House to Disco. Next up: TBA, Saopaulo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Eli Iwasa is a house and techno artist tracked on soundcheck, with 56 sets logge
 
 L_cio, DJ DUE, From House to Disco
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*

@@ -1,6 +1,6 @@
 # Saliv8
 
-Saliv8 is a Garage and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at OHM Town, Nantes on Sat, 29 Aug 2026.
+Saliv8 is a Garage and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OHM Town, Nantes on Sat, 29 Aug 2026.
 
 Saliv8 is a garage and dub techno artist tracked on soundcheck, with 2 sets logged across Nantes and Sydney. Often billed alongside Bella Bella, Bouki and Discostouf. Next up: OHM Town, Nantes on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Saliv8 is a garage and dub techno artist tracked on soundcheck, with 2 sets logg
 
 Bella Bella, Bouki, Discostouf
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saliv8/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saliv8/)*

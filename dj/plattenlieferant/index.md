@@ -1,6 +1,6 @@
 # Plattenlieferant
 
-Plattenlieferant is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Humboldthain Club, Berlin on Sat, 12 Sept 2026.
+Plattenlieferant is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Humboldthain Club, Berlin on Sat, 12 Sept 2026.
 
 Plattenlieferant is a trance and techno artist tracked on soundcheck, with 44 sets logged across Basel, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside DJ Sweedee, DJ TIPSTER and HØLLE (2). Next up: Humboldthain Club, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Plattenlieferant is a trance and techno artist tracked on soundcheck, with 44 se
 
 DJ Sweedee, DJ TIPSTER, HØLLE (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plattenlieferant/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plattenlieferant/)*

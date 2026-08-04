@@ -1,6 +1,6 @@
 # Les The DJ
 
-Les The DJ is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Lucky Danger Chinatown, Washington DC on Fri, 14 Aug 2026.
+Les The DJ is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Lucky Danger Chinatown, Washington DC on Fri, 14 Aug 2026.
 
 Les The DJ is a funk / soul and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Miami, Seoul and Washingtondc. Often billed alongside Martín Miguel, FREDY J and Diyanna Monet. Next up: TBA - Lucky Danger Chinatown, Washingtondc on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Les The DJ is a funk / soul and disco artist based in United States of America, 
 
 Martín Miguel, FREDY J, Diyanna Monet
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lesthedj/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lesthedj/)*

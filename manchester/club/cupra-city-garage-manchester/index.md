@@ -1,6 +1,6 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "CUPRA FM x SHADEV presents with Sir Spyro - FREE Tickets" on Fri, 21 Aug 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "CUPRA FM x SHADEV presents with Sir Spyro - FREE Tickets" on Fri, 21 Aug 2026.
 
 Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including imad:re, SHADEV and Sir Spyro. Browse upcoming dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
@@ -15,4 +15,4 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

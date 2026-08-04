@@ -1,6 +1,6 @@
 # secret luvvr
 
-secret luvvr is a Dub and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+secret luvvr is a Dub and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 secret luvvr is a dub and afro tech artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Mellowdramatics, GUREY and LO-LOW. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ secret luvvr is a dub and afro tech artist tracked on soundcheck, with 12 sets l
 
 Mellowdramatics, GUREY, LO-LOW
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretluvvr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretluvvr/)*

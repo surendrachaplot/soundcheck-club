@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Microrave: ELIXAR (Free - All Night Long)" on Tue, 4 Aug 2026.
+Le Red Room is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Microrave: ELIXAR (Free - All Night Long)" on Tue, 4 Aug 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Anomia, AYMÉ, DJ Pacifier and Exploit and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -23,4 +23,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 17 upcoming night
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

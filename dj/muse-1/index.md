@@ -1,6 +1,6 @@
 # Muse (1)
 
-Muse (1) is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Live Haus, Tokyo on Fri, 7 Aug 2026.
+Muse (1) is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Live Haus, Tokyo on Fri, 7 Aug 2026.
 
 Muse (1) is a techno and jazz artist based in United States of America, tracked on soundcheck, with 8 sets logged across Cologne and Tokyo. Often billed alongside 5harpy, AMBAM and DJ B2B. Next up: Live Haus, Tokyo on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Muse (1) is a techno and jazz artist based in United States of America, tracked 
 
 5harpy, AMBAM, DJ B2B
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muse-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muse-1/)*

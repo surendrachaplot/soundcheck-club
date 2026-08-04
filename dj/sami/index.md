@@ -1,6 +1,6 @@
 # Sami
 
-Sami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
+Sami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at SILO, New York City on Thu, 20 Aug 2026.
 
 Sami is a techno and house artist tracked on soundcheck, with 23 sets logged across Aberdeen, Barcelona, Berlin and Frankfurt and 7 more. Often billed alongside Šikšna, Sam Valle and Alessandro Giustiniani. Next up: SILO, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Sami is a techno and house artist tracked on soundcheck, with 23 sets logged acr
 
 Šikšna, Sam Valle, Alessandro Giustiniani
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sami/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sami/)*

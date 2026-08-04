@@ -1,6 +1,6 @@
 # 4KitSake
 
-4KitSake is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
+4KitSake is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
 
 4KitSake is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside Darkcore Truth, eurokels and Angel Cake. Next up: Stereo, Glasgow on Thu 3 Sept.
 
@@ -21,4 +21,4 @@
 
 Darkcore Truth, eurokels, Angel Cake
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4kitsake/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4kitsake/)*

@@ -1,6 +1,6 @@
 # Lee's Palace
 
-Lee's Palace is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "LUCID HOURS" on Sat, 15 Aug 2026.
+Lee's Palace is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "LUCID HOURS" on Sat, 15 Aug 2026.
 
 Lee's Palace is a music venue in Toronto listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada.
 
@@ -15,4 +15,4 @@ Lee's Palace is a music venue in Toronto listed on soundcheck. 2 upcoming nights
 
 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada, Toronto
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*

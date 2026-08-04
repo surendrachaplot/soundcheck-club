@@ -1,6 +1,6 @@
 # Mason Talbot
 
-Mason Talbot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
+Mason Talbot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distrikt, Leeds on Sat, 22 Aug 2026.
 
 Mason Talbot is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Birmingham, Leeds, Liverpool and London and 1 more. Often billed alongside Nausy, Finn Eden and Locky. Next up: Distrikt, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mason Talbot is a house and tech house artist based in United Kingdom, tracked o
 
 Nausy, Finn Eden, Locky
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masontalbot/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masontalbot/)*

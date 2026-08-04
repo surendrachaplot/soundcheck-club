@@ -1,6 +1,6 @@
 # Dev/Null
 
-Dev/Null is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Old Blue Last, London on Sat, 8 Aug 2026.
+Dev/Null is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Old Blue Last, London on Sat, 8 Aug 2026.
 
 Dev/Null is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 26 sets logged across Antwerp, Boston, Bristol and London and 8 more. Often billed alongside Tim Reaper, Dwarde and Equinox (UK). Next up: The Old Blue Last, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dev/Null is a jungle and drum & bass artist based in United States of America, t
 
 Tim Reaper, Dwarde, Equinox (UK)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devnull/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devnull/)*

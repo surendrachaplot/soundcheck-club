@@ -1,6 +1,6 @@
 # TBA
 
-TBA is a music venue in London with 250 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Soundgarden x sundance albania" on Mon, 3 Aug 2026.
+TBA is a music venue in London with 250 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Levi - Mykonos Residency 2026" on Wed, 5 Aug 2026.
 
 TBA is a music venue in London listed on soundcheck. 250 upcoming nights, with line-ups including 2M (CH), 3 Minds, 619! and 666.pastel and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -8,7 +8,6 @@ TBA is a music venue in London listed on soundcheck. 250 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | Soundgarden x sundance albania |  |
 | Wed, 5 Aug 2026 | Levi - Mykonos Residency 2026 | Levi (AU) |
 | Thu, 6 Aug 2026 | [CANCELLED] |  |
 | Fri, 7 Aug 2026 | 3000Grad Festival | WOODKIN |
@@ -18,5 +17,6 @@ TBA is a music venue in London listed on soundcheck. 250 upcoming nights, with l
 | Fri, 7 Aug 2026 | Copa Connection X Badassery (Secret Location) | Gaspar Muniz, Paco Cabana |
 | Fri, 7 Aug 2026 | 333 House x Golden Record | Auphoria, LYDO, Mitrimar, Rana Iravani |
 | Fri, 7 Aug 2026 | Zenith all night Long | Zenith |
+| Fri, 7 Aug 2026 | VUIET PREPARTY w/SECRET GUEST,CETĂȚEANU,SERGIU | Cetateanu |
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

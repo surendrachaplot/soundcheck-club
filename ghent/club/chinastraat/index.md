@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Hospital 30" on Sat, 8 Aug 2026.
+Chinastraat is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Hospital 30" on Sat, 8 Aug 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with line-ups including Amalie, CVNSUMED, DLR and Dub Head and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -17,4 +17,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming nights, w
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

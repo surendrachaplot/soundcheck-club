@@ -1,6 +1,6 @@
 # Jackit
 
-Jackit is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+Jackit is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 Jackit is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Jackit is a drum & bass and bass artist based in Japan, tracked on soundcheck, w
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackit/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackit/)*

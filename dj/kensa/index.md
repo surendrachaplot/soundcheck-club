@@ -1,6 +1,6 @@
 # Kensa
 
-Kensa is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
+Kensa is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
 
 Kensa is an electro and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Boston and Brussels and 7 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Starlane Pizza Bar, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kensa is an electro and house artist based in United Kingdom, tracked on soundch
 
 Nicky Macha, Timoti, Jayar
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*

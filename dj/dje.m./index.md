@@ -1,6 +1,6 @@
 # DJ E.M.
 
-DJ E.M. is a Latin Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Comic Strip (Comic Strip Live), New York City on Fri, 7 Aug 2026.
+DJ E.M. is a Latin Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Comic Strip (Comic Strip Live), New York City on Fri, 7 Aug 2026.
 
 DJ E.M. is a latin bass and hip-hop artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Junior O. Next up: The Comic Strip (Comic Strip Live), Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ E.M. is a latin bass and hip-hop artist based in United States of America, tr
 
 Junior O
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*

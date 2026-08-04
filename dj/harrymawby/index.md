@@ -1,6 +1,6 @@
 # Harry Mawby
 
-Harry Mawby is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Glasgow on Sat, 8 Aug 2026.
+Harry Mawby is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Glasgow on Sat, 8 Aug 2026.
 
 Harry Mawby is a techno and dub techno artist tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside DJ Greenman, KAAI and Kairogen. Next up: TBA, Glasgow on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Harry Mawby is a techno and dub techno artist tracked on soundcheck, with 5 sets
 
 DJ Greenman, KAAI, Kairogen
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymawby/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymawby/)*

@@ -1,6 +1,6 @@
 # DJANE KARMA
 
-DJANE KARMA is a Afro House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at City Hall, Barcelona on Fri, 7 Aug 2026.
+DJANE KARMA is a Afro House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at City Hall, Barcelona on Fri, 7 Aug 2026.
 
 DJANE KARMA is an afro house and electro artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside VITU, Chica Acosta and DJ ADAMM. Next up: City Hall, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJANE KARMA is an afro house and electro artist based in Spain, tracked on sound
 
 VITU, Chica Acosta, DJ ADAMM
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanekarma/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanekarma/)*

@@ -1,6 +1,6 @@
 # Leenie
 
-Leenie is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
+Leenie is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
 
 Leenie is a techno and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Denver, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside ethernetspirit, Alex Whittier and RITCHRD. Next up: Mood Ring, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Leenie is a techno and club artist based in United States of America, tracked on
 
 ethernetspirit, Alex Whittier, RITCHRD
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leenie/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leenie/)*

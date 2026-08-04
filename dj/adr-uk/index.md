@@ -1,6 +1,6 @@
 # ADR (UK)
 
-ADR (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+ADR (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
 ADR (UK) is a house and garage artist tracked on soundcheck, with 20 sets logged across Barcelona, Brighton, Leeds and London and 2 more. Often billed alongside OUTTEN, jWave and AZAAD. Next up: 93 Feet East, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ADR (UK) is a house and garage artist tracked on soundcheck, with 20 sets logged
 
 OUTTEN, jWave, AZAAD
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adr-uk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adr-uk/)*

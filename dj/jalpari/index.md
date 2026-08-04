@@ -1,6 +1,6 @@
 # Jalpari
 
-Jalpari is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
+Jalpari is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
 
 Jalpari is a techno and experimental artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside LTE (1), Petal and Anthorp. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Jalpari is a techno and experimental artist tracked on soundcheck, with 21 sets 
 
 LTE (1), Petal, Anthorp
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalpari/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalpari/)*

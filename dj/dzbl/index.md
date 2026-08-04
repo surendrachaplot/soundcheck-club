@@ -1,6 +1,6 @@
 # DZBL
 
-DZBL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Absturz, Leipzig on Fri, 7 Aug 2026.
+DZBL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Absturz, Leipzig on Fri, 7 Aug 2026.
 
 DZBL is a techno and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Leipzig. Often billed alongside Timstagram, EinfachWinter and KETA PERRY. Next up: Absturz, Leipzig on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DZBL is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Timstagram, EinfachWinter, KETA PERRY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dzbl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dzbl/)*

@@ -1,6 +1,6 @@
 # acidheaven
 
-acidheaven is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
+acidheaven is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
 
 acidheaven is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 5 more. Often billed alongside ISAbella, Chico Blanco and Albal. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ acidheaven is a house and techno artist tracked on soundcheck, with 78 sets logg
 
 ISAbella, Chico Blanco, Albal
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*

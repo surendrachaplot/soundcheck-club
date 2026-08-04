@@ -1,6 +1,6 @@
 # Twin Complex
 
-Twin Complex is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Altogether Otherwise, Manchester on Thu, 6 Aug 2026.
+Twin Complex is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Altogether Otherwise, Manchester on Thu, 6 Aug 2026.
 
 Twin Complex is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Bristol, Manchester and Newcastle. Often billed alongside Galgish, Kalani and Ned Blanders. Next up: Altogether Otherwise, Manchester on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Twin Complex is an experimental and electronica artist based in United Kingdom, 
 
 Galgish, Kalani, Ned Blanders
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twincomplex/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twincomplex/)*

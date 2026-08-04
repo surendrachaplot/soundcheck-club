@@ -1,6 +1,6 @@
 # Studio Stereo
 
-Studio Stereo is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Studio Stereo pres. Haus Of Beat showcase (until 3am)" on Thu, 6 Aug 2026.
+Studio Stereo is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Studio Stereo pres. Haus Of Beat showcase (until 3am)" on Thu, 6 Aug 2026.
 
 Studio Stereo is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including A. CASANOVA, Adria (ES), Alessio Panasiti and ALOT and 2 more. Browse upcoming dates, start times and who's playing. 08007.
 
@@ -23,4 +23,4 @@ Studio Stereo is a music venue in Barcelona listed on soundcheck. 24 upcoming ni
 
 08007, Barcelona
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/studio-stereo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/studio-stereo/)*

@@ -1,6 +1,6 @@
 # To The End.
 
-To The End. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
+To The End. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
 
 To The End. is a club and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Geneva and Newyorkcity. Often billed alongside DJ ing, Brant Wolff and Mozn. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ To The End. is a club and house artist based in United States of America, tracke
 
 DJ ing, Brant Wolff, Mozn
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totheend./)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totheend./)*

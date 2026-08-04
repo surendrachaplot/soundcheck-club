@@ -1,6 +1,6 @@
 # KiNK
 
-KiNK is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Nitsa Club, Barcelona on Sat, 15 Aug 2026.
+KiNK is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Nitsa Club, Barcelona on Sat, 15 Aug 2026.
 
 KiNK is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 44 more. Often billed alongside Raredub, FJAAK and Elli Acula. Next up: Nitsa Club, Barcelona on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ KiNK is a techno and house artist tracked on soundcheck, with 169 sets logged ac
 
 Raredub, FJAAK, Elli Acula
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*

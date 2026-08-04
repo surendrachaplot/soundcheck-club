@@ -1,6 +1,6 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 10 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Skin On Skin, Fatuma, L-Roy" on Thu, 6 Aug 2026.
+Trädgården is a music venue in Stockholm with 10 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Skin On Skin, Fatuma, L-Roy" on Thu, 6 Aug 2026.
 
 Trädgården is a music venue in Stockholm listed on soundcheck. 10 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -23,4 +23,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 10 upcoming nig
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

@@ -1,6 +1,6 @@
 # Loco (IT)
 
-Loco (IT) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sensorium, Berlin on Sun, 9 Aug 2026.
+Loco (IT) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Sun, 9 Aug 2026.
 
 Loco (IT) is a tech house and techno artist based in Italy, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Krakow and Milan and 1 more. Often billed alongside DJ Hype, DJ Phantasy and Dougal. Next up: Sensorium, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Loco (IT) is a tech house and techno artist based in Italy, tracked on soundchec
 
 DJ Hype, DJ Phantasy, Dougal
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locoit/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locoit/)*

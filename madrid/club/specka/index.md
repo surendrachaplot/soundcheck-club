@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Macro y Suppa + Nay RPK y Nick BB I LlorandoLana - Specka Live" on Sat, 12 Sept 2026.
+Specka is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Macro y Suppa + Nay RPK y Nick BB I LlorandoLana - Specka Live" on Sat, 12 Sept 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Anthony Rother, Brody (2), David Ponziano and Erik Luebs and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -18,4 +18,4 @@ Specka is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with 
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

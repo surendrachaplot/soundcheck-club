@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DE DANSVLOER / LYLO" on Thu, 6 Aug 2026.
+NAR is a music venue in Utrecht with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "DE DANSVLOER / LYLO" on Thu, 6 Aug 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 3 upcoming nights, with line-ups including Coco Coquelicot, David Vunk, Doppelgang and Gerd Janson and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -16,4 +16,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 3 upcoming nights, with li
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

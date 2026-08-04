@@ -1,6 +1,6 @@
 # ARRA
 
-ARRA is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at House of Noa, Amsterdam on Thu, 6 Aug 2026.
+ARRA is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at House of Noa, Amsterdam on Thu, 6 Aug 2026.
 
 ARRA is a techno and afro house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Newyorkcity. Often billed alongside LYZZA, Melis Köke and Slimfit. Next up: House of Noa, Amsterdam on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ ARRA is a techno and afro house artist based in Netherlands, tracked on soundche
 
 LYZZA, Melis Köke, Slimfit
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arra/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arra/)*

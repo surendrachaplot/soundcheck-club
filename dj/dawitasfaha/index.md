@@ -1,6 +1,6 @@
 # Dawit Asfaha
 
-Dawit Asfaha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
+Dawit Asfaha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
 
 Dawit Asfaha is a house and techno artist tracked on soundcheck, with 17 sets logged across Frankfurt. Often billed alongside SAFA, Alarico and Jenne. Next up: Tokonoma Club, Frankfurt on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dawit Asfaha is a house and techno artist tracked on soundcheck, with 17 sets lo
 
 SAFA, Alarico, Jenne
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawitasfaha/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawitasfaha/)*

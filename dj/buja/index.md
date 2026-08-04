@@ -1,6 +1,6 @@
 # Buja
 
-Buja is a Techno and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Buja is a Techno and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Buja is a techno and amapiano artist based in Denmark, tracked on soundcheck, with 15 sets logged across Copenhagen and Seoul. Often billed alongside Ruth Belai, Sound and Fury and CAYOOTEE. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Buja is a techno and amapiano artist based in Denmark, tracked on soundcheck, wi
 
 Ruth Belai, Sound and Fury, CAYOOTEE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buja/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buja/)*

@@ -1,6 +1,6 @@
 # Solaris
 
-Solaris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Area51 / 17map Minami, Osaka on Wed, 12 Aug 2026.
+Solaris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Area51 / 17map Minami, Osaka on Wed, 12 Aug 2026.
 
 Solaris is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Birmingham, Cologne and Leipzig and 3 more. Often billed alongside NAOKI, Jerry and Juni. Next up: Area51 / 17map Minami, Osaka on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Solaris is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 NAOKI, Jerry, Juni
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solaris/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solaris/)*

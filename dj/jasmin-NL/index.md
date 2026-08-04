@@ -1,6 +1,6 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+Jasmín is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 Jasmín is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jasmín is a techno and house artist tracked on soundcheck, with 104 sets logged
 
 mad miran, Fafi Abdel Nour, Nèna
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

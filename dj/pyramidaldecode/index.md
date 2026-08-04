@@ -1,6 +1,6 @@
 # Pyramidal Decode
 
-Pyramidal Decode is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Moog Club, Barcelona on Wed, 5 Aug 2026.
+Pyramidal Decode is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Moog Club, Barcelona on Wed, 5 Aug 2026.
 
 Pyramidal Decode is a techno and club artist based in Italy, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Unkle Fon, Irazu and Audiolux. Next up: Moog Club, Barcelona on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Pyramidal Decode is a techno and club artist based in Italy, tracked on soundche
 
 Unkle Fon, Irazu, Audiolux
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramidaldecode/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramidaldecode/)*

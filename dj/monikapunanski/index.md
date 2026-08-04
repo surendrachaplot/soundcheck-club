@@ -1,6 +1,6 @@
 # Monika Punanski
 
-Monika Punanski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
+Monika Punanski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
 
 Monika Punanski is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Coyo (Berlin), Johnny Gutmann and MKLY. Next up: Beate Uwe, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Monika Punanski is a house and techno artist tracked on soundcheck, with 4 sets 
 
 Coyo (Berlin), Johnny Gutmann, MKLY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monikapunanski/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monikapunanski/)*

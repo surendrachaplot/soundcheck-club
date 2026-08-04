@@ -1,6 +1,6 @@
 # Hysteria
 
-Hysteria is a Techno and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
+Hysteria is a Techno and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at M7 Club, Barcelona on Fri, 14 Aug 2026.
 
 Hysteria is a techno and broken beat artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin and Hamburg. Often billed alongside SuttleK, Kim Bergstrand and ALTRAX. Next up: M7 Club, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Hysteria is a techno and broken beat artist based in Germany, tracked on soundch
 
 SuttleK, Kim Bergstrand, ALTRAX
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteria/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteria/)*

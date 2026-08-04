@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Mykonos on Wed, 5 Aug 2026.
+Levi (AU) is a Afro House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Mykonos on Wed, 5 Aug 2026.
 
 Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA, Mykonos on Wed 5 Aug.
 
@@ -34,4 +34,4 @@ Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 87 
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

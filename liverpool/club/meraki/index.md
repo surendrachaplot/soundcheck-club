@@ -1,6 +1,6 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Groove Society DAY & NIGHT EVENT" on Sat, 8 Aug 2026.
+Meraki is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Groove Society DAY & NIGHT EVENT" on Sat, 8 Aug 2026.
 
 Meraki is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including Dav, Ellie Jennings, Ethel & Melody and Janaway and 2 more. Browse upcoming dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
@@ -17,4 +17,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, wi
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

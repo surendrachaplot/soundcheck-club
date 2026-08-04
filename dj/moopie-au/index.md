@@ -1,6 +1,6 @@
 # Moopie
 
-Moopie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Love Inn, Bristol on Fri, 7 Aug 2026.
+Moopie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Love Inn, Bristol on Fri, 7 Aug 2026.
 
 Moopie is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Lena Willikens. Next up: The Love Inn, Bristol on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Moopie is a house and techno artist tracked on soundcheck, with 194 sets logged 
 
 Kia (AU), Hannah D, Lena Willikens
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

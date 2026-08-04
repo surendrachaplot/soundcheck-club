@@ -1,6 +1,6 @@
 # somebody3lse
 
-somebody3lse is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sans Soleil, Montreal on Sat, 8 Aug 2026.
+somebody3lse is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sans Soleil, Montreal on Sat, 8 Aug 2026.
 
 somebody3lse is a bass and house artist tracked on soundcheck, with 50 sets logged across Montreal. Often billed alongside CMD, Emil Paquin and Mok-T. Next up: Sans Soleil, Montreal on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ somebody3lse is a bass and house artist tracked on soundcheck, with 50 sets logg
 
 CMD, Emil Paquin, Mok-T
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*

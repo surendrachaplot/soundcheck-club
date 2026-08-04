@@ -1,6 +1,6 @@
 # Sinistarr
 
-Sinistarr is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
+Sinistarr is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
 
 Sinistarr is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Denver, Detroit, London and Miami and 6 more. Often billed alongside Sheefy McFly, JMT (2) and AK (US). Next up: The Matchbox, Denver on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Sinistarr is a drum & bass and techno artist based in United States of America, 
 
 Sheefy McFly, JMT (2), AK (US)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistarr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistarr/)*

@@ -1,6 +1,6 @@
 # KERN1000
 
-KERN1000 is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - PORTE 3A - OUTDOOR, Marseille on Fri, 14 Aug 2026.
+KERN1000 is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - PORTE 3A - OUTDOOR, Marseille on Fri, 14 Aug 2026.
 
 KERN1000 is a house and electro artist based in France, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Lyon and Marseille and 1 more. Often billed alongside JO SZT, Paul G and ABI (FR). Next up: TBA - PORTE 3A - OUTDOOR, Marseille on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ KERN1000 is a house and electro artist based in France, tracked on soundcheck, w
 
 JO SZT, Paul G, ABI (FR)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kern1000/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kern1000/)*

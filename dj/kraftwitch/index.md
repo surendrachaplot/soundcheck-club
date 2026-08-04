@@ -1,6 +1,6 @@
 # kraftwitch
 
-kraftwitch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at PAM CUT Tomorrow Theatre, Portland on Fri, 30 Oct 2026.
+kraftwitch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at PAM CUT Tomorrow Theatre, Portland on Fri, 30 Oct 2026.
 
 kraftwitch is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across London, Newyorkcity, Paris and Philadelphia and 2 more. Often billed alongside Carl Michaels, ROJO and Andrew Lenox. Next up: PAM CUT Tomorrow Theatre, Portland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ kraftwitch is a house and techno artist based in United States of America, track
 
 Carl Michaels, ROJO, Andrew Lenox
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*

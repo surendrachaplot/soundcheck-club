@@ -1,6 +1,6 @@
 # Danielle
 
-Danielle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 5 Aug 2026.
+Danielle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 5 Aug 2026.
 
 Danielle is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Do Not Sit On The Furniture, Miami on Wed 5 Aug.
 
@@ -29,4 +29,4 @@ Danielle is a techno and house artist tracked on soundcheck, with 139 sets logge
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

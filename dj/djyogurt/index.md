@@ -1,6 +1,6 @@
 # DJ Yogurt
 
-DJ Yogurt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Deus Ex Machina Asakusa, Tokyo on Sun, 9 Aug 2026.
+DJ Yogurt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Deus Ex Machina Asakusa, Tokyo on Sun, 9 Aug 2026.
 
 DJ Yogurt is a house and techno artist based in Japan, tracked on soundcheck, with 88 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside RYOHEI, SIGNAL (JP) and Osamu M. Next up: Deus Ex Machina Asakusa, Tokyo on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ DJ Yogurt is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 RYOHEI, SIGNAL (JP), Osamu M
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyogurt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyogurt/)*

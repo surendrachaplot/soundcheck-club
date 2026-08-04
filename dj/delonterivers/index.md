@@ -1,6 +1,6 @@
 # Delonte Rivers
 
-Delonte Rivers is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Delonte Rivers is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Delonte Rivers is a disco and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Edinburgh, Glasgow, Kyoto and London and 1 more. Often billed alongside Dazzle Drums, 2fox and A Guy Called Gerald. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Delonte Rivers is a disco and house artist based in United Kingdom, tracked on s
 
 Dazzle Drums, 2fox, A Guy Called Gerald
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delonterivers/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delonterivers/)*

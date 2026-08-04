@@ -1,6 +1,6 @@
 # NØA (DE)
 
-NØA (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
+NØA (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
 
 NØA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside TechTonic, Filialleiter and MARRE. Next up: KitKatClub, Berlin on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ NØA (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 TechTonic, Filialleiter, MARRE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*

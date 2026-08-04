@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "THE CLIMAX: A GHETTOTECH PARTY (FULLBODYDURAG, BLACKMOONCHILD, DEITY)" on Fri, 7 Aug 2026.
+Big Pink is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "THE CLIMAX: A GHETTOTECH PARTY (FULLBODYDURAG, BLACKMOONCHILD, DEITY)" on Fri, 7 Aug 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -20,4 +20,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights. Br
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

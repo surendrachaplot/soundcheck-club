@@ -1,6 +1,6 @@
 # Roton
 
-Roton is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kramladen, Vienna on Sat, 8 Aug 2026.
+Roton is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kramladen, Vienna on Sat, 8 Aug 2026.
 
 Roton is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Hetum. Next up: Kramladen, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Roton is a techno and industrial artist tracked on soundcheck, with 11 sets logg
 
 Hetum
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roton/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roton/)*

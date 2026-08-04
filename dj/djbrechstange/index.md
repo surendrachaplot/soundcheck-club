@@ -1,6 +1,6 @@
 # DJ BRECHSTANGE
 
-DJ BRECHSTANGE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+DJ BRECHSTANGE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 DJ BRECHSTANGE is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Athens, Berlin, Frankfurt and Krakow. Often billed alongside DiskoJochen, DJ TIPSTER and HØLLE (2). Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ BRECHSTANGE is a techno and trance artist based in Germany, tracked on soundc
 
 DiskoJochen, DJ TIPSTER, HØLLE (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrechstange/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrechstange/)*

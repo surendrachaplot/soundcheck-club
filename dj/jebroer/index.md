@@ -1,6 +1,6 @@
 # Jebroer
 
-Jebroer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Jebroer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Jebroer is a techno and electro artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Cologne, Dusseldorf, Marseille and Nurnberg. Often billed alongside Coone, Noel Holler and Johannes Schuster. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Jebroer is a techno and electro artist based in Netherlands, tracked on soundche
 
 Coone, Noel Holler, Johannes Schuster
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jebroer/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jebroer/)*

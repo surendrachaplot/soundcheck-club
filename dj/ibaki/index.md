@@ -1,6 +1,6 @@
 # IBAKI
 
-IBAKI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
+IBAKI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
 
 IBAKI is a house and techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Osaka and Tokyo. Often billed alongside Cine, RICHKID and DMITRI ABSINTHE. Next up: The V, Osaka on Wed 5 Aug.
 
@@ -20,4 +20,4 @@ IBAKI is a house and techno artist based in Japan, tracked on soundcheck, with 4
 
 Cine, RICHKID, DMITRI ABSINTHE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibaki/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibaki/)*

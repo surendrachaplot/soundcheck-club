@@ -1,6 +1,6 @@
 # Carter Van Pelt
 
-Carter Van Pelt is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Silence Please, New York City on Tue, 4 Aug 2026.
+Carter Van Pelt is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Silence Please, New York City on Tue, 4 Aug 2026.
 
 Carter Van Pelt is a dub and dancehall artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Ayanna Heaven. Next up: Silence Please, Newyorkcity on Tue 4 Aug.
 
@@ -24,4 +24,4 @@ Carter Van Pelt is a dub and dancehall artist based in United States of America,
 
 Ayanna Heaven
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cartervanpelt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cartervanpelt/)*

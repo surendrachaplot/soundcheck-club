@@ -1,6 +1,6 @@
 # DHC
 
-DHC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+DHC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
 DHC is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DHC is a house and techno artist tracked on soundcheck, with 112 sets logged acr
 
 THC, S-candalo, Byron Yeates
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dhc/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dhc/)*

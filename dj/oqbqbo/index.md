@@ -1,6 +1,6 @@
 # oqbqbo
 
-oqbqbo is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Floss, Copenhagen on Tue, 4 Aug 2026.
+oqbqbo is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Floss, Copenhagen on Tue, 4 Aug 2026.
 
 oqbqbo is an experimental and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Croatian Amor, Scandinavian Star and Vanity Productions. Next up: Floss, Copenhagen on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ oqbqbo is an experimental and techno artist tracked on soundcheck, with 37 sets 
 
 Croatian Amor, Scandinavian Star, Vanity Productions
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oqbqbo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oqbqbo/)*

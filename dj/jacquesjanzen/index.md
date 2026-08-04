@@ -1,6 +1,6 @@
 # Jacques Janzen
 
-Jacques Janzen is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
+Jacques Janzen is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
 
 Jacques Janzen is a dub techno and deep house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Munich and Newyorkcity. Often billed alongside Paul Hupfer, ADREE and BASHKKA. Next up: FOUND, Berlin on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Jacques Janzen is a dub techno and deep house artist based in Germany, tracked o
 
 Paul Hupfer, ADREE, BASHKKA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesjanzen/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesjanzen/)*

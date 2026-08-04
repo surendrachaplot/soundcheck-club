@@ -1,6 +1,6 @@
 # MJ Nebreda
 
-MJ Nebreda is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
+MJ Nebreda is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
 
 MJ Nebreda is a reggaeton and neo perreo artist tracked on soundcheck, with 46 sets logged across Austin, Barcelona, Brussels and Detroit and 13 more. Often billed alongside Le Poodle, SATURNSARii and v1fro. Next up: YuYu Cine Club, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MJ Nebreda is a reggaeton and neo perreo artist tracked on soundcheck, with 46 s
 
 Le Poodle, SATURNSARii, v1fro
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjnebreda/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjnebreda/)*

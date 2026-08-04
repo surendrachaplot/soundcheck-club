@@ -1,6 +1,6 @@
 # Jiggler
 
-Jiggler is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Jiggler is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Jiggler is a techno and progressive house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne, Hamburg and Stuttgart. Often billed alongside Slurm McKenzie, Ian Mint and 000vda. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jiggler is a techno and progressive house artist based in Germany, tracked on so
 
 Slurm McKenzie, Ian Mint, 000vda
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggler/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggler/)*

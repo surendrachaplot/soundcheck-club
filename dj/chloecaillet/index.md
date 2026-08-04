@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+Chloé Caillet is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
 
-Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: DC-10, Ibiza on Mon 3 Aug.
+Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: DC-10, Ibiza on Mon 17 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
@@ -20,6 +19,7 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 3 Aug 2026
 - Trädgården, Stockholm — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
@@ -27,10 +27,9 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 229 sets
 - TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
 - essaim, Paris — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- DC-10, Ibiza — Mon, 29 Jun 2026
 
 ## Shares bills with
 
 DJ Tennis, Seth Troxler, Mochakk
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

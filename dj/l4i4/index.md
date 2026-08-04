@@ -1,6 +1,6 @@
 # L4I4
 
-L4I4 is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+L4I4 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 L4I4 is a techno artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside DARÍO, CLAUDIA (ES) and Amaliah. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ L4I4 is a techno artist based in Spain, tracked on soundcheck, with 3 sets logge
 
 DARÍO, CLAUDIA (ES), Amaliah
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l4i4/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l4i4/)*

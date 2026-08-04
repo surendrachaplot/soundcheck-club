@@ -1,6 +1,6 @@
 # Nicolas Barnes
 
-Nicolas Barnes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at B2 Rīga, Riga on Sat, 8 Aug 2026.
+Nicolas Barnes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at B2 Rīga, Riga on Sat, 8 Aug 2026.
 
 Nicolas Barnes is a house and techno artist tracked on soundcheck, with 26 sets logged across Riga. Often billed alongside Kapusta, Kelvin and Mike Discoid. Next up: B2 Rīga, Riga on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nicolas Barnes is a house and techno artist tracked on soundcheck, with 26 sets 
 
 Kapusta, Kelvin, Mike Discoid
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbarnes/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbarnes/)*

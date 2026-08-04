@@ -1,6 +1,6 @@
 # AKA DISK
 
-AKA DISK is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Chug Pub, San Francisco/Oakland on Fri, 7 Aug 2026.
+AKA DISK is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Chug Pub, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 AKA DISK is a house and disco artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Jaage, Dr. Rek and Victor Vega. Next up: Chug Pub, Sanfrancisco on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ AKA DISK is a house and disco artist based in United States of America, tracked 
 
 Jaage, Dr. Rek, Victor Vega
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akadisk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akadisk/)*

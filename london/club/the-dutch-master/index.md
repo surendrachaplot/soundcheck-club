@@ -1,6 +1,6 @@
 # The Dutch Master
 
-The Dutch Master is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "TNWM: Boat Party with Tommy Farrow, Tibasko, Junior Simba & more" on Sat, 5 Sept 2026.
+The Dutch Master is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "TNWM: Boat Party with Tommy Farrow, Tibasko, Junior Simba & more" on Sat, 5 Sept 2026.
 
 The Dutch Master is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AmyElle, Junior Simba, Maur and Tibasko and 1 more. Browse upcoming dates, start times and who's playing. Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom.
 
@@ -14,4 +14,4 @@ The Dutch Master is a music venue in London listed on soundcheck. 1 upcoming nig
 
 Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom, London
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dutch-master/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dutch-master/)*

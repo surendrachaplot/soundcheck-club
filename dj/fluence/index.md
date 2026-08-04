@@ -1,13 +1,14 @@
 # fluence
 
-fluence is a Latin Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
+fluence is a Breakbeat and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 6 Aug 2026.
 
-fluence is a latin bass and breakbeat artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside Tana (2), Chinyere and Paul Anselm. Next up: Locke, Hamburg on Sat 8 Aug.
+fluence is a breakbeat and tech house artist based in Germany, tracked on soundcheck, with 26 sets logged across Hamburg. Often billed alongside Tana (2), Chinyere and Paul Anselm. Next up: Golden Pudel Club, Hamburg on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sat, 8 Aug 2026 | Locke | Hamburg |
 
 ## Recently played
@@ -25,4 +26,4 @@ fluence is a latin bass and breakbeat artist based in Germany, tracked on soundc
 
 Tana (2), Chinyere, Paul Anselm
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fluence/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fluence/)*

@@ -1,6 +1,6 @@
 # Reina
 
-Reina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
+Reina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
 
 Reina is a techno and house artist based in Belgium, tracked on soundcheck, with 3 sets logged across Athens, Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and IBAKI. Next up: The V, Osaka on Wed 5 Aug.
 
@@ -19,4 +19,4 @@ Reina is a techno and house artist based in Belgium, tracked on soundcheck, with
 
 Cine, DMITRI ABSINTHE, IBAKI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reina/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reina/)*

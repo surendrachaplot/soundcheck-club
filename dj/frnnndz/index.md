@@ -1,6 +1,6 @@
 # FRNNNDZ
 
-FRNNNDZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Z Maruyama, Tokyo on Fri, 21 Aug 2026.
+FRNNNDZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Z Maruyama, Tokyo on Fri, 21 Aug 2026.
 
 FRNNNDZ is a tech house and house artist based in Bolivia, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside CLESENT, Daitto and COCOLY. Next up: Z Maruyama, Tokyo on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ FRNNNDZ is a tech house and house artist based in Bolivia, tracked on soundcheck
 
 CLESENT, Daitto, COCOLY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frnnndz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frnnndz/)*

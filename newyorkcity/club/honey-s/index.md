@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Swallowed Open Decks" on Wed, 5 Aug 2026.
+Honey's is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Swallowed Open Decks" on Wed, 5 Aug 2026.
 
 Honey's is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including 1ol1v1a, Ben Ready, bossy boots and COVE(US) and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

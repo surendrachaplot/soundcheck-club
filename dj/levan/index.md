@@ -1,6 +1,6 @@
 # Levan
 
-Levan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Teritorija, Riga on Sat, 29 Aug 2026.
+Levan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Teritorija, Riga on Sat, 29 Aug 2026.
 
 Levan is a house and techno artist tracked on soundcheck, with 3 sets logged across Riga. Often billed alongside Kelvin, ARRISHA and Andrea Riffo. Next up: Teritorija, Riga on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Levan is a house and techno artist tracked on soundcheck, with 3 sets logged acr
 
 Kelvin, ARRISHA, Andrea Riffo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levan/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levan/)*

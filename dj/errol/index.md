@@ -1,6 +1,6 @@
 # Errol
 
-Errol is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bureau of Silly Ideas, London on Sun, 9 Aug 2026.
+Errol is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bureau of Silly Ideas, London on Sun, 9 Aug 2026.
 
 Errol is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Alex Rita, DTM Funk and Naima Adams. Next up: Bureau of Silly Ideas, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Errol is a house and jazz artist based in United Kingdom, tracked on soundcheck,
 
 Alex Rita, DTM Funk, Naima Adams
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/errol/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/errol/)*

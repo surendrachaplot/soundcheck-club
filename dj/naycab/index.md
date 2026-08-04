@@ -1,6 +1,6 @@
 # Naycab
 
-Naycab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
+Naycab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
 
 Naycab is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside DJ PGZ, Bertie and Hannah D. Next up: Miscellania, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Naycab is a techno and house artist based in Australia, tracked on soundcheck, w
 
 DJ PGZ, Bertie, Hannah D
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naycab/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naycab/)*

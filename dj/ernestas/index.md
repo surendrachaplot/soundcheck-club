@@ -1,6 +1,6 @@
 # ERNESTAS
 
-ERNESTAS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at block., Dublin on Sat, 8 Aug 2026.
+ERNESTAS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at block., Dublin on Sat, 8 Aug 2026.
 
 ERNESTAS is a house and deep house artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside Jamie Fielding, Reeshy and TROXY. Next up: block., Dublin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ ERNESTAS is a house and deep house artist based in Ireland, tracked on soundchec
 
 Jamie Fielding, Reeshy, TROXY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestas/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestas/)*

@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Night We Met, Nashville on Fri, 7 Aug 2026.
+DJ Seinfeld is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Night We Met, Nashville on Fri, 7 Aug 2026.
 
 DJ Seinfeld is a house and techno artist tracked on soundcheck, with 182 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside Sossa, Dom Dolla and Chris Stussy. Next up: Night We Met, Nashville on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 182 sets lo
 
 Sossa, Dom Dolla, Chris Stussy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

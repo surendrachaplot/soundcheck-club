@@ -1,6 +1,6 @@
 # Jacky Ickx
 
-Jacky Ickx is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
+Jacky Ickx is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
 
 Jacky Ickx is a trance and techno artist tracked on soundcheck, with 71 sets logged across Berlin, Budapest, Cologne and Frankfurt and 4 more. Often billed alongside CARGO (DE), Krash Cora and HØLLE (2). Next up: Distillery, Leipzig on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Jacky Ickx is a trance and techno artist tracked on soundcheck, with 71 sets log
 
 CARGO (DE), Krash Cora, HØLLE (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyickx/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyickx/)*

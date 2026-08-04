@@ -1,6 +1,6 @@
 # Alterra
 
-Alterra is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Perro Loco / Sonntagstraße 5, 10245 Berlin, Berlin on Sat, 8 Aug 2026.
+Alterra is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Perro Loco / Sonntagstraße 5, 10245 Berlin, Berlin on Sat, 8 Aug 2026.
 
 Alterra is a house and minimal techno artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Jean J., 6RAJ and Adron_. Next up: TBA - Perro Loco / Sonntagstraße 5, 10245 Berlin, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Alterra is a house and minimal techno artist tracked on soundcheck, with 19 sets
 
 Jean J., 6RAJ, Adron_
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alterra/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alterra/)*

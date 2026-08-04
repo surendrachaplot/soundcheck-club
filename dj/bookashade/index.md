@@ -1,6 +1,6 @@
 # Booka Shade
 
-Booka Shade is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Booka Shade is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Booka Shade is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Agatha Pher, Asch Pintura and Crookers. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Booka Shade is a techno and house artist tracked on soundcheck, with 63 sets log
 
 Agatha Pher, Asch Pintura, Crookers
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bookashade/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bookashade/)*

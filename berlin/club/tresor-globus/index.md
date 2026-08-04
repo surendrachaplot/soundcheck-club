@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 36 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "◥◣4MP x SINGULARITY◥◣(TRESOR + AURORA BAR / 2 floors)" on Mon, 3 Aug 2026.
+Tresor / Globus is a music venue in Berlin with 35 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Büro Siebzig: PÖ LIVE - hosted by Nyege Nyege Festival" on Wed, 5 Aug 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 36 upcoming nights, with line-ups including 7CIRCLE, AERAE, ALIS. and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 35 upcoming nights, with line-ups including 7CIRCLE, AERAE, ALIS. and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | ◥◣4MP x SINGULARITY◥◣(TRESOR + AURORA BAR / 2 floors) | CAIVA, Koboyo, Mila Black, SALIMATA, VIVI909 |
 | Wed, 5 Aug 2026 | Büro Siebzig: PÖ LIVE - hosted by Nyege Nyege Festival |  |
 | Wed, 5 Aug 2026 | Tresor New Faces hosted by E2NMN | CESTEK, Gioski, Miss Italia, manu abeca |
 | Fri, 7 Aug 2026 | Tresor: Aquabahn x Mechatronica | Aura Nox, Black Merlin, ElectroDon, Koloah, Milan Hermess, TaronX, Umwelt, Viikatory |
@@ -18,9 +17,10 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 36 upcoming nig
 | Wed, 12 Aug 2026 | Tresor New Faces hosted by Grab The Groove | Obscur, PAUNA, Qualia Trax, nihil |
 | Thu, 13 Aug 2026 | Globus Invites: The Ghost - All Night Long | The Ghost |
 | Thu, 13 Aug 2026 | Globus Invites: The Ghost - All Night Long | The Ghost |
+| Fri, 14 Aug 2026 | Tresor meets Black Rave Culture | Black Rave Culture, Costanza, DJ Yazi, Lukr Range, Sybil |
 
 ## Address
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

@@ -1,6 +1,6 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at KALT, Strasbourg on Sat, 15 Aug 2026.
+Beau Didier is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KALT, Strasbourg on Sat, 15 Aug 2026.
 
 Beau Didier is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Isaiah (NL), Flits and ANNĒ. Next up: KALT, Strasbourg on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Beau Didier is a techno and house artist tracked on soundcheck, with 148 sets lo
 
 Isaiah (NL), Flits, ANNĒ
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

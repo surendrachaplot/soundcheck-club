@@ -1,6 +1,6 @@
 # SKETCH
 
-SKETCH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Shai Space, London on Wed, 19 Aug 2026.
+SKETCH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Shai Space, London on Wed, 19 Aug 2026.
 
 SKETCH is a techno and house artist tracked on soundcheck, with 13 sets logged across Bangkok, Bristol, London and Singapore. Often billed alongside Al Wootton, Aletha and Boulderhead. Next up: Shai Space, London on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ SKETCH is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 Al Wootton, Aletha, Boulderhead
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sketch/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sketch/)*

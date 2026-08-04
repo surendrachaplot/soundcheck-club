@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Tanzen3000: 5th BIRTHDAY" on Tue, 4 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Tanzen3000: 5th BIRTHDAY" on Tue, 4 Aug 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Andeel, Ben Pavlidis, Cem Orlow and Faisal and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -20,4 +20,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

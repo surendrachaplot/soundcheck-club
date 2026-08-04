@@ -1,6 +1,6 @@
 # Bobaz Lobster
 
-Bobaz Lobster is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+Bobaz Lobster is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 Bobaz Lobster is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Vienna. Often billed alongside EGE363, Nettta and Alex Friday. Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Bobaz Lobster is a techno and trance artist based in Germany, tracked on soundch
 
 EGE363, Nettta, Alex Friday
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobazlobster/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobazlobster/)*

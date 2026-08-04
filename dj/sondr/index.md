@@ -1,6 +1,6 @@
 # SØNDR
 
-SØNDR is a Hardcore and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club Vaag, Antwerp on Fri, 28 Aug 2026.
+SØNDR is a Hardcore and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club Vaag, Antwerp on Fri, 28 Aug 2026.
 
 SØNDR is a hardcore and acid artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Antwerp and Ghent. Often billed alongside Brain Impact, Inkorrekt and Jaz Jagers. Next up: Club Vaag, Antwerp on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ SØNDR is a hardcore and acid artist based in Netherlands, tracked on soundcheck
 
 Brain Impact, Inkorrekt, Jaz Jagers
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sondr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sondr/)*

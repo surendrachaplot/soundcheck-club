@@ -1,6 +1,6 @@
 # Decius
 
-Decius is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Decius is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Decius is a house and disco artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Bucharest and Dublin and 10 more. Often billed alongside Erol Alkan, Tia Cousins and babyschön. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Decius is a house and disco artist tracked on soundcheck, with 27 sets logged ac
 
 Erol Alkan, Tia Cousins, babyschön
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*

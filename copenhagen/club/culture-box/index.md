@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 16 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk" on Fri, 7 Aug 2026.
+Culture Box is a music venue in Copenhagen with 16 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk" on Fri, 7 Aug 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming nights, with line-ups including Aja Gulris, Alex Stein, Ama Lien and AMITTET and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

@@ -1,6 +1,6 @@
 # Suasimodo
 
-Suasimodo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mood Ring, New York City on Sat, 8 Aug 2026.
+Suasimodo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mood Ring, New York City on Sat, 8 Aug 2026.
 
 Suasimodo is a house and club artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Shameless Deejay, Loomer and Union (US). Next up: Mood Ring, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Suasimodo is a house and club artist based in United States of America, tracked 
 
 Shameless Deejay, Loomer, Union (US)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suasimodo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suasimodo/)*

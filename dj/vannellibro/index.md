@@ -1,6 +1,6 @@
 # Vannelli Bros
 
-Vannelli Bros is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
+Vannelli Bros is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
 
 Vannelli Bros is a house and electronica artist based in Italy, tracked on soundcheck, with 83 sets logged across Milan. Often billed alongside Giamma Soren, Joe T Vannelli and Uabos. Next up: Circolo Magnolia, Milan on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vannelli Bros is a house and electronica artist based in Italy, tracked on sound
 
 Giamma Soren, Joe T Vannelli, Uabos
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vannellibro/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vannellibro/)*

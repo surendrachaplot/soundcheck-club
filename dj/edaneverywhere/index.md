@@ -1,6 +1,6 @@
 # Edan Everywhere
 
-Edan Everywhere is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Flash, Washington DC on Sat, 8 Aug 2026.
+Edan Everywhere is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Flash, Washington DC on Sat, 8 Aug 2026.
 
 Edan Everywhere is a minimal and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside Jay Tripwire, Apollo Dust and Arianna Danae. Next up: Flash, Washingtondc on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Edan Everywhere is a minimal and house artist based in United States of America,
 
 Jay Tripwire, Apollo Dust, Arianna Danae
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edaneverywhere/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edaneverywhere/)*

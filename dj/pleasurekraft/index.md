@@ -1,6 +1,6 @@
 # Pleasurekraft
 
-Pleasurekraft is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Oriente, Mexico City on Fri, 28 Aug 2026.
+Pleasurekraft is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Oriente, Mexico City on Fri, 28 Aug 2026.
 
 Pleasurekraft is a techno and house artist tracked on soundcheck, with 32 sets logged across Bali, Berlin, Chicago and Cologne and 14 more. Often billed alongside S:V:S, Alchemiah and Noazem. Next up: Bar Oriente, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Pleasurekraft is a techno and house artist tracked on soundcheck, with 32 sets l
 
 S:V:S, Alchemiah, Noazem
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasurekraft/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasurekraft/)*

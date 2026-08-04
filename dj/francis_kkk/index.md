@@ -1,6 +1,6 @@
 # Francis_kkk
 
-Francis_kkk is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Acadana, Hong Kong on Sat, 8 Aug 2026.
+Francis_kkk is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Acadana, Hong Kong on Sat, 8 Aug 2026.
 
 Francis_kkk is a bass and experimental artist based in China, tracked on soundcheck, with 2 sets logged across Hongkong. Often billed alongside ADRIANNA.C, Atrice and JFÜNG. Next up: Acadana, Hongkong on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Francis_kkk is a bass and experimental artist based in China, tracked on soundch
 
 ADRIANNA.C, Atrice, JFÜNG
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francis_kkk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francis_kkk/)*

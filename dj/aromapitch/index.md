@@ -1,6 +1,6 @@
 # Aroma Pitch
 
-Aroma Pitch is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sonnenraum, Berlin on Sat, 15 Aug 2026.
+Aroma Pitch is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sonnenraum, Berlin on Sat, 15 Aug 2026.
 
 Aroma Pitch is a house and disco artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside JADA MORAES, Bonobo and DJ MELL G. Next up: Sonnenraum, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Aroma Pitch is a house and disco artist based in Germany, tracked on soundcheck,
 
 JADA MORAES, Bonobo, DJ MELL G
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aromapitch/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aromapitch/)*

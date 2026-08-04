@@ -1,6 +1,6 @@
 # Hochwasserbassin Hammerbrook
 
-Hochwasserbassin Hammerbrook is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Funk im Trunk Open Air" on Sat, 8 Aug 2026.
+Hochwasserbassin Hammerbrook is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Funk im Trunk Open Air" on Sat, 8 Aug 2026.
 
 Hochwasserbassin Hammerbrook is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Max Gyver. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg.
 
@@ -14,4 +14,4 @@ Hochwasserbassin Hammerbrook is a music venue in Hamburg listed on soundcheck. 1
 
 Süderstraße 112, 20537 Hamburg, Hamburg
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hochwasserbassin-hammerbrook/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hochwasserbassin-hammerbrook/)*

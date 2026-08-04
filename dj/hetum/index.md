@@ -1,6 +1,6 @@
 # Hetum
 
-Hetum is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kramladen, Vienna on Sat, 8 Aug 2026.
+Hetum is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kramladen, Vienna on Sat, 8 Aug 2026.
 
 Hetum is an industrial and techno artist tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Roton. Next up: Kramladen, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Hetum is an industrial and techno artist tracked on soundcheck, with 11 sets log
 
 Roton
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hetum/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hetum/)*

@@ -1,6 +1,6 @@
 # Şahika
 
-Şahika is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Untitled #2" on Sat, 8 Aug 2026.
+Şahika is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Untitled #2" on Sat, 8 Aug 2026.
 
 Şahika is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including 4-i, jtamul and Luna Fosepthicc. Browse upcoming dates, start times and who's playing. Hüseyinağa mahallesi, Nevizade sokak, No: 5.
 
@@ -14,4 +14,4 @@
 
 Hüseyinağa mahallesi, Nevizade sokak, No: 5, Istanbul
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*

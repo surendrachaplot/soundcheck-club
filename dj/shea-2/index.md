@@ -1,6 +1,6 @@
 # SHEA (2)
 
-SHEA (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 22 Aug 2026.
+SHEA (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 22 Aug 2026.
 
 SHEA (2) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside KAYN, KILL 9 1 and Marzi (2). Next up: 131 Mccormack St, Toronto on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ SHEA (2) is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 KAYN, KILL 9 1, Marzi (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shea-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shea-2/)*

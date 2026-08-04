@@ -1,6 +1,6 @@
 # WAKA XINXI
 
-WAKA XINXI is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
+WAKA XINXI is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
 
 WAKA XINXI is a techno and house artist based in Japan, tracked on soundcheck, with 173 sets logged across Seoul and Tokyo. Often billed alongside YOSHI KANOU, Kulage and LiaRako. Next up: VENT, Tokyo on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ WAKA XINXI is a techno and house artist based in Japan, tracked on soundcheck, w
 
 YOSHI KANOU, Kulage, LiaRako
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wakaxinxi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wakaxinxi/)*

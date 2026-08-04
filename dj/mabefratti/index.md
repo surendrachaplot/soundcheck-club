@@ -1,6 +1,6 @@
 # Mabe Fratti
 
-Mabe Fratti is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at MoMA PS1, New York City on Fri, 14 Aug 2026.
+Mabe Fratti is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at MoMA PS1, New York City on Fri, 14 Aug 2026.
 
 Mabe Fratti is an experimental and ambient artist based in Guatemala, tracked on soundcheck, with 4 sets logged across Buenosaires, Mexicocity, Miami and Newyorkcity. Often billed alongside Juliana Huxtable, Malibu and Marcellus Pittman. Next up: MoMA PS1, Newyorkcity on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Mabe Fratti is an experimental and ambient artist based in Guatemala, tracked on
 
 Juliana Huxtable, Malibu, Marcellus Pittman
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*

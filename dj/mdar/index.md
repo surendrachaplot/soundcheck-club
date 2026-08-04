@@ -1,6 +1,6 @@
 # MD (AR)
 
-MD (AR) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Grand Social, Dublin on Sat, 15 Aug 2026.
+MD (AR) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Grand Social, Dublin on Sat, 15 Aug 2026.
 
 MD (AR) is a progressive house and deep house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Dublin. Often billed alongside Ste Flynn, Mariano Montori and Cid Inc. Next up: The Grand Social, Dublin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MD (AR) is a progressive house and deep house artist based in Argentina, tracked
 
 Ste Flynn, Mariano Montori, Cid Inc
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdar/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdar/)*

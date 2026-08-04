@@ -1,6 +1,6 @@
 # schraeder
 
-schraeder is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Palazzo Permanens, Budapest on Sat, 26 Sept 2026.
+schraeder is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Palazzo Permanens, Budapest on Sat, 26 Sept 2026.
 
 schraeder is a techno and trance artist based in Germany, tracked on soundcheck, with 66 sets logged across Budapest. Often billed alongside CRB, Rovizz and DJ RENT A TENT. Next up: Palazzo Permanens, Budapest on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ schraeder is a techno and trance artist based in Germany, tracked on soundcheck,
 
 CRB, Rovizz, DJ RENT A TENT
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*

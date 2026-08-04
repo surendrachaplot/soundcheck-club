@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Palais, London on Sat, 8 Aug 2026.
+livwutang is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Palais, London on Sat, 8 Aug 2026.
 
 livwutang is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Palais, London on Sat 8 Aug.
 
@@ -33,4 +33,4 @@ livwutang is a techno and house artist tracked on soundcheck, with 183 sets logg
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

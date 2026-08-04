@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Zack Fox (DJ Set)" on Thu, 6 Aug 2026.
+The Midway is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Zack Fox (DJ Set)" on Thu, 6 Aug 2026.
 
 The Midway is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including bradeazy, J.Rocc, Karisma and Levi (AU) and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -21,4 +21,4 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nig
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

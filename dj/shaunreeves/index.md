@@ -1,6 +1,6 @@
 # Shaun Reeves
 
-Shaun Reeves is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
+Shaun Reeves is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
 
 Shaun Reeves is a house and minimal artist tracked on soundcheck, with 81 sets logged across Berlin, Boston, Brussels and Chicago and 11 more. Often billed alongside Ryan Crosson, Stretch (DET) and Andrea Ghita. Next up: Signal, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Shaun Reeves is a house and minimal artist tracked on soundcheck, with 81 sets l
 
 Ryan Crosson, Stretch (DET), Andrea Ghita
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*

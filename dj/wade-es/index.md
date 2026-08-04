@@ -1,6 +1,6 @@
 # Wade
 
-Wade is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Wade is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Basel and Brisbane and 30 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Wade is a tech house and house artist tracked on soundcheck, with 99 sets logged
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

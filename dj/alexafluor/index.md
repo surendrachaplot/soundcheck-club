@@ -1,6 +1,6 @@
 # Alexa Fluor
 
-Alexa Fluor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
+Alexa Fluor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
 
 Alexa Fluor is a techno and trance artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside ELOISA, Melanchromie and Millie Forsberg. Next up: Lokschuppen Berlin, Berlin on Wed 5 Aug.
 
@@ -26,4 +26,4 @@ Alexa Fluor is a techno and trance artist based in Germany, tracked on soundchec
 
 ELOISA, Melanchromie, Millie Forsberg
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexafluor/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexafluor/)*

@@ -1,6 +1,6 @@
 # Zeynep
 
-Zeynep is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
+Zeynep is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
 
 Zeynep is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Alfred Czital, Yan (CZ) and Raleigh. Next up: Tokonoma Club, Frankfurt on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Zeynep is a techno and house artist tracked on soundcheck, with 90 sets logged a
 
 Alfred Czital, Yan (CZ), Raleigh
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*

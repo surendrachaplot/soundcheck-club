@@ -1,6 +1,6 @@
 # Chloe Tinton
 
-Chloe Tinton is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
+Chloe Tinton is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
 
 Chloe Tinton is a garage and club artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Melbourne. Often billed alongside Acid Safari, Bby Cass and Claddy. Next up: Revolver Upstairs, Melbourne on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Chloe Tinton is a garage and club artist based in United Kingdom, tracked on sou
 
 Acid Safari, Bby Cass, Claddy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloetinton/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloetinton/)*

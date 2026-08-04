@@ -1,6 +1,6 @@
 # Romeo
 
-Romeo is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
+Romeo is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
 
 Romeo is a house and club artist based in Indonesia, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Birmingham and London and 2 more. Often billed alongside Max E Groove, Mr Fresh Official and NYCity Soundz. Next up: Crown Pier, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Romeo is a house and club artist based in Indonesia, tracked on soundcheck, with
 
 Max E Groove, Mr Fresh Official, NYCity Soundz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romeo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romeo/)*

@@ -1,6 +1,6 @@
 # Dense & Pika
 
-Dense & Pika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Dense & Pika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Dense & Pika are a techno and house duo based in United Kingdom, tracked on soundcheck, with 24 sets logged across Antwerp, Barcelona, Belfast and Berlin and 9 more. Often billed alongside Clive Henry, Hypoxia (LDN) and Andrew Kay. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Dense & Pika are a techno and house duo based in United Kingdom, tracked on soun
 
 Clive Henry, Hypoxia (LDN), Andrew Kay
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/densepika/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/densepika/)*

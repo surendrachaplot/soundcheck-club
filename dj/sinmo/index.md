@@ -1,6 +1,6 @@
 # Sinmo
 
-Sinmo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sekta Selekta, Krakow on Sat, 8 Aug 2026.
+Sinmo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sekta Selekta, Krakow on Sat, 8 Aug 2026.
 
 Sinmo is a tech house and house artist tracked on soundcheck, with 8 sets logged across Krakow and Warsaw. Often billed alongside Abuelita, Animistic Beliefs and Berna (PL). Next up: Sekta Selekta, Krakow on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Sinmo is a tech house and house artist tracked on soundcheck, with 8 sets logged
 
 Abuelita, Animistic Beliefs, Berna (PL)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*

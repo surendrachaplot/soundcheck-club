@@ -1,14 +1,15 @@
 # ICX (DE)
 
-ICX (DE) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
+ICX (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
 
-ICX (DE) is a techno and acid artist tracked on soundcheck, with 3 sets logged across Berlin, Cologne and Leipzig. Often billed alongside Atzendent, DJ STIMULA and EMOCEAN001. Next up: Odonien, Cologne on Wed 5 Aug.
+ICX (DE) is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin, Cologne and Leipzig. Often billed alongside HOTBOI2300, Anuuk and Atzendent. Next up: Odonien, Cologne on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Odonien | Cologne |
+| Fri, 4 Sept 2026 | Schrotty | Cologne |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ ICX (DE) is a techno and acid artist tracked on soundcheck, with 3 sets logged a
 
 ## Shares bills with
 
-Atzendent, DJ STIMULA, EMOCEAN001
+HOTBOI2300, Anuuk, Atzendent
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icx-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icx-de/)*

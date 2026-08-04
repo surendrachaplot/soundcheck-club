@@ -1,6 +1,6 @@
 # Maniia
 
-Maniia is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Night We Met, Nashville on Sat, 8 Aug 2026.
+Maniia is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Night We Met, Nashville on Sat, 8 Aug 2026.
 
 Maniia is a house and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Nashville. Often billed alongside Dj Sliink, EQUISS and Qemist. Next up: Night We Met, Nashville on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Maniia is a house and club artist based in United States of America, tracked on 
 
 Dj Sliink, EQUISS, Qemist
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniia/)*

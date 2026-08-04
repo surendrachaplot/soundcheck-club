@@ -1,6 +1,6 @@
 # Shaggy
 
-Shaggy is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Jazz Cafe, London on Thu, 6 Aug 2026.
+Shaggy is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Jazz Cafe, London on Thu, 6 Aug 2026.
 
 Shaggy is an industrial and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Istanbul and London. Often billed alongside Brojski, ADZE and Alican Baykara. Next up: The Jazz Cafe, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Shaggy is an industrial and techno artist based in United States of America, tra
 
 Brojski, ADZE, Alican Baykara
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaggy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaggy/)*

@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at essaim, Paris on Fri, 14 Aug 2026.
+Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at essaim, Paris on Fri, 14 Aug 2026.
 
 Daniel Avery is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: essaim, Paris on Fri 14 Aug.
 
@@ -36,4 +36,4 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 151 sets l
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

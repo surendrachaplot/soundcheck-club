@@ -1,6 +1,6 @@
 # MAF
 
-MAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Macarena Club, Barcelona on Wed, 12 Aug 2026.
+MAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Macarena Club, Barcelona on Wed, 12 Aug 2026.
 
 MAF is a house and tech house artist tracked on soundcheck, with 31 sets logged across Barcelona and Berlin. Often billed alongside Brizas, Brieela and Rindeau. Next up: Macarena Club, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ MAF is a house and tech house artist tracked on soundcheck, with 31 sets logged 
 
 Brizas, Brieela, Rindeau
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maf/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maf/)*

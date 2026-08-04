@@ -1,6 +1,6 @@
 # Dj Cash Only
 
-Dj Cash Only is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Westminster Pier, London on Sat, 8 Aug 2026.
+Dj Cash Only is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Westminster Pier, London on Sat, 8 Aug 2026.
 
 Dj Cash Only is a house and garage artist tracked on soundcheck, with 22 sets logged across Amsterdam, Ibiza, Leeds and London. Often billed alongside Sam Divine, Sam Supplier and ACID HARRY. Next up: Westminster Pier, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dj Cash Only is a house and garage artist tracked on soundcheck, with 22 sets lo
 
 Sam Divine, Sam Supplier, ACID HARRY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*

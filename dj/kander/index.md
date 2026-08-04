@@ -1,6 +1,6 @@
 # Kander
 
-Kander is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
+Kander is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
 
 Kander is a techno and trance artist tracked on soundcheck, with 138 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: Hangaren, Copenhagen on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Kander is a techno and trance artist tracked on soundcheck, with 138 sets logged
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

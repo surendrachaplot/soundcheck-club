@@ -1,6 +1,6 @@
 # Just1
 
-Just1 is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
+Just1 is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
 
 Just1 is a house and electro artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 5 more. Often billed alongside Tau Car, Micha (5) and Alba Posas. Next up: ://about blank, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Just1 is a house and electro artist tracked on soundcheck, with 31 sets logged a
 
 Tau Car, Micha (5), Alba Posas
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/just1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/just1/)*

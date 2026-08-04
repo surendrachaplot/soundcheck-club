@@ -1,6 +1,6 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
+Lechuga Zafiro is a Techno and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
 
 Lechuga Zafiro is a techno and uk funky artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Verraco, Animistic Beliefs and Gavsborg. Next up: Podlasie Club, Chicago on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Lechuga Zafiro is a techno and uk funky artist tracked on soundcheck, with 60 se
 
 Verraco, Animistic Beliefs, Gavsborg
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

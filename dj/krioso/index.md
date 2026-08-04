@@ -1,6 +1,6 @@
 # krioso
 
-krioso is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ramona, Manchester on Sat, 8 Aug 2026.
+krioso is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ramona, Manchester on Sat, 8 Aug 2026.
 
 krioso is a house and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Manchester. Often billed alongside Jumbled, Nick Charles and Javan. Next up: Ramona, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ krioso is a house and garage artist based in United Kingdom, tracked on soundche
 
 Jumbled, Nick Charles, Javan
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krioso/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krioso/)*

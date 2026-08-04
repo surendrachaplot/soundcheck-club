@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "EFN PRESENTS LIL TEXAS SUPPORT BY FABITEKK • GENETEKK • PETRA STRUWE • REDMANN" on Fri, 7 Aug 2026.
+M-BIA is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "EFN PRESENTS LIL TEXAS SUPPORT BY FABITEKK • GENETEKK • PETRA STRUWE • REDMANN" on Fri, 7 Aug 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including A², Bass, Basstronauten and BrettHit and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

@@ -1,6 +1,6 @@
 # Jasmine Li (NY)
 
-Jasmine Li (NY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
+Jasmine Li (NY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
 
 Jasmine Li (NY) is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity and Singapore. Often billed alongside Loyboy, Mawkus and Miss Lil. Next up: Elsewhere, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jasmine Li (NY) is a house and techno artist based in United States of America, 
 
 Loyboy, Mawkus, Miss Lil
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasny/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasny/)*

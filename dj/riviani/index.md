@@ -1,6 +1,6 @@
 # Riviani
 
-Riviani is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Studio Club Malaga, Malaga on Thu, 6 Aug 2026.
+Riviani is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Studio Club Malaga, Malaga on Thu, 6 Aug 2026.
 
 Riviani is a house and electro artist tracked on soundcheck, with 16 sets logged across Barcelona, Madrid and Malaga. Often billed alongside Jorgge Decar, Andrés Sancho and Excenital. Next up: Studio Club Malaga, Malaga on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Riviani is a house and electro artist tracked on soundcheck, with 16 sets logged
 
 Jorgge Decar, Andrés Sancho, Excenital
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riviani/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riviani/)*

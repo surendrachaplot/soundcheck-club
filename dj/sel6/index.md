@@ -1,6 +1,6 @@
 # Sel.6
 
-Sel.6 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
+Sel.6 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
 
 Sel.6 is a bass and techno artist tracked on soundcheck, with 51 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: Floyd, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sel.6 is a bass and techno artist tracked on soundcheck, with 51 sets logged acr
 
 Alexx in Chainss, DJ Tamsom, Pressure Point (US)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*

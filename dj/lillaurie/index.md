@@ -1,6 +1,6 @@
 # Lil Laurie
 
-Lil Laurie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Underground SF, San Francisco/Oakland on Fri, 7 Aug 2026.
+Lil Laurie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Underground SF, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Lil Laurie is a trance and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside ELA MENTAL, CASPII and Axela. Next up: Underground SF, Sanfrancisco on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Lil Laurie is a trance and techno artist based in United States of America, trac
 
 ELA MENTAL, CASPII, Axela
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillaurie/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillaurie/)*

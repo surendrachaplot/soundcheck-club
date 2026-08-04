@@ -1,6 +1,6 @@
 # MoMA PS1
 
-MoMA PS1 is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP" on Fri, 7 Aug 2026.
+MoMA PS1 is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP" on Fri, 7 Aug 2026.
 
 MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including BADSISTA, De Schuurman, Dopplereffekt and Eev Frances and 2 more. Browse upcoming dates, start times and who's playing. 22-25 Jackson Avenue; Long Island City, NY 11101; United States.
 
@@ -17,4 +17,4 @@ MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 22-25 Jackson Avenue; Long Island City, NY 11101; United States, New York City
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moma-ps1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moma-ps1/)*

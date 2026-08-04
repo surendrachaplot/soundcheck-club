@@ -1,6 +1,6 @@
 # Kafes x Milo
 
-Kafes x Milo is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "ISOLATE" on Sun, 9 Aug 2026.
+Kafes x Milo is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "ISOLATE" on Sun, 9 Aug 2026.
 
 Kafes x Milo is a music venue in Istanbul listed on soundcheck. 2 upcoming nights, with line-ups including Alican, Cem Salman, Murat Uncuoglu and OMAYO. Browse upcoming dates, start times and who's playing. Kumköy Mahallesi, Tatlısu Cd. No:4, Sarıyer/İstanbul, 35930 İstanbul.
 
@@ -15,4 +15,4 @@ Kafes x Milo is a music venue in Istanbul listed on soundcheck. 2 upcoming night
 
 Kumköy Mahallesi, Tatlısu Cd. No:4, Sarıyer/İstanbul, 35930 İstanbul, Istanbul
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kafes-x-milo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kafes-x-milo/)*

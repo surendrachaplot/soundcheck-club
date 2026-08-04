@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
 Restricted is a techno and hardcore artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 67 sets l
 
 Azyr, JAZZY (2), Nikolina
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at FOLD, London on Fri, 7 Aug 2026.
+Freddy K is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at FOLD, London on Fri, 7 Aug 2026.
 
 Freddy K is a techno and house artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: FOLD, London on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist tracked on soundcheck, with 269 sets logge
 
 Alarico, Blasha & Allatt, Chlär
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

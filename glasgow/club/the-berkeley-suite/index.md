@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Missing Persons Club // Free Tickets" on Fri, 7 Aug 2026.
+The Berkeley Suite is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Missing Persons Club // Free Tickets" on Fri, 7 Aug 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including AKA DISPLAY, Angel Negrin, Austin Ato and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 21 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

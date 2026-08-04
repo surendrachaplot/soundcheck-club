@@ -1,6 +1,6 @@
 # Nico Moon
 
-Nico Moon is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 9 Aug 2026.
+Nico Moon is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Nico Moon is a house and deep house artist based in Argentina, tracked on soundcheck, with 61 sets logged across Ibiza, Losangeles, Mallorca and Miami and 2 more. Often billed alongside Kike Roldan, DIFFER and Mariano Mellino. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Nico Moon is a house and deep house artist based in Argentina, tracked on soundc
 
 Kike Roldan, DIFFER, Mariano Mellino
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*

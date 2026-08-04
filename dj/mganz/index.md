@@ -1,6 +1,6 @@
 # Mganz
 
-Mganz is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 8 Aug 2026.
+Mganz is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 8 Aug 2026.
 
 Mganz is a techno and acid artist based in Spain, tracked on soundcheck, with 22 sets logged across Austin, Barcelona and Madrid. Often billed alongside juliboe, DC81 and Santi Gonzalez. Next up: Almar Beach Club, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mganz is a techno and acid artist based in Spain, tracked on soundcheck, with 22
 
 juliboe, DC81, Santi Gonzalez
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*

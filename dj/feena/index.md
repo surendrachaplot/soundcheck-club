@@ -1,6 +1,6 @@
 # Feena
 
-Feena is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
+Feena is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
 
 Feena is a bass and techno artist tracked on soundcheck, with 96 sets logged across Aberdeen, Bristol, Dublin and Dundee and 5 more. Often billed alongside Skillis, Creep Woland and LWS. Next up: TBA - Edinburgh, Edinburgh on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Feena is a bass and techno artist tracked on soundcheck, with 96 sets logged acr
 
 Skillis, Creep Woland, LWS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feena/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feena/)*

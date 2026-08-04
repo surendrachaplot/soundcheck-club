@@ -1,6 +1,6 @@
 # George Feely
 
-George Feely is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Plaza of Nations Dock, Vancouver on Sat, 12 Sept 2026.
+George Feely is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Plaza of Nations Dock, Vancouver on Sat, 12 Sept 2026.
 
 George Feely is a house and disco artist based in Ireland, tracked on soundcheck, with 28 sets logged across Cork, Dublin, Galway and London and 1 more. Often billed alongside Boots & Kats, AADM and Ambit. Next up: Plaza of Nations Dock, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ George Feely is a house and disco artist based in Ireland, tracked on soundcheck
 
 Boots & Kats, AADM, Ambit
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefeely/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefeely/)*

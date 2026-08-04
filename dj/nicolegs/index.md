@@ -1,6 +1,6 @@
 # Nicole GS
 
-Nicole GS is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 22 Aug 2026.
+Nicole GS is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 22 Aug 2026.
 
 Nicole GS is a club and house artist based in Puerto Rico, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Triangles, bossy boots and A-Trak. Next up: The Onyx Room at House of Yes, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nicole GS is a club and house artist based in Puerto Rico, tracked on soundcheck
 
 Triangles, bossy boots, A-Trak
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegs/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegs/)*

@@ -1,6 +1,6 @@
 # Kiya
 
-Kiya is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at City Hall, Barcelona on Thu, 20 Aug 2026.
+Kiya is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at City Hall, Barcelona on Thu, 20 Aug 2026.
 
 Kiya is a techno artist based in Italy, tracked on soundcheck, with 1 set logged across Barcelona. Next up: City Hall, Barcelona on Thu 20 Aug.
 
@@ -10,4 +10,4 @@ Kiya is a techno artist based in Italy, tracked on soundcheck, with 1 set logged
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | City Hall | Barcelona |
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiya/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiya/)*

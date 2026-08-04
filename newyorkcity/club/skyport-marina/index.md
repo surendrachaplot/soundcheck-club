@@ -1,6 +1,6 @@
 # Skyport Marina
 
-Skyport Marina is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Dominican Day Parade Kick Off Party Fundraiser" on Thu, 6 Aug 2026.
+Skyport Marina is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Dominican Day Parade Kick Off Party Fundraiser" on Thu, 6 Aug 2026.
 
 Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Bruce Wayne (US), MP LOVE and Toribio. Browse upcoming dates, start times and who's playing. E 23rd St & FDR Dr, New York, New York 10010.
 
@@ -23,4 +23,4 @@ Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 11 upcoming
 
 E 23rd St & FDR Dr, New York, New York 10010, New York City
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*

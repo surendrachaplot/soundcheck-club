@@ -1,6 +1,6 @@
 # Camille (1)
 
-Camille (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Blue Room, Montreal on Sat, 8 Aug 2026.
+Camille (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Blue Room, Montreal on Sat, 8 Aug 2026.
 
 Camille (1) is an electronic artist tracked on soundcheck, with 2 sets logged across Melbourne and Montreal. Often billed alongside DJ Matab, Luqman and MaX (IT). Next up: Blue Room, Montreal on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Camille (1) is an electronic artist tracked on soundcheck, with 2 sets logged ac
 
 DJ Matab, Luqman, MaX (IT)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camille-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camille-1/)*

@@ -1,6 +1,6 @@
 # Dastgamachine
 
-Dastgamachine is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 75 Pelham Street, Toronto on Sat, 8 Aug 2026.
+Dastgamachine is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - 75 Pelham Street, Toronto on Sat, 8 Aug 2026.
 
 Dastgamachine is a dub techno and experimental artist based in Canada, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside Mahmood Schricker, Neonlichter and MMRI. Next up: TBA - 75 Pelham Street, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dastgamachine is a dub techno and experimental artist based in Canada, tracked o
 
 Mahmood Schricker, Neonlichter, MMRI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dastgamachine/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dastgamachine/)*

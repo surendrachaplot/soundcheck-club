@@ -1,6 +1,6 @@
 # Sophixi
 
-Sophixi is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Belltown Yacht Club, Seattle on Sat, 22 Aug 2026.
+Sophixi is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Belltown Yacht Club, Seattle on Sat, 22 Aug 2026.
 
 Sophixi is an industrial and techno artist tracked on soundcheck, with 1 set logged across Seattle. Often billed alongside Jordana. Next up: Belltown Yacht Club, Seattle on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Sophixi is an industrial and techno artist tracked on soundcheck, with 1 set log
 
 Jordana
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophixi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophixi/)*

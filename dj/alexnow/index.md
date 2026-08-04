@@ -1,6 +1,6 @@
 # Alex Now
 
-Alex Now is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 9 Aug 2026.
+Alex Now is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 9 Aug 2026.
 
 Alex Now is a tech house and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Vidaloca, Abdon and Chelina Manuhutu. Next up: Ku Barcelona, Barcelona on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Alex Now is a tech house and house artist based in Spain, tracked on soundcheck,
 
 Vidaloca, Abdon, Chelina Manuhutu
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnow/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnow/)*

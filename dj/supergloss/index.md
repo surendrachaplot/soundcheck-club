@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lofi, Amsterdam on Fri, 7 Aug 2026.
+Supergloss is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lofi, Amsterdam on Fri, 7 Aug 2026.
 
 Supergloss is a techno and trance artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, MALUGI and Omon Breaker. Next up: Lofi, Amsterdam on Fri 7 Aug.
 
@@ -33,4 +33,4 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 198 sets lo
 
 Funk Tribu, MALUGI, Omon Breaker
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

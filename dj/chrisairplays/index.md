@@ -1,6 +1,6 @@
 # Chris Airplays
 
-Chris Airplays is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tola, London on Sat, 15 Aug 2026.
+Chris Airplays is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tola, London on Sat, 15 Aug 2026.
 
 Chris Airplays is a house and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Belfast and London. Often billed alongside Noisy Neighbour, Racso Renniks and ARLYSS. Next up: Tola, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chris Airplays is a house and bass artist based in United Kingdom, tracked on so
 
 Noisy Neighbour, Racso Renniks, ARLYSS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisairplays/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisairplays/)*

@@ -1,6 +1,6 @@
 # BOY (1)
 
-BOY (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
+BOY (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
 
 BOY (1) is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Antwerp and Ibiza. Often billed alongside Dimitri Vegas & Like Mike, Dj Schnake and GIRL. Next up: Antwerp Expo, Antwerp on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ BOY (1) is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 Dimitri Vegas & Like Mike, Dj Schnake, GIRL
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boy-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boy-1/)*

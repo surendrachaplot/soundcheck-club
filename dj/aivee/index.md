@@ -1,6 +1,6 @@
 # Aivee
 
-Aivee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
+Aivee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
 
 Aivee is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Munich. Often billed alongside Nienein, clju_2k and ANKA (2). Next up: elipamanoke, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aivee is a techno and house artist tracked on soundcheck, with 23 sets logged ac
 
 Nienein, clju_2k, ANKA (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aivee/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aivee/)*

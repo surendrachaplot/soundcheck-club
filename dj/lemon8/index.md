@@ -1,6 +1,6 @@
 # Lemon 8
 
-Lemon 8 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Lemon 8 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Lemon 8 is a techno and acid artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Rotterdam and Tallinn. Often billed alongside Alexander Koning, Dimitri (1) and Erick E. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lemon 8 is a techno and acid artist based in Netherlands, tracked on soundcheck,
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemon8/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemon8/)*

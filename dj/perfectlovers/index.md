@@ -1,6 +1,6 @@
 # Perfect Lovers
 
-Perfect Lovers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Perfect Lovers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
 
 Perfect Lovers is a house and disco artist tracked on soundcheck, with 69 sets logged across Berlin, Bristol, Leipzig and London and 6 more. Often billed alongside Victor Rodriguez, Bears In Space and Stacy Christine. Next up: The Bridge, Losangeles on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Perfect Lovers is a house and disco artist tracked on soundcheck, with 69 sets l
 
 Victor Rodriguez, Bears In Space, Stacy Christine
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectlovers/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectlovers/)*

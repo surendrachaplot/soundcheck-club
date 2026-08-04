@@ -1,6 +1,6 @@
 # Eichef
 
-Eichef is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Yerba Buena Estudios, San Francisco/Oakland on Sat, 8 Aug 2026.
+Eichef is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Yerba Buena Estudios, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Eichef is a techno and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago and Sanfrancisco. Often billed alongside Jimmy B, Zoz and Solar. Next up: Yerba Buena Estudios, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Eichef is a techno and house artist based in United States of America, tracked o
 
 Jimmy B, Zoz, Solar
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eichef/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eichef/)*

@@ -1,6 +1,6 @@
 # Saish K.
 
-Saish K. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
+Saish K. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
 
 Saish K. is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles. Often billed alongside MiMi (3), Max Ellington and Colored Craig. Next up: The Airliner, Losangeles on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Saish K. is a house and techno artist based in United States of America, tracked
 
 MiMi (3), Max Ellington, Colored Craig
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saishk./)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saishk./)*

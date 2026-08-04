@@ -1,6 +1,6 @@
 # Blank & Jones
 
-Blank & Jones is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 16 Sept 2026.
+Blank & Jones is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 16 Sept 2026.
 
 Blank & Jones are an electronica duo based in Germany, tracked on soundcheck, with 1 set logged across Ibiza. Next up: Ushuaïa Ibiza, Ibiza on Wed 16 Sept.
 
@@ -10,4 +10,4 @@ Blank & Jones are an electronica duo based in Germany, tracked on soundcheck, wi
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blankjones/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blankjones/)*

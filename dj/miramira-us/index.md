@@ -1,6 +1,6 @@
 # MIRA MIRA
 
-MIRA MIRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+MIRA MIRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 MIRA MIRA is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Detroit, London, Mexicocity and Miami and 3 more. Often billed alongside Nick Boyd, Rage.inald and Pamela_ and her sons. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ MIRA MIRA is a house and techno artist based in United States of America, tracke
 
 Nick Boyd, Rage.inald, Pamela_ and her sons
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

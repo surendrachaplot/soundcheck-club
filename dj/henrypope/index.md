@@ -1,6 +1,6 @@
 # Henry Pope
 
-Henry Pope is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cielo Farms Malibu, Los Angeles on Sun, 9 Aug 2026.
+Henry Pope is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cielo Farms Malibu, Los Angeles on Sun, 9 Aug 2026.
 
 Henry Pope is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles, Sandiego and Seattle. Often billed alongside Miss Javi, Adam Ten and Ardalan. Next up: Cielo Farms Malibu, Losangeles on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Henry Pope is a house and techno artist based in United States of America, track
 
 Miss Javi, Adam Ten, Ardalan
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrypope/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrypope/)*

@@ -1,6 +1,6 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Big Night Live, Boston on Fri, 7 Aug 2026.
+Eli Brown is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Big Night Live, Boston on Fri, 7 Aug 2026.
 
 Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Big Night Live, Boston on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logg
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

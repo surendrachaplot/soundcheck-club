@@ -1,6 +1,6 @@
 # Noizfiend
 
-Noizfiend is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
+Noizfiend is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
 
 Noizfiend is a drum & bass and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across London. Often billed alongside BIDOIS, Margella and tasha.mp4. Next up: Bricks, London on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Noizfiend is a drum & bass and house artist based in United States of America, t
 
 BIDOIS, Margella, tasha.mp4
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizfiend/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizfiend/)*

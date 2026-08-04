@@ -1,6 +1,6 @@
 # Five
 
-Five is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Stud, San Francisco/Oakland on Sat, 22 Aug 2026.
+Five is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Stud, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Five is a house and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Just Another Bitch, Vin Sol and Aaron F. Next up: The Stud, Sanfrancisco on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Five is a house and club artist based in United States of America, tracked on so
 
 Just Another Bitch, Vin Sol, Aaron F
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/five/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/five/)*

@@ -1,6 +1,6 @@
 # Myris
 
-Myris is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Smolna, Warsaw on Sat, 5 Sept 2026.
+Myris is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Smolna, Warsaw on Sat, 5 Sept 2026.
 
 Myris is a techno and minimal techno artist based in India, tracked on soundcheck, with 2 sets logged across Berlin and Warsaw. Often billed alongside Lexer, Pascale Voltaire and SKALA. Next up: Smolna, Warsaw on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Myris is a techno and minimal techno artist based in India, tracked on soundchec
 
 Lexer, Pascale Voltaire, SKALA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myris/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myris/)*

@@ -1,6 +1,6 @@
 # CELESTE
 
-CELESTE is a R&B and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Decabar Super, Tokyo on Sat, 15 Aug 2026.
+CELESTE is a R&B and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Decabar Super, Tokyo on Sat, 15 Aug 2026.
 
 CELESTE is a r&b and techno artist tracked on soundcheck, with 2 sets logged across Newyorkcity and Tokyo. Often billed alongside Mayeul, Raye and Sade. Next up: Decabar Super, Tokyo on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ CELESTE is a r&b and techno artist tracked on soundcheck, with 2 sets logged acr
 
 Mayeul, Raye, Sade
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celeste-fr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celeste-fr/)*

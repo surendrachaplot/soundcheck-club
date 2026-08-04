@@ -1,6 +1,6 @@
 # Deep Forest
 
-Deep Forest is a Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Cinetol, Amsterdam on Tue, 6 Oct 2026.
+Deep Forest is a Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Cinetol, Amsterdam on Tue, 6 Oct 2026.
 
 Deep Forest is an electro artist based in France, tracked on soundcheck, with 4 sets logged across Amsterdam, Copenhagen, Dublin and Nantes. Next up: Cinetol, Amsterdam on Tue 6 Oct.
 
@@ -16,4 +16,4 @@ Deep Forest is an electro artist based in France, tracked on soundcheck, with 4 
 - The Workmans Club, Dublin — Thu, 30 Oct 2025
 - RUST, Copenhagen — Sun, 26 Oct 2025
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepforest/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepforest/)*

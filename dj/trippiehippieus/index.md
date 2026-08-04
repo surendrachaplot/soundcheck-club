@@ -1,6 +1,6 @@
 # Trippie Hippie (US)
 
-Trippie Hippie (US) is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Floyd, Miami on Sun, 9 Aug 2026.
+Trippie Hippie (US) is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Floyd, Miami on Sun, 9 Aug 2026.
 
 Trippie Hippie (US) is a reggaeton and neo perreo artist based in United States of America, tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside DJ SABI, HAZÓN and Violeta. Next up: Floyd, Miami on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Trippie Hippie (US) is a reggaeton and neo perreo artist based in United States 
 
 DJ SABI, HAZÓN, Violeta
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*

@@ -1,6 +1,6 @@
 # David Paul
 
-David Paul is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Level 8 DTLA, Los Angeles on Fri, 7 Aug 2026.
+David Paul is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Level 8 DTLA, Los Angeles on Fri, 7 Aug 2026.
 
 David Paul is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles and Sanfrancisco. Often billed alongside D.SANTIS, Emanate and Berry B (2). Next up: Level 8 DTLA, Losangeles on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ David Paul is a techno and progressive house artist based in United States of Am
 
 D.SANTIS, Emanate, Berry B (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpaul/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpaul/)*

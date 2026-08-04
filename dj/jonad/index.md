@@ -1,6 +1,6 @@
 # Jon AD
 
-Jon AD is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Holocene, Portland on Sat, 8 Aug 2026.
+Jon AD is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Holocene, Portland on Sat, 8 Aug 2026.
 
 Jon AD is a jungle and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Portland and Sanfrancisco. Often billed alongside Keishaboy, M27 (1) and SOBA. Next up: Holocene, Portland on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jon AD is a jungle and techno artist based in United States of America, tracked 
 
 Keishaboy, M27 (1), SOBA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonad/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonad/)*

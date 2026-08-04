@@ -1,6 +1,6 @@
 # Take1More
 
-Take1More is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
+Take1More is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
 
 Take1More is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Bucharest, London and Munich and 1 more. Often billed alongside Erica (IT), Jonas Lesitoc and DA NA. Next up: ÆDEN, Berlin on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ Take1More is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Erica (IT), Jonas Lesitoc, DA NA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/take1more/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/take1more/)*

@@ -1,6 +1,6 @@
 # Jessin Neijts
 
-Jessin Neijts is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+Jessin Neijts is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
 
 Jessin Neijts is a house artist based in Netherlands, tracked on soundcheck, with 1 set logged across Rotterdam. Often billed alongside Steven Pieters, Infinite Pleasure and Ben Diggins. Next up: export, Rotterdam on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Jessin Neijts is a house artist based in Netherlands, tracked on soundcheck, wit
 
 Steven Pieters, Infinite Pleasure, Ben Diggins
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessinneijts/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessinneijts/)*

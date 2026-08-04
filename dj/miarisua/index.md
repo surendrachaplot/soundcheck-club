@@ -1,6 +1,6 @@
 # MIARISUA
 
-MIARISUA is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honey's, New York City on Fri, 7 Aug 2026.
+MIARISUA is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Honey's, New York City on Fri, 7 Aug 2026.
 
 MIARISUA is a progressive house artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Bell Domin, CSILLA and Devoye. Next up: Honey's, Newyorkcity on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ MIARISUA is a progressive house artist tracked on soundcheck, with 2 sets logged
 
 Bell Domin, CSILLA, Devoye
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*

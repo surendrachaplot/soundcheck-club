@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+WhoMadeWho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 WhoMadeWho is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 142 sets log
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

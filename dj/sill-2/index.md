@@ -1,6 +1,6 @@
 # Sill (2)
 
-Sill (2) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
+Sill (2) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
 
 Sill (2) is an electronica and house artist based in Spain, tracked on soundcheck, with 1 set logged across Mallorca. Often billed alongside Will Saul, Vlaar and Pegasvs. Next up: Parc de Sa Gravera, Mallorca on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Sill (2) is an electronica and house artist based in Spain, tracked on soundchec
 
 Will Saul, Vlaar, Pegasvs
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sill-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sill-2/)*

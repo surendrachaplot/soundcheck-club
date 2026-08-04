@@ -1,6 +1,6 @@
 # LNUA
 
-LNUA is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Trekanten, Oslo on Tue, 11 Aug 2026.
+LNUA is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Trekanten, Oslo on Tue, 11 Aug 2026.
 
 LNUA is an electronic artist based in Norway, tracked on soundcheck, with 2 sets logged across Oslo. Often billed alongside Marshion and Niilas. Next up: Trekanten, Oslo on Tue 11 Aug.
 
@@ -18,4 +18,4 @@ LNUA is an electronic artist based in Norway, tracked on soundcheck, with 2 sets
 
 Marshion, Niilas
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lnua/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lnua/)*

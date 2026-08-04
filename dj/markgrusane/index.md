@@ -1,6 +1,6 @@
 # Mark Grusane
 
-Mark Grusane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
+Mark Grusane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
 
 Mark Grusane is a house and disco artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Austin and Berlin and 15 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Mark Grusane is a house and disco artist based in United States of America, trac
 
 Brett Johnson, Scott Zacharias, CTRLZORA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*

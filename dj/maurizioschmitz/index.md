@@ -1,6 +1,6 @@
 # Maurizio Schmitz
 
-Maurizio Schmitz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 6 Aug 2026.
+Maurizio Schmitz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 6 Aug 2026.
 
 Maurizio Schmitz is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Bali and Bangkok and 15 more. Often billed alongside Sven Vath, André Galluzzi and Tobi Neumann. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Maurizio Schmitz is a techno and house artist tracked on soundcheck, with 75 set
 
 Sven Vath, André Galluzzi, Tobi Neumann
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*

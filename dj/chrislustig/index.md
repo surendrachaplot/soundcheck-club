@@ -1,6 +1,6 @@
 # Chris Lustig
 
-Chris Lustig is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Freischwimmer, Berlin on Sat, 8 Aug 2026.
+Chris Lustig is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Freischwimmer, Berlin on Sat, 8 Aug 2026.
 
 Chris Lustig is a house and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Sven Swade, Better Call Paul and Nikklaas. Next up: Freischwimmer, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Chris Lustig is a house and tech house artist based in Germany, tracked on sound
 
 Sven Swade, Better Call Paul, Nikklaas
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislustig/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislustig/)*

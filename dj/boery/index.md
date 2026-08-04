@@ -1,6 +1,6 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
+BØĘRY is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
 
 BØĘRY is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside BLNK, TiTi and IOSIO. Next up: Ministerium Club, Lisbon on Thu 6 Aug.
 
@@ -34,4 +34,4 @@ BØĘRY is a techno and hardcore artist tracked on soundcheck, with 21 sets logg
 
 BLNK, TiTi, IOSIO
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

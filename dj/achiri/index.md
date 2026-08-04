@@ -1,6 +1,6 @@
 # ACHIRI
 
-ACHIRI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 6 Aug 2026.
+ACHIRI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 6 Aug 2026.
 
 ACHIRI is a techno and house artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside YUVIE, DANA NADA and Kent Oria. Next up: ZEROTOKYO, Tokyo on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ ACHIRI is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 YUVIE, DANA NADA, Kent Oria
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achiri/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achiri/)*

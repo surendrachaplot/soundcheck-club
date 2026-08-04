@@ -1,6 +1,6 @@
 # Picasso
 
-Picasso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+Picasso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
 Picasso is a house and minimal artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Ghent and 8 more. Often billed alongside Bowyer, Duowe and Kian OK. Next up: Gaffe, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Picasso is a house and minimal artist tracked on soundcheck, with 36 sets logged
 
 Bowyer, Duowe, Kian OK
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*

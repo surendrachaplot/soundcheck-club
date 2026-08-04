@@ -1,6 +1,6 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Richie Hawtin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
 
 Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Sophie Festival, Malaga on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets 
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

@@ -1,6 +1,6 @@
 # J.Wiltshire
 
-J.Wiltshire is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Chicago on Fri, 28 Aug 2026.
+J.Wiltshire is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Chicago on Fri, 28 Aug 2026.
 
 J.Wiltshire is an acid and ambient artist tracked on soundcheck, with 11 sets logged across Berlin, Chicago and London. Often billed alongside Dweedo, Marylou and m50. Next up: TBA, Chicago on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ J.Wiltshire is an acid and ambient artist tracked on soundcheck, with 11 sets lo
 
 Dweedo, Marylou, m50
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wiltshire/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wiltshire/)*

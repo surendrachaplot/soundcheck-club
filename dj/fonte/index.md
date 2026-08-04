@@ -1,6 +1,6 @@
 # Fonte
 
-Fonte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
+Fonte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
 
 Fonte is a house and techno artist based in Spain, tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Sugar Free, Gene On Earth and tINI. Next up: Tresor / Globus, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Fonte is a house and techno artist based in Spain, tracked on soundcheck, with 8
 
 Sugar Free, Gene On Earth, tINI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonte/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonte/)*

@@ -1,6 +1,6 @@
 # Calm
 
-Calm is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Numm, Tokyo on Fri, 21 Aug 2026.
+Calm is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Numm, Tokyo on Fri, 21 Aug 2026.
 
 Calm is a house and disco artist based in Japan, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside Kaoru Inoue, CHIDA and TAT2K. Next up: Numm, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Calm is a house and disco artist based in Japan, tracked on soundcheck, with 12 
 
 Kaoru Inoue, CHIDA, TAT2K
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calm/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calm/)*

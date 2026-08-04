@@ -1,6 +1,6 @@
 # low iron
 
-low iron is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
+low iron is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
 
 low iron is a club and techno artist tracked on soundcheck, with 92 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Phreakwency, Nail Salon (2) and JEWELSSEA. Next up: Upstairs at the 700, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ low iron is a club and techno artist tracked on soundcheck, with 92 sets logged 
 
 Phreakwency, Nail Salon (2), JEWELSSEA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowiron-us/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowiron-us/)*

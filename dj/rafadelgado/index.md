@@ -1,6 +1,6 @@
 # Rafa Delgado
 
-Rafa Delgado is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 7 Aug 2026.
+Rafa Delgado is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 7 Aug 2026.
 
 Rafa Delgado is a house and electro artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Mila Morr, Sampol and Javier Carballo. Next up: Seaseaclub Barcelona, Barcelona on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Rafa Delgado is a house and electro artist tracked on soundcheck, with 2 sets lo
 
 Mila Morr, Sampol, Javier Carballo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafadelgado/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafadelgado/)*

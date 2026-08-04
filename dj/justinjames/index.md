@@ -1,6 +1,6 @@
 # Justin James
 
-Justin James is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Spkrbox, Detroit on Sun, 9 Aug 2026.
+Justin James is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Spkrbox, Detroit on Sun, 9 Aug 2026.
 
 Justin James is a techno and industrial artist tracked on soundcheck, with 6 sets logged across Detroit, London and Toronto. Often billed alongside Adriana Lopez, Alarico and Another George. Next up: Spkrbox, Detroit on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ Justin James is a techno and industrial artist tracked on soundcheck, with 6 set
 
 Adriana Lopez, Alarico, Another George
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjames/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjames/)*

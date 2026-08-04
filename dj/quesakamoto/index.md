@@ -1,6 +1,6 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
+Que Sakamoto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
 
 Que Sakamoto is a house and techno artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 18 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: Club der Visionaere, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Que Sakamoto is a house and techno artist tracked on soundcheck, with 54 sets lo
 
 André Galluzzi, Annyrock, Cabanne
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

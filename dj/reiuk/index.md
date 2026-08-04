@@ -1,6 +1,6 @@
 # Rei (UK)
 
-Rei (UK) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at XOYO, London on Wed, 5 Aug 2026.
+Rei (UK) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at XOYO, London on Wed, 5 Aug 2026.
 
 Rei (UK) is a tech house and deep house artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Memory Muscle, DJelley and Vanity Project. Next up: XOYO, London on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Rei (UK) is a tech house and deep house artist tracked on soundcheck, with 25 se
 
 Memory Muscle, DJelley, Vanity Project
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reiuk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reiuk/)*

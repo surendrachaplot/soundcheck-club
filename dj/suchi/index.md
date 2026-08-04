@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sukkerbiten, Oslo on Sat, 8 Aug 2026.
+SUCHI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sukkerbiten, Oslo on Sat, 8 Aug 2026.
 
 SUCHI is a house and electronica artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: Sukkerbiten, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SUCHI is a house and electronica artist tracked on soundcheck, with 61 sets logg
 
 Amaliah, Anz, Heléna Star
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

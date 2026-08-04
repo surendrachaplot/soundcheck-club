@@ -1,6 +1,6 @@
 # Rachel Raw
 
-Rachel Raw is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Rachel Raw is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Rachel Raw is a techno and house artist tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf and 5 more. Often billed alongside Avocado, DJ Jordan and Dave Dinger. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Rachel Raw is a techno and house artist tracked on soundcheck, with 52 sets logg
 
 Avocado, DJ Jordan, Dave Dinger
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelraw/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelraw/)*

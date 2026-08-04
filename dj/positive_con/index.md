@@ -1,6 +1,6 @@
 # Positive_Con
 
-Positive_Con is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
+Positive_Con is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bricks, London on Fri, 7 Aug 2026.
 
 Positive_Con is a drum & bass and garage artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Faded Society, tasha.mp4 and BIDOIS. Next up: Bricks, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Positive_Con is a drum & bass and garage artist tracked on soundcheck, with 9 se
 
 Faded Society, tasha.mp4, BIDOIS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*

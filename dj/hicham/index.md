@@ -1,6 +1,6 @@
 # Hicham
 
-Hicham is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Hicham is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Hicham is a house and techno artist tracked on soundcheck, with 51 sets logged across Bangkok, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Onur Özer, Alex Picone and Ancut. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Hicham is a house and techno artist tracked on soundcheck, with 51 sets logged a
 
 Onur Özer, Alex Picone, Ancut
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*

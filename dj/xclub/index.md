@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Nowadays, New York City on Thu, 6 Aug 2026.
+X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Nowadays, New York City on Thu, 6 Aug 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Nowadays, Newyorkcity on Thu 6 Aug.
 
@@ -34,4 +34,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 214 sets logged
 
 KETTAMA, VTSS, DJ Heartstring
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

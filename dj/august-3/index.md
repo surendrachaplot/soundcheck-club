@@ -1,6 +1,6 @@
 # August (3)
 
-August (3) is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Blank Site, Seoul on Fri, 7 Aug 2026.
+August (3) is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Blank Site, Seoul on Fri, 7 Aug 2026.
 
 August (3) is a club and experimental artist based in South Korea, tracked on soundcheck, with 12 sets logged across Seoul. Often billed alongside MAZE (KR), dayoung and KoiKoi. Next up: Blank Site, Seoul on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ August (3) is a club and experimental artist based in South Korea, tracked on so
 
 MAZE (KR), dayoung, KoiKoi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/august-3/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/august-3/)*

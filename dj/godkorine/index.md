@@ -1,6 +1,6 @@
 # GODKORINE
 
-GODKORINE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tuff Club, Singapore on Fri, 7 Aug 2026.
+GODKORINE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tuff Club, Singapore on Fri, 7 Aug 2026.
 
 GODKORINE is a techno and club artist based in Singapore, tracked on soundcheck, with 14 sets logged across Singapore. Often billed alongside New Masculine, howrøng and Anita B Queen. Next up: Tuff Club, Singapore on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ GODKORINE is a techno and club artist based in Singapore, tracked on soundcheck,
 
 New Masculine, howrøng, Anita B Queen
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godkorine/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godkorine/)*

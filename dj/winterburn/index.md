@@ -1,6 +1,6 @@
 # winterburn
 
-winterburn is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
+winterburn is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
 
 winterburn is a minimal techno and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside D LAI, Folek and MPathy. Next up: Bar A Bar, London on Sat 26 Sept.
 
@@ -14,4 +14,4 @@ winterburn is a minimal techno and techno artist based in United Kingdom, tracke
 
 D LAI, Folek, MPathy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winterburn/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winterburn/)*

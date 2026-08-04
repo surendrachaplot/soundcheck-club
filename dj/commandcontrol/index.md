@@ -1,6 +1,6 @@
 # Command Control
 
-Command Control is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+Command Control is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 Command Control is a techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside Anika Kunst, Arkane and Atibo. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Command Control is a techno artist based in United Kingdom, tracked on soundchec
 
 Anika Kunst, Arkane, Atibo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/commandcontrol/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/commandcontrol/)*

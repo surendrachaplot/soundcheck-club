@@ -1,6 +1,6 @@
 # Pato
 
-Pato is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
+Pato is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
 Pato is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Berlin, Edinburgh, London and Manchester. Often billed alongside Jugin, DJ Bz and Doogi. Next up: FOLD, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Pato is a house and minimal techno artist based in United Kingdom, tracked on so
 
 Jugin, DJ Bz, Doogi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pato/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pato/)*

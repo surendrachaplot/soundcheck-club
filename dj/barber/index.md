@@ -1,6 +1,6 @@
 # Barber
 
-Barber is a Hip-Hop and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Barber is a Hip-Hop and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Barber is a hip-hop and hardcore artist tracked on soundcheck, with 13 sets logged across Antwerp, Barcelona, Cologne and Frankfurt and 4 more. Often billed alongside Angerfist, Deadly Guns and Dimitri K. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Barber is a hip-hop and hardcore artist tracked on soundcheck, with 13 sets logg
 
 Angerfist, Deadly Guns, Dimitri K
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barber/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barber/)*

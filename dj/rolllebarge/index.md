@@ -1,6 +1,6 @@
 # Roll le Barge
 
-Roll le Barge is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Système, Montreal on Sun, 9 Aug 2026.
+Roll le Barge is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Système, Montreal on Sun, 9 Aug 2026.
 
 Roll le Barge is a house and minimal artist based in France, tracked on soundcheck, with 5 sets logged across Lyon, Montreal and Paris. Often billed alongside Desouz, Nico Le Pays and WANER. Next up: Système, Montreal on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Roll le Barge is a house and minimal artist based in France, tracked on soundche
 
 Desouz, Nico Le Pays, WANER
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolllebarge/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolllebarge/)*

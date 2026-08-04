@@ -1,6 +1,6 @@
 # Lavandonia
 
-Lavandonia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Lavandonia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Lavandonia is a house and techno artist tracked on soundcheck, with 37 sets logged across Barcelona, Frankfurt, Munich and Naples and 1 more. Often billed alongside Alles Andere, Alessio Barletta and Muallem. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lavandonia is a house and techno artist tracked on soundcheck, with 37 sets logg
 
 Alles Andere, Alessio Barletta, Muallem
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*

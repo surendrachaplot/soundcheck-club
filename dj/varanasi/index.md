@@ -1,6 +1,6 @@
 # Varanasi
 
-Varanasi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
+Varanasi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
 
 Varanasi is a techno and electro artist tracked on soundcheck, with 34 sets logged across Berlin, Brighton and London. Often billed alongside Himboy, RayRay and WVRM POOL. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Varanasi is a techno and electro artist tracked on soundcheck, with 34 sets logg
 
 Himboy, RayRay, WVRM POOL
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

@@ -1,6 +1,6 @@
 # Dusk Poem
 
-Dusk Poem is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
+Dusk Poem is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
 
 Dusk Poem is a techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Berlin and Milan. Often billed alongside Massi Rocket, Richey V and Enygma. Next up: Department 184, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dusk Poem is a techno artist based in Italy, tracked on soundcheck, with 20 sets
 
 Massi Rocket, Richey V, Enygma
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duskpoem/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duskpoem/)*

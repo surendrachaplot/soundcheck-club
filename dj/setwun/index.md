@@ -1,6 +1,6 @@
 # Setwun
 
-Setwun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Glove That Fits, London on Fri, 7 Aug 2026.
+Setwun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Glove That Fits, London on Fri, 7 Aug 2026.
 
 Setwun is a house and techno artist tracked on soundcheck, with 49 sets logged across Brisbane, London, Melbourne and Sheffield and 1 more. Often billed alongside Ciara, Deepa and Command D (1). Next up: The Glove That Fits, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Setwun is a house and techno artist tracked on soundcheck, with 49 sets logged a
 
 Ciara, Deepa, Command D (1)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setwun/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setwun/)*

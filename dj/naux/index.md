@@ -1,6 +1,6 @@
 # Naux
 
-Naux is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
+Naux is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
 
 Naux is a house and electro artist based in France, tracked on soundcheck, with 10 sets logged across Barcelona, Lyon, Madrid and Marseille and 1 more. Often billed alongside Flat Iron Lake, Maggy Smiss and Ten Fingerz. Next up: Le Mazette, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Naux is a house and electro artist based in France, tracked on soundcheck, with 
 
 Flat Iron Lake, Maggy Smiss, Ten Fingerz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naux/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naux/)*

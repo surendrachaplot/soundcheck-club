@@ -1,6 +1,6 @@
 # LUFTDICHTSICHER
 
-LUFTDICHTSICHER is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
+LUFTDICHTSICHER is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
 
 LUFTDICHTSICHER is a techno and tech house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside BERLIN, HANNAHHANSEN and Laigonen Kanonen. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ LUFTDICHTSICHER is a techno and tech house artist based in Germany, tracked on s
 
 BERLIN, HANNAHHANSEN, Laigonen Kanonen
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luftdichtsicher/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luftdichtsicher/)*

@@ -1,6 +1,6 @@
 # dilhaar
 
-dilhaar is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
+dilhaar is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
 dilhaar is a club and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside DJ ing, Brant Wolff and Mozn. Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ dilhaar is a club and house artist based in United States of America, tracked on
 
 DJ ing, Brant Wolff, Mozn
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dilhaar/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dilhaar/)*

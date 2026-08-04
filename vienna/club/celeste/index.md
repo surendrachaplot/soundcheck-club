@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "The House of Funk" on Fri, 14 Aug 2026.
+Celeste is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "The House of Funk" on Fri, 14 Aug 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including Mischa Beton, Nilya and RENIA. Browse upcoming dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -15,4 +15,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

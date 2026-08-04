@@ -1,6 +1,6 @@
 # NILAAA
 
-NILAAA is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Bernard Shaw, Dublin on Fri, 14 Aug 2026.
+NILAAA is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Bernard Shaw, Dublin on Fri, 14 Aug 2026.
 
 NILAAA is a techno and minimal techno artist based in Ireland, tracked on soundcheck, with 17 sets logged across Dublin. Often billed alongside Phil Bass, Romanetto and Connect. Next up: The Bernard Shaw, Dublin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ NILAAA is a techno and minimal techno artist based in Ireland, tracked on soundc
 
 Phil Bass, Romanetto, Connect
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilaaa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilaaa/)*

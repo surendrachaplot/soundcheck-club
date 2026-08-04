@@ -1,6 +1,6 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Klub Mechanik, Warsaw on Fri, 7 Aug 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Klub Mechanik, Warsaw on Fri, 7 Aug 2026.
 
 Evanora Unlimited is an experimental and industrial artist tracked on soundcheck, with 29 sets logged across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Klub Mechanik, Warsaw on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Evanora Unlimited is an experimental and industrial artist tracked on soundcheck
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

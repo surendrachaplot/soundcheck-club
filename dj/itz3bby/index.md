@@ -1,6 +1,6 @@
 # Itz3bby
 
-Itz3bby is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ijland, Amsterdam on Sat, 24 Oct 2026.
+Itz3bby is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ijland, Amsterdam on Sat, 24 Oct 2026.
 
 Itz3bby is a garage and house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam and Rotterdam. Often billed alongside Franky Sticks, Benja (NL) and EYCEE. Next up: Ijland, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Itz3bby is a garage and house artist based in Netherlands, tracked on soundcheck
 
 Franky Sticks, Benja (NL), EYCEE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*

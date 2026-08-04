@@ -1,6 +1,6 @@
 # JWP.
 
-JWP. is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Temp., Bangkok on Sat, 22 Aug 2026.
+JWP. is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Temp., Bangkok on Sat, 22 Aug 2026.
 
 JWP. is a club and bass artist based in Thailand, tracked on soundcheck, with 47 sets logged across Bangkok and Tokyo. Often billed alongside Genji, OXYBOY and .g (TH). Next up: Bar Temp., Bangkok on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ JWP. is a club and bass artist based in Thailand, tracked on soundcheck, with 47
 
 Genji, OXYBOY, .g (TH)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwp./)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwp./)*

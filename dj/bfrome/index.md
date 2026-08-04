@@ -1,6 +1,6 @@
 # B From E
 
-B From E is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hangaren, Copenhagen on Sat, 8 Aug 2026.
+B From E is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hangaren, Copenhagen on Sat, 8 Aug 2026.
 
 B From E is a house and trance artist based in Denmark, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Copenhagen and Lyon and 1 more. Often billed alongside Harrison Heat, Crowd Control and Baltza. Next up: Hangaren, Copenhagen on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ B From E is a house and trance artist based in Denmark, tracked on soundcheck, w
 
 Harrison Heat, Crowd Control, Baltza
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*

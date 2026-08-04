@@ -1,6 +1,6 @@
 # NUAH
 
-NUAH is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+NUAH is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 NUAH is a techno and electro artist tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Sahra Bass, FLAVE and Frida Darko. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ NUAH is a techno and electro artist tracked on soundcheck, with 25 sets logged a
 
 Sahra Bass, FLAVE, Frida Darko
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuah/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuah/)*

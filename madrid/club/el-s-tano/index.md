@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 20 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SAN CAYETANO: Jara, Savanna" on Tue, 4 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 20 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "SAN CAYETANO: Jara, Savanna" on Tue, 4 Aug 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 20 upcoming nights, with line-ups including Adrian Mart, Alvaro Cabana, Arok Shiva and Bembi and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 20 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

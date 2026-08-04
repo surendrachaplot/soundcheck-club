@@ -1,6 +1,6 @@
 # Settle Down
 
-Settle Down is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Settle Down is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 Settle Down is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, Copenhagen, Leeds and Liverpool and 3 more. Often billed alongside Napes, Cesco and Denham Audio. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Settle Down is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 Napes, Cesco, Denham Audio
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/settledown/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/settledown/)*

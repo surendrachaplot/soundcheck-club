@@ -1,6 +1,6 @@
 # ecec
 
-ecec is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Circus Tokyo, Tokyo on Thu, 6 Aug 2026.
+ecec is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Circus Tokyo, Tokyo on Thu, 6 Aug 2026.
 
 ecec is a techno and house artist tracked on soundcheck, with 170 sets logged across Osaka, Seoul, Tokyo and Vienna. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Circus Tokyo, Tokyo on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ ecec is a techno and house artist tracked on soundcheck, with 170 sets logged ac
 
 JUN INAGAWA, OKAMOTO REIJI, MoEPiKA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*

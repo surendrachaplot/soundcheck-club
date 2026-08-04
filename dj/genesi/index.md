@@ -1,6 +1,6 @@
 # GENESI
 
-GENESI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 20 Aug 2026.
+GENESI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 GENESI is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Bali and Barcelona and 18 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Hï Ibiza, Ibiza on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ GENESI is a house and techno artist tracked on soundcheck, with 52 sets logged a
 
 Meduza, James Hype (UK), David Guetta
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*

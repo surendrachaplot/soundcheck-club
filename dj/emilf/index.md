@@ -1,6 +1,6 @@
 # Emil F
 
-Emil F is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Floss, Copenhagen on Tue, 4 Aug 2026.
+Emil F is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Floss, Copenhagen on Tue, 4 Aug 2026.
 
 Emil F is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 12 sets logged across Amsterdam, Copenhagen, Newyorkcity and Thehague. Often billed alongside Frederik Valentin, oqbqbo and Archangel. Next up: Floss, Copenhagen on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Emil F is an experimental and ambient artist based in Denmark, tracked on soundc
 
 Frederik Valentin, oqbqbo, Archangel
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilf/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilf/)*

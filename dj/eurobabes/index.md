@@ -1,6 +1,6 @@
 # EUROBABES
 
-EUROBABES is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+EUROBABES is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 EUROBABES is a trance and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Leipzig and Vienna. Often billed alongside Pavelo Promillo, BBetriebswirt and DJ-Ween. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ EUROBABES is a trance and techno artist tracked on soundcheck, with 35 sets logg
 
 Pavelo Promillo, BBetriebswirt, DJ-Ween
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eurobabes/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eurobabes/)*

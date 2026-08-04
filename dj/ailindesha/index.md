@@ -1,6 +1,6 @@
 # AilinDeSha*
 
-AilinDeSha* is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mastak, Warsaw on Fri, 7 Aug 2026.
+AilinDeSha* is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mastak, Warsaw on Fri, 7 Aug 2026.
 
 AilinDeSha* is a techno artist based in Ukraine, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Gagarin, VIKKI_ and Abrew. Next up: Mastak, Warsaw on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ AilinDeSha* is a techno artist based in Ukraine, tracked on soundcheck, with 4 s
 
 Gagarin, VIKKI_, Abrew
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ailindesha/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ailindesha/)*

@@ -1,6 +1,6 @@
 # Jelsen
 
-Jelsen is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
+Jelsen is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
 
 Jelsen is a garage and house artist tracked on soundcheck, with 33 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside simmo, MUNNI and Josh Baker. Next up: fabric, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Jelsen is a garage and house artist tracked on soundcheck, with 33 sets logged a
 
 simmo, MUNNI, Josh Baker
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*

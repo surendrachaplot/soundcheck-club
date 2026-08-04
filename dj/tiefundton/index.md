@@ -1,6 +1,6 @@
 # Tiefundton
 
-Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
 Tiefundton is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin, Cologne, Frankfurt and Nurnberg and 1 more. Often billed alongside TAKTSTÖRER, A.N.I. and Daniela Hensel. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Tiefundton is a techno and trance artist tracked on soundcheck, with 27 sets log
 
 TAKTSTÖRER, A.N.I., Daniela Hensel
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

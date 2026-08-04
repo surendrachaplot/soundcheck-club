@@ -1,6 +1,6 @@
 # Raphael (UK)
 
-Raphael (UK) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Ballroom at Palais, London on Thu, 6 Aug 2026.
+Raphael (UK) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Ballroom at Palais, London on Thu, 6 Aug 2026.
 
 Raphael (UK) is a house and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Brother James, Faro and LEV (UK). Next up: Ballroom at Palais, London on Thu 6 Aug.
 
@@ -19,4 +19,4 @@ Raphael (UK) is a house and club artist based in United Kingdom, tracked on soun
 
 Brother James, Faro, LEV (UK)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-4/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-4/)*

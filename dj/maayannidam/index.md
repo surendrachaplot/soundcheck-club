@@ -1,6 +1,6 @@
 # Maayan Nidam
 
-Maayan Nidam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Onyx Room at House of Yes, New York City on Fri, 7 Aug 2026.
+Maayan Nidam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Onyx Room at House of Yes, New York City on Fri, 7 Aug 2026.
 
 Maayan Nidam is a house and minimal artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: The Onyx Room at House of Yes, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Maayan Nidam is a house and minimal artist based in Germany, tracked on soundche
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maayannidam/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maayannidam/)*

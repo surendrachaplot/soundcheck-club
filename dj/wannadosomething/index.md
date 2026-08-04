@@ -1,6 +1,6 @@
 # wannadosomething?
 
-wannadosomething? is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
+wannadosomething? is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
 wannadosomething? is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Copenhagen and Frankfurt. Often billed alongside Maltitz, Charlie Vaux and Nikklaas. Next up: AMT, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ wannadosomething? is a house and techno artist based in Germany, tracked on soun
 
 Maltitz, Charlie Vaux, Nikklaas
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wannadosomething/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wannadosomething/)*

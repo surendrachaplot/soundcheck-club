@@ -1,6 +1,6 @@
 # R25 Kulturschlachthof
 
-R25 Kulturschlachthof is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "RheinRAVE: SCHR4NZG3ST3U3RT with Viper XXL" on Sat, 15 Aug 2026.
+R25 Kulturschlachthof is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "RheinRAVE: SCHR4NZG3ST3U3RT with Viper XXL" on Sat, 15 Aug 2026.
 
 R25 Kulturschlachthof is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with line-ups including BrettHit, Donnerfotz HT, Ropemaker and ViperXXL. Browse upcoming dates, start times and who's playing. Rather Strasse 25, 40476 Düsseldorf, Deutschland.
 
@@ -15,4 +15,4 @@ R25 Kulturschlachthof is a music venue in Dusseldorf listed on soundcheck. 2 upc
 
 Rather Strasse 25, 40476 Düsseldorf, Deutschland, Düsseldorf
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/r25-kulturschlachthof/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/r25-kulturschlachthof/)*

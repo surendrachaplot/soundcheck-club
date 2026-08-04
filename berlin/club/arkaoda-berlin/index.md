@@ -1,6 +1,6 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Noche Cierva en Arkaoda" on Thu, 6 Aug 2026.
+arkaoda Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Noche Cierva en Arkaoda" on Thu, 6 Aug 2026.
 
 arkaoda Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including A.Wild, Alada, Cousin and COZi and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
@@ -22,4 +22,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming night
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

@@ -1,6 +1,6 @@
 # Cio D'Or
 
-Cio D'Or is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Cio D'Or is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
 Cio D'Or is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Woody92, Mama Snake and Varuna Agosti. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Cio D'Or is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Woody92, Mama Snake, Varuna Agosti
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciodor/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciodor/)*

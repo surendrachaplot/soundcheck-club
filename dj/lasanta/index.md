@@ -1,6 +1,6 @@
 # La Santa
 
-La Santa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Signal, New York City on Sat, 15 Aug 2026.
+La Santa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Signal, New York City on Sat, 15 Aug 2026.
 
 La Santa is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Ibiza, Mexicocity, Miami and Naples and 3 more. Often billed alongside DJ Chus, Joeski and Alan Palacios. Next up: Signal, Newyorkcity on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ La Santa is a house and electronica artist based in United Kingdom, tracked on s
 
 DJ Chus, Joeski, Alan Palacios
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lasanta/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lasanta/)*

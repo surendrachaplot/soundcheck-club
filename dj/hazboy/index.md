@@ -1,6 +1,6 @@
 # hazboy
 
-hazboy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Colombian Hotel, Sydney on Fri, 21 Aug 2026.
+hazboy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Colombian Hotel, Sydney on Fri, 21 Aug 2026.
 
 hazboy is a techno and trance artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside 0800KIN, Ember Electra and RHINESTONE COWGIRL. Next up: Colombian Hotel, Sydney on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ hazboy is a techno and trance artist based in Australia, tracked on soundcheck, 
 
 0800KIN, Ember Electra, RHINESTONE COWGIRL
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazboy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazboy/)*

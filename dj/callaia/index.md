@@ -1,6 +1,6 @@
 # Callaia
 
-Callaia is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 15 Aug 2026.
+Callaia is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 15 Aug 2026.
 
 Callaia is a club and electronica artist based in United States of America, tracked on soundcheck, with 1 set logged across Philadelphia. Often billed alongside hopifer and lorboo. Next up: Val’s Lesbian Bar, Philadelphia on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Callaia is a club and electronica artist based in United States of America, trac
 
 hopifer, lorboo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callaia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callaia/)*

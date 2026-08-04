@@ -1,6 +1,6 @@
 # Annyrock
 
-Annyrock is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
+Annyrock is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
 
 Annyrock is a house and techno artist based in Ukraine, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside E.LINA, slin and Ancut. Next up: Tokonoma Club, Frankfurt on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Annyrock is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 E.LINA, slin, Ancut
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*

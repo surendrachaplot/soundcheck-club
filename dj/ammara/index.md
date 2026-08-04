@@ -1,6 +1,6 @@
 # AMMARA
 
-AMMARA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+AMMARA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 AMMARA is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -28,4 +28,4 @@ AMMARA is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 Ben Hemsley, Danny Howard, Andhim
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*

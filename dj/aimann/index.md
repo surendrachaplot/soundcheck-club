@@ -1,6 +1,6 @@
 # Aimann
 
-Aimann is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Revolver Upstairs, Melbourne on Wed, 5 Aug 2026.
+Aimann is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Revolver Upstairs, Melbourne on Wed, 5 Aug 2026.
 
 Aimann is an electronic artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Couch Mechanic, Ed Kent and Stockholm Syndrome. Next up: Revolver Upstairs, Melbourne on Wed 5 Aug.
 
@@ -18,4 +18,4 @@ Aimann is an electronic artist based in Australia, tracked on soundcheck, with 2
 
 Couch Mechanic, Ed Kent, Stockholm Syndrome
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimann/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimann/)*

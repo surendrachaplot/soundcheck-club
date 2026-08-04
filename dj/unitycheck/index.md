@@ -1,6 +1,6 @@
 # UNITYCHECK
 
-UNITYCHECK is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
+UNITYCHECK is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
 
 UNITYCHECK is a house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles. Often billed alongside Mr. Fowler, Jarren and Mr Anderson. Next up: General Lee's Cocktail House, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ UNITYCHECK is a house and deep house artist based in United States of America, t
 
 Mr. Fowler, Jarren, Mr Anderson
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unitycheck/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unitycheck/)*

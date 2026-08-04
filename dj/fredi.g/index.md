@@ -1,6 +1,6 @@
 # Fredi.G
 
-Fredi.G is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Unter Deck, Munich on Thu, 6 Aug 2026.
+Fredi.G is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Unter Deck, Munich on Thu, 6 Aug 2026.
 
 Fredi.G is a trance and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Munich. Often billed alongside Pete Harel, Artur Bredo and MASC.. Next up: Unter Deck, Munich on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Fredi.G is a trance and house artist based in Germany, tracked on soundcheck, wi
 
 Pete Harel, Artur Bredo, MASC.
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredi.g/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredi.g/)*

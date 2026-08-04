@@ -1,6 +1,6 @@
 # LILI
 
-LILI is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+LILI is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
 LILI is a tech house and house artist tracked on soundcheck, with 25 sets logged across Ibiza, Leeds, London and Newcastle and 1 more. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: 93 Feet East, London on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ LILI is a tech house and house artist tracked on soundcheck, with 25 sets logged
 
 Lewis Carroll, Tommy Gold, ADMNTi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

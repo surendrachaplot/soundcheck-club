@@ -1,6 +1,6 @@
 # Cleveland Watkiss
 
-Cleveland Watkiss is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Cleveland Watkiss is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Cleveland Watkiss is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logged across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Grooverider, Fabio and Doc Scott. Next up: The Cause, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Cleveland Watkiss is a drum & bass and jungle artist tracked on soundcheck, with
 
 Grooverider, Fabio, Doc Scott
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*

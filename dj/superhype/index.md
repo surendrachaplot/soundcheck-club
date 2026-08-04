@@ -1,6 +1,6 @@
 # Superhype
 
-Superhype is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
+Superhype is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
 
 Superhype is a techno and house artist based in Australia, tracked on soundcheck, with 25 sets logged across Melbourne. Often billed alongside Deltoid Curve, Stockholm Syndrome and CHARBINKS. Next up: Killing Time, Melbourne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Superhype is a techno and house artist based in Australia, tracked on soundcheck
 
 Deltoid Curve, Stockholm Syndrome, CHARBINKS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superhype/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superhype/)*

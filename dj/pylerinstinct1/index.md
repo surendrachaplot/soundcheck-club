@@ -1,6 +1,6 @@
 # Pylerinstinct1
 
-Pylerinstinct1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
+Pylerinstinct1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
 
 Pylerinstinct1 is a techno and dub techno artist based in Spain, tracked on soundcheck, with 9 sets logged across Berlin and Madrid. Often billed alongside Wisje Dj, Fgdj and Genghis C_nt. Next up: ÆDEN, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Pylerinstinct1 is a techno and dub techno artist based in Spain, tracked on soun
 
 Wisje Dj, Fgdj, Genghis C_nt
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pylerinstinct1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pylerinstinct1/)*

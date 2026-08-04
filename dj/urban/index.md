@@ -1,6 +1,6 @@
 # Urban
 
-Urban is a Pop and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Urban is a Pop and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Urban is a pop and afro house artist based in Poland, tracked on soundcheck, with 3 sets logged across Amsterdam and Nurnberg. Often billed alongside Aries, Avocado and Baerbel. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -19,4 +19,4 @@ Urban is a pop and afro house artist based in Poland, tracked on soundcheck, wit
 
 Aries, Avocado, Baerbel
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urban/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urban/)*

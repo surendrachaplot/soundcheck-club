@@ -1,6 +1,6 @@
 # Oren.
 
-Oren. is a Electronica and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
+Oren. is a Electronica and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
 
 Oren. is an electronica and minimal techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London and Malaga. Often billed alongside Oren (IT), Yuma (UK) and Monterosso. Next up: Doggy Klœb, Malaga on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Oren. is an electronica and minimal techno artist based in United Kingdom, track
 
 Oren (IT), Yuma (UK), Monterosso
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oren/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oren/)*

@@ -1,6 +1,6 @@
 # Jacki Why
 
-Jacki Why is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at On The Hiyu, Seattle on Fri, 7 Aug 2026.
+Jacki Why is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at On The Hiyu, Seattle on Fri, 7 Aug 2026.
 
 Jacki Why is a house and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Seattle. Often billed alongside KJ3 (US), Chance Sands and Danny Daze. Next up: On The Hiyu, Seattle on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Jacki Why is a house and electro artist based in United States of America, track
 
 KJ3 (US), Chance Sands, Danny Daze
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiwhy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiwhy/)*

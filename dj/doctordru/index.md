@@ -1,6 +1,6 @@
 # Doctor Dru
 
-Doctor Dru is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 8 Aug 2026.
+Doctor Dru is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 8 Aug 2026.
 
 Doctor Dru is a house and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Barcelona, Hamburg, Mexicocity and Prague and 1 more. Often billed alongside Andrea Castells, Bambook and Miss Manu. Next up: Purobeach Barcelona, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Doctor Dru is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Andrea Castells, Bambook, Miss Manu
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*

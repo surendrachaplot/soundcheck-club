@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
+Aurora Halal is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
 
 Aurora Halal is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Priori, Nick León and Polygonia. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 213 sets l
 
 Priori, Nick León, Polygonia
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

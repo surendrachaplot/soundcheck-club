@@ -1,6 +1,6 @@
 # Cabaret Berlin
 
-Cabaret Berlin is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FRIDAY I'm In Love ♥ 7 Août" on Fri, 7 Aug 2026.
+Cabaret Berlin is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FRIDAY I'm In Love ♥ 7 Août" on Fri, 7 Aug 2026.
 
 Cabaret Berlin is a music venue in Montreal listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1982 Ste-Catherine East, H2K 2H7.
 
@@ -15,4 +15,4 @@ Cabaret Berlin is a music venue in Montreal listed on soundcheck. 2 upcoming nig
 
 1982 Ste-Catherine East, H2K 2H7, Montreal
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/cabaret-berlin/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/cabaret-berlin/)*

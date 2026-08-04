@@ -1,6 +1,6 @@
 # PANACOTTA
 
-PANACOTTA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
+PANACOTTA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Odonien, Cologne on Wed, 5 Aug 2026.
 
 PANACOTTA is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne. Often billed alongside Bouncy Bitch, HENNESY and MARRED. Next up: Odonien, Cologne on Wed 5 Aug.
 
@@ -23,4 +23,4 @@ PANACOTTA is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Bouncy Bitch, HENNESY, MARRED
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panacotta/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panacotta/)*

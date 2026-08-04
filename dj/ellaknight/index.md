@@ -1,6 +1,6 @@
 # Ella Knight
 
-Ella Knight is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Ella Knight is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Ella Knight is a house and disco artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Scarlett O'Malley, Dan Shake and Kirollus. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -35,4 +35,4 @@ Ella Knight is a house and disco artist tracked on soundcheck, with 117 sets log
 
 Scarlett O'Malley, Dan Shake, Kirollus
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaknight/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaknight/)*

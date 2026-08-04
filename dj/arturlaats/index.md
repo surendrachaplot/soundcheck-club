@@ -1,6 +1,6 @@
 # Artur Lääts
 
-Artur Lääts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Artur Lääts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Artur Lääts is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Tallinn. Often billed alongside Tanel Mütt, pikkauch and Micaela Saraceno. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Artur Lääts is a techno and house artist tracked on soundcheck, with 20 sets l
 
 Tanel Mütt, pikkauch, Micaela Saraceno
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arturlaats/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arturlaats/)*

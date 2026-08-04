@@ -1,6 +1,6 @@
 # smother
 
-smother is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
+smother is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
 
 smother is a house and club artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside YoungWoman, DIORA and Slimfit. Next up: MAS - Museum aan de Stroom, Antwerp on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ smother is a house and club artist based in Netherlands, tracked on soundcheck, 
 
 YoungWoman, DIORA, Slimfit
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smother/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smother/)*

@@ -1,6 +1,6 @@
 # Quirin (DE)
 
-Quirin (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 7 Aug 2026.
+Quirin (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 7 Aug 2026.
 
 Quirin (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Addie Manson, Danca and LFES. Next up: Bahnwärter Thiel, Munich on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Quirin (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Addie Manson, Danca, LFES
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*

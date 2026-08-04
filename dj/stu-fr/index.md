@@ -1,6 +1,6 @@
 # STU (FR)
 
-STU (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at KALT, Strasbourg on Sat, 8 Aug 2026.
+STU (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KALT, Strasbourg on Sat, 8 Aug 2026.
 
 STU (FR) is a house and techno artist based in France, tracked on soundcheck, with 51 sets logged across Athens, Paris, Strasbourg and Vancouver. Often billed alongside Dima Roas, Roan and Halès. Next up: KALT, Strasbourg on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ STU (FR) is a house and techno artist based in France, tracked on soundcheck, wi
 
 Dima Roas, Roan, Halès
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stu-fr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stu-fr/)*

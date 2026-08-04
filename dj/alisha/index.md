@@ -1,6 +1,6 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
+ALISHA is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
 
 ALISHA is a house and tech house artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Sidney Charles. Next up: Amnesia Ibiza, Ibiza on Tue 4 Aug.
 
@@ -34,4 +34,4 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 172 sets log
 
 East End Dubs, Jamie Jones, Sidney Charles
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

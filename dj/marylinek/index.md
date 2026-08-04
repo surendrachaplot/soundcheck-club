@@ -1,6 +1,6 @@
 # Maryline K
 
-Maryline K is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Maryline K is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 Maryline K is a techno and psytrance artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside Sabu!, The Jakob Sister and Bad Boombox. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Maryline K is a techno and psytrance artist based in Germany, tracked on soundch
 
 Sabu!, The Jakob Sister, Bad Boombox
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylinek/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylinek/)*

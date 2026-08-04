@@ -1,6 +1,6 @@
 # Luke McKeehan
 
-Luke McKeehan is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Pearl, Vancouver on Fri, 11 Sept 2026.
+Luke McKeehan is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Pearl, Vancouver on Fri, 11 Sept 2026.
 
 Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 27 sets logged across Vancouver. Often billed alongside Jesse Hills, DJ Heather and DJ Sneak. Next up: The Pearl, Vancouver on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 27 se
 
 Jesse Hills, DJ Heather, DJ Sneak
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*

@@ -1,6 +1,6 @@
 # Juli Gago
 
-Juli Gago is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
+Juli Gago is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
 
 Juli Gago is a house and tech house artist based in Argentina, tracked on soundcheck, with 12 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Flor Coto, Nacho Carbajal and Tom Pavicich. Next up: Urban Spree, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Juli Gago is a house and tech house artist based in Argentina, tracked on soundc
 
 Flor Coto, Nacho Carbajal, Tom Pavicich
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juligago/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juligago/)*

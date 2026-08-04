@@ -1,6 +1,6 @@
 # Blind
 
-Blind is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Particles" on Sat, 8 Aug 2026.
+Blind is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Particles" on Sat, 8 Aug 2026.
 
 Blind is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Particles. Browse upcoming dates, start times and who's playing. Şehbender sokak no:3 Asmalımescit / Beyoğlu, Istanbul.
 
@@ -14,4 +14,4 @@ Blind is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with 
 
 Şehbender sokak no:3 Asmalımescit / Beyoğlu, Istanbul, Istanbul
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/blind/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/blind/)*

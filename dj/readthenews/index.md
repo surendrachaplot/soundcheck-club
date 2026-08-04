@@ -1,6 +1,6 @@
 # Read the News
 
-Read the News is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sala Upload Barcelona, Barcelona on Fri, 7 Aug 2026.
+Read the News is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sala Upload Barcelona, Barcelona on Fri, 7 Aug 2026.
 
 Read the News is a techno and house artist based in Switzerland, tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Cologne and London and 2 more. Often billed alongside Reto Ardour, Josh Gigante and Sebastian Konrad. Next up: Sala Upload Barcelona, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Read the News is a techno and house artist based in Switzerland, tracked on soun
 
 Reto Ardour, Josh Gigante, Sebastian Konrad
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/readthenews/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/readthenews/)*

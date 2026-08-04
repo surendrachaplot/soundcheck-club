@@ -1,6 +1,6 @@
 # Mujuice
 
-Mujuice is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
+Mujuice is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
 
 Mujuice is an electronica and experimental artist tracked on soundcheck, with 4 sets logged across London, Losangeles and Newyorkcity. Often billed alongside Moa Pillar, TWONSKi and bod [包家巷]. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Mujuice is an electronica and experimental artist tracked on soundcheck, with 4 
 
 Moa Pillar, TWONSKi, bod [包家巷]
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mujuice/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mujuice/)*

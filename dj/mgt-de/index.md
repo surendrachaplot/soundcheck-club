@@ -1,6 +1,6 @@
 # mgt (DE)
 
-mgt (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+mgt (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
 mgt (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Jamona Serrana, Amy Kisnorbo and Bakläxa. Next up: Renate, Berlin on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ mgt (DE) is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Jamona Serrana, Amy Kisnorbo, Bakläxa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mgt-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mgt-de/)*

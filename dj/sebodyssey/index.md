@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Dancehall artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
+Seb Odyssey is a House and Dancehall artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Carpet Shop, London on Fri, 14 Aug 2026.
 
 Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets logged across Leeds, London, Manchester and Stockholm. Often billed alongside Josh Caffé, Jade Seatle and FAFF. Next up: The Carpet Shop, London on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets 
 
 Josh Caffé, Jade Seatle, FAFF
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

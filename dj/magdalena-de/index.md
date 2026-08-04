@@ -1,6 +1,6 @@
 # Magdalena (DE)
 
-Magdalena (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 12 Sept 2026.
+Magdalena (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 12 Sept 2026.
 
 Magdalena (DE) is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Nina Kraviz, 19:26 and ALX. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Magdalena (DE) is a techno and house artist tracked on soundcheck, with 46 sets 
 
 Nina Kraviz, 19:26, ALX
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena-de/)*

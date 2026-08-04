@@ -1,6 +1,6 @@
 # Chris Liberator
 
-Chris Liberator is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
+Chris Liberator is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
 
 Chris Liberator is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside DAVE the Drummer, Sterling Moss and Tiddles. Next up: Distillery N17, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Chris Liberator is a techno and acid artist based in United Kingdom, tracked on 
 
 DAVE the Drummer, Sterling Moss, Tiddles
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*

@@ -1,6 +1,6 @@
 # Faustø
 
-Faustø is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Glazart, Paris on Sat, 8 Aug 2026.
+Faustø is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Glazart, Paris on Sat, 8 Aug 2026.
 
 Faustø is a techno and electronica artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Mariano DC, Cia Rebeck and JULIETA LAKE. Next up: Glazart, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Faustø is a techno and electronica artist tracked on soundcheck, with 30 sets l
 
 Mariano DC, Cia Rebeck, JULIETA LAKE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faustodj/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faustodj/)*

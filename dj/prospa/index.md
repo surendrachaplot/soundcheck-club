@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 7 Aug 2026.
+Prospa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 Prospa is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Pacha Ibiza, Ibiza on Fri 7 Aug.
 
@@ -35,4 +35,4 @@ Prospa is a house and techno artist tracked on soundcheck, with 173 sets logged 
 
 Seth Troxler, Josh Baker, Sossa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

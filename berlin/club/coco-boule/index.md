@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Discovery Sessions: Berlin" on Fri, 21 Aug 2026.
+Coco Boule is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Discovery Sessions: Berlin" on Fri, 21 Aug 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Antss, CBR (Berlin), Fabe and Jay de Lys and 2 more. Browse upcoming dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming nights, w
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

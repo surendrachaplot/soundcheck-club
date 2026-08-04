@@ -1,6 +1,6 @@
 # FLWRSHRK
 
-FLWRSHRK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Marco's, New York City on Tue, 11 Aug 2026.
+FLWRSHRK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Marco's, New York City on Tue, 11 Aug 2026.
 
 FLWRSHRK is a club and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Losangeles, Montreal and Newyorkcity. Often billed alongside DJ Freedem, Marvelito and Traps N Trees. Next up: Marco's, Newyorkcity on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ FLWRSHRK is a club and techno artist based in United States of America, tracked 
 
 DJ Freedem, Marvelito, Traps N Trees
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flwrshrk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flwrshrk/)*

@@ -1,6 +1,6 @@
 # Kisling
 
-Kisling is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
+Kisling is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
 
 Kisling is a disco and house artist based in France, tracked on soundcheck, with 6 sets logged across Berlin and Vienna. Often billed alongside Nyna Curtis, Abdullah Miniawy and Alan Fitzpatrick. Next up: OXI, Berlin on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ Kisling is a disco and house artist based in France, tracked on soundcheck, with
 
 Nyna Curtis, Abdullah Miniawy, Alan Fitzpatrick
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kisling/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kisling/)*

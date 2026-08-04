@@ -1,6 +1,6 @@
 # Enchanted Rhythms
 
-Enchanted Rhythms is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Thu, 20 Aug 2026.
+Enchanted Rhythms is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Thu, 20 Aug 2026.
 
 Enchanted Rhythms is a house and electro artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 4 more. Often billed alongside Alexandra, DJ Slim Fit and The Apricots. Next up: Club der Visionaere, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Enchanted Rhythms is a house and electro artist based in United Kingdom, tracked
 
 Alexandra, DJ Slim Fit, The Apricots
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enchantedrhythms/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enchantedrhythms/)*

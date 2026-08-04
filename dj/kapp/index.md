@@ -1,14 +1,15 @@
 # KAPP
 
-KAPP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lux Fragil, Lisbon on Thu, 6 Aug 2026.
+KAPP is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lux Fragil, Lisbon on Thu, 6 Aug 2026.
 
-KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside Simoon Pedro, Juliana Branco and Leonardo Cruz DJ. Next up: Lux Fragil, Lisbon on Thu 6 Aug.
+KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside Simoon Pedro, Juliana Branco and Leonardo Cruz DJ. Next up: Lux Fragil, Lisbon on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Lux Fragil | Lisbon |
+| Sat, 15 Aug 2026 | Square Studio Lab | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Simoon Pedro, Juliana Branco, Leonardo Cruz DJ
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapp/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapp/)*

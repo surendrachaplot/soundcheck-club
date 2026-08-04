@@ -1,6 +1,6 @@
 # Extrawelt
 
-Extrawelt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Extrawelt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Extrawelt is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Budapest and 14 more. Often billed alongside Robag Wruhme, Anja Schneider and Gregor Tresher. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Extrawelt is a techno and house artist tracked on soundcheck, with 47 sets logge
 
 Robag Wruhme, Anja Schneider, Gregor Tresher
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/extrawelt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/extrawelt/)*

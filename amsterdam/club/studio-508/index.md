@@ -1,6 +1,6 @@
 # Studio 508
 
-Studio 508 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "808 @ Studio 508 " on Sat, 8 Aug 2026.
+Studio 508 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "808 @ Studio 508 " on Sat, 8 Aug 2026.
 
 Studio 508 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including David Reinhart, Iggy P, Robert Bergman and Roel de Boer and 1 more. Browse upcoming dates, start times and who's playing. On request.
 
@@ -14,4 +14,4 @@ Studio 508 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night,
 
 On request, Amsterdam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/studio-508/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/studio-508/)*

@@ -1,6 +1,6 @@
 # TH4YS
 
-TH4YS is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Night Tales, London on Fri, 14 Aug 2026.
+TH4YS is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Night Tales, London on Fri, 14 Aug 2026.
 
 TH4YS is a baile funk and afrobeat artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 8 more. Often billed alongside GUS (4), Caio Prince and Mirands. Next up: Night Tales, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ TH4YS is a baile funk and afrobeat artist tracked on soundcheck, with 30 sets lo
 
 GUS (4), Caio Prince, Mirands
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/th4ys/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/th4ys/)*

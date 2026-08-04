@@ -1,6 +1,6 @@
 # Palmerstown House Estate
 
-Palmerstown House Estate is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "D8 in the Garden presents Morgan Seatree" on Fri, 7 Aug 2026.
+Palmerstown House Estate is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "D8 in the Garden presents Morgan Seatree" on Fri, 7 Aug 2026.
 
 Palmerstown House Estate is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Kepler, Azyr, blk. and Chloé Caillet and 2 more. Browse upcoming dates, start times and who's playing. Palmerstown House, Estate, Naas, Co. Kildare, W91 FK10.
 
@@ -16,4 +16,4 @@ Palmerstown House Estate is a music venue in Dublin listed on soundcheck. 3 upco
 
 Palmerstown House, Estate, Naas, Co. Kildare, W91 FK10, Dublin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/palmerstown-house-estate/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/palmerstown-house-estate/)*

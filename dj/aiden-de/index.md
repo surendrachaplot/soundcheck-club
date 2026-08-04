@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 6 Aug 2026.
+Aiden (DE) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 6 Aug 2026.
 
 Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

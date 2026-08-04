@@ -1,6 +1,6 @@
 # Martial Canterel
 
-Martial Canterel is a Minimal and New Wave artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
+Martial Canterel is a Minimal and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
 
 Martial Canterel is a minimal and new wave artist tracked on soundcheck, with 9 sets logged across Austin, Berlin, Montreal and Newyorkcity and 3 more. Often billed alongside Xeno & Oaklander, Collin Crowe and DJ Baby Berlin. Next up: ÆDEN, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Martial Canterel is a minimal and new wave artist tracked on soundcheck, with 9 
 
 Xeno & Oaklander, Collin Crowe, DJ Baby Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martialcanterel/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martialcanterel/)*

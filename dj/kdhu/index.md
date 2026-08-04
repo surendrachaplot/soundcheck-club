@@ -1,6 +1,6 @@
 # kD (HU)
 
-kD (HU) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pavilon Kert, Budapest on Sat, 8 Aug 2026.
+kD (HU) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pavilon Kert, Budapest on Sat, 8 Aug 2026.
 
 kD (HU) is a house and disco artist tracked on soundcheck, with 21 sets logged across Budapest and Prague. Often billed alongside Solus, Sam Gittis and AR38. Next up: Pavilon Kert, Budapest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ kD (HU) is a house and disco artist tracked on soundcheck, with 21 sets logged a
 
 Solus, Sam Gittis, AR38
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kdhu/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kdhu/)*

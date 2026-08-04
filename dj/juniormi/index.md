@@ -1,6 +1,6 @@
 # JUNIOR MI
 
-JUNIOR MI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
+JUNIOR MI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
 
 JUNIOR MI is a tech house and house artist based in Greece, tracked on soundcheck, with 10 sets logged across Athens. Often billed alongside Frankie Lluc, BRB and Chris child. Next up: TBA, Athens on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ JUNIOR MI is a tech house and house artist based in Greece, tracked on soundchec
 
 Frankie Lluc, BRB, Chris child
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniormi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniormi/)*

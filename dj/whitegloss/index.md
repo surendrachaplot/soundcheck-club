@@ -1,6 +1,6 @@
 # White Gloss
 
-White Gloss is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+White Gloss is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 White Gloss is a club and techno artist tracked on soundcheck, with 25 sets logged across Tallinn. Often billed alongside Fake Versace, Metabora and Tanel Mütt. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ White Gloss is a club and techno artist tracked on soundcheck, with 25 sets logg
 
 Fake Versace, Metabora, Tanel Mütt
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whitegloss/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whitegloss/)*

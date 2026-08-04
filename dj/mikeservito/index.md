@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+Mike Servito is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
 
 Mike Servito is a house and techno artist tracked on soundcheck, with 276 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Erika, Shaun J. Wright and BMG. Next up: KREUZWERK, Berlin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Mike Servito is a house and techno artist tracked on soundcheck, with 276 sets l
 
 Erika, Shaun J. Wright, BMG
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

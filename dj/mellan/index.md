@@ -1,6 +1,6 @@
 # Mellan
 
-Mellan is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nyapi, Seoul on Sat, 8 Aug 2026.
+Mellan is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nyapi, Seoul on Sat, 8 Aug 2026.
 
 Mellan is a disco and house artist based in South Korea, tracked on soundcheck, with 34 sets logged across Seoul. Often billed alongside Nanbong, Baxa and DJ Wow. Next up: Nyapi, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mellan is a disco and house artist based in South Korea, tracked on soundcheck, 
 
 Nanbong, Baxa, DJ Wow
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellan/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellan/)*

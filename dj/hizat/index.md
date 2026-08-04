@@ -1,6 +1,6 @@
 # HIZAT
 
-HIZAT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
+HIZAT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
 
 HIZAT is a house and techno artist based in Japan, tracked on soundcheck, with 69 sets logged across Tokyo. Often billed alongside Neon Noir, RYOHEI and Frankie $. Next up: WOMB, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ HIZAT is a house and techno artist based in Japan, tracked on soundcheck, with 6
 
 Neon Noir, RYOHEI, Frankie $
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hizat/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hizat/)*

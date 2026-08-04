@@ -1,6 +1,6 @@
 # Dest
 
-Dest is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Dest is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
 Dest is a house and techno artist tracked on soundcheck, with 8 sets logged across Athens, Melbourne and Mykonos. Often billed alongside Marsha, Abana and Alex Dallas. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Dest is a house and techno artist tracked on soundcheck, with 8 sets logged acro
 
 Marsha, Abana, Alex Dallas
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dest/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dest/)*

@@ -1,6 +1,6 @@
 # Maya (Shonan Balearic)
 
-Maya (Shonan Balearic) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
+Maya (Shonan Balearic) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
 
 Maya (Shonan Balearic) is a techno and house artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside AHREUM, GOLDEN ROA and Kamekawa. Next up: WOMB, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Maya (Shonan Balearic) is a techno and house artist based in Japan, tracked on s
 
 AHREUM, GOLDEN ROA, Kamekawa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayashonanbalearic/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayashonanbalearic/)*

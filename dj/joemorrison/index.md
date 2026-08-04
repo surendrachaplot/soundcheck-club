@@ -1,6 +1,6 @@
 # Joe Morrison
 
-Joe Morrison is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
+Joe Morrison is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
 
 Joe Morrison is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Danse Atmos, Bonzai Bonner and David Scott. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Joe Morrison is an electronic artist based in United Kingdom, tracked on soundch
 
 Danse Atmos, Bonzai Bonner, David Scott
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorrison/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorrison/)*

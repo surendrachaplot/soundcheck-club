@@ -1,6 +1,6 @@
 # Endrew
 
-Endrew is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ikii, Berlin on Tue, 4 Aug 2026.
+Endrew is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ikii, Berlin on Tue, 4 Aug 2026.
 
 Endrew is a techno and electronica artist based in Italy, tracked on soundcheck, with 34 sets logged across Berlin, Hamburg, Milan and Rome. Often billed alongside Asymptote, Anastasya and Giorgia Ferrero. Next up: Ikii, Berlin on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Endrew is a techno and electronica artist based in Italy, tracked on soundcheck,
 
 Asymptote, Anastasya, Giorgia Ferrero
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endrew/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endrew/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Silent Green Open Lab #9: JKZQ + franna" on Tue, 4 Aug 2026.
+Silent Green is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Silent Green Open Lab #9: JKZQ + franna" on Tue, 4 Aug 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Daniel Miller, JakoJako, Nicolas Bougaïeff and Pole. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 6 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

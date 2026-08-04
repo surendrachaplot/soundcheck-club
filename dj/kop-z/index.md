@@ -1,6 +1,6 @@
 # Kop-Z
 
-Kop-Z is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The White Hotel, Manchester on Fri, 7 Aug 2026.
+Kop-Z is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The White Hotel, Manchester on Fri, 7 Aug 2026.
 
 Kop-Z is a techno and bass artist tracked on soundcheck, with 53 sets logged across Berlin, Bristol, Liverpool and Manchester and 1 more. Often billed alongside Flames Disperse, Cersy and Obeka. Next up: The White Hotel, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kop-Z is a techno and bass artist tracked on soundcheck, with 53 sets logged acr
 
 Flames Disperse, Cersy, Obeka
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kop-z/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kop-z/)*

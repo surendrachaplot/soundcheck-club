@@ -1,6 +1,6 @@
 # Brasi
 
-Brasi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Brasi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Brasi is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Niff, Alexia Glensy and Binh. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Brasi is a techno and house artist tracked on soundcheck, with 129 sets logged a
 
 Niff, Alexia Glensy, Binh
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

@@ -1,13 +1,14 @@
 # Colaps
 
-Colaps is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
+Colaps is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
-Colaps is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Gefra, Jo Cruz and Dom James U.K. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
+Colaps is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Gefra, Jo Cruz and Dom James U.K. Next up: Square Studio Lab, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Square Studio Lab | London |
 | Sun, 30 Aug 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Colaps is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gefra, Jo Cruz, Dom James U.K
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colaps/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colaps/)*

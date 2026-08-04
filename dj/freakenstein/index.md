@@ -1,6 +1,6 @@
 # FREAKENSTEIN
 
-FREAKENSTEIN is a Electro and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Strange Brew, Bristol on Sat, 15 Aug 2026.
+FREAKENSTEIN is a Electro and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Strange Brew, Bristol on Sat, 15 Aug 2026.
 
 FREAKENSTEIN is an electro and balearic artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Anna Wall, Anthea and Bobby.. Next up: Strange Brew, Bristol on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ FREAKENSTEIN is an electro and balearic artist based in United Kingdom, tracked 
 
 Anna Wall, Anthea, Bobby.
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*

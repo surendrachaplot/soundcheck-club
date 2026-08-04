@@ -1,14 +1,15 @@
 # Morz Des Soundsystem
 
-Morz Des Soundsystem is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Komitee, Munich on Sat, 8 Aug 2026.
+Morz Des Soundsystem is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Komitee, Munich on Sat, 8 Aug 2026.
 
-Morz Des Soundsystem is a house and balearic artist based in Germany, tracked on soundcheck, with 17 sets logged across Munich and Naples. Often billed alongside heronymus, Julie Fleischer and André Dancekowski. Next up: Komitee, Munich on Sat 8 Aug.
+Morz Des Soundsystem is a house and balearic artist based in Germany, tracked on soundcheck, with 18 sets logged across Munich and Naples. Often billed alongside heronymus, André Dancekowski and Julie Fleischer. Next up: Komitee, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Komitee | Munich |
+| Sat, 15 Aug 2026 | Goldener Reiter | Munich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Morz Des Soundsystem is a house and balearic artist based in Germany, tracked on
 
 ## Shares bills with
 
-heronymus, Julie Fleischer, André Dancekowski
+heronymus, André Dancekowski, Julie Fleischer
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morzdessoundsystem/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morzdessoundsystem/)*

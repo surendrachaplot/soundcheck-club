@@ -1,6 +1,6 @@
 # Tyler Hill
 
-Tyler Hill is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kajama Tall Ship, Toronto on Fri, 7 Aug 2026.
+Tyler Hill is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kajama Tall Ship, Toronto on Fri, 7 Aug 2026.
 
 Tyler Hill is a tech house and house artist tracked on soundcheck, with 124 sets logged across Montreal and Toronto. Often billed alongside Barroness, TAKiN and Manzone & Strong. Next up: Kajama Tall Ship, Toronto on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Tyler Hill is a tech house and house artist tracked on soundcheck, with 124 sets
 
 Barroness, TAKiN, Manzone & Strong
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerhill/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerhill/)*

@@ -1,6 +1,6 @@
 # Particles
 
-Particles is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Blind, Istanbul on Sat, 8 Aug 2026.
+Particles is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Blind, Istanbul on Sat, 8 Aug 2026.
 
 Particles is a garage and bass artist tracked on soundcheck, with 15 sets logged across Istanbul and Manchester. Often billed alongside Murteza, Rectør and Jung (3). Next up: Blind, Istanbul on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Particles is a garage and bass artist tracked on soundcheck, with 15 sets logged
 
 Murteza, Rectør, Jung (3)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*

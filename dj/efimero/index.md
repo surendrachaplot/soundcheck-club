@@ -1,6 +1,6 @@
 # EFÍMERO
 
-EFÍMERO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
+EFÍMERO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
 
 EFÍMERO is a techno and house artist based in Mexico, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Mexicocity and Prague. Often billed alongside Diego Montiel, Frankie Flowerz and Gem Wallow. Next up: Sunseabar Beach Club, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ EFÍMERO is a techno and house artist based in Mexico, tracked on soundcheck, wi
 
 Diego Montiel, Frankie Flowerz, Gem Wallow
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efimero/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efimero/)*

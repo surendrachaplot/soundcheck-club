@@ -1,32 +1,29 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Radio Slave is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Paal69, Amsterdam on Sun, 16 Aug 2026.
 
-Radio Slave is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Anja Schneider, Tal Fussman and DJ Minx. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
+Radio Slave is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Anja Schneider, Tal Fussman and DJ Minx. Next up: Paal69, Amsterdam on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
-| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
-| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Sun, 16 Aug 2026 | Paal69 | Amsterdam |
 | Sat, 10 Oct 2026 | Omeara | London |
 
 ## Recently played
 
+- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
+- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
+- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
 - Playa Soleil Ibiza, Ibiza — Fri, 31 Jul 2026
 - Bridge 48, Barcelona — Fri, 24 Jul 2026
 - Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
 - Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
 - Refuge, New York City — Sat, 11 Jul 2026
-- Else, Berlin — Sun, 28 Jun 2026
-- Pamela Club, Paris — Wed, 24 Jun 2026
-- Fabriketa, Sao Paulo — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Anja Schneider, Tal Fussman, DJ Minx
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

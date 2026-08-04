@@ -1,6 +1,6 @@
 # Andrea Cossu
 
-Andrea Cossu is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Thu, 6 Aug 2026.
+Andrea Cossu is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Thu, 6 Aug 2026.
 
 Andrea Cossu is a techno and ambient artist tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Lisbon and Milan and 1 more. Often billed alongside Hypnotic Black Magic, Andrea Ferlin and Rg. Next up: Club der Visionaere, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Andrea Cossu is a techno and ambient artist tracked on soundcheck, with 16 sets 
 
 Hypnotic Black Magic, Andrea Ferlin, Rg
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacossu/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacossu/)*

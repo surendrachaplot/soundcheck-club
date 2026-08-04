@@ -1,6 +1,6 @@
 # Shiloh (UK)
 
-Shiloh (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+Shiloh (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 Shiloh (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside SAM PHONIC, Jai Baisden and Dominique Danielle. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Shiloh (UK) is a house and tech house artist based in United Kingdom, tracked on
 
 SAM PHONIC, Jai Baisden, Dominique Danielle
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shiloh-uk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shiloh-uk/)*

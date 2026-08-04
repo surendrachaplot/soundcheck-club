@@ -1,6 +1,6 @@
 # DJ Batehoven
 
-DJ Batehoven is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Nells / Common NQ, Edge Street, Manchester on Sat, 29 Aug 2026.
+DJ Batehoven is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Nells / Common NQ, Edge Street, Manchester on Sat, 29 Aug 2026.
 
 DJ Batehoven is a disco and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Bristol and Manchester. Often billed alongside Mascott, Alex Moore and Ali Roche (2). Next up: TBA - Nells / Common NQ, Edge Street, Manchester on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ DJ Batehoven is a disco and house artist based in United Kingdom, tracked on sou
 
 Mascott, Alex Moore, Ali Roche (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatehoven/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatehoven/)*

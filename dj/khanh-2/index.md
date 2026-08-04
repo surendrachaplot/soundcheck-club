@@ -1,6 +1,6 @@
 # Khanh (2)
 
-Khanh (2) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
+Khanh (2) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
 
 Khanh (2) is a house and progressive house artist based in Vietnam, tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside DJ Baker, Deb Saadoun and al.one. Next up: Wanderlust, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Khanh (2) is a house and progressive house artist based in Vietnam, tracked on s
 
 DJ Baker, Deb Saadoun, al.one
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khanh-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khanh-2/)*

@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+Dengue Dengue Dengue is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 Dengue Dengue Dengue is a techno and electronica artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Basy Tropikalne, Phran and Dj Babatr. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Dengue Dengue Dengue is a techno and electronica artist based in Germany, tracke
 
 Basy Tropikalne, Phran, Dj Babatr
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

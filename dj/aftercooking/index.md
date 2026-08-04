@@ -1,6 +1,6 @@
 # After Cooking
 
-After Cooking is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+After Cooking is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 After Cooking is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Budapest and Prague and 2 more. Often billed alongside A Guy Called Gerald, Anna Wall and Catching Flies. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ After Cooking is a techno and house artist based in Germany, tracked on soundche
 
 A Guy Called Gerald, Anna Wall, Catching Flies
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aftercooking/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aftercooking/)*

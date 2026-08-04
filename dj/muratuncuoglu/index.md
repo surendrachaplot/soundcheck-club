@@ -1,6 +1,6 @@
 # Murat Uncuoglu
 
-Murat Uncuoglu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kafes x Milo, Istanbul on Sun, 9 Aug 2026.
+Murat Uncuoglu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kafes x Milo, Istanbul on Sun, 9 Aug 2026.
 
 Murat Uncuoglu is a house and techno artist based in Turkey, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 5 more. Often billed alongside Alican, Phallen and Emirhan Kacar. Next up: Kafes x Milo, Istanbul on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Murat Uncuoglu is a house and techno artist based in Turkey, tracked on soundche
 
 Alican, Phallen, Emirhan Kacar
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muratuncuoglu/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muratuncuoglu/)*

@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at UNO MALTA, Malta on Fri, 7 Aug 2026.
+Fantasm is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at UNO MALTA, Malta on Fri, 7 Aug 2026.
 
 Fantasm is a techno and hardcore artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: UNO MALTA, Malta on Fri 7 Aug.
 
@@ -35,4 +35,4 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 74 sets logg
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

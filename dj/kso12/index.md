@@ -1,6 +1,6 @@
 # kso12
 
-kso12 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
+kso12 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
 
 kso12 is a techno and trance artist tracked on soundcheck, with 51 sets logged across Basel, Berlin, Geneva and Munich and 1 more. Often billed alongside MARCISM, Toni Dextor and GCOD. Next up: Nordstern, Basel on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ kso12 is a techno and trance artist tracked on soundcheck, with 51 sets logged a
 
 MARCISM, Toni Dextor, GCOD
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*

@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Ellen Allien fabulus Smuda (STREET PARADE AFTERPARTY)" on Sat, 8 Aug 2026.
+Palais Mascotte is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ellen Allien fabulus Smuda (STREET PARADE AFTERPARTY)" on Sat, 8 Aug 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Cody Currie, Ellen Allien, fabulus and Kirollus and 2 more. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -17,4 +17,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 4 upcoming nigh
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

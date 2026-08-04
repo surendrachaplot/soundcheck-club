@@ -1,6 +1,6 @@
 # Notwelcome
 
-Notwelcome is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
+Notwelcome is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
 
 Notwelcome is a house and techno artist tracked on soundcheck, with 40 sets logged across Riga. Often billed alongside ARRISHA, Kelvin and Esoniq. Next up: Misisipi River Boat, Riga on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Notwelcome is a house and techno artist tracked on soundcheck, with 40 sets logg
 
 ARRISHA, Kelvin, Esoniq
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notwelcome/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notwelcome/)*

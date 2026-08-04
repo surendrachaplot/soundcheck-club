@@ -1,6 +1,6 @@
 # Tana (2)
 
-Tana (2) is a Latin Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
+Tana (2) is a Latin Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Locke, Hamburg on Sat, 8 Aug 2026.
 
 Tana (2) is a latin bass and breakbeat artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Hamburg and Prague. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Locke, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tana (2) is a latin bass and breakbeat artist based in Germany, tracked on sound
 
 UNZHA, TTX (GER), Soundskoud
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tana-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tana-2/)*

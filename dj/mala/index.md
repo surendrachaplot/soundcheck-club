@@ -1,6 +1,6 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Mala is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Mala is a dubstep and bass artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mia Koden, SGT Pokes and DjRUM. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -29,4 +29,4 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 102 sets logged ac
 
 Mia Koden, SGT Pokes, DjRUM
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

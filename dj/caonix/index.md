@@ -1,6 +1,6 @@
 # caonix
 
-caonix is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+caonix is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 caonix is a techno and house artist tracked on soundcheck, with 19 sets logged across Glasgow and Manchester. Often billed alongside Girlfriend, INLIMEN and Kabel. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ caonix is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 Girlfriend, INLIMEN, Kabel
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caonix/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caonix/)*

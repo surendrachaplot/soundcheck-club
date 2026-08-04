@@ -1,6 +1,6 @@
 # Louisianaha
 
-Louisianaha is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Goldener Reiter, Munich on Fri, 7 Aug 2026.
+Louisianaha is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Goldener Reiter, Munich on Fri, 7 Aug 2026.
 
 Louisianaha is a house artist tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside Sabrina Hawk, Kerry Gold and Rafner. Next up: Goldener Reiter, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Louisianaha is a house artist tracked on soundcheck, with 11 sets logged across 
 
 Sabrina Hawk, Kerry Gold, Rafner
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisianaha/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisianaha/)*

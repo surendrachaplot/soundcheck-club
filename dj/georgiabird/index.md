@@ -1,6 +1,6 @@
 # Georgia Bird
 
-Georgia Bird is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 7 Aug 2026.
+Georgia Bird is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 7 Aug 2026.
 
 Georgia Bird is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Hobart, Melbourne and Paris and 1 more. Often billed alongside Alfred Czital, Raleigh and Yan (CZ). Next up: arkaoda Berlin, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Georgia Bird is a house and techno artist tracked on soundcheck, with 26 sets lo
 
 Alfred Czital, Raleigh, Yan (CZ)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*

@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at KALT, Strasbourg on Sat, 22 Aug 2026.
+Merve is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KALT, Strasbourg on Sat, 22 Aug 2026.
 
 Merve is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Fastlove, Sansibar and Fais Le Beau. Next up: KALT, Strasbourg on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Merve is a house and techno artist tracked on soundcheck, with 82 sets logged ac
 
 Fastlove, Sansibar, Fais Le Beau
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

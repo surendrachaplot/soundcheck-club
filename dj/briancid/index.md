@@ -1,6 +1,6 @@
 # Brian Cid
 
-Brian Cid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at House of Yes, New York City on Sat, 8 Aug 2026.
+Brian Cid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at House of Yes, New York City on Sat, 8 Aug 2026.
 
 Brian Cid is a house and deep house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Chicago and Losangeles and 7 more. Often billed alongside Kike Roldan, Amiti and DJ Chus. Next up: House of Yes, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Brian Cid is a house and deep house artist based in United States of America, tr
 
 Kike Roldan, Amiti, DJ Chus
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briancid/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briancid/)*

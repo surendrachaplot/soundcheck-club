@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Lilly Palmer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
 Lilly Palmer is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bangkok and 53 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 146 sets l
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

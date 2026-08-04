@@ -1,6 +1,6 @@
 # Dalek
 
-Dalek is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
+Dalek is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
 
 Dalek is a hardcore and gabber artist based in Romania, tracked on soundcheck, with 12 sets logged across Bucharest. Often billed alongside Meiremax, Project Morpheus and Neotroxian. Next up: Forge, Bucharest on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dalek is a hardcore and gabber artist based in Romania, tracked on soundcheck, w
 
 Meiremax, Project Morpheus, Neotroxian
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalek/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalek/)*

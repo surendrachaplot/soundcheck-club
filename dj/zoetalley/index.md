@@ -1,6 +1,6 @@
 # Zoe Talley
 
-Zoe Talley is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
+Zoe Talley is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
 
 Zoe Talley is a house and club artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit and Newyorkcity. Often billed alongside AK (US), Fullbodydurag and we1sman. Next up: Northern Lights Lounge, Detroit on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Zoe Talley is a house and club artist based in United States of America, tracked
 
 AK (US), Fullbodydurag, we1sman
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoetalley/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoetalley/)*

@@ -1,6 +1,6 @@
 # Maxxi Soundsystem
 
-Maxxi Soundsystem is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
+Maxxi Soundsystem is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
 
 Maxxi Soundsystem is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol, Ibiza, London and Manchester. Often billed alongside Alexis Raphael, PBR Streetgang and Ben Pearce. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Maxxi Soundsystem is a house and deep house artist based in United Kingdom, trac
 
 Alexis Raphael, PBR Streetgang, Ben Pearce
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxisoundsystem/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxisoundsystem/)*

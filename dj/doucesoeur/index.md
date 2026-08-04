@@ -1,6 +1,6 @@
 # DouceSoeur
 
-DouceSoeur is a Techno and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Petit CAB, Marseille on Fri, 7 Aug 2026.
+DouceSoeur is a Techno and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Petit CAB, Marseille on Fri, 7 Aug 2026.
 
 DouceSoeur is a techno and afrobeat artist based in France, tracked on soundcheck, with 14 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside Vanda Forte, Anetha and Bernadette. Next up: Petit CAB, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DouceSoeur is a techno and afrobeat artist based in France, tracked on soundchec
 
 Vanda Forte, Anetha, Bernadette
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doucesoeur/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doucesoeur/)*

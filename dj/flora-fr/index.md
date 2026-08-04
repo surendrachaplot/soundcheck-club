@@ -1,6 +1,6 @@
 # FLORA (fr)
 
-FLORA (fr) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+FLORA (fr) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 FLORA (fr) is a techno and trance artist tracked on soundcheck, with 6 sets logged across Nantes and Paris. Often billed alongside Bambi (FR), Binome and Courtesy. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ FLORA (fr) is a techno and trance artist tracked on soundcheck, with 6 sets logg
 
 Bambi (FR), Binome, Courtesy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flora-fr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flora-fr/)*

@@ -1,6 +1,6 @@
 # the bald girl
 
-the bald girl is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at ESC, Montreal on Fri, 7 Aug 2026.
+the bald girl is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at ESC, Montreal on Fri, 7 Aug 2026.
 
 the bald girl is a hardcore and gabber artist tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside Outback, Baby Bimbo and Mowie (2). Next up: ESC, Montreal on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ the bald girl is a hardcore and gabber artist tracked on soundcheck, with 38 set
 
 Outback, Baby Bimbo, Mowie (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaldgirl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaldgirl/)*

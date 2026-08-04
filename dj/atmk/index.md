@@ -1,6 +1,6 @@
 # ATMK
 
-ATMK is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Akihabara IV, Tokyo on Sat, 19 Sept 2026.
+ATMK is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Akihabara IV, Tokyo on Sat, 19 Sept 2026.
 
 ATMK is a bass and drum & bass artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside Altemica, CRAZYHYUGA and NATSUMI. Next up: Akihabara IV, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ATMK is a bass and drum & bass artist based in Japan, tracked on soundcheck, wit
 
 Altemica, CRAZYHYUGA, NATSUMI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atmk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atmk/)*

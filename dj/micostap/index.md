@@ -1,6 +1,6 @@
 # Mic Ostap
 
-Mic Ostap is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 7 Aug 2026.
+Mic Ostap is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 7 Aug 2026.
 
 Mic Ostap is a house and techno artist based in Poland, tracked on soundcheck, with 10 sets logged across Warsaw. Often billed alongside Jacek Sienkiewicz, Feelaz and NuCasa. Next up: K-Bar Powiśle, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mic Ostap is a house and techno artist based in Poland, tracked on soundcheck, w
 
 Jacek Sienkiewicz, Feelaz, NuCasa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micostap/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micostap/)*

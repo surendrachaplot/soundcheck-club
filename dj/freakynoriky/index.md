@@ -1,6 +1,6 @@
 # FrEaKyNoRiKy
 
-FrEaKyNoRiKy is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Vespers Club, London on Sat, 22 Aug 2026.
+FrEaKyNoRiKy is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Vespers Club, London on Sat, 22 Aug 2026.
 
 FrEaKyNoRiKy is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 53 sets logged across London, Montreal, Saopaulo and Tokyo and 1 more. Often billed alongside VÏVÏ, 7e and M.I.O. Next up: Vespers Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ FrEaKyNoRiKy is a techno and breakbeat artist based in Japan, tracked on soundch
 
 VÏVÏ, 7e, M.I.O
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakynoriky/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakynoriky/)*

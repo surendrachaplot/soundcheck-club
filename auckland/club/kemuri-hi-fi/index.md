@@ -1,6 +1,6 @@
 # Kemuri Hi-Fi
 
-Kemuri Hi-Fi is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "COLLEKT WINTER SERIES | AUGUST feat. MACMILLAN (AUS)" on Sat, 8 Aug 2026.
+Kemuri Hi-Fi is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "COLLEKT WINTER SERIES | AUGUST feat. MACMILLAN (AUS)" on Sat, 8 Aug 2026.
 
 Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Connor Tomoana, Macmillan and Zahn Walker. Browse upcoming dates, start times and who's playing. 1 Queen Street, Commercial Bay, Auckland 1010.
 
@@ -15,4 +15,4 @@ Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 2 upcoming night
 
 1 Queen Street, Commercial Bay, Auckland 1010, Auckland
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*

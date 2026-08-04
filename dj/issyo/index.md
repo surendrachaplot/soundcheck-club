@@ -1,6 +1,6 @@
 # Issyo
 
-Issyo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Numm, Tokyo on Sun, 23 Aug 2026.
+Issyo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Numm, Tokyo on Sun, 23 Aug 2026.
 
 Issyo is a house and tech house artist based in Japan, tracked on soundcheck, with 64 sets logged across Tokyo. Often billed alongside Kitano, KDT and TAT2K. Next up: Numm, Tokyo on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Issyo is a house and tech house artist based in Japan, tracked on soundcheck, wi
 
 Kitano, KDT, TAT2K
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/issyo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/issyo/)*

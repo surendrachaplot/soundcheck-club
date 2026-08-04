@@ -1,6 +1,6 @@
 # Limbo (1)
 
-Limbo (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 7 Aug 2026.
+Limbo (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 7 Aug 2026.
 
 Limbo (1) is a techno and trance artist based in France, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside WISER, BDE and DJ Alien. Next up: Sub Club Melbourne, Melbourne on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Limbo (1) is a techno and trance artist based in France, tracked on soundcheck, 
 
 WISER, BDE, DJ Alien
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limbo-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limbo-1/)*

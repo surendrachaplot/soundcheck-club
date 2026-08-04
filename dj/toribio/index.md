@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Skyport Marina, New York City on Thu, 6 Aug 2026.
+Toribio is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Skyport Marina, New York City on Thu, 6 Aug 2026.
 
 Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: Skyport Marina, Newyorkcity on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Toribio is a house and disco artist based in United States of America, tracked o
 
 Mickey Perez, Guthrie, Love Injection
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

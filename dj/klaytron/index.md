@@ -1,6 +1,6 @@
 # Klaytron
 
-Klaytron is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Statera Cellars, Portland on Sun, 16 Aug 2026.
+Klaytron is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Statera Cellars, Portland on Sun, 16 Aug 2026.
 
 Klaytron is a house and techno artist based in Vietnam, tracked on soundcheck, with 14 sets logged across Bangkok, Losangeles, Portland and Sanfrancisco and 1 more. Often billed alongside Phil Spank, Chloe Harris and Erik Vehmeyer. Next up: Statera Cellars, Portland on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Klaytron is a house and techno artist based in Vietnam, tracked on soundcheck, w
 
 Phil Spank, Chloe Harris, Erik Vehmeyer
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klaytron/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klaytron/)*

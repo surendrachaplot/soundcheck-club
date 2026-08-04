@@ -1,6 +1,6 @@
 # Dick Ensalada
 
-Dick Ensalada is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Dick Ensalada is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
 
 Dick Ensalada is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles. Often billed alongside Heidi Lawden, Masha Mar and Capes. Next up: The Bridge, Losangeles on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dick Ensalada is a house and disco artist based in United States of America, tra
 
 Heidi Lawden, Masha Mar, Capes
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dickensalada/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dickensalada/)*

@@ -1,6 +1,6 @@
 # NOVZE
 
-NOVZE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
+NOVZE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
 
 NOVZE is a techno and electronica artist based in Italy, tracked on soundcheck, with 58 sets logged across Berlin, Milan, Rome and Turin. Often billed alongside AIN'T GEORGE, Ormeye and Ragliaz. Next up: Maaya, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ NOVZE is a techno and electronica artist based in Italy, tracked on soundcheck, 
 
 AIN'T GEORGE, Ormeye, Ragliaz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novze/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novze/)*

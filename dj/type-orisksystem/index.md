@@ -1,14 +1,15 @@
 # TYPE-O RISK SYSTEM
 
-TYPE-O RISK SYSTEM is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sound Studio Dom, Tokyo on Tue, 11 Aug 2026.
+TYPE-O RISK SYSTEM is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sound Studio Dom, Tokyo on Tue, 11 Aug 2026.
 
-TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on soundcheck, with 45 sets logged across Osaka and Tokyo. Often billed alongside EVE (1), KAMIKAZE and YPF. Next up: Sound Studio Dom, Tokyo on Tue 11 Aug.
+TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on soundcheck, with 46 sets logged across Osaka and Tokyo. Often billed alongside EVE (1), KAMIKAZE and YPF. Next up: Sound Studio Dom, Tokyo on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | Sound Studio Dom | Tokyo |
+| Sat, 15 Aug 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on 
 
 EVE (1), KAMIKAZE, YPF
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/type-orisksystem/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/type-orisksystem/)*

@@ -1,6 +1,6 @@
 # Ray Mang
 
-Ray Mang is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Palais, London on Sun, 16 Aug 2026.
+Ray Mang is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Palais, London on Sun, 16 Aug 2026.
 
 Ray Mang is a house and disco artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Glasgow and London and 6 more. Often billed alongside Bill Brewster, Sean Innit and Frank Broughton. Next up: Palais, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Ray Mang is a house and disco artist tracked on soundcheck, with 48 sets logged 
 
 Bill Brewster, Sean Innit, Frank Broughton
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raymang/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raymang/)*

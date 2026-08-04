@@ -1,6 +1,6 @@
 # Nice Girl
 
-Nice Girl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Klymax Discotheque, Bali on Sat, 15 Aug 2026.
+Nice Girl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Klymax Discotheque, Bali on Sat, 15 Aug 2026.
 
 Nice Girl is a house and techno artist tracked on soundcheck, with 18 sets logged across Auckland, Bali, Berlin and Brussels and 3 more. Often billed alongside DJ City, Eden Burns and Frank Booker. Next up: Klymax Discotheque, Bali on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nice Girl is a house and techno artist tracked on soundcheck, with 18 sets logge
 
 DJ City, Eden Burns, Frank Booker
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*

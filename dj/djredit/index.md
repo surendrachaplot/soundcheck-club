@@ -1,6 +1,6 @@
 # DJ Red
 
-DJ Red is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at THE MAGICK BAR, Rome on Fri, 7 Aug 2026.
+DJ Red is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at THE MAGICK BAR, Rome on Fri, 7 Aug 2026.
 
 DJ Red is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside DVS1, DjRUM and Efdemin. Next up: THE MAGICK BAR, Rome on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ DJ Red is a techno and house artist tracked on soundcheck, with 70 sets logged a
 
 DVS1, DjRUM, Efdemin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*

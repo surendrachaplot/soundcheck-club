@@ -1,6 +1,6 @@
 # Jyarsch
 
-Jyarsch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Warren Cafe, Detroit on Thu, 6 Aug 2026.
+Jyarsch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Warren Cafe, Detroit on Thu, 6 Aug 2026.
 
 Jyarsch is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit. Often billed alongside Walter Glasshouse, Eastside Jon and Dan Bain. Next up: Warren Cafe, Detroit on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Jyarsch is a house and techno artist based in United States of America, tracked 
 
 Walter Glasshouse, Eastside Jon, Dan Bain
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jyarsch/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jyarsch/)*

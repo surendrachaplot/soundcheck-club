@@ -1,6 +1,6 @@
 # Deki Alem
 
-Deki Alem is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Deki Alem is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Deki Alem is a house and experimental artist based in Sweden, tracked on soundcheck, with 7 sets logged across Berlin, Brussels, Copenhagen and Dusseldorf and 3 more. Often billed alongside Acronym, Anushka Chkheidze and Ata Kak. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -23,4 +23,4 @@ Deki Alem is a house and experimental artist based in Sweden, tracked on soundch
 
 Acronym, Anushka Chkheidze, Ata Kak
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dekialem/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dekialem/)*

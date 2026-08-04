@@ -1,6 +1,6 @@
 # Drumcomplex
 
-Drumcomplex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 8 Aug 2026.
+Drumcomplex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 8 Aug 2026.
 
 Drumcomplex is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 5 more. Often billed alongside Frank Sonic, MILAN MILANO and Gregor Tresher. Next up: Club Frau Holle, Hamburg on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Drumcomplex is a techno and house artist based in Germany, tracked on soundcheck
 
 Frank Sonic, MILAN MILANO, Gregor Tresher
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcomplex/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcomplex/)*

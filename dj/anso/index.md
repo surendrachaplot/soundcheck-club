@@ -1,6 +1,6 @@
 # Anso
 
-Anso is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Anso is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Anso is an electronica and house artist based in Spain, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Madrid and Melbourne. Often billed alongside Laia, Aizikovic and DJ Fuckoff. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Anso is an electronica and house artist based in Spain, tracked on soundcheck, w
 
 Laia, Aizikovic, DJ Fuckoff
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anso/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anso/)*

@@ -1,6 +1,6 @@
 # Eduardo de la Calle
 
-Eduardo de la Calle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lx Factory, Lisbon on Thu, 6 Aug 2026.
+Eduardo de la Calle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lx Factory, Lisbon on Thu, 6 Aug 2026.
 
 Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Boston and Brussels and 19 more. Often billed alongside Cosmo (KR), Edward and Konstantin. Next up: Lx Factory, Lisbon on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 45 
 
 Cosmo (KR), Edward, Konstantin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*

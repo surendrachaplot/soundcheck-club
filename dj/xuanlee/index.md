@@ -1,6 +1,6 @@
 # Xuanlee
 
-Xuanlee is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Xuanlee is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Xuanlee is an electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside John Holt, KARØL (2) and Lady Dammage. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Xuanlee is an electronica artist based in Spain, tracked on soundcheck, with 2 s
 
 John Holt, KARØL (2), Lady Dammage
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xuanlee/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xuanlee/)*

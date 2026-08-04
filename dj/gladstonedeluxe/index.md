@@ -1,6 +1,6 @@
 # Gladstone Deluxe
 
-Gladstone Deluxe is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Podlasie Club, Chicago on Sat, 8 Aug 2026.
+Gladstone Deluxe is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Podlasie Club, Chicago on Sat, 8 Aug 2026.
 
 Gladstone Deluxe is a house and experimental artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago, Newyorkcity and Seattle. Often billed alongside DAY/DEM, IVVY and Kilopatrah Jones. Next up: Podlasie Club, Chicago on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Gladstone Deluxe is a house and experimental artist based in United States of Am
 
 DAY/DEM, IVVY, Kilopatrah Jones
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gladstonedeluxe/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gladstonedeluxe/)*

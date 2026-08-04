@@ -1,6 +1,6 @@
 # Merissa Mahilaa
 
-Merissa Mahilaa is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 8 Sept 2026.
+Merissa Mahilaa is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Merissa Mahilaa is a tech house and minimal artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 4 more. Often billed alongside Jermaine Dotson, Alexander Aurel and Melanie Ribbe. Next up: Hï Ibiza, Ibiza on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Merissa Mahilaa is a tech house and minimal artist tracked on soundcheck, with 2
 
 Jermaine Dotson, Alexander Aurel, Melanie Ribbe
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merissamahilaa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merissamahilaa/)*

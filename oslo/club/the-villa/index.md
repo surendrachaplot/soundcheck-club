@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Novelty Waves with Bok Bok (UK / NIGHT SLUGS)" on Fri, 7 Aug 2026.
+The Villa is a music venue in Oslo with 13 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Novelty Waves with Bok Bok (UK / NIGHT SLUGS)" on Fri, 7 Aug 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 13 upcoming nights, with line-ups including Bok Bok, Daichi Wada, DJ Fart in the Club and DJ IBON and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -23,4 +23,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 13 upcoming nights, wit
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

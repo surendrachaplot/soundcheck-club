@@ -1,19 +1,19 @@
 # Tania Vulcano
 
-Tania Vulcano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+Tania Vulcano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
 
-Tania Vulcano is a house and techno artist tracked on soundcheck, with 120 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 14 more. Often billed alongside Sossa, Seth Troxler and Priku. Next up: DC-10, Ibiza on Mon 3 Aug.
+Tania Vulcano is a house and techno artist tracked on soundcheck, with 120 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 14 more. Often billed alongside Sossa, Seth Troxler and Priku. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Sat, 5 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 19 Sept 2026 | Ouseburn Garden | Newcastle |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 3 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 1 Aug 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
 - Parc de la Trinitat, Barcelona — Sun, 19 Jul 2026
@@ -21,10 +21,9 @@ Tania Vulcano is a house and techno artist tracked on soundcheck, with 120 sets 
 - DC-10, Ibiza — Mon, 22 Jun 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Tue, 16 Jun 2026
 - DC-10, Ibiza — Mon, 1 Jun 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 29 May 2026
 
 ## Shares bills with
 
 Sossa, Seth Troxler, Priku
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*

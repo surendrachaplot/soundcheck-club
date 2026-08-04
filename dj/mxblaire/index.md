@@ -1,6 +1,6 @@
 # Mx. Blaire
 
-Mx. Blaire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 28 Aug 2026.
+Mx. Blaire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 28 Aug 2026.
 
 Mx. Blaire is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Boston and Chicago and 4 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: Institute of Contemporary Art, Boston on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mx. Blaire is a house and techno artist tracked on soundcheck, with 52 sets logg
 
 Adam Unknown, Jordan Graham, Math3ca
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*

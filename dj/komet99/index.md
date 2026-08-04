@@ -1,6 +1,6 @@
 # Komet99
 
-Komet99 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Revier Oslo, Oslo on Sat, 8 Aug 2026.
+Komet99 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Revier Oslo, Oslo on Sat, 8 Aug 2026.
 
 Komet99 is a trance and techno artist based in Norway, tracked on soundcheck, with 12 sets logged across Oslo. Often billed alongside Naboklage, Skodde and Anémi. Next up: Revier Oslo, Oslo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Komet99 is a trance and techno artist based in Norway, tracked on soundcheck, wi
 
 Naboklage, Skodde, Anémi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/komet99/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/komet99/)*

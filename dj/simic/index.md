@@ -1,6 +1,6 @@
 # Simic
 
-Simic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
+Simic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
 
 Simic is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles and Newyorkcity. Often billed alongside Miles Mercer, Second Contact and Rose Kourts. Next up: Good Room, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Simic is a house and techno artist based in United States of America, tracked on
 
 Miles Mercer, Second Contact, Rose Kourts
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simic/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simic/)*

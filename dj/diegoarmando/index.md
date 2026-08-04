@@ -1,6 +1,6 @@
 # Diego Armando
 
-Diego Armando is a Baile Funk and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Grain Haus, Seoul on Sat, 8 Aug 2026.
+Diego Armando is a Baile Funk and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Grain Haus, Seoul on Sat, 8 Aug 2026.
 
 Diego Armando is a baile funk and electronica artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Copenhagen and London and 5 more. Often billed alongside Maxvll, Yosef (ES) and Yosef. Next up: Grain Haus, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Diego Armando is a baile funk and electronica artist tracked on soundcheck, with
 
 Maxvll, Yosef (ES), Yosef
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoarmando/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoarmando/)*

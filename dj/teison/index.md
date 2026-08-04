@@ -1,6 +1,6 @@
 # Teison
 
-Teison is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jolene, Copenhagen on Thu, 6 Aug 2026.
+Teison is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Jolene, Copenhagen on Thu, 6 Aug 2026.
 
 Teison is a house and techno artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam and Copenhagen. Often billed alongside Aja Gulris, pai-lin and Azpecialguest. Next up: Jolene, Copenhagen on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Teison is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Aja Gulris, pai-lin, Azpecialguest
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teison/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teison/)*

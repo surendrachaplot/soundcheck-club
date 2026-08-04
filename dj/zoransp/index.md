@@ -1,6 +1,6 @@
 # Zoran
 
-Zoran is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
+Zoran is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
 
 Zoran is a bass and house artist tracked on soundcheck, with 4 sets logged across Berlin and Cologne. Often billed alongside jass:minute, 9Stairs and Babe Gorgeous. Next up: Mucha, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Zoran is a bass and house artist tracked on soundcheck, with 4 sets logged acros
 
 jass:minute, 9Stairs, Babe Gorgeous
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoransp/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoransp/)*

@@ -1,6 +1,6 @@
 # Leese (1)
 
-Leese (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Leese (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 Leese (1) is an electronic artist based in Belgium, tracked on soundcheck, with 22 sets logged across Berlin, Brussels, Ghent and Paris and 1 more. Often billed alongside Le Motel, freq444 and AliA. Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Leese (1) is an electronic artist based in Belgium, tracked on soundcheck, with 
 
 Le Motel, freq444, AliA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leese-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leese-1/)*

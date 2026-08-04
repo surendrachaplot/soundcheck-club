@@ -1,6 +1,6 @@
 # AZARI
 
-AZARI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Datcha, Montreal on Fri, 7 Aug 2026.
+AZARI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Datcha, Montreal on Fri, 7 Aug 2026.
 
 AZARI is a techno and house artist based in Canada, tracked on soundcheck, with 12 sets logged across Miami, Montreal, Newyorkcity and Toronto. Often billed alongside .VRIL, CRDJ and Danny Daze. Next up: Bar Datcha, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ AZARI is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 .VRIL, CRDJ, Danny Daze
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azari/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azari/)*

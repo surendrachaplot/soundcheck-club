@@ -1,14 +1,15 @@
 # DØLLHAUS
 
-DØLLHAUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon, 10 Aug 2026.
+DØLLHAUS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon, 10 Aug 2026.
 
-DØLLHAUS is a techno and trance artist based in Australia, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside VÏVÏ, AYANA KOSHIBA and FrEaKyNoRiKy. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon 10 Aug.
+DØLLHAUS is a techno and trance artist based in Australia, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside VÏVÏ, AYANA KOSHIBA and FrEaKyNoRiKy. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
+| Thu, 27 Aug 2026 | SEL OCTAGON TOKYO | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DØLLHAUS is a techno and trance artist based in Australia, tracked on soundchec
 
 VÏVÏ, AYANA KOSHIBA, FrEaKyNoRiKy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dollhaus/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dollhaus/)*

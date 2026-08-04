@@ -1,6 +1,6 @@
 # BigT
 
-BigT is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Jardim do Èden, Lisbon on Thu, 6 Aug 2026.
+BigT is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Jardim do Èden, Lisbon on Thu, 6 Aug 2026.
 
 BigT is a techno and hardcore artist tracked on soundcheck, with 16 sets logged across Amsterdam, Lisbon and Paris. Often billed alongside VLB (1), Frik and Madson Carpenter. Next up: Jardim do Èden, Lisbon on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ BigT is a techno and hardcore artist tracked on soundcheck, with 16 sets logged 
 
 VLB (1), Frik, Madson Carpenter
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigt/)*

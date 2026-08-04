@@ -1,6 +1,6 @@
 # Hieroglyphic Being
 
-Hieroglyphic Being is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at public records, New York City on Sat, 22 Aug 2026.
+Hieroglyphic Being is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at public records, New York City on Sat, 22 Aug 2026.
 
 Hieroglyphic Being is a techno and experimental artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Chicago and 13 more. Often billed alongside Deena Abdelwahed, Jerzy Mączyński and Mika Oki. Next up: public records, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Hieroglyphic Being is a techno and experimental artist tracked on soundcheck, wi
 
 Deena Abdelwahed, Jerzy Mączyński, Mika Oki
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hieroglyphicbeing/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hieroglyphicbeing/)*

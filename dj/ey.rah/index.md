@@ -1,6 +1,6 @@
 # Ey.rah
 
-Ey.rah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
+Ey.rah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
 
 Ey.rah is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Brussels and Marseille and 3 more. Often billed alongside Öspiel, OPÄK and Znzl. Next up: Virage, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ey.rah is a techno and house artist tracked on soundcheck, with 48 sets logged a
 
 Öspiel, OPÄK, Znzl
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ey.rah/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ey.rah/)*

@@ -1,6 +1,6 @@
 # Fahlberg
 
-Fahlberg is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Café Himmelsschreiber, Hamburg on Fri, 14 Aug 2026.
+Fahlberg is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Café Himmelsschreiber, Hamburg on Fri, 14 Aug 2026.
 
 Fahlberg is an afro house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Austin, Berlin and Brussels and 14 more. Often billed alongside Elderbrook, ABEL (UK) and ALADAG. Next up: Café Himmelsschreiber, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Fahlberg is an afro house and house artist tracked on soundcheck, with 27 sets l
 
 Elderbrook, ABEL (UK), ALADAG
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

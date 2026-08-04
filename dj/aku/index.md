@@ -1,6 +1,6 @@
 # Aku
 
-Aku is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+Aku is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 Aku is a house and trance artist based in United States of America, tracked on soundcheck, with 27 sets logged across Buenosaires, Chicago, Detroit and Losangeles and 3 more. Often billed alongside MTooray, Bianca Maieli and DJ SUDI. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aku is a house and trance artist based in United States of America, tracked on s
 
 MTooray, Bianca Maieli, DJ SUDI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aku/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aku/)*

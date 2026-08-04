@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Lofi, Amsterdam on Fri, 7 Aug 2026.
+LSDXOXO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lofi, Amsterdam on Fri, 7 Aug 2026.
 
 LSDXOXO is a techno and club artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside VTSS, Boys Noize and FJAAK. Next up: Lofi, Amsterdam on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ LSDXOXO is a techno and club artist tracked on soundcheck, with 190 sets logged 
 
 VTSS, Boys Noize, FJAAK
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

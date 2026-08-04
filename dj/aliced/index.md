@@ -1,6 +1,6 @@
 # Alice D.
 
-Alice D. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
+Alice D. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
 
 Alice D. is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside KEN (DE), Chaos Techno.Berlin and FLEXTASY. Next up: KitKatClub, Berlin on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Alice D. is a techno and house artist based in Germany, tracked on soundcheck, w
 
 KEN (DE), Chaos Techno.Berlin, FLEXTASY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliced/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliced/)*

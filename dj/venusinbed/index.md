@@ -1,6 +1,6 @@
 # venus in bed
 
-venus in bed is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Datcha, Montreal on Thu, 6 Aug 2026.
+venus in bed is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Datcha, Montreal on Thu, 6 Aug 2026.
 
 venus in bed is a house and techno artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside San Farafina, Badgalquirt and Colored Music. Next up: Bar Datcha, Montreal on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ venus in bed is a house and techno artist based in Canada, tracked on soundcheck
 
 San Farafina, Badgalquirt, Colored Music
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinbed/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinbed/)*

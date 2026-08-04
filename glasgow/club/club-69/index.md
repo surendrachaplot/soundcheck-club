@@ -1,6 +1,6 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Hardology - Hardcore Classics" on Fri, 7 Aug 2026.
+Club 69 is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Hardology - Hardcore Classics" on Fri, 7 Aug 2026.
 
 Club 69 is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including COURTEZ, DJ John Paul, NRG Trax and SAPHOS and 2 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
@@ -18,4 +18,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, wit
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

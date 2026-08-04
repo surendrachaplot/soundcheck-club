@@ -1,6 +1,6 @@
 # 1000raks
 
-1000raks is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+1000raks is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 1000raks is a techno and ballroom artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam and London. Often billed alongside LO-LOW, Manuka Honey and XS BULLY. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -23,4 +23,4 @@
 
 LO-LOW, Manuka Honey, XS BULLY
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1000raks/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1000raks/)*

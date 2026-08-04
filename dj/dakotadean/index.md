@@ -1,6 +1,6 @@
 # Dakota Dean
 
-Dakota Dean is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
+Dakota Dean is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
 
 Dakota Dean is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Lubelski, Ray Kash and Afriqua. Next up: Elysian Park, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dakota Dean is a house and disco artist based in United States of America, track
 
 Lubelski, Ray Kash, Afriqua
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dakotadean/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dakotadean/)*

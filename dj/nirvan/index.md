@@ -1,6 +1,6 @@
 # Nirvan
 
-Nirvan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at LA-YAM Rooftop, London on Sat, 22 Aug 2026.
+Nirvan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at LA-YAM Rooftop, London on Sat, 22 Aug 2026.
 
 Nirvan is a minimal and house artist based in Belgium, tracked on soundcheck, with 25 sets logged across Brussels and London. Often billed alongside AOB, DJOM and Elioss. Next up: LA-YAM Rooftop, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nirvan is a minimal and house artist based in Belgium, tracked on soundcheck, wi
 
 AOB, DJOM, Elioss
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*

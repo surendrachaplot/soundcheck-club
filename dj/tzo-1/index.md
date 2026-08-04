@@ -1,6 +1,6 @@
 # TZO (1)
 
-TZO (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Baalsaal, Hamburg on Sat, 15 Aug 2026.
+TZO (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Baalsaal, Hamburg on Sat, 15 Aug 2026.
 
 TZO (1) is a techno and industrial artist based in Germany, tracked on soundcheck, with 24 sets logged across Hamburg. Often billed alongside KIM AHLF, TRYPTAJ and Frank Rayo. Next up: Baalsaal, Hamburg on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TZO (1) is a techno and industrial artist based in Germany, tracked on soundchec
 
 KIM AHLF, TRYPTAJ, Frank Rayo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*

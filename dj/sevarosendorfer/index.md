@@ -1,6 +1,6 @@
 # Seva Rosendorfer
 
-Seva Rosendorfer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Munich on Fri, 7 Aug 2026.
+Seva Rosendorfer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Munich on Fri, 7 Aug 2026.
 
 Seva Rosendorfer is a house and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Munich and Vienna. Often billed alongside RIØ (DE), Sarica and Juan.Caballo. Next up: TBA, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Seva Rosendorfer is a house and tech house artist based in Germany, tracked on s
 
 RIØ (DE), Sarica, Juan.Caballo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevarosendorfer/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevarosendorfer/)*

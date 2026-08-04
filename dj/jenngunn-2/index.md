@@ -1,6 +1,6 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 11 Sept 2026.
+Jenn Gunn (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 11 Sept 2026.
 
 Jenn Gunn (2) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Et Al (1) and Orla Halligan. Next up: La Cheetah Club, Glasgow on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jenn Gunn (2) is a garage and house artist based in United Kingdom, tracked on s
 
 C Frame, Et Al (1), Orla Halligan
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*

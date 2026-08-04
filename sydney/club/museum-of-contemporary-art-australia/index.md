@@ -1,6 +1,6 @@
 # Museum of Contemporary Art Australia
 
-Museum of Contemporary Art Australia is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Live at the MCA: Deep Pasifika" on Thu, 6 Aug 2026.
+Museum of Contemporary Art Australia is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Live at the MCA: Deep Pasifika" on Thu, 6 Aug 2026.
 
 Museum of Contemporary Art Australia is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Leeroy Brown. Browse upcoming dates, start times and who's playing. 140 George Street, The Rocks NSW 2000, Australia.
 
@@ -14,4 +14,4 @@ Museum of Contemporary Art Australia is a music venue in Sydney listed on soundc
 
 140 George Street, The Rocks NSW 2000, Australia, Sydney
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/museum-of-contemporary-art-australia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/museum-of-contemporary-art-australia/)*

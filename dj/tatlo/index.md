@@ -1,6 +1,6 @@
 # Tatlo
 
-Tatlo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KALT, Strasbourg on Sat, 8 Aug 2026.
+Tatlo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KALT, Strasbourg on Sat, 8 Aug 2026.
 
 Tatlo is a techno and trance artist based in France, tracked on soundcheck, with 12 sets logged across Strasbourg. Often billed alongside Arbo, FTFL and Justine Maze. Next up: KALT, Strasbourg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tatlo is a techno and trance artist based in France, tracked on soundcheck, with
 
 Arbo, FTFL, Justine Maze
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatlo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatlo/)*

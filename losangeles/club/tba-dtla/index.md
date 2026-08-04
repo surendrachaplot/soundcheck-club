@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Dialogue: Shonky (extended set) - Day Party" on Sun, 9 Aug 2026.
+TBA - DTLA is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Dialogue: Shonky (extended set) - Day Party" on Sun, 9 Aug 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Alxander Ivey, Daphni, deesco and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 6 upcoming night
 | Sat, 19 Sept 2026 | IN BETWEEN: Secret Guests TBA |  |
 | Fri, 25 Sept 2026 | Wellness Check presents: Daphni (All Night) | Daphni |
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

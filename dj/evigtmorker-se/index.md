@@ -1,6 +1,6 @@
 # Evigt Mörker
 
-Evigt Mörker is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Open Air, Stockholm on Sat, 8 Aug 2026.
+Evigt Mörker is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Open Air, Stockholm on Sat, 8 Aug 2026.
 
 Evigt Mörker is a techno and psytrance artist based in Sweden, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 7 more. Often billed alongside Anthony Linell, Jin Mustafa and Jessie Granqvist. Next up: TBA - Open Air, Stockholm on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Evigt Mörker is a techno and psytrance artist based in Sweden, tracked on sound
 
 Anthony Linell, Jin Mustafa, Jessie Granqvist
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evigtmorker-se/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evigtmorker-se/)*

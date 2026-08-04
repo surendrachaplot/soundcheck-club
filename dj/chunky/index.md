@@ -1,6 +1,6 @@
 # Chunky
 
-Chunky is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Globe, Glossop, Manchester on Sat, 8 Aug 2026.
+Chunky is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Globe, Glossop, Manchester on Sat, 8 Aug 2026.
 
 Chunky is a garage and house artist tracked on soundcheck, with 97 sets logged across Antwerp, Barcelona, Brisbane and Bristol and 8 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: The Globe, Glossop, Manchester on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Chunky is a garage and house artist tracked on soundcheck, with 97 sets logged a
 
 Rich Reason, Tom Boogizm, Chimpo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

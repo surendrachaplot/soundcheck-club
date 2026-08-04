@@ -1,6 +1,6 @@
 # Malika
 
-Malika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hertz, Seoul on Sat, 8 Aug 2026.
+Malika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hertz, Seoul on Sat, 8 Aug 2026.
 
 Malika is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: Hertz, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Malika is a house and techno artist tracked on soundcheck, with 45 sets logged a
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

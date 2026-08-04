@@ -1,6 +1,6 @@
 # DJ Skurge
 
-DJ Skurge is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
+DJ Skurge is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Montreal on Fri, 21 Aug 2026.
 
 DJ Skurge is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Detroit and Montreal. Often billed alongside Isaac Prieto, MGUN and Nick Speed. Next up: TBA, Montreal on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ DJ Skurge is a techno and house artist based in United States of America, tracke
 
 Isaac Prieto, MGUN, Nick Speed
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskurge/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskurge/)*

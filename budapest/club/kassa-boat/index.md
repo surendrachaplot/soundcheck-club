@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FLUX SUN:SET #03 at Kassa TERRACE" on Thu, 13 Aug 2026.
+Kassa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FLUX SUN:SET #03 at Kassa TERRACE" on Thu, 13 Aug 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including baeker, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -18,4 +18,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights,
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

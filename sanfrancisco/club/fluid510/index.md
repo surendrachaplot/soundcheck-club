@@ -1,6 +1,6 @@
 # Fluid510
 
-Fluid510 is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "I Found Luv - All Vinyl Edition" on Sat, 8 Aug 2026.
+Fluid510 is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "I Found Luv - All Vinyl Edition" on Sat, 8 Aug 2026.
 
 Fluid510 is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Jayvi Velasco. Browse upcoming dates, start times and who's playing. 1544 Broadway, Oakland, CA 94612.
 
@@ -14,4 +14,4 @@ Fluid510 is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night
 
 1544 Broadway, Oakland, CA 94612, San Francisco/Oakland
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/fluid510/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/fluid510/)*

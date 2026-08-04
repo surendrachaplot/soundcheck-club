@@ -1,6 +1,6 @@
 # kish
 
-kish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
+kish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
 
 kish is a techno and house artist based in India, tracked on soundcheck, with 19 sets logged across Cologne, Osaka and Vancouver. Often billed alongside Bronsön, MiiiW and POPU. Next up: The V, Osaka on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ kish is a techno and house artist based in India, tracked on soundcheck, with 19
 
 Bronsön, MiiiW, POPU
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kish/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kish/)*

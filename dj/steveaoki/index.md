@@ -1,6 +1,6 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gianpula Village, Malta on Wed, 5 Aug 2026.
+Steve Aoki is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Gianpula Village, Malta on Wed, 5 Aug 2026.
 
 Steve Aoki is a house and electro artist tracked on soundcheck, with 60 sets logged across Austin, Barcelona, Boston and Budapest and 20 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Anna Tur. Next up: Gianpula Village, Malta on Wed 5 Aug.
 
@@ -28,4 +28,4 @@ Steve Aoki is a house and electro artist tracked on soundcheck, with 60 sets log
 
 Dimitri Vegas & Like Mike, Alesso, Anna Tur
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

@@ -1,13 +1,14 @@
 # CYB3R T0NIN
 
-CYB3R T0NIN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
+CYB3R T0NIN is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Washington DC on Sat, 8 Aug 2026.
 
-CYB3R T0NIN is a club and techno artist tracked on soundcheck, with 28 sets logged across Washingtondc. Often billed alongside DJ KORIS, Mrs. Qbert and JACKIECHANSDOG. Next up: TBA - 5510 ellerbie st lanham MD, Washingtondc on Sat 15 Aug.
+CYB3R T0NIN is a club and techno artist tracked on soundcheck, with 29 sets logged across Washingtondc. Often billed alongside DJ KORIS, Mrs. Qbert and JACKIECHANSDOG. Next up: TBA, Washingtondc on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | TBA | Washington DC |
 | Sat, 15 Aug 2026 | TBA - 5510 ellerbie st lanham MD | Washington DC |
 
 ## Recently played
@@ -25,4 +26,4 @@ CYB3R T0NIN is a club and techno artist tracked on soundcheck, with 28 sets logg
 
 DJ KORIS, Mrs. Qbert, JACKIECHANSDOG
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyb3rt0nin/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyb3rt0nin/)*

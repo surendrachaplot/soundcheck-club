@@ -1,6 +1,6 @@
 # DJ Aguara'i
 
-DJ Aguara'i is a Latin Bass and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
+DJ Aguara'i is a Latin Bass and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Podlasie Club, Chicago on Fri, 14 Aug 2026.
 
 DJ Aguara'i is a latin bass and neo perreo artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago. Often billed alongside J. Córdova, karennoid and Angelia Word. Next up: Podlasie Club, Chicago on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Aguara'i is a latin bass and neo perreo artist based in United States of Amer
 
 J. Córdova, karennoid, Angelia Word
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguarai/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguarai/)*

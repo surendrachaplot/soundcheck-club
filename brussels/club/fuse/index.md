@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Fuse presents: KLOUD & Aiden" on Sat, 8 Aug 2026.
+Fuse is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Fuse presents: KLOUD & Aiden" on Sat, 8 Aug 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with line-ups including Aiden (DE), Arter, Dan Shake and gaiko and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -19,4 +19,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with 
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

@@ -1,6 +1,6 @@
 # H Grade
 
-H Grade is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+H Grade is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
 H Grade is a techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London and Milan. Often billed alongside James Harbrecht, Ylia (UK) and GIZZI. Next up: Gaffe, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ H Grade is a techno artist based in United Kingdom, tracked on soundcheck, with 
 
 James Harbrecht, Ylia (UK), GIZZI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hgrade/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hgrade/)*

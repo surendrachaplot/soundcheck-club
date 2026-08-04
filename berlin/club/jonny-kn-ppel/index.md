@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Pfandidos Klubnacht (8 Jahre Thälmannpark Special)" on Fri, 21 Aug 2026.
+Jonny Knüppel is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Pfandidos Klubnacht (8 Jahre Thälmannpark Special)" on Fri, 21 Aug 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including AAMIROO, Aber DJ, Andriy K. and Coco Cobra and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -15,4 +15,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 2 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

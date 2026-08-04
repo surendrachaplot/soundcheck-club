@@ -1,6 +1,6 @@
 # Senda
 
-Senda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
+Senda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
 
 Senda is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Osaka. Often billed alongside Nao Nomura, DMITRI ABSINTHE and KENJI MARUI. Next up: The V, Osaka on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Senda is a techno and house artist based in Japan, tracked on soundcheck, with 3
 
 Nao Nomura, DMITRI ABSINTHE, KENJI MARUI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senda/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senda/)*

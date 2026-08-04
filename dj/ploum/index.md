@@ -1,6 +1,6 @@
 # Ploum
 
-Ploum is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Ploum is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Ploum is a house and progressive house artist tracked on soundcheck, with 11 sets logged across Paris. Often billed alongside Spicy Sofi, Chtak. and Inspecteur. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ploum is a house and progressive house artist tracked on soundcheck, with 11 set
 
 Spicy Sofi, Chtak., Inspecteur
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploum/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploum/)*

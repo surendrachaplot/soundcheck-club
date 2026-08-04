@@ -1,6 +1,6 @@
 # Die Verletzt
 
-Die Verletzt is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at District, Liverpool on Sat, 15 Aug 2026.
+Die Verletzt is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at District, Liverpool on Sat, 15 Aug 2026.
 
 Die Verletzt is an ebm and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Liverpool and London. Often billed alongside Arrosa, Claudia Kane and DungeonMaster. Next up: District, Liverpool on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Die Verletzt is an ebm and techno artist based in United Kingdom, tracked on sou
 
 Arrosa, Claudia Kane, DungeonMaster
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieverletzt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieverletzt/)*

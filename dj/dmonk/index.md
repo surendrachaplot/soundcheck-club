@@ -1,6 +1,6 @@
 # D'Monk
 
-D'Monk is a Broken Beat and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Glove That Fits, London on Fri, 7 Aug 2026.
+D'Monk is a Broken Beat and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Glove That Fits, London on Fri, 7 Aug 2026.
 
 D'Monk is a broken beat and deep house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Lisbon and 2 more. Often billed alongside Ken Okuda, Orlando Rosé and Calamidades Lola. Next up: The Glove That Fits, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ D'Monk is a broken beat and deep house artist tracked on soundcheck, with 41 set
 
 Ken Okuda, Orlando Rosé, Calamidades Lola
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*

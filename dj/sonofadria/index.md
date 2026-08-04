@@ -1,6 +1,6 @@
 # Son of Adria
 
-Son of Adria is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Son of Adria is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Son of Adria is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Sebastian Ludvig, Louis Harshman and Millie Forsberg. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Son of Adria is a techno and trance artist based in Germany, tracked on soundche
 
 Sebastian Ludvig, Louis Harshman, Millie Forsberg
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofadria/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofadria/)*

@@ -1,6 +1,6 @@
 # Lady Jules
 
-Lady Jules is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Cu, London on Sat, 12 Sept 2026.
+Lady Jules is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cu, London on Sat, 12 Sept 2026.
 
 Lady Jules is a footwork and techno artist based in Sweden, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Sexy G, Sloan (2) and dj peanut. Next up: Cu, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lady Jules is a footwork and techno artist based in Sweden, tracked on soundchec
 
 Sexy G, Sloan (2), dj peanut
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyjules/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyjules/)*

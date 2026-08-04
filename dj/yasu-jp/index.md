@@ -1,6 +1,6 @@
 # Yasu (JP)
 
-Yasu (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Forestlimit, Tokyo on Thu, 6 Aug 2026.
+Yasu (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Forestlimit, Tokyo on Thu, 6 Aug 2026.
 
 Yasu (JP) is a techno and house artist tracked on soundcheck, with 14 sets logged across Osaka and Tokyo. Often billed alongside AMANE, EVE (1) and Gaito. Next up: Forestlimit, Tokyo on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Yasu (JP) is a techno and house artist tracked on soundcheck, with 14 sets logge
 
 AMANE, EVE (1), Gaito
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasu-jp/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasu-jp/)*

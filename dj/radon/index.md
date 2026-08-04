@@ -1,6 +1,6 @@
 # RADON
 
-RADON is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 7 Aug 2026.
+RADON is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 7 Aug 2026.
 
 RADON is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Buenosaires. Often billed alongside CCINNI, Emanuel Satie and Fabricio Mosoni. Next up: Crobar - Buenos Aires, Buenosaires on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ RADON is a techno and tech house artist tracked on soundcheck, with 5 sets logge
 
 CCINNI, Emanuel Satie, Fabricio Mosoni
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radon/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radon/)*

@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Terminal ZERO - ELECTRO / TECHNO / HOUSE / HIPHOP -" on Thu, 6 Aug 2026.
+ZEROTOKYO is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Terminal ZERO - ELECTRO / TECHNO / HOUSE / HIPHOP -" on Thu, 6 Aug 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including ACHIRI, ALEXANDER M, Andre McLeod and ANDY DEDE and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, wi
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

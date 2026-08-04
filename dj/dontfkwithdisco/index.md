@@ -1,6 +1,6 @@
 # Don't F**k with Disco
 
-Don't F**k with Disco is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Sawmills, Bristol on Sat, 8 Aug 2026.
+Don't F**k with Disco is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sawmills, Bristol on Sat, 8 Aug 2026.
 
 Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20 sets logged across Birmingham, Bristol, Ibiza and Liverpool and 2 more. Often billed alongside Cj Cooper, Daisybelle and M'Lover. Next up: Sawmills, Bristol on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20
 
 Cj Cooper, Daisybelle, M'Lover
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*

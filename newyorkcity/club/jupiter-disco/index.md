@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY" on Wed, 5 Aug 2026.
+Jupiter Disco is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY" on Wed, 5 Aug 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including CMD+JAZMINE, Cosmo, Cosmo (NY) and C Powers and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 20 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

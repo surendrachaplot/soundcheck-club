@@ -1,6 +1,6 @@
 # EVE (1)
 
-EVE (1) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Goya Social Club, Madrid on Sat, 8 Aug 2026.
+EVE (1) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Goya Social Club, Madrid on Sat, 8 Aug 2026.
 
 EVE (1) is a techno and industrial artist based in South Korea, tracked on soundcheck, with 203 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and EMILIO (3). Next up: Goya Social Club, Madrid on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ EVE (1) is a techno and industrial artist based in South Korea, tracked on sound
 
 KAMIKAZE, TYPE-O RISK SYSTEM, EMILIO (3)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eve-1/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eve-1/)*

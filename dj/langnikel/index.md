@@ -1,6 +1,6 @@
 # Langnikel
 
-Langnikel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Freifläche Neue Messe, Leipzig on Sat, 29 Aug 2026.
+Langnikel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Freifläche Neue Messe, Leipzig on Sat, 29 Aug 2026.
 
 Langnikel is a techno and house artist tracked on soundcheck, with 11 sets logged across Leipzig. Often billed alongside Fennek, Moto Moto and CAMPA. Next up: Freifläche Neue Messe, Leipzig on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Langnikel is a techno and house artist tracked on soundcheck, with 11 sets logge
 
 Fennek, Moto Moto, CAMPA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/langnikel/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/langnikel/)*

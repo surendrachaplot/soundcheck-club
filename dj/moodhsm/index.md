@@ -1,6 +1,6 @@
 # MOOD HSM
 
-MOOD HSM is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fünk, Mexico City on Fri, 7 Aug 2026.
+MOOD HSM is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Fünk, Mexico City on Fri, 7 Aug 2026.
 
 MOOD HSM is a house and downtempo artist based in Mexico, tracked on soundcheck, with 70 sets logged across Mexicocity. Often billed alongside Bluecommand, Alo and Charles Moon. Next up: Fünk, Mexicocity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ MOOD HSM is a house and downtempo artist based in Mexico, tracked on soundcheck,
 
 Bluecommand, Alo, Charles Moon
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodhsm/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodhsm/)*

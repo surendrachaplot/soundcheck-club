@@ -1,6 +1,6 @@
 # Soichi Terada
 
-Soichi Terada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Circus Osaka, Osaka on Mon, 10 Aug 2026.
+Soichi Terada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Circus Osaka, Osaka on Mon, 10 Aug 2026.
 
 Soichi Terada is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 35 more. Often billed alongside Antal, SAMO (JP) and 50Minimals. Next up: Circus Osaka, Osaka on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Soichi Terada is a house and techno artist tracked on soundcheck, with 110 sets 
 
 Antal, SAMO (JP), 50Minimals
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*

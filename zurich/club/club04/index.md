@@ -1,6 +1,6 @@
 # Club04
 
-Club04 is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Randy Party After Street Parade" on Sat, 8 Aug 2026.
+Club04 is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Randy Party After Street Parade" on Sat, 8 Aug 2026.
 
 Club04 is a music venue in Zurich listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Brauerstrasse 37, 8004 Zürich.
 
@@ -15,4 +15,4 @@ Club04 is a music venue in Zurich listed on soundcheck. 2 upcoming nights. Brows
 
 Brauerstrasse 37, 8004 Zürich, Zurich
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club04/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club04/)*

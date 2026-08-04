@@ -1,6 +1,6 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Vera Cocina & بار, Washington DC on Fri, 7 Aug 2026.
+Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Vera Cocina & بار, Washington DC on Fri, 7 Aug 2026.
 
 Bustin' Loose is a house and disco artist tracked on soundcheck, with 146 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Vera Cocina & بار, Washingtondc on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 146 sets l
 
 Tatiana, Magnolia_, Roland & Brother Rich
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

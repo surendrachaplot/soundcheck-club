@@ -1,6 +1,6 @@
 # AnnaM (NL)
 
-AnnaM (NL) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
+AnnaM (NL) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
 
 AnnaM (NL) is a minimal and house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Utrecht. Often billed alongside Be.a.son, Mission Architect and Nicola Piva. Next up: KABUL à GoGo, Utrecht on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ AnnaM (NL) is a minimal and house artist based in Netherlands, tracked on soundc
 
 Be.a.son, Mission Architect, Nicola Piva
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annamnl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annamnl/)*

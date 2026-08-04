@@ -1,6 +1,6 @@
 # Brouwerij Troost Westergas
 
-Brouwerij Troost Westergas is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Ritmo" on Sat, 15 Aug 2026.
+Brouwerij Troost Westergas is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ritmo" on Sat, 15 Aug 2026.
 
 Brouwerij Troost Westergas is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Sad Boy Solutions and Taco. Browse upcoming dates, start times and who's playing. Pazzanistraat 27, 1014 DB, Amsterdam.
 
@@ -14,4 +14,4 @@ Brouwerij Troost Westergas is a music venue in Amsterdam listed on soundcheck. 1
 
 Pazzanistraat 27, 1014 DB, Amsterdam, Amsterdam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/brouwerij-troost-westergas/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/brouwerij-troost-westergas/)*

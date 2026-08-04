@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "FREE OPEN AIR BEACH PARTY - Groovy Sunset" on Fri, 7 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FREE OPEN AIR BEACH PARTY - Groovy Sunset" on Fri, 7 Aug 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alexxx, Alphanova, Bill Hates and Chichöl and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -18,4 +18,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 5 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "WRECK - All Night Long" on Fri, 7 Aug 2026.
+SASS Music Club is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "WRECK - All Night Long" on Fri, 7 Aug 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including -LaLa-, Æ-X, Julani and Philipp Blecha and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -16,4 +16,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 3 upcoming nigh
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

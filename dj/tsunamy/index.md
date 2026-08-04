@@ -1,6 +1,6 @@
 # Tsunamy
 
-Tsunamy is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Beursschouwburg, Brussels on Sat, 19 Sept 2026.
+Tsunamy is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Beursschouwburg, Brussels on Sat, 19 Sept 2026.
 
 Tsunamy is a baile funk and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside JVINCENT, ARTEM (FR) and Big Dope P. Next up: Beursschouwburg, Brussels on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tsunamy is a baile funk and house artist tracked on soundcheck, with 65 sets log
 
 JVINCENT, ARTEM (FR), Big Dope P
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*

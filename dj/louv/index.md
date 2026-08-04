@@ -1,6 +1,6 @@
 # Louv
 
-Louv is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
+Louv is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
 Louv is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Melbourne, Munich and Stuttgart. Often billed alongside Death of Mars, bbymeister and 2shy2cue. Next up: OST, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Louv is a trance and techno artist based in Germany, tracked on soundcheck, with
 
 Death of Mars, bbymeister, 2shy2cue
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louv/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louv/)*

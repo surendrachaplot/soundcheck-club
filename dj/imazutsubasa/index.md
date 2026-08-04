@@ -1,6 +1,6 @@
 # imazutsubasa
 
-imazutsubasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club Daphnia, Osaka on Sat, 8 Aug 2026.
+imazutsubasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club Daphnia, Osaka on Sat, 8 Aug 2026.
 
 imazutsubasa is a techno and house artist tracked on soundcheck, with 59 sets logged across Kyoto and Osaka. Often billed alongside Ryogo, Sou Kitahara and Aspara. Next up: Club Daphnia, Osaka on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ imazutsubasa is a techno and house artist tracked on soundcheck, with 59 sets lo
 
 Ryogo, Sou Kitahara, Aspara
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imazutsubasa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imazutsubasa/)*

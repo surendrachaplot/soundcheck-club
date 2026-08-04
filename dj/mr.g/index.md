@@ -1,6 +1,6 @@
 # Mr. G
 
-Mr. G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at HERE, London on Fri, 4 Sept 2026.
+Mr. G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at HERE, London on Fri, 4 Sept 2026.
 
 Mr. G is a house and techno artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 13 more. Often billed alongside ANOTR, Jeremy Underground and Carl Cox. Next up: HERE, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mr. G is a house and techno artist tracked on soundcheck, with 35 sets logged ac
 
 ANOTR, Jeremy Underground, Carl Cox
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.g/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.g/)*

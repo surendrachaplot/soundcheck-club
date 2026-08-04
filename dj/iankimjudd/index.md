@@ -1,6 +1,6 @@
 # Ian Kim Judd
 
-Ian Kim Judd is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Ian Kim Judd is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Ian Kim Judd is an ambient and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across London, Newyorkcity and Philadelphia. Often billed alongside Purelink, DJ Healthy and 7038634357. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ian Kim Judd is an ambient and techno artist based in United States of America, 
 
 Purelink, DJ Healthy, 7038634357
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iankimjudd/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iankimjudd/)*

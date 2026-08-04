@@ -1,6 +1,6 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
+Tom Peters is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at BASEMENT, New York City on Sat, 15 Aug 2026.
 
 Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: BASEMENT, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

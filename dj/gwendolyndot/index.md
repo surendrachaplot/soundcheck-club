@@ -1,6 +1,6 @@
 # Gwendolyn Dot
 
-Gwendolyn Dot is a Ambient and New Wave artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Strays, Detroit on Sat, 29 Aug 2026.
+Gwendolyn Dot is a Ambient and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Strays, Detroit on Sat, 29 Aug 2026.
 
 Gwendolyn Dot is an ambient and new wave artist tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside ACE, Alvin Hill and Bill Spencer. Next up: The Strays, Detroit on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Gwendolyn Dot is an ambient and new wave artist tracked on soundcheck, with 7 se
 
 ACE, Alvin Hill, Bill Spencer
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendolyndot/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendolyndot/)*

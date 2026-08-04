@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Under The Skin: Liverpool's Queer and Trans Block Party" on Fri, 7 Aug 2026.
+Commune is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Under The Skin: Liverpool's Queer and Trans Block Party" on Fri, 7 Aug 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including Fenn Piper, Jez Thelwell, Lo Five and Luna (1) and 1 more. Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -20,4 +20,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, w
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

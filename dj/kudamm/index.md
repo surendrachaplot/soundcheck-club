@@ -1,6 +1,6 @@
 # Ku'damm
 
-Ku'damm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
+Ku'damm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
 
 Ku'damm is a house and techno artist based in Japan, tracked on soundcheck, with 5 sets logged across Osaka and Tokyo. Often billed alongside ushiro, BERLIN and H'de. Next up: Teranoma Tidepool, Osaka on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ Ku'damm is a house and techno artist based in Japan, tracked on soundcheck, with
 
 ushiro, BERLIN, H'de
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kudamm/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kudamm/)*

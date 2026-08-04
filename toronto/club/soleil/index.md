@@ -1,6 +1,6 @@
 # Soleil
 
-Soleil is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Suck My Deck: SPF (Daytime Dance Party)" on Sat, 15 Aug 2026.
+Soleil is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Suck My Deck: SPF (Daytime Dance Party)" on Sat, 15 Aug 2026.
 
 Soleil is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Donny Vega, JOOOF and TR4CE. Browse upcoming dates, start times and who's playing. 1251 Dundas Street West.
 
@@ -14,4 +14,4 @@ Soleil is a music venue in Toronto listed on soundcheck. 1 upcoming night, with 
 
 1251 Dundas Street West, Toronto
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/soleil/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/soleil/)*

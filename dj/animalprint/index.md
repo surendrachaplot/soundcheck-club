@@ -1,6 +1,6 @@
 # Animal Print
 
-Animal Print is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
+Animal Print is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
 
 Animal Print is a house and techno artist based in Bolivia, tracked on soundcheck, with 9 sets logged across Barcelona, Copenhagen and Madrid. Often billed alongside Azpecialguest, AVI.avi and Adexia. Next up: Culture Box, Copenhagen on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Animal Print is a house and techno artist based in Bolivia, tracked on soundchec
 
 Azpecialguest, AVI.avi, Adexia
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/animalprint/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/animalprint/)*

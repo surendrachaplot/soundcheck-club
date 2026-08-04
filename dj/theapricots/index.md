@@ -1,6 +1,6 @@
 # The Apricots
 
-The Apricots is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club der Visionaere, Berlin on Thu, 20 Aug 2026.
+The Apricots is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Thu, 20 Aug 2026.
 
 The Apricots is a house and breakbeat artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Bucharest and Ghent and 1 more. Often billed alongside Alexandra, DJ Slim Fit and Enchanted Rhythms. Next up: Club der Visionaere, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ The Apricots is a house and breakbeat artist tracked on soundcheck, with 19 sets
 
 Alexandra, DJ Slim Fit, Enchanted Rhythms
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theapricots/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theapricots/)*

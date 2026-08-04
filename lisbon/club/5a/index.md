@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Worm Class + Schlingen" on Fri, 7 Aug 2026.
+5A is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Worm Class + Schlingen" on Fri, 7 Aug 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including Brusca, Cruz (PT), Hypnotic Black Magic and Pandilla LTD and 2 more. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -21,4 +21,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

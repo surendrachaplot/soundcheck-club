@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 5 Aug 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 5 Aug 2026.
 
 Dennis Cruz is a tech house and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Santanna Mykonos, Mykonos on Wed 5 Aug.
 
@@ -34,4 +34,4 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 174 set
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

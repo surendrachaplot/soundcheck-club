@@ -1,6 +1,6 @@
 # Tympanic
 
-Tympanic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
+Tympanic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
 
 Tympanic is a house and techno artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside 9 Lives, ATMEN and ALUSH. Next up: Sunseabar Beach Club, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Tympanic is a house and techno artist tracked on soundcheck, with 24 sets logged
 
 9 Lives, ATMEN, ALUSH
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*

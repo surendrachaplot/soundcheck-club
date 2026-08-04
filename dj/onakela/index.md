@@ -1,6 +1,6 @@
 # Ona Kela
 
-Ona Kela is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Next Door Records Two, London on Sat, 15 Aug 2026.
+Ona Kela is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Next Door Records Two, London on Sat, 15 Aug 2026.
 
 Ona Kela is a techno and minimal techno artist based in Ireland, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Kessie, Livid (UK) and Ness. Next up: Next Door Records Two, London on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Ona Kela is a techno and minimal techno artist based in Ireland, tracked on soun
 
 Kessie, Livid (UK), Ness
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onakela/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onakela/)*

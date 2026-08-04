@@ -1,6 +1,6 @@
 # Da Tweekaz
 
-Da Tweekaz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Da Tweekaz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 Da Tweekaz is a techno and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Brussels, Frankfurt and Glasgow and 10 more. Often billed alongside Angerfist, Yeyo and Dual Damage. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Da Tweekaz is a techno and club artist tracked on soundcheck, with 22 sets logge
 
 Angerfist, Yeyo, Dual Damage
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datweekaz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datweekaz/)*

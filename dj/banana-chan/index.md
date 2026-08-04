@@ -1,6 +1,6 @@
 # BANANA-CHAN
 
-BANANA-CHAN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
+BANANA-CHAN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
 
 BANANA-CHAN is a house and techno artist based in Japan, tracked on soundcheck, with 154 sets logged across Berlin, Chicago, Kyoto and London and 3 more. Often billed alongside scrab, Aiko Inoue and TKS1T. Next up: Débris, Tokyo on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ BANANA-CHAN is a house and techno artist based in Japan, tracked on soundcheck, 
 
 scrab, Aiko Inoue, TKS1T
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banana-chan/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banana-chan/)*

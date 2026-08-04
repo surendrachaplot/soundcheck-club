@@ -1,6 +1,6 @@
 # Jedidiah
 
-Jedidiah is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
+Jedidiah is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
 
 Jedidiah is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Hamburg, Melbourne and Munich. Often billed alongside Tom Baker, Andrew Till and Anna Lazer. Next up: Howler, Melbourne on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Jedidiah is a progressive house and techno artist based in United States of Amer
 
 Tom Baker, Andrew Till, Anna Lazer
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedidiah/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedidiah/)*

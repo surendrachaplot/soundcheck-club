@@ -1,6 +1,6 @@
 # RED-S
 
-RED-S is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+RED-S is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 RED-S is a bass and dubstep artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside SAKO, Rikk (2) and HiTOMi. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ RED-S is a bass and dubstep artist based in Japan, tracked on soundcheck, with 1
 
 SAKO, Rikk (2), HiTOMi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/red-s/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/red-s/)*

@@ -1,6 +1,6 @@
 # Andy4000
 
-Andy4000 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 8 Aug 2026.
+Andy4000 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 8 Aug 2026.
 
 Andy4000 is a techno and club artist tracked on soundcheck, with 33 sets logged across Brussels, Lyon, Marseille and Paris. Often billed alongside Mad Rey, Broodoo Ramses and GLITTER55. Next up: La Station - Gare des Mines, Paris on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Andy4000 is a techno and club artist tracked on soundcheck, with 33 sets logged 
 
 Mad Rey, Broodoo Ramses, GLITTER55
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andy4000/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andy4000/)*

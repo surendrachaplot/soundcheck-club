@@ -1,6 +1,6 @@
 # Public Appeal
 
-Public Appeal is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Système, Montreal on Sun, 16 Aug 2026.
+Public Appeal is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Système, Montreal on Sun, 16 Aug 2026.
 
 Public Appeal is a techno and pop artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal and Toronto. Often billed alongside Billy Bondage, Mossy Mugler and sineila. Next up: Système, Montreal on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Public Appeal is a techno and pop artist based in Canada, tracked on soundcheck,
 
 Billy Bondage, Mossy Mugler, sineila
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/publicappeal/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/publicappeal/)*

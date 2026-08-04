@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina" on Fri, 7 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina" on Fri, 7 Aug 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Afem Syko, Blawan, cyaabottom and dasstudach and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -20,4 +20,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

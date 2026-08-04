@@ -1,6 +1,6 @@
 # Liberty Point
 
-Liberty Point is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Synthicide x SHADOWPLAY: TROPIGOTH FEST" on Sun, 9 Aug 2026.
+Liberty Point is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Synthicide x SHADOWPLAY: TROPIGOTH FEST" on Sun, 9 Aug 2026.
 
 Liberty Point is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Andi, G I N A, Jubilee and Kendal. Browse upcoming dates, start times and who's playing. 211 S Christopher Columbus Blvd, Philadelphia, PA 19106.
 
@@ -16,4 +16,4 @@ Liberty Point is a music venue in Philadelphia listed on soundcheck. 3 upcoming 
 
 211 S Christopher Columbus Blvd, Philadelphia, PA 19106, Philadelphia
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/liberty-point/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/liberty-point/)*

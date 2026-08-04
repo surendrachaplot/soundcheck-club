@@ -1,6 +1,6 @@
 # yugo
 
-yugo is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at White Space Lab, Tokyo on Sat, 8 Aug 2026.
+yugo is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at White Space Lab, Tokyo on Sat, 8 Aug 2026.
 
 yugo is a techno artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Shun Mizuki and Kanamemandala. Next up: White Space Lab, Tokyo on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ yugo is a techno artist based in Japan, tracked on soundcheck, with 1 set logged
 
 Shun Mizuki, Kanamemandala
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yugo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yugo/)*

@@ -1,6 +1,6 @@
 # Nachtigaller
 
-Nachtigaller is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 4 Sept 2026.
+Nachtigaller is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 4 Sept 2026.
 
 Nachtigaller is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Frankfurt and Leipzig and 4 more. Often billed alongside A.N.I., Jozh and Negativ. Next up: Der Weiße Hase, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Nachtigaller is a techno and hip-hop artist based in Germany, tracked on soundch
 
 A.N.I., Jozh, Negativ
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*

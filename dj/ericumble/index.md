@@ -1,6 +1,6 @@
 # Eric Umble
 
-Eric Umble is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 11 Sept 2026.
+Eric Umble is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Brooklyn Monarch, New York City on Fri, 11 Sept 2026.
 
 Eric Umble is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Denver, Detroit, Newyorkcity and Philadelphia. Often billed alongside Mark Holcomb, Rebecca Goldberg and Elle Dee. Next up: The Brooklyn Monarch, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Eric Umble is a techno and house artist based in United States of America, track
 
 Mark Holcomb, Rebecca Goldberg, Elle Dee
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericumble/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericumble/)*

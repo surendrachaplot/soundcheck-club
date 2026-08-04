@@ -1,6 +1,6 @@
 # Wax Assassin
 
-Wax Assassin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Trumbullplex, Detroit on Sat, 8 Aug 2026.
+Wax Assassin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Trumbullplex, Detroit on Sat, 8 Aug 2026.
 
 Wax Assassin is a techno and house artist tracked on soundcheck, with 151 sets logged across Detroit. Often billed alongside we1sman, LATEX GIRL and UNS4NE. Next up: Trumbullplex, Detroit on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Wax Assassin is a techno and house artist tracked on soundcheck, with 151 sets l
 
 we1sman, LATEX GIRL, UNS4NE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*

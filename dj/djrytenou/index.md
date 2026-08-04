@@ -1,6 +1,6 @@
 # Dj Ryte Nou
 
-Dj Ryte Nou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Spkrbox, Detroit on Sat, 8 Aug 2026.
+Dj Ryte Nou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Spkrbox, Detroit on Sat, 8 Aug 2026.
 
 Dj Ryte Nou is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Ryan Sadorus, DJ SYNC and Gregboi. Next up: Spkrbox, Detroit on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dj Ryte Nou is a house and techno artist based in United States of America, trac
 
 Ryan Sadorus, DJ SYNC, Gregboi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrytenou/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrytenou/)*

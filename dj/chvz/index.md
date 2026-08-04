@@ -1,6 +1,6 @@
 # CHVZ
 
-CHVZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Liquid Club, Malta on Tue, 11 Aug 2026.
+CHVZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Liquid Club, Malta on Tue, 11 Aug 2026.
 
 CHVZ is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside EDJM, Anuuk and ArceX. Next up: Liquid Club, Malta on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ CHVZ is a techno and trance artist tracked on soundcheck, with 10 sets logged ac
 
 EDJM, Anuuk, ArceX
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*

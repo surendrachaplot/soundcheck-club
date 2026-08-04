@@ -1,18 +1,18 @@
 # Koji Nakamura
 
-Koji Nakamura is a Post-Punk and New Wave artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Cafe&diner ｽﾀｼﾞｵ, Tokyo on Mon, 3 Aug 2026.
+Koji Nakamura is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 6 Aug 2026.
 
-Koji Nakamura is a post-punk and new wave artist based in Japan, tracked on soundcheck, with 6 sets logged across Osaka and Tokyo. Often billed alongside AOI BLOOM, DJ SPOT and RReona. Next up: Cafe&diner ｽﾀｼﾞｵ, Tokyo on Mon 3 Aug.
+Koji Nakamura is a post-punk and new wave artist based in Japan, tracked on soundcheck, with 6 sets logged across Osaka and Tokyo. Often billed alongside AOI BLOOM, DJ SPOT and RReona. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | Cafe&diner ｽﾀｼﾞｵ | Tokyo |
 | Thu, 6 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
 
+- Cafe&diner ｽﾀｼﾞｵ, Tokyo — Mon, 3 Aug 2026
 - Teranoma Tidepool, Osaka — Sat, 18 Jul 2026
 - Royal Lounge, Tokyo — Mon, 13 Jul 2026
 - Cafe&diner ｽﾀｼﾞｵ, Tokyo — Mon, 6 Jul 2026
@@ -22,4 +22,4 @@ Koji Nakamura is a post-punk and new wave artist based in Japan, tracked on soun
 
 AOI BLOOM, DJ SPOT, RReona
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*

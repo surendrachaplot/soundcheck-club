@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 20 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Palais: Session Victim (All Night Long)" on Fri, 7 Aug 2026.
+Palais is a music venue in London with 20 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Palais: Session Victim (All Night Long)" on Fri, 7 Aug 2026.
 
 Palais is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including AMORAL, ANNĒ, Bill Brewster and Cáit and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 20 upcoming nights, with
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

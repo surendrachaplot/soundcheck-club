@@ -1,6 +1,6 @@
 # Meedy
 
-Meedy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
+Meedy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
 
 Meedy is an afro house and afro tech artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, London, Miami and Newyorkcity and 3 more. Often billed alongside pizzi, Niara Sterling and Nativesun. Next up: Parallel, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Meedy is an afro house and afro tech artist based in United States of America, t
 
 pizzi, Niara Sterling, Nativesun
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meedy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meedy/)*

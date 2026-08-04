@@ -1,6 +1,6 @@
 # V (Toronto)
 
-V (Toronto) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
+V (Toronto) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
 
 V (Toronto) is a techno artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside KILL 9 1, MENACE. and R4TS. Next up: The Comfort Zone, Toronto on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ V (Toronto) is a techno artist based in Canada, tracked on soundcheck, with 5 se
 
 KILL 9 1, MENACE., R4TS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vtoronto/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vtoronto/)*

@@ -1,6 +1,6 @@
 # Mawkus
 
-Mawkus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
+Mawkus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
 
 Mawkus is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Bangkok, Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside Big Happy, Jasmine Li (NY) and Lefto Early Bird. Next up: Elsewhere, Newyorkcity on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Mawkus is a house and deep house artist based in United States of America, track
 
 Big Happy, Jasmine Li (NY), Lefto Early Bird
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mawkus/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mawkus/)*

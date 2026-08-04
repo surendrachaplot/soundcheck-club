@@ -1,6 +1,6 @@
 # Otherworld
 
-Otherworld is a music venue in Austin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "ENCOUNTER" on Fri, 7 Aug 2026.
+Otherworld is a music venue in Austin with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "ENCOUNTER" on Fri, 7 Aug 2026.
 
 Otherworld is a music venue in Austin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Otherworld is a music venue in Austin listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | ENCOUNTER |  |
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/otherworld/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/otherworld/)*

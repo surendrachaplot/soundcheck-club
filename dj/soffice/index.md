@@ -1,6 +1,6 @@
 # Soffice
 
-Soffice is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
+Soffice is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
 
 Soffice is a techno and tech house artist based in Italy, tracked on soundcheck, with 11 sets logged across Berlin, Budapest, Milan and Rome. Often billed alongside Jacopo Forli, Lady Maru and 7CIRCLE. Next up: ÆDEN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Soffice is a techno and tech house artist based in Italy, tracked on soundcheck,
 
 Jacopo Forli, Lady Maru, 7CIRCLE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soffice/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soffice/)*

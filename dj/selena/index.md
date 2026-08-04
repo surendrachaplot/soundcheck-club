@@ -1,6 +1,6 @@
 # SELENA
 
-SELENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
+SELENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
 
 SELENA is a techno and house artist based in South Korea, tracked on soundcheck, with 13 sets logged across Barcelona, Melbourne and Seoul. Often billed alongside SILVERSTAR OH, Bagagee Viphex13 and Mukthi. Next up: Angel Music Bar, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ SELENA is a techno and house artist based in South Korea, tracked on soundcheck,
 
 SILVERSTAR OH, Bagagee Viphex13, Mukthi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selena/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selena/)*

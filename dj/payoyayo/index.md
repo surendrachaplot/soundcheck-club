@@ -1,6 +1,6 @@
 # PayoYayo
 
-PayoYayo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Smolna, Warsaw on Sat, 8 Aug 2026.
+PayoYayo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Smolna, Warsaw on Sat, 8 Aug 2026.
 
 PayoYayo is a techno and house artist based in Poland, tracked on soundcheck, with 46 sets logged across Krakow and Warsaw. Often billed alongside bolo, Abrew and Kobayashkn. Next up: Smolna, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ PayoYayo is a techno and house artist based in Poland, tracked on soundcheck, wi
 
 bolo, Abrew, Kobayashkn
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/payoyayo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/payoyayo/)*

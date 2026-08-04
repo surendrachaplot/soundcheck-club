@@ -1,6 +1,6 @@
 # K657
 
-K657 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at NWHR, Montreal on Fri, 7 Aug 2026.
+K657 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at NWHR, Montreal on Fri, 7 Aug 2026.
 
 K657 is a techno and hardcore artist based in Canada, tracked on soundcheck, with 36 sets logged across Montreal and Toronto. Often billed alongside Meen Moreen, Katamina and Xaviera. Next up: NWHR, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ K657 is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 Meen Moreen, Katamina, Xaviera
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k657/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k657/)*

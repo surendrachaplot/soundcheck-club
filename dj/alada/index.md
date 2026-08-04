@@ -1,6 +1,6 @@
 # Alada
 
-Alada is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TORTE BAR, Berlin on Thu, 13 Aug 2026.
+Alada is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TORTE BAR, Berlin on Thu, 13 Aug 2026.
 
 Alada is a techno and bass artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside XD Erica, Slim Soledad and Dj Saliva. Next up: TORTE BAR, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Alada is a techno and bass artist tracked on soundcheck, with 38 sets logged acr
 
 XD Erica, Slim Soledad, Dj Saliva
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alada/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alada/)*

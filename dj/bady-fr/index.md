@@ -1,13 +1,14 @@
 # Bady (FR)
 
-Bady (FR) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
+Bady (FR) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Petit Bain, Paris on Sat, 29 Aug 2026.
 
-Bady (FR) is a trance and techno artist tracked on soundcheck, with 6 sets logged across Berlin and Paris. Often billed alongside Yous, E.T. and MIMI404. Next up: Œlgarten, Berlin on Sat 5 Sept.
+Bady (FR) is a trance and techno artist tracked on soundcheck, with 7 sets logged across Berlin and Paris. Often billed alongside Yous, E.T. and MIMI404. Next up: Petit Bain, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Petit Bain | Paris |
 | Sat, 5 Sept 2026 | Œlgarten | Berlin |
 
 ## Recently played
@@ -22,4 +23,4 @@ Bady (FR) is a trance and techno artist tracked on soundcheck, with 6 sets logge
 
 Yous, E.T., MIMI404
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bady-fr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bady-fr/)*

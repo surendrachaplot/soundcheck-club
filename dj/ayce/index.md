@@ -1,6 +1,6 @@
 # Ayce
 
-Ayce is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Ayce is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 Ayce is a disco and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Bustin' Loose, The Wild Violets and Barbara Tucker. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Ayce is a disco and house artist based in United Kingdom, tracked on soundcheck,
 
 Bustin' Loose, The Wild Violets, Barbara Tucker
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayce/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayce/)*

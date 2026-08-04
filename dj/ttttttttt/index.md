@@ -1,6 +1,6 @@
 # ttttttttt
 
-ttttttttt is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
+ttttttttt is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 ttttttttt is an electronica and club artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Vlad Zinn, acidhousewife3000 and dbeater. Next up: HWK, London on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ ttttttttt is an electronica and club artist based in United Kingdom, tracked on 
 
 Vlad Zinn, acidhousewife3000, dbeater
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttttttttt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttttttttt/)*

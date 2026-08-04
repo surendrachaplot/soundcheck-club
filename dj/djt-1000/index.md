@@ -1,6 +1,6 @@
 # DJ T-1000
 
-DJ T-1000 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
+DJ T-1000 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
 
 DJ T-1000 is a techno and electro artist based in Germany, tracked on soundcheck, with 57 sets logged across Antwerp, Belgrade, Berlin and Brussels and 14 more. Often billed alongside Ellen Allien, BLACK ANTHEM RESTORE and Tigerhead. Next up: Tresor / Globus, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ T-1000 is a techno and electro artist based in Germany, tracked on soundcheck
 
 Ellen Allien, BLACK ANTHEM RESTORE, Tigerhead
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djt-1000/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djt-1000/)*

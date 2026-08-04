@@ -1,6 +1,6 @@
 # Egotot
 
-Egotot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
+Egotot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
 
 Egotot is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Budapest and Dusseldorf and 9 more. Often billed alongside Pino Peña, Anterist and Franz Jäger. Next up: Rote Sonne, Munich on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Egotot is a techno and house artist tracked on soundcheck, with 49 sets logged a
 
 Pino Peña, Anterist, Franz Jäger
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*

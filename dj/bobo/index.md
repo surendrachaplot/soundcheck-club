@@ -1,6 +1,6 @@
 # Bobo
 
-Bobo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
+Bobo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
 
 Bobo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Glasgow, Manchester, Melbourne and Mexicocity and 1 more. Often billed alongside Animaux, Wild Forts and AMIRA. Next up: Miscellania, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bobo is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Animaux, Wild Forts, AMIRA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobo/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobo/)*

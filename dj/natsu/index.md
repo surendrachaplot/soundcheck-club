@@ -1,6 +1,6 @@
 # Natsu
 
-Natsu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 21 Aug 2026.
+Natsu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 21 Aug 2026.
 
 Natsu is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, Hamburg, Losangeles and Strasbourg and 1 more. Often billed alongside JØSH., Malvadisco and NOIA. Next up: ZEROTOKYO, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Natsu is a house and techno artist tracked on soundcheck, with 24 sets logged ac
 
 JØSH., Malvadisco, NOIA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsu/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsu/)*

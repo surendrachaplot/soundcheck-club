@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Yoshiko is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Yoshiko is a techno and hardcore artist tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Dimitri K, Lola Cerise and Lolalita. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 31 sets logg
 
 Dimitri K, Lola Cerise, Lolalita
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

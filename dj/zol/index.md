@@ -1,6 +1,6 @@
 # ZOL
 
-ZOL is a Dub Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Atno, Budapest on Fri, 7 Aug 2026.
+ZOL is a Dub Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Atno, Budapest on Fri, 7 Aug 2026.
 
 ZOL is a dub techno and minimal artist tracked on soundcheck, with 7 sets logged across Budapest. Often billed alongside Garpo, Arapu and CQUE. Next up: Atno, Budapest on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ ZOL is a dub techno and minimal artist tracked on soundcheck, with 7 sets logged
 
 Garpo, Arapu, CQUE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zol/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zol/)*

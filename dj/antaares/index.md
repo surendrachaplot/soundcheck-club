@@ -1,6 +1,6 @@
 # Antaares
 
-Antaares is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kaschemme Basel, Basel on Sat, 8 Aug 2026.
+Antaares is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kaschemme Basel, Basel on Sat, 8 Aug 2026.
 
 Antaares is a downtempo and techno artist based in Mexico, tracked on soundcheck, with 29 sets logged across Auckland, Barcelona, Basel and Berlin and 8 more. Often billed alongside bawab, Alacrán del Amor and Cedro. Next up: Kaschemme Basel, Basel on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Antaares is a downtempo and techno artist based in Mexico, tracked on soundcheck
 
 bawab, Alacrán del Amor, Cedro
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*

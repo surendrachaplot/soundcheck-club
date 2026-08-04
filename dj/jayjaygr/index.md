@@ -1,6 +1,6 @@
 # jayjayGR
 
-jayjayGR is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Skull Bar, Athens on Sun, 9 Aug 2026.
+jayjayGR is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Skull Bar, Athens on Sun, 9 Aug 2026.
 
 jayjayGR is a house and deep house artist based in Greece, tracked on soundcheck, with 33 sets logged across Athens. Often billed alongside Stratos (2), Reign Of Time and SUNEATER.. Next up: Skull Bar, Athens on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ jayjayGR is a house and deep house artist based in Greece, tracked on soundcheck
 
 Stratos (2), Reign Of Time, SUNEATER.
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*

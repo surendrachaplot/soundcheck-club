@@ -1,6 +1,6 @@
 # Lugzy
 
-Lugzy is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Saint Judes, Glasgow on Sat, 5 Sept 2026.
+Lugzy is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Saint Judes, Glasgow on Sat, 5 Sept 2026.
 
 Lugzy is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow and London. Often billed alongside Dark0, Evian Christ and MC Tazo. Next up: Saint Judes, Glasgow on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Lugzy is a hardcore and trance artist based in United Kingdom, tracked on soundc
 
 Dark0, Evian Christ, MC Tazo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lugzy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lugzy/)*

@@ -1,6 +1,6 @@
 # Herrrouine
 
-Herrrouine is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+Herrrouine is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
 Herrrouine is a techno and ghetto tech artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Basel, Stuttgart and Zurich. Often billed alongside Gomorra, Cepheì and kso12. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Herrrouine is a techno and ghetto tech artist based in Switzerland, tracked on s
 
 Gomorra, Cepheì, kso12
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herrrouine/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herrrouine/)*

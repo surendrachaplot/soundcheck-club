@@ -1,6 +1,6 @@
 # Translucent
 
-Translucent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Plaza of Nations Dock, Vancouver on Sat, 12 Sept 2026.
+Translucent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Plaza of Nations Dock, Vancouver on Sat, 12 Sept 2026.
 
 Translucent is a house and disco artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco and Vancouver. Often billed alongside Bob Manzanilla, Charles Hawthorne and George Feely. Next up: Plaza of Nations Dock, Vancouver on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Translucent is a house and disco artist based in United States of America, track
 
 Bob Manzanilla, Charles Hawthorne, George Feely
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/translucent/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/translucent/)*

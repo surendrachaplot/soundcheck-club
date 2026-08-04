@@ -1,6 +1,6 @@
 # La Forêt
 
-La Forêt is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MH5 Rooftop, Munich on Sat, 8 Aug 2026.
+La Forêt is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at MH5 Rooftop, Munich on Sat, 8 Aug 2026.
 
 La Forêt is a house and tech house artist based in Switzerland, tracked on soundcheck, with 60 sets logged across Cologne, Copenhagen, Geneva and Lisbon and 1 more. Often billed alongside David Armada, DJ Reas and Rimbu (CH). Next up: MH5 Rooftop, Munich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ La Forêt is a house and tech house artist based in Switzerland, tracked on soun
 
 David Armada, DJ Reas, Rimbu (CH)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laforet/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laforet/)*

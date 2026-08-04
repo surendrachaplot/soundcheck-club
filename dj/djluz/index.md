@@ -1,6 +1,6 @@
 # LUXE
 
-LUXE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+LUXE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 LUXE is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside HAAi, FAFF and TSUNIMAN. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ LUXE is a techno and house artist tracked on soundcheck, with 101 sets logged ac
 
 HAAi, FAFF, TSUNIMAN
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djluz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djluz/)*

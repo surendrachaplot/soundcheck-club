@@ -1,6 +1,6 @@
 # FØBIA
 
-FØBIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Liquid Club, Malta on Tue, 11 Aug 2026.
+FØBIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Liquid Club, Malta on Tue, 11 Aug 2026.
 
 FØBIA is a techno and trance artist based in Italy, tracked on soundcheck, with 8 sets logged across Berlin, Madrid, Malta and Milan. Often billed alongside Amo (IT), DOCTOR MÜCKE and Amøn. Next up: Liquid Club, Malta on Tue 11 Aug.
 
@@ -24,4 +24,4 @@ FØBIA is a techno and trance artist based in Italy, tracked on soundcheck, with
 
 Amo (IT), DOCTOR MÜCKE, Amøn
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fobia-it/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fobia-it/)*

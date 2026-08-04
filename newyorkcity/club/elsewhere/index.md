@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "San Junipero - A Retrowave Party: Valentine, Faith in the Glitch, GreenTeaWasted" on Thu, 6 Aug 2026.
+Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "San Junipero - A Retrowave Party: Valentine, Faith in the Glitch, GreenTeaWasted" on Thu, 6 Aug 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nights, with line-ups including 444 (1), Aku, Andruss and ARINI and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

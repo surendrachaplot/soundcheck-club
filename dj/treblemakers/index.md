@@ -1,6 +1,6 @@
 # TrebleMakers
 
-TrebleMakers is a Minimal Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
+TrebleMakers is a Minimal Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
 
 TrebleMakers is a minimal techno and electronica artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Lisbon and London. Often billed alongside Julian Anthony, ADMNTi and B.Love. Next up: 93 Feet East, London on Sun 27 Sept.
 
@@ -22,4 +22,4 @@ TrebleMakers is a minimal techno and electronica artist based in United Kingdom,
 
 Julian Anthony, ADMNTi, B.Love
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treblemakers/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treblemakers/)*

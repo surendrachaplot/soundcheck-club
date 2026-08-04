@@ -1,6 +1,6 @@
 # Pete Bones
 
-Pete Bones is a Progressive House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Patterns, Brighton on Sat, 8 Aug 2026.
+Pete Bones is a Progressive House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Patterns, Brighton on Sat, 8 Aug 2026.
 
 Pete Bones is a progressive house and acid artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Brighton. Often billed alongside Al Bradley, Dave Gallier and Gee Moore. Next up: Patterns, Brighton on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Pete Bones is a progressive house and acid artist based in United Kingdom, track
 
 Al Bradley, Dave Gallier, Gee Moore
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petebones/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petebones/)*

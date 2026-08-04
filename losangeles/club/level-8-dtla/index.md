@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SUNSET SESSIONS presents: 'GOOD GIRL' Release Party" on Fri, 7 Aug 2026.
+Level 8 DTLA is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "SUNSET SESSIONS presents: 'GOOD GIRL' Release Party" on Fri, 7 Aug 2026.
 
 Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming nights, with line-ups including Apache, David Paul, Durante and Grum and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -21,4 +21,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming nig
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

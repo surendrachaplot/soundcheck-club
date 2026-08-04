@@ -1,6 +1,6 @@
 # Stëh
 
-Stëh is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
+Stëh is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
 
 Stëh is a techno and hardcore artist based in Brazil, tracked on soundcheck, with 82 sets logged across Barcelona, Basel, Berlin and Ibiza and 7 more. Often billed alongside Madson Carpenter, Ornella and Taxsh. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Stëh is a techno and hardcore artist based in Brazil, tracked on soundcheck, wi
 
 Madson Carpenter, Ornella, Taxsh
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*

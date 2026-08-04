@@ -1,6 +1,6 @@
 # Pocci
 
-Pocci is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Pocci is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Pocci is a house and techno artist based in Malta, tracked on soundcheck, with 5 sets logged across London and Malta. Often billed alongside Carl Bee, Carl Lautier and Daniel Blade. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Pocci is a house and techno artist based in Malta, tracked on soundcheck, with 5
 
 Carl Bee, Carl Lautier, Daniel Blade
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pocci/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pocci/)*

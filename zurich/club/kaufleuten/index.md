@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Reverb with Vintage Culture" on Sat, 8 Aug 2026.
+Kaufleuten is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Reverb with Vintage Culture" on Sat, 8 Aug 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Bedouin, Deborah De Luca, Franc Fala and Vintage Culture and 1 more. Browse upcoming dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -17,4 +17,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 4 upcoming nights, w
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

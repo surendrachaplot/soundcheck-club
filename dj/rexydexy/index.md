@@ -1,6 +1,6 @@
 # REXY DEXY
 
-REXY DEXY is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
+REXY DEXY is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
 
 REXY DEXY is a bass and drum & bass artist based in Japan, tracked on soundcheck, with 25 sets logged across Kyoto and Tokyo. Often billed alongside ATAMI, MOOTOE and SAKO. Next up: Camelot, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ REXY DEXY is a bass and drum & bass artist based in Japan, tracked on soundcheck
 
 ATAMI, MOOTOE, SAKO
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rexydexy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rexydexy/)*

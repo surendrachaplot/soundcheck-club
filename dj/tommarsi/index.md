@@ -1,6 +1,6 @@
 # Tom Marsi
 
-Tom Marsi is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tamarack, San Francisco/Oakland on Fri, 7 Aug 2026.
+Tom Marsi is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tamarack, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Tom Marsi is a club and techno artist based in United States of America, tracked on soundcheck, with 101 sets logged across Chicago, Losangeles, Mexicocity and Montreal and 6 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: Tamarack, Sanfrancisco on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Tom Marsi is a club and techno artist based in United States of America, tracked
 
 Discnogirl, DJ CARO, RITCHRD
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*

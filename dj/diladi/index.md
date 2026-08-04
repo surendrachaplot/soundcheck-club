@@ -1,6 +1,6 @@
 # diladï
 
-diladï is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Anlegestelle Spandau (Lindenufer), Berlin on Sun, 9 Aug 2026.
+diladï is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Anlegestelle Spandau (Lindenufer), Berlin on Sun, 9 Aug 2026.
 
 diladï is a downtempo and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 2 more. Often billed alongside Naicet, Mona Pirzad and Ele Luz. Next up: Anlegestelle Spandau (Lindenufer), Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ diladï is a downtempo and house artist based in Germany, tracked on soundcheck,
 
 Naicet, Mona Pirzad, Ele Luz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diladi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diladi/)*

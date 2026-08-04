@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "TRACE" on Fri, 7 Aug 2026.
+Z Maruyama is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "TRACE" on Fri, 7 Aug 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including AMIDAdrive, arow, Ayana Pattra and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -19,4 +19,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, wi
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

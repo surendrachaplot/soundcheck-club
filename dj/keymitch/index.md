@@ -1,6 +1,6 @@
 # Key Mitch
 
-Key Mitch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Belle Isle Park, Detroit on Sat, 8 Aug 2026.
+Key Mitch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Belle Isle Park, Detroit on Sat, 8 Aug 2026.
 
 Key Mitch is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Detroit. Often billed alongside Ro Low, Drop Catch and DISCOBOT. Next up: Belle Isle Park, Detroit on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Key Mitch is a house and techno artist based in United States of America, tracke
 
 Ro Low, Drop Catch, DISCOBOT
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keymitch/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keymitch/)*

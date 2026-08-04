@@ -1,6 +1,6 @@
 # Almeida Moura
 
-Almeida Moura is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 8 Aug 2026.
+Almeida Moura is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 8 Aug 2026.
 
 Almeida Moura is a house and amapiano artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Kling, Advena Diem and Black Danny. Next up: Bar Silver Vinyl Lounge & The Vault, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Almeida Moura is a house and amapiano artist tracked on soundcheck, with 22 sets
 
 Kling, Advena Diem, Black Danny
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almeidamoura/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almeidamoura/)*

@@ -1,6 +1,6 @@
 # Tamara
 
-Tamara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
+Tamara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
 
 Tamara is a house and techno artist based in Denmark, tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside Waqar, ARYA (DK) and Aja Gulris. Next up: Culture Box, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tamara is a house and techno artist based in Denmark, tracked on soundcheck, wit
 
 Waqar, ARYA (DK), Aja Gulris
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*

@@ -1,6 +1,6 @@
 # Keefy G
 
-Keefy G is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hidden, Manchester on Fri, 21 Aug 2026.
+Keefy G is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hidden, Manchester on Fri, 21 Aug 2026.
 
 Keefy G is a house and garage artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 5 more. Often billed alongside Georgia Girl, Dungeon Meat and Tristan da Cunha. Next up: Hidden, Manchester on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Keefy G is a house and garage artist tracked on soundcheck, with 40 sets logged 
 
 Georgia Girl, Dungeon Meat, Tristan da Cunha
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keefyg/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keefyg/)*

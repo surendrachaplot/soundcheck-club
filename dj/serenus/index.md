@@ -1,6 +1,6 @@
 # Serenus
 
-Serenus is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Genezareth-Kirche, Berlin on Thu, 3 Sept 2026.
+Serenus is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Genezareth-Kirche, Berlin on Thu, 3 Sept 2026.
 
 Serenus is a techno and minimal artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Am Nil and Calcium Channel. Next up: Genezareth-Kirche, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Serenus is a techno and minimal artist based in Germany, tracked on soundcheck, 
 
 APRS, Am Nil, Calcium Channel
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serenus/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serenus/)*

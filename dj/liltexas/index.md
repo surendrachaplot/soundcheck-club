@@ -1,6 +1,6 @@
 # Lil Texas
 
-Lil Texas is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at M-BIA, Berlin on Fri, 7 Aug 2026.
+Lil Texas is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at M-BIA, Berlin on Fri, 7 Aug 2026.
 
 Lil Texas is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Budapest and Chicago and 27 more. Often billed alongside Angerfist, Mad Dog and NAMARA. Next up: M-BIA, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Lil Texas is a hardcore and techno artist based in United States of America, tra
 
 Angerfist, Mad Dog, NAMARA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liltexas/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liltexas/)*

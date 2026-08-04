@@ -1,6 +1,6 @@
 # Espen Lauritzen
 
-Espen Lauritzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
+Espen Lauritzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
 
 Espen Lauritzen is a techno and house artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Oslo and Riga and 2 more. Often billed alongside Alejandro Franco, Aloka and Ana Alves. Next up: Teritorija, Riga on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Espen Lauritzen is a techno and house artist tracked on soundcheck, with 7 sets 
 
 Alejandro Franco, Aloka, Ana Alves
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espenlauritzen/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espenlauritzen/)*

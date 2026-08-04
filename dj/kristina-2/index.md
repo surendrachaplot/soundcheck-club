@@ -1,6 +1,6 @@
 # Kristina (2)
 
-Kristina (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Rūmu, Lisbon on Wed, 26 Aug 2026.
+Kristina (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Rūmu, Lisbon on Wed, 26 Aug 2026.
 
 Kristina (2) is an electronic artist tracked on soundcheck, with 16 sets logged across Lisbon and Porto. Often billed alongside Jorge Caiado, Pedro Goya and Bernardo Vaz. Next up: Rūmu, Lisbon on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Kristina (2) is an electronic artist tracked on soundcheck, with 16 sets logged 
 
 Jorge Caiado, Pedro Goya, Bernardo Vaz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina-2/)*

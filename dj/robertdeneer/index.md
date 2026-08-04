@@ -1,6 +1,6 @@
 # Robert De Neer
 
-Robert De Neer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Robert De Neer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 Robert De Neer is a techno and tech house artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam. Often billed alongside Caelestis, Vale.T and rebrånded. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Robert De Neer is a techno and tech house artist based in Italy, tracked on soun
 
 Caelestis, Vale.T, rebrånded
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdeneer/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdeneer/)*

@@ -1,6 +1,6 @@
 # Alex Paoloni
 
-Alex Paoloni is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pikala Beach Club, Ibiza on Tue, 4 Aug 2026.
+Alex Paoloni is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Pikala Beach Club, Ibiza on Tue, 4 Aug 2026.
 
 Alex Paoloni is a house and deep house artist based in Italy, tracked on soundcheck, with 5 sets logged across Ibiza and Zurich. Often billed alongside Mirko Paoloni. Next up: Pikala Beach Club, Ibiza on Tue 4 Aug.
 
@@ -21,4 +21,4 @@ Alex Paoloni is a house and deep house artist based in Italy, tracked on soundch
 
 Mirko Paoloni
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpaoloni/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpaoloni/)*

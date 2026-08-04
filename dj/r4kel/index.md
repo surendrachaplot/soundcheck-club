@@ -1,6 +1,6 @@
 # R4KEL
 
-R4KEL is a R&B and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sunset Destination Hostel Rooftop, Lisbon on Sat, 8 Aug 2026.
+R4KEL is a R&B and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sunset Destination Hostel Rooftop, Lisbon on Sat, 8 Aug 2026.
 
 R4KEL is a r&b and afrobeat artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside ADAME (MX), DarkSunn and GAVI. Next up: Sunset Destination Hostel Rooftop, Lisbon on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ R4KEL is a r&b and afrobeat artist tracked on soundcheck, with 7 sets logged acr
 
 ADAME (MX), DarkSunn, GAVI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r4kel/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r4kel/)*

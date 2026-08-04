@@ -1,6 +1,6 @@
 # FAUSTO
 
-FAUSTO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+FAUSTO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 FAUSTO is a techno and house artist based in Portugal, tracked on soundcheck, with 18 sets logged across Amsterdam, Lisbon, Marseille and Mexicocity and 1 more. Often billed alongside André Costa, Rossi and Alexander Koning. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ FAUSTO is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 André Costa, Rossi, Alexander Koning
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/FAUSTO/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/FAUSTO/)*

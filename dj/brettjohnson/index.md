@@ -1,6 +1,6 @@
 # Brett Johnson
 
-Brett Johnson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
+Brett Johnson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
 
 Brett Johnson is a house and acid artist based in United States of America, tracked on soundcheck, with 179 sets logged across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Horse Opera, Brother Pate and Robert Roman. Next up: TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Brett Johnson is a house and acid artist based in United States of America, trac
 
 Horse Opera, Brother Pate, Robert Roman
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*

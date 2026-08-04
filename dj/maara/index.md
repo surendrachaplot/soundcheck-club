@@ -1,6 +1,6 @@
 # Maara
 
-Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Macadam, Nantes on Sun, 9 Aug 2026.
+Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Macadam, Nantes on Sun, 9 Aug 2026.
 
 Maara is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Macadam, Nantes on Sun 9 Aug.
 
@@ -29,4 +29,4 @@ Maara is a techno and house artist tracked on soundcheck, with 151 sets logged a
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

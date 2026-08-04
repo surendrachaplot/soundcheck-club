@@ -1,6 +1,6 @@
 # D. Tyrone
 
-D. Tyrone is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
+D. Tyrone is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
 
 D. Tyrone is a house and techno artist based in New Zealand, tracked on soundcheck, with 24 sets logged across Melbourne. Often billed alongside Hannah D, Naycab and Sophie Forrest. Next up: Milneys, Melbourne on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ D. Tyrone is a house and techno artist based in New Zealand, tracked on soundche
 
 Hannah D, Naycab, Sophie Forrest
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tyrone/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tyrone/)*

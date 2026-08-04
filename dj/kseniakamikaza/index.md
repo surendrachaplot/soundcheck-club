@@ -1,6 +1,6 @@
 # Ksenia Kamikaza
 
-Ksenia Kamikaza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
+Ksenia Kamikaza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
 
 Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Teritorija, Riga on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 113 set
 
 Esoniq, Ikss, HP-82
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*

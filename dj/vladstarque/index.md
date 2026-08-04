@@ -1,6 +1,6 @@
 # Vlad Starque
 
-Vlad Starque is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
+Vlad Starque is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
 
 Vlad Starque is a house and techno artist based in Lithuania, tracked on soundcheck, with 7 sets logged across Riga. Often billed alongside Kapusta, Rexton and D I N. Next up: Misisipi River Boat, Riga on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Vlad Starque is a house and techno artist based in Lithuania, tracked on soundch
 
 Kapusta, Rexton, D I N
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*

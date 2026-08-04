@@ -1,6 +1,6 @@
 # Otal
 
-Otal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
+Otal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
 
 Otal is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside SELESSA T., Elie Bukassa and Viénce. Next up: Crack Bellmer, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Otal is a house and techno artist tracked on soundcheck, with 27 sets logged acr
 
 SELESSA T., Elie Bukassa, Viénce
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otal/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otal/)*

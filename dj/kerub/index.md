@@ -1,6 +1,6 @@
 # KERUB
 
-KERUB is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Jama, Toronto on Wed, 5 Aug 2026.
+KERUB is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Jama, Toronto on Wed, 5 Aug 2026.
 
 KERUB is an experimental and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Toronto and Vancouver. Often billed alongside Hycastle, moodyjooly and DJ RATA. Next up: The Jama, Toronto on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ KERUB is an experimental and techno artist based in Canada, tracked on soundchec
 
 Hycastle, moodyjooly, DJ RATA
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*

@@ -1,6 +1,6 @@
 # Sam Pills
 
-Sam Pills is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 15 Aug 2026.
+Sam Pills is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 15 Aug 2026.
 
 Sam Pills is a deep house and disco artist tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside Ande Rich, Ryan Croft and Mai Tai. Next up: Eastern Bloc Records, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sam Pills is a deep house and disco artist tracked on soundcheck, with 12 sets l
 
 Ande Rich, Ryan Croft, Mai Tai
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampills/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampills/)*

@@ -1,6 +1,6 @@
 # Reedale Rise
 
-Reedale Rise is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
+Reedale Rise is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
 
 Reedale Rise is a techno and electro artist tracked on soundcheck, with 4 sets logged across Lisbon and Liverpool. Often billed alongside Solid-Funk, Andre Cascais and Jacinta. Next up: Lx Factory, Lisbon on Thu 10 Sept.
 
@@ -20,4 +20,4 @@ Reedale Rise is a techno and electro artist tracked on soundcheck, with 4 sets l
 
 Solid-Funk, Andre Cascais, Jacinta
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reedalerise/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reedalerise/)*

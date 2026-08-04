@@ -1,6 +1,6 @@
 # DJ Karmawi
 
-DJ Karmawi is a Disco and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
+DJ Karmawi is a Disco and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
 
 DJ Karmawi is a disco and ghetto tech artist based in Ireland, tracked on soundcheck, with 16 sets logged across Dublin, Galway and London. Often billed alongside JWY (1), Moving Still and Nora Moon. Next up: Crate Brewery, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Karmawi is a disco and ghetto tech artist based in Ireland, tracked on soundc
 
 JWY (1), Moving Still, Nora Moon
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkarmawi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkarmawi/)*

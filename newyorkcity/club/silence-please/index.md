@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "In The Echo Chamber: An Evening of Dub Reggae" on Tue, 4 Aug 2026.
+Silence Please is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "In The Echo Chamber: An Evening of Dub Reggae" on Tue, 4 Aug 2026.
 
 Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Ayanna Heaven, Carter Van Pelt, Dynoman and Ryuichi Sakamoto and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -21,4 +21,4 @@ Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

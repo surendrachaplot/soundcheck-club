@@ -1,6 +1,6 @@
 # Bonnie Stoneman
 
-Bonnie Stoneman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at CKC Warehouse, Houston on Sat, 15 Aug 2026.
+Bonnie Stoneman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at CKC Warehouse, Houston on Sat, 15 Aug 2026.
 
 Bonnie Stoneman is a house and disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Austin and Houston. Often billed alongside Daniel Allen, Brett Johnson and Marcus Lott. Next up: CKC Warehouse, Houston on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bonnie Stoneman is a house and disco artist based in United States of America, t
 
 Daniel Allen, Brett Johnson, Marcus Lott
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniestoneman/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniestoneman/)*

@@ -1,6 +1,6 @@
 # bumv
 
-bumv is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Shelter, Seoul on Sat, 8 Aug 2026.
+bumv is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Shelter, Seoul on Sat, 8 Aug 2026.
 
 bumv is an electro and techno artist based in South Korea, tracked on soundcheck, with 102 sets logged across Seoul. Often billed alongside Honn, X2C (1) and MOVIN.KR. Next up: Shelter, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ bumv is an electro and techno artist based in South Korea, tracked on soundcheck
 
 Honn, X2C (1), MOVIN.KR
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumv/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumv/)*

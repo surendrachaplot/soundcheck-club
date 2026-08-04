@@ -1,6 +1,6 @@
 # Cosies
 
-Cosies is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Beats and Breaks (All vinyl jungle night)" on Thu, 6 Aug 2026.
+Cosies is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Beats and Breaks (All vinyl jungle night)" on Thu, 6 Aug 2026.
 
 Cosies is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 34 Portland Square; Bristol BS2 8RG, United Kingdom.
 
@@ -14,4 +14,4 @@ Cosies is a music venue in Bristol listed on soundcheck. 1 upcoming night. Brows
 
 34 Portland Square; Bristol BS2 8RG, United Kingdom, Bristol
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*

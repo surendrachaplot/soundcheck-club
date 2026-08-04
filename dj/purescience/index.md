@@ -1,6 +1,6 @@
 # Pure Science
 
-Pure Science is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
+Pure Science is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
 
 Pure Science is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London, Manchester, Melbourne and Sydney. Often billed alongside Brennan, Char(k) and DJ Luv You. Next up: Hidden, Manchester on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Pure Science is a house and tech house artist based in United Kingdom, tracked o
 
 Brennan, Char(k), DJ Luv You
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purescience/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purescience/)*

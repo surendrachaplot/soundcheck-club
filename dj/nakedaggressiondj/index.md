@@ -1,6 +1,6 @@
 # NakedAggressionDJ
 
-NakedAggressionDJ is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
+NakedAggressionDJ is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
 
 NakedAggressionDJ is a club and techno artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside DungeonMaster, ALVAZ and New Flesh (2). Next up: Aaja Basement, London on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ NakedAggressionDJ is a club and techno artist tracked on soundcheck, with 8 sets
 
 DungeonMaster, ALVAZ, New Flesh (2)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedaggressiondj/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedaggressiondj/)*

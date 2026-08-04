@@ -1,6 +1,6 @@
 # Jeremy Olander
 
-Jeremy Olander is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 19 Sept 2026.
+Jeremy Olander is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 19 Sept 2026.
 
 Jeremy Olander is a progressive house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Bali and Bangkok and 32 more. Often billed alongside Cristoph, Nick Warren and Argy. Next up: Yamamori Tengu, Dublin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jeremy Olander is a progressive house and techno artist tracked on soundcheck, w
 
 Cristoph, Nick Warren, Argy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*

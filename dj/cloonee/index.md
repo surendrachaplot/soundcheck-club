@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at [UNVRS], Ibiza on Tue, 4 Aug 2026.
+Cloonee is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Tue, 4 Aug 2026.
 
 Cloonee is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Boston and 28 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: [UNVRS], Ibiza on Tue 4 Aug.
 
@@ -30,4 +30,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 60 sets log
 
 Jamie Jones, Prospa, Riordan
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

@@ -1,6 +1,6 @@
 # Donal Dineen
 
-Donal Dineen is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Fidelity Studio, Dublin on Sat, 8 Aug 2026.
+Donal Dineen is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Fidelity Studio, Dublin on Sat, 8 Aug 2026.
 
 Donal Dineen is an electronic artist based in Ireland, tracked on soundcheck, with 1 set logged across Dublin. Often billed alongside Quantic. Next up: Fidelity Studio, Dublin on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Donal Dineen is an electronic artist based in Ireland, tracked on soundcheck, wi
 
 Quantic
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldineen/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldineen/)*

@@ -1,6 +1,6 @@
 # Fvck Totvm
 
-Fvck Totvm is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
+Fvck Totvm is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
 
 Fvck Totvm is an electro and progressive house artist tracked on soundcheck, with 16 sets logged across Barcelona and London. Often billed alongside Labåzuy, TECHSIA and Becky Stroke. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Fvck Totvm is an electro and progressive house artist tracked on soundcheck, wit
 
 Labåzuy, TECHSIA, Becky Stroke
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fvcktotvm/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fvcktotvm/)*

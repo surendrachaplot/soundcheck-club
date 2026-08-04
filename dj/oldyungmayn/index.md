@@ -1,6 +1,6 @@
 # Oldyungmayn
 
-Oldyungmayn is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Oldyungmayn is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Oldyungmayn is a club and techno artist based in United Arab Emirates, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Brussels and 10 more. Often billed alongside CEM, Assyouti and Majdolen. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Oldyungmayn is a club and techno artist based in United Arab Emirates, tracked o
 
 CEM, Assyouti, Majdolen
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*

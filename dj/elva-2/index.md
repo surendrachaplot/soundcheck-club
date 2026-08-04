@@ -1,6 +1,6 @@
 # Elva (2)
 
-Elva (2) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
+Elva (2) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
 
 Elva (2) is a bass and house artist based in France, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside DJ Willy, Zoran and gammmarayy. Next up: Mucha, Berlin on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Elva (2) is a bass and house artist based in France, tracked on soundcheck, with
 
 DJ Willy, Zoran, gammmarayy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elva-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elva-2/)*

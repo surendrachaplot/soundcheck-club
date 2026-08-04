@@ -1,6 +1,6 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "WorldPride: Horse Meat Disco" on Fri, 7 Aug 2026.
+TILLATEC is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "WorldPride: Horse Meat Disco" on Fri, 7 Aug 2026.
 
 TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Justine Perry, Amphia, androgienia and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights,
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

@@ -1,6 +1,6 @@
 # Atlas Heir
 
-Atlas Heir is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Le Livart, Montreal on Sat, 22 Aug 2026.
+Atlas Heir is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Le Livart, Montreal on Sat, 22 Aug 2026.
 
 Atlas Heir is a house artist based in Canada, tracked on soundcheck, with 1 set logged across Montreal. Often billed alongside Prince Charli, Salomé (CA) and Vayia. Next up: Le Livart, Montreal on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Atlas Heir is a house artist based in Canada, tracked on soundcheck, with 1 set 
 
 Prince Charli, Salomé (CA), Vayia
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atlasheir/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atlasheir/)*

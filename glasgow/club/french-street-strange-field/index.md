@@ -1,6 +1,6 @@
 # French Street (Strange Field)
 
-French Street (Strange Field) is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Ponyboy X Strangefield presents: 'EYVE: In This Economy'" on Sat, 8 Aug 2026.
+French Street (Strange Field) is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ponyboy X Strangefield presents: 'EYVE: In This Economy'" on Sat, 8 Aug 2026.
 
 French Street (Strange Field) is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Babyjaii and EYVE. Browse upcoming dates, start times and who's playing. 105 French St, Glasgow G40 4EH.
 
@@ -14,4 +14,4 @@ French Street (Strange Field) is a music venue in Glasgow listed on soundcheck. 
 
 105 French St, Glasgow G40 4EH, Glasgow
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/french-street-strange-field/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/french-street-strange-field/)*

@@ -1,6 +1,6 @@
 # Gia Genesis
 
-Gia Genesis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+Gia Genesis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 Gia Genesis is a techno and trance artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Nina Pixina, CITYTRONIX and LO-LOW. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Gia Genesis is a techno and trance artist tracked on soundcheck, with 5 sets log
 
 Nina Pixina, CITYTRONIX, LO-LOW
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giagenesis/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giagenesis/)*

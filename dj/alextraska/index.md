@@ -1,6 +1,6 @@
 # Alex Traska
 
-Alex Traska is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Movers, Nottingham on Sun, 30 Aug 2026.
+Alex Traska is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Movers, Nottingham on Sun, 30 Aug 2026.
 
 Alex Traska is a house and disco artist tracked on soundcheck, with 8 sets logged across Nottingham. Often billed alongside Flat White Chris, Giles Smith and Jonna. Next up: Movers, Nottingham on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Alex Traska is a house and disco artist tracked on soundcheck, with 8 sets logge
 
 Flat White Chris, Giles Smith, Jonna
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alextraska/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alextraska/)*

@@ -1,6 +1,6 @@
 # Dhangsha
 
-Dhangsha is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
+Dhangsha is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Vespers Club, London on Sun, 16 Aug 2026.
 
 Dhangsha is an experimental and industrial artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Mieko Shimizu, Miedo Total and NNJA RIOT. Next up: Vespers Club, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Dhangsha is an experimental and industrial artist based in United Kingdom, track
 
 Mieko Shimizu, Miedo Total, NNJA RIOT
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dhangsha/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dhangsha/)*

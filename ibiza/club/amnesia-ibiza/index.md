@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 58 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "NRG Opening Party" on Mon, 3 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 57 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Joseph Capriati presents Metamorfosi" on Tue, 4 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 58 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Yulia Niko and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 57 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Yulia Niko and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | NRG Opening Party | Ben Hemsley, Clouds, DATSKO, Jezza & Jod, Morgan Seatree, blk. |
 | Tue, 4 Aug 2026 | Joseph Capriati presents Metamorfosi | ALISHA, Anfisa Letyago, BLOND:ISH, Ben Klock, Ellen Allien, Janina, Joseph Capriati, Ramyen |
 | Wed, 5 Aug 2026 | Resistance Ibiza | Adam Beyer, Airrica, Eric Prydz, Maceo Plex, Yulia Niko |
 | Thu, 6 Aug 2026 | You&Me | Joseph Capriati, Josh Baker, Local Dub, M-High, Marlie, Saoirse |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 58 upcoming nights
 | Tue, 11 Aug 2026 | Joseph Capriati presents Metamorfosi | Clara Cuvé, Daria Kolosova, Fatima Hajji, Joseph Capriati, Kidoo, Luuk van Dijk, Luxi Villar, WhoMadeWho |
 | Wed, 12 Aug 2026 | Resistance Ibiza | Adam Beyer, Boris Brejcha, Kasia, Kasia (OFC), Korolova |
 | Thu, 13 Aug 2026 | You&Me | Calvin Clarke, Josh Baker, Luciano, Marco Faraone, Mike Morrisey, Vanee |
+| Fri, 14 Aug 2026 | Glitterbox | Benji B, Dan Shake, Folamour, HoneyLuv, Mousse T., Riva Starr, Zach Witness |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

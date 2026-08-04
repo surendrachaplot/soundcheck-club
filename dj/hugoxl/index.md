@@ -1,6 +1,6 @@
 # HugoXL
 
-HugoXL is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+HugoXL is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 HugoXL is a house and italo disco artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Aimé You, Wall Ra and Amadeezy. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ HugoXL is a house and italo disco artist based in Germany, tracked on soundcheck
 
 Aimé You, Wall Ra, Amadeezy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoxl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoxl/)*

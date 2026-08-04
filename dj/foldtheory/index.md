@@ -1,6 +1,6 @@
 # Fold Theory
 
-Fold Theory is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Belmont Plateau Cross Country Course, Philadelphia on Sat, 8 Aug 2026.
+Fold Theory is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Belmont Plateau Cross Country Course, Philadelphia on Sat, 8 Aug 2026.
 
 Fold Theory is a techno and house artist based in Peru, tracked on soundcheck, with 23 sets logged across Detroit, Miami and Philadelphia. Often billed alongside DJ Kalin, De León and JFK (USA). Next up: Belmont Plateau Cross Country Course, Philadelphia on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fold Theory is a techno and house artist based in Peru, tracked on soundcheck, w
 
 DJ Kalin, De León, JFK (USA)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foldtheory/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foldtheory/)*

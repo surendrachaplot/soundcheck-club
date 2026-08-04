@@ -1,6 +1,6 @@
 # they at Mastak
 
-they at Mastak on Sat 8 Aug, Warsaw. 2 acts on the bill: Lyor Kalt and SBCSLY. Techno. Preview the line-up and save it on soundcheck.
+they at Mastak on Sat 8 Aug, Warsaw. 3 acts on the bill: dj.zamocno, Lyor Kalt and SBCSLY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ they at Mastak on Sat 8 Aug, Warsaw. 2 acts on the bill: Lyor Kalt and SBCSLY. T
 
 ## Line-up
 
+- dj.zamocno
 - Lyor Kalt
 - SBCSLY
 

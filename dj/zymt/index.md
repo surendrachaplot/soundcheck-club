@@ -1,6 +1,6 @@
 # ZYMT
 
-ZYMT is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 8 Aug 2026.
+ZYMT is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 8 Aug 2026.
 
 ZYMT is a house and club artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Julien Josh, fuxi and Ashbeat. Next up: Bulbul Berlin, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ ZYMT is a house and club artist tracked on soundcheck, with 5 sets logged across
 
 Julien Josh, fuxi, Ashbeat
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zymt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zymt/)*

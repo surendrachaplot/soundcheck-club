@@ -1,6 +1,6 @@
 # ECTO (3)
 
-ECTO (3) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Mothership, San Francisco/Oakland on Sat, 8 Aug 2026.
+ECTO (3) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mothership, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 ECTO (3) is a club and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside Discnogirl and Lonald J. Bandz. Next up: Mothership, Sanfrancisco on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ ECTO (3) is a club and house artist based in United States of America, tracked o
 
 Discnogirl, Lonald J. Bandz
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*

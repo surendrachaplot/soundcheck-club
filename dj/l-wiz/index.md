@@ -1,6 +1,6 @@
 # L-Wiz
 
-L-Wiz is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
+L-Wiz is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
 
 L-Wiz is a dubstep artist based in Sweden, tracked on soundcheck, with 3 sets logged across Stockholm. Often billed alongside Foamplate, Alta Loma and Autopilot. Next up: Slaktkyrkan, Stockholm on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ L-Wiz is a dubstep artist based in Sweden, tracked on soundcheck, with 3 sets lo
 
 Foamplate, Alta Loma, Autopilot
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-wiz/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-wiz/)*

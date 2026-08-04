@@ -1,6 +1,6 @@
 # Camillionaire
 
-Camillionaire is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 13 Aug 2026.
+Camillionaire is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 13 Aug 2026.
 
 Camillionaire is a house and afro house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Sanfrancisco. Often billed alongside Phöön, FeLine and møod ring. Next up: F8 1192 Folsom, Sanfrancisco on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Camillionaire is a house and afro house artist based in United States of America
 
 Phöön, FeLine, møod ring
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camillionaire/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camillionaire/)*

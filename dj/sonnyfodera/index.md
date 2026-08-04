@@ -1,14 +1,13 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Pacha Ibiza, Ibiza on Mon, 3 Aug 2026.
+Sonny Fodera is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
-Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Pacha Ibiza, Ibiza on Mon 3 Aug.
+Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 3 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
 | Mon, 10 Aug 2026 | Pacha Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Santanna Mykonos | Mykonos |
@@ -20,9 +19,11 @@ Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 se
 | Mon, 14 Sept 2026 | Pacha Ibiza | Ibiza |
 | Mon, 21 Sept 2026 | Pacha Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Pacha New York | New York City |
+| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Mon, 3 Aug 2026
 - Pacha Ibiza, Ibiza — Mon, 27 Jul 2026
 - BCM, Mallorca — Tue, 21 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 20 Jul 2026
@@ -30,10 +31,9 @@ Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 se
 - Cavo Paradiso, Mykonos — Sat, 11 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 6 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 29 Jun 2026
-- Ormeau Park, Belfast — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Danny Howard, Gorgon City, Greta Levska
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*

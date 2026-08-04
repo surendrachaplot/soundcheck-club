@@ -1,6 +1,6 @@
 # Monstera Occulta
 
-Monstera Occulta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Monstera Occulta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
 Monstera Occulta is a house and techno artist based in Belgium, tracked on soundcheck, with 23 sets logged across Brussels and Paris. Often billed alongside Ottoman Grüw, DJ ATHOME and Dana Kuehr. Next up: Circle Park, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Monstera Occulta is a house and techno artist based in Belgium, tracked on sound
 
 Ottoman Grüw, DJ ATHOME, Dana Kuehr
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsteraocculta/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsteraocculta/)*

@@ -1,6 +1,6 @@
 # Musa de Marvila
 
-Musa de Marvila is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "SOM-MELIER" on Wed, 5 Aug 2026.
+Musa de Marvila is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "SOM-MELIER" on Wed, 5 Aug 2026.
 
 Musa de Marvila is a music venue in Lisbon listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Rua do Vale Formoso, 9, 1950-277 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@ Musa de Marvila is a music venue in Lisbon listed on soundcheck. 2 upcoming nigh
 
 Rua do Vale Formoso, 9, 1950-277 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/musa-de-marvila/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/musa-de-marvila/)*

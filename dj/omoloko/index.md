@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
+OMOLOKO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
 
 OMOLOKO is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 27 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ OMOLOKO is a house and techno artist tracked on soundcheck, with 83 sets logged 
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

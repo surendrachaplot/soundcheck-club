@@ -1,6 +1,6 @@
 # The Notwist
 
-The Notwist is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+The Notwist is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 The Notwist is an experimental and pop artist based in Germany, tracked on soundcheck, with 3 sets logged across Dusseldorf, London and Milan. Often billed alongside Anushka Chkheidze, Bassolino and Cardinals. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -19,4 +19,4 @@ The Notwist is an experimental and pop artist based in Germany, tracked on sound
 
 Anushka Chkheidze, Bassolino, Cardinals
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenotwist/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenotwist/)*

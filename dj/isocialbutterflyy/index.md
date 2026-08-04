@@ -1,6 +1,6 @@
 # isocialbutterflyy
 
-isocialbutterflyy is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 8 Aug 2026.
+isocialbutterflyy is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 8 Aug 2026.
 
 isocialbutterflyy is an electronic artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Vienna. Often billed alongside anxxxious_t, মm. and Alias Shay. Next up: Otto Wagner Areal, Vienna on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ isocialbutterflyy is an electronic artist based in Germany, tracked on soundchec
 
 anxxxious_t, মm., Alias Shay
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isocialbutterflyy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isocialbutterflyy/)*

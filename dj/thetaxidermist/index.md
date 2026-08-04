@@ -1,6 +1,6 @@
 # The Taxidermist
 
-The Taxidermist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
+The Taxidermist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
 
 The Taxidermist is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Manchester. Often billed alongside Judas Du, Wild Forts and Julie Wills. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ The Taxidermist is a house and techno artist based in United Kingdom, tracked on
 
 Judas Du, Wild Forts, Julie Wills
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaxidermist/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaxidermist/)*

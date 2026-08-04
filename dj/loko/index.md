@@ -1,6 +1,6 @@
 # Loko
 
-Loko is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
+Loko is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
 
 Loko is an industrial and techno artist based in Argentina, tracked on soundcheck, with 5 sets logged across Amsterdam, Geneva, Ghent and Nantes and 1 more. Often billed alongside Acidus, Esilise and FRÅDERIK. Next up: John Doe, Amsterdam on Tue 25 Aug.
 
@@ -21,4 +21,4 @@ Loko is an industrial and techno artist based in Argentina, tracked on soundchec
 
 Acidus, Esilise, FRÅDERIK
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loko/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loko/)*

@@ -1,6 +1,6 @@
 # Fannie Mae
 
-Fannie Mae is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Südpol, Hamburg on Sat, 8 Aug 2026.
+Fannie Mae is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Südpol, Hamburg on Sat, 8 Aug 2026.
 
 Fannie Mae is an electronic artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg and Losangeles. Often billed alongside Lenard Klein, Tomeye and Akua. Next up: Südpol, Hamburg on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Fannie Mae is an electronic artist based in Germany, tracked on soundcheck, with
 
 Lenard Klein, Tomeye, Akua
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fanniemae/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fanniemae/)*

@@ -1,6 +1,6 @@
 # wahala.wav
 
-wahala.wav is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
+wahala.wav is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
 
 wahala.wav is a club and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Detroit and Newyorkcity. Often billed alongside Love Higher, sola system and Simisola. Next up: Paragon, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ wahala.wav is a club and techno artist based in United States of America, tracke
 
 Love Higher, sola system, Simisola
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wahala.wav/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wahala.wav/)*

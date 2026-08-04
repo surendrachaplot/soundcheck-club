@@ -1,6 +1,6 @@
 # Eche.
 
-Eche. is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
+Eche. is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
 
 Eche. is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside DubFreq (2), Edge <3 and FRIEDZ. Next up: Goodness Brewing Company, London on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Eche. is a grime and dubstep artist based in United Kingdom, tracked on soundche
 
 DubFreq (2), Edge <3, FRIEDZ
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eche-uk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eche-uk/)*

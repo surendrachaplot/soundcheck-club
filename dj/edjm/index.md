@@ -1,6 +1,6 @@
 # EDJM
 
-EDJM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Stage and Radio, Manchester on Fri, 7 Aug 2026.
+EDJM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Stage and Radio, Manchester on Fri, 7 Aug 2026.
 
 EDJM is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside CHVZ, BONSWA and BRNE. Next up: Stage and Radio, Manchester on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ EDJM is a techno and trance artist tracked on soundcheck, with 11 sets logged ac
 
 CHVZ, BONSWA, BRNE
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edjm/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edjm/)*

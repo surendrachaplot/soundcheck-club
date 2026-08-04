@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Nacar Club curated by Brunch Electronik / I AM YOU w/ Deer Jade, Sam Shure & CIOZ" on Fri, 7 Aug 2026.
+Luz De Gas is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Nacar Club curated by Brunch Electronik / I AM YOU w/ Deer Jade, Sam Shure & CIOZ" on Fri, 7 Aug 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alicia Hahn, Ares Carter, Brizas and CIOZ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -20,4 +20,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

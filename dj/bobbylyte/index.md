@@ -1,6 +1,6 @@
 # Bobby Lyte
 
-Bobby Lyte is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+Bobby Lyte is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Bobby Lyte is a deep house and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside Yaz, Kohbain and OGAN. Next up: F8 1192 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -18,4 +18,4 @@ Bobby Lyte is a deep house and techno artist based in United States of America, 
 
 Yaz, Kohbain, OGAN
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbylyte/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbylyte/)*

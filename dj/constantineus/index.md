@@ -1,6 +1,6 @@
 # Constantine (US)
 
-Constantine (US) is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Subterrannean, Chicago on Sat, 8 Aug 2026.
+Constantine (US) is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Subterrannean, Chicago on Sat, 8 Aug 2026.
 
 Constantine (US) is a club and footwork artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston, Chicago, Detroit and Newyorkcity. Often billed alongside Elock, Mo Mami and ranee. Next up: Subterrannean, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Constantine (US) is a club and footwork artist based in United States of America
 
 Elock, Mo Mami, ranee
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantineus/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantineus/)*

@@ -1,6 +1,6 @@
 # DJ Dazy
 
-DJ Dazy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 7 Aug 2026.
+DJ Dazy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 7 Aug 2026.
 
 DJ Dazy is a house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles, Portland and Sandiego. Often billed alongside DJ Colette, Matthew Brian and Ben Annand. Next up: The Air Conditioned Lounge, Sandiego on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ DJ Dazy is a house and deep house artist based in United States of America, trac
 
 DJ Colette, Matthew Brian, Ben Annand
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*

@@ -1,6 +1,6 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
+Reptant is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
 
 Reptant is an electro and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 34 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Backsteinboot, Berlin on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Reptant is an electro and techno artist tracked on soundcheck, with 127 sets log
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

@@ -1,6 +1,6 @@
 # Dilivius Lenni
 
-Dilivius Lenni is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
+Dilivius Lenni is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
 
 Dilivius Lenni is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside Daniel Stefanik, Goldie Palm and NICI PALM. Next up: Distillery, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dilivius Lenni is a house and techno artist tracked on soundcheck, with 15 sets 
 
 Daniel Stefanik, Goldie Palm, NICI PALM
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diliviuslenni/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diliviuslenni/)*

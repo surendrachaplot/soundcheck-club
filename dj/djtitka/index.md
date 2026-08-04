@@ -1,6 +1,6 @@
 # DJ titka
 
-DJ titka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Tresor / Globus, Berlin on Mon, 17 Aug 2026.
+DJ titka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Mon, 17 Aug 2026.
 
 DJ titka is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Ká (DE), Triqi and DJ flintapiss. Next up: Tresor / Globus, Berlin on Mon 17 Aug.
 
@@ -26,4 +26,4 @@ DJ titka is a house and techno artist tracked on soundcheck, with 10 sets logged
 
 Ká (DE), Triqi, DJ flintapiss
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtitka/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtitka/)*

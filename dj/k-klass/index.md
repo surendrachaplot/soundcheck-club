@@ -1,6 +1,6 @@
 # K-Klass
 
-K-Klass is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 29 Aug 2026.
+K-Klass is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 K-Klass is a house and club artist tracked on soundcheck, with 54 sets logged across Aberdeen, Birmingham, Bristol and Glasgow and 7 more. Often billed alongside Todd Terry, Graeme Park and Seb Fontaine. Next up: 528 Ibiza, Ibiza on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ K-Klass is a house and club artist tracked on soundcheck, with 54 sets logged ac
 
 Todd Terry, Graeme Park, Seb Fontaine
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*

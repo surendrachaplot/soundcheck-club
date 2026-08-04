@@ -1,6 +1,6 @@
 # James Rudie
 
-James Rudie is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 5 Aug 2026.
+James Rudie is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 5 Aug 2026.
 
 James Rudie is a broken beat and house artist tracked on soundcheck, with 10 sets logged across London, Manchester and Tokyo. Often billed alongside rudie, EVM128 and 4am Kru. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ James Rudie is a broken beat and house artist tracked on soundcheck, with 10 set
 
 rudie, EVM128, 4am Kru
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesrudie/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesrudie/)*

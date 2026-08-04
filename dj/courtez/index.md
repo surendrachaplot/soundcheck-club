@@ -1,6 +1,6 @@
 # COURTEZ
 
-COURTEZ is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Club 69, Glasgow on Sat, 29 Aug 2026.
+COURTEZ is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club 69, Glasgow on Sat, 29 Aug 2026.
 
 COURTEZ is a techno and tech house artist tracked on soundcheck, with 2 sets logged across Glasgow. Often billed alongside SAPHOS. Next up: Club 69, Glasgow on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ COURTEZ is a techno and tech house artist tracked on soundcheck, with 2 sets log
 
 SAPHOS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtez/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtez/)*

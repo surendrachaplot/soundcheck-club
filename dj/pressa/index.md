@@ -1,6 +1,6 @@
 # Pressa
 
-Pressa is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
+Pressa is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
 
 Pressa is a breakbeat and bass artist tracked on soundcheck, with 38 sets logged across London. Often billed alongside d3vsy, Rhi Spect and Drumskull. Next up: Four Quarters, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Pressa is a breakbeat and bass artist tracked on soundcheck, with 38 sets logged
 
 d3vsy, Rhi Spect, Drumskull
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressa/)*

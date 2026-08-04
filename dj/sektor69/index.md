@@ -1,14 +1,15 @@
 # SEKTOR69
 
-SEKTOR69 is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+SEKTOR69 is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-SEKTOR69 is a trance and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Kø:lab, Cara Elizabeth and ONNY CHO. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+SEKTOR69 is a trance and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside Kø:lab, Cara Elizabeth and Anuuk. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
+| Fri, 4 Sept 2026 | Schrotty | Cologne |
 | Fri, 11 Sept 2026 | Das Werk | Vienna |
 | Fri, 11 Sept 2026 | Gleis19 | Vienna |
 | Sat, 19 Sept 2026 | OST | Berlin |
@@ -27,6 +28,6 @@ SEKTOR69 is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Kø:lab, Cara Elizabeth, ONNY CHO
+Kø:lab, Cara Elizabeth, Anuuk
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*

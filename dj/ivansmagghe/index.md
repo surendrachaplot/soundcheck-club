@@ -1,6 +1,6 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Signal, New York City on Fri, 14 Aug 2026.
+Ivan Smagghe is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Signal, New York City on Fri, 14 Aug 2026.
 
 Ivan Smagghe is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Signal, Newyorkcity on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 179 sets l
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

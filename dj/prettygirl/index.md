@@ -1,6 +1,6 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+Pretty Girl is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
 Pretty Girl is a house and techno artist based in Australia, tracked on soundcheck, with 66 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KETTAMA and KI/KI. Next up: Finsbury Park, London on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Pretty Girl is a house and techno artist based in Australia, tracked on soundche
 
 Interplanetary Criminal, KETTAMA, KI/KI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

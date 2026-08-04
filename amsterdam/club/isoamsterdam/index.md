@@ -1,6 +1,6 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "New Era ISO session 2" on Sat, 29 Aug 2026.
+ISOamsterdam is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "New Era ISO session 2" on Sat, 29 Aug 2026.
 
 ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Comrade Winston, Elisa Batti, GAZTAMBIDE and Just(e) Alex and 2 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
 
@@ -15,4 +15,4 @@ ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming nigh
 
 Isolatorweg 17, Amsterdam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*

@@ -1,6 +1,6 @@
 # Rikk (2)
 
-Rikk (2) is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+Rikk (2) is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 Rikk (2) is a drum & bass and garage artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside OPTIMIST, SAKO and Kim (JP). Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Rikk (2) is a drum & bass and garage artist based in Japan, tracked on soundchec
 
 OPTIMIST, SAKO, Kim (JP)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikk-2/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikk-2/)*

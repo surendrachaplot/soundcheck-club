@@ -1,6 +1,6 @@
 # AAfrAA
 
-AAfrAA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Amok Club, Mallorca on Sat, 15 Aug 2026.
+AAfrAA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Amok Club, Mallorca on Sat, 15 Aug 2026.
 
 AAfrAA is a house and tech house artist based in Spain, tracked on soundcheck, with 10 sets logged across Madrid, Malaga and Mallorca. Often billed alongside Nic Vesperi, Claptone and Crusy. Next up: Amok Club, Mallorca on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AAfrAA is a house and tech house artist based in Spain, tracked on soundcheck, w
 
 Nic Vesperi, Claptone, Crusy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aafraa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aafraa/)*

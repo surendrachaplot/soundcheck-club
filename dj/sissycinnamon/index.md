@@ -1,6 +1,6 @@
 # Sissy Cinnamon
 
-Sissy Cinnamon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at 45 London, London on Fri, 21 Aug 2026.
+Sissy Cinnamon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at 45 London, London on Fri, 21 Aug 2026.
 
 Sissy Cinnamon is a techno and house artist tracked on soundcheck, with 34 sets logged across Brighton, London and Madrid. Often billed alongside RoadmanPrincess, Samantha Togni and Spinks. Next up: 45 London, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Sissy Cinnamon is a techno and house artist tracked on soundcheck, with 34 sets 
 
 RoadmanPrincess, Samantha Togni, Spinks
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*

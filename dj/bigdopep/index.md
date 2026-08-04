@@ -1,14 +1,15 @@
 # Big Dope P
 
-Big Dope P is a Footwork and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Soup, Manchester on Fri, 7 Aug 2026.
+Big Dope P is a Footwork and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Soup, Manchester on Fri, 7 Aug 2026.
 
-Big Dope P is a footwork and ghetto tech artist tracked on soundcheck, with 39 sets logged across Barcelona, Brussels, Bucharest and Edinburgh and 10 more. Often billed alongside Seb (Tropical Waste), CRAIC DAVID and DJ Spinn. Next up: Soup, Manchester on Fri 7 Aug.
+Big Dope P is a footwork and ghetto tech artist tracked on soundcheck, with 40 sets logged across Barcelona, Brussels, Bucharest and Edinburgh and 10 more. Often billed alongside Seb (Tropical Waste), CRAIC DAVID and sohotsospicy. Next up: Soup, Manchester on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Soup | Manchester |
+| Fri, 2 Oct 2026 | TBA | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Big Dope P is a footwork and ghetto tech artist tracked on soundcheck, with 39 s
 
 ## Shares bills with
 
-Seb (Tropical Waste), CRAIC DAVID, DJ Spinn
+Seb (Tropical Waste), CRAIC DAVID, sohotsospicy
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdopep/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdopep/)*

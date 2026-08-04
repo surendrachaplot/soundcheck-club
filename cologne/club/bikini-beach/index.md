@@ -1,6 +1,6 @@
 # Bikini Beach
 
-Bikini Beach is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Jonathan Kaspar All Day Long - strandliebe Open Air I Bikini Beach Bonn" on Fri, 7 Aug 2026.
+Bikini Beach is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Jonathan Kaspar All Day Long - strandliebe Open Air I Bikini Beach Bonn" on Fri, 7 Aug 2026.
 
 Bikini Beach is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including Jonathan Kaspar and Robag Wruhme. Browse upcoming dates, start times and who's playing. Karl-Duwe-Str. 4b, 53227 Bonn.
 
@@ -15,4 +15,4 @@ Bikini Beach is a music venue in Cologne listed on soundcheck. 2 upcoming nights
 
 Karl-Duwe-Str. 4b, 53227 Bonn, Cologne
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bikini-beach/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bikini-beach/)*

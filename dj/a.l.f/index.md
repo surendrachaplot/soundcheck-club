@@ -1,6 +1,6 @@
 # A.L.F
 
-A.L.F is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+A.L.F is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 A.L.F is a house and breakbeat artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Helios Manoeuvres, biscous and Katiaki. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ A.L.F is a house and breakbeat artist tracked on soundcheck, with 15 sets logged
 
 Helios Manoeuvres, biscous, Katiaki
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.f/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.f/)*

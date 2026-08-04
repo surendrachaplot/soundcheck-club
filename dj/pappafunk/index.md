@@ -1,6 +1,6 @@
 # Pappafunk
 
-Pappafunk is a Afrobeat and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Homestead Cafe, London on Sat, 15 Aug 2026.
+Pappafunk is a Afrobeat and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Homestead Cafe, London on Sat, 15 Aug 2026.
 
 Pappafunk is an afrobeat and disco artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam and London. Often billed alongside Rob Coley, Farrah DJ and ROY WESTFIELD. Next up: The Homestead Cafe, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Pappafunk is an afrobeat and disco artist based in United Kingdom, tracked on so
 
 Rob Coley, Farrah DJ, ROY WESTFIELD
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pappafunk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pappafunk/)*

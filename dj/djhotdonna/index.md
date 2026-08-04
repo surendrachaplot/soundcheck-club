@@ -1,6 +1,6 @@
 # DJ HOT DONNA
 
-DJ HOT DONNA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
+DJ HOT DONNA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri, 7 Aug 2026.
 
 DJ HOT DONNA is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Austin. Often billed alongside .CLOUDED., Brett Johnson and Al V Dam. Next up: TBA - 6910 Shirley Avenue Austin, TX, Austin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ DJ HOT DONNA is a house and disco artist based in United States of America, trac
 
 .CLOUDED., Brett Johnson, Al V Dam
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*

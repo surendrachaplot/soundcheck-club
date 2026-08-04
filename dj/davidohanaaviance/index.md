@@ -1,6 +1,6 @@
 # David Ohana Aviance
 
-David Ohana Aviance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 15 Aug 2026.
+David Ohana Aviance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 15 Aug 2026.
 
 David Ohana Aviance is a techno and house artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Manny Ward, Akua and DJ Gomi. Next up: Dead Letter No. 9, Newyorkcity on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ David Ohana Aviance is a techno and house artist tracked on soundcheck, with 4 s
 
 Manny Ward, Akua, DJ Gomi
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidohanaaviance/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidohanaaviance/)*

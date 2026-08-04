@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "DYSTOPIA RAVE with Plea5urepul5e" on Sat, 8 Aug 2026.
+Das Werk is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "DYSTOPIA RAVE with Plea5urepul5e" on Sat, 8 Aug 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Albin Brezlan, Bangerfabrique, carlo kalu and Crystal O and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -20,4 +20,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

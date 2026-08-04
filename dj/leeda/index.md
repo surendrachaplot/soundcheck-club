@@ -1,6 +1,6 @@
 # Leeda
 
-Leeda is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Setlist @ Somerset House, London on Sat, 8 Aug 2026.
+Leeda is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Setlist @ Somerset House, London on Sat, 8 Aug 2026.
 
 Leeda is an afro house and afro tech artist tracked on soundcheck, with 26 sets logged across London and Manchester. Often billed alongside Davide Del Vecchio, Logic Senya and The Almanac. Next up: Setlist @ Somerset House, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Leeda is an afro house and afro tech artist tracked on soundcheck, with 26 sets 
 
 Davide Del Vecchio, Logic Senya, The Almanac
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leeda/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leeda/)*

@@ -1,6 +1,6 @@
 # Mihai Pol
 
-Mihai Pol is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Green Room NYC, New York City on Fri, 28 Aug 2026.
+Mihai Pol is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Green Room NYC, New York City on Fri, 28 Aug 2026.
 
 Mihai Pol is a minimal and house artist tracked on soundcheck, with 63 sets logged across Auckland, Bali, Barcelona and Brussels and 24 more. Often billed alongside Daescu, Constratti and Gera (3). Next up: Green Room NYC, Newyorkcity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mihai Pol is a minimal and house artist tracked on soundcheck, with 63 sets logg
 
 Daescu, Constratti, Gera (3)
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*

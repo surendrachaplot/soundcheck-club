@@ -1,6 +1,6 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 4 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "All Things Deep" on Thu, 6 Aug 2026.
+Neon Grotto is a music venue in Austin with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "All Things Deep" on Thu, 6 Aug 2026.
 
 Neon Grotto is a music venue in Austin listed on soundcheck. 4 upcoming nights, with line-ups including Daniel Allen, Evan Guerra, Knos and Phamstar and 2 more. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
@@ -17,4 +17,4 @@ Neon Grotto is a music venue in Austin listed on soundcheck. 4 upcoming nights, 
 
 318 Colorado St, Austin, TX 78701, United States, Austin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*

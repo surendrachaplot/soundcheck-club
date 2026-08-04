@@ -1,6 +1,6 @@
 # Taxman
 
-Taxman is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
+Taxman is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
 
 Taxman is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Birmingham, Boston, Brighton and Bristol and 5 more. Often billed alongside Tyke, DJ Hype and DJ Hazard. Next up: Culture Box, Copenhagen on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Taxman is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Tyke, DJ Hype, DJ Hazard
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taxman/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taxman/)*

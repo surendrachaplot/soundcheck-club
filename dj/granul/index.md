@@ -1,6 +1,6 @@
 # Granul
 
-Granul is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+Granul is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 Granul is a techno and bass artist based in Turkey, tracked on soundcheck, with 31 sets logged across Belgrade, Istanbul and Tbilisi. Often billed alongside Fosil, 4-i and Masty. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Granul is a techno and bass artist based in Turkey, tracked on soundcheck, with 
 
 Fosil, 4-i, Masty
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/granul/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/granul/)*

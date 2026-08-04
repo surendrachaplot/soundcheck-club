@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "AFTER PARTY GIRL: Girls On Deck, MALICIEL & Andyland (OSL Afterparty)" on Fri, 7 Aug 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "AFTER PARTY GIRL: Girls On Deck, MALICIEL & Andyland (OSL Afterparty)" on Fri, 7 Aug 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including 1-800 GIRLS, ANDYLAND, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -21,4 +21,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 8 upco
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

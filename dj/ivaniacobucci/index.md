@@ -1,6 +1,6 @@
 # Ivan Iacobucci
 
-Ivan Iacobucci is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
+Ivan Iacobucci is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
 
 Ivan Iacobucci is a house and minimal techno artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Bucharest and London and 12 more. Often billed alongside Stella Fiore, Dino (2) and Francesco Farfa. Next up: StereoBar, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ivan Iacobucci is a house and minimal techno artist tracked on soundcheck, with 
 
 Stella Fiore, Dino (2), Francesco Farfa
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*

@@ -1,6 +1,6 @@
 # Ren Ascutt
 
-Ren Ascutt is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Sigma, Ibiza on Sat, 8 Aug 2026.
+Ren Ascutt is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sigma, Ibiza on Sat, 8 Aug 2026.
 
 Ren Ascutt is a techno and acid artist based in Chile, tracked on soundcheck, with 10 sets logged across Barcelona and Ibiza. Often billed alongside SEMREH, ZÉ ALMONACID and Nahum Korm. Next up: Sigma, Ibiza on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ren Ascutt is a techno and acid artist based in Chile, tracked on soundcheck, wi
 
 SEMREH, ZÉ ALMONACID, Nahum Korm
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renascutt/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renascutt/)*

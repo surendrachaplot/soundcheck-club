@@ -1,6 +1,6 @@
 # Benski
 
-Benski is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Standard Time, Toronto on Sat, 15 Aug 2026.
+Benski is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Standard Time, Toronto on Sat, 15 Aug 2026.
 
 Benski is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg, Lisbon and Prague and 1 more. Often billed alongside Upzet, Eightball and Sindicate. Next up: Standard Time, Toronto on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Benski is a drum & bass and jungle artist based in Germany, tracked on soundchec
 
 Upzet, Eightball, Sindicate
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benski/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benski/)*

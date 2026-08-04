@@ -1,6 +1,6 @@
 # George Daniel
 
-George Daniel is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 7 Aug 2026.
+George Daniel is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 7 Aug 2026.
 
 George Daniel is a house and breakbeat artist tracked on soundcheck, with 20 sets logged across Berlin, Ibiza, London and Losangeles and 3 more. Often billed alongside Oscar Farrell, Kelly Lee Owens and 2D0GS. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ George Daniel is a house and breakbeat artist tracked on soundcheck, with 20 set
 
 Oscar Farrell, Kelly Lee Owens, 2D0GS
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgedaniel/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgedaniel/)*

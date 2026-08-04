@@ -1,6 +1,6 @@
 # Lena
 
-Lena is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at BASIS, Utrecht on Sat, 8 Aug 2026.
+Lena is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at BASIS, Utrecht on Sat, 8 Aug 2026.
 
 Lena is a techno and acid artist tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Hamburg and Mexicocity and 4 more. Often billed alongside Cynthia Spiering, DYEN and KETTING. Next up: BASIS, Utrecht on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lena is a techno and acid artist tracked on soundcheck, with 31 sets logged acro
 
 Cynthia Spiering, DYEN, KETTING
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lena/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lena/)*

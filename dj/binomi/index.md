@@ -1,6 +1,6 @@
 # Binomi
 
-Binomi is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
+Binomi is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Pratdip (Tarragona, Spain), Barcelona on Fri, 21 Aug 2026.
 
 Binomi is an ambient and techno artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona and Malta. Often billed alongside ABSIS, Imox and Josh Hoppen. Next up: TBA - Pratdip (Tarragona, Spain), Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Binomi is an ambient and techno artist based in Spain, tracked on soundcheck, wi
 
 ABSIS, Imox, Josh Hoppen
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binomi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binomi/)*

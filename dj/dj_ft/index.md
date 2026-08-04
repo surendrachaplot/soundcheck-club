@@ -1,6 +1,6 @@
 # DJ_FT
 
-DJ_FT is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 9 Aug 2026.
+DJ_FT is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 9 Aug 2026.
 
 DJ_FT is a house and deep house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Thoma', Maïore and Raku. Next up: Boat - MS Rhein, Berlin on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ DJ_FT is a house and deep house artist based in Germany, tracked on soundcheck, 
 
 Thoma', Maïore, Raku
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_ft/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_ft/)*

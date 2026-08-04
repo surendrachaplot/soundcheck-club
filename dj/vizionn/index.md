@@ -1,6 +1,6 @@
 # vizionn
 
-vizionn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Kilomètre25, Paris on Thu, 27 Aug 2026.
+vizionn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kilomètre25, Paris on Thu, 27 Aug 2026.
 
 vizionn is a techno and trance artist tracked on soundcheck, with 72 sets logged across Antwerp, Basel, Berlin and Brussels and 28 more. Often billed alongside DJ Reiz, The Jakob Sister and RaverPik. Next up: Kilomètre25, Paris on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ vizionn is a techno and trance artist tracked on soundcheck, with 72 sets logged
 
 DJ Reiz, The Jakob Sister, RaverPik
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizionn/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizionn/)*

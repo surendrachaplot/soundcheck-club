@@ -1,6 +1,6 @@
 # Sarra Wild
 
-Sarra Wild is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at The Greyhound, London on Sat, 15 Aug 2026.
+Sarra Wild is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Greyhound, London on Sat, 15 Aug 2026.
 
 Sarra Wild is a bass and techno artist tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside TEDESCO, ASHTREY and Anahita Shamsaei. Next up: The Greyhound, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sarra Wild is a bass and techno artist tracked on soundcheck, with 71 sets logge
 
 TEDESCO, ASHTREY, Anahita Shamsaei
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarrawild/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarrawild/)*

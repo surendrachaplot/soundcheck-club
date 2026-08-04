@@ -1,6 +1,6 @@
 # Ratpack
 
-Ratpack is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Ratpack is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Ratpack is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Slipmatt, Billy Daniel Bunter and Nicky Blackmarket. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ratpack is a house and tech house artist tracked on soundcheck, with 36 sets log
 
 Slipmatt, Billy Daniel Bunter, Nicky Blackmarket
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratpack/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratpack/)*

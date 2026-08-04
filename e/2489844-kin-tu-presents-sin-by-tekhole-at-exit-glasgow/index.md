@@ -1,6 +1,6 @@
 # KIN-TU presents: SIN by Tekhole at EXIT Glasgow
 
-KIN-TU presents: SIN by Tekhole at EXIT Glasgow on Fri 18 Sept, Glasgow. 7 acts on the bill: Buckfast Barbie, C Frame, Maveen and North Star and 3 more. Electro and Gqom. Preview the line-up and save it on soundcheck.
+KIN-TU presents: SIN by Tekhole at EXIT Glasgow on Fri 18 Sept, Glasgow. 8 acts on the bill: Buckfast Barbie, C Frame, Maveen and Moina Moin and 4 more. Electro and Gqom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ KIN-TU presents: SIN by Tekhole at EXIT Glasgow on Fri 18 Sept, Glasgow. 7 acts 
 - Buckfast Barbie
 - C Frame
 - Maveen
+- Moina Moin
 - North Star
 - Salam Kitty
 - saparilla

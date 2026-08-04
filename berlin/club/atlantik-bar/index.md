@@ -1,6 +1,6 @@
 # Atlantik bar
 
-Atlantik bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 3 Aug 2026; the next is "Odd Medecine & Lost Bolt On" on Wed, 5 Aug 2026.
+Atlantik bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Odd Medecine & Lost Bolt On" on Wed, 5 Aug 2026.
 
 Atlantik bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Kollwitzstrasse 18, 10405 Berlin.
 
@@ -14,4 +14,4 @@ Atlantik bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. 
 
 Kollwitzstrasse 18, 10405 Berlin, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atlantik-bar/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atlantik-bar/)*

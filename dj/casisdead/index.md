@@ -1,6 +1,6 @@
 # CASISDEAD
 
-CASISDEAD is a Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Phonox, London on Fri, 7 Aug 2026.
+CASISDEAD is a Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Phonox, London on Fri, 7 Aug 2026.
 
 CASISDEAD is a grime artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Dublin, London and Manchester and 1 more. Often billed alongside Eliza Rose, VTSS and Bakey. Next up: Phonox, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ CASISDEAD is a grime artist based in United Kingdom, tracked on soundcheck, with
 
 Eliza Rose, VTSS, Bakey
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casisdead/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casisdead/)*

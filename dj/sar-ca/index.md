@@ -1,6 +1,6 @@
 # Sār (CA)
 
-Sār (CA) is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
+Sār (CA) is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
 
 Sār (CA) is a dubstep and garage artist based in Canada, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside AM.UKG, Akkai (2) and Dameer. Next up: Standard Time, Toronto on Sun 16 Aug.
 
@@ -18,4 +18,4 @@ Sār (CA) is a dubstep and garage artist based in Canada, tracked on soundcheck,
 
 AM.UKG, Akkai (2), Dameer
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sar-ca/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sar-ca/)*

@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Mon, 3 Aug 2026; the next is "Unison with Zapped Records, Nizar Sarakbi, Josefina Tapia" on Fri, 7 Aug 2026.
+Ritter Butzke is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Unison with Zapped Records, Nizar Sarakbi, Josefina Tapia" on Fri, 7 Aug 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Annie O, Antic Soul, Asem Shama and Blame the Booker and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 20 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

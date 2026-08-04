@@ -1,6 +1,6 @@
 # Sampol
 
-Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 7 Aug 2026.
+Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 7 Aug 2026.
 
 Sampol is an electro and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Alex (ES), Hitch and DJ Gamba. Next up: Seaseaclub Barcelona, Barcelona on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Sampol is an electro and house artist tracked on soundcheck, with 110 sets logge
 
 Alex (ES), Hitch, DJ Gamba
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

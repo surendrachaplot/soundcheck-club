@@ -1,6 +1,6 @@
 # George Morteanu
 
-George Morteanu is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
+George Morteanu is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paloma, London on Sat, 15 Aug 2026.
 
 George Morteanu is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Ciprian, Ciccio (IT) and Simon Carr. Next up: Paloma, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ George Morteanu is a tech house and minimal artist based in United Kingdom, trac
 
 Ciprian, Ciccio (IT), Simon Carr
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemorteanu/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemorteanu/)*

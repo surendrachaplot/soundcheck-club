@@ -1,6 +1,6 @@
 # Dihi
 
-Dihi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Red Bar, Tokyo on Tue, 4 Aug 2026.
+Dihi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Red Bar, Tokyo on Tue, 4 Aug 2026.
 
 Dihi is a house and techno artist tracked on soundcheck, with 53 sets logged across Kyoto and Tokyo. Often billed alongside Kanse, eurlica and scrab. Next up: Red Bar, Tokyo on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Dihi is a house and techno artist tracked on soundcheck, with 53 sets logged acr
 
 Kanse, eurlica, scrab
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dihi/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dihi/)*

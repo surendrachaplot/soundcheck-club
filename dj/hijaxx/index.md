@@ -1,6 +1,6 @@
 # Hijaxx
 
-Hijaxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Thompsons Garage, Belfast on Sat, 29 Aug 2026.
+Hijaxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Thompsons Garage, Belfast on Sat, 29 Aug 2026.
 
 Hijaxx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Belfast. Often billed alongside CAOIMHE, CASSIMM and Danny Howard. Next up: Thompsons Garage, Belfast on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hijaxx is a house and techno artist based in United Kingdom, tracked on soundche
 
 CAOIMHE, CASSIMM, Danny Howard
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijaxx/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijaxx/)*

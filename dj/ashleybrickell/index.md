@@ -1,6 +1,6 @@
 # Ashley Brickell
 
-Ashley Brickell is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - The Wild Retreat, Bristol on Sat, 15 Aug 2026.
+Ashley Brickell is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - The Wild Retreat, Bristol on Sat, 15 Aug 2026.
 
 Ashley Brickell is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bristol, Ibiza and London. Often billed alongside Marvin Sykes, Jodie Weston and Double B. Next up: TBA - The Wild Retreat, Bristol on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Ashley Brickell is a house and balearic artist based in United Kingdom, tracked 
 
 Marvin Sykes, Jodie Weston, Double B
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleybrickell/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleybrickell/)*

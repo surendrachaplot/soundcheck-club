@@ -1,6 +1,6 @@
 # leaf node
 
-leaf node is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
+leaf node is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
 
 leaf node is a hardcore and bass artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Das ist Vas, NCD_SOUNDSYSTEM and Flo Ruby. Next up: Distillery N17, London on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ leaf node is a hardcore and bass artist based in United Kingdom, tracked on soun
 
 Das ist Vas, NCD_SOUNDSYSTEM, Flo Ruby
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leafnode/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leafnode/)*

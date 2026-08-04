@@ -1,6 +1,6 @@
 # Olivia
 
-Olivia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
+Olivia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
 
 Olivia is a techno and electro artist based in Poland, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Chino, Kovvalsky and Kinzo Chrome. Next up: Forum Horyzonty, Krakow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Olivia is a techno and electro artist based in Poland, tracked on soundcheck, wi
 
 Chino, Kovvalsky, Kinzo Chrome
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivia/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivia/)*

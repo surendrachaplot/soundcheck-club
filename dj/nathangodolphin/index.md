@@ -1,6 +1,6 @@
 # Nathan Godolphin
 
-Nathan Godolphin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Brighthelm Centre, Brighton on Sat, 8 Aug 2026.
+Nathan Godolphin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Brighthelm Centre, Brighton on Sat, 8 Aug 2026.
 
 Nathan Godolphin is a techno and house artist tracked on soundcheck, with 37 sets logged across Brighton and London. Often billed alongside Ross Harper, Gosia and Døra. Next up: Brighthelm Centre, Brighton on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nathan Godolphin is a techno and house artist tracked on soundcheck, with 37 set
 
 Ross Harper, Gosia, Døra
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathangodolphin/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathangodolphin/)*

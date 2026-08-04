@@ -1,6 +1,6 @@
 # DJ Earl
 
-DJ Earl is a Footwork and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Bourbon On Division, Chicago on Fri, 7 Aug 2026.
+DJ Earl is a Footwork and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bourbon On Division, Chicago on Fri, 7 Aug 2026.
 
 DJ Earl is a footwork and garage artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Chicago, Denver and Houston and 5 more. Often billed alongside Lastword, Big Dope P and Daddy Kev. Next up: Bourbon On Division, Chicago on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Earl is a footwork and garage artist based in United States of America, track
 
 Lastword, Big Dope P, Daddy Kev
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djearl/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djearl/)*

@@ -1,6 +1,6 @@
 # Mila Haj Kasem
 
-Mila Haj Kasem is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Mila Haj Kasem is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 Mila Haj Kasem is a techno and electro artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Lola Edo, Spikey Lee and Mar/us. Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mila Haj Kasem is a techno and electro artist based in Netherlands, tracked on s
 
 Lola Edo, Spikey Lee, Mar/us
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milahajkasem/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milahajkasem/)*

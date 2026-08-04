@@ -1,6 +1,6 @@
 # StereoStrip
 
-StereoStrip is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
+StereoStrip is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
 
 StereoStrip is a house and techno artist tracked on soundcheck, with 21 sets logged across Budapest. Often billed alongside Ratkay, Viktor Bondar and ANESI. Next up: Pontoon Budapest, Budapest on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ StereoStrip is a house and techno artist tracked on soundcheck, with 21 sets log
 
 Ratkay, Viktor Bondar, ANESI
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stereostrip/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stereostrip/)*

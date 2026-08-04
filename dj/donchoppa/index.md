@@ -1,8 +1,8 @@
 # DonChoppa
 
-DonChoppa is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+DonChoppa is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-DonChoppa is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Anuuk, Kø:lab and SEKTOR69. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+DonChoppa is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Anuuk, Kø:lab and SEKTOR69. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DonChoppa is a techno and trance artist based in Germany, tracked on soundcheck,
 | Sat, 29 Aug 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Sun, 30 Aug 2026 | Sommerbad Neukölln | Berlin |
 | Sun, 30 Aug 2026 | Sommerbad Neuköln | Berlin |
+| Fri, 4 Sept 2026 | Schrotty | Cologne |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DonChoppa is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Anuuk, Kø:lab, SEKTOR69
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*

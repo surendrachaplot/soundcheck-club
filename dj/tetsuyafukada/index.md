@@ -1,6 +1,6 @@
 # Tetsuya Fukada
 
-Tetsuya Fukada is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 3 Aug 2026, next at Forestlimit, Tokyo on Sat, 8 Aug 2026.
+Tetsuya Fukada is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Forestlimit, Tokyo on Sat, 8 Aug 2026.
 
 Tetsuya Fukada is a trance and techno artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside ato夢, Axorst2k and Xamd. Next up: Forestlimit, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tetsuya Fukada is a trance and techno artist based in Japan, tracked on soundche
 
 ato夢, Axorst2k, Xamd
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuyafukada/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuyafukada/)*

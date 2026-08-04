@@ -1,6 +1,6 @@
 # FAFF
 
-FAFF is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 3 Aug 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
+FAFF is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
 
 FAFF is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: MAS - Museum aan de Stroom, Antwerp on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ FAFF is a house and techno artist tracked on soundcheck, with 106 sets logged ac
 
 Angel D'lite, Michelle Manetti, Marie Malarie
 
-*Updated Mon, 3 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*
+*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*
