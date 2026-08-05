@@ -1,6 +1,6 @@
 # WNDRLST
 
-WNDRLST is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar15, Stockholm on Fri, 28 Aug 2026.
+WNDRLST is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar15, Stockholm on Fri, 28 Aug 2026.
 
 WNDRLST is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 30 more. Often billed alongside KØZLØV, OGUZ and Somniac One. Next up: Bar15, Stockholm on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ WNDRLST is a techno and industrial artist based in Netherlands, tracked on sound
 
 KØZLØV, OGUZ, Somniac One
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wndrlst/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wndrlst/)*

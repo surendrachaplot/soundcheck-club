@@ -1,6 +1,6 @@
 # Kamixlo
 
-Kamixlo is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
+Kamixlo is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
 
 Kamixlo is an experimental and club artist tracked on soundcheck, with 50 sets logged across Athens, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Felix Lee, Isabella Lovestory and Mechatok. Next up: The White Hotel, Manchester on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kamixlo is an experimental and club artist tracked on soundcheck, with 50 sets l
 
 Felix Lee, Isabella Lovestory, Mechatok
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*

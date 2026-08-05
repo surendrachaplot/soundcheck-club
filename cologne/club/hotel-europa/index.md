@@ -1,6 +1,6 @@
 # Hotel Europa
 
-Hotel Europa is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "FLUID" on Fri, 21 Aug 2026.
+Hotel Europa is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "FLUID" on Fri, 21 Aug 2026.
 
 Hotel Europa is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including Dave75 and NØCT. Browse upcoming dates, start times and who's playing. Südstraße 54, 52064 Aachen, Germany.
 
@@ -14,4 +14,4 @@ Hotel Europa is a music venue in Cologne listed on soundcheck. 1 upcoming night,
 
 Südstraße 54, 52064 Aachen, Germany, Cologne
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/hotel-europa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/hotel-europa/)*

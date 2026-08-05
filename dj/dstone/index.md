@@ -1,13 +1,14 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
+D Stone is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 8 Aug 2026.
 
-D Stone is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Chinois Ibiza, Ibiza on Thu 20 Aug.
+D Stone is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: SISSI'S Amsterdam, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
 | Thu, 20 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 18 Sept 2026 | The Cause | London |
@@ -30,4 +31,4 @@ D Stone is a house and tech house artist tracked on soundcheck, with 108 sets lo
 
 Benjamin Berg, Benny Rodrigues, Dam Swindle
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*

@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Riktus x MRC with BØĘRY b2b Sørenga, cassandrah, B-Killer, Felipão, RZVX" on Thu, 6 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Riktus x MRC with BØĘRY b2b Sørenga, cassandrah, B-Killer, Felipão, RZVX" on Thu, 6 Aug 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including 7CIRCLE, BØĘRY, Boris and cassandrah and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -17,4 +17,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 4 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

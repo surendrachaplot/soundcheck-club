@@ -1,6 +1,6 @@
 # Coyo (Berlin)
 
-Coyo (Berlin) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
+Coyo (Berlin) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
 
 Coyo (Berlin) is a house and techno artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Johnny Gutmann, MKLY and Monika Punanski. Next up: Beate Uwe, Berlin on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Coyo (Berlin) is a house and techno artist tracked on soundcheck, with 7 sets lo
 
 Johnny Gutmann, MKLY, Monika Punanski
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coyo-berlin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coyo-berlin/)*

@@ -1,6 +1,6 @@
 # Kath J
 
-Kath J is a Breakbeat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Left Bank, Tbilisi on Sat, 22 Aug 2026.
+Kath J is a Breakbeat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Left Bank, Tbilisi on Sat, 22 Aug 2026.
 
 Kath J is a breakbeat and drum & bass artist tracked on soundcheck, with 46 sets logged across Tbilisi. Often billed alongside Sevda, Mtvare and Ottonian. Next up: Left Bank, Tbilisi on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kath J is a breakbeat and drum & bass artist tracked on soundcheck, with 46 sets
 
 Sevda, Mtvare, Ottonian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathj/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathj/)*

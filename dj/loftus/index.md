@@ -1,6 +1,6 @@
 # LOFTUS
 
-LOFTUS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club Rawhide, New York City on Thu, 6 Aug 2026.
+LOFTUS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club Rawhide, New York City on Thu, 6 Aug 2026.
 
 LOFTUS is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Delilah At Night, Ryan Farr and Thee Aries. Next up: Club Rawhide, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ LOFTUS is a house and techno artist based in United States of America, tracked o
 
 Delilah At Night, Ryan Farr, Thee Aries
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*

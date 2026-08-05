@@ -1,6 +1,6 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Superior Ingredients, New York City on Sun, 9 Aug 2026.
+OGUZ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Superior Ingredients, New York City on Sun, 9 Aug 2026.
 
 OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Superior Ingredients, Newyorkcity on Sun 9 Aug.
 
@@ -33,4 +33,4 @@ OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged ac
 
 Basswell, DYEN, Nico Moreno
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

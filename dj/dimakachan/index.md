@@ -1,6 +1,6 @@
 # Dima Kachan
 
-Dima Kachan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Jasna 1, Warsaw on Sat, 15 Aug 2026.
+Dima Kachan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jasna 1, Warsaw on Sat, 15 Aug 2026.
 
 Dima Kachan is a techno and trance artist based in Belarus, tracked on soundcheck, with 32 sets logged across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside Dolu, Syrphin and SDS (2). Next up: Jasna 1, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dima Kachan is a techno and trance artist based in Belarus, tracked on soundchec
 
 Dolu, Syrphin, SDS (2)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimakachan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimakachan/)*

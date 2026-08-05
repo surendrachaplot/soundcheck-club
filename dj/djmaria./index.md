@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
+DJ MARIA. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
 
 DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: WOMB, Tokyo on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets log
 
 DJ Yazi, Spekki Webu, Takumi Inamoto
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

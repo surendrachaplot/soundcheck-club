@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Marco Shuttle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

@@ -1,6 +1,6 @@
 # Train (UK)
 
-Train (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Shoreline Amphitheater, San Francisco/Oakland on Wed, 26 Aug 2026.
+Train (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Shoreline Amphitheater, San Francisco/Oakland on Wed, 26 Aug 2026.
 
 Train (UK) is an electronic artist tracked on soundcheck, with 3 sets logged across London, Nashville and Sanfrancisco. Often billed alongside Danism, Davide Del Vecchio and Faro. Next up: Shoreline Amphitheater, Sanfrancisco on Wed 26 Aug.
 
@@ -19,4 +19,4 @@ Train (UK) is an electronic artist tracked on soundcheck, with 3 sets logged acr
 
 Danism, Davide Del Vecchio, Faro
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/train-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/train-uk/)*

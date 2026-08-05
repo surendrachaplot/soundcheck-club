@@ -1,6 +1,6 @@
 # Tiesto
 
-Tiesto is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Mon, 10 Aug 2026.
+Tiesto is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Mon, 10 Aug 2026.
 
 Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged across Austin, Brussels, Chicago and Ibiza and 11 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: [UNVRS], Ibiza on Mon 10 Aug.
 
@@ -30,4 +30,4 @@ Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged a
 
 Chris Lake, Kaskade, Matroda
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*

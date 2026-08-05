@@ -1,6 +1,6 @@
 # Nexus-6
 
-Nexus-6 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+Nexus-6 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 Nexus-6 is a techno and acid artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside grep, Richard Haig and emilyinamillion. Next up: F8 1192 Folsom, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Nexus-6 is a techno and acid artist based in United States of America, tracked o
 
 grep, Richard Haig, emilyinamillion
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus-6/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus-6/)*

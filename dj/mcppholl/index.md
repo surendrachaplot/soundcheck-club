@@ -1,6 +1,6 @@
 # MC PPholl
 
-MC PPholl is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kadinsky Cafe, Amsterdam on Sat, 29 Aug 2026.
+MC PPholl is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kadinsky Cafe, Amsterdam on Sat, 29 Aug 2026.
 
 MC PPholl is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam. Often billed alongside Around Us, Francesco Pico and Ras Paulus. Next up: Kadinsky Cafe, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MC PPholl is a progressive house and techno artist based in Netherlands, tracked
 
 Around Us, Francesco Pico, Ras Paulus
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcppholl/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcppholl/)*

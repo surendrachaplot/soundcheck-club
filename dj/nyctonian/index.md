@@ -1,13 +1,14 @@
 # Nyctonian
 
-Nyctonian is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Now&Wow, Rotterdam on Sat, 5 Sept 2026.
+Nyctonian is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at BASIS, Utrecht on Sat, 22 Aug 2026.
 
-Nyctonian is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside CARV, KARAH and XRTN. Next up: Now&Wow, Rotterdam on Sat 5 Sept.
+Nyctonian is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside XRTN, CARV and KARAH. Next up: BASIS, Utrecht on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | BASIS | Utrecht |
 | Sat, 5 Sept 2026 | Now&Wow | Rotterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Nyctonian is a techno and industrial artist based in Netherlands, tracked on sou
 
 ## Shares bills with
 
-CARV, KARAH, XRTN
+XRTN, CARV, KARAH
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyctonian/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyctonian/)*

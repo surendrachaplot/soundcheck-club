@@ -1,6 +1,6 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "BE THE STAR - sing live on our stage! - Karaoke & Club Night" on Sat, 8 Aug 2026.
+Oslo Hackney is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "BE THE STAR - sing live on our stage! - Karaoke & Club Night" on Sat, 8 Aug 2026.
 
 Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including ABIMBOLA, Afroasis, RIMIX and Someone Sunny. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
@@ -19,4 +19,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming nights,
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

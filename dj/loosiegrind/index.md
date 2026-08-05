@@ -1,6 +1,6 @@
 # Loosie Grind
 
-Loosie Grind is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Chinese Laundry, Sydney on Sat, 8 Aug 2026.
+Loosie Grind is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Chinese Laundry, Sydney on Sat, 8 Aug 2026.
 
 Loosie Grind is a house and techno artist based in Australia, tracked on soundcheck, with 15 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Jacqui Cunningham, RHINESTONE COWGIRL and Banquet DJs. Next up: Chinese Laundry, Sydney on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Loosie Grind is a house and techno artist based in Australia, tracked on soundch
 
 Jacqui Cunningham, RHINESTONE COWGIRL, Banquet DJs
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loosiegrind/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loosiegrind/)*

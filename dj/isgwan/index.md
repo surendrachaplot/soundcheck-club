@@ -1,13 +1,14 @@
 # IsGwan
 
-IsGwan is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+IsGwan is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Luigis Hot Pizza Bali, Bali on Mon, 31 Aug 2026.
 
-IsGwan is a garage and house artist based in Australia, tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Berlin and Brighton and 13 more. Often billed alongside Osmosis Jones, KJONES and Prizefight. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
+IsGwan is a garage and house artist based in Australia, tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Bali and Berlin and 14 more. Often billed alongside Osmosis Jones, KJONES and Prizefight. Next up: Luigis Hot Pizza Bali, Bali on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 31 Aug 2026 | Luigis Hot Pizza Bali | Bali |
 | Sat, 5 Sept 2026 | Preston Warehouse | Melbourne |
 | Fri, 16 Oct 2026 | M.O.T | London |
 
@@ -26,4 +27,4 @@ IsGwan is a garage and house artist based in Australia, tracked on soundcheck, w
 
 Osmosis Jones, KJONES, Prizefight
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*

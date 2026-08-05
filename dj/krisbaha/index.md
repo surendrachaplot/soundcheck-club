@@ -1,6 +1,6 @@
 # Kris Baha
 
-Kris Baha is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
+Kris Baha is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
 
 Kris Baha is a techno and ebm artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Zanias, Bloody Mary and Berlin Bunny. Next up: ://about blank, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Kris Baha is a techno and ebm artist tracked on soundcheck, with 80 sets logged 
 
 Zanias, Bloody Mary, Berlin Bunny
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krisbaha/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krisbaha/)*

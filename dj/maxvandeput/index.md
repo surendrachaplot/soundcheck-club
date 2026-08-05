@@ -1,6 +1,6 @@
 # Max Van de Put
 
-Max Van de Put is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lion's Den, Miami on Fri, 7 Aug 2026.
+Max Van de Put is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lion's Den, Miami on Fri, 7 Aug 2026.
 
 Max Van de Put is a house and italo disco artist tracked on soundcheck, with 4 sets logged across Mexicocity and Miami. Often billed alongside Danesholme, Dj Chance da Silva and Remille. Next up: Lion's Den, Miami on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Max Van de Put is a house and italo disco artist tracked on soundcheck, with 4 s
 
 Danesholme, Dj Chance da Silva, Remille
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvandeput/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvandeput/)*

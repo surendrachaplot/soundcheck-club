@@ -1,6 +1,6 @@
 # Ylam
 
-Ylam is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nocturna, Ibiza on Wed, 5 Aug 2026.
+Ylam is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nocturna, Ibiza on Wed, 5 Aug 2026.
 
 Ylam is a house and disco artist tracked on soundcheck, with 8 sets logged across Barcelona, Ibiza and Paris. Often billed alongside Adrasha, Agathe Mougin and Alex Chapman. Next up: Nocturna, Ibiza on Wed 5 Aug.
 
@@ -24,4 +24,4 @@ Ylam is a house and disco artist tracked on soundcheck, with 8 sets logged acros
 
 Adrasha, Agathe Mougin, Alex Chapman
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ylam/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ylam/)*

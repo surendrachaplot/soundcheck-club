@@ -1,6 +1,6 @@
 # Isabassi
 
-Isabassi is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
+Isabassi is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
 
 Isabassi is an experimental and electro artist based in Brazil, tracked on soundcheck, with 13 sets logged across Berlin, Milan, Prague and Rome. Often billed alongside Cocktail Party Effect, DE:MA and Obso. Next up: OHM, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Isabassi is an experimental and electro artist based in Brazil, tracked on sound
 
 Cocktail Party Effect, DE:MA, Obso
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabassi-de/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabassi-de/)*

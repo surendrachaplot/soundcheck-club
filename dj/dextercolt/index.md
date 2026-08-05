@@ -1,6 +1,6 @@
 # Dexter Colt
 
-Dexter Colt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
+Dexter Colt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
 
 Dexter Colt is a house and techno artist tracked on soundcheck, with 51 sets logged across Bangkok, Hongkong, Kyoto and Newyorkcity and 3 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: The Pantry, Singapore on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dexter Colt is a house and techno artist tracked on soundcheck, with 51 sets log
 
 Daryl Knows, Bongomann, Dean Chew
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*

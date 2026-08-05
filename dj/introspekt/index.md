@@ -1,6 +1,6 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - 215 West, Detroit on Sat, 15 Aug 2026.
+Introspekt is a Garage and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - 215 West, Detroit on Sat, 15 Aug 2026.
 
 Introspekt is a garage and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Belfast and 41 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: TBA - 215 West, Detroit on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 178 sets lo
 
 Octo Octa, CCL, Bored Lord
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

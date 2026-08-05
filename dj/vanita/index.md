@@ -1,6 +1,6 @@
 # Vanita
 
-Vanita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at X-Tra, Zurich on Sat, 8 Aug 2026.
+Vanita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at X-Tra, Zurich on Sat, 8 Aug 2026.
 
 Vanita is a house and techno artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Berlin, Brussels, Copenhagen and Frankfurt and 1 more. Often billed alongside Dirty Doering, AANN and Faro Alip. Next up: X-Tra, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Vanita is a house and techno artist based in Switzerland, tracked on soundcheck,
 
 Dirty Doering, AANN, Faro Alip
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanita/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanita/)*

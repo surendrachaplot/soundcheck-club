@@ -1,14 +1,15 @@
 # Billy Jack (UK)
 
-Billy Jack (UK) is a Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hope House, Leeds on Fri, 7 Aug 2026.
+Billy Jack (UK) is a Disco and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hope House, Leeds on Fri, 7 Aug 2026.
 
-Billy Jack (UK) is a disco and acid artist tracked on soundcheck, with 14 sets logged across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside BOSSdaddy, Chaia and Chunky. Next up: Hope House, Leeds on Fri 7 Aug.
+Billy Jack (UK) is a disco and acid artist tracked on soundcheck, with 15 sets logged across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside BOSSdaddy, S_STEELE and Aiden Francis. Next up: Hope House, Leeds on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Hope House | Leeds |
+| Sat, 19 Sept 2026 | Algha's Plantroom | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Billy Jack (UK) is a disco and acid artist tracked on soundcheck, with 14 sets l
 
 ## Shares bills with
 
-BOSSdaddy, Chaia, Chunky
+BOSSdaddy, S_STEELE, Aiden Francis
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billyjack-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billyjack-uk/)*

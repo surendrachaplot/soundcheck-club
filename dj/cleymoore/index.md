@@ -1,6 +1,6 @@
 # Cleymoore
 
-Cleymoore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
+Cleymoore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
 Cleymoore is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside rubi*, Atree and ALINA (3). Next up: Renate, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Cleymoore is a house and techno artist tracked on soundcheck, with 56 sets logge
 
 rubi*, Atree, ALINA (3)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleymoore/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleymoore/)*

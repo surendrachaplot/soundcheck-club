@@ -1,6 +1,6 @@
 # superrichkid
 
-superrichkid is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Somewhere in NIshi Azabu, Tokyo on Fri, 14 Aug 2026.
+superrichkid is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Somewhere in NIshi Azabu, Tokyo on Fri, 14 Aug 2026.
 
 superrichkid is a techno and bass artist tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside roomquake, Eichi Abe and HAYATE. Next up: TBA - Somewhere in NIshi Azabu, Tokyo on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ superrichkid is a techno and bass artist tracked on soundcheck, with 2 sets logg
 
 roomquake, Eichi Abe, HAYATE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superrichkid/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superrichkid/)*

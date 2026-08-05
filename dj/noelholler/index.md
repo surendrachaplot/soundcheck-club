@@ -1,6 +1,6 @@
 # Noel Holler
 
-Noel Holler is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Noel Holler is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Noel Holler is a house and electronica artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside Alle Farben, BOVSKI and Coone. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -34,4 +34,4 @@ Noel Holler is a house and electronica artist based in Germany, tracked on sound
 
 Alle Farben, BOVSKI, Coone
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*

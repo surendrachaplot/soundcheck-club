@@ -1,6 +1,6 @@
 # RUBI (R3, NYC)
 
-RUBI (R3, NYC) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - BAR SOCIETY - 3015 STILLWELL AVE, BROOKLYN NY 11224, New York City on Sat, 8 Aug 2026.
+RUBI (R3, NYC) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - BAR SOCIETY - 3015 STILLWELL AVE, BROOKLYN NY 11224, New York City on Sat, 8 Aug 2026.
 
 RUBI (R3, NYC) are a deep house and house duo based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig and Newyorkcity. Often billed alongside RIVKA R3 NYC, Melowdee and Rebel Fusion NYC. Next up: TBA - BAR SOCIETY - 3015 STILLWELL AVE, BROOKLYN NY 11224, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RUBI (R3, NYC) are a deep house and house duo based in United States of America,
 
 RIVKA R3 NYC, Melowdee, Rebel Fusion NYC
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubir3nyc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubir3nyc/)*

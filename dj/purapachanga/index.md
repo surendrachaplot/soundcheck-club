@@ -1,6 +1,6 @@
 # Pura Pachanga
 
-Pura Pachanga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
+Pura Pachanga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
 
 Pura Pachanga is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona and London. Often billed alongside Kirilski, Snooz and Becking. Next up: Madam, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Pura Pachanga is a house and techno artist tracked on soundcheck, with 45 sets l
 
 Kirilski, Snooz, Becking
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purapachanga/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purapachanga/)*

@@ -1,6 +1,6 @@
 # TBA - Bushwick Rooftop (11237)
 
-TBA - Bushwick Rooftop (11237) is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Outer Orbit: 98dots, D4RDNN, estro, Secret Guest, Samuel Fish" on Sun, 16 Aug 2026.
+TBA - Bushwick Rooftop (11237) is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Outer Orbit: 98dots, D4RDNN, estro, Secret Guest, Samuel Fish" on Sun, 16 Aug 2026.
 
 TBA - Bushwick Rooftop (11237) is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including 98dots, estro, Samuel Fish and session 4000. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bushwick Rooftop (11237) is a music venue in Newyorkcity listed on soundch
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Outer Orbit: 98dots, D4RDNN, estro, Secret Guest, Samuel Fish | 98dots, Samuel Fish, estro, session 4000 |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bushwick-rooftop-11237/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bushwick-rooftop-11237/)*

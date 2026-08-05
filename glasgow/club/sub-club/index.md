@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FLY Summertime - Afterparty - Sub Club" on Fri, 7 Aug 2026.
+Sub Club is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FLY Summertime - Afterparty - Sub Club" on Fri, 7 Aug 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including Acido Cielo, acrosstheboard, Breathe and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

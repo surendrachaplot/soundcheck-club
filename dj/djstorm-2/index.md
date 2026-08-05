@@ -1,6 +1,6 @@
 # DJ Storm (2)
 
-DJ Storm (2) is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Garage Noord, Amsterdam on Sat, 15 Aug 2026.
+DJ Storm (2) is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Garage Noord, Amsterdam on Sat, 15 Aug 2026.
 
 DJ Storm (2) is a jungle and drum & bass artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Bristol and London and 3 more. Often billed alongside DJ Flight, Bakey and Darwin. Next up: Garage Noord, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Storm (2) is a jungle and drum & bass artist based in Italy, tracked on sound
 
 DJ Flight, Bakey, Darwin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*

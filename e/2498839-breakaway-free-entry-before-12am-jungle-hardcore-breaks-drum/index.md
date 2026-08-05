@@ -1,6 +1,6 @@
 # Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Breaks/Drum & Bass at Dalston Den
 
-Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Breaks/Drum & Bass at Dalston Den on Fri 7 Aug, London. 4 acts on the bill: Bryn Brax, Karmel Jäger, Whatsname and zoneSL. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Breaks/Drum & Bass at Dalston Den on Fri 7 Aug, London. 4 acts on the bill: Bryn Brax, Karmel Jäger, Whatsname and zoneSL. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

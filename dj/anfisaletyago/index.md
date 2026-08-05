@@ -1,14 +1,13 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
+Anfisa Letyago is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 8 Aug 2026.
 
-Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Eli Brown, Enrico Sangiuliano and Héctor Oaks. Next up: Amnesia Ibiza, Ibiza on Tue 4 Aug.
+Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Eli Brown, Enrico Sangiuliano and Héctor Oaks. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | SAGE | Berlin |
@@ -17,6 +16,7 @@ Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 4 Aug 2026
 - Bolivar Beach Bar, Athens — Fri, 24 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - Forte Antenne, Rome — Sat, 20 Jun 2026
@@ -24,10 +24,9 @@ Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
 - Mia Mao, Paris — Fri, 22 May 2026
-- RSO.BERLIN, Berlin — Fri, 15 May 2026
 
 ## Shares bills with
 
 Eli Brown, Enrico Sangiuliano, Héctor Oaks
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

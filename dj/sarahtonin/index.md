@@ -1,6 +1,6 @@
 # Sarahtonin
 
-Sarahtonin is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Rum Shack, Glasgow on Fri, 28 Aug 2026.
+Sarahtonin is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Rum Shack, Glasgow on Fri, 28 Aug 2026.
 
 Sarahtonin is a house and disco artist tracked on soundcheck, with 73 sets logged across Austin, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Bill Brewster, Frank Broughton and Ariane V. Next up: The Rum Shack, Glasgow on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Sarahtonin is a house and disco artist tracked on soundcheck, with 73 sets logge
 
 Bill Brewster, Frank Broughton, Ariane V
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahtonin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahtonin/)*

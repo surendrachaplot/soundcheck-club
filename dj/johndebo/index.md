@@ -1,6 +1,6 @@
 # John Debo
 
-John Debo is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Location, Boston on Fri, 14 Aug 2026.
+John Debo is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Location, Boston on Fri, 14 Aug 2026.
 
 John Debo is a tech house and progressive house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside Wiersma and cutwoes. Next up: TBA - Secret Location, Boston on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ John Debo is a tech house and progressive house artist based in United States of
 
 Wiersma, cutwoes
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johndebo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johndebo/)*

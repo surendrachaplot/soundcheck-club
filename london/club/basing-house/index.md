@@ -1,6 +1,6 @@
 # Basing House
 
-Basing House is a music venue in London with 23 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "COMMUNITY LDN" on Fri, 7 Aug 2026.
+Basing House is a music venue in London with 23 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "COMMUNITY LDN" on Fri, 7 Aug 2026.
 
 Basing House is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
@@ -11,7 +11,7 @@ Basing House is a music venue in London listed on soundcheck. 23 upcoming nights
 | Fri, 7 Aug 2026 | COMMUNITY LDN | Ayrts, DJ BIZZIBEE, Ginn LDN |
 | Fri, 7 Aug 2026 | Cooking for the People presents: Spinning Plates | Stateless (UK) |
 | Sat, 8 Aug 2026 | INFORMAL . Jungle Promoters Night | DJ Ron, IC3, Marly Marl, Micky Finn, The Ragga Twins |
-| Sun, 9 Aug 2026 | Boom Loft | CRIPSY |
+| Sun, 9 Aug 2026 | Boom Pres | CRIPSY |
 | Sat, 15 Aug 2026 | SOUNDS OF THE UNDERGROUND PRESENTS: RED, WHITE & BLUE PARTY | Aumy Raggo, Bobby Davis, Gavin Wilson, Jon E Cash, Steelo |
 | Sat, 15 Aug 2026 | Catch The Vibe - House & Garage | DJ Para, Daniel Ward, Hermit |
 | Fri, 21 Aug 2026 | 100% RAVING MEETS TRIBAL | Beezo |
@@ -23,4 +23,4 @@ Basing House is a music venue in London listed on soundcheck. 23 upcoming nights
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

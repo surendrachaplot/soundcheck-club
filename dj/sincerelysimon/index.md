@@ -1,6 +1,6 @@
 # Sincerely Simon
 
-Sincerely Simon is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cu, London on Sat, 22 Aug 2026.
+Sincerely Simon is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cu, London on Sat, 22 Aug 2026.
 
 Sincerely Simon is a house artist based in New Zealand, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Corners, bvtlr and Retza. Next up: Cu, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sincerely Simon is a house artist based in New Zealand, tracked on soundcheck, w
 
 Corners, bvtlr, Retza
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerelysimon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerelysimon/)*

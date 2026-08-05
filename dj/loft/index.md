@@ -1,6 +1,6 @@
 # Loft
 
-Loft is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
+Loft is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Loft is a bass and drum & bass artist tracked on soundcheck, with 12 sets logged across Berlin, Hamburg, London and Newyorkcity and 1 more. Often billed alongside Nicky B, A.Wild and Acid Sally. Next up: Public Works, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Loft is a bass and drum & bass artist tracked on soundcheck, with 12 sets logged
 
 Nicky B, A.Wild, Acid Sally
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loft/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loft/)*

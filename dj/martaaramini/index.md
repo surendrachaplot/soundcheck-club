@@ -1,6 +1,6 @@
 # marta aramini
 
-marta aramini is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Macarena Club, Barcelona on Thu, 13 Aug 2026.
+marta aramini is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Macarena Club, Barcelona on Thu, 13 Aug 2026.
 
 marta aramini is a house and afro house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Barcelona, Losangeles, Miami and Sandiego. Often billed alongside Sauaro, AMIRA and Bastian. Next up: Macarena Club, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ marta aramini is a house and afro house artist based in United States of America
 
 Sauaro, AMIRA, Bastian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaramini/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaramini/)*

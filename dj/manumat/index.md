@@ -1,6 +1,6 @@
 # Manumat
 
-Manumat is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mad Radio Miami, Miami on Thu, 6 Aug 2026.
+Manumat is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mad Radio Miami, Miami on Thu, 6 Aug 2026.
 
 Manumat is a deep house and house artist based in Colombia, tracked on soundcheck, with 27 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Fiin, Afterclapp and Apache. Next up: Mad Radio Miami, Miami on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Manumat is a deep house and house artist based in Colombia, tracked on soundchec
 
 Fiin, Afterclapp, Apache
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manumat/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manumat/)*

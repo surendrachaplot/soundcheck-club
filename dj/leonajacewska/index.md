@@ -1,13 +1,14 @@
 # Leona Jacewska
 
-Leona Jacewska is a Italo Disco and EBM artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+Leona Jacewska is a Techno and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
-Leona Jacewska is an italo disco and ebm artist based in Poland, tracked on soundcheck, with 12 sets logged across Berlin, Frankfurt, Paris and Prague and 3 more. Often billed alongside Charlie, Franz Scala and Jimmie. Next up: Sonnenraum, Berlin on Sun 30 Aug.
+Leona Jacewska is a techno and italo disco artist based in Poland, tracked on soundcheck, with 13 sets logged across Berlin, Frankfurt, Paris and Prague and 3 more. Often billed alongside Charlie, Buchan and Franz Scala. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | K-Bar Powiśle | Warsaw |
 | Sun, 30 Aug 2026 | Sonnenraum | Berlin |
 | Fri, 18 Sept 2026 | La Station - Gare des Mines | Paris |
 | Fri, 9 Oct 2026 | OXI | Berlin |
@@ -25,6 +26,6 @@ Leona Jacewska is an italo disco and ebm artist based in Poland, tracked on soun
 
 ## Shares bills with
 
-Charlie, Franz Scala, Jimmie
+Charlie, Buchan, Franz Scala
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*

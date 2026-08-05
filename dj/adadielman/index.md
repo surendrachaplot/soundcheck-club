@@ -1,6 +1,6 @@
 # Ada Dielman
 
-Ada Dielman is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 27 Aug 2026.
+Ada Dielman is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 27 Aug 2026.
 
 Ada Dielman is a techno and ghetto tech artist based in Canada, tracked on soundcheck, with 21 sets logged across Copenhagen and Montreal. Often billed alongside Casa Kobrae, Katamina and AṢKIM. Next up: Jardins Gamelin, Montreal on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Ada Dielman is a techno and ghetto tech artist based in Canada, tracked on sound
 
 Casa Kobrae, Katamina, AṢKIM
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adadielman/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adadielman/)*

@@ -1,6 +1,6 @@
 # MARU (2)
 
-MARU (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circus Osaka, Osaka on Sat, 8 Aug 2026.
+MARU (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Circus Osaka, Osaka on Sat, 8 Aug 2026.
 
 MARU (2) is a techno and house artist based in Japan, tracked on soundcheck, with 24 sets logged across Osaka and Tokyo. Often billed alongside SEIJI (2), MiTSUYAS and Satoshi Otsuki. Next up: Circus Osaka, Osaka on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ MARU (2) is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 SEIJI (2), MiTSUYAS, Satoshi Otsuki
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-2/)*

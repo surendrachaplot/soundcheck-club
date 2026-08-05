@@ -1,14 +1,15 @@
 # Gui Machado
 
-Gui Machado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Outer Heaven, New York City on Fri, 7 Aug 2026.
+Gui Machado is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Outer Heaven, New York City on Fri, 7 Aug 2026.
 
-Gui Machado is a house and techno artist based in Brazil, tracked on soundcheck, with 45 sets logged across Miami and Newyorkcity. Often billed alongside Kiyoshi, Omer Mil and David Berrie. Next up: Outer Heaven, Newyorkcity on Fri 7 Aug.
+Gui Machado is a house and techno artist based in Brazil, tracked on soundcheck, with 46 sets logged across Miami and Newyorkcity. Often billed alongside Kiyoshi, Omer Mil and David Berrie. Next up: Outer Heaven, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Outer Heaven | New York City |
+| Fri, 21 Aug 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gui Machado is a house and techno artist based in Brazil, tracked on soundcheck,
 
 Kiyoshi, Omer Mil, David Berrie
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guimachado/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guimachado/)*

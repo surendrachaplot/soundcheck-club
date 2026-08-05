@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST" on Fri, 7 Aug 2026.
+Garage Noord is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST" on Fri, 7 Aug 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including 42nd Avenue, Akanbi, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming nig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

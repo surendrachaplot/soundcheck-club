@@ -1,6 +1,6 @@
 # Arrosa
 
-Arrosa is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Battersea Barge, London on Sun, 9 Aug 2026.
+Arrosa is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Battersea Barge, London on Sun, 9 Aug 2026.
 
 Arrosa is a techno and ebm artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Brighton, Budapest and Dublin and 3 more. Often billed alongside Ricardo Castro, Odilon's Grip and Claudia Kane. Next up: Battersea Barge, London on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Arrosa is a techno and ebm artist based in Germany, tracked on soundcheck, with 
 
 Ricardo Castro, Odilon's Grip, Claudia Kane
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*

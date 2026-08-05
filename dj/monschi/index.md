@@ -1,8 +1,8 @@
 # Monschi
 
-Monschi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Subway, Cologne on Fri, 21 Aug 2026.
+Monschi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Subway, Cologne on Fri, 21 Aug 2026.
 
-Monschi is a techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Cologne. Next up: Subway, Cologne on Fri 21 Aug.
+Monschi is a house and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Cologne. Next up: Subway, Cologne on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,4 +10,4 @@ Monschi is a techno and house artist based in Germany, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Subway | Cologne |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monschi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monschi/)*

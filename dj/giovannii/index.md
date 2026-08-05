@@ -1,6 +1,6 @@
 # Giovannii
 
-Giovannii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
+Giovannii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
 
 Giovannii is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Will Jack, Sevyn Love and Scruff Angel. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Giovannii is a techno and house artist based in United States of America, tracke
 
 Will Jack, Sevyn Love, Scruff Angel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*

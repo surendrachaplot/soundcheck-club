@@ -1,6 +1,6 @@
 # Parallx
 
-Parallx is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+Parallx is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 Parallx is a techno and industrial artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Parallx is a techno and industrial artist tracked on soundcheck, with 116 sets l
 
 Acierate, RIKHTER, Kim She
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*

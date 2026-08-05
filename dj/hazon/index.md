@@ -1,6 +1,6 @@
 # HAZÓN
 
-HAZÓN is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Floyd, Miami on Sun, 9 Aug 2026.
+HAZÓN is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Floyd, Miami on Sun, 9 Aug 2026.
 
 HAZÓN is a tech house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Miami. Often billed alongside Ale Acosta, Trippie Hippie (US) and Roll-e. Next up: Floyd, Miami on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ HAZÓN is a tech house and techno artist based in United States of America, trac
 
 Ale Acosta, Trippie Hippie (US), Roll-e
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hazon/)*

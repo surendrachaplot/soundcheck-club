@@ -1,6 +1,6 @@
 # Melly (1)
 
-Melly (1) is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
+Melly (1) is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
 
 Melly (1) is a house and footwork artist tracked on soundcheck, with 13 sets logged across Glasgow, London and Oslo. Often billed alongside AUDIO DUNE, warmluke and DJoe. Next up: Brixton Jamm, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Melly (1) is a house and footwork artist tracked on soundcheck, with 13 sets log
 
 AUDIO DUNE, warmluke, DJoe
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*

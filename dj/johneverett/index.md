@@ -1,6 +1,6 @@
 # John Everett
 
-John Everett is a House and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
+John Everett is a House and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
 
 John Everett is a house and rio funk artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Choukroun, Armii1n and Jack Mulqueen. Next up: Apollo Studio, Newyorkcity on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ John Everett is a house and rio funk artist tracked on soundcheck, with 7 sets l
 
 Choukroun, Armii1n, Jack Mulqueen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johneverett/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johneverett/)*

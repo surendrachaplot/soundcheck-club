@@ -1,6 +1,6 @@
 # MR TC
 
-MR TC is a Dub and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ikii, Berlin on Thu, 6 Aug 2026.
+MR TC is a Dub and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ikii, Berlin on Thu, 6 Aug 2026.
 
 MR TC is a dub and ambient artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Belgrade, Berlin, Glasgow and London and 3 more. Often billed alongside Lizzie Urquhart, Lo Kindre and Fergus Clark. Next up: Ikii, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MR TC is a dub and ambient artist based in United Kingdom, tracked on soundcheck
 
 Lizzie Urquhart, Lo Kindre, Fergus Clark
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrtc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrtc/)*

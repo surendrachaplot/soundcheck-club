@@ -1,6 +1,6 @@
 # Laurent Garnier
 
-Laurent Garnier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sparta Schwimmclub, Frankfurt on Fri, 7 Aug 2026.
+Laurent Garnier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sparta Schwimmclub, Frankfurt on Fri, 7 Aug 2026.
 
 Laurent Garnier is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 31 more. Often billed alongside Anetha, DJ Deep and DJ Gigola. Next up: Sparta Schwimmclub, Frankfurt on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Laurent Garnier is a house and techno artist tracked on soundcheck, with 99 sets
 
 Anetha, DJ Deep, DJ Gigola
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentgarnier/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentgarnier/)*

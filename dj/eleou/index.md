@@ -1,6 +1,6 @@
 # Eleou
 
-Eleou is a IDM and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
+Eleou is a IDM and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
 
 Eleou is an idm and downtempo artist based in United States of America, tracked on soundcheck, with 28 sets logged across Athens, Barcelona, Brussels and Miami and 3 more. Often billed alongside True Vine, Bort and Ostara. Next up: Buda BXL, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Eleou is an idm and downtempo artist based in United States of America, tracked 
 
 True Vine, Bort, Ostara
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*

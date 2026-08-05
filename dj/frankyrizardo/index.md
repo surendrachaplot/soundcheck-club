@@ -1,14 +1,13 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 4 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Hï Ibiza, Ibiza on Tue 4 Aug.
+Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 8 Aug 2026 | Palmerstown House Estate | Dublin |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
@@ -20,9 +19,11 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | Royale | Boston |
 | Sat, 3 Oct 2026 | Ushuaïa Ibiza | Ibiza |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 4 Aug 2026
 - Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 29 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
@@ -30,10 +31,9 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 
 - Badewiese Naglikon, Zurich — Sat, 18 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 14 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- Hï Ibiza, Ibiza — Tue, 7 Jul 2026
 
 ## Shares bills with
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

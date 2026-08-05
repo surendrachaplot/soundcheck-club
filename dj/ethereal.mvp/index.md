@@ -1,6 +1,6 @@
 # ethereal.mvp
 
-ethereal.mvp is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
+ethereal.mvp is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
 
 ethereal.mvp is a bass and club artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside kyxm, Pacha DJ and martine (5). Next up: Bossa Nova Civic Club, Newyorkcity on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ ethereal.mvp is a bass and club artist based in United States of America, tracke
 
 kyxm, Pacha DJ, martine (5)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethereal.mvp/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethereal.mvp/)*

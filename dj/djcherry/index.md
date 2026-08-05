@@ -1,6 +1,6 @@
 # Dj Cherry
 
-Dj Cherry is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza on Sun, 9 Aug 2026.
+Dj Cherry is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Dj Cherry is a techno and dembow artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona, Ibiza and Sanfrancisco. Often billed alongside Kleyver Reyes, 3Letters and DJ JUANNY. Next up: TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Dj Cherry is a techno and dembow artist based in Spain, tracked on soundcheck, w
 
 Kleyver Reyes, 3Letters, DJ JUANNY
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcherry/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcherry/)*

@@ -1,6 +1,6 @@
 # Antoniexx
 
-Antoniexx is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 30 Aug 2026.
+Antoniexx is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 30 Aug 2026.
 
 Antoniexx is a trance and techno artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Nanlaze, TORUKK and G'NK. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Antoniexx is a trance and techno artist tracked on soundcheck, with 9 sets logge
 
 Nanlaze, TORUKK, G'NK
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniexx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniexx/)*

@@ -1,6 +1,6 @@
 # Kepler B2B Job de Jong, Hidde van Wee & Kim April at XOYO
 
-Kepler B2B Job de Jong, Hidde van Wee & Kim April at XOYO on Sat 15 Aug, London. 4 acts on the bill: Hidde van Wee, Job de Jong, Kepler and Kim April. House and Tech House. Preview the line-up and save it on soundcheck.
+Kepler B2B Job de Jong, Hidde van Wee & Kim April at XOYO on Sat 15 Aug, London. 5 acts on the bill: Hidde van Wee, Job de Jong, KEMADA and Kepler and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Kepler B2B Job de Jong, Hidde van Wee & Kim April at XOYO on Sat 15 Aug, London.
 
 - Hidde van Wee
 - Job de Jong
+- KEMADA
 - Kepler
 - Kim April
 

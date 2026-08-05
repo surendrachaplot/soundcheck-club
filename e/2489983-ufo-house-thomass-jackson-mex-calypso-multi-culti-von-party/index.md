@@ -1,6 +1,6 @@
 # UFO HOUSE: Thomass Jackson [Mex, Calypso, Multi Culti], VON PARTY, Nosh, ORION at Space Garage at TBA
 
-UFO HOUSE: Thomass Jackson [Mex, Calypso, Multi Culti], VON PARTY, Nosh, ORION at Space Garage at TBA on Sat 8 Aug, Montreal. 3 acts on the bill: Nosh, Thomas Von Party and Thomass Jackson. Acid. Preview the line-up and save it on soundcheck.
+UFO HOUSE: Thomass Jackson [Mex, Calypso, Multi Culti], VON PARTY, Nosh, ORION at Space Garage at TBA on Sat 8 Aug, Montreal. 4 acts on the bill: Dj Sarcastic, Nosh, Thomas Von Party and Thomass Jackson. Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ UFO HOUSE: Thomass Jackson [Mex, Calypso, Multi Culti], VON PARTY, Nosh, ORION a
 
 ## Line-up
 
+- Dj Sarcastic
 - Nosh
 - Thomas Von Party
 - Thomass Jackson

@@ -1,6 +1,6 @@
 # Speaker Honey
 
-Speaker Honey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
+Speaker Honey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
 
 Speaker Honey is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Berlin and Denver and 7 more. Often billed alongside HEVI LEVI, BEC and Dave Seaman. Next up: DNA. CLUB - urban Space, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Speaker Honey is a techno and house artist based in United States of America, tr
 
 HEVI LEVI, BEC, Dave Seaman
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speakerhoney/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speakerhoney/)*

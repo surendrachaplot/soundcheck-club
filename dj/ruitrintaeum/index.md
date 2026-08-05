@@ -1,6 +1,6 @@
 # Rui Trintaeum
 
-Rui Trintaeum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
+Rui Trintaeum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
 
 Rui Trintaeum is a house and techno artist based in Portugal, tracked on soundcheck, with 44 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Let (3), João Azevedo and D-Compost. Next up: Lux Fragil, Lisbon on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Rui Trintaeum is a house and techno artist based in Portugal, tracked on soundch
 
 Let (3), João Azevedo, D-Compost
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitrintaeum/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitrintaeum/)*

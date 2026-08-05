@@ -1,6 +1,6 @@
 # Mike D
 
-Mike D is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Mike D is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Mike D is a house and minimal artist based in United States of America, tracked on soundcheck, with 4 sets logged across Bangkok, Mexicocity, Munich and Sanfrancisco. Often billed alongside 600-cell, ALISHA and ANAHITA. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Mike D is a house and minimal artist based in United States of America, tracked 
 
 600-cell, ALISHA, ANAHITA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miked/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miked/)*

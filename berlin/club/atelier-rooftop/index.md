@@ -1,6 +1,6 @@
 # Atelier Rooftop
 
-Atelier Rooftop is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "10AM CLUB" on Sat, 22 Aug 2026.
+Atelier Rooftop is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "10AM CLUB" on Sat, 22 Aug 2026.
 
 Atelier Rooftop is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Oranienstr.140 / Prinzenstr.84.1, 10969 Berlin.
 
@@ -15,4 +15,4 @@ Atelier Rooftop is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Oranienstr.140 / Prinzenstr.84.1, 10969 Berlin, Berlin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-rooftop/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-rooftop/)*

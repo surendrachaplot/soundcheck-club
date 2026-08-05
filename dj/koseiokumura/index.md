@@ -1,6 +1,6 @@
 # Kosei Okumura
 
-Kosei Okumura is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
+Kosei Okumura is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
 
 Kosei Okumura is a techno and industrial artist based in Japan, tracked on soundcheck, with 3 sets logged across Hongkong and Tokyo. Often billed alongside the2$, Connor and DJ Sodeyama. Next up: VENT, Tokyo on Mon 10 Aug.
 
@@ -19,4 +19,4 @@ Kosei Okumura is a techno and industrial artist based in Japan, tracked on sound
 
 the2$, Connor, DJ Sodeyama
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koseiokumura/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koseiokumura/)*

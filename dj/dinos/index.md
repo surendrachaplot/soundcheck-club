@@ -1,6 +1,6 @@
 # Dino S
 
-Dino S is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Void Club, Berlin on Fri, 7 Aug 2026.
+Dino S is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Void Club, Berlin on Fri, 7 Aug 2026.
 
 Dino S is a techno and drum & bass artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Upzet, IRAD and Ali Rajat. Next up: Void Club, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dino S is a techno and drum & bass artist tracked on soundcheck, with 19 sets lo
 
 Upzet, IRAD, Ali Rajat
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinos/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinos/)*

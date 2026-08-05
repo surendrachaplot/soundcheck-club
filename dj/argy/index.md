@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+Argy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 Argy is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Argy is a techno and house artist tracked on soundcheck, with 113 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

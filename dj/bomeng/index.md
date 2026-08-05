@@ -1,6 +1,6 @@
 # Bo Meng
 
-Bo Meng is a Pop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Bo Meng is a Pop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 Bo Meng is a pop and amapiano artist tracked on soundcheck, with 11 sets logged across Antwerp, Brussels and Paris. Often billed alongside Moonshine, San Farafina and &RY.. Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bo Meng is a pop and amapiano artist tracked on soundcheck, with 11 sets logged 
 
 Moonshine, San Farafina, &RY.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bomeng/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bomeng/)*

@@ -1,14 +1,15 @@
 # Maōh
 
-Maōh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KREUZWERK, Berlin on Sun, 16 Aug 2026.
+Maōh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at KREUZWERK, Berlin on Sun, 16 Aug 2026.
 
-Maōh is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Prague and Tbilisi. Often billed alongside Avant.OCS, 18:18 and APRS. Next up: KREUZWERK, Berlin on Sun 16 Aug.
+Maōh is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Prague and Tbilisi. Often billed alongside Avant.OCS, 18:18 and APRS. Next up: KREUZWERK, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | KREUZWERK | Berlin |
+| Fri, 28 Aug 2026 | Fuse | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Maōh is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Avant.OCS, 18:18, APRS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maoh/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maoh/)*

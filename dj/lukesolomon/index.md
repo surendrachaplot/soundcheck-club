@@ -1,6 +1,6 @@
 # Luke Solomon
 
-Luke Solomon is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Patterns, Brighton on Fri, 28 Aug 2026.
+Luke Solomon is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Patterns, Brighton on Fri, 28 Aug 2026.
 
 Luke Solomon is a house and disco artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Horse Meat Disco, The Shapeshifters and Honey Dijon. Next up: Patterns, Brighton on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Luke Solomon is a house and disco artist tracked on soundcheck, with 71 sets log
 
 Horse Meat Disco, The Shapeshifters, Honey Dijon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*

@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FLY Summertime - Afterparty - The Art School" on Sat, 8 Aug 2026.
+The Art School is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FLY Summertime - Afterparty - The Art School" on Sat, 8 Aug 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 8 upcoming nights, with line-ups including Bash Man, Bristol Luke, Divergence and Jurnalist and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -21,4 +21,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 8 upcoming nigh
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

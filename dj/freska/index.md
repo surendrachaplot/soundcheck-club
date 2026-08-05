@@ -1,6 +1,6 @@
 # Freska
 
-Freska is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sala Siroco, Madrid on Sat, 8 Aug 2026.
+Freska is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sala Siroco, Madrid on Sat, 8 Aug 2026.
 
 Freska is a trance and acid artist based in Russia, tracked on soundcheck, with 6 sets logged across Barcelona, London and Madrid. Often billed alongside Dj Yulya Yudenich, DJ Final Boss and ISORA. Next up: Sala Siroco, Madrid on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Freska is a trance and acid artist based in Russia, tracked on soundcheck, with 
 
 Dj Yulya Yudenich, DJ Final Boss, ISORA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freska/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freska/)*

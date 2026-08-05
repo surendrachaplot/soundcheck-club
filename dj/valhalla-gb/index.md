@@ -1,6 +1,6 @@
 # VALHALLA (GB)
 
-VALHALLA (GB) is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+VALHALLA (GB) is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 VALHALLA (GB) is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Aberdeen and Frankfurt. Often billed alongside Angerfist, Anime and Da Mouth of Madness. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ VALHALLA (GB) is a hardcore and trance artist based in United Kingdom, tracked o
 
 Angerfist, Anime, Da Mouth of Madness
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valhalla-gb/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valhalla-gb/)*

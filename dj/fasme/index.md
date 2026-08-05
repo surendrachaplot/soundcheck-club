@@ -1,6 +1,6 @@
 # Fasme
 
-Fasme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Fasme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Fasme is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Glasgow and Hamburg and 8 more. Often billed alongside Binary Digit, Mézigue and Airod. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Fasme is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 Binary Digit, Mézigue, Airod
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*

@@ -1,6 +1,6 @@
 # Haszari
 
-Haszari is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Thu, 13 Aug 2026.
+Haszari is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Thu, 13 Aug 2026.
 
 Haszari is an experimental and electronica artist tracked on soundcheck, with 3 sets logged across Auckland. Often billed alongside Misled Convoy. Next up: Whammy Bar/Double Whammy/Public Bar, Auckland on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ Haszari is an experimental and electronica artist tracked on soundcheck, with 3 
 
 Misled Convoy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haszari/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haszari/)*

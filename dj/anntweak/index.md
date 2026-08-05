@@ -1,13 +1,14 @@
 # Ann Tweak
 
-Ann Tweak is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 14 Aug 2026.
+Ann Tweak is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at West Port Oracle, Edinburgh on Fri, 7 Aug 2026.
 
-Ann Tweak is a disco and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Percy Main. Next up: People's Leisure Club, Edinburgh on Fri 14 Aug.
+Ann Tweak is a disco and house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Percy Main. Next up: West Port Oracle, Edinburgh on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | West Port Oracle | Edinburgh |
 | Fri, 14 Aug 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ann Tweak is a disco and house artist based in United Kingdom, tracked on soundc
 
 Jacuzzi General, Fierro Grande, Percy Main
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*

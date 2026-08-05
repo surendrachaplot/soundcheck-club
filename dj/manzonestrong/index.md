@@ -1,6 +1,6 @@
 # Manzone & Strong
 
-Manzone & Strong is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Wiggle Room, Toronto on Sun, 9 Aug 2026.
+Manzone & Strong is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Wiggle Room, Toronto on Sun, 9 Aug 2026.
 
 Manzone & Strong are a tech house and house duo tracked on soundcheck, with 180 sets logged across Toronto. Often billed alongside Tyler Hill, Barroness and Miz Megs. Next up: Wiggle Room, Toronto on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Manzone & Strong are a tech house and house duo tracked on soundcheck, with 180 
 
 Tyler Hill, Barroness, Miz Megs
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manzonestrong/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manzonestrong/)*

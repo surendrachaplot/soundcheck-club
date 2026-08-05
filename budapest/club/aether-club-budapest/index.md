@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "SOAKIN' GROOVE: Daniel Moritz, Rovizz, Sonic Rain, THIRD 2HIFT" on Fri, 7 Aug 2026.
+Aether Club Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "SOAKIN' GROOVE: Daniel Moritz, Rovizz, Sonic Rain, THIRD 2HIFT" on Fri, 7 Aug 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including 3en, ädene, Adis Is OK and AGA2L and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -19,4 +19,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 6 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

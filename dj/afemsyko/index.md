@@ -1,6 +1,6 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 7 Aug 2026.
+Afem Syko is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lehmann Club, Stuttgart on Fri, 7 Aug 2026.
 
 Afem Syko is a techno and trance artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Lehmann Club, Stuttgart on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Afem Syko is a techno and trance artist tracked on soundcheck, with 152 sets log
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

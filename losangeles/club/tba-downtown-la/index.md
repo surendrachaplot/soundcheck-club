@@ -1,8 +1,8 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Certified Groovers with Demuir, Juliet Mendoza & More…" on Sat, 8 Aug 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Certified Groovers with Demuir, Juliet Mendoza & More…" on Sat, 8 Aug 2026.
 
-TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Andrey Pushkarev, DVViD, Juliett and Taimur. Browse upcoming dates, start times and who's playing. To Be Announced - DTLA.
+TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Andrey Pushkarev, DVViD, Juliett and Kim Anh and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced - DTLA.
 
 ## What's on
 
@@ -10,9 +10,10 @@ TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 2 upcomin
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Certified Groovers with Demuir, Juliet Mendoza & More… | Juliett |
 | Sat, 15 Aug 2026 | MELT: Andrey Pushkarev, Taimur, Dvvid | Andrey Pushkarev, DVViD, Taimur |
+| Sat, 15 Aug 2026 | SMD OPEN AIR - Kim Anh & Physical Therapy | Kim Anh, Physical Therapy |
 
 ## Address
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

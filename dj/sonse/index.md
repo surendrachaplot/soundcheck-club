@@ -1,6 +1,6 @@
 # Sonse
 
-Sonse is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
+Sonse is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
 Sonse is a techno and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside DaSoMaZo, Milchgeld and Abimixx. Next up: Sensorium, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sonse is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 DaSoMaZo, Milchgeld, Abimixx
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonse/)*

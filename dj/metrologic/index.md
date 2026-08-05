@@ -1,6 +1,6 @@
 # metrologic
 
-metrologic is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 8 Aug 2026.
+metrologic is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 8 Aug 2026.
 
 metrologic is a techno and electro artist based in Greece, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Almeida Moura, MAL33T and MUSICKLUNATIC. Next up: Bar Silver Vinyl Lounge & The Vault, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ metrologic is a techno and electro artist based in Greece, tracked on soundcheck
 
 Almeida Moura, MAL33T, MUSICKLUNATIC
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metrologic/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metrologic/)*

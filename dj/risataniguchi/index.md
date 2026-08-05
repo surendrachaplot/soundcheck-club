@@ -1,6 +1,6 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Glazart, Paris on Sun, 9 Aug 2026.
+Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Glazart, Paris on Sun, 9 Aug 2026.
 
 Risa Taniguchi is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 11 more. Often billed alongside Drunken Kong, YURI VALEN and ALEXANDER M. Next up: Glazart, Paris on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Risa Taniguchi is a techno and house artist tracked on soundcheck, with 110 sets
 
 Drunken Kong, YURI VALEN, ALEXANDER M
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

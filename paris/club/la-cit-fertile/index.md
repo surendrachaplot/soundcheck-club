@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "BAILE INOLVIDABLE - Fiesta 100% latino Salseo con Perreo " on Thu, 6 Aug 2026.
+La Cité Fertile is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "BAILE INOLVIDABLE - Fiesta 100% latino Salseo con Perreo " on Thu, 6 Aug 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Abn - P2z, Cosmo (KR), Deep Tears On Clamart and Lawrence and 1 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -16,4 +16,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

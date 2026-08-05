@@ -1,6 +1,6 @@
 # SKYH1
 
-SKYH1 is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+SKYH1 is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 SKYH1 is an electronica and experimental artist tracked on soundcheck, with 2 sets logged across Brussels and Vienna. Often billed alongside Able Noise, Alpha Tracks and Amma Ateria. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ SKYH1 is an electronica and experimental artist tracked on soundcheck, with 2 se
 
 Able Noise, Alpha Tracks, Amma Ateria
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyh1-be/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyh1-be/)*

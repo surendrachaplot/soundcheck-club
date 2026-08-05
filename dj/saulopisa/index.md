@@ -1,13 +1,14 @@
 # Saulo Pisa
 
-Saulo Pisa is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Macarena Club, Barcelona on Wed, 19 Aug 2026.
+Saulo Pisa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 7 Aug 2026.
 
-Saulo Pisa is a techno and progressive house artist based in Spain, tracked on soundcheck, with 105 sets logged across Barcelona. Often billed alongside Keyblow, ONIVID and Miguel Silva. Next up: Macarena Club, Barcelona on Wed 19 Aug.
+Saulo Pisa is a techno and house artist based in Spain, tracked on soundcheck, with 106 sets logged across Barcelona. Often billed alongside Keyblow, ONIVID and Miguel Silva. Next up: Almar Beach Club, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Almar Beach Club | Barcelona |
 | Wed, 19 Aug 2026 | Macarena Club | Barcelona |
 | Fri, 21 Aug 2026 | TBA | Barcelona |
 
@@ -26,4 +27,4 @@ Saulo Pisa is a techno and progressive house artist based in Spain, tracked on s
 
 Keyblow, ONIVID, Miguel Silva
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saulopisa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saulopisa/)*

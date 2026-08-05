@@ -1,6 +1,6 @@
 # Joe Delon
 
-Joe Delon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Floyd, Miami on Fri, 7 Aug 2026.
+Joe Delon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Floyd, Miami on Fri, 7 Aug 2026.
 
 Joe Delon is a house and techno artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Berlin and Boston and 30 more. Often billed alongside Gwenan, Dana Kuehr and Nick Kagame. Next up: Floyd, Miami on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Joe Delon is a house and techno artist based in United Kingdom, tracked on sound
 
 Gwenan, Dana Kuehr, Nick Kagame
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*

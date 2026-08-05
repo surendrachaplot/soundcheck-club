@@ -1,6 +1,6 @@
 # Navid Navbox
 
-Navid Navbox is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
+Navid Navbox is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
 
 Navid Navbox is a house and techno artist based in Iran, tracked on soundcheck, with 34 sets logged across Austin, Detroit, Istanbul and Newyorkcity and 2 more. Often billed alongside Arianna Danae, KayLaSoul and Vivian Wang. Next up: Signal, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Navid Navbox is a house and techno artist based in Iran, tracked on soundcheck, 
 
 Arianna Danae, KayLaSoul, Vivian Wang
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navidnavbox/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navidnavbox/)*

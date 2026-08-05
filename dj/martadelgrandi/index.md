@@ -1,6 +1,6 @@
 # Marta Del Grandi
 
-Marta Del Grandi is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Marta Del Grandi is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Marta Del Grandi is an experimental and pop artist based in Italy, tracked on soundcheck, with 4 sets logged across Brussels, Dusseldorf, Milan and Rome. Often billed alongside Acid Arab, Andrewww and Anushka Chkheidze. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -20,4 +20,4 @@ Marta Del Grandi is an experimental and pop artist based in Italy, tracked on so
 
 Acid Arab, Andrewww, Anushka Chkheidze
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martadelgrandi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martadelgrandi/)*

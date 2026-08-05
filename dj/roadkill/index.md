@@ -1,6 +1,6 @@
 # roadkill
 
-roadkill is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Péniche Éliane, Brussels on Fri, 7 Aug 2026.
+roadkill is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Péniche Éliane, Brussels on Fri, 7 Aug 2026.
 
 roadkill is a techno artist based in Belgium, tracked on soundcheck, with 1 set logged across Brussels. Often billed alongside 24x33, DJ Frog and DJ Spence. Next up: Péniche Éliane, Brussels on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ roadkill is a techno artist based in Belgium, tracked on soundcheck, with 1 set 
 
 24x33, DJ Frog, DJ Spence
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roadkill/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roadkill/)*

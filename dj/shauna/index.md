@@ -1,6 +1,6 @@
 # Shauna
 
-Shauna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
+Shauna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
 
 Shauna is a house and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside Luna Thee Frenchie, Ben Daddy and MYOHMY. Next up: Quarry, Liverpool on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Shauna is a house and techno artist based in United Kingdom, tracked on soundche
 
 Luna Thee Frenchie, Ben Daddy, MYOHMY
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shauna/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shauna/)*

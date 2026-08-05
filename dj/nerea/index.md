@@ -1,6 +1,6 @@
 # Ne/Re/A
 
-Ne/Re/A is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Paragon, New York City on Sat, 15 Aug 2026.
+Ne/Re/A is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paragon, New York City on Sat, 15 Aug 2026.
 
 Ne/Re/A is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Boston and 6 more. Often billed alongside Clarisa Kimskii, Juana and Auspex. Next up: Paragon, Newyorkcity on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Ne/Re/A is a techno and house artist tracked on soundcheck, with 90 sets logged 
 
 Clarisa Kimskii, Juana, Auspex
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*

@@ -1,13 +1,14 @@
 # Hector Moreno
 
-Hector Moreno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club Baggerbeest, Amsterdam on Sun, 25 Oct 2026.
+Hector Moreno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Marina Café (Allianz Cinéma Genève), Geneva on Fri, 14 Aug 2026.
 
-Hector Moreno is a techno and house artist based in Switzerland, tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Berlin and Geneva and 3 more. Often billed alongside Fernando De Matos, SamC and Master M. Next up: Club Baggerbeest, Amsterdam on Sun 25 Oct.
+Hector Moreno is a techno and house artist based in Switzerland, tracked on soundcheck, with 61 sets logged across Amsterdam, Bali, Berlin and Geneva and 3 more. Often billed alongside Fernando De Matos, SamC and Master M. Next up: TBA - Marina Café (Allianz Cinéma Genève), Geneva on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | TBA - Marina Café (Allianz Cinéma Genève) | Geneva |
 | Sun, 25 Oct 2026 | Club Baggerbeest | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hector Moreno is a techno and house artist based in Switzerland, tracked on soun
 
 Fernando De Matos, SamC, Master M
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*

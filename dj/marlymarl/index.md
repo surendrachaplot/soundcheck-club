@@ -1,6 +1,6 @@
 # Marly Marl
 
-Marly Marl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Basing House, London on Sat, 8 Aug 2026.
+Marly Marl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Basing House, London on Sat, 8 Aug 2026.
 
 Marly Marl is a drum & bass and jungle artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Kenny Ken, Nicky Blackmarket and Bryan Gee. Next up: Basing House, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Marly Marl is a drum & bass and jungle artist tracked on soundcheck, with 13 set
 
 Kenny Ken, Nicky Blackmarket, Bryan Gee
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*

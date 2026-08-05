@@ -1,6 +1,6 @@
 # Preller
 
-Preller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Goldener Reiter, Munich on Sat, 15 Aug 2026.
+Preller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Goldener Reiter, Munich on Sat, 15 Aug 2026.
 
 Preller is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin, Leipzig and Munich. Often billed alongside Mikey Gee, Morz Des Soundsystem and André Dancekowski. Next up: Goldener Reiter, Munich on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Preller is a house and techno artist tracked on soundcheck, with 6 sets logged a
 
 Mikey Gee, Morz Des Soundsystem, André Dancekowski
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preller/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preller/)*

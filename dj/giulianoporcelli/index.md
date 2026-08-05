@@ -1,6 +1,6 @@
 # Giuliano Porcelli
 
-Giuliano Porcelli is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Rock Bar Ibiza, Ibiza on Wed, 5 Aug 2026.
+Giuliano Porcelli is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Rock Bar Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Giuliano Porcelli is a tech house and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Geneva, Ibiza and Milan and 1 more. Often billed alongside Destro (2) and Alex Sharp. Next up: The Rock Bar Ibiza, Ibiza on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Giuliano Porcelli is a tech house and techno artist tracked on soundcheck, with 
 
 Destro (2), Alex Sharp
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianoporcelli/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianoporcelli/)*

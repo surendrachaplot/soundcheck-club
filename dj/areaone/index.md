@@ -1,6 +1,6 @@
 # AREA ØNE
 
-AREA ØNE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+AREA ØNE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 AREA ØNE is a techno and trance artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 18 more. Often billed alongside Niotech, HANÀ and THISO. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AREA ØNE is a techno and trance artist tracked on soundcheck, with 50 sets logg
 
 Niotech, HANÀ, THISO
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*

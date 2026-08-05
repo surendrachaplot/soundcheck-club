@@ -1,6 +1,6 @@
 # USLSS
 
-USLSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 14 Aug 2026.
+USLSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Karmen Camina, Strasbourg on Fri, 14 Aug 2026.
 
 USLSS is a techno and trance artist based in France, tracked on soundcheck, with 12 sets logged across Brussels, Lyon, Paris and Strasbourg. Often billed alongside AMAYO, Karenine and Bérou. Next up: Karmen Camina, Strasbourg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ USLSS is a techno and trance artist based in France, tracked on soundcheck, with
 
 AMAYO, Karenine, Bérou
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uslss/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uslss/)*

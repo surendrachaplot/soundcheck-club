@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 6 Aug 2026.
+Phillippe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 6 Aug 2026.
 
 Phillippe is a house and techno artist tracked on soundcheck, with 71 sets logged across Mexicocity, Montreal, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jaw Jones and Jeremy Glenn. Next up: Village au Pied-du-Courant, Montreal on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Phillippe is a house and techno artist tracked on soundcheck, with 71 sets logge
 
 Karim Olen Ash, Jaw Jones, Jeremy Glenn
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

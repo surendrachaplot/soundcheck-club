@@ -1,6 +1,6 @@
 # LA BITCHENCIO
 
-LA BITCHENCIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
+LA BITCHENCIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
 
 LA BITCHENCIO is a house and techno artist based in Chile, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Anne-Sophie Selig, DJ Paradox and Der olle Kramer. Next up: PETER'S, Berlin on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ LA BITCHENCIO is a house and techno artist based in Chile, tracked on soundcheck
 
 Anne-Sophie Selig, DJ Paradox, Der olle Kramer
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labitchencio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labitchencio/)*

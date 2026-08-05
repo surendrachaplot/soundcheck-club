@@ -1,6 +1,6 @@
 # SUSØ
 
-SUSØ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
+SUSØ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
 
 SUSØ is a house and techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Eze k, Fat-P and Giuliano. Next up: La Terrrazza, Barcelona on Thu 6 Aug.
 
@@ -20,4 +20,4 @@ SUSØ is a house and techno artist based in Spain, tracked on soundcheck, with 4
 
 Eze k, Fat-P, Giuliano
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*

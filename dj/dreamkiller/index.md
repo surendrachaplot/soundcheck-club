@@ -1,13 +1,14 @@
 # DreamKiller
 
-DreamKiller is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Delirium, New York City on Sat, 15 Aug 2026.
+DreamKiller is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Standard Time, Toronto on Fri, 14 Aug 2026.
 
-DreamKiller is a house and experimental artist tracked on soundcheck, with 3 sets logged across London, Newyorkcity and Singapore. Often billed alongside Impact Driver, Loui (4) and Swan Meat. Next up: Delirium, Newyorkcity on Sat 15 Aug.
+DreamKiller is a house and experimental artist tracked on soundcheck, with 4 sets logged across London, Newyorkcity, Singapore and Toronto. Often billed alongside Behne, Impact Driver and KILL 9 1. Next up: Standard Time, Toronto on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Standard Time | Toronto |
 | Sat, 15 Aug 2026 | Delirium | New York City |
 
 ## Recently played
@@ -17,6 +18,6 @@ DreamKiller is a house and experimental artist tracked on soundcheck, with 3 set
 
 ## Shares bills with
 
-Impact Driver, Loui (4), Swan Meat
+Behne, Impact Driver, KILL 9 1
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamkiller/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamkiller/)*

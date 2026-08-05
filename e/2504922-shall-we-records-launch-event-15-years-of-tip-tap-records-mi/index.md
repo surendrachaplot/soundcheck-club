@@ -1,0 +1,16 @@
+# SHALL WE RECORDS? LAUNCH EVENT + 15 YEARS OF TIP TAP RECORDS - MINIMAL -TECHNO - ELECTRO at TBA
+
+SHALL WE RECORDS? LAUNCH EVENT + 15 YEARS OF TIP TAP RECORDS - MINIMAL -TECHNO - ELECTRO at TBA on Sat 15 Aug, London. 2 acts on the bill: Medu and Shallum. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 15 Aug 2026 |
+| Venue | TBA |
+| City | London |
+
+## Line-up
+
+- Medu
+- Shallum
+
+*Source: [soundcheck](https://soundcheck.club/e/2504922-shall-we-records-launch-event-15-years-of-tip-tap-records-mi/)*

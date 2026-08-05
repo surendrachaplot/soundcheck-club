@@ -1,13 +1,14 @@
 # OTDELTA
 
-OTDELTA is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
+OTDELTA is a UK Funky and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jumbi, London on Sun, 9 Aug 2026.
 
-OTDELTA is an uk funky and baile funk artist tracked on soundcheck, with 17 sets logged across London and Manchester. Often billed alongside Ìyáàlù, CXLI and Bushbby. Next up: The Carpet Shop, London on Fri 28 Aug.
+OTDELTA is an uk funky and baile funk artist tracked on soundcheck, with 18 sets logged across London and Manchester. Often billed alongside CXLI, Ìyáàlù and AUKA. Next up: Jumbi, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Jumbi | London |
 | Fri, 28 Aug 2026 | The Carpet Shop | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ OTDELTA is an uk funky and baile funk artist tracked on soundcheck, with 17 sets
 
 ## Shares bills with
 
-Ìyáàlù, CXLI, Bushbby
+CXLI, Ìyáàlù, AUKA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otdelta/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otdelta/)*

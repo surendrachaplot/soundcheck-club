@@ -1,6 +1,6 @@
 # coolsurf
 
-coolsurf is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
+coolsurf is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The V, Osaka on Wed, 5 Aug 2026.
 
 coolsurf is a house and disco artist tracked on soundcheck, with 39 sets logged across Kyoto and Osaka. Often billed alongside FUMiC, RICHKID and DMITRI ABSINTHE. Next up: The V, Osaka on Wed 5 Aug.
 
@@ -28,4 +28,4 @@ coolsurf is a house and disco artist tracked on soundcheck, with 39 sets logged 
 
 FUMiC, RICHKID, DMITRI ABSINTHE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coolsurf/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coolsurf/)*

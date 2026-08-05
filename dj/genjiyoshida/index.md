@@ -1,6 +1,6 @@
 # Genji Yoshida
 
-Genji Yoshida is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
+Genji Yoshida is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
 
 Genji Yoshida is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Munich. Often billed alongside Coss, David Benjamin and julës jay. Next up: Lieberscholli, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Genji Yoshida is a house and techno artist based in Germany, tracked on soundche
 
 Coss, David Benjamin, julës jay
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genjiyoshida/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genjiyoshida/)*

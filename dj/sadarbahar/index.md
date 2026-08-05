@@ -1,6 +1,6 @@
 # Sadar Bahar
 
-Sadar Bahar is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Ramova Loft, Chicago on Sat, 8 Aug 2026.
+Sadar Bahar is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ramova Loft, Chicago on Sat, 8 Aug 2026.
 
 Sadar Bahar is a disco and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Auckland and Bali and 15 more. Often billed alongside Kamma, DJ Spen and Masalo. Next up: Ramova Loft, Chicago on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Sadar Bahar is a disco and house artist tracked on soundcheck, with 60 sets logg
 
 Kamma, DJ Spen, Masalo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadarbahar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadarbahar/)*

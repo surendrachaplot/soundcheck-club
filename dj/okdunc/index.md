@@ -1,6 +1,6 @@
 # okDUNC
 
-okDUNC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Honey's, New York City on Fri, 7 Aug 2026.
+okDUNC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Honey's, New York City on Fri, 7 Aug 2026.
 
 okDUNC is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Newyorkcity. Often billed alongside S A M I, tyben and sixsix. Next up: Honey's, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ okDUNC is a house and techno artist based in United States of America, tracked o
 
 S A M I, tyben, sixsix
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okdunc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okdunc/)*

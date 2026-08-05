@@ -1,6 +1,6 @@
 # Nyna Curtis
 
-Nyna Curtis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
+Nyna Curtis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
 
 Nyna Curtis is a house and disco artist based in France, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Kisling, Alan Fitzpatrick and Andre Zimmer. Next up: OXI, Berlin on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Nyna Curtis is a house and disco artist based in France, tracked on soundcheck, 
 
 Kisling, Alan Fitzpatrick, Andre Zimmer
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nynacurtis/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nynacurtis/)*

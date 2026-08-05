@@ -1,10 +1,10 @@
 # PLISSKËN presents Jeff Mills' TOMORROW COMES THE HARVEST at Vrachon Theater
 
-PLISSKËN presents Jeff Mills' TOMORROW COMES THE HARVEST at Vrachon Theater on Thu 24 Sept, Athens. 2 acts on the bill: Jeff Mills and Max Cooper. Techno and Jazz. Preview the line-up and save it on soundcheck.
+PLISSKËN presents Jeff Mills' TOMORROW COMES THE HARVEST at Vrachon Theater on Sun 20 Sept, Athens. 2 acts on the bill: Jeff Mills and Max Cooper. Techno and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 24 Sept 2026 |
+| Date | Sun, 20 Sept 2026 |
 | Venue | Vrachon Theater |
 | City | Athens |
 

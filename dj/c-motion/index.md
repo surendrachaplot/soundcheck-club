@@ -1,6 +1,6 @@
 # C-Motion
 
-C-Motion is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Czech Boat, Prague on Sat, 8 Aug 2026.
+C-Motion is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Czech Boat, Prague on Sat, 8 Aug 2026.
 
 C-Motion is a garage and breakbeat artist based in Czech Republic, tracked on soundcheck, with 29 sets logged across Belgrade, Budapest, Prague and Tbilisi. Often billed alongside tg_paul, Big Lil and Opi (CZ). Next up: Czech Boat, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ C-Motion is a garage and breakbeat artist based in Czech Republic, tracked on so
 
 tg_paul, Big Lil, Opi (CZ)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c-motion/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c-motion/)*

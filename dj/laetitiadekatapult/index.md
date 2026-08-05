@@ -1,13 +1,14 @@
 # Laetitia Katapult
 
-Laetitia Katapult is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
+Laetitia Katapult is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Citadelle de Marseille, Marseille on Sat, 22 Aug 2026.
 
-Laetitia Katapult is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin and Paris. Often billed alongside Baby Vulture, Deadbeat and François Halard. Next up: Club der Visionaere, Berlin on Sun 23 Aug.
+Laetitia Katapult is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin, Marseille and Paris. Often billed alongside Baby Vulture, Charonne and Deadbeat. Next up: Citadelle de Marseille, Marseille on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Citadelle de Marseille | Marseille |
 | Sun, 23 Aug 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
@@ -18,6 +19,6 @@ Laetitia Katapult is a house and techno artist tracked on soundcheck, with 4 set
 
 ## Shares bills with
 
-Baby Vulture, Deadbeat, François Halard
+Baby Vulture, Charonne, Deadbeat
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laetitiadekatapult/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laetitiadekatapult/)*

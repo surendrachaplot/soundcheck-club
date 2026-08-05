@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky " on Sat, 8 Aug 2026.
+Hidden is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky " on Sat, 8 Aug 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including Charlie Shell, Chimpo, Christian AB and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 16 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Chimpo and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 12 upcoming nights, 
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

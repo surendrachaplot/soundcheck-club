@@ -1,6 +1,6 @@
 # Yves Taubert
 
-Yves Taubert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Eschschloraque, Berlin on Fri, 7 Aug 2026.
+Yves Taubert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Eschschloraque, Berlin on Fri, 7 Aug 2026.
 
 Yves Taubert is a techno and house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Mia Bergmann, Tornadotoni and patte. Next up: Eschschloraque, Berlin on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Yves Taubert is a techno and house artist tracked on soundcheck, with 5 sets log
 
 Mia Bergmann, Tornadotoni, patte
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yvestaubert/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yvestaubert/)*

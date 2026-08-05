@@ -1,14 +1,15 @@
 # Syntax (2)
 
-Syntax (2) is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The White Hotel, Manchester on Fri, 7 Aug 2026.
+Syntax (2) is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The White Hotel, Manchester on Fri, 7 Aug 2026.
 
-Syntax (2) is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: The White Hotel, Manchester on Fri 7 Aug.
+Syntax (2) is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: The White Hotel, Manchester on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The White Hotel | Manchester |
+| Sat, 17 Oct 2026 | Hidden | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Syntax (2) is a jungle and bass artist based in United Kingdom, tracked on sound
 
 Hanz, Samurai Breaks, Mandidextrous
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*

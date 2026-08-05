@@ -1,6 +1,6 @@
 # kens:k
 
-kens:k is a Drum & Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at WOMB, Tokyo on Wed, 19 Aug 2026.
+kens:k is a Drum & Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at WOMB, Tokyo on Wed, 19 Aug 2026.
 
 kens:k is a drum & bass and hardcore artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Relect, DJ AKi and KEiTA. Next up: WOMB, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ kens:k is a drum & bass and hardcore artist based in Japan, tracked on soundchec
 
 Relect, DJ AKi, KEiTA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kensk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kensk/)*

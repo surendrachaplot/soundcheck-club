@@ -1,6 +1,6 @@
 # Mother Dubber
 
-Mother Dubber is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc du Conservatoire - Nyon, Geneva on Fri, 7 Aug 2026.
+Mother Dubber is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Parc du Conservatoire - Nyon, Geneva on Fri, 7 Aug 2026.
 
 Mother Dubber is a dub and dancehall artist tracked on soundcheck, with 9 sets logged across Geneva and Zurich. Often billed alongside Blaise Deville, O.B.F and Bony Fly. Next up: Parc du Conservatoire - Nyon, Geneva on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Mother Dubber is a dub and dancehall artist tracked on soundcheck, with 9 sets l
 
 Blaise Deville, O.B.F, Bony Fly
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherdubber/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherdubber/)*

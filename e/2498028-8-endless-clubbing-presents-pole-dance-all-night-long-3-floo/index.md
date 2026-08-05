@@ -1,11 +1,26 @@
 # [8] / ENDLESS CLUBBING presents POLE DANCE ALL NIGHT LONG [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin
 
-[8] / ENDLESS CLUBBING presents POLE DANCE ALL NIGHT LONG [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin on Fri 7 Aug, Berlin. Club and R&B. Preview the line-up and save it on soundcheck.
+[8] / ENDLESS CLUBBING presents POLE DANCE ALL NIGHT LONG [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin on Fri 7 Aug, Berlin. 12 acts on the bill: Anthracene, auto_timer, benzii and Locre and 8 more. Club and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 7 Aug 2026 |
 | Venue | TBA - Warschauer Pl. 18, 10245 Berlin |
 | City | Berlin |
+
+## Line-up
+
+- Anthracene
+- auto_timer
+- benzii
+- Locre
+- MAQ 22
+- Nyennea
+- Palmistry
+- Porschelane
+- Sugar Barbie
+- Swoopy
+- Vitamin B
+- Warlord®
 
 *Source: [soundcheck](https://soundcheck.club/e/2498028-8-endless-clubbing-presents-pole-dance-all-night-long-3-floo/)*

@@ -1,6 +1,6 @@
 # SuperUser
 
-SuperUser is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
+SuperUser is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
 
 SuperUser is a techno and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Bangkok, Osaka, Tokyo and Valencia. Often billed alongside DJ Dante, uuu7 and Drinkss. Next up: Camelot, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ SuperUser is a techno and house artist based in United Kingdom, tracked on sound
 
 DJ Dante, uuu7, Drinkss
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superuser/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superuser/)*

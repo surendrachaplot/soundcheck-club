@@ -1,8 +1,8 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
+VIVI909 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
 
-VIVI909 is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside B.R.K.Ø., CAIVA and DJ LP (NL). Next up: Lokschuppen Berlin, Berlin on Wed 5 Aug.
+VIVI909 is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Hamburg. Often billed alongside B.R.K.Ø., CAIVA and DJ LP (NL). Next up: Lokschuppen Berlin, Berlin on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ VIVI909 is a techno and trance artist tracked on soundcheck, with 9 sets logged 
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 7 Aug 2026 | M01 | Berlin |
+| Fri, 14 Aug 2026 | Garagen | Cologne |
 | Sat, 15 Aug 2026 | Edelfettwerk | Hamburg |
+| Sat, 3 Oct 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ VIVI909 is a techno and trance artist tracked on soundcheck, with 9 sets logged 
 
 B.R.K.Ø., CAIVA, DJ LP (NL)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

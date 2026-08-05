@@ -1,6 +1,6 @@
 # EMILIJA
 
-EMILIJA is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
+EMILIJA is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
 
 EMILIJA is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Südbrücke, Cologne on Sat 15 Aug.
 
@@ -36,4 +36,4 @@ EMILIJA is a techno and trance artist tracked on soundcheck, with 137 sets logge
 
 Fenrick, Helena Lauwaert, Odymel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*

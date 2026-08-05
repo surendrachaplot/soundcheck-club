@@ -1,13 +1,14 @@
 # PAUNA
 
-PAUNA is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
+PAUNA is a Techno and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
 
-PAUNA is a techno and minimal artist tracked on soundcheck, with 37 sets logged across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: Tresor / Globus, Berlin on Wed 12 Aug.
+PAUNA is a techno and minimal artist tracked on soundcheck, with 38 sets logged across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: Praterbrücke, Vienna on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Praterbrücke | Vienna |
 | Wed, 12 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 21 Aug 2026 | Seedcamp, Kautzen | Vienna |
 
@@ -26,4 +27,4 @@ PAUNA is a techno and minimal artist tracked on soundcheck, with 37 sets logged 
 
 NUNØ, KRETA, Kay Barton
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*

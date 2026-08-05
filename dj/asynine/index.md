@@ -1,6 +1,6 @@
 # Asynine
 
-Asynine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Solace, Melbourne on Fri, 21 Aug 2026.
+Asynine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Fri, 21 Aug 2026.
 
 Asynine is a techno and house artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside syrup-E, Acid Safari and Aidan Rudd. Next up: Solace, Melbourne on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Asynine is a techno and house artist based in Australia, tracked on soundcheck, 
 
 syrup-E, Acid Safari, Aidan Rudd
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asynine/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asynine/)*

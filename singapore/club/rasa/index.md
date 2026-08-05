@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "RASA presents Perc (UK)" on Fri, 7 Aug 2026.
+RASA is a music venue in Singapore with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RASA presents Perc (UK)" on Fri, 7 Aug 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 6 upcoming nights, with line-ups including Andre Marc, Halis, Henning Baer and Ken Ishii and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ RASA is a music venue in Singapore listed on soundcheck. 6 upcoming nights, with
 | Sat, 15 Aug 2026 | RASA presents Tommy Four Seven (UK) | Tommy Four Seven |
 | Sat, 22 Aug 2026 | GrooveTop x Twelve Degree present FUDGE feat. Mera Bhai | Mera Bhai, RAAJ, TASHASAN, XAETHERX |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

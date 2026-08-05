@@ -1,6 +1,6 @@
 # Ted Coyle
 
-Ted Coyle is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
+Ted Coyle is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
 
 Ted Coyle is a house and disco artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Leeds. Often billed alongside Roya Brehl, Ellis Weeks and Phil Warner. Next up: The Chapter Hall, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ted Coyle is a house and disco artist based in United Kingdom, tracked on soundc
 
 Roya Brehl, Ellis Weeks, Phil Warner
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tedcoyle/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tedcoyle/)*

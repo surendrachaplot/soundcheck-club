@@ -1,6 +1,6 @@
 # Macka
 
-Macka is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 6 Aug 2026.
+Macka is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 6 Aug 2026.
 
 Macka is a house and disco artist tracked on soundcheck, with 49 sets logged across Budapest, Edinburgh, Glasgow and London and 1 more. Often billed alongside Lowree, Josh Buchanan and Robbie. Next up: People's Leisure Club, Edinburgh on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Macka is a house and disco artist tracked on soundcheck, with 49 sets logged acr
 
 Lowree, Josh Buchanan, Robbie
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*

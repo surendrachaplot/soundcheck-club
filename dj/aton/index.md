@@ -1,6 +1,6 @@
 # Aton
 
-Aton is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
+Aton is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
 
 Aton is a techno and electronica artist based in Italy, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, London and Malaga and 3 more. Often billed alongside Basse Frequenze Soundsystem, Francesco Salvadori and Mattia Lumee. Next up: OHM, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Aton is a techno and electronica artist based in Italy, tracked on soundcheck, w
 
 Basse Frequenze Soundsystem, Francesco Salvadori, Mattia Lumee
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*

@@ -1,6 +1,6 @@
 # Rosie (UK)
 
-Rosie (UK) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Wed, 26 Aug 2026.
+Rosie (UK) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sensorium, Berlin on Wed, 26 Aug 2026.
 
 Rosie (UK) is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin, Leeds and Manchester. Often billed alongside Connor (UK), Deventi and Egui. Next up: Sensorium, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Rosie (UK) is a techno and tech house artist based in United Kingdom, tracked on
 
 Connor (UK), Deventi, Egui
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosie-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosie-uk/)*

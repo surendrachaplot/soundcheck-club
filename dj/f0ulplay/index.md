@@ -1,6 +1,6 @@
 # F0ulplay
 
-F0ulplay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tokyo Sing Song, Sydney on Sat, 15 Aug 2026.
+F0ulplay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tokyo Sing Song, Sydney on Sat, 15 Aug 2026.
 
 F0ulplay is a techno and trance artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Ari Kiko, Arsonist and Billy Dublewicz. Next up: Tokyo Sing Song, Sydney on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ F0ulplay is a techno and trance artist based in Australia, tracked on soundcheck
 
 Ari Kiko, Arsonist, Billy Dublewicz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f0ulplay/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f0ulplay/)*

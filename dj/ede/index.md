@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hive Club, Zurich on Thu, 6 Aug 2026.
+Ede is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hive Club, Zurich on Thu, 6 Aug 2026.
 
 Ede is a techno and house artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Hive Club, Zurich on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Ede is a techno and house artist based in Germany, tracked on soundcheck, with 8
 
 Skatman, julës jay, JAMIIE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

@@ -1,6 +1,6 @@
 # Mikolai
 
-Mikolai is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Mikolai is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
 Mikolai is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Barcelona, Lisbon and Mykonos. Often billed alongside Ben Vedren, Luisa and impropper. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Mikolai is a deep house and house artist based in United Kingdom, tracked on sou
 
 Ben Vedren, Luisa, impropper
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikolai/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikolai/)*

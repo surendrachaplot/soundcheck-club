@@ -1,6 +1,6 @@
 # DANILO BRACA
 
-DANILO BRACA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Le Bain, New York City on Fri, 14 Aug 2026.
+DANILO BRACA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Le Bain, New York City on Fri, 14 Aug 2026.
 
 DANILO BRACA is a house and disco artist based in Italy, tracked on soundcheck, with 36 sets logged across Ibiza, Miami and Newyorkcity. Often billed alongside Discolypso Crew, Natasha Kitty Katt and Acid Mama. Next up: Le Bain, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DANILO BRACA is a house and disco artist based in Italy, tracked on soundcheck, 
 
 Discolypso Crew, Natasha Kitty Katt, Acid Mama
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/DANILO BRACA/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/DANILO BRACA/)*

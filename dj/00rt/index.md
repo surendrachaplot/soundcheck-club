@@ -1,13 +1,14 @@
 # 00rt
 
-00rt is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+00rt is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
 
-00rt is a techno and acid artist tracked on soundcheck, with 42 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Ancient Methods, Unhuman and Frequency Shifter. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
+00rt is a techno and acid artist tracked on soundcheck, with 43 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Ancient Methods, Unhuman and Frequency Shifter. Next up: KHIDI, Tbilisi on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | KHIDI | Tbilisi |
 | Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Sept 2026 | Mia Mao | Paris |
 
@@ -26,4 +27,4 @@
 
 Ancient Methods, Unhuman, Frequency Shifter
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*

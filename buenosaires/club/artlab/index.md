@@ -1,6 +1,6 @@
 # Artlab
 
-Artlab is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Living Analogica Club Edition pres. Patrice Scott, Lepablot, Diego Perrisson" on Sat, 15 Aug 2026.
+Artlab is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Living Analogica Club Edition pres. Patrice Scott, Lepablot, Diego Perrisson" on Sat, 15 Aug 2026.
 
 Artlab is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Lepablot and Patrice Scott. Browse upcoming dates, start times and who's playing. Roseti 93.
 
@@ -14,4 +14,4 @@ Artlab is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, w
 
 Roseti 93, Buenos Aires
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/artlab/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/artlab/)*

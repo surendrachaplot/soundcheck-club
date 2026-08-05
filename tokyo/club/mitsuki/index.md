@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "ORDER DISORDER" on Tue, 4 Aug 2026.
+Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Luminous" on Wed, 5 Aug 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 7e, Connor, DJ Garth and In Ray and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -8,7 +8,6 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | ORDER DISORDER | Ryunosuke Urabe, YUKIMASA |
 | Wed, 5 Aug 2026 | Luminous | 7e |
 | Thu, 6 Aug 2026 | InRay/SonnySun/Pico/teppei | In Ray, Sonny Sun, teppei |
 | Fri, 7 Aug 2026 | Dependance | Ryosuke, Sakuma |
@@ -18,9 +17,10 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with
 | Thu, 13 Aug 2026 | PADRE | Sakuma, Shhhhh |
 | Fri, 14 Aug 2026 | ALIEN SEX FRIENDS | Michelle, P-YAN, RYOKEI |
 | Fri, 14 Aug 2026 | ALIEN SEX FRIENDS エイリアン・セックス・フレンズ | Michelle, P-YAN, RYOKEI |
+| Tue, 18 Aug 2026 | destiny | Karuta |
 
 ## Address
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

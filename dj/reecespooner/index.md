@@ -1,6 +1,6 @@
 # Reece Spooner
 
-Reece Spooner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
+Reece Spooner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
 
 Reece Spooner is a house and techno artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Brighton, Bristol and Brussels and 4 more. Often billed alongside Peach, Job Jobse and Josh Caffé. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Reece Spooner is a house and techno artist based in United Kingdom, tracked on s
 
 Peach, Job Jobse, Josh Caffé
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reecespooner/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reecespooner/)*

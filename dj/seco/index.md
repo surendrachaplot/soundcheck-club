@@ -1,8 +1,8 @@
 # SECO)))
 
-SECO))) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
+SECO))) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
-SECO))) is a techno and industrial artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Alby Maz, Colaps and Haste. Next up: Square Studio Lab, London on Sat 15 Aug.
+SECO))) is a techno and industrial artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Alby Maz, Colaps and ENFY. Next up: Square Studio Lab, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ SECO))) is a techno and industrial artist tracked on soundcheck, with 4 sets log
 
 ## Shares bills with
 
-Alby Maz, Colaps, Haste
+Alby Maz, Colaps, ENFY
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seco/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seco/)*

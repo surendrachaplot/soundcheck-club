@@ -1,6 +1,6 @@
 # CRSPY
 
-CRSPY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distrito Federal, Houston on Sat, 22 Aug 2026.
+CRSPY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Distrito Federal, Houston on Sat, 22 Aug 2026.
 
 CRSPY is a house and techno artist tracked on soundcheck, with 19 sets logged across Houston, Newyorkcity and Philadelphia. Often billed alongside M33CH, Gina Turner and J Capo. Next up: Distrito Federal, Houston on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CRSPY is a house and techno artist tracked on soundcheck, with 19 sets logged ac
 
 M33CH, Gina Turner, J Capo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crspy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crspy/)*

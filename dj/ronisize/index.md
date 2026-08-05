@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Standard Time, Toronto on Thu, 13 Aug 2026.
+Roni Size is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Standard Time, Toronto on Thu, 13 Aug 2026.
 
 Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 26 more. Often billed alongside LTJ Bukem, Bryan Gee and Dynamite MC. Next up: Standard Time, Toronto on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 71 sets
 
 LTJ Bukem, Bryan Gee, Dynamite MC
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

@@ -1,6 +1,6 @@
 # Voodoo Village 2026 at TBA
 
-Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 999999999, Adrian Mills and Agents Of Time and 65 more. Techno and House. Preview the line-up and save it on soundcheck.
+Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 79 acts on the bill: &ME, 999999999, Adrian Mills and Agents Of Time and 75 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,25 +19,34 @@ Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 9
 - Amalie
 - Anetha
 - AVAION
+- Bastin.
 - Blasha & Allatt
 - Blck Mamba
 - Camilo Franco
 - Carlita
 - Ce$ar
+- Chris Ferreira
 - Cloudy
+- Deco (BE)
 - Deer Jade
 - Delilah
 - DJ Tennis
+- Dominico
 - DVS1
 - Elli Acula
 - Fiona Kraft
 - Franky Rizardo
 - future.666
+- Gilles
 - Helena Lauwaert
 - Isa Roos
 - Jimi Jules
 - JUWLZ
+- Kriika
+- La Nuyt
 - Len Faki
+- Lexx (BE)
+- MAKII
 - Mariona
 - MARRØN
 - Mathame
@@ -65,6 +74,7 @@ Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 9
 - Rampue
 - Riana Holley
 - RICHE
+- Rozevelt
 - RY X
 - SAIDAH
 - Sam Alfred

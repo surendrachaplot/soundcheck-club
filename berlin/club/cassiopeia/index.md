@@ -1,8 +1,8 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ratos De Porão // Cassiopeia, Berlin" on Tue, 11 Aug 2026.
+Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Ratos De Porão // Cassiopeia, Berlin" on Tue, 11 Aug 2026.
 
-Cassiopeia is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Danny Subsonic, Dominik Vaillant, Ligal Tamir and Maurice Mino and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Danny Subsonic, Dominik Vaillant, Ligal Tamir and Maurice Mino and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 | Sat, 15 Aug 2026 | Naughty Vibes - Afterparade Party 'Wir sind RAW' | Danny Subsonic, Dominik Vaillant, MILAN MILANO, Maurice Mino, Sin:port, Sophie van Hayden, Superstrobe |
 | Sat, 22 Aug 2026 | Bambule (House & Techno, 80s, 90s, Pop, Hip Hop) | Ligal Tamir, Nena Polap |
 | Sun, 30 Aug 2026 | Buzz Kull + Boy Deluxe + Dream Council // Cassiopeia, Berlin |  |
+| Sat, 19 Sept 2026 | Twisted Trees Festival |  |
 
 ## Address
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

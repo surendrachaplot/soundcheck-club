@@ -1,6 +1,6 @@
 # Samantha DaSilva
 
-Samantha DaSilva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Sultan Room, New York City on Fri, 14 Aug 2026.
+Samantha DaSilva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Sultan Room, New York City on Fri, 14 Aug 2026.
 
 Samantha DaSilva is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Fattie Bee, Sam Valle and samisosa. Next up: The Sultan Room, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Samantha DaSilva is a house and techno artist based in United States of America,
 
 Fattie Bee, Sam Valle, samisosa
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthadasilva/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthadasilva/)*

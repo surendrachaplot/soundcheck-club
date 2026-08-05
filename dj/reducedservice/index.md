@@ -1,6 +1,6 @@
 # Reduced Service
 
-Reduced Service is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sketchy Beats Cafe, Edinburgh on Sat, 8 Aug 2026.
+Reduced Service is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sketchy Beats Cafe, Edinburgh on Sat, 8 Aug 2026.
 
 Reduced Service is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside DifrentMorals, Stu Todd and E. Alexander. Next up: Sketchy Beats Cafe, Edinburgh on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Reduced Service is a tech house and house artist based in United Kingdom, tracke
 
 DifrentMorals, Stu Todd, E. Alexander
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reducedservice/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reducedservice/)*

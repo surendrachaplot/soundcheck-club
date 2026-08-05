@@ -1,6 +1,6 @@
 # Sweater On Polo
 
-Sweater On Polo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at public records, New York City on Fri, 14 Aug 2026.
+Sweater On Polo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at public records, New York City on Fri, 14 Aug 2026.
 
 Sweater On Polo is a house and techno artist tracked on soundcheck, with 53 sets logged across Antwerp, Berlin, Copenhagen and Detroit and 4 more. Often billed alongside Alenaudio, Bookworms and Russell E.L. Butler. Next up: public records, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sweater On Polo is a house and techno artist tracked on soundcheck, with 53 sets
 
 Alenaudio, Bookworms, Russell E.L. Butler
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweateronpolo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweateronpolo/)*

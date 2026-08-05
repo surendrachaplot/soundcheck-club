@@ -1,6 +1,6 @@
 # Baracoa
 
-Baracoa is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FLOW STATE" on Fri, 7 Aug 2026.
+Baracoa is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FLOW STATE" on Fri, 7 Aug 2026.
 
 Baracoa is a music venue in Leeds listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 52 Call Lane,  Leeds, West Yorkshire, LS1 6DT, United Kingdom.
 
@@ -15,4 +15,4 @@ Baracoa is a music venue in Leeds listed on soundcheck. 2 upcoming nights. Brows
 
 52 Call Lane,  Leeds, West Yorkshire, LS1 6DT, United Kingdom, Leeds
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/baracoa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/baracoa/)*

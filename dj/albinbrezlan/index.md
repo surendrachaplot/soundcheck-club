@@ -1,6 +1,6 @@
 # Albin Brezlan
 
-Albin Brezlan is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at FLUCC, Vienna on Fri, 7 Aug 2026.
+Albin Brezlan is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at FLUCC, Vienna on Fri, 7 Aug 2026.
 
 Albin Brezlan is a techno and house artist based in Austria, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: FLUCC, Vienna on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Albin Brezlan is a techno and house artist based in Austria, tracked on soundche
 
 Huebl, Mark Michael, Dana Melissa
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*

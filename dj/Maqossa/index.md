@@ -1,6 +1,6 @@
 # Maqossa
 
-Maqossa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lofi, Amsterdam on Sat, 8 Aug 2026.
+Maqossa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lofi, Amsterdam on Sat, 8 Aug 2026.
 
 Maqossa is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 6 more. Often billed alongside Joey Daniel, Prunk and Benny Rodrigues. Next up: Lofi, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Maqossa is a house and tech house artist tracked on soundcheck, with 95 sets log
 
 Joey Daniel, Prunk, Benny Rodrigues
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*

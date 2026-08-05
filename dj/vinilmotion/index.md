@@ -1,6 +1,6 @@
 # Vinil Motion
 
-Vinil Motion is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
+Vinil Motion is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
 
 Vinil Motion is a bass and jungle artist based in Mexico, tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Ekcent, Neukila and Seli (2). Next up: YuYu Cine Club, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Vinil Motion is a bass and jungle artist based in Mexico, tracked on soundcheck,
 
 Ekcent, Neukila, Seli (2)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinilmotion/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinilmotion/)*

@@ -1,6 +1,6 @@
 # secret handshake
 
-secret handshake is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+secret handshake is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 secret handshake is a techno and electro artist based in United States of America, tracked on soundcheck, with 3 sets logged across Washingtondc. Often billed alongside Nile Ashton, lady lavender and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ secret handshake is a techno and electro artist based in United States of Americ
 
 Nile Ashton, lady lavender, Adrian Hex
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secrethandshake/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secrethandshake/)*

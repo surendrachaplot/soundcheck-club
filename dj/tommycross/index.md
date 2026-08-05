@@ -1,6 +1,6 @@
 # Tommy Cross
 
-Tommy Cross is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Shrimp, Manchester on Sun, 9 Aug 2026.
+Tommy Cross is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Shrimp, Manchester on Sun, 9 Aug 2026.
 
 Tommy Cross is a dub techno and house artist tracked on soundcheck, with 37 sets logged across Bristol, London, Manchester and Nottingham. Often billed alongside AdomasLP, MEMP3 and Ruf Dug. Next up: Bar Shrimp, Manchester on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Tommy Cross is a dub techno and house artist tracked on soundcheck, with 37 sets
 
 AdomasLP, MEMP3, Ruf Dug
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*

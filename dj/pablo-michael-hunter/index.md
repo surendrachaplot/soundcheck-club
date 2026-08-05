@@ -1,6 +1,6 @@
 # Pablo
 
-Pablo is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 20 Aug 2026.
+Pablo is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 20 Aug 2026.
 
 Pablo is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Lisbon, London and Manchester and 4 more. Often billed alongside DAIZ, Jack Banner and Jazzy Lioness. Next up: Bahnwärter Thiel, Munich on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Pablo is a jungle and drum & bass artist based in United Kingdom, tracked on sou
 
 DAIZ, Jack Banner, Jazzy Lioness
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablo-michael-hunter/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablo-michael-hunter/)*

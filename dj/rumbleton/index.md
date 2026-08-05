@@ -1,6 +1,6 @@
 # Rumbleton
 
-Rumbleton is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bsmt 254, Toronto on Sat, 15 Aug 2026.
+Rumbleton is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bsmt 254, Toronto on Sat, 15 Aug 2026.
 
 Rumbleton is a jungle and drum & bass artist based in Canada, tracked on soundcheck, with 25 sets logged across Belfast, London, Losangeles and Toronto. Often billed alongside Gremlinz, Jesta and Marcus Visionary. Next up: Bsmt 254, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rumbleton is a jungle and drum & bass artist based in Canada, tracked on soundch
 
 Gremlinz, Jesta, Marcus Visionary
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbleton/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbleton/)*

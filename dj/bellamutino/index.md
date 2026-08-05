@@ -1,14 +1,15 @@
 # Bella Mutino
 
-Bella Mutino is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at H0l0 Yard, New York City on Sat, 8 Aug 2026.
+Bella Mutino is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at H0l0 Yard, New York City on Sat, 8 Aug 2026.
 
-Bella Mutino is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Newyorkcity and Washingtondc. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: H0l0 Yard, Newyorkcity on Sat 8 Aug.
+Bella Mutino is a house and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Newyorkcity and Washingtondc. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: H0l0 Yard, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | H0l0 Yard | New York City |
+| Sat, 8 Aug 2026 | TBA - East Williamsburg | New York City |
 | Sat, 15 Aug 2026 | Apollo Studio | New York City |
 | Sat, 15 Aug 2026 | Refuge | New York City |
 | Fri, 21 Aug 2026 | Outer Heaven | New York City |
@@ -28,4 +29,4 @@ Bella Mutino is a house and techno artist based in United States of America, tra
 
 Dayna C, Dani Moon, Amy Jor
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*

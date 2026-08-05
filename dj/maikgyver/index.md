@@ -1,13 +1,14 @@
 # Maik Gyver
 
-Maik Gyver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
+Maik Gyver is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
-Maik Gyver is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Niconé, Prismode and Super Flu. Next up: OXI, Berlin on Sat 5 Sept.
+Maik Gyver is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Niconé, Prismode and Super Flu. Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Jonny Knüppel | Berlin |
 | Sat, 5 Sept 2026 | OXI | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Maik Gyver is a techno and house artist tracked on soundcheck, with 20 sets logg
 
 Niconé, Prismode, Super Flu
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maikgyver/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maikgyver/)*

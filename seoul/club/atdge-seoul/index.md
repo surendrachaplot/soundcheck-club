@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Haeterna's Territory" on Wed, 5 Aug 2026.
+Atdge Seoul is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Haeterna's Territory" on Wed, 5 Aug 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including ASYNC, Dong, Haeterna and Hwiah and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -19,4 +19,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 6 upcoming nights, w
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

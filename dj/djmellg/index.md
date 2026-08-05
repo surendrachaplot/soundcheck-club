@@ -1,6 +1,6 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
+DJ MELL G is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
 
 DJ MELL G is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: 131 Mccormack St, Toronto on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ DJ MELL G is a techno and house artist tracked on soundcheck, with 181 sets logg
 
 DJ Stingray 313, Newinfluenzer, Cyan85
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*

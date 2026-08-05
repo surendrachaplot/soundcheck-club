@@ -1,8 +1,8 @@
 # Marcal
 
-Marcal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
+Marcal is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
 
-Marcal is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Ignez, Zisko and Amotik. Next up: VENT, Tokyo on Sat 8 Aug.
+Marcal is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Ignez, Zisko and Amotik. Next up: VENT, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Marcal is a techno and house artist tracked on soundcheck, with 93 sets logged a
 | Sat, 29 Aug 2026 | KALT | Strasbourg |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Sat, 26 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Marcal is a techno and house artist tracked on soundcheck, with 93 sets logged a
 
 Ignez, Zisko, Amotik
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

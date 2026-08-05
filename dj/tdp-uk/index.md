@@ -1,6 +1,6 @@
 # TDP (UK)
 
-TDP (UK) is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Joshua Brooks, Manchester on Sat, 29 Aug 2026.
+TDP (UK) is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Joshua Brooks, Manchester on Sat, 29 Aug 2026.
 
 TDP (UK) is a progressive house and house artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Audeo, Amy Wiles and Anriu. Next up: Joshua Brooks, Manchester on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ TDP (UK) is a progressive house and house artist tracked on soundcheck, with 6 s
 
 Audeo, Amy Wiles, Anriu
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdp-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdp-uk/)*

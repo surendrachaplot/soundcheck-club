@@ -1,6 +1,6 @@
 # Fabian Fischbach
 
-Fabian Fischbach is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Der Weiße Hase, Berlin on Thu, 6 Aug 2026.
+Fabian Fischbach is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Der Weiße Hase, Berlin on Thu, 6 Aug 2026.
 
 Fabian Fischbach is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside tzunamic, Anne-Sophie Selig and DAV3. Next up: Der Weiße Hase, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Fabian Fischbach is a techno and house artist tracked on soundcheck, with 25 set
 
 tzunamic, Anne-Sophie Selig, DAV3
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*

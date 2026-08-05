@@ -1,6 +1,6 @@
 # Dj Hermano
 
-Dj Hermano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 6 Aug 2026.
+Dj Hermano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 6 Aug 2026.
 
 Dj Hermano is a house and techno artist tracked on soundcheck, with 72 sets logged across Chicago, Losangeles, Mexicocity and Montreal and 8 more. Often billed alongside Pretty Gay Friendly, Mok-T and CUERPOS. Next up: Village au Pied-du-Courant, Montreal on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Dj Hermano is a house and techno artist tracked on soundcheck, with 72 sets logg
 
 Pretty Gay Friendly, Mok-T, CUERPOS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*

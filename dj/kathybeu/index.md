@@ -1,6 +1,6 @@
 # kathy beu
 
-kathy beu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bambi's, Toronto on Fri, 21 Aug 2026.
+kathy beu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bambi's, Toronto on Fri, 21 Aug 2026.
 
 kathy beu is a techno and house artist based in Mexico, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside DJ Visitor, DR 4SKYN and Jonnix. Next up: Bambi's, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ kathy beu is a techno and house artist based in Mexico, tracked on soundcheck, w
 
 DJ Visitor, DR 4SKYN, Jonnix
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathybeu/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathybeu/)*

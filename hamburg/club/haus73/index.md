@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Funker Society Kollektiv" on Sat, 8 Aug 2026.
+Haus73 is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Funker Society Kollektiv" on Sat, 8 Aug 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including Draluca, G-Lamour, JIBS and TBA and 1 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -21,4 +21,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

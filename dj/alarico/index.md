@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Alarico is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Alarico is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 261 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

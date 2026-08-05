@@ -1,6 +1,6 @@
 # Dor Danino
 
-Dor Danino is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Loo Loo, Mexico City on Thu, 6 Aug 2026.
+Dor Danino is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Loo Loo, Mexico City on Thu, 6 Aug 2026.
 
 Dor Danino is a house and afro house artist based in Israel, tracked on soundcheck, with 6 sets logged across Mexicocity and Paris. Often billed alongside Allen Hulsey, Alma Linda and Bora Uzer. Next up: Loo Loo, Mexicocity on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Dor Danino is a house and afro house artist based in Israel, tracked on soundche
 
 Allen Hulsey, Alma Linda, Bora Uzer
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dordanino/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dordanino/)*

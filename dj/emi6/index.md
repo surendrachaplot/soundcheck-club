@@ -1,8 +1,8 @@
 # Em i6
 
-Em i6 is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Various Venues Ibiza, Ibiza on Mon, 10 Aug 2026.
+Em i6 is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Various Venues Ibiza, Ibiza on Mon, 10 Aug 2026.
 
-Em i6 is a house and tech house artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Ibiza. Often billed alongside Nelson Reis, Alex Delmar and DJ Le Baron. Next up: TBA - Various Venues Ibiza, Ibiza on Mon 10 Aug.
+Em i6 is a house and tech house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Ibiza. Often billed alongside Nelson Reis, Alex Delmar and DJ Le Baron. Next up: TBA - Various Venues Ibiza, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Em i6 is a house and tech house artist based in Switzerland, tracked on soundche
 | Mon, 10 Aug 2026 | TBA - Various Venues Ibiza | Ibiza |
 | Mon, 10 Aug 2026 | Ibiza Jet | Ibiza |
 | Wed, 12 Aug 2026 | TBA - San Antonio waters | Ibiza |
+| Thu, 13 Aug 2026 | Summum | Ibiza |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Em i6 is a house and tech house artist based in Switzerland, tracked on soundche
 
 Nelson Reis, Alex Delmar, DJ Le Baron
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emi6/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emi6/)*

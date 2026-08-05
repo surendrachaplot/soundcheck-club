@@ -1,6 +1,6 @@
 # DAAS (1)
 
-DAAS (1) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
+DAAS (1) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
 
 DAAS (1) is a house and deep house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside MARIE.MOON, No Silver Bullet and WEDER. Next up: Crack Bellmer, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ DAAS (1) is a house and deep house artist tracked on soundcheck, with 12 sets lo
 
 MARIE.MOON, No Silver Bullet, WEDER
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*

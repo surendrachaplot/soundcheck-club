@@ -1,6 +1,6 @@
 # CucaRafa
 
-CucaRafa is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 15 Aug 2026.
+CucaRafa is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 15 Aug 2026.
 
 CucaRafa is a techno and acid artist based in Portugal, tracked on soundcheck, with 29 sets logged across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside Gear, Ketarina and Lile. Next up: Kømplex Lisbon, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ CucaRafa is a techno and acid artist based in Portugal, tracked on soundcheck, w
 
 Gear, Ketarina, Lile
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucarafa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucarafa/)*

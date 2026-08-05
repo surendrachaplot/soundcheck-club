@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Kadence" on Fri, 7 Aug 2026.
+Grub Records is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Kadence" on Fri, 7 Aug 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nights, with line-ups including Paniolo. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -18,4 +18,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

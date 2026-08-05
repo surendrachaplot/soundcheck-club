@@ -1,6 +1,6 @@
 # Addie Manson
 
-Addie Manson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Addie Manson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
 Addie Manson is a house and techno artist based in Greece, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Nothing But Love and Quirin (DE). Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Addie Manson is a house and techno artist based in Greece, tracked on soundcheck
 
 Nothing But Love, Quirin (DE)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addiemanson/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addiemanson/)*

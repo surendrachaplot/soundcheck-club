@@ -1,6 +1,6 @@
 # Topher
 
-Topher is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
+Topher is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
 
 Topher is a techno and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside BASSBEAR!!, BRATATTACK and Kanyon. Next up: TBA - Call Infoline for Secret Location, Boston on Fri 7 Aug.
 
@@ -15,4 +15,4 @@ Topher is a techno and club artist based in United States of America, tracked on
 
 BASSBEAR!!, BRATATTACK, Kanyon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topher/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topher/)*

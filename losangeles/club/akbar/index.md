@@ -1,6 +1,6 @@
 # Akbar
 
-Akbar is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Bears In Space Lot Party with Warehouse Preservation Society" on Sun, 9 Aug 2026.
+Akbar is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Bears In Space Lot Party with Warehouse Preservation Society" on Sun, 9 Aug 2026.
 
 Akbar is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Bears In Space, Chris Bowen, Perfect Lovers and Stacy Christine and 2 more. Browse upcoming dates, start times and who's playing. 4356 Sunset Blvd, Los Angeles, CA 90029.
 
@@ -14,4 +14,4 @@ Akbar is a music venue in Losangeles listed on soundcheck. 1 upcoming night, wit
 
 4356 Sunset Blvd, Los Angeles, CA 90029, Los Angeles
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/akbar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/akbar/)*

@@ -1,6 +1,6 @@
 # TLM (NL)
 
-TLM (NL) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+TLM (NL) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 TLM (NL) is a trance and techno artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Lucky Done Gone, Moody Mehran and Tjade. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ TLM (NL) is a trance and techno artist based in Netherlands, tracked on soundche
 
 Lucky Done Gone, Moody Mehran, Tjade
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tlm-nl/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tlm-nl/)*

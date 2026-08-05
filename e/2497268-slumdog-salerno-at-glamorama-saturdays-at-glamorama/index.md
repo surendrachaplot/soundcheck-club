@@ -1,6 +1,6 @@
 # Slumdog + SALERNO at Glamorama Saturdays at Glamorama
 
-Slumdog + SALERNO at Glamorama Saturdays on Sat 8 Aug, Melbourne. 1 act on the bill: Slumdog. House and Electronica. Preview the line-up and save it on soundcheck.
+Slumdog + SALERNO at Glamorama Saturdays on Sat 8 Aug, Melbourne. 2 acts on the bill: Kailyn Crabbe and Slumdog. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Slumdog + SALERNO at Glamorama Saturdays on Sat 8 Aug, Melbourne. 1 act on the b
 
 ## Line-up
 
+- Kailyn Crabbe
 - Slumdog
 
 *Source: [soundcheck](https://soundcheck.club/e/2497268-slumdog-salerno-at-glamorama-saturdays-at-glamorama/)*

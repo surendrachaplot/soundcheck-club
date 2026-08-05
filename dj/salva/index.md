@@ -1,6 +1,6 @@
 # Salva
 
-Salva is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
+Salva is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
 
 Salva is a bass and club artist tracked on soundcheck, with 5 sets logged across Barcelona, Losangeles and Mexicocity. Often billed alongside 88. (1), Beijing Junglist and DINABN. Next up: Bar Oriente, Mexicocity on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ Salva is a bass and club artist tracked on soundcheck, with 5 sets logged across
 
 88. (1), Beijing Junglist, DINABN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salva/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salva/)*

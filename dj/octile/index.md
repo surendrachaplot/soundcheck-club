@@ -1,13 +1,14 @@
 # Octile
 
-Octile is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
+Octile is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
 
-Octile is a house and minimal artist based in Hungary, tracked on soundcheck, with 42 sets logged across Budapest. Often billed alongside Korosi, Robert Dobak and Kernel. Next up: Very Small Club, Budapest on Fri 7 Aug.
+Octile is a house and minimal artist based in Hungary, tracked on soundcheck, with 43 sets logged across Budapest. Often billed alongside Korosi, Robert Dobak and Kernel. Next up: Very Small Club, Budapest on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Very Small Club | Budapest |
 | Fri, 7 Aug 2026 | Very Small Club | Budapest |
 | Fri, 14 Aug 2026 | Atno | Budapest |
 | Fri, 4 Sept 2026 | Viadukt Bar | Budapest |
@@ -27,4 +28,4 @@ Octile is a house and minimal artist based in Hungary, tracked on soundcheck, wi
 
 Korosi, Robert Dobak, Kernel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octile/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octile/)*

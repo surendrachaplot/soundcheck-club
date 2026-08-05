@@ -1,14 +1,13 @@
 # Anyma
 
-Anyma is a Techno and Progressive House artist with 12 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Tue, 4 Aug 2026.
+Anyma is a Techno and Progressive House artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Tue, 11 Aug 2026.
 
-Anyma is a techno and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: [UNVRS], Ibiza on Tue 4 Aug.
+Anyma is a techno and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: [UNVRS], Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 11 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 18 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 25 Aug 2026 | [UNVRS] | Ibiza |
@@ -23,6 +22,7 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 63 se
 
 ## Recently played
 
+- [UNVRS], Ibiza — Tue, 4 Aug 2026
 - [UNVRS], Ibiza — Tue, 28 Jul 2026
 - Pacha Ibiza, Ibiza — Sun, 26 Jul 2026
 - [UNVRS], Ibiza — Tue, 21 Jul 2026
@@ -30,10 +30,9 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 63 se
 - [UNVRS], Ibiza — Tue, 7 Jul 2026
 - [UNVRS], Ibiza — Tue, 30 Jun 2026
 - Silverworks Island, London — Sun, 28 Jun 2026
-- Silverworks Island, London — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Kevin de Vries, Tale Of Us, Chris Avantgarde
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*

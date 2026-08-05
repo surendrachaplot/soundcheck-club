@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 56 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Calvin Harris" on Tue, 4 Aug 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 55 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 5 Aug 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights, with line-ups including Afrojack, Alesso, Alok and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 55 upcoming nights, with line-ups including Afrojack, Alesso, Alok and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Calvin Harris | Calvin Harris, Nic Fanciulli |
 | Wed, 5 Aug 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Alok, Dimitri Vegas & Like Mike, Gabry Ponte |
 | Wed, 5 Aug 2026 | Ushuaia | Gabry Ponte |
 | Thu, 6 Aug 2026 | Martin Garrix | Martin Garrix, Younotus |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming night
 | Mon, 10 Aug 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Paul Reynolds, The Chainsmokers |
 | Tue, 11 Aug 2026 | Calvin Harris | Calvin Harris, Diplo |
 | Wed, 12 Aug 2026 | elrow |  |
+| Thu, 13 Aug 2026 | Martin Garrix | Disciples, Ferreck Dawn, Martin Garrix |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

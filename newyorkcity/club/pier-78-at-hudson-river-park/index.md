@@ -1,6 +1,6 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 57 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC" on Sat, 8 Aug 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 57 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC" on Sat, 8 Aug 2026.
 
 Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 57 upcoming nights, with line-ups including Bea Trinidad, branqueeno, Bustin' Loose and DJ eh and 2 more. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
@@ -23,4 +23,4 @@ Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundchec
 
 455 12th Avenue, New York, New York, 10018, United States, New York City
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-78-at-hudson-river-park/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-78-at-hudson-river-park/)*

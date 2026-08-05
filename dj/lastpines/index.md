@@ -1,6 +1,6 @@
 # Last Pines
 
-Last Pines is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Last Arch, London on Sun, 16 Aug 2026.
+Last Pines is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Last Arch, London on Sun, 16 Aug 2026.
 
 Last Pines is a house and minimal artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Bristol and Budapest and 3 more. Often billed alongside Antja, A.B.U. and Josh Smith. Next up: Last Arch, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Last Pines is a house and minimal artist tracked on soundcheck, with 24 sets log
 
 Antja, A.B.U., Josh Smith
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lastpines/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lastpines/)*

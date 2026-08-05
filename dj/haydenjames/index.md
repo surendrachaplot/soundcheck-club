@@ -1,8 +1,8 @@
 # Hayden James
 
-Hayden James is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Night We Met, Nashville on Sat, 15 Aug 2026.
+Hayden James is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Night We Met, Nashville on Sat, 15 Aug 2026.
 
-Hayden James is a house and deep house artist tracked on soundcheck, with 54 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Night We Met, Nashville on Sat 15 Aug.
+Hayden James is a house and deep house artist tracked on soundcheck, with 55 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Night We Met, Nashville on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hayden James is a house and deep house artist tracked on soundcheck, with 54 set
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Night We Met | Nashville |
 | Fri, 28 Aug 2026 | Aracely Cafe | San Francisco/Oakland |
+| Fri, 28 Aug 2026 | Audio SF | San Francisco/Oakland |
 | Sat, 29 Aug 2026 | Beach House San Diego | San Diego |
 | Sat, 26 Sept 2026 | Echostage | Washington DC |
 | Sat, 31 Oct 2026 | Savaya Bali | Bali |
@@ -29,4 +30,4 @@ Hayden James is a house and deep house artist tracked on soundcheck, with 54 set
 
 Gorgon City, Claptone, Eli & Fur
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*

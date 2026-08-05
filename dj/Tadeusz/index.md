@@ -1,6 +1,6 @@
 # Tadeusz
 
-Tadeusz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
+Tadeusz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
 
 Tadeusz is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Brighton and Liverpool and 5 more. Often billed alongside Andy Luff, Osmaan and Jhumka. Next up: BRET, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Tadeusz is a house and tech house artist based in United Kingdom, tracked on sou
 
 Andy Luff, Osmaan, Jhumka
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Tadeusz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Tadeusz/)*

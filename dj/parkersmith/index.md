@@ -1,6 +1,6 @@
 # Parker Smith
 
-Parker Smith is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 15 Aug 2026.
+Parker Smith is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 15 Aug 2026.
 
 Parker Smith is a dub and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Leeds. Often billed alongside Kieran Black, Pete Melba and Sam Pratt. Next up: The Doghouse bar & Record Store, Leeds on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Parker Smith is a dub and house artist based in United Kingdom, tracked on sound
 
 Kieran Black, Pete Melba, Sam Pratt
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parkersmith/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parkersmith/)*

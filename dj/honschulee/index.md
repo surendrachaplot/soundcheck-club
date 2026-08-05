@@ -1,6 +1,6 @@
 # Honschu Lee
 
-Honschu Lee is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Void Club, Berlin on Fri, 7 Aug 2026.
+Honschu Lee is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Void Club, Berlin on Fri, 7 Aug 2026.
 
 Honschu Lee is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin and Malta. Often billed alongside Upzet, Anton Quasi and Der Eggert. Next up: Void Club, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Honschu Lee is a techno and drum & bass artist based in Germany, tracked on soun
 
 Upzet, Anton Quasi, Der Eggert
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honschulee/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honschulee/)*

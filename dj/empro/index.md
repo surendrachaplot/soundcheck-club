@@ -1,6 +1,6 @@
 # Empro
 
-Empro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Empro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Empro is a techno and house artist tracked on soundcheck, with 63 sets logged across Berlin, Leipzig, Munich and Stuttgart. Often billed alongside Coco, Leon Licht and Edgar Peng. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Empro is a techno and house artist tracked on soundcheck, with 63 sets logged ac
 
 Coco, Leon Licht, Edgar Peng
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/empro/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/empro/)*

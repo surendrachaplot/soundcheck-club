@@ -1,6 +1,6 @@
 # FRISCO (AUS)
 
-FRISCO (AUS) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OneSixOne, Melbourne on Fri, 7 Aug 2026.
+FRISCO (AUS) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OneSixOne, Melbourne on Fri, 7 Aug 2026.
 
 FRISCO (AUS) is a house and deep house artist tracked on soundcheck, with 21 sets logged across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Jesse Boyd. Next up: OneSixOne, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ FRISCO (AUS) is a house and deep house artist tracked on soundcheck, with 21 set
 
 Adam Trace, Jay Ramon, Jesse Boyd
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frisco-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frisco-2/)*

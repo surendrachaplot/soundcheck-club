@@ -1,6 +1,6 @@
 # Paradiso Noord / Tolhuistuin
 
-Paradiso Noord / Tolhuistuin is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "HTRK" on Thu, 6 Aug 2026.
+Paradiso Noord / Tolhuistuin is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "HTRK" on Thu, 6 Aug 2026.
 
 Paradiso Noord / Tolhuistuin is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Debbie Huisman, Etape, HTRK and Kaap and 2 more. Browse upcoming dates, start times and who's playing. IJpromenade 2, Amsterdam.
 
@@ -15,4 +15,4 @@ Paradiso Noord / Tolhuistuin is a music venue in Amsterdam listed on soundcheck.
 
 IJpromenade 2, Amsterdam, Amsterdam
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso-noord-tolhuistuin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso-noord-tolhuistuin/)*

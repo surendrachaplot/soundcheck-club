@@ -1,6 +1,6 @@
 # Loren
 
-Loren is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
+Loren is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
 
 Loren is a techno and house artist tracked on soundcheck, with 210 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Signal, Newyorkcity on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Loren is a techno and house artist tracked on soundcheck, with 210 sets logged a
 
 Ashton Swinton, Tylr, Garrison XR
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*

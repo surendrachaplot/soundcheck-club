@@ -1,8 +1,8 @@
 # Phåro (2)
 
-Phåro (2) is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
+Phåro (2) is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
 
-Phåro (2) is a progressive house and electro artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Reeno, Areeb Abbasi and Pedro (IT). Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
+Phåro (2) is a progressive house and electro artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Reeno, Amor Ante and Areeb Abbasi. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Phåro (2) is a progressive house and electro artist tracked on soundcheck, with
 
 ## Shares bills with
 
-Reeno, Areeb Abbasi, Pedro (IT)
+Reeno, Amor Ante, Areeb Abbasi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo-2/)*

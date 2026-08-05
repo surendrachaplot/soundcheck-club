@@ -1,6 +1,6 @@
 # Dr. Ginn
 
-Dr. Ginn is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at City Hall, Barcelona on Wed, 5 Aug 2026.
+Dr. Ginn is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at City Hall, Barcelona on Wed, 5 Aug 2026.
 
 Dr. Ginn is a minimal and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside ELLIOT (ES), Hermit (ES) and ARNAW. Next up: City Hall, Barcelona on Wed 5 Aug.
 
@@ -23,4 +23,4 @@ Dr. Ginn is a minimal and house artist based in Spain, tracked on soundcheck, wi
 
 ELLIOT (ES), Hermit (ES), ARNAW
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ginn/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ginn/)*

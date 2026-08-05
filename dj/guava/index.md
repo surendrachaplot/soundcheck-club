@@ -1,6 +1,6 @@
 # Guava
 
-Guava is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Giri, Berlin on Fri, 7 Aug 2026.
+Guava is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Giri, Berlin on Fri, 7 Aug 2026.
 
 Guava is an ambient and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Leipzig, London and Munich. Often billed alongside Acidfinky, Anna Kost and Katiusha. Next up: Giri, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Guava is an ambient and techno artist based in United Kingdom, tracked on soundc
 
 Acidfinky, Anna Kost, Katiusha
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guava/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guava/)*

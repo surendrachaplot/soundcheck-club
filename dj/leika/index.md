@@ -1,6 +1,6 @@
 # Leika
 
-Leika is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 15 Aug 2026.
+Leika is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 15 Aug 2026.
 
 Leika is a deep house and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Basel, Hamburg, Marseille and Munich and 1 more. Often billed alongside Konrad Dycke, ANTiCLiMAX and Bach (Ita). Next up: Bahnwärter Thiel, Munich on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Leika is a deep house and house artist based in Germany, tracked on soundcheck, 
 
 Konrad Dycke, ANTiCLiMAX, Bach (Ita)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leika/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leika/)*

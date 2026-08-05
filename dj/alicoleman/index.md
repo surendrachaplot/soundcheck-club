@@ -1,6 +1,6 @@
 # Ali Coleman
 
-Ali Coleman is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+Ali Coleman is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
 Ali Coleman is a house and disco artist based in United States of America, tracked on soundcheck, with 51 sets logged across Newyorkcity. Often billed alongside Harry Fletcher, Jeremy Giros and Bendito. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Ali Coleman is a house and disco artist based in United States of America, track
 
 Harry Fletcher, Jeremy Giros, Bendito
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicoleman/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicoleman/)*

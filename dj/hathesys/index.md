@@ -1,6 +1,6 @@
 # HATHESYS
 
-HATHESYS is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Silbergold, Frankfurt on Fri, 7 Aug 2026.
+HATHESYS is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Silbergold, Frankfurt on Fri, 7 Aug 2026.
 
 HATHESYS is a techno and minimal techno artist tracked on soundcheck, with 4 sets logged across Frankfurt. Often billed alongside LUSZE, Marius Sommerfeld and zhao.. Next up: Silbergold, Frankfurt on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ HATHESYS is a techno and minimal techno artist tracked on soundcheck, with 4 set
 
 LUSZE, Marius Sommerfeld, zhao.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hathesys/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hathesys/)*

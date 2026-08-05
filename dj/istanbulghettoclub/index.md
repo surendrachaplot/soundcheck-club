@@ -1,13 +1,14 @@
 # Istanbul Ghetto Club
 
-Istanbul Ghetto Club is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Istanbul Ghetto Club is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Podlasie Club, Chicago on Sat, 22 Aug 2026.
 
-Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 43 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Azu Tiwaline, Mehmet Aslan and BASHKKA. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 25 more. Often billed alongside Azu Tiwaline, Mehmet Aslan and BASHKKA. Next up: Podlasie Club, Chicago on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Podlasie Club | Chicago |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Thu, 27 Aug 2026 | Esplanade Tranquille | Montreal |
 | Fri, 28 Aug 2026 | TBA | Toronto |
@@ -27,4 +28,4 @@ Istanbul Ghetto Club is a techno and acid artist tracked on soundcheck, with 43 
 
 Azu Tiwaline, Mehmet Aslan, BASHKKA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*

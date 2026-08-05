@@ -1,6 +1,6 @@
 # L_cio
 
-L_cio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 8 Aug 2026.
+L_cio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 8 Aug 2026.
 
 L_cio is a house and techno artist tracked on soundcheck, with 51 sets logged across Barcelona, Ibiza, Lisbon and London and 1 more. Often billed alongside Tessuto, DJ DUE and Eli Iwasa. Next up: D-EDGE, Saopaulo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ L_cio is a house and techno artist tracked on soundcheck, with 51 sets logged ac
 
 Tessuto, DJ DUE, Eli Iwasa
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l_cio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l_cio/)*

@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Macadam, Nantes on Fri, 7 Aug 2026.
+Philippa Pacho is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Macadam, Nantes on Fri, 7 Aug 2026.
 
 Philippa Pacho is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Macadam, Nantes on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 211 sets
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

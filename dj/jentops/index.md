@@ -1,6 +1,6 @@
 # Jen Tops
 
-Jen Tops is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Black Box, Denver on Sat, 8 Aug 2026.
+Jen Tops is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Black Box, Denver on Sat, 8 Aug 2026.
 
 Jen Tops is a drum & bass and bass artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver and Seattle. Often billed alongside Amit, Coco Bryce and Dead Man's Chest. Next up: The Black Box, Denver on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Jen Tops is a drum & bass and bass artist based in United States of America, tra
 
 Amit, Coco Bryce, Dead Man's Chest
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jentops/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jentops/)*

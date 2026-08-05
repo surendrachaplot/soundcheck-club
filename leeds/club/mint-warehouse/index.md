@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Boss Priester ALL NIGHT LONG (Leeds)" on Fri, 7 Aug 2026.
+Mint Warehouse is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Boss Priester ALL NIGHT LONG (Leeds)" on Fri, 7 Aug 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Alec Falconer, Arty (UK), Boss Priester and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -17,4 +17,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming nights
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

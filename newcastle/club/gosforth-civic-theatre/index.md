@@ -1,6 +1,6 @@
 # Gosforth Civic Theatre
 
-Gosforth Civic Theatre is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ibibio Sound Machine" on Thu, 22 Oct 2026.
+Gosforth Civic Theatre is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Ibibio Sound Machine" on Thu, 22 Oct 2026.
 
 Gosforth Civic Theatre is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Gosforth Civic Theatre, Regent Farm Rd, Newcastle upon Tyne NE3 3HD.
 
@@ -14,4 +14,4 @@ Gosforth Civic Theatre is a music venue in Newcastle listed on soundcheck. 1 upc
 
 Gosforth Civic Theatre, Regent Farm Rd, Newcastle upon Tyne NE3 3HD, Newcastle
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gosforth-civic-theatre/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gosforth-civic-theatre/)*

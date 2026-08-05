@@ -1,6 +1,6 @@
 # Shared System
 
-Shared System is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Shared System is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Shared System is a techno and house artist based in Italy, tracked on soundcheck, with 6 sets logged across Amsterdam, Istanbul and Turin. Often billed alongside Fedele, Andrew Rayel and Armonica. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Shared System is a techno and house artist based in Italy, tracked on soundcheck
 
 Fedele, Andrew Rayel, Armonica
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharedsystem/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharedsystem/)*

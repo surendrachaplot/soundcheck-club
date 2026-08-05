@@ -1,14 +1,15 @@
 # Kikelomo
 
-Kikelomo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bureau of Silly Ideas, London on Sun, 9 Aug 2026.
+Kikelomo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bureau of Silly Ideas, London on Sun, 9 Aug 2026.
 
-Kikelomo is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Âme. Next up: Bureau of Silly Ideas, London on Sun 9 Aug.
+Kikelomo is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Âme. Next up: Bureau of Silly Ideas, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Bureau of Silly Ideas | London |
+| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kikelomo is a techno and house artist tracked on soundcheck, with 89 sets logged
 
 Honey Dijon, Avalon Emerson, Âme
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*

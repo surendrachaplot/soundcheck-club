@@ -1,6 +1,6 @@
 # Keyrah
 
-Keyrah is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sigurd CPH, Copenhagen on Sat, 8 Aug 2026.
+Keyrah is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sigurd CPH, Copenhagen on Sat, 8 Aug 2026.
 
 Keyrah is a house and hip-hop artist tracked on soundcheck, with 64 sets logged across Amsterdam, Birmingham, Brighton and Copenhagen and 7 more. Often billed alongside Tiffany Calver, Casnova and Juls. Next up: Sigurd CPH, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Keyrah is a house and hip-hop artist tracked on soundcheck, with 64 sets logged 
 
 Tiffany Calver, Casnova, Juls
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*

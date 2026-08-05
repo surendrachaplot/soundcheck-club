@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 13 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI" on Fri, 7 Aug 2026.
+BASIS is a music venue in Utrecht with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI" on Fri, 7 Aug 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 13 upcoming nights, with line-ups including 36framez, Alarico, Blame The Mono and Brent Honey and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming nights, with line-ups including 36framez, Alarico, Blame The Mono and Brent Honey and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
@@ -13,14 +13,14 @@ BASIS is a music venue in Utrecht listed on soundcheck. 13 upcoming nights, with
 | Fri, 14 Aug 2026 | BASIS Talent Night/ Jappe/ L!SA/ MAGGIE/ TOMMY |  |
 | Sat, 15 Aug 2026 | BASIS/ Gioray [live]/ Identified Patient/ Schacke | Gioray, Identified Patient, Schacke |
 | Fri, 21 Aug 2026 | BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra | KEVN |
+| Sat, 22 Aug 2026 | BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN | Nyctonian, XRTN |
 | Fri, 28 Aug 2026 | BASIS Talent Night/ Flexusz/ KROM/ LIRIOS/ N9S |  |
 | Sat, 29 Aug 2026 | BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore | Paralich, Tell Moore |
 | Fri, 4 Sept 2026 | BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 | Nedir Nadir, Ramon Berendes, Upper90 |
 | Sat, 5 Sept 2026 | BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH | Cybersex, DJ HÖRDE, DJ SPORTSCHUH |
-| Fri, 11 Sept 2026 | BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah | Alarico, DJ Cosworth, Hardline, Oldboy |
 
 ## Address
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

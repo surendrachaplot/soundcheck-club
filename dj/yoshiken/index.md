@@ -1,6 +1,6 @@
 # yoshiken
 
-yoshiken is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
+yoshiken is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
 
 yoshiken is a house and minimal artist based in Japan, tracked on soundcheck, with 34 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside yyshuu, Ariaray and JAMIEST. Next up: VENT, Tokyo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ yoshiken is a house and minimal artist based in Japan, tracked on soundcheck, wi
 
 yyshuu, Ariaray, JAMIEST
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiken/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiken/)*

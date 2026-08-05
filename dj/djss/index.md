@@ -1,6 +1,6 @@
 # DJ SS
 
-DJ SS is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+DJ SS is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 DJ SS is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Birmingham and Boston and 17 more. Often billed alongside Bladerunner, Nicky Blackmarket and Grooverider. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ SS is a drum & bass and jungle artist tracked on soundcheck, with 70 sets log
 
 Bladerunner, Nicky Blackmarket, Grooverider
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djss/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djss/)*

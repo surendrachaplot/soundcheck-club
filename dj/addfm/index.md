@@ -1,6 +1,6 @@
 # Add FM
 
-Add FM is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Add FM is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Add FM is an electronic artist based in Switzerland, tracked on soundcheck, with 2 sets logged across Zurich. Often billed alongside ADO (DE), Ado and Aldonna. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ Add FM is an electronic artist based in Switzerland, tracked on soundcheck, with
 
 ADO (DE), Ado, Aldonna
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addfm/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addfm/)*

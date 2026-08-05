@@ -1,6 +1,6 @@
 # Perverse Cowboy
 
-Perverse Cowboy is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
+Perverse Cowboy is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
 
 Perverse Cowboy is an electro and techno artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside GAY RAGE, ZACKITO and Amor Ante. Next up: Distillery N17, London on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Perverse Cowboy is an electro and techno artist tracked on soundcheck, with 5 se
 
 GAY RAGE, ZACKITO, Amor Ante
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perversecowboy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perversecowboy/)*

@@ -1,6 +1,6 @@
 # JÏMONO
 
-JÏMONO is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
+JÏMONO is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
 
 JÏMONO is an afro house and afro tech artist tracked on soundcheck, with 5 sets logged across London and Manchester. Often billed alongside Bushman (UK), DJ Fiddla and DJ IC. Next up: Paloma, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ JÏMONO is an afro house and afro tech artist tracked on soundcheck, with 5 sets
 
 Bushman (UK), DJ Fiddla, DJ IC
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jïmono/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jïmono/)*

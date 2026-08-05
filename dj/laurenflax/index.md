@@ -1,8 +1,8 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
+Lauren Flax is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Marble Bar, Detroit on Sat 8 Aug.
+Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Marble Bar, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 | Sat, 8 Aug 2026 | Marble Bar | Detroit |
 | Sun, 9 Aug 2026 | Knockdown Center | New York City |
 | Fri, 14 Aug 2026 | Signal | New York City |
+| Fri, 11 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

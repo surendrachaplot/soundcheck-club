@@ -1,8 +1,8 @@
 # Mabel
 
-Mabel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
+Mabel is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
 
-Mabel is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: TBA - INNER WEST, Sydney on Sat 8 Aug.
+Mabel is a techno and trance artist tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: TBA - INNER WEST, Sydney on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mabel is a techno and trance artist tracked on soundcheck, with 105 sets logged 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | TBA - INNER WEST | Sydney |
 | Fri, 28 Aug 2026 | Miscellania | Melbourne |
+| Sat, 12 Sept 2026 | TBA | Melbourne |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 
 ## Recently played
@@ -27,4 +28,4 @@ Mabel is a techno and trance artist tracked on soundcheck, with 105 sets logged 
 
 suki, Hannah D, Ricky Nord
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

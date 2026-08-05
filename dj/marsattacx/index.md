@@ -1,6 +1,6 @@
 # MarsattacX
 
-MarsattacX is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
+MarsattacX is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Monarch, Berlin on Sat, 15 Aug 2026.
 
 MarsattacX is an electro and techno artist based in Ukraine, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin and Valencia. Often billed alongside Lucho (VE), Kala Ros and Bejenec. Next up: Monarch, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MarsattacX is an electro and techno artist based in Ukraine, tracked on soundche
 
 Lucho (VE), Kala Ros, Bejenec
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*

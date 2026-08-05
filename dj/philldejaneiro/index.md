@@ -1,14 +1,13 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
+Phill de Janeiro is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: Cova Santa, Ibiza on Tue 4 Aug.
+Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Cova Santa | Ibiza |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Thu, 20 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 96
 
 ## Recently played
 
+- Cova Santa, Ibiza — Tue, 4 Aug 2026
 - LA-YAM Rooftop, London — Sat, 18 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 28 Jun 2026
@@ -28,10 +28,9 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 96
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
 - ZT Hotel Villa Olimpica, Barcelona — Wed, 17 Jun 2026
-- The Cause, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

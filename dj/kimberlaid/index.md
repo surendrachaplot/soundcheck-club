@@ -1,14 +1,15 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+KimberlaID is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
-KimberlaID is a techno and hardcore artist tracked on soundcheck, with 47 sets logged across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
+KimberlaID is a techno and hardcore artist tracked on soundcheck, with 48 sets logged across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 2 Oct 2026 | E1 | London |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 
@@ -27,4 +28,4 @@ KimberlaID is a techno and hardcore artist tracked on soundcheck, with 47 sets l
 
 Karlfroye, Lolalita, Claude Murder
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*

@@ -1,6 +1,6 @@
 # Beverly Chills
 
-Beverly Chills is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
+Beverly Chills is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Beverly Chills is a techno and house artist tracked on soundcheck, with 62 sets logged across Losangeles, Sanfrancisco and Seattle. Often billed alongside nonsuit, likeholywine and Papa Xanny. Next up: Public Works, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Beverly Chills is a techno and house artist tracked on soundcheck, with 62 sets 
 
 nonsuit, likeholywine, Papa Xanny
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*

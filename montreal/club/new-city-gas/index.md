@@ -1,6 +1,6 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Adventure Club" on Fri, 7 Aug 2026.
+New City Gas is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Adventure Club" on Fri, 7 Aug 2026.
 
 New City Gas is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including Adventure Club, Dillon Francis, Gareth Emery and Rusko. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
@@ -16,4 +16,4 @@ New City Gas is a music venue in Montreal listed on soundcheck. 3 upcoming night
 
 950 Ottawa St, Montreal, Quebec H3C 2J9, Montreal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/new-city-gas/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/new-city-gas/)*

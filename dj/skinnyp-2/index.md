@@ -1,6 +1,6 @@
 # Skinny P (2)
 
-Skinny P (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Romantica, Stuttgart on Fri, 7 Aug 2026.
+Skinny P (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Romantica, Stuttgart on Fri, 7 Aug 2026.
 
 Skinny P (2) is a techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside Jochen Junker. Next up: Romantica, Stuttgart on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ Skinny P (2) is a techno and house artist based in Germany, tracked on soundchec
 
 Jochen Junker
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnyp-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnyp-2/)*

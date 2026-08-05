@@ -1,6 +1,6 @@
 # GATTOMUSiC
 
-GATTOMUSiC is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at De Sering, Amsterdam on Fri, 4 Sept 2026.
+GATTOMUSiC is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at De Sering, Amsterdam on Fri, 4 Sept 2026.
 
 GATTOMUSiC is an electro and techno artist tracked on soundcheck, with 4 sets logged across Amsterdam, Rotterdam and Warsaw. Often billed alongside ALEX/ALYA, D.Blavatsky and Eylon. Next up: De Sering, Amsterdam on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ GATTOMUSiC is an electro and techno artist tracked on soundcheck, with 4 sets lo
 
 ALEX/ALYA, D.Blavatsky, Eylon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gattomusic/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gattomusic/)*

@@ -1,6 +1,6 @@
 # Asian Sal
 
-Asian Sal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
+Asian Sal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
 
 Asian Sal is a house and techno artist based in Belgium, tracked on soundcheck, with 29 sets logged across Antwerp, Brussels, Ghent and Nantes. Often billed alongside Fais Le Beau, BAVR and She The DJ. Next up: 09h30-05h30, Antwerp on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Asian Sal is a house and techno artist based in Belgium, tracked on soundcheck, 
 
 Fais Le Beau, BAVR, She The DJ
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asiansal/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asiansal/)*

@@ -1,6 +1,6 @@
 # DJ CARO
 
-DJ CARO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 15 Aug 2026.
+DJ CARO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 DJ CARO is a club and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Discnogirl, Tom Marsi and RITCHRD. Next up: Arcana, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ CARO is a club and techno artist based in United States of America, tracked o
 
 Discnogirl, Tom Marsi, RITCHRD
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaro/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaro/)*

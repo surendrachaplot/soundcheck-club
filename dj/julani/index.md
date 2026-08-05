@@ -1,13 +1,14 @@
 # Julani
 
-Julani is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at SASS Music Club, Vienna on Sat, 15 Aug 2026.
+Julani is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pratersauna, Vienna on Sat, 8 Aug 2026.
 
-Julani is a house and acid artist based in Austria, tracked on soundcheck, with 15 sets logged across Vienna. Often billed alongside Momo Trosman, Rayya and Stipo. Next up: SASS Music Club, Vienna on Sat 15 Aug.
+Julani is a house and acid artist based in Austria, tracked on soundcheck, with 16 sets logged across Vienna. Often billed alongside Momo Trosman, Rayya and Stipo. Next up: Pratersauna, Vienna on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Pratersauna | Vienna |
 | Sat, 15 Aug 2026 | SASS Music Club | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ Julani is a house and acid artist based in Austria, tracked on soundcheck, with 
 
 Momo Trosman, Rayya, Stipo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*

@@ -1,6 +1,6 @@
 # Diogo Lacerda
 
-Diogo Lacerda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
+Diogo Lacerda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lux Fragil, Lisbon on Fri, 7 Aug 2026.
 
 Diogo Lacerda is a house and techno artist based in Portugal, tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Ghent and Lisbon. Often billed alongside Venus News Network, Colin Chiddle and Dan Piu. Next up: Lux Fragil, Lisbon on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Diogo Lacerda is a house and techno artist based in Portugal, tracked on soundch
 
 Venus News Network, Colin Chiddle, Dan Piu
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diogolacerda/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diogolacerda/)*

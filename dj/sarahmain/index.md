@@ -1,6 +1,6 @@
 # Sarah Main
 
-Sarah Main is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 8 Aug 2026.
+Sarah Main is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 Sarah Main is a house and electro artist based in Spain, tracked on soundcheck, with 7 sets logged across Ibiza. Often billed alongside Jason Bye, Allister Whitehead and Andy Baxter. Next up: 528 Ibiza, Ibiza on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Sarah Main is a house and electro artist based in Spain, tracked on soundcheck, 
 
 Jason Bye, Allister Whitehead, Andy Baxter
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahmain/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahmain/)*

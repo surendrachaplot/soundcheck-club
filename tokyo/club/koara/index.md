@@ -1,6 +1,6 @@
 # Koara
 
-Koara is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "PRIMARY" on Sat, 8 Aug 2026.
+Koara is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "PRIMARY" on Sat, 8 Aug 2026.
 
 Koara is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including eurlica, Issyo, Lvca and PUCCI (2). Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -16,4 +16,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with li
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

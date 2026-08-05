@@ -1,6 +1,6 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Virage, Paris on Sat, 8 Aug 2026.
+FJUSHA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Virage, Paris on Sat, 8 Aug 2026.
 
 FJUSHA is a techno and trance artist tracked on soundcheck, with 66 sets logged across Athens, Bangkok, Barcelona and Basel and 21 more. Often billed alongside DJ Cringey, Bae Blade and Clara Cuvé. Next up: Virage, Paris on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 66 sets logged 
 
 DJ Cringey, Bae Blade, Clara Cuvé
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*

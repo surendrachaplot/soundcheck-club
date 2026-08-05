@@ -1,6 +1,6 @@
 # 2WM (UK)
 
-2WM (UK) is a Latin Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Club Makossa, London on Thu, 20 Aug 2026.
+2WM (UK) is a Latin Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club Makossa, London on Thu, 20 Aug 2026.
 
 2WM (UK) is a latin bass and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside SiFaM, DJ4BLUE and Jazmyn Sadri. Next up: Club Makossa, London on Thu 20 Aug.
 
@@ -19,4 +19,4 @@
 
 SiFaM, DJ4BLUE, Jazmyn Sadri
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2wmuk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2wmuk/)*

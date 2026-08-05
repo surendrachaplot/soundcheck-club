@@ -1,8 +1,8 @@
 # Just Another Bitch
 
-Just Another Bitch is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Just Another Bitch is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-Just Another Bitch is a techno and club artist tracked on soundcheck, with 46 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside nonsuit, Beverly Chills and MILANA. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
+Just Another Bitch is a techno and club artist tracked on soundcheck, with 46 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside nonsuit, Beverly Chills and Papa Xanny. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Just Another Bitch is a techno and club artist tracked on soundcheck, with 46 se
 
 ## Shares bills with
 
-nonsuit, Beverly Chills, MILANA
+nonsuit, Beverly Chills, Papa Xanny
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justanotherbitch/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justanotherbitch/)*

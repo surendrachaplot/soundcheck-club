@@ -1,6 +1,6 @@
 # Nils Herres
 
-Nils Herres is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
+Nils Herres is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
 
 Nils Herres is a techno and pop artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Tobi Cross, Haito and Oliver Ton. Next up: Luftschloss auf dem Tempelhofer Feld, Berlin on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Nils Herres is a techno and pop artist based in Germany, tracked on soundcheck, 
 
 Tobi Cross, Haito, Oliver Ton
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsherres/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsherres/)*

@@ -1,6 +1,6 @@
 # Xavi BCN
 
-Xavi BCN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Xavi BCN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Xavi BCN is a techno and hardcore artist tracked on soundcheck, with 13 sets logged across Barcelona, Madrid and Tokyo. Often billed alongside Ricardo F, Ruben XXL and Frank Trax. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Xavi BCN is a techno and hardcore artist tracked on soundcheck, with 13 sets log
 
 Ricardo F, Ruben XXL, Frank Trax
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xavibcn/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xavibcn/)*

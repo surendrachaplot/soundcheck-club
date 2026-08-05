@@ -1,6 +1,6 @@
 # Rancido
 
-Rancido is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Theata, London on Sat, 29 Aug 2026.
+Rancido is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Theata, London on Sat, 29 Aug 2026.
 
 Rancido is an afro house and afro tech artist based in Netherlands, tracked on soundcheck, with 45 sets logged across Amsterdam, Cologne, Ibiza and London and 3 more. Often billed alongside Philou Louzolo, Van Zand and LevyM. Next up: Theata, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rancido is an afro house and afro tech artist based in Netherlands, tracked on s
 
 Philou Louzolo, Van Zand, LevyM
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rancido/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rancido/)*

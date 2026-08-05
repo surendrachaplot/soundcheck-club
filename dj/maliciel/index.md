@@ -1,6 +1,6 @@
 # MALICIEL
 
-MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 7 Aug 2026.
+MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside ANDYLAND, arktoi and Lil Bebe Cyborg. Next up: The Great Northern, Sanfrancisco on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, wit
 
 ANDYLAND, arktoi, Lil Bebe Cyborg
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*

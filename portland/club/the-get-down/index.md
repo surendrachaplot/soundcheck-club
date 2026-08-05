@@ -1,6 +1,6 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Random Rab with Lapa" on Sat, 8 Aug 2026.
+The Get Down is a music venue in Portland with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Random Rab with Lapa" on Sat, 8 Aug 2026.
 
 The Get Down is a music venue in Portland listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
@@ -20,4 +20,4 @@ The Get Down is a music venue in Portland listed on soundcheck. 7 upcoming night
 
 615 SE Alder St Suite B, Portland, OR 97214, United States, Portland
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*

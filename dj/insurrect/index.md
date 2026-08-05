@@ -1,6 +1,6 @@
 # Insurrect
 
-Insurrect is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
+Insurrect is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
 
 Insurrect is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside Karman, MYOHMY and Shauna. Next up: Quarry, Liverpool on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ Insurrect is a techno and jungle artist based in United Kingdom, tracked on soun
 
 Karman, MYOHMY, Shauna
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insurrect/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insurrect/)*

@@ -1,6 +1,6 @@
 # DJ Guapis
 
-DJ Guapis is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
+DJ Guapis is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
 
 DJ Guapis is a techno and guaracha artist based in Mexico, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, London and Mexicocity and 2 more. Often billed alongside Iris Estefanía, AddlyMuff and Babybruise. Next up: YuYu Cine Club, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ DJ Guapis is a techno and guaracha artist based in Mexico, tracked on soundcheck
 
 Iris Estefanía, AddlyMuff, Babybruise
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguapis/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguapis/)*

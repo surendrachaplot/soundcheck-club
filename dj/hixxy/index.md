@@ -1,14 +1,15 @@
 # Hixxy
 
-Hixxy is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Keyfob Warehouse, Nashville on Sat, 15 Aug 2026.
+Hixxy is a Hardcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Keyfob Warehouse, Nashville on Sat, 15 Aug 2026.
 
-Hixxy is a hardcore and bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Austin, Brighton and Edinburgh and 11 more. Often billed alongside Dougal, Darren Styles and MC Storm. Next up: TBA - Keyfob Warehouse, Nashville on Sat 15 Aug.
+Hixxy is a hardcore and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Brighton and Edinburgh and 11 more. Often billed alongside Dougal, Darren Styles and MC Storm. Next up: TBA - Keyfob Warehouse, Nashville on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Keyfob Warehouse | Nashville |
+| Tue, 18 Aug 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hixxy is a hardcore and bass artist based in United Kingdom, tracked on soundche
 
 Dougal, Darren Styles, MC Storm
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*

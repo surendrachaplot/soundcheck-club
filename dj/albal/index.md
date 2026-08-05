@@ -1,6 +1,6 @@
 # Albal
 
-Albal is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nitsa Club, Barcelona on Sat, 8 Aug 2026.
+Albal is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nitsa Club, Barcelona on Sat, 8 Aug 2026.
 
 Albal is a techno and tech house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Juguete, ISAbella and acidheaven. Next up: Nitsa Club, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Albal is a techno and tech house artist tracked on soundcheck, with 45 sets logg
 
 Juguete, ISAbella, acidheaven
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*

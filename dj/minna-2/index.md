@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at LN-CC, London on Thu, 6 Aug 2026.
+MiNNA is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at LN-CC, London on Thu, 6 Aug 2026.
 
 MiNNA is a house and disco artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Melvo Baptiste and Dan Shake. Next up: LN-CC, London on Thu 6 Aug.
 
@@ -32,4 +32,4 @@ MiNNA is a house and disco artist tracked on soundcheck, with 141 sets logged ac
 
 Kirollus, Melvo Baptiste, Dan Shake
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

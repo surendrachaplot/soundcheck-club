@@ -1,6 +1,6 @@
 # Juan Ramos
 
-Juan Ramos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
+Juan Ramos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
 Juan Ramos is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 11 more. Often billed alongside Ady Toledano, Trent and Amy Dabbs. Next up: AMT, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Juan Ramos is a house and techno artist tracked on soundcheck, with 68 sets logg
 
 Ady Toledano, Trent, Amy Dabbs
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanramos/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanramos/)*

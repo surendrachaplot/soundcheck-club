@@ -1,6 +1,6 @@
 # Jazz (AU)
 
-Jazz (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Speakeazy Berlin, Berlin on Sat, 15 Aug 2026.
+Jazz (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Speakeazy Berlin, Berlin on Sat, 15 Aug 2026.
 
 Jazz (AU) is a house and techno artist based in Australia, tracked on soundcheck, with 28 sets logged across Bangkok, Berlin, Budapest and Hobart and 7 more. Often billed alongside Accent', ARTISAH and Ali Bilal. Next up: Speakeazy Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jazz (AU) is a house and techno artist based in Australia, tracked on soundcheck
 
 Accent', ARTISAH, Ali Bilal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-au/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-au/)*

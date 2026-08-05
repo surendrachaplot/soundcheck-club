@@ -1,6 +1,6 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Paraçek is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Paraçek is a techno and trance artist tracked on soundcheck, with 151 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -35,4 +35,4 @@ Paraçek is a techno and trance artist tracked on soundcheck, with 151 sets logg
 
 A.N.I., KLING&KLANG, DJ WASSERFALL
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

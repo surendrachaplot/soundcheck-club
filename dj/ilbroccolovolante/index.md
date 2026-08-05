@@ -1,6 +1,6 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Marmorbar, Berlin on Sat, 22 Aug 2026.
+ilbroccolovolante is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Marmorbar, Berlin on Sat, 22 Aug 2026.
 
 ilbroccolovolante is a techno and progressive house artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Marmorbar, Berlin on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ ilbroccolovolante is a techno and progressive house artist based in Italy, track
 
 Kidcat, zikade, materia hache
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*

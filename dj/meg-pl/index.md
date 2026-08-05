@@ -1,6 +1,6 @@
 # Meg (PL)
 
-Meg (PL) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Prozak 2.0, Krakow on Sat, 8 Aug 2026.
+Meg (PL) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Prozak 2.0, Krakow on Sat, 8 Aug 2026.
 
 Meg (PL) is a trance and techno artist tracked on soundcheck, with 135 sets logged across Berlin, Krakow, Tokyo and Warsaw. Often billed alongside Kuriozum, EARGASM GOD and naked relaxing. Next up: Prozak 2.0, Krakow on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Meg (PL) is a trance and techno artist tracked on soundcheck, with 135 sets logg
 
 Kuriozum, EARGASM GOD, naked relaxing
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meg-pl/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meg-pl/)*

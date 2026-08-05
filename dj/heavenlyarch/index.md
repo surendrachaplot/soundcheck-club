@@ -1,6 +1,6 @@
 # HEAVENLY ARCH
 
-HEAVENLY ARCH is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+HEAVENLY ARCH is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 HEAVENLY ARCH is a house and post-punk artist based in United States of America, tracked on soundcheck, with 16 sets logged across Sanfrancisco. Often billed alongside Digital KitKat, Freaky Emo and Moonpie. Next up: F8 1192 Folsom, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ HEAVENLY ARCH is a house and post-punk artist based in United States of America,
 
 Digital KitKat, Freaky Emo, Moonpie
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heavenlyarch/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heavenlyarch/)*

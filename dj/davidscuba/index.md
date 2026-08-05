@@ -1,6 +1,6 @@
 # David Scuba
 
-David Scuba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
+David Scuba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
 
 David Scuba is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across London, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Mr C, Michael Rosa and Silky. Next up: TBA, Sandiego on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ David Scuba is a techno and house artist based in United States of America, trac
 
 Mr C, Michael Rosa, Silky
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscuba/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscuba/)*

@@ -1,6 +1,6 @@
 # DJ NORTHERN
 
-DJ NORTHERN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Piccadilly Central, Manchester on Sat, 29 Aug 2026.
+DJ NORTHERN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Piccadilly Central, Manchester on Sat, 29 Aug 2026.
 
 DJ NORTHERN is a house and techno artist tracked on soundcheck, with 92 sets logged across Berlin, Hamburg, Krakow and Leipzig and 5 more. Often billed alongside Sparkling Water Dreams, KENZA and Npoint_O. Next up: Piccadilly Central, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ NORTHERN is a house and techno artist tracked on soundcheck, with 92 sets log
 
 Sparkling Water Dreams, KENZA, Npoint_O
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorthern/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorthern/)*

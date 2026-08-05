@@ -1,0 +1,17 @@
+# Legal
+
+Legal is a music venue in Munich with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Legal x string with FLETCH, Vincent Lang, HAZE, VSMR" on Fri, 21 Aug 2026.
+
+Legal is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including FLETCH, Haze (GER), Vincent Lang and VSMR. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 21 Aug 2026 | Legal x string with FLETCH, Vincent Lang, HAZE, VSMR | FLETCH, Haze (GER), VSMR, Vincent Lang |
+
+## Address
+
+Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
+
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

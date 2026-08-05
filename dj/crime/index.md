@@ -1,14 +1,15 @@
 # CRIME
 
-CRIME is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Turbina, Budapest on Sat, 5 Sept 2026.
+CRIME is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Turbina, Budapest on Sat, 5 Sept 2026.
 
-CRIME is a techno and trance artist based in Hungary, tracked on soundcheck, with 90 sets logged across Barcelona, Budapest, Hobart and Losangeles and 2 more. Often billed alongside Hexcode, Technokool and Akác. Next up: Turbina, Budapest on Sat 5 Sept.
+CRIME is a techno and trance artist based in Hungary, tracked on soundcheck, with 91 sets logged across Barcelona, Budapest, Hobart and Losangeles and 2 more. Often billed alongside Hexcode, Technokool and Akác. Next up: Turbina, Budapest on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Turbina | Budapest |
+| Sat, 17 Oct 2026 | Turbina | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CRIME is a techno and trance artist based in Hungary, tracked on soundcheck, wit
 
 Hexcode, Technokool, Akác
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crime/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crime/)*

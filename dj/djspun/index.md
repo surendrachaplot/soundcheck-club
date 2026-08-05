@@ -1,6 +1,6 @@
 # DJ Spun
 
-DJ Spun is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
+DJ Spun is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 DJ Spun is a house and acid artist based in United States of America, tracked on soundcheck, with 21 sets logged across Denver, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside Jeno, Stacy Christine and Galen. Next up: Phoenix Hotel, Sanfrancisco on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Spun is a house and acid artist based in United States of America, tracked on
 
 Jeno, Stacy Christine, Galen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspun/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspun/)*

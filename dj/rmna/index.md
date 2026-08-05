@@ -1,6 +1,6 @@
 # RMNA
 
-RMNA is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+RMNA is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 RMNA is a techno and dub artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Detroit, Rome and Sanfrancisco. Often billed alongside Kudeki, Torsion and 2dahlia. Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ RMNA is a techno and dub artist based in United States of America, tracked on so
 
 Kudeki, Torsion, 2dahlia
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*

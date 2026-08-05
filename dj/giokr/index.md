@@ -1,6 +1,6 @@
 # Gio (KR)
 
-Gio (KR) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
+Gio (KR) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
 
 Gio (KR) is a house and disco artist based in South Korea, tracked on soundcheck, with 63 sets logged across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Youngisland and Joshüa. Next up: Nué Seoul, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gio (KR) is a house and disco artist based in South Korea, tracked on soundcheck
 
 Cityboy from Seoul, Youngisland, Joshüa
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giokr/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giokr/)*

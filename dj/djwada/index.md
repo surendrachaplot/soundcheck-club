@@ -1,6 +1,6 @@
 # DJ Wada
 
-DJ Wada is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
+DJ Wada is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
 
 DJ Wada is a techno and house artist based in Japan, tracked on soundcheck, with 95 sets logged across Tokyo. Often billed alongside DAIY, NABE and Yos.. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ DJ Wada is a techno and house artist based in Japan, tracked on soundcheck, with
 
 DAIY, NABE, Yos.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*

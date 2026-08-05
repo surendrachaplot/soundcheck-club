@@ -1,6 +1,6 @@
 # Arkhan
 
-Arkhan is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
+Arkhan is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Virage, Paris on Fri, 14 Aug 2026.
 
 Arkhan is a techno and acid artist based in France, tracked on soundcheck, with 18 sets logged across Nantes and Paris. Often billed alongside Luche, aft6r and AMRTUM. Next up: Virage, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Arkhan is a techno and acid artist based in France, tracked on soundcheck, with 
 
 Luche, aft6r, AMRTUM
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkhan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkhan/)*

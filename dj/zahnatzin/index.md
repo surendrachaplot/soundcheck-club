@@ -1,6 +1,6 @@
 # ZAHNATZIN
 
-ZAHNATZIN is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
+ZAHNATZIN is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
 
 ZAHNATZIN is a house and techno artist tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Ursula Erdmann. Next up: Schrotty, Cologne on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ ZAHNATZIN is a house and techno artist tracked on soundcheck, with 39 sets logge
 
 DJ SPORTSCHUH, Flavius (DE), Ursula Erdmann
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnatzin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnatzin/)*

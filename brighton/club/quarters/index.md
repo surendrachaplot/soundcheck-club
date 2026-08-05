@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "10 Years of 1985 Music with Alix Perez" on Fri, 7 Aug 2026.
+Quarters is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "10 Years of 1985 Music with Alix Perez" on Fri, 7 Aug 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including 2ManyDJs, Alix Perez, Captain Wallop and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 11 upcoming nights, 
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

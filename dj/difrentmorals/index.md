@@ -1,6 +1,6 @@
 # DifrentMorals
 
-DifrentMorals is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sketchy Beats Cafe, Edinburgh on Sat, 8 Aug 2026.
+DifrentMorals is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sketchy Beats Cafe, Edinburgh on Sat, 8 Aug 2026.
 
 DifrentMorals is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Edinburgh and Manchester. Often billed alongside Charlie Craig, Dablo and Stu Todd. Next up: Sketchy Beats Cafe, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DifrentMorals is a house and minimal artist based in United Kingdom, tracked on 
 
 Charlie Craig, Dablo, Stu Todd
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/difrentmorals/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/difrentmorals/)*

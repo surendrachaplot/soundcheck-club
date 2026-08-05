@@ -1,6 +1,6 @@
 # Cellar (2)
 
-Cellar (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Chapel Angel Microbrewery, Nottingham on Thu, 20 Aug 2026.
+Cellar (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Chapel Angel Microbrewery, Nottingham on Thu, 20 Aug 2026.
 
 Cellar (2) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Nottingham. Often billed alongside alfs, Acolyte and Dove (UK). Next up: The Chapel Angel Microbrewery, Nottingham on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Cellar (2) is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 alfs, Acolyte, Dove (UK)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellar-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellar-2/)*

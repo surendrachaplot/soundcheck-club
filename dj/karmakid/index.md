@@ -1,6 +1,6 @@
 # Karma Kid
 
-Karma Kid is a IDM and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
+Karma Kid is a IDM and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
 
 Karma Kid is an idm and club artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Sheffield. Often billed alongside Bekefi, Braga Circuit and Feadz. Next up: The System, Sheffield on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Karma Kid is an idm and club artist based in United Kingdom, tracked on soundche
 
 Bekefi, Braga Circuit, Feadz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmakid/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmakid/)*

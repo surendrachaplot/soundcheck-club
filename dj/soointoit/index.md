@@ -1,6 +1,6 @@
 # Soo Intoit
 
-Soo Intoit is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Jupiter Disco, New York City on Wed, 5 Aug 2026.
+Soo Intoit is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jupiter Disco, New York City on Wed, 5 Aug 2026.
 
 Soo Intoit is a techno and club artist based in United States of America, tracked on soundcheck, with 108 sets logged across Boston, Chicago, Newyorkcity and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: Jupiter Disco, Newyorkcity on Wed 5 Aug.
 
@@ -26,4 +26,4 @@ Soo Intoit is a techno and club artist based in United States of America, tracke
 
 Xana 101, Sailor Malice, Sp3cial K
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*

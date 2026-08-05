@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+999999999 is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 999999999 is a techno and house artist tracked on soundcheck, with 276 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -36,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Nico Moreno
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

@@ -1,6 +1,6 @@
 # Strepsil
 
-Strepsil is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Strepsil is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
 Strepsil is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Datassette, Equinox (UK) and T-Flex. Next up: The Glove That Fits, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Strepsil is a techno and jungle artist based in United Kingdom, tracked on sound
 
 Datassette, Equinox (UK), T-Flex
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strepsil/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strepsil/)*

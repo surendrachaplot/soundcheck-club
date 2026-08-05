@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+CamelPhat is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 CamelPhat is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 203 sets logg
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

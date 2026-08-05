@@ -1,6 +1,6 @@
 # Shaktu Night at Golden Gate
 
-Shaktu Night at Golden Gate on Fri 21 Aug, Berlin. 2 acts on the bill: Ana Karla and Madura. Preview the line-up and save it on soundcheck.
+Shaktu Night at Golden Gate on Fri 21 Aug, Berlin. 3 acts on the bill: Ana Karla, Madura and NAT(SK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Shaktu Night at Golden Gate on Fri 21 Aug, Berlin. 2 acts on the bill: Ana Karla
 
 - Ana Karla
 - Madura
+- NAT(SK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2496940-shaktu-night-at-golden-gate/)*

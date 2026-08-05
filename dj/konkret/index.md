@@ -1,6 +1,6 @@
 # Konkret
 
-Konkret is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+Konkret is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 Konkret is an electronica and club artist based in Germany, tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside Atomyard, Cristobal ON and DJ JAFA. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Konkret is an electronica and club artist based in Germany, tracked on soundchec
 
 Atomyard, Cristobal ON, DJ JAFA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konkret/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konkret/)*

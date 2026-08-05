@@ -1,6 +1,6 @@
 # patte
 
-patte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Eschschloraque, Berlin on Fri, 7 Aug 2026.
+patte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Eschschloraque, Berlin on Fri, 7 Aug 2026.
 
 patte is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Erosiv, Schorli and Stefoon. Next up: Eschschloraque, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ patte is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Erosiv, Schorli, Stefoon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patte-2-de/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patte-2-de/)*

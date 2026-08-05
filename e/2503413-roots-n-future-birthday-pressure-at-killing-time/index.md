@@ -1,6 +1,6 @@
 # Roots 'n' Future: Birthday Pressure at Killing Time
 
-Roots 'n' Future: Birthday Pressure at Killing Time on Thu 6 Aug, Valencia. 1 act on the bill: Tyre Pressure. Bass and Dub. Preview the line-up and save it on soundcheck.
+Roots 'n' Future: Birthday Pressure at Killing Time on Thu 6 Aug, Valencia. 2 acts on the bill: Andrae Durden and Tyre Pressure. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Roots 'n' Future: Birthday Pressure at Killing Time on Thu 6 Aug, Valencia. 1 ac
 
 ## Line-up
 
+- Andrae Durden
 - Tyre Pressure
 
 *Source: [soundcheck](https://soundcheck.club/e/2503413-roots-n-future-birthday-pressure-at-killing-time/)*

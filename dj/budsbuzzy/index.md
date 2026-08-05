@@ -1,6 +1,6 @@
 # Buds Buzzy
 
-Buds Buzzy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Gravière, Geneva on Fri, 7 Aug 2026.
+Buds Buzzy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Gravière, Geneva on Fri, 7 Aug 2026.
 
 Buds Buzzy is a techno and trance artist based in Switzerland, tracked on soundcheck, with 20 sets logged across Berlin and Geneva. Often billed alongside Hyperaktivist, Ziri and mimetic. Next up: La Gravière, Geneva on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Buds Buzzy is a techno and trance artist based in Switzerland, tracked on soundc
 
 Hyperaktivist, Ziri, mimetic
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budsbuzzy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budsbuzzy/)*

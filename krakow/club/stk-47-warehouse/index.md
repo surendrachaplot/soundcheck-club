@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "MOMENTUUM x NO SAD TECHNO pres. SYNKRETIC" on Fri, 7 Aug 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "MOMENTUUM x NO SAD TECHNO pres. SYNKRETIC" on Fri, 7 Aug 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 5 upcoming nights, with line-ups including Carla Roca, Flakka (2), Forest (PL) and Francesca (PL) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -18,4 +18,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 5 upcoming nig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

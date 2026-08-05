@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Klubkneipe x Tuesday Ritual - Female Empowerment Workshop" on Tue, 4 Aug 2026.
+Prisma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Sssmile Afterhour" on Thu, 6 Aug 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Andi Beat, Benua, Brakata and DJoy and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Andi Beat, Benua, DJoy and Domovnika and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Klubkneipe x Tuesday Ritual - Female Empowerment Workshop | Brakata, Kazuki Takahashi, Prometheus |
 | Thu, 6 Aug 2026 | Sssmile Afterhour | Roberto Corrales, The Shredder |
 | Sun, 9 Aug 2026 | Klubkneipe x House Cats | Domovnika, KÜRÜF |
 | Tue, 11 Aug 2026 | Klubkneipe x Tuesday Ritual - Yoga Twerkshop | DJoy, KÜRÜF |
@@ -18,9 +17,10 @@ Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 | Thu, 20 Aug 2026 | Sssmile Afterhour | Benua, The Kiss |
 | Sun, 23 Aug 2026 | Klubkneipe x Dance Salon |  |
 | Thu, 27 Aug 2026 | Sssmile Afterhour | Najka |
+| Sun, 30 Aug 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

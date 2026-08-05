@@ -1,8 +1,8 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Herrensauna × FIST" on Fri, 7 Aug 2026.
+La Station - Gare des Mines is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Herrensauna × FIST" on Fri, 7 Aug 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Andy4000, Camion Bazar, CEM and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Andy4000, Camion Bazar, CEM and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
@@ -13,14 +13,14 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 u
 | Fri, 14 Aug 2026 | VOLTAGE - Face to Face ⋆˚｡ Camion Bazar | Camion Bazar, Louis The 4th, STL-P, TBA |
 | Sat, 15 Aug 2026 | subtyl | Delano Legito, Egna, KALTBLUME, Sina XX |
 | Fri, 21 Aug 2026 | Spectrum Waves: 2 DAYS |  |
+| Fri, 28 Aug 2026 | Ma soeur, j'ai raté le terminus  |  |
 | Sat, 29 Aug 2026 | Sous Tes Reins | Corbeille Dallas, De Vedelly, Fatima Koanda, Stella K |
 | Sun, 30 Aug 2026 | Aïe soutient La Station |  |
+| Fri, 4 Sept 2026 | LA CREOLE À LA STATION #7 — ULTIMATE PARTY |  |
 | Sat, 5 Sept 2026 | Tara Clerkin Trio (live) + TBC |  |
-| Sun, 6 Sept 2026 | The All Black Everything Kiki Ball |  |
-| Sat, 12 Sept 2026 | Tech Noire feat. B1980 ⎮ La der' à la Stass | law and haktion |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

@@ -1,6 +1,6 @@
 # The Prince of Wales
 
-The Prince of Wales is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Reggae Renaissance with Josh Skints in Brixton" on Sun, 9 Aug 2026.
+The Prince of Wales is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Reggae Renaissance with Josh Skints in Brixton" on Sun, 9 Aug 2026.
 
 The Prince of Wales is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 467 Brixton Road; London; SW9 8HH; United Kingdom.
 
@@ -14,4 +14,4 @@ The Prince of Wales is a music venue in London listed on soundcheck. 1 upcoming 
 
 467 Brixton Road; London; SW9 8HH; United Kingdom, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-prince-of-wales/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-prince-of-wales/)*

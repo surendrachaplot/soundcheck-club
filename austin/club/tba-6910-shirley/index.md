@@ -1,6 +1,6 @@
 # TBA - 6910 Shirley 
 
-TBA - 6910 Shirley  is a music venue in Austin with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "MBM presents: Bill Converse, Sneaker DJ, Josh Cordova + Special Guest" on Sat, 8 Aug 2026.
+TBA - 6910 Shirley  is a music venue in Austin with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "MBM presents: Sneaker DJ, Bill Converse, Josh Cordova + Special Guest" on Sat, 8 Aug 2026.
 
 TBA - 6910 Shirley  is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Bill Converse, Joshua Cordova and Sneaker. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - 6910 Shirley  is a music venue in Austin listed on soundcheck. 1 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | MBM presents: Bill Converse, Sneaker DJ, Josh Cordova + Special Guest | Bill Converse, Joshua Cordova, Sneaker |
+| Sat, 8 Aug 2026 | MBM presents: Sneaker DJ, Bill Converse, Josh Cordova + Special Guest | Bill Converse, Joshua Cordova, Sneaker |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-6910-shirley/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-6910-shirley/)*

@@ -1,6 +1,6 @@
 # Meeson
 
-Meeson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Abbey, Manchester on Fri, 14 Aug 2026.
+Meeson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Abbey, Manchester on Fri, 14 Aug 2026.
 
 Meeson is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside Javan, krioso and BANSHII. Next up: The Abbey, Manchester on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Meeson is a house and deep house artist based in United Kingdom, tracked on soun
 
 Javan, krioso, BANSHII
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meeson/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meeson/)*

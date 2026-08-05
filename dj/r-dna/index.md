@@ -1,8 +1,8 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+R-DNA is a Techno and Baile Funk artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
-R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Honey's, Newyorkcity on Sat 8 Aug.
+R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Honey's | New York City |
 | Sat, 15 Aug 2026 | TBA - Brooklyn | New York City |
+| Wed, 19 Aug 2026 | Mood Ring | New York City |
 | Fri, 21 Aug 2026 | Newtown Radio | New York City |
 | Sun, 23 Aug 2026 | Honey's | New York City |
 | Thu, 27 Aug 2026 | Mood Ring | New York City |
@@ -29,4 +30,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck,
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

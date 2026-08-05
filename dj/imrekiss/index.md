@@ -1,6 +1,6 @@
 # Imre Kiss
 
-Imre Kiss is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
+Imre Kiss is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
 
 Imre Kiss is a disco and deep house artist based in Slovakia, tracked on soundcheck, with 9 sets logged across Budapest and Prague. Often billed alongside Max Sinclair, DJ Crimson and S Olbricht. Next up: Pontoon Budapest, Budapest on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Imre Kiss is a disco and deep house artist based in Slovakia, tracked on soundch
 
 Max Sinclair, DJ Crimson, S Olbricht
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imrekiss/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imrekiss/)*

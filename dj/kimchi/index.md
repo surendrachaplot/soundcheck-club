@@ -1,6 +1,6 @@
 # Kimchi
 
-Kimchi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 7 Aug 2026.
+Kimchi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 7 Aug 2026.
 
 Kimchi is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Rotterdam and Tokyo. Often billed alongside Haruka Takizawa, San Proper and YOSHI KANOU. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Kimchi is a techno and house artist based in United States of America, tracked o
 
 Haruka Takizawa, San Proper, YOSHI KANOU
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimchi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimchi/)*

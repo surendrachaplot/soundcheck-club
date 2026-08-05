@@ -1,8 +1,8 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+Verraco is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
-Verraco is a techno and bass artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Old Royal Naval College, London on Fri 7 Aug.
+Verraco is a techno and bass artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Verraco is a techno and bass artist tracked on soundcheck, with 125 sets logged 
 | Fri, 7 Aug 2026 | Old Royal Naval College | London |
 | Fri, 7 Aug 2026 | The Cause | London |
 | Fri, 7 Aug 2026 | Paavli Kultuurivabrik | Tallinn |
+| Fri, 28 Aug 2026 | Fuse | Brussels |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
@@ -31,4 +32,4 @@ Verraco is a techno and bass artist tracked on soundcheck, with 125 sets logged 
 
 Bitter Babe, CCL, Batu
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

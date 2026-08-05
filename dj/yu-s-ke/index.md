@@ -1,6 +1,6 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at DeTour, Tokyo on Sun, 9 Aug 2026.
+YU-S-KE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at DeTour, Tokyo on Sun, 9 Aug 2026.
 
 YU-S-KE is a techno and house artist tracked on soundcheck, with 58 sets logged across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: DeTour, Tokyo on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ YU-S-KE is a techno and house artist tracked on soundcheck, with 58 sets logged 
 
 BEPPU, Q'hey, Takami
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

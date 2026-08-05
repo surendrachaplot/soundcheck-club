@@ -1,13 +1,14 @@
 # Mees Javois
 
-Mees Javois is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at nachbar, Amsterdam on Thu, 20 Aug 2026.
+Mees Javois is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at BRET, Amsterdam on Sun, 9 Aug 2026.
 
-Mees Javois is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Lyon, Paris and Rotterdam and 2 more. Often billed alongside Mall Grab, Bastienne and Grace Dahl. Next up: nachbar, Amsterdam on Thu 20 Aug.
+Mees Javois is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Lyon, Paris and Rotterdam and 2 more. Often billed alongside Bastienne, Mall Grab and Grace Dahl. Next up: BRET, Amsterdam on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | BRET | Amsterdam |
 | Thu, 20 Aug 2026 | nachbar | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mees Javois is a techno and house artist tracked on soundcheck, with 32 sets log
 
 ## Shares bills with
 
-Mall Grab, Bastienne, Grace Dahl
+Bastienne, Mall Grab, Grace Dahl
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meesjavois/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meesjavois/)*

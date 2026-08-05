@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "HONEY HONEY" on Fri, 14 Aug 2026.
+Electrowerkz is a music venue in London with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "HONEY HONEY" on Fri, 14 Aug 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AyChibs, Dj.Malefica, Donnie Sunshine and Farius and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming nights
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

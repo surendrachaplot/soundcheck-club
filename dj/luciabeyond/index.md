@@ -1,6 +1,6 @@
 # Lucía Beyond
 
-Lucía Beyond is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mansions, New York City on Thu, 6 Aug 2026.
+Lucía Beyond is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mansions, New York City on Thu, 6 Aug 2026.
 
 Lucía Beyond is a techno and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Austin, Chicago, Houston and Leipzig and 2 more. Often billed alongside Rosei City, Alex DL and Amarji King. Next up: Mansions, Newyorkcity on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Lucía Beyond is a techno and house artist based in United States of America, tr
 
 Rosei City, Alex DL, Amarji King
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciabeyond/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciabeyond/)*

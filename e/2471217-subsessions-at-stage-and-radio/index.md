@@ -1,6 +1,6 @@
 # SubSessions at Stage and Radio
 
-SubSessions at Stage and Radio on Sat 22 Aug, Manchester. 1 act on the bill: K1ng Arthur. Breakbeat and House. Preview the line-up and save it on soundcheck.
+SubSessions at Stage and Radio on Sat 22 Aug, Manchester. 2 acts on the bill: Groooves and K1ng Arthur. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SubSessions at Stage and Radio on Sat 22 Aug, Manchester. 1 act on the bill: K1n
 
 ## Line-up
 
+- Groooves
 - K1ng Arthur
 
 *Source: [soundcheck](https://soundcheck.club/e/2471217-subsessions-at-stage-and-radio/)*

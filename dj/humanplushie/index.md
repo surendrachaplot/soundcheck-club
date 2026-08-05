@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Ulana's, Philadelphia on Fri, 7 Aug 2026.
+human plushie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ulana's, Philadelphia on Fri, 7 Aug 2026.
 
 human plushie is a techno and trance artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Philadelphia and Washingtondc. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: Ulana's, Philadelphia on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ human plushie is a techno and trance artist based in United States of America, t
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

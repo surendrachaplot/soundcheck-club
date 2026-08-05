@@ -1,6 +1,6 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Catalyst, San Francisco/Oakland on Sat, 8 Aug 2026.
+DJ Colette is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Catalyst, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 DJ Colette is a house and deep house artist tracked on soundcheck, with 69 sets logged across Chicago, Detroit, Losangeles and Melbourne and 10 more. Often billed alongside DJ Heather, Pete Moss and Bear Who?. Next up: The Catalyst, Sanfrancisco on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ DJ Colette is a house and deep house artist tracked on soundcheck, with 69 sets 
 
 DJ Heather, Pete Moss, Bear Who?
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

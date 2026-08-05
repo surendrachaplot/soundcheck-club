@@ -1,6 +1,6 @@
 # nihil
 
-nihil is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
+nihil is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tresor / Globus, Berlin on Wed, 12 Aug 2026.
 
 nihil is an electronic artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Hamburg. Often billed alongside Marta Aurelia, SIX DIMENSIONS and Bubamara. Next up: Tresor / Globus, Berlin on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ nihil is an electronic artist based in Germany, tracked on soundcheck, with 19 s
 
 Marta Aurelia, SIX DIMENSIONS, Bubamara
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nihil/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nihil/)*

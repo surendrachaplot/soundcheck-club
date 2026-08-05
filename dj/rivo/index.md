@@ -1,14 +1,13 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Tue, 4 Aug 2026.
+Rivo is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bolivar Beach Bar, Athens on Sat, 8 Aug 2026.
 
-Rivo is a house and afro house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: [UNVRS], Ibiza on Tue 4 Aug.
+Rivo is a house and afro house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Bolivar Beach Bar, Athens on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 8 Aug 2026 | Bolivar Beach Bar | Athens |
 | Wed, 19 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Santanna Mykonos | Mykonos |
@@ -19,6 +18,7 @@ Rivo is a house and afro house artist tracked on soundcheck, with 57 sets logged
 
 ## Recently played
 
+- [UNVRS], Ibiza — Tue, 4 Aug 2026
 - Kiesgrube, Düsseldorf — Sun, 2 Aug 2026
 - Budai Vár - Oroszlános Udvar, Budapest — Sat, 25 Jul 2026
 - Hï Ibiza, Ibiza — Thu, 9 Jul 2026
@@ -26,10 +26,9 @@ Rivo is a house and afro house artist tracked on soundcheck, with 57 sets logged
 - Ushuaïa Ibiza, Ibiza — Mon, 15 Jun 2026
 - Hippodrome de Vincennes, Paris — Sun, 14 Jun 2026
 - Hï Ibiza, Ibiza — Thu, 21 May 2026
-- Bolivar Beach Bar, Athens — Sat, 16 May 2026
 
 ## Shares bills with
 
 Eric Prydz, Bender, Argy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

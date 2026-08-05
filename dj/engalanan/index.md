@@ -1,6 +1,6 @@
 # ENGALANAN
 
-ENGALANAN is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
+ENGALANAN is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
 
 ENGALANAN is a techno and club artist based in Spain, tracked on soundcheck, with 66 sets logged across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Acidnena. Next up: SMUT Athens, Athens on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ENGALANAN is a techno and club artist based in Spain, tracked on soundcheck, wit
 
 softchaos, M8NSE, Acidnena
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*

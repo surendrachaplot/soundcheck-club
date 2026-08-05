@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Sun 30 Aug, Chicago. 2 acts on the bill: J.Wiltshire and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
+etc radio at TBA on Sun 30 Aug, Chicago. 3 acts on the bill: J.Wiltshire, K-stoge and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ etc radio at TBA on Sun 30 Aug, Chicago. 2 acts on the bill: J.Wiltshire and m50
 ## Line-up
 
 - J.Wiltshire
+- K-stoge
 - m50
 
 *Source: [soundcheck](https://soundcheck.club/e/2482866-etc-radio-at-tba/)*

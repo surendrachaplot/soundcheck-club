@@ -1,6 +1,6 @@
 # Dale Hart
 
-Dale Hart is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
+Dale Hart is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
 
 Dale Hart is a house and disco artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Barcelona, Bristol, Ibiza and London. Often billed alongside Darius Syrossian, ACA (YU) and Ryan Connolly. Next up: E1, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dale Hart is a house and disco artist based in United Kingdom, tracked on soundc
 
 Darius Syrossian, ACA (YU), Ryan Connolly
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalehart/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalehart/)*

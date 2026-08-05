@@ -1,14 +1,15 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Onkel Dannys Plads, Copenhagen on Sat, 8 Aug 2026.
+DJ Nah Care is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Onkel Dannys Plads, Copenhagen on Sat, 8 Aug 2026.
 
-DJ Nah Care is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Onkel Dannys Plads, Copenhagen on Sat 8 Aug.
+DJ Nah Care is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Onkel Dannys Plads, Copenhagen on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Onkel Dannys Plads | Copenhagen |
+| Sat, 8 Aug 2026 | Baggen | Copenhagen |
 | Sat, 22 Aug 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Nah Care is a techno and house artist tracked on soundcheck, with 73 sets log
 
 Ezy, Entree, Peachlyfe
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*

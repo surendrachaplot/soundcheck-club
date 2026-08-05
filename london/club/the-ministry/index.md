@@ -1,6 +1,6 @@
 # The Ministry
 
-The Ministry is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "More Good Times Summer Party II - London" on Sat, 22 Aug 2026.
+The Ministry is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "More Good Times Summer Party II - London" on Sat, 22 Aug 2026.
 
 The Ministry is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 79-81 Borough Rd, London SE1 1DN.
 
@@ -14,4 +14,4 @@ The Ministry is a music venue in London listed on soundcheck. 1 upcoming night. 
 
 79-81 Borough Rd, London SE1 1DN, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ministry/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ministry/)*

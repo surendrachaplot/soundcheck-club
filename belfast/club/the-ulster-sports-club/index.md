@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Plain Sailing's Irish B2B Special" on Fri, 7 Aug 2026.
+The Ulster Sports Club is a music venue in Belfast with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Plain Sailing's Irish B2B Special" on Fri, 7 Aug 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 8 upcoming nights, with line-ups including Adam Munn, Blark, brawni and Christopher Coe and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -21,4 +21,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 8 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

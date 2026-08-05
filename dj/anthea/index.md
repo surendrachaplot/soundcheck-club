@@ -1,14 +1,15 @@
 # Anthea
 
-Anthea is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Starlane São Paulo, Sao Paulo on Thu, 6 Aug 2026.
+Anthea is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Starlane São Paulo, Sao Paulo on Thu, 6 Aug 2026.
 
-Anthea is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: Starlane São Paulo, Saopaulo on Thu 6 Aug.
+Anthea is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: Starlane São Paulo, Saopaulo on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Starlane São Paulo | Sao Paulo |
+| Wed, 12 Aug 2026 | Avant Garten | Buenos Aires |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
@@ -27,4 +28,4 @@ Anthea is a house and techno artist tracked on soundcheck, with 166 sets logged 
 
 tINI, Oshana, Astral Travel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

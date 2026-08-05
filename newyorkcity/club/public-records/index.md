@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Deluge & Plural Artist Management present: Bobby Beethoven, Kumi James, Kelman Duran" on Thu, 6 Aug 2026.
+public records is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Deluge & Plural Artist Management present: Bobby Beethoven, Kumi James, Kelman Duran" on Thu, 6 Aug 2026.
 
 public records is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including 30000AD, Andrey Pushkarev, Annie Lew and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 28 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

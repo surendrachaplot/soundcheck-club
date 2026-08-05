@@ -1,6 +1,6 @@
 # C.U.N.T. - fundraiser & party at Crack Bellmer
 
-C.U.N.T. - fundraiser & party at Crack Bellmer on Thu 6 Aug, Berlin. 1 act on the bill: DotDash. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+C.U.N.T. - fundraiser & party at Crack Bellmer on Thu 6 Aug, Berlin. 2 acts on the bill: Ahni and DotDash. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ C.U.N.T. - fundraiser & party at Crack Bellmer on Thu 6 Aug, Berlin. 1 act on th
 
 ## Line-up
 
+- Ahni
 - DotDash
 
 *Source: [soundcheck](https://soundcheck.club/e/2487739-c-u-n-t-fundraiser-party-at-crack-bellmer/)*

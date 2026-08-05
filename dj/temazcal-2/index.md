@@ -1,6 +1,6 @@
 # Temazcal (2)
 
-Temazcal (2) is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
+Temazcal (2) is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
 
 Temazcal (2) is an acid and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin and Hamburg. Often billed alongside Alex Caruso, HOOM and DJ Breakless. Next up: Edelfettwerk, Hamburg on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Temazcal (2) is an acid and techno artist based in Germany, tracked on soundchec
 
 Alex Caruso, HOOM, DJ Breakless
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temazcal-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temazcal-2/)*

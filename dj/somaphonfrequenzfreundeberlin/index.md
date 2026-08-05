@@ -1,6 +1,6 @@
 # Somaphon Frequenzfreunde Berlin
 
-Somaphon Frequenzfreunde Berlin is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat, 15 Aug 2026.
+Somaphon Frequenzfreunde Berlin is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat, 15 Aug 2026.
 
 Somaphon Frequenzfreunde Berlin is a tech house and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Milk N Coffee, Der Eggert and Orpheuz. Next up: TBA - Rave the Planet Parade 2026 - Brandenburger Tor / Berlin 2pm, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Somaphon Frequenzfreunde Berlin is a tech house and techno artist based in Germa
 
 Milk N Coffee, Der Eggert, Orpheuz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somaphonfrequenzfreundeberlin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somaphonfrequenzfreundeberlin/)*

@@ -1,6 +1,6 @@
 # DJ Soyboy
 
-DJ Soyboy is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
+DJ Soyboy is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
 
 DJ Soyboy is a house and breakbeat artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Utrecht. Often billed alongside Argento, CHEM:EX and Mattie (2). Next up: KABUL à GoGo, Utrecht on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ DJ Soyboy is a house and breakbeat artist based in Netherlands, tracked on sound
 
 Argento, CHEM:EX, Mattie (2)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoyboy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoyboy/)*

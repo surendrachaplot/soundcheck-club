@@ -1,6 +1,6 @@
 # Slinky Kinky
 
-Slinky Kinky is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
+Slinky Kinky is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
 Slinky Kinky is a techno and trance artist tracked on soundcheck, with 8 sets logged across London and Sheffield. Often billed alongside WVRM POOL, Jeneva and ANNX. Next up: FOLD, London on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Slinky Kinky is a techno and trance artist tracked on soundcheck, with 8 sets lo
 
 WVRM POOL, Jeneva, ANNX
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slinkykinky/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slinkykinky/)*

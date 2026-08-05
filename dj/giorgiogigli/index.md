@@ -1,6 +1,6 @@
 # Giorgio Gigli
 
-Giorgio Gigli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 5 Aug 2026.
+Giorgio Gigli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 5 Aug 2026.
 
 Giorgio Gigli is a techno and house artist based in Italy, tracked on soundcheck, with 39 sets logged across Berlin, Naples and Rome. Often billed alongside Zerø, GNMR and Alessandro Adriani. Next up: THE MAGICK BAR, Rome on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Giorgio Gigli is a techno and house artist based in Italy, tracked on soundcheck
 
 Zerø, GNMR, Alessandro Adriani
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiogigli/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiogigli/)*

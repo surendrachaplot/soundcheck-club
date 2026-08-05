@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 15 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ballroom at Palais: Raphael" on Thu, 6 Aug 2026.
+Ballroom at Palais is a music venue in London with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Ballroom at Palais: Raphael" on Thu, 6 Aug 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including DJ Winggold, Elianne, Ellaweeez and Fiyahdred and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 15 upcoming 
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

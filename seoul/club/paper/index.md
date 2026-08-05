@@ -1,6 +1,6 @@
 # Paper
 
-Paper is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Resentment Naion_Paper Seoul" on Fri, 7 Aug 2026.
+Paper is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Resentment Naion_Paper Seoul" on Fri, 7 Aug 2026.
 
 Paper is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including AND1 (2), AVALON, Closet Yi and FOI (SK) and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
 
@@ -16,4 +16,4 @@ Paper is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with li
 
 Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350, Seoul
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*

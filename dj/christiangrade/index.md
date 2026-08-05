@@ -1,14 +1,15 @@
 # Christian Grade
 
-Christian Grade is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Christian Grade is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Christian Grade is a techno and tech house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Vienna. Often billed alongside Felix Reichelt, Cat Vermillion and Ronny Luft. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
+Christian Grade is a techno and tech house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Vienna. Often billed alongside Felix Reichelt, Cat Vermillion and Ronny Luft. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
+| Sat, 15 Aug 2026 | Golden Flamingo | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Christian Grade is a techno and tech house artist based in Germany, tracked on s
 
 Felix Reichelt, Cat Vermillion, Ronny Luft
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiangrade/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiangrade/)*

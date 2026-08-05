@@ -1,6 +1,6 @@
 # N2N (US)
 
-N2N (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at House of Yes, New York City on Sat, 29 Aug 2026.
+N2N (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at House of Yes, New York City on Sat, 29 Aug 2026.
 
 N2N (US) is a house and tech house artist tracked on soundcheck, with 32 sets logged across Denver, Losangeles, Miami and Newyorkcity and 6 more. Often billed alongside AMPRS&ND, Felix Cartal and Mary Droppinz. Next up: House of Yes, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ N2N (US) is a house and tech house artist tracked on soundcheck, with 32 sets lo
 
 AMPRS&ND, Felix Cartal, Mary Droppinz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n2nus/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n2nus/)*

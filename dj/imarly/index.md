@@ -1,6 +1,6 @@
 # iMarly
 
-iMarly is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
+iMarly is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
 
 iMarly is a techno and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Ansjowvis, COLD ASS ICE and DJ AYA. Next up: Roel Langerakpark, Rotterdam on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ iMarly is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Ansjowvis, COLD ASS ICE, DJ AYA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imarly/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imarly/)*

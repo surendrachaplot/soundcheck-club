@@ -1,6 +1,6 @@
 # carlo kalu
 
-carlo kalu is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Adam Riese, Frankfurt on Sat, 8 Aug 2026.
+carlo kalu is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Adam Riese, Frankfurt on Sat, 8 Aug 2026.
 
 carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Hamburg and Prague and 2 more. Often billed alongside Crystal O, Joey (2) and KILIÅN. Next up: Adam Riese, Frankfurt on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck
 
 Crystal O, Joey (2), KILIÅN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokalu/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokalu/)*

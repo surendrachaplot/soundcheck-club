@@ -1,6 +1,6 @@
 # a.gar
 
-a.gar is a Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Deep End, New York City on Fri, 7 Aug 2026.
+a.gar is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Deep End, New York City on Fri, 7 Aug 2026.
 
 a.gar is a techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Pablo Vitale, AJACENT and shirlz. Next up: The Deep End, Newyorkcity on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ a.gar is a techno artist tracked on soundcheck, with 5 sets logged across Newyor
 
 Pablo Vitale, AJACENT, shirlz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*

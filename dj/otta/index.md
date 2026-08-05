@@ -1,6 +1,6 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
+ØTTA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
 
 ØTTA is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: Nitsa Club, Barcelona on Fri 7 Aug.
 
@@ -33,4 +33,4 @@
 
 Nico Moreno, 999999999, Alignment
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

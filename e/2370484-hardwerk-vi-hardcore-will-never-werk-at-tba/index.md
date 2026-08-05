@@ -1,6 +1,6 @@
 # HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at TBA
 
-HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at TBA on Fri 2 Oct, Manchester. 3 acts on the bill: Big Dope P, CRAIC DAVID and sohotsospicy. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at TBA on Fri 2 Oct, Manchester. 4 acts on the bill: Arkyn, Big Dope P, CRAIC DAVID and sohotsospicy. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at TBA on Fri 2 Oct, Manchester. 3 ac
 
 ## Line-up
 
+- Arkyn
 - Big Dope P
 - CRAIC DAVID
 - sohotsospicy

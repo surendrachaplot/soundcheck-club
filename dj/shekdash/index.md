@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at EQ San Diego, San Diego on Fri, 7 Aug 2026.
+shekdash is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at EQ San Diego, San Diego on Fri, 7 Aug 2026.
 
 shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 82 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: EQ San Diego, Sandiego on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ shekdash is a techno and club artist based in United States of America, tracked 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

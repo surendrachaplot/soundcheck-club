@@ -1,8 +1,8 @@
 # Ficilio
 
-Ficilio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Cafeteria, Toronto on Fri, 14 Aug 2026.
+Ficilio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cafeteria, Toronto on Fri, 14 Aug 2026.
 
-Ficilio is a house and techno artist based in Canada, tracked on soundcheck, with 34 sets logged across Osaka and Toronto. Often billed alongside Ciel, Milch (1) and Rabzi. Next up: Cafeteria, Toronto on Fri 14 Aug.
+Ficilio is a house and techno artist based in Canada, tracked on soundcheck, with 35 sets logged across Montreal, Osaka and Toronto. Often billed alongside Ciel, Milch (1) and Rabzi. Next up: Cafeteria, Toronto on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ficilio is a house and techno artist based in Canada, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Cafeteria | Toronto |
 | Fri, 21 Aug 2026 | Bambi's | Toronto |
+| Sat, 22 Aug 2026 | Bar Datcha | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ficilio is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Ciel, Milch (1), Rabzi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ficilio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ficilio/)*

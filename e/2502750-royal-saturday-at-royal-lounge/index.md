@@ -1,10 +1,10 @@
 # Royal Saturday at Royal Lounge
 
-Royal Saturday at Royal Lounge on Sat 1 Aug, Tokyo. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Royal Saturday at Royal Lounge on Sat 8 Aug, Tokyo. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 1 Aug 2026 |
+| Date | Sat, 8 Aug 2026 |
 | Venue | Royal Lounge |
 | City | Tokyo |
 

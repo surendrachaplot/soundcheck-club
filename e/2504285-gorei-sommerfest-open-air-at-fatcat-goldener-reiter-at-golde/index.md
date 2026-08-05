@@ -1,6 +1,6 @@
 # GoRei Sommerfest Open Air at Fatcat & Goldener Reiter at Goldener Reiter
 
-GoRei Sommerfest Open Air at Fatcat & Goldener Reiter on Sat 15 Aug, Munich. 5 acts on the bill: André Dancekowski, Mikey Gee, Mo the prophet and Morz Des Soundsystem and 1 more. House. Preview the line-up and save it on soundcheck.
+GoRei Sommerfest Open Air at Fatcat & Goldener Reiter on Sat 15 Aug, Munich. 6 acts on the bill: André Dancekowski, Jeyrototo, Mikey Gee and Mo the prophet and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ GoRei Sommerfest Open Air at Fatcat & Goldener Reiter on Sat 15 Aug, Munich. 5 a
 ## Line-up
 
 - André Dancekowski
+- Jeyrototo
 - Mikey Gee
 - Mo the prophet
 - Morz Des Soundsystem

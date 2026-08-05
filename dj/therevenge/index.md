@@ -1,6 +1,6 @@
 # The Revenge
 
-The Revenge is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Cheetah Club, Glasgow on Sun, 30 Aug 2026.
+The Revenge is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Cheetah Club, Glasgow on Sun, 30 Aug 2026.
 
 The Revenge is a disco and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen and Glasgow. Often billed alongside Jean-Robert Saintil, Aja Gulris and Chris Gavin. Next up: La Cheetah Club, Glasgow on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ The Revenge is a disco and house artist based in United Kingdom, tracked on soun
 
 Jean-Robert Saintil, Aja Gulris, Chris Gavin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/therevenge/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/therevenge/)*

@@ -1,6 +1,6 @@
 # RĀMZĪ
 
-RĀMZĪ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Smolna, Warsaw on Sat, 15 Aug 2026.
+RĀMZĪ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Smolna, Warsaw on Sat, 15 Aug 2026.
 
 RĀMZĪ is a techno and industrial artist based in Poland, tracked on soundcheck, with 15 sets logged across Krakow and Warsaw. Often billed alongside Claude Degas, Mordeaux and Robsessive. Next up: Smolna, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ RĀMZĪ is a techno and industrial artist based in Poland, tracked on soundcheck
 
 Claude Degas, Mordeaux, Robsessive
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi-PL/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi-PL/)*

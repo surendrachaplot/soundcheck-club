@@ -1,6 +1,6 @@
 # Pete Monsoon
 
-Pete Monsoon is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Beaver Works, Leeds on Sat, 8 Aug 2026.
+Pete Monsoon is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Beaver Works, Leeds on Sat, 8 Aug 2026.
 
 Pete Monsoon is a trance and hardcore artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds and Manchester. Often billed alongside Lisa Pinup, Rob Tissera and Billy Daniel Bunter. Next up: Beaver Works, Leeds on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Pete Monsoon is a trance and hardcore artist based in United Kingdom, tracked on
 
 Lisa Pinup, Rob Tissera, Billy Daniel Bunter
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petemonsoon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petemonsoon/)*

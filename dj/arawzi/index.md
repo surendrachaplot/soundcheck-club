@@ -1,6 +1,6 @@
 # arawzi
 
-arawzi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Greyhound, London on Sat, 8 Aug 2026.
+arawzi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Greyhound, London on Sat, 8 Aug 2026.
 
 arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged across Brighton and London. Often billed alongside Atoxyl, O.KAYE and Yiota. Next up: The Greyhound, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged a
 
 Atoxyl, O.KAYE, Yiota
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*

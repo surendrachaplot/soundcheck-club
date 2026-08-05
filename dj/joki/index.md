@@ -1,14 +1,15 @@
 # JOKI
 
-JOKI is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 5 Aug 2026.
+JOKI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 5 Aug 2026.
 
-JOKI is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin and Tokyo. Often billed alongside Momentune, Ohishi and James Rudie. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 5 Aug.
+JOKI is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin and Tokyo. Often billed alongside Momentune, Ohishi and Curl Ease. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Sat, 8 Aug 2026 | M-BIA | Berlin |
 | Mon, 10 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
@@ -24,6 +25,6 @@ JOKI is a house and deep house artist based in United States of America, tracked
 
 ## Shares bills with
 
-Momentune, Ohishi, James Rudie
+Momentune, Ohishi, Curl Ease
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*

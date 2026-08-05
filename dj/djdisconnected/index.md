@@ -1,6 +1,6 @@
 # DJ Disconnected
 
-DJ Disconnected is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 7 Aug 2026.
+DJ Disconnected is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 7 Aug 2026.
 
 DJ Disconnected is a progressive house and techno artist based in Bosnia and Herzegovina, tracked on soundcheck, with 5 sets logged across Lisbon. Often billed alongside ELEVIN, Alberto Pizzarelli and Chris Veron. Next up: Village Underground Lisboa, Lisbon on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ DJ Disconnected is a progressive house and techno artist based in Bosnia and Her
 
 ELEVIN, Alberto Pizzarelli, Chris Veron
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisconnected/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisconnected/)*

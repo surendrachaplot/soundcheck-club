@@ -1,13 +1,14 @@
 # Jesse Walker
 
-Jesse Walker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Platform9, Vancouver on Sat, 22 Aug 2026.
+Jesse Walker is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Lido, Vancouver on Sat, 8 Aug 2026.
 
-Jesse Walker is a house and disco artist based in United States of America, tracked on soundcheck, with 11 sets logged across Vancouver. Often billed alongside Fisher Bryce, AVRY and AWood. Next up: Platform9, Vancouver on Sat 22 Aug.
+Jesse Walker is a house and disco artist based in United States of America, tracked on soundcheck, with 12 sets logged across Vancouver. Often billed alongside Fisher Bryce, AVRY and AWood. Next up: The Lido, Vancouver on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | The Lido | Vancouver |
 | Sat, 22 Aug 2026 | Platform9 | Vancouver |
 | Sat, 19 Sept 2026 | The Beaumont Studios | Vancouver |
 
@@ -26,4 +27,4 @@ Jesse Walker is a house and disco artist based in United States of America, trac
 
 Fisher Bryce, AVRY, AWood
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewalker/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewalker/)*

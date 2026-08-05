@@ -1,6 +1,6 @@
 # Nymed
 
-Nymed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Nymed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 Nymed is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside Boris, Mar/us and DMN DJ. Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Nymed is a techno and house artist tracked on soundcheck, with 68 sets logged ac
 
 Boris, Mar/us, DMN DJ
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*

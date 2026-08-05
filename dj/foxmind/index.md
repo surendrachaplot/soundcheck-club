@@ -1,6 +1,6 @@
 # FoxMind
 
-FoxMind is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Coro Wine and Vinyls, Berlin on Wed, 5 Aug 2026.
+FoxMind is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Coro Wine and Vinyls, Berlin on Wed, 5 Aug 2026.
 
 FoxMind is a house and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside Janosch (2), Serving Suggestions and Aezron. Next up: Coro Wine and Vinyls, Berlin on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ FoxMind is a house and techno artist based in United Kingdom, tracked on soundch
 
 Janosch (2), Serving Suggestions, Aezron
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*

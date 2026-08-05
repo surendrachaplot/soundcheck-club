@@ -1,6 +1,6 @@
 # Kat Richmond
 
-Kat Richmond is a Tech House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Arch 535, London on Sat, 8 Aug 2026.
+Kat Richmond is a Tech House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Arch 535, London on Sat, 8 Aug 2026.
 
 Kat Richmond is a tech house and afro tech artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Samantha Blackburn, Guy Herman and La Gosse. Next up: Arch 535, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kat Richmond is a tech house and afro tech artist based in United Kingdom, track
 
 Samantha Blackburn, Guy Herman, La Gosse
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katrichmond/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katrichmond/)*

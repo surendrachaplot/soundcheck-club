@@ -1,6 +1,6 @@
 # Inu G
 
-Inu G is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
+Inu G is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
 
 Inu G is a bass and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Barcelona and Munich. Often billed alongside Elpawel, DJLolo and Dolan. Next up: Lieberscholli, Munich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Inu G is a bass and house artist based in Germany, tracked on soundcheck, with 3
 
 Elpawel, DJLolo, Dolan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inug/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inug/)*

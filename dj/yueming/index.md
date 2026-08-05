@@ -1,6 +1,6 @@
 # YUEMING
 
-YUEMING is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OIL Club, Shenzhen on Sat, 8 Aug 2026.
+YUEMING is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OIL Club, Shenzhen on Sat, 8 Aug 2026.
 
 YUEMING is a techno and bass artist tracked on soundcheck, with 30 sets logged across Hongkong and Shenzhen. Often billed alongside NOSCOPE720, TUESDAY and NENENEKO. Next up: OIL Club, Shenzhen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ YUEMING is a techno and bass artist tracked on soundcheck, with 30 sets logged a
 
 NOSCOPE720, TUESDAY, NENENEKO
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yueming/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yueming/)*

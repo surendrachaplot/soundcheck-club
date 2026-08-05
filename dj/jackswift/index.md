@@ -1,6 +1,6 @@
 # Jack Swift
 
-Jack Swift is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Jack Swift is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Jack Swift is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London, Malta and Manchester. Often billed alongside Devstar, Boon (UK) and DJ Majesty. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jack Swift is a house and tech house artist based in United Kingdom, tracked on 
 
 Devstar, Boon (UK), DJ Majesty
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackswift/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackswift/)*

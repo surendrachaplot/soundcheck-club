@@ -1,6 +1,6 @@
-# MELT x YOON: Satoshi Tomiie, James Zabiela, Ricardo Roessel, Tommy Pickles, Ika & Usherenko at TBA - Arts District LA
+# MELT x YOON: Satoshi Tomiie, James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Usherenko at TBA - Arts District LA
 
-MELT x YOON: Satoshi Tomiie, James Zabiela, Ricardo Roessel, Tommy Pickles, Ika & Usherenko at TBA - Arts District LA on Sat 31 Oct, Losangeles. 6 acts on the bill: Ika (GE), James Zabiela, Ricardo Roessel and Satoshi Tomiie and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+MELT x YOON: Satoshi Tomiie, James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Usherenko at TBA - Arts District LA on Sat 31 Oct, Losangeles. 7 acts on the bill: EDA (2), Ika (GE), James Zabiela and Ricardo Roessel and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MELT x YOON: Satoshi Tomiie, James Zabiela, Ricardo Roessel, Tommy Pickles, Ika 
 
 ## Line-up
 
+- EDA (2)
 - Ika (GE)
 - James Zabiela
 - Ricardo Roessel

@@ -1,6 +1,6 @@
 # Coretex
 
-Coretex is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
+Coretex is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
 
 Coretex is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 42 sets logged across Frankfurt, Hongkong, Osaka and Tokyo. Often billed alongside MIDI War, KAMIKAZE and M-Project. Next up: Circus Tokyo, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Coretex is a hardcore and gabber artist based in Japan, tracked on soundcheck, w
 
 MIDI War, KAMIKAZE, M-Project
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coretex/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coretex/)*

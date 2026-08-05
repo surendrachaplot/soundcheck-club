@@ -1,14 +1,15 @@
 # Tony H
 
-Tony H is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Monkey Loft, Seattle on Thu, 20 Aug 2026.
+Tony H is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Monkey Loft, Seattle on Thu, 20 Aug 2026.
 
-Tony H is a house and tech house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Detroit, Losangeles, Miami and Seattle and 1 more. Often billed alongside Doc Brown, Gettoblaster and Julie Herrera. Next up: The Monkey Loft, Seattle on Thu 20 Aug.
+Tony H is a house and tech house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit, Losangeles, Miami and Seattle and 1 more. Often billed alongside Doc Brown, Gettoblaster and Julie Herrera. Next up: The Monkey Loft, Seattle on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | The Monkey Loft | Seattle |
+| Sat, 29 Aug 2026 | The Monkey Loft | Seattle |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tony H is a house and tech house artist based in United States of America, track
 
 Doc Brown, Gettoblaster, Julie Herrera
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyh/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyh/)*

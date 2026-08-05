@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+zwilling. is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 zwilling. is a techno and trance artist tracked on soundcheck, with 94 sets logged across Antwerp, Barcelona, Basel and Berlin and 30 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -33,4 +33,4 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 94 sets logg
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

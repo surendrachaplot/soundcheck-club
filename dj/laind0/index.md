@@ -1,6 +1,6 @@
 # La Ind0
 
-La Ind0 is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 14 Aug 2026.
+La Ind0 is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 14 Aug 2026.
 
 La Ind0 is a house and electronica artist tracked on soundcheck, with 18 sets logged across Edinburgh and Madrid. Often billed alongside Balheim, Certain People and Feena. Next up: Sneaky Pete's, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ La Ind0 is a house and electronica artist tracked on soundcheck, with 18 sets lo
 
 Balheim, Certain People, Feena
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laind0/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laind0/)*

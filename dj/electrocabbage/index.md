@@ -1,6 +1,6 @@
 # electrocabbage
 
-electrocabbage is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Vancouver on Sun, 9 Aug 2026.
+electrocabbage is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Vancouver on Sun, 9 Aug 2026.
 
 electrocabbage is a house and deep house artist based in Poland, tracked on soundcheck, with 6 sets logged across Vancouver. Often billed alongside Worldwide Wojtek, DJ Skytrain and Niki Sadeki. Next up: TBA, Vancouver on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ electrocabbage is a house and deep house artist based in Poland, tracked on soun
 
 Worldwide Wojtek, DJ Skytrain, Niki Sadeki
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electrocabbage/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electrocabbage/)*

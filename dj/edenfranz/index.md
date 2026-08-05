@@ -1,6 +1,6 @@
 # Edenfranz
 
-Edenfranz is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
+Edenfranz is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
 
 Edenfranz is a house and progressive house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona and Thehague. Often billed alongside Lexmic, Klankers and Arnau. Next up: TBA, Thehague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Edenfranz is a house and progressive house artist tracked on soundcheck, with 12
 
 Lexmic, Klankers, Arnau
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenfranz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenfranz/)*

@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Opium Barcelona, Barcelona on Wed, 5 Aug 2026.
+DJ Snake is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Opium Barcelona, Barcelona on Wed, 5 Aug 2026.
 
 DJ Snake is a house and electro artist tracked on soundcheck, with 45 sets logged across Austin, Barcelona, Boston and Chicago and 16 more. Often billed alongside Henry Fong, Audien and Zedd. Next up: Opium Barcelona, Barcelona on Wed 5 Aug.
 
@@ -26,4 +26,4 @@ DJ Snake is a house and electro artist tracked on soundcheck, with 45 sets logge
 
 Henry Fong, Audien, Zedd
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

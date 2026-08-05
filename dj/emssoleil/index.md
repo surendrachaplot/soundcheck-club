@@ -1,6 +1,6 @@
 # emssoleil
 
-emssoleil is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Toffler, Rotterdam on Sat, 8 Aug 2026.
+emssoleil is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Toffler, Rotterdam on Sat, 8 Aug 2026.
 
 emssoleil is a house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam and Rotterdam. Often billed alongside Snooz, Callie Reiff and Franky Sticks. Next up: Toffler, Rotterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ emssoleil is a house artist based in Netherlands, tracked on soundcheck, with 12
 
 Snooz, Callie Reiff, Franky Sticks
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emssoleil/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emssoleil/)*

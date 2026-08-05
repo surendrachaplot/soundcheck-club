@@ -1,8 +1,8 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Crossy is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Crossy is a drum & bass and jungle artist tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 14 more. Often billed alongside Carasel, Kelvin 373 and Benny L. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Crossy is a drum & bass and jungle artist tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 14 more. Often billed alongside Carasel, Kelvin 373 and Trafic MC. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Crossy is a drum & bass and jungle artist tracked on soundcheck, with 59 sets lo
 
 ## Shares bills with
 
-Carasel, Kelvin 373, Benny L
+Carasel, Kelvin 373, Trafic MC
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

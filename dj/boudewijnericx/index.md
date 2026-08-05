@@ -1,6 +1,6 @@
 # Boudewijn Ericx
 
-Boudewijn Ericx is a Club and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
+Boudewijn Ericx is a Club and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
 
 Boudewijn Ericx is a club and progressive house artist based in Belgium, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 3 more. Often billed alongside Walrus, DJ Rino and Desyn. Next up: Buda BXL, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Boudewijn Ericx is a club and progressive house artist based in Belgium, tracked
 
 Walrus, DJ Rino, Desyn
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boudewijnericx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boudewijnericx/)*

@@ -1,6 +1,6 @@
 # Jôka
 
-Jôka is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Goldener Reiter, Munich on Sat, 8 Aug 2026.
+Jôka is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Goldener Reiter, Munich on Sat, 8 Aug 2026.
 
 Jôka is a house and downtempo artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam and Munich. Often billed alongside David Hornung, Javier Gallardo and tanjuesch. Next up: Goldener Reiter, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jôka is a house and downtempo artist based in Germany, tracked on soundcheck, w
 
 David Hornung, Javier Gallardo, tanjuesch
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jôka/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jôka/)*

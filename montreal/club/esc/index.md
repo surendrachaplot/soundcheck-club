@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Tangerine" on Thu, 6 Aug 2026.
+ESC is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Tangerine" on Thu, 6 Aug 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including 99jakes, abel.aiff, Alice Gas and Baby Bimbo and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -18,4 +18,4 @@ ESC is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

@@ -1,6 +1,6 @@
 # agap
 
-agap is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Czech Boat, Prague on Sat, 8 Aug 2026.
+agap is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Czech Boat, Prague on Sat, 8 Aug 2026.
 
 agap is a garage and jungle artist based in Czech Republic, tracked on soundcheck, with 5 sets logged across Belgrade, Prague and Riga. Often billed alongside C-Motion, tg_paul and Big Lil. Next up: Czech Boat, Prague on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ agap is a garage and jungle artist based in Czech Republic, tracked on soundchec
 
 C-Motion, tg_paul, Big Lil
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agap/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agap/)*

@@ -1,6 +1,6 @@
 # Adriana Ruas
 
-Adriana Ruas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
+Adriana Ruas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
 
 Adriana Ruas is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Berlin and 5 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Kater, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Adriana Ruas is a house and techno artist tracked on soundcheck, with 66 sets lo
 
 Alfonsvs, Nuno Carneiro, Jorge Caiado
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*

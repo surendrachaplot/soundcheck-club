@@ -1,6 +1,6 @@
 # Complexe Sky
 
-Complexe Sky is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Symbiosis – Le Rituel 7 août" on Fri, 7 Aug 2026.
+Complexe Sky is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Symbiosis – Le Rituel 7 août" on Fri, 7 Aug 2026.
 
 Complexe Sky is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Aël Solara, VICKY and Vicky Devika. Browse upcoming dates, start times and who's playing. 1478 Ste Catherine E; Montreal, QC H2L 2J1;  Canada.
 
@@ -15,4 +15,4 @@ Complexe Sky is a music venue in Montreal listed on soundcheck. 2 upcoming night
 
 1478 Ste Catherine E; Montreal, QC H2L 2J1;  Canada, Montreal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/complexe-sky/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/complexe-sky/)*

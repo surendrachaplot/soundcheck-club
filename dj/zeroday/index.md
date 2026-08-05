@@ -1,6 +1,6 @@
 # zeroday
 
-zeroday is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Miami Wars, Warsaw on Fri, 7 Aug 2026.
+zeroday is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Miami Wars, Warsaw on Fri, 7 Aug 2026.
 
 zeroday is a techno and house artist tracked on soundcheck, with 44 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: Miami Wars, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ zeroday is a techno and house artist tracked on soundcheck, with 44 sets logged 
 
 Slowmode, JESS.mp5, Salat
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*

@@ -1,6 +1,6 @@
 # Nettta
 
-Nettta is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Fundbureau, Hamburg on Fri, 7 Aug 2026.
+Nettta is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fundbureau, Hamburg on Fri, 7 Aug 2026.
 
 Nettta is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Hamburg and Paris. Often billed alongside Blossmbae, Cobb Douglas and EZA (DE). Next up: Fundbureau, Hamburg on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Nettta is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Blossmbae, Cobb Douglas, EZA (DE)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*

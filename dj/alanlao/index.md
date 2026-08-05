@@ -1,6 +1,6 @@
 # Alan Lao
 
-Alan Lao is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
+Alan Lao is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
 
 Alan Lao is a house and tech house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Zurich. Often billed alongside Das Amt, andYUso and DANI8L. Next up: TBA, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Alan Lao is a house and tech house artist based in Switzerland, tracked on sound
 
 Das Amt, andYUso, DANI8L
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanlao/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanlao/)*

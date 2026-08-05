@@ -1,6 +1,6 @@
 # FUNKTION at Oath
 
-FUNKTION at Oath on Thu 6 Aug, Tokyo. 1 act on the bill: Ren Yokoi. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+FUNKTION at Oath on Thu 6 Aug, Tokyo. 2 acts on the bill: MIKE RANSOM and Ren Yokoi. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FUNKTION at Oath on Thu 6 Aug, Tokyo. 1 act on the bill: Ren Yokoi. House and Hi
 
 ## Line-up
 
+- MIKE RANSOM
 - Ren Yokoi
 
 *Source: [soundcheck](https://soundcheck.club/e/2503767-funktion-at-oath/)*

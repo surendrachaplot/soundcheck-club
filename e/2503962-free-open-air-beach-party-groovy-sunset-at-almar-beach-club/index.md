@@ -1,6 +1,6 @@
 # FREE OPEN AIR BEACH PARTY - Groovy Sunset at Almar Beach Club
 
-FREE OPEN AIR BEACH PARTY - Groovy Sunset at Almar Beach Club on Fri 7 Aug, Barcelona. 1 act on the bill: Elwei. House and Disco. Preview the line-up and save it on soundcheck.
+FREE OPEN AIR BEACH PARTY - Groovy Sunset at Almar Beach Club on Fri 7 Aug, Barcelona. 2 acts on the bill: Elwei and Saulo Pisa. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ FREE OPEN AIR BEACH PARTY - Groovy Sunset at Almar Beach Club on Fri 7 Aug, Barc
 ## Line-up
 
 - Elwei
+- Saulo Pisa
 
 *Source: [soundcheck](https://soundcheck.club/e/2503962-free-open-air-beach-party-groovy-sunset-at-almar-beach-club/)*

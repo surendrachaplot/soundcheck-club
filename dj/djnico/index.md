@@ -1,6 +1,6 @@
 # Dj Nico
 
-Dj Nico is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
+Dj Nico is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
 
 Dj Nico is a club and house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Qemist, shekdash and Cquestt. Next up: The Jazz Cafe, London on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Dj Nico is a club and house artist based in United States of America, tracked on
 
 Qemist, shekdash, Cquestt
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*

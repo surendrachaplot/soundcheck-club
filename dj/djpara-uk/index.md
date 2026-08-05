@@ -1,6 +1,6 @@
 # DJ Para
 
-DJ Para is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
+DJ Para is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
 DJ Para is a house and garage artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Daniel Ward, Hermit and Alfie Hart. Next up: Basing House, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ DJ Para is a house and garage artist tracked on soundcheck, with 4 sets logged a
 
 Daniel Ward, Hermit, Alfie Hart
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpara-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpara-uk/)*

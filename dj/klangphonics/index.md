@@ -1,6 +1,6 @@
 # Klangphonics
 
-Klangphonics is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Klangphonics is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Klangphonics is a techno and deep house artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside SKIY, 1tbsp and 8KAYS. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Klangphonics is a techno and deep house artist based in Germany, tracked on soun
 
 SKIY, 1tbsp, 8KAYS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klangphonics/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klangphonics/)*

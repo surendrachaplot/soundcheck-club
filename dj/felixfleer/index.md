@@ -1,13 +1,14 @@
 # Felix Fleer
 
-Felix Fleer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at KALT, Strasbourg on Sat, 29 Aug 2026.
+Felix Fleer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fuse, Brussels on Fri, 28 Aug 2026.
 
-Felix Fleer is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Cologne and London and 2 more. Often billed alongside Jonas Landwehr, Ahmet Sisman and Ada Luvv. Next up: KALT, Strasbourg on Sat 29 Aug.
+Felix Fleer is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Jonas Landwehr, Ahmet Sisman and Ada Luvv. Next up: Fuse, Brussels on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Fuse | Brussels |
 | Sat, 29 Aug 2026 | KALT | Strasbourg |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 
@@ -26,4 +27,4 @@ Felix Fleer is a house and techno artist based in Germany, tracked on soundcheck
 
 Jonas Landwehr, Ahmet Sisman, Ada Luvv
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixfleer/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixfleer/)*

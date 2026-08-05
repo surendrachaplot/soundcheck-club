@@ -1,6 +1,6 @@
 # Azumei
 
-Azumei is a Drum & Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Jam Jar, Bristol on Thu, 6 Aug 2026.
+Azumei is a Drum & Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Jam Jar, Bristol on Thu, 6 Aug 2026.
 
 Azumei is a drum & bass and dancehall artist tracked on soundcheck, with 18 sets logged across Bristol, London and Southampton. Often billed alongside Chiedza, DASHY and Lolli. Next up: The Jam Jar, Bristol on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Azumei is a drum & bass and dancehall artist tracked on soundcheck, with 18 sets
 
 Chiedza, DASHY, Lolli
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azumei/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azumei/)*

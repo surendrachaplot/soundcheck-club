@@ -1,6 +1,6 @@
 # Junglehussi
 
-Junglehussi is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
+Junglehussi is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
 
 Junglehussi is a club and bass artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside Wheelman, Maveen and DIJA. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Junglehussi is a club and bass artist based in United Kingdom, tracked on soundc
 
 Wheelman, Maveen, DIJA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junglehussi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junglehussi/)*

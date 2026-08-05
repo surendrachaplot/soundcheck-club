@@ -1,6 +1,6 @@
 # 230 Fifth Penthouse
 
-230 Fifth Penthouse is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Refined by John Silvera" on Fri, 21 Aug 2026.
+230 Fifth Penthouse is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Refined by John Silvera" on Fri, 21 Aug 2026.
 
 230 Fifth Penthouse is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 230 5th Ave, between 27th and 26th Strt,.
 
@@ -14,4 +14,4 @@
 
 230 5th Ave, between 27th and 26th Strt,, New York City
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/230-fifth-penthouse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/230-fifth-penthouse/)*

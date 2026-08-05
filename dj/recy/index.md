@@ -1,6 +1,6 @@
 # Recy
 
-Recy is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Atdge Seoul, Seoul on Sat, 8 Aug 2026.
+Recy is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Atdge Seoul, Seoul on Sat, 8 Aug 2026.
 
 Recy is a techno and minimal artist based in South Korea, tracked on soundcheck, with 29 sets logged across Seoul. Often billed alongside Yeji, WEEUN KIM and DJ SIN. Next up: Atdge Seoul, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Recy is a techno and minimal artist based in South Korea, tracked on soundcheck,
 
 Yeji, WEEUN KIM, DJ SIN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recy/)*

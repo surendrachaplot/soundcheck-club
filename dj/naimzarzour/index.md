@@ -1,6 +1,6 @@
 # Naim Zarzour
 
-Naim Zarzour is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
+Naim Zarzour is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
 
 Naim Zarzour is a techno and house artist based in Venezuela, tracked on soundcheck, with 21 sets logged across Houston, Losangeles, Miami and Newyorkcity. Often billed alongside Miguel Clark, Ultrathem and Robyn Sin Love. Next up: Good Room, Newyorkcity on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Naim Zarzour is a techno and house artist based in Venezuela, tracked on soundch
 
 Miguel Clark, Ultrathem, Robyn Sin Love
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naimzarzour/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naimzarzour/)*

@@ -1,6 +1,6 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "DJ Fuckoff + LOVEFOXY" on Fri, 7 Aug 2026.
+Smoke & Mirrors is a music venue in Chicago with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DJ Fuckoff + LOVEFOXY" on Fri, 7 Aug 2026.
 
 Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 6 upcoming nights, with line-ups including Ciel, Club Drippy, dirtymoney and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
@@ -19,4 +19,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 6 upcoming nig
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

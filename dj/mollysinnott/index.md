@@ -1,6 +1,6 @@
 # Molly Sinnott
 
-Molly Sinnott is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+Molly Sinnott is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
 Molly Sinnott is a house and garage artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across London and Newcastle. Often billed alongside James Worker, Sam Warren and PHJ.WAV. Next up: Peckham Arches, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Molly Sinnott is a house and garage artist based in United Kingdom, tracked on s
 
 James Worker, Sam Warren, PHJ.WAV
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollysinnott/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollysinnott/)*

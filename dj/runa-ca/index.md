@@ -1,13 +1,14 @@
 # Runa
 
-Runa is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Société des arts technologiques, Montreal on Fri, 14 Aug 2026.
+Runa is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
 
-Runa is a techno and bass artist tracked on soundcheck, with 49 sets logged across Montreal, Tokyo and Toronto. Often billed alongside Asha (4), MIASALAV and James Benjamin. Next up: Société des arts technologiques, Montreal on Fri 14 Aug.
+Runa is a techno and bass artist tracked on soundcheck, with 50 sets logged across Montreal, Tokyo and Toronto. Often billed alongside Asha (4), MIASALAV and James Benjamin. Next up: TBA - mile ex, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | TBA - mile ex | Montreal |
 | Fri, 14 Aug 2026 | Société des arts technologiques | Montreal |
 | Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
@@ -26,4 +27,4 @@ Runa is a techno and bass artist tracked on soundcheck, with 49 sets logged acro
 
 Asha (4), MIASALAV, James Benjamin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runa-ca/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runa-ca/)*

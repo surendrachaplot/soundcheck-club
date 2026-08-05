@@ -1,6 +1,6 @@
 # Graftak
 
-Graftak is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Het Bos, Antwerp on Fri, 21 Aug 2026.
+Graftak is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Het Bos, Antwerp on Fri, 21 Aug 2026.
 
 Graftak is a techno and house artist tracked on soundcheck, with 25 sets logged across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside IN_CONSTANT, Kim Peers and Violently Happy. Next up: Het Bos, Antwerp on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Graftak is a techno and house artist tracked on soundcheck, with 25 sets logged 
 
 IN_CONSTANT, Kim Peers, Violently Happy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graftak/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graftak/)*

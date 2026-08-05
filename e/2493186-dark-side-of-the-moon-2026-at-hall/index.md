@@ -1,6 +1,6 @@
 # Dark Side of the Moon 2026 at Hall
 
-Dark Side of the Moon 2026 at Hall on Fri 14 Aug, Tallinn. 16 acts on the bill: Arto, Artur Lääts, Blasha & Allatt and Brett Rästas and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dark Side of the Moon 2026 at Hall on Fri 14 Aug, Tallinn. 19 acts on the bill: Arto, Artur Lääts, Blasha & Allatt and Brett Rästas and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,9 +15,11 @@ Dark Side of the Moon 2026 at Hall on Fri 14 Aug, Tallinn. 16 acts on the bill: 
 - Blasha & Allatt
 - Brett Rästas
 - Charch
+- Denzel
 - FAKIGN
 - Hicham (FR)
 - Jeku
+- Joni DJ
 - Katja Adrikova
 - Laurine
 - Micaela Saraceno
@@ -25,6 +27,7 @@ Dark Side of the Moon 2026 at Hall on Fri 14 Aug, Tallinn. 16 acts on the bill: 
 - Ojelma
 - Pavliuk
 - Steffi
+- Tanel Mütt
 - Unai Trotti
 
 *Source: [soundcheck](https://soundcheck.club/e/2493186-dark-side-of-the-moon-2026-at-hall/)*

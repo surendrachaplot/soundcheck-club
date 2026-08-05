@@ -1,6 +1,6 @@
 # Zahn Walker
 
-Zahn Walker is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 8 Aug 2026.
+Zahn Walker is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 8 Aug 2026.
 
 Zahn Walker is a tech house and house artist tracked on soundcheck, with 5 sets logged across Auckland. Often billed alongside Connor Tomoana, DJ Name and Dylan Biscuit. Next up: Kemuri Hi-Fi, Auckland on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Zahn Walker is a tech house and house artist tracked on soundcheck, with 5 sets 
 
 Connor Tomoana, DJ Name, Dylan Biscuit
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnwalker/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnwalker/)*

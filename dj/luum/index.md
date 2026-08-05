@@ -1,14 +1,15 @@
 # Luum
 
-Luum is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Luum is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
-Luum is a house and balearic artist tracked on soundcheck, with 24 sets logged across Melbourne, Mexicocity, Portland and Vancouver. Often billed alongside SYMCTY., Batom and Break Mode. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
+Luum is a house and balearic artist tracked on soundcheck, with 25 sets logged across Melbourne, Mexicocity, Portland and Vancouver. Often billed alongside SYMCTY., Batom and Break Mode. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
+| Sat, 15 Aug 2026 | Statera Cellars | Portland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Luum is a house and balearic artist tracked on soundcheck, with 24 sets logged a
 
 SYMCTY., Batom, Break Mode
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luum/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luum/)*

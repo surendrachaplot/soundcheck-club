@@ -1,8 +1,8 @@
 # Micaela Saraceno
 
-Micaela Saraceno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tšungel, Tallinn on Fri, 7 Aug 2026.
+Micaela Saraceno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Tšungel, Tallinn on Fri, 7 Aug 2026.
 
-Micaela Saraceno is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Budapest and Riga and 1 more. Often billed alongside Fake Versace, Katja Adrikova and Pavliuk. Next up: Tšungel, Tallinn on Fri 7 Aug.
+Micaela Saraceno is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Budapest and Riga and 1 more. Often billed alongside Fake Versace, Katja Adrikova and Tanel Mütt. Next up: Tšungel, Tallinn on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Micaela Saraceno is a techno and house artist tracked on soundcheck, with 40 set
 
 ## Shares bills with
 
-Fake Versace, Katja Adrikova, Pavliuk
+Fake Versace, Katja Adrikova, Tanel Mütt
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micaelasaraceno/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micaelasaraceno/)*

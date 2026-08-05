@@ -1,6 +1,6 @@
 # ROOB
 
-ROOB is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Baalsaal, Hamburg on Sat, 26 Sept 2026.
+ROOB is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Baalsaal, Hamburg on Sat, 26 Sept 2026.
 
 ROOB is an acid and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside Aseptic, Endrew and KENZIRO. Next up: Baalsaal, Hamburg on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ ROOB is an acid and techno artist based in Germany, tracked on soundcheck, with 
 
 Aseptic, Endrew, KENZIRO
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roob/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roob/)*

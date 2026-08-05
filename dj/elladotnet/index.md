@@ -1,17 +1,18 @@
 # Elladotnet
 
-Elladotnet is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
+Elladotnet is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mood Ring, New York City on Wed, 19 Aug 2026.
 
-Elladotnet is an experimental and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Aleska, Ariana Roseman and BOB1. Next up: Newtown Radio, Newyorkcity on Fri 21 Aug.
+Elladotnet is a techno and experimental artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside R-DNA, Aleska and Ariana Roseman. Next up: Mood Ring, Newyorkcity on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Mood Ring | New York City |
 | Fri, 21 Aug 2026 | Newtown Radio | New York City |
 
 ## Shares bills with
 
-Aleska, Ariana Roseman, BOB1
+R-DNA, Aleska, Ariana Roseman
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elladotnet/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elladotnet/)*

@@ -1,6 +1,6 @@
 # Wheelbite
 
-Wheelbite is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at StereoBar, Montreal on Sat, 22 Aug 2026.
+Wheelbite is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at StereoBar, Montreal on Sat, 22 Aug 2026.
 
 Wheelbite is a techno and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Losangeles, Montreal and Newyorkcity. Often billed alongside 2Lanes, Alejandro Marenco and Linquency. Next up: StereoBar, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Wheelbite is a techno and club artist based in United States of America, tracked
 
 2Lanes, Alejandro Marenco, Linquency
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelbite/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelbite/)*

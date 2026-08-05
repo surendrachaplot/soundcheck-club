@@ -1,6 +1,6 @@
 # ORKA
 
-ORKA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Flinders, Sydney on Fri, 7 Aug 2026.
+ORKA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Flinders, Sydney on Fri, 7 Aug 2026.
 
 ORKA is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Lisbon, London, Paris and Sanfrancisco and 1 more. Often billed alongside keanu (3), Ember Electra and Pandemonium. Next up: The Flinders, Sydney on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ ORKA is a techno and industrial artist based in United Kingdom, tracked on sound
 
 keanu (3), Ember Electra, Pandemonium
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orka/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orka/)*

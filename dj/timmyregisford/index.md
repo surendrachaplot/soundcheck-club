@@ -1,8 +1,8 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Calatheabeachclub, Naples on Sat, 22 Aug 2026.
+Timmy Regisford is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Calatheabeachclub, Naples on Sat, 22 Aug 2026.
 
-Timmy Regisford is a house and deep house artist tracked on soundcheck, with 57 sets logged across Athens, Chicago, Detroit and London and 6 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: Calatheabeachclub, Naples on Sat 22 Aug.
+Timmy Regisford is a house and deep house artist tracked on soundcheck, with 58 sets logged across Athens, Chicago, Detroit and Hobart and 7 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: Calatheabeachclub, Naples on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 57 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Calatheabeachclub | Naples |
 | Fri, 4 Sept 2026 | Civic Underground | Sydney |
+| Sat, 12 Sept 2026 | Ticcle | Hobart |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 57 
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

@@ -1,6 +1,6 @@
 # Konstantin Sibold
 
-Konstantin Sibold is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mia Mao, Paris on Sat, 8 Aug 2026.
+Konstantin Sibold is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mia Mao, Paris on Sat, 8 Aug 2026.
 
 Konstantin Sibold is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Kevin de Vries, 8KAYS and Stephan Bodzin. Next up: Mia Mao, Paris on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Konstantin Sibold is a techno and house artist tracked on soundcheck, with 101 s
 
 Kevin de Vries, 8KAYS, Stephan Bodzin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*

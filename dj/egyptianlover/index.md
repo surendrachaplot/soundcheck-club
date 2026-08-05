@@ -1,6 +1,6 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
+Egyptian Lover is a Electro and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
 
 Egyptian Lover is an electro and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Godfather, Binh and FREAKENSTEIN. Next up: Floyd, Miami on Sat 8 Aug.
 
@@ -35,4 +35,4 @@ Egyptian Lover is an electro and house artist tracked on soundcheck, with 89 set
 
 DJ Godfather, Binh, FREAKENSTEIN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

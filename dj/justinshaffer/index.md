@@ -1,6 +1,6 @@
 # Justin Shaffer
 
-Justin Shaffer is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
+Justin Shaffer is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
 Justin Shaffer is a house and minimal artist based in United States of America, tracked on soundcheck, with 36 sets logged across Berlin, Detroit, Lisbon and Losangeles and 5 more. Often billed alongside Maayan Nidam, Dana Ruh and Dragana. Next up: AMT, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Justin Shaffer is a house and minimal artist based in United States of America, 
 
 Maayan Nidam, Dana Ruh, Dragana
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinshaffer/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinshaffer/)*

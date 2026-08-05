@@ -1,6 +1,6 @@
 # SHIA
 
-SHIA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
+SHIA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
 
 SHIA is a house and disco artist based in Portugal, tracked on soundcheck, with 20 sets logged across Amsterdam, Lisbon, London and Porto. Often billed alongside Miguel Rendeiro, Martim Rola and Alex Wann. Next up: TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ SHIA is a house and disco artist based in Portugal, tracked on soundcheck, with 
 
 Miguel Rendeiro, Martim Rola, Alex Wann
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shia/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shia/)*

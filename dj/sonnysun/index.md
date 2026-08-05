@@ -1,6 +1,6 @@
 # Sonny Sun
 
-Sonny Sun is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mitsuki, Tokyo on Thu, 6 Aug 2026.
+Sonny Sun is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mitsuki, Tokyo on Thu, 6 Aug 2026.
 
 Sonny Sun is a techno and electro artist based in China, tracked on soundcheck, with 21 sets logged across Shenzhen and Tokyo. Often billed alongside DANDAN, DANA NADA and Dani Savant. Next up: Mitsuki, Tokyo on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Sonny Sun is a techno and electro artist based in China, tracked on soundcheck, 
 
 DANDAN, DANA NADA, Dani Savant
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysun/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysun/)*

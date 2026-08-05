@@ -1,6 +1,6 @@
 # Rivera (UK)
 
-Rivera (UK) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Old Dispensary, London on Sat, 8 Aug 2026.
+Rivera (UK) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Old Dispensary, London on Sat, 8 Aug 2026.
 
 Rivera (UK) is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Manchester. Often billed alongside Sam Deeley, THIRZA and Cottam (2). Next up: The Old Dispensary, London on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Rivera (UK) is a house and electronica artist based in United Kingdom, tracked o
 
 Sam Deeley, THIRZA, Cottam (2)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivera-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivera-uk/)*

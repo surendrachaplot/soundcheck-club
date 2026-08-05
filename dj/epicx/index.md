@@ -1,6 +1,6 @@
 # Epicx
 
-Epicx is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Insomnia, Berlin on Sat, 8 Aug 2026.
+Epicx is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Insomnia, Berlin on Sat, 8 Aug 2026.
 
 Epicx is a techno and trance artist tracked on soundcheck, with 116 sets logged across Berlin and Warsaw. Often billed alongside Anubix, Emma (8) and DJ Jordan. Next up: Insomnia, Berlin on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Epicx is a techno and trance artist tracked on soundcheck, with 116 sets logged 
 
 Anubix, Emma (8), DJ Jordan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*

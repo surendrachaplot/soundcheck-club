@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 28 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Hoaxed" on Tue, 4 Aug 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 27 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Grey Delisle & the Blue Ribbon Boys" on Wed, 5 Aug 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 28 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 27 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Hoaxed |  |
 | Wed, 5 Aug 2026 | Grey Delisle & the Blue Ribbon Boys |  |
 | Thu, 6 Aug 2026 | Colony Collapse Disorder |  |
 | Fri, 7 Aug 2026 | International Pop Overthrow |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 2
 | Mon, 10 Aug 2026 | International Pop Overthrow |  |
 | Tue, 11 Aug 2026 | International Pop Overthrow |  |
 | Wed, 12 Aug 2026 | International Pop Overthrow |  |
+| Thu, 13 Aug 2026 | International Pop Overthrow |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FINE CHAOS x Hangaren 'The Funeral' CPHFW Closing Party" on Fri, 7 Aug 2026.
+Hangaren is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FINE CHAOS x Hangaren 'The Funeral' CPHFW Closing Party" on Fri, 7 Aug 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

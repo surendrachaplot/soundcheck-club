@@ -1,6 +1,6 @@
 # Elozyz
 
-Elozyz is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Drake Hotel, Toronto on Sat, 5 Sept 2026.
+Elozyz is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Drake Hotel, Toronto on Sat, 5 Sept 2026.
 
 Elozyz is a drum & bass and electro artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside SZETO, /ASYNC and Hycastle. Next up: The Drake Hotel, Toronto on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Elozyz is a drum & bass and electro artist based in Canada, tracked on soundchec
 
 SZETO, /ASYNC, Hycastle
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elozyz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elozyz/)*

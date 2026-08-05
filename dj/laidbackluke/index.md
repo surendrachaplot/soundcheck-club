@@ -1,6 +1,6 @@
 # Laidback Luke
 
-Laidback Luke is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Superior Ingredients, New York City on Sun, 6 Sept 2026.
+Laidback Luke is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Superior Ingredients, New York City on Sun, 6 Sept 2026.
 
 Laidback Luke is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Cologne, Houston, Liverpool and Losangeles and 12 more. Often billed alongside Steve Aoki, Bassjackers and Cedric Gervais. Next up: Superior Ingredients, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Laidback Luke is a house and progressive house artist based in Netherlands, trac
 
 Steve Aoki, Bassjackers, Cedric Gervais
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidbackluke/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidbackluke/)*

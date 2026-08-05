@@ -1,6 +1,6 @@
 # Nyco (FR)
 
-Nyco (FR) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kilomètre25, Paris on Sat, 8 Aug 2026.
+Nyco (FR) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kilomètre25, Paris on Sat, 8 Aug 2026.
 
 Nyco (FR) is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Frankfurt and Liverpool and 4 more. Often billed alongside Aphøtic, KARAH and XRTN. Next up: Kilomètre25, Paris on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Nyco (FR) is a techno and hardcore artist tracked on soundcheck, with 21 sets lo
 
 Aphøtic, KARAH, XRTN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*

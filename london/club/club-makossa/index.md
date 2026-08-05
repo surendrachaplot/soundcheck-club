@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "GONE FISHIN' OPEN DECKS (ALL GENRES IN EAST LONDON)" on Thu, 6 Aug 2026.
+Club Makossa is a music venue in London with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "GONE FISHIN' OPEN DECKS (ALL GENRES IN EAST LONDON)" on Thu, 6 Aug 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, BIDOIS and Dan Louder and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -22,4 +22,4 @@ Club Makossa is a music venue in London listed on soundcheck. 9 upcoming nights,
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

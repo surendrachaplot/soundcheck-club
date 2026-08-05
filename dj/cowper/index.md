@@ -1,6 +1,6 @@
 # Cowper
 
-Cowper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at renae, Manchester on Thu, 6 Aug 2026.
+Cowper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at renae, Manchester on Thu, 6 Aug 2026.
 
 Cowper is a house and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Lupini, Il Bosco and Kickin Pigeon. Next up: renae, Manchester on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Cowper is a house and techno artist based in United Kingdom, tracked on soundche
 
 Lupini, Il Bosco, Kickin Pigeon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*

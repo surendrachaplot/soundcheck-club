@@ -1,6 +1,6 @@
 # Nadia Ksaiba
 
-Nadia Ksaiba is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Cellar, London on Sat, 15 Aug 2026.
+Nadia Ksaiba is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cellar, London on Sat, 15 Aug 2026.
 
 Nadia Ksaiba is a house and electronica artist tracked on soundcheck, with 28 sets logged across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Sofie K. Next up: Cellar, London on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Nadia Ksaiba is a house and electronica artist tracked on soundcheck, with 28 se
 
 Dan Beaumont, Bill Brewster, Sofie K
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*

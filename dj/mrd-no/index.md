@@ -1,13 +1,14 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Phonox, London on Sat, 12 Sept 2026.
+MRD (NO) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Unité.22, Marseille on Fri, 28 Aug 2026.
 
-MRD (NO) is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Phonox, London on Sat 12 Sept.
+MRD (NO) is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Unité.22, Marseille on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Unité.22 | Marseille |
 | Sat, 12 Sept 2026 | Phonox | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ MRD (NO) is a techno and trance artist tracked on soundcheck, with 118 sets logg
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

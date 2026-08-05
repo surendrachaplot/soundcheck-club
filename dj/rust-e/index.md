@@ -1,6 +1,6 @@
 # Rust-e
 
-Rust-e is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Rust-e is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
 Rust-e is a house and techno artist based in Australia, tracked on soundcheck, with 5 sets logged across London and Melbourne. Often billed alongside Roka, Séarlait and Andy Hart. Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Rust-e is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Roka, Séarlait, Andy Hart
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rust-e/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rust-e/)*

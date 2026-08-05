@@ -1,14 +1,15 @@
 # DOTT
 
-DOTT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Temp., Bangkok on Sat, 8 Aug 2026.
+DOTT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Temp., Bangkok on Sat, 8 Aug 2026.
 
-DOTT is a house and techno artist tracked on soundcheck, with 116 sets logged across Bali, Bangkok, Berlin and Hongkong and 7 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: Bar Temp., Bangkok on Sat 8 Aug.
+DOTT is a house and techno artist tracked on soundcheck, with 117 sets logged across Bali, Bangkok, Berlin and Hongkong and 7 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: Bar Temp., Bangkok on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Bar Temp. | Bangkok |
+| Sat, 8 Aug 2026 | Elsewhere | Bangkok |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DOTT is a house and techno artist tracked on soundcheck, with 116 sets logged ac
 
 Sarayu, Elaheh, Jirus (MELA)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*

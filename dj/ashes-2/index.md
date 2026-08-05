@@ -1,6 +1,6 @@
 # Ashes (2)
 
-Ashes (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pawn Shop, Dublin on Fri, 14 Aug 2026.
+Ashes (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pawn Shop, Dublin on Fri, 14 Aug 2026.
 
 Ashes (2) is a techno and house artist tracked on soundcheck, with 17 sets logged across Cork, Dublin and Manchester. Often billed alongside Hooligan, MEJMI and Jamie Behan. Next up: Pawn Shop, Dublin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ashes (2) is a techno and house artist tracked on soundcheck, with 17 sets logge
 
 Hooligan, MEJMI, Jamie Behan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashes-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashes-2/)*

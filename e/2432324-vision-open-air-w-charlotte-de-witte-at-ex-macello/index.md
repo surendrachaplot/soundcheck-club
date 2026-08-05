@@ -1,6 +1,6 @@
-# Vision open air w Charlotte de Witte at Ex Macello
+# VISION open air w Charlotte de Witte at Ex Macello
 
-Vision open air w Charlotte de Witte at Ex Macello on Sat 5 Sept, Milan. 1 act on the bill: Charlotte de Witte. Preview the line-up and save it on soundcheck.
+VISION open air w Charlotte de Witte at Ex Macello on Sat 5 Sept, Milan. 1 act on the bill: Charlotte de Witte. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

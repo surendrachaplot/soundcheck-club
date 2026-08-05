@@ -1,14 +1,15 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
-Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Westhafen, Leipzig on Sat 5 Sept.
+Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
+| Fri, 18 Sept 2026 | BASEMENT | New York City |
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 
@@ -27,4 +28,4 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 228 
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "grind provisions x Stereo: Asphodèle" on Sat, 8 Aug 2026.
+Stereo is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "grind provisions x Stereo: Asphodèle" on Sat, 8 Aug 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, with line-ups including 4KitSake, Aderayo, Angel Cake and Asphodèle and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, wit
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

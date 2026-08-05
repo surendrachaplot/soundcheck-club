@@ -1,6 +1,6 @@
 # Pete Harel
 
-Pete Harel is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Unter Deck, Munich on Thu, 6 Aug 2026.
+Pete Harel is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Unter Deck, Munich on Thu, 6 Aug 2026.
 
 Pete Harel is a trance and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Munich and Vienna. Often billed alongside Fredi.G, Mawu and Anterogate. Next up: Unter Deck, Munich on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Pete Harel is a trance and house artist based in Germany, tracked on soundcheck,
 
 Fredi.G, Mawu, Anterogate
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peteharel/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peteharel/)*

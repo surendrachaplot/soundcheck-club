@@ -1,6 +1,6 @@
 # Marten Hørger
 
-Marten Hørger is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Fri, 7 Aug 2026.
+Marten Hørger is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Fri, 7 Aug 2026.
 
 Marten Hørger is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Bangkok and Berlin and 24 more. Often billed alongside David Guetta, Alle Farben and Paul Reynolds. Next up: [UNVRS], Ibiza on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Marten Hørger is a house and tech house artist tracked on soundcheck, with 60 s
 
 David Guetta, Alle Farben, Paul Reynolds
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martenhorger/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martenhorger/)*

@@ -1,6 +1,6 @@
 # Tida Kamara
 
-Tida Kamara is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Melkweg, Amsterdam on Fri, 7 Aug 2026.
+Tida Kamara is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Melkweg, Amsterdam on Fri, 7 Aug 2026.
 
 Tida Kamara is a house and hip-hop artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 4 more. Often billed alongside BELLA (NL), Kurashi Soundsystem and TINS. Next up: Melkweg, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Tida Kamara is a house and hip-hop artist tracked on soundcheck, with 54 sets lo
 
 BELLA (NL), Kurashi Soundsystem, TINS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*

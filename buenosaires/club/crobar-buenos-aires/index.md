@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Crobar Club Pres.: CCINNI, Francisco García, Last Men On Earth & RADON" on Fri, 7 Aug 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Crobar Club Pres.: CCINNI, Francisco García, Last Men On Earth & RADON" on Fri, 7 Aug 2026.
 
 Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 10 upcoming nights, with line-ups including Agustin Clark, Bart Skils, CCINNI and Danny Avila and 2 more. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -23,4 +23,4 @@ Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 10 u
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

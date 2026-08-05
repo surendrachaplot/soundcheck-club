@@ -1,6 +1,6 @@
 # Ziziphus Jujuba
 
-Ziziphus Jujuba is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Forestlimit, Tokyo on Sat, 8 Aug 2026.
+Ziziphus Jujuba is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Forestlimit, Tokyo on Sat, 8 Aug 2026.
 
 Ziziphus Jujuba is an experimental and bass artist based in Japan, tracked on soundcheck, with 19 sets logged across Osaka and Tokyo. Often billed alongside mlosims, JACKSON kaki and NTsKi. Next up: Forestlimit, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ziziphus Jujuba is an experimental and bass artist based in Japan, tracked on so
 
 mlosims, JACKSON kaki, NTsKi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziziphusjujuba/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziziphusjujuba/)*

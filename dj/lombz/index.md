@@ -1,6 +1,6 @@
 # Lombz
 
-Lombz is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
+Lombz is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
 
 Lombz is a techno and industrial artist based in Malta, tracked on soundcheck, with 15 sets logged across Malta. Often billed alongside MAMO (2), MALISTA and VRDKT. Next up: UNO MALTA, Malta on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lombz is a techno and industrial artist based in Malta, tracked on soundcheck, w
 
 MAMO (2), MALISTA, VRDKT
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lombz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lombz/)*

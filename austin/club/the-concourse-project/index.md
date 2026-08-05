@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 34 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "GUDFELLA" on Thu, 6 Aug 2026.
+The Concourse Project is a music venue in Austin with 34 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "GUDFELLA" on Thu, 6 Aug 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcoming nights, with line-ups including Adam Port, Alignment, Audien and Azzecca and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

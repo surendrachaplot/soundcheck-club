@@ -1,6 +1,6 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Club artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 6 Aug 2026.
+Princess Elf Bar is a Trance and Club artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 6 Aug 2026.
 
 Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and Leaha. Next up: Sneaky Pete's, Edinburgh on Thu 6 Aug.
 
@@ -30,4 +30,4 @@ Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on
 
 AYDJ, Anop, Leaha
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

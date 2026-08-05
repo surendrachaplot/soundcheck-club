@@ -1,6 +1,6 @@
 # Lea Czychy
 
-Lea Czychy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
+Lea Czychy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
 
 Lea Czychy is a house and disco artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside Moehecan, KANA and Gabs Leyton. Next up: OXI, Berlin on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Lea Czychy is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Moehecan, KANA, Gabs Leyton
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaczychy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaczychy/)*

@@ -1,6 +1,6 @@
 # Westbam
 
-Westbam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Westbam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
 Westbam is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside K-Paul, Dr. Motte and Hardy Hard. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Westbam is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 K-Paul, Dr. Motte, Hardy Hard
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westbam/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westbam/)*

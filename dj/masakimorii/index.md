@@ -1,6 +1,6 @@
 # Masaki Morii
 
-Masaki Morii is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Area51 / 17map Minami, Osaka on Fri, 7 Aug 2026.
+Masaki Morii is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Area51 / 17map Minami, Osaka on Fri, 7 Aug 2026.
 
 Masaki Morii is an afro house and house artist based in Japan, tracked on soundcheck, with 26 sets logged across Detroit, London, Newyorkcity and Osaka and 4 more. Often billed alongside Jamesey, Kapela and Matt L-S. Next up: Area51 / 17map Minami, Osaka on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Masaki Morii is an afro house and house artist based in Japan, tracked on soundc
 
 Jamesey, Kapela, Matt L-S
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masakimorii/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masakimorii/)*

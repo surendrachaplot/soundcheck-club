@@ -1,6 +1,6 @@
 # AELVA K
 
-AELVA K is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
+AELVA K is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
 
 AELVA K is a techno and progressive house artist based in Sweden, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 2 more. Often billed alongside Aja Gulris, Fynutzu and Amudima. Next up: Birgit, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ AELVA K is a techno and progressive house artist based in Sweden, tracked on sou
 
 Aja Gulris, Fynutzu, Amudima
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*

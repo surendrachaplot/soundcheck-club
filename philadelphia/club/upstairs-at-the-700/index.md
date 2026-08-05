@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Convergence" on Thu, 6 Aug 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Convergence" on Thu, 6 Aug 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including Brooce, Cowa, Deluxe Ultra and El-D (USA) and 2 more. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -19,4 +19,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 6 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

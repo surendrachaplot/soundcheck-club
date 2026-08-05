@@ -1,10 +1,10 @@
 # Vinyl Quest at Filly Brook
 
-Vinyl Quest at Filly Brook on Sat 15 Aug, London. 2 acts on the bill: LEV (UK) and Max Sinàl. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vinyl Quest at Filly Brook on Sun 16 Aug, London. 2 acts on the bill: LEV (UK) and Max Sinàl. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 15 Aug 2026 |
+| Date | Sun, 16 Aug 2026 |
 | Venue | Filly Brook |
 | City | London |
 

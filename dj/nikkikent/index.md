@@ -1,6 +1,6 @@
 # Nikki Kent
 
-Nikki Kent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Outhouse, Edinburgh on Sat, 8 Aug 2026.
+Nikki Kent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Outhouse, Edinburgh on Sat, 8 Aug 2026.
 
 Nikki Kent is a house and disco artist tracked on soundcheck, with 62 sets logged across Edinburgh and Glasgow. Often billed alongside Ravelston, Jacuzzi General and Ann Tweak. Next up: The Outhouse, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nikki Kent is a house and disco artist tracked on soundcheck, with 62 sets logge
 
 Ravelston, Jacuzzi General, Ann Tweak
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*

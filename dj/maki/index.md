@@ -1,6 +1,6 @@
 # Maki
 
-Maki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
+Maki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
 
 Maki is a house and techno artist based in South Korea, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Lisbon and Porto and 2 more. Often billed alongside Kugel, YAMARCHY and dguru. Next up: Lux Fragil, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Maki is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 Kugel, YAMARCHY, dguru
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maki/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maki/)*

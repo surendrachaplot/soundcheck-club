@@ -1,6 +1,6 @@
 # Folek
 
-Folek is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
+Folek is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
 
 Folek is a techno and minimal techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside MARIUS SEBASTIAN, Alythia Kwan and Any Koh. Next up: Bar A Bar, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Folek is a techno and minimal techno artist tracked on soundcheck, with 9 sets l
 
 MARIUS SEBASTIAN, Alythia Kwan, Any Koh
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folek/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folek/)*

@@ -1,6 +1,6 @@
 # Ciaran McAuley
 
-Ciaran McAuley is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Alte Kaserne, Zurich on Sat, 8 Aug 2026.
+Ciaran McAuley is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Alte Kaserne, Zurich on Sat, 8 Aug 2026.
 
 Ciaran McAuley is a trance and progressive house artist based in Ireland, tracked on soundcheck, with 23 sets logged across Bangkok, Bristol, Glasgow and Ibiza and 12 more. Often billed alongside Paul Van Dyk, Billy Gillies and Aly & Fila. Next up: Alte Kaserne, Zurich on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Ciaran McAuley is a trance and progressive house artist based in Ireland, tracke
 
 Paul Van Dyk, Billy Gillies, Aly & Fila
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*

@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K" on Fri, 7 Aug 2026.
+Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K" on Fri, 7 Aug 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including Adelina, Badalian, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -15,7 +15,7 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 | Fri, 21 Aug 2026 | J1 - Michał Zietara, Kolektyw Laguna (Implode & Peteya) | Michal Zietara |
 | Sat, 22 Aug 2026 | J1 x Sekta Selekta: Badalian, Kondrat, Meke, Stroppy Pie | Badalian, Kondrat, Meke, Stroppy Pie |
 | Fri, 28 Aug 2026 | J1 - Guest List: Some Guest b2b Shmee, Caletti, dlaczego.tak, long w, YJ | Some Guest, dlaczego.tak, long w |
-| Sat, 29 Aug 2026 | J1 - Lampa x Hex: Adelina, Elvira, Samogolov, Jess | Adelina, Elvira, Jess (2), Samogulov |
+| Sat, 29 Aug 2026 | J1 - Lampa x Hex: Adelina, Elvira, Samogolov, Jess | Adelina, Elvira, JESS.mp5, Jess (2), Samogulov |
 | Fri, 11 Sept 2026 | J1 - Inner Tension | Blazej Malinowski, Claudio PRC, Kosmalski, Kovvalsky, Vera Logdanidi, dtekk |
 | Fri, 25 Sept 2026 | JASNA 9TH BDAY |  |
 
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

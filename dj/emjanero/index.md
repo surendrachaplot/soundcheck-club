@@ -1,6 +1,6 @@
 # EMJANERO
 
-EMJANERO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
+EMJANERO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
 
 EMJANERO is a house and techno artist tracked on soundcheck, with 33 sets logged across Aberdeen, Barcelona, Edinburgh and Glasgow and 1 more. Often billed alongside Céleste, Oakley Carter and Interplanetary Criminal. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ EMJANERO is a house and techno artist tracked on soundcheck, with 33 sets logged
 
 Céleste, Oakley Carter, Interplanetary Criminal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emjanero/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emjanero/)*

@@ -1,6 +1,6 @@
 # robin groulx
 
-robin groulx is a IDM and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
+robin groulx is a IDM and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
 
 robin groulx is an idm and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit. Often billed alongside Jeff Garcia, 2Lanes and RIRKIN. Next up: Marble Bar, Detroit on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ robin groulx is an idm and house artist based in United States of America, track
 
 Jeff Garcia, 2Lanes, RIRKIN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robingroulx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robingroulx/)*

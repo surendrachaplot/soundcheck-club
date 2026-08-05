@@ -1,6 +1,6 @@
 # Demian Muller
 
-Demian Muller is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Shady Pig Uluwatu, Bali on Sat, 15 Aug 2026.
+Demian Muller is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Shady Pig Uluwatu, Bali on Sat, 15 Aug 2026.
 
 Demian Muller is a tech house and minimal techno artist based in Chile, tracked on soundcheck, with 2 sets logged across Bali and Kualalumpur. Often billed alongside BRAD WATTS, Biscuit (MY) and DJ Low (2). Next up: The Shady Pig Uluwatu, Bali on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Demian Muller is a tech house and minimal techno artist based in Chile, tracked 
 
 BRAD WATTS, Biscuit (MY), DJ Low (2)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demianmuller/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demianmuller/)*

@@ -1,6 +1,6 @@
 # Tobi Cross
 
-Tobi Cross is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
+Tobi Cross is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Luftschloss auf dem Tempelhofer Feld, Berlin on Sat, 22 Aug 2026.
 
 Tobi Cross is a techno and minimal artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Nils Herres, Felix Reichelt and Haito. Next up: Luftschloss auf dem Tempelhofer Feld, Berlin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Tobi Cross is a techno and minimal artist based in Germany, tracked on soundchec
 
 Nils Herres, Felix Reichelt, Haito
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobicross/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobicross/)*

@@ -1,6 +1,6 @@
 # Nah Mean?
 
-Nah Mean? is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Maplewood Mall, Philadelphia on Sat, 8 Aug 2026.
+Nah Mean? is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Maplewood Mall, Philadelphia on Sat, 8 Aug 2026.
 
 Nah Mean? is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity and Philadelphia. Often billed alongside Bad Leather, Anvaya and Ben Arsenal. Next up: TBA - Maplewood Mall, Philadelphia on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Nah Mean? is a house and techno artist based in United States of America, tracke
 
 Bad Leather, Anvaya, Ben Arsenal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nahmean/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nahmean/)*

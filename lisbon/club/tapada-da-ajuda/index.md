@@ -1,6 +1,6 @@
 # Tapada da Ajuda
 
-Tapada da Ajuda is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Brunch Electronik Lisboa 2026 #4: Adam Beyer, Miss Monique, Frank MaurelB2BNox" on Sat, 15 Aug 2026.
+Tapada da Ajuda is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Brunch Electronik Lisboa 2026 #4: Adam Beyer, Miss Monique, Frank MaurelB2BNox" on Sat, 15 Aug 2026.
 
 Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Adam Beyer, Ale De Tuglie, Analodjica and Booka Shade and 2 more. Browse upcoming dates, start times and who's playing. Tapada da Ajuda, 1349-017 Lisboa.
 
@@ -16,4 +16,4 @@ Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 3 upcoming nigh
 
 Tapada da Ajuda, 1349-017 Lisboa, Lisbon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*

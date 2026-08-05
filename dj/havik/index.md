@@ -1,6 +1,6 @@
 # Havik
 
-Havik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
+Havik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
 
 Havik is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Cork and Dublin. Often billed alongside Ayolxi, Tr One and Dahveed. Next up: Pawn Shop, Dublin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Havik is a techno and house artist tracked on soundcheck, with 15 sets logged ac
 
 Ayolxi, Tr One, Dahveed
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/havik/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/havik/)*

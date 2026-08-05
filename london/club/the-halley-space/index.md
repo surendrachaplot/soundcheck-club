@@ -1,6 +1,6 @@
 # The Halley Space
 
-The Halley Space is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Electronic Music Producer Meetup & Demo Feedback Session" on Thu, 20 Aug 2026.
+The Halley Space is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Electronic Music Producer Meetup & Demo Feedback Session" on Thu, 20 Aug 2026.
 
 The Halley Space is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Ceri, Fari Mond and Joe Mellors. Browse upcoming dates, start times and who's playing. Unit X, V, Y, Z  2 - 10 Reliance Wharf Haggerston N1 5ET.
 
@@ -14,4 +14,4 @@ The Halley Space is a music venue in London listed on soundcheck. 1 upcoming nig
 
 Unit X, V, Y, Z  2 - 10 Reliance Wharf Haggerston N1 5ET, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-halley-space/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-halley-space/)*

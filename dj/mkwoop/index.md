@@ -1,6 +1,6 @@
 # MK woop
 
-MK woop is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
+MK woop is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
 
 MK woop is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 30 sets logged across Kyoto and Tokyo. Often billed alongside miute, WASP and Gen Yamada. Next up: clubasia, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MK woop is a techno and hip-hop artist based in Japan, tracked on soundcheck, wi
 
 miute, WASP, Gen Yamada
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkwoop/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkwoop/)*

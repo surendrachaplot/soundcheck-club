@@ -1,8 +1,8 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+Mr. Redley is a House and Funk / Soul artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
 
-Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
+Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 68 sets
 | Fri, 14 Aug 2026 | Kelvedon Hall | London |
 | Fri, 21 Aug 2026 | Jumbi | London |
 | Sat, 22 Aug 2026 | The Jazz Cafe | London |
+| Sat, 29 Aug 2026 | The Carpet Shop | London |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 68 sets
 
 JAXX TMS, LORA S, NIKS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

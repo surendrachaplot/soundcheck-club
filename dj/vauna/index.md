@@ -1,6 +1,6 @@
 # vauna
 
-vauna is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
+vauna is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
 
 vauna is a techno and ebm artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside AEKO, Air Protection Office and Artifex (DE). Next up: ://about blank, Berlin on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ vauna is a techno and ebm artist based in Germany, tracked on soundcheck, with 6
 
 AEKO, Air Protection Office, Artifex (DE)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vauna/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vauna/)*

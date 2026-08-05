@@ -1,8 +1,8 @@
 # Justin Carter
 
-Justin Carter is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Nowadays, New York City on Sun, 9 Aug 2026.
+Justin Carter is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nowadays, New York City on Sun, 9 Aug 2026.
 
-Justin Carter is a house and techno artist based in United States of America, tracked on soundcheck, with 117 sets logged across Krakow and Newyorkcity. Often billed alongside Eamon Harkin, Chee Shimizu and Aurora Halal. Next up: Nowadays, Newyorkcity on Sun 9 Aug.
+Justin Carter is a house and techno artist based in United States of America, tracked on soundcheck, with 122 sets logged across Krakow and Newyorkcity. Often billed alongside Eamon Harkin, Chee Shimizu and Aurora Halal. Next up: Nowadays, Newyorkcity on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,11 @@ Justin Carter is a house and techno artist based in United States of America, tr
 | Sun, 9 Aug 2026 | Nowadays | New York City |
 | Sun, 16 Aug 2026 | Nowadays | New York City |
 | Sun, 6 Sept 2026 | Nowadays | New York City |
+| Sun, 4 Oct 2026 | Nowadays | New York City |
+| Sun, 11 Oct 2026 | Nowadays | New York City |
+| Sun, 18 Oct 2026 | Nowadays | New York City |
+| Sun, 25 Oct 2026 | Nowadays | New York City |
+| Sun, 1 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -27,4 +32,4 @@ Justin Carter is a house and techno artist based in United States of America, tr
 
 Eamon Harkin, Chee Shimizu, Aurora Halal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justincarter/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justincarter/)*

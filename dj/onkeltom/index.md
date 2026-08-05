@@ -1,6 +1,6 @@
 # Onkel Tom
 
-Onkel Tom is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at M-BIA, Berlin on Sat, 22 Aug 2026.
+Onkel Tom is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at M-BIA, Berlin on Sat, 22 Aug 2026.
 
 Onkel Tom is a techno and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Daora, Till Krimsen and Fran-Cee. Next up: M-BIA, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Onkel Tom is a techno and electro artist based in Germany, tracked on soundcheck
 
 Daora, Till Krimsen, Fran-Cee
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onkeltom/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onkeltom/)*

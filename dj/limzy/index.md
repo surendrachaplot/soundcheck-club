@@ -1,6 +1,6 @@
 # LIMZy
 
-LIMZy is a Amapiano and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at fabric, London on Fri, 28 Aug 2026.
+LIMZy is a Amapiano and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at fabric, London on Fri, 28 Aug 2026.
 
 LIMZy is an amapiano and afro house artist based in South Africa, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Mixolis, A.K(lifee) and Atomic Hooligan. Next up: fabric, London on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ LIMZy is an amapiano and afro house artist based in South Africa, tracked on sou
 
 Mixolis, A.K(lifee), Atomic Hooligan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limzy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limzy/)*

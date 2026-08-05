@@ -1,8 +1,8 @@
 # Naomi Baldacchino
 
-Naomi Baldacchino is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tigullio, Malta on Thu, 6 Aug 2026.
+Naomi Baldacchino is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Tigullio, Malta on Thu, 6 Aug 2026.
 
-Naomi Baldacchino is a techno and trance artist based in United Arab Emirates, tracked on soundcheck, with 46 sets logged across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Tigullio, Malta on Thu 6 Aug.
+Naomi Baldacchino is a techno and hardcore artist based in United Arab Emirates, tracked on soundcheck, with 47 sets logged across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Tigullio, Malta on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Naomi Baldacchino is a techno and trance artist based in United Arab Emirates, t
 | Thu, 13 Aug 2026 | Tigullio | Malta |
 | Thu, 27 Aug 2026 | Tigullio | Malta |
 | Thu, 3 Sept 2026 | Tigullio | Malta |
+| Sat, 5 Sept 2026 | Liquid Club | Malta |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Naomi Baldacchino is a techno and trance artist based in United Arab Emirates, t
 
 Kingsmo, A-THØX, Alex Micca
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*

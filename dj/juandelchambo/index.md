@@ -1,6 +1,6 @@
 # Juan Del Chambo
 
-Juan Del Chambo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Juan Del Chambo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 Juan Del Chambo is a techno and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside KEN (DE), Chaos Techno.Berlin and Chris Bekker. Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Juan Del Chambo is a techno and house artist based in Germany, tracked on soundc
 
 KEN (DE), Chaos Techno.Berlin, Chris Bekker
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juandelchambo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juandelchambo/)*

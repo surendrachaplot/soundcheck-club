@@ -1,6 +1,6 @@
 # CHICCA
 
-CHICCA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Tola, London on Fri, 21 Aug 2026.
+CHICCA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Tola, London on Fri, 21 Aug 2026.
 
 CHICCA is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside EEBEE, IGGY and Sheccy. Next up: Tola, London on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ CHICCA is a house and techno artist based in United Kingdom, tracked on soundche
 
 EEBEE, IGGY, Sheccy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*

@@ -1,6 +1,6 @@
 # Stache Drinking Den
 
-Stache Drinking Den is a music venue in Miami with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "OUR HOUSE" on Sun, 23 Aug 2026.
+Stache Drinking Den is a music venue in Miami with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "OUR HOUSE" on Sun, 23 Aug 2026.
 
 Stache Drinking Den is a music venue in Miami listed on soundcheck. 1 upcoming night, with line-ups including Cquer. Browse upcoming dates, start times and who's playing. 109 SW 2nd Ave, Fort Lauderdale, FL 33301.
 
@@ -14,4 +14,4 @@ Stache Drinking Den is a music venue in Miami listed on soundcheck. 1 upcoming n
 
 109 SW 2nd Ave, Fort Lauderdale, FL 33301, Miami
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/stache-drinking-den/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/stache-drinking-den/)*

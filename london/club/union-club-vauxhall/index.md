@@ -1,6 +1,6 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "DESIRE - Weekly Thursday After Party - Dhez and VORTEX" on Thu, 6 Aug 2026.
+Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DESIRE - Weekly Thursday After Party - Dhez and VORTEX" on Thu, 6 Aug 2026.
 
 Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Cristian Ebasta, Dhez, Duwat? and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
@@ -23,4 +23,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcomin
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

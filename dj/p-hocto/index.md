@@ -1,6 +1,6 @@
 # P-Hocto
 
-P-Hocto is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Old Blue Last, London on Fri, 7 Aug 2026.
+P-Hocto is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Old Blue Last, London on Fri, 7 Aug 2026.
 
 P-Hocto is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Jerome Hill, Shadesy and Ben Pest. Next up: The Old Blue Last, London on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ P-Hocto is a techno and electro artist based in United Kingdom, tracked on sound
 
 Jerome Hill, Shadesy, Ben Pest
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p-hocto/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p-hocto/)*

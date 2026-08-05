@@ -1,6 +1,6 @@
 # Rafael Cerato
 
-Rafael Cerato is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Thu, 6 Aug 2026.
+Rafael Cerato is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Thu, 6 Aug 2026.
 
 Rafael Cerato is a house and techno artist tracked on soundcheck, with 63 sets logged across Austin, Barcelona, Basel and Belgrade and 32 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: [UNVRS], Ibiza on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Rafael Cerato is a house and techno artist tracked on soundcheck, with 63 sets l
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

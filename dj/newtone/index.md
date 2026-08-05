@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Colorado Charlie, The Hague on Sat, 15 Aug 2026.
+NewTone is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Colorado Charlie, The Hague on Sat, 15 Aug 2026.
 
 NewTone is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Cologne and 9 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Colorado Charlie, Thehague on Sat 15 Aug.
 
@@ -33,4 +33,4 @@ NewTone is a house and techno artist tracked on soundcheck, with 98 sets logged 
 
 Boris Coelman, TINS, DART
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

@@ -1,6 +1,6 @@
 # XAETHERX
 
-XAETHERX is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at RASA, Singapore on Sat, 22 Aug 2026.
+XAETHERX is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at RASA, Singapore on Sat, 22 Aug 2026.
 
 XAETHERX is a house and electronica artist tracked on soundcheck, with 9 sets logged across Singapore. Often billed alongside New Masculine, Bclip and Emma SS. Next up: RASA, Singapore on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ XAETHERX is a house and electronica artist tracked on soundcheck, with 9 sets lo
 
 New Masculine, Bclip, Emma SS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xaetherx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xaetherx/)*

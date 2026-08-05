@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Arca is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Arca is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 31 sets logged across Athens, Barcelona, Berlin and Chicago and 11 more. Often billed alongside Nick León, Peggy Gou and Romy. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Arca is an experimental and electronica artist based in United States of America
 
 Nick León, Peggy Gou, Romy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*

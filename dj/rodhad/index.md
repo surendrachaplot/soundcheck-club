@@ -1,8 +1,8 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Rødhåd is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Rødhåd is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Ben Klock, JakoJako and MARRØN. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Rødhåd is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Ben Klock, JakoJako and MARRØN. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Rødhåd is a techno and house artist tracked on soundcheck, with 209 sets logge
 | Fri, 28 Aug 2026 | Under Club | Buenos Aires |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sat, 24 Oct 2026 | Paradiso | Amsterdam |
 | Sat, 31 Oct 2026 | fabric | London |
 
 ## Recently played
@@ -31,4 +32,4 @@ Rødhåd is a techno and house artist tracked on soundcheck, with 209 sets logge
 
 Ben Klock, JakoJako, MARRØN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

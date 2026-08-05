@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 16 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Chris Cruse - Harry Cross - Mister Hoochiemama" on Fri, 7 Aug 2026.
+smartbar is a music venue in Chicago with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Chris Cruse - Harry Cross - Mister Hoochiemama" on Fri, 7 Aug 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, with line-ups including Ariel Zetina, Bambounou, Brenda and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

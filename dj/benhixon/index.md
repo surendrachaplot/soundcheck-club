@@ -1,6 +1,6 @@
 # Ben Hixon
 
-Ben Hixon is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Good Room, New York City on Sat, 22 Aug 2026.
+Ben Hixon is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Sat, 22 Aug 2026.
 
 Ben Hixon is a house and deep house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Boston, Detroit, Losangeles and Montreal and 1 more. Often billed alongside Stonie Blue, Shawn Dub and Cosmo (NY). Next up: Good Room, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ben Hixon is a house and deep house artist based in United States of America, tr
 
 Stonie Blue, Shawn Dub, Cosmo (NY)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhixon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benhixon/)*

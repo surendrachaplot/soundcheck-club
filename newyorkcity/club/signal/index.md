@@ -1,8 +1,8 @@
 # Signal
 
-Signal is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Frontyard FM & Level III with K.Tea & Spiñorita" on Thu, 6 Aug 2026.
+Signal is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Frontyard FM & Level III with K.Tea & Spiñorita" on Thu, 6 Aug 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including LYDO, MORENXXX, alexander:louis and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including 550am, LYDO, MORENXXX and alexander:louis and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

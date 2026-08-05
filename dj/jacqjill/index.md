@@ -1,13 +1,14 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mess Hall, Washington DC on Sun, 16 Aug 2026.
+Jacq Jill is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Process PDX, Portland on Sat, 15 Aug 2026.
 
-Jacq Jill is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Losangeles, Newyorkcity and Seattle and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: Mess Hall, Washingtondc on Sun 16 Aug.
+Jacq Jill is a techno and house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: Process PDX, Portland on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Process PDX | Portland |
 | Sun, 16 Aug 2026 | Mess Hall | Washington DC |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 
@@ -26,4 +27,4 @@ Jacq Jill is a techno and house artist based in United States of America, tracke
 
 Joyce Lim, Baronhawk Poitier, flotussin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*

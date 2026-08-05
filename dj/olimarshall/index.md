@@ -1,6 +1,6 @@
 # Oli Marshall
 
-Oli Marshall is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Solace, Melbourne on Sat, 8 Aug 2026.
+Oli Marshall is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Sat, 8 Aug 2026.
 
 Oli Marshall is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Cooper Dodge, A.Well and Colette. Next up: Solace, Melbourne on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Oli Marshall is a house and minimal artist based in United Kingdom, tracked on s
 
 Cooper Dodge, A.Well, Colette
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olimarshall/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olimarshall/)*

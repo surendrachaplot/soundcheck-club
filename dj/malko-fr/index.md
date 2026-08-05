@@ -1,6 +1,6 @@
 # MALKÖ
 
-MALKÖ is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 8 Aug 2026.
+MALKÖ is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 8 Aug 2026.
 
 MALKÖ is a house and balearic artist based in France, tracked on soundcheck, with 16 sets logged across Newyorkcity, Paris, Seoul and Tokyo. Often billed alongside Vidal Benjamin, HOLDTight and JPYE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ MALKÖ is a house and balearic artist based in France, tracked on soundcheck, wi
 
 Vidal Benjamin, HOLDTight, JPYE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malko-fr/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malko-fr/)*

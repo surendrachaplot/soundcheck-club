@@ -1,6 +1,6 @@
 # Ivan Dallmann
 
-Ivan Dallmann is a Funk / Soul and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 13 Aug 2026.
+Ivan Dallmann is a Funk / Soul and Jazz artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at H15 Scene & Studio, Copenhagen on Thu, 13 Aug 2026.
 
 Ivan Dallmann is a funk / soul and jazz artist based in Argentina, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside E110101, HNRKSN and Vinocio. Next up: H15 Scene & Studio, Copenhagen on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Ivan Dallmann is a funk / soul and jazz artist based in Argentina, tracked on so
 
 E110101, HNRKSN, Vinocio
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivandallmann/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivandallmann/)*

@@ -1,6 +1,6 @@
 # SINZ
 
-SINZ is a House and Dembow artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+SINZ is a House and Dembow artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 SINZ is a house and dembow artist based in Costa Rica, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside OLEA. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ SINZ is a house and dembow artist based in Costa Rica, tracked on soundcheck, wi
 
 OLEA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinz/)*

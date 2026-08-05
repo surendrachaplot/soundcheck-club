@@ -1,14 +1,15 @@
 # Luude
 
-Luude is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
+Luude is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
 
-Luude is a drum & bass and house artist based in Australia, tracked on soundcheck, with 37 sets logged across Auckland, Brighton, Brisbane and Bristol and 18 more. Often billed alongside Chase & Status, Mozey and Camo & Krooked. Next up: MÄX, Zurich on Sat 8 Aug.
+Luude is a drum & bass and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Auckland, Brighton, Brisbane and Bristol and 18 more. Often billed alongside Chase & Status, Mozey and Camo & Krooked. Next up: MÄX, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | MÄX | Zurich |
+| Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Luude is a drum & bass and house artist based in Australia, tracked on soundchec
 
 Chase & Status, Mozey, Camo & Krooked
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*

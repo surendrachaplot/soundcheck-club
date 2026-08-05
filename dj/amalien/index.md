@@ -1,6 +1,6 @@
 # Ama Lien
 
-Ama Lien is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Culture Box, Copenhagen on Fri, 14 Aug 2026.
+Ama Lien is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Culture Box, Copenhagen on Fri, 14 Aug 2026.
 
 Ama Lien is a house and progressive house artist based in Denmark, tracked on soundcheck, with 10 sets logged across Copenhagen. Often billed alongside Divad Yaya, Rob Mdna and Soft Bites. Next up: Culture Box, Copenhagen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ama Lien is a house and progressive house artist based in Denmark, tracked on so
 
 Divad Yaya, Rob Mdna, Soft Bites
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amalien/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amalien/)*

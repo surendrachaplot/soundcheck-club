@@ -1,6 +1,6 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Steel Yard, London on Fri, 7 Aug 2026.
+Jeneva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Steel Yard, London on Fri, 7 Aug 2026.
 
 Jeneva is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Varanasi. Next up: The Steel Yard, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jeneva is a techno and house artist tracked on soundcheck, with 39 sets logged a
 
 Greg Brockmann, LO-LOW, Varanasi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

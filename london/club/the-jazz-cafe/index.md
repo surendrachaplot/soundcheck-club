@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 46 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Mo'Kalamity" on Tue, 4 Aug 2026.
+The Jazz Cafe is a music venue in London with 46 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Shaggy" on Thu, 6 Aug 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including AMANDA SZE, AMARI, ASIAN BRAT and Ata Kak and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -8,7 +8,6 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 46 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | Mo'Kalamity |  |
 | Thu, 6 Aug 2026 | Shaggy | Shaggy |
 | Fri, 7 Aug 2026 | Juls — Jazz Cafe Residency (4 Fridays in the Summer) | Dj Nico, Duo, HARUNA (2), Hagan, Juls, Kwamzy, Larizzle, Papu Raf, Rhiavas |
 | Fri, 7 Aug 2026 | Juls — Jazz Cafe Residency (4 Fridays in the Summer - 7 August) | Duo, Juls, Kwamzy, Larizzle, Rhiavas |
@@ -18,9 +17,10 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 46 upcoming night
 | Sat, 15 Aug 2026 | Soul City: House Music Every Saturday Night |  |
 | Sat, 15 Aug 2026 | Razor-N-Tape Party at Jazz Cafe | JKriv |
 | Fri, 21 Aug 2026 | Juls — Jazz Cafe Residency (4 Fridays in the Summer - 21 August) | Dj Nico, HARUNA (2), Hagan, Juls, Papu Raf |
+| Sat, 22 Aug 2026 | Soul City: Day & Night Party |  |
 
 ## Address
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

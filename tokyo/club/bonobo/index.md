@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "ZØ (zero)vol.9" on Wed, 5 Aug 2026.
+Bonobo is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "ZØ (zero)vol.9" on Wed, 5 Aug 2026.
 
 Bonobo is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including 5harpy, Aquarium, CALPISS and kasetakumi (2) and 2 more. Browse upcoming dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -17,4 +17,4 @@ Bonobo is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with l
 
 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*

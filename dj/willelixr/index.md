@@ -1,6 +1,6 @@
 # Will Elixr
 
-Will Elixr is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Revel Club, Hong Kong on Sat, 8 Aug 2026.
+Will Elixr is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Revel Club, Hong Kong on Sat, 8 Aug 2026.
 
 Will Elixr is a techno and trance artist based in China, tracked on soundcheck, with 4 sets logged across Hongkong and Shenzhen. Often billed alongside CO1N, Lawn Jarre and Pengsoo. Next up: Revel Club, Hongkong on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Will Elixr is a techno and trance artist based in China, tracked on soundcheck, 
 
 CO1N, Lawn Jarre, Pengsoo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willelixr/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willelixr/)*

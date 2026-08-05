@@ -1,6 +1,6 @@
 # Tham
 
-Tham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Tham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Tham is a techno and trance artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Tham is a techno and trance artist tracked on soundcheck, with 148 sets logged a
 
 Acierate, CARAVEL, Vendex
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

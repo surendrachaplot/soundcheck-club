@@ -1,6 +1,6 @@
 # ONYVA
 
-ONYVA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+ONYVA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
 
 ONYVA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin, Istanbul and Stuttgart. Often billed alongside Blossmbae, Calypsis and Claudius. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ ONYVA is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Blossmbae, Calypsis, Claudius
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onyva/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onyva/)*

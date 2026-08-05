@@ -1,8 +1,8 @@
 # DotDash
 
-DotDash is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Crack Bellmer, Berlin on Thu, 6 Aug 2026.
+DotDash is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Crack Bellmer, Berlin on Thu, 6 Aug 2026.
 
-DotDash is a techno and italo disco artist based in Poland, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Bconscious, Vū and Alex Pastore. Next up: Crack Bellmer, Berlin on Thu 6 Aug.
+DotDash is a techno and italo disco artist based in Poland, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Bconscious, Vū and Ahni. Next up: Crack Bellmer, Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ DotDash is a techno and italo disco artist based in Poland, tracked on soundchec
 
 ## Shares bills with
 
-Bconscious, Vū, Alex Pastore
+Bconscious, Vū, Ahni
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dotdash/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dotdash/)*

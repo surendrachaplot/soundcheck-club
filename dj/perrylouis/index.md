@@ -1,6 +1,6 @@
 # Perry Louis
 
-Perry Louis is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Perry Louis is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Perry Louis is a disco and house artist tracked on soundcheck, with 10 sets logged across Bristol and London. Often billed alongside Aitch B, DJ Amir and Mr Thing. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Perry Louis is a disco and house artist tracked on soundcheck, with 10 sets logg
 
 Aitch B, DJ Amir, Mr Thing
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrylouis/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrylouis/)*

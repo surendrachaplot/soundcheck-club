@@ -1,13 +1,14 @@
 # auto_timer
 
-auto_timer is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Marmorbar, Berlin on Fri, 21 Aug 2026.
+auto_timer is a Latin Bass and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
-auto_timer is a latin bass and baile funk artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: Marmorbar, Berlin on Fri 21 Aug.
+auto_timer is a latin bass and baile funk artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Fri, 21 Aug 2026 | Marmorbar | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ auto_timer is a latin bass and baile funk artist tracked on soundcheck, with 36 
 
 Maque, N3LYSTAR, DJ LOUI FROM JUPITER4
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auto_timer/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auto_timer/)*

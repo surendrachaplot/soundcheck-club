@@ -1,6 +1,6 @@
 # Frank Wiedemann
 
-Frank Wiedemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Airport Düsseldorf, Düsseldorf on Sun, 6 Sept 2026.
+Frank Wiedemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Airport Düsseldorf, Düsseldorf on Sun, 6 Sept 2026.
 
 Frank Wiedemann is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Dusseldorf and London and 2 more. Often billed alongside Âme, Hardt Antoine and Mathew Jonson. Next up: Airport Düsseldorf, Dusseldorf on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Frank Wiedemann is a techno and house artist based in Germany, tracked on soundc
 
 Âme, Hardt Antoine, Mathew Jonson
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankwiedemann/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankwiedemann/)*

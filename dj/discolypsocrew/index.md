@@ -1,6 +1,6 @@
 # Discolypso Crew
 
-Discolypso Crew is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Discolypso Crew is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
 Discolypso Crew is a disco and electronica artist based in United States of America, tracked on soundcheck, with 41 sets logged across Berlin, Ibiza, London and Mexicocity and 2 more. Often billed alongside Isaac Ferry, Dombrance and Rigopolar. Next up: Loft Studios, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Discolypso Crew is a disco and electronica artist based in United States of Amer
 
 Isaac Ferry, Dombrance, Rigopolar
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discolypsocrew/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discolypsocrew/)*

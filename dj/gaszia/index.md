@@ -1,6 +1,6 @@
 # gaszia
 
-gaszia is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
+gaszia is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 gaszia is a club and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Denver, Newyorkcity and Philadelphia and 2 more. Often billed alongside umru, Donatachi and MAMA SAN. Next up: Public Works, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ gaszia is a club and techno artist based in United States of America, tracked on
 
 umru, Donatachi, MAMA SAN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaszia/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaszia/)*

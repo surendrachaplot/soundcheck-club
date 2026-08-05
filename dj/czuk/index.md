@@ -1,8 +1,8 @@
 # cZ (UK)
 
-cZ (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+cZ (UK) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
-cZ (UK) is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Brands, F*ckabouts and Miggi. Next up: 93 Feet East, London on Sat 22 Aug.
+cZ (UK) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Brands, F*ckabouts and Miggi. Next up: 93 Feet East, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ cZ (UK) is a deep house and house artist based in United Kingdom, tracked on sou
 
 Brands, F*ckabouts, Miggi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/czuk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/czuk/)*

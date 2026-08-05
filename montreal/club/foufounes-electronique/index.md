@@ -1,6 +1,6 @@
 # Foufounes Electronique
 
-Foufounes Electronique is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Beaux Dégâts - Under Pressure" on Thu, 6 Aug 2026.
+Foufounes Electronique is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Beaux Dégâts - Under Pressure" on Thu, 6 Aug 2026.
 
 Foufounes Electronique is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including Exploit, Kontravoid and STLKR. Browse upcoming dates, start times and who's playing. 87 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada.
 
@@ -17,4 +17,4 @@ Foufounes Electronique is a music venue in Montreal listed on soundcheck. 4 upco
 
 87 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada, Montreal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/foufounes-electronique/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/foufounes-electronique/)*

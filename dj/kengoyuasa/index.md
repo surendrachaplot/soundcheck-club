@@ -1,6 +1,6 @@
 # Kengo Yuasa
 
-Kengo Yuasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Fri, 21 Aug 2026.
+Kengo Yuasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Fri, 21 Aug 2026.
 
 Kengo Yuasa is a techno and house artist based in Japan, tracked on soundcheck, with 48 sets logged across Tokyo. Often billed alongside hiroto yano, Leefia and AMIDAdrive. Next up: VENT, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kengo Yuasa is a techno and house artist based in Japan, tracked on soundcheck, 
 
 hiroto yano, Leefia, AMIDAdrive
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kengoyuasa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kengoyuasa/)*

@@ -1,6 +1,6 @@
 # Jugg Marley at Spread
 
-Jugg Marley at Spread on Fri 14 Aug, Tokyo. 3 acts on the bill: eijin, Lil Mofo and Vís (1). Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+Jugg Marley at Spread on Fri 14 Aug, Tokyo. 3 acts on the bill: eijin, Lil Mofo and Vís (1). Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

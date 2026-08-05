@@ -1,6 +1,6 @@
 # Maozon
 
-Maozon is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at WOMB, Tokyo on Wed, 19 Aug 2026.
+Maozon is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at WOMB, Tokyo on Wed, 19 Aug 2026.
 
 Maozon is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 24 sets logged across Losangeles, Sanfrancisco and Tokyo. Often billed alongside KEiTA, DJ AKi and YELLOCK. Next up: WOMB, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Maozon is a drum & bass and techno artist based in Japan, tracked on soundcheck,
 
 KEiTA, DJ AKi, YELLOCK
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maozon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maozon/)*

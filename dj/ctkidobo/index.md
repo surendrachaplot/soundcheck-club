@@ -1,6 +1,6 @@
 # CT Kidobó
 
-CT Kidobó is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
+CT Kidobó is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
 
 CT Kidobó is an electro and disco artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest and Vienna. Often billed alongside LAU (6), Mankind and Max Sinclair. Next up: Pontoon Budapest, Budapest on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ CT Kidobó is an electro and disco artist based in Hungary, tracked on soundchec
 
 LAU (6), Mankind, Max Sinclair
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ctkidobo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ctkidobo/)*

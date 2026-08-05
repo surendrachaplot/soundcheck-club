@@ -1,14 +1,15 @@
 # RAUAND I.
 
-RAUAND I. is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+RAUAND I. is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
-RAUAND I. is a hip-hop and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Oslo. Often billed alongside Morstaq, Tia Taro and Finnebassen. Next up: Blå, Oslo on Sat 8 Aug.
+RAUAND I. is a house and hip-hop artist based in Germany, tracked on soundcheck, with 5 sets logged across Oslo. Often billed alongside Morstaq, Tia Taro and Finnebassen. Next up: Blå, Oslo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Blå | Oslo |
+| Fri, 14 Aug 2026 | Revier Oslo | Oslo |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ RAUAND I. is a hip-hop and house artist based in Germany, tracked on soundcheck,
 
 Morstaq, Tia Taro, Finnebassen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rauandi./)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rauandi./)*

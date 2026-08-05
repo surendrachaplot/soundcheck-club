@@ -1,13 +1,14 @@
 # Mario Cotto
 
-Mario Cotto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Mario Cotto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at LMNO Outdoor Courtyard, Philadelphia on Sat, 15 Aug 2026.
 
-Mario Cotto is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Losangeles and Philadelphia. Often billed alongside Zillas on Acid, Westov Temple and Dave P. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Mario Cotto is a techno and house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Losangeles and Philadelphia. Often billed alongside Zillas on Acid, Westov Temple and Dave P. Next up: LMNO Outdoor Courtyard, Philadelphia on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | LMNO Outdoor Courtyard | Philadelphia |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mario Cotto is a techno and house artist based in United States of America, trac
 
 Zillas on Acid, Westov Temple, Dave P
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocotto/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocotto/)*

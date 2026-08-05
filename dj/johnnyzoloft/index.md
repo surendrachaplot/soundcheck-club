@@ -1,6 +1,6 @@
 # Johnny Zoloft
 
-Johnny Zoloft is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mansions, New York City on Thu, 6 Aug 2026.
+Johnny Zoloft is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mansions, New York City on Thu, 6 Aug 2026.
 
 Johnny Zoloft is an electronica and house artist tracked on soundcheck, with 8 sets logged across Detroit, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Kiernan Laveaux, Joyce Lim and Baronhawk Poitier. Next up: Mansions, Newyorkcity on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ Johnny Zoloft is an electronica and house artist tracked on soundcheck, with 8 s
 
 Kiernan Laveaux, Joyce Lim, Baronhawk Poitier
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyzoloft/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyzoloft/)*

@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Trikk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged a
 
 Âme, Jimi Jules, Dixon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

@@ -1,6 +1,6 @@
 # Ill Blu
 
-Ill Blu is a R&B and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
+Ill Blu is a R&B and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
 
 Ill Blu is a r&b and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Prague. Often billed alongside Shenin Amara, DJ Eastwood and Supa D. Next up: Addington Park, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ill Blu is a r&b and house artist based in United Kingdom, tracked on soundcheck
 
 Shenin Amara, DJ Eastwood, Supa D
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illblu/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illblu/)*

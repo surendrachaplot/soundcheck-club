@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Generous B presents" on Thu, 6 Aug 2026.
+Jolene Downtown Miami is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Generous B presents" on Thu, 6 Aug 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Arapu, Archie Hamilton, Ben Roberts and Daizy and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -23,4 +23,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcomin
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

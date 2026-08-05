@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Girls Don't Sync is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Girls Don't Sync is a garage and house artist tracked on soundcheck, with 116 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 26 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Rich Reason. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Girls Don't Sync is a garage and house artist tracked on soundcheck, with 116 se
 
 Interplanetary Criminal, Sophia Violet, Rich Reason
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

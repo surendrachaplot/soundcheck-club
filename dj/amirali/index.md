@@ -1,6 +1,6 @@
 # Amirali
 
-Amirali is a Electronica and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 7 Aug 2026.
+Amirali is a Electronica and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 Amirali is an electronica and deep house artist based in Iran, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, London and Losangeles. Often billed alongside Loa Szala, Antares and Denny Kem. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Amirali is an electronica and deep house artist based in Iran, tracked on soundc
 
 Loa Szala, Antares, Denny Kem
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amirali/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amirali/)*

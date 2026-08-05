@@ -1,6 +1,6 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
+Ammo Avenue is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
 
 Ammo Avenue is a tech house and house artist based in Peru, tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
 
@@ -28,4 +28,4 @@ Ammo Avenue is a tech house and house artist based in Peru, tracked on soundchec
 
 Hector Couto, Pirate Copy, East End Dubs
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*

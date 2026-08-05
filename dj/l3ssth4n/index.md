@@ -1,6 +1,6 @@
 # L3SS TH4N
 
-L3SS TH4N is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Horn, Bangkok on Thu, 6 Aug 2026.
+L3SS TH4N is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Horn, Bangkok on Thu, 6 Aug 2026.
 
 L3SS TH4N is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Bangkok. Often billed alongside Brownie Popkens, LOMOROOM and MOONBLUE. Next up: Horn, Bangkok on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ L3SS TH4N is a techno and house artist based in United States of America, tracke
 
 Brownie Popkens, LOMOROOM, MOONBLUE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ssth4n/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ssth4n/)*

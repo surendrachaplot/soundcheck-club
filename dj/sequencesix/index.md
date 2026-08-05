@@ -1,6 +1,6 @@
 # Sequence Six
 
-Sequence Six is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
+Sequence Six is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
 
 Sequence Six is a trance and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Losangeles, Montreal and Sandiego. Often billed alongside AMÉMÉ, Aaron Cappy and Alok. Next up: TBA, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sequence Six is a trance and techno artist based in United States of America, tr
 
 AMÉMÉ, Aaron Cappy, Alok
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*

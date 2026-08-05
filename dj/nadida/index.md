@@ -1,6 +1,6 @@
 # Nadida
 
-Nadida is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Nadida is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Nadida is an electro and techno artist tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Antoine Baiser, ESSHAR and Marco Baskind. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Nadida is an electro and techno artist tracked on soundcheck, with 18 sets logge
 
 Antoine Baiser, ESSHAR, Marco Baskind
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadida/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadida/)*

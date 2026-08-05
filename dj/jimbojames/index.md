@@ -1,8 +1,8 @@
 # Jimbo James
 
-Jimbo James is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Laissez Faire, New York City on Fri, 7 Aug 2026.
+Jimbo James is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Laissez Faire, New York City on Fri, 7 Aug 2026.
 
-Jimbo James is a house and deep house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Losangeles, Miami, Nashville and Newyorkcity and 1 more. Often billed alongside Gian-Paul, Ramin Majlessi and AMIRA. Next up: Laissez Faire, Newyorkcity on Fri 7 Aug.
+Jimbo James is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Losangeles, Miami, Nashville and Newyorkcity and 1 more. Often billed alongside Gian-Paul, Ramin Majlessi and AMIRA. Next up: Laissez Faire, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jimbo James is a house and deep house artist based in United States of America, 
 | Fri, 7 Aug 2026 | Laissez Faire | New York City |
 | Sat, 8 Aug 2026 | TBA - PUBLIC Hotel The Roof, 215 Chrystie Street on the Lower East Side | New York City |
 | Fri, 14 Aug 2026 | TBA - Private Location | San Diego |
+| Sun, 4 Oct 2026 | TBA - Private Location | San Diego |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Jimbo James is a house and deep house artist based in United States of America, 
 
 Gian-Paul, Ramin Majlessi, AMIRA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*

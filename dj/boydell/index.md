@@ -1,14 +1,15 @@
 # Boydell
 
-Boydell is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Alphaville, New York City on Fri, 7 Aug 2026.
+Boydell is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Alphaville, New York City on Fri, 7 Aug 2026.
 
-Boydell is a garage and dubstep artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Peregrine (US), BUNZ and ALEX PAN. Next up: Alphaville, Newyorkcity on Fri 7 Aug.
+Boydell is a garage and dubstep artist based in United States of America, tracked on soundcheck, with 16 sets logged across Kualalumpur and Newyorkcity. Often billed alongside Peregrine (US), BUNZ and ALEX PAN. Next up: Alphaville, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Alphaville | New York City |
+| Sat, 29 Aug 2026 | Coffeeboy Records + Cafe | Kuala Lumpur |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Boydell is a garage and dubstep artist based in United States of America, tracke
 
 Peregrine (US), BUNZ, ALEX PAN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boydell/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boydell/)*

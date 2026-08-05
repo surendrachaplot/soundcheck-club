@@ -1,6 +1,6 @@
 # Tiko
 
-Tiko is a Club and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Vanguard, Sydney on Fri, 7 Aug 2026.
+Tiko is a Club and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Vanguard, Sydney on Fri, 7 Aug 2026.
 
 Tiko is a club and progressive house artist based in Germany, tracked on soundcheck, with 3 sets logged across Barcelona, Berlin and Sydney. Often billed alongside Alexia K., DAZA and Jens Mueller. Next up: The Vanguard, Sydney on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Tiko is a club and progressive house artist based in Germany, tracked on soundch
 
 Alexia K., DAZA, Jens Mueller
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiko/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiko/)*

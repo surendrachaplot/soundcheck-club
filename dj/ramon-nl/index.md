@@ -1,6 +1,6 @@
 # RAMØN
 
-RAMØN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Toffler, Rotterdam on Fri, 11 Sept 2026.
+RAMØN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Toffler, Rotterdam on Fri, 11 Sept 2026.
 
 RAMØN is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Antwerp, Rotterdam, Utrecht and Zurich. Often billed alongside 6EJOU, AREA ØNE and Aphøtic. Next up: Toffler, Rotterdam on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ RAMØN is a techno and hardcore artist based in Netherlands, tracked on soundche
 
 6EJOU, AREA ØNE, Aphøtic
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon-nl/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon-nl/)*

@@ -1,6 +1,6 @@
 # DJ OGAWA
 
-DJ OGAWA is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
+DJ OGAWA is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
 
 DJ OGAWA is a progressive house and house artist based in Japan, tracked on soundcheck, with 32 sets logged across Buenosaires, Copenhagen, Kyoto and Lisbon and 3 more. Often billed alongside Senda, AIBA and Michel. Next up: VENT, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ OGAWA is a progressive house and house artist based in Japan, tracked on soun
 
 Senda, AIBA, Michel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djogawanitelistmusic/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djogawanitelistmusic/)*

@@ -1,6 +1,6 @@
 # KSHA
 
-KSHA is a R&B and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+KSHA is a R&B and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 KSHA is a r&b and funk / soul artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside ARKNGL, BBSHKALES and Jean Blaire. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ KSHA is a r&b and funk / soul artist based in United Kingdom, tracked on soundch
 
 ARKNGL, BBSHKALES, Jean Blaire
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ksha/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ksha/)*

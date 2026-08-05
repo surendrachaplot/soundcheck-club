@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 30 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "ALIVE X Abstract: Rebekah" on Sat, 8 Aug 2026.
+E1 is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "ALIVE X Abstract: Rebekah" on Sat, 8 Aug 2026.
 
 E1 is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 8KAYS, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -14,7 +14,7 @@ E1 is a music venue in London listed on soundcheck. 30 upcoming nights, with lin
 | Fri, 21 Aug 2026 | ALIVE x ABSTRACT: NEGITIV, Aida Arko & Lezcano | Aida Arko, Lezcano, NEGITIV |
 | Fri, 21 Aug 2026 | ACCUSED BY ACA @ ONYX (E1) London | ACA (YU), Capron, Dale Hart, Mene, TROXY |
 | Fri, 21 Aug 2026 | The Menendez Brothers & Friends | The Menendez Brothers |
-| Sat, 22 Aug 2026 | Oh Eight presents: The Exchange,  Lisbon × London |  |
+| Sat, 22 Aug 2026 | Oh Eight presents: The Exchange,  Lisbon × London | Meith (PT), Mr Silk, Zengxrl |
 | Fri, 28 Aug 2026 | ALIVE: Afem Syko & Fenrick | Afem Syko, Becky Stroke, Fenrick |
 | Fri, 28 Aug 2026 | Piano Republik, House Warming and RedRoom Underground presents: Sounds of South | Ade Smilez, Olayemi |
 | Sat, 29 Aug 2026 | Matthias Tanzmann & Friends | Bread & Butter, Matthias Tanzmann, THE FLAG TWINS, William Quintero (2) |
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 30 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

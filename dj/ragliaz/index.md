@@ -1,6 +1,6 @@
 # Ragliaz
 
-Ragliaz is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
+Ragliaz is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
 
 Ragliaz is a techno artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin and Milan. Often billed alongside Maddest, NOVZE and LEMME. Next up: Maaya, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ragliaz is a techno artist based in Italy, tracked on soundcheck, with 14 sets l
 
 Maddest, NOVZE, LEMME
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ragliaz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ragliaz/)*

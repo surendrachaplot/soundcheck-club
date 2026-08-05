@@ -1,6 +1,6 @@
 # Hildur Guðnadóttir
 
-Hildur Guðnadóttir is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Hildur Guðnadóttir is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 Hildur Guðnadóttir is an experimental and ambient artist based in Iceland, tracked on soundcheck, with 8 sets logged across Berlin, London and Losangeles. Often billed alongside ABOPF, Antonina Nowacka and Assyouti. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -24,4 +24,4 @@ Hildur Guðnadóttir is an experimental and ambient artist based in Iceland, tra
 
 ABOPF, Antonina Nowacka, Assyouti
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hildurgudnadottir/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hildurgudnadottir/)*

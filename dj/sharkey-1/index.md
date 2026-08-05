@@ -1,6 +1,6 @@
 # Sharkey (1)
 
-Sharkey (1) is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
+Sharkey (1) is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
 
 Sharkey (1) is a hardcore and trance artist tracked on soundcheck, with 8 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Scott Brown, Dougal and Charlie B. Next up: The Classic Grand, Glasgow on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Sharkey (1) is a hardcore and trance artist tracked on soundcheck, with 8 sets l
 
 Scott Brown, Dougal, Charlie B
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*

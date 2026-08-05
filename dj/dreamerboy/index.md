@@ -1,6 +1,6 @@
 # dreamerboy
 
-dreamerboy is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 8 Aug 2026.
+dreamerboy is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 8 Aug 2026.
 
 dreamerboy is a trance and techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Berlin and Rome. Often billed alongside Anna D'Angelo, Ceili and GAEL. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ dreamerboy is a trance and techno artist based in Italy, tracked on soundcheck, 
 
 Anna D'Angelo, Ceili, GAEL
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamerboy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamerboy/)*

@@ -1,6 +1,6 @@
 # BIKO
 
-BIKO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "S!RENE" on Sat, 31 Oct 2026.
+BIKO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "S!RENE" on Sat, 31 Oct 2026.
 
 BIKO is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including S!RENE. Browse upcoming dates, start times and who's playing. Via Ettore Ponti 40, 20143 Milano.
 
@@ -14,4 +14,4 @@ BIKO is a music venue in Milan listed on soundcheck. 1 upcoming night, with line
 
 Via Ettore Ponti 40, 20143 Milano, Milan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/biko/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/biko/)*

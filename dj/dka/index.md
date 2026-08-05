@@ -1,6 +1,6 @@
 # DkA
 
-DkA is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Barrio Cafe, Brussels on Fri, 7 Aug 2026.
+DkA is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Barrio Cafe, Brussels on Fri, 7 Aug 2026.
 
 DkA is a house and ghetto tech artist based in Belgium, tracked on soundcheck, with 6 sets logged across Brussels. Often billed alongside RELO4D, Ce$ar and Contrefaçon. Next up: Barrio Cafe, Brussels on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ DkA is a house and ghetto tech artist based in Belgium, tracked on soundcheck, w
 
 RELO4D, Ce$ar, Contrefaçon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dka/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dka/)*

@@ -1,6 +1,6 @@
 # Corentin Mab
 
-Corentin Mab is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
+Corentin Mab is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
 
 Corentin Mab is an electro and disco artist based in France, tracked on soundcheck, with 6 sets logged across Nantes and Paris. Often billed alongside Quentin Schneider, Afshin and Alex Wann. Next up: Warehouse, Nantes on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Corentin Mab is an electro and disco artist based in France, tracked on soundche
 
 Quentin Schneider, Afshin, Alex Wann
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corentinmab/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corentinmab/)*

@@ -1,6 +1,6 @@
 # KLÖSS
 
-KLÖSS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 23 Aug 2026.
+KLÖSS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 23 Aug 2026.
 
 KLÖSS is a trance and techno artist tracked on soundcheck, with 3 sets logged across Berlin and Paris. Often billed alongside Daniella da Silva, Dexphase and Enham. Next up: Lokschuppen Berlin, Berlin on Sun 23 Aug.
 
@@ -19,4 +19,4 @@ KLÖSS is a trance and techno artist tracked on soundcheck, with 3 sets logged a
 
 Daniella da Silva, Dexphase, Enham
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*

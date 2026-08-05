@@ -1,6 +1,6 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 Pan-Pot is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Anfisa Letyago, Enrico Sangiuliano and Adam Beyer. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -30,4 +30,4 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 170 sets logged
 
 Anfisa Letyago, Enrico Sangiuliano, Adam Beyer
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

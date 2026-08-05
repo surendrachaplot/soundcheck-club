@@ -1,6 +1,6 @@
 # bb:fm
 
-bb:fm is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paloma, Berlin on Sat, 29 Aug 2026.
+bb:fm is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paloma, Berlin on Sat, 29 Aug 2026.
 
 bb:fm is a breakbeat and electro artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Black Mirror Park, Vy Tran and ANDI A.. Next up: Paloma, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ bb:fm is a breakbeat and electro artist based in Germany, tracked on soundcheck,
 
 Black Mirror Park, Vy Tran, ANDI A.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbfm/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbfm/)*

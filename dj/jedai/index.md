@@ -1,6 +1,6 @@
 # Jedai
 
-Jedai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+Jedai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
 
 Jedai is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Christian Tokyo, Sight -Beyond- Sound and Bella Mode. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Jedai is a house and techno artist based in United States of America, tracked on
 
 Christian Tokyo, Sight -Beyond- Sound, Bella Mode
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedai/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jedai/)*

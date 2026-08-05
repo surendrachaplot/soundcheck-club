@@ -1,8 +1,8 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Princess Theatre, Brisbane on Fri, 7 Aug 2026.
+1tbsp is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Princess Theatre, Brisbane on Fri, 7 Aug 2026.
 
-1tbsp is a house and electronica artist tracked on soundcheck, with 113 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Princess Theatre, Brisbane on Fri 7 Aug.
+1tbsp is a house and electronica artist tracked on soundcheck, with 115 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Princess Theatre, Brisbane on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@
 | Fri, 7 Aug 2026 | Princess Theatre | Brisbane |
 | Fri, 14 Aug 2026 | Liberty Hall | Sydney |
 | Sat, 15 Aug 2026 | Northcote Theatre | Melbourne |
+| Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
+| Sat, 24 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -27,4 +29,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

@@ -1,6 +1,6 @@
 # Indigo (CR)
 
-Indigo (CR) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
+Indigo (CR) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
 
 Indigo (CR) is a tech house and house artist based in Czech Republic, tracked on soundcheck, with 12 sets logged across Prague. Often billed alongside Ziggy, ANĪC and Pornbugs. Next up: Czech Boat, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Indigo (CR) is a tech house and house artist based in Czech Republic, tracked on
 
 Ziggy, ANĪC, Pornbugs
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indigo-cr/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indigo-cr/)*

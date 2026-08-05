@@ -1,6 +1,6 @@
 # DWIGHT
 
-DWIGHT is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Modeci, Seoul on Fri, 7 Aug 2026.
+DWIGHT is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Modeci, Seoul on Fri, 7 Aug 2026.
 
 DWIGHT is an electronic artist based in South Korea, tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside .2ndfloor, Keemyo and Oldshoes. Next up: Modeci, Seoul on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ DWIGHT is an electronic artist based in South Korea, tracked on soundcheck, with
 
 .2ndfloor, Keemyo, Oldshoes
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwight/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwight/)*

@@ -1,6 +1,6 @@
 # Lysia
 
-Lysia is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Goldener Reiter, Munich on Sat, 8 Aug 2026.
+Lysia is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Goldener Reiter, Munich on Sat, 8 Aug 2026.
 
 Lysia is a house and balearic artist based in Brazil, tracked on soundcheck, with 8 sets logged across Lisbon, Munich, Saopaulo and Vienna. Often billed alongside Gaspar Muniz, Kair and Anton Kolo. Next up: Goldener Reiter, Munich on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Lysia is a house and balearic artist based in Brazil, tracked on soundcheck, wit
 
 Gaspar Muniz, Kair, Anton Kolo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*

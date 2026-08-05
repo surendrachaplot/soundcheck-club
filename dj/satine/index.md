@@ -1,6 +1,6 @@
 # Satine
 
-Satine is a Ballroom and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Petit CAB, Marseille on Fri, 7 Aug 2026.
+Satine is a Ballroom and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Petit CAB, Marseille on Fri, 7 Aug 2026.
 
 Satine is a ballroom and house artist based in Brazil, tracked on soundcheck, with 4 sets logged across Barcelona, London and Marseille. Often billed alongside Almeida Moura, Cassine and DJ2D2. Next up: Petit CAB, Marseille on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Satine is a ballroom and house artist based in Brazil, tracked on soundcheck, wi
 
 Almeida Moura, Cassine, DJ2D2
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satine/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satine/)*

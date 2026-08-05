@@ -1,6 +1,6 @@
 # Toner(JP)
 
-Toner(JP) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at VENT, Tokyo on Fri, 14 Aug 2026.
+Toner(JP) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Fri, 14 Aug 2026.
 
 Toner(JP) is a techno and ambient artist based in Japan, tracked on soundcheck, with 39 sets logged across Seoul and Tokyo. Often billed alongside Atsushi Maeda, Lynne and Nao(rural). Next up: VENT, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Toner(JP) is a techno and ambient artist based in Japan, tracked on soundcheck, 
 
 Atsushi Maeda, Lynne, Nao(rural)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*

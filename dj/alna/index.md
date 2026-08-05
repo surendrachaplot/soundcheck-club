@@ -1,6 +1,6 @@
 # ALNA
 
-ALNA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Greyhound, London on Sat, 8 Aug 2026.
+ALNA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Greyhound, London on Sat, 8 Aug 2026.
 
 ALNA is a techno and electro artist tracked on soundcheck, with 25 sets logged across Berlin, Edinburgh, London and Manchester and 2 more. Often billed alongside Küetzal, Kessa and R.M.K. Next up: The Greyhound, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ALNA is a techno and electro artist tracked on soundcheck, with 25 sets logged a
 
 Küetzal, Kessa, R.M.K
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alna/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alna/)*

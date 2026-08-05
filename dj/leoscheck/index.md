@@ -1,6 +1,6 @@
 # Leo Scheck
 
-Leo Scheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Good Room, New York City on Sat, 15 Aug 2026.
+Leo Scheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Sat, 15 Aug 2026.
 
 Leo Scheck is a techno and house artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside AFTRMTH, ARRA and Ben Wagner. Next up: Good Room, Newyorkcity on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Leo Scheck is a techno and house artist tracked on soundcheck, with 5 sets logge
 
 AFTRMTH, ARRA, Ben Wagner
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoscheck/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoscheck/)*

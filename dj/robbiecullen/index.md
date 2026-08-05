@@ -1,6 +1,6 @@
 # Robbie Cullen
 
-Robbie Cullen is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Starlane Pizza Bar, London on Fri, 7 Aug 2026.
+Robbie Cullen is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Starlane Pizza Bar, London on Fri, 7 Aug 2026.
 
 Robbie Cullen is a house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside JFULLER, Dance With Sakura and DeMarco (IRL). Next up: Starlane Pizza Bar, London on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Robbie Cullen is a house artist based in United Kingdom, tracked on soundcheck, 
 
 JFULLER, Dance With Sakura, DeMarco (IRL)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiecullen/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiecullen/)*

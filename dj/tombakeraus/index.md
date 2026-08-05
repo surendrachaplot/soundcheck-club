@@ -1,6 +1,6 @@
 # Tom Baker (AUS)
 
-Tom Baker (AUS) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Solace, Melbourne on Fri, 28 Aug 2026.
+Tom Baker (AUS) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Fri, 28 Aug 2026.
 
 Tom Baker (AUS) is a trance and techno artist based in Australia, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside Unknown Concept. Next up: Solace, Melbourne on Fri 28 Aug.
 
@@ -14,4 +14,4 @@ Tom Baker (AUS) is a trance and techno artist based in Australia, tracked on sou
 
 Unknown Concept
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tombakeraus/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tombakeraus/)*

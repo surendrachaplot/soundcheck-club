@@ -1,6 +1,6 @@
 # BLUEMEW
 
-BLUEMEW is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Blank Site, Seoul on Fri, 7 Aug 2026.
+BLUEMEW is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Blank Site, Seoul on Fri, 7 Aug 2026.
 
 BLUEMEW is a bass and techno artist based in Japan, tracked on soundcheck, with 24 sets logged across Seoul and Tokyo. Often billed alongside SOGI, M.I.O and MELEETIME. Next up: Blank Site, Seoul on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BLUEMEW is a bass and techno artist based in Japan, tracked on soundcheck, with 
 
 SOGI, M.I.O, MELEETIME
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemew/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemew/)*

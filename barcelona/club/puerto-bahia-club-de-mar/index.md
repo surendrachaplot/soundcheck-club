@@ -1,6 +1,6 @@
 # Puerto Bahia Club de Mar
 
-Puerto Bahia Club de Mar is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "R&B SESSIONS TAKES OVER THE BEACH - BARCELONA" on Sat, 8 Aug 2026.
+Puerto Bahia Club de Mar is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "R&B SESSIONS TAKES OVER THE BEACH - BARCELONA" on Sat, 8 Aug 2026.
 
 Puerto Bahia Club de Mar is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including IMVIC and Mohini Burgos. Browse upcoming dates, start times and who's playing. Passeig Del Mare Nostrum, 61, 08918 Badalona, Barcelona, Spain.
 
@@ -17,4 +17,4 @@ Puerto Bahia Club de Mar is a music venue in Barcelona listed on soundcheck. 4 u
 
 Passeig Del Mare Nostrum, 61, 08918 Badalona, Barcelona, Spain, Barcelona
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/puerto-bahia-club-de-mar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/puerto-bahia-club-de-mar/)*

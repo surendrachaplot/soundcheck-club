@@ -1,6 +1,6 @@
 # Bartman
 
-Bartman is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Piękny Pies, Krakow on Sat, 8 Aug 2026.
+Bartman is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Piękny Pies, Krakow on Sat, 8 Aug 2026.
 
 Bartman is a house and drum & bass artist tracked on soundcheck, with 42 sets logged across Krakow. Often billed alongside House Martin, MRV (1) and Hodgson_ale. Next up: Piękny Pies, Krakow on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bartman is a house and drum & bass artist tracked on soundcheck, with 42 sets lo
 
 House Martin, MRV (1), Hodgson_ale
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartman/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartman/)*

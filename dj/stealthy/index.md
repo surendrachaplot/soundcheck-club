@@ -1,13 +1,14 @@
 # Stealthy
 
-Stealthy is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
+Stealthy is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, New York City on Sat, 8 Aug 2026.
 
-Stealthy is a techno and experimental artist based in Ukraine, tracked on soundcheck, with 32 sets logged across Berlin, Newyorkcity, Toronto and Washingtondc. Often billed alongside Vyper, Christian Tokyo and DJ Fingerblast. Next up: Honey's, Newyorkcity on Sun 23 Aug.
+Stealthy is a techno and experimental artist based in Ukraine, tracked on soundcheck, with 33 sets logged across Berlin, Newyorkcity, Toronto and Washingtondc. Often billed alongside Vyper, Christian Tokyo and DJ Fingerblast. Next up: TBA, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | TBA | New York City |
 | Sun, 23 Aug 2026 | Honey's | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Stealthy is a techno and experimental artist based in Ukraine, tracked on soundc
 
 Vyper, Christian Tokyo, DJ Fingerblast
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stealthy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stealthy/)*

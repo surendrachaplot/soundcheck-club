@@ -1,14 +1,15 @@
 # Love Machine
 
-Love Machine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kazimier Garden, Liverpool on Fri, 14 Aug 2026.
+Love Machine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kazimier Garden, Liverpool on Fri, 14 Aug 2026.
 
-Love Machine is a house and disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Liverpool, Manchester and Riga. Often billed alongside Jacinta, AC Groove and Emmett G. Next up: Kazimier Garden, Liverpool on Fri 14 Aug.
+Love Machine is a house and disco artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Liverpool, Manchester and Riga. Often billed alongside Jacinta, AC Groove and Emmett G. Next up: Kazimier Garden, Liverpool on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Kazimier Garden | Liverpool |
+| Sat, 19 Sept 2026 | Commune | Liverpool |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Love Machine is a house and disco artist based in United Kingdom, tracked on sou
 
 Jacinta, AC Groove, Emmett G
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovemachine/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovemachine/)*

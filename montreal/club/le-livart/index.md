@@ -1,6 +1,6 @@
 # Le Livart
 
-Le Livart is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Kev Sunshine - MONTREAL - AUG 8TH" on Sat, 8 Aug 2026.
+Le Livart is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Kev Sunshine - MONTREAL - AUG 8TH" on Sat, 8 Aug 2026.
 
 Le Livart is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including AliK2, Atlas Heir, BPlease and HUMMER and 2 more. Browse upcoming dates, start times and who's playing. 3980 St Denis St, Montreal, Quebec H2W 2M3, Canada.
 
@@ -15,4 +15,4 @@ Le Livart is a music venue in Montreal listed on soundcheck. 2 upcoming nights, 
 
 3980 St Denis St, Montreal, Quebec H2W 2M3, Canada, Montreal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-livart/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-livart/)*

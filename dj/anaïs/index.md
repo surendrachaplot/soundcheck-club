@@ -1,6 +1,6 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
+Anaïs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 53 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: fabric, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 53 sets lo
 
 Whiney, Degs, P Money
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

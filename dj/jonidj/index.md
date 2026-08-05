@@ -1,0 +1,28 @@
+# Joni DJ
+
+Joni DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+
+Joni DJ is a house and techno artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Newyorkcity and Paris and 4 more. Often billed alongside Denzel, DJ Healthy and Akanbi. Next up: Hall, Tallinn on Fri 14 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 14 Aug 2026 | Hall | Tallinn |
+
+## Recently played
+
+- Under Bron, Stockholm — Fri, 6 Mar 2026
+- Nitsa Club, Barcelona — Sat, 15 Nov 2025
+- Kaņepes Kultūras Centrs, Riga — Fri, 17 Oct 2025
+- Mansions, New York City — Sun, 21 Sept 2025
+- Honey's, New York City — Sat, 20 Sept 2025
+- Signal, New York City — Thu, 18 Sept 2025
+- Mitsuki, Tokyo — Sun, 30 Mar 2025
+- VENT, Tokyo — Sat, 29 Mar 2025
+
+## Shares bills with
+
+Denzel, DJ Healthy, Akanbi
+
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*

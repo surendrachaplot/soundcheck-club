@@ -1,6 +1,6 @@
 # rRoxymore
 
-rRoxymore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+rRoxymore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
 
 rRoxymore is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: KREUZWERK, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ rRoxymore is a techno and house artist tracked on soundcheck, with 87 sets logge
 
 DJ Plead, CCL, Josey Rebelle
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*

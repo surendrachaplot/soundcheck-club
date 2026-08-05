@@ -1,6 +1,6 @@
 # Sahana
 
-Sahana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
+Sahana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
 
 Sahana is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Belfast, Dublin and London. Often billed alongside Moving Still, Neo Cortex and Surferboy. Next up: The Ulster Sports Club, Belfast on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sahana is a house and techno artist based in United States of America, tracked o
 
 Moving Still, Neo Cortex, Surferboy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*

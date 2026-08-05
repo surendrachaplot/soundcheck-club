@@ -1,6 +1,6 @@
 # SON!CA
 
-SON!CA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at M-BIA, Berlin on Fri, 30 Oct 2026.
+SON!CA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at M-BIA, Berlin on Fri, 30 Oct 2026.
 
 SON!CA is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Athina, Brizze and BØĘRY. Next up: M-BIA, Berlin on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ SON!CA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Athina, Brizze, BØĘRY
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonica-de/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonica-de/)*

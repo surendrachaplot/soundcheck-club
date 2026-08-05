@@ -1,6 +1,6 @@
 # Magin Karica
 
-Magin Karica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
+Magin Karica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
 
 Magin Karica is a techno and house artist based in Portugal, tracked on soundcheck, with 3 sets logged across Berlin and Lisbon. Often billed alongside Brusca, Cellow and Lucy Snake. Next up: Birgit, Berlin on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Magin Karica is a techno and house artist based in Portugal, tracked on soundche
 
 Brusca, Cellow, Lucy Snake
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maginkarica/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maginkarica/)*

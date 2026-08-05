@@ -1,6 +1,6 @@
 # HARDKORE
 
-HARDKORE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Trans-Pecos, New York City on Thu, 6 Aug 2026.
+HARDKORE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Trans-Pecos, New York City on Thu, 6 Aug 2026.
 
 HARDKORE is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 26 sets logged across Houston, Newyorkcity and Warsaw. Often billed alongside DREAMINSLOW, CYNICAL (US) and Via App. Next up: Trans-Pecos, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ HARDKORE is a techno and hardcore artist based in United States of America, trac
 
 DREAMINSLOW, CYNICAL (US), Via App
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardkore/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardkore/)*

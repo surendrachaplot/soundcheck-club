@@ -1,6 +1,6 @@
 # Lyra Valenza
 
-Lyra Valenza is a Jungle and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Byhaven, Copenhagen on Thu, 6 Aug 2026.
+Lyra Valenza is a Jungle and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Byhaven, Copenhagen on Thu, 6 Aug 2026.
 
 Lyra Valenza is a jungle and experimental artist based in Denmark, tracked on soundcheck, with 14 sets logged across Berlin, Brussels, Copenhagen and Leipzig. Often billed alongside Atikka, Grammar of Movement and Heddah. Next up: Byhaven, Copenhagen on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Lyra Valenza is a jungle and experimental artist based in Denmark, tracked on so
 
 Atikka, Grammar of Movement, Heddah
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyravalenza/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyravalenza/)*

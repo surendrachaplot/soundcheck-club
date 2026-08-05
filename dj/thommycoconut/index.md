@@ -1,13 +1,14 @@
 # Thommy Coconut
 
-Thommy Coconut is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Thommy Coconut is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
 
-Thommy Coconut is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin, Newyorkcity, Stuttgart and Vienna. Often billed alongside Felix Roth, DJ Vibekiller and VIRA66. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
+Thommy Coconut is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Newyorkcity, Stuttgart and Vienna. Often billed alongside Felix Roth, DJ Vibekiller and VIRA66. Next up: Praterbrücke, Vienna on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Praterbrücke | Vienna |
 | Fri, 21 Aug 2026 | Seedcamp, Kautzen | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ Thommy Coconut is a techno and trance artist tracked on soundcheck, with 10 sets
 
 Felix Roth, DJ Vibekiller, VIRA66
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thommycoconut/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thommycoconut/)*

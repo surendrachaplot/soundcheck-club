@@ -1,8 +1,8 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Azumaya, Tokyo on Fri, 7 Aug 2026.
+DJ HI-C is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Azumaya, Tokyo on Fri, 7 Aug 2026.
 
-DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with 68 sets logged across Hongkong, Kyoto, Melbourne and Osaka and 3 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: Azumaya, Tokyo on Fri 7 Aug.
+DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with 69 sets logged across Hongkong, Kyoto, Melbourne and Osaka and 3 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: Azumaya, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with
 | Fri, 7 Aug 2026 | Azumaya | Tokyo |
 | Sat, 8 Aug 2026 | BAR Inc | Osaka |
 | Fri, 28 Aug 2026 | Joule | Osaka |
+| Sat, 29 Aug 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

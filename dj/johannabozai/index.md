@@ -1,14 +1,16 @@
 # Johanna Bozai
 
-Johanna Bozai is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 8 Aug 2026.
+Johanna Bozai is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kassa Boat, Budapest on Fri, 7 Aug 2026.
 
-Johanna Bozai is a techno and trance artist tracked on soundcheck, with 16 sets logged across Budapest. Often billed alongside ädene, Akác and Revoxx. Next up: Aether Club Budapest, Budapest on Sat 8 Aug.
+Johanna Bozai is a techno and trance artist tracked on soundcheck, with 18 sets logged across Budapest. Often billed alongside ädene, Akác and Revoxx. Next up: Kassa Boat, Budapest on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Kassa Boat | Budapest |
 | Sat, 8 Aug 2026 | Aether Club Budapest | Budapest |
+| Sat, 12 Sept 2026 | Arzenal | Budapest |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Johanna Bozai is a techno and trance artist tracked on soundcheck, with 16 sets 
 
 ädene, Akác, Revoxx
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*

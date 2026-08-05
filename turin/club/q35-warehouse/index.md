@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "QUEST extended set hosted by EAR\WAX opening night + afterhours" on Sat, 26 Sept 2026.
+Q35 WAREHOUSE is a music venue in Turin with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "QUEST extended set hosted by EAR\WAX opening night + afterhours" on Sat, 26 Sept 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 2 upcoming nights, with line-ups including Quest (IT) and sim0ne. Browse upcoming dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -15,4 +15,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 2 upcoming nights,
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

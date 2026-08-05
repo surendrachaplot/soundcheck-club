@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Clark Rainbow" on Fri, 14 Aug 2026.
+The Waiting Room is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Clark Rainbow" on Fri, 14 Aug 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Anop, Cherrie B, Compulsive Leia and fUnlistenable. Browse upcoming dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -16,4 +16,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 3 upcoming nig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

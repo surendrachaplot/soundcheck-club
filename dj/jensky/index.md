@@ -1,6 +1,6 @@
 # jensky
 
-jensky is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
+jensky is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
 
 jensky is a techno and electro artist based in Poland, tracked on soundcheck, with 15 sets logged across Berlin, Krakow, Lisbon and Warsaw. Often billed alongside BEXA, internal explorer and Truant. Next up: Smolna, Warsaw on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ jensky is a techno and electro artist based in Poland, tracked on soundcheck, wi
 
 BEXA, internal explorer, Truant
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jensky/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jensky/)*

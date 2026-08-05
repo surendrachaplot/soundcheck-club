@@ -1,6 +1,6 @@
 # Bianchetti
 
-Bianchetti is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 21 Aug 2026.
+Bianchetti is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 21 Aug 2026.
 
 Bianchetti is a house and minimal artist based in Chile, tracked on soundcheck, with 4 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Armand Carrion, B. Clarke and Benson (IT). Next up: Bulbul Berlin, Berlin on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Bianchetti is a house and minimal artist based in Chile, tracked on soundcheck, 
 
 Armand Carrion, B. Clarke, Benson (IT)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*

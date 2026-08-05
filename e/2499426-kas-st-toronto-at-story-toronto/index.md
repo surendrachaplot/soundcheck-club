@@ -1,6 +1,6 @@
 # KAS:ST TORONTO at Story Toronto
 
-KAS:ST TORONTO at Story Toronto on Fri 11 Sept, Toronto. 3 acts on the bill: EKIN (2), KAS:ST and Riza Yildirim. Techno and Electronica. Preview the line-up and save it on soundcheck.
+KAS:ST TORONTO at Story Toronto on Fri 11 Sept, Toronto. 4 acts on the bill: EKIN (2), KAS:ST, Katy Rise and Riza Yildirim. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ KAS:ST TORONTO at Story Toronto on Fri 11 Sept, Toronto. 3 acts on the bill: EKI
 
 - EKIN (2)
 - KAS:ST
+- Katy Rise
 - Riza Yildirim
 
 *Source: [soundcheck](https://soundcheck.club/e/2499426-kas-st-toronto-at-story-toronto/)*

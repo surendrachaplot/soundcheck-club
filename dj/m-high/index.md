@@ -1,6 +1,6 @@
 # M-High
 
-M-High is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
+M-High is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
 
 M-High is a house and tech house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Amnesia Ibiza, Ibiza on Thu 6 Aug.
 
@@ -33,4 +33,4 @@ M-High is a house and tech house artist tracked on soundcheck, with 172 sets log
 
 Prunk, Job de Jong, Dennis Quin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

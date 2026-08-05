@@ -1,6 +1,6 @@
 # sopretty
 
-sopretty is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cafeteria, Toronto on Fri, 21 Aug 2026.
+sopretty is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cafeteria, Toronto on Fri, 21 Aug 2026.
 
 sopretty is an electro and electronica artist tracked on soundcheck, with 25 sets logged across Montreal and Toronto. Often billed alongside prayinsecret, Boysinblush and HVN (1). Next up: Cafeteria, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ sopretty is an electro and electronica artist tracked on soundcheck, with 25 set
 
 prayinsecret, Boysinblush, HVN (1)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sopretty/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sopretty/)*

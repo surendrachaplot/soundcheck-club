@@ -1,14 +1,15 @@
 # Aerofunk
 
-Aerofunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
+Aerofunk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
 
-Aerofunk is a house and techno artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Bristol, Leeds, Lisbon and Liverpool and 2 more. Often billed alongside Dig This, 4D (UK) and DMC.. Next up: TBA, Liverpool on Sat 5 Sept.
+Aerofunk is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Bristol, Leeds, Lisbon and Liverpool and 2 more. Often billed alongside Dig This, 4D (UK) and DMC.. Next up: TBA, Liverpool on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Liverpool |
+| Fri, 2 Oct 2026 | Kapsule | Liverpool |
 | Sat, 17 Oct 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Aerofunk is a house and techno artist based in United Kingdom, tracked on soundc
 
 Dig This, 4D (UK), DMC.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*

@@ -1,6 +1,6 @@
 # Fiedel
 
-Fiedel is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Fiedel is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
 Fiedel is a techno and deep house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Bali and Berlin and 13 more. Often billed alongside Fadi Mohem, Phase Fatale and Steffi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fiedel is a techno and deep house artist tracked on soundcheck, with 60 sets log
 
 Fadi Mohem, Phase Fatale, Steffi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedel/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedel/)*

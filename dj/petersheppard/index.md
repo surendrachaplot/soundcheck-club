@@ -1,6 +1,6 @@
 # Peter Sheppard
 
-Peter Sheppard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Peter Sheppard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Peter Sheppard is a house and techno artist tracked on soundcheck, with 35 sets logged across Mexicocity and Portland. Often billed alongside Andy Warren, Trustfall and Ginkgo. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Peter Sheppard is a house and techno artist tracked on soundcheck, with 35 sets 
 
 Andy Warren, Trustfall, Ginkgo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*

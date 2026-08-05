@@ -1,6 +1,6 @@
 # Gallegos
 
-Gallegos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Gallegos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
 Gallegos is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Belfast, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gallegos is a house and techno artist based in United Kingdom, tracked on soundc
 
 nd_baumecker, Fadi Mohem, JakoJako
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gallegos/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gallegos/)*

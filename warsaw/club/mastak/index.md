@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Butwho  / AilinDeSha* / Gagarin / Nosal / Maria Pozhar" on Fri, 7 Aug 2026.
+Mastak is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Butwho  / AilinDeSha* / Gagarin / Nosal / Maria Pozhar" on Fri, 7 Aug 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including AilinDeSha*, Butwho, Dim Rive and dj.zamocno and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -23,4 +23,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

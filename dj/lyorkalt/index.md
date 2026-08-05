@@ -1,13 +1,14 @@
 # Lyor Kalt
 
-Lyor Kalt is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mastak, Warsaw on Sat, 8 Aug 2026.
+Lyor Kalt is a Techno and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Smolna, Warsaw on Thu, 6 Aug 2026.
 
-Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Krakow and Warsaw. Often billed alongside Butwho, Salat and Slowmode. Next up: Mastak, Warsaw on Sat 8 Aug.
+Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundcheck, with 16 sets logged across Krakow and Warsaw. Often billed alongside Butwho, Salat and Slowmode. Next up: Smolna, Warsaw on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Smolna | Warsaw |
 | Sat, 8 Aug 2026 | Mastak | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundche
 
 Butwho, Salat, Slowmode
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*

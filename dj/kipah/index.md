@@ -1,6 +1,6 @@
 # kipah
 
-kipah is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at BarKa, Warsaw on Sun, 9 Aug 2026.
+kipah is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at BarKa, Warsaw on Sun, 9 Aug 2026.
 
 kipah is a bass and hip-hop artist tracked on soundcheck, with 18 sets logged across Tbilisi and Warsaw. Often billed alongside Olimpiada, HOLLY MOLLY (BY) and The 3D. Next up: BarKa, Warsaw on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ kipah is a bass and hip-hop artist tracked on soundcheck, with 18 sets logged ac
 
 Olimpiada, HOLLY MOLLY (BY), The 3D
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kipah/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kipah/)*

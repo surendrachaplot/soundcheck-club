@@ -1,6 +1,6 @@
 # Terraza Catedral
 
-Terraza Catedral is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "TRIZTAN + DISCO86" on Fri, 7 Aug 2026.
+Terraza Catedral is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "TRIZTAN + DISCO86" on Fri, 7 Aug 2026.
 
 Terraza Catedral is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including Alain Hellion, heSAWyou, Mihai Popoviciu and TRIZTAN. Browse upcoming dates, start times and who's playing. República de Guatemala #4  downtown, Mexico City, 06020.
 
@@ -16,4 +16,4 @@ Terraza Catedral is a music venue in Mexicocity listed on soundcheck. 3 upcoming
 
 República de Guatemala #4  downtown, Mexico City, 06020, Mexico City
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/terraza-catedral/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/terraza-catedral/)*

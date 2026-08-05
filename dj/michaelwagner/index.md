@@ -1,6 +1,6 @@
 # Michael Wagner
 
-Michael Wagner is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at PRST, Vienna on Thu, 6 Aug 2026.
+Michael Wagner is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at PRST, Vienna on Thu, 6 Aug 2026.
 
 Michael Wagner is a house and tech house artist based in Austria, tracked on soundcheck, with 13 sets logged across Berlin, Hamburg, Losangeles and Manchester and 1 more. Often billed alongside Stipo, Fabiano José and IZZA (SI). Next up: PRST, Vienna on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Michael Wagner is a house and tech house artist based in Austria, tracked on sou
 
 Stipo, Fabiano José, IZZA (SI)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*

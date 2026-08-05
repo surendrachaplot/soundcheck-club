@@ -1,6 +1,6 @@
 # Gigi L'Amour
 
-Gigi L'Amour is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
+Gigi L'Amour is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
 
 Gigi L'Amour is a house and techno artist tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside Lucifer, ADAM MUNNINGS and COCKO. Next up: La Machine Du Moulin Rouge, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gigi L'Amour is a house and techno artist tracked on soundcheck, with 9 sets log
 
 Lucifer, ADAM MUNNINGS, COCKO
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigilamour/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigilamour/)*

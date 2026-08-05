@@ -1,6 +1,6 @@
 # Paulina Panik
 
-Paulina Panik is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 8MM, Berlin on Thu, 13 Aug 2026.
+Paulina Panik is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 8MM, Berlin on Thu, 13 Aug 2026.
 
 Paulina Panik is a new wave and ebm artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Manchester and Paris. Often billed alongside Carlos GrabStein, Emmanuelle 5 and Philipp Strobel. Next up: 8MM, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Paulina Panik is a new wave and ebm artist based in Germany, tracked on soundche
 
 Carlos GrabStein, Emmanuelle 5, Philipp Strobel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulinapanik/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulinapanik/)*

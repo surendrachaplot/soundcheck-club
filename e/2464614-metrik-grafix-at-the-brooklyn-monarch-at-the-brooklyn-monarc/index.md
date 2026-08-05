@@ -1,6 +1,6 @@
 # Metrik & Grafix at the Brooklyn Monarch at The Brooklyn Monarch
 
-Metrik & Grafix at the Brooklyn Monarch at The Brooklyn Monarch on Fri 14 Aug, Newyorkcity. 4 acts on the bill: Georgie Riot, Grafix, Metrik and Ultra. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Metrik & Grafix at the Brooklyn Monarch at The Brooklyn Monarch on Fri 14 Aug, Newyorkcity. 4 acts on the bill: Georgie Riot, Grafix, Metrik and Ultra. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

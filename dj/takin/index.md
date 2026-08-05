@@ -1,6 +1,6 @@
 # TAKiN
 
-TAKiN is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kajama Tall Ship, Toronto on Fri, 7 Aug 2026.
+TAKiN is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kajama Tall Ship, Toronto on Fri, 7 Aug 2026.
 
 TAKiN is a tech house and house artist tracked on soundcheck, with 115 sets logged across Toronto, Vancouver and Washingtondc. Often billed alongside Barroness, Tyler Hill and Manzone & Strong. Next up: Kajama Tall Ship, Toronto on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ TAKiN is a tech house and house artist tracked on soundcheck, with 115 sets logg
 
 Barroness, Tyler Hill, Manzone & Strong
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takin/)*

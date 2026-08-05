@@ -1,6 +1,6 @@
 # Squelch at TBA - 10 mins from hackney wick station
 
-Squelch at TBA - 10 mins from hackney wick station on Sat 22 Aug, London. 2 acts on the bill: Louie G and Yela. House and Deep House. Preview the line-up and save it on soundcheck.
+Squelch at TBA - 10 mins from hackney wick station on Sat 22 Aug, London. 4 acts on the bill: DMC., Ethan McNamara, Louie G and Yela. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Squelch at TBA - 10 mins from hackney wick station on Sat 22 Aug, London. 2 acts
 
 ## Line-up
 
+- DMC.
+- Ethan McNamara
 - Louie G
 - Yela
 

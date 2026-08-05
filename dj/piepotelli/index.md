@@ -1,6 +1,6 @@
 # Piepotelli
 
-Piepotelli is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at nachbar, Amsterdam on Fri, 14 Aug 2026.
+Piepotelli is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at nachbar, Amsterdam on Fri, 14 Aug 2026.
 
 Piepotelli is a deep house and tech house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Young Duif, Arlanoa and Artistik. Next up: nachbar, Amsterdam on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Piepotelli is a deep house and tech house artist based in Netherlands, tracked o
 
 Young Duif, Arlanoa, Artistik
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piepotelli/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piepotelli/)*

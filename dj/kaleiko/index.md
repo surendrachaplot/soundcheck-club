@@ -1,6 +1,6 @@
 # Kaleiko
 
-Kaleiko is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
+Kaleiko is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
 
 Kaleiko is a techno and deep house artist tracked on soundcheck, with 40 sets logged across Basel. Often billed alongside Michel Sacher, Twenny5 and Comzy. Next up: Nordstern, Basel on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kaleiko is a techno and deep house artist tracked on soundcheck, with 40 sets lo
 
 Michel Sacher, Twenny5, Comzy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaleiko/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaleiko/)*

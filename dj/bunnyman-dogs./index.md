@@ -1,6 +1,6 @@
 # bunnyman.dogs
 
-bunnyman.dogs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - OtaQlab, Bangkok on Sat, 8 Aug 2026.
+bunnyman.dogs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - OtaQlab, Bangkok on Sat, 8 Aug 2026.
 
 bunnyman.dogs is a techno and house artist based in Thailand, tracked on soundcheck, with 68 sets logged across Bangkok. Often billed alongside DJ Sweed, La Yumar and DJ Krit Morton. Next up: TBA - OtaQlab, Bangkok on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ bunnyman.dogs is a techno and house artist based in Thailand, tracked on soundch
 
 DJ Sweed, La Yumar, DJ Krit Morton
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bunnyman-dogs./)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bunnyman-dogs./)*

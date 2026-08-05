@@ -1,6 +1,6 @@
 # SSL Series #002 at Square Studio Lab
 
-SSL Series #002 at Square Studio Lab on Sat 15 Aug, London. 6 acts on the bill: Colaps, KAPP, SECO))) and Suddi Raval and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+SSL Series #002 at Square Studio Lab on Sat 15 Aug, London. 7 acts on the bill: Colaps, ENFY, KAPP and SECO))) and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SSL Series #002 at Square Studio Lab on Sat 15 Aug, London. 6 acts on the bill: 
 ## Line-up
 
 - Colaps
+- ENFY
 - KAPP
 - SECO)))
 - Suddi Raval

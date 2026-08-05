@@ -1,6 +1,6 @@
 # Reon Vanger
 
-Reon Vanger is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Dead Wax, Birmingham on Fri, 7 Aug 2026.
+Reon Vanger is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dead Wax, Birmingham on Fri, 7 Aug 2026.
 
 Reon Vanger is an afro house and r&b artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham, London and Manchester. Often billed alongside Sham Steele, Keyrah and Papu Raf. Next up: Dead Wax, Birmingham on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Reon Vanger is an afro house and r&b artist based in United Kingdom, tracked on 
 
 Sham Steele, Keyrah, Papu Raf
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reonvanger/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reonvanger/)*

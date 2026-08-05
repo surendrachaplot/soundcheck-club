@@ -1,6 +1,6 @@
 # KARBONI
 
-KARBONI is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
+KARBONI is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
 
 KARBONI is a house and minimal artist based in Italy, tracked on soundcheck, with 46 sets logged across Athens, Bangkok, Barcelona and Istanbul and 7 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: 93 Feet East, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ KARBONI is a house and minimal artist based in Italy, tracked on soundcheck, wit
 
 KARBO, Phill Prince, Carloalberto
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*

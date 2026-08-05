@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Miami Wars, Warsaw on Fri, 7 Aug 2026.
+Noizar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Miami Wars, Warsaw on Fri, 7 Aug 2026.
 
 Noizar is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: Miami Wars, Warsaw on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Noizar is a techno and house artist tracked on soundcheck, with 116 sets logged 
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

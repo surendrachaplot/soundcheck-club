@@ -1,8 +1,8 @@
 # MAURER
 
-MAURER is a Techno and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+MAURER is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-MAURER is a techno and breakcore artist based in Spain, tracked on soundcheck, with 24 sets logged across Berlin, Buenosaires, Cologne and Hamburg and 2 more. Often billed alongside VOICEX, FILTRACK and PØVE. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+MAURER is a techno and electronica artist based in Spain, tracked on soundcheck, with 25 sets logged across Berlin, Buenosaires, Cologne and Hamburg and 2 more. Often billed alongside VOICEX, FILTRACK and PØVE. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MAURER is a techno and breakcore artist based in Spain, tracked on soundcheck, w
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
+| Sat, 5 Sept 2026 | Specka | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MAURER is a techno and breakcore artist based in Spain, tracked on soundcheck, w
 
 VOICEX, FILTRACK, PØVE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*

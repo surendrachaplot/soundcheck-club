@@ -1,6 +1,6 @@
 # Octoptic
 
-Octoptic is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
+Octoptic is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fünk, Mexico City on Thu, 13 Aug 2026.
 
 Octoptic is a techno and electronica artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, London and Mexicocity. Often billed alongside Ranma Entero, Dj Fucci and Bluecommand. Next up: Fünk, Mexicocity on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Octoptic is a techno and electronica artist tracked on soundcheck, with 79 sets 
 
 Ranma Entero, Dj Fucci, Bluecommand
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoptic/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoptic/)*

@@ -1,6 +1,6 @@
 # Anaco
 
-Anaco is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Le Sucre, Lyon on Sat, 8 Aug 2026.
+Anaco is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Le Sucre, Lyon on Sat, 8 Aug 2026.
 
 Anaco is a techno and reggaeton artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Geneva and Lyon and 3 more. Often billed alongside Olympe4000, Azamat B. and RAG. Next up: Le Sucre, Lyon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Anaco is a techno and reggaeton artist tracked on soundcheck, with 51 sets logge
 
 Olympe4000, Azamat B., RAG
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaco/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaco/)*

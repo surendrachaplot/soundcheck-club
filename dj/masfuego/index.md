@@ -1,6 +1,6 @@
 # Mas Fuego
 
-Mas Fuego is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+Mas Fuego is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 Mas Fuego is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Bristol, Ibiza and London and 1 more. Often billed alongside MiddleGround, Raldo and Laurenzo Fab. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mas Fuego is a tech house and house artist based in United Kingdom, tracked on s
 
 MiddleGround, Raldo, Laurenzo Fab
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masfuego/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masfuego/)*

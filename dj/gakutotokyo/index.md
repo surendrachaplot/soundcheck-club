@@ -1,6 +1,6 @@
 # GAKUTO(TOKYO)
 
-GAKUTO(TOKYO) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
+GAKUTO(TOKYO) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
 
 GAKUTO(TOKYO) is a techno and bass artist tracked on soundcheck, with 12 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ceza, Aliceyuki and Flo (JP). Next up: Débris, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ GAKUTO(TOKYO) is a techno and bass artist tracked on soundcheck, with 12 sets lo
 
 ceza, Aliceyuki, Flo (JP)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gakutotokyo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gakutotokyo/)*

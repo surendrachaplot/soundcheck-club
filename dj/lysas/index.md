@@ -1,14 +1,15 @@
 # Ly Sas
 
-Ly Sas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Ly Sas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
-Ly Sas is a techno and house artist tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Hamburg and Nurnberg and 2 more. Often billed alongside Pink Concrete, Generali Minerali and Irakli. Next up: Altenburg 1964, Prague on Fri 21 Aug.
+Ly Sas is a techno and house artist tracked on soundcheck, with 49 sets logged across Berlin, Cologne, Hamburg and Nurnberg and 2 more. Often billed alongside Pink Concrete, Generali Minerali and Irakli. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
+| Sat, 5 Sept 2026 | La Cova | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ly Sas is a techno and house artist tracked on soundcheck, with 48 sets logged a
 
 Pink Concrete, Generali Minerali, Irakli
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lysas/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lysas/)*

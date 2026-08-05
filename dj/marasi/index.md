@@ -1,6 +1,6 @@
 # Marasi
 
-Marasi is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 7 Aug 2026.
+Marasi is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 7 Aug 2026.
 
 Marasi is an afro house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside Pablo Fierro, AERES (1) and ANTO ZAGU. Next up: Teatro Pereyra, Ibiza on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Marasi is an afro house and tech house artist tracked on soundcheck, with 41 set
 
 Pablo Fierro, AERES (1), ANTO ZAGU
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*

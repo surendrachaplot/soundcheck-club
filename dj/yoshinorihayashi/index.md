@@ -1,6 +1,6 @@
 # Yoshinori Hayashi
 
-Yoshinori Hayashi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 13 Aug 2026.
+Yoshinori Hayashi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 13 Aug 2026.
 
 Yoshinori Hayashi is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Hongkong, Kyoto, Melbourne and Seoul and 1 more. Often billed alongside Gonno, SIGNAL (JP) and Satoshi Otsuki. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Yoshinori Hayashi is a house and techno artist based in Japan, tracked on soundc
 
 Gonno, SIGNAL (JP), Satoshi Otsuki
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshinorihayashi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshinorihayashi/)*

@@ -1,6 +1,6 @@
 # Karani
 
-Karani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Maaya, Berlin on Sun, 9 Aug 2026.
+Karani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Maaya, Berlin on Sun, 9 Aug 2026.
 
 Karani is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin, Leipzig, London and Melbourne and 2 more. Often billed alongside Caesarr, Byron Yeates and DJ Nah Care. Next up: Maaya, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Karani is a house and techno artist tracked on soundcheck, with 21 sets logged a
 
 Caesarr, Byron Yeates, DJ Nah Care
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*

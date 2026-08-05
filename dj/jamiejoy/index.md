@@ -1,6 +1,6 @@
 # Jamie Joy
 
-Jamie Joy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Jamie Joy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 Jamie Joy is a house and disco artist tracked on soundcheck, with 16 sets logged across Bristol and London. Often billed alongside Cable!, Mr. Moonshine and Marla Kether. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jamie Joy is a house and disco artist tracked on soundcheck, with 16 sets logged
 
 Cable!, Mr. Moonshine, Marla Kether
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejoy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejoy/)*

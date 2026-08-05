@@ -1,6 +1,6 @@
 # D!SHA
 
-D!SHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mothership, San Francisco/Oakland on Thu, 6 Aug 2026.
+D!SHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mothership, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 D!SHA is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside Moh Maya, Prab K and Alkemiss Erika. Next up: Mothership, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ D!SHA is a house and techno artist based in United States of America, tracked on
 
 Moh Maya, Prab K, Alkemiss Erika
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d!sha/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d!sha/)*

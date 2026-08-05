@@ -1,6 +1,6 @@
 # CHELO
 
-CHELO is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Lower Third, London on Sat, 10 Oct 2026.
+CHELO is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Lower Third, London on Sat, 10 Oct 2026.
 
 CHELO is a hip-hop and r&b artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen, Frankfurt and Leipzig and 6 more. Often billed alongside Chadee, Cafgar and DISTORT (ES). Next up: The Lower Third, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ CHELO is a hip-hop and r&b artist based in Germany, tracked on soundcheck, with 
 
 Chadee, Cafgar, DISTORT (ES)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelo/)*

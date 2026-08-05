@@ -1,6 +1,6 @@
 # AMANTRA
 
-AMANTRA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+AMANTRA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
 
 AMANTRA is a techno and latin bass artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Lisbon and Madrid and 5 more. Often billed alongside M8NSE, Puxo and Acidnena. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ AMANTRA is a techno and latin bass artist tracked on soundcheck, with 63 sets lo
 
 M8NSE, Puxo, Acidnena
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amantra/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amantra/)*

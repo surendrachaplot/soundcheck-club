@@ -1,6 +1,6 @@
 # groupi3incognito
 
-groupi3incognito is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sui Generis, London on Sat, 8 Aug 2026.
+groupi3incognito is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sui Generis, London on Sat, 8 Aug 2026.
 
 groupi3incognito is a reggaeton and latin bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bristol and London. Often billed alongside Coren, Ivicore and LEXX (Soft Butch). Next up: Sui Generis, London on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ groupi3incognito is a reggaeton and latin bass artist based in United Kingdom, t
 
 Coren, Ivicore, LEXX (Soft Butch)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groupi3incognito/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groupi3incognito/)*

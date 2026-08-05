@@ -1,6 +1,6 @@
 # Eze k
 
-Eze k is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
+Eze k is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
 
 Eze k is a techno and house artist tracked on soundcheck, with 13 sets logged across Barcelona and Paris. Often billed alongside Fat-P, SUSØ and Crystallmess. Next up: La Terrrazza, Barcelona on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Eze k is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 Fat-P, SUSØ, Crystallmess
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezek/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezek/)*

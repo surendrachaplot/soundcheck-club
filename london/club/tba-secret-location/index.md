@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Subverted" on Fri, 7 Aug 2026.
+TBA - Secret Location is a music venue in London with 31 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Subverted" on Fri, 7 Aug 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including 550am, AARON GEHRIG, Alben and Amapola Rose and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including 550am, AARON GEHRIG, Alben and Amapola Rose and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 28 upcomi
 | Fri, 14 Aug 2026 | EL FUTURO ES TRANS x 4LI4DXS | Amapola Rose, Bruja Prieta, Luisa Almaguer, MIKITA (MX), Magnolia Coronado, Victoria Volkova |
 | Fri, 14 Aug 2026 | Vermilion Sun Records - Release Party | John Debo, Wiersma, cutwoes |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

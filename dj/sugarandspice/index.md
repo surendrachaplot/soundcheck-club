@@ -1,6 +1,6 @@
 # Sugar and Spice
 
-Sugar and Spice is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circus Tokyo, Tokyo on Thu, 6 Aug 2026.
+Sugar and Spice is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Circus Tokyo, Tokyo on Thu, 6 Aug 2026.
 
 Sugar and Spice are a techno and bass duo based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ecec, AKARI and DJ CENTERFOLD. Next up: Circus Tokyo, Tokyo on Thu 6 Aug.
 
@@ -18,4 +18,4 @@ Sugar and Spice are a techno and bass duo based in Japan, tracked on soundcheck,
 
 ecec, AKARI, DJ CENTERFOLD
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarandspice/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarandspice/)*

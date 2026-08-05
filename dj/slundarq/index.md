@@ -1,6 +1,6 @@
 # Slundarq
 
-Slundarq is a Hardcore and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Planet Wax, London on Sun, 9 Aug 2026.
+Slundarq is a Hardcore and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Planet Wax, London on Sun, 9 Aug 2026.
 
 Slundarq is a hardcore and breakbeat artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London. Often billed alongside Uncle G, Abby Daze and CICELY. Next up: Planet Wax, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Slundarq is a hardcore and breakbeat artist based in United Kingdom, tracked on 
 
 Uncle G, Abby Daze, CICELY
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slundarq/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slundarq/)*

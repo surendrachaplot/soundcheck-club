@@ -1,6 +1,6 @@
 # CESTEK
 
-CESTEK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Wed, 5 Aug 2026.
+CESTEK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tresor / Globus, Berlin on Wed, 5 Aug 2026.
 
 CESTEK is a techno and trance artist based in Spain, tracked on soundcheck, with 26 sets logged across Berlin and Madrid. Often billed alongside radd, DMZ (DE) and NDSTPS. Next up: Tresor / Globus, Berlin on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ CESTEK is a techno and trance artist based in Spain, tracked on soundcheck, with
 
 radd, DMZ (DE), NDSTPS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cestek/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cestek/)*

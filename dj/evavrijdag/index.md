@@ -1,8 +1,8 @@
 # Eva Vrijdag
 
-Eva Vrijdag is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
+Eva Vrijdag is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
 
-Eva Vrijdag is a trance and techno artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Ghent and Paris and 3 more. Often billed alongside SUPERSTRINGS, Ben Hemsley and Benwal. Next up: Boomerang Beach, Thehague on Sat 5 Sept.
+Eva Vrijdag is a trance and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Ghent and Paris and 3 more. Often billed alongside SUPERSTRINGS, Ben Hemsley and Benwal. Next up: Boomerang Beach, Thehague on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eva Vrijdag is a trance and techno artist tracked on soundcheck, with 48 sets lo
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Boomerang Beach | The Hague |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
+| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Eva Vrijdag is a trance and techno artist tracked on soundcheck, with 48 sets lo
 
 SUPERSTRINGS, Ben Hemsley, Benwal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evavrijdag/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evavrijdag/)*

@@ -1,6 +1,6 @@
 # Loofy
 
-Loofy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at [UNVRS], Ibiza on Fri, 21 Aug 2026.
+Loofy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Fri, 21 Aug 2026.
 
 Loofy is a tech house and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Austin, Boston, Chicago and Ibiza and 9 more. Often billed alongside Ale Acosta, David Guetta and Dombresky. Next up: [UNVRS], Ibiza on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Loofy is a tech house and house artist based in United States of America, tracke
 
 Ale Acosta, David Guetta, Dombresky
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loofy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loofy/)*

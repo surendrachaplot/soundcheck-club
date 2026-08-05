@@ -1,6 +1,6 @@
 # Hallé St Peter's
 
-Hallé St Peter's is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Tara Clerkin Trio" on Thu, 22 Oct 2026.
+Hallé St Peter's is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Tara Clerkin Trio" on Thu, 22 Oct 2026.
 
 Hallé St Peter's is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Tara Clerkin Trio. Browse upcoming dates, start times and who's playing. 40 Blossom St, Ancoats, Manchester M4 6BF.
 
@@ -14,4 +14,4 @@ Hallé St Peter's is a music venue in Manchester listed on soundcheck. 1 upcomin
 
 40 Blossom St, Ancoats, Manchester M4 6BF, Manchester
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hall-st-peter-s/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hall-st-peter-s/)*

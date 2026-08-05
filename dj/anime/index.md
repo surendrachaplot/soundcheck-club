@@ -1,6 +1,6 @@
 # Anime
 
-Anime is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
+Anime is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
 
 Anime is a hardcore and techno artist based in Italy, tracked on soundcheck, with 21 sets logged across Berlin, Frankfurt, Glasgow and Liverpool and 10 more. Often billed alongside Angerfist, Lil Texas and Mad Dog. Next up: Hippodrome de Vincennes, Paris on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Anime is a hardcore and techno artist based in Italy, tracked on soundcheck, wit
 
 Angerfist, Lil Texas, Mad Dog
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*

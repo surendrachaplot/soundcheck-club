@@ -1,6 +1,6 @@
 # untorn
 
-untorn is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+untorn is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
 untorn is a techno and minimal artist based in Canada, tracked on soundcheck, with 18 sets logged across Vancouver. Often billed alongside Bronsön, DJ Hockey and kish. Next up: TBA, Vancouver on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ untorn is a techno and minimal artist based in Canada, tracked on soundcheck, wi
 
 Bronsön, DJ Hockey, kish
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/untorn/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/untorn/)*

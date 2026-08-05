@@ -1,6 +1,6 @@
 # CITYSPROBLEM
 
-CITYSPROBLEM is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Zuzu, Boston on Sat, 8 Aug 2026.
+CITYSPROBLEM is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zuzu, Boston on Sat, 8 Aug 2026.
 
 CITYSPROBLEM is a trance and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Boston, Leeds, London and Manchester and 1 more. Often billed alongside moistbreezy, Princess Elf Bar and AYDJ. Next up: Zuzu, Boston on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ CITYSPROBLEM is a trance and techno artist based in United States of America, tr
 
 moistbreezy, Princess Elf Bar, AYDJ
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*

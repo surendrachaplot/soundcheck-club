@@ -1,6 +1,6 @@
 # Costanza
 
-Costanza is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
+Costanza is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
 
 Costanza is a techno and trance artist based in Italy, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 7 more. Often billed alongside Freddy K, Chami and D.Dan. Next up: Club der Visionaere, Berlin on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Costanza is a techno and trance artist based in Italy, tracked on soundcheck, wi
 
 Freddy K, Chami, D.Dan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costanza/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costanza/)*

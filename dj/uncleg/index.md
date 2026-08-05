@@ -1,6 +1,6 @@
 # Uncle G
 
-Uncle G is a Drum & Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Planet Wax, London on Fri, 7 Aug 2026.
+Uncle G is a Drum & Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Planet Wax, London on Fri, 7 Aug 2026.
 
 Uncle G is a drum & bass and electro artist tracked on soundcheck, with 89 sets logged across London. Often billed alongside Dexta, Controlled Weirdness and Abby Daze. Next up: Planet Wax, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Uncle G is a drum & bass and electro artist tracked on soundcheck, with 89 sets 
 
 Dexta, Controlled Weirdness, Abby Daze
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uncleg/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uncleg/)*

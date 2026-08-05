@@ -1,6 +1,6 @@
 # Rampage Sound
 
-Rampage Sound is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Steel Yard, London on Fri, 28 Aug 2026.
+Rampage Sound is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Steel Yard, London on Fri, 28 Aug 2026.
 
 Rampage Sound is a dancehall and afrobeat artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across London. Often billed alongside Supa D, Pioneer and CPTN. Next up: The Steel Yard, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Rampage Sound is a dancehall and afrobeat artist based in United Kingdom, tracke
 
 Supa D, Pioneer, CPTN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rampagesound/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rampagesound/)*

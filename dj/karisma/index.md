@@ -1,6 +1,6 @@
 # Karisma
 
-Karisma is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Midway, San Francisco/Oakland on Fri, 7 Aug 2026.
+Karisma is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Midway, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Karisma is a house and electronica artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside Kamu Kamu. Next up: The Midway, Sanfrancisco on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Karisma is a house and electronica artist based in United States of America, tra
 
 Kamu Kamu
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karisma/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karisma/)*

@@ -1,6 +1,6 @@
 # DJ Kid - Scotland
 
-DJ Kid - Scotland is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Leith Arches, Edinburgh on Sat, 8 Aug 2026.
+DJ Kid - Scotland is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Leith Arches, Edinburgh on Sat, 8 Aug 2026.
 
 DJ Kid - Scotland is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Edinburgh. Often billed alongside Harry Jackson, Bartek and Break. Next up: Leith Arches, Edinburgh on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ DJ Kid - Scotland is a drum & bass and jungle artist based in United Kingdom, tr
 
 Harry Jackson, Bartek, Break
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkidscotland/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkidscotland/)*

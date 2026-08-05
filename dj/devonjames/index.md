@@ -1,13 +1,14 @@
 # Devon James
 
-Devon James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at American Legion Marsh Post #442, Boston on Sun, 9 Aug 2026.
+Devon James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bsmnt, Boston on Thu, 6 Aug 2026.
 
-Devon James is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, Boston, Chicago and Denver and 6 more. Often billed alongside Charles Meyer (US), Alex Cecil and Doorly. Next up: American Legion Marsh Post #442, Boston on Sun 9 Aug.
+Devon James is a house and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Boston, Chicago and Denver and 6 more. Often billed alongside Charles Meyer (US), Alex Cecil and Doorly. Next up: Bsmnt, Boston on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Bsmnt | Boston |
 | Sun, 9 Aug 2026 | American Legion Marsh Post #442 | Boston |
 
 ## Recently played
@@ -25,4 +26,4 @@ Devon James is a house and techno artist based in United States of America, trac
 
 Charles Meyer (US), Alex Cecil, Doorly
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devonjames/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devonjames/)*

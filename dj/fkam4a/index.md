@@ -1,6 +1,6 @@
 # fka.m4a
 
-fka.m4a is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+fka.m4a is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

@@ -1,13 +1,14 @@
 # 雷庵(RYan)
 
-雷庵(RYan) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 16 Aug 2026.
+雷庵(RYan) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at R Lounge, Tokyo on Fri, 14 Aug 2026.
 
-雷庵(RYan) is a techno and house artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside SIGNAL (JP), TAJI and uuu7. Next up: Aoyama Hachi, Tokyo on Sun 16 Aug.
+雷庵(RYan) is a techno and house artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and TAJI. Next up: R Lounge, Tokyo on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | R Lounge | Tokyo |
 | Sun, 16 Aug 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -17,6 +18,6 @@
 
 ## Shares bills with
 
-SIGNAL (JP), TAJI, uuu7
+SIGNAL (JP), MOTOKA, TAJI
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/??ryan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/??ryan/)*

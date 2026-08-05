@@ -1,6 +1,6 @@
 # Ashton Swinton
 
-Ashton Swinton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
+Ashton Swinton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
 
 Ashton Swinton is a techno and house artist based in United States of America, tracked on soundcheck, with 137 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 1 more. Often billed alongside Loren, Garrison XR and Kindle. Next up: Marble Bar, Detroit on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ashton Swinton is a techno and house artist based in United States of America, t
 
 Loren, Garrison XR, Kindle
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*

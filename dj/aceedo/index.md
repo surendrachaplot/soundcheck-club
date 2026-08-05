@@ -1,6 +1,6 @@
 # Aceedo
 
-Aceedo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
+Aceedo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
 
 Aceedo is a house and techno artist based in North Macedonia, tracked on soundcheck, with 8 sets logged across Bangkok, Berlin and Prague. Often billed alongside Vio PRG, Soul Case and ANTRO. Next up: Renate, Berlin on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Aceedo is a house and techno artist based in North Macedonia, tracked on soundch
 
 Vio PRG, Soul Case, ANTRO
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aceedo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aceedo/)*

@@ -1,6 +1,6 @@
 # faron
 
-faron is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at BarKa, Warsaw on Thu, 6 Aug 2026.
+faron is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at BarKa, Warsaw on Thu, 6 Aug 2026.
 
 faron is a bass and breakbeat artist tracked on soundcheck, with 59 sets logged across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: BarKa, Warsaw on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ faron is a bass and breakbeat artist tracked on soundcheck, with 59 sets logged 
 
 Some Guest, iffi, dd (PL)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*

@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "R&B FUNKY HOUSE NIGHT presents DJ Pied Piper" on Fri, 7 Aug 2026.
+Setlist @ Somerset House is a music venue in London with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "R&B FUNKY HOUSE NIGHT presents DJ Pied Piper" on Fri, 7 Aug 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including European 305, Leeda, mastaque and Nésa Thea and 2 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 16 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

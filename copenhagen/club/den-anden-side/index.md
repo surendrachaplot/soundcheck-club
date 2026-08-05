@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Masculina & dj g2g presents: VOL 2 " on Fri, 7 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Masculina & dj g2g presents: VOL 2 " on Fri, 7 Aug 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including ābnamā, Adexia, Alegrando and Alexander Santana and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -21,4 +21,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming n
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

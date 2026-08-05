@@ -1,6 +1,6 @@
 # Siren (4)
 
-Siren (4) is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Jama, Toronto on Fri, 14 Aug 2026.
+Siren (4) is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Jama, Toronto on Fri, 14 Aug 2026.
 
 Siren (4) is a dub techno and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Paris and Toronto. Often billed alongside Hemlock (CA), Utopos and Chumbo. Next up: The Jama, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Siren (4) is a dub techno and techno artist based in Canada, tracked on soundche
 
 Hemlock (CA), Utopos, Chumbo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siren-4/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siren-4/)*

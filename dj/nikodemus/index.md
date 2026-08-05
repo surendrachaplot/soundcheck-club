@@ -1,6 +1,6 @@
 # Niko Demus
 
-Niko Demus is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+Niko Demus is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 Niko Demus is a techno and club artist based in Finland, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Bristol and Prague and 1 more. Often billed alongside merely, Chickenmilk dot com and Glayden. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Niko Demus is a techno and club artist based in Finland, tracked on soundcheck, 
 
 merely, Chickenmilk dot com, Glayden
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikodemus/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikodemus/)*

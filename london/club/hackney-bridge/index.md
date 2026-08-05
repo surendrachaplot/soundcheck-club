@@ -1,6 +1,6 @@
 # Hackney Bridge
 
-Hackney Bridge is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Chaos In The CBD: All Day Long" on Sat, 22 Aug 2026.
+Hackney Bridge is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Chaos In The CBD: All Day Long" on Sat, 22 Aug 2026.
 
 Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Chaos In The CBD, DAR DISKU, Habibi Funk and Jamz Supernova and 1 more. Browse upcoming dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -16,4 +16,4 @@ Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming night
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*

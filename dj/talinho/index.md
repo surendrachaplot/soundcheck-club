@@ -1,6 +1,6 @@
 # Talinho
 
-Talinho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
+Talinho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
 
 Talinho is a techno and house artist based in South Africa, tracked on soundcheck, with 28 sets logged across Dublin. Often billed alongside Havik, Ayolxi and EMMIE. Next up: Pawn Shop, Dublin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Talinho is a techno and house artist based in South Africa, tracked on soundchec
 
 Havik, Ayolxi, EMMIE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talinho/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talinho/)*

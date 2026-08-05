@@ -1,6 +1,6 @@
 # Thomas Herb
 
-Thomas Herb is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Pimpernel, Munich on Sun, 9 Aug 2026.
+Thomas Herb is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pimpernel, Munich on Sun, 9 Aug 2026.
 
 Thomas Herb is a house and electro artist based in Germany, tracked on soundcheck, with 92 sets logged across Munich. Often billed alongside Sonson, ROBOTIQ and Roberto Sotgia. Next up: Pimpernel, Munich on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Thomas Herb is a house and electro artist based in Germany, tracked on soundchec
 
 Sonson, ROBOTIQ, Roberto Sotgia
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*

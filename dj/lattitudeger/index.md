@@ -1,6 +1,6 @@
 # L'Attitude (GER)
 
-L'Attitude (GER) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 15 Aug 2026.
+L'Attitude (GER) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 15 Aug 2026.
 
 L'Attitude (GER) is a techno and tech house artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Cologne and Hamburg. Often billed alongside Guliver, DJ PERIODT and Eric Brwn. Next up: DSTRKT Club Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ L'Attitude (GER) is a techno and tech house artist based in Germany, tracked on 
 
 Guliver, DJ PERIODT, Eric Brwn
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lattitudeger/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lattitudeger/)*

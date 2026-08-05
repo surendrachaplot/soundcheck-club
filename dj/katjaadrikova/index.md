@@ -1,8 +1,8 @@
 # Katja Adrikova
 
-Katja Adrikova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Katja Adrikova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
-Katja Adrikova is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Tallinn and Warsaw. Often billed alongside Micaela Saraceno, Brett Rästas and Labrighli. Next up: Hall, Tallinn on Fri 14 Aug.
+Katja Adrikova is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Tallinn and Warsaw. Often billed alongside Micaela Saraceno, Tanel Mütt and Brett Rästas. Next up: Hall, Tallinn on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Katja Adrikova is a house and techno artist tracked on soundcheck, with 30 sets 
 
 ## Shares bills with
 
-Micaela Saraceno, Brett Rästas, Labrighli
+Micaela Saraceno, Tanel Mütt, Brett Rästas
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katjaadrikova/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katjaadrikova/)*

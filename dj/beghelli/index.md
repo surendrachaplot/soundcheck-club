@@ -1,6 +1,6 @@
 # Beghelli
 
-Beghelli is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Garage 442, Barcelona on Sat, 8 Aug 2026.
+Beghelli is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Garage 442, Barcelona on Sat, 8 Aug 2026.
 
 Beghelli is an electro and deep house artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona. Often billed alongside DANNX, Roberta.Mikeila and santa:na. Next up: Garage 442, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Beghelli is an electro and deep house artist based in Spain, tracked on soundche
 
 DANNX, Roberta.Mikeila, santa:na
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beghelli/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beghelli/)*

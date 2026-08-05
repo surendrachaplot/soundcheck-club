@@ -1,6 +1,6 @@
 # Heaven Sent at Cakeshop
 
-Heaven Sent at Cakeshop on Sat 8 Aug, Seoul. 1 act on the bill: Excultist. Electro and Pop. Preview the line-up and save it on soundcheck.
+Heaven Sent at Cakeshop on Sat 8 Aug, Seoul. 2 acts on the bill: Excultist and S1LVERLUV. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Heaven Sent at Cakeshop on Sat 8 Aug, Seoul. 1 act on the bill: Excultist. Elect
 ## Line-up
 
 - Excultist
+- S1LVERLUV
 
 *Source: [soundcheck](https://soundcheck.club/e/2503058-heaven-sent-at-cakeshop/)*

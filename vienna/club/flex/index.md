@@ -1,6 +1,6 @@
 # Flex
 
-Flex is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "STEP TO TEK W/ KALOO ENIGMATIK, CITRO" on Fri, 7 Aug 2026.
+Flex is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "STEP TO TEK W/ KALOO ENIGMATIK, CITRO" on Fri, 7 Aug 2026.
 
 Flex is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Citro. Browse upcoming dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Flex is a music venue in Vienna listed on soundcheck. 1 upcoming night, with lin
 
 Abgang Augartenbruecke; 1010 Vienna; Austria, Vienna
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*

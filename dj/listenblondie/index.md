@@ -1,6 +1,6 @@
 # Listenblondie
 
-Listenblondie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
+Listenblondie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
 Listenblondie is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Munich. Often billed alongside Vaneska, ANASTASÍA and Jan Minnerup. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Listenblondie is a trance and techno artist based in Germany, tracked on soundch
 
 Vaneska, ANASTASÍA, Jan Minnerup
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/listenblondie/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/listenblondie/)*

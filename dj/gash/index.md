@@ -1,6 +1,6 @@
 # Gash
 
-Gash is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
+Gash is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
 
 Gash is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton. Often billed alongside Hadean, Phatworld and Donnay Soldier. Next up: Volks, Brighton on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gash is a bass and drum & bass artist based in United Kingdom, tracked on soundc
 
 Hadean, Phatworld, Donnay Soldier
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gash/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gash/)*

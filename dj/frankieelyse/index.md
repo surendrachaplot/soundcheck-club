@@ -1,6 +1,6 @@
 # Frankie Elyse
 
-Frankie Elyse is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sub Club, Glasgow on Fri, 21 Aug 2026.
+Frankie Elyse is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sub Club, Glasgow on Fri, 21 Aug 2026.
 
 Frankie Elyse is a house and electro artist tracked on soundcheck, with 77 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: Sub Club, Glasgow on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Frankie Elyse is a house and electro artist tracked on soundcheck, with 77 sets 
 
 Jozette, Corran, Neoma
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieelyse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieelyse/)*

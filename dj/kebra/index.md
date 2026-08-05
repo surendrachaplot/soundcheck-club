@@ -1,6 +1,6 @@
 # KEBRA
 
-KEBRA is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
+KEBRA is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Chocolate Factory, New York City on Fri, 14 Aug 2026.
 
 KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Lisbon and London and 9 more. Often billed alongside Babybruise, Basho and Lyo XS. Next up: The Chocolate Factory, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, wi
 
 Babybruise, Basho, Lyo XS
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*

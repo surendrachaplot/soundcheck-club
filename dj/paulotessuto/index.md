@@ -1,14 +1,15 @@
 # Tessuto
 
-Tessuto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 8 Aug 2026.
+Tessuto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 8 Aug 2026.
 
-Tessuto is a house and techno artist tracked on soundcheck, with 42 sets logged across Buenosaires, Lisbon, Rotterdam and Saopaulo. Often billed alongside L_cio, DJ DUE and Renato Cohen. Next up: Edifício Martinelli, Saopaulo on Sat 8 Aug.
+Tessuto is a house and techno artist tracked on soundcheck, with 43 sets logged across Buenosaires, Lisbon, London and Rotterdam and 1 more. Often billed alongside L_cio, DJ DUE and Renato Cohen. Next up: Edifício Martinelli, Saopaulo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Edifício Martinelli | Sao Paulo |
+| Sat, 19 Sept 2026 | FOLD | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tessuto is a house and techno artist tracked on soundcheck, with 42 sets logged 
 
 L_cio, DJ DUE, Renato Cohen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulotessuto/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulotessuto/)*

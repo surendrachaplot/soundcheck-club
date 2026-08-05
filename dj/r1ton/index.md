@@ -1,13 +1,14 @@
 # R1TON
 
-R1TON is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Secret Location, Madrid on Sat, 26 Sept 2026.
+R1TON is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at EL SÓTANO, Madrid on Fri, 4 Sept 2026.
 
-R1TON is a techno artist tracked on soundcheck, with 9 sets logged across Madrid. Often billed alongside Súper Pä, KRSDJ and Syback. Next up: TBA - Secret Location, Madrid on Sat 26 Sept.
+R1TON is a techno artist tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside Súper Pä, KRSDJ and Syback. Next up: EL SÓTANO, Madrid on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | EL SÓTANO | Madrid |
 | Sat, 26 Sept 2026 | TBA - Secret Location | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ R1TON is a techno artist tracked on soundcheck, with 9 sets logged across Madrid
 
 Súper Pä, KRSDJ, Syback
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*

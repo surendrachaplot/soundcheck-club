@@ -1,14 +1,15 @@
 # Auntie Chanel
 
-Auntie Chanel is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paris Bar, Detroit on Sat, 8 Aug 2026.
+Auntie Chanel is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paris Bar, Detroit on Sat, 8 Aug 2026.
 
-Auntie Chanel is a techno and electro artist based in United States of America, tracked on soundcheck, with 119 sets logged across Detroit and Seattle. Often billed alongside Sapphyre, Cherriel and Gallons. Next up: Paris Bar, Detroit on Sat 8 Aug.
+Auntie Chanel is a techno and electro artist based in United States of America, tracked on soundcheck, with 120 sets logged across Detroit and Seattle. Often billed alongside Sapphyre, Cherriel and Gallons. Next up: Paris Bar, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Paris Bar | Detroit |
+| Thu, 20 Aug 2026 | Outer Limits Lounge | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Auntie Chanel is a techno and electro artist based in United States of America, 
 
 Sapphyre, Cherriel, Gallons
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auntiechanel/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auntiechanel/)*

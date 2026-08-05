@@ -1,14 +1,15 @@
 # Jos.heat
 
-Jos.heat is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 6 Aug 2026.
+Jos.heat is a Garage and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 6 Aug 2026.
 
-Jos.heat is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow. Often billed alongside Brad Herbert, D4N (1) and DRUMA. Next up: La Cheetah Club, Glasgow on Thu 6 Aug.
+Jos.heat is a garage and experimental artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside Brad Herbert, D4N (1) and DRUMA. Next up: La Cheetah Club, Glasgow on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | La Cheetah Club | Glasgow |
+| Mon, 24 Aug 2026 | Audio | Glasgow |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Jos.heat is a garage and house artist based in United Kingdom, tracked on soundc
 
 Brad Herbert, D4N (1), DRUMA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jos.heat/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jos.heat/)*

@@ -1,6 +1,6 @@
 # Andrewww
 
-Andrewww is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
+Andrewww is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
 
 Andrewww is a techno and garage artist based in Italy, tracked on soundcheck, with 55 sets logged across Copenhagen, Edinburgh, London and Milan and 3 more. Often billed alongside figo, Creamy and Giacomo Bellezza. Next up: Ex Macello, Milan on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Andrewww is a techno and garage artist based in Italy, tracked on soundcheck, wi
 
 figo, Creamy, Giacomo Bellezza
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewww/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewww/)*

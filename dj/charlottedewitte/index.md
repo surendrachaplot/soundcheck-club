@@ -1,6 +1,6 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
+Charlotte de Witte is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
 
 Charlotte de Witte is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Enrico Sangiuliano, Adiel and Joseph Capriati. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Charlotte de Witte is a techno and house artist tracked on soundcheck, with 136 
 
 Enrico Sangiuliano, Adiel, Joseph Capriati
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

@@ -1,6 +1,6 @@
 # Forward x Bonanza present: Starlane London at Starlane Pizza Bar
 
-Forward x Bonanza present: Starlane London at Starlane Pizza Bar on Fri 18 Sept, London. 4 acts on the bill: Benny (El Rio Hostel), Kensa, Moaad BKR and Nicky Macha. Techno and Electro. Preview the line-up and save it on soundcheck.
+Forward x Bonanza present: Starlane London at Starlane Pizza Bar on Fri 18 Sept, London. 6 acts on the bill: Benny (El Rio Hostel), Kensa, Kyle Toole and Millie McKee and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Forward x Bonanza present: Starlane London at Starlane Pizza Bar on Fri 18 Sept,
 
 - Benny (El Rio Hostel)
 - Kensa
+- Kyle Toole
+- Millie McKee
 - Moaad BKR
 - Nicky Macha
 

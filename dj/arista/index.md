@@ -1,6 +1,6 @@
 # Arista
 
-Arista is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Studio Stereo, Barcelona on Sat, 8 Aug 2026.
+Arista is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Studio Stereo, Barcelona on Sat, 8 Aug 2026.
 
 Arista is a house and techno artist based in El Salvador, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Madrid and Mallorca and 3 more. Often billed alongside Sampol, tINI and EMIR-B. Next up: Studio Stereo, Barcelona on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Arista is a house and techno artist based in El Salvador, tracked on soundcheck,
 
 Sampol, tINI, EMIR-B
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*

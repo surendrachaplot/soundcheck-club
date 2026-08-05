@@ -1,6 +1,6 @@
 # CHANGYUNFLUG
 
-CHANGYUNFLUG is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Shelter, Seoul on Fri, 7 Aug 2026.
+CHANGYUNFLUG is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Shelter, Seoul on Fri, 7 Aug 2026.
 
 CHANGYUNFLUG is a techno and electro artist based in South Korea, tracked on soundcheck, with 45 sets logged across Seoul. Often billed alongside Honn, NO.LINK and X2C (1). Next up: Shelter, Seoul on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ CHANGYUNFLUG is a techno and electro artist based in South Korea, tracked on sou
 
 Honn, NO.LINK, X2C (1)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/changyunflug/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/changyunflug/)*

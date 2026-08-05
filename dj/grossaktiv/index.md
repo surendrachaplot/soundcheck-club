@@ -1,6 +1,6 @@
 # Groß Aktiv
 
-Groß Aktiv is a Industrial and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 81 Renshaw Street, Liverpool on Thu, 6 Aug 2026.
+Groß Aktiv is a Industrial and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 81 Renshaw Street, Liverpool on Thu, 6 Aug 2026.
 
 Groß Aktiv is an industrial and ambient artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Liverpool. Often billed alongside Alex Spiers and Jez Thelwell. Next up: 81 Renshaw Street, Liverpool on Thu 6 Aug.
 
@@ -18,4 +18,4 @@ Groß Aktiv is an industrial and ambient artist based in United Kingdom, tracked
 
 Alex Spiers, Jez Thelwell
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grossaktiv/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grossaktiv/)*

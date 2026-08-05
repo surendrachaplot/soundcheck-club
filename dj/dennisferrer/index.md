@@ -1,6 +1,6 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 15 Aug 2026.
+Dennis Ferrer is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Bristol and 26 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Ushuaïa Ibiza, Ibiza on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 130 s
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

@@ -1,6 +1,6 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
+So-Fi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
 So-Fi is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Matthias (1), Ancut and Carl H. Next up: Renate, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ So-Fi is a house and techno artist tracked on soundcheck, with 93 sets logged ac
 
 Matthias (1), Ancut, Carl H
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

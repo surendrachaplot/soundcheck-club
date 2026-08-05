@@ -1,8 +1,8 @@
 # Floating Points
 
-Floating Points is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Floating Points is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Floating Points is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Four Tet, Palms Trax and Daphni. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Floating Points is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Four Tet, Palms Trax and Daphni. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Floating Points is a house and techno artist tracked on soundcheck, with 69 sets
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Sun, 25 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Floating Points is a house and techno artist tracked on soundcheck, with 69 sets
 
 Four Tet, Palms Trax, Daphni
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*

@@ -1,6 +1,6 @@
 # Georg MT
 
-Georg MT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Georg MT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Georg MT is a techno and house artist based in Malta, tracked on soundcheck, with 26 sets logged across Malta. Often billed alongside Damz, STK (MT) and Fresh Prince. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Georg MT is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 Damz, STK (MT), Fresh Prince
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgmt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgmt/)*

@@ -1,6 +1,6 @@
 # TRC
 
-TRC is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
+TRC is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
 
 TRC is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin, Birmingham, Leeds and Manchester. Often billed alongside Burgaboy, Sub Zero and Bassboy. Next up: Ritter Butzke, Berlin on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ TRC is a bass and techno artist based in United Kingdom, tracked on soundcheck, 
 
 Burgaboy, Sub Zero, Bassboy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trc/)*

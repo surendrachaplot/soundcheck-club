@@ -1,14 +1,15 @@
 # Bastienne
 
-Bastienne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Bastienne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Bastienne is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Ghent and Paris and 3 more. Often billed alongside Mahabe, Vuur and Elias Mazian. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Bastienne is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Berlin, Ghent and Paris and 3 more. Often billed alongside Mahabe, Vuur and Elias Mazian. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
+| Sun, 9 Aug 2026 | BRET | Amsterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bastienne is a techno and house artist tracked on soundcheck, with 91 sets logge
 
 Mahabe, Vuur, Elias Mazian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*

@@ -1,6 +1,6 @@
 # Marco V
 
-Marco V is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
+Marco V is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
 
 Marco V is a trance and techno artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Budapest, Edinburgh and Frankfurt and 6 more. Often billed alongside Erick E, Alexander Koning and Dave Leatherman. Next up: Zinkbad Eventhalle, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Marco V is a trance and techno artist based in Netherlands, tracked on soundchec
 
 Erick E, Alexander Koning, Dave Leatherman
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*

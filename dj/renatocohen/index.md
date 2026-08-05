@@ -1,6 +1,6 @@
 # Renato Cohen
 
-Renato Cohen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 8 Aug 2026.
+Renato Cohen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 8 Aug 2026.
 
 Renato Cohen is a house and techno artist tracked on soundcheck, with 53 sets logged across Berlin, Geneva, Lisbon and Losangeles and 1 more. Often billed alongside DJ DUE, Tessuto and Vermelho. Next up: Edifício Martinelli, Saopaulo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Renato Cohen is a house and techno artist tracked on soundcheck, with 53 sets lo
 
 DJ DUE, Tessuto, Vermelho
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renatocohen/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renatocohen/)*

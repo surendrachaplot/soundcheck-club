@@ -1,6 +1,6 @@
 # Streeter
 
-Streeter is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Substation, Seattle on Sat, 8 Aug 2026.
+Streeter is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Substation, Seattle on Sat, 8 Aug 2026.
 
 Streeter is a garage and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Seattle. Often billed alongside Conducta and X CLUB.. Next up: Substation, Seattle on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Streeter is a garage and house artist based in United States of America, tracked
 
 Conducta, X CLUB.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/streeter/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/streeter/)*

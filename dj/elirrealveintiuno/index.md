@@ -1,6 +1,6 @@
 # El irreal Veintiuno
 
-El irreal Veintiuno is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
+El irreal Veintiuno is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
 
 El irreal Veintiuno is a bass and electronica artist based in Mexico, tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Lyo XS, ADAKEO and Astroboii. Next up: YuYu Cine Club, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ El irreal Veintiuno is a bass and electronica artist based in Mexico, tracked on
 
 Lyo XS, ADAKEO, Astroboii
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elirrealveintiuno/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elirrealveintiuno/)*

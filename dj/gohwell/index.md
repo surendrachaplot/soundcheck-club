@@ -1,6 +1,6 @@
 # Goh Well
 
-Goh Well is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
+Goh Well is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
 
 Goh Well is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin and London. Often billed alongside Someone Sunny, Ysanne and Jaye Ward. Next up: Planet Wax, London on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Goh Well is a house and techno artist based in United Kingdom, tracked on soundc
 
 Someone Sunny, Ysanne, Jaye Ward
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gohwell/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gohwell/)*

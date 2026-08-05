@@ -1,6 +1,6 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "JEUDREDI AVEC WALKER & GOOD YOU" on Thu, 6 Aug 2026.
+Vino Disco is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "JEUDREDI AVEC WALKER & GOOD YOU" on Thu, 6 Aug 2026.
 
 Vino Disco is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Akpossoul, Andie, Damacadam and Dimitry and 2 more. Browse upcoming dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
@@ -23,4 +23,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 12 upcoming nights
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

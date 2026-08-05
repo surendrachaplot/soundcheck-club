@@ -1,8 +1,8 @@
 # JADALAREIGN
 
-JADALAREIGN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 15 Aug 2026.
+JADALAREIGN is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 15 Aug 2026.
 
-JADALAREIGN is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Berlin and Boston and 17 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: Northern Lights Lounge, Detroit on Sat 15 Aug.
+JADALAREIGN is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Austin, Berlin and Boston and 17 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: Northern Lights Lounge, Detroit on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JADALAREIGN is a house and techno artist tracked on soundcheck, with 181 sets lo
 | Sat, 15 Aug 2026 | Northern Lights Lounge | Detroit |
 | Sun, 16 Aug 2026 | Mess Hall | Washington DC |
 | Fri, 21 Aug 2026 | Signal | New York City |
+| Fri, 25 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ JADALAREIGN is a house and techno artist tracked on soundcheck, with 181 sets lo
 
 Mike Servito, Ash Lauryn, Carlos Souffront
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*

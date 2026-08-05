@@ -1,6 +1,6 @@
 # 7e
 
-7e is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mitsuki, Tokyo on Wed, 5 Aug 2026.
+7e is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mitsuki, Tokyo on Wed, 5 Aug 2026.
 
 7e is a techno and house artist tracked on soundcheck, with 168 sets logged across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Mitsuki, Tokyo on Wed 5 Aug.
 
@@ -27,4 +27,4 @@
 
 Mari Sakurai, suimin, TEI TEI
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*

@@ -1,6 +1,6 @@
 # Fatima
 
-Fatima is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
+Fatima is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
 
 Fatima is a classical and dancehall artist tracked on soundcheck, with 9 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside AB, Adriana Roma and Aim. Next up: Bar Oriente, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Fatima is a classical and dancehall artist tracked on soundcheck, with 9 sets lo
 
 AB, Adriana Roma, Aim
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima/)*

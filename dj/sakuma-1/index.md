@@ -1,6 +1,6 @@
 # Sakuma
 
-Sakuma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Mitsuki, Tokyo on Fri, 7 Aug 2026.
+Sakuma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mitsuki, Tokyo on Fri, 7 Aug 2026.
 
 Sakuma is a techno and house artist based in Japan, tracked on soundcheck, with 107 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Celter, CHIDA and DJ Nobu. Next up: Mitsuki, Tokyo on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Sakuma is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Celter, CHIDA, DJ Nobu
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*

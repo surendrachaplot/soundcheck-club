@@ -1,6 +1,6 @@
 # Luna City Express
 
-Luna City Express is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Esbirra Ibiza, Ibiza on Sat, 15 Aug 2026.
+Luna City Express is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Esbirra Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Luna City Express is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Frankfurt and Ibiza and 3 more. Often billed alongside Foolik, Pauli Pocket and Peter Schumann. Next up: Esbirra Ibiza, Ibiza on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Luna City Express is a house and techno artist based in Germany, tracked on soun
 
 Foolik, Pauli Pocket, Peter Schumann
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunacityexpress/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunacityexpress/)*

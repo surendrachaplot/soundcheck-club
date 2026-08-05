@@ -1,6 +1,6 @@
 # Kili (3)
 
-Kili (3) is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bootshaus, Cologne on Sat, 15 Aug 2026.
+Kili (3) is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bootshaus, Cologne on Sat, 15 Aug 2026.
 
 Kili (3) is a hardcore artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Cologne, Frankfurt, Glasgow and Madrid and 2 more. Often billed alongside Noxiouz, Angerfist and Lekkerfaces. Next up: Bootshaus, Cologne on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Kili (3) is a hardcore artist based in Netherlands, tracked on soundcheck, with 
 
 Noxiouz, Angerfist, Lekkerfaces
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*

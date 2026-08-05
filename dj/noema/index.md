@@ -1,6 +1,6 @@
 # Noema
 
-Noema is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Noema is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Noema is a house and balearic artist based in Germany, tracked on soundcheck, with 18 sets logged across Bangkok, Berlin, Istanbul and Mexicocity and 2 more. Often billed alongside Fabrizio Mammarella, MAGIC JAMS and Alex Kassian. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Noema is a house and balearic artist based in Germany, tracked on soundcheck, wi
 
 Fabrizio Mammarella, MAGIC JAMS, Alex Kassian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noema/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noema/)*

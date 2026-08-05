@@ -1,6 +1,6 @@
 # Oprofessionell
 
-Oprofessionell is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+Oprofessionell is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 Oprofessionell is a trance and techno artist tracked on soundcheck, with 15 sets logged across Basel, Berlin, Copenhagen and London and 4 more. Often billed alongside Marius Bø, Alpha Tracks and Mikkel Rev. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Oprofessionell is a trance and techno artist tracked on soundcheck, with 15 sets
 
 Marius Bø, Alpha Tracks, Mikkel Rev
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oprofessionell/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oprofessionell/)*

@@ -1,6 +1,6 @@
 # Pep Descals
 
-Pep Descals is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+Pep Descals is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 Pep Descals is a techno and ambient artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona and Rotterdam. Often billed alongside btrast, Fontana (ES) and Quim Clausell. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Pep Descals is a techno and ambient artist based in Spain, tracked on soundcheck
 
 btrast, Fontana (ES), Quim Clausell
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pepdescals/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pepdescals/)*

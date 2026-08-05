@@ -1,6 +1,6 @@
 # SONATA
 
-SONATA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at R Lounge, Tokyo on Sat, 29 Aug 2026.
+SONATA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at R Lounge, Tokyo on Sat, 29 Aug 2026.
 
 SONATA is a techno and industrial artist tracked on soundcheck, with 61 sets logged across Austin, Bangkok, Brighton and Chicago and 14 more. Often billed alongside Amy Wiles, BEATTEKNIKS and Rivako. Next up: R Lounge, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ SONATA is a techno and industrial artist tracked on soundcheck, with 61 sets log
 
 Amy Wiles, BEATTEKNIKS, Rivako
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonata/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonata/)*

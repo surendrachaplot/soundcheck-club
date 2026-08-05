@@ -1,6 +1,6 @@
 # Kepi
 
-Kepi is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at White Owl Social Club, Portland on Sat, 5 Sept 2026.
+Kepi is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at White Owl Social Club, Portland on Sat, 5 Sept 2026.
 
 Kepi is a tech house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Portland. Often billed alongside Chad North, DJ Dazy and DJ Spun. Next up: White Owl Social Club, Portland on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Kepi is a tech house and techno artist based in United States of America, tracke
 
 Chad North, DJ Dazy, DJ Spun
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kepi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kepi/)*

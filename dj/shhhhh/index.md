@@ -1,8 +1,8 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at West Harlem, Kyoto on Sat, 8 Aug 2026.
+Shhhhh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at West Harlem, Kyoto on Sat, 8 Aug 2026.
 
-Shhhhh is a techno and house artist tracked on soundcheck, with 96 sets logged across Bali, Hongkong, Kyoto and Mexicocity and 6 more. Often billed alongside AKIRAM EN, Compuma and Shinsuke Goto. Next up: West Harlem, Kyoto on Sat 8 Aug.
+Shhhhh is a techno and house artist tracked on soundcheck, with 97 sets logged across Bali, Hongkong, Kyoto and Mexicocity and 6 more. Often billed alongside AKIRAM EN, Compuma and Shinsuke Goto. Next up: West Harlem, Kyoto on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shhhhh is a techno and house artist tracked on soundcheck, with 96 sets logged a
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | West Harlem | Kyoto |
 | Thu, 13 Aug 2026 | Mitsuki | Tokyo |
+| Sat, 26 Sept 2026 | Saloon | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Shhhhh is a techno and house artist tracked on soundcheck, with 96 sets logged a
 
 AKIRAM EN, Compuma, Shinsuke Goto
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

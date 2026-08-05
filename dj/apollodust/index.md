@@ -1,6 +1,6 @@
 # Apollo Dust
 
-Apollo Dust is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
+Apollo Dust is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
 
 Apollo Dust is a house and techno artist based in France, tracked on soundcheck, with 26 sets logged across Washingtondc. Often billed alongside Henry P (US), House Twelve and Jess in the Flesh. Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Apollo Dust is a house and techno artist based in France, tracked on soundcheck,
 
 Henry P (US), House Twelve, Jess in the Flesh
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apollodust/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apollodust/)*

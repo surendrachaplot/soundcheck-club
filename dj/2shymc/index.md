@@ -1,13 +1,14 @@
 # 2Shy MC
 
-2Shy MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
 
-2Shy MC is a drum & bass and jungle artist tracked on soundcheck, with 23 sets logged across Antwerp, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Jumping Jack Frost, IC3 and Kanine. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+2Shy MC is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Antwerp, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Jumping Jack Frost, IC3 and Kanine. Next up: Grand Hotel Bucharest, Bucharest on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Grand Hotel Bucharest | Bucharest |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 Jumping Jack Frost, IC3, Kanine
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*

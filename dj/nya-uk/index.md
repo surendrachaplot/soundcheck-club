@@ -1,6 +1,6 @@
 # N.Y.A
 
-N.Y.A is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Glamorama, Melbourne on Fri, 7 Aug 2026.
+N.Y.A is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Glamorama, Melbourne on Fri, 7 Aug 2026.
 
 N.Y.A is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside CHEEKI, KJONES and TRUSTEE. Next up: Glamorama, Melbourne on Fri 7 Aug.
 
@@ -14,4 +14,4 @@ N.Y.A is an uk funky and garage artist based in United Kingdom, tracked on sound
 
 CHEEKI, KJONES, TRUSTEE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nya-uk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nya-uk/)*

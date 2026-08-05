@@ -1,6 +1,6 @@
 # DJ Winggold
 
-DJ Winggold is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ballroom at Palais, London on Sat, 15 Aug 2026.
+DJ Winggold is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ballroom at Palais, London on Sat, 15 Aug 2026.
 
 DJ Winggold is a techno and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Bristol, Lisbon, Liverpool and London. Often billed alongside NIKS, THEMPRESS and 1000raks. Next up: Ballroom at Palais, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Winggold is a techno and house artist based in United Kingdom, tracked on sou
 
 NIKS, THEMPRESS, 1000raks
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwinggold/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwinggold/)*

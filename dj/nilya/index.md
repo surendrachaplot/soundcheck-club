@@ -1,6 +1,6 @@
 # Nilya
 
-Nilya is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
+Nilya is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
 
 Nilya is a techno artist based in Austria, tracked on soundcheck, with 4 sets logged across Bucharest, Munich and Vienna. Often billed alongside 1022, Crazy Sonic and Dominik Eulberg. Next up: Celeste, Vienna on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Nilya is a techno artist based in Austria, tracked on soundcheck, with 4 sets lo
 
 1022, Crazy Sonic, Dominik Eulberg
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilya/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilya/)*

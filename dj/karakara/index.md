@@ -1,6 +1,6 @@
 # KaraKara
 
-KaraKara is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at YAAM Berlin, Berlin on Fri, 14 Aug 2026.
+KaraKara is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at YAAM Berlin, Berlin on Fri, 14 Aug 2026.
 
 KaraKara is a jungle and breakbeat artist tracked on soundcheck, with 30 sets logged across Berlin, London and Toronto. Often billed alongside Pjiepox, BrokenGear and Jim Bean. Next up: YAAM Berlin, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ KaraKara is a jungle and breakbeat artist tracked on soundcheck, with 30 sets lo
 
 Pjiepox, BrokenGear, Jim Bean
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara/)*

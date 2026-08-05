@@ -1,6 +1,6 @@
 # Alex Pott
 
-Alex Pott is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 15 Aug 2026.
+Alex Pott is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 15 Aug 2026.
 
 Alex Pott is a house and tech house artist based in Spain, tracked on soundcheck, with 50 sets logged across Barcelona, Ibiza, Madrid and Turin and 1 more. Often billed alongside Ion Pananides, Angel Sani and DJ Sandwich. Next up: Sunseabar Beach Club, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Alex Pott is a house and tech house artist based in Spain, tracked on soundcheck
 
 Ion Pananides, Angel Sani, DJ Sandwich
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpott/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpott/)*

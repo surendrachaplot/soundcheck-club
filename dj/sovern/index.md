@@ -1,6 +1,6 @@
 # Sovern
 
-Sovern is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Macarena Club, Barcelona on Tue, 25 Aug 2026.
+Sovern is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Macarena Club, Barcelona on Tue, 25 Aug 2026.
 
 Sovern is a house artist based in Italy, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Armela, Mancaro and Noa (DE). Next up: Macarena Club, Barcelona on Tue 25 Aug.
 
@@ -18,4 +18,4 @@ Sovern is a house artist based in Italy, tracked on soundcheck, with 2 sets logg
 
 Armela, Mancaro, Noa (DE)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sovern/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sovern/)*

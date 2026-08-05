@@ -1,6 +1,6 @@
 # Nathassia
 
-Nathassia is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
+Nathassia is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
 
 Nathassia is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, London and Seoul. Often billed alongside Ginchy, EL PADRE and P.O.U. Next up: Sundara Club, Ibiza on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Nathassia is a techno and progressive house artist based in Netherlands, tracked
 
 Ginchy, EL PADRE, P.O.U
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathassia/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathassia/)*

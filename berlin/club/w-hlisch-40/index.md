@@ -1,6 +1,6 @@
 # Wühlisch 40
 
-Wühlisch 40 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Berlin Swap Market: August Edition" on Sat, 22 Aug 2026.
+Wühlisch 40 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Berlin Swap Market: August Edition" on Sat, 22 Aug 2026.
 
 Wühlisch 40 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Wühlischstr. 40.
 
@@ -14,4 +14,4 @@ Wühlisch 40 is a music venue in Berlin listed on soundcheck. 1 upcoming night. 
 
 Wühlischstr. 40, Berlin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/w-hlisch-40/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/w-hlisch-40/)*

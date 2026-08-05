@@ -1,6 +1,6 @@
 # Djeity
 
-Djeity is a Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar Datcha, Montreal on Thu, 6 Aug 2026.
+Djeity is a Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Datcha, Montreal on Thu, 6 Aug 2026.
 
 Djeity is a footwork artist based in Canada, tracked on soundcheck, with 1 set logged across Montreal. Often billed alongside venus in bed. Next up: Bar Datcha, Montreal on Thu 6 Aug.
 
@@ -14,4 +14,4 @@ Djeity is a footwork artist based in Canada, tracked on soundcheck, with 1 set l
 
 venus in bed
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeity/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeity/)*

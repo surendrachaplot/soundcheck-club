@@ -1,6 +1,6 @@
 # Koven
 
-Koven is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Koven is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Koven is a drum & bass and bass artist tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Brisbane and Bristol and 20 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ Koven is a drum & bass and bass artist tracked on soundcheck, with 50 sets logge
 
 Hybrid Minds, Camo & Krooked, Circadian
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*

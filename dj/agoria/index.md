@@ -1,6 +1,6 @@
 # Agoria
 
-Agoria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cova Santa, Ibiza on Sun, 30 Aug 2026.
+Agoria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cova Santa, Ibiza on Sun, 30 Aug 2026.
 
 Agoria is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Barcelona and Geneva and 15 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Cova Santa, Ibiza on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Agoria is a house and techno artist tracked on soundcheck, with 56 sets logged a
 
 Mooglie, Amour Propre, Armin van Buuren
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*

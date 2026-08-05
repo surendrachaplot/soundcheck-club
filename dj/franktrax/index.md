@@ -1,6 +1,6 @@
 # Frank Trax
 
-Frank Trax is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Frank Trax is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Frank Trax is an electronica artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona and Madrid. Often billed alongside Ricardo F, DJ Marta and Da Terror. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Frank Trax is an electronica artist based in Spain, tracked on soundcheck, with 
 
 Ricardo F, DJ Marta, Da Terror
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franktrax/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franktrax/)*

@@ -1,6 +1,6 @@
 # Alhambar
 
-Alhambar is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Sirāt live A/V experience with Kangding Ray" on Fri, 28 Aug 2026.
+Alhambar is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Sirāt live A/V experience with Kangding Ray" on Fri, 28 Aug 2026.
 
 Alhambar is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Jo Johnson and Kangding Ray. Browse upcoming dates, start times and who's playing. Rue de la Rôtisserie 10; 1204, Genève; Switzerland.
 
@@ -14,4 +14,4 @@ Alhambar is a music venue in Geneva listed on soundcheck. 1 upcoming night, with
 
 Rue de la Rôtisserie 10; 1204, Genève; Switzerland, Geneva
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/alhambar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/alhambar/)*

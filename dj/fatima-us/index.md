@@ -1,6 +1,6 @@
 # Fátima
 
-Fátima is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+Fátima is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
 
 Fátima is a house and tech house artist based in Mexico, tracked on soundcheck, with 30 sets logged across Berlin, Newyorkcity and Washingtondc. Often billed alongside Late London, VYNX and branqueeno. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Fátima is a house and tech house artist based in Mexico, tracked on soundcheck,
 
 Late London, VYNX, branqueeno
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima-us/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima-us/)*

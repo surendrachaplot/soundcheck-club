@@ -1,6 +1,6 @@
 # Marouchka
 
-Marouchka is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Marouchka is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
 Marouchka is a techno artist based in Belgium, tracked on soundcheck, with 15 sets logged across Brussels and Paris. Often billed alongside DJ Bisou, Jessen and Keyser. Next up: Circle Park, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Marouchka is a techno artist based in Belgium, tracked on soundcheck, with 15 se
 
 DJ Bisou, Jessen, Keyser
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marouchka/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marouchka/)*

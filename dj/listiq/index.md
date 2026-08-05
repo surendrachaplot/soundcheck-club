@@ -1,6 +1,6 @@
 # Listiq
 
-Listiq is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
+Listiq is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
 
 Listiq is a house and disco artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Crumpler, Sam Sharp and Yozza. Next up: Vittoria Wharf Studio, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Listiq is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Crumpler, Sam Sharp, Yozza
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/listiq/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/listiq/)*

@@ -1,6 +1,6 @@
 # Soul Clap
 
-Soul Clap is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
+Soul Clap is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
 
 Soul Clap is a house and disco artist tracked on soundcheck, with 157 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 27 more. Often billed alongside DJ Minx, Stacey Pullen and LADYMONIX. Next up: American Legion Marsh Post #442, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Soul Clap is a house and disco artist tracked on soundcheck, with 157 sets logge
 
 DJ Minx, Stacey Pullen, LADYMONIX
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*

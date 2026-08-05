@@ -1,6 +1,6 @@
 # T & Sugah DRUM AND BASS NYC DEBUT SATURDAY SEPTEMBER 19TH 11PM at The Woodshop
 
-T & Sugah DRUM AND BASS NYC DEBUT SATURDAY SEPTEMBER 19TH 11PM at The Woodshop on Sat 19 Sept, Newyorkcity. 4 acts on the bill: BLCKLST, Connect, E-Mood and T & Sugah. Drum & Bass and Electronica. Preview the line-up and save it on soundcheck.
+T & Sugah DRUM AND BASS NYC DEBUT SATURDAY SEPTEMBER 19TH 11PM at The Woodshop on Sat 19 Sept, Newyorkcity. 4 acts on the bill: BLCKLST, Connect, E-Mood and T & Sugah. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

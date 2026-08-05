@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Trädgården, Stockholm on Thu, 6 Aug 2026.
+Skin On Skin is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Trädgården, Stockholm on Thu, 6 Aug 2026.
 
 Skin On Skin is a techno and house artist tracked on soundcheck, with 130 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Trädgården, Stockholm on Thu 6 Aug.
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 130 sets l
 
 KETTAMA, Mall Grab, CRUSH3d
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

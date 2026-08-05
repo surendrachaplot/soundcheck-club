@@ -1,6 +1,6 @@
 # Apollo Studio
 
-Apollo Studio is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Apollo Studio presents" on Fri, 7 Aug 2026.
+Apollo Studio is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Apollo Studio presents" on Fri, 7 Aug 2026.
 
 Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including Armii1n, Bella Mutino, John Everett and Miguel Gallardo and 2 more. Browse upcoming dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
 
@@ -23,4 +23,4 @@ Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 27 upcoming 
 
 72 Apollo St Brooklyn, NY 11222, New York City
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*

@@ -1,6 +1,6 @@
 # Glances (3)
 
-Glances (3) is a Dub Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
+Glances (3) is a Dub Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
 
 Glances (3) is a dub techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside Shmael, AUKA and Anil (UK). Next up: The Cider Box, Bristol on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Glances (3) is a dub techno and dubstep artist based in United Kingdom, tracked 
 
 Shmael, AUKA, Anil (UK)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glances-3/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glances-3/)*

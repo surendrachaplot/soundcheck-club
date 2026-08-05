@@ -1,6 +1,6 @@
 # Molyness
 
-Molyness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at StereoBar, Montreal on Fri, 7 Aug 2026.
+Molyness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at StereoBar, Montreal on Fri, 7 Aug 2026.
 
 Molyness is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Lisbon and Montreal and 2 more. Often billed alongside Isa Boom, Pekodjinn and Wake Island. Next up: StereoBar, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Molyness is a house and techno artist tracked on soundcheck, with 52 sets logged
 
 Isa Boom, Pekodjinn, Wake Island
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molyness/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molyness/)*

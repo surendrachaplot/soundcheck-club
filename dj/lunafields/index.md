@@ -1,6 +1,6 @@
 # Luna Fields
 
-Luna Fields is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
+Luna Fields is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
 
 Luna Fields is a techno and industrial artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Berlin, Brussels and Ghent and 3 more. Often billed alongside BYØRN, FØSS and Lena De Roose. Next up: Fuse, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Luna Fields is a techno and industrial artist based in Belgium, tracked on sound
 
 BYØRN, FØSS, Lena De Roose
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunafields/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunafields/)*

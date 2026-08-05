@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 243 sets lo
 | Sat, 15 Aug 2026 | Smoke & Mirrors | Chicago |
 | Sun, 16 Aug 2026 | Signal | New York City |
 | Wed, 19 Aug 2026 | Nocturna | Ibiza |
+| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | Escala25 | Lisbon |
 | Fri, 9 Oct 2026 | FOLD | London |
 
@@ -31,4 +32,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 243 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

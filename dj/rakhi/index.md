@@ -1,8 +1,8 @@
 # Rakhi
 
-Rakhi is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
+Rakhi is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
 
-Rakhi is a techno and bass artist based in Australia, tracked on soundcheck, with 69 sets logged across Kyoto, Melbourne, Osaka and Sydney and 1 more. Often billed alongside Brown Suga Princess, rita bass and Hannah D. Next up: Angel Music Bar, Melbourne on Fri 7 Aug.
+Rakhi is a techno and bass artist based in Australia, tracked on soundcheck, with 71 sets logged across Kyoto, Melbourne, Osaka and Sydney and 1 more. Often billed alongside Brown Suga Princess, rita bass and Hannah D. Next up: Angel Music Bar, Melbourne on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Rakhi is a techno and bass artist based in Australia, tracked on soundcheck, wit
 | Fri, 7 Aug 2026 | Angel Music Bar | Melbourne |
 | Fri, 14 Aug 2026 | TBA | Melbourne |
 | Sat, 29 Aug 2026 | QQQ ST. Park | Melbourne |
+| Sat, 29 Aug 2026 | QQQ ST. Park | Melbourne |
+| Fri, 4 Sept 2026 | Collingwood Basement | Melbourne |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 
 ## Recently played
@@ -28,4 +30,4 @@ Rakhi is a techno and bass artist based in Australia, tracked on soundcheck, wit
 
 Brown Suga Princess, rita bass, Hannah D
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakhi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakhi/)*

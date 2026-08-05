@@ -1,6 +1,6 @@
 # Nail on the Hat
 
-Nail on the Hat is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+Nail on the Hat is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 Nail on the Hat is a techno and trance artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside jojogigirl, Nanno and get no. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nail on the Hat is a techno and trance artist based in Germany, tracked on sound
 
 jojogigirl, Nanno, get no
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nailonthehat/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nailonthehat/)*

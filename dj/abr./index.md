@@ -1,6 +1,6 @@
 # Abr.
 
-Abr. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Macadam, Nantes on Sat, 8 Aug 2026.
+Abr. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Macadam, Nantes on Sat, 8 Aug 2026.
 
 Abr. is a techno and trance artist based in France, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels, Cologne and Geneva and 5 more. Often billed alongside Asaya, MEYEM and Maudux. Next up: Macadam, Nantes on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Abr. is a techno and trance artist based in France, tracked on soundcheck, with 
 
 Asaya, MEYEM, Maudux
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abr./)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abr./)*

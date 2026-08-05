@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "DISCO: Chocolate Thunder wsg Jake Wonder" on Fri, 7 Aug 2026.
+Marble Bar is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DISCO: Chocolate Thunder wsg Jake Wonder" on Fri, 7 Aug 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including ALEX PAN, Alex Pan (Det), Ashton Swinton and BeatLoaf and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -18,4 +18,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 5 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

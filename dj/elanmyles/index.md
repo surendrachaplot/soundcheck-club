@@ -1,6 +1,6 @@
 # Elan Myles
 
-Elan Myles is a Progressive House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 12 Sept 2026.
+Elan Myles is a Progressive House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 12 Sept 2026.
 
 Elan Myles is a progressive house and minimal techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside ARJ (IR), BEYONIX and DJ Ruby. Next up: TBA - Warehouse, Toronto on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Elan Myles is a progressive house and minimal techno artist based in United Stat
 
 ARJ (IR), BEYONIX, DJ Ruby
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elanmyles/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elanmyles/)*

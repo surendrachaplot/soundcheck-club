@@ -1,8 +1,8 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Tokyo Sunset Rooftop Experience ft Ken Ishii" on Sun, 9 Aug 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Tokyo Sunset Rooftop Experience ft Ken Ishii" on Sun, 9 Aug 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Antoniexx, Chika Luna, DJ SAWA and EMILIO (3) and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Antoniexx, Chika Luna, DJ SAWA and EMILIO (3) and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | Sat, 22 Aug 2026 | SUBSPACE at YODO GROOVE |  |
 | Sun, 23 Aug 2026 | Tokyo best Rooftop venu - House Music – UP BEAT! 24th Anniversary Final | Chika Luna, Ko Kimura, RIHO ASAEDA, Sugiurumn, Yamariki |
 | Sun, 30 Aug 2026 | YODO GROOVE PRESENTS SKY MUSIC JOURNEY × EN / WEEK | Antoniexx, GOLDEN ROA, JURI HOSHINO |
+| Sun, 13 Sept 2026 | DANCEDEVICE meets velfarre PLANET LOVE | Ko Kimura, Q'hey, YOSHIMASA |
 
 ## Address
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

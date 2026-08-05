@@ -1,6 +1,6 @@
 # Velasco
 
-Velasco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Oven Club, Valencia on Fri, 7 Aug 2026.
+Velasco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Oven Club, Valencia on Fri, 7 Aug 2026.
 
 Velasco is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: Oven Club, Valencia on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Velasco is a house and techno artist tracked on soundcheck, with 98 sets logged 
 
 DJ Tjizza, Anthea, Samuel Deep
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*

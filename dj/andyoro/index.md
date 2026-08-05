@@ -1,6 +1,6 @@
 # Andy Oro
 
-Andy Oro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
+Andy Oro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Andy Oro is a house and deep house artist based in United States of America, tracked on soundcheck, with 84 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Akumen, No Pressure and agraybé. Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Andy Oro is a house and deep house artist based in United States of America, tra
 
 Akumen, No Pressure, agraybé
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyoro/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyoro/)*

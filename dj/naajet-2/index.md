@@ -1,6 +1,6 @@
 # Naajet (2)
 
-Naajet (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
+Naajet (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
 
 Naajet (2) is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Lyon and Nantes and 2 more. Often billed alongside LeLeon, Bande de Filles and Goldie B. Next up: Kater, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Naajet (2) is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 LeLeon, Bande de Filles, Goldie B
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*

@@ -1,6 +1,6 @@
 # Dioun
 
-Dioun is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
+Dioun is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
 
 Dioun is a house and disco artist based in Brazil, tracked on soundcheck, with 19 sets logged across Saopaulo. Often billed alongside Pedro Gariani, Garage Disco and Eli Iwasa. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dioun is a house and disco artist based in Brazil, tracked on soundcheck, with 1
 
 Pedro Gariani, Garage Disco, Eli Iwasa
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dioun/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dioun/)*

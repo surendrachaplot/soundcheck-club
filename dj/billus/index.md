@@ -1,6 +1,6 @@
 # Billus
 
-Billus is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 7 Aug 2026.
+Billus is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 7 Aug 2026.
 
 Billus is a deep house and house artist based in Australia, tracked on soundcheck, with 18 sets logged across Berlin and Melbourne. Often billed alongside Bex, Neil E and Terri (2). Next up: Collingwood Basement, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Billus is a deep house and house artist based in Australia, tracked on soundchec
 
 Bex, Neil E, Terri (2)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billus/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billus/)*

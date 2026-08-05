@@ -1,6 +1,6 @@
 # Maniatrix
 
-Maniatrix is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Summerhall, Edinburgh on Sun, 16 Aug 2026.
+Maniatrix is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Summerhall, Edinburgh on Sun, 16 Aug 2026.
 
 Maniatrix is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh and Glasgow. Often billed alongside al gu, samwooddoowmas and Iona.Violet. Next up: Summerhall, Edinburgh on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Maniatrix is an experimental and electronica artist based in United Kingdom, tra
 
 al gu, samwooddoowmas, Iona.Violet
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniatrix/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniatrix/)*

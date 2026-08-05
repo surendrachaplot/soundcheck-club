@@ -1,6 +1,6 @@
 # Marco Ragni
 
-Marco Ragni is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at THE MAGICK BAR, Rome on Fri, 7 Aug 2026.
+Marco Ragni is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at THE MAGICK BAR, Rome on Fri, 7 Aug 2026.
 
 Marco Ragni is a dub techno and experimental artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Milan and Rome. Often billed alongside Christian Duka, DJ Red and Hagva. Next up: THE MAGICK BAR, Rome on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Marco Ragni is a dub techno and experimental artist tracked on soundcheck, with 
 
 Christian Duka, DJ Red, Hagva
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoragni/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoragni/)*

@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 255 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Levi - Mykonos Residency 2026" on Wed, 5 Aug 2026.
+TBA is a music venue in London with 263 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Levi - Mykonos Residency 2026" on Wed, 5 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 255 upcoming nights, with line-ups including 2M (CH), 3 Minds, 619! and 666.pastel and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 263 upcoming nights, with line-ups including 2M (CH), 3 Minds, 619! and 666.pastel and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 255 upcoming nights, with l
 | Fri, 7 Aug 2026 | Zenith all night Long | Zenith |
 | Fri, 7 Aug 2026 | VUIET PREPARTY w/SECRET GUEST,CETĂȚEANU,SERGIU | Cetateanu |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

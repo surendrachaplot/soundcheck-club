@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at BERHTA, Washington DC on Fri, 7 Aug 2026.
+Sam Gellaitry is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at BERHTA, Washington DC on Fri, 7 Aug 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Glasgow and Houston and 17 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: BERHTA, Washingtondc on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

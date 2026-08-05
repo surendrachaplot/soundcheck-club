@@ -1,6 +1,6 @@
 # Essentia (Duplicity)
 
-Essentia (Duplicity) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+Essentia (Duplicity) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 Essentia (Duplicity) is a techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Mykonos. Often billed alongside Alek Mater, Benny Benassi and Devil's Daughter. Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ Essentia (Duplicity) is a techno artist based in United Kingdom, tracked on soun
 
 Alek Mater, Benny Benassi, Devil's Daughter
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essentiaduplicity/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essentiaduplicity/)*

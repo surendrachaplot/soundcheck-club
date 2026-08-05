@@ -1,6 +1,6 @@
 # Mammal Hands
 
-Mammal Hands is a Jazz and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cité De La Musique, Paris on Sat, 5 Sept 2026.
+Mammal Hands is a Jazz and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cité De La Musique, Paris on Sat, 5 Sept 2026.
 
 Mammal Hands is a jazz and electro artist tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Leeds and Madrid and 2 more. Often billed alongside JAEL, Kokoroko and Yazmin Lacey. Next up: Cité De La Musique, Paris on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Mammal Hands is a jazz and electro artist tracked on soundcheck, with 6 sets log
 
 JAEL, Kokoroko, Yazmin Lacey
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mammalhands/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mammalhands/)*

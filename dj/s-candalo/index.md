@@ -1,8 +1,8 @@
 # S-candalo
 
-S-candalo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+S-candalo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
-S-candalo is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside THC, DHC and Byron Yeates. Next up: Paradiso, Amsterdam on Sat 8 Aug.
+S-candalo is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside THC, DHC and Byron Yeates. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ S-candalo is a house and techno artist tracked on soundcheck, with 66 sets logge
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Paradiso | Amsterdam |
 | Fri, 14 Aug 2026 | Trädgården | Stockholm |
+| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ S-candalo is a house and techno artist tracked on soundcheck, with 66 sets logge
 
 THC, DHC, Byron Yeates
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*

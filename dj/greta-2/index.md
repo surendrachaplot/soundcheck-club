@@ -1,6 +1,6 @@
 # GRETA (2)
 
-GRETA (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
+GRETA (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
 
 GRETA (2) is a house and techno artist based in Italy, tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, London and Milan and 2 more. Often billed alongside ki:ke, Ramî and Julian Feierabend. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ GRETA (2) is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 ki:ke, Ramî, Julian Feierabend
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*

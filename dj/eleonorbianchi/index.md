@@ -1,6 +1,6 @@
 # Eleonor Bianchi
 
-Eleonor Bianchi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Wed, 12 Aug 2026.
+Eleonor Bianchi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sensorium, Berlin on Wed, 12 Aug 2026.
 
 Eleonor Bianchi is a techno and tech house artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Anika Maculangan, BUTENKØ and Clifford Clement. Next up: Sensorium, Berlin on Wed 12 Aug.
 
@@ -24,4 +24,4 @@ Eleonor Bianchi is a techno and tech house artist tracked on soundcheck, with 8 
 
 Anika Maculangan, BUTENKØ, Clifford Clement
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorbianchi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorbianchi/)*

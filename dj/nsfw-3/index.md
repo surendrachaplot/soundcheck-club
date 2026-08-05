@@ -1,6 +1,6 @@
 # NSFW (3)
 
-NSFW (3) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+NSFW (3) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
 NSFW (3) is a techno and club artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds and London. Often billed alongside Iyesha, Roxanne (2) and Aleroj. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
@@ -23,4 +23,4 @@ NSFW (3) is a techno and club artist based in United Kingdom, tracked on soundch
 
 Iyesha, Roxanne (2), Aleroj
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsfw-3/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsfw-3/)*

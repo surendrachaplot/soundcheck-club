@@ -1,6 +1,6 @@
 # Polyamor at OST
 
-Polyamor at OST on Sat 3 Oct, Berlin. 6 acts on the bill: Elotrance, LAMMER, Pōnky and TheMuffinMan and 2 more. Preview the line-up and save it on soundcheck.
+Polyamor at OST on Sat 3 Oct, Berlin. 11 acts on the bill: Alas (2), Cleopard2000, Elotrance and HiTMiLØW and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,15 @@ Polyamor at OST on Sat 3 Oct, Berlin. 6 acts on the bill: Elotrance, LAMMER, Pō
 
 ## Line-up
 
+- Alas (2)
+- Cleopard2000
 - Elotrance
+- HiTMiLØW
+- Justin Tinderdate
 - LAMMER
 - Pōnky
 - TheMuffinMan
+- VIVI909
 - XIMA
 - Yasmin Regisford
 

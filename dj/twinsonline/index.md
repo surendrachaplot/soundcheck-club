@@ -1,6 +1,6 @@
 # TWINS ONLINE
 
-TWINS ONLINE is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+TWINS ONLINE is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 TWINS ONLINE is a techno and experimental artist based in United States of America, tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside MILANA, Just Another Bitch and Wonja. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ TWINS ONLINE is a techno and experimental artist based in United States of Ameri
 
 MILANA, Just Another Bitch, Wonja
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twinsonline/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twinsonline/)*

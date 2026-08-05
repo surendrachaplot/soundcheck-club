@@ -1,14 +1,15 @@
 # 死者蘇生CH
 
-死者蘇生CH is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Blvck Water, Osaka on Fri, 7 Aug 2026.
+死者蘇生CH is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Blvck Water, Osaka on Fri, 7 Aug 2026.
 
-死者蘇生CH is a techno and hardcore artist based in Japan, tracked on soundcheck, with 27 sets logged across Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and LIZA (6). Next up: Blvck Water, Osaka on Fri 7 Aug.
+死者蘇生CH is a techno and hardcore artist based in Japan, tracked on soundcheck, with 28 sets logged across Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and LIZA (6). Next up: Blvck Water, Osaka on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Blvck Water | Osaka |
+| Tue, 18 Aug 2026 | Blvck Water | Osaka |
 | Sat, 22 Aug 2026 | Blvck Water | Osaka |
 
 ## Recently played
@@ -26,4 +27,4 @@
 
 FENGX2, ZAGUN, LIZA (6)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/????ch/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/????ch/)*

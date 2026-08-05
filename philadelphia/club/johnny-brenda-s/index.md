@@ -1,6 +1,6 @@
 # Johnny Brenda's
 
-Johnny Brenda's is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Suzy Sheer & damon r are DJing at Johnny Brenda's" on Wed, 5 Aug 2026.
+Johnny Brenda's is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "[Canceled] Suzy Sheer & damon r are DJing at Johnny Brenda's" on Wed, 5 Aug 2026.
 
 Johnny Brenda's is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including DJ Baby Berlin and Joe Hart (US). Browse upcoming dates, start times and who's playing. 1201 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -8,11 +8,11 @@ Johnny Brenda's is a music venue in Philadelphia listed on soundcheck. 2 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Suzy Sheer & damon r are DJing at Johnny Brenda's |  |
+| Wed, 5 Aug 2026 | [Canceled] Suzy Sheer & damon r are DJing at Johnny Brenda's |  |
 | Fri, 7 Aug 2026 | A Black Celebration - Philly's Favorite Depeche Mode Dance Party at JB's | DJ Baby Berlin, Joe Hart (US) |
 
 ## Address
 
 1201 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/johnny-brenda-s/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/johnny-brenda-s/)*

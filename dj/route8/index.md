@@ -1,6 +1,6 @@
 # Route 8
 
-Route 8 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Porto Pollo, Vienna on Thu, 6 Aug 2026.
+Route 8 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Porto Pollo, Vienna on Thu, 6 Aug 2026.
 
 Route 8 is a house and techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Budapest and Osaka and 3 more. Often billed alongside Hanussen, Kernel and Toro Lomo. Next up: Porto Pollo, Vienna on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Route 8 is a house and techno artist tracked on soundcheck, with 15 sets logged 
 
 Hanussen, Kernel, Toro Lomo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/route8/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/route8/)*

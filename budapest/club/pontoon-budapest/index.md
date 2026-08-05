@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "DD10YRS Night: Hadron Lundgren live, CT Kidobó, Imre Kiss, S Olbricht, DDSS" on Thu, 6 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DD10YRS Night: Hadron Lundgren live, CT Kidobó, Imre Kiss, S Olbricht, DDSS" on Thu, 6 Aug 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including CT Kidobó, Hadron Lundgren, Imre Kiss and Kozma and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -17,4 +17,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

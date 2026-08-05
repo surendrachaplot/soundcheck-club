@@ -1,6 +1,6 @@
 # Karassimeon
 
-Karassimeon is a Italo Disco and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 6 Aug 2026.
+Karassimeon is a Italo Disco and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 6 Aug 2026.
 
 Karassimeon is an italo disco and ebm artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Lyon and Nantes and 4 more. Often billed alongside Kendal, Andi and Melanie Havens. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Karassimeon is an italo disco and ebm artist based in France, tracked on soundch
 
 Kendal, Andi, Melanie Havens
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karassimeon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karassimeon/)*

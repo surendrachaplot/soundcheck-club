@@ -1,6 +1,6 @@
 # Lake Hills
 
-Lake Hills is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+Lake Hills is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
 
 Lake Hills is a techno and garage artist tracked on soundcheck, with 29 sets logged across Chicago, London, Losangeles and Miami and 3 more. Often billed alongside Ivy Lab, Alex Casillas and INVT. Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lake Hills is a techno and garage artist tracked on soundcheck, with 29 sets log
 
 Ivy Lab, Alex Casillas, INVT
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehills/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehills/)*

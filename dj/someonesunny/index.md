@@ -1,6 +1,6 @@
 # Someone Sunny
 
-Someone Sunny is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Oslo Hackney, London on Sat, 8 Aug 2026.
+Someone Sunny is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Oslo Hackney, London on Sat, 8 Aug 2026.
 
 Someone Sunny is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Berlin, Bristol, Copenhagen and London and 2 more. Often billed alongside LO-LOW, Goh Well and Karlie Marx. Next up: Oslo Hackney, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Someone Sunny is a house and techno artist based in United Kingdom, tracked on s
 
 LO-LOW, Goh Well, Karlie Marx
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someonesunny/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someonesunny/)*

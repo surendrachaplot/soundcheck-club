@@ -1,6 +1,6 @@
 # SOICY
 
-SOICY is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Jupiter Disco, New York City on Thu, 6 Aug 2026.
+SOICY is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jupiter Disco, New York City on Thu, 6 Aug 2026.
 
 SOICY is a house and minimal artist based in United States of America, tracked on soundcheck, with 4 sets logged across Miami and Newyorkcity. Often billed alongside Mike Foch, Andrew Mendez and Bea Trinidad. Next up: Jupiter Disco, Newyorkcity on Thu 6 Aug.
 
@@ -20,4 +20,4 @@ SOICY is a house and minimal artist based in United States of America, tracked o
 
 Mike Foch, Andrew Mendez, Bea Trinidad
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soicy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soicy/)*

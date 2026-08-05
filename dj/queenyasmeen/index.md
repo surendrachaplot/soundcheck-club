@@ -1,13 +1,14 @@
 # queen yasmeen
 
-queen yasmeen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+queen yasmeen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
-queen yasmeen is a techno and trance artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Madrid and Prague. Often billed alongside FRAXA, Albal and Alice Youngling. Next up: ÆDEN, Berlin on Fri 21 Aug.
+queen yasmeen is a techno and trance artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Madrid and Prague. Often billed alongside August Kind, Deltapeak and Eli Bot. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 21 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ queen yasmeen is a techno and trance artist tracked on soundcheck, with 21 sets 
 
 ## Shares bills with
 
-FRAXA, Albal, Alice Youngling
+August Kind, Deltapeak, Eli Bot
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queenyasmeen/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queenyasmeen/)*

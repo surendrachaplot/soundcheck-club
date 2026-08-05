@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
+KAVARI is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
 
 KAVARI is a techno and experimental artist tracked on soundcheck, with 97 sets logged across Amsterdam, Auckland, Austin and Barcelona and 29 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: The White Hotel, Manchester on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ KAVARI is a techno and experimental artist tracked on soundcheck, with 97 sets l
 
 Blood of Aza, KLAUDIO, Mvcoko
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

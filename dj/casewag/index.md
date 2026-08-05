@@ -1,6 +1,6 @@
 # Casewag
 
-Casewag is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
+Casewag is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
 
 Casewag is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Seattle. Often billed alongside Dane Garfield, Ramiro and Alessandro Carrabba. Next up: Myrtle Edwards Park, Seattle on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Casewag is a house and deep house artist based in United States of America, trac
 
 Dane Garfield, Ramiro, Alessandro Carrabba
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casewag/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casewag/)*

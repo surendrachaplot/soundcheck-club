@@ -1,6 +1,6 @@
 # Deeparture
 
-Deeparture is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 11 Sept 2026.
+Deeparture is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 11 Sept 2026.
 
 Deeparture is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, London, Newyorkcity and Rotterdam and 1 more. Often billed alongside Hollt, UOAK and Huminal. Next up: Het Sieraad, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Deeparture is a techno and progressive house artist based in Netherlands, tracke
 
 Hollt, UOAK, Huminal
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeparture/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeparture/)*

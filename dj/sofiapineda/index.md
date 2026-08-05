@@ -1,6 +1,6 @@
 # SOFIA PINEDA
 
-SOFIA PINEDA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
+SOFIA PINEDA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
 
 SOFIA PINEDA is a house and afro house artist tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside MARTISTA, Marcel BS and &friends. Next up: Seaseaclub Barcelona, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ SOFIA PINEDA is a house and afro house artist tracked on soundcheck, with 9 sets
 
 MARTISTA, Marcel BS, &friends
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiapineda/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiapineda/)*

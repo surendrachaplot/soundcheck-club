@@ -1,6 +1,6 @@
 # Andrés
 
-Andrés is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Moondog Cafe, Detroit on Sat, 29 Aug 2026.
+Andrés is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Moondog Cafe, Detroit on Sat, 29 Aug 2026.
 
 Andrés is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 125 sets logged across Cologne, Detroit, Losangeles and Munich and 8 more. Often billed alongside Jesse Cory, Shigeto and Vincent Patricola. Next up: Moondog Cafe, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Andrés is a house and funk / soul artist based in United States of America, tra
 
 Jesse Cory, Shigeto, Vincent Patricola
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andres/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andres/)*

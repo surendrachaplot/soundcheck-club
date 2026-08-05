@@ -1,6 +1,6 @@
 # Amy Jor
 
-Amy Jor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Outer Heaven, New York City on Sat, 8 Aug 2026.
+Amy Jor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Outer Heaven, New York City on Sat, 8 Aug 2026.
 
 Amy Jor is a house and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Newyorkcity. Often billed alongside Bella Mutino, Connie and Kiyoshi. Next up: Outer Heaven, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Amy Jor is a house and techno artist based in United States of America, tracked 
 
 Bella Mutino, Connie, Kiyoshi
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyjor-us/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyjor-us/)*

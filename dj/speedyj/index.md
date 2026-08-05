@@ -1,8 +1,8 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Speedy J is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Speedy J is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Speedy J is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Speedy J is a techno and house artist tracked on soundcheck, with 130 sets logge
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Fri, 2 Oct 2026 | AUX Club | Athens |
 | Sat, 17 Oct 2026 | VIERNULVIER | Ghent |
+| Sat, 24 Oct 2026 | Paradiso | Amsterdam |
+| Sun, 25 Oct 2026 | Paradiso | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Speedy J is a techno and house artist tracked on soundcheck, with 130 sets logge
 
 SPEEDY, Chris Liebing, FJAAK
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*

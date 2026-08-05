@@ -1,6 +1,6 @@
 # larissa
 
-larissa is a Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cafe Jurta, Warsaw on Fri, 7 Aug 2026.
+larissa is a Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cafe Jurta, Warsaw on Fri, 7 Aug 2026.
 
 larissa is a bass and ghetto tech artist tracked on soundcheck, with 16 sets logged across Warsaw. Often billed alongside DiV4, ALLG and monka. Next up: Cafe Jurta, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ larissa is a bass and ghetto tech artist tracked on soundcheck, with 16 sets log
 
 DiV4, ALLG, monka
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larissa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larissa/)*

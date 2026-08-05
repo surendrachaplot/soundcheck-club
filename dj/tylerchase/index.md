@@ -1,6 +1,6 @@
 # Tyler Chase
 
-Tyler Chase is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+Tyler Chase is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 Tyler Chase is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Losangeles and Sandiego. Often billed alongside AMIRA, DJ IDeaL and Jimbo James. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tyler Chase is a house and techno artist based in United States of America, trac
 
 AMIRA, DJ IDeaL, Jimbo James
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerchase/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerchase/)*

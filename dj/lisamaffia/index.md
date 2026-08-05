@@ -1,6 +1,6 @@
 # Lisa Maffia
 
-Lisa Maffia is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat, 29 Aug 2026.
+Lisa Maffia is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat, 29 Aug 2026.
 
 Lisa Maffia is a garage and club artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Birmingham, London and Manchester. Often billed alongside Artful Dodger, Romeo and DJ Luck & MC Neat. Next up: Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lisa Maffia is a garage and club artist based in United Kingdom, tracked on soun
 
 Artful Dodger, Romeo, DJ Luck & MC Neat
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamaffia/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamaffia/)*

@@ -1,6 +1,6 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Denis Sulta is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Denis Sulta is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stussy. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ Denis Sulta is a house and techno artist tracked on soundcheck, with 139 sets lo
 
 Ben Hemsley, Sarah Story, Chris Stussy
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

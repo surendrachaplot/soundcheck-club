@@ -1,6 +1,6 @@
 # The Workmans Club
 
-The Workmans Club is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "08/08 // TRIAD at The Workmans Main Room" on Sat, 8 Aug 2026.
+The Workmans Club is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "08/08 // TRIAD at The Workmans Main Room" on Sat, 8 Aug 2026.
 
 The Workmans Club is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Pablo Fatty Fatty. Browse upcoming dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
 
@@ -16,4 +16,4 @@ The Workmans Club is a music venue in Dublin listed on soundcheck. 3 upcoming ni
 
 10 Wellington Quay, Dublin 2, Dublin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*

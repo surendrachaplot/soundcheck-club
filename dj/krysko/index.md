@@ -1,6 +1,6 @@
 # Krysko
 
-Krysko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Distrikt, Leeds on Sat, 29 Aug 2026.
+Krysko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Distrikt, Leeds on Sat, 29 Aug 2026.
 
 Krysko is a house and techno artist tracked on soundcheck, with 37 sets logged across Antwerp, Ibiza, Leeds and Manchester and 3 more. Often billed alongside Joe Motion, Greg Lord and Rich Reason. Next up: Distrikt, Leeds on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Krysko is a house and techno artist tracked on soundcheck, with 37 sets logged a
 
 Joe Motion, Greg Lord, Rich Reason
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*

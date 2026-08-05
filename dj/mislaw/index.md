@@ -1,13 +1,14 @@
 # Mislaw
 
-Mislaw is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Kaskada, Warsaw on Fri, 14 Aug 2026.
+Mislaw is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mecca, Prague on Sat, 8 Aug 2026.
 
-Mislaw is a techno and minimal techno artist based in Poland, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bucharest and Hamburg and 4 more. Often billed alongside Lucyd, Hekato and Rethe. Next up: Kaskada, Warsaw on Fri 14 Aug.
+Mislaw is a techno and minimal techno artist based in Poland, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Bucharest and Hamburg and 5 more. Often billed alongside Lucyd, Hekato and Rethe. Next up: Mecca, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Mecca | Prague |
 | Fri, 14 Aug 2026 | Kaskada | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mislaw is a techno and minimal techno artist based in Poland, tracked on soundch
 
 Lucyd, Hekato, Rethe
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*

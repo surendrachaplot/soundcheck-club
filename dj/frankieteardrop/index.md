@@ -1,13 +1,14 @@
 # Frankie Teardrop
 
-Frankie Teardrop is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Système, Montreal on Thu, 13 Aug 2026.
+Frankie Teardrop is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
 
-Frankie Teardrop is a techno and house artist based in Canada, tracked on soundcheck, with 54 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Badgalquirit, Fisher Bryce and Kasey Riot. Next up: Système, Montreal on Thu 13 Aug.
+Frankie Teardrop is a techno and house artist based in Canada, tracked on soundcheck, with 55 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Badgalquirit, Syd Woz and Fisher Bryce. Next up: TBA - mile ex, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | TBA - mile ex | Montreal |
 | Thu, 13 Aug 2026 | Système | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ Frankie Teardrop is a techno and house artist based in Canada, tracked on soundc
 
 ## Shares bills with
 
-Badgalquirit, Fisher Bryce, Kasey Riot
+Badgalquirit, Syd Woz, Fisher Bryce
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*

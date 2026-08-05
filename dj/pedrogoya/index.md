@@ -1,6 +1,6 @@
 # Pedro Goya
 
-Pedro Goya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Rūmu, Lisbon on Wed, 5 Aug 2026.
+Pedro Goya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Rūmu, Lisbon on Wed, 5 Aug 2026.
 
 Pedro Goya is a house and techno artist tracked on soundcheck, with 30 sets logged across Budapest and Lisbon. Often billed alongside Kee_ko, Kristina (2) and Bernardo Vaz. Next up: Rūmu, Lisbon on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Pedro Goya is a house and techno artist tracked on soundcheck, with 30 sets logg
 
 Kee_ko, Kristina (2), Bernardo Vaz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogoya/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogoya/)*

@@ -1,6 +1,6 @@
 # Foehn & Jerome
 
-Foehn & Jerome is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
+Foehn & Jerome is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
 
 Foehn & Jerome are a house and techno duo based in Austria, tracked on soundcheck, with 48 sets logged across Berlin, Bucharest, Leeds and Lisbon and 5 more. Often billed alongside Felix Hk, Barbara Preisinger and Eli Verveine. Next up: Club der Visionaere, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Foehn & Jerome are a house and techno duo based in Austria, tracked on soundchec
 
 Felix Hk, Barbara Preisinger, Eli Verveine
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foehnjerome/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foehnjerome/)*

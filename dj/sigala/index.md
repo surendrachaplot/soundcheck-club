@@ -1,6 +1,6 @@
 # Sigala
 
-Sigala is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Epic Prague, Prague on Sat, 8 Aug 2026.
+Sigala is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Epic Prague, Prague on Sat, 8 Aug 2026.
 
 Sigala is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Austin, Barcelona, Boston and Ibiza and 4 more. Often billed alongside Alex Mills, JEONGHYEON and George Mensah. Next up: Epic Prague, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sigala is a house and electronica artist based in United Kingdom, tracked on sou
 
 Alex Mills, JEONGHYEON, George Mensah
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sigala/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sigala/)*

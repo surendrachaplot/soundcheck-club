@@ -1,6 +1,6 @@
 # Juan Elvadin
 
-Juan Elvadin is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 22 Aug 2026.
+Juan Elvadin is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 22 Aug 2026.
 
 Juan Elvadin is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 9 sets logged across Buenosaires. Often billed alongside 19:26 and Layla Benitez. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Juan Elvadin is a techno and progressive house artist based in Argentina, tracke
 
 19:26, Layla Benitez
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanelvadin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanelvadin/)*

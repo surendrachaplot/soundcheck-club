@@ -1,6 +1,6 @@
 # Sonan
 
-Sonan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Sonan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Sonan is a house and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Utrecht. Often billed alongside Didier Armeni, DIØN and Eileen (NL). Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sonan is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Didier Armeni, DIØN, Eileen (NL)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonan/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonan/)*

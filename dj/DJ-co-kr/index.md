@@ -1,6 +1,6 @@
 # DJ Co.kr
 
-DJ Co.kr is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Flac, Seoul on Sat, 8 Aug 2026.
+DJ Co.kr is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Flac, Seoul on Sat, 8 Aug 2026.
 
 DJ Co.kr is a club and bass artist tracked on soundcheck, with 166 sets logged across Bangkok, Berlin, Hongkong and Ibiza and 5 more. Often billed alongside bojvck, ANDOW and Ligrye. Next up: Flac, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Co.kr is a club and bass artist tracked on soundcheck, with 166 sets logged a
 
 bojvck, ANDOW, Ligrye
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*

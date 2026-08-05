@@ -1,6 +1,6 @@
 # ceviché
 
-ceviché is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Jade, New York City on Thu, 13 Aug 2026.
+ceviché is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jade, New York City on Thu, 13 Aug 2026.
 
 ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Newyorkcity and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Jade, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ ceviché is a techno and house artist based in United States of America, tracked
 
 SHRAY, Sam Valle, STEEN
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceviche/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceviche/)*

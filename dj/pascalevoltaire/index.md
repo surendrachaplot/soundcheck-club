@@ -1,14 +1,16 @@
 # Pascale Voltaire
 
-Pascale Voltaire is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
+Pascale Voltaire is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
 
-Pascale Voltaire is a techno and progressive house artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Freilichtbühne im Harburger Stadtpark, Hamburg on Sat 8 Aug.
+Pascale Voltaire is a techno and progressive house artist based in Germany, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Freilichtbühne im Harburger Stadtpark, Hamburg on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Freilichtbühne im Harburger Stadtpark | Hamburg |
+| Sat, 8 Aug 2026 | Pracht | Frankfurt |
+| Fri, 21 Aug 2026 | Luzztro | Warsaw |
 | Sat, 29 Aug 2026 | Birgit | Berlin |
 
 ## Recently played
@@ -26,4 +28,4 @@ Pascale Voltaire is a techno and progressive house artist based in Germany, trac
 
 Florian François, Yves Meyer, Vlad Yaki
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalevoltaire/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalevoltaire/)*

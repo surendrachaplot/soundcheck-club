@@ -1,8 +1,8 @@
 # MATRIX3K
 
-MATRIX3K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Jasna 1, Warsaw on Fri, 7 Aug 2026.
+MATRIX3K is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jasna 1, Warsaw on Fri, 7 Aug 2026.
 
-MATRIX3K is a techno and house artist tracked on soundcheck, with 96 sets logged across Barcelona, Berlin, Brussels and Krakow and 7 more. Often billed alongside Buchan, Contakt (PL) and Edvvin. Next up: Jasna 1, Warsaw on Fri 7 Aug.
+MATRIX3K is a techno and house artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Brussels and Krakow and 7 more. Often billed alongside Buchan, Contakt (PL) and Edvvin. Next up: Jasna 1, Warsaw on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MATRIX3K is a techno and house artist tracked on soundcheck, with 96 sets logged
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Jasna 1 | Warsaw |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
+| Sat, 15 Aug 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MATRIX3K is a techno and house artist tracked on soundcheck, with 96 sets logged
 
 Buchan, Contakt (PL), Edvvin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*

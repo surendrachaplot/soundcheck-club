@@ -1,8 +1,8 @@
 # Thomas Von Party
 
-Thomas Von Party is a Acid and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Montreal on Sat, 8 Aug 2026.
+Thomas Von Party is a Acid and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Montreal on Sat, 8 Aug 2026.
 
-Thomas Von Party is an acid and dub artist based in Canada, tracked on soundcheck, with 13 sets logged across Milan and Montreal. Often billed alongside Andie, Audrey Bélanger and Cidoine. Next up: TBA, Montreal on Sat 8 Aug.
+Thomas Von Party is an acid and dub artist based in Canada, tracked on soundcheck, with 13 sets logged across Milan and Montreal. Often billed alongside Dj Sarcastic, Andie and Audrey Bélanger. Next up: TBA, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Thomas Von Party is an acid and dub artist based in Canada, tracked on soundchec
 
 ## Shares bills with
 
-Andie, Audrey Bélanger, Cidoine
+Dj Sarcastic, Andie, Audrey Bélanger
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasvonparty/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasvonparty/)*

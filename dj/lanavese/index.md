@@ -1,6 +1,6 @@
 # Lana Vese
 
-Lana Vese is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mood Ring, New York City on Wed, 12 Aug 2026.
+Lana Vese is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mood Ring, New York City on Wed, 12 Aug 2026.
 
 Lana Vese is a techno and disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Alive Girl, DJ Brandy Melville and AJACENT. Next up: Mood Ring, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Lana Vese is a techno and disco artist based in United States of America, tracke
 
 Alive Girl, DJ Brandy Melville, AJACENT
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanavese/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanavese/)*

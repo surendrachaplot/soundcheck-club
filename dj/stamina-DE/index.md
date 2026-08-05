@@ -1,6 +1,6 @@
 # Stamina (DE)
 
-Stamina (DE) is a Minimal Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Stamina (DE) is a Minimal Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Stamina (DE) is a minimal techno and drum & bass artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Hamburg, Istanbul and London and 2 more. Often billed alongside DJ Regret, IC3 and K Motionz. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Stamina (DE) is a minimal techno and drum & bass artist based in Germany, tracke
 
 DJ Regret, IC3, K Motionz
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*

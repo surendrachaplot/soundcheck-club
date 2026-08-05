@@ -1,6 +1,6 @@
 # Cage (1)
 
-Cage (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at WaterBear Venue, Brighton on Sat, 29 Aug 2026.
+Cage (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at WaterBear Venue, Brighton on Sat, 29 Aug 2026.
 
 Cage (1) is a techno and house artist tracked on soundcheck, with 16 sets logged across Brighton and London. Often billed alongside DSD uk, Jack Jeffrey and POoK. Next up: WaterBear Venue, Brighton on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Cage (1) is a techno and house artist tracked on soundcheck, with 16 sets logged
 
 DSD uk, Jack Jeffrey, POoK
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cage-1/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cage-1/)*

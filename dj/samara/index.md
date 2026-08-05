@@ -1,6 +1,6 @@
 # Samara
 
-Samara is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at The Crown, Bristol on Fri, 7 Aug 2026.
+Samara is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Crown, Bristol on Fri, 7 Aug 2026.
 
 Samara is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Bristol, Manchester and Stockholm. Often billed alongside David Fogarty, DJ TEETH and Etienne Groh. Next up: The Crown, Bristol on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Samara is a techno and acid artist based in United Kingdom, tracked on soundchec
 
 David Fogarty, DJ TEETH, Etienne Groh
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samara/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samara/)*

@@ -1,6 +1,6 @@
 # Slackin Beats
 
-Slackin Beats is a Breakbeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sigurd CPH, Copenhagen on Sat, 22 Aug 2026.
+Slackin Beats is a Breakbeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sigurd CPH, Copenhagen on Sat, 22 Aug 2026.
 
 Slackin Beats is a breakbeat and afro house artist based in Sweden, tracked on soundcheck, with 2 sets logged across Copenhagen and Stockholm. Often billed alongside Prof. Stranger. Next up: Sigurd CPH, Copenhagen on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Slackin Beats is a breakbeat and afro house artist based in Sweden, tracked on s
 
 Prof. Stranger
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slackinbeats/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slackinbeats/)*

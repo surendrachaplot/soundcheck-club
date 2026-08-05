@@ -1,6 +1,6 @@
 # Matrefakt
 
-Matrefakt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Mia Mao, Paris on Sat, 22 Aug 2026.
+Matrefakt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mia Mao, Paris on Sat, 22 Aug 2026.
 
 Matrefakt is a house and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside Camille Doe, Ewan McVicar and Lu.Re. Next up: Mia Mao, Paris on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Matrefakt is a house and techno artist based in United Kingdom, tracked on sound
 
 Camille Doe, Ewan McVicar, Lu.Re
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrefakt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrefakt/)*

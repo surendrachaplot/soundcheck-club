@@ -1,6 +1,6 @@
-# ..:Relics II: at Subspace
+# :Relics II: at Subspace
 
-..:Relics II: at Subspace on Sat 8 Aug, Denver. 3 acts on the bill: Drumcell, Hypoxia and Silent Observer. Techno and Drone. Preview the line-up and save it on soundcheck.
+:Relics II: at Subspace on Sat 8 Aug, Denver. 5 acts on the bill: Atalef, Drumcell, Hypoxia and Konvulsion and 1 more. Techno and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@
 
 ## Line-up
 
+- Atalef
 - Drumcell
 - Hypoxia
+- Konvulsion
 - Silent Observer
 
 *Source: [soundcheck](https://soundcheck.club/e/2487770-relics-ii-at-subspace/)*

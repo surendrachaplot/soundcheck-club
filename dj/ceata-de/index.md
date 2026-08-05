@@ -1,6 +1,6 @@
 # Ceață
 
-Ceață is a Minimal Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Liquidrom, Berlin on Wed, 9 Sept 2026.
+Ceață is a Minimal Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Liquidrom, Berlin on Wed, 9 Sept 2026.
 
 Ceață is a minimal techno and downtempo artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Alienata, Jeffrey (DE) and Maris Shilton. Next up: Liquidrom, Berlin on Wed 9 Sept.
 
@@ -23,4 +23,4 @@ Ceață is a minimal techno and downtempo artist based in Germany, tracked on so
 
 Alienata, Jeffrey (DE), Maris Shilton
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceata-de/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceata-de/)*

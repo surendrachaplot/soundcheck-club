@@ -1,6 +1,6 @@
 # DJ Straight Again
 
-DJ Straight Again is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
+DJ Straight Again is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
 
 DJ Straight Again is a techno and house artist based in Belgium, tracked on soundcheck, with 4 sets logged across Antwerp and Brussels. Often billed alongside Asian Sal, DJ-CK and DJNO. Next up: 09h30-05h30, Antwerp on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ DJ Straight Again is a techno and house artist based in Belgium, tracked on soun
 
 Asian Sal, DJ-CK, DJNO
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightagain/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightagain/)*

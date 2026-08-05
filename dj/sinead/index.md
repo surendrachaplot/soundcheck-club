@@ -1,13 +1,14 @@
 # Sinéad
 
-Sinéad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at public records, New York City on Sun, 20 Sept 2026.
+Sinéad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kiku Room, San Diego on Sat, 15 Aug 2026.
 
-Sinéad is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Berlin, Chicago, Cork and Detroit and 20 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: public records, Newyorkcity on Sun 20 Sept.
+Sinéad is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Berlin, Chicago, Cork and Detroit and 20 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: Kiku Room, Sandiego on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Kiku Room | San Diego |
 | Sun, 20 Sept 2026 | public records | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sinéad is a house and techno artist based in United States of America, tracked 
 
 Shanti Celeste, Louiv, Galen
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*

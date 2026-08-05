@@ -1,8 +1,8 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Quest (IT) is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Quest (IT) is a house and techno artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Quest (IT) is a house and techno artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Quest (IT) is a house and techno artist tracked on soundcheck, with 168 sets log
 | Fri, 11 Sept 2026 | Brooklyn Army Terminal | New York City |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 26 Sept 2026 | Q35 WAREHOUSE | Turin |
+| Sun, 27 Sept 2026 | Ex Base Nato | Naples |
 | Fri, 9 Oct 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 
@@ -33,4 +34,4 @@ Quest (IT) is a house and techno artist tracked on soundcheck, with 168 sets log
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

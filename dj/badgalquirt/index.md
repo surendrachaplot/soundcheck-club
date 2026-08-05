@@ -1,6 +1,6 @@
 # Badgalquirt
 
-Badgalquirt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
+Badgalquirt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
 Badgalquirt is a house and techno artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Badgalquirit, Cirque Cosmic and Colored Music. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Badgalquirt is a house and techno artist based in Canada, tracked on soundcheck,
 
 Badgalquirit, Cirque Cosmic, Colored Music
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badgalquirt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badgalquirt/)*

@@ -1,6 +1,6 @@
 # Bergen
 
-Bergen is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Odonien, Cologne on Fri, 11 Sept 2026.
+Bergen is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Odonien, Cologne on Fri, 11 Sept 2026.
 
 Bergen is a house and progressive house artist based in Iceland, tracked on soundcheck, with 5 sets logged across Cologne. Often billed alongside AMSL, Bryan Kessler and Christian Zah. Next up: Odonien, Cologne on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Bergen is a house and progressive house artist based in Iceland, tracked on soun
 
 AMSL, Bryan Kessler, Christian Zah
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bergen/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bergen/)*

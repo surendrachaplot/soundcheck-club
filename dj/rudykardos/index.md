@@ -1,6 +1,6 @@
 # Rudy Kardos
 
-Rudy Kardos is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Belmont Plateau Cross Country Course, Philadelphia on Sat, 8 Aug 2026.
+Rudy Kardos is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Belmont Plateau Cross Country Course, Philadelphia on Sat, 8 Aug 2026.
 
 Rudy Kardos is a techno and psytrance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Philadelphia. Often billed alongside Fold Theory. Next up: Belmont Plateau Cross Country Course, Philadelphia on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Rudy Kardos is a techno and psytrance artist based in United States of America, 
 
 Fold Theory
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudykardos/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudykardos/)*

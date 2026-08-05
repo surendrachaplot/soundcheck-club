@@ -1,6 +1,6 @@
 # Monalisa Michaelis
 
-Monalisa Michaelis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Sat, 8 Aug 2026.
+Monalisa Michaelis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sensorium, Berlin on Sat, 8 Aug 2026.
 
 Monalisa Michaelis is a techno and tech house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Blck-Swan, Florens and Viktor Kampf. Next up: Sensorium, Berlin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Monalisa Michaelis is a techno and tech house artist based in Germany, tracked o
 
 Blck-Swan, Florens, Viktor Kampf
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monalisamichaelis/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monalisamichaelis/)*

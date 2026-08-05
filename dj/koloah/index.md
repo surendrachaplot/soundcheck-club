@@ -1,6 +1,6 @@
 # Koloah
 
-Koloah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+Koloah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
 Koloah is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Copenhagen and Krakow and 4 more. Often billed alongside Karine, Monoconda and Ponura. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Koloah is a techno and house artist tracked on soundcheck, with 38 sets logged a
 
 Karine, Monoconda, Ponura
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koloah/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koloah/)*

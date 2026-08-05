@@ -1,6 +1,6 @@
 # Tris (UK)
 
-Tris (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+Tris (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 Tris (UK) is a progressive house and deep house artist tracked on soundcheck, with 45 sets logged across Berlin, Birmingham, London and Malta and 1 more. Often billed alongside Nour (UK), GYS (TT) and Naws. Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tris (UK) is a progressive house and deep house artist tracked on soundcheck, wi
 
 Nour (UK), GYS (TT), Naws
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trisuk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trisuk/)*

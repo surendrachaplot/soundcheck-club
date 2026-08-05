@@ -1,6 +1,6 @@
 # RAVEDAD
 
-RAVEDAD is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Honey's at Star Love, Los Angeles on Sat, 8 Aug 2026.
+RAVEDAD is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Honey's at Star Love, Los Angeles on Sat, 8 Aug 2026.
 
 RAVEDAD is an electronica and downtempo artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles. Often billed alongside Colloboh, Juliet Mendoza and Aaron Paar. Next up: Honey's at Star Love, Losangeles on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ RAVEDAD is an electronica and downtempo artist based in United States of America
 
 Colloboh, Juliet Mendoza, Aaron Paar
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravedad/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravedad/)*

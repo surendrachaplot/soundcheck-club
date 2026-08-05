@@ -1,6 +1,6 @@
 # Coda
 
-Coda is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "FRI: The Official Electric Island Afterparty x CODA - August 7th" on Fri, 7 Aug 2026.
+Coda is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FRI: The Official Electric Island Afterparty x CODA - August 7th" on Fri, 7 Aug 2026.
 
 Coda is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Caspa, Colyn, Julian Fijma and Linska and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
@@ -23,4 +23,4 @@ Coda is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with 
 
 794 Bathurst St, Toronto
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

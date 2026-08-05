@@ -1,6 +1,6 @@
 # 7005 with Pink Concrete at The Glove That Fits
 
-7005 with Pink Concrete at The Glove That Fits on Fri 28 Aug, London. 3 acts on the bill: 7005, Ozwick and Pink Concrete. Techno. Preview the line-up and save it on soundcheck.
+7005 with Pink Concrete at The Glove That Fits on Fri 28 Aug, London. 4 acts on the bill: 7005, EMI (11), Ozwick and Pink Concrete. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - 7005
+- EMI (11)
 - Ozwick
 - Pink Concrete
 

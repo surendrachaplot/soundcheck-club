@@ -1,6 +1,6 @@
 # MAGMA Festival | 08. & 09. August 2026 at RSO.BERLIN
 
-MAGMA Festival | 08. & 09. August 2026 at RSO.BERLIN on Sat 8 Aug, Berlin. 36 acts on the bill: Ata Kak, bambinodj, Blawan and Cho Room and 32 more. House and Bass. Preview the line-up and save it on soundcheck.
+MAGMA Festival | 08. & 09. August 2026 at RSO.BERLIN on Sat 8 Aug, Berlin. 37 acts on the bill: Ata Kak, bambinodj, Blawan and Cho Room and 33 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ MAGMA Festival | 08. & 09. August 2026 at RSO.BERLIN on Sat 8 Aug, Berlin. 36 a
 - Doudou MD
 - Erika de Casier
 - Garage Girls
+- Ghostpoet
 - Hekt
 - HiTech
 - JAXX TMS

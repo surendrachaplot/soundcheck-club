@@ -1,6 +1,6 @@
 # CHARBINKS
 
-CHARBINKS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
+CHARBINKS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
 
 CHARBINKS is a house and techno artist based in France, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside Andrew88, Andrea Guadalupi and TYNOMYTE. Next up: Killing Time, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ CHARBINKS is a house and techno artist based in France, tracked on soundcheck, w
 
 Andrew88, Andrea Guadalupi, TYNOMYTE
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*

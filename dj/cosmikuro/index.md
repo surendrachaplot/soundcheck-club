@@ -1,6 +1,6 @@
 # Cosmikuro
 
-Cosmikuro is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at renae, Manchester on Wed, 5 Aug 2026.
+Cosmikuro is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at renae, Manchester on Wed, 5 Aug 2026.
 
 Cosmikuro is a downtempo and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Leeds and Manchester. Often billed alongside Simon Scott, Elliot Holt and John Paynter. Next up: renae, Manchester on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Cosmikuro is a downtempo and techno artist based in United Kingdom, tracked on s
 
 Simon Scott, Elliot Holt, John Paynter
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*

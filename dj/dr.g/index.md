@@ -1,8 +1,8 @@
 # Dr. G
 
-Dr. G is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Dr. G is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
-Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brussels and Ghent and 7 more. Often billed alongside Cleopard2000, EMILIJA and Fenrick. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
+Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Ghent and 7 more. Often billed alongside MOKER, Cleopard2000 and EMILIJA. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 21 Aug 2026 | Südpol | Hamburg |
+| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -25,6 +26,6 @@ Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Cleopard2000, EMILIJA, Fenrick
+MOKER, Cleopard2000, EMILIJA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.g/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.g/)*

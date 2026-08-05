@@ -1,6 +1,6 @@
 # Kings Cross Hotel
 
-Kings Cross Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "OBNOXIOUS x NO BUOYS pres. GIRLS NIGHT IN" on Fri, 21 Aug 2026.
+Kings Cross Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "OBNOXIOUS x NO BUOYS pres. GIRLS NIGHT IN" on Fri, 21 Aug 2026.
 
 Kings Cross Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Audiophile. Browse upcoming dates, start times and who's playing. 244–248 William St, Potts Point NSW 2011, Australia.
 
@@ -16,4 +16,4 @@ Kings Cross Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming ni
 
 244–248 William St, Potts Point NSW 2011, Australia, Sydney
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/kings-cross-hotel/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/kings-cross-hotel/)*

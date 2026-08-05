@@ -1,6 +1,6 @@
 # AZA
 
-AZA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
+AZA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
 
 AZA is a techno and electro artist tracked on soundcheck, with 25 sets logged across Amsterdam, Bali, Berlin and Brussels and 8 more. Often billed alongside Daniel Bell, Huey Mnemonic and BMG. Next up: Cherry Beach, Toronto on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ AZA is a techno and electro artist tracked on soundcheck, with 25 sets logged ac
 
 Daniel Bell, Huey Mnemonic, BMG
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*

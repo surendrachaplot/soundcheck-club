@@ -1,6 +1,6 @@
 # TBA - Select Radio London
 
-TBA - Select Radio London is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Grace Bones presents House of Chic" on Fri, 7 Aug 2026.
+TBA - Select Radio London is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Grace Bones presents House of Chic" on Fri, 7 Aug 2026.
 
 TBA - Select Radio London is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including GraceBones. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Select Radio London is a music venue in Losangeles listed on soundcheck. 1
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Grace Bones presents House of Chic | GraceBones |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-select-radio-london/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-select-radio-london/)*

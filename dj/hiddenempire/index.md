@@ -1,6 +1,6 @@
 # Hidden Empire
 
-Hidden Empire is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
+Hidden Empire is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
 
 Hidden Empire is a techno and tech house artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Basel and Berlin and 24 more. Often billed alongside Oliver Koletzki, Annett Gapstream and HOVR. Next up: Ritter Butzke, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Hidden Empire is a techno and tech house artist based in Germany, tracked on sou
 
 Oliver Koletzki, Annett Gapstream, HOVR
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenempire/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenempire/)*

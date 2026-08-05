@@ -1,6 +1,6 @@
 # Ibiza Jet
 
-Ibiza Jet is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Ibiza PlayAbout Radio Fest:Opening Pool Party at Jet Ibiza" on Mon, 10 Aug 2026.
+Ibiza Jet is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Ibiza PlayAbout Radio Fest:Opening Pool Party at Jet Ibiza" on Mon, 10 Aug 2026.
 
 Ibiza Jet is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, with line-ups including DJ4BLUE, Em i6 and Nelson Reis. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa, s/n, 07817 Eivissa, Illes Balears, Spain.
 
@@ -16,4 +16,4 @@ Ibiza Jet is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, wit
 
 Ctra. de Platja d'en Bossa, s/n, 07817 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ibiza-jet/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ibiza-jet/)*

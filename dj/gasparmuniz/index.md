@@ -1,6 +1,6 @@
 # Gaspar Muniz
 
-Gaspar Muniz is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Lisbon on Fri, 7 Aug 2026.
+Gaspar Muniz is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Lisbon on Fri, 7 Aug 2026.
 
 Gaspar Muniz is a house and balearic artist tracked on soundcheck, with 45 sets logged across Barcelona, Buenosaires, Lisbon and London and 5 more. Often billed alongside Kenia, Discos Baratos and JKriv. Next up: TBA, Lisbon on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Gaspar Muniz is a house and balearic artist tracked on soundcheck, with 45 sets 
 
 Kenia, Discos Baratos, JKriv
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*

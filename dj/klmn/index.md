@@ -1,6 +1,6 @@
 # klmn
 
-klmn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tšungel, Tallinn on Thu, 6 Aug 2026.
+klmn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tšungel, Tallinn on Thu, 6 Aug 2026.
 
 klmn is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, Krakow, Tallinn and Warsaw. Often billed alongside Tanel Mütt, Arto and Pavliuk. Next up: Tšungel, Tallinn on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ klmn is a techno and house artist tracked on soundcheck, with 21 sets logged acr
 
 Tanel Mütt, Arto, Pavliuk
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klmn/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klmn/)*

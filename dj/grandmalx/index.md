@@ -1,6 +1,6 @@
 # Grand Mal x
 
-Grand Mal x is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Socrates, Kyoto on Sat, 8 Aug 2026.
+Grand Mal x is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Socrates, Kyoto on Sat, 8 Aug 2026.
 
 Grand Mal x is an electronic artist based in Sweden, tracked on soundcheck, with 1 set logged across Kyoto. Next up: Socrates, Kyoto on Sat 8 Aug.
 
@@ -10,4 +10,4 @@ Grand Mal x is an electronic artist based in Sweden, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Socrates | Kyoto |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmalx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmalx/)*

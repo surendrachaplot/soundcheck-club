@@ -1,6 +1,6 @@
 # Mafille
 
-Mafille is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Unité.22, Marseille on Fri, 14 Aug 2026.
+Mafille is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Unité.22, Marseille on Fri, 14 Aug 2026.
 
 Mafille is a bass and techno artist based in France, tracked on soundcheck, with 13 sets logged across Istanbul, London, Marseille and Nantes and 1 more. Often billed alongside BabyB, Akira (Buntai) and Anaco. Next up: Unité.22, Marseille on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mafille is a bass and techno artist based in France, tracked on soundcheck, with
 
 BabyB, Akira (Buntai), Anaco
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*

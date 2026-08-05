@@ -1,14 +1,15 @@
 # Pinch
 
-Pinch is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Pinch is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
-Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 13 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: The Prospect Building, Bristol on Sat 8 Aug.
+Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 13 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Prospect Building | Bristol |
+| Fri, 4 Sept 2026 | The Old Blue Last | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundchec
 
 SGT Pokes, Yushh, Beatrice M.
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*

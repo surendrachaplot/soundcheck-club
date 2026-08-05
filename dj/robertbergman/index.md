@@ -1,6 +1,6 @@
 # Robert Bergman
 
-Robert Bergman is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Studio 508, Amsterdam on Sat, 8 Aug 2026.
+Robert Bergman is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Studio 508, Amsterdam on Sat, 8 Aug 2026.
 
 Robert Bergman is a house and acid artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Satoshi Yamamura, I-F and Esther Dune. Next up: Studio 508, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Robert Bergman is a house and acid artist based in Netherlands, tracked on sound
 
 Satoshi Yamamura, I-F, Esther Dune
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*

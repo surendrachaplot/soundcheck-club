@@ -1,6 +1,6 @@
 # Alexander Arpeggio
 
-Alexander Arpeggio is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sameheads, Berlin on Sat, 15 Aug 2026.
+Alexander Arpeggio is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sameheads, Berlin on Sat, 15 Aug 2026.
 
 Alexander Arpeggio is an acid and disco artist based in Germany, tracked on soundcheck, with 35 sets logged across Athens, Bangkok, Berlin and Bucharest and 1 more. Often billed alongside André Pahl, Osterinsel and Alicia Carrera. Next up: Sameheads, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Alexander Arpeggio is an acid and disco artist based in Germany, tracked on soun
 
 André Pahl, Osterinsel, Alicia Carrera
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderarpeggio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderarpeggio/)*

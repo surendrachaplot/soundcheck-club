@@ -1,6 +1,6 @@
 # Phil Bass
 
-Phil Bass is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Bernard Shaw, Dublin on Fri, 14 Aug 2026.
+Phil Bass is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Bernard Shaw, Dublin on Fri, 14 Aug 2026.
 
 Phil Bass is a techno and afro house artist based in Mauritius, tracked on soundcheck, with 69 sets logged across Barcelona and Dublin. Often billed alongside Romanetto, NILAAA and Ascalon. Next up: The Bernard Shaw, Dublin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Phil Bass is a techno and afro house artist based in Mauritius, tracked on sound
 
 Romanetto, NILAAA, Ascalon
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philbass/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philbass/)*

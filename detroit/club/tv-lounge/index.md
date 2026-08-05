@@ -1,8 +1,8 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Stacey Pullen wsg Gene Farris" on Sat, 8 Aug 2026.
+TV Lounge is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Stacey Pullen wsg Gene Farris" on Sat, 8 Aug 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including 888lambchop, Aboudi Issa, Ameera and BeatLoaf and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including 888lambchop, Aboudi Issa, Ameera and angela baskets and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
@@ -16,11 +16,11 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 11 upcoming nights, 
 | Sun, 16 Aug 2026 | Tv Lounge Charivari Detroit Praise Party Detroit Edition | DJ Spen, Terrence Parker |
 | Sun, 16 Aug 2026 | TV Lounge Sunday Charivari Detroit Closing Party | DJ Spen, Kai Alce, LADYMONIX, Zoe Talley |
 | Sat, 22 Aug 2026 | Tinzo + JOJO • DETROIT | Dantiez, Jojo Lorenzo, Tinzo |
+| Sat, 5 Sept 2026 | Jamie 3:26 drops in on Detroit | Eddie Logix, Jamie 3:26, angela baskets, dej.y |
 | Sun, 6 Sept 2026 | Detroit Love Labor Day Weekend: Carl Craig b2b Matthew Dear | Carl Craig, ERNO (US), Matthew Dear |
-| Fri, 25 Sept 2026 | Hector Romero does TV | Bruce Bailey, Hector Romero, sillygirlcarmen |
 
 ## Address
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

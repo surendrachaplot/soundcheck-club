@@ -1,14 +1,15 @@
 # Warlord®
 
-Warlord® is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bar131, Berlin on Thu, 6 Aug 2026.
+Warlord® is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bar131, Berlin on Thu, 6 Aug 2026.
 
-Warlord® is a club and r&b artist tracked on soundcheck, with 14 sets logged across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], 1000bodies and exmantera. Next up: Bar131, Berlin on Thu 6 Aug.
+Warlord® is a club and r&b artist tracked on soundcheck, with 15 sets logged across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], 1000bodies and Anthracene. Next up: Bar131, Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Bar131 | Berlin |
+| Fri, 7 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Warlord® is a club and r&b artist tracked on soundcheck, with 14 sets logged ac
 
 ## Shares bills with
 
-bod [包家巷], 1000bodies, exmantera
+bod [包家巷], 1000bodies, Anthracene
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*

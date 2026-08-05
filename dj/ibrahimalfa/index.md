@@ -1,14 +1,15 @@
 # Ibrahim Alfa
 
-Ibrahim Alfa is a Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Ormside Projects, London on Thu, 27 Aug 2026.
+Ibrahim Alfa is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ormside Projects, London on Thu, 27 Aug 2026.
 
-Ibrahim Alfa is an experimental artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Frankfurt and London. Often billed alongside Bienoise, John-Robin Bold and Koga. Next up: Ormside Projects, London on Thu 27 Aug.
+Ibrahim Alfa is a house and experimental artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bristol, Frankfurt and London. Often billed alongside Bienoise, Daisy Moon and Galcher Lustwerk. Next up: Ormside Projects, London on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Ormside Projects | London |
+| Fri, 11 Sept 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Ibrahim Alfa is an experimental artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Bienoise, John-Robin Bold, Koga
+Bienoise, Daisy Moon, Galcher Lustwerk
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibrahimalfa/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibrahimalfa/)*

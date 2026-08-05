@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+RUZE is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
 RUZE is a house and tech house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Dennis Quin. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
@@ -32,4 +32,4 @@ RUZE is a house and tech house artist tracked on soundcheck, with 113 sets logge
 
 Prunk, Kellie Allen, Dennis Quin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

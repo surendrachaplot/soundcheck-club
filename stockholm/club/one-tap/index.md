@@ -1,6 +1,6 @@
 # One Tap
 
-One Tap is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "Break the Record: One Tap Summer Day Party" on Sat, 8 Aug 2026.
+One Tap is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Break the Record: One Tap Summer Day Party" on Sat, 8 Aug 2026.
 
 One Tap is a music venue in Stockholm listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ One Tap is a music venue in Stockholm listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Break the Record: One Tap Summer Day Party |  |
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/one-tap/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/one-tap/)*

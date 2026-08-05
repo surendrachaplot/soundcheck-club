@@ -1,6 +1,6 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
+Shubostar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
 
 Shubostar is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Mano Le Tough, Roman Flügel and WhoMadeWho. Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Shubostar is a house and techno artist tracked on soundcheck, with 104 sets logg
 
 Mano Le Tough, Roman Flügel, WhoMadeWho
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

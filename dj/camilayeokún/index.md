@@ -1,6 +1,6 @@
 # Cami Layé Okún
 
-Cami Layé Okún is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Fox and Firkin, London on Sun, 30 Aug 2026.
+Cami Layé Okún is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Fox and Firkin, London on Sun, 30 Aug 2026.
 
 Cami Layé Okún is a disco and funk / soul artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Bristol and Brussels and 19 more. Often billed alongside Coco Maria, Hagop Tchaparian and Job Jobse. Next up: The Fox and Firkin, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Cami Layé Okún is a disco and funk / soul artist tracked on soundcheck, with 4
 
 Coco Maria, Hagop Tchaparian, Job Jobse
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilayeokún/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilayeokún/)*

@@ -1,6 +1,6 @@
 # Fabrizio Sala
 
-Fabrizio Sala is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Forte Antenne, Rome on Fri, 7 Aug 2026.
+Fabrizio Sala is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Forte Antenne, Rome on Fri, 7 Aug 2026.
 
 Fabrizio Sala is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, London, Milan and Naples and 2 more. Often billed alongside Zerø, DANAE and AGNES (IT). Next up: Forte Antenne, Rome on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Fabrizio Sala is a house and techno artist tracked on soundcheck, with 98 sets l
 
 Zerø, DANAE, AGNES (IT)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosala/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosala/)*

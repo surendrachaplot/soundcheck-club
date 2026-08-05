@@ -1,6 +1,6 @@
 # Kuzio
 
-Kuzio is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Tigullio, Malta on Thu, 6 Aug 2026.
+Kuzio is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tigullio, Malta on Thu, 6 Aug 2026.
 
 Kuzio is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Frankfurt and Malta. Often billed alongside Zeyvers, DJ BenGalo and Amphetamax. Next up: Tigullio, Malta on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ Kuzio is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Zeyvers, DJ BenGalo, Amphetamax
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzio/)*

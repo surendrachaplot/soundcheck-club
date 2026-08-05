@@ -1,6 +1,6 @@
 # Overpressure at Audio
 
-Overpressure at Audio on Mon 24 Aug, Glasgow. 4 acts on the bill: Noise Hz, providence144, Tekhole and zumtru. Experimental and Jungle. Preview the line-up and save it on soundcheck.
+Overpressure at Audio on Mon 24 Aug, Glasgow. 5 acts on the bill: Jos.heat, Noise Hz, providence144 and Tekhole and 1 more. Experimental and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Overpressure at Audio on Mon 24 Aug, Glasgow. 4 acts on the bill: Noise Hz, prov
 
 ## Line-up
 
+- Jos.heat
 - Noise Hz
 - providence144
 - Tekhole

@@ -1,6 +1,6 @@
 # Deluxe Ultra
 
-Deluxe Ultra is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Upstairs at the 700, Philadelphia on Sat, 22 Aug 2026.
+Deluxe Ultra is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Upstairs at the 700, Philadelphia on Sat, 22 Aug 2026.
 
 Deluxe Ultra is a house and pop artist based in United States of America, tracked on soundcheck, with 19 sets logged across Philadelphia. Often billed alongside hopifer, Firestone and lorboo. Next up: Upstairs at the 700, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Deluxe Ultra is a house and pop artist based in United States of America, tracke
 
 hopifer, Firestone, lorboo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deluxeultra/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deluxeultra/)*

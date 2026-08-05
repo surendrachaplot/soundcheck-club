@@ -1,8 +1,8 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
+Carl Craig is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
+Carl Craig is a house and techno artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 263 sets log
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Flash | Washington DC |
+| Sat, 15 Aug 2026 | Under the K Bridge | New York City |
 | Sat, 22 Aug 2026 | Gewölbe | Cologne |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | TV Lounge | Detroit |
@@ -19,7 +20,6 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 263 sets log
 | Fri, 18 Sept 2026 | FOLD | London |
 | Thu, 24 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
-| Sat, 10 Oct 2026 | Mondo | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 263 sets log
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

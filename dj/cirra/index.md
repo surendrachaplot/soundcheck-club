@@ -1,6 +1,6 @@
 # cirra
 
-cirra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
+cirra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Débris, Tokyo on Fri, 7 Aug 2026.
 
 cirra is a house and techno artist based in Australia, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside DJ Flexure, Joe O and Tommy House. Next up: Débris, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ cirra is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 DJ Flexure, Joe O, Tommy House
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirra/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirra/)*

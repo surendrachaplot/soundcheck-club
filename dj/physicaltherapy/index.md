@@ -1,14 +1,14 @@
 # Physical Therapy
 
-Physical Therapy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Los Angeles on Sat, 15 Aug 2026.
+Physical Therapy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
 
-Physical Therapy is a techno and house artist based in United States of America, tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Boston and Brussels and 24 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: TBA, Losangeles on Sat 15 Aug.
+Physical Therapy is a techno and house artist based in United States of America, tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Boston and Brussels and 24 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: TBA - Downtown LA, Losangeles on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | TBA | Los Angeles |
+| Sat, 15 Aug 2026 | TBA - Downtown LA | Los Angeles |
 | Sat, 22 Aug 2026 | public records | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ Physical Therapy is a techno and house artist based in United States of America,
 
 Michael Magnan, Fatherhood, Lauren Flax
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*

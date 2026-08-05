@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Public Amusement with Pierre B" on Fri, 7 Aug 2026.
+Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Public Amusement with Pierre B" on Fri, 7 Aug 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
@@ -12,14 +12,15 @@ Paloma is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with 
 | Sat, 8 Aug 2026 | Operate UKG pres. PRESTi | Ben Mono, Dub Isotope, PRESTi, TMSN |
 | Fri, 14 Aug 2026 | LNS invites Curly Waters | LNS |
 | Sat, 15 Aug 2026 | Pacotek | Idit Frenkel, Soussana |
+| Fri, 21 Aug 2026 | Midnight Flower | DJ Pipe, Felix Kropf |
 | Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
+| Fri, 28 Aug 2026 | HVY ROTATION with DJoy AND Tiago Walter | DJoy, Klix (DE), Tiago Walter |
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
 | Sat, 26 Sept 2026 | Power Disco - The 9th Anniversary Edition | Conor L, Filippo Moscatello, Finn Johannsen |
-| Sun, 27 Sept 2026 | Gentle Reminder | Bézier |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

@@ -1,6 +1,6 @@
 # Sex on Drugs
 
-Sex on Drugs is a Hardcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Toronto, Toronto on Sat, 15 Aug 2026.
+Sex on Drugs is a Hardcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Toronto, Toronto on Sat, 15 Aug 2026.
 
 Sex on Drugs is a hardcore and electronica artist based in Canada, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside 25ohms, Audi Étoffe and DOR FIGA. Next up: TBA - Toronto, Toronto on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Sex on Drugs is a hardcore and electronica artist based in Canada, tracked on so
 
 25ohms, Audi Étoffe, DOR FIGA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexondrugs/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexondrugs/)*

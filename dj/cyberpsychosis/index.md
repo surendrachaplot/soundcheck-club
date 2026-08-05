@@ -1,13 +1,14 @@
 # Cyberpsychosis
 
-Cyberpsychosis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Sensorium, Berlin on Fri, 28 Aug 2026.
+Cyberpsychosis is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OST, Berlin on Thu, 27 Aug 2026.
 
-Cyberpsychosis is a techno and industrial artist based in Georgia, tracked on soundcheck, with 5 sets logged across Berlin and Tbilisi. Often billed alongside H.LØAD, vngdr and Baas. Next up: Sensorium, Berlin on Fri 28 Aug.
+Cyberpsychosis is a techno and industrial artist based in Georgia, tracked on soundcheck, with 6 sets logged across Berlin and Tbilisi. Often billed alongside H.LØAD, vngdr and Baas. Next up: OST, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | OST | Berlin |
 | Fri, 28 Aug 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -21,4 +22,4 @@ Cyberpsychosis is a techno and industrial artist based in Georgia, tracked on so
 
 H.LØAD, vngdr, Baas
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberpsychosis/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberpsychosis/)*

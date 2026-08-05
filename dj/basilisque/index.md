@@ -1,6 +1,6 @@
 # Basilisque
 
-Basilisque is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+Basilisque is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 Basilisque is a gabber and techno artist based in Spain, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Baptist (UK), DJ Steuerhinterziehung and Dagobird. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ Basilisque is a gabber and techno artist based in Spain, tracked on soundcheck, 
 
 Baptist (UK), DJ Steuerhinterziehung, Dagobird
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basilisque/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basilisque/)*

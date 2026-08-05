@@ -1,6 +1,6 @@
 # Jozef K
 
-Jozef K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at HÖR Berlin, Berlin on Thu, 6 Aug 2026.
+Jozef K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at HÖR Berlin, Berlin on Thu, 6 Aug 2026.
 
 Jozef K is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Bangkok, Berlin, Hongkong and Liverpool. Often billed alongside Will A, Stelios Vassiloudis and Chamapoo. Next up: HÖR Berlin, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Jozef K is a house and techno artist based in United Kingdom, tracked on soundch
 
 Will A, Stelios Vassiloudis, Chamapoo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefk/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefk/)*

@@ -1,6 +1,6 @@
 # Kaos Berlin
 
-Kaos Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "[OPEN AIR] Club Nature x KAOS - HOUSE-SOULFUL-DEEP CUTS" on Sun, 9 Aug 2026.
+Kaos Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "[OPEN AIR] Club Nature x KAOS - HOUSE-SOULFUL-DEEP CUTS" on Sun, 9 Aug 2026.
 
 Kaos Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Alben, Balthazar Martinez, Dysentrieb and elliephunk and 2 more. Browse upcoming dates, start times and who's playing. Wilhelminenhofstraße 92, 12459 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Kaos Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 Wilhelminenhofstraße 92, 12459 Berlin, Germany, Berlin
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kaos-berlin/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kaos-berlin/)*

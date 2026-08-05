@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 5 Aug 2026.
+Franc Fala is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Franc Fala is a house and tech house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Basel and Brussels and 8 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Chinois Ibiza, Ibiza on Wed 5 Aug.
 
@@ -28,4 +28,4 @@ Franc Fala is a house and tech house artist tracked on soundcheck, with 33 sets 
 
 Benja, Benja (NL), Cincity
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

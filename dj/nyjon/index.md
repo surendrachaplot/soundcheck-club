@@ -1,6 +1,6 @@
 # Nyjon
 
-Nyjon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at TBA - Underground Rave -> Location only via Telegram , Berlin on Sat, 8 Aug 2026.
+Nyjon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Underground Rave -> Location only via Telegram , Berlin on Sat, 8 Aug 2026.
 
 Nyjon is a techno and trance artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Amo (IT), GM1 (IT) and 3LEEZA. Next up: TBA - Underground Rave -> Location only via Telegram , Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Nyjon is a techno and trance artist tracked on soundcheck, with 5 sets logged ac
 
 Amo (IT), GM1 (IT), 3LEEZA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyjon/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyjon/)*

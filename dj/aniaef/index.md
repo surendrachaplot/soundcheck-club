@@ -1,6 +1,6 @@
 # Aniaef
 
-Aniaef is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+Aniaef is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
 Aniaef is a techno and electro artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Ylia (UK), GIZZI and H Grade. Next up: Gaffe, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Aniaef is a techno and electro artist tracked on soundcheck, with 13 sets logged
 
 Ylia (UK), GIZZI, H Grade
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*

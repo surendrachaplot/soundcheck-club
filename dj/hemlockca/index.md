@@ -1,6 +1,6 @@
 # Hemlock (CA)
 
-Hemlock (CA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The Jama, Toronto on Fri, 14 Aug 2026.
+Hemlock (CA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Jama, Toronto on Fri, 14 Aug 2026.
 
 Hemlock (CA) is a house and techno artist based in Canada, tracked on soundcheck, with 16 sets logged across Toronto. Often billed alongside Chumbo, Siren (4) and Utopos. Next up: The Jama, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Hemlock (CA) is a house and techno artist based in Canada, tracked on soundcheck
 
 Chumbo, Siren (4), Utopos
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlockca/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlockca/)*

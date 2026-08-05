@@ -1,8 +1,8 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+A.N.I. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
-A.N.I. is a techno and trance artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Waschhaus, Berlin on Fri 7 Aug.
+A.N.I. is a techno and trance artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ A.N.I. is a techno and trance artist tracked on soundcheck, with 180 sets logged
 | Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
+| Fri, 11 Sept 2026 | Mia Mao | Paris |
 | Fri, 16 Oct 2026 | OST | Berlin |
 
 ## Recently played
@@ -29,4 +30,4 @@ A.N.I. is a techno and trance artist tracked on soundcheck, with 180 sets logged
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

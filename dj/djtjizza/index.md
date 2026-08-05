@@ -1,6 +1,6 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Boomerang Beach, The Hague on Sat, 8 Aug 2026.
+DJ Tjizza is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Boomerang Beach, The Hague on Sat, 8 Aug 2026.
 
 DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Boomerang Beach, Thehague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck,
 
 Helly, SHAQUE, Velasco
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*

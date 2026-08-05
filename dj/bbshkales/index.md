@@ -1,6 +1,6 @@
 # BBSHKALES
 
-BBSHKALES is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+BBSHKALES is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 BBSHKALES is a club and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside XT1ANA, Jean Blaire and Spin Am. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ BBSHKALES is a club and ghetto tech artist based in United Kingdom, tracked on s
 
 XT1ANA, Jean Blaire, Spin Am
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbshkales/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbshkales/)*

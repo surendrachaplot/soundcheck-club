@@ -1,6 +1,6 @@
-# WOE is us - Festival Day Party at Leith Social Club
+# WOE IS US - FESTIVAL DAY PARTY at Leith Social Club
 
-WOE is us - Festival Day Party at Leith Social Club on Sat 29 Aug, Edinburgh. 2 acts on the bill: DJ LG and WOE is us. House and Electronica. Preview the line-up and save it on soundcheck.
+WOE IS US - FESTIVAL DAY PARTY at Leith Social Club on Sat 29 Aug, Edinburgh. 2 acts on the bill: DJ LG and WOE is us. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

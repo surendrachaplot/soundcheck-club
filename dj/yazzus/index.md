@@ -1,14 +1,15 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
-Yazzus is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
+Yazzus is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Nowadays | New York City |
+| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 26 Sept 2026 | Low Profile Studios | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Yazzus is a techno and house artist tracked on soundcheck, with 163 sets logged 
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

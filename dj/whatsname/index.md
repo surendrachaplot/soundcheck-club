@@ -1,8 +1,8 @@
 # Whatsname
 
-Whatsname is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Dalston Den, London on Fri, 7 Aug 2026.
+Whatsname is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dalston Den, London on Fri, 7 Aug 2026.
 
-Whatsname is a drum & bass and jungle artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Bryn Brax, zoneSL and Agility. Next up: Dalston Den, London on Fri 7 Aug.
+Whatsname is a jungle and drum & bass artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Bryn Brax, zoneSL and Agility. Next up: Dalston Den, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Whatsname is a drum & bass and jungle artist tracked on soundcheck, with 13 sets
 
 Bryn Brax, zoneSL, Agility
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsname/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsname/)*

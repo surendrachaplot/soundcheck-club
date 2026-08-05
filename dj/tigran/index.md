@@ -1,6 +1,6 @@
 # Tigran
 
-Tigran is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Tigran is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Tigran is a house and minimal artist based in Nigeria, tracked on soundcheck, with 2 sets logged across Berlin and Budapest. Often billed alongside Amir Alexander, Anahita Sadighi and Bruno Schmidt. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Tigran is a house and minimal artist based in Nigeria, tracked on soundcheck, wi
 
 Amir Alexander, Anahita Sadighi, Bruno Schmidt
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigran/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigran/)*

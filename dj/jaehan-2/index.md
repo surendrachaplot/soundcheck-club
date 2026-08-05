@@ -1,14 +1,15 @@
 # JAEHAN (2)
 
-JAEHAN (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Nyapi, Seoul on Fri, 7 Aug 2026.
+JAEHAN (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nyapi, Seoul on Fri, 7 Aug 2026.
 
-JAEHAN (2) is a house and techno artist based in South Korea, tracked on soundcheck, with 51 sets logged across Seoul and Tokyo. Often billed alongside Shinyoung, Youknowsong and SEOD. Next up: Nyapi, Seoul on Fri 7 Aug.
+JAEHAN (2) is a house and techno artist based in South Korea, tracked on soundcheck, with 52 sets logged across Seoul and Tokyo. Often billed alongside Shinyoung, SEOD and Youknowsong. Next up: Nyapi, Seoul on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Nyapi | Seoul |
+| Sat, 8 Aug 2026 | Modeci | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ JAEHAN (2) is a house and techno artist based in South Korea, tracked on soundch
 
 ## Shares bills with
 
-Shinyoung, Youknowsong, SEOD
+Shinyoung, SEOD, Youknowsong
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehan-2/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehan-2/)*

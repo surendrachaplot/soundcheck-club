@@ -1,6 +1,6 @@
 # Arrow !!!
 
-Arrow !!! is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Lost Art Shop, Liverpool on Sat, 8 Aug 2026.
+Arrow !!! is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lost Art Shop, Liverpool on Sat, 8 Aug 2026.
 
 Arrow !!! is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Liverpool. Often billed alongside Bloodlust. Next up: Lost Art Shop, Liverpool on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Arrow !!! is a techno and industrial artist based in United Kingdom, tracked on 
 
 Bloodlust
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrow/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrow/)*

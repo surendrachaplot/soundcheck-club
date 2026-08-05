@@ -1,14 +1,14 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Filly Brook, London on Sat, 15 Aug 2026.
+Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Filly Brook, London on Sun, 16 Aug 2026.
 
-Max Sinàl is a deep house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: Filly Brook, London on Sat 15 Aug.
+Max Sinàl is a deep house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: Filly Brook, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Filly Brook | London |
+| Sun, 16 Aug 2026 | Filly Brook | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 4 Sept 2026 | KOKO | London |
 
@@ -27,4 +27,4 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 29 sets 
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

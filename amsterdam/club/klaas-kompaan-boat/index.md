@@ -1,6 +1,6 @@
 # Klaas Kompaan (Boat)
 
-Klaas Kompaan (Boat) is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "CLUB.RECORD x Shelter Boat Series" on Sat, 15 Aug 2026.
+Klaas Kompaan (Boat) is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "CLUB.RECORD x Shelter Boat Series" on Sat, 15 Aug 2026.
 
 Klaas Kompaan (Boat) is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Berkan V8, Elias Mazian and Tsepo. Browse upcoming dates, start times and who's playing. Bert Haanstrakade, 10511087 HM Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Klaas Kompaan (Boat) is a music venue in Amsterdam listed on soundcheck. 1 upcom
 
 Bert Haanstrakade, 10511087 HM Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/klaas-kompaan-boat/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/klaas-kompaan-boat/)*

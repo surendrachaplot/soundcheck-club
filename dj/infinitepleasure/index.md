@@ -1,13 +1,14 @@
 # Infinite Pleasure
 
-Infinite Pleasure is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+Infinite Pleasure is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Infinite Pleasure is a house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Ibiza, Paris and Rotterdam. Often billed alongside Steven Pieters, Ben Diggins and LIMA (NL). Next up: export, Rotterdam on Sat 29 Aug.
+Infinite Pleasure is a house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Ibiza, Paris and Rotterdam. Often billed alongside Steven Pieters, Matan Klevan and Ben Diggins. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | export | Rotterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Infinite Pleasure is a house artist based in Netherlands, tracked on soundcheck,
 
 ## Shares bills with
 
-Steven Pieters, Ben Diggins, LIMA (NL)
+Steven Pieters, Matan Klevan, Ben Diggins
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitepleasure/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitepleasure/)*

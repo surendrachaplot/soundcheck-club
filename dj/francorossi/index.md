@@ -1,13 +1,14 @@
 # Franco Rossi
 
-Franco Rossi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
+Franco Rossi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Eventhuset, Stockholm on Sat, 22 Aug 2026.
 
-Franco Rossi is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: The White Hotel, Manchester on Thu 1 Oct.
+Franco Rossi is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: Eventhuset, Stockholm on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Eventhuset | Stockholm |
 | Thu, 1 Oct 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Franco Rossi is a techno and house artist tracked on soundcheck, with 53 sets lo
 
 JXXXO, ANDRØMEDA, Ana Alves
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*

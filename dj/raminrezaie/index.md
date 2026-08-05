@@ -1,6 +1,6 @@
 # Ramin Rezaie
 
-Ramin Rezaie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
+Ramin Rezaie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
 
 Ramin Rezaie is a tech house and house artist tracked on soundcheck, with 12 sets logged across Brighton, Ibiza, Liverpool and London and 3 more. Often billed alongside Alexis Raphael, BRADII and Huxley. Next up: Eden, Ibiza on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Ramin Rezaie is a tech house and house artist tracked on soundcheck, with 12 set
 
 Alexis Raphael, BRADII, Huxley
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raminrezaie/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raminrezaie/)*

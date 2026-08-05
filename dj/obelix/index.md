@@ -1,13 +1,14 @@
 # Obelix
 
-Obelix is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Obelix is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OHM, Berlin on Sat, 22 Aug 2026.
 
-Obelix is a house and techno artist based in Australia, tracked on soundcheck, with 11 sets logged across Berlin, Bucharest, London and Manchester. Often billed alongside DJ Life, No Plastic and 0megavybe. Next up: Renate, Berlin on Fri 11 Sept.
+Obelix is a house and techno artist based in Australia, tracked on soundcheck, with 12 sets logged across Berlin, Bucharest, London and Manchester. Often billed alongside DJ Life, No Plastic and 0megavybe. Next up: OHM, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | OHM | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Obelix is a house and techno artist based in Australia, tracked on soundcheck, w
 
 DJ Life, No Plastic, 0megavybe
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obelix/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obelix/)*

@@ -1,6 +1,6 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+sim0ne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 sim0ne is a techno and house artist tracked on soundcheck, with 104 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 36 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -27,4 +27,4 @@ sim0ne is a techno and house artist tracked on soundcheck, with 104 sets logged 
 
 Juicy Romance, DJ Heartstring, MALUGI
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

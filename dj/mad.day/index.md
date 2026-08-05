@@ -1,6 +1,6 @@
 # MAD.DAY
 
-MAD.DAY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+MAD.DAY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 MAD.DAY is a techno and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Hobart and Sydney. Often billed alongside Loosie Grind, 8KAYS and AMMARA. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ MAD.DAY is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Loosie Grind, 8KAYS, AMMARA
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.day/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.day/)*

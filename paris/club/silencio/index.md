@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Janeret / WOH" on Thu, 6 Aug 2026.
+Silencio is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Janeret / WOH" on Thu, 6 Aug 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Ali RQ, Antal, The Avalanches and Janeret and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -22,4 +22,4 @@ Silencio is a music venue in Paris listed on soundcheck. 9 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

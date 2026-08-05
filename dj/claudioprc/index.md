@@ -1,13 +1,14 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
+Claudio PRC is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
-Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Luigi Tozzi, Isabel Soto and Adriana Lopez. Next up: Club der Visionaere, Berlin on Wed 12 Aug.
+Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 12 Aug 2026 | Club der Visionaere | Berlin |
 | Sun, 30 Aug 2026 | De Fik Garden | Amsterdam |
 | Fri, 4 Sept 2026 | Trädgården | Stockholm |
@@ -29,6 +30,6 @@ Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, 
 
 ## Shares bills with
 
-Luigi Tozzi, Isabel Soto, Adriana Lopez
+Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

@@ -1,14 +1,15 @@
 # Jaxx
 
-Jaxx is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
+Jaxx is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
 
-Jaxx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Chicago, Mexicocity and Sydney. Often billed alongside Ariel Zetina, Miss Twink USA and Ana Armada. Next up: TBA, Sydney on Sat 22 Aug.
+Jaxx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Chicago, Mexicocity and Sydney. Often billed alongside Ariel Zetina, Miss Twink USA and Ana Armada. Next up: TBA, Sydney on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA | Sydney |
+| Fri, 28 Aug 2026 | Podlasie Club | Chicago |
 | Sat, 29 Aug 2026 | smartbar | Chicago |
 
 ## Recently played
@@ -24,4 +25,4 @@ Jaxx is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Ariel Zetina, Miss Twink USA, Ana Armada
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*

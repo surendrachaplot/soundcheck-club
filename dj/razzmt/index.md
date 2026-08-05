@@ -1,6 +1,6 @@
 # Razz (MT)
 
-Razz (MT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Razz (MT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Razz (MT) is a techno and house artist based in Malta, tracked on soundcheck, with 4 sets logged across Malta. Often billed alongside Kyle Cortis, AP (5) and Echofaze. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -20,4 +20,4 @@ Razz (MT) is a techno and house artist based in Malta, tracked on soundcheck, wi
 
 Kyle Cortis, AP (5), Echofaze
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmt/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmt/)*

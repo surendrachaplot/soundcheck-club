@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Noizer x Gare pres. Amulador + The Ripped" on Thu, 6 Aug 2026.
+Les Enfants Brillants is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Noizer x Gare pres. Amulador + The Ripped" on Thu, 6 Aug 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including Mariiin, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

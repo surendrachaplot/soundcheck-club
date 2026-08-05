@@ -1,8 +1,8 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "RITUALS" on Sun, 9 Aug 2026.
+Algha's Plantroom is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RITUALS" on Sun, 9 Aug 2026.
 
-Algha's Plantroom is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 1000raks, Amphia, ANTIPODES and Authentically Plastic and 2 more. Browse upcoming dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
+Algha's Plantroom is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 1000raks, Fastlove, Aiden Francis and Amphia and 2 more. Browse upcoming dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 7 upcoming ni
 | Sun, 16 Aug 2026 | Rat Party | C.FRIM, Daskaran, Iyesha, Kontronatura, NSFW (3), Nina Pixina, RRUDEGIRLLL, RayRay, Roxanne (2), dr. Mazza, softchaos |
 | Sat, 29 Aug 2026 | B Sides Yourself | Ella Fayden, Matt Pond, Maxibon (2) |
 | Sat, 12 Sept 2026 | Fragment  | ANTIPODES, CITYTRONIX, Gia Genesis, Nina Pixina, Noah Tauber, SBBS, TAHA ONE, Varanasi, WVRM POOL, dj people's princess, nohexcode |
-| Sat, 19 Sept 2026 | SERVE: DAY EDITION |  |
+| Sat, 19 Sept 2026 | SERVE: DAY EDITION | Aiden Francis, Billy Jack (UK), Fastlove, HOLY C, J. Aria, Michelle Manetti, S_STEELE |
 | Sat, 10 Oct 2026 | Egø Deåth // Day Rave in Hackney |  |
 
 ## Address
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

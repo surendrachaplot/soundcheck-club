@@ -1,6 +1,6 @@
 # ACID HARRY
 
-ACID HARRY is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Bermondsey Social Club, London on Sat, 15 Aug 2026.
+ACID HARRY is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bermondsey Social Club, London on Sat, 15 Aug 2026.
 
 ACID HARRY is a tech house and house artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Dj Cash Only. Next up: Bermondsey Social Club, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ACID HARRY is a tech house and house artist tracked on soundcheck, with 23 sets 
 
 Thomas Galbardi, Dhez, Dj Cash Only
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidharry/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidharry/)*

@@ -1,8 +1,8 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
+Kim April is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
 
-Kim April is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Job de Jong, M-High and ELVI (SE). Next up: XOYO, London on Sat 15 Aug.
+Kim April is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Job de Jong, M-High and ELVI (SE). Next up: XOYO, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kim April is a house and tech house artist tracked on soundcheck, with 81 sets l
 | Sat, 15 Aug 2026 | XOYO | London |
 | Fri, 21 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Egg London | London |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
@@ -30,4 +31,4 @@ Kim April is a house and tech house artist tracked on soundcheck, with 81 sets l
 
 Job de Jong, M-High, ELVI (SE)
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

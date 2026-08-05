@@ -1,6 +1,6 @@
 # Evan Guerra
 
-Evan Guerra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Neon Grotto, Austin on Thu, 6 Aug 2026.
+Evan Guerra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Neon Grotto, Austin on Thu, 6 Aug 2026.
 
 Evan Guerra is a house and tech house artist tracked on soundcheck, with 11 sets logged across Austin. Often billed alongside Daniel Allen, Thurman Jackson and Yaros. Next up: Neon Grotto, Austin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Evan Guerra is a house and tech house artist tracked on soundcheck, with 11 sets
 
 Daniel Allen, Thurman Jackson, Yaros
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanguerra/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evanguerra/)*

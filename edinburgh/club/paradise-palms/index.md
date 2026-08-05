@@ -1,17 +1,21 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Tue, 4 Aug 2026; the next is "EPiKA DJ Workshop - Sara Delirio - Absolute Beginners (Femme)" on Tue, 4 Aug 2026.
+Paradise Palms is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Cakie Biscuits" on Fri, 7 Aug 2026.
 
-Paradise Palms is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Sara Delirio. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
+Paradise Palms is a music venue in Edinburgh listed on soundcheck. 5 upcoming nights, with line-ups including aminabonthebeat, Cakiebiscuits and Ravelston. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | EPiKA DJ Workshop - Sara Delirio - Absolute Beginners (Femme) | Sara Delirio |
+| Fri, 7 Aug 2026 | Cakie Biscuits | Cakiebiscuits |
+| Sat, 8 Aug 2026 | Ravelston | Ravelston |
+| Tue, 11 Aug 2026 | My Mum Told Me Not To Marry An Atheist | aminabonthebeat |
+| Tue, 18 Aug 2026 | My Mum Told Me Not To Marry An Atheist | aminabonthebeat |
+| Tue, 25 Aug 2026 | My Mum Told Me Not To Marry An Atheist | aminabonthebeat |
 
 ## Address
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

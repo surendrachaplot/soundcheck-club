@@ -1,14 +1,15 @@
 # HOAX
 
-HOAX is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+HOAX is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
-HOAX is a drum & bass and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Brighton and Bristol and 8 more. Often billed alongside Whiney, Fred V and Degs. Next up: Chinastraat, Ghent on Sat 8 Aug.
+HOAX is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Whiney, Fred V and Degs. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Chinastraat | Ghent |
+| Sat, 3 Oct 2026 | Watsons EQ | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HOAX is a drum & bass and techno artist tracked on soundcheck, with 21 sets logg
 
 Whiney, Fred V, Degs
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

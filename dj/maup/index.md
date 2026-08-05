@@ -1,6 +1,6 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Tue, 4 Aug 2026, next at Pacha Ibiza, Ibiza on Wed, 5 Aug 2026.
+Mau P is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pacha Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: Pacha Ibiza, Ibiza on Wed 5 Aug.
 
@@ -36,4 +36,4 @@ Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logg
 
 Joseph Capriati, Dom Dolla, Tini Gessler
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

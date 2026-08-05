@@ -1,14 +1,15 @@
 # Carmen (5)
 
-Carmen (5) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Virage, Paris on Wed, 5 Aug 2026.
+Carmen (5) is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Virage, Paris on Wed, 5 Aug 2026.
 
-Carmen (5) is a techno and tech house artist based in Portugal, tracked on soundcheck, with 12 sets logged across Lisbon, Paris, Porto and Vancouver. Often billed alongside AïDA, BABY-B and Backbone. Next up: Virage, Paris on Wed 5 Aug.
+Carmen (5) is a techno and minimal techno artist based in Portugal, tracked on soundcheck, with 13 sets logged across Lisbon, Paris, Porto and Vancouver. Often billed alongside AïDA, BABY-B and Backbone. Next up: Virage, Paris on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Virage | Paris |
+| Fri, 7 Aug 2026 | TBA - Pangea | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Carmen (5) is a techno and tech house artist based in Portugal, tracked on sound
 
 AïDA, BABY-B, Backbone
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-5/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-5/)*

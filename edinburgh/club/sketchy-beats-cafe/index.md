@@ -1,6 +1,6 @@
 # Sketchy Beats Cafe
 
-Sketchy Beats Cafe is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Mui Mui x Reduced Service" on Sat, 8 Aug 2026.
+Sketchy Beats Cafe is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Mui Mui x Reduced Service" on Sat, 8 Aug 2026.
 
 Sketchy Beats Cafe is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including DifrentMorals, E. Alexander, Reduced Service and TODD. Browse upcoming dates, start times and who's playing. 208 Great Junction Street, Edinburgh, EH6 5LW, Scotland.
 
@@ -17,4 +17,4 @@ Sketchy Beats Cafe is a music venue in Edinburgh listed on soundcheck. 4 upcomin
 
 208 Great Junction Street, Edinburgh, EH6 5LW, Scotland, Edinburgh
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sketchy-beats-cafe/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sketchy-beats-cafe/)*

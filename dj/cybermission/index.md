@@ -1,6 +1,6 @@
 # CYBERMISSION
 
-CYBERMISSION is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Giri, Berlin on Fri, 21 Aug 2026.
+CYBERMISSION is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Giri, Berlin on Fri, 21 Aug 2026.
 
 CYBERMISSION is an experimental and ambient artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Glasgow and Newyorkcity. Often billed alongside Xenia Reaper, Conna Haraway and ex wiish. Next up: Giri, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CYBERMISSION is an experimental and ambient artist based in Germany, tracked on 
 
 Xenia Reaper, Conna Haraway, ex wiish
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cybermission/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cybermission/)*

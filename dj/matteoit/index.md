@@ -1,6 +1,6 @@
 # Matteo (IT)
 
-Matteo (IT) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 4 Aug 2026, next at Paname Sur Seine, Paris on Sun, 9 Aug 2026.
+Matteo (IT) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paname Sur Seine, Paris on Sun, 9 Aug 2026.
 
 Matteo (IT) is a tech house and house artist tracked on soundcheck, with 3 sets logged across Cologne and Paris. Often billed alongside Catsinka, David San and Fabio Broox & Violahaiti. Next up: Paname Sur Seine, Paris on Sun 9 Aug.
 
@@ -19,4 +19,4 @@ Matteo (IT) is a tech house and house artist tracked on soundcheck, with 3 sets 
 
 Catsinka, David San, Fabio Broox & Violahaiti
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoit/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoit/)*

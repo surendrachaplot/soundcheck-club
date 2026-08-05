@@ -1,6 +1,6 @@
 # The Liquid Room Warehouse
 
-The Liquid Room Warehouse is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Fringe Opening Party - Sara Delirio (EPiKA 5th Birthday)" on Fri, 7 Aug 2026.
+The Liquid Room Warehouse is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Fringe Opening Party - Sara Delirio (EPiKA 5th Birthday)" on Fri, 7 Aug 2026.
 
 The Liquid Room Warehouse is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including Iona.Violet, ona:v and Sara Delirio. Browse upcoming dates, start times and who's playing. 9c Victoria Street, EH1 2HE.
 
@@ -15,4 +15,4 @@ The Liquid Room Warehouse is a music venue in Edinburgh listed on soundcheck. 2 
 
 9c Victoria Street, EH1 2HE, Edinburgh
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room-warehouse/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room-warehouse/)*

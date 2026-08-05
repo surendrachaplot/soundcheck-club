@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 14 upcoming nights listed on soundcheck as of Tue, 4 Aug 2026; the next is "Frædag: Eden Burns + G-HA & Olanskii + Øyvind Morken + Strangefruit" on Fri, 7 Aug 2026.
+Jaeger is a music venue in Oslo with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Frædag: Eden Burns + G-HA & Olanskii + Øyvind Morken + Strangefruit" on Fri, 7 Aug 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 16 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
@@ -14,7 +14,7 @@ Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming nights, with l
 | Thu, 13 Aug 2026 | Øyanatt x Helt Texas Dublon + Laurence Guy | Dublon, Laurence Guy |
 | Fri, 14 Aug 2026 | Øyanatt x Frædag: Optimo (Espacio) + Ogazón | G-HA, Ogazón, Olanskii, Optimo (Espacio), Takt |
 | Sat, 15 Aug 2026 | Øyanatt x Syunkissed: Alexander Skancke | Alexander Skancke, G-HA, Olanskii, Vinny Villbass |
-| Fri, 21 Aug 2026 | Frædag x Basement: Simon Field Release party | Finnebassen, G-HA, Olanskii, Simon Field, blichfeldt |
+| Fri, 21 Aug 2026 | Frædag x Basement: Simon Field + Finnebassen + blichfeldt + G-HA & Olanskii | Finnebassen, G-HA, Olanskii, Simon Field, blichfeldt |
 | Sat, 22 Aug 2026 | Futoria |  |
 | Fri, 28 Aug 2026 | Frædag: Gerd Janson | G-HA, Gerd Janson, Olanskii, Øyvind Morken |
 | Sat, 29 Aug 2026 | Lyd: Olle Abstract |  |
@@ -23,4 +23,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming nights, with l
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Tue, 4 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
