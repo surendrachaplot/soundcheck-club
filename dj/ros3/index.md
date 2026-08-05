@@ -1,14 +1,14 @@
 # ROS3
 
-ROS3 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Faust, Seoul on Sat, 8 Aug 2026.
+ROS3 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Faust, Seoul on Sat, 15 Aug 2026.
 
-ROS3 is a techno and trance artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside Kim Bo Yeon, NOVA ANIMUS and Stann Lumo. Next up: Faust, Seoul on Sat 8 Aug.
+ROS3 is a techno and trance artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside Kim Bo Yeon, NOVA ANIMUS and Stann Lumo. Next up: Faust, Seoul on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Faust | Seoul |
+| Sat, 15 Aug 2026 | Faust | Seoul |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # THROTTLE: ¥ØU$UK€ ¥UK1MAT$U at 1015 Folsom
 
-THROTTLE: ¥ØU$UK€ ¥UK1MAT$U at 1015 Folsom on Thu 6 Aug, Sanfrancisco. 1 act on the bill: ¥ØU$UK€ ¥UK1MAT$U. Techno. Preview the line-up and save it on soundcheck.
+THROTTLE: ¥ØU$UK€ ¥UK1MAT$U at 1015 Folsom on Thu 6 Aug, Sanfrancisco. 6 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, DJ Dials, Ecto and Miss Crafty and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,10 @@ THROTTLE: ¥ØU$UK€ ¥UK1MAT$U at 1015 Folsom on Thu 6 Aug, Sanfrancisco. 1 ac
 ## Line-up
 
 - ¥ØU$UK€ ¥UK1MAT$U
+- DJ Dials
+- Ecto
+- Miss Crafty
+- Papa Xanny
+- Tastemaker
 
 *Source: [soundcheck](https://soundcheck.club/e/2476373-throttle-u-uk-uk1mat-u-at-1015-folsom/)*

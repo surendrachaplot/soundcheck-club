@@ -1,6 +1,6 @@
-# ALIEN SEX FRIENDS エイリアン・セックス・フレンズ at Mitsuki
+# ALIEN SEX FRIENDS at Mitsuki
 
-ALIEN SEX FRIENDS エイリアン・セックス・フレンズ at Mitsuki on Fri 14 Aug, Tokyo. 3 acts on the bill: Michelle, P-YAN and RYOKEI. House and Electro. Preview the line-up and save it on soundcheck.
+ALIEN SEX FRIENDS at Mitsuki on Fri 14 Aug, Tokyo. 3 acts on the bill: Michelle, P-YAN and RYOKEI. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

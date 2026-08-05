@@ -1,8 +1,8 @@
 # Virage
 
-Virage is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "More Girls Behind Decks x Le Virage du Mercredi: Bitter Babe, Maco Maria, Mayou Picchu" on Wed, 5 Aug 2026.
+Virage is a music venue in Paris with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "More Girls Behind Decks x Le Virage du Mercredi: Bitter Babe, Maco Maria, Mayou Picchu" on Wed, 5 Aug 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Arkhan and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 20 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Arkhan and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 

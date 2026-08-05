@@ -1,6 +1,6 @@
 # TRINITY pt. IV w/ Lukas Meunier & David Strasser at ÆDEN
 
-TRINITY pt. IV w/ Lukas Meunier & David Strasser at ÆDEN on Sat 8 Aug, Berlin. 11 acts on the bill: BENDOM, David Strasser, FRËIHERR and kutscher and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRINITY pt. IV w/ Lukas Meunier & David Strasser at ÆDEN on Sat 8 Aug, Berlin. 12 acts on the bill: BENDOM, David Strasser, FRËIHERR and Gunilla and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ TRINITY pt. IV w/ Lukas Meunier & David Strasser at ÆDEN on Sat 8 Aug, Berlin. 
 - BENDOM
 - David Strasser
 - FRËIHERR
+- Gunilla
 - kutscher
 - loumo
 - Lukas Meunier

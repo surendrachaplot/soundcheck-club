@@ -2,13 +2,13 @@
 
 Thuishaven is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "08 AUG - Thuishaven with Eelke Kleijn 10HRS" on Sat, 8 Aug 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Kepler, AAT (NL), AJ Christou and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Kepler, AAT (NL), AJ Christou and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | 08 AUG - Thuishaven with Eelke Kleijn 10HRS | Eelke Kleijn |
+| Sat, 8 Aug 2026 | 08 AUG - Thuishaven with Eelke Kleijn 10HRS | Eelke Kleijn, Norman Weber, Siavash |
 | Sun, 9 Aug 2026 | 09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion | Bella Claxton, Club Angel, FUKHED, Faster Horses, Gabriel Muñoz, Jolani Jhones, Luis Ripa, Milion, Ned Bennett, Renceau |
 | Sat, 15 Aug 2026 | 15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT | Aurelius, Benny Rodrigues, Eileen (NL), Frits Wentink, Kevin Lo, St. David, Vuur |
 | Sun, 16 Aug 2026 | 16 AUG - Thuishaven with Gaskin 5HRS | Ben Horton, Ellam, Ellia Jaya, Gaskin, George Smeddles, Lewis Taylor, Stef Davidse, Wildish |

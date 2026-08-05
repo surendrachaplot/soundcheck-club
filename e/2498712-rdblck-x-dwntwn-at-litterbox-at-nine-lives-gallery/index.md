@@ -1,6 +1,6 @@
 # RDBLCK x DWNTWN at Litterbox at Nine Lives Gallery
 
-RDBLCK x DWNTWN at Litterbox at Nine Lives Gallery on Fri 14 Aug, Rotterdam. 5 acts on the bill: CHALÉ, Jan Koster, LE KACANG and ROMSY and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+RDBLCK x DWNTWN at Litterbox at Nine Lives Gallery on Fri 14 Aug, Rotterdam. 6 acts on the bill: CHALÉ, Itz3bby, Jan Koster and LE KACANG and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ RDBLCK x DWNTWN at Litterbox at Nine Lives Gallery on Fri 14 Aug, Rotterdam. 5 a
 ## Line-up
 
 - CHALÉ
+- Itz3bby
 - Jan Koster
 - LE KACANG
 - ROMSY

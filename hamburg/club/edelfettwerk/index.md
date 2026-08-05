@@ -9,7 +9,7 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | HOOM Invites OPEN AIR - All Day Long | DJ Cringey, HATHOR, HOOM, SAIKA, Staszko, Sylvie Miles |
-| Sat, 15 Aug 2026 | 4 My People | Annie, CAIVA, CALLUSH, Cera Khin, FJUSHA, Katy Rough, Mila Black, TOXIMAMI, Temazcal (2), VIVI909 |
+| Sat, 15 Aug 2026 | 4 My People Open Air & After Hour  | Annie, CAIVA, CALLUSH, Cera Khin, FJUSHA, Katy Rough, Mila Black, TOXIMAMI, Temazcal (2), VIVI909 |
 | Sun, 23 Aug 2026 | VER pres. Paraçek INVITES I Open Air | Carotin, DJ SKIPLIST, ELOISA, Paraçek |
 | Sun, 30 Aug 2026 | WAVES OPEN AIR HAMBURG with NOVAH | HOOM, MARIEEEA, NOTMYTYPE (2), NOVAH, ROW1 |
 | Fri, 16 Oct 2026 | VERKNIPT Germany - Hamburg - October 16 & 17 | Charlie, IGDA, KLOUD, KX CHR, SAIKA, SANTØS |

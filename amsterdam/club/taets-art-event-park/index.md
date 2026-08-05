@@ -9,7 +9,7 @@ Taets Art & Event Park is a music venue in Amsterdam listed on soundcheck. 2 upc
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | No Art ADE Festival 2026 |  |
-| Sun, 25 Oct 2026 | SONA presents: GOLFOS [ADE] | Dennis Cruz, PAWSA |
+| Sun, 25 Oct 2026 | GOLFOS [ADE] | Dennis Cruz, PAWSA |
 
 ## Address
 

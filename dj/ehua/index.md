@@ -1,14 +1,15 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Ehua is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
-Ehua is a techno and bass artist tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Barcelona and Basel and 31 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The Cause, London on Sat 22 Aug.
+Ehua is a techno and bass artist tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Barcelona and Basel and 31 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The Cause, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
+| Fri, 11 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
 

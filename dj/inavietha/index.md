@@ -2,7 +2,7 @@
 
 Ina Vietha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
-Ina Vietha is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Oslo. Often billed alongside Femur, INVERNO and Inga Sama. Next up: Kater, Berlin on Fri 28 Aug.
+Ina Vietha is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Oslo. Often billed alongside Inga Sama, Femur and INVERNO. Next up: Kater, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ina Vietha is a techno and house artist tracked on soundcheck, with 20 sets logg
 
 ## Shares bills with
 
-Femur, INVERNO, Inga Sama
+Inga Sama, Femur, INVERNO
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inavietha/)*

@@ -1,8 +1,8 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "HIDDEN BEHIND x TIME Vol. 20" on Thu, 6 Aug 2026.
+Time is the new space is a music venue in Rotterdam with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "HIDDEN BEHIND x TIME Vol. 20" on Thu, 6 Aug 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upcoming nights, with line-ups including Ambu Bambu, Borokov Borokov, Conduct Disorder and georg-i. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 6 upcoming nights, with line-ups including Ambu Bambu, Borokov Borokov, Conduct Disorder and georg-i and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upco
 | Sat, 8 Aug 2026 | TIME'S TATTOO SPACE |  |
 | Fri, 14 Aug 2026 | TIME ANNIVERSARY – EURODANCE SPECIAL |  |
 | Sat, 15 Aug 2026 | PAUZE | Ambu Bambu, Conduct Disorder, georg-i |
+| Sat, 29 Aug 2026 | Het Vreemd (Album Release) | Ofra, Palmbomen II |
 
 ## Address
 

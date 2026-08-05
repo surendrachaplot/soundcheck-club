@@ -1,8 +1,8 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "VAMPA SUMMONS: N00M1 - Liquid Club MALTA" on Fri, 7 Aug 2026.
+Liquid Club is a music venue in Malta with 21 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "VAMPA SUMMONS: N00M1 - Liquid Club MALTA" on Fri, 7 Aug 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, with line-ups including A.Paul, Abdy, Billy Hills and Chopper and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, with line-ups including A.Paul, Abdy, Ashibane and Billy Hills and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, 
 | Sat, 22 Aug 2026 | Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE @ Liquid Club (2 Stage) | Abdy, Nekro, Philip Ackowsky, Soofnic, Vinka Wydro |
 | Fri, 28 Aug 2026 | Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE  | Chopper, Dari Dark, Ertug Karakas, Marixia |
 | Sat, 29 Aug 2026 | #thatechno On Tour Malta Edition | A.Paul, Dkult, Kevin Call, OBLX |
-| Fri, 4 Sept 2026 | 77CELLAR: TBA |  |
+| Fri, 4 Sept 2026 | 77CELLAR: Ashibane, Molario, Uma Scheffer, P RISCO | Ashibane, Molario, P RISCO, Uma Scheffer |
 
 ## Address
 

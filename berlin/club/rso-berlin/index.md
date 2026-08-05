@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AADJA and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AADJA and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -13,7 +13,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming nights, 
 | Sat, 8 Aug 2026 | MAGMA BY NIGHT with Blawan, Pearson Sound, JAX TMS, Garage Girls | Blawan, DJ Pipe, Garage Girls, Hekt, JAXX TMS, Luca Eck, Pearson Sound, Surusinghe, Tracey, yungfya |
 | Thu, 13 Aug 2026 | RSO: WALL2WALL CLUB FESTIVAL 2026 | Agonis, BLANKA, Belaria, Blame Anthony, Byetone, Carmen Electro, DJ Fuckoff, Dangermami, Daria Kolosova, Disguised, ENNIO, Ellen Allien, Elli Acula, Emily Jeanne, Erol Alkan, Etapp Kyle, Faerber, Franz Scala, Frederic., Garçon, Glaskin, Grace Dahl, HAMY, Jennifer Loveless, Jesse G, Josey Rebelle, Kim She, Laure Croft, MATRIX3K, Mathys Lenne, Meat, Monolake, N.R.M, NORA (BR), OLHA, Paty Vapor, Perfo, Polygonia, Red Rooms, Sept, Setaoc Mass, Space Drum Meditation, Spekki Webu, Thabo, Thalo Santana, Xiorro, Yanamaste, Young Draco, hawi, machìna, slin, stranger (NL), ÜBERKIKZ |
 | Fri, 21 Aug 2026 | SEMANTICA w/ Svreca, Mary Yuzovskaya, CONCEPTUAL, Ruman live | CONCEPTUAL, Mary Yuzovskaya, Ruman, Svreca |
-| Sat, 22 Aug 2026 | La Mala Noche | Ananda (BR), Bella Sarris, Berenice, Byron Yeates, Cari Lekebusch, D.Dan, DJ TOOL, Hyperaktivist, JASSS, Jen Cardini, Kikelomo, Meilgaarden, OMOLOKO, Rosati, S-candalo, Yazzus, ābnamā |
+| Sat, 22 Aug 2026 | La Mala Noche | Ananda (BR), Bella Sarris, Berenice, Byron Yeates, Cari Lekebusch, D.Dan, DJ TOOL, Disk Cartel, Hyperaktivist, JASSS, Jen Cardini, Kikelomo, Meilgaarden, OMOLOKO, Rosati, S-candalo, THC, Yazzus, ābnamā |
 | Sun, 23 Aug 2026 | Jauchomatic - Open Air (since 1995) By The People For The People (Baergarten) | DJ Jauche |
 | Sun, 23 Aug 2026 | JAUCHOMATIC - Open Air - By the People for the People (since 1995) / Baergarten | DJ Jauche |
 | Sat, 29 Aug 2026 | XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia | Akua, Alarico, Decka, Henning Baer, Kameliia, Laia, Nadia Struiwigh, ORBE, Olivia Mendez, Psyk, Roll Dann, Sandrien, Shadow Hrym (ES) |

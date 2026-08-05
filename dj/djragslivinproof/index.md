@@ -1,13 +1,14 @@
 # Raji Rags
 
-Raji Rags is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Raji Rags is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at E1, London on Sat, 8 Aug 2026.
 
-Raji Rags is a bass and club artist tracked on soundcheck, with 46 sets logged across Barcelona, Dublin, Edinburgh and Kyoto and 3 more. Often billed alongside Rohan Rakhit, Mera Bhai and Raidaa. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
+Raji Rags is a bass and club artist tracked on soundcheck, with 47 sets logged across Barcelona, Dublin, Edinburgh and Kyoto and 3 more. Often billed alongside Rohan Rakhit, Mera Bhai and Raidaa. Next up: E1, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | E1 | London |
 | Sat, 29 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 12 Sept 2026 | The Cause | London |
 

@@ -1,14 +1,15 @@
 # Corpino
 
-Corpino is a Disco and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Klunkerkranich, Berlin on Thu, 27 Aug 2026.
+Corpino is a Afro Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Klunkerkranich, Berlin on Thu, 27 Aug 2026.
 
-Corpino is a disco and afro house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside CIOZ, Mira and 7heads. Next up: Klunkerkranich, Berlin on Thu 27 Aug.
+Corpino is an afro tech and club artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside CIOZ, 7heads and Bonfante. Next up: Klunkerkranich, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Klunkerkranich | Berlin |
+| Sun, 20 Sept 2026 | gART.n | Berlin |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Corpino is a disco and afro house artist tracked on soundcheck, with 5 sets logg
 
 ## Shares bills with
 
-CIOZ, Mira, 7heads
+CIOZ, 7heads, Bonfante
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corpino/)*

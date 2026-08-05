@@ -1,14 +1,15 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
+Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
 
-Dasha Rush is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Razzmatazz, Barcelona on Sat 15 Aug.
+Dasha Rush is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Razzmatazz, Barcelona on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Razzmatazz | Barcelona |
+| Fri, 11 Sept 2026 | RSO.BERLIN | Berlin |
 | Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Sat, 3 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |

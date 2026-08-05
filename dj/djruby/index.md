@@ -1,8 +1,8 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parník Tyrš, Prague on Fri, 21 Aug 2026.
+DJ Ruby is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parník Tyrš, Prague on Fri, 21 Aug 2026.
 
-DJ Ruby is a progressive house and deep house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Parník Tyrš, Prague on Fri 21 Aug.
+DJ Ruby is a progressive house and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Parník Tyrš, Prague on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Ruby is a progressive house and deep house artist tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Parník Tyrš | Prague |
 | Sat, 12 Sept 2026 | TBA - Warehouse | Toronto |
+| Sat, 3 Oct 2026 | Hideout | Malta |
 | Wed, 21 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Thu, 22 Oct 2026 | Bears Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |

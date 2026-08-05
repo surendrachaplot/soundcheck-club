@@ -1,8 +1,8 @@
 # THC
 
-THC is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+THC is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
-THC is a house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: Paradiso, Amsterdam on Sat 8 Aug.
+THC is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ THC is a house and techno artist tracked on soundcheck, with 198 sets logged acr
 | Sat, 8 Aug 2026 | Paradiso | Amsterdam |
 | Sat, 8 Aug 2026 | Hito Scheveningen | The Hague |
 | Fri, 14 Aug 2026 | Trädgården | Stockholm |
+| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Alok
 
-Alok is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 5 Aug 2026.
+Alok is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 5 Aug 2026.
 
-Alok is a house and electronica artist tracked on soundcheck, with 36 sets logged across Bali, Barcelona, Boston and Budapest and 16 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Pomboklap. Next up: Ushuaïa Ibiza, Ibiza on Wed 5 Aug.
+Alok is a house and electronica artist tracked on soundcheck, with 37 sets logged across Bali, Barcelona, Boston and Budapest and 16 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Pomboklap. Next up: Ushuaïa Ibiza, Ibiza on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alok is a house and electronica artist tracked on soundcheck, with 36 sets logge
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Wed, 5 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Sun, 9 Aug 2026 | Cavo Paradiso | Mykonos |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 
 ## Recently played

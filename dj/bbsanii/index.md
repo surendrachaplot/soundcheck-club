@@ -1,13 +1,14 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Angel Music Bar, Melbourne on Sat, 29 Aug 2026.
+bbsanii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Section 8, Melbourne on Thu, 13 Aug 2026.
 
-bbsanii is a techno and house artist tracked on soundcheck, with 25 sets logged across Melbourne. Often billed alongside Tina Disco, JUPiTA and Black Dave. Next up: Angel Music Bar, Melbourne on Sat 29 Aug.
+bbsanii is a techno and house artist tracked on soundcheck, with 26 sets logged across Melbourne. Often billed alongside Tina Disco, JUPiTA and Black Dave. Next up: Section 8, Melbourne on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Section 8 | Melbourne |
 | Sat, 29 Aug 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played

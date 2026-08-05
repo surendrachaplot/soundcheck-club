@@ -2,13 +2,13 @@
 
 The Garrison is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Babymorocco LIVE + Harmony Tividad & HVN" on Sat, 15 Aug 2026.
 
-The Garrison is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1197 Dundas St W, Toronto, ON M6J 1X3.
+The Garrison is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including HVN (1). Browse upcoming dates, start times and who's playing. 1197 Dundas St W, Toronto, ON M6J 1X3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Babymorocco LIVE + Harmony Tividad & HVN |  |
+| Sat, 15 Aug 2026 | Babymorocco LIVE + Harmony Tividad & HVN | HVN (1) |
 
 ## Address
 

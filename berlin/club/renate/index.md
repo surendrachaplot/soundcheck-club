@@ -1,8 +1,8 @@
 # Renate
 
-Renate is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Renate x Neer x Kollektiv Lost-In" on Thu, 6 Aug 2026.
+Renate is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Renate x Neer x Kollektiv Lost-In" on Thu, 6 Aug 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including ābnamā, Aceedo, Adis Is OK and Alison Swing and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including ābnamā, Aceedo, Adam Cooke and Adis Is OK and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
@@ -16,7 +16,7 @@ Renate is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with
 | Thu, 20 Aug 2026 | Renate x Queer Vinyl Night (Klubnacht + Free Open Air) | Jimmie, Kidcat, SALAS, zikade |
 | Sat, 22 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal | Amy Kisnorbo, Bakläxa, DJ SKIN, Eversines, Frank Heise, Mademoisel, Marie K (1), O.M.Theorem, Philipp Drube, Pieter Jansen, RDS, Uta, mgt (DE) |
 | Thu, 27 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) x Remoto Records |  |
-| Fri, 28 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer |  |
+| Fri, 28 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Handmade & Nina Queer | AGILY, ESVEAE, Handmade, Kingsizebed, Samuel Fish, Samwise (US), Shira Kela |
 | Sat, 29 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄCK | Amy Dabbs, Franz Scala, Gabriel Muñoz, HEDDA, Hanaby, Linnea Mae, Sanaz, anna andersrum, lil ja |
 
 ## Address

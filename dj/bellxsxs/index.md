@@ -1,13 +1,14 @@
 # bellxsxs
 
-bellxsxs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Glamorama, Melbourne on Sat, 29 Aug 2026.
+bellxsxs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 9 Aug 2026.
 
-bellxsxs is a house and techno artist based in Australia, tracked on soundcheck, with 43 sets logged across Melbourne. Often billed alongside Boogs, Ben Silver and Flynn Bulman. Next up: Glamorama, Melbourne on Sat 29 Aug.
+bellxsxs is a house and techno artist based in Australia, tracked on soundcheck, with 44 sets logged across Melbourne. Often billed alongside Boogs, Ben Silver and Flynn Bulman. Next up: Revolver Upstairs, Melbourne on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Revolver Upstairs | Melbourne |
 | Sat, 29 Aug 2026 | Glamorama | Melbourne |
 
 ## Recently played

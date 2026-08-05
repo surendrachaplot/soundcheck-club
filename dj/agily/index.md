@@ -1,13 +1,14 @@
 # AGILY
 
-AGILY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at gART.n, Berlin on Sat, 29 Aug 2026.
+AGILY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
 
-AGILY is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Leipzig and Mexicocity and 1 more. Often billed alongside Rosa Kante, tamarawrx3 and Bamela Paywatch. Next up: gART.n, Berlin on Sat 29 Aug.
+AGILY is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Leipzig and Mexicocity and 1 more. Often billed alongside Rosa Kante, tamarawrx3 and Bamela Paywatch. Next up: Renate, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Renate | Berlin |
 | Sat, 29 Aug 2026 | gART.n | Berlin |
 
 ## Recently played

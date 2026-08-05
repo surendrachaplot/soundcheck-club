@@ -14,7 +14,7 @@ Last Arch is a music venue in London listed on soundcheck. 11 upcoming nights, w
 | Sat, 15 Aug 2026 | Archie Holmes x Arts of the Unknown | Archie Holmes, Arts of the Unknown, Fredd Mann, Joe Tonic, Stresshead |
 | Sun, 16 Aug 2026 | Flurt. x Leftback | Josh Smith, Last Pines, Mortalyf, Oscar Jones, PiNG (UK) |
 | Fri, 21 Aug 2026 | EMBER: Fiyahdred All Night Long | Fiyahdred |
-| Fri, 4 Sept 2026 | Last Arch invites |  |
+| Fri, 4 Sept 2026 | Last Arch invites: Dan Andrei and XDB | Dan Andrei, Eksish, Josh Keit, Oldfield, XDB |
 | Sat, 5 Sept 2026 | take1 presents: TRANCE1 |  |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
 | Fri, 2 Oct 2026 | REEK0 (All Night Long) |  |

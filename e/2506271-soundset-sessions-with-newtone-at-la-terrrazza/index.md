@@ -1,0 +1,15 @@
+# Soundset Sessions with NewTone at La Terrrazza
+
+Soundset Sessions with NewTone at La Terrrazza on Thu 1 Oct, Barcelona. 1 act on the bill: NewTone. Trance and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 1 Oct 2026 |
+| Venue | La Terrrazza |
+| City | Barcelona |
+
+## Line-up
+
+- NewTone
+
+*Source: [soundcheck](https://soundcheck.club/e/2506271-soundset-sessions-with-newtone-at-la-terrrazza/)*

@@ -1,8 +1,8 @@
 # Roxy
 
-Roxy is a music venue in Prague with 17 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RAVE & GEAR - The biggest LGBTQ+ & gear party" on Fri, 7 Aug 2026.
+Roxy is a music venue in Prague with 18 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RAVE & GEAR - The biggest LGBTQ+ & gear party" on Fri, 7 Aug 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 17 upcoming nights, with line-ups including 1991 (UK), Adrian Mills, Andy C and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 18 upcoming nights, with line-ups including 1991 (UK), Adrian Mills, Andy C and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 

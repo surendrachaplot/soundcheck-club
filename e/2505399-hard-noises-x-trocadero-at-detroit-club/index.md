@@ -1,6 +1,6 @@
 # Hard noises x Trocadero at DETROIT CLUB
 
-Hard noises x Trocadero at DETROIT CLUB on Sun 27 Sept, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+Hard noises x Trocadero at DETROIT CLUB on Sun 27 Sept, Barcelona. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

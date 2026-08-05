@@ -1,14 +1,15 @@
 # Farouki
 
-Farouki is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Story Toronto, Toronto on Sat, 8 Aug 2026.
+Farouki is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Story Toronto, Toronto on Sat, 8 Aug 2026.
 
-Farouki is a tech house and house artist based in Canada, tracked on soundcheck, with 33 sets logged across Bali, Miami, Montreal and Toronto. Often billed alongside Theta State, Antonio Fornieles and MC Flipside. Next up: Story Toronto, Toronto on Sat 8 Aug.
+Farouki is a tech house and house artist based in Canada, tracked on soundcheck, with 34 sets logged across Bali, Miami, Montreal and Toronto. Often billed alongside Theta State, Antonio Fornieles and MC Flipside. Next up: Story Toronto, Toronto on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Story Toronto | Toronto |
+| Sat, 22 Aug 2026 | Crate Concept | Bali |
 
 ## Recently played
 

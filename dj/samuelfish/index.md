@@ -1,14 +1,15 @@
 # Samuel Fish
 
-Samuel Fish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
+Samuel Fish is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
 
-Samuel Fish is a techno and house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Detroit and Mexicocity and 4 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: TBA - Bushwick Rooftop (11237), Newyorkcity on Sun 16 Aug.
+Samuel Fish is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Detroit and Mexicocity and 4 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: TBA - Bushwick Rooftop (11237), Newyorkcity on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | TBA - Bushwick Rooftop (11237) | New York City |
+| Fri, 28 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 

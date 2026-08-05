@@ -14,7 +14,7 @@ Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 | Sat, 15 Aug 2026 | Pacotek | Idit Frenkel, Soussana |
 | Fri, 21 Aug 2026 | Midnight Flower | DJ Pipe, Felix Kropf |
 | Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
-| Fri, 28 Aug 2026 | HVY ROTATION with DJoy AND Tiago Walter | DJoy, Klix (DE), Tiago Walter |
+| Fri, 28 Aug 2026 | HVY ROTATION with DJoy and Tiago Walter | DJoy, Klix (DE), Tiago Walter |
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
 | Sat, 26 Sept 2026 | Power Disco - The 9th Anniversary Edition | Conor L, Filippo Moscatello, Finn Johannsen |

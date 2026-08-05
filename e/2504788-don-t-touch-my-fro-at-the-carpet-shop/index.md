@@ -1,6 +1,6 @@
-# Don't Touch My Fro at The Carpet Shop
+# Don't Touch My Fro! at The Carpet Shop
 
-Don't Touch My Fro at The Carpet Shop on Fri 18 Sept, London. House and Disco. Preview the line-up and save it on soundcheck.
+Don't Touch My Fro! at The Carpet Shop on Fri 18 Sept, London. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

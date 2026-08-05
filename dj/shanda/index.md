@@ -1,8 +1,8 @@
 # Shanda
 
-Shanda is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Shanda is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-Shanda is a techno and house artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Dusseldorf and Hamburg and 8 more. Often billed alongside AngeliKa, Taste of Blue and .JKM. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+Shanda is a techno and house artist tracked on soundcheck, with 84 sets logged across Barcelona, Berlin, Dusseldorf and Hamburg and 8 more. Often billed alongside AngeliKa, Taste of Blue and .JKM. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shanda is a techno and house artist tracked on soundcheck, with 83 sets logged a
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Sat, 29 Aug 2026 | Karmen Camina | Strasbourg |
 | Mon, 31 Aug 2026 | Tresor / Globus | Berlin |
+| Sat, 5 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 

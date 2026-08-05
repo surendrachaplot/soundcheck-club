@@ -1,13 +1,14 @@
 # Mark N
 
-Mark N is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
+Mark N is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Miscellania, Melbourne on Sat, 22 Aug 2026.
 
-Mark N is a breakbeat and jungle artist tracked on soundcheck, with 3 sets logged across Melbourne and Sydney. Often billed alongside Kato, AHJU and ESS O ESS. Next up: TBA - Inner West Location, Sydney on Sat 29 Aug.
+Mark N is a breakbeat and jungle artist tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside Kato, AHJU and DJ Scorpion. Next up: Miscellania, Melbourne on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Miscellania | Melbourne |
 | Sat, 29 Aug 2026 | TBA - Inner West Location | Sydney |
 
 ## Recently played
@@ -17,6 +18,6 @@ Mark N is a breakbeat and jungle artist tracked on soundcheck, with 3 sets logge
 
 ## Shares bills with
 
-Kato, AHJU, ESS O ESS
+Kato, AHJU, DJ Scorpion
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markn/)*

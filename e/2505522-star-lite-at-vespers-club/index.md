@@ -1,6 +1,6 @@
 # STAR-LITE at Vespers Club
 
-STAR-LITE at Vespers Club on Fri 21 Aug, London. 4 acts on the bill: Bekefi, Herberta, Jezebelle and Luca Perry. House and Acid. Preview the line-up and save it on soundcheck.
+STAR-LITE at Vespers Club on Fri 21 Aug, London. 5 acts on the bill: Bekefi, ellzyb, Herberta and Jezebelle and 1 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ STAR-LITE at Vespers Club on Fri 21 Aug, London. 4 acts on the bill: Bekefi, Her
 ## Line-up
 
 - Bekefi
+- ellzyb
 - Herberta
 - Jezebelle
 - Luca Perry

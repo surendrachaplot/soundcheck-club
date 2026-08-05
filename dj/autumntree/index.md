@@ -1,13 +1,14 @@
 # Autumn Tree
 
-Autumn Tree is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at KHIDI, Tbilisi on Sat, 8 Aug 2026.
+Autumn Tree is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Meteor Studio, Tbilisi on Thu, 6 Aug 2026.
 
-Autumn Tree is a techno and house artist based in Georgia, tracked on soundcheck, with 36 sets logged across Tbilisi. Often billed alongside Tomma, Ika (GE) and SUMO. Next up: KHIDI, Tbilisi on Sat 8 Aug.
+Autumn Tree is a techno and house artist based in Georgia, tracked on soundcheck, with 37 sets logged across Tbilisi. Often billed alongside Tomma, Ika (GE) and SUMO. Next up: Meteor Studio, Tbilisi on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Meteor Studio | Tbilisi |
 | Sat, 8 Aug 2026 | KHIDI | Tbilisi |
 | Fri, 21 Aug 2026 | TBA | Tbilisi |
 

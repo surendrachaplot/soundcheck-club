@@ -1,0 +1,17 @@
+# CubCru and Friends presents: Deaf Institute Takeover at The Deaf Institute
+
+CubCru and Friends presents: Deaf Institute Takeover at The Deaf Institute on Wed 30 Sept, Manchester. 3 acts on the bill: Janaway, Sweetly and Tom Oakley. Electro and Jungle. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 30 Sept 2026 |
+| Venue | The Deaf Institute |
+| City | Manchester |
+
+## Line-up
+
+- Janaway
+- Sweetly
+- Tom Oakley
+
+*Source: [soundcheck](https://soundcheck.club/e/2503249-cubcru-and-friends-presents-deaf-institute-takeover-at-the-d/)*

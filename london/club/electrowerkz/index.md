@@ -9,7 +9,7 @@ Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | HONEY HONEY |  |
-| Sat, 15 Aug 2026 | Slimelight presents: SUMMERTIME SADNESS 2026 | Dj.Malefica, Ricardo Castro, Steve Weeks |
+| Sat, 15 Aug 2026 | Slimelight presents: SUMMERTIME SADNESS 2026 | Dj.Malefica, Ricardo Castro, Soylent Black, Steve Weeks |
 | Thu, 20 Aug 2026 | GRIP [ XXX SPORTS NIGHT ] |  |
 | Fri, 21 Aug 2026 | HUNTER: GOIN' IN HARD (OUR 3RD BIRTHDAY) |  |
 | Sat, 22 Aug 2026 | ELECTRO ROCKS |  |

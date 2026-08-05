@@ -1,6 +1,6 @@
 # Playground X Club Coco at NAR
 
-Playground X Club Coco at NAR on Sun 9 Aug, Utrecht. 2 acts on the bill: Antal and Coco Maria. Afrobeat and Disco. Preview the line-up and save it on soundcheck.
+Playground X Club Coco at NAR on Sun 9 Aug, Utrecht. 2 acts on the bill: Antal and Coco Maria. Disco and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Rahul.mp3
 
-Rahul.mp3 is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Stereo, Glasgow on Fri, 4 Sept 2026.
+Rahul.mp3 is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 6 Aug 2026.
 
-Rahul.mp3 is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Edinburgh, Glasgow, London and Manchester and 1 more. Often billed alongside Bellarosa, Miss Cabbage and Babyjaii. Next up: Stereo, Glasgow on Fri 4 Sept.
+Rahul.mp3 is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Edinburgh, Glasgow, London and Manchester and 1 more. Often billed alongside Bellarosa, Miss Cabbage and Babyjaii. Next up: The Berkeley Suite, Glasgow on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | The Berkeley Suite | Glasgow |
 | Fri, 4 Sept 2026 | Stereo | Glasgow |
 
 ## Recently played

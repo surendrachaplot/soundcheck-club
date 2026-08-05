@@ -2,7 +2,7 @@
 
 Herberta is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
 
-Herberta is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Hannah Thurlow, Tris (UK) and Aquamarine. Next up: Vespers Club, London on Fri 21 Aug.
+Herberta is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Hannah Thurlow, Tris (UK) and ellzyb. Next up: Vespers Club, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Herberta is a house and minimal techno artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Hannah Thurlow, Tris (UK), Aquamarine
+Hannah Thurlow, Tris (UK), ellzyb
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herberta/)*

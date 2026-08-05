@@ -1,13 +1,14 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Poly-Rythmo Club" on Sat, 12 Sept 2026.
+La Paloma is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "POLENTA" on Sat, 5 Sept 2026.
 
-La Paloma is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
+La Paloma is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | POLENTA |  |
 | Sat, 12 Sept 2026 | Poly-Rythmo Club |  |
 
 ## Address

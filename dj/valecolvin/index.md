@@ -1,14 +1,15 @@
 # Vale Colvin
 
-Vale Colvin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
+Vale Colvin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
 
-Vale Colvin is a house and techno artist based in Chile, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Foehn & Jerome, Dea (6) and Finona Rider. Next up: Club der Visionaere, Berlin on Sat 8 Aug.
+Vale Colvin is a house and techno artist based in Chile, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Foehn & Jerome, Dea (6) and Finona Rider. Next up: Club der Visionaere, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Club der Visionaere | Berlin |
+| Mon, 17 Aug 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
 

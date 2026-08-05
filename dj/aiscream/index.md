@@ -1,14 +1,16 @@
 # Aiscream
 
-Aiscream is a Pop and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club NYX, Amsterdam on Sat, 29 Aug 2026.
+Aiscream is a Pop and R&B artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club NYX, Amsterdam on Fri, 7 Aug 2026.
 
-Aiscream is a pop and r&b artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Babs op de beat, Joseph Steel and Mika Akela. Next up: Club NYX, Amsterdam on Sat 29 Aug.
+Aiscream is a pop and r&b artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Joseph Steel, Soulfania and Babs op de beat. Next up: Club NYX, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Club NYX | Amsterdam |
 | Sat, 29 Aug 2026 | Club NYX | Amsterdam |
+| Fri, 4 Sept 2026 | Club NYX | Amsterdam |
 
 ## Recently played
 
@@ -16,6 +18,6 @@ Aiscream is a pop and r&b artist based in Netherlands, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Babs op de beat, Joseph Steel, Mika Akela
+Joseph Steel, Soulfania, Babs op de beat
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiscream/)*

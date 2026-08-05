@@ -9,7 +9,7 @@ Arash Ete is a techno and house artist tracked on soundcheck, with 57 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Turbina | Budapest |
-| Sat, 26 Sept 2026 | Palazzo Permanens | Budapest |
+| Sat, 26 Sept 2026 | Turbina | Budapest |
 
 ## Recently played
 

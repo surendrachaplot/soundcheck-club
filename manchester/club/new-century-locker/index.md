@@ -1,8 +1,8 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Nooriyah, Adele Tondu, imad:re" on Fri, 2 Oct 2026.
+New Century Locker is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Nooriyah, Adele Tondu, imad:re" on Fri, 2 Oct 2026.
 
-New Century Locker is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including edv3ctor, imad:re, Izco and Logic1000 and 2 more. Browse upcoming dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
+New Century Locker is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Decius, edv3ctor, imad:re and Izco and 2 more. Browse upcoming dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
 ## What's on
 
@@ -14,6 +14,7 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 6 upcomi
 | Fri, 16 Oct 2026 | Takuya Nakamura (Live), edv3ctor & RHI | Takuya Nakamura, edv3ctor |
 | Fri, 16 Oct 2026 | 20 Years of Massimiliano Pagliara | Massimiliano Pagliara |
 | Sat, 24 Oct 2026 | Izco | Izco |
+| Fri, 30 Oct 2026 | Decius (Live) | Decius |
 
 ## Address
 

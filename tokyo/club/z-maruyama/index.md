@@ -1,8 +1,8 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "INFUSE_INTO (HardTechno.Hardgroove & Bochka)" on Thu, 6 Aug 2026.
+Z Maruyama is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "INFUSE_INTO (HardTechno.Hardgroove & Bochka)" on Thu, 6 Aug 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including AMIDAdrive, arow, Ayana Pattra and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including AMIDAdrive, arow, Ayana Pattra and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, wi
 | Thu, 13 Aug 2026 | MOSAIC |  |
 | Sat, 15 Aug 2026 | TECHNO / Kulage presents DENSITY | Kulage, YU-S-KE |
 | Fri, 21 Aug 2026 | DAITOKAI | CLESENT, Daitto, FRNNNDZ, u z z v |
+| Thu, 27 Aug 2026 | PENPAL (HOUSE) | Shimpei Watanabe, Yukio Nohara |
 
 ## Address
 

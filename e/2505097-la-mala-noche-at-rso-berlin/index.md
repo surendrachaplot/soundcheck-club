@@ -1,6 +1,6 @@
 # La Mala Noche at RSO.BERLIN
 
-La Mala Noche at RSO.BERLIN on Sat 22 Aug, Berlin. 17 acts on the bill: ābnamā, Ananda (BR), Bella Sarris and Berenice and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+La Mala Noche at RSO.BERLIN on Sat 22 Aug, Berlin. 19 acts on the bill: ābnamā, Ananda (BR), Bella Sarris and Berenice and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ La Mala Noche at RSO.BERLIN on Sat 22 Aug, Berlin. 17 acts on the bill: ābnamā
 - Byron Yeates
 - Cari Lekebusch
 - D.Dan
+- Disk Cartel
 - DJ TOOL
 - Hyperaktivist
 - JASSS
@@ -26,6 +27,7 @@ La Mala Noche at RSO.BERLIN on Sat 22 Aug, Berlin. 17 acts on the bill: ābnamā
 - OMOLOKO
 - Rosati
 - S-candalo
+- THC
 - Yazzus
 
 *Source: [soundcheck](https://soundcheck.club/e/2505097-la-mala-noche-at-rso-berlin/)*

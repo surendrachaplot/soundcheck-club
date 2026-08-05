@@ -10,7 +10,7 @@ Clementaum is a house and baile funk artist tracked on soundcheck, with 72 sets 
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Cafeteria | Toronto |
 | Sat, 8 Aug 2026 | Société des arts technologiques | Montreal |
-| Fri, 14 Aug 2026 | TBA - CDMX | Mexico City |
+| Fri, 14 Aug 2026 | TBA | Mexico City |
 | Sat, 15 Aug 2026 | YuYu Cine Club | Mexico City |
 
 ## Recently played

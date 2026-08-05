@@ -1,8 +1,8 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
+Ryan Resso is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
-Ryan Resso is a house and tech house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: Lab11, Birmingham on Sat 8 Aug.
+Ryan Resso is a house and tech house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: Lab11, Birmingham on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ryan Resso is a house and tech house artist tracked on soundcheck, with 92 sets 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Lab11 | Birmingham |
 | Sat, 19 Sept 2026 | fabric | London |
+| Sun, 20 Sept 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

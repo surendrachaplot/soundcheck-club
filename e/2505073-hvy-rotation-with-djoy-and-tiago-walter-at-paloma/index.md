@@ -1,6 +1,6 @@
-# HVY ROTATION with DJoy AND Tiago Walter at Paloma
+# HVY ROTATION with DJoy and Tiago Walter at Paloma
 
-HVY ROTATION with DJoy AND Tiago Walter at Paloma on Fri 28 Aug, Berlin. 3 acts on the bill: DJoy, Klix (DE) and Tiago Walter. House. Preview the line-up and save it on soundcheck.
+HVY ROTATION with DJoy and Tiago Walter at Paloma on Fri 28 Aug, Berlin. 3 acts on the bill: DJoy, Klix (DE) and Tiago Walter. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

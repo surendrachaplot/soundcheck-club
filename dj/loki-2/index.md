@@ -1,14 +1,15 @@
 # LOKI (2)
 
-LOKI (2) is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
+LOKI (2) is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paloma, London on Sat, 22 Aug 2026.
 
-LOKI (2) is an afro house and afro tech artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside DJ IC, Porsh DJ and Tribal Brothers. Next up: Paloma, London on Sat 22 Aug.
+LOKI (2) is an afro house and afro tech artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside DJ IC, Porsh DJ and Tribal Brothers. Next up: Paloma, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Paloma | London |
+| Fri, 11 Sept 2026 | Onyx (E1) | London |
 
 ## Recently played
 

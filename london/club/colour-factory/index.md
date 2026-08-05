@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Club Voices Radio x Colour Factory: A Club Friendly Free Party (Femme Special)" on Fri, 7 Aug 2026.
+Colour Factory is a music venue in London with 21 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Club Voices Radio x Colour Factory: A Club Friendly Free Party (Femme Special)" on Fri, 7 Aug 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Andrea Giudice, Brown Excellence, Cable! and CHEZA LUCINA and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Andrea Giudice, Beavs, Brown Excellence and Cable! and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nigh
 | Sat, 15 Aug 2026 | Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More | Cable!, Conducta, Danielle, GRACE.., Ghoulish, Jamie Joy, Jossy Mitsu, Lu.Re, Selassie TBC, VNEE |
 | Sun, 16 Aug 2026 | Distant Planet & Hornsey Hardcore - Summer Madness - outdoor day-time session | Equinox (UK), Hughesee, Jerome Hill, Louise Plus One |
 | Sat, 22 Aug 2026 | INTERNATIONAL A$$ SHAKING COMMITTEE PRESENTS: I LIED, I LOVE BEING OUTSIDE | Seksu |
-| Thu, 27 Aug 2026 | QUENCH presents: NyLon Carnival i | Donis, Run P., Say Less |
+| Sat, 22 Aug 2026 | The Cookout presents: OUTside | Donnie Sunshine, Mark-Ashley Dupé |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # TAUSEND2Ø
 
-TAUSEND2Ø is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Das Werk, Vienna on Sat, 22 Aug 2026.
+TAUSEND2Ø is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Das Werk, Vienna on Sat, 22 Aug 2026.
 
-TAUSEND2Ø is a techno and trance artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Anna Ullrich, Albin Brezlan and COLD ASS ICE. Next up: Das Werk, Vienna on Sat 22 Aug.
+TAUSEND2Ø is a techno and trance artist tracked on soundcheck, with 5 sets logged across Vienna. Often billed alongside Anna Ullrich, WO.IZZY and Albin Brezlan. Next up: Das Werk, Vienna on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Das Werk | Vienna |
+| Fri, 28 Aug 2026 | Gleis19 | Vienna |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ TAUSEND2Ø is a techno and trance artist tracked on soundcheck, with 4 sets logg
 
 ## Shares bills with
 
-Anna Ullrich, Albin Brezlan, COLD ASS ICE
+Anna Ullrich, WO.IZZY, Albin Brezlan
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*

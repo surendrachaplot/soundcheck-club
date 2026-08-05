@@ -1,8 +1,8 @@
 # Victor G (MY)
 
-Victor G (MY) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 7 Aug 2026.
+Victor G (MY) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 7 Aug 2026.
 
-Victor G (MY) is a house and tech house artist based in Malaysia, tracked on soundcheck, with 43 sets logged across Kualalumpur. Often billed alongside Alam, Axel Groove and LZZY. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 7 Aug.
+Victor G (MY) is a house and tech house artist based in Malaysia, tracked on soundcheck, with 45 sets logged across Kualalumpur. Often billed alongside Alam, Axel Groove and LZZY. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Victor G (MY) is a house and tech house artist based in Malaysia, tracked on sou
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Iron Fairies Kuala Lumpur | Kuala Lumpur |
 | Sat, 8 Aug 2026 | Lane 23 | Kuala Lumpur |
+| Sat, 15 Aug 2026 | Wet Deck at W Hotel | Kuala Lumpur |
+| Sun, 30 Aug 2026 | Wet Deck at W Hotel | Kuala Lumpur |
 
 ## Recently played
 

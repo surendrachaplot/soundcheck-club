@@ -1,14 +1,15 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+BIXBITA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-BIXBITA is a techno and trance artist tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Budapest and Cologne and 11 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+BIXBITA is a techno and trance artist tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Budapest and Cologne and 12 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
+| Sat, 22 Aug 2026 | Sala Roka | Malaga |
 | Sat, 3 Oct 2026 | Mondo Open Air | Madrid |
 
 ## Recently played

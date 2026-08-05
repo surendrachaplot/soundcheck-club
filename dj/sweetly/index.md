@@ -1,8 +1,8 @@
 # Sweetly
 
-Sweetly is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Amber's, Manchester on Fri, 25 Sept 2026.
+Sweetly is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Amber's, Manchester on Fri, 25 Sept 2026.
 
-Sweetly is a jungle and drum & bass artist tracked on soundcheck, with 22 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, D.Tee and Simmo.. Next up: Amber's, Manchester on Fri 25 Sept.
+Sweetly is a jungle and drum & bass artist tracked on soundcheck, with 23 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, D.Tee and Simmo.. Next up: Amber's, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sweetly is a jungle and drum & bass artist tracked on soundcheck, with 22 sets l
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Amber's | Manchester |
 | Sat, 26 Sept 2026 | Brick Street | Liverpool |
+| Wed, 30 Sept 2026 | The Deaf Institute | Manchester |
 | Sat, 10 Oct 2026 | Stage and Radio | Manchester |
 
 ## Recently played

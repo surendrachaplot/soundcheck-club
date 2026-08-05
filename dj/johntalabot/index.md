@@ -1,8 +1,8 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
+John Talabot is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
 
-John Talabot is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: The Cause, London on Sat 15 Aug.
+John Talabot is a house and techno artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: The Cause, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ John Talabot is a house and techno artist tracked on soundcheck, with 171 sets l
 | Sat, 15 Aug 2026 | The Cause | London |
 | Fri, 11 Sept 2026 | Flash | Washington DC |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Wed, 23 Sept 2026 | Moog Club | Barcelona |
 | Fri, 25 Sept 2026 | Plano B | Porto |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |

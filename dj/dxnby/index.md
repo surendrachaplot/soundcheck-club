@@ -1,8 +1,8 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Halcyon, San Francisco/Oakland on Sat, 12 Sept 2026.
+DXNBY is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Halcyon, San Francisco/Oakland on Sat, 12 Sept 2026.
 
-DXNBY is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 20 more. Often billed alongside Ozzie Guven, ALISHA and Jamback. Next up: Halcyon, Sanfrancisco on Sat 12 Sept.
+DXNBY is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 20 more. Often billed alongside Ozzie Guven, ALISHA and Jamback. Next up: Halcyon, Sanfrancisco on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DXNBY is a house and tech house artist tracked on soundcheck, with 110 sets logg
 | Sat, 12 Sept 2026 | Halcyon | San Francisco/Oakland |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 2 Oct 2026 | World Headquarters | Newcastle |
 
 ## Recently played
 

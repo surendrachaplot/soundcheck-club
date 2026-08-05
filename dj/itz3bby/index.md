@@ -1,13 +1,14 @@
 # Itz3bby
 
-Itz3bby is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
+Itz3bby is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
 
-Itz3bby is a garage and house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam and Rotterdam. Often billed alongside Franky Sticks, Benja (NL) and EYCEE. Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
+Itz3bby is a garage and house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam and Rotterdam. Often billed alongside Franky Sticks, Benja (NL) and EYCEE. Next up: Nine Lives Gallery, Rotterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Nine Lives Gallery | Rotterdam |
 | Sat, 29 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
 

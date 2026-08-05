@@ -9,7 +9,7 @@ Linapary is a reggaeton and guaracha artist tracked on soundcheck, with 117 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Virage | Paris |
-| Fri, 14 Aug 2026 | TBA - CDMX | Mexico City |
+| Fri, 14 Aug 2026 | TBA | Mexico City |
 
 ## Recently played
 

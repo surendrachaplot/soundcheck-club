@@ -1,8 +1,8 @@
 # carlota.
 
-carlota. is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Moog Club, Barcelona on Thu, 6 Aug 2026.
+carlota. is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Moog Club, Barcelona on Thu, 6 Aug 2026.
 
-carlota. is a techno and electronica artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Brus Equation, Cora Novoa and Dasha Rush. Next up: Moog Club, Barcelona on Thu 6 Aug.
+carlota. is a techno and electronica artist tracked on soundcheck, with 25 sets logged across Barcelona. Often billed alongside Brus Equation, Cora Novoa and Dasha Rush. Next up: Moog Club, Barcelona on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ carlota. is a techno and electronica artist tracked on soundcheck, with 24 sets 
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Moog Club | Barcelona |
 | Wed, 12 Aug 2026 | Moog Club | Barcelona |
+| Thu, 17 Sept 2026 | Moog Club | Barcelona |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Jeremiah Asiamah
 
-Jeremiah Asiamah is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Sat, 22 Aug 2026.
+Jeremiah Asiamah is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Sat, 22 Aug 2026.
 
-Jeremiah Asiamah is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol, Ibiza, London and Malta and 2 more. Often billed alongside Robin M, Patrick Nazemi and Arielle Free. Next up: UNO MALTA, Malta on Sat 22 Aug.
+Jeremiah Asiamah is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, Ibiza, London and Malta and 2 more. Often billed alongside Robin M, Patrick Nazemi and Donnie Sunshine. Next up: UNO MALTA, Malta on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | UNO MALTA | Malta |
+| Mon, 31 Aug 2026 | Brixton Jamm | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jeremiah Asiamah is a house and afro house artist based in United Kingdom, track
 
 ## Shares bills with
 
-Robin M, Patrick Nazemi, Arielle Free
+Robin M, Patrick Nazemi, Donnie Sunshine
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahasiamah/)*

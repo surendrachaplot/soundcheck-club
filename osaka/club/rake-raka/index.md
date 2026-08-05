@@ -1,14 +1,15 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "π vol.11" on Wed, 5 Aug 2026.
+rake?raka? is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "π vol.11" on Wed, 5 Aug 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including ALTF4, Ayato, beatman and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including ALTF4, Ayato, beatman and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | π vol.11 | HSC (1), MIYUU |
+| Thu, 6 Aug 2026 | psytech Night 'Dj Stick All Night Long' |  |
 | Fri, 7 Aug 2026 | HOUSE OF GARDEN | Tokumoto, beatman, fb5 (1) |
 | Sun, 9 Aug 2026 | maximalism VOL.11 | ALTF4, MATSURYO, dyn (JP) |
 | Tue, 11 Aug 2026 | exceed |  |

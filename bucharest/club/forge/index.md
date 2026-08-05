@@ -9,7 +9,7 @@ Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Nu Zau & Lumieux & Guy From Downstairs - All Of Us x Out Of Work | Guy From Downstairs, Lumieux, Nu Zau |
-| Fri, 28 Aug 2026 | ALPHA SPECTRUM x EnKore: ALPHAKORE | Aiur, Dalek, Meiremax, Neotroxian, Project Morpheus |
+| Fri, 28 Aug 2026 | ALPHA SPECTRUM x EnKore: ALPHAKORE | Aiur, Dalek, Meiremax, Morph (RO), Neotroxian, Project Morpheus |
 | Sat, 26 Sept 2026 | Motion Unit x Techno Diatom - invites: Lobster (NL) | Lobster (NL), Michael Ius, Nedelcut |
 | Sat, 24 Oct 2026 | SCHISSMA: HALLOWEEN EDITION (BUCHAREST) |  |
 

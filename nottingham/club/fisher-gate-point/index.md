@@ -9,7 +9,7 @@ Fisher Gate Point is a music venue in Nottingham listed on soundcheck. 2 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | In The Clouds - LIVE BANDS |  |
-| Sat, 10 Oct 2026 | Breezeway presents: Skeptic - House & Garage | Skeptic |
+| Sat, 10 Oct 2026 | Breezeway presents: Skeptic | Skeptic |
 
 ## Address
 

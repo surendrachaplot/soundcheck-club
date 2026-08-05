@@ -1,6 +1,6 @@
 # Legal x string with FLETCH, Vincent Lang, HAZE, VSMR at Legal
 
-Legal x string with FLETCH, Vincent Lang, HAZE, VSMR on Fri 21 Aug, Munich. 4 acts on the bill: FLETCH, Haze (GER), Vincent Lang and VSMR. House. Preview the line-up and save it on soundcheck.
+Legal x string with FLETCH, Vincent Lang, HAZE, VSMR on Fri 21 Aug, Munich. 5 acts on the bill: FLETCH, Haze (GER), Shree (2) and Vincent Lang and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Legal x string with FLETCH, Vincent Lang, HAZE, VSMR on Fri 21 Aug, Munich. 4 ac
 
 - FLETCH
 - Haze (GER)
+- Shree (2)
 - Vincent Lang
 - VSMR
 

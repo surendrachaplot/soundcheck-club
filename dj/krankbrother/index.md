@@ -1,13 +1,14 @@
 # Krankbrother
 
-Krankbrother is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KOKO, London on Sat, 8 Aug 2026.
+Krankbrother is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at KOKO, London on Fri, 7 Aug 2026.
 
-Krankbrother is a house and techno artist tracked on soundcheck, with 19 sets logged across Cardiff, Frankfurt and London. Often billed alongside Dixon, Ash Lauryn and Gabrielle Kwarteng. Next up: KOKO, London on Sat 8 Aug.
+Krankbrother is a house and techno artist tracked on soundcheck, with 20 sets logged across Cardiff, Frankfurt and London. Often billed alongside Dixon, Ash Lauryn and Gabrielle Kwarteng. Next up: KOKO, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | KOKO | London |
 | Sat, 8 Aug 2026 | KOKO | London |
 
 ## Recently played

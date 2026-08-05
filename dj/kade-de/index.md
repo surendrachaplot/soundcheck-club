@@ -1,13 +1,14 @@
 # Ká (DE)
 
-Ká (DE) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Marmorbar, Berlin on Sat, 22 Aug 2026.
+Ká (DE) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 15 Aug 2026.
 
-Ká (DE) is a bass and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Brussels, Hamburg and Prague and 3 more. Often billed alongside INVERNO, Triqi and hripsime. Next up: Marmorbar, Berlin on Sat 22 Aug.
+Ká (DE) is a bass and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Hamburg and Prague and 3 more. Often billed alongside INVERNO, Triqi and hripsime. Next up: Acud Macht NEU, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Acud Macht NEU | Berlin |
 | Sat, 22 Aug 2026 | Marmorbar | Berlin |
 
 ## Recently played

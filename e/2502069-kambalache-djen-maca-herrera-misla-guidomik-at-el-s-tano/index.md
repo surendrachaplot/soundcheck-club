@@ -1,6 +1,6 @@
 # KAMBALACHE: Djen, Maca Herrera, Misla, Guidomik at EL SÓTANO
 
-KAMBALACHE: Djen, Maca Herrera, Misla, Guidomik at EL SÓTANO on Fri 18 Sept, Madrid. 3 acts on the bill: Djen, Guidomik and Misla. House. Preview the line-up and save it on soundcheck.
+KAMBALACHE: Djen, Maca Herrera, Misla, Guidomik at EL SÓTANO on Fri 18 Sept, Madrid. 4 acts on the bill: Djen, Guidomik, Macarena (CL) and Misla. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ KAMBALACHE: Djen, Maca Herrera, Misla, Guidomik at EL SÓTANO on Fri 18 Sept, Ma
 
 - Djen
 - Guidomik
+- Macarena (CL)
 - Misla
 
 *Source: [soundcheck](https://soundcheck.club/e/2502069-kambalache-djen-maca-herrera-misla-guidomik-at-el-s-tano/)*

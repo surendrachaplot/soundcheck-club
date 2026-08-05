@@ -1,8 +1,8 @@
 # Kojay
 
-Kojay is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ballroom at Palais, London on Fri, 7 Aug 2026.
+Kojay is a House and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ballroom at Palais, London on Fri, 7 Aug 2026.
 
-Kojay is a house and garage artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Birmingham, Bristol, Edinburgh and London. Often billed alongside P-Lucas, Jamesey and Matt L-S. Next up: Ballroom at Palais, London on Fri 7 Aug.
+Kojay is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Birmingham, Bristol, Edinburgh and London. Often billed alongside P-Lucas, Jamesey and Matt L-S. Next up: Ballroom at Palais, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kojay is a house and garage artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Ballroom at Palais | London |
 | Fri, 7 Aug 2026 | Ballroom at Palais | London |
+| Sat, 15 Aug 2026 | Jumbi | London |
 
 ## Recently played
 

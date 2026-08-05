@@ -1,8 +1,8 @@
 # Giri
 
-Giri is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Giri x Iriy records: ALBUM LISTENING SESSION" on Thu, 6 Aug 2026.
+Giri is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Giri x Iriy records: ALBUM LISTENING SESSION" on Thu, 6 Aug 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including __iwana__, Andriy K., Ben Sleia and Blu:sh and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including __iwana__, Andriy K., Ben Sleia and Blu:sh and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 

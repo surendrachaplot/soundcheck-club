@@ -1,8 +1,8 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 5 Aug 2026.
+Janaway is a Jungle and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 5 Aug 2026.
 
-Janaway is a jungle and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: Sneaky Pete's, Edinburgh on Wed 5 Aug.
+Janaway is a jungle and hardcore artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: Sneaky Pete's, Edinburgh on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Janaway is a jungle and hardcore artist tracked on soundcheck, with 78 sets logg
 | Sat, 8 Aug 2026 | Brixton Jamm | London |
 | Fri, 18 Sept 2026 | Lakota | Bristol |
 | Sat, 26 Sept 2026 | Meraki | Liverpool |
+| Wed, 30 Sept 2026 | The Deaf Institute | Manchester |
 
 ## Recently played
 

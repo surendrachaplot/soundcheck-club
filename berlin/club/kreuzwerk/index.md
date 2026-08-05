@@ -10,7 +10,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Power Dance Club 24hrs Open Air + Indoors | Alex Kassian, CEM, Dj Warning, Hyperaktivist, Khloe, Luigi Di Venere, MCMLXXXV, Matisa, Neu Verboten, Partok, Stathis (GR), Tommy Hart |
 | Sun, 16 Aug 2026 | ESTRO x OECUS Open Air  | 18:18, GLIA, Maōh, Pink Concrete, Regent |
-| Fri, 21 Aug 2026 | Body Language | 131bpm, Hypoestes, Manolo. (DE), Mike Servito, rRoxymore, tiro! |
+| Fri, 21 Aug 2026 | Body Language | 131bpm, Cooper Cooper, Diamin, Hypoestes, Manolo. (DE), Mike Servito, rRoxymore, tiro! |
 | Sun, 30 Aug 2026 | 2 Years In Balance I Open Air & Indoor | Jack Fresia, Josiane, Schicktanz, VINVAR, Vysion |
 | Fri, 4 Sept 2026 | SWEAT |  |
 | Sat, 5 Sept 2026 | MÁS X PRIMAL INSTINCT | Amphia, Chlär, Connor Wall, Debbie, JKS, KONZ, MarcelDune, THC, TONI BA, VINVAR |

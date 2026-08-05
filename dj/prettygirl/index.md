@@ -1,14 +1,15 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+Pretty Girl is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
-Pretty Girl is a house and techno artist based in Australia, tracked on soundcheck, with 66 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KETTAMA and KI/KI. Next up: Finsbury Park, London on Fri 7 Aug.
+Pretty Girl is a house and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KETTAMA and KI/KI. Next up: Finsbury Park, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Finsbury Park | London |
+| Fri, 7 Aug 2026 | KOKO | London |
 | Tue, 13 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 16 Oct 2026 | Fidelity Studio | Dublin |
 | Sat, 17 Oct 2026 | Night Tales Loft | London |

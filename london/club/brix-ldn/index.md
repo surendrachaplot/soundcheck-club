@@ -9,7 +9,7 @@ Brix LDN is a music venue in London listed on soundcheck. 2 upcoming nights. Bro
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Dankie Sounds x Moves Recordings: Etania (Life Of The Party) |  |
-| Wed, 26 Aug 2026 | ONYX + LIVE SCREENING of THE TUNNEL |  |
+| Wed, 26 Aug 2026 | ONYX LIVE  + LIVE SCREENING of THE TUNNEL movie  |  |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Weekday Offender presents Panteros666" on Sat, 17 Oct 2026.
+The Hifi Club is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "20:20 Vision - Full Circle with Crazy P (DJ set) & Ralph Lawson" on Sat, 19 Sept 2026.
 
-The Hifi Club is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including G-Spot, Panteros666 and SUBVISIONS. Browse upcoming dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
+The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including Crazy P, G-Spot, Panteros666 and Ralph Lawson and 1 more. Browse upcoming dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | 20:20 Vision - Full Circle with Crazy P (DJ set) & Ralph Lawson | Crazy P, Ralph Lawson |
 | Sat, 17 Oct 2026 | Weekday Offender presents Panteros666 | G-Spot, Panteros666, SUBVISIONS |
 
 ## Address

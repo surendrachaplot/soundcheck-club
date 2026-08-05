@@ -1,14 +1,15 @@
 # ESVEAE
 
-ESVEAE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+ESVEAE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
-ESVEAE is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Munich and Tbilisi and 1 more. Often billed alongside Barmus, Erta Ale and Human Trax. Next up: Kater, Berlin on Fri 28 Aug.
+ESVEAE is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Munich and Tbilisi and 1 more. Often billed alongside Barmus, Erta Ale and Human Trax. Next up: Kater, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Kater | Berlin |
+| Fri, 28 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 

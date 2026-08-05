@@ -13,7 +13,7 @@
 | Sat, 5 Sept 2026 | House Nation |  |
 | Fri, 11 Sept 2026 | SUBSTRATE 001 |  |
 | Sun, 13 Sept 2026 | NATIVES: Summer Closing Day Party with Vitoto, General C'Mamane, Hypaphonik & FATSO98 | CRUZ CTRL (3), General C'mamane, Golden Lady, INTUIT, Nésa Thea, OneThabs, Tadi.wav |
-| Sat, 19 Sept 2026 | Deep into Soul | Neil Pierce, Sy Sez |
+| Sat, 19 Sept 2026 | Deep into Soul | Neil Pierce, Quentin Harris, Sy Sez |
 | Fri, 25 Sept 2026 | Chevry Showcase: HearThug, Jhobei, KT, Vitess | HearThug, Jhobei, KT, Vitess |
 | Sat, 26 Sept 2026 | MIOAZ Live presents Braxton & Trilucid | Braxton, Trilucid |
 | Sun, 27 Sept 2026 | PLGRN X Thread & Thrills W/ Terry Francis | KARBONI, Terry Francis, Tony Serban, TrebleMakers |

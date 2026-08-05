@@ -1,6 +1,6 @@
 # You&Me at Amnesia Ibiza
 
-You&Me at Amnesia Ibiza on Thu 6 Aug, Ibiza. 6 acts on the bill: Joseph Capriati, Josh Baker, Local Dub and M-High and 2 more. Tech House. Preview the line-up and save it on soundcheck.
+You&Me at Amnesia Ibiza on Thu 6 Aug, Ibiza. 10 acts on the bill: ALEXANDER M, ALISHA, Joseph Capriati and Josh Baker and 6 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,13 @@ You&Me at Amnesia Ibiza on Thu 6 Aug, Ibiza. 6 acts on the bill: Joseph Capriati
 
 ## Line-up
 
+- ALEXANDER M
+- ALISHA
 - Joseph Capriati
 - Josh Baker
+- jWave
 - Local Dub
+- Luca Cazal
 - M-High
 - Marlie
 - Saoirse

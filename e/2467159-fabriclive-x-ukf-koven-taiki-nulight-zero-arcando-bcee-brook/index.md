@@ -1,6 +1,6 @@
 # FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more at fabric
 
-FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more at fabric on Fri 4 Sept, London. 11 acts on the bill: Anaïs, BCee, Bluck and Brookes Brothers and 7 more. Preview the line-up and save it on soundcheck.
+FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more at fabric on Fri 4 Sept, London. 11 acts on the bill: Anaïs, BCee, Bluck and Brookes Brothers and 7 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

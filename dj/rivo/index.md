@@ -1,8 +1,8 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bolivar Beach Bar, Athens on Sat, 8 Aug 2026.
+Rivo is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bolivar Beach Bar, Athens on Sat, 8 Aug 2026.
 
-Rivo is a house and afro house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Bolivar Beach Bar, Athens on Sat 8 Aug.
+Rivo is a house and afro house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Bolivar Beach Bar, Athens on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Rivo is a house and afro house artist tracked on soundcheck, with 57 sets logged
 | Thu, 10 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 19 Sept 2026 | KOKO | London |
+| Sat, 10 Oct 2026 | Savaya Bali | Bali |
 
 ## Recently played
 

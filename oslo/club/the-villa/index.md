@@ -15,7 +15,7 @@ The Villa is a music venue in Oslo listed on soundcheck. 13 upcoming nights, wit
 | Sat, 22 Aug 2026 | Jakob Mäder (DE) & Niilas | Jakob Mäder, Niilas |
 | Fri, 28 Aug 2026 | Peder Mannerfelt (SE) | Peder Mannerfelt |
 | Sat, 29 Aug 2026 | Skatebård | Skatebård |
-| Sat, 5 Sept 2026 | DJ Hell (DE) | DJ Hell |
+| Sat, 5 Sept 2026 | DJ Hell (DE), Bjarne Melgaard (DJ Set), Kristoffer Karlsen & Øyvind Morken | DJ Hell, Øyvind Morken |
 | Sat, 12 Sept 2026 | Sam Girling (UK) | Sam Girling |
 | Fri, 18 Sept 2026 | Objekt (DE / PAN) | Objekt |
 

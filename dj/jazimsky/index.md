@@ -1,8 +1,8 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
-JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 22 sets logged across Brighton, Bristol, London and Malta. Often billed alongside SKALAH (UK), Akira (Buntai) and ESC (5). Next up: The Cause, London on Sat 22 Aug.
+JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 23 sets logged across Brighton, Bristol, London and Malta. Often billed alongside SKALAH (UK), Akira (Buntai) and ESC (5). Next up: The Cause, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 22 sets logge
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 25 Sept 2026 | Palais | London |
 | Sat, 17 Oct 2026 | The Loco Klub | Bristol |
 
 ## Recently played

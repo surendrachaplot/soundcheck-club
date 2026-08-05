@@ -1,8 +1,8 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Novaturient" on Wed, 5 Aug 2026.
+Club der Visionaere is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Novaturient" on Wed, 5 Aug 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Alex Picone, Alien Communications, Ancut and Anderson (US) and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Agazzi, Alex Picone, Alien Communications and Ancut and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # noodle
 
-noodle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 15 Aug 2026.
+noodle is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 15 Aug 2026.
 
-noodle is a house and techno artist tracked on soundcheck, with 58 sets logged across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and yung kidd. Next up: Sneaky Pete's, Edinburgh on Sat 15 Aug.
+noodle is a house and techno artist tracked on soundcheck, with 59 sets logged across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and yung kidd. Next up: Sneaky Pete's, Edinburgh on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ noodle is a house and techno artist tracked on soundcheck, with 58 sets logged a
 | Sat, 15 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 28 Aug 2026 | Leith Arches | Edinburgh |
 | Sat, 29 Aug 2026 | TBA - Secret Location | Glasgow |
+| Sat, 19 Sept 2026 | TBA - Secret Underground Bunker, Edinburgh | Edinburgh |
 
 ## Recently played
 

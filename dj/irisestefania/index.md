@@ -9,7 +9,7 @@ Iris Estefanía is an electronica and guaracha artist based in Mexico, tracked o
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | YuYu Cine Club | Mexico City |
-| Fri, 14 Aug 2026 | TBA - CDMX | Mexico City |
+| Fri, 14 Aug 2026 | TBA | Mexico City |
 
 ## Recently played
 

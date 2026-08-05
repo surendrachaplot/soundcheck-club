@@ -1,13 +1,14 @@
 # Zip
 
-Zip is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at fabric, London on Sat, 17 Oct 2026.
+Zip is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at ZENNER, Berlin on Fri, 2 Oct 2026.
 
-Zip is a minimal and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Sammy Dee, Ricardo Villalobos and Margaret Dygas. Next up: fabric, London on Sat 17 Oct.
+Zip is a minimal and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Sammy Dee, Ricardo Villalobos and Margaret Dygas. Next up: ZENNER, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | ZENNER | Berlin |
 | Sat, 17 Oct 2026 | fabric | London |
 
 ## Recently played

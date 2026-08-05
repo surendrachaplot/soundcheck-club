@@ -1,14 +1,15 @@
 # Moehecan
 
-Moehecan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
+Moehecan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
 
-Moehecan is a house and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Berlin, Frankfurt, Manchester and Paris. Often billed alongside Lea Czychy, KANA and Eva Crystaltips. Next up: Kater, Berlin on Fri 14 Aug.
+Moehecan is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Berlin, Frankfurt, Manchester and Paris. Often billed alongside Lea Czychy, KANA and Eva Crystaltips. Next up: Kater, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Kater | Berlin |
+| Sat, 5 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # HEDDA
 
-HEDDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sun, 23 Aug 2026.
+HEDDA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sun, 23 Aug 2026.
 
-HEDDA is a techno and house artist tracked on soundcheck, with 82 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside faceblindbabe, lil ja and Young Lychee. Next up: OXI, Berlin on Sun 23 Aug.
+HEDDA is a techno and house artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside faceblindbabe, lil ja and Young Lychee. Next up: OXI, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | OXI | Berlin |
+| Sat, 29 Aug 2026 | Renate | Berlin |
 | Sat, 29 Aug 2026 | Renate | Berlin |
 
 ## Recently played

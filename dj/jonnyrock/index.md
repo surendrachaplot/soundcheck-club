@@ -1,8 +1,8 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
+Jonny Rock is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
 
-Jonny Rock is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Quinta do Miratejo, Lisbon on Sat 15 Aug.
+Jonny Rock is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Quinta do Miratejo, Lisbon on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jonny Rock is a house and techno artist tracked on soundcheck, with 112 sets log
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Sat, 5 Sept 2026 | Rumore Nightclub Capri | Naples |
+| Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
 
 ## Recently played
 

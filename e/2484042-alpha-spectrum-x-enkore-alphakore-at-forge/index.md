@@ -1,6 +1,6 @@
 # ALPHA SPECTRUM x EnKore: ALPHAKORE at Forge
 
-ALPHA SPECTRUM x EnKore: ALPHAKORE at Forge on Fri 28 Aug, Bucharest. 5 acts on the bill: Aiur, Dalek, Meiremax and Neotroxian and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ALPHA SPECTRUM x EnKore: ALPHAKORE at Forge on Fri 28 Aug, Bucharest. 6 acts on the bill: Aiur, Dalek, Meiremax and Morph (RO) and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ALPHA SPECTRUM x EnKore: ALPHAKORE at Forge on Fri 28 Aug, Bucharest. 5 acts on 
 - Aiur
 - Dalek
 - Meiremax
+- Morph (RO)
 - Neotroxian
 - Project Morpheus
 

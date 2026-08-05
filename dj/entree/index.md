@@ -1,13 +1,14 @@
 # Entree
 
-Entree is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jolene, Copenhagen on Sat, 8 Aug 2026.
+Entree is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jolene, Copenhagen on Sat, 8 Aug 2026.
 
-Entree is a house and techno artist tracked on soundcheck, with 45 sets logged across Copenhagen and Stockholm. Often billed alongside Cockwhore & Macho, DJ Nah Care and Britney Speed. Next up: Jolene, Copenhagen on Sat 8 Aug.
+Entree is a house and techno artist tracked on soundcheck, with 46 sets logged across Copenhagen and Stockholm. Often billed alongside Cockwhore & Macho, DJ Nah Care and Britney Speed. Next up: Jolene, Copenhagen on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Jolene | Copenhagen |
 | Sat, 8 Aug 2026 | Jolene | Copenhagen |
 | Sun, 9 Aug 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Sat, 15 Aug 2026 | Byhaven | Copenhagen |

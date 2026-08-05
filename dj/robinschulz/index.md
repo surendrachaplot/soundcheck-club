@@ -1,13 +1,14 @@
 # Robin Schulz
 
-Robin Schulz is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Opium Barcelona, Barcelona on Wed, 12 Aug 2026.
+Robin Schulz is a House and Electro artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cavo Paradiso, Mykonos on Mon, 10 Aug 2026.
 
-Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 71 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, MistaJam and Nancie. Next up: Opium Barcelona, Barcelona on Wed 12 Aug.
+Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 72 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, MistaJam and Nancie. Next up: Cavo Paradiso, Mykonos on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 10 Aug 2026 | Cavo Paradiso | Mykonos |
 | Wed, 12 Aug 2026 | Opium Barcelona | Barcelona |
 | Sat, 5 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Pacha Ibiza | Ibiza |

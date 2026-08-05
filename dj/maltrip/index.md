@@ -1,14 +1,14 @@
 # Maltrip
 
-Maltrip is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - CDMX, Mexico City on Fri, 14 Aug 2026.
+Maltrip is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
 
-Maltrip is a techno and latin bass artist tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Enya Botello, Dj Diego (1) and Monkey Junkie Funky. Next up: TBA - CDMX, Mexicocity on Fri 14 Aug.
+Maltrip is a techno and latin bass artist tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Enya Botello, Dj Diego (1) and Monkey Junkie Funky. Next up: TBA, Mexicocity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - CDMX | Mexico City |
+| Fri, 14 Aug 2026 | TBA | Mexico City |
 
 ## Recently played
 

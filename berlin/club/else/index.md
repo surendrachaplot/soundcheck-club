@@ -16,7 +16,7 @@ Else is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with l
 | Sat, 22 Aug 2026 | Else x İÇ İÇE | Dornika, Melis Köke, Miss T Delight, Mohajer, Sanaz, Slimgirl fat, Souci, evin |
 | Sun, 23 Aug 2026 | Else x DJ Gigola pres. Bigroom Sensual | ALCATRAZ, DJ Gigola, Dj Babatr, LB aka LABAT, LYZZA, Luke Hovey, Margo XS, SWART (BE) |
 | Fri, 28 Aug 2026 | Else x Job Jobse invites | Alex Kassian, Eoin DJ, Jessica Nightlife, Job Jobse, LIA, limbic sis |
-| Sat, 29 Aug 2026 | Else x Innellea, Massano, Dyzen, Ede and many more | Dyzen, Ede, Innellea, Massano |
+| Sat, 29 Aug 2026 | Else x Innellea, Massano, Dyzen, Ede and many more | Anaté, Caleesi, Dyzen, Ede, Innellea, Massano |
 | Sun, 30 Aug 2026 | Hard Feelings - Mischluft All Day Long  | Juicy Romance, M4RY, Mischluft, Ollie Lishman, hawi |
 
 ## Address

@@ -1,8 +1,8 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Substation, Seattle on Thu, 6 Aug 2026.
+Luke Alessi is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Substation, Seattle on Thu, 6 Aug 2026.
 
-Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 109 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Substation, Seattle on Thu 6 Aug.
+Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 111 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Substation, Seattle on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -13,8 +13,10 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 | Fri, 21 Aug 2026 | Klub Werkstatt | Copenhagen |
 | Sat, 22 Aug 2026 | Fuse | Brussels |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
+| Sun, 20 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Fri, 30 Oct 2026 | Night Tales Loft | London |
 
 ## Recently played
 

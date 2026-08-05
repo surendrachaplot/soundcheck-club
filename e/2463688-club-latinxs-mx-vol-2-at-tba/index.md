@@ -1,6 +1,6 @@
 # CLUB LATINXS MX VOL.2 at TBA
 
-CLUB LATINXS MX VOL.2 at TBA on Fri 14 Aug, Mexicocity. 7 acts on the bill: Clementaum, Iris Estefanía, LAZA (3) and Linapary and 3 more. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+CLUB LATINXS MX VOL.2 at TBA on Fri 14 Aug, Mexicocity. 7 acts on the bill: Clementaum, Iris Estefanía, LAZA (3) and Linapary and 3 more. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Arter
 
-Arter is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Fuse, Brussels on Sat, 22 Aug 2026.
+Arter is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fuse, Brussels on Sat, 22 Aug 2026.
 
-Arter is a garage and house artist based in Belgium, tracked on soundcheck, with 43 sets logged across Antwerp, Brussels and Ghent. Often billed alongside DC Noises, BAVR and Helena Lauwaert. Next up: Fuse, Brussels on Sat 22 Aug.
+Arter is a house and garage artist based in Belgium, tracked on soundcheck, with 44 sets logged across Antwerp, Brussels and Ghent. Often billed alongside DC Noises, BAVR and Helena Lauwaert. Next up: Fuse, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Fuse | Brussels |
+| Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 
 ## Recently played
 

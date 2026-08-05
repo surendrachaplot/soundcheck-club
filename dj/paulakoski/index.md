@@ -1,8 +1,8 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at RADION, Amsterdam on Fri, 7 Aug 2026.
+Paula Koski is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at RADION, Amsterdam on Fri, 7 Aug 2026.
 
-Paula Koski is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Justine Perry, Steffi and Virginia. Next up: RADION, Amsterdam on Fri 7 Aug.
+Paula Koski is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Justine Perry, Steffi and Virginia. Next up: RADION, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paula Koski is a techno and house artist tracked on soundcheck, with 94 sets log
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | RADION | Amsterdam |
 | Sat, 8 Aug 2026 | RADION | Amsterdam |
+| Sat, 29 Aug 2026 | Exit Reality | Singapore |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played

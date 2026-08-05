@@ -10,7 +10,7 @@ RICO RICA is a latin bass and club artist tracked on soundcheck, with 73 sets lo
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Village au Pied-du-Courant | Montreal |
 | Sat, 8 Aug 2026 | TBA - CDMX | Mexico City |
-| Fri, 14 Aug 2026 | TBA - CDMX | Mexico City |
+| Fri, 14 Aug 2026 | TBA | Mexico City |
 
 ## Recently played
 

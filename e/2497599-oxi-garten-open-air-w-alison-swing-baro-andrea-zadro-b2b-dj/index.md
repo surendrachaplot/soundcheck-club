@@ -1,10 +1,10 @@
 # OXI GARTEN 'OPEN AIR' W/ Alison Swing , Baroć , Andrea Zadro b2b DJ Haribo at OXI
 
-OXI GARTEN 'OPEN AIR' W/ Alison Swing , Baroć , Andrea Zadro b2b DJ Haribo on Sat 8 Aug, Berlin. 4 acts on the bill: Alison Swing, Andrea Zadro, Baroć and DJ Haribo. House and Disco. Preview the line-up and save it on soundcheck.
+OXI GARTEN 'OPEN AIR' W/ Alison Swing , Baroć , Andrea Zadro b2b DJ Haribo on Sat 29 Aug, Berlin. 4 acts on the bill: Alison Swing, Andrea Zadro, Baroć and DJ Haribo. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Sat, 29 Aug 2026 |
 | Venue | OXI |
 | City | Berlin |
 

@@ -1,6 +1,6 @@
 # 10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz at Void Club
 
-10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz at Void Club on Fri 21 Aug, Berlin. 6 acts on the bill: dela Moon, Luca Hagenmüller, MARIE.MOON and MixB and 2 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+10 Years Enter the Void with dela Moon (USA), Mo, Marie Moon, Upzet, Luca Hagenmüller, Baraquz at Void Club on Fri 21 Aug, Berlin. 7 acts on the bill: dela Moon, Gianni Noel, Luca Hagenmüller and MARIE.MOON and 3 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - dela Moon
+- Gianni Noel
 - Luca Hagenmüller
 - MARIE.MOON
 - MixB

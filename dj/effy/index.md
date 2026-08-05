@@ -1,14 +1,15 @@
 # Effy
 
-Effy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hangaren, Copenhagen on Sat, 8 Aug 2026.
+Effy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hangaren, Copenhagen on Sat, 8 Aug 2026.
 
-Effy is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 48 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Hangaren, Copenhagen on Sat 8 Aug.
+Effy is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 48 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Hangaren, Copenhagen on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Hangaren | Copenhagen |
+| Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Sat, 12 Sept 2026 | Parallel | Amsterdam |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |

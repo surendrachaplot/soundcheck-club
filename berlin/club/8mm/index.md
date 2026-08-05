@@ -1,8 +1,8 @@
 # 8MM
 
-8MM is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Romantic Fiction & 8MM present: SUPPLANT live" on Thu, 13 Aug 2026.
+8MM is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Romantic Fiction & 8MM present: SUPPLANT live" on Thu, 13 Aug 2026.
 
-8MM is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Carlos GrabStein, Desolate Discotheque, miaw and Paulina Panik and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
+8MM is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Carlos GrabStein, Desolate Discotheque, miaw and Paulina Panik and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
 ## What's on
 
@@ -14,6 +14,7 @@
 | Tue, 15 Sept 2026 | 8MM & Shameless/Limitless present: miaw | miaw |
 | Wed, 30 Sept 2026 | 8MM & Shameless/Limitless present: Morgan Garrett |  |
 | Thu, 22 Oct 2026 | 8MM & Shameless/Limitless present: Born At Midnite |  |
+| Tue, 3 Nov 2026 | 8MM Live: Sunset Images (MX) |  |
 
 ## Address
 

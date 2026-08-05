@@ -1,15 +1,15 @@
 # E1
 
-E1 is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "ALIVE X Abstract: Rebekah" on Sat, 8 Aug 2026.
+E1 is a music venue in London with 33 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "ALIVE X Abstract: Rebekah" on Sat, 8 Aug 2026.
 
-E1 is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 8KAYS, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 33 upcoming nights, with line-ups including 8KAYS, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | ALIVE X Abstract: Rebekah | LIL DARK ONE, Merimell, Rebekah |
-| Sat, 8 Aug 2026 | Andre Power x The Menendez Brothers & Friends | Andre Power, The Menendez Brothers |
+| Sat, 8 Aug 2026 | Andre Power x The Menendez Brothers & Friends | Andre Power, Raji Rags, SHAE REID (2), The Menendez Brothers |
 | Sat, 15 Aug 2026 | Guy J [Extended Set] | Elliot Moriarty, Guy J, Khen |
 | Fri, 21 Aug 2026 | ALIVE x ABSTRACT: NEGITIV, Aida Arko & Lezcano | Aida Arko, Lezcano, NEGITIV |
 | Fri, 21 Aug 2026 | ACCUSED BY ACA @ ONYX (E1) London | ACA (YU), Capron, Dale Hart, Mene, TROXY |

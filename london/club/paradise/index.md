@@ -1,13 +1,14 @@
 # Paradise
 
-Paradise is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Rinse Carnival After Party" on Mon, 31 Aug 2026.
+Paradise is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "So Fresh So Clean x Talk Nice - Carnival Sunday After Party" on Sun, 30 Aug 2026.
 
-Paradise is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 19 Kilburn Lane; Kensal Green; London W10 4AE; United Kingdom.
+Paradise is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 19 Kilburn Lane; Kensal Green; London W10 4AE; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | So Fresh So Clean x Talk Nice - Carnival Sunday After Party |  |
 | Mon, 31 Aug 2026 | Rinse Carnival After Party |  |
 
 ## Address

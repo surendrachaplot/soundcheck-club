@@ -11,7 +11,7 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming ni
 | Sat, 8 Aug 2026 | Samedia Fringe All-Nighter | Chris Astrojazz, Samedia Shebeen |
 | Sat, 15 Aug 2026 | CALYX (5am License): E.DN, Lazlo, TiLA, Trainspotters |  |
 | Fri, 21 Aug 2026 | DV60 + Friends [5am Special] | DV60 |
-| Fri, 28 Aug 2026 | Alien Disko x CandyFlip: Fringe Closing Party // 5AM LICENCE + £2 TIX |  |
+| Fri, 28 Aug 2026 | Alien Disko x CandyFlip: Fringe Closing Party // 5AM LICENCE |  |
 
 ## Address
 

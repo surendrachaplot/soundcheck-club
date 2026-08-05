@@ -14,7 +14,7 @@ Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with 
 | Fri, 21 Aug 2026 | Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze | AYIM, Aleromaze, Cosmic Caz, Kaytseng, Max Burstyn, Medlock, Melati, Xquisite Korpse |
 | Sat, 22 Aug 2026 | Singularity X Ground Rules: Day 2 Night |  |
 | Fri, 28 Aug 2026 | FREEDIVE//004:Wendy,Gamine,Massimo | Gamine, Wendy Bkz |
-| Sun, 30 Aug 2026 | May I? - Holy Tongue (Live), Craig Richards, Enrica Falqui, Chez De Milo, Jay Duncan + more | Chez de Milo, Craig Richards, Enrica Falqui, Gabriel Rai, Jay Duncan, Kian OK, Patrick Rowe |
+| Sun, 30 Aug 2026 | May I? - Holy Tongue (Live), Craig Richards, Peach, Enrica Falqui, Chez De Milo, Jay Duncan  | Chez de Milo, Craig Richards, Enrica Falqui, Gabriel Rai, Jay Duncan, Kian OK, Patrick Rowe, Peach |
 | Sat, 5 Sept 2026 | thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day | Bunney, DJ Fart in the Club, DJ Rino, Dockett Eddy, Ella Fayden, Kuba'97, Mia Cecille, Picasso, Vlada, tom thumb |
 | Sun, 6 Sept 2026 | Animals on Psychedelics x Braintickle | Carl H, GNMR, Katya, Naone, Richard Gregory |
 | Sat, 12 Sept 2026 | A day with 1-800 GIRLS & Friends | 1-800 GIRLS |

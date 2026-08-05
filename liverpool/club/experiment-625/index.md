@@ -9,7 +9,7 @@ Experiment 625 is a music venue in Liverpool listed on soundcheck. 3 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Wax Museum |  |
-| Fri, 18 Sept 2026 | Alinea presents Dorsal & Friends - Live Set / DJ Sets |  |
+| Fri, 18 Sept 2026 | Alinea presents Dorsal & Friends - Live / DJ Sets |  |
 | Sat, 19 Sept 2026 | Piping Hot Disco & J. Conley b2b Sakers (All Evening Long) - Free Entry | J. Conley, Sakers |
 
 ## Address

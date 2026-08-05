@@ -1,14 +1,15 @@
 # DADO
 
-DADO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tabula Rasa, Tokyo on Wed, 5 Aug 2026.
+DADO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Tabula Rasa, Tokyo on Wed, 5 Aug 2026.
 
-DADO is a house and techno artist tracked on soundcheck, with 73 sets logged across Bali, Kualalumpur, Malta and Tokyo and 1 more. Often billed alongside AY (10), TAKUTO (2) and ALEXANDER M. Next up: Tabula Rasa, Tokyo on Wed 5 Aug.
+DADO is a house and techno artist tracked on soundcheck, with 74 sets logged across Bali, Kualalumpur, Malta and Tokyo and 1 more. Often billed alongside AY (10), TAKUTO (2) and ALEXANDER M. Next up: Tabula Rasa, Tokyo on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Tabula Rasa | Tokyo |
+| Sat, 22 Aug 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 

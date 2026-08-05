@@ -1,6 +1,6 @@
 # Thursday Social at Rolling Stock
 
-Thursday Social at Rolling Stock on Thu 6 Aug, London. Balearic and Deep House. Preview the line-up and save it on soundcheck.
+Thursday Social at Rolling Stock on Thu 6 Aug, London. Deep House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

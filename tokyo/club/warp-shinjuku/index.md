@@ -1,0 +1,17 @@
+# Warp Shinjuku
+
+Warp Shinjuku is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "KPOP PARTY YOLO" on Wed, 5 Aug 2026.
+
+Warp Shinjuku is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1-21-1 Kabukicho, Shinjuku-ku, Tokyo, 160-0021 Japan.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Wed, 5 Aug 2026 | KPOP PARTY YOLO |  |
+
+## Address
+
+1-21-1 Kabukicho, Shinjuku-ku, Tokyo, 160-0021 Japan, Tokyo
+
+*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/warp-shinjuku/)*

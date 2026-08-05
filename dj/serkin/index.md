@@ -1,8 +1,8 @@
 # Serkin
 
-Serkin is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 14 Aug 2026.
+Serkin is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 14 Aug 2026.
 
-Serkin is a techno and electronica artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona and Madrid. Often billed alongside Dzeko, Error Etica and Kerrie. Next up: Sunseabar Beach Club, Barcelona on Fri 14 Aug.
+Serkin is a techno and electronica artist based in Spain, tracked on soundcheck, with 54 sets logged across Barcelona and Madrid. Often billed alongside Dzeko, Error Etica and Kerrie. Next up: Sunseabar Beach Club, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Serkin is a techno and electronica artist based in Spain, tracked on soundcheck,
 | Fri, 14 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Wed, 26 Aug 2026 | Moog Club | Barcelona |
 | Fri, 4 Sept 2026 | TBA | Barcelona |
+| Wed, 16 Sept 2026 | Moog Club | Barcelona |
 
 ## Recently played
 

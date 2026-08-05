@@ -1,8 +1,8 @@
 # Axis Alpha
 
-Axis Alpha is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
+Axis Alpha is a Techno and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
 
-Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 71 sets logged across Berlin, Milan, Prague and Tokyo. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Fuchs2, Prague on Sat 8 Aug.
+Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 72 sets logged across Berlin, Milan, Prague and Tokyo. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Fuchs2, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 71 sets
 | Sat, 8 Aug 2026 | Fuchs2 | Prague |
 | Sat, 8 Aug 2026 | Roxy | Prague |
 | Sat, 29 Aug 2026 | Bukanyr Boat | Prague |
+| Fri, 4 Sept 2026 | Bike Jesus | Prague |
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

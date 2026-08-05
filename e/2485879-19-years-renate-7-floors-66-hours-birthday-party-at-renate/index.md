@@ -1,6 +1,6 @@
 # 19 Years Renate - 7 Floors - 66 Hours Birthday Party at Renate
 
-19 Years Renate - 7 Floors - 66 Hours Birthday Party on Fri 11 Sept, Berlin. 27 acts on the bill: ābnamā, Alison Swing, Amy Dabbs and Bell Towers and 23 more. Techno and House. Preview the line-up and save it on soundcheck.
+19 Years Renate - 7 Floors - 66 Hours Birthday Party on Fri 11 Sept, Berlin. 35 acts on the bill: ābnamā, Adam Cooke, Alison Swing and Amy Dabbs and 31 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,14 +11,18 @@
 ## Line-up
 
 - ābnamā
+- Adam Cooke
 - Alison Swing
 - Amy Dabbs
 - Bell Towers
 - Carly Zeng
 - Cheriii
 - Dana Ruh
+- Daniel Avery
+- DJ CHICHI
 - DJ Life
 - DJ Pete
+- Dornika
 - elliephunk
 - Faited
 - Frinda di Lanco
@@ -26,8 +30,10 @@
 - Hendrik Stein
 - Immy
 - JM Moser
+- John Loveless
 - Luca Elsi
 - Mara Menace
+- Mark Gill
 - Mary Lake
 - MASCHA
 - Nadia Wise
@@ -36,6 +42,8 @@
 - Robin Flux
 - Sansibar
 - Stenny
+- Tam Tam
 - Triqi
+- Vio PRG
 
 *Source: [soundcheck](https://soundcheck.club/e/2485879-19-years-renate-7-floors-66-hours-birthday-party-at-renate/)*

@@ -1,6 +1,6 @@
 # UNSEEN x KYMA at Myra Ostraria
 
-UNSEEN x KYMA at Myra Ostraria on Fri 14 Aug, Lisbon. 3 acts on the bill: Enkō, FRNZ and Vélez. Preview the line-up and save it on soundcheck.
+UNSEEN x KYMA at Myra Ostraria on Fri 14 Aug, Lisbon. 4 acts on the bill: Cin, Enkō, FRNZ and Vélez. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ UNSEEN x KYMA at Myra Ostraria on Fri 14 Aug, Lisbon. 3 acts on the bill: Enkō,
 
 ## Line-up
 
+- Cin
 - Enkō
 - FRNZ
 - Vélez

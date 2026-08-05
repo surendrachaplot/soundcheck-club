@@ -1,6 +1,6 @@
 # Jump House at Artheater
 
-Jump House at Artheater on Fri 21 Aug, Cologne. 5 acts on the bill: anyka, Diffrent, Lizzle and snoritz and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Jump House at Artheater on Fri 21 Aug, Cologne. 6 acts on the bill: anyka, Diffrent, Ken Brause and Lizzle and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Jump House at Artheater on Fri 21 Aug, Cologne. 5 acts on the bill: anyka, Diffr
 
 - anyka
 - Diffrent
+- Ken Brause
 - Lizzle
 - snoritz
 - Tristan K (1)

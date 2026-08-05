@@ -1,6 +1,6 @@
 # ONDA x PARTYNOTCOM • The Blessed Madonna at Calatheabeachclub
 
-ONDA x PARTYNOTCOM • The Blessed Madonna at Calatheabeachclub on Sat 29 Aug, Naples. 1 act on the bill: The Blessed Madonna. Preview the line-up and save it on soundcheck.
+ONDA x PARTYNOTCOM • The Blessed Madonna at Calatheabeachclub on Sat 29 Aug, Naples. 3 acts on the bill: Fabio Stingo, Gabriele Russo and The Blessed Madonna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ONDA x PARTYNOTCOM • The Blessed Madonna at Calatheabeachclub on Sat 29 Aug, N
 
 ## Line-up
 
+- Fabio Stingo
+- Gabriele Russo
 - The Blessed Madonna
 
 *Source: [soundcheck](https://soundcheck.club/e/2441268-onda-x-partynotcom-the-blessed-madonna-at-calatheabeachclub/)*

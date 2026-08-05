@@ -1,13 +1,14 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "240KM/H F2F Sydney: Serafina All Day Long" on Sat, 26 Sept 2026.
+The Ivy is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "CLUB HEARTBEAT — AUGUST 8" on Sat, 8 Aug 2026.
 
-The Ivy is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
+The Ivy is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | CLUB HEARTBEAT — AUGUST 8 |  |
 | Sat, 26 Sept 2026 | 240KM/H F2F Sydney: Serafina All Day Long | Serafina |
 | Mon, 5 Oct 2026 | DnB Allstars (Sydney) | Camo & Krooked, Crossy, Disrupta, Kanine |
 | Sat, 10 Oct 2026 | ZURI feat. Alex Wann (FR) | Alex Wann, Maison Ware |

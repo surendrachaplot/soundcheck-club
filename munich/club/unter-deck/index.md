@@ -1,14 +1,15 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Paradox Bash: Auf Zackig! (130+)" on Thu, 6 Aug 2026.
+Unter Deck is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Paradox Bash: Auf Zackig! (130+)" on Thu, 6 Aug 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fredi.G and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including Coco Hope, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and DJ KILLING and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Paradox Bash: Auf Zackig! (130+) | Fredi.G, Pete Harel |
+| Fri, 7 Aug 2026 | Bootlick! | Coco Hope, DJ KILLING |
 | Tue, 11 Aug 2026 | NAGINI & DJ FM im Unter Deck – Tuesday in Love | DJ FM & DJ FREUND, NAGINI |
 | Wed, 12 Aug 2026 | Isarbass im Unter Deck |  |
 | Tue, 25 Aug 2026 | This time 4 real: JANKA b2b RONNY All night long | RONNY |

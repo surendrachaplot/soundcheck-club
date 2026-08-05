@@ -1,8 +1,8 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Fri, 14 Aug 2026.
+Alien Communications is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Fri, 14 Aug 2026.
 
-Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Club der Visionaere, Berlin on Fri 14 Aug.
+Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Club der Visionaere, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 | Fri, 14 Aug 2026 | Club der Visionaere | Berlin |
 | Fri, 28 Aug 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Big Penny Social | London |
+| Sat, 19 Sept 2026 | TBA - Secret Underground Bunker, Edinburgh | Edinburgh |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
 
 ## Recently played

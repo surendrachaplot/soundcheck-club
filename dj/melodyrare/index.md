@@ -13,7 +13,7 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets 
 | Sat, 15 Aug 2026 | essaim | Paris |
 | Sun, 30 Aug 2026 | Crate Brewery | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
-| Sat, 26 Sept 2026 | Palazzo Permanens | Budapest |
+| Sat, 26 Sept 2026 | Turbina | Budapest |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # anu
 
-anu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Caley Bar, Edinburgh on Wed, 9 Sept 2026.
+anu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ormside Projects, London on Sat, 29 Aug 2026.
 
-anu is a house and techno artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside 404 eros, Avsluta and NIKS. Next up: The Caley Bar, Edinburgh on Wed 9 Sept.
+anu is a house and techno artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside 404 eros, Avsluta and NIKS. Next up: Ormside Projects, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Ormside Projects | London |
 | Wed, 9 Sept 2026 | The Caley Bar | Edinburgh |
 
 ## Recently played

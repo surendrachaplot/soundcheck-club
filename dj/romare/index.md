@@ -1,8 +1,8 @@
 # Romare
 
-Romare is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Gretchen, Berlin on Sat, 3 Oct 2026.
+Romare is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Gretchen, Berlin on Sat, 3 Oct 2026.
 
-Romare is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Berlin and Brighton and 27 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Gretchen, Berlin on Sat 3 Oct.
+Romare is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Brighton and 27 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Gretchen, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Romare is a house and electronica artist based in United Kingdom, tracked on sou
 | Sat, 17 Oct 2026 | The Berkeley Suite | Glasgow |
 | Sun, 18 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 22 Oct 2026 | Village Underground | London |
+| Fri, 23 Oct 2026 | Fidelity Studio | Dublin |
 | Thu, 29 Oct 2026 | Belgrave Music Hall | Leeds |
 
 ## Recently played

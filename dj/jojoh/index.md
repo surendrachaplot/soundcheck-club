@@ -1,14 +1,15 @@
 # JOJOH
 
-JOJOH is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 7 Aug 2026.
+JOJOH is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri, 7 Aug 2026.
 
-JOJOH is a drum & bass and dubstep artist based in Thailand, tracked on soundcheck, with 8 sets logged across Bangkok. Often billed alongside LXYN, KAMIKO and NENEIA. Next up: TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri 7 Aug.
+JOJOH is a drum & bass and dubstep artist based in Thailand, tracked on soundcheck, with 9 sets logged across Bangkok. Often billed alongside LXYN, KAMIKO and NENEIA. Next up: TBA - GEARBOX The Warehouse Talat Noi, Bangkok on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - GEARBOX The Warehouse Talat Noi | Bangkok |
+| Sat, 22 Aug 2026 | Blaq Lyte Bloq | Bangkok |
 
 ## Recently played
 

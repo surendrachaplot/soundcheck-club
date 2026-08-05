@@ -1,6 +1,6 @@
 # ALIVE: southstar at E1
 
-ALIVE: southstar at E1 on Fri 18 Sept, London. 1 act on the bill: southstar. Trance and Techno. Preview the line-up and save it on soundcheck.
+ALIVE: southstar at E1 on Fri 18 Sept, London. 3 acts on the bill: ASHTREY, LIL DARK ONE and southstar. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ALIVE: southstar at E1 on Fri 18 Sept, London. 1 act on the bill: southstar. Tra
 
 ## Line-up
 
+- ASHTREY
+- LIL DARK ONE
 - southstar
 
 *Source: [soundcheck](https://soundcheck.club/e/2465132-alive-southstar-at-e1/)*

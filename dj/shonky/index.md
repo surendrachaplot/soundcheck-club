@@ -1,8 +1,8 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 5 Aug 2026.
+Shonky is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 5 Aug 2026.
 
-Shonky is a house and tech house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Playa Soleil Ibiza, Ibiza on Wed 5 Aug.
+Shonky is a house and tech house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Playa Soleil Ibiza, Ibiza on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Shonky is a house and tech house artist tracked on soundcheck, with 216 sets log
 | Sun, 9 Aug 2026 | TBA - DTLA | Los Angeles |
 | Sat, 22 Aug 2026 | Buda BXL | Brussels |
 | Sat, 22 Aug 2026 | Lux Fragil | Lisbon |
+| Sat, 29 Aug 2026 | Rex Club | Paris |
 | Fri, 11 Sept 2026 | Ouseburn Garden | Newcastle |
 | Fri, 25 Sept 2026 | Floyd | Miami |
 | Sat, 10 Oct 2026 | FOLD | London |

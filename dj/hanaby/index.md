@@ -1,14 +1,15 @@
 # Hanaby
 
-Hanaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TORTE BAR, Berlin on Thu, 13 Aug 2026.
+Hanaby is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TORTE BAR, Berlin on Thu, 13 Aug 2026.
 
-Hanaby is a techno and house artist tracked on soundcheck, with 101 sets logged across Antwerp, Athens, Berlin and Cologne and 9 more. Often billed alongside malengo, DJ Jewel and JADA MORAES. Next up: TORTE BAR, Berlin on Thu 13 Aug.
+Hanaby is a techno and house artist tracked on soundcheck, with 102 sets logged across Antwerp, Athens, Berlin and Cologne and 9 more. Often billed alongside malengo, DJ Jewel and JADA MORAES. Next up: TORTE BAR, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TORTE BAR | Berlin |
+| Sat, 29 Aug 2026 | Renate | Berlin |
 | Sat, 29 Aug 2026 | Renate | Berlin |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Else x Innellea, Massano, Dyzen, Ede and many more at Else
 
-Else x Innellea, Massano, Dyzen, Ede and many more on Sat 29 Aug, Berlin. 4 acts on the bill: Dyzen, Ede, Innellea and Massano. Techno. Preview the line-up and save it on soundcheck.
+Else x Innellea, Massano, Dyzen, Ede and many more on Sat 29 Aug, Berlin. 6 acts on the bill: Anaté, Caleesi, Dyzen and Ede and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Else x Innellea, Massano, Dyzen, Ede and many more on Sat 29 Aug, Berlin. 4 acts
 
 ## Line-up
 
+- Anaté
+- Caleesi
 - Dyzen
 - Ede
 - Innellea

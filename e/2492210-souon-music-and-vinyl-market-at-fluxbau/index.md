@@ -1,6 +1,6 @@
 # Souon music and vinyl market at Fluxbau
 
-Souon music and vinyl market at Fluxbau on Sun 9 Aug, Berlin. 5 acts on the bill: Marco Bellacozza (2), mojo (DE), Roygbiv and Tina (DE) and 1 more. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Souon music and vinyl market at Fluxbau on Sun 9 Aug, Berlin. 6 acts on the bill: Kabasa, Marco Bellacozza (2), mojo (DE) and Roygbiv and 2 more. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Souon music and vinyl market at Fluxbau on Sun 9 Aug, Berlin. 5 acts on the bill
 
 ## Line-up
 
+- Kabasa
 - Marco Bellacozza (2)
 - mojo (DE)
 - Roygbiv

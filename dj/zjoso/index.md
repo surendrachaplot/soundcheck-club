@@ -1,13 +1,14 @@
 # Zjoso
 
-Zjoso is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Wax Music Lounge, Melbourne on Sat, 22 Aug 2026.
+Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Sat, 15 Aug 2026.
 
-Zjoso is a house and deep house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana (1). Next up: Wax Music Lounge, Melbourne on Sat 22 Aug.
+Zjoso is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana (1). Next up: Solace, Melbourne on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Solace | Melbourne |
 | Sat, 22 Aug 2026 | Wax Music Lounge | Melbourne |
 
 ## Recently played

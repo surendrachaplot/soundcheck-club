@@ -9,7 +9,7 @@ Maaya is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Pink Mango - Afterwork Afrobeat Pool Party |  |
-| Thu, 6 Aug 2026 | RIPPLES with Amine K & Guests | Amine K |
+| Thu, 6 Aug 2026 | RIPPLES with Amine K, Cedric Marian, Jordi Iven & Mala | Amine K, Jordi Iven |
 | Fri, 7 Aug 2026 | HOMECOMING - DJ WORKSHOP - BIPOC ONLY |  |
 | Fri, 7 Aug 2026 | SUPAFLY - Afterwork 2000s Party |  |
 | Fri, 7 Aug 2026 | Salsa Brava - Salsa Dance classes |  |

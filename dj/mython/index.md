@@ -1,8 +1,8 @@
 # Mython
 
-Mython is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Clinker Lounge in der Backfabrik, Berlin on Sat, 8 Aug 2026.
+Mython is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Clinker Lounge in der Backfabrik, Berlin on Sat, 8 Aug 2026.
 
-Mython is a techno and trance artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Jonas Xenon, Scepticism and Tanzanfall. Next up: Clinker Lounge in der Backfabrik, Berlin on Sat 8 Aug.
+Mython is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Jonas Xenon, Scepticism and Tanzanfall. Next up: Clinker Lounge in der Backfabrik, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mython is a techno and trance artist tracked on soundcheck, with 63 sets logged 
 | Sat, 8 Aug 2026 | Clinker Lounge in der Backfabrik | Berlin |
 | Thu, 13 Aug 2026 | ÆDEN | Berlin |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
+| Sat, 5 Sept 2026 | Renate | Berlin |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

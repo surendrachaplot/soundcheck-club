@@ -3951,7 +3951,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785833863120">
+<meta name="sc-build" content="1785950975425">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4009,7 +4009,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">31 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">72 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">106 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">35 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">33 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">73 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">111 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">37 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">24 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4527,6 +4527,15 @@
     function livePos(){ if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime) return ytPlayer.getCurrentTime()||0; return pos; }
     function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); } pos=sec; paintScrub(); }
     function barFrac(e){ var r=barEl.getBoundingClientRect(); var cx=(e.clientX!=null?e.clientX:(e.touches&&e.touches[0]?e.touches[0].clientX:0)); return Math.min(1,Math.max(0,(cx-r.left)/r.width)); }
+    // Seek by fraction, for the native app's dock.
+    //
+    // The app used to scrub by SYNTHESISING pointerdown/move/up on #bar at an x
+    // it worked out from getBoundingClientRect. That makes a seek depend on the
+    // web dock's LAYOUT inside a WebView the user never sees — and when the rect
+    // came back zero-width, every scrub computed fraction 0 and sent the track
+    // back to the start. The position is a number; it should not have to be
+    // expressed as a gesture and measured back out of one.
+    window.__scSeekFrac=function(f){ if(!dur) return false; seekTo(Math.max(0,Math.min(1,f))*dur); return true; };
     // SCA playhead: the bar-knob IS the play/pause button in BOTH collapsed and expanded —
     // a tap toggles, a drag scrubs. (The panel's expand-on-tap already excludes .scrub.)
     var _phDown=null;
@@ -4565,6 +4574,10 @@
       var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'', navCity=(btn&&btn.dataset&&btn.dataset.city)||'';
       var isTrack=!!(btn&&btn.dataset&&btn.dataset.kind==='track');   // Tracks queue: name is a song title (no track page) — link the DJ in the sub-line instead
       dockName.classList.toggle('linky', !!navSlug && !isTrack);
+      // Mirrored for the native dock, which renders its own name and so cannot
+      // inherit this onclick — without the slug on the DOM it had no way to know
+      // the name was navigable at all.
+      dockName.dataset.slug = (navSlug && !isTrack) ? navSlug : '';
       dockName.onclick = (navSlug && !isTrack) ? function(){ openArtist(navSlug); } : null;
       if(isTrack){
         dockSrc.textContent = btn.dataset.artist||'';
@@ -5295,7 +5308,14 @@
       var venues=Object.keys(vmap).map(function(k){ return vmap[k]; })
         .filter(function(v){ return v.list.length>=2; })
         .sort(function(a,b){ return (b.att-a.att)||(b.list.length-a.list.length); })
-        .slice(0,12);
+        // Six, not every room with a pulse. A weekend yields ~33 venues with two
+        // or more acts, and 33 stations is a directory, not a rack - the point of
+        // a station is that it is worth turning on, and the twentieth-best room
+        // this weekend is not. Showing it only makes the top six look less chosen.
+        // MUST stay in step with MAX_VENUE_STATIONS in the app's RadioScreen:
+        // native hands off by clicking the row rendered here, so a station the
+        // app lists and this does not is a button that does nothing.
+        .slice(0,6);
       // Station art comes from the real posters already in the payload — no extra
       // request, and a room's own flyer says more than a generated gradient.
       var posterFor=function(list){ for(var i=0;i<list.length;i++) if(list[i].poster) return list[i].poster; return ''; };

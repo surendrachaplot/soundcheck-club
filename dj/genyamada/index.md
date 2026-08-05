@@ -1,14 +1,15 @@
 # Gen Yamada
 
-Gen Yamada is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 9 Aug 2026.
+Gen Yamada is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 9 Aug 2026.
 
-Gen Yamada is a house and hip-hop artist based in Japan, tracked on soundcheck, with 48 sets logged across Tokyo. Often billed alongside WASP, HIMAWARI and zendo. Next up: Circus Tokyo, Tokyo on Sun 9 Aug.
+Gen Yamada is a house and hip-hop artist based in Japan, tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside WASP, HIMAWARI and ecec. Next up: Circus Tokyo, Tokyo on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Circus Tokyo | Tokyo |
+| Fri, 14 Aug 2026 | 不眠遊戯ライオン - Music Bar Lion | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gen Yamada is a house and hip-hop artist based in Japan, tracked on soundcheck, 
 
 ## Shares bills with
 
-WASP, HIMAWARI, zendo
+WASP, HIMAWARI, ecec
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genyamada/)*

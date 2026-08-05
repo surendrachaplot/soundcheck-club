@@ -1,6 +1,6 @@
 # AFRO SEXY at Wax Music Lounge
 
-AFRO SEXY at Wax Music Lounge on Sat 12 Sept, Melbourne. Afrobeats. Preview the line-up and save it on soundcheck.
+AFRO SEXY at Wax Music Lounge on Sat 12 Sept, Melbourne. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,15 +1,15 @@
 # fabric
 
-fabric is a music venue in London with 29 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers" on Fri, 7 Aug 2026.
+fabric is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers" on Fri, 7 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Adriatique, A For Alpha, A Hard Day's Dance and Amoss and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Adriatique, A For Alpha, A Hard Day's Dance and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers | Cody Currie, Dunmore Brothers, Jeremy Underground, Minister Ballantine, Tommy Gold, malix |
-| Sat, 8 Aug 2026 | Adriatique presents X - Afterparty | Adriatique |
+| Sat, 8 Aug 2026 | Adriatique presents X: Nick Castle, Nicky Elisabeth, Samm, Scenarios, Julia Linkogel | Adriatique, Julia Linkogel, Nick Castle, Nicky Elisabeth, Samm |
 | Sun, 9 Aug 2026 | CAYA by fabric: Tamango - Yaya (All Night Long) | Yaya |
 | Fri, 14 Aug 2026 | Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more | Brina Knauss, Cristoph, Giolì & Assia, Layla Benitez, Lowsteppa, Paisley Jensen, hitty |
 | Sat, 15 Aug 2026 | fabric: Seb Zito, Jamie Fielding, Goosey, FLORENTIA, Danny Snowden | Danny Snowden, FLORENTIA, Goosey, Jamie Fielding, Seb Zito |

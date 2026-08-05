@@ -1,14 +1,15 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
+Boston 168 is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
 
-Boston 168 is a techno and acid artist tracked on soundcheck, with 64 sets logged across Antwerp, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
+Boston 168 is a techno and acid artist tracked on soundcheck, with 65 sets logged across Antwerp, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 18 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 
 ## Recently played

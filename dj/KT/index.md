@@ -1,8 +1,8 @@
 # KT
 
-KT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Night Tales, London on Sat, 15 Aug 2026.
+KT is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Night Tales, London on Sat, 15 Aug 2026.
 
-KT is a house and techno artist tracked on soundcheck, with 123 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Night Tales, London on Sat 15 Aug.
+KT is a house and techno artist tracked on soundcheck, with 124 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Night Tales, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ KT is a house and techno artist tracked on soundcheck, with 123 sets logged acro
 | Sun, 30 Aug 2026 | All My Friends | London |
 | Fri, 4 Sept 2026 | The Loft | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sun, 20 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
 
 ## Recently played

@@ -1,13 +1,15 @@
 # LORZA
 
-LORZA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at City Hall, Barcelona on Wed, 12 Aug 2026.
+LORZA is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Atlantic Sound, Barcelona on Sun, 9 Aug 2026.
 
-LORZA is a tech house and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Alan Jimenez, DAGZZ and Basement Scene. Next up: City Hall, Barcelona on Wed 12 Aug.
+LORZA is a tech house and house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside Alan Jimenez, Devicious and Bill Hates. Next up: Atlantic Sound, Barcelona on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Atlantic Sound | Barcelona |
+| Sun, 9 Aug 2026 | Atlantic Sound | Barcelona |
 | Wed, 12 Aug 2026 | City Hall | Barcelona |
 
 ## Recently played
@@ -23,6 +25,6 @@ LORZA is a tech house and house artist based in Spain, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Alan Jimenez, DAGZZ, Basement Scene
+Alan Jimenez, Devicious, Bill Hates
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorza/)*

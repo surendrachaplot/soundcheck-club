@@ -1,14 +1,16 @@
 # MeRas
 
-MeRas is a Reggaeton and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club NYX, Amsterdam on Sat, 8 Aug 2026.
+MeRas is a Dancehall and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club NYX, Amsterdam on Sat, 8 Aug 2026.
 
-MeRas is a reggaeton and pop artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam and Brussels. Often billed alongside Dangerous Rose, Diklipdaan and Edward Meunier. Next up: Club NYX, Amsterdam on Sat 8 Aug.
+MeRas is a dancehall and disco artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Brussels. Often billed alongside Edward Meunier, Babs op de beat and Dangerous Rose. Next up: Club NYX, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Club NYX | Amsterdam |
+| Sat, 12 Sept 2026 | Club NYX | Amsterdam |
+| Sat, 26 Sept 2026 | Club NYX | Amsterdam |
 
 ## Recently played
 
@@ -16,6 +18,6 @@ MeRas is a reggaeton and pop artist based in Netherlands, tracked on soundcheck,
 
 ## Shares bills with
 
-Dangerous Rose, Diklipdaan, Edward Meunier
+Edward Meunier, Babs op de beat, Dangerous Rose
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meras/)*

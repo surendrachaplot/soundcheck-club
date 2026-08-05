@@ -9,7 +9,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 56 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Resistance Ibiza | Adam Beyer, Airrica, Eric Prydz, Maceo Plex, Yulia Niko |
-| Thu, 6 Aug 2026 | You&Me | Joseph Capriati, Josh Baker, Local Dub, M-High, Marlie, Saoirse |
+| Thu, 6 Aug 2026 | You&Me | ALEXANDER M, ALISHA, Joseph Capriati, Josh Baker, Local Dub, Luca Cazal, M-High, Marlie, Saoirse, jWave |
 | Fri, 7 Aug 2026 | Glitterbox | Carl Craig, Daisybelle, Derrick Carter, Flight Facilities, Groove Armada, Honey Dijon, Moodymann, Yasmin |
 | Sun, 9 Aug 2026 | Pyramid | 999999999, CAAL, Héctor Oaks, Interplanetary Criminal, Sidney Charles, Silva Bumpa, Yanamaste, ÜBERKIKZ |
 | Mon, 10 Aug 2026 | NRG | Ben Hemsley, DART, Fergie, Kyle Starkey |
