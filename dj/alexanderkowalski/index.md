@@ -1,14 +1,15 @@
 # Alexander Kowalski
 
-Alexander Kowalski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Tue, 25 Aug 2026.
+Alexander Kowalski is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Tue, 25 Aug 2026.
 
-Alexander Kowalski is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside BLACK ANTHEM RESTORE, Any Mello and Esther Dune. Next up: OXI, Berlin on Tue 25 Aug.
+Alexander Kowalski is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside BLACK ANTHEM RESTORE, Any Mello and Esther Dune. Next up: OXI, Berlin on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | OXI | Berlin |
+| Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

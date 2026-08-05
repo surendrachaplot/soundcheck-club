@@ -1,13 +1,14 @@
 # After Dark
 
-After Dark is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "The Prog Lab - Nick Muir & Luke Brancaccio" on Sat, 19 Sept 2026.
+After Dark is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Casa Disco presents...Watchers" on Fri, 18 Sept 2026.
 
-After Dark is a music venue in Bristol listed on soundcheck. 1 upcoming night, with line-ups including Jawjee, Luke Brancaccio and Nick Muir. Browse upcoming dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
+After Dark is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including Jawjee, Luke Brancaccio, Nick Muir and Watchers. Browse upcoming dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Casa Disco presents...Watchers | Watchers |
 | Sat, 19 Sept 2026 | The Prog Lab - Nick Muir & Luke Brancaccio | Jawjee, Luke Brancaccio, Nick Muir |
 
 ## Address

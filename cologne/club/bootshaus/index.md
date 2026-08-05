@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "R3hab pres. by Bootshaus" on Fri, 7 Aug 2026.
+Bootshaus is a music venue in Cologne with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "R3hab pres. by Bootshaus" on Fri, 7 Aug 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including Afem Syko, Alba Franch, BIIANCO and Charlie and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming nights, with line-ups including Afem Syko, Alba Franch, BIIANCO and Charlie and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, 
 | Fri, 4 Sept 2026 | R3hab pres. by Bootshaus | R3hab |
 | Fri, 11 Sept 2026 | Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk | Dr Donk, Lekkerfaces, Yoshiko |
 | Fri, 18 Sept 2026 | Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more | Alba Franch, Cleopard2000, Elotrance, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi, t e s t p r e s s |
-| Sun, 20 Sept 2026 | VERTILE pres. EVERYTHING CHANGES -LIVE- |  |
+| Fri, 18 Sept 2026 | polyamor | Alba Franch, Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi |
 
 ## Address
 

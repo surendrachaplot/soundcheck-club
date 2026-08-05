@@ -1,14 +1,15 @@
 # Giorgio Stefano
 
-Giorgio Stefano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 5 Aug 2026.
+Giorgio Stefano is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 5 Aug 2026.
 
-Giorgio Stefano is a house and tech house artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona, Frankfurt, Mexicocity and Miami. Often billed alongside Alejandra Rosales, Baum and Claudius (DE). Next up: Ku Barcelona, Barcelona on Wed 5 Aug.
+Giorgio Stefano is a house and tech house artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona, Frankfurt, Mexicocity and Miami. Often billed alongside Alejandra Rosales, Baum and Brenda Cast. Next up: Ku Barcelona, Barcelona on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Ku Barcelona | Barcelona |
+| Sat, 8 Aug 2026 | BUS Hexperience | Barcelona |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Giorgio Stefano is a house and tech house artist based in Spain, tracked on soun
 
 ## Shares bills with
 
-Alejandra Rosales, Baum, Claudius (DE)
+Alejandra Rosales, Baum, Brenda Cast
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiostefano/)*

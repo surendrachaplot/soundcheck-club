@@ -12,7 +12,7 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 | Sat, 8 Aug 2026 | Félíneach W/ Conor Schmtz & Matcha | Conor Schmtz, Matcha |
 | Fri, 21 Aug 2026 | TUUUNEz.INC PRES. HAPPY MUSIC |  |
 | Sat, 22 Aug 2026 | Crilli DNB presents Toby Ross (Shall Not Fade- Bristol) |  |
-| Sat, 29 Aug 2026 | Awesome Soundwave Live presents Phil Kieran Live @USC | Christopher Coe, Phil Kieran, Sturge |
+| Sat, 29 Aug 2026 | Awesome Soundwave presents Phil Kieran Live & Christopher Coe Live @USC | Christopher Coe, Phil Kieran, Sturge |
 | Fri, 4 Sept 2026 | Coda 022: CRAVO | Adam Munn, Blark, CRAVO, Cricky Lyttle |
 | Fri, 4 Sept 2026 | Last Orders |  |
 | Sat, 12 Sept 2026 | Shoot Your Shot X Bella Festa | Bella Festa, Bonzai Bonner, Katiee.eem |

@@ -1,8 +1,8 @@
 # MileZ
 
-MileZ is a Techno and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - RECORD CITY SHOP, Tokyo on Fri, 7 Aug 2026.
+MileZ is a Techno and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - RECORD CITY SHOP, Tokyo on Fri, 7 Aug 2026.
 
-MileZ is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Kyoto, London, Osaka and Seoul and 1 more. Often billed alongside YUVIE, r1ku and SAMO (JP). Next up: TBA - RECORD CITY SHOP, Tokyo on Fri 7 Aug.
+MileZ is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Kyoto, London, Osaka and Seoul and 1 more. Often billed alongside YUVIE, r1ku and SAMO (JP). Next up: TBA - RECORD CITY SHOP, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MileZ is a techno and jungle artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - RECORD CITY SHOP | Tokyo |
 | Sat, 8 Aug 2026 | Cube | Tokyo |
+| Sat, 8 Aug 2026 | 88block | Tokyo |
 | Thu, 13 Aug 2026 | Planet Wax | London |
 
 ## Recently played

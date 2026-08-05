@@ -1,8 +1,8 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
+Len Faki is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
 
-Len Faki is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Else, Berlin on Sat 8 Aug.
+Len Faki is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Else, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Len Faki is a techno and house artist tracked on soundcheck, with 130 sets logge
 | Sat, 8 Aug 2026 | Else | Berlin |
 | Sat, 8 Aug 2026 | EXIL | Zurich |
 | Sat, 15 Aug 2026 | KALT | Strasbourg |
+| Sat, 29 Aug 2026 | The Liquid Room | Edinburgh |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sat, 19 Sept 2026 | Phonox | London |
 | Sat, 17 Oct 2026 | VIERNULVIER | Ghent |

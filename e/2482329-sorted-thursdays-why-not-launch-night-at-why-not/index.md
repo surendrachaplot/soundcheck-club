@@ -1,6 +1,6 @@
 # SORTED THURSDAYS @ Why Not [LAUNCH NIGHT] at Why Not
 
-SORTED THURSDAYS @ Why Not [LAUNCH NIGHT] on Thu 13 Aug, Edinburgh. 1 act on the bill: A-TØN. Techno and House. Preview the line-up and save it on soundcheck.
+SORTED THURSDAYS @ Why Not [LAUNCH NIGHT] on Thu 13 Aug, Edinburgh. 2 acts on the bill: A-TØN and SPPT. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SORTED THURSDAYS @ Why Not [LAUNCH NIGHT] on Thu 13 Aug, Edinburgh. 1 act on the
 ## Line-up
 
 - A-TØN
+- SPPT
 
 *Source: [soundcheck](https://soundcheck.club/e/2482329-sorted-thursdays-why-not-launch-night-at-why-not/)*

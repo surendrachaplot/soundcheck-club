@@ -1,8 +1,8 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+TASSERY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Geneva and Krakow and 15 more. Often billed alongside 6EJOU, Aphøtic and Carla Schmitt. Next up: Airport Würzburg, Nurnberg on Fri 16 Oct.
+TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Berlin and Geneva and 16 more. Often billed alongside 6EJOU, Aphøtic and Carla Schmitt. Next up: Airport Würzburg, Nurnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TASSERY is a techno and trance artist based in France, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Sun, 25 Oct 2026 | Club Vaag | Antwerp |
 
 ## Recently played
 

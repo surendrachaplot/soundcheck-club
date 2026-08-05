@@ -1,14 +1,15 @@
 # SDJ (1)
 
-SDJ (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The DBA, Manchester on Fri, 14 Aug 2026.
+SDJ (1) is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The DBA, Manchester on Fri, 14 Aug 2026.
 
-SDJ (1) is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Manchester. Often billed alongside maevie, ANT1 (2) and AYDJ. Next up: The DBA, Manchester on Fri 14 Aug.
+SDJ (1) is a trance and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside FAGASH, FXCKBOUT and Gatling. Next up: The DBA, Manchester on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | The DBA | Manchester |
+| Fri, 18 Sept 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SDJ (1) is a trance and techno artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-maevie, ANT1 (2), AYDJ
+FAGASH, FXCKBOUT, Gatling
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*

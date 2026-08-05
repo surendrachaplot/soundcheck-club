@@ -1,13 +1,14 @@
 # CRISTI:ANA
 
-CRISTI:ANA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
+CRISTI:ANA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bsmt 254, Toronto on Thu, 20 Aug 2026.
 
-CRISTI:ANA is a techno and tech house artist tracked on soundcheck, with 36 sets logged across Montreal and Toronto. Often billed alongside VARON, Cozmic Cat and MENACE.. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
+CRISTI:ANA is a techno and tech house artist tracked on soundcheck, with 37 sets logged across Montreal and Toronto. Often billed alongside VARON, Cozmic Cat and MENACE.. Next up: Bsmt 254, Toronto on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Bsmt 254 | Toronto |
 | Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played

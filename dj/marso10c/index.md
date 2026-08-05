@@ -1,8 +1,8 @@
 # Mars O10C
 
-Mars O10C is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 22 Aug 2026.
+Mars O10C is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 22 Aug 2026.
 
-Mars O10C is a progressive house and techno artist tracked on soundcheck, with 51 sets logged across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Karmen Camina, Strasbourg on Sat 22 Aug.
+Mars O10C is a progressive house and techno artist tracked on soundcheck, with 52 sets logged across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Karmen Camina, Strasbourg on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mars O10C is a progressive house and techno artist tracked on soundcheck, with 5
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Karmen Camina | Strasbourg |
 | Sat, 12 Sept 2026 | Le Trabendo | Paris |
+| Fri, 2 Oct 2026 | Macadam | Nantes |
 
 ## Recently played
 

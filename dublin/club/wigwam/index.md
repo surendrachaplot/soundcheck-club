@@ -1,8 +1,8 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 22 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Jamie Bissmire" on Fri, 7 Aug 2026.
+Wigwam is a music venue in Dublin with 23 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Jamie Bissmire" on Fri, 7 Aug 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming nights, with line-ups including ALPER SKR, Altern-8, Angel D'lite and Bláthnaid and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 23 upcoming nights, with line-ups including ALPER SKR, Altern-8, Angel D'lite and BENZA and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 24 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Joesef presents Dependency  Rahul.mp3 all night long" on Thu, 6 Aug 2026.
+The Berkeley Suite is a music venue in Glasgow with 25 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Joesef presents Dependency  Rahul.mp3 all night long" on Thu, 6 Aug 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 24 upcoming nights, with line-ups including AKA DISPLAY, Angel Negrin, Austin Ato and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming nights, with line-ups including AKA DISPLAY, Angel Negrin, Austin Ato and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 

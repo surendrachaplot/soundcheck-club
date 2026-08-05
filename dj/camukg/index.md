@@ -1,8 +1,8 @@
 # camukg
 
-camukg is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Eiger Studios, Leeds on Sat, 5 Sept 2026.
+camukg is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Eiger Studios, Leeds on Sat, 5 Sept 2026.
 
-camukg is a garage and house artist tracked on soundcheck, with 14 sets logged across Bristol, Leeds, London and Southampton. Often billed alongside B-HIND, whoswill and AVA (3). Next up: Eiger Studios, Leeds on Sat 5 Sept.
+camukg is a garage and house artist tracked on soundcheck, with 15 sets logged across Bristol, Leeds, London and Southampton. Often billed alongside B-HIND, whoswill and AVA (3). Next up: Eiger Studios, Leeds on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ camukg is a garage and house artist tracked on soundcheck, with 14 sets logged a
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eiger Studios | Leeds |
 | Fri, 18 Sept 2026 | Lakota | Bristol |
+| Sat, 19 Sept 2026 | Mint Warehouse | Leeds |
 
 ## Recently played
 

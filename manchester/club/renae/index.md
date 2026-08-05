@@ -1,8 +1,8 @@
 # renae
 
-renae is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "renae: Cosmikuro" on Wed, 5 Aug 2026.
+renae is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "renae: Cosmikuro" on Wed, 5 Aug 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Abena, April (UK), Ayy Den and Charms and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 16 upcoming nights, with line-ups including Abena, April (UK), Ayy Den and Charms and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 

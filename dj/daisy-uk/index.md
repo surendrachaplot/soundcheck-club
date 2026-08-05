@@ -1,8 +1,8 @@
 # DAISY
 
-DAISY is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Thu, 13 Aug 2026.
+DAISY is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Thu, 13 Aug 2026.
 
-DAISY is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy (2) and Prozak (IRL). Next up: UNO MALTA, Malta on Thu 13 Aug.
+DAISY is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy (2) and Prozak (IRL). Next up: UNO MALTA, Malta on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DAISY is a garage and bass artist based in United Kingdom, tracked on soundcheck
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | UNO MALTA | Malta |
 | Sat, 22 Aug 2026 | Kazimier Garden | Liverpool |
+| Sat, 5 Sept 2026 | renae | Manchester |
 | Fri, 2 Oct 2026 | Night Tales Loft | London |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 

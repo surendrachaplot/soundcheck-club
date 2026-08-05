@@ -1,13 +1,14 @@
 # Facta
 
-Facta is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at MTELUS, Montreal on Sat, 29 Aug 2026.
+Facta is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
 
-Facta is a bass and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Berlin and Bristol and 12 more. Often billed alongside K-LONE, Yushh and EMA (1). Next up: MTELUS, Montreal on Sat 29 Aug.
+Facta is a bass and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Berlin and Bristol and 13 more. Often billed alongside K-LONE, Yushh and EMA (1). Next up: The Jama, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | The Jama | Toronto |
 | Sat, 29 Aug 2026 | MTELUS | Montreal |
 | Sat, 19 Sept 2026 | Gaffe | London |
 

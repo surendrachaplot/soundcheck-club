@@ -1,8 +1,8 @@
 # SATYS FYRE
 
-SATYS FYRE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+SATYS FYRE is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
-SATYS FYRE is a techno and trance artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside XIMA, YOVA and Carotin. Next up: Zürichsee, Zurich on Sat 8 Aug.
+SATYS FYRE is a techno and trance artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Cleopard2000, Elotrance and XIMA. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SATYS FYRE is a techno and trance artist based in Germany, tracked on soundcheck
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 22 Aug 2026 | Virage | Paris |
 | Fri, 4 Sept 2026 | OST | Berlin |
+| Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |
 
@@ -28,6 +29,6 @@ SATYS FYRE is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-XIMA, YOVA, Carotin
+Cleopard2000, Elotrance, XIMA
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*

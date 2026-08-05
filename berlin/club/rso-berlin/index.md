@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AADJA and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AADJA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 

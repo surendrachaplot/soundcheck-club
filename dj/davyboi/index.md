@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
+davyboi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 14 Aug 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Mika Heggemann, Cleopard2000 and Alba Franch. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 14 Aug.
+davyboi is a techno and trance artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Mika Heggemann, Cleopard2000 and Alba Franch. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ davyboi is a techno and trance artist tracked on soundcheck, with 157 sets logge
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
+| Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
-| Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
 
 ## Recently played
 

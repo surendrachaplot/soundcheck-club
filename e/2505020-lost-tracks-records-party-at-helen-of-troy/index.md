@@ -1,6 +1,6 @@
 # Lost Tracks Records Party at Helen of Troy
 
-Lost Tracks Records Party at Helen of Troy on Thu 6 Aug, London. 1 act on the bill: Afrocat. Funk / Soul and Afrobeat. Preview the line-up and save it on soundcheck.
+Lost Tracks Records Party at Helen of Troy on Thu 6 Aug, London. 1 act on the bill: Afrocat. Afrobeat and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

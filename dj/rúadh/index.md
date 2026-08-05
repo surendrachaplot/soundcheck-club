@@ -1,14 +1,15 @@
 # Rúadh
 
-Rúadh is a Acid and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 15 Aug 2026.
+Rúadh is a Acid and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 15 Aug 2026.
 
-Rúadh is an acid and progressive house artist tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside Connor (UK), Deventi and AMiiNA. Next up: TBA - Fountain Records | King Street, Stretford, Manchester on Sat 15 Aug.
+Rúadh is an acid and garage artist tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside Deventi, Connor (UK) and FXCKBOUT. Next up: TBA - Fountain Records | King Street, Stretford, Manchester on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Fountain Records / King Street, Stretford | Manchester |
+| Fri, 18 Sept 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Rúadh is an acid and progressive house artist tracked on soundcheck, with 4 set
 
 ## Shares bills with
 
-Connor (UK), Deventi, AMiiNA
+Deventi, Connor (UK), FXCKBOUT
 
 *Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*

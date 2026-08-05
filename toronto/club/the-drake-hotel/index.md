@@ -9,7 +9,7 @@ The Drake Hotel is a music venue in Toronto listed on soundcheck. 3 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | WFIT: JUNGLE JUICE |  |
-| Sun, 23 Aug 2026 | Toronto, I NEED YOU |  |
+| Sun, 23 Aug 2026 | TORONTO, I NEED YOU (Open Air) |  |
 | Sat, 5 Sept 2026 | Anais - Archetype Sound  | Anaïs, Elozyz, SZETO |
 
 ## Address

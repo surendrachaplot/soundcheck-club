@@ -1,6 +1,6 @@
 # Perfect Sundays:: at Club der Visionaere
 
-Perfect Sundays:: at Club der Visionaere on Sun 9 Aug, Berlin. 5 acts on the bill: André Galluzzi, Cesar Merveille, Lorenzo Chiabotti and Luc Ringeisen and 1 more. Preview the line-up and save it on soundcheck.
+Perfect Sundays:: at Club der Visionaere on Sun 9 Aug, Berlin. 7 acts on the bill: André Galluzzi, Cesar Merveille, Inner and Justin Shaffer and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Perfect Sundays:: at Club der Visionaere on Sun 9 Aug, Berlin. 5 acts on the bil
 
 - André Galluzzi
 - Cesar Merveille
+- Inner
+- Justin Shaffer
 - Lorenzo Chiabotti
 - Luc Ringeisen
 - Que Sakamoto

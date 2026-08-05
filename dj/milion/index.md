@@ -1,8 +1,8 @@
 # Milion
 
-Milion is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Thuishaven, Amsterdam on Sun, 9 Aug 2026.
+Milion is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Thuishaven, Amsterdam on Sun, 9 Aug 2026.
 
-Milion is a house and garage artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Bristol and Cologne and 19 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Thuishaven, Amsterdam on Sun 9 Aug.
+Milion is a house and garage artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Bristol and 20 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Thuishaven, Amsterdam on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Milion is a house and garage artist tracked on soundcheck, with 96 sets logged a
 | Sun, 9 Aug 2026 | Thuishaven | Amsterdam |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
+| Fri, 2 Oct 2026 | Club Vaag | Antwerp |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sun, 25 Oct 2026 | H7 Warehouse | Amsterdam |
 

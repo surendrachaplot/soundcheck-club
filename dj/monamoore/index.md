@@ -1,14 +1,15 @@
 # Mona Moore
 
-Mona Moore is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Mona Moore is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
-Mona Moore is a techno and house artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Hamburg and Montreal and 3 more. Often billed alongside Stan Starry, Foolik and Pauli Pocket. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
+Mona Moore is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Berlin, Cologne, Hamburg and Montreal and 3 more. Often billed alongside Stan Starry, Foolik and Pauli Pocket. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
+| Thu, 20 Aug 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 9 Oct 2026 | Kater | Berlin |
 

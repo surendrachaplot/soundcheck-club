@@ -1,8 +1,8 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+RTK Tarantino is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
-RTK Tarantino is a house and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
+RTK Tarantino is a house and tech house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RTK Tarantino is a house and tech house artist tracked on soundcheck, with 26 se
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sat, 5 Sept 2026 | block. | Dublin |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | M.O.T | London |
 | Sat, 3 Oct 2026 | Mint Warehouse | Leeds |

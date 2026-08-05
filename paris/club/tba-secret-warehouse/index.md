@@ -1,8 +1,8 @@
-# TBA - Secret Warehouse
+# TBA - SECRET WAREHOUSE
 
-TBA - Secret Warehouse is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RAW Warehouse • Perc, Schacke, Obscure Shape B2B Alex Nantaya, Blame The Mono, MZA" on Sat, 5 Sept 2026.
+TBA - SECRET WAREHOUSE is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RAW Warehouse • Perc, Schacke, Obscure Shape B2B Alex Nantaya, Blame The Mono, MZA" on Sat, 5 Sept 2026.
 
-TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Alex Nantaya, Beau Didier, Blame The Mono and Chlär and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Alex Nantaya, Beau Didier, Blame The Mono and Chlär and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
