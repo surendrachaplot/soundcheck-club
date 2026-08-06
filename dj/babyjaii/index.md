@@ -1,6 +1,6 @@
 # Babyjaii
 
-Babyjaii is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at French Street (Strange Field), Glasgow on Sat, 8 Aug 2026.
+Babyjaii is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at French Street (Strange Field), Glasgow on Sat, 8 Aug 2026.
 
 Babyjaii is a club and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside Miss Cabbage, Shrek666 and EYVE. Next up: French Street (Strange Field), Glasgow on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Babyjaii is a club and techno artist based in United Kingdom, tracked on soundch
 
 Miss Cabbage, Shrek666, EYVE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjaii/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjaii/)*

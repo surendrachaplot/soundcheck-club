@@ -1,6 +1,6 @@
 # Art Cuebik
 
-Art Cuebik is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
+Art Cuebik is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nameless, Philadelphia on Fri, 7 Aug 2026.
 
 Art Cuebik is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Philadelphia. Often billed alongside Joey Breakdown, Armen and Mis-Ty. Next up: Nameless, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Art Cuebik is a jungle and drum & bass artist based in United States of America,
 
 Joey Breakdown, Armen, Mis-Ty
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artcuebik/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artcuebik/)*

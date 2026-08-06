@@ -1,6 +1,6 @@
 # Erica (IT)
 
-Erica (IT) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Theata, London on Sat, 26 Sept 2026.
+Erica (IT) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Theata, London on Sat, 26 Sept 2026.
 
 Erica (IT) is a techno and hardcore artist based in Italy, tracked on soundcheck, with 38 sets logged across Berlin, London and Malta. Often billed alongside Sohtech, Lau.tastic and KASTILO. Next up: Theata, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Erica (IT) is a techno and hardcore artist based in Italy, tracked on soundcheck
 
 Sohtech, Lau.tastic, KASTILO
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erica (IT)/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erica (IT)/)*

@@ -1,6 +1,6 @@
 # Krijka
 
-Krijka is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Macadam, Nantes on Sat, 5 Sept 2026.
+Krijka is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Macadam, Nantes on Sat, 5 Sept 2026.
 
 Krijka is a tech house and techno artist tracked on soundcheck, with 136 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: Macadam, Nantes on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Krijka is a tech house and techno artist tracked on soundcheck, with 136 sets lo
 
 Mihak, Lyumin, Oho.
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*

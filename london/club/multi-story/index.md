@@ -1,6 +1,6 @@
 # Multi Story
 
-Multi Story is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "leverson x Multi Story" on Fri, 7 Aug 2026.
+Multi Story is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "leverson x Multi Story" on Fri, 7 Aug 2026.
 
 Multi Story is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including leverson. Browse upcoming dates, start times and who's playing. Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST.
 
@@ -18,4 +18,4 @@ Multi Story is a music venue in London listed on soundcheck. 5 upcoming nights, 
 
 Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/multi-story/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/multi-story/)*

@@ -1,6 +1,6 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
+DVS1 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
 
 DVS1 is a techno and house artist tracked on soundcheck, with 301 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Hive Club, Zurich on Fri 28 Aug.
 
@@ -32,4 +32,4 @@ DVS1 is a techno and house artist tracked on soundcheck, with 301 sets logged ac
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

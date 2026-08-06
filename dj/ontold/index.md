@@ -1,6 +1,6 @@
 # Øntold
 
-Øntold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Minimal Bar, Berlin on Sun, 23 Aug 2026.
+Øntold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Minimal Bar, Berlin on Sun, 23 Aug 2026.
 
 Øntold is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 3 more. Often billed alongside MPathy, Iman Deeper and Alba DM. Next up: Minimal Bar, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@
 
 MPathy, Iman Deeper, Alba DM
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ontold/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ontold/)*

@@ -1,6 +1,6 @@
 # Cabe
 
-Cabe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Cabe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Cabe is a techno and trance artist based in Mexico, tracked on soundcheck, with 22 sets logged across Mexicocity. Often billed alongside Ramiel II, Praqqa and Smoque. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cabe is a techno and trance artist based in Mexico, tracked on soundcheck, with 
 
 Ramiel II, Praqqa, Smoque
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabe-mxc/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabe-mxc/)*

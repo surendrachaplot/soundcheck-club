@@ -1,6 +1,6 @@
 # GAEL
 
-GAEL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+GAEL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 GAEL is a techno and trance artist based in Ukraine, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Cologne and Geneva and 8 more. Often billed alongside Skungal, job sifre and Tweeman. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ GAEL is a techno and trance artist based in Ukraine, tracked on soundcheck, with
 
 Skungal, job sifre, Tweeman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gael/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gael/)*

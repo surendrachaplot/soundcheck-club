@@ -1,6 +1,6 @@
 # SIELO
 
-SIELO is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Yless, Seoul on Sat, 8 Aug 2026.
+SIELO is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Yless, Seoul on Sat, 8 Aug 2026.
 
 SIELO is a tech house and progressive house artist tracked on soundcheck, with 23 sets logged across Seoul. Often billed alongside LOOZBONE, Juntaro and P.NUTZ. Next up: Yless, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SIELO is a tech house and progressive house artist tracked on soundcheck, with 2
 
 LOOZBONE, Juntaro, P.NUTZ
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sielo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sielo/)*

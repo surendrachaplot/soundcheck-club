@@ -1,6 +1,6 @@
 # Vales Madre
 
-Vales Madre is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Giant Penny Whistle, Chicago on Sat, 8 Aug 2026.
+Vales Madre is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Giant Penny Whistle, Chicago on Sat, 8 Aug 2026.
 
 Vales Madre is a techno and footwork artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago and Detroit. Often billed alongside Elock, Flores Negras and Initial G. Next up: The Giant Penny Whistle, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Vales Madre is a techno and footwork artist based in United States of America, t
 
 Elock, Flores Negras, Initial G
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valesmadre/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valesmadre/)*

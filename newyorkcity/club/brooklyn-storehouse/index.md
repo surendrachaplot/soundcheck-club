@@ -1,6 +1,6 @@
 # Brooklyn Storehouse
 
-Brooklyn Storehouse is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Teletech New York" on Sun, 6 Sept 2026.
+Brooklyn Storehouse is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Teletech New York" on Sun, 6 Sept 2026.
 
 Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Four Tet, JSMN, KRUELTY and Nikolina and 1 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
 
@@ -16,4 +16,4 @@ Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 3 upco
 
 Brooklyn Navy Yard, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*

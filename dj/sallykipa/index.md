@@ -1,6 +1,6 @@
 # SALLY KIPA
 
-SALLY KIPA is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KHIDI, Tbilisi on Sat, 8 Aug 2026.
+SALLY KIPA is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KHIDI, Tbilisi on Sat, 8 Aug 2026.
 
 SALLY KIPA is a house and trance artist based in Georgia, tracked on soundcheck, with 15 sets logged across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Glitz N' Groove and Kote Japaridze. Next up: KHIDI, Tbilisi on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SALLY KIPA is a house and trance artist based in Georgia, tracked on soundcheck,
 
 Gio Shengelia, Glitz N' Groove, Kote Japaridze
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallykipa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallykipa/)*

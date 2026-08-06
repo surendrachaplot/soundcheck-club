@@ -1,6 +1,6 @@
 # Rebolledo
 
-Rebolledo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Praia Irmão, Lisbon on Sat, 8 Aug 2026.
+Rebolledo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Praia Irmão, Lisbon on Sat, 8 Aug 2026.
 
 Rebolledo is a house and techno artist tracked on soundcheck, with 69 sets logged across Austin, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Praia Irmão, Lisbon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rebolledo is a house and techno artist tracked on soundcheck, with 69 sets logge
 
 Daniel Weil, Metrika, Paulor
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*

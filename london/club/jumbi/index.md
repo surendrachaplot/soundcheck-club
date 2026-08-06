@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Naisha To Meet Ya EP Launch" on Thu, 6 Aug 2026.
+Jumbi is a music venue in London with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Naisha To Meet Ya EP Launch" on Thu, 6 Aug 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alex Phountzi, amil raja, Anja Ngozi and AUKA and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -23,4 +23,4 @@ Jumbi is a music venue in London listed on soundcheck. 10 upcoming nights, with 
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

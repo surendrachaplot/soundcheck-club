@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Refuge Fridays with Kr!z, 1morning, Elle Dee, Naomi Duan & Henry Chow" on Fri, 7 Aug 2026.
+Refuge is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Refuge Fridays with Kr!z, 1morning, Elle Dee, Naomi Duan & Henry Chow" on Fri, 7 Aug 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including 1morning, Alci, Amelia Holt and Anna Collecta and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -12,7 +12,7 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights,
 | Sat, 8 Aug 2026 | Refuge Saturday: Avision, Kate Simko & Simon Heyliger | Avision, Kate Simko, Simon Heyliger |
 | Fri, 14 Aug 2026 | Refuge Fridays with Amelia Holt, Julian Anthony, Magda and Voigtmann | Amelia Holt, Julian Anthony, Magda, Voigtmann |
 | Sat, 15 Aug 2026 | Refuge Saturday Daytime: Julian Fijma, Blaise Bracic, Bella Mutino | Bella Mutino, Julian Fijma |
-| Sun, 16 Aug 2026 | Refuge Open Air: Hot Honey Sundays with TEE EM DEE, Kim Lightfoot and HH DJs | Anna Collecta, Deo'jorge, Kim Lightfoot, TEE EM DEE |
+| Sun, 16 Aug 2026 | Refuge Open Air: Hot Honey Sundays X Third Floor Sounds X Sunday Selectors | Anna Collecta, Deo'jorge, Kim Lightfoot, TEE EM DEE |
 | Fri, 21 Aug 2026 | Refuge Friday: AGÄPĒ with Chontane (Live), JKS, BENZA, Diossa | BENZA, Chontane, Diossa, JKS |
 | Sat, 22 Aug 2026 | Refuge Saturday: Desyn, Kiyoshi, Buchan and Max Sprauer | Buchan, Desyn, Kiyoshi, Max Sprauer |
 | Sun, 23 Aug 2026 | Refuge Open Air: Hot Honey Sundays with Melé, William Kiss | Anna Collecta, Melé, William Kiss |
@@ -23,4 +23,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

@@ -1,8 +1,8 @@
 # Khloe
 
-Khloe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
+Khloe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
 
-Khloe is a techno and house artist based in Venezuela, tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Hamburg and Leipzig. Often billed alongside Mama Yha Yha, ALP (DE) and Dirty Daddy Don. Next up: KREUZWERK, Berlin on Sat 8 Aug.
+Khloe is a techno and house artist based in Venezuela, tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Hamburg and Leipzig. Often billed alongside Mama Yha Yha, ALP (DE) and Dirty Daddy Don. Next up: KREUZWERK, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Khloe is a techno and house artist based in Venezuela, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | KREUZWERK | Berlin |
 | Thu, 13 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 14 Aug 2026 | Phantom Bar Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Khloe is a techno and house artist based in Venezuela, tracked on soundcheck, wi
 
 Mama Yha Yha, ALP (DE), Dirty Daddy Don
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*

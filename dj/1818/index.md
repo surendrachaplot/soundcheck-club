@@ -1,6 +1,6 @@
 # 18:18
 
-18:18 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KREUZWERK, Berlin on Sun, 16 Aug 2026.
+18:18 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KREUZWERK, Berlin on Sun, 16 Aug 2026.
 
 18:18 is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Milan. Often billed alongside Maōh, Arkan and Bernd Affleck. Next up: KREUZWERK, Berlin on Sun 16 Aug.
 
@@ -21,4 +21,4 @@
 
 Maōh, Arkan, Bernd Affleck
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1818/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1818/)*

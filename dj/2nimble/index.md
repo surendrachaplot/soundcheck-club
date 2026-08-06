@@ -1,6 +1,6 @@
 # ²nimble
 
-²nimble is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
+²nimble is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
 
 ²nimble is an electronic artist tracked on soundcheck, with 8 sets logged across Frankfurt. Often billed alongside DJ CHICHI, DJ Geilo and Dawit Asfaha. Next up: Tokonoma Club, Frankfurt on Fri 7 Aug.
 
@@ -24,4 +24,4 @@
 
 DJ CHICHI, DJ Geilo, Dawit Asfaha
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2nimble/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2nimble/)*

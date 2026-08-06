@@ -1,6 +1,6 @@
 # Mellowdramatics
 
-Mellowdramatics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+Mellowdramatics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 Mellowdramatics is a club and techno artist tracked on soundcheck, with 27 sets logged across Glasgow and London. Often billed alongside Conrad Pack, Excelsior Ruth and John T. Gast. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mellowdramatics is a club and techno artist tracked on soundcheck, with 27 sets 
 
 Conrad Pack, Excelsior Ruth, John T. Gast
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*

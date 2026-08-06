@@ -1,6 +1,6 @@
-# Grafix - presented by Hostile City (1 Year Anniversary Show) at Warehouse on Watts
+# Grafix presented by Hostile City (1 Year Anniversary Show) at Warehouse on Watts
 
-Grafix - presented by Hostile City (1 Year Anniversary Show) at Warehouse on Watts on Fri 9 Oct, Philadelphia. 1 act on the bill: Grafix. Drum & Bass. Preview the line-up and save it on soundcheck.
+Grafix presented by Hostile City (1 Year Anniversary Show) at Warehouse on Watts on Fri 9 Oct, Philadelphia. 1 act on the bill: Grafix. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

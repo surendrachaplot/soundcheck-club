@@ -1,6 +1,6 @@
 # rriddim
 
-rriddim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at nachbar, Amsterdam on Thu, 6 Aug 2026.
+rriddim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at nachbar, Amsterdam on Thu, 6 Aug 2026.
 
 rriddim is a house and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Hey Bony, Tsunamy and BARROSKINI. Next up: nachbar, Amsterdam on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ rriddim is a house and techno artist based in Netherlands, tracked on soundcheck
 
 Hey Bony, Tsunamy, BARROSKINI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rriddim/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rriddim/)*

@@ -1,6 +1,6 @@
 # Aubrey Fry
 
-Aubrey Fry is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Aubrey Fry is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Aubrey Fry is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Cardiff and Lisbon and 5 more. Often billed alongside AKIVA, Stefan Medici and Brian Gravel. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Aubrey Fry is a progressive house and techno artist based in United Kingdom, tra
 
 AKIVA, Stefan Medici, Brian Gravel
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aubreyfry/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aubreyfry/)*

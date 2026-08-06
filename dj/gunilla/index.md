@@ -1,6 +1,6 @@
 # Gunilla
 
-Gunilla is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+Gunilla is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 Gunilla is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin and Tallinn. Often billed alongside DJ Banba, HAND GIRLS BOY and JAMera. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gunilla is a techno and trance artist tracked on soundcheck, with 20 sets logged
 
 DJ Banba, HAND GIRLS BOY, JAMera
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gunilla/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gunilla/)*

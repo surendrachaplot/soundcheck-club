@@ -1,6 +1,6 @@
 # DJoy
 
-DJoy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Prisma, Berlin on Tue, 11 Aug 2026.
+DJoy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Prisma, Berlin on Tue, 11 Aug 2026.
 
 DJoy is a house and techno artist tracked on soundcheck, with 58 sets logged across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Prisma, Berlin on Tue 11 Aug.
 
@@ -28,4 +28,4 @@ DJoy is a house and techno artist tracked on soundcheck, with 58 sets logged acr
 
 Bogus Trumper, VOE, sianza
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*

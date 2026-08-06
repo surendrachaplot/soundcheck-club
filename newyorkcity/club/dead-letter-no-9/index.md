@@ -1,8 +1,8 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more" on Fri, 7 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more" on Fri, 7 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcom
 | Thu, 20 Aug 2026 | Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans | Alcantara, DJ Houseplants, Florence Cecile, Gabriel Etrata, Jay Dalawa, Vans |
 | Fri, 21 Aug 2026 | Dos Flakos, Camila Valero, Raphael Ernesto, Úrsula - Dead Letter No.9 | Camila Valero, Dos Flakos, Úrsula |
 | Sat, 22 Aug 2026 | Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio |  |
-| Sat, 5 Sept 2026 | Tommie Sunshine, Amber Valenine, SPRFRK - Dead Letter No.9 | Amber Valentine, SPRFRK, Tommie Sunshine |
+| Sat, 22 Aug 2026 | Zach Witness, Jean d'Armes, Kandylion, theoretic - Dead Letter No.9 | Kandylion, Zach Witness, theoretic |
 
 ## Address
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

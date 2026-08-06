@@ -1,8 +1,8 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Chris Cruse - Harry Cross - Mister Hoochiemama" on Fri, 7 Aug 2026.
+smartbar is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Chris Cruse - Harry Cross - Mister Hoochiemama" on Fri, 7 Aug 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, with line-ups including Ariel Zetina, Bambounou, Brenda and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including Paula Tape, Ariel Zetina, Bambounou and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
@@ -10,7 +10,7 @@ smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, w
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Chris Cruse - Harry Cross - Mister Hoochiemama | Chris Cruse, Harry Cross, Mister Hoochiemama |
 | Sat, 8 Aug 2026 | LADYBEAR feat. Kevin Aviance - Shaun J Wright - Rika B | Kevin Aviance, Shaun J. Wright |
-| Sun, 9 Aug 2026 | All-Building Market Daze Queen | Derrick Carter, Lorelei, MR.WHITE, Michael Serafini, Shaun J. Wright |
+| Sun, 9 Aug 2026 | All-Building Market Daze Queen | Derrick Carter, Lorelei, MR.WHITE, Michael Serafini, Mr. White, Shaun J. Wright, Sneaker |
 | Fri, 14 Aug 2026 | Roni Size - Phantom 45 - Chrissy Tee | Chrissy Tee, Phantom 45, Roni Size |
 | Sat, 15 Aug 2026 | Jamie 3:26 - Darryn Jones - Material - Dave Maze & Erica Kane | Darryn Jones, Jamie 3:26 |
 | Sun, 16 Aug 2026 | Nico's Birthday Queen! Medusa's '80s Night | Derrick Carter, Michael Serafini |
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

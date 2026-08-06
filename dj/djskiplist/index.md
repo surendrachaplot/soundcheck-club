@@ -1,6 +1,6 @@
 # DJ SKIPLIST
 
-DJ SKIPLIST is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 23 Aug 2026.
+DJ SKIPLIST is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 23 Aug 2026.
 
 DJ SKIPLIST is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside Paraçek, Carotin and ELOISA. Next up: Edelfettwerk, Hamburg on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ DJ SKIPLIST is a techno and trance artist tracked on soundcheck, with 4 sets log
 
 Paraçek, Carotin, ELOISA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskiplist/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskiplist/)*

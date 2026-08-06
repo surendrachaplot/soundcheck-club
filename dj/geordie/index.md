@@ -1,6 +1,6 @@
 # Geordie
 
-Geordie is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Laska V21, Riga on Sat, 15 Aug 2026.
+Geordie is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Laska V21, Riga on Sat, 15 Aug 2026.
 
 Geordie is a house and garage artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh, London and Riga. Often billed alongside Gabriel Griffith, HAPOL and Mixfits (2). Next up: Laska V21, Riga on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Geordie is a house and garage artist based in United Kingdom, tracked on soundch
 
 Gabriel Griffith, HAPOL, Mixfits (2)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geordie/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geordie/)*

@@ -1,14 +1,13 @@
 # Edd (1)
 
-Edd (1) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Surfside, Malta on Wed, 5 Aug 2026.
+Edd (1) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
-Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, with 53 sets logged across Bali, Barcelona, Denver and Ibiza and 9 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: Surfside, Malta on Wed 5 Aug.
+Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, with 53 sets logged across Bali, Barcelona, Denver and Ibiza and 9 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Surfside | Malta |
 | Sat, 15 Aug 2026 | Elsewhere | New York City |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
@@ -16,6 +15,7 @@ Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, 
 
 ## Recently played
 
+- Surfside, Malta — Wed, 5 Aug 2026
 - Savaya Bali, Bali — Fri, 10 Jul 2026
 - Monarch, San Francisco/Oakland — Sat, 20 Jun 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 5 Jun 2026
@@ -23,10 +23,9 @@ Edd (1) is a house and tech house artist based in Malta, tracked on soundcheck, 
 - Hï Ibiza, Ibiza — Thu, 7 May 2026
 - Astra Miami, Miami — Fri, 27 Mar 2026
 - Wynwood Studios, Miami — Wed, 25 Mar 2026
-- Wurstküche Restaurant Venice Beach, Los Angeles — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nic Fanciulli, Fresh Prince
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*

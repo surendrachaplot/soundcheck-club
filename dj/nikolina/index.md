@@ -1,6 +1,6 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Nikolina is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Nikolina is a techno and industrial artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Austin and Barcelona and 44 more. Often billed alongside Azyr, Restricted and Adrian Mills. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -34,4 +34,4 @@ Nikolina is a techno and industrial artist tracked on soundcheck, with 105 sets 
 
 Azyr, Restricted, Adrian Mills
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

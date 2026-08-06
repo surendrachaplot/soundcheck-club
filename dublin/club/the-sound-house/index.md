@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "NØ COLLECTIVE" on Thu, 6 Aug 2026.
+The Sound House is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "NØ COLLECTIVE" on Thu, 6 Aug 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Girls of the Internet, Jacob Matthews and Shiv. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -18,4 +18,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 5 upcoming nigh
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

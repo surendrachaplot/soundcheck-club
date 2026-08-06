@@ -1,6 +1,6 @@
 # Jaesyun
 
-Jaesyun is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Sat, 15 Aug 2026.
+Jaesyun is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Good Room, New York City on Sat, 15 Aug 2026.
 
 Jaesyun is a tech house and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Austin, Mexicocity, Newyorkcity and Sandiego. Often billed alongside Edward Frame, Joe Ross and Matt Denton. Next up: Good Room, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jaesyun is a tech house and house artist based in United States of America, trac
 
 Edward Frame, Joe Ross, Matt Denton
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaesyun/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaesyun/)*

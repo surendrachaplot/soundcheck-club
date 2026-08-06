@@ -1,6 +1,6 @@
 # Kappa Cat
 
-Kappa Cat is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 6 Aug 2026.
+Kappa Cat is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 6 Aug 2026.
 
 Kappa Cat is an experimental and pop artist tracked on soundcheck, with 6 sets logged across Berlin and Riga. Often billed alongside Rami Abi Rafi, Rowan Allen and Alicia Carrera. Next up: arkaoda Berlin, Berlin on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Kappa Cat is an experimental and pop artist tracked on soundcheck, with 6 sets l
 
 Rami Abi Rafi, Rowan Allen, Alicia Carrera
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kappacat/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kappacat/)*

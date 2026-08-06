@@ -1,6 +1,6 @@
 # Iffie
 
-Iffie is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Latraac, Athens on Sun, 9 Aug 2026.
+Iffie is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Latraac, Athens on Sun, 9 Aug 2026.
 
 Iffie is a techno artist based in Greece, tracked on soundcheck, with 10 sets logged across Athens and Berlin. Often billed alongside a.metz, 3AM (GE) and Atypikal. Next up: Latraac, Athens on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Iffie is a techno artist based in Greece, tracked on soundcheck, with 10 sets lo
 
 a.metz, 3AM (GE), Atypikal
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iffie/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iffie/)*

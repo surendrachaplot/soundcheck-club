@@ -1,6 +1,6 @@
 # Jan Ketel
 
-Jan Ketel is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
+Jan Ketel is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
 
 Jan Ketel is a house and disco artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Siggatunez, Quadrakey and Darwin Stapel. Next up: Kater, Berlin on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Jan Ketel is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Siggatunez, Quadrakey, Darwin Stapel
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janketel/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janketel/)*

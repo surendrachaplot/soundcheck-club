@@ -1,6 +1,6 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Sound Of Solidarity" on Fri, 7 Aug 2026.
+Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Sound Of Solidarity" on Fri, 7 Aug 2026.
 
 Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including Crimewave, djcd, Insurrect and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
@@ -21,4 +21,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, wi
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

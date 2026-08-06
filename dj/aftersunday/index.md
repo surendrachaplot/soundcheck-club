@@ -1,6 +1,6 @@
 # Aftersunday
 
-Aftersunday is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
+Aftersunday is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
 
 Aftersunday is a house and tech house artist based in Poland, tracked on soundcheck, with 26 sets logged across Dusseldorf and Warsaw. Often billed alongside NuCasa, Kuvau and Angelo Mike. Next up: Kaskada, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aftersunday is a house and tech house artist based in Poland, tracked on soundch
 
 NuCasa, Kuvau, Angelo Mike
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aftersunday/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aftersunday/)*

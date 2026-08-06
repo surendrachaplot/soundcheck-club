@@ -1,6 +1,6 @@
 # TBA - Secret Location DTLA 
 
-TBA - Secret Location DTLA  is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Lizdek LA - Midnight Society" on Fri, 7 Aug 2026.
+TBA - Secret Location DTLA  is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Lizdek LA - Midnight Society" on Fri, 11 Sept 2026.
 
 TBA - Secret Location DTLA  is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - Secret Location DTLA  is a music venue in Losangeles listed on soundcheck.
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Lizdek LA - Midnight Society |  |
+| Fri, 11 Sept 2026 | Lizdek LA - Midnight Society |  |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-secret-location-dtla/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-secret-location-dtla/)*

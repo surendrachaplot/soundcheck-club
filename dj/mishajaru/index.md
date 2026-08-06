@@ -1,6 +1,6 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+Misha Jaru is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
 Misha Jaru is a techno and house artist tracked on soundcheck, with 63 sets logged across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Misha Jaru is a techno and house artist tracked on soundcheck, with 63 sets logg
 
 S.Tian, Feenicks, Dash (CZ)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

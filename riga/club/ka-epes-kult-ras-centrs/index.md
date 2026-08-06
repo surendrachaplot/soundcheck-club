@@ -1,8 +1,8 @@
 # Kaņepes Kultūras Centrs
 
-Kaņepes Kultūras Centrs is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DISUNDI" on Sat, 29 Aug 2026.
+Kaņepes Kultūras Centrs is a music venue in Riga with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "DISUNDI" on Sat, 29 Aug 2026.
 
-Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 3 upcoming nights, with line-ups including Angelo (2), Leo Novus and Tomoki Tamura. Browse upcoming dates, start times and who's playing. Skolas iela 15, Riga, Latvia-LV 1010.
+Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 4 upcoming nights, with line-ups including Angelo (2), Freiya March, Ikss and Leo Novus and 2 more. Browse upcoming dates, start times and who's playing. Skolas iela 15, Riga, Latvia-LV 1010.
 
 ## What's on
 
@@ -10,10 +10,11 @@ Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 3 upcom
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | DISUNDI |  |
 | Fri, 11 Sept 2026 | VERY HIGH FREQUENCY [3000] MHz | Angelo (2), Leo Novus, Tomoki Tamura |
+| Sat, 19 Sept 2026 | Takka: Nocturne | Freiya March, Ikss, XANDY |
 | Fri, 25 Sept 2026 | JAUDA season opening |  |
 
 ## Address
 
 Skolas iela 15, Riga, Latvia-LV 1010, Riga
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/ka-epes-kult-ras-centrs/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/ka-epes-kult-ras-centrs/)*

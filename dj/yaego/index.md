@@ -1,6 +1,6 @@
 # yaego
 
-yaego is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
+yaego is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
 
 yaego is a techno and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across London, Mexicocity, Miami and Montreal and 2 more. Often billed alongside CFCF, Doss and POiSON GiRL FRiEND. Next up: FOLD, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ yaego is a techno and electronica artist based in United States of America, trac
 
 CFCF, Doss, POiSON GiRL FRiEND
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaego/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaego/)*

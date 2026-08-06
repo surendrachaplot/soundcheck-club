@@ -1,6 +1,6 @@
 # Anders HP
 
-Anders HP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
+Anders HP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
 
 Anders HP is a house and techno artist tracked on soundcheck, with 44 sets logged across Copenhagen. Often billed alongside Baime, CERJ and NILU. Next up: MODULE, Copenhagen on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Anders HP is a house and techno artist tracked on soundcheck, with 44 sets logge
 
 Baime, CERJ, NILU
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershp/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershp/)*

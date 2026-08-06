@@ -1,6 +1,6 @@
 # Marcus Nasty
 
-Marcus Nasty is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
+Marcus Nasty is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
 
 Marcus Nasty is a garage and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Shenin Amara, JAYDAA and DJ S (UK). Next up: The Steel Yard, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Marcus Nasty is a garage and house artist based in United Kingdom, tracked on so
 
 Shenin Amara, JAYDAA, DJ S (UK)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcus-nasty/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcus-nasty/)*

@@ -1,14 +1,16 @@
 # Rose Kourts
 
-Rose Kourts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
+Rose Kourts is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
 
-Rose Kourts is a house and techno artist based in United States of America, tracked on soundcheck, with 140 sets logged across Amsterdam, Berlin, Boston and Chicago and 9 more. Often billed alongside Miss Alicia, Devoye and Analog Soul. Next up: Good Room, Newyorkcity on Thu 20 Aug.
+Rose Kourts is a house and techno artist based in United States of America, tracked on soundcheck, with 142 sets logged across Amsterdam, Berlin, Boston and Chicago and 10 more. Often billed alongside Miss Alicia, Devoye and Analog Soul. Next up: Good Room, Newyorkcity on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Good Room | New York City |
+| Sat, 19 Sept 2026 | TBA | Los Angeles |
+| Sat, 26 Sept 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Rose Kourts is a house and techno artist based in United States of America, trac
 
 Miss Alicia, Devoye, Analog Soul
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*

@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "VLTX.MP3: OUT OF THE STUDIO" on Fri, 7 Aug 2026.
+Stage and Radio is a music venue in Manchester with 19 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "VLTX.MP3: OUT OF THE STUDIO" on Fri, 7 Aug 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 19 upcoming nights, with line-ups including adamine, AJ Jonesy, BONSWA and BRNE and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 19 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

@@ -1,13 +1,14 @@
 # NVST
 
-NVST is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
+NVST is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Process PDX, Portland on Fri, 14 Aug 2026.
 
-NVST is a techno and bass artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside ojoo, Zohar and Mika Oki. Next up: Nowadays, Newyorkcity on Sat 15 Aug.
+NVST is a techno and bass artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside ojoo, Zohar and Mika Oki. Next up: Process PDX, Portland on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Process PDX | Portland |
 | Sat, 15 Aug 2026 | Nowadays | New York City |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Wed, 26 Aug 2026 | Esplanade Tranquille | Montreal |
@@ -30,4 +31,4 @@ NVST is a techno and bass artist tracked on soundcheck, with 123 sets logged acr
 
 ojoo, Zohar, Mika Oki
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*

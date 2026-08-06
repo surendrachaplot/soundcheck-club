@@ -1,6 +1,6 @@
 # Avram
 
-Avram is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 7 Aug 2026.
+Avram is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 7 Aug 2026.
 
 Avram is an electronica and minimal artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bucharest and London. Often billed alongside Gescu, Louie Fresco and Vlad Ioachimescu. Next up: Platforma Wolff, Bucharest on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Avram is an electronica and minimal artist based in United Kingdom, tracked on s
 
 Gescu, Louie Fresco, Vlad Ioachimescu
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avram/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avram/)*

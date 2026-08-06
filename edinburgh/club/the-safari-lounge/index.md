@@ -1,6 +1,6 @@
 # The Safari Lounge
 
-The Safari Lounge is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Chaos" on Sat, 8 Aug 2026.
+The Safari Lounge is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Chaos" on Sat, 8 Aug 2026.
 
 The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Angel Negrin, Neil Templar and Thornback. Browse upcoming dates, start times and who's playing. 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom.
 
@@ -9,11 +9,11 @@ The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 3 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Chaos |  |
-| Sat, 15 Aug 2026 | TRip |  |
+| Sat, 15 Aug 2026 | TRiP |  |
 | Fri, 28 Aug 2026 | Dae | Angel Negrin, Neil Templar, Thornback |
 
 ## Address
 
 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom, Edinburgh
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-safari-lounge/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-safari-lounge/)*

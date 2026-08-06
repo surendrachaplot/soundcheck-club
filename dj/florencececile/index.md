@@ -1,6 +1,6 @@
 # Florence Cecile
 
-Florence Cecile is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
+Florence Cecile is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
 
 Florence Cecile is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside DJ Houseplants, LANSUH and Jay Dalawa. Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Florence Cecile is a house and techno artist based in United States of America, 
 
 DJ Houseplants, LANSUH, Jay Dalawa
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florencececile/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florencececile/)*

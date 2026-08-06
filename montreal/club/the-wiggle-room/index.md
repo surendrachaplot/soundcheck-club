@@ -1,6 +1,6 @@
 # The Wiggle Room
 
-The Wiggle Room is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Hausparty: Encore" on Sat, 8 Aug 2026.
+The Wiggle Room is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Hausparty: Encore" on Sat, 8 Aug 2026.
 
 The Wiggle Room is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3874 Blvd. St. Laurent Montreal, Quebec.
 
@@ -14,4 +14,4 @@ The Wiggle Room is a music venue in Montreal listed on soundcheck. 1 upcoming ni
 
 3874 Blvd. St. Laurent Montreal, Quebec, Montreal
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/the-wiggle-room/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/the-wiggle-room/)*

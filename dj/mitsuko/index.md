@@ -1,6 +1,6 @@
 # Mitsuko
 
-Mitsuko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
+Mitsuko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
 
 Mitsuko is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Tokyo. Often billed alongside ADAM REC., MagDita and Miss Kitchen. Next up: PETER'S, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mitsuko is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 ADAM REC., MagDita, Miss Kitchen
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*

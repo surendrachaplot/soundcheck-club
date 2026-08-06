@@ -1,6 +1,6 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Radio Radio, Amsterdam on Fri, 7 Aug 2026.
+Carlos Valdes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Radio Radio, Amsterdam on Fri, 7 Aug 2026.
 
 Carlos Valdes is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside TITIA, Vuur and Muallem. Next up: Radio Radio, Amsterdam on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Carlos Valdes is a house and techno artist tracked on soundcheck, with 140 sets 
 
 TITIA, Vuur, Muallem
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

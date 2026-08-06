@@ -1,6 +1,6 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
+LOIF is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
 
 LOIF is a techno and bass artist based in Australia, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Tangerine, Kia (AU) and deep creep. Next up: Miscellania, Melbourne on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ LOIF is a techno and bass artist based in Australia, tracked on soundcheck, with
 
 Tangerine, Kia (AU), deep creep
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*

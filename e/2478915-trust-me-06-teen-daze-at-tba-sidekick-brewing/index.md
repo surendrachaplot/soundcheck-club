@@ -1,6 +1,6 @@
 # Trust Me 06: Teen Daze at TBA - Sidekick Brewing
 
-Trust Me 06: Teen Daze at TBA - Sidekick Brewing on Fri 7 Aug, Vancouver. 1 act on the bill: Teen Daze. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Trust Me 06: Teen Daze at TBA - Sidekick Brewing on Fri 7 Aug, Vancouver. 1 act on the bill: Teen Daze. Balearic and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

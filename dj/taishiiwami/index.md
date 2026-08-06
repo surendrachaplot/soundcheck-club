@@ -1,6 +1,6 @@
 # TAISHI IWAMI
 
-TAISHI IWAMI is a Pop and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Live Haus, Tokyo on Sat, 12 Sept 2026.
+TAISHI IWAMI is a Pop and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Live Haus, Tokyo on Sat, 12 Sept 2026.
 
 TAISHI IWAMI is a pop and post-punk artist tracked on soundcheck, with 54 sets logged across Seoul and Tokyo. Often billed alongside Keigo, HALU(Tribal Connection) and AYANA KOSHIBA. Next up: Live Haus, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ TAISHI IWAMI is a pop and post-punk artist tracked on soundcheck, with 54 sets l
 
 Keigo, HALU(Tribal Connection), AYANA KOSHIBA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taishiiwami/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taishiiwami/)*

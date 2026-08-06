@@ -1,6 +1,6 @@
 # Blabla
 
-Blabla is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 88block, Tokyo on Fri, 7 Aug 2026.
+Blabla is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 88block, Tokyo on Fri, 7 Aug 2026.
 
 Blabla is a hip-hop and techno artist tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside Hirosson, Gomez and KANTA. Next up: 88block, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Blabla is a hip-hop and techno artist tracked on soundcheck, with 12 sets logged
 
 Hirosson, Gomez, KANTA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blabla/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blabla/)*

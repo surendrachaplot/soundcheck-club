@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+FUMI is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
 FUMI is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 94 sets logge
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

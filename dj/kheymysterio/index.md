@@ -1,6 +1,6 @@
 # Khey Mysterio
 
-Khey Mysterio is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
+Khey Mysterio is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
 
 Khey Mysterio is a techno and trance artist based in France, tracked on soundcheck, with 13 sets logged across Marseille, Melbourne, Nantes and Paris and 1 more. Often billed alongside Drawbridge, Forest and Jolly (FR). Next up: Le Trabendo, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Khey Mysterio is a techno and trance artist based in France, tracked on soundche
 
 Drawbridge, Forest, Jolly (FR)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kheymysterio/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kheymysterio/)*

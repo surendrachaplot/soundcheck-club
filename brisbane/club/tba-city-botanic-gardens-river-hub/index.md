@@ -1,6 +1,6 @@
 # TBA - City Botanic Gardens River Hub
 
-TBA - City Botanic Gardens River Hub is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Oasis Summer Boat Party (Saturday 8), Brisbane" on Sat, 8 Aug 2026.
+TBA - City Botanic Gardens River Hub is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Oasis Summer Boat Party (Saturday 8), Brisbane" on Sat, 8 Aug 2026.
 
 TBA - City Botanic Gardens River Hub is a music venue in Brisbane listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - City Botanic Gardens River Hub is a music venue in Brisbane listed on soun
 | Sat, 8 Aug 2026 | Oasis Summer Boat Party (Saturday 8), Brisbane |  |
 | Sat, 15 Aug 2026 | Oasis Summer Boat Party (Saturday 15), Brisbane |  |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tba-city-botanic-gardens-river-hub/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tba-city-botanic-gardens-river-hub/)*

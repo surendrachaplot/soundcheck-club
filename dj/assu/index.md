@@ -1,6 +1,6 @@
 # assu
 
-assu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Calatheabeachclub, Naples on Sat, 15 Aug 2026.
+assu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Calatheabeachclub, Naples on Sat, 15 Aug 2026.
 
 assu is a house and disco artist based in Italy, tracked on soundcheck, with 16 sets logged across Milan and Naples. Often billed alongside Fabrizio Fattore, Aldo Rosati and Alfonso Mauro. Next up: Calatheabeachclub, Naples on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ assu is a house and disco artist based in Italy, tracked on soundcheck, with 16 
 
 Fabrizio Fattore, Aldo Rosati, Alfonso Mauro
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/assu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/assu/)*

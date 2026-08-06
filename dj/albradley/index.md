@@ -1,6 +1,6 @@
 # Al Bradley
 
-Al Bradley is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Patterns, Brighton on Sat, 8 Aug 2026.
+Al Bradley is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Patterns, Brighton on Sat, 8 Aug 2026.
 
 Al Bradley is a deep house and acid artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton, Bristol, Leeds and Manchester. Often billed alongside Roya Brehl, Bod Min and Iain Mac. Next up: Patterns, Brighton on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Al Bradley is a deep house and acid artist based in United Kingdom, tracked on s
 
 Roya Brehl, Bod Min, Iain Mac
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albradley/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albradley/)*

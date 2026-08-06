@@ -1,6 +1,6 @@
 # Arsenal Mikebe
 
-Arsenal Mikebe is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kafe Hærverk, Oslo on Fri, 14 Aug 2026.
+Arsenal Mikebe is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kafe Hærverk, Oslo on Fri, 14 Aug 2026.
 
 Arsenal Mikebe is an electronic artist based in Uganda, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 2 more. Often billed alongside DjRUM, Mad Professor and Roza Terenzi. Next up: Kafe Hærverk, Oslo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Arsenal Mikebe is an electronic artist based in Uganda, tracked on soundcheck, w
 
 DjRUM, Mad Professor, Roza Terenzi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*

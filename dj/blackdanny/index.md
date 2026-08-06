@@ -1,6 +1,6 @@
 # Black Danny
 
-Black Danny is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 8 Aug 2026.
+Black Danny is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 8 Aug 2026.
 
 Black Danny is a house and amapiano artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Almeida Moura, Marco (UK) and metrologic. Next up: Bar Silver Vinyl Lounge & The Vault, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Black Danny is a house and amapiano artist tracked on soundcheck, with 13 sets l
 
 Almeida Moura, Marco (UK), metrologic
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdanny/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdanny/)*

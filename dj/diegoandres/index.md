@@ -1,6 +1,6 @@
 # Diego Andres
 
-Diego Andres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
+Diego Andres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
 
 Diego Andres is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Denver, Miami and Newyorkcity. Often billed alongside Nico Tobón, Bakke and Optimo (Espacio). Next up: The Matchbox, Denver on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Diego Andres is a house and techno artist based in United States of America, tra
 
 Nico Tobón, Bakke, Optimo (Espacio)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoandres/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoandres/)*

@@ -1,6 +1,6 @@
 # Vitamin B
 
-Vitamin B is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
+Vitamin B is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
 Vitamin B is a house and club artist tracked on soundcheck, with 7 sets logged across Berlin and Newyorkcity. Often billed alongside DJ NORTHERN, Anthracene and Garage Girls. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Vitamin B is a house and club artist tracked on soundcheck, with 7 sets logged a
 
 DJ NORTHERN, Anthracene, Garage Girls
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaminb/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaminb/)*

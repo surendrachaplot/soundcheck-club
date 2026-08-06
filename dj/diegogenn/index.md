@@ -1,6 +1,6 @@
 # Diego Genn
 
-Diego Genn is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Village Underground Lisboa, Lisbon on Sat, 22 Aug 2026.
+Diego Genn is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Village Underground Lisboa, Lisbon on Sat, 22 Aug 2026.
 
 Diego Genn is a psytrance artist tracked on soundcheck, with 20 sets logged across Lisbon and Porto. Often billed alongside Jorge Martins, Rita Rink and Boundless (1). Next up: Village Underground Lisboa, Lisbon on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Diego Genn is a psytrance artist tracked on soundcheck, with 20 sets logged acro
 
 Jorge Martins, Rita Rink, Boundless (1)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegogenn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegogenn/)*

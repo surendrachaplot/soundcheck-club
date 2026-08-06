@@ -1,6 +1,6 @@
 # Neverglass
 
-Neverglass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Munich on Fri, 7 Aug 2026.
+Neverglass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Munich on Fri, 7 Aug 2026.
 
 Neverglass is a house and tech house artist tracked on soundcheck, with 23 sets logged across Munich and Prague. Often billed alongside Artifex (DE), SloMo and 7IMMY. Next up: TBA, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Neverglass is a house and tech house artist tracked on soundcheck, with 23 sets 
 
 Artifex (DE), SloMo, 7IMMY
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neverglass/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neverglass/)*

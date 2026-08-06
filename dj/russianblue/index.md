@@ -1,6 +1,6 @@
 # Russian Blue
 
-Russian Blue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pure's Sound Market, Tokyo on Sat, 8 Aug 2026.
+Russian Blue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pure's Sound Market, Tokyo on Sat, 8 Aug 2026.
 
 Russian Blue is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Krankent and Sofozor. Next up: Pure's Sound Market, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Russian Blue is a house and techno artist based in Japan, tracked on soundcheck,
 
 SIGNAL (JP), Krankent, Sofozor
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russianblue/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russianblue/)*

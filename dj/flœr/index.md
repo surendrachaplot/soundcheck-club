@@ -1,6 +1,6 @@
 # Flœr
 
-Flœr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pratersauna, Vienna on Sat, 8 Aug 2026.
+Flœr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pratersauna, Vienna on Sat, 8 Aug 2026.
 
 Flœr is a house and techno artist tracked on soundcheck, with 23 sets logged across Berlin and Vienna. Often billed alongside C12 (1), Æ-X and Anni Herzer. Next up: Pratersauna, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Flœr is a house and techno artist tracked on soundcheck, with 23 sets logged ac
 
 C12 (1), Æ-X, Anni Herzer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flœr/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flœr/)*

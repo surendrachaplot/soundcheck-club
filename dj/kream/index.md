@@ -1,6 +1,6 @@
 # KREAM
 
-KREAM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kesselhaus, Berlin on Fri, 16 Oct 2026.
+KREAM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kesselhaus, Berlin on Fri, 16 Oct 2026.
 
 KREAM is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Berlin and Boston and 28 more. Often billed alongside James Hype (UK), Adam Beyer and Armin van Buuren. Next up: Kesselhaus, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KREAM is a house and techno artist tracked on soundcheck, with 65 sets logged ac
 
 James Hype (UK), Adam Beyer, Armin van Buuren
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*

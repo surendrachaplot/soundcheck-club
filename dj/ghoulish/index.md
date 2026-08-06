@@ -1,6 +1,6 @@
 # Ghoulish
 
-Ghoulish is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Ghoulish is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 Ghoulish is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Oppidan, Conducta and Oneman. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ghoulish is a garage and bass artist based in United Kingdom, tracked on soundch
 
 Oppidan, Conducta, Oneman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoulish/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoulish/)*

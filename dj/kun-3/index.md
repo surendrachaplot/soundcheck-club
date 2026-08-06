@@ -1,8 +1,8 @@
 # KUN (3)
 
-KUN (3) is a Drum & Bass and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Récré, Montreal on Fri, 7 Aug 2026.
+KUN (3) is a Drum & Bass and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La Récré, Montreal on Fri, 7 Aug 2026.
 
-KUN (3) is a drum & bass and afro house artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal and Toronto. Often billed alongside Dargan and IIITHRIII. Next up: La Récré, Montreal on Fri 7 Aug.
+KUN (3) is a drum & bass and afro house artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal and Toronto. Often billed alongside Dargan, Bellini Baby and IIITHRIII. Next up: La Récré, Montreal on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ KUN (3) is a drum & bass and afro house artist based in Canada, tracked on sound
 
 ## Shares bills with
 
-Dargan, IIITHRIII
+Dargan, Bellini Baby, IIITHRIII
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kun-3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kun-3/)*

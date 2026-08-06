@@ -1,6 +1,6 @@
 # Kiesgrube
 
-Kiesgrube is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Kiesgrube presents Boris Brejcha, Andrea Oliva, LOVRA, Tobi Neumann" on Sun, 16 Aug 2026.
+Kiesgrube is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Kiesgrube presents Boris Brejcha, Andrea Oliva, LOVRA, Tobi Neumann" on Sun, 16 Aug 2026.
 
 Kiesgrube is a music venue in Dusseldorf listed on soundcheck. 3 upcoming nights, with line-ups including Andrea Oliva, Boris Brejcha, Cloudy and DJ Gigola and 2 more. Browse upcoming dates, start times and who's playing. Blankenwasser Sudermannstraße 41468 Neuss.
 
@@ -16,4 +16,4 @@ Kiesgrube is a music venue in Dusseldorf listed on soundcheck. 3 upcoming nights
 
 Blankenwasser Sudermannstraße 41468 Neuss, Düsseldorf
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/kiesgrube/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/kiesgrube/)*

@@ -1,6 +1,6 @@
 # Jude Natural
 
-Jude Natural is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 8 Aug 2026.
+Jude Natural is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 8 Aug 2026.
 
 Jude Natural is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, Glasgow and Lisbon. Often billed alongside Babyccino, Macka and Adriana Ruas. Next up: Cabaret Voltaire, Edinburgh on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Jude Natural is a house and techno artist based in United Kingdom, tracked on so
 
 Babyccino, Macka, Adriana Ruas
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judenatural/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judenatural/)*

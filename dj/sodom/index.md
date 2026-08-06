@@ -1,6 +1,6 @@
 # Sodom
 
-Sodom is a EBM and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+Sodom is a EBM and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 Sodom is an ebm and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg and Kyoto. Often billed alongside co:co, Alex Benz and Linh (2). Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sodom is an ebm and trance artist based in Germany, tracked on soundcheck, with 
 
 co:co, Alex Benz, Linh (2)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sodom/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sodom/)*

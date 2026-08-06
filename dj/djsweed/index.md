@@ -1,6 +1,6 @@
 # DJ Sweed
 
-DJ Sweed is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Temp., Bangkok on Thu, 6 Aug 2026.
+DJ Sweed is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Temp., Bangkok on Thu, 6 Aug 2026.
 
 DJ Sweed is a techno and electro artist tracked on soundcheck, with 95 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside DJ Krit Morton, bunnyman.dogs and Winkieb. Next up: Bar Temp., Bangkok on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ DJ Sweed is a techno and electro artist tracked on soundcheck, with 95 sets logg
 
 DJ Krit Morton, bunnyman.dogs, Winkieb
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweed/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweed/)*

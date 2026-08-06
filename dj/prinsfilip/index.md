@@ -1,6 +1,6 @@
 # Prins Filip
 
-Prins Filip is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Open Air, Stockholm on Sat, 8 Aug 2026.
+Prins Filip is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Open Air, Stockholm on Sat, 8 Aug 2026.
 
 Prins Filip is a techno and house artist tracked on soundcheck, with 17 sets logged across Stockholm. Often billed alongside Rebellen, Billie Jo and Jessie Granqvist. Next up: TBA - Open Air, Stockholm on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Prins Filip is a techno and house artist tracked on soundcheck, with 17 sets log
 
 Rebellen, Billie Jo, Jessie Granqvist
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsfilip/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsfilip/)*

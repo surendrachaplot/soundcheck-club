@@ -1,6 +1,6 @@
 # Vanille
 
-Vanille is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+Vanille is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 Vanille is a techno and electro artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Vanille is a techno and electro artist tracked on soundcheck, with 76 sets logge
 
 MCR-T, Yasmin Regisford, Behzad
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*

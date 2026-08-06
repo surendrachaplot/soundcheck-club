@@ -1,6 +1,6 @@
 # callie
 
-callie is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
+callie is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
 
 callie is a breakbeat and techno artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Bours?, DJ MELL G and DLV. Next up: 131 Mccormack St, Toronto on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ callie is a breakbeat and techno artist based in Canada, tracked on soundcheck, 
 
 Bours?, DJ MELL G, DLV
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callie-ca/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callie-ca/)*

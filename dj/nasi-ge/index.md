@@ -1,6 +1,6 @@
 # NASI (GE)
 
-NASI (GE) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
+NASI (GE) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
 
 NASI (GE) is a house and trance artist tracked on soundcheck, with 17 sets logged across Hamburg and Tbilisi. Often billed alongside gwän, SUMO and 00rt. Next up: KHIDI, Tbilisi on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ NASI (GE) is a house and trance artist tracked on soundcheck, with 17 sets logge
 
 gwän, SUMO, 00rt
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasi-ge/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasi-ge/)*

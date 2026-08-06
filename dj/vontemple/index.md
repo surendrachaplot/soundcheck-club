@@ -1,6 +1,6 @@
 # Von Temple
 
-Von Temple is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at CHICO, Mexico City on Fri, 7 Aug 2026.
+Von Temple is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at CHICO, Mexico City on Fri, 7 Aug 2026.
 
 Von Temple is an electronica and experimental artist tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside Alo, Certain People and Cherry. Next up: CHICO, Mexicocity on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Von Temple is an electronica and experimental artist tracked on soundcheck, with
 
 Alo, Certain People, Cherry
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vontemple/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vontemple/)*

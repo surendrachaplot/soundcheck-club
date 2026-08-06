@@ -1,6 +1,6 @@
 # Bliss Kiss
 
-Bliss Kiss is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
+Bliss Kiss is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
 
 Bliss Kiss is a house and tech house artist based in Poland, tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Aftersunday, IKARVS and KEVS. Next up: Kaskada, Warsaw on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Bliss Kiss is a house and tech house artist based in Poland, tracked on soundche
 
 Aftersunday, IKARVS, KEVS
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*

@@ -1,6 +1,6 @@
 # Josefina Tapia (2)
 
-Josefina Tapia (2) is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Thu, 6 Aug 2026.
+Josefina Tapia (2) is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Club der Visionaere, Berlin on Thu, 6 Aug 2026.
 
 Josefina Tapia (2) is a house and electro artist based in Chile, tracked on soundcheck, with 36 sets logged across Berlin, Budapest, Copenhagen and Hamburg and 2 more. Often billed alongside Nils Ohrmann, Clemente (DE) and Felipe Valenzuela. Next up: Club der Visionaere, Berlin on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Josefina Tapia (2) is a house and electro artist based in Chile, tracked on soun
 
 Nils Ohrmann, Clemente (DE), Felipe Valenzuela
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*

@@ -1,6 +1,6 @@
 # David Holmes
 
-David Holmes is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nido Marseille, Marseille on Sat, 8 Aug 2026.
+David Holmes is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Nido Marseille, Marseille on Sat, 8 Aug 2026.
 
 David Holmes is a house and electronica artist tracked on soundcheck, with 41 sets logged across Belfast, Birmingham, Cork and Dublin and 7 more. Often billed alongside Sean Johnston, Daniel Avery and Optimo (Espacio). Next up: Nido Marseille, Marseille on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ David Holmes is a house and electronica artist tracked on soundcheck, with 41 se
 
 Sean Johnston, Daniel Avery, Optimo (Espacio)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*

@@ -1,6 +1,6 @@
 # Jezza & Jod
 
-Jezza & Jod is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
+Jezza & Jod is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
 
 Jezza & Jod are a techno and house duo tracked on soundcheck, with 49 sets logged across Aberdeen, Amsterdam, Belfast and Dublin and 9 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jezza & Jod are a techno and house duo tracked on soundcheck, with 49 sets logge
 
 blk., Black Traffic, Jason Cluff
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*

@@ -1,6 +1,6 @@
 # DJ Sun
 
-DJ Sun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
+DJ Sun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
 
 DJ Sun is a techno and house artist based in Lithuania, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin, Geneva and Paris. Often billed alongside ALI3N, Angel D'lite and Blue Hour. Next up: Else, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ DJ Sun is a techno and house artist based in Lithuania, tracked on soundcheck, w
 
 ALI3N, Angel D'lite, Blue Hour
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sun/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sun/)*

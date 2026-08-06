@@ -1,6 +1,6 @@
 # Dirty K
 
-Dirty K is a Club and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OIL Club, Shenzhen on Fri, 7 Aug 2026.
+Dirty K is a Club and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OIL Club, Shenzhen on Fri, 7 Aug 2026.
 
 Dirty K is a club and vaporwave artist tracked on soundcheck, with 11 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside 10cust, AEON FUX and Ali RQ. Next up: OIL Club, Shenzhen on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dirty K is a club and vaporwave artist tracked on soundcheck, with 11 sets logge
 
 10cust, AEON FUX, Ali RQ
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyk/)*

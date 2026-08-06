@@ -1,6 +1,6 @@
 # Jochen Pash
 
-Jochen Pash is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kowalski, Stuttgart on Sat, 15 Aug 2026.
+Jochen Pash is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kowalski, Stuttgart on Sat, 15 Aug 2026.
 
 Jochen Pash is an afro house and tech house artist tracked on soundcheck, with 10 sets logged across Stuttgart. Often billed alongside Merissa Mahilaa, Loli and Philip Bogdan. Next up: Kowalski, Stuttgart on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jochen Pash is an afro house and tech house artist tracked on soundcheck, with 1
 
 Merissa Mahilaa, Loli, Philip Bogdan
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenpash/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenpash/)*

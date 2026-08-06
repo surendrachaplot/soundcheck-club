@@ -1,6 +1,6 @@
 # get no
 
-get no is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+get no is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 get no is a trance and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin and Zurich. Often billed alongside DJ Henk, $EITAN777 and LŸBRA. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ get no is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 DJ Henk, $EITAN777, LŸBRA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/getno/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/getno/)*

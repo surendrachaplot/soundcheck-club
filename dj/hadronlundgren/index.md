@@ -1,6 +1,6 @@
 # Hadron Lundgren
 
-Hadron Lundgren is a Disco and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
+Hadron Lundgren is a Disco and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
 
 Hadron Lundgren is a disco and trance artist based in Hungary, tracked on soundcheck, with 4 sets logged across Budapest. Often billed alongside Max Sinclair, AGA2L and Adam Krasz. Next up: Pontoon Budapest, Budapest on Thu 6 Aug.
 
@@ -20,4 +20,4 @@ Hadron Lundgren is a disco and trance artist based in Hungary, tracked on soundc
 
 Max Sinclair, AGA2L, Adam Krasz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hadronlundgren/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hadronlundgren/)*

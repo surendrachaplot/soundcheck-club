@@ -1,14 +1,14 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
+JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Mash House, Edinburgh on Fri, 7 Aug 2026.
 
-JIALING is a club and techno artist tracked on soundcheck, with 113 sets logged across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Korea Town Acid. Next up: TBA - Edinburgh, Edinburgh on Fri 7 Aug.
+JIALING is a club and techno artist tracked on soundcheck, with 113 sets logged across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Korea Town Acid. Next up: The Mash House, Edinburgh on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | TBA - Edinburgh | Edinburgh |
+| Fri, 7 Aug 2026 | The Mash House | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ JIALING is a club and techno artist tracked on soundcheck, with 113 sets logged 
 
 Mui Mui, PHANTAZN, Korea Town Acid
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

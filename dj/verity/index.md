@@ -1,6 +1,6 @@
 # Verity
 
-Verity is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Garage Noord, Amsterdam on Fri, 7 Aug 2026.
+Verity is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Garage Noord, Amsterdam on Fri, 7 Aug 2026.
 
 Verity is a garage and techno artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Brussels and Hobart and 3 more. Often billed alongside Nelly (NL), DJ MELL G and LazerGazer. Next up: Garage Noord, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Verity is a garage and techno artist based in Netherlands, tracked on soundcheck
 
 Nelly (NL), DJ MELL G, LazerGazer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verity/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verity/)*

@@ -1,6 +1,6 @@
 # ANDRES CAPRA
 
-ANDRES CAPRA is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Otra Historia Club Cultural, Buenos Aires on Sat, 22 Aug 2026.
+ANDRES CAPRA is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Otra Historia Club Cultural, Buenos Aires on Sat, 22 Aug 2026.
 
 ANDRES CAPRA is an electronica and house artist based in Argentina, tracked on soundcheck, with 8 sets logged across Buenosaires. Often billed alongside Berger Muzik, GEMMA and Mr. Fowks. Next up: Otra Historia Club Cultural, Buenosaires on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ ANDRES CAPRA is an electronica and house artist based in Argentina, tracked on s
 
 Berger Muzik, GEMMA, Mr. Fowks
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescapra/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescapra/)*

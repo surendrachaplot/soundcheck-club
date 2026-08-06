@@ -1,6 +1,6 @@
 # Rosy Ross
 
-Rosy Ross is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
+Rosy Ross is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
 
 Rosy Ross is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across London. Often billed alongside Megan Leo, L KAE F and Stella Z. Next up: The Marquee Moon, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rosy Ross is a house and balearic artist based in United Kingdom, tracked on sou
 
 Megan Leo, L KAE F, Stella Z
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*

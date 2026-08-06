@@ -1,6 +1,6 @@
 # VCS1
 
-VCS1 is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
+VCS1 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
 
 VCS1 is an electronic artist based in Ireland, tracked on soundcheck, with 4 sets logged across Bristol and Dublin. Often billed alongside ikigai3000, Betsy Mae and CATZA. Next up: The Racket Space, Dublin on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ VCS1 is an electronic artist based in Ireland, tracked on soundcheck, with 4 set
 
 ikigai3000, Betsy Mae, CATZA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vcs1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vcs1/)*

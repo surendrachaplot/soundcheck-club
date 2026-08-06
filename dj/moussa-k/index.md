@@ -1,6 +1,6 @@
 # Moussa-k
 
-Moussa-k is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Moussa-k is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Moussa-k is a techno and dubstep artist tracked on soundcheck, with 2 sets logged across Portland. Often billed alongside R A L L Y, 8maos and Aaron Davis. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Moussa-k is a techno and dubstep artist tracked on soundcheck, with 2 sets logge
 
 R A L L Y, 8maos, Aaron Davis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moussa-k/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moussa-k/)*

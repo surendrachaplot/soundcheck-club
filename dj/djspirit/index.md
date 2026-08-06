@@ -1,6 +1,6 @@
 # DJ Spirit
 
-DJ Spirit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Mile End Outdoors, Montreal on Sun, 9 Aug 2026.
+DJ Spirit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Mile End Outdoors, Montreal on Sun, 9 Aug 2026.
 
 DJ Spirit is a techno and house artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal. Often billed alongside Marc Myst, Destiny (CA) and Hex P. Next up: TBA - Mile End Outdoors, Montreal on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ DJ Spirit is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Marc Myst, Destiny (CA), Hex P
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspirit/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspirit/)*

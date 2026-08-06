@@ -1,6 +1,6 @@
 # Rond (1)
 
-Rond (1) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 8 Aug 2026.
+Rond (1) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 8 Aug 2026.
 
 Rond (1) is an electronica and techno artist based in Italy, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 3 more. Often billed alongside Kodacci, Luca Piermattei and lōrenzo. Next up: THE MAGICK BAR, Rome on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rond (1) is an electronica and techno artist based in Italy, tracked on soundche
 
 Kodacci, Luca Piermattei, lōrenzo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*

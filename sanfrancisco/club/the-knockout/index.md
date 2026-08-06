@@ -1,6 +1,6 @@
 # The Knockout
 
-The Knockout is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "After Dark - 'This Is Electro'" on Thu, 20 Aug 2026.
+The Knockout is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "After Dark - 'This Is Electro'" on Thu, 20 Aug 2026.
 
 The Knockout is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 3223 Mission Street, San Francisco, CA 94110, United States.
 
@@ -15,4 +15,4 @@ The Knockout is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming n
 
 3223 Mission Street, San Francisco, CA 94110, United States, San Francisco/Oakland
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-knockout/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-knockout/)*

@@ -1,6 +1,6 @@
 # Kohei
 
-Kohei is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Numm, Tokyo on Sat, 22 Aug 2026.
+Kohei is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Numm, Tokyo on Sat, 22 Aug 2026.
 
 Kohei is a minimal and techno artist tracked on soundcheck, with 75 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ONO (3). Next up: Numm, Tokyo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kohei is a minimal and techno artist tracked on soundcheck, with 75 sets logged 
 
 AOKI takamasa, Shingo, ONO (3)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*

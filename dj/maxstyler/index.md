@@ -1,6 +1,6 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Sat, 8 Aug 2026.
+Max Styler is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Sat, 8 Aug 2026.
 
 Max Styler is a house and tech house artist tracked on soundcheck, with 110 sets logged across Austin, Barcelona, Berlin and Boston and 29 more. Often billed alongside John Summit, Layton Giordani and Eli Brown. Next up: TBA - Palacio Alsina, Microcentro, Buenosaires on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Max Styler is a house and tech house artist tracked on soundcheck, with 110 sets
 
 John Summit, Layton Giordani, Eli Brown
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

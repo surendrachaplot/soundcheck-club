@@ -1,6 +1,6 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Deborah De Luca | Mikee" on Thu, 6 Aug 2026.
+Cavo Paradiso is a music venue in Mykonos with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Deborah De Luca | Mikee" on Thu, 6 Aug 2026.
 
 Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming nights, with line-ups including Afrojack, Alok, Audio KoDe and David Morales and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
@@ -22,4 +22,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

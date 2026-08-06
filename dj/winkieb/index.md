@@ -1,6 +1,6 @@
 # Winkieb
 
-Winkieb is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Horn, Bangkok on Fri, 7 Aug 2026.
+Winkieb is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Horn, Bangkok on Fri, 7 Aug 2026.
 
 Winkieb is a techno and experimental artist based in Thailand, tracked on soundcheck, with 33 sets logged across Bangkok, Leipzig, Seoul and Tokyo. Often billed alongside Marmosets, DJ Sweed and Club Mascot. Next up: Horn, Bangkok on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Winkieb is a techno and experimental artist based in Thailand, tracked on soundc
 
 Marmosets, DJ Sweed, Club Mascot
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winkieb/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winkieb/)*

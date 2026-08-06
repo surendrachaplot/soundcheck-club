@@ -1,6 +1,6 @@
 # Drumheller
 
-Drumheller is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
+Drumheller is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
 
 Drumheller is a bass and club artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh and Glasgow. Often billed alongside Casement, Quarterpoundernocheese and Akimat. Next up: Sneaky Pete's, Edinburgh on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Drumheller is a bass and club artist based in United Kingdom, tracked on soundch
 
 Casement, Quarterpoundernocheese, Akimat
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drumheller/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drumheller/)*

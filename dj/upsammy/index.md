@@ -1,8 +1,8 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+upsammy is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
+upsammy is a techno and experimental artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
 | Sat, 29 Aug 2026 | Palais de Tokyo | Paris |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 18 Sept 2026 | public records | New York City |
 | Sat, 19 Sept 2026 | public records | New York City |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
@@ -33,4 +34,4 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 181 sets
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

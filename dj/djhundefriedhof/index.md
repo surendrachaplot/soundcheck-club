@@ -1,6 +1,6 @@
 # DJ HUNDEFRIEDHOF
 
-DJ HUNDEFRIEDHOF is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+DJ HUNDEFRIEDHOF is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 DJ HUNDEFRIEDHOF is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Cologne, Munich and Stuttgart. Often billed alongside RaverPik, STARKILLER.DE and Sabu!. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ HUNDEFRIEDHOF is a trance and techno artist based in Germany, tracked on soun
 
 RaverPik, STARKILLER.DE, Sabu!
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhundefriedhof/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhundefriedhof/)*

@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Studio Club Malaga, Malaga on Sat, 8 Aug 2026.
+Skream is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Studio Club Malaga, Malaga on Sat, 8 Aug 2026.
 
 Skream is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Studio Club Malaga, Malaga on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Skream is a house and techno artist tracked on soundcheck, with 209 sets logged 
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

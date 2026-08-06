@@ -1,6 +1,6 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Faust, Seoul on Fri, 7 Aug 2026.
+Phil Berg is a Techno and Club artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Faust, Seoul on Fri, 7 Aug 2026.
 
 Phil Berg is a techno and club artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Faust, Seoul on Fri 7 Aug.
 
@@ -35,4 +35,4 @@ Phil Berg is a techno and club artist tracked on soundcheck, with 140 sets logge
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

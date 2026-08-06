@@ -1,6 +1,6 @@
 # Šimon Holý
 
-Šimon Holý is a Electronica and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Burza #4, Prague on Sat, 8 Aug 2026.
+Šimon Holý is a Electronica and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Burza #4, Prague on Sat, 8 Aug 2026.
 
 Šimon Holý is an electronica and pop artist tracked on soundcheck, with 2 sets logged across Prague. Often billed alongside Alfred Czital, Fembot and Jesse G. Next up: Burza #4, Prague on Sat 8 Aug.
 
@@ -18,4 +18,4 @@
 
 Alfred Czital, Fembot, Jesse G
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/šimonholý/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/šimonholý/)*

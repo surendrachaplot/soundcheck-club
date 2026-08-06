@@ -1,6 +1,6 @@
 # Fortune Sound Club
 
-Fortune Sound Club is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Avalon Emerson & The Charm" on Thu, 6 Aug 2026.
+Fortune Sound Club is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Avalon Emerson & The Charm" on Thu, 6 Aug 2026.
 
 Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, with line-ups including Avalon Emerson, Gravagerz, MoBlack and Pacific Coliseum. Browse upcoming dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
 
@@ -16,4 +16,4 @@ Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcomin
 
 147 East Pender St; Vancouver, BC V6A 1T6; Canada, Vancouver
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*

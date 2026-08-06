@@ -1,6 +1,6 @@
 # Lost Desert
 
-Lost Desert is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Refuge, New York City on Fri, 28 Aug 2026.
+Lost Desert is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Refuge, New York City on Fri, 28 Aug 2026.
 
 Lost Desert is a house and deep house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 14 more. Often billed alongside Lee Burridge, Tim Green and Jim Rider. Next up: Refuge, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lost Desert is a house and deep house artist tracked on soundcheck, with 44 sets
 
 Lee Burridge, Tim Green, Jim Rider
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*

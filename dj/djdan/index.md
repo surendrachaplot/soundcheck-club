@@ -1,6 +1,6 @@
 # DJ Dan
 
-DJ Dan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
+DJ Dan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Phoenix Hotel, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 DJ Dan is a house and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Berlin, Chicago and Detroit and 10 more. Often billed alongside DJ Sneak, Doc Martin and DJ Colette. Next up: Phoenix Hotel, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Dan is a house and deep house artist based in United States of America, track
 
 DJ Sneak, Doc Martin, DJ Colette
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdan/)*

@@ -1,6 +1,6 @@
 # HMMND
 
-HMMND is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+HMMND is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 HMMND is a techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Manchester. Often billed alongside Dalton Dist, Mist Gasp and R.M.K. Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ HMMND is a techno artist based in United Kingdom, tracked on soundcheck, with 11
 
 Dalton Dist, Mist Gasp, R.M.K
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hmmnd/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hmmnd/)*

@@ -1,6 +1,6 @@
 # ZÖ (1)
 
-ZÖ (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+ZÖ (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 ZÖ (1) is a trance and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne and Leipzig. Often billed alongside KERT (DE), Lisatrix and DETOXX. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ZÖ (1) is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 KERT (DE), Lisatrix, DETOXX
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*

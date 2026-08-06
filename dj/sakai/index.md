@@ -1,6 +1,6 @@
 # Sakai
 
-Sakai is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Output, Tokyo on Tue, 11 Aug 2026.
+Sakai is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Output, Tokyo on Tue, 11 Aug 2026.
 
 Sakai is a minimal and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Osaka and Tokyo. Often billed alongside monielu.h, AOKI takamasa and Kohei. Next up: Output, Tokyo on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Sakai is a minimal and house artist based in Japan, tracked on soundcheck, with 
 
 monielu.h, AOKI takamasa, Kohei
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakai/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakai/)*

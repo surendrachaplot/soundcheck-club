@@ -1,6 +1,6 @@
 # Tripmod
 
-Tripmod is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar do Netão, Sao Paulo on Fri, 14 Aug 2026.
+Tripmod is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bar do Netão, Sao Paulo on Fri, 14 Aug 2026.
 
 Tripmod is a house and techno artist tracked on soundcheck, with 13 sets logged across Saopaulo. Often billed alongside Reizko, PR.A.DO and DJ DUE. Next up: Bar do Netão, Saopaulo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tripmod is a house and techno artist tracked on soundcheck, with 13 sets logged 
 
 Reizko, PR.A.DO, DJ DUE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmod/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmod/)*

@@ -1,6 +1,6 @@
 # Gay Roberto
 
-Gay Roberto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Killing Time, Melbourne on Thu, 13 Aug 2026.
+Gay Roberto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Killing Time, Melbourne on Thu, 13 Aug 2026.
 
 Gay Roberto is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Berlin and Melbourne. Often billed alongside 3rd Orbit, Lewis Cancut and Bertie. Next up: Killing Time, Melbourne on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Gay Roberto is a house and techno artist based in Australia, tracked on soundche
 
 3rd Orbit, Lewis Cancut, Bertie
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gayroberto/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gayroberto/)*

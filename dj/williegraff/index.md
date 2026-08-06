@@ -1,8 +1,8 @@
 # Willie Graff
 
-Willie Graff is a House and Balearic artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Mon, 10 Aug 2026.
+Willie Graff is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Mon, 10 Aug 2026.
 
-Willie Graff is a house and balearic artist tracked on soundcheck, with 67 sets logged across Copenhagen, Ibiza, Madrid and Newyorkcity. Often billed alongside DJ Pippi, Carlos Vila and Nicolas Matar. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Mon 10 Aug.
+Willie Graff is a house and disco artist tracked on soundcheck, with 67 sets logged across Copenhagen, Ibiza, Madrid and Newyorkcity. Often billed alongside DJ Pippi, Carlos Vila and Nicolas Matar. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Willie Graff is a house and balearic artist tracked on soundcheck, with 67 sets 
 
 DJ Pippi, Carlos Vila, Nicolas Matar
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williegraff/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williegraff/)*

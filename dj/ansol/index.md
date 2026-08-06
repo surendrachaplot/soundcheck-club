@@ -1,6 +1,6 @@
 # ANSOL
 
-ANSOL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at vurt., Seoul on Sat, 8 Aug 2026.
+ANSOL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at vurt., Seoul on Sat, 8 Aug 2026.
 
 ANSOL is a techno and house artist based in South Korea, tracked on soundcheck, with 49 sets logged across Seoul. Often billed alongside SUZAN (2), SJK (1) and Djilogue. Next up: vurt., Seoul on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ ANSOL is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 SUZAN (2), SJK (1), Djilogue
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ansol/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ansol/)*

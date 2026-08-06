@@ -1,6 +1,6 @@
 # Boo Williams
 
-Boo Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 15 Aug 2026.
+Boo Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 15 Aug 2026.
 
 Boo Williams is a house and deep house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Austin, Belgrade, Berlin and Chicago and 3 more. Often billed alongside Glenn Underground, Mike Dunn and RIRKIN. Next up: Northern Lights Lounge, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Boo Williams is a house and deep house artist based in United States of America,
 
 Glenn Underground, Mike Dunn, RIRKIN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boowilliams/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boowilliams/)*

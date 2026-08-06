@@ -1,6 +1,6 @@
 # UN!X
 
-UN!X is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Sat, 8 Aug 2026.
+UN!X is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Sat, 8 Aug 2026.
 
 UN!X is a house and techno artist tracked on soundcheck, with 50 sets logged across Bangkok, Hongkong and Shanghai. Often billed alongside PPOINT, Virion and Yorsab. Next up: Dirty Rabbit Hidden Bar, Bangkok on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ UN!X is a house and techno artist tracked on soundcheck, with 50 sets logged acr
 
 PPOINT, Virion, Yorsab
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*

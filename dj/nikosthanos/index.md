@@ -1,6 +1,6 @@
 # Nikos Thanos
 
-Nikos Thanos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at B side Athens, Athens on Thu, 6 Aug 2026.
+Nikos Thanos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at B side Athens, Athens on Thu, 6 Aug 2026.
 
 Nikos Thanos is a techno and house artist tracked on soundcheck, with 52 sets logged across Athens and Berlin. Often billed alongside Mr.M, George Apergis and Patso. Next up: B side Athens, Athens on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Nikos Thanos is a techno and house artist tracked on soundcheck, with 52 sets lo
 
 Mr.M, George Apergis, Patso
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosthanos/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosthanos/)*

@@ -1,6 +1,6 @@
 # Uakoz
 
-Uakoz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Union Club, Vauxhall, London on Sat, 8 Aug 2026.
+Uakoz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Union Club, Vauxhall, London on Sat, 8 Aug 2026.
 
 Uakoz is a techno and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, London and Munich. Often billed alongside RANIERO, Kyle E and Thomas Galbardi. Next up: Union Club, Vauxhall, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Uakoz is a techno and house artist tracked on soundcheck, with 24 sets logged ac
 
 RANIERO, Kyle E, Thomas Galbardi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uakoz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uakoz/)*

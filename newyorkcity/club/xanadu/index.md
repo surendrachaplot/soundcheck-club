@@ -1,14 +1,15 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Sunday Skate Club: Dominican Day feat. Charlie Chimi (skate all night)" on Sun, 9 Aug 2026.
+Xanadu is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Sunday Skate Club: Dominican Day feat. Charlie Chimi (skate all night)" on Sun, 9 Aug 2026.
 
-Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Andrew Lenox, ANICHE, David Paglia and Dirtyfinger and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Andrew Lenox, ANICHE, Boiled Angel and David Paglia and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Sunday Skate Club: Dominican Day feat. Charlie Chimi (skate all night) |  |
+| Thu, 13 Aug 2026 | Goth SK8: Clock Serum (LIVE), Boiled Angel, NIGHTVVITCH (skate all night) | Boiled Angel, NIGHTVVITCH |
 | Sun, 16 Aug 2026 | Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO | Dirtyfinger, WONNSSS, zzzzach |
 | Sun, 23 Aug 2026 | Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad, | Andrew Lenox, Finn Jones, Lauren Murada, Party Dad, lenox |
 | Sun, 30 Aug 2026 | Sunday Skate Club feat. David Paglia, Club Flush: ANICHE (skate all night) | ANICHE, David Paglia |
@@ -20,4 +21,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

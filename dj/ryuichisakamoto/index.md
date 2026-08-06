@@ -1,20 +1,20 @@
 # Ryuichi Sakamoto
 
-Ryuichi Sakamoto is a Classical and Pop artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Silence Please, New York City on Wed, 5 Aug 2026.
+Ryuichi Sakamoto is a Classical and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 7 Aug 2026.
 
-Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Alva Noto, Stephen O'Malley and Blackhaine. Next up: Silence Please, Newyorkcity on Wed 5 Aug.
+Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Alva Noto, Stephen O'Malley and Blackhaine. Next up: The Sound Lounge at Percy, Philadelphia on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Silence Please | New York City |
 | Fri, 7 Aug 2026 | The Sound Lounge at Percy | Philadelphia |
 | Sun, 16 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Sat, 26 Sept 2026 | Funkhaus Berlin | Berlin |
 
 ## Recently played
 
+- Silence Please, New York City — Wed, 5 Aug 2026
 - Jumbi, London — Mon, 30 Mar 2026
 - Neue Nationalgalerie, Berlin — Sat, 30 Aug 2025
 - Neue Nationalgalerie, Berlin — Wed, 27 Aug 2025
@@ -26,4 +26,4 @@ Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundc
 
 Alva Noto, Stephen O'Malley, Blackhaine
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichisakamoto/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichisakamoto/)*

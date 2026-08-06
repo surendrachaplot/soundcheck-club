@@ -1,6 +1,6 @@
 # SPPT
 
-SPPT is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Why Not, Edinburgh on Thu, 13 Aug 2026.
+SPPT is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Why Not, Edinburgh on Thu, 13 Aug 2026.
 
 SPPT is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh and Glasgow. Often billed alongside Patrick McCotter, Shaneo and A-TØN. Next up: Why Not, Edinburgh on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ SPPT is a house and minimal artist based in United Kingdom, tracked on soundchec
 
 Patrick McCotter, Shaneo, A-TØN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sppt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sppt/)*

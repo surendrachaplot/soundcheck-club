@@ -1,6 +1,6 @@
 # Rocket Science Room
 
-Rocket Science Room is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Allinesik + fumerolles + Young Plays Young // Rocket Science Room" on Thu, 6 Aug 2026.
+Rocket Science Room is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Allinesik + fumerolles + Young Plays Young // Rocket Science Room" on Thu, 6 Aug 2026.
 
 Rocket Science Room is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. #204-170 Jean Talon O., Atlas Building, Little Italy, Montreal, Quebec H2R 2X4.
 
@@ -14,4 +14,4 @@ Rocket Science Room is a music venue in Montreal listed on soundcheck. 1 upcomin
 
 #204-170 Jean Talon O., Atlas Building, Little Italy, Montreal, Quebec H2R 2X4, Montreal
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/rocket-science-room/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/rocket-science-room/)*

@@ -1,6 +1,6 @@
 # Nooney
 
-Nooney is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Distrikt, Leeds on Sat, 15 Aug 2026.
+Nooney is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Distrikt, Leeds on Sat, 15 Aug 2026.
 
 Nooney is a minimal and tech house artist tracked on soundcheck, with 14 sets logged across Edinburgh, Leeds and Newcastle. Often billed alongside Sedds, Adam Lance and Lister. Next up: Distrikt, Leeds on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nooney is a minimal and tech house artist tracked on soundcheck, with 14 sets lo
 
 Sedds, Adam Lance, Lister
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nooney/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nooney/)*

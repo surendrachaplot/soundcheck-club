@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "SIP! with Haseeb Iqbal (all day long)" on Sun, 9 Aug 2026.
+ZENNER is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "SIP! with Haseeb Iqbal (all day long)" on Sun, 9 Aug 2026.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Aleksi Perälä, Alexia (2), Alex Jenkin and Barker and 2 more. Browse upcoming dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -21,4 +21,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with 
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

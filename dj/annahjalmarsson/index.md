@@ -1,6 +1,6 @@
 # Anna Hjalmarsson
 
-Anna Hjalmarsson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
+Anna Hjalmarsson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
 
 Anna Hjalmarsson is a techno and house artist based in Sweden, tracked on soundcheck, with 20 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside JANEIN, Stigmatique and Shaleen. Next up: ://about blank, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Anna Hjalmarsson is a techno and house artist based in Sweden, tracked on soundc
 
 JANEIN, Stigmatique, Shaleen
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annahjalmarsson/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annahjalmarsson/)*

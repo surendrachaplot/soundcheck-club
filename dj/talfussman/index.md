@@ -1,14 +1,15 @@
 # Tal Fussman
 
-Tal Fussman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fvtvr, Paris on Sat, 29 Aug 2026.
+Tal Fussman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Fvtvr, Paris on Sat, 29 Aug 2026.
 
-Tal Fussman is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: Fvtvr, Paris on Sat 29 Aug.
+Tal Fussman is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: Fvtvr, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Fvtvr | Paris |
+| Fri, 25 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tal Fussman is a house and techno artist tracked on soundcheck, with 101 sets lo
 
 Radio Slave, Hard To Tell, Anja Schneider
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*

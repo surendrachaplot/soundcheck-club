@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+Oppidan is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
 Oppidan is a garage and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Sammy Virji, MPH (1) and Notion. Next up: Finsbury Park, London on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Oppidan is a garage and house artist tracked on soundcheck, with 142 sets logged
 
 Sammy Virji, MPH (1), Notion
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

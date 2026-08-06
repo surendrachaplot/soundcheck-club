@@ -1,6 +1,6 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
+Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
 
 Mha iri is a techno and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 101 sets l
 
 Eli Brown, Joyhauser, Lilly Palmer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

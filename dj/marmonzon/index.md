@@ -1,6 +1,6 @@
 # Mar Monzon
 
-Mar Monzon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dune Park, Buenos Aires on Fri, 14 Aug 2026.
+Mar Monzon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dune Park, Buenos Aires on Fri, 14 Aug 2026.
 
 Mar Monzon is a house and tech house artist tracked on soundcheck, with 10 sets logged across Buenosaires. Often billed alongside Lulú Matheou, Sound Process and Aerobica. Next up: Dune Park, Buenosaires on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mar Monzon is a house and tech house artist tracked on soundcheck, with 10 sets 
 
 Lulú Matheou, Sound Process, Aerobica
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marmonzon/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marmonzon/)*

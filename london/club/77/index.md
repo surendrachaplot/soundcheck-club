@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FullHouse: Arielle Free" on Fri, 7 Aug 2026.
+77 is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "FullHouse: Arielle Free" on Fri, 7 Aug 2026.
 
 77 is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Arielle Free, Art Department, Bear Winder and Darius Syrossian and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -22,4 +22,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

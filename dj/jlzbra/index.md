@@ -1,6 +1,6 @@
 # JLZ (BRA)
 
-JLZ (BRA) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at EartH, London on Sat, 5 Sept 2026.
+JLZ (BRA) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at EartH, London on Sat, 5 Sept 2026.
 
 JLZ (BRA) is a baile funk and club artist based in Brazil, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Geneva and Lisbon and 2 more. Often billed alongside Kanti, Maxvll and ALL MY COUSINS. Next up: EartH, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ JLZ (BRA) is a baile funk and club artist based in Brazil, tracked on soundcheck
 
 Kanti, Maxvll, ALL MY COUSINS
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jlzbra/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jlzbra/)*

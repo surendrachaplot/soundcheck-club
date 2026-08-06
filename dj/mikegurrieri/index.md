@@ -1,6 +1,6 @@
 # Mike Gurrieri
 
-Mike Gurrieri is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Sat, 15 Aug 2026.
+Mike Gurrieri is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Solace, Melbourne on Sat, 15 Aug 2026.
 
 Mike Gurrieri is a house and jazz artist based in Australia, tracked on soundcheck, with 37 sets logged across Melbourne. Often billed alongside Zepherin Saint, Zjoso and Kuzco. Next up: Solace, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mike Gurrieri is a house and jazz artist based in Australia, tracked on soundche
 
 Zepherin Saint, Zjoso, Kuzco
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*

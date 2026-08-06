@@ -1,6 +1,6 @@
 # Art Dealer
 
-Art Dealer is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Haggerston, London on Fri, 7 Aug 2026.
+Art Dealer is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Haggerston, London on Fri, 7 Aug 2026.
 
 Art Dealer is a hip-hop and afrobeats artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Akabema, SALD3E and V4ND4N4. Next up: The Haggerston, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Art Dealer is a hip-hop and afrobeats artist based in United Kingdom, tracked on
 
 Akabema, SALD3E, V4ND4N4
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artdealer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artdealer/)*

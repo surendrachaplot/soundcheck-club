@@ -1,6 +1,6 @@
 # Dub Phizix
 
-Dub Phizix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
+Dub Phizix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
 
 Dub Phizix is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Belfast, Berlin, Bristol and Leeds and 4 more. Often billed alongside Strategy, Chimpo and SP:MC. Next up: fabric, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dub Phizix is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Strategy, Chimpo, SP:MC
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubphizix/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubphizix/)*

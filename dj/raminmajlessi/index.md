@@ -1,6 +1,6 @@
 # Ramin Majlessi
 
-Ramin Majlessi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 7 Aug 2026.
+Ramin Majlessi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 7 Aug 2026.
 
 Ramin Majlessi is a house and minimal artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity and Sandiego. Often billed alongside Jimbo James, Chad Andrew and Cris Herrera. Next up: 3oz Dive Club, Sandiego on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Ramin Majlessi is a house and minimal artist based in United States of America, 
 
 Jimbo James, Chad Andrew, Cris Herrera
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raminmajlessi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raminmajlessi/)*

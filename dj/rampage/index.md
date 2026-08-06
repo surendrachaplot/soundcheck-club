@@ -1,6 +1,6 @@
 # Rampage
 
-Rampage is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+Rampage is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
 
 Rampage is a house and trance artist based in United States of America, tracked on soundcheck, with 18 sets logged across Bristol, Chicago, London and Losangeles and 3 more. Often billed alongside Supa D, DJ Cartier and Donch. Next up: Ministry Of Sound, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Rampage is a house and trance artist based in United States of America, tracked 
 
 Supa D, DJ Cartier, Donch
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rampage/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rampage/)*

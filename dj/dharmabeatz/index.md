@@ -1,6 +1,6 @@
 # Dharma Beatz
 
-Dharma Beatz is a Trance and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pavilon, Budapest on Fri, 7 Aug 2026.
+Dharma Beatz is a Trance and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pavilon, Budapest on Fri, 7 Aug 2026.
 
 Dharma Beatz is a trance and dub techno artist based in Hungary, tracked on soundcheck, with 15 sets logged across Budapest. Often billed alongside Bencsama, HALF TO TWELVE and Kiqo. Next up: Pavilon, Budapest on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dharma Beatz is a trance and dub techno artist based in Hungary, tracked on soun
 
 Bencsama, HALF TO TWELVE, Kiqo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmabeatz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmabeatz/)*

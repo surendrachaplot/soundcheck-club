@@ -1,6 +1,6 @@
 # ALLES ATZIG
 
-ALLES ATZIG is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Tue, 11 Aug 2026.
+ALLES ATZIG is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Tue, 11 Aug 2026.
 
 ALLES ATZIG is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Leipzig. Often billed alongside AR Keetman, Abribass and Alisa Stovik. Next up: Lokschuppen Berlin, Berlin on Tue 11 Aug.
 
@@ -20,4 +20,4 @@ ALLES ATZIG is a trance and techno artist based in Germany, tracked on soundchec
 
 AR Keetman, Abribass, Alisa Stovik
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allesatzig/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allesatzig/)*

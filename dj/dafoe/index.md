@@ -1,6 +1,6 @@
 # Dafoe
 
-Dafoe is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at LAUT, Barcelona on Fri, 7 Aug 2026.
+Dafoe is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at LAUT, Barcelona on Fri, 7 Aug 2026.
 
 Dafoe is a techno and electro artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona and Tallinn. Often billed alongside Ed Warner, Andi and Curses. Next up: LAUT, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dafoe is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 Ed Warner, Andi, Curses
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dafoe/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dafoe/)*

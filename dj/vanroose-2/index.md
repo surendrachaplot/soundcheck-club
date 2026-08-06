@@ -1,6 +1,6 @@
 # VANROOSE
 
-VANROOSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Friche Belle de Mai, Marseille on Thu, 6 Aug 2026.
+VANROOSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Friche Belle de Mai, Marseille on Thu, 6 Aug 2026.
 
 VANROOSE is a techno and house artist tracked on soundcheck, with 37 sets logged across Lyon, Marseille, Mexicocity and Paris. Often billed alongside YENKOV, Bassi-fr and HearThug. Next up: Friche Belle de Mai, Marseille on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ VANROOSE is a techno and house artist tracked on soundcheck, with 37 sets logged
 
 YENKOV, Bassi-fr, HearThug
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanroose-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanroose-2/)*

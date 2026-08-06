@@ -1,6 +1,6 @@
 # Manu Miran
 
-Manu Miran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
+Manu Miran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
 
 Manu Miran is a techno and house artist based in Venezuela, tracked on soundcheck, with 63 sets logged across Amsterdam, Bangkok, Boston and Chicago and 6 more. Often billed alongside Josh Steers, Junior M (US) and Concrete Husband. Next up: Good Room, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Manu Miran is a techno and house artist based in Venezuela, tracked on soundchec
 
 Josh Steers, Junior M (US), Concrete Husband
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*

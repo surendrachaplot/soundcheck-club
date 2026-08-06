@@ -1,6 +1,6 @@
 # Raf & Rod
 
-Raf & Rod is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Sat, 22 Aug 2026.
+Raf & Rod is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club der Visionaere, Berlin on Sat, 22 Aug 2026.
 
 Raf & Rod are a house and electro duo tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Ibiza and Madrid. Often billed alongside Omar M, DJ Gamba and Lyonel. Next up: Club der Visionaere, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Raf & Rod are a house and electro duo tracked on soundcheck, with 44 sets logged
 
 Omar M, DJ Gamba, Lyonel
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*

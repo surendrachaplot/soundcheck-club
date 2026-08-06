@@ -1,6 +1,6 @@
 # LI-YU
 
-LI-YU is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Oase, Rotterdam on Sat, 8 Aug 2026.
+LI-YU is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Oase, Rotterdam on Sat, 8 Aug 2026.
 
 LI-YU is a deep house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Ibiza, London and Rotterdam. Often billed alongside Ben Diggins, LIMA (NL) and select motion. Next up: Oase, Rotterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ LI-YU is a deep house and house artist tracked on soundcheck, with 28 sets logge
 
 Ben Diggins, LIMA (NL), select motion
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*

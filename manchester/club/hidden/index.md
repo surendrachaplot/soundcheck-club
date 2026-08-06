@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky " on Sat, 8 Aug 2026.
+Hidden is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky " on Sat, 8 Aug 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 16 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Chimpo and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Chimpo and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Hidden is a music venue in Manchester listed on soundcheck. 16 upcoming nights, 
 | Fri, 21 Aug 2026 | Parallel: Keefy G + Support | Hanz, Jovak, K1ng Arthur, Keefy G |
 | Sun, 30 Aug 2026 | Luke Una presents É Soul Cultura | Luke Una |
 | Fri, 11 Sept 2026 | Parallel: Christian AB & Touré | Christian AB, Touré |
+| Sat, 12 Sept 2026 | Majefa Underground Trance V2 | Solarstone |
 | Thu, 17 Sept 2026 | Freshers Warehouse Rave: Joe Hunt, LLEAHDAVIES, DJANGO  | DJANGO (NL), LLEAHDAVIES, Reimond, SHADEV |
 | Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
 | Mon, 21 Sept 2026 | Ghosts of Garage: A FRESH START | Charlie Shell, LARISHKA (UK), Rich Reason, T-Man (UK) |
 | Thu, 24 Sept 2026 | Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends  | Fixate, Fracture, Hanz, Sir Spyro, Tailor Jae, Trends, VXRGO |
-| Fri, 25 Sept 2026 | The Egyptian Lover & FREAKENSTEIN - REC. x Hidden  | Egyptian Lover, FREAKENSTEIN, Rhod Parry |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

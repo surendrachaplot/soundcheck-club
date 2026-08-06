@@ -1,6 +1,6 @@
 # Anlegestelle Spandau (Lindenufer)
 
-Anlegestelle Spandau (Lindenufer) is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "BEATE AHOI! /// Beate Uwe Bootsparty" on Sun, 9 Aug 2026.
+Anlegestelle Spandau (Lindenufer) is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "BEATE AHOI! /// Beate Uwe Bootsparty" on Sun, 9 Aug 2026.
 
 Anlegestelle Spandau (Lindenufer) is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including diladï. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Anlegestelle Spandau (Lindenufer) is a music venue in Berlin listed on soundchec
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | BEATE AHOI! /// Beate Uwe Bootsparty | diladï |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/anlegestelle-spandau-lindenufer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/anlegestelle-spandau-lindenufer/)*

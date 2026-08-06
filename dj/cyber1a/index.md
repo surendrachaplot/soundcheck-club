@@ -1,6 +1,6 @@
 # CYBER1A
 
-CYBER1A is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+CYBER1A is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 CYBER1A is a techno and bass artist based in United States of America, tracked on soundcheck, with 17 sets logged across Sanfrancisco and Seattle. Often billed alongside BAD JUUJU, Vertigo and Farsight. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CYBER1A is a techno and bass artist based in United States of America, tracked o
 
 BAD JUUJU, Vertigo, Farsight
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyber1a/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyber1a/)*

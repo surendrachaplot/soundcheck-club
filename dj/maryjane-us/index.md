@@ -1,6 +1,6 @@
 # Mary Jane (US)
 
-Mary Jane (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+Mary Jane (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 Mary Jane (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Miami, Newyorkcity and Sanfrancisco. Often billed alongside Dude Skywalker, Nii Tei and Kike Roldan. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mary Jane (US) is a house and deep house artist based in United States of Americ
 
 Dude Skywalker, Nii Tei, Kike Roldan
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*

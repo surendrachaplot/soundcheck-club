@@ -1,6 +1,6 @@
 # ESTRELLA
 
-ESTRELLA is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at BRET, Amsterdam on Fri, 7 Aug 2026.
+ESTRELLA is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BRET, Amsterdam on Fri, 7 Aug 2026.
 
 ESTRELLA is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Rotterdam and Sanfrancisco and 1 more. Often billed alongside Andy (NL), Crinkhoff and Merel Helderman. Next up: BRET, Amsterdam on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ ESTRELLA is a house and tech house artist tracked on soundcheck, with 35 sets lo
 
 Andy (NL), Crinkhoff, Merel Helderman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*

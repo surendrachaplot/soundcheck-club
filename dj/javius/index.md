@@ -1,6 +1,6 @@
 # Javi (US)
 
-Javi (US) is a Latin Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Javi (US) is a Latin Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Javi (US) is a latin bass and downtempo artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside DJ JUANNY, erika (SF) and dj kelleyjane. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Javi (US) is a latin bass and downtempo artist based in United States of America
 
 DJ JUANNY, erika (SF), dj kelleyjane
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javius/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javius/)*

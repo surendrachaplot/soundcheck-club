@@ -1,6 +1,6 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
+Detroit In Effect is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
 Detroit In Effect is a techno and electro artist based in United States of America, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Binh, Morgan and Serge. Next up: FOLD, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Binh, Morgan, Serge
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

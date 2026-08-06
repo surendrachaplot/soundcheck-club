@@ -1,6 +1,6 @@
 # Macmillan
 
-Macmillan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 8 Aug 2026.
+Macmillan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 8 Aug 2026.
 
 Macmillan is a house and deep house artist based in Australia, tracked on soundcheck, with 34 sets logged across Auckland and Melbourne. Often billed alongside Crozier, Amber Ferraro and A.Well. Next up: Kemuri Hi-Fi, Auckland on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Macmillan is a house and deep house artist based in Australia, tracked on soundc
 
 Crozier, Amber Ferraro, A.Well
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macmillan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macmillan/)*

@@ -1,6 +1,6 @@
 # KOLLER
 
-KOLLER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Macadam, Nantes on Thu, 24 Sept 2026.
+KOLLER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Macadam, Nantes on Thu, 24 Sept 2026.
 
 KOLLER is a techno and trance artist tracked on soundcheck, with 18 sets logged across Copenhagen, Nantes and Zurich. Often billed alongside Heidy Fly, Discostouf and HORNS (1). Next up: Macadam, Nantes on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ KOLLER is a techno and trance artist tracked on soundcheck, with 18 sets logged 
 
 Heidy Fly, Discostouf, HORNS (1)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koller/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koller/)*

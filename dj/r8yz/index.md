@@ -1,6 +1,6 @@
 # R8YZ
 
-R8YZ is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Open Aera, Toronto on Thu, 20 Aug 2026.
+R8YZ is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Open Aera, Toronto on Thu, 20 Aug 2026.
 
 R8YZ is a progressive house and deep house artist based in Canada, tracked on soundcheck, with 31 sets logged across Montreal and Toronto. Often billed alongside Jonathan Rosa, Massane and RUDEE NIK. Next up: Open Aera, Toronto on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ R8YZ is a progressive house and deep house artist based in Canada, tracked on so
 
 Jonathan Rosa, Massane, RUDEE NIK
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r8yz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r8yz/)*

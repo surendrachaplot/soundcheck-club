@@ -1,6 +1,6 @@
 # dd (PL)
 
-dd (PL) is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 7 Aug 2026.
+dd (PL) is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 7 Aug 2026.
 
 dd (PL) is a techno and disco artist based in Poland, tracked on soundcheck, with 69 sets logged across Krakow, Rotterdam and Warsaw. Often billed alongside Kovvalsky, Taan and Buchan. Next up: K-Bar Powiśle, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ dd (PL) is a techno and disco artist based in Poland, tracked on soundcheck, wit
 
 Kovvalsky, Taan, Buchan
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dd-pl/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dd-pl/)*

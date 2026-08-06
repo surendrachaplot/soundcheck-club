@@ -1,6 +1,6 @@
 # Mohammad Reza Mortazavi
 
-Mohammad Reza Mortazavi is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Basement Vesterbro, Copenhagen on Wed, 2 Sept 2026.
+Mohammad Reza Mortazavi is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Basement Vesterbro, Copenhagen on Wed, 2 Sept 2026.
 
 Mohammad Reza Mortazavi is an electronic artist based in Iran, tracked on soundcheck, with 4 sets logged across Copenhagen, London and Oslo. Often billed alongside Donato Dozzy, Ellen Arkbro and Felicita. Next up: Basement Vesterbro, Copenhagen on Wed 2 Sept.
 
@@ -20,4 +20,4 @@ Mohammad Reza Mortazavi is an electronic artist based in Iran, tracked on soundc
 
 Donato Dozzy, Ellen Arkbro, Felicita
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadrezamortazavi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadrezamortazavi/)*

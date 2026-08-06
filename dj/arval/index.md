@@ -1,6 +1,6 @@
 # Arval
 
-Arval is a Minimal and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Location, Malaga on Sun, 16 Aug 2026.
+Arval is a Minimal and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, Malaga on Sun, 16 Aug 2026.
 
 Arval is a minimal and electronica artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Moruki, Memed Awad and John Hobbs. Next up: TBA - Secret Location, Malaga on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Arval is a minimal and electronica artist tracked on soundcheck, with 29 sets lo
 
 Moruki, Memed Awad, John Hobbs
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*

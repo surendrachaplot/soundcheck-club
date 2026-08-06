@@ -1,6 +1,6 @@
 # DJ SHORTKING
 
-DJ SHORTKING is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Wigwam, Dublin on Sat, 15 Aug 2026.
+DJ SHORTKING is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Wigwam, Dublin on Sat, 15 Aug 2026.
 
 DJ SHORTKING is a house and garage artist based in Ireland, tracked on soundcheck, with 8 sets logged across Dublin. Often billed alongside Hyperfunk, JUSTDYL and CONSTANT. Next up: Wigwam, Dublin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ DJ SHORTKING is a house and garage artist based in Ireland, tracked on soundchec
 
 Hyperfunk, JUSTDYL, CONSTANT
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshortking/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshortking/)*

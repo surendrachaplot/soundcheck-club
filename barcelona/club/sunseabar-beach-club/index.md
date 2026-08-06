@@ -1,6 +1,6 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "B48 live - Beach Club Edition (FREE ENTRY)" on Thu, 6 Aug 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "B48 live - Beach Club Edition (FREE ENTRY)" on Thu, 6 Aug 2026.
 
 Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including acidheaven, AFFKT, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
@@ -23,4 +23,4 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 19 upco
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

@@ -1,14 +1,15 @@
 # Jeff Straw
 
-Jeff Straw is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Butter, San Francisco/Oakland on Sun, 9 Aug 2026.
+Jeff Straw is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Butter, San Francisco/Oakland on Sun, 9 Aug 2026.
 
-Jeff Straw is a house and tech house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Denver, Ibiza and Sanfrancisco. Often billed alongside HIDRA, Mode Leeloo and Major Trouble. Next up: Butter, Sanfrancisco on Sun 9 Aug.
+Jeff Straw is a house and tech house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Denver, Ibiza and Sanfrancisco. Often billed alongside HIDRA, Mode Leeloo and Major Trouble. Next up: Butter, Sanfrancisco on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Butter | San Francisco/Oakland |
+| Sun, 16 Aug 2026 | Butter | San Francisco/Oakland |
 | Sun, 23 Aug 2026 | Butter | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Jeff Straw is a house and tech house artist based in United States of America, t
 
 HIDRA, Mode Leeloo, Major Trouble
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*

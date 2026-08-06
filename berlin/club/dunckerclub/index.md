@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "'STRANGELOVE' by DJ WhamPee" on Fri, 7 Aug 2026.
+Dunckerclub is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "'STRANGELOVE' by DJ WhamPee" on Fri, 7 Aug 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Neue K. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -23,4 +23,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 12 upcoming nights,
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

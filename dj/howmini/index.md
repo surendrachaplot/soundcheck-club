@@ -1,6 +1,6 @@
 # Howmini
 
-Howmini is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Frame Seoul, Seoul on Sun, 16 Aug 2026.
+Howmini is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Frame Seoul, Seoul on Sun, 16 Aug 2026.
 
 Howmini is a house and hip-hop artist based in South Korea, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, London and Madrid and 2 more. Often billed alongside Cityboy from Seoul, Youngisland and KNARFTSITRA. Next up: Frame Seoul, Seoul on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Howmini is a house and hip-hop artist based in South Korea, tracked on soundchec
 
 Cityboy from Seoul, Youngisland, KNARFTSITRA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/howmini/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/howmini/)*

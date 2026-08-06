@@ -1,6 +1,6 @@
 # Dirty Disco Divas
 
-Dirty Disco Divas is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+Dirty Disco Divas is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 Dirty Disco Divas is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Hamburg. Often billed alongside WhoIsWho, Elon Bass and BNZN. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dirty Disco Divas is a trance and techno artist based in Germany, tracked on sou
 
 WhoIsWho, Elon Bass, BNZN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydiscodivas/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydiscodivas/)*

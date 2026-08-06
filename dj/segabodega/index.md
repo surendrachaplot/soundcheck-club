@@ -1,6 +1,6 @@
 # Sega Bodega
 
-Sega Bodega is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hangaren, Copenhagen on Fri, 7 Aug 2026.
+Sega Bodega is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hangaren, Copenhagen on Fri, 7 Aug 2026.
 
 Sega Bodega is an electronica and bass artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Arca, DjRUM and Erika de Casier. Next up: Hangaren, Copenhagen on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sega Bodega is an electronica and bass artist based in United Kingdom, tracked o
 
 Arca, DjRUM, Erika de Casier
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/segabodega/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/segabodega/)*

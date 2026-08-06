@@ -1,6 +1,6 @@
 # Andrea Dama
 
-Andrea Dama is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Switch Bar, Barcelona on Sat, 8 Aug 2026.
+Andrea Dama is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Switch Bar, Barcelona on Sat, 8 Aug 2026.
 
 Andrea Dama is a house and disco artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Buenosaires and Leeds and 1 more. Often billed alongside Delfonic, Audrey Danza and Nadia Wise. Next up: Switch Bar, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Andrea Dama is a house and disco artist tracked on soundcheck, with 20 sets logg
 
 Delfonic, Audrey Danza, Nadia Wise
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdama/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdama/)*

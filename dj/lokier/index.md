@@ -1,6 +1,6 @@
 # Lokier
 
-Lokier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kilomètre25, Paris on Fri, 14 Aug 2026.
+Lokier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kilomètre25, Paris on Fri, 14 Aug 2026.
 
 Lokier is a techno and trance artist based in Mexico, tracked on soundcheck, with 83 sets logged across Antwerp, Athens, Barcelona and Basel and 31 more. Often billed alongside 999999999, DYEN and Kobosil. Next up: Kilomètre25, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lokier is a techno and trance artist based in Mexico, tracked on soundcheck, wit
 
 999999999, DYEN, Kobosil
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*

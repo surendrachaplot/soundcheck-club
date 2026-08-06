@@ -1,6 +1,6 @@
 # The Vanguard
 
-The Vanguard is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Emotional Dance Music" on Fri, 7 Aug 2026.
+The Vanguard is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Emotional Dance Music" on Fri, 7 Aug 2026.
 
 The Vanguard is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Arsonist, Couch Mechanic, DAYZZI and Dro Carey and 2 more. Browse upcoming dates, start times and who's playing. 42 King St; Newtown, NSW 2042; Australia.
 
@@ -16,4 +16,4 @@ The Vanguard is a music venue in Sydney listed on soundcheck. 3 upcoming nights,
 
 42 King St; Newtown, NSW 2042; Australia, Sydney
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*

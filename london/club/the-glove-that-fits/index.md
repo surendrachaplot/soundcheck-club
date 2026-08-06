@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 25 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Club Salami - Setwun, D'Monk, Donsurf, Kusasa, Jimmy Smith" on Fri, 7 Aug 2026.
+The Glove That Fits is a music venue in London with 25 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Club Salami - Setwun, D'Monk, Donsurf, Kusasa, Jimmy Smith" on Fri, 7 Aug 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including 7005, Aero (1), AJ Manning and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -16,11 +16,11 @@ The Glove That Fits is a music venue in London listed on soundcheck. 25 upcoming
 | Sat, 15 Aug 2026 | ZEM2 presents Crime Partners | Luc *, OllyK |
 | Sun, 16 Aug 2026 | Salotto Sounds - Sunday Open Air | Alfaz, NOIDMATE, Pandar, SCCO, Zak Miller |
 | Fri, 21 Aug 2026 | family affair volume X: a party for palestine | Richard Gregory, Sheriff Boo, Séarlait |
-| Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor & Nik Colk Void | Datassette, Equinox (UK), Kerrie, Kid Drama, London Modular, Monoak, Nik Colk Void, No data available, Radioactive Man, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
+| Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor, Kerrie, Equinox & Nik Colk Void  | Datassette, Equinox (UK), Kerrie, Kid Drama, London Modular, Monoak, Nik Colk Void, No data available, Radioactive Man, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
 | Thu, 27 Aug 2026 | pwrSystm - 1st anniversary |  |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

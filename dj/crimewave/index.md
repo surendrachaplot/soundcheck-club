@@ -1,6 +1,6 @@
 # Crimewave
 
-Crimewave is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Quarry, Liverpool on Thu, 27 Aug 2026.
+Crimewave is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Quarry, Liverpool on Thu, 27 Aug 2026.
 
 Crimewave is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 25 sets logged across Liverpool, Montreal, Sheffield and Sydney. Often billed alongside IIITHRIII, STLKR and Jeska. Next up: Quarry, Liverpool on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Crimewave is a drum & bass and jungle artist based in Canada, tracked on soundch
 
 IIITHRIII, STLKR, Jeska
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crimewave/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crimewave/)*

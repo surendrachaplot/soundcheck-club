@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "★ S.A.S.H Sydney x Marley Sherman ★ Saturday 8th August ★" on Sat, 8 Aug 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "★ S.A.S.H Sydney x Marley Sherman ★ Saturday 8th August ★" on Sat, 8 Aug 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcoming nights, with line-ups including KiNK. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -22,4 +22,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcom
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

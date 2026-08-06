@@ -1,6 +1,6 @@
 # SchokoZitrone
 
-SchokoZitrone is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+SchokoZitrone is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 SchokoZitrone is a techno and trance artist tracked on soundcheck, with 28 sets logged across Berlin, Budapest, Lisbon and Munich. Often billed alongside Phil Biehler, loumo and BENDOM. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SchokoZitrone is a techno and trance artist tracked on soundcheck, with 28 sets 
 
 Phil Biehler, loumo, BENDOM
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schokozitrone/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schokozitrone/)*

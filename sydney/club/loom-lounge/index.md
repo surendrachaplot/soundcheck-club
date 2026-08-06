@@ -1,6 +1,6 @@
 # Loom Lounge
 
-Loom Lounge is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "FUTURE:RETRO _001" on Fri, 7 Aug 2026.
+Loom Lounge is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "FUTURE:RETRO _001" on Fri, 7 Aug 2026.
 
 Loom Lounge is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 23 Willoughby Ln, Crows Nest NSW 2065.
 
@@ -14,4 +14,4 @@ Loom Lounge is a music venue in Sydney listed on soundcheck. 1 upcoming night. B
 
 23 Willoughby Ln, Crows Nest NSW 2065, Sydney
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/loom-lounge/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/loom-lounge/)*

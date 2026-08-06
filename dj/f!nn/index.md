@@ -1,6 +1,6 @@
 # F!NN
 
-F!NN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
+F!NN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
 
 F!NN is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg and Melbourne. Often billed alongside Cornyjava, Limpid and EXPLICIT. Next up: Angel Music Bar, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ F!NN is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Cornyjava, Limpid, EXPLICIT
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f!nn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/f!nn/)*

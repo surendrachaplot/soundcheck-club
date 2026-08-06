@@ -1,6 +1,6 @@
 # Toni Clara
 
-Toni Clara is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Freischwimmer, Berlin on Sat, 8 Aug 2026.
+Toni Clara is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Freischwimmer, Berlin on Sat, 8 Aug 2026.
 
 Toni Clara is a house and deep house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Sokool, Stefan Muchte and CARLI (UK). Next up: Freischwimmer, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Toni Clara is a house and deep house artist based in Germany, tracked on soundch
 
 Sokool, Stefan Muchte, CARLI (UK)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toniclara/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toniclara/)*

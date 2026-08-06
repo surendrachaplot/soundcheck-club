@@ -1,6 +1,6 @@
 # vinylDJ Eiji Takehana
 
-vinylDJ Eiji Takehana is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Dogenzaka Church, Tokyo on Fri, 7 Aug 2026.
+vinylDJ Eiji Takehana is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Dogenzaka Church, Tokyo on Fri, 7 Aug 2026.
 
 vinylDJ Eiji Takehana is a drum & bass and jungle artist tracked on soundcheck, with 141 sets logged across Tokyo. Often billed alongside Kenta Tominaga, Hironobu Jyounai and Yuta Takahashi. Next up: Dogenzaka Church, Tokyo on Fri 7 Aug.
 
@@ -34,4 +34,4 @@ vinylDJ Eiji Takehana is a drum & bass and jungle artist tracked on soundcheck, 
 
 Kenta Tominaga, Hironobu Jyounai, Yuta Takahashi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldjeijitakehana/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldjeijitakehana/)*

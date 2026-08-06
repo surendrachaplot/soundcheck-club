@@ -1,6 +1,6 @@
 # Grá (IRE)
 
-Grá (IRE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
+Grá (IRE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
 
 Grá (IRE) is a techno and house artist based in Ireland, tracked on soundcheck, with 6 sets logged across London. Often billed alongside EMROSE, FITS ME FUNNY and Nick Spencer. Next up: Crown Pier, London on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Grá (IRE) is a techno and house artist based in Ireland, tracked on soundcheck,
 
 EMROSE, FITS ME FUNNY, Nick Spencer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graire/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graire/)*

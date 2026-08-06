@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Club Vinyl, Denver on Sat, 8 Aug 2026.
+DATSKO is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Club Vinyl, Denver on Sat, 8 Aug 2026.
 
 DATSKO is a techno and trance artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 23 more. Often billed alongside Black Traffic, blk. and Alex Farell. Next up: Club Vinyl, Denver on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ DATSKO is a techno and trance artist tracked on soundcheck, with 72 sets logged 
 
 Black Traffic, blk., Alex Farell
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

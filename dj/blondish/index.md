@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+BLOND:ISH is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 BLOND:ISH is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Boston and 27 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ BLOND:ISH is a house and techno artist tracked on soundcheck, with 132 sets logg
 
 Marco Carola, Seth Troxler, Ben Sterling
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

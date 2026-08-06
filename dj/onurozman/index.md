@@ -1,6 +1,6 @@
 # Onur Ozman
 
-Onur Ozman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Strandbad Tiefenbrunnen + Club Hive, Zurich on Sun, 9 Aug 2026.
+Onur Ozman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Strandbad Tiefenbrunnen + Club Hive, Zurich on Sun, 9 Aug 2026.
 
 Onur Ozman is a techno and house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Berlin, Frankfurt, Istanbul and Zurich. Often billed alongside Impérieux, Rebekah Abdeen and AVEM. Next up: TBA - Strandbad Tiefenbrunnen + Club Hive, Zurich on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Onur Ozman is a techno and house artist based in Switzerland, tracked on soundch
 
 Impérieux, Rebekah Abdeen, AVEM
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozman/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozman/)*

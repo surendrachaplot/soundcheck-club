@@ -1,6 +1,6 @@
 # THURI
 
-THURI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Das Werk, Vienna on Fri, 7 Aug 2026.
+THURI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Das Werk, Vienna on Fri, 7 Aug 2026.
 
 THURI is a techno and trance artist based in Austria, tracked on soundcheck, with 25 sets logged across Berlin, Krakow and Vienna. Often billed alongside Silentsevir, Trugbild and ASCHENBRENNER. Next up: Das Werk, Vienna on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ THURI is a techno and trance artist based in Austria, tracked on soundcheck, wit
 
 Silentsevir, Trugbild, ASCHENBRENNER
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thuri/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thuri/)*

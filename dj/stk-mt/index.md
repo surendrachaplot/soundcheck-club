@@ -1,6 +1,6 @@
 # STK (MT)
 
-STK (MT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+STK (MT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 STK (MT) is a techno and house artist based in Malta, tracked on soundcheck, with 37 sets logged across Malta. Often billed alongside Damz, Georg MT and Budg. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ STK (MT) is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 Damz, Georg MT, Budg
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stk-mt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stk-mt/)*

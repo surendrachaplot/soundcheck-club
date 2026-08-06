@@ -1,6 +1,6 @@
 # Kuvau
 
-Kuvau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
+Kuvau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
 
 Kuvau is a house and techno artist based in Poland, tracked on soundcheck, with 40 sets logged across Warsaw. Often billed alongside Angelo Mike, Konca and EXCE. Next up: Kaskada, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kuvau is a house and techno artist based in Poland, tracked on soundcheck, with 
 
 Angelo Mike, Konca, EXCE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvau/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvau/)*

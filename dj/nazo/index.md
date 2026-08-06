@@ -1,6 +1,6 @@
 # Nazo
 
-Nazo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
+Nazo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
 
 Nazo is a house and afro house artist based in Romania, tracked on soundcheck, with 5 sets logged across Seattle and Sydney. Often billed alongside Nayiram, Cassette and Adarah. Next up: TBA, Sydney on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Nazo is a house and afro house artist based in Romania, tracked on soundcheck, w
 
 Nayiram, Cassette, Adarah
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazo/)*

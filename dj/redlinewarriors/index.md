@@ -1,6 +1,6 @@
 # Redline Warriors
 
-Redline Warriors is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Redline Warriors is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Redline Warriors is a drum & bass and techno artist based in Denmark, tracked on soundcheck, with 10 sets logged across Copenhagen. Often billed alongside Hyphae, Mary Harp and Vincent's Older Sister. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Redline Warriors is a drum & bass and techno artist based in Denmark, tracked on
 
 Hyphae, Mary Harp, Vincent's Older Sister
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redlinewarriors/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redlinewarriors/)*

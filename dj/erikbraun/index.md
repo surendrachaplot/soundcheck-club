@@ -1,6 +1,6 @@
 # Erik Braun
 
-Erik Braun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 7 Aug 2026.
+Erik Braun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 7 Aug 2026.
 
 Erik Braun is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside HNDRNC, skoglund and SANDBAG. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Erik Braun is a techno and house artist based in United States of America, track
 
 HNDRNC, skoglund, SANDBAG
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikbraun/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikbraun/)*

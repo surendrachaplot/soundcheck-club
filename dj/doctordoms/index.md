@@ -1,6 +1,6 @@
 # dOctOr doms
 
-dOctOr doms is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La traverse de Balkis, Marseille on Fri, 7 Aug 2026.
+dOctOr doms is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La traverse de Balkis, Marseille on Fri, 7 Aug 2026.
 
 dOctOr doms is a techno and trance artist based in Germany, tracked on soundcheck, with 62 sets logged across Berlin and Marseille. Often billed alongside OM (COL), VO227 and Rudy Zigliara. Next up: La traverse de Balkis, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ dOctOr doms is a techno and trance artist based in Germany, tracked on soundchec
 
 OM (COL), VO227, Rudy Zigliara
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

@@ -1,6 +1,6 @@
 # seja (1)
 
-seja (1) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
+seja (1) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
 
 seja (1) is a house and acid artist tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Mowgli (NL), essi and Charlie. Next up: Ruiterijcomplex, Brussels on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ seja (1) is a house and acid artist tracked on soundcheck, with 24 sets logged a
 
 Mowgli (NL), essi, Charlie
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seja-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seja-1/)*

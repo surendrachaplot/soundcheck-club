@@ -1,6 +1,6 @@
 # Scheppērt
 
-Scheppērt is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kauz, Zurich on Sat, 8 Aug 2026.
+Scheppērt is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kauz, Zurich on Sat, 8 Aug 2026.
 
 Scheppērt is a hardcore and techno artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Zurich. Often billed alongside ONX (CH), Anna Logic and Liad Krispin. Next up: Kauz, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Scheppērt is a hardcore and techno artist based in Switzerland, tracked on soun
 
 ONX (CH), Anna Logic, Liad Krispin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scheppert/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scheppert/)*

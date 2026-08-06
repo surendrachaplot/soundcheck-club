@@ -1,6 +1,6 @@
 # Open House 8 at Rhythm
 
-Open House 8 at Rhythm on Fri 28 Aug, Toronto. 7 acts on the bill: Art Behaviour, CZYN, Dargan and FriendofaFriend and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Open House 8 at Rhythm on Fri 28 Aug, Toronto. 8 acts on the bill: Art Behaviour, Bellini Baby, CZYN and Dargan and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Open House 8 at Rhythm on Fri 28 Aug, Toronto. 7 acts on the bill: Art Behaviour
 ## Line-up
 
 - Art Behaviour
+- Bellini Baby
 - CZYN
 - Dargan
 - FriendofaFriend

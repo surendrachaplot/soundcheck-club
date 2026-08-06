@@ -1,6 +1,6 @@
 # Zenith
 
-Zenith is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Berlin on Fri, 7 Aug 2026.
+Zenith is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Berlin on Fri, 7 Aug 2026.
 
 Zenith is a techno and tech house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Melbourne and Mexicocity and 1 more. Often billed alongside Panic, Andrea Guadalupi and GavWhitehouse. Next up: TBA, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Zenith is a techno and tech house artist based in Germany, tracked on soundcheck
 
 Panic, Andrea Guadalupi, GavWhitehouse
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenith/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenith/)*

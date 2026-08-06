@@ -1,6 +1,6 @@
 # Het Bos
 
-Het Bos is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Bam Bam Slam" on Thu, 6 Aug 2026.
+Het Bos is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bam Bam Slam" on Thu, 6 Aug 2026.
 
 Het Bos is a music venue in Antwerp listed on soundcheck. 2 upcoming nights, with line-ups including Graftak, Kim Peers, Marsman and Ofra. Browse upcoming dates, start times and who's playing. Ankerrui 5-7 B-2000 Antwerpen.
 
@@ -15,4 +15,4 @@ Het Bos is a music venue in Antwerp listed on soundcheck. 2 upcoming nights, wit
 
 Ankerrui 5-7 B-2000 Antwerpen, Antwerp
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*

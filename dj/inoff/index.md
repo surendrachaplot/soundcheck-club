@@ -1,6 +1,6 @@
 # INOFF
 
-INOFF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
+INOFF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
 
 INOFF is a house and tech house artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Rafa Aleman, Victor Hugo and Daitto. Next up: BORIS CLUB, Barcelona on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ INOFF is a house and tech house artist tracked on soundcheck, with 5 sets logged
 
 Rafa Aleman, Victor Hugo, Daitto
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*

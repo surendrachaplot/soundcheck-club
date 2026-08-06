@@ -1,6 +1,6 @@
 # Cheap Coffee
 
-Cheap Coffee is a R&B and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Giri, Berlin on Fri, 14 Aug 2026.
+Cheap Coffee is a R&B and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Giri, Berlin on Fri, 14 Aug 2026.
 
 Cheap Coffee is a r&b and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside NicolasNico, Czech Strings and DJ Fresh Garlic. Next up: Giri, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Cheap Coffee is a r&b and disco artist based in Germany, tracked on soundcheck, 
 
 NicolasNico, Czech Strings, DJ Fresh Garlic
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheapcoffee/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheapcoffee/)*

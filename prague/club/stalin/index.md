@@ -1,6 +1,6 @@
 # Stalin
 
-Stalin is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Not the Last Rave" on Thu, 6 Aug 2026.
+Stalin is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Not the Last Rave" on Thu, 6 Aug 2026.
 
 Stalin is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including AVHD, Clouzer, DJames (2) and ishka machina and 2 more. Browse upcoming dates, start times and who's playing. Letesnsky Sady, Praha, 17000 Прага.
 
@@ -16,4 +16,4 @@ Stalin is a music venue in Prague listed on soundcheck. 3 upcoming nights, with 
 
 Letesnsky Sady, Praha, 17000 Прага, Prague
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/stalin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/stalin/)*

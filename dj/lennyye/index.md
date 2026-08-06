@@ -1,6 +1,6 @@
 # Lenny Ye$
 
-Lenny Ye$ is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Honey Street Studio, Manchester on Sat, 15 Aug 2026.
+Lenny Ye$ is a House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Honey Street Studio, Manchester on Sat, 15 Aug 2026.
 
 Lenny Ye$ is a house artist tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside DJ Scissher, Hello From Ben and Kim Lana. Next up: Honey Street Studio, Manchester on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ Lenny Ye$ is a house artist tracked on soundcheck, with 2 sets logged across Man
 
 DJ Scissher, Hello From Ben, Kim Lana
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyye/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyye/)*

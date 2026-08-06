@@ -1,13 +1,14 @@
 # Alex Pan (Det)
 
-Alex Pan (Det) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
+Alex Pan (Det) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
 
-Alex Pan (Det) is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit. Often billed alongside dust (Detroit), britty. and Jeff Garcia. Next up: Marble Bar, Detroit on Sat 15 Aug.
+Alex Pan (Det) is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside dust (Detroit), britty. and BEIGE. Next up: Marble Bar, Detroit on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Marble Bar | Detroit |
 | Sat, 15 Aug 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -20,6 +21,6 @@ Alex Pan (Det) is a house and techno artist based in United States of America, t
 
 ## Shares bills with
 
-dust (Detroit), britty., Jeff Garcia
+dust (Detroit), britty., BEIGE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan-det/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan-det/)*

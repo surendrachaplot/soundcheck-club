@@ -1,6 +1,6 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 21 Aug 2026.
+John Digweed is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 21 Aug 2026.
 
 John Digweed is a progressive house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Bolivar Beach Bar, Athens on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 
 Sasha, Nick Warren, Sasha & John Digweed
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*

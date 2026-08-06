@@ -1,6 +1,6 @@
 # Cora Novoa
 
-Cora Novoa is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Moog Club, Barcelona on Wed, 12 Aug 2026.
+Cora Novoa is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Moog Club, Barcelona on Wed, 12 Aug 2026.
 
 Cora Novoa is a techno and electronica artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Frankfurt and Istanbul and 4 more. Often billed alongside Richie Hawtin, Eric Prydz and Undo. Next up: Moog Club, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Cora Novoa is a techno and electronica artist based in Spain, tracked on soundch
 
 Richie Hawtin, Eric Prydz, Undo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coranovoa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coranovoa/)*

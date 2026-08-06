@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES" on Sat, 8 Aug 2026.
+Ijland is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES" on Sat, 8 Aug 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Kepler, Benny Rodrigues, bullet tooth and Caleb Jackson and 2 more. Browse upcoming dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -19,4 +19,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, wi
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

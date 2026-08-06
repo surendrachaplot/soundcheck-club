@@ -1,6 +1,6 @@
 # Cin
 
-Cin is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 14 Aug 2026.
+Cin is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 14 Aug 2026.
 
 Cin is a techno and ambient artist based in Portugal, tracked on soundcheck, with 15 sets logged across Brussels and Lisbon. Often billed alongside FRNZ, Enkō and Hypnotic Black Magic. Next up: Myra Ostraria, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Cin is a techno and ambient artist based in Portugal, tracked on soundcheck, wit
 
 FRNZ, Enkō, Hypnotic Black Magic
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cin-3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cin-3/)*

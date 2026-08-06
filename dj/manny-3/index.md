@@ -1,14 +1,15 @@
 # Manny (us)
 
-Manny (us) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
+Manny (us) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
 
-Manny (us) is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Boston, Newyorkcity and Washingtondc. Often billed alongside Max Sprauer, Kiyoshi and Shvili. Next up: Flash, Washingtondc on Fri 7 Aug.
+Manny (us) is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Boston, Newyorkcity and Washingtondc. Often billed alongside Max Sprauer, Kiyoshi and Shvili. Next up: Flash, Washingtondc on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Flash | Washington DC |
+| Sun, 9 Aug 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Manny (us) is a house and techno artist based in United States of America, track
 
 Max Sprauer, Kiyoshi, Shvili
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-3/)*

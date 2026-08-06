@@ -1,6 +1,6 @@
 # Jordi Iven
 
-Jordi Iven is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Maaya, Berlin on Thu, 6 Aug 2026.
+Jordi Iven is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Maaya, Berlin on Thu, 6 Aug 2026.
 
 Jordi Iven is a house and techno artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Berlin, Miami, Newyorkcity and Saopaulo. Often billed alongside C.M.A., NAZA (MUSIK) and Dune. Next up: Maaya, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Jordi Iven is a house and techno artist based in Netherlands, tracked on soundch
 
 C.M.A., NAZA (MUSIK), Dune
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordiiven/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordiiven/)*

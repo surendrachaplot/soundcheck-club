@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "How It Started 7: Back to Avalon - 100% Vinyl - Drum & Bass + Jungle" on Sat, 15 Aug 2026.
+Avalon Cafe Bermondsey is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "How It Started 7: Back to Avalon - 100% Vinyl - Drum & Bass + Jungle" on Sat, 15 Aug 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Amy  B, Calder, D'Nice and Elle Akosua and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -21,4 +21,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 8 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

@@ -1,6 +1,6 @@
 # Paul Meier
 
-Paul Meier is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OST, Berlin on Sat, 12 Sept 2026.
+Paul Meier is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at OST, Berlin on Sat, 12 Sept 2026.
 
 Paul Meier is a trance and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Basel, Berlin, Cologne and Ghent and 4 more. Often billed alongside 3LEEZA, KLING&KLANG and Alex Friday. Next up: OST, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Paul Meier is a trance and techno artist based in Germany, tracked on soundcheck
 
 3LEEZA, KLING&KLANG, Alex Friday
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmeier/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmeier/)*

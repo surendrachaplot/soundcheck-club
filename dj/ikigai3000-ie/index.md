@@ -1,6 +1,6 @@
 # ikigai3000
 
-ikigai3000 is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
+ikigai3000 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
 
 ikigai3000 is an electronic artist based in Ireland, tracked on soundcheck, with 5 sets logged across Dublin. Often billed alongside VCS1, Claramonte and EMMIE. Next up: The Racket Space, Dublin on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ ikigai3000 is an electronic artist based in Ireland, tracked on soundcheck, with
 
 VCS1, Claramonte, EMMIE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikigai3000-ie/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ikigai3000-ie/)*

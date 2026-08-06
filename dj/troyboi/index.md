@@ -1,6 +1,6 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Midline, Miami on Sat, 15 Aug 2026.
+TroyBoi is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Midline, Miami on Sat, 15 Aug 2026.
 
 TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Austin, Chicago, London and Losangeles and 8 more. Often billed alongside Hedex, Interplanetary Criminal and Mary Droppinz. Next up: Midline, Miami on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundch
 
 Hedex, Interplanetary Criminal, Mary Droppinz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

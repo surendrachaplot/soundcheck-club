@@ -1,6 +1,6 @@
 # Toni Varga
 
-Toni Varga is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 29 Aug 2026.
+Toni Varga is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 29 Aug 2026.
 
 Toni Varga is a house and tech house artist tracked on soundcheck, with 38 sets logged across Barcelona, Buenosaires, Chicago and Ibiza and 10 more. Often billed alongside Bastian Bux, Eats Everything and Dombresky. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Toni Varga is a house and tech house artist tracked on soundcheck, with 38 sets 
 
 Bastian Bux, Eats Everything, Dombresky
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonivarga/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonivarga/)*

@@ -1,6 +1,6 @@
 # WhoIsWho
 
-WhoIsWho is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+WhoIsWho is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 WhoIsWho is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg and Prague. Often billed alongside Dirty Disco Divas, BNZN and Sodom. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ WhoIsWho is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Dirty Disco Divas, BNZN, Sodom
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoiswho/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoiswho/)*

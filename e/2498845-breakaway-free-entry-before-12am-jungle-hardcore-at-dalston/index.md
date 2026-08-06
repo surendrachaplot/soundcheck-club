@@ -1,6 +1,6 @@
-# Breakaway: FREE ENTRY BEFORE 12AM - Jungle/Hardcore at Dalston Den
+# Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore at Dalston Den
 
-Breakaway: FREE ENTRY BEFORE 12AM - Jungle/Hardcore at Dalston Den on Fri 21 Aug, London. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore at Dalston Den on Fri 21 Aug, London. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

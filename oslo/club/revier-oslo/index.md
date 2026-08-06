@@ -1,6 +1,6 @@
 # Revier Oslo
 
-Revier Oslo is a music venue in Oslo with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Friday AW / Espen Cook" on Fri, 7 Aug 2026.
+Revier Oslo is a music venue in Oslo with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Friday AW / Espen Cook" on Fri, 7 Aug 2026.
 
 Revier Oslo is a music venue in Oslo listed on soundcheck. 6 upcoming nights, with line-ups including Anémi, Espen Cook, Guild Navigator and Komet99 and 2 more. Browse upcoming dates, start times and who's playing. Kongens gate 5, 0153 Oslo.
 
@@ -19,4 +19,4 @@ Revier Oslo is a music venue in Oslo listed on soundcheck. 6 upcoming nights, wi
 
 Kongens gate 5, 0153 Oslo, Oslo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*

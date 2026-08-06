@@ -1,6 +1,6 @@
 # Rex Sepulveda
 
-Rex Sepulveda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+Rex Sepulveda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
 Rex Sepulveda is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit and Toronto. Often billed alongside Augustus Williams, Dru Ruiz and DJ Seoul. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Rex Sepulveda is a techno and house artist based in United States of America, tr
 
 Augustus Williams, Dru Ruiz, DJ Seoul
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rexsepulveda/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rexsepulveda/)*

@@ -1,6 +1,6 @@
 # BERNOUT
 
-BERNOUT is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Studio Stereo, Barcelona on Thu, 27 Aug 2026.
+BERNOUT is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Studio Stereo, Barcelona on Thu, 27 Aug 2026.
 
 BERNOUT is a house and electro artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Dimarziio, Crisalide and Eli Kapowski. Next up: Studio Stereo, Barcelona on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ BERNOUT is a house and electro artist based in Spain, tracked on soundcheck, wit
 
 Dimarziio, Crisalide, Eli Kapowski
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernout/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernout/)*

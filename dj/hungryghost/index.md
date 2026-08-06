@@ -1,6 +1,6 @@
 # Hungry Ghost
 
-Hungry Ghost is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
+Hungry Ghost is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
 
 Hungry Ghost is a techno and latin bass artist based in Australia, tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside Ari Kiko, Bek and Ekul. Next up: TBA - INNER WEST, Sydney on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Hungry Ghost is a techno and latin bass artist based in Australia, tracked on so
 
 Ari Kiko, Bek, Ekul
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hungryghost/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hungryghost/)*

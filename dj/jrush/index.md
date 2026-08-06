@@ -1,6 +1,6 @@
 # J Rush
 
-J Rush is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+J Rush is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 J Rush is a house and tech house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside PixCie, Aluna and DEEPFAKE. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ J Rush is a house and tech house artist based in United States of America, track
 
 PixCie, Aluna, DEEPFAKE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jrush/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jrush/)*

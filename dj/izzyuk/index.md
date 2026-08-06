@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+IZZY (UK) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 IZZY (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, London and Thehague. Often billed alongside Lola So, Armând and ASHOJU. Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ IZZY (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Lola So, Armând, ASHOJU
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

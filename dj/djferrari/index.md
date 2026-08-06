@@ -1,6 +1,6 @@
 # DJ FERRARI
 
-DJ FERRARI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Gleis19, Vienna on Sat, 15 Aug 2026.
+DJ FERRARI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gleis19, Vienna on Sat, 15 Aug 2026.
 
 DJ FERRARI is a trance and techno artist based in Austria, tracked on soundcheck, with 23 sets logged across Leipzig and Vienna. Often billed alongside presso, DJ Böhm and Dan.P. Next up: Gleis19, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ FERRARI is a trance and techno artist based in Austria, tracked on soundcheck
 
 presso, DJ Böhm, Dan.P
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djferrari/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djferrari/)*

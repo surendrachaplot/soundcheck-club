@@ -1,6 +1,6 @@
 # Nanlaze
 
-Nanlaze is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 8 Aug 2026.
+Nanlaze is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 8 Aug 2026.
 
 Nanlaze is a trance and techno artist based in Japan, tracked on soundcheck, with 83 sets logged across London and Tokyo. Often billed alongside TORUKK, BEPPU and Tuyetmizuno. Next up: Aoyama Hachi, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nanlaze is a trance and techno artist based in Japan, tracked on soundcheck, wit
 
 TORUKK, BEPPU, Tuyetmizuno
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanlaze/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanlaze/)*

@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "SHELL WE ENTER" on Wed, 5 Aug 2026.
+Enter Shibuya is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "NAMIMI SENSEI B2B Koki Byrd" on Thu, 6 Aug 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | SHELL WE ENTER | UG (1), lostbaggage |
 | Thu, 6 Aug 2026 | NAMIMI SENSEI B2B Koki Byrd | Koki Byrd, NAMIMI SENSEI |
 | Fri, 7 Aug 2026 | lit-ing Room -Living Room x lit Special- | DJ Quietstorm, FU (JP), JUN TANAKA, Yosuke |
 | Sat, 8 Aug 2026 | The Dreamers EP37 | Louis Shannon, Rickey Shannon |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming nights
 | Mon, 17 Aug 2026 | lucid | Do Shock Booze, uuu7 |
 | Wed, 19 Aug 2026 | INSTINCT | Ayana Pattra, Shun Kurashima, shimosoma |
 | Thu, 20 Aug 2026 | BS0xtra | MEGURO, Mars89, NullDaSensei, ykah |
+| Fri, 21 Aug 2026 | OSTINATO Ⅰ | YouForgot, ZUNDOKO DISCO, lostbaggage, oxiboi |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

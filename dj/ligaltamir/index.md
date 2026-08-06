@@ -1,6 +1,6 @@
 # Ligal Tamir
 
-Ligal Tamir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
+Ligal Tamir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cassiopeia, Berlin on Sat, 22 Aug 2026.
 
 Ligal Tamir is a house and techno artist tracked on soundcheck, with 62 sets logged across Berlin, Hamburg, Munich and Nurnberg. Often billed alongside LIZZN, AREA 101 and Inch of Shadow. Next up: Cassiopeia, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ligal Tamir is a house and techno artist tracked on soundcheck, with 62 sets log
 
 LIZZN, AREA 101, Inch of Shadow
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ligaltamir/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ligaltamir/)*

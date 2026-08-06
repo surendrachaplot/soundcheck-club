@@ -1,6 +1,6 @@
 # Creep-P
 
-Creep-P is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
+Creep-P is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
 
 Creep-P is a club and hardcore artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago, Losangeles, Newyorkcity and Philadelphia and 2 more. Often billed alongside Ghozt (NYC), DJ Re:Code and W.T. Snacks. Next up: Signal, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Creep-P is a club and hardcore artist based in United States of America, tracked
 
 Ghozt (NYC), DJ Re:Code, W.T. Snacks
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*

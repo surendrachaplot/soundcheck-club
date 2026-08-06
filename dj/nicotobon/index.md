@@ -1,6 +1,6 @@
 # Nico Tobón
 
-Nico Tobón is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
+Nico Tobón is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
 
 Nico Tobón is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Denver, Mexicocity and Newyorkcity. Often billed alongside wngdu, Brunson and Diego Andres. Next up: The Matchbox, Denver on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Nico Tobón is a house and techno artist based in United States of America, trac
 
 wngdu, Brunson, Diego Andres
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*

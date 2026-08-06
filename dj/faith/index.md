@@ -1,14 +1,15 @@
 # FAITH
 
-FAITH is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kastel, Istanbul on Sat, 8 Aug 2026.
+FAITH is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kastel, Istanbul on Sat, 8 Aug 2026.
 
-FAITH is a house and techno artist based in Turkey, tracked on soundcheck, with 13 sets logged across Amsterdam and Istanbul. Often billed alongside Volkan Gunduz, Atakan Uysal and UTKU. Next up: Kastel, Istanbul on Sat 8 Aug.
+FAITH is a house and techno artist based in Turkey, tracked on soundcheck, with 14 sets logged across Amsterdam and Istanbul. Often billed alongside Volkan Gunduz, Atakan Uysal and Manendria. Next up: Kastel, Istanbul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Kastel | Istanbul |
+| Sat, 22 Aug 2026 | Kastel | Istanbul |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ FAITH is a house and techno artist based in Turkey, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Volkan Gunduz, Atakan Uysal, UTKU
+Volkan Gunduz, Atakan Uysal, Manendria
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faith/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faith/)*

@@ -1,6 +1,6 @@
 # Sera de Villalta
 
-Sera de Villalta is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at X Private Club, Madrid on Sat, 8 Aug 2026.
+Sera de Villalta is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at X Private Club, Madrid on Sat, 8 Aug 2026.
 
 Sera de Villalta is a tech house and house artist tracked on soundcheck, with 27 sets logged across Barcelona, Ibiza, Madrid and Malaga and 2 more. Often billed alongside Felipe Bravo, Abdon and Calvin Clarke. Next up: X Private Club, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sera de Villalta is a tech house and house artist tracked on soundcheck, with 27
 
 Felipe Bravo, Abdon, Calvin Clarke
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seradevillalta/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seradevillalta/)*

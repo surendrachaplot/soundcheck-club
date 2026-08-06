@@ -1,6 +1,6 @@
 # Thousand Fingers
 
-Thousand Fingers is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at 360Istanbul, Istanbul on Fri, 14 Aug 2026.
+Thousand Fingers is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 360Istanbul, Istanbul on Fri, 14 Aug 2026.
 
 Thousand Fingers is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Istanbul and London. Often billed alongside Caspa Mono, Cordioli and Geminis. Next up: 360Istanbul, Istanbul on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Thousand Fingers is a house and afro house artist based in United Kingdom, track
 
 Caspa Mono, Cordioli, Geminis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thousandfingers/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thousandfingers/)*

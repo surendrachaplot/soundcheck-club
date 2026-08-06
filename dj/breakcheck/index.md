@@ -1,6 +1,6 @@
 # Breakcheck
 
-Breakcheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Blue Room, Montreal on Fri, 7 Aug 2026.
+Breakcheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blue Room, Montreal on Fri, 7 Aug 2026.
 
 Breakcheck is a techno and house artist tracked on soundcheck, with 17 sets logged across Bristol and Montreal. Often billed alongside s.talbot, Amy Kisnorbo and Anabasine. Next up: Blue Room, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Breakcheck is a techno and house artist tracked on soundcheck, with 17 sets logg
 
 s.talbot, Amy Kisnorbo, Anabasine
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*

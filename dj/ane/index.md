@@ -1,6 +1,6 @@
 # Ane
 
-Ane is a Latin Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Socore Factory, Osaka on Sat, 5 Sept 2026.
+Ane is a Latin Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Socore Factory, Osaka on Sat, 5 Sept 2026.
 
 Ane is a latin bass and r&b artist based in Poland, tracked on soundcheck, with 9 sets logged across Osaka and Warsaw. Often billed alongside Adam Obrębski, David Löhlein and Francesca (PL). Next up: Socore Factory, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ane is a latin bass and r&b artist based in Poland, tracked on soundcheck, with 
 
 Adam Obrębski, David Löhlein, Francesca (PL)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ane/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ane/)*

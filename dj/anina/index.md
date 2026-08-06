@@ -1,6 +1,6 @@
 # Anina
 
-Anina is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at M.O.T, London on Sat, 19 Sept 2026.
+Anina is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at M.O.T, London on Sat, 19 Sept 2026.
 
 Anina is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Brussels and London and 4 more. Often billed alongside Pessimist, i-sha and Clarity. Next up: M.O.T, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Anina is a bass and techno artist based in United Kingdom, tracked on soundcheck
 
 Pessimist, i-sha, Clarity
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anina/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anina/)*

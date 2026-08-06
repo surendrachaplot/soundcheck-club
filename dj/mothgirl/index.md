@@ -1,6 +1,6 @@
 # Moth Girl
 
-Moth Girl is a Post-Punk and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 8 Aug 2026.
+Moth Girl is a Post-Punk and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 8 Aug 2026.
 
 Moth Girl is a post-punk and ebm artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh. Often billed alongside Sacred Keys, The Nightlark and philomenah. Next up: People's Leisure Club, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Moth Girl is a post-punk and ebm artist based in United Kingdom, tracked on soun
 
 Sacred Keys, The Nightlark, philomenah
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mothgirl/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mothgirl/)*

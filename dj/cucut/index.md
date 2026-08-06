@@ -1,6 +1,6 @@
 # Cucut
 
-Cucut is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 8 Aug 2026.
+Cucut is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 8 Aug 2026.
 
 Cucut is a house and afro house artist tracked on soundcheck, with 210 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Tamborero, Arnau Obiols and DJ Sandwich. Next up: Nobu Hotel, Barcelona on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Cucut is a house and afro house artist tracked on soundcheck, with 210 sets logg
 
 Tamborero, Arnau Obiols, DJ Sandwich
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucut/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucut/)*

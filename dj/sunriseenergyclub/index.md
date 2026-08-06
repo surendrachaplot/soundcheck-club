@@ -1,6 +1,6 @@
 # Sunrise Energy Club
 
-Sunrise Energy Club is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Sunrise Energy Club is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Sunrise Energy Club is a house and garage artist based in United States of America, tracked on soundcheck, with 4 sets logged across Portland. Often billed alongside Aaron Davis, Andy Warren and Ben Tactic. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Sunrise Energy Club is a house and garage artist based in United States of Ameri
 
 Aaron Davis, Andy Warren, Ben Tactic
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunriseenergyclub/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunriseenergyclub/)*

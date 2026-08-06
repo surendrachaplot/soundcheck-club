@@ -1,6 +1,6 @@
 # Diego Palacios
 
-Diego Palacios is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
+Diego Palacios is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
 
 Diego Palacios is a house and trance artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside Leidbaz, rodrig0800 and Mikita. Next up: Versalles 64, Mexicocity on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Diego Palacios is a house and trance artist based in Mexico, tracked on soundche
 
 Leidbaz, rodrig0800, Mikita
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegopalacios/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegopalacios/)*

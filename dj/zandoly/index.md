@@ -1,6 +1,6 @@
 # ZANDOLY
 
-ZANDOLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Altenburg 1964, Prague on Fri, 7 Aug 2026.
+ZANDOLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Altenburg 1964, Prague on Fri, 7 Aug 2026.
 
 ZANDOLY is a techno and house artist based in France, tracked on soundcheck, with 23 sets logged across Berlin, Paris and Prague. Often billed alongside Gabrielle (DE), An-T and Elis. Next up: Altenburg 1964, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ZANDOLY is a techno and house artist based in France, tracked on soundcheck, wit
 
 Gabrielle (DE), An-T, Elis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zandoly/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zandoly/)*

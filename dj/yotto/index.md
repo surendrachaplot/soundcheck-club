@@ -1,6 +1,6 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Castaways, Chicago on Fri, 7 Aug 2026.
+Yotto is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Castaways, Chicago on Fri, 7 Aug 2026.
 
 Yotto is a progressive house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: Castaways, Chicago on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Yotto is a progressive house and techno artist tracked on soundcheck, with 99 se
 
 Nicky Elisabeth, Cristoph, Qrion
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

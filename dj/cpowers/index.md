@@ -1,6 +1,6 @@
 # C Powers
 
-C Powers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jupiter Disco, New York City on Sat, 8 Aug 2026.
+C Powers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jupiter Disco, New York City on Sat, 8 Aug 2026.
 
 C Powers is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity, Portland, Sanfrancisco and Washingtondc. Often billed alongside Nick Boyd, Pacer and Scotia. Next up: Jupiter Disco, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ C Powers is a techno and house artist based in United States of America, tracked
 
 Nick Boyd, Pacer, Scotia
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cpowers/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cpowers/)*

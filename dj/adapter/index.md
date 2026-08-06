@@ -1,6 +1,6 @@
 # Adapter
 
-Adapter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 4 Sept 2026.
+Adapter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 Adapter is a house and tech house artist based in Italy, tracked on soundcheck, with 9 sets logged across Amsterdam, Ibiza, Melbourne and Miami and 5 more. Often billed alongside Miss Monique, Anthony Attalla and Carlo Lio. Next up: Halcyon, Sanfrancisco on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Adapter is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 Miss Monique, Anthony Attalla, Carlo Lio
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*

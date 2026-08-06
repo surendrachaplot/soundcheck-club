@@ -1,6 +1,6 @@
 # Bayymack
 
-Bayymack is a Pop and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 1720, Los Angeles on Fri, 18 Sept 2026.
+Bayymack is a Pop and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 1720, Los Angeles on Fri, 18 Sept 2026.
 
 Bayymack is a pop and hip-hop artist tracked on soundcheck, with 22 sets logged across Glasgow, Houston, London and Losangeles and 4 more. Often billed alongside ALIXN, Hi-C and luvwavy. Next up: 1720, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bayymack is a pop and hip-hop artist tracked on soundcheck, with 22 sets logged 
 
 ALIXN, Hi-C, luvwavy
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bayymack/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bayymack/)*

@@ -1,6 +1,6 @@
 # AMSL
 
-AMSL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Blackfoot Beach, Cologne on Sun, 9 Aug 2026.
+AMSL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Blackfoot Beach, Cologne on Sun, 9 Aug 2026.
 
 AMSL is a techno and electro artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 2 more. Often billed alongside Nikity, Sedaction and Anna Cainelli. Next up: TBA - Blackfoot Beach, Cologne on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ AMSL is a techno and electro artist based in Germany, tracked on soundcheck, wit
 
 Nikity, Sedaction, Anna Cainelli
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amsl/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amsl/)*

@@ -1,6 +1,6 @@
 # Ramiro
 
-Ramiro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
+Ramiro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
 
 Ramiro is a house and deep house artist tracked on soundcheck, with 25 sets logged across Copenhagen, Mexicocity and Seattle. Often billed alongside Drawbird, Antoine (1) and Black Velveteen. Next up: Myrtle Edwards Park, Seattle on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Ramiro is a house and deep house artist tracked on soundcheck, with 25 sets logg
 
 Drawbird, Antoine (1), Black Velveteen
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiro/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiro/)*

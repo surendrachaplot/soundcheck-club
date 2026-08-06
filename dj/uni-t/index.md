@@ -1,6 +1,6 @@
 # Uni-T
 
-Uni-T is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
+Uni-T is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
 
 Uni-T is a tech house and house artist based in Hungary, tracked on soundcheck, with 2 sets logged across Budapest. Often billed alongside CRB, HAYAM and Ratkay. Next up: Pontoon Budapest, Budapest on Sun 9 Aug.
 
@@ -18,4 +18,4 @@ Uni-T is a tech house and house artist based in Hungary, tracked on soundcheck, 
 
 CRB, HAYAM, Ratkay
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-t/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-t/)*

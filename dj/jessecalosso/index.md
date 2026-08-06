@@ -1,6 +1,6 @@
 # Jesse Calosso
 
-Jesse Calosso is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
+Jesse Calosso is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
 
 Jesse Calosso is a tech house and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Boston and Bucharest and 14 more. Often billed alongside Jean Pierre, The Martinez Brothers and AJ Christou. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Jesse Calosso is a tech house and house artist tracked on soundcheck, with 70 se
 
 Jean Pierre, The Martinez Brothers, AJ Christou
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessecalosso/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessecalosso/)*

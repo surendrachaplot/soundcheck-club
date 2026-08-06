@@ -1,14 +1,15 @@
 # MADMAN (2)
 
-MADMAN (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
+MADMAN (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
 
-MADMAN (2) is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin, Hamburg, Istanbul and Malta and 2 more. Often billed alongside L-AUX, future.666 and AEREA. Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
+MADMAN (2) is a techno and trance artist tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Istanbul and Malta and 2 more. Often billed alongside L-AUX, Pōnky and future.666. Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 18 Sept 2026 | Else | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MADMAN (2) is a techno and trance artist tracked on soundcheck, with 27 sets log
 
 ## Shares bills with
 
-L-AUX, future.666, AEREA
+L-AUX, Pōnky, future.666
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madman-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madman-2/)*

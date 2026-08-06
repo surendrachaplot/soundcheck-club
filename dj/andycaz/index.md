@@ -1,6 +1,6 @@
 # Andy Caz
 
-Andy Caz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Plano B, Porto on Thu, 13 Aug 2026.
+Andy Caz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Plano B, Porto on Thu, 13 Aug 2026.
 
 Andy Caz is a house and techno artist based in Portugal, tracked on soundcheck, with 16 sets logged across Geneva, Lisbon and Porto. Often billed alongside Reu.Ven, AIKKO and Alfonsvs. Next up: Plano B, Porto on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Andy Caz is a house and techno artist based in Portugal, tracked on soundcheck, 
 
 Reu.Ven, AIKKO, Alfonsvs
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaz/)*

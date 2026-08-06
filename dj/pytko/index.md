@@ -1,6 +1,6 @@
 # PYTKO
 
-PYTKO is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Greyhound, London on Thu, 13 Aug 2026.
+PYTKO is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Greyhound, London on Thu, 13 Aug 2026.
 
 PYTKO is an experimental and dub techno artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Al Wootton, Ben Vince and Emmy Bacharach. Next up: The Greyhound, London on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ PYTKO is an experimental and dub techno artist tracked on soundcheck, with 11 se
 
 Al Wootton, Ben Vince, Emmy Bacharach
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pytko/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pytko/)*

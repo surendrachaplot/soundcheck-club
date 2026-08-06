@@ -1,6 +1,6 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Petit CAB, Marseille on Fri, 9 Oct 2026.
+Nathan Fake is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Petit CAB, Marseille on Fri, 9 Oct 2026.
 
 Nathan Fake is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Cinthie, Colin Benders and Four Tet. Next up: Petit CAB, Marseille on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Nathan Fake is a techno and electro artist based in United Kingdom, tracked on s
 
 Cinthie, Colin Benders, Four Tet
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*

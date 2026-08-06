@@ -1,6 +1,6 @@
 # Cuba (PT)
 
-Cuba (PT) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 15 Aug 2026.
+Cuba (PT) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 15 Aug 2026.
 
 Cuba (PT) is a house and techno artist tracked on soundcheck, with 51 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: Tapada da Ajuda, Lisbon on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Cuba (PT) is a house and techno artist tracked on soundcheck, with 51 sets logge
 
 Miguel Nery, Jean Mauj, Klin Klop
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*

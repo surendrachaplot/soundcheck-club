@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "CHB Collective - SUMMERPARTY" on Fri, 7 Aug 2026.
+Humboldthain Club is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "CHB Collective - SUMMERPARTY" on Fri, 7 Aug 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Athina, bump.FX, DJ Buona Sara and DJ Sweedee and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

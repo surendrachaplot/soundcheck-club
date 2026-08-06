@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Elata Collective 013: 26hours Summer Edition [Part One]" on Sat, 8 Aug 2026.
+Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Elata Collective 013: 26hours Summer Edition [Part One]" on Sat, 8 Aug 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

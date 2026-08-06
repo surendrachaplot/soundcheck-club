@@ -1,6 +1,6 @@
 # Aaro (3)
 
-Aaro (3) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bumann & Sohn, Cologne on Sun, 9 Aug 2026.
+Aaro (3) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bumann & Sohn, Cologne on Sun, 9 Aug 2026.
 
 Aaro (3) is a techno and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Cologne and Frankfurt. Often billed alongside Gîn Bali, Andras_2020 and Redfocks. Next up: Bumann & Sohn, Cologne on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Aaro (3) is a techno and tech house artist based in Germany, tracked on soundche
 
 Gîn Bali, Andras_2020, Redfocks
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaro-3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaro-3/)*

@@ -1,6 +1,6 @@
 # Wonderboi
 
-Wonderboi is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Harbour Event Centre, Vancouver on Sat, 8 Aug 2026.
+Wonderboi is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Harbour Event Centre, Vancouver on Sat, 8 Aug 2026.
 
 Wonderboi is a techno and hardcore artist based in Canada, tracked on soundcheck, with 8 sets logged across Vancouver. Often billed alongside NIMAHA, Sam AK and Bÿständer. Next up: Harbour Event Centre, Vancouver on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Wonderboi is a techno and hardcore artist based in Canada, tracked on soundcheck
 
 NIMAHA, Sam AK, Bÿständer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wonderboi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wonderboi/)*

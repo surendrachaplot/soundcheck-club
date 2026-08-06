@@ -1,6 +1,6 @@
 # Aragon Ballroom
 
-Aragon Ballroom is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "¥ØU$UK€ ¥UK1MAT$U" on Fri, 23 Oct 2026.
+Aragon Ballroom is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "¥ØU$UK€ ¥UK1MAT$U" on Fri, 23 Oct 2026.
 
 Aragon Ballroom is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including ¥ØU$UK€ ¥UK1MAT$U. Browse upcoming dates, start times and who's playing. 1106 West Lawrence Avenue, Chicago, IL.
 
@@ -14,4 +14,4 @@ Aragon Ballroom is a music venue in Chicago listed on soundcheck. 1 upcoming nig
 
 1106 West Lawrence Avenue, Chicago, IL, Chicago
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/aragon-ballroom/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/aragon-ballroom/)*

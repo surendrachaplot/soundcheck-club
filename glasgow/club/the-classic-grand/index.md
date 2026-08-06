@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "INTRA: Miss K8 ALL NIGHT LONG" on Fri, 7 Aug 2026.
+The Classic Grand is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "INTRA: Miss K8 ALL NIGHT LONG" on Fri, 7 Aug 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Carbon Based Lifeforms, Charlie B, Dougal and George Bowie and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 14 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

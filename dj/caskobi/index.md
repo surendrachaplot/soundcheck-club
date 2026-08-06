@@ -1,6 +1,6 @@
 # caskobi
 
-caskobi is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Terrrazza, Barcelona on Fri, 21 Aug 2026.
+caskobi is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La Terrrazza, Barcelona on Fri, 21 Aug 2026.
 
 caskobi is a house and garage artist based in Argentina, tracked on soundcheck, with 10 sets logged across Barcelona and London. Often billed alongside ALOT, Cruz Coronado and Andrea Zarco. Next up: La Terrrazza, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ caskobi is a house and garage artist based in Argentina, tracked on soundcheck, 
 
 ALOT, Cruz Coronado, Andrea Zarco
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caskobi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caskobi/)*

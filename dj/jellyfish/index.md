@@ -1,6 +1,6 @@
 # Jellyfish
 
-Jellyfish is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at BASEMENT, New York City on Sat, 8 Aug 2026.
+Jellyfish is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at BASEMENT, New York City on Sat, 8 Aug 2026.
 
 Jellyfish is a house and acid artist based in United States of America, tracked on soundcheck, with 19 sets logged across Chicago, London, Mexicocity and Newyorkcity and 2 more. Often billed alongside Formosa (1), Ricky Mawzlin and Baronhawk Poitier. Next up: BASEMENT, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jellyfish is a house and acid artist based in United States of America, tracked 
 
 Formosa (1), Ricky Mawzlin, Baronhawk Poitier
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*

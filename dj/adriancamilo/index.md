@@ -1,6 +1,6 @@
 # Adrian Camilo
 
-Adrian Camilo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at SASS Music Club, Vienna on Sun, 9 Aug 2026.
+Adrian Camilo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at SASS Music Club, Vienna on Sun, 9 Aug 2026.
 
 Adrian Camilo is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin and Vienna. Often billed alongside Manuel Correa, Johnson (2) and MKCMLLN. Next up: SASS Music Club, Vienna on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Adrian Camilo is a techno and house artist tracked on soundcheck, with 19 sets l
 
 Manuel Correa, Johnson (2), MKCMLLN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriancamilo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriancamilo/)*

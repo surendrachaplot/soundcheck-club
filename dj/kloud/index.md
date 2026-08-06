@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
+KLOUD is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
 
 KLOUD is a techno and trance artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside Lola Cerise, Kander and A.N.I.. Next up: Fuse, Brussels on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 77 sets logged a
 
 Lola Cerise, Kander, A.N.I.
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

@@ -1,6 +1,6 @@
 # Hiro
 
-Hiro is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bukanyr Boat, Prague on Sat, 15 Aug 2026.
+Hiro is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bukanyr Boat, Prague on Sat, 15 Aug 2026.
 
 Hiro is a hip-hop and techno artist tracked on soundcheck, with 16 sets logged across Bangkok, Kyoto, Paris and Prague and 2 more. Often billed alongside ASCENDER, TAM (TH) and ATAMI. Next up: Bukanyr Boat, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Hiro is a hip-hop and techno artist tracked on soundcheck, with 16 sets logged a
 
 ASCENDER, TAM (TH), ATAMI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiro/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiro/)*

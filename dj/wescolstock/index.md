@@ -1,6 +1,6 @@
 # Wes Colstock
 
-Wes Colstock is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
+Wes Colstock is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
 
 Wes Colstock is a tech house and deep house artist tracked on soundcheck, with 11 sets logged across Barcelona, Birmingham, Ibiza and London and 1 more. Often billed alongside Brandon Barrett, Junn (UK) and ACID HARRY. Next up: Toffler, Rotterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Wes Colstock is a tech house and deep house artist tracked on soundcheck, with 1
 
 Brandon Barrett, Junn (UK), ACID HARRY
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wescolstock/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wescolstock/)*

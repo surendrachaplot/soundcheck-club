@@ -1,6 +1,6 @@
 # Eklektik_Etnik
 
-Eklektik_Etnik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Moondog Hifi, New York City on Sun, 9 Aug 2026.
+Eklektik_Etnik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Moondog Hifi, New York City on Sun, 9 Aug 2026.
 
 Eklektik_Etnik is a techno and house artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Hyōgo. Next up: Moondog Hifi, Newyorkcity on Sun 9 Aug.
 
@@ -18,4 +18,4 @@ Eklektik_Etnik is a techno and house artist tracked on soundcheck, with 2 sets l
 
 Hyōgo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eklektik_etnik/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eklektik_etnik/)*

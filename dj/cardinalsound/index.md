@@ -1,6 +1,6 @@
 # Cardinal Sound
 
-Cardinal Sound is a Drum & Bass and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
+Cardinal Sound is a Drum & Bass and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
 
 Cardinal Sound is a drum & bass and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol, London and Rotterdam. Often billed alongside 1991, AC13 and Auris. Next up: Starlane Pizza Bar, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Cardinal Sound is a drum & bass and deep house artist based in United Kingdom, t
 
 1991, AC13, Auris
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardinalsound/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardinalsound/)*

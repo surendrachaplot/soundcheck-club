@@ -1,6 +1,6 @@
 # S FLY
 
-S FLY is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Setlist @ Somerset House, London on Sat, 8 Aug 2026.
+S FLY is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Setlist @ Somerset House, London on Sat, 8 Aug 2026.
 
 S FLY is a drum & bass and garage artist tracked on soundcheck, with 37 sets logged across Hongkong, London, Melbourne and Newyorkcity and 2 more. Often billed alongside Beezo, Ricky Sahota and Smoke NGB. Next up: Setlist @ Somerset House, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ S FLY is a drum & bass and garage artist tracked on soundcheck, with 37 sets log
 
 Beezo, Ricky Sahota, Smoke NGB
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*

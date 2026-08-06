@@ -1,6 +1,6 @@
 # Nizzy
 
-Nizzy is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
+Nizzy is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
 
 Nizzy is a house and club artist based in Denmark, tracked on soundcheck, with 15 sets logged across Copenhagen and Manchester. Often billed alongside Samuel Rees, Lewis Hunter and Niko Nuevo. Next up: Culture Box, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nizzy is a house and club artist based in Denmark, tracked on soundcheck, with 1
 
 Samuel Rees, Lewis Hunter, Niko Nuevo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nizzy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nizzy/)*

@@ -1,6 +1,6 @@
 # B-HIND
 
-B-HIND is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Eiger Studios, Leeds on Sat, 5 Sept 2026.
+B-HIND is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Eiger Studios, Leeds on Sat, 5 Sept 2026.
 
 B-HIND is a house and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds, Manchester and Newcastle. Often billed alongside camukg, F3rg13 and SHUFFA. Next up: Eiger Studios, Leeds on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ B-HIND is a house and garage artist based in United Kingdom, tracked on soundche
 
 camukg, F3rg13, SHUFFA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-hind/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-hind/)*

@@ -1,6 +1,6 @@
 # Wakka
 
-Wakka is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Distrikt, Leeds on Sat, 15 Aug 2026.
+Wakka is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Distrikt, Leeds on Sat, 15 Aug 2026.
 
 Wakka is a tech house and minimal artist tracked on soundcheck, with 31 sets logged across Barcelona, Edinburgh, Leeds and London and 2 more. Often billed alongside Adam Lance, DJ Bz and Nooney. Next up: Distrikt, Leeds on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Wakka is a tech house and minimal artist tracked on soundcheck, with 31 sets log
 
 Adam Lance, DJ Bz, Nooney
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*

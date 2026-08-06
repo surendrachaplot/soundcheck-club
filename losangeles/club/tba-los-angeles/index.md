@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "WORK x SKULLDUGGERY present: Alan Fitzpatrick, Anastasia Giovani, & Greg Downey" on Fri, 14 Aug 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "WORK x SKULLDUGGERY present: Alan Fitzpatrick, Anastasia Giovani, & Greg Downey" on Fri, 14 Aug 2026.
 
-TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 13 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Anastasia Giovani and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 14 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Anastasia Giovani and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -17,6 +17,6 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 13 upcomi
 | Sun, 6 Sept 2026 | Intercell LA: Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur, & Stef Mendesidis | Annika Wolfe, DAX J, Grace Dahl, Lorely Mur, Max Gardner, Stef Mendesidis |
 | Fri, 11 Sept 2026 | WORK presents: D.Dan [All Night Long] | D.Dan |
 | Sat, 12 Sept 2026 | WORK presents Beste Hira, Stephen Disario, & Takaaki Itoh | Beste Hira, Stephen Disario, Takaaki Itoh |
-| Fri, 25 Sept 2026 | WORK OVER/TIME: Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, & Wata Igarashi | Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, Wata Igarashi |
+| Sat, 12 Sept 2026 | Planet Love with Fafi Abdel Nour, ketia, James Axon, & Special Guest  | Fafi Abdel Nour, James Axon, ketia |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

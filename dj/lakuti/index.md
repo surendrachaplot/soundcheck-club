@@ -1,6 +1,6 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Lakuti is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
 Lakuti is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Lakuti is a house and techno artist tracked on soundcheck, with 189 sets logged 
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

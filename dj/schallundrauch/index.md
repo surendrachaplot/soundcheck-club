@@ -1,6 +1,6 @@
 # Schall und Rauch
 
-Schall und Rauch is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Südpol, Hamburg on Fri, 7 Aug 2026.
+Schall und Rauch is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Südpol, Hamburg on Fri, 7 Aug 2026.
 
 Schall und Rauch is a trance and techno artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside DJ Farbenblind, NYON and LUGIÆ. Next up: Südpol, Hamburg on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Schall und Rauch is a trance and techno artist tracked on soundcheck, with 6 set
 
 DJ Farbenblind, NYON, LUGIÆ
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schallundrauch/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schallundrauch/)*

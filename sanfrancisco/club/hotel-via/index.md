@@ -1,6 +1,6 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "ERIC Luttrell Rooftop" on Sun, 23 Aug 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "ERIC Luttrell Rooftop" on Sun, 23 Aug 2026.
 
 Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Atish, Luttrell, Nikita and Sainte Vie and 1 more. Browse upcoming dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
@@ -16,4 +16,4 @@ Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nigh
 
 138 King St. San Francisco, CA 94107, San Francisco/Oakland
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*

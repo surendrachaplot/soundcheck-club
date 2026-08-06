@@ -1,6 +1,6 @@
 # Cooly G
 
-Cooly G is a Amapiano and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Palais, London on Sun, 30 Aug 2026.
+Cooly G is a Amapiano and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Palais, London on Sun, 30 Aug 2026.
 
 Cooly G is an amapiano and hip-hop artist tracked on soundcheck, with 26 sets logged across Bristol, Bucharest, London and Manchester and 3 more. Often billed alongside Kode9, Shannen SP and DJ Nigga Fox. Next up: Palais, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Cooly G is an amapiano and hip-hop artist tracked on soundcheck, with 26 sets lo
 
 Kode9, Shannen SP, DJ Nigga Fox
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coolyg/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coolyg/)*

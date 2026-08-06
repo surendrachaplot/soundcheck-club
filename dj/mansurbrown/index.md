@@ -1,6 +1,6 @@
 # Mansur Brown
 
-Mansur Brown is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Mansur Brown is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Mansur Brown is a jazz and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bali, Berlin, Istanbul and Leeds and 4 more. Often billed alongside Anish Kumar, Arthi and Bushbby. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mansur Brown is a jazz and house artist based in United Kingdom, tracked on soun
 
 Anish Kumar, Arthi, Bushbby
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mansurbrown/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mansurbrown/)*

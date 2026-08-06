@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 36 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Heated Rivalrave" on Thu, 6 Aug 2026.
+Melkweg is a music venue in Amsterdam with 36 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Heated Rivalrave" on Thu, 6 Aug 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 36 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, _hiø and Alexa Strange and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 36 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

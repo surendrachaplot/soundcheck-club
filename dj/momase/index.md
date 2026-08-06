@@ -1,6 +1,6 @@
 # Momasé
 
-Momasé is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at LAUT, Barcelona on Sun, 11 Oct 2026.
+Momasé is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at LAUT, Barcelona on Sun, 11 Oct 2026.
 
 Momasé is a techno and ambient artist based in Colombia, tracked on soundcheck, with 32 sets logged across Barcelona and Berlin. Often billed alongside REDNBLUE, Intruso and Dr Humedo. Next up: LAUT, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Momasé is a techno and ambient artist based in Colombia, tracked on soundcheck,
 
 REDNBLUE, Intruso, Dr Humedo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momase/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momase/)*

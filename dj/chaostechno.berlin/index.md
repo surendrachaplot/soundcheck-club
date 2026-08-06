@@ -1,6 +1,6 @@
 # Chaos Techno.Berlin
 
-Chaos Techno.Berlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 22 Aug 2026.
+Chaos Techno.Berlin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 22 Aug 2026.
 
 Chaos Techno.Berlin is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin and Hamburg. Often billed alongside KEN (DE), FLEXTASY and Tobias Sommer. Next up: Der Weiße Hase, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Chaos Techno.Berlin is a techno and house artist based in Germany, tracked on so
 
 KEN (DE), FLEXTASY, Tobias Sommer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaostechno.berlin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaostechno.berlin/)*

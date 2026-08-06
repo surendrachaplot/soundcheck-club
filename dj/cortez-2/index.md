@@ -1,6 +1,6 @@
 # Cortez (2)
 
-Cortez (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kraftwerk, Zurich on Sat, 8 Aug 2026.
+Cortez (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kraftwerk, Zurich on Sat, 8 Aug 2026.
 
 Cortez (2) is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 17 sets logged across Berlin and Zurich. Often billed alongside Galopp, SANEM and andris. Next up: Kraftwerk, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cortez (2) is a techno and industrial artist based in Switzerland, tracked on so
 
 Galopp, SANEM, andris
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*

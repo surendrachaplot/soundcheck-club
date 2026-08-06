@@ -1,6 +1,6 @@
 # Cobahn
 
-Cobahn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Cobahn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
 Cobahn is a techno and experimental artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 8 more. Often billed alongside Woody92, Remma and Konduku. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Cobahn is a techno and experimental artist tracked on soundcheck, with 64 sets l
 
 Woody92, Remma, Konduku
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobahn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobahn/)*

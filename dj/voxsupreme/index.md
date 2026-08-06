@@ -1,6 +1,6 @@
 # Vox supreme
 
-Vox supreme is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Garage Noord, Amsterdam on Fri, 7 Aug 2026.
+Vox supreme is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Garage Noord, Amsterdam on Fri, 7 Aug 2026.
 
 Vox supreme is a techno and bass artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Bali, Berlin and Brussels and 5 more. Often billed alongside dirtydms, Cosmox and CyberFairy777. Next up: Garage Noord, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Vox supreme is a techno and bass artist based in Netherlands, tracked on soundch
 
 dirtydms, Cosmox, CyberFairy777
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voxsupreme/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voxsupreme/)*

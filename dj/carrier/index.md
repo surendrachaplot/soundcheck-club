@@ -1,6 +1,6 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Carrier is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Carrier is a techno and experimental artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Carrier is a techno and experimental artist tracked on soundcheck, with 72 sets 
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

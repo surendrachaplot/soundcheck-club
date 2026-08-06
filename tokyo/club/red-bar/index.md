@@ -1,14 +1,13 @@
 # Red Bar
 
-Red Bar is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "REDBAR WEDNESDAY" on Wed, 5 Aug 2026.
+Red Bar is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "REDBAR THURSDAY" on Thu, 6 Aug 2026.
 
-Red Bar is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including discopants, FELINE (JP), ISPA and Itou and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
+Red Bar is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including discopants, FELINE (JP), ISPA and Itou and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | REDBAR WEDNESDAY |  |
 | Thu, 6 Aug 2026 | REDBAR THURSDAY | Itou |
 | Fri, 7 Aug 2026 | REDBAR FRIDAY | ISPA, Wada Yosuke, discopants |
 | Sat, 8 Aug 2026 | REDBAR SATURDAY | Ko Umehara, Mizuki, Sakuma |
@@ -18,4 +17,4 @@ Red Bar is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with 
 
 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*

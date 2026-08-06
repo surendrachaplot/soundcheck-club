@@ -1,6 +1,6 @@
 # ZMØRA
 
-ZMØRA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at FLUCC, Vienna on Sat, 8 Aug 2026.
+ZMØRA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at FLUCC, Vienna on Sat, 8 Aug 2026.
 
 ZMØRA is a techno and acid artist based in Poland, tracked on soundcheck, with 10 sets logged across Krakow and Vienna. Often billed alongside A.C., Firefly and AregV. Next up: FLUCC, Vienna on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ ZMØRA is a techno and acid artist based in Poland, tracked on soundcheck, with 
 
 A.C., Firefly, AregV
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zmora-pl/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zmora-pl/)*

@@ -1,6 +1,6 @@
 # Miss T Delight
 
-Miss T Delight is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Else, Berlin on Sat, 22 Aug 2026.
+Miss T Delight is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Else, Berlin on Sat, 22 Aug 2026.
 
 Miss T Delight is a techno and club artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside hi.fí, Adam Cooke and Alada. Next up: Else, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Miss T Delight is a techno and club artist tracked on soundcheck, with 21 sets l
 
 hi.fí, Adam Cooke, Alada
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*

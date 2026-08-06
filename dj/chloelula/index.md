@@ -1,6 +1,6 @@
 # Chloe Lula
 
-Chloe Lula is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kantine am Berghain, Berlin on Thu, 6 Aug 2026.
+Chloe Lula is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kantine am Berghain, Berlin on Thu, 6 Aug 2026.
 
 Chloe Lula is an industrial and techno artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin and London. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Kantine am Berghain, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Chloe Lula is an industrial and techno artist tracked on soundcheck, with 10 set
 
 Ireen Amnes, Barbara Preisinger, Helena Hauff
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*

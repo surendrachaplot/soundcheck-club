@@ -1,6 +1,6 @@
 # Swoopy
 
-Swoopy is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
+Swoopy is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
 Swoopy is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Locre, ALIXN and Anthracene. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Swoopy is a hip-hop and experimental artist based in United Kingdom, tracked on 
 
 Locre, ALIXN, Anthracene
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swoopy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swoopy/)*

@@ -1,6 +1,6 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Hard im Air pres. HYSTA with TOZA" on Fri, 7 Aug 2026.
+Airport Würzburg is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Hard im Air pres. HYSTA with TOZA" on Fri, 7 Aug 2026.
 
 Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights, with line-ups including BØĘRY, Cassa Cristano, dasstudach and DJ maddog and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
@@ -21,4 +21,4 @@ Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 8 upcoming 
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

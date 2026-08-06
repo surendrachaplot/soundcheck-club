@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+SMURFOUDIRTY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside Regis Noir, Anna Collecta and Deo'jorge. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, trac
 
 Regis Noir, Anna Collecta, Deo'jorge
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

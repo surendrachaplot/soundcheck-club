@@ -1,6 +1,6 @@
 # Kuba Sojka
 
-Kuba Sojka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Smolna, Warsaw on Fri, 7 Aug 2026.
+Kuba Sojka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Smolna, Warsaw on Fri, 7 Aug 2026.
 
 Kuba Sojka is a techno and house artist based in Poland, tracked on soundcheck, with 7 sets logged across Krakow and Warsaw. Often billed alongside Gary Holldman, Jurek Przezdziecki and Aetha. Next up: Smolna, Warsaw on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Kuba Sojka is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Gary Holldman, Jurek Przezdziecki, Aetha
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kubasojka/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kubasojka/)*

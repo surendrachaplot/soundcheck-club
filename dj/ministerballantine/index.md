@@ -1,6 +1,6 @@
 # Minister Ballantine
 
-Minister Ballantine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at fabric, London on Fri, 7 Aug 2026.
+Minister Ballantine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at fabric, London on Fri, 7 Aug 2026.
 
 Minister Ballantine is a house and disco artist tracked on soundcheck, with 19 sets logged across Brighton and London. Often billed alongside Oh See, Myriad. and Tiffany Quinn. Next up: fabric, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Minister Ballantine is a house and disco artist tracked on soundcheck, with 19 s
 
 Oh See, Myriad., Tiffany Quinn
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ministerballantine/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ministerballantine/)*

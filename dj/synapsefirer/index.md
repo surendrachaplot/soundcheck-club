@@ -1,6 +1,6 @@
 # Synapsefirer
 
-Synapsefirer is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Distillery N17, London on Fri, 7 Aug 2026.
+Synapsefirer is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Distillery N17, London on Fri, 7 Aug 2026.
 
 Synapsefirer is an experimental and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Baptist (UK), Naramnesia and flippedcrosses. Next up: Distillery N17, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Synapsefirer is an experimental and bass artist based in United Kingdom, tracked
 
 Baptist (UK), Naramnesia, flippedcrosses
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*

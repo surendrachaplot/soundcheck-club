@@ -1,6 +1,6 @@
 # All-Building Market Daze Queen at smartbar
 
-All-Building Market Daze Queen at smartbar on Sun 9 Aug, Chicago. 5 acts on the bill: Derrick Carter, Lorelei, Michael Serafini and MR.WHITE and 1 more. Deep House and Disco. Preview the line-up and save it on soundcheck.
+All-Building Market Daze Queen at smartbar on Sun 9 Aug, Chicago. 7 acts on the bill: Derrick Carter, Lorelei, Michael Serafini and Mr. White and 3 more. Deep House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,9 @@ All-Building Market Daze Queen at smartbar on Sun 9 Aug, Chicago. 5 acts on the 
 - Derrick Carter
 - Lorelei
 - Michael Serafini
+- Mr. White
 - MR.WHITE
 - Shaun J. Wright
+- Sneaker
 
 *Source: [soundcheck](https://soundcheck.club/e/2480818-all-building-market-daze-queen-at-smartbar/)*

@@ -1,6 +1,6 @@
 # Skinny Legend
 
-Skinny Legend is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+Skinny Legend is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 Skinny Legend is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside fbi (1), DJ Bude and Toke12. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Skinny Legend is a techno and house artist based in Germany, tracked on soundche
 
 fbi (1), DJ Bude, Toke12
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnylegend/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnylegend/)*

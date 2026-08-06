@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Flori, Bakes + Huss" on Fri, 7 Aug 2026.
+komunal is a music venue in Birmingham with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Flori, Bakes + Huss" on Fri, 7 Aug 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming nights, with line-ups including Flori. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -20,4 +20,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

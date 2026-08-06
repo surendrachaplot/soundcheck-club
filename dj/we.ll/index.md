@@ -1,6 +1,6 @@
 # WE.LL
 
-WE.LL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 8 Aug 2026.
+WE.LL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 8 Aug 2026.
 
 WE.LL is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Copenhagen and Newyorkcity. Often billed alongside kuini2000, Mama Snake and babsko. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ WE.LL is a techno and house artist based in United States of America, tracked on
 
 kuini2000, Mama Snake, babsko
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*

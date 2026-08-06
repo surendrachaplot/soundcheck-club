@@ -1,6 +1,6 @@
 # Reese_0410
 
-Reese_0410 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pavilon Kert, Budapest on Sat, 8 Aug 2026.
+Reese_0410 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pavilon Kert, Budapest on Sat, 8 Aug 2026.
 
 Reese_0410 is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Budapest, Frankfurt, Leipzig and Prague. Often billed alongside Mac-Kee, Saunaclub and Traxx Jr. Next up: Pavilon Kert, Budapest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Reese_0410 is a house and techno artist based in Germany, tracked on soundcheck,
 
 Mac-Kee, Saunaclub, Traxx Jr
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reese_0410/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reese_0410/)*

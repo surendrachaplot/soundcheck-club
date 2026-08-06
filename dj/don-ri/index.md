@@ -1,13 +1,14 @@
 # Don-Ri
 
-Don-Ri is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
+Don-Ri is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at public records, New York City on Thu, 13 Aug 2026.
 
-Don-Ri is a bass and jungle artist tracked on soundcheck, with 40 sets logged across London, Newyorkcity and Portland. Often billed alongside jaql, Poisonfrog and Raw Unkut. Next up: 314 Scholes St, Newyorkcity on Fri 14 Aug.
+Don-Ri is a bass and dubstep artist tracked on soundcheck, with 41 sets logged across London, Newyorkcity and Portland. Often billed alongside jaql, Poisonfrog and Raw Unkut. Next up: public records, Newyorkcity on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | public records | New York City |
 | Fri, 14 Aug 2026 | 314 Scholes St | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Don-Ri is a bass and jungle artist tracked on soundcheck, with 40 sets logged ac
 
 jaql, Poisonfrog, Raw Unkut
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/don-ri/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/don-ri/)*

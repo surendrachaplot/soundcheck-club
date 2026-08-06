@@ -1,6 +1,6 @@
 # Phase O'Matic
 
-Phase O'Matic is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at LN-CC, London on Thu, 6 Aug 2026.
+Phase O'Matic is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at LN-CC, London on Thu, 6 Aug 2026.
 
 Phase O'Matic is an electronica and acid artist tracked on soundcheck, with 15 sets logged across London, Manchester and Zurich. Often billed alongside Josh Bayat, FRNTLEFT and Feldspar. Next up: LN-CC, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Phase O'Matic is an electronica and acid artist tracked on soundcheck, with 15 s
 
 Josh Bayat, FRNTLEFT, Feldspar
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseomatic/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseomatic/)*

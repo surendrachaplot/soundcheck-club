@@ -1,6 +1,6 @@
 # Subspace
 
-Subspace is a music venue in Denver with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is ":Relics II:" on Sat, 8 Aug 2026.
+Subspace is a music venue in Denver with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is ":Relics II:" on Sat, 8 Aug 2026.
 
 Subspace is a music venue in Denver listed on soundcheck. 2 upcoming nights, with line-ups including Atalef, Drumcell, Hypoxia and Konvulsion and 2 more. Browse upcoming dates, start times and who's playing. Denver, Colorado, USA, 80219.
 
@@ -15,4 +15,4 @@ Subspace is a music venue in Denver listed on soundcheck. 2 upcoming nights, wit
 
 Denver, Colorado, USA, 80219, Denver
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/subspace/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/subspace/)*

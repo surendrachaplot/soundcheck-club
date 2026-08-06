@@ -1,6 +1,6 @@
 # Tikiman
 
-Tikiman is a Dub and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
+Tikiman is a Dub and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
 
 Tikiman is a dub and house artist based in Dominica, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Richard Akingbehin, Azu Tiwaline and CCL. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Tikiman is a dub and house artist based in Dominica, tracked on soundcheck, with
 
 Richard Akingbehin, Azu Tiwaline, CCL
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tikiman/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tikiman/)*

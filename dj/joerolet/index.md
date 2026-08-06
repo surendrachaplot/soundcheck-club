@@ -1,19 +1,19 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Wed, 5 Aug 2026.
+Joe Rolét is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
 
-Joe Rolét is a tech house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 6 more. Often billed alongside Fleur Shore, ALISHA and Cam Stockman. Next up: [UNVRS], Ibiza on Wed 5 Aug.
+Joe Rolét is a tech house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 6 more. Often billed alongside Fleur Shore, ALISHA and Cam Stockman. Next up: Mint Warehouse, Leeds on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | [UNVRS] | Ibiza |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 5 Aug 2026
 - Binks Yard, Nottingham — Sat, 25 Jul 2026
 - Hï Ibiza, Ibiza — Sat, 11 Jul 2026
 - 77, London — Fri, 10 Jul 2026
@@ -21,10 +21,9 @@ Joe Rolét is a tech house and house artist tracked on soundcheck, with 21 sets 
 - 528 Ibiza, Ibiza — Fri, 12 Jun 2026
 - [UNVRS], Ibiza — Wed, 10 Jun 2026
 - FORGE, Sheffield — Sun, 24 May 2026
-- Chelmsford City Racecourse, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Fleur Shore, ALISHA, Cam Stockman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

@@ -1,6 +1,6 @@
 # dyn (JP)
 
-dyn (JP) is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at rake?raka?, Osaka on Sun, 9 Aug 2026.
+dyn (JP) is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at rake?raka?, Osaka on Sun, 9 Aug 2026.
 
 dyn (JP) is a techno and acid artist based in Japan, tracked on soundcheck, with 16 sets logged across Osaka. Often billed alongside ZAGUN, amor (JP) and 死者蘇生CH. Next up: rake?raka?, Osaka on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ dyn (JP) is a techno and acid artist based in Japan, tracked on soundcheck, with
 
 ZAGUN, amor (JP), 死者蘇生CH
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyn-jp/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyn-jp/)*

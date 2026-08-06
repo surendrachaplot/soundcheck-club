@@ -1,6 +1,6 @@
 # Tuin van Heden
 
-Tuin van Heden is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "The Paradise Mix: an hommage to the Balearic beat" on Sun, 16 Aug 2026.
+Tuin van Heden is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "The Paradise Mix: an hommage to the Balearic beat" on Sun, 16 Aug 2026.
 
 Tuin van Heden is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including Berthold (1) and Karawane. Browse upcoming dates, start times and who's playing. Meierij 178, 9000 Ghent.
 
@@ -14,4 +14,4 @@ Tuin van Heden is a music venue in Ghent listed on soundcheck. 1 upcoming night,
 
 Meierij 178, 9000 Ghent, Ghent
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tuin-van-heden/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tuin-van-heden/)*

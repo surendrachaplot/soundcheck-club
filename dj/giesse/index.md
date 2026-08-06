@@ -1,6 +1,6 @@
 # Giesse
 
-Giesse is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Giesse is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Giesse is an experimental and dub techno artist based in Italy, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, London and Milan and 4 more. Often billed alongside Flux By Uchiha, Hans Arsen and Al Paino. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Giesse is an experimental and dub techno artist based in Italy, tracked on sound
 
 Flux By Uchiha, Hans Arsen, Al Paino
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giesse/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giesse/)*

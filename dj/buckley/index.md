@@ -1,6 +1,6 @@
 # Buckley
 
-Buckley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Night Tales, London on Thu, 6 Aug 2026.
+Buckley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Night Tales, London on Thu, 6 Aug 2026.
 
 Buckley is a house and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Antwerp, Brighton, Dublin and Ibiza and 4 more. Often billed alongside harpriya, Sam Pratt and Inland Knights. Next up: Night Tales, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Buckley is a house and disco artist based in United Kingdom, tracked on soundche
 
 harpriya, Sam Pratt, Inland Knights
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley/)*

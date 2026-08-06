@@ -1,6 +1,6 @@
 # BMI (GE)
 
-BMI (GE) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bassiani, Tbilisi on Fri, 7 Aug 2026.
+BMI (GE) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bassiani, Tbilisi on Fri, 7 Aug 2026.
 
 BMI (GE) is a techno artist based in Georgia, tracked on soundcheck, with 10 sets logged across Stockholm and Tbilisi. Often billed alongside Kvanchi, HVL and Ndrx. Next up: Bassiani, Tbilisi on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BMI (GE) is a techno artist based in Georgia, tracked on soundcheck, with 10 set
 
 Kvanchi, HVL, Ndrx
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmi-ge/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmi-ge/)*

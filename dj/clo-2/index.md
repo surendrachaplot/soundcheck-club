@@ -1,6 +1,6 @@
 # CLO (2)
 
-CLO (2) is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
+CLO (2) is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Marlborough Red Room, Glasgow on Fri, 21 Aug 2026.
 
 CLO (2) is a house and baile funk artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Edinburgh, Glasgow and Paris. Often billed alongside strawb.bby, Babyjaii and Casement. Next up: The Marlborough Red Room, Glasgow on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ CLO (2) is a house and baile funk artist based in United Kingdom, tracked on sou
 
 strawb.bby, Babyjaii, Casement
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*

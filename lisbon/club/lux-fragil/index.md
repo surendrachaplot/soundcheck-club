@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "EXOTIKA: Juliana Huxtable, Meibi, Dexter, Taxsh, KAPP" on Thu, 6 Aug 2026.
+Lux Fragil is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "EXOTIKA: Juliana Huxtable, Meibi, Dexter, Taxsh, KAPP" on Thu, 6 Aug 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, with line-ups including BILL ONAIR, Blue Hour, Chima Isaaro and Dexter Lux and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, 
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

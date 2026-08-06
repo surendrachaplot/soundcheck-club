@@ -1,6 +1,6 @@
 # Koki Byrd
 
-Koki Byrd is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 6 Aug 2026.
+Koki Byrd is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 6 Aug 2026.
 
 Koki Byrd is a tech house and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside TooCee, ALEXANDER M and NAMIMI SENSEI. Next up: Enter Shibuya, Tokyo on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ Koki Byrd is a tech house and house artist based in Japan, tracked on soundcheck
 
 TooCee, ALEXANDER M, NAMIMI SENSEI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokibyrd/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokibyrd/)*

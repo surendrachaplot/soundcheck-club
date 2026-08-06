@@ -1,6 +1,6 @@
 # AliK2
 
-AliK2 is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Le Livart, Montreal on Sat, 8 Aug 2026.
+AliK2 is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Le Livart, Montreal on Sat, 8 Aug 2026.
 
 AliK2 is a techno artist tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside HUMMER, ALEX REV and BPlease. Next up: Le Livart, Montreal on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ AliK2 is a techno artist tracked on soundcheck, with 6 sets logged across Montre
 
 HUMMER, ALEX REV, BPlease
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alik2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alik2/)*

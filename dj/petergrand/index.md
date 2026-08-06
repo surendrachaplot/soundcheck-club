@@ -1,6 +1,6 @@
 # Peter Grand
 
-Peter Grand is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
+Peter Grand is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
 
 Peter Grand is an electro and house artist tracked on soundcheck, with 29 sets logged across Brighton, London and Malaga. Often billed alongside Oren (IT), Yuma (UK) and Azire. Next up: Doggy Klœb, Malaga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Peter Grand is an electro and house artist tracked on soundcheck, with 29 sets l
 
 Oren (IT), Yuma (UK), Azire
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petergrand/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petergrand/)*

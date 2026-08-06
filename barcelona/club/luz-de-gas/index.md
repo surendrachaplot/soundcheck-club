@@ -1,14 +1,13 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Circuit Festival 2026. MACHO Party" on Wed, 5 Aug 2026.
+Luz De Gas is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Nacar Club curated by Brunch Electronik / I AM YOU w/ Deer Jade, Sam Shure & CIOZ" on Fri, 7 Aug 2026.
 
-Luz De Gas is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alicia Hahn, Ares Carter, Brizas and CIOZ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
+Luz De Gas is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alicia Hahn, Ares Carter, Brizas and CIOZ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Circuit Festival 2026. MACHO Party |  |
 | Fri, 7 Aug 2026 | Nacar Club curated by Brunch Electronik / I AM YOU w/ Deer Jade, Sam Shure & CIOZ | CIOZ, Deer Jade |
 | Sat, 8 Aug 2026 | Nacar Club curated by Brunch Electronik / Franky Wah, Brizas & JARP | Brizas, Franky Wah |
 | Sun, 9 Aug 2026 | Sunday - Nacar Club - Official Afterparty Brunch Electronik Festival w/ Fedele, Shall Ocin | Fedele, Greta Levska, Shall Ocin |
@@ -21,4 +20,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 8 upcoming nights
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

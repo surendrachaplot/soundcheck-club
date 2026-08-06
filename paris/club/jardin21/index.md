@@ -1,6 +1,6 @@
 # Jardin21
 
-Jardin21 is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Couvre x Chefs: Jardin21 - Open Air" on Fri, 14 Aug 2026.
+Jardin21 is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Couvre x Chefs: Jardin21 - Open Air" on Fri, 14 Aug 2026.
 
 Jardin21 is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Næja, Philou CxC and Scarlett (ohgodscarlett). Browse upcoming dates, start times and who's playing. 12a Rue Ella Fitzgerald, 75019 Paris / Parc de la Villette.
 
@@ -15,4 +15,4 @@ Jardin21 is a music venue in Paris listed on soundcheck. 2 upcoming nights, with
 
 12a Rue Ella Fitzgerald, 75019 Paris / Parc de la Villette, Paris
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/jardin21/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/jardin21/)*

@@ -1,6 +1,6 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Phill de Janeiro is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -33,4 +33,4 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 96
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

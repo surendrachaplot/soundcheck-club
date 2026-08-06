@@ -1,6 +1,6 @@
 # Kabasa
 
-Kabasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
+Kabasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
 
 Kabasa is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Munich and Tokyo. Often billed alongside LION (DE), mojo (DE) and -AKARI-. Next up: Fluxbau, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Kabasa is a house and techno artist tracked on soundcheck, with 9 sets logged ac
 
 LION (DE), mojo (DE), -AKARI-
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabasa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabasa/)*

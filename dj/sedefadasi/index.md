@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Sedef Adasï is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Sedef Adasï is a techno and house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -34,4 +34,4 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 270 sets l
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

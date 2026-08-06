@@ -1,6 +1,6 @@
 # Tom & Collins
 
-Tom & Collins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Void Mykonos, Mykonos on Sun, 9 Aug 2026.
+Tom & Collins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Void Mykonos, Mykonos on Sun, 9 Aug 2026.
 
 Tom & Collins are a house and tech house duo tracked on soundcheck, with 59 sets logged across Austin, Boston, Buenosaires and Chicago and 18 more. Often billed alongside Claptone, Hugel and Yamagucci. Next up: Void Mykonos, Mykonos on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Tom & Collins are a house and tech house duo tracked on soundcheck, with 59 sets
 
 Claptone, Hugel, Yamagucci
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*

@@ -1,8 +1,8 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lux Fragil, Lisbon on Thu, 6 Aug 2026.
+Juliana Huxtable is a Techno and Club artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lux Fragil, Lisbon on Thu, 6 Aug 2026.
 
-Juliana Huxtable is a techno and house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and BASHKKA. Next up: Lux Fragil, Lisbon on Thu 6 Aug.
+Juliana Huxtable is a techno and club artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Lux Fragil, Lisbon on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 191 se
 | Thu, 13 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 14 Aug 2026 | Stereo | Glasgow |
 | Sat, 22 Aug 2026 | Paragon | New York City |
+| Sat, 5 Sept 2026 | Nowadays | New York City |
 | Sat, 19 Sept 2026 | Allan Gardens Conservatory | Toronto |
 | Fri, 23 Oct 2026 | RSO.BERLIN | Berlin |
 
@@ -29,6 +30,6 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 191 se
 
 ## Shares bills with
 
-JASSS, Shyboi, BASHKKA
+JASSS, Shyboi, Via App
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

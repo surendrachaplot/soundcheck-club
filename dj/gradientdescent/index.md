@@ -1,6 +1,6 @@
 # Gradient Descent
 
-Gradient Descent is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Flash, Washington DC on Sat, 15 Aug 2026.
+Gradient Descent is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Flash, Washington DC on Sat, 15 Aug 2026.
 
 Gradient Descent is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Washingtondc. Often billed alongside Sabda, Jus Nowhere and Enamour. Next up: Flash, Washingtondc on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Gradient Descent is a house and techno artist based in United States of America,
 
 Sabda, Jus Nowhere, Enamour
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gradientdescent/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gradientdescent/)*

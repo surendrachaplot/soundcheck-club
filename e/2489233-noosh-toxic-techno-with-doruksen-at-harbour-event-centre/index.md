@@ -1,6 +1,6 @@
 # NOOSH Toxic Techno with Doruksen at Harbour Event Centre
 
-NOOSH Toxic Techno with Doruksen at Harbour Event Centre on Sat 8 Aug, Vancouver. 6 acts on the bill: Doruksen, JACK-8, NIMAHA and Sam AK and 2 more. Hardcore and Acid. Preview the line-up and save it on soundcheck.
+NOOSH Toxic Techno with Doruksen at Harbour Event Centre on Sat 8 Aug, Vancouver. 6 acts on the bill: Doruksen, JACK-8, NIMAHA and Sam AK and 2 more. Acid and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

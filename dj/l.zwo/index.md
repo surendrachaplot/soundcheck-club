@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+L.zwo is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
 L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Antwerp, Barcelona, Basel and Berlin and 14 more. Often billed alongside OCIN, 2HOT2PLAY and Antonym. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
@@ -34,4 +34,4 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 OCIN, 2HOT2PLAY, Antonym
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

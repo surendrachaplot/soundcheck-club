@@ -1,6 +1,6 @@
 # Murahni
 
-Murahni is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
+Murahni is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
 
 Murahni is a techno and house artist based in Hungary, tracked on soundcheck, with 28 sets logged across Budapest. Often billed alongside Ben Dover, Galactic Jackson and rav:n. Next up: Very Small Club, Budapest on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Murahni is a techno and house artist based in Hungary, tracked on soundcheck, wi
 
 Ben Dover, Galactic Jackson, rav:n
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murahni/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murahni/)*

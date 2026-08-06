@@ -1,6 +1,6 @@
 # Mosai
 
-Mosai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at XOYO, London on Thu, 6 Aug 2026.
+Mosai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at XOYO, London on Thu, 6 Aug 2026.
 
 Mosai is a techno and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Liverpool, London and Manchester. Often billed alongside Tasman-UK, Debbie. and Kessie. Next up: XOYO, London on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Mosai is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Tasman-UK, Debbie., Kessie
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*

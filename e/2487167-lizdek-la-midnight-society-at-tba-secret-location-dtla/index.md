@@ -1,10 +1,10 @@
 # Lizdek LA - Midnight Society at TBA - Secret Location DTLA 
 
-Lizdek LA - Midnight Society at TBA - Secret Location DTLA  on Fri 7 Aug, Losangeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Lizdek LA - Midnight Society at TBA - Secret Location DTLA  on Fri 11 Sept, Losangeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 7 Aug 2026 |
+| Date | Fri, 11 Sept 2026 |
 | Venue | TBA - Secret Location DTLA  |
 | City | Los Angeles |
 

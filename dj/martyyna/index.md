@@ -1,6 +1,6 @@
 # Martyyna
 
-Martyyna is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
+Martyyna is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
 
 Martyyna is a techno and club artist based in Czech Republic, tracked on soundcheck, with 26 sets logged across Prague, Vienna and Warsaw. Often billed alongside Kaa Glo, NEW MAGIC MEDIA and Barbora. Next up: Ankali & Planeta Za, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Martyyna is a techno and club artist based in Czech Republic, tracked on soundch
 
 Kaa Glo, NEW MAGIC MEDIA, Barbora
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martyyna/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martyyna/)*

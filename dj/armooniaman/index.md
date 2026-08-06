@@ -1,6 +1,6 @@
 # Armooniaman
 
-Armooniaman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Union Club, Vauxhall, London on Sat, 8 Aug 2026.
+Armooniaman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Union Club, Vauxhall, London on Sat, 8 Aug 2026.
 
 Armooniaman is a house and tech house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Aur0m, Francesco Poggi and Earl the Kid. Next up: Union Club, Vauxhall, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Armooniaman is a house and tech house artist tracked on soundcheck, with 15 sets
 
 Aur0m, Francesco Poggi, Earl the Kid
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*

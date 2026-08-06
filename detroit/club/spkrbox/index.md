@@ -1,15 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Detroit Grit" on Wed, 5 Aug 2026.
+Spkrbox is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Groove Night" on Thu, 6 Aug 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including Brent Shay, Dj Ryte Nou, Donna Gardner and Dru Ruiz and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including Dj Ryte Nou, Dru Ruiz, Gregboi and jamea. and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Detroit Grit | Brent Shay, Marcus NF Harris, Mike Agent X Clark |
-| Wed, 5 Aug 2026 | Nightcap Detroit | Donna Gardner |
 | Thu, 6 Aug 2026 | Groove Night | jamea. |
 | Thu, 6 Aug 2026 | Realms of Techno |  |
 | Fri, 7 Aug 2026 | House Coffee | Jorissen, Tyson Dias |
@@ -23,4 +21,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 10 upcoming nights, wi
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

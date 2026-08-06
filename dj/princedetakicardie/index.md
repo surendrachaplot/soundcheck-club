@@ -1,6 +1,6 @@
 # Prince de Takicardie
 
-Prince de Takicardie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sekta Selekta, Krakow on Fri, 7 Aug 2026.
+Prince de Takicardie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sekta Selekta, Krakow on Fri, 7 Aug 2026.
 
 Prince de Takicardie is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Ibiza and Krakow and 5 more. Often billed alongside Alex Picone, Artuccio and DJ Free Download. Next up: Sekta Selekta, Krakow on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Prince de Takicardie is a house and techno artist based in France, tracked on so
 
 Alex Picone, Artuccio, DJ Free Download
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princedetakicardie/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princedetakicardie/)*

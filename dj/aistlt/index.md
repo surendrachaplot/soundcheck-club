@@ -1,6 +1,6 @@
 # aist (LT)
 
-aist (LT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at B-SIDE, Warsaw on Sat, 8 Aug 2026.
+aist (LT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at B-SIDE, Warsaw on Sat, 8 Aug 2026.
 
 aist (LT) is a house and tech house artist based in Lithuania, tracked on soundcheck, with 33 sets logged across Krakow and Warsaw. Often billed alongside zenwerk, Badalian and anke schön. Next up: B-SIDE, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ aist (LT) is a house and tech house artist based in Lithuania, tracked on soundc
 
 zenwerk, Badalian, anke schön
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aistlt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aistlt/)*

@@ -1,6 +1,6 @@
 # DJ Psycho
 
-DJ Psycho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 7 Aug 2026.
+DJ Psycho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 7 Aug 2026.
 
 DJ Psycho is a techno and house artist tracked on soundcheck, with 88 sets logged across Detroit. Often billed alongside Secrets, Andrés and Ashton Swinton. Next up: TBA - MJ’s North End Ice Cream, Detroit on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Psycho is a techno and house artist tracked on soundcheck, with 88 sets logge
 
 Secrets, Andrés, Ashton Swinton
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpsycho/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpsycho/)*

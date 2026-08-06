@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
+Huerta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
 
 Huerta is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hongkong on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Huerta is a house and techno artist tracked on soundcheck, with 116 sets logged 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

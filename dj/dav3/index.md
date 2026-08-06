@@ -1,6 +1,6 @@
 # DAV3
 
-DAV3 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Der Weiße Hase, Berlin on Thu, 6 Aug 2026.
+DAV3 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Der Weiße Hase, Berlin on Thu, 6 Aug 2026.
 
 DAV3 is a techno and tech house artist tracked on soundcheck, with 129 sets logged across Berlin. Often billed alongside ED2000, Bisk and Wiebe Roose. Next up: Der Weiße Hase, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ DAV3 is a techno and tech house artist tracked on soundcheck, with 129 sets logg
 
 ED2000, Bisk, Wiebe Roose
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dav3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dav3/)*

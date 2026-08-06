@@ -1,6 +1,6 @@
 # Steven G
 
-Steven G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 6 Aug 2026.
+Steven G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 6 Aug 2026.
 
 Steven G is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside Shredy, DR. Disko Dust and Garnet. Next up: Northern Lights Lounge, Detroit on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Steven G is a house and techno artist based in United States of America, tracked
 
 Shredy, DR. Disko Dust, Garnet
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveng/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveng/)*

@@ -1,6 +1,6 @@
 # Incog
 
-Incog is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
+Incog is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Sydney on Sat, 22 Aug 2026.
 
 Incog is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Sydney. Often billed alongside DanKemp, skinbin and Jaye Ward. Next up: TBA, Sydney on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Incog is a techno and electro artist based in United Kingdom, tracked on soundch
 
 DanKemp, skinbin, Jaye Ward
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/incog/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/incog/)*

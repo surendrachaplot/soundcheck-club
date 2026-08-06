@@ -1,6 +1,6 @@
 # Ejival
 
-Ejival is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Vista, Mexico City on Thu, 6 Aug 2026.
+Ejival is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La Vista, Mexico City on Thu, 6 Aug 2026.
 
 Ejival is an electronica and downtempo artist tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Opuntia, Alejandro Franco and Allbyna. Next up: La Vista, Mexicocity on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Ejival is an electronica and downtempo artist tracked on soundcheck, with 6 sets
 
 Opuntia, Alejandro Franco, Allbyna
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejival/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejival/)*

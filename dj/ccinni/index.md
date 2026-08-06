@@ -1,6 +1,6 @@
 # CCINNI
 
-CCINNI is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 7 Aug 2026.
+CCINNI is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 7 Aug 2026.
 
 CCINNI is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Tiello, RADON and Adron (DE). Next up: Crobar - Buenos Aires, Buenosaires on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ CCINNI is a techno and electronica artist tracked on soundcheck, with 9 sets log
 
 Tiello, RADON, Adron (DE)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccinni/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccinni/)*

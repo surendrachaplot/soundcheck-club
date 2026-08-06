@@ -1,6 +1,6 @@
 # Mkav
 
-Mkav is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Vancouver on Sat, 8 Aug 2026.
+Mkav is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Vancouver on Sat, 8 Aug 2026.
 
 Mkav is a house and garage artist tracked on soundcheck, with 18 sets logged across Birmingham, Dublin and Vancouver. Often billed alongside DJ PIERR, Dr.Flamer and Dave Kerr. Next up: TBA, Vancouver on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mkav is a house and garage artist tracked on soundcheck, with 18 sets logged acr
 
 DJ PIERR, Dr.Flamer, Dave Kerr
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkav/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkav/)*

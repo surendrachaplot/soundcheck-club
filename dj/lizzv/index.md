@@ -1,6 +1,6 @@
 # Lizz V
 
-Lizz V is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Lizz V is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Lizz V is a techno and trance artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam and Utrecht. Often billed alongside Brutuzz, Dave Clarke and Dexon. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lizz V is a techno and trance artist based in Netherlands, tracked on soundcheck
 
 Brutuzz, Dave Clarke, Dexon
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzv/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzv/)*

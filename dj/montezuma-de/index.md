@@ -1,6 +1,6 @@
 # Montezuma (DE)
 
-Montezuma (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
+Montezuma (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
 
 Montezuma (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside Beqqi, Maschérie and MIO (ES). Next up: OXI, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Montezuma (DE) is a techno and house artist based in Germany, tracked on soundch
 
 Beqqi, Maschérie, MIO (ES)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/montezuma-de/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/montezuma-de/)*

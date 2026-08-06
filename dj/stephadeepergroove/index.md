@@ -1,6 +1,6 @@
 # Steph (A Deeper Groove)
 
-Steph (A Deeper Groove) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at McChuills Music Bar, Glasgow on Sat, 3 Oct 2026.
+Steph (A Deeper Groove) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at McChuills Music Bar, Glasgow on Sat, 3 Oct 2026.
 
 Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Athens, Austin, Glasgow and Sanfrancisco. Often billed alongside ReZo, SCTR (2) and Tanison. Next up: McChuills Music Bar, Glasgow on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, tr
 
 ReZo, SCTR (2), Tanison
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephadeepergroove/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephadeepergroove/)*

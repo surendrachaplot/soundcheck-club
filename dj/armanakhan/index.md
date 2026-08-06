@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 7 Aug 2026.
+ARMANA KHAN is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 7 Aug 2026.
 
 ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 23 more. Often billed alongside ARCHANGEL (US), Manuka Honey and SAMIA. Next up: TRANSMISSION DC, Washingtondc on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ ARMANA KHAN is a club and techno artist based in United States of America, track
 
 ARCHANGEL (US), Manuka Honey, SAMIA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

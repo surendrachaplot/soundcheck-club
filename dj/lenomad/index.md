@@ -1,6 +1,6 @@
 # Le Nomad
 
-Le Nomad is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cadavra, Madrid on Fri, 2 Oct 2026.
+Le Nomad is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cadavra, Madrid on Fri, 2 Oct 2026.
 
 Le Nomad is a house and electronica artist tracked on soundcheck, with 73 sets logged across Barcelona, Budapest, Madrid and Newyorkcity and 1 more. Often billed alongside Foie Gras, Antoine. and 1Night Only. Next up: Cadavra, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Le Nomad is a house and electronica artist tracked on soundcheck, with 73 sets l
 
 Foie Gras, Antoine., 1Night Only
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenomad/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenomad/)*

@@ -1,6 +1,6 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Horoom – Fri, 07.08.2026" on Fri, 7 Aug 2026.
+Bassiani is a music venue in Tbilisi with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Horoom – Fri, 07.08.2026" on Fri, 7 Aug 2026.
 
 Bassiani is a music venue in Tbilisi listed on soundcheck. 10 upcoming nights, with line-ups including K.pal, Anthony Linell, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
@@ -23,4 +23,4 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 10 upcoming nights, w
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

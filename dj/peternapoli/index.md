@@ -1,6 +1,6 @@
 # Peter Napoli
 
-Peter Napoli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 15 Aug 2026.
+Peter Napoli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 15 Aug 2026.
 
 Peter Napoli is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Mexicocity, Newyorkcity and Philadelphia. Often billed alongside DROPO, Manny Ward and Andrew Lenox. Next up: Dead Letter No. 9, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Peter Napoli is a house and techno artist based in United States of America, tra
 
 DROPO, Manny Ward, Andrew Lenox
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peternapoli/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peternapoli/)*

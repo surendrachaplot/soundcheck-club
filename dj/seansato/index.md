@@ -1,6 +1,6 @@
 # Sean Sato
 
-Sean Sato is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Good Room, New York City on Fri, 14 Aug 2026.
+Sean Sato is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Good Room, New York City on Fri, 14 Aug 2026.
 
 Sean Sato is a house and club artist based in Japan, tracked on soundcheck, with 20 sets logged across Newyorkcity and Seoul. Often billed alongside Arianna Danae, Analog Soul and Aurora Halal. Next up: Good Room, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sean Sato is a house and club artist based in Japan, tracked on soundcheck, with
 
 Arianna Danae, Analog Soul, Aurora Halal
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seansato/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seansato/)*

@@ -1,6 +1,6 @@
 # Bar Silver Vinyl Lounge & The Vault
 
-Bar Silver Vinyl Lounge & The Vault is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Bar Silver Launch Party" on Sat, 8 Aug 2026.
+Bar Silver Vinyl Lounge & The Vault is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bar Silver Launch Party" on Sat, 8 Aug 2026.
 
 Bar Silver Vinyl Lounge & The Vault is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Almeida Moura, Black Danny and metrologic. Browse upcoming dates, start times and who's playing. 70 Upper Street.
 
@@ -14,4 +14,4 @@ Bar Silver Vinyl Lounge & The Vault is a music venue in London listed on soundch
 
 70 Upper Street, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-silver-vinyl-lounge-the-vault/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-silver-vinyl-lounge-the-vault/)*

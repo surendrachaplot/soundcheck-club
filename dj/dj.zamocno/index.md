@@ -1,6 +1,6 @@
 # dj.zamocno
 
-dj.zamocno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mastak, Warsaw on Sat, 8 Aug 2026.
+dj.zamocno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Mastak, Warsaw on Sat, 8 Aug 2026.
 
 dj.zamocno is a techno and house artist based in Poland, tracked on soundcheck, with 66 sets logged across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: Mastak, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ dj.zamocno is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Abrew, toutestmagnifique, DOMEL
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.zamocno/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.zamocno/)*

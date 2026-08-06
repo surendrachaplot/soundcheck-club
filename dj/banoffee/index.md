@@ -1,6 +1,6 @@
 # Banoffee
 
-Banoffee is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Los Angeles on Sat, 8 Aug 2026.
+Banoffee is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Los Angeles on Sat, 8 Aug 2026.
 
 Banoffee is a club and techno artist based in Australia, tracked on soundcheck, with 23 sets logged across Losangeles and Newyorkcity. Often billed alongside Shane Thomas, Rob Aquino and deesco. Next up: TBA, Losangeles on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Banoffee is a club and techno artist based in Australia, tracked on soundcheck, 
 
 Shane Thomas, Rob Aquino, deesco
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banoffee/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banoffee/)*

@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+Rene Wise is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 Rene Wise is a techno and house artist tracked on soundcheck, with 237 sets logged across Amsterdam, Athens, Austin and Barcelona and 68 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 237 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

@@ -1,6 +1,6 @@
 # RÆZA
 
-RÆZA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Green Room NYC, New York City on Sat, 8 Aug 2026.
+RÆZA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Sat, 8 Aug 2026.
 
 RÆZA is a techno and house artist based in France, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside Rachel Noon, BASHKKA and Mama Snake. Next up: Green Room NYC, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ RÆZA is a techno and house artist based in France, tracked on soundcheck, with 
 
 Rachel Noon, BASHKKA, Mama Snake
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*

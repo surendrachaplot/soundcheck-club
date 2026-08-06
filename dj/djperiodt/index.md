@@ -1,6 +1,6 @@
 # DJ PERIODT
 
-DJ PERIODT is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Sat, 29 Aug 2026.
+DJ PERIODT is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Sat, 29 Aug 2026.
 
 DJ PERIODT is a techno and tech house artist tracked on soundcheck, with 30 sets logged across Berlin, Cologne, London and Manchester and 4 more. Often billed alongside ALP (DE), Inverse Element and Leone Knight. Next up: ÆDEN, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ PERIODT is a techno and tech house artist tracked on soundcheck, with 30 sets
 
 ALP (DE), Inverse Element, Leone Knight
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djperiodt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djperiodt/)*

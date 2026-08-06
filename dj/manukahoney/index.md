@@ -1,14 +1,15 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+Manuka Honey is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
-Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 141 sets logged across Amsterdam, Auckland, Barcelona and Basel and 39 more. Often billed alongside Baby Cocada, TEDESCO and Florentino. Next up: Colour Factory, London on Sat 8 Aug.
+Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 142 sets logged across Amsterdam, Auckland, Barcelona and Basel and 39 more. Often billed alongside Baby Cocada, TEDESCO and Florentino. Next up: Colour Factory, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Colour Factory | London |
+| Sat, 19 Sept 2026 | TBA | Los Angeles |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 141 sets
 
 Baby Cocada, TEDESCO, Florentino
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

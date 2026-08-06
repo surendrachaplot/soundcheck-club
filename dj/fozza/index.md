@@ -1,6 +1,6 @@
 # FOZZA
 
-FOZZA is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
+FOZZA is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
 
 FOZZA is a garage and house artist based in Australia, tracked on soundcheck, with 8 sets logged across Hobart and Melbourne. Often billed alongside DJ CASPER (2), Aaliyah Salem and Alex Morris. Next up: Angel Music Bar, Melbourne on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ FOZZA is a garage and house artist based in Australia, tracked on soundcheck, wi
 
 DJ CASPER (2), Aaliyah Salem, Alex Morris
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fozza/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fozza/)*

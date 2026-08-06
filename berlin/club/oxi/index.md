@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Swim Good featuring Isla Radio" on Fri, 7 Aug 2026.
+OXI is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Swim Good featuring Isla Radio" on Fri, 7 Aug 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Alexander Kowalski, Alison Swing, Ana Molina and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

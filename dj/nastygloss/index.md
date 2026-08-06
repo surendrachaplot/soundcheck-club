@@ -1,6 +1,6 @@
 # nastygloss
 
-nastygloss is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
+nastygloss is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
 
 nastygloss is a techno and club artist tracked on soundcheck, with 55 sets logged across Montreal. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: TBA - mile ex, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ nastygloss is a techno and club artist tracked on soundcheck, with 55 sets logge
 
 hÿdra, Casa Kobrae, Katamina
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*

@@ -1,6 +1,6 @@
 # Clementaum
 
-Clementaum is a House and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cafeteria, Toronto on Fri, 7 Aug 2026.
+Clementaum is a House and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cafeteria, Toronto on Fri, 7 Aug 2026.
 
 Clementaum is a house and baile funk artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Rafa Maia, BADSISTA and Paulete Lindacelva. Next up: Cafeteria, Toronto on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Clementaum is a house and baile funk artist tracked on soundcheck, with 72 sets 
 
 Rafa Maia, BADSISTA, Paulete Lindacelva
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clementaum/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clementaum/)*

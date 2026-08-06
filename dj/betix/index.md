@@ -1,6 +1,6 @@
 # BETIX
 
-BETIX is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tresor / Globus, Berlin on Wed, 26 Aug 2026.
+BETIX is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tresor / Globus, Berlin on Wed, 26 Aug 2026.
 
 BETIX is an electronic artist based in Portugal, tracked on soundcheck, with 12 sets logged across Berlin, Lisbon, Milan and Porto. Often billed alongside Let (3), 2jack4u and ALEKSANDRE. Next up: Tresor / Globus, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ BETIX is an electronic artist based in Portugal, tracked on soundcheck, with 12 
 
 Let (3), 2jack4u, ALEKSANDRE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/betix/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/betix/)*

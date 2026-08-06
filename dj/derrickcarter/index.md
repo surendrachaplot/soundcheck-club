@@ -1,8 +1,8 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
+Derrick Carter is a House and Disco artist with 15 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
+Derrick Carter is a house and disco artist tracked on soundcheck, with 309 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -17,8 +17,9 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets 
 | Sun, 16 Aug 2026 | smartbar | Chicago |
 | Sun, 23 Aug 2026 | smartbar | Chicago |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sun, 6 Sept 2026 | smartbar | Chicago |
+| Sun, 13 Sept 2026 | smartbar | Chicago |
 | Sat, 19 Sept 2026 | TBA | Los Angeles |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets 
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

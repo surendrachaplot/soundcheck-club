@@ -1,14 +1,15 @@
 # Ferdiyei
 
-Ferdiyei is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
+Ferdiyei is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
 
-Ferdiyei is a house and disco artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Dj Coco, Klara Missyle and ABSOLUTE.. Next up: Versalles 64, Mexicocity on Sat 8 Aug.
+Ferdiyei is a house and italo disco artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Dj Coco, Klara Missyle and ABSOLUTE.. Next up: Versalles 64, Mexicocity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Versalles 64 | Mexico City |
+| Sun, 9 Aug 2026 | Sunday Sunday | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ferdiyei is a house and disco artist based in Spain, tracked on soundcheck, with
 
 Dj Coco, Klara Missyle, ABSOLUTE.
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdiyei/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdiyei/)*

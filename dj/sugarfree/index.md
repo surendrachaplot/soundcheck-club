@@ -1,6 +1,6 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
+Sugar Free is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Backsteinboot, Berlin on Sat, 15 Aug 2026.
 
 Sugar Free is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Backsteinboot, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Sugar Free is a house and techno artist tracked on soundcheck, with 189 sets log
 
 Fonte, Gene On Earth, tINI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

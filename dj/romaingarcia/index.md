@@ -1,6 +1,6 @@
 # Romain Garcia
 
-Romain Garcia is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
+Romain Garcia is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
 
 Romain Garcia is a progressive house and deep house artist based in France, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Hana, Jody Wisternoff and Nicky Elisabeth. Next up: Old Royal Naval College, London on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Romain Garcia is a progressive house and deep house artist based in France, trac
 
 Hana, Jody Wisternoff, Nicky Elisabeth
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*

@@ -1,6 +1,6 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+Bianca Scout is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
 Bianca Scout is an experimental and electronica artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Bianca Scout is an experimental and electronica artist tracked on soundcheck, wi
 
 Rainy Miller, 2K88, Lauren Duffus
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*

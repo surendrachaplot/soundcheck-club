@@ -1,6 +1,6 @@
 # Crybaby
 
-Crybaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
+Crybaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
 
 Crybaby is a techno and house artist tracked on soundcheck, with 54 sets logged across Bangkok, Brisbane, London and Melbourne and 5 more. Often billed alongside JUPiTA, Shampain and Caucasian Opportunities. Next up: The Carpet Shop, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Crybaby is a techno and house artist tracked on soundcheck, with 54 sets logged 
 
 JUPiTA, Shampain, Caucasian Opportunities
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*

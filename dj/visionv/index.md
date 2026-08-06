@@ -1,6 +1,6 @@
 # VisionV
 
-VisionV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 20 Aug 2026.
+VisionV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 VisionV is a house and techno artist based in Austria, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Boston and Ibiza and 4 more. Often billed alongside Mat Schubert, LAVERN and Martin Garrix. Next up: Ushuaïa Ibiza, Ibiza on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ VisionV is a house and techno artist based in Austria, tracked on soundcheck, wi
 
 Mat Schubert, LAVERN, Martin Garrix
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visionv/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visionv/)*

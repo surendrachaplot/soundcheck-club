@@ -1,6 +1,6 @@
 # Dario (DE)
 
-Dario (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 7 Aug 2026.
+Dario (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 7 Aug 2026.
 
 Dario (DE) is a techno and house artist tracked on soundcheck, with 32 sets logged across Berlin, Hamburg, Manchester and Marseille and 5 more. Often billed alongside Racing Nokia, Ele Luz and Die Phil. Next up: Jonny Knüppel, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dario (DE) is a techno and house artist tracked on soundcheck, with 32 sets logg
 
 Racing Nokia, Ele Luz, Die Phil
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariode/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariode/)*

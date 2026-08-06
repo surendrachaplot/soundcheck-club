@@ -1,6 +1,6 @@
 # 619!
 
-619! is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
+619! is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
 
 619! is a breakbeat and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami and Newyorkcity. Often billed alongside Duality (US), SATURNSARii and 1-800-Lolita. Next up: TBA, Miami on Sat 5 Sept.
 
@@ -25,4 +25,4 @@
 
 Duality (US), SATURNSARii, 1-800-Lolita
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/619!/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/619!/)*

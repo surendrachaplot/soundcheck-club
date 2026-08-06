@@ -1,6 +1,6 @@
 # Oluwafemi
 
-Oluwafemi is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Maplewood Mall, Philadelphia on Sat, 8 Aug 2026.
+Oluwafemi is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Maplewood Mall, Philadelphia on Sat, 8 Aug 2026.
 
 Oluwafemi is a house and afro house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Philadelphia. Often billed alongside Ben Arsenal, DJ Dommis and Full Moon Fool. Next up: TBA - Maplewood Mall, Philadelphia on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Oluwafemi is a house and afro house artist based in United States of America, tr
 
 Ben Arsenal, DJ Dommis, Full Moon Fool
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oluwafemi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oluwafemi/)*

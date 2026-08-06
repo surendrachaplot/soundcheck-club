@@ -1,13 +1,14 @@
 # Oreku
 
-Oreku is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Dance Cave, Toronto on Fri, 11 Sept 2026.
+Oreku is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Dance Cave, Toronto on Fri, 11 Sept 2026.
 
-Oreku is a house and disco artist based in Australia, tracked on soundcheck, with 24 sets logged across Melbourne, Mexicocity and Toronto. Often billed alongside Coy Haste, Dacou and Assassin Bug. Next up: Dance Cave, Toronto on Fri 11 Sept.
+Oreku is a house and disco artist based in Australia, tracked on soundcheck, with 25 sets logged across Melbourne, Mexicocity and Toronto. Often billed alongside Coy Haste, Dacou and Assassin Bug. Next up: Dance Cave, Toronto on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Dance Cave | Toronto |
 | Fri, 11 Sept 2026 | Dance Cave | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Oreku is a house and disco artist based in Australia, tracked on soundcheck, wit
 
 Coy Haste, Dacou, Assassin Bug
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oreku/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oreku/)*

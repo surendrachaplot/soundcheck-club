@@ -1,6 +1,6 @@
 # DJ Dawson
 
-DJ Dawson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Highlight Room, New York City on Sun, 23 Aug 2026.
+DJ Dawson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Highlight Room, New York City on Sun, 23 Aug 2026.
 
 DJ Dawson is a house and techno artist tracked on soundcheck, with 42 sets logged across Mexicocity and Newyorkcity. Often billed alongside DROPO, Mitch Ferrino and Boomer Banks. Next up: The Highlight Room, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ DJ Dawson is a house and techno artist tracked on soundcheck, with 42 sets logge
 
 DROPO, Mitch Ferrino, Boomer Banks
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawson/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawson/)*

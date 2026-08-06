@@ -1,6 +1,6 @@
 # DJ Vahshi
 
-DJ Vahshi is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Bedstuy Loft, New York City on Fri, 14 Aug 2026.
+DJ Vahshi is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Bedstuy Loft, New York City on Fri, 14 Aug 2026.
 
 DJ Vahshi is a house and footwork artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside DJ Ari B, Jaeku and Zara Dekho. Next up: TBA - Secret Bedstuy Loft, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Vahshi is a house and footwork artist based in United States of America, trac
 
 DJ Ari B, Jaeku, Zara Dekho
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvahshi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvahshi/)*

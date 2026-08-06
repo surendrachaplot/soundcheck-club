@@ -1,6 +1,6 @@
 # Lou Flores
 
-Lou Flores is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+Lou Flores is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 Lou Flores is a house and tech house artist based in Venezuela, tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside demenz, Atomyard and Diego Teran. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lou Flores is a house and tech house artist based in Venezuela, tracked on sound
 
 demenz, Atomyard, Diego Teran
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louflores/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louflores/)*

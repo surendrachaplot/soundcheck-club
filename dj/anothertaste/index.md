@@ -1,6 +1,6 @@
 # Another Taste
 
-Another Taste is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at NAR, Utrecht on Sat, 15 Aug 2026.
+Another Taste is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at NAR, Utrecht on Sat, 15 Aug 2026.
 
 Another Taste is a techno and disco artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Ajuma, Danilo Plessow and Ays (NL). Next up: NAR, Utrecht on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Another Taste is a techno and disco artist based in Netherlands, tracked on soun
 
 Ajuma, Danilo Plessow, Ays (NL)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anothertaste/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anothertaste/)*

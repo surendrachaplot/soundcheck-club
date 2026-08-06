@@ -1,6 +1,6 @@
 # MIHEMI
 
-MIHEMI is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Munich on Fri, 7 Aug 2026.
+MIHEMI is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Munich on Fri, 7 Aug 2026.
 
 MIHEMI is a house and tech house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Neverglass, FLUONITE and Gaaston. Next up: TBA, Munich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ MIHEMI is a house and tech house artist based in Germany, tracked on soundcheck,
 
 Neverglass, FLUONITE, Gaaston
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihemi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihemi/)*

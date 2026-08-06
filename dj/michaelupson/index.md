@@ -1,6 +1,6 @@
 # Michael Upson
 
-Michael Upson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lost Cat / Found, Manchester on Fri, 7 Aug 2026.
+Michael Upson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lost Cat / Found, Manchester on Fri, 7 Aug 2026.
 
 Michael Upson is a house and disco artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Subaru, Lucy Locket and Kessie. Next up: Lost Cat / Found, Manchester on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Michael Upson is a house and disco artist based in United Kingdom, tracked on so
 
 DJ Subaru, Lucy Locket, Kessie
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*

@@ -1,6 +1,6 @@
 # Andreas Kraemer
 
-Andreas Kraemer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Golden Flamingo, Berlin on Sat, 15 Aug 2026.
+Andreas Kraemer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Golden Flamingo, Berlin on Sat, 15 Aug 2026.
 
 Andreas Kraemer is a techno and tech house artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Cat Vermillion, Felix Reichelt and Daniela Hensel. Next up: Golden Flamingo, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Andreas Kraemer is a techno and tech house artist tracked on soundcheck, with 14
 
 Cat Vermillion, Felix Reichelt, Daniela Hensel
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaskraemer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaskraemer/)*

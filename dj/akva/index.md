@@ -1,6 +1,6 @@
 # AKVA
 
-AKVA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Altes Mädchen Innenhof, Hamburg on Sat, 15 Aug 2026.
+AKVA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Altes Mädchen Innenhof, Hamburg on Sat, 15 Aug 2026.
 
 AKVA is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Hamburg. Often billed alongside Alexej, Benjamin Grimm and Mr. Maggio. Next up: Altes Mädchen Innenhof, Hamburg on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ AKVA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Alexej, Benjamin Grimm, Mr. Maggio
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akva/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akva/)*

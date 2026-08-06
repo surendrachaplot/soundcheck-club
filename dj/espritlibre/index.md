@@ -1,6 +1,6 @@
 # ESPRIT LIBRE
 
-ESPRIT LIBRE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 13 Aug 2026.
+ESPRIT LIBRE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 13 Aug 2026.
 
 ESPRIT LIBRE is a techno and hardcore artist based in France, tracked on soundcheck, with 14 sets logged across Montreal and Toronto. Often billed alongside Hurakkan, A.N.I. and Aurélie Schleger. Next up: Jardins Gamelin, Montreal on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ ESPRIT LIBRE is a techno and hardcore artist based in France, tracked on soundch
 
 Hurakkan, A.N.I., Aurélie Schleger
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espritlibre/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/espritlibre/)*

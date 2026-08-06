@@ -1,6 +1,6 @@
 # Marixia
 
-Marixia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Liquid Club, Malta on Fri, 28 Aug 2026.
+Marixia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Liquid Club, Malta on Fri, 28 Aug 2026.
 
 Marixia is a techno and minimal techno artist tracked on soundcheck, with 9 sets logged across Ibiza and Malta. Often billed alongside Philip Ackowsky, Abdy and Alex Micca. Next up: Liquid Club, Malta on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Marixia is a techno and minimal techno artist tracked on soundcheck, with 9 sets
 
 Philip Ackowsky, Abdy, Alex Micca
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marixia/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marixia/)*

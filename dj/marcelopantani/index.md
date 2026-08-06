@@ -1,6 +1,6 @@
 # Marcelo Pantani
 
-Marcelo Pantani is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
+Marcelo Pantani is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
 
 Marcelo Pantani is an electronica and house artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona and Madrid. Often billed alongside Nile Fee, John Heaven and Daniel 2000. Next up: Nitsa Club, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Marcelo Pantani is an electronica and house artist based in Spain, tracked on so
 
 Nile Fee, John Heaven, Daniel 2000
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelopantani/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelopantani/)*

@@ -1,6 +1,6 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Prunk ALL DAY" on Fri, 7 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 15 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Prunk ALL DAY" on Fri, 7 Aug 2026.
 
 Colorado Charlie is a music venue in Thehague listed on soundcheck. 15 upcoming nights, with line-ups including 22 Interns, AAT (NL), Benny Rodrigues and Boris Coelman and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
@@ -23,4 +23,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 15 upcoming 
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

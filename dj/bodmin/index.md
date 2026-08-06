@@ -1,6 +1,6 @@
 # Bod Min
 
-Bod Min is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 22 Aug 2026.
+Bod Min is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 22 Aug 2026.
 
 Bod Min is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Leeds, Manchester and Sheffield. Often billed alongside Danny Cruise, Sam Pratt and Roya Brehl. Next up: The Doghouse bar & Record Store, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bod Min is a house and tech house artist based in United Kingdom, tracked on sou
 
 Danny Cruise, Sam Pratt, Roya Brehl
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodmin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodmin/)*

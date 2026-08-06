@@ -1,6 +1,6 @@
 # Wildstylez
 
-Wildstylez is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
+Wildstylez is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Medusa Beach, Valencia on Thu, 13 Aug 2026.
 
 Wildstylez is a techno and electronica artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Cologne, Frankfurt, Madrid and Nurnberg and 3 more. Often billed alongside Sound Rush, Angerfist and Coone. Next up: Medusa Beach, Valencia on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Wildstylez is a techno and electronica artist based in Netherlands, tracked on s
 
 Sound Rush, Angerfist, Coone
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildstylez/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildstylez/)*

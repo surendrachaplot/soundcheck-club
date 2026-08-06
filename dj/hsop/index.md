@@ -1,6 +1,6 @@
 # HSOP
 
-HSOP is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Glazart, Paris on Sat, 8 Aug 2026.
+HSOP is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Glazart, Paris on Sat, 8 Aug 2026.
 
 HSOP is a techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Bristol and Paris. Often billed alongside MEDLEX, Antonio Fevola and Fran LF. Next up: Glazart, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ HSOP is a techno artist tracked on soundcheck, with 13 sets logged across Amster
 
 MEDLEX, Antonio Fevola, Fran LF
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hsop/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hsop/)*

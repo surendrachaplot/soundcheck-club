@@ -1,6 +1,6 @@
 # CHNTEL.
 
-CHNTEL. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Church, Little Portugal, Toronto on Sat, 15 Aug 2026.
+CHNTEL. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Church, Little Portugal, Toronto on Sat, 15 Aug 2026.
 
 CHNTEL. is a house and tech house artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside Annamite, Dark Matter (3) and NUNI. Next up: TBA - Secret Church, Little Portugal, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ CHNTEL. is a house and tech house artist based in Canada, tracked on soundcheck,
 
 Annamite, Dark Matter (3), NUNI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chntel-ca/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chntel-ca/)*

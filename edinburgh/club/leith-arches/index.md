@@ -1,6 +1,6 @@
 # Leith Arches
 
-Leith Arches is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Tierhaus Leith Arches Fringe Launch feat. zohra, Leander + more TBA" on Fri, 7 Aug 2026.
+Leith Arches is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Tierhaus Leith Arches Fringe Launch feat. zohra, Leander + more TBA" on Fri, 7 Aug 2026.
 
 Leith Arches is a music venue in Edinburgh listed on soundcheck. 6 upcoming nights, with line-ups including DJ Kid - Scotland, Lewis Robertson, noodle and Richie Fingers and 2 more. Browse upcoming dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
 
@@ -19,4 +19,4 @@ Leith Arches is a music venue in Edinburgh listed on soundcheck. 6 upcoming nigh
 
 6 Manderston St, Edinburgh, EH6 8LY, Edinburgh
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*

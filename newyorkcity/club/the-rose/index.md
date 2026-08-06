@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Glamour Party" on Thu, 6 Aug 2026.
+The Rose is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Glamour Party" on Thu, 6 Aug 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Gino Santos and Oui Lv. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -18,4 +18,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

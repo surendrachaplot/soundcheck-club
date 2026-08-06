@@ -1,6 +1,6 @@
 # Origin8a & Propa
 
-Origin8a & Propa is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
+Origin8a & Propa is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
 
 Origin8a & Propa are a jungle and breakbeat duo tracked on soundcheck, with 3 sets logged across Brighton and Bristol. Often billed alongside DJ Hybrid, Hypershe and Altern-8. Next up: Document, Bristol on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Origin8a & Propa are a jungle and breakbeat duo tracked on soundcheck, with 3 se
 
 DJ Hybrid, Hypershe, Altern-8
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*

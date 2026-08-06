@@ -1,6 +1,6 @@
 # Esse Ran
 
-Esse Ran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ESC, Montreal on Sat, 8 Aug 2026.
+Esse Ran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ESC, Montreal on Sat, 8 Aug 2026.
 
 Esse Ran is a techno and house artist tracked on soundcheck, with 26 sets logged across Hongkong, Montreal, Osaka and Tokyo and 1 more. Often billed alongside Racine, Kanyon and Amselysen. Next up: ESC, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Esse Ran is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 Racine, Kanyon, Amselysen
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esseran/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esseran/)*

@@ -1,6 +1,6 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 7 Aug 2026.
+Nikki Nair is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 7 Aug 2026.
 
 Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Auckland and Austin and 48 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

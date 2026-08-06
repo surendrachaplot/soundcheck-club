@@ -1,6 +1,6 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
+AEREA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
 
 AEREA is a techno and trance artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Kraftwerk, Zurich on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ AEREA is a techno and trance artist tracked on soundcheck, with 55 sets logged a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

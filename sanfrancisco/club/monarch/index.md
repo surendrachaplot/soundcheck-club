@@ -1,8 +1,8 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Electric Void: PreSideLands" on Thu, 6 Aug 2026.
+Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Electric Void: PreSideLands" on Thu, 6 Aug 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Acid Boner, bastiengoat, Booty Juice and DINABN and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including Acid Boner, bastiengoat, Booty Juice and DINABN and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights
 | Thu, 6 Aug 2026 | Electric Void: PreSideLands | Booty Juice, DJ Parrot, HIDRA, vRok |
 | Fri, 7 Aug 2026 | Boots N' Cats presents FOOLiE | FOOLiE, PADRE BLESS |
 | Sat, 8 Aug 2026 | Mostly Cloudy: Dina + QUEENIE | DINABN, QUEENIE (US) |
+| Sat, 15 Aug 2026 | Revolutions: Staxx of Wax with guest DJ: DMak | Duserock |
 | Fri, 21 Aug 2026 | Reggaeton de Hoy vs. Reggaeton de Antes | DJ Earth Angel |
 | Sat, 22 Aug 2026 | Pluko |  |
 | Sat, 29 Aug 2026 | HYDEFM PRESENTS: CONNIE (SF DEBUT) | New Nostalgia, bastiengoat |
@@ -21,4 +22,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

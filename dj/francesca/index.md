@@ -1,6 +1,6 @@
 # Francesca
 
-Francesca is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Francesca is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Francesca is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Edinburgh and Munich and 2 more. Often billed alongside Maria Theresia von Eberg, Tobi Jos and Zimmer. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Francesca is a techno and downtempo artist based in United States of America, tr
 
 Maria Theresia von Eberg, Tobi Jos, Zimmer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*

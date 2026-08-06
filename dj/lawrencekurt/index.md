@@ -1,6 +1,6 @@
 # Lawrence Kurt
 
-Lawrence Kurt is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+Lawrence Kurt is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 Lawrence Kurt is a techno artist tracked on soundcheck, with 8 sets logged across Berlin, Newyorkcity and Utrecht. Often billed alongside APRS, Anri and Aural Plant Sonification. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Lawrence Kurt is a techno artist tracked on soundcheck, with 8 sets logged acros
 
 APRS, Anri, Aural Plant Sonification
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencekurt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencekurt/)*

@@ -1,6 +1,6 @@
 # Eartheater
 
-Eartheater is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Le Trianon, Paris on Sun, 30 Aug 2026.
+Eartheater is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Le Trianon, Paris on Sun, 30 Aug 2026.
 
 Eartheater is an electronica and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Basel, Berlin and London and 7 more. Often billed alongside Doss, FKA twigs and Sega Bodega. Next up: Le Trianon, Paris on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Eartheater is an electronica and techno artist based in United States of America
 
 Doss, FKA twigs, Sega Bodega
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eartheater/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eartheater/)*

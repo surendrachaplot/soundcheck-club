@@ -1,6 +1,6 @@
 # Bardo (1)
 
-Bardo (1) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
+Bardo (1) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
 
 Bardo (1) is a techno and ambient artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Phalcon, Retter (DE) and Alexa Strange. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Bardo (1) is a techno and ambient artist based in Spain, tracked on soundcheck, 
 
 Phalcon, Retter (DE), Alexa Strange
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*

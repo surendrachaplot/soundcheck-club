@@ -1,14 +1,15 @@
 # Vadim Khan
 
-Vadim Khan is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
+Vadim Khan is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
 
-Vadim Khan is a techno and acid artist based in Canada, tracked on soundcheck, with 33 sets logged across Miami and Toronto. Often billed alongside Measure Divide, Darkova and AADJA. Next up: Cherry Beach, Toronto on Sun 9 Aug.
+Vadim Khan is a techno and acid artist based in Canada, tracked on soundcheck, with 34 sets logged across Miami and Toronto. Often billed alongside Measure Divide, Darkova and AADJA. Next up: Cherry Beach, Toronto on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Cherry Beach | Toronto |
+| Sun, 9 Aug 2026 | TBA - DUPONT & DUNDAS ST WEST | Toronto |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Vadim Khan is a techno and acid artist based in Canada, tracked on soundcheck, w
 
 Measure Divide, Darkova, AADJA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimkhan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimkhan/)*

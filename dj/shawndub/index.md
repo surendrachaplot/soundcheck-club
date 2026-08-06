@@ -1,6 +1,6 @@
 # Shawn Dub
 
-Shawn Dub is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Outer Heaven, New York City on Thu, 20 Aug 2026.
+Shawn Dub is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Outer Heaven, New York City on Thu, 20 Aug 2026.
 
 Shawn Dub is a house and techno artist tracked on soundcheck, with 96 sets logged across Detroit, Miami, Montreal and Newyorkcity and 1 more. Often billed alongside Kels (US), Kels and Korie Enyard. Next up: Outer Heaven, Newyorkcity on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Shawn Dub is a house and techno artist tracked on soundcheck, with 96 sets logge
 
 Kels (US), Kels, Korie Enyard
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawndub/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawndub/)*

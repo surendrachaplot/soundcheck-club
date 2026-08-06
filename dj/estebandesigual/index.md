@@ -1,6 +1,6 @@
 # Esteban Desigual
 
-Esteban Desigual is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Esteban Desigual is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Esteban Desigual is a trance and techno artist tracked on soundcheck, with 41 sets logged across Berlin, Budapest, Geneva and Lyon and 5 more. Often billed alongside Die Klar, Apocalypse Nao and Lobsta B. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Esteban Desigual is a trance and techno artist tracked on soundcheck, with 41 se
 
 Die Klar, Apocalypse Nao, Lobsta B
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estebandesigual/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estebandesigual/)*

@@ -1,6 +1,6 @@
 # CHIKA
 
-CHIKA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
+CHIKA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 15 Aug 2026.
 
 CHIKA is a techno and industrial artist tracked on soundcheck, with 99 sets logged across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside YOXIKI, DALJAE and YURI VALEN. Next up: ZEROTOKYO, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ CHIKA is a techno and industrial artist tracked on soundcheck, with 99 sets logg
 
 YOXIKI, DALJAE, YURI VALEN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*

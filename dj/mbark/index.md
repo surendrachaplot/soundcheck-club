@@ -1,6 +1,6 @@
 # MBark
 
-MBark is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
+MBark is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
 
 MBark is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside XSYNC19, MVKO and oshigakill. Next up: Teritorija, Riga on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ MBark is a hardcore and techno artist based in Latvia, tracked on soundcheck, wi
 
 XSYNC19, MVKO, oshigakill
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mbark/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mbark/)*

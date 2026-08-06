@@ -1,6 +1,6 @@
 # Carl Michaels
 
-Carl Michaels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bastet, Philadelphia on Fri, 7 Aug 2026.
+Carl Michaels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bastet, Philadelphia on Fri, 7 Aug 2026.
 
 Carl Michaels is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity and Philadelphia. Often billed alongside kraftwitch, Dentana and Firestone. Next up: Bastet, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Carl Michaels is a house and techno artist based in United States of America, tr
 
 kraftwitch, Dentana, Firestone
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlmichaels/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlmichaels/)*

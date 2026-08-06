@@ -1,6 +1,6 @@
 # Jerome
 
-Jerome is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
+Jerome is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
 
 Jerome is a hip-hop and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Lilly Palmer, A.D.H.S. and A.N.I.. Next up: Zinkbad Eventhalle, Zurich on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Jerome is a hip-hop and techno artist based in Germany, tracked on soundcheck, w
 
 Lilly Palmer, A.D.H.S., A.N.I.
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jerome/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jerome/)*

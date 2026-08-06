@@ -1,6 +1,6 @@
 # Matias Vila
 
-Matias Vila is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mute Malaga, Malaga on Fri, 7 Aug 2026.
+Matias Vila is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Mute Malaga, Malaga on Fri, 7 Aug 2026.
 
 Matias Vila is a progressive house artist based in Argentina, tracked on soundcheck, with 4 sets logged across Ibiza and Malaga. Often billed alongside Albano Bastonero, Mariano Mellino and Demattei. Next up: Mute Malaga, Malaga on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Matias Vila is a progressive house artist based in Argentina, tracked on soundch
 
 Albano Bastonero, Mariano Mellino, Demattei
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasvila/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasvila/)*

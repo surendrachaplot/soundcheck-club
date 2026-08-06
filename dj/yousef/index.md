@@ -1,6 +1,6 @@
 # Yousef
 
-Yousef is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Gloria's Liverpool, Liverpool on Sun, 30 Aug 2026.
+Yousef is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Gloria's Liverpool, Liverpool on Sun, 30 Aug 2026.
 
 Yousef is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Cardiff, Ibiza, Leeds and Liverpool and 7 more. Often billed alongside East End Dubs, Paige Tomlinson and Eats Everything. Next up: TBA - Gloria's Liverpool, Liverpool on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Yousef is a house and tech house artist based in United Kingdom, tracked on soun
 
 East End Dubs, Paige Tomlinson, Eats Everything
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yousef/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yousef/)*

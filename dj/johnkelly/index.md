@@ -1,6 +1,6 @@
 # John Kelly
 
-John Kelly is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at WaV, Liverpool on Sat, 26 Sept 2026.
+John Kelly is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at WaV, Liverpool on Sat, 26 Sept 2026.
 
 John Kelly is a house and trance artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Glasgow, Ibiza and Leeds and 2 more. Often billed alongside Jeremy Healy, Judge Jules and Ben Santiago. Next up: WaV, Liverpool on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ John Kelly is a house and trance artist based in United Kingdom, tracked on soun
 
 Jeremy Healy, Judge Jules, Ben Santiago
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkelly/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkelly/)*

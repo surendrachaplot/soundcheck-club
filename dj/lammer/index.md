@@ -1,6 +1,6 @@
 # LAMMER
 
-LAMMER is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
+LAMMER is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
 
 LAMMER is a techno and trance artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: Palmerstown House Estate, Dublin on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ LAMMER is a techno and trance artist tracked on soundcheck, with 111 sets logged
 
 Lisa Korver, Bella Claxton, Kyle Starkey
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*

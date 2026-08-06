@@ -1,6 +1,6 @@
 # Daniel Allen
 
-Daniel Allen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Neon Grotto, Austin on Thu, 13 Aug 2026.
+Daniel Allen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Neon Grotto, Austin on Thu, 13 Aug 2026.
 
 Daniel Allen is a house and deep house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Chicago, Denver and Detroit and 3 more. Often billed alongside Bonnie Stoneman, Marcus Lott and Phamstar. Next up: Neon Grotto, Austin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Daniel Allen is a house and deep house artist based in United States of America,
 
 Bonnie Stoneman, Marcus Lott, Phamstar
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*

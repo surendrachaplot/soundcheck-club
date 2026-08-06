@@ -1,6 +1,6 @@
 # marielou
 
-marielou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 6 Aug 2026.
+marielou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 6 Aug 2026.
 
 marielou is a techno and house artist tracked on soundcheck, with 38 sets logged across Dusseldorf, Malaga, Milan and Rome. Often billed alongside GNMR, Dove Quiete and Trancesetters of Westphalia. Next up: THE MAGICK BAR, Rome on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ marielou is a techno and house artist tracked on soundcheck, with 38 sets logged
 
 GNMR, Dove Quiete, Trancesetters of Westphalia
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*

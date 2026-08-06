@@ -1,6 +1,6 @@
 # Jewel Kid
 
-Jewel Kid is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Sun, 9 Aug 2026.
+Jewel Kid is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Jewel Kid is a tech house and house artist tracked on soundcheck, with 5 sets logged across Ibiza, London, Malta and Singapore and 1 more. Often billed alongside James Hurr, Sam Supplier and ACID HARRY. Next up: Tomorrowland Store Ibiza, Ibiza on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Jewel Kid is a tech house and house artist tracked on soundcheck, with 5 sets lo
 
 James Hurr, Sam Supplier, ACID HARRY
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelkid/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelkid/)*

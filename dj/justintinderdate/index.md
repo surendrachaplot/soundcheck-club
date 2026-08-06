@@ -1,6 +1,6 @@
 # Justin Tinderdate
 
-Justin Tinderdate is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Justin Tinderdate is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Justin Tinderdate is a techno and trance artist tracked on soundcheck, with 128 sets logged across Amsterdam, Basel, Berlin and Budapest and 18 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Justin Tinderdate is a techno and trance artist tracked on soundcheck, with 128 
 
 Elotrance, Cleopard2000, Trancemaster Krause
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justintinderdate/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justintinderdate/)*

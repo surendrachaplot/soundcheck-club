@@ -1,6 +1,6 @@
 # Makoto Sakamoto
 
-Makoto Sakamoto is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Theater im Delphi, Berlin on Sun, 9 Aug 2026.
+Makoto Sakamoto is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Theater im Delphi, Berlin on Sun, 9 Aug 2026.
 
 Makoto Sakamoto is an experimental and ambient artist based in Japan, tracked on soundcheck, with 8 sets logged across Berlin and Tokyo. Often billed alongside Avi Caspi, AVtØmaty and Emika Elena. Next up: Theater im Delphi, Berlin on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Makoto Sakamoto is an experimental and ambient artist based in Japan, tracked on
 
 Avi Caspi, AVtØmaty, Emika Elena
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makotosakamoto/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makotosakamoto/)*

@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Pablo Bozzi - Molyness" on Fri, 7 Aug 2026.
+StereoBar is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Pablo Bozzi - Molyness" on Fri, 7 Aug 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and CPR Annie and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -23,4 +23,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 12 upcoming nights,
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

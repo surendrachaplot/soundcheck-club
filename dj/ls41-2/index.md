@@ -1,6 +1,6 @@
 # LS41 (2)
 
-LS41 (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at H7 Warehouse, Amsterdam on Sun, 23 Aug 2026.
+LS41 (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at H7 Warehouse, Amsterdam on Sun, 23 Aug 2026.
 
 LS41 (2) is a techno and industrial artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Frankfurt, Paris and Stuttgart and 1 more. Often billed alongside ANN-LUX, Alex Farell and DeGuzman. Next up: H7 Warehouse, Amsterdam on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ LS41 (2) is a techno and industrial artist based in Germany, tracked on soundche
 
 ANN-LUX, Alex Farell, DeGuzman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ls41-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ls41-2/)*

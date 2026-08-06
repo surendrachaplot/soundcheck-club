@@ -1,6 +1,6 @@
 # Elisa Amaral
 
-Elisa Amaral is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 7 Aug 2026.
+Elisa Amaral is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 7 Aug 2026.
 
 Elisa Amaral is a house and minimal artist tracked on soundcheck, with 9 sets logged across Amsterdam, Dublin, Frankfurt and London and 1 more. Often billed alongside Andrale, Billa Bazz and Boris. Next up: D-EDGE, Saopaulo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Elisa Amaral is a house and minimal artist tracked on soundcheck, with 9 sets lo
 
 Andrale, Billa Bazz, Boris
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elisaamaral/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elisaamaral/)*

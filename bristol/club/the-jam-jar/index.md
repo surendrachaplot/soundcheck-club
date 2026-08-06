@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "JAMAICA 64: INDEPENDENCE BLUES PARTY" on Thu, 6 Aug 2026.
+The Jam Jar is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "JAMAICA 64: INDEPENDENCE BLUES PARTY" on Thu, 6 Aug 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Azumei, Fulu Mizik and Tully. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -16,4 +16,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming nights,
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

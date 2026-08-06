@@ -1,6 +1,6 @@
 # Peter Truverez
 
-Peter Truverez is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ground Control, Toronto on Fri, 14 Aug 2026.
+Peter Truverez is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ground Control, Toronto on Fri, 14 Aug 2026.
 
 Peter Truverez is a drum & bass and dubstep artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside FizzX, Matthew Charles and Pachelle. Next up: Ground Control, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Peter Truverez is a drum & bass and dubstep artist based in Canada, tracked on s
 
 FizzX, Matthew Charles, Pachelle
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petertruverez/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petertruverez/)*

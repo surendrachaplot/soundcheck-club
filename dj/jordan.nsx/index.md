@@ -1,6 +1,6 @@
 # Jordan.nsx
 
-Jordan.nsx is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+Jordan.nsx is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
 Jordan.nsx is a techno and industrial artist based in Germany, tracked on soundcheck, with 70 sets logged across Berlin. Often billed alongside DaSoMaZo, Kopflos and DJ BenGalo. Next up: OST, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jordan.nsx is a techno and industrial artist based in Germany, tracked on soundc
 
 DaSoMaZo, Kopflos, DJ BenGalo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan.nsx/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan.nsx/)*

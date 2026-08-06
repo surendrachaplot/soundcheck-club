@@ -1,6 +1,6 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 7 Aug 2026.
+Martin Ka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 7 Aug 2026.
 
 Martin Ka is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Jonny Knüppel, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Martin Ka is a techno and house artist tracked on soundcheck, with 60 sets logge
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

@@ -1,6 +1,6 @@
 # NAC Oliver
 
-NAC Oliver is a Afro House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Garage 442, Barcelona on Sat, 15 Aug 2026.
+NAC Oliver is a Afro House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Garage 442, Barcelona on Sat, 15 Aug 2026.
 
 NAC Oliver is an afro house and progressive house artist tracked on soundcheck, with 49 sets logged across Barcelona, Dublin and Lisbon. Often billed alongside Ezera, Althoff and ERRANT. Next up: Garage 442, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ NAC Oliver is an afro house and progressive house artist tracked on soundcheck, 
 
 Ezera, Althoff, ERRANT
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nacoliver/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nacoliver/)*

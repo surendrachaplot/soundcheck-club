@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 8 Aug 2026.
+Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 8 Aug 2026.
 
 Matthew Law is a house and club artist based in United States of America, tracked on soundcheck, with 55 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Khalil, DJ Dommis and Jabair. Next up: Margolis Music Lounge, Philadelphia on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Matthew Law is a house and club artist based in United States of America, tracke
 
 Khalil, DJ Dommis, Jabair
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

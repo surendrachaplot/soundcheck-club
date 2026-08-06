@@ -1,6 +1,6 @@
 # Cheyanne Hudson
 
-Cheyanne Hudson is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ijland, Amsterdam on Sat, 8 Aug 2026.
+Cheyanne Hudson is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ijland, Amsterdam on Sat, 8 Aug 2026.
 
 Cheyanne Hudson is a hip-hop and techno artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Bristol and Brussels and 2 more. Often billed alongside T.NO, Azu Tiwaline and Brodinski. Next up: Ijland, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cheyanne Hudson is a hip-hop and techno artist based in Netherlands, tracked on 
 
 T.NO, Azu Tiwaline, Brodinski
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyannehudson/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyannehudson/)*

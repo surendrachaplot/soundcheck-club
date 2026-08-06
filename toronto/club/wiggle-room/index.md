@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Healing House: Celebrating DJ DAN" on Sat, 8 Aug 2026.
+Wiggle Room is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Healing House: Celebrating DJ DAN" on Sat, 8 Aug 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including Addy, Carabetta, Farbsie Funk and Jason Hodges and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -20,4 +20,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 7 upcoming nights,
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

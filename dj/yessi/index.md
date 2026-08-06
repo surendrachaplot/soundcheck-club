@@ -1,6 +1,6 @@
 # Yessi
 
-Yessi is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
+Yessi is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
 
 Yessi is an experimental and hardcore artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Max Ellington, Tammy Lakkis and 1morning. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Yessi is an experimental and hardcore artist based in United States of America, 
 
 Max Ellington, Tammy Lakkis, 1morning
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*

@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "RAZZCLUBS: Ross From Friends + La Cangri: West Dubai + Suicide Club: EVE & more" on Fri, 7 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "RAZZCLUBS: Ross From Friends + La Cangri: West Dubai + Suicide Club: EVE & more" on Fri, 7 Aug 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including 8Kitoo, Alienata, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

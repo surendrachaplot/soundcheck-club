@@ -1,6 +1,6 @@
 # IMVIC
 
-IMVIC is a Rio Funk and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 6 Aug 2026.
+IMVIC is a Rio Funk and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 6 Aug 2026.
 
 IMVIC is a rio funk and hip-hop artist tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside Mohini Burgos, Never.Minus and Aka theo. Next up: Sunseabar Beach Club, Barcelona on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ IMVIC is a rio funk and hip-hop artist tracked on soundcheck, with 12 sets logge
 
 Mohini Burgos, Never.Minus, Aka theo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imvic/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imvic/)*

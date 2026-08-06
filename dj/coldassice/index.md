@@ -1,6 +1,6 @@
 # COLD ASS ICE
 
-COLD ASS ICE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
+COLD ASS ICE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
 
 COLD ASS ICE is a techno and trance artist tracked on soundcheck, with 13 sets logged across Amsterdam, Cologne, Hamburg and Munich and 2 more. Often billed alongside ASCHENBRENNER, Anna Ullrich and BabaBass3000. Next up: Roel Langerakpark, Rotterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ COLD ASS ICE is a techno and trance artist tracked on soundcheck, with 13 sets l
 
 ASCHENBRENNER, Anna Ullrich, BabaBass3000
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coldassice/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coldassice/)*

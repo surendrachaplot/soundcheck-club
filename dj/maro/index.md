@@ -1,6 +1,6 @@
 # maro
 
-maro is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
+maro is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
 
 maro is a techno and deep house artist based in Germany, tracked on soundcheck, with 33 sets logged across Melbourne, Seoul and Vienna. Often billed alongside Max Wagner, GOLDI (AT) and Kat Ze. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ maro is a techno and deep house artist based in Germany, tracked on soundcheck, 
 
 Max Wagner, GOLDI (AT), Kat Ze
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maro/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maro/)*

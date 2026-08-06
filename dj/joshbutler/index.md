@@ -1,6 +1,6 @@
 # Josh Butler
 
-Josh Butler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 13 Aug 2026.
+Josh Butler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Josh Butler is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Austin and Boston and 28 more. Often billed alongside Huxley, Alexis Raphael and Archie Hamilton. Next up: Chinois Ibiza, Ibiza on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Josh Butler is a house and tech house artist tracked on soundcheck, with 75 sets
 
 Huxley, Alexis Raphael, Archie Hamilton
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbutler/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbutler/)*

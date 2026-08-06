@@ -1,6 +1,6 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
+Babyccino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
 
 Babyccino is a house and techno artist tracked on soundcheck, with 55 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside McCart, Domenic Cappello and Han McGee. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Babyccino is a house and techno artist tracked on soundcheck, with 55 sets logge
 
 McCart, Domenic Cappello, Han McGee
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*

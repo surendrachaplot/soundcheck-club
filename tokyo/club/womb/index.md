@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 23 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "WTW -夏場所-" on Wed, 5 Aug 2026.
+WOMB is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "SEKA" on Thu, 6 Aug 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with line-ups including AHREUM, AKIRAM EN, ANDY DEDE and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with line-ups including AHREUM, AKIRAM EN, ANDY DEDE and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | WTW -夏場所- |  |
 | Thu, 6 Aug 2026 | SEKA | Leo Gabriel |
 | Fri, 7 Aug 2026 | WEAVES | AHREUM, Blackship, CLESENT, Drunken Kong, GOLDEN ROA, HIDEFUMI WATANABE, Kamekawa, Maya (Shonan Balearic), U:ICHI, monielu.h |
 | Sat, 8 Aug 2026 | NEURON | ANDY DEDE, EIGHT, HERO (JPN), HIZAT, IRODORI, Kandarta, LYOM, RYOHEI, na-na |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with li
 | Tue, 11 Aug 2026 | ASIA TECH |  |
 | Wed, 12 Aug 2026 | WTW (MUSIC: TECH HOUSE) | KATIMI AI, Ren Yokoi, TARO TOKO |
 | Fri, 14 Aug 2026 | DISCOVER. TOKYO |  |
+| Sat, 15 Aug 2026 | WOMB PRESENTS DJ MARIA. -ALL NIGHT LONG- | Bundo, DJ MARIA., K.E.G, LØST, Sakuma, Yo Nishijima, imus |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

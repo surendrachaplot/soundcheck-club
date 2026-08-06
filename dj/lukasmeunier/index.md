@@ -1,6 +1,6 @@
 # Lukas Meunier
 
-Lukas Meunier is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+Lukas Meunier is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 Lukas Meunier is a techno and industrial artist based in Germany, tracked on soundcheck, with 62 sets logged across Bangkok, Berlin, Bucharest and Cologne and 16 more. Often billed alongside CAIVA, Michael Klein and PETDuo. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Lukas Meunier is a techno and industrial artist based in Germany, tracked on sou
 
 CAIVA, Michael Klein, PETDuo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*

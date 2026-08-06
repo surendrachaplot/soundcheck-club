@@ -1,6 +1,6 @@
 # MF Ceól
 
-MF Ceól is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Greyhound, London on Thu, 6 Aug 2026.
+MF Ceól is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Greyhound, London on Thu, 6 Aug 2026.
 
 MF Ceól is a jungle and bass artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside vish, Make Money Mafia and the butcher bird. Next up: The Greyhound, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MF Ceól is a jungle and bass artist tracked on soundcheck, with 10 sets logged 
 
 vish, Make Money Mafia, the butcher bird
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfceol/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfceol/)*

@@ -1,6 +1,6 @@
 # Disk Cartel
 
-Disk Cartel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+Disk Cartel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
 Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside THC, S-candalo and DHC. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck
 
 THC, S-candalo, DHC
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*

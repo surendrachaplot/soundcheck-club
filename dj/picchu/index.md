@@ -1,6 +1,6 @@
 # picchu
 
-picchu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Zentralwäscherei, Zurich on Sat, 8 Aug 2026.
+picchu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Zentralwäscherei, Zurich on Sat, 8 Aug 2026.
 
 picchu is a techno and trance artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Geneva, Paris and Zurich. Often billed alongside Braises de Velours, Eva May and Gioski. Next up: Zentralwäscherei, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ picchu is a techno and trance artist based in Switzerland, tracked on soundcheck
 
 Braises de Velours, Eva May, Gioski
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picchu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picchu/)*

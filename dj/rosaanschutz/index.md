@@ -1,6 +1,6 @@
 # Rosa Anschütz
 
-Rosa Anschütz is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Rosa Anschütz is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Rosa Anschütz is a techno and italo disco artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside AGA2L, Dork and Ruenge. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Rosa Anschütz is a techno and italo disco artist based in Germany, tracked on s
 
 AGA2L, Dork, Ruenge
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaanschutz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaanschutz/)*

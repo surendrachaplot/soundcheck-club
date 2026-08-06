@@ -1,6 +1,6 @@
 # Natalia (2)
 
-Natalia (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
+Natalia (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at renae, Manchester on Sat, 29 Aug 2026.
 
 Natalia (2) is a techno and club artist tracked on soundcheck, with 3 sets logged across Manchester. Often billed alongside Abena, Atiké and Ayy Den. Next up: renae, Manchester on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Natalia (2) is a techno and club artist tracked on soundcheck, with 3 sets logge
 
 Abena, Atiké, Ayy Den
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia-2/)*

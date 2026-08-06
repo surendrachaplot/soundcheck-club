@@ -1,6 +1,6 @@
 # Ana Alves
 
-Ana Alves is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+Ana Alves is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
 Ana Alves is a techno and house artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Bucharest and Madrid. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ana Alves is a techno and house artist tracked on soundcheck, with 70 sets logge
 
 Hayden F, Lola Kay, MRIYA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*

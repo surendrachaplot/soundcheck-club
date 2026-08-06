@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "AFTER PARTY GIRL: Girls On Deck, MALICIEL & Andyland (OSL Afterparty)" on Fri, 7 Aug 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "AFTER PARTY GIRL: Girls On Deck, MALICIEL & Andyland (OSL Afterparty)" on Fri, 7 Aug 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including 1-800 GIRLS, ANDYLAND, Avalon Emerson and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -16,10 +16,10 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 9 upco
 | Sat, 22 Aug 2026 | Dancing Queen ABBA Glitter Disco |  |
 | Sat, 5 Sept 2026 | Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 & Friends | DJ M3, David Harness, Doc Martin, Miguel Migs |
 | Wed, 21 Oct 2026 | Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour |  |
-| Fri, 30 Oct 2026 | SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï | Avalon Emerson, BEYA, Sedef Adasï, likeholywine, nonsuit |
+| Fri, 30 Oct 2026 | SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï | Avalon Emerson, BEYA, Mez Monty, Sedef Adasï, likeholywine, nonsuit |
 
 ## Address
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

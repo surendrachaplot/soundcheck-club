@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "THE GENDER DEVIL | GENDER BLENDER 2 YEAR ANNIVERSARY" on Sat, 8 Aug 2026.
+Nether Club is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "THE GENDER DEVIL | GENDER BLENDER 2 YEAR ANNIVERSARY" on Sat, 8 Aug 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and DA NA and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -22,4 +22,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming night
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

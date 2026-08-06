@@ -1,6 +1,6 @@
 # Zaphy
 
-Zaphy is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at John Doe, Amsterdam on Sat, 8 Aug 2026.
+Zaphy is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at John Doe, Amsterdam on Sat, 8 Aug 2026.
 
 Zaphy is a techno and acid artist based in Chile, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Bucharest and London and 2 more. Often billed alongside Robin Hastings, Diana Loredana and Mira Sonnenberg. Next up: John Doe, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Zaphy is a techno and acid artist based in Chile, tracked on soundcheck, with 24
 
 Robin Hastings, Diana Loredana, Mira Sonnenberg
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*

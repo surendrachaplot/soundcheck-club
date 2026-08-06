@@ -1,6 +1,6 @@
 # Melchiorr
 
-Melchiorr is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+Melchiorr is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
 
 Melchiorr is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Belgrade, Berlin, Brussels and Cologne and 4 more. Often billed alongside Nepōmuk, IZZYA and GEISTFREI. Next up: Fuchs2, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Melchiorr is a techno and minimal techno artist based in Germany, tracked on sou
 
 Nepōmuk, IZZYA, GEISTFREI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*

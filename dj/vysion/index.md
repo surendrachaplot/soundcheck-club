@@ -1,6 +1,6 @@
 # Vysion
 
-Vysion is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
+Vysion is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
 
 Vysion is a techno and industrial artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Schicktanz, WLLKR and BENZA. Next up: KREUZWERK, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Vysion is a techno and industrial artist based in Germany, tracked on soundcheck
 
 Schicktanz, WLLKR, BENZA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vysion/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vysion/)*

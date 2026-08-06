@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "OMAD x RAP DEGGA presents: 808 GARDEN" on Fri, 7 Aug 2026.
+Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "OMAD x RAP DEGGA presents: 808 GARDEN" on Fri, 7 Aug 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including Alexia (2), ali e., audite and Bephål and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights,
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

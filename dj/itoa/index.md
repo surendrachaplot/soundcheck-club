@@ -1,6 +1,6 @@
 # Itoa
 
-Itoa is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cu, London on Sat, 12 Sept 2026.
+Itoa is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cu, London on Sat, 12 Sept 2026.
 
 Itoa is a footwork and bass artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, Bristol, Bucharest and Leeds and 6 more. Often billed alongside Fixate, dBridge and Medis. Next up: Cu, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Itoa is a footwork and bass artist based in United Kingdom, tracked on soundchec
 
 Fixate, dBridge, Medis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itoa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itoa/)*

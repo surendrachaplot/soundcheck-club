@@ -1,6 +1,6 @@
 # Bianka Banks
 
-Bianka Banks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Bianka Banks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Bianka Banks is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin, Frankfurt, Geneva and Hamburg and 6 more. Often billed alongside Leon Licht, Anahit Vardanyan and BOHO. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bianka Banks is a techno and house artist tracked on soundcheck, with 60 sets lo
 
 Leon Licht, Anahit Vardanyan, BOHO
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biankabanks/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biankabanks/)*

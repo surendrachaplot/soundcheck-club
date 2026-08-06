@@ -1,6 +1,6 @@
 # Catsinka
 
-Catsinka is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paname Sur Seine, Paris on Sun, 9 Aug 2026.
+Catsinka is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Paname Sur Seine, Paris on Sun, 9 Aug 2026.
 
 Catsinka is a tech house and minimal artist based in France, tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside ISAAC GUEYE, Isaac (ES) and Matteo (IT). Next up: Paname Sur Seine, Paris on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Catsinka is a tech house and minimal artist based in France, tracked on soundche
 
 ISAAC GUEYE, Isaac (ES), Matteo (IT)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catsinka/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catsinka/)*

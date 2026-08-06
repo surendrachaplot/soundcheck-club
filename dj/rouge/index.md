@@ -1,6 +1,6 @@
 # ROÜGE
 
-ROÜGE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zoo, Geneva on Fri, 28 Aug 2026.
+ROÜGE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Zoo, Geneva on Fri, 28 Aug 2026.
 
 ROÜGE is a techno and trance artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Bours?, EARGASM GOD and I Hate Models. Next up: Zoo, Geneva on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ ROÜGE is a techno and trance artist tracked on soundcheck, with 101 sets logged
 
 Bours?, EARGASM GOD, I Hate Models
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*

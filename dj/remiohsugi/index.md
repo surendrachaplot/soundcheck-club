@@ -1,6 +1,6 @@
 # Remi Ohsugi
 
-Remi Ohsugi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
+Remi Ohsugi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
 
 Remi Ohsugi is a techno and house artist based in Japan, tracked on soundcheck, with 71 sets logged across Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Hackmarkt and Da Yama. Next up: VENT, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Remi Ohsugi is a techno and house artist based in Japan, tracked on soundcheck, 
 
 AMG SAIMURA (TECHVANE), Hackmarkt, Da Yama
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remiohsugi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remiohsugi/)*

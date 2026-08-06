@@ -1,6 +1,6 @@
 # DJ Steuerhinterziehung
 
-DJ Steuerhinterziehung is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+DJ Steuerhinterziehung is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 DJ Steuerhinterziehung is a techno and gabber artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Nurnberg. Often billed alongside LØUS, Osiris (2) and FLUCC. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DJ Steuerhinterziehung is a techno and gabber artist based in Germany, tracked o
 
 LØUS, Osiris (2), FLUCC
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteuerhinterziehung/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteuerhinterziehung/)*

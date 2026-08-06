@@ -1,6 +1,6 @@
 # Rikken
 
-Rikken is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ritter Butzke, Berlin on Fri, 14 Aug 2026.
+Rikken is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ritter Butzke, Berlin on Fri, 14 Aug 2026.
 
 Rikken is a techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin and Zurich. Often billed alongside Hyunji-A, Max Hendricks and Tantum. Next up: Ritter Butzke, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Rikken is a techno artist based in Germany, tracked on soundcheck, with 5 sets l
 
 Hyunji-A, Max Hendricks, Tantum
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikken/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikken/)*

@@ -1,6 +1,6 @@
 # Echoland Presents: NewThousand - GO ALAN GO - REGOTHERESHEGO - NAZ - COVE at 314 Scholes
 
-Echoland Presents: NewThousand - GO ALAN GO - REGOTHERESHEGO - NAZ - COVE at 314 Scholes on Thu 6 Aug, Newyorkcity. 2 acts on the bill: COVE(US) and N/A(Z). House and Electronica. Preview the line-up and save it on soundcheck.
+Echoland Presents: NewThousand - GO ALAN GO - REGOTHERESHEGO - NAZ - COVE at 314 Scholes on Thu 6 Aug, Newyorkcity. 3 acts on the bill: COVE(US), N/A(Z) and PM. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Echoland Presents: NewThousand - GO ALAN GO - REGOTHERESHEGO - NAZ - COVE at 314
 
 - COVE(US)
 - N/A(Z)
+- PM
 
 *Source: [soundcheck](https://soundcheck.club/e/2484945-echoland-presents-newthousand-go-alan-go-regothereshego-naz/)*

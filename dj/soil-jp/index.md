@@ -1,6 +1,6 @@
 # SOIL
 
-SOIL is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Blvck Water, Osaka on Sat, 8 Aug 2026.
+SOIL is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blvck Water, Osaka on Sat, 8 Aug 2026.
 
 SOIL is a jazz and house artist tracked on soundcheck, with 33 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside WOLT, Leo Gabriel and Masaki Tamura. Next up: Blvck Water, Osaka on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SOIL is a jazz and house artist tracked on soundcheck, with 33 sets logged acros
 
 WOLT, Leo Gabriel, Masaki Tamura
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soil-jp/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soil-jp/)*

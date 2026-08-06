@@ -1,6 +1,6 @@
 # Zeyvers
 
-Zeyvers is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tigullio, Malta on Thu, 6 Aug 2026.
+Zeyvers is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tigullio, Malta on Thu, 6 Aug 2026.
 
 Zeyvers is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Amsterdam, Malta and Paris. Often billed alongside Kuzio, SUKA and Doram. Next up: Tigullio, Malta on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Zeyvers is a techno and industrial artist tracked on soundcheck, with 31 sets lo
 
 Kuzio, SUKA, Doram
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*

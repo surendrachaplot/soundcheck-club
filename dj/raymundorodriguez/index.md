@@ -1,6 +1,6 @@
 # Raymundo Rodriguez
 
-Raymundo Rodriguez is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at WaterBear Venue, Brighton on Sat, 29 Aug 2026.
+Raymundo Rodriguez is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at WaterBear Venue, Brighton on Sat, 29 Aug 2026.
 
 Raymundo Rodriguez is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Brighton and London. Often billed alongside Johnny Landers, Mutiny and Acid Steve. Next up: WaterBear Venue, Brighton on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Raymundo Rodriguez is a deep house and tech house artist based in United Kingdom
 
 Johnny Landers, Mutiny, Acid Steve
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raymundorodriguez/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raymundorodriguez/)*

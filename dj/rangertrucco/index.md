@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Radius, Chicago on Sat, 15 Aug 2026.
+Ranger Trucco is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Radius, Chicago on Sat, 15 Aug 2026.
 
 Ranger Trucco is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: Radius, Chicago on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 85 se
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

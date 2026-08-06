@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "between x KANTINE Suburbane Musikkultur" on Wed, 5 Aug 2026.
+elipamanoke is a music venue in Leipzig with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "✺ SOMMERFEST ✺ w/ Cyan85" on Sat, 8 Aug 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 7 upcoming nights, with line-ups including Aivee, Cyan85, Desperate House Guy and ELLI B and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, with line-ups including Aivee, Cyan85, Desperate House Guy and ELLI B and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | between x KANTINE Suburbane Musikkultur | Kalpea, OutWithJane, T.Schaui |
 | Sat, 8 Aug 2026 | ✺ SOMMERFEST ✺ w/ Cyan85 | Aivee, Cyan85, ELLI B, Fennek, MIDNXGHT, R-SOHR, SLANY, fatmuska |
 | Sun, 9 Aug 2026 | NACHLEGEN – with outdoor floor | Desperate House Guy, ESCALEA, s-ray |
 | Wed, 12 Aug 2026 | between x GB²R |  |
@@ -20,4 +19,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 7 upcoming nights,
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Ragana + Dis Fig" on Thu, 6 Aug 2026.
+Neue Zukunft is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Ragana + Dis Fig" on Thu, 6 Aug 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Bleach (2), Dis Fig, DJ Pendejo and Dornika and 1 more. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 11 upcoming nights
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

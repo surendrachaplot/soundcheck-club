@@ -1,6 +1,6 @@
 # SHEEN (2)
 
-SHEEN (2) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 30 Aug 2026.
+SHEEN (2) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
 SHEEN (2) is a deep house and house artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona and Edinburgh. Often billed alongside CHRIS RAZZ, D.T.H. and Jorge Guasch. Next up: Almar Beach Club, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ SHEEN (2) is a deep house and house artist based in Spain, tracked on soundcheck
 
 CHRIS RAZZ, D.T.H., Jorge Guasch
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheen-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheen-2/)*

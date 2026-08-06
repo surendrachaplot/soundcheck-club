@@ -1,13 +1,14 @@
 # Colored Craig
 
-Colored Craig is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Doka, Amsterdam on Sat, 5 Sept 2026.
+Colored Craig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
-Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Ashley Younniä and BAE BAE. Next up: Doka, Amsterdam on Sat 5 Sept.
+Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Ashley Younniä and BAE BAE. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TBA - Centre-sud | Montreal |
 | Sat, 5 Sept 2026 | Doka | Amsterdam |
 | Sat, 26 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |
 
@@ -26,4 +27,4 @@ Colored Craig is a house and techno artist based in United States of America, tr
 
 Kilopatrah Jones, Ashley Younniä, BAE BAE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*

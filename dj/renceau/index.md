@@ -1,6 +1,6 @@
 # Renceau
 
-Renceau is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Thuishaven, Amsterdam on Sun, 9 Aug 2026.
+Renceau is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Thuishaven, Amsterdam on Sun, 9 Aug 2026.
 
 Renceau is an electronic artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Rotterdam. Often billed alongside Milion, Bella Claxton and Ben Diggins. Next up: Thuishaven, Amsterdam on Sun 9 Aug.
 
@@ -19,4 +19,4 @@ Renceau is an electronic artist based in Netherlands, tracked on soundcheck, wit
 
 Milion, Bella Claxton, Ben Diggins
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*

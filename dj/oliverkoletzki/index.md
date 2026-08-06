@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
+Oliver Koletzki is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
 
 Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Cova Santa, Ibiza on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 set
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

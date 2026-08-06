@@ -1,6 +1,6 @@
 # Diechi
 
-Diechi is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+Diechi is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 Diechi is a bass and dubstep artist based in Japan, tracked on soundcheck, with 5 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside SAKO, Root and Watei. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Diechi is a bass and dubstep artist based in Japan, tracked on soundcheck, with 
 
 SAKO, Root, Watei
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diechi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diechi/)*

@@ -1,6 +1,6 @@
 # Josi Miller (2)
 
-Josi Miller (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+Josi Miller (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
 
 Josi Miller (2) is a house and club artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Leipzig and Zurich. Often billed alongside DJ Luiser, ALBA (3) and Anton Gerden. Next up: Renate, Berlin on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Josi Miller (2) is a house and club artist based in Germany, tracked on soundche
 
 DJ Luiser, ALBA (3), Anton Gerden
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*

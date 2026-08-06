@@ -1,14 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "【FIRSR POP Release party with K/A/T/O MASSACRE】" on Wed, 5 Aug 2026.
+Forestlimit is a music venue in Tokyo with 23 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "POPOLO" on Thu, 6 Aug 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Chad and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Chad and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | 【FIRSR POP Release party with K/A/T/O MASSACRE】 | Cwondo |
 | Thu, 6 Aug 2026 | POPOLO | Yasu (JP) |
 | Fri, 7 Aug 2026 | BC4L |  |
 | Sat, 8 Aug 2026 | RANDOM CODE | Can (8), Daichi Wago, Tetsuya Fukada, Ziziphus Jujuba |
@@ -18,9 +17,10 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, 
 | Thu, 13 Aug 2026 | CARESS WAKE | JACKSON kaki, meweta, yayoi (JP) |
 | Sun, 16 Aug 2026 | 愛楽 |  |
 | Thu, 20 Aug 2026 | 'DECODER 7' |  |
+| Fri, 21 Aug 2026 | 蘭華慈　-弌- | Chad, Compuma, IRON, Kyomi, TEI TEI |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

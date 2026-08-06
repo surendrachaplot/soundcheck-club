@@ -1,6 +1,6 @@
 # DJ Trompete
 
-DJ Trompete is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ZIRKA, Munich on Fri, 7 Aug 2026.
+DJ Trompete is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZIRKA, Munich on Fri, 7 Aug 2026.
 
 DJ Trompete is a house and balearic artist based in Germany, tracked on soundcheck, with 17 sets logged across Munich. Often billed alongside Rhode & Brown, sianza and Lara Fein. Next up: ZIRKA, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Trompete is a house and balearic artist based in Germany, tracked on soundche
 
 Rhode & Brown, sianza, Lara Fein
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrompete/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrompete/)*

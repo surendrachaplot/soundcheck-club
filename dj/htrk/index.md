@@ -1,6 +1,6 @@
 # HTRK
 
-HTRK is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Thu, 6 Aug 2026.
+HTRK is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Thu, 6 Aug 2026.
 
 HTRK is an experimental and downtempo artist based in Australia, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 6 more. Often billed alongside CS + Kreme, 600-cell and ABADIR. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ HTRK is an experimental and downtempo artist based in Australia, tracked on soun
 
 CS + Kreme, 600-cell, ABADIR
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*

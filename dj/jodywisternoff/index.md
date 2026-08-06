@@ -1,6 +1,6 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
+Jody Wisternoff is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
 
 Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 94 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Old Royal Naval College, London on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Jody Wisternoff is a progressive house and house artist tracked on soundcheck, w
 
 Marsh, Nicky Elisabeth, Dosem
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

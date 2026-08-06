@@ -1,6 +1,6 @@
 # JP Hernández
 
-JP Hernández is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Supperclub, Amsterdam on Thu, 6 Aug 2026.
+JP Hernández is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Supperclub, Amsterdam on Thu, 6 Aug 2026.
 
 JP Hernández is a house and minimal artist based in Chile, tracked on soundcheck, with 11 sets logged across Amsterdam and Barcelona. Often billed alongside Bianchetti, Massanet and Slick Steve. Next up: Supperclub, Amsterdam on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ JP Hernández is a house and minimal artist based in Chile, tracked on soundchec
 
 Bianchetti, Massanet, Slick Steve
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jphernandez/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jphernandez/)*

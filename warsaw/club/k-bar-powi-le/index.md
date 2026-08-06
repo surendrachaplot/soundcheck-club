@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "LEAGUE OF LEGENDS" on Fri, 7 Aug 2026.
+K-Bar Powiśle is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "LEAGUE OF LEGENDS" on Fri, 7 Aug 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including Adobo (PL), anymati, Buchan and Cosaco and 2 more. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -17,4 +17,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 4 upcoming night
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

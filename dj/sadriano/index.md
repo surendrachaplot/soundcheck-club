@@ -1,6 +1,6 @@
 # Sadriano
 
-Sadriano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Florida Beach, Istanbul on Sat, 8 Aug 2026.
+Sadriano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Florida Beach, Istanbul on Sat, 8 Aug 2026.
 
 Sadriano is a house and tech house artist tracked on soundcheck, with 64 sets logged across Istanbul. Often billed alongside MAH BOD, Alexandr Grecov and siohasht. Next up: Florida Beach, Istanbul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sadriano is a house and tech house artist tracked on soundcheck, with 64 sets lo
 
 MAH BOD, Alexandr Grecov, siohasht
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadriano/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadriano/)*

@@ -1,6 +1,6 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
 
 Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 233 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 46 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Ormside Projects, London on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 233 se
 
 Dwarde, Sully, Coco Bryce
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*

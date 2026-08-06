@@ -1,6 +1,6 @@
 # ryota dj
 
-ryota dj is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Night Tales, London on Thu, 6 Aug 2026.
+ryota dj is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Night Tales, London on Thu, 6 Aug 2026.
 
 ryota dj is a bass and house artist tracked on soundcheck, with 83 sets logged across Bali, Bangkok, Barcelona and Brighton and 15 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Night Tales, London on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ ryota dj is a bass and house artist tracked on soundcheck, with 83 sets logged a
 
 Ryota, SAMO (JP), kengotaki
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotadj/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotadj/)*

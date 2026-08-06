@@ -1,6 +1,6 @@
 # Los Thuthanaka
 
-Los Thuthanaka is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Elysium, Austin on Fri, 11 Sept 2026.
+Los Thuthanaka is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Elysium, Austin on Fri, 11 Sept 2026.
 
 Los Thuthanaka is an experimental and electronica artist tracked on soundcheck, with 4 sets logged across Austin, Oslo, Philadelphia and Vancouver. Often billed alongside 1morning, Alex Zhang Hungtai and Arthur (DE). Next up: Elysium, Austin on Fri 11 Sept.
 
@@ -17,4 +17,4 @@ Los Thuthanaka is an experimental and electronica artist tracked on soundcheck, 
 
 1morning, Alex Zhang Hungtai, Arthur (DE)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/losthuthanaka/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/losthuthanaka/)*

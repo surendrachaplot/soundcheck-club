@@ -1,6 +1,6 @@
 # Sahar Z
 
-Sahar Z is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 14 Aug 2026.
+Sahar Z is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 14 Aug 2026.
 
 Sahar Z is a progressive house and house artist based in Israel, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Buenosaires and Glasgow and 6 more. Often billed alongside Guy Mantzur, Guy J and Stefano Richetta. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Sahar Z is a progressive house and house artist based in Israel, tracked on soun
 
 Guy Mantzur, Guy J, Stefano Richetta
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saharz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saharz/)*

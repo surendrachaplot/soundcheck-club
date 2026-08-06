@@ -1,6 +1,6 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+NEGITIV is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
 NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Alex Farell, SANTØS and Onlynumbers. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged
 
 Alex Farell, SANTØS, Onlynumbers
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

@@ -1,6 +1,6 @@
 # entecaliente
 
-entecaliente is a Breakbeat and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Panke, Berlin on Sat, 22 Aug 2026.
+entecaliente is a Breakbeat and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Panke, Berlin on Sat, 22 Aug 2026.
 
 entecaliente is a breakbeat and reggaeton artist based in Ecuador, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside PAULAH, Paulawar and Amuleto Manuela. Next up: Panke, Berlin on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ entecaliente is a breakbeat and reggaeton artist based in Ecuador, tracked on so
 
 PAULAH, Paulawar, Amuleto Manuela
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entecaliente/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entecaliente/)*

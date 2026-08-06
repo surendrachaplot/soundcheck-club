@@ -1,6 +1,6 @@
 # Franczesko
 
-Franczesko is a Disco and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at B-SIDE, Warsaw on Fri, 7 Aug 2026.
+Franczesko is a Disco and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at B-SIDE, Warsaw on Fri, 7 Aug 2026.
 
 Franczesko is a disco and tech house artist tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Jellin and Krukman. Next up: B-SIDE, Warsaw on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Franczesko is a disco and tech house artist tracked on soundcheck, with 2 sets l
 
 Jellin, Krukman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*

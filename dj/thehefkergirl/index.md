@@ -1,6 +1,6 @@
 # The Hefker Girl
 
-The Hefker Girl is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Honey's, New York City on Thu, 13 Aug 2026.
+The Hefker Girl is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Honey's, New York City on Thu, 13 Aug 2026.
 
 The Hefker Girl is a house and dub techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Valentin Lamar, J. Mordechai and ALIKHAN. Next up: Honey's, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ The Hefker Girl is a house and dub techno artist based in United States of Ameri
 
 Valentin Lamar, J. Mordechai, ALIKHAN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*

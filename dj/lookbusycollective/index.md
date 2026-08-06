@@ -1,6 +1,6 @@
 # Look Busy Collective
 
-Look Busy Collective is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 7 Aug 2026.
+Look Busy Collective is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 7 Aug 2026.
 
 Look Busy Collective is a house and disco artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Aberdeen, Edinburgh and Manchester. Often billed alongside Mark Disc Break, James Greenwood and Jedda. Next up: Eastern Bloc Records, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Look Busy Collective is a house and disco artist based in United Kingdom, tracke
 
 Mark Disc Break, James Greenwood, Jedda
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lookbusycollective/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lookbusycollective/)*

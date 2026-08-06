@@ -1,6 +1,6 @@
 # Aundreja
 
-Aundreja is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
+Aundreja is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
 
 Aundreja is a techno and tech house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, London and Losangeles and 3 more. Often billed alongside Gerard Not Gerald, Frida Henson and Lavenge. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Aundreja is a techno and tech house artist based in United States of America, tr
 
 Gerard Not Gerald, Frida Henson, Lavenge
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aundreja/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aundreja/)*

@@ -1,6 +1,6 @@
 # Meca
 
-Meca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at D-EDGE, Sao Paulo on Thu, 6 Aug 2026.
+Meca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at D-EDGE, Sao Paulo on Thu, 6 Aug 2026.
 
 Meca is a house and tech house artist based in Brazil, tracked on soundcheck, with 12 sets logged across Dublin, Ibiza and Saopaulo. Often billed alongside Julio Torres, Antdot and FISHER. Next up: D-EDGE, Saopaulo on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Meca is a house and tech house artist based in Brazil, tracked on soundcheck, wi
 
 Julio Torres, Antdot, FISHER
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meca/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meca/)*

@@ -1,14 +1,13 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 5 Aug 2026.
+Maceo Plex is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
-Maceo Plex is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Amnesia Ibiza, Ibiza on Wed 5 Aug.
+Maceo Plex is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
@@ -21,6 +20,7 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 180 sets log
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Wed, 5 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Thu, 30 Jul 2026
 - [UNVRS], Ibiza — Sun, 19 Jul 2026
@@ -28,10 +28,9 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 180 sets log
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 11 Jul 2026
 - Q35 WAREHOUSE, Turin — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Studio Club Malaga, Malaga — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

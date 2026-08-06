@@ -1,6 +1,6 @@
 # MAHAR
 
-MAHAR is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cu, London on Sat, 22 Aug 2026.
+MAHAR is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cu, London on Sat, 22 Aug 2026.
 
 MAHAR is a house and minimal artist based in Canada, tracked on soundcheck, with 15 sets logged across Brussels, London and Montreal. Often billed alongside Paolo Rocco, Brawther and Frederik Anthony. Next up: Cu, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ MAHAR is a house and minimal artist based in Canada, tracked on soundcheck, with
 
 Paolo Rocco, Brawther, Frederik Anthony
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahar/)*

@@ -1,6 +1,6 @@
 # ÆNN
 
-ÆNN is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 8 Aug 2026.
+ÆNN is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 8 Aug 2026.
 
 ÆNN is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside ANASTASÍA, NAGINI and antyo. Next up: Bahnwärter Thiel, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@
 
 ANASTASÍA, NAGINI, antyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aenn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aenn/)*

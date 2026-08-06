@@ -1,14 +1,14 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - East Williamsburg, New York City on Fri, 21 Aug 2026.
+Adi (CO) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Fri, 21 Aug 2026.
 
-Adi (CO) is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: TBA - East Williamsburg, Newyorkcity on Fri 21 Aug.
+Adi (CO) is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: Green Room NYC, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA - East Williamsburg | New York City |
+| Fri, 21 Aug 2026 | Green Room NYC | New York City |
 | Sat, 22 Aug 2026 | Flash | Washington DC |
 | Fri, 4 Sept 2026 | TBA | Sheffield |
 
@@ -27,4 +27,4 @@ Adi (CO) is a techno and house artist tracked on soundcheck, with 103 sets logge
 
 Unai Trotti, Jane Fitz, Walrus
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*

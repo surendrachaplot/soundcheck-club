@@ -1,6 +1,6 @@
 # Mads Diamond
 
-Mads Diamond is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at XOYO, London on Wed, 19 Aug 2026.
+Mads Diamond is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at XOYO, London on Wed, 19 Aug 2026.
 
 Mads Diamond is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside AUDIO DUNE, Amber Rose and Billa Bazz. Next up: XOYO, London on Wed 19 Aug.
 
@@ -23,4 +23,4 @@ Mads Diamond is a deep house and tech house artist based in United Kingdom, trac
 
 AUDIO DUNE, Amber Rose, Billa Bazz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madsdiamond/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madsdiamond/)*

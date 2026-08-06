@@ -1,6 +1,6 @@
 # Marina Botafoch
 
-Marina Botafoch is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "UMAMI Ibiza - Boat Party - Surrender Discipline - EUGEN1O - Knario" on Sun, 9 Aug 2026.
+Marina Botafoch is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "UMAMI Ibiza - Boat Party - Surrender Discipline - EUGEN1O - Knario" on Sun, 9 Aug 2026.
 
 Marina Botafoch is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including EUGEN1O and Surrender Discipline. Browse upcoming dates, start times and who's playing. Paseo Marítimo s/n 7800 Ibiza -Baleares.
 
@@ -14,4 +14,4 @@ Marina Botafoch is a music venue in Ibiza listed on soundcheck. 1 upcoming night
 
 Paseo Marítimo s/n 7800 Ibiza -Baleares, Ibiza
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/marina-botafoch/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/marina-botafoch/)*

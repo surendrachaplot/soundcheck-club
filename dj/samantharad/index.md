@@ -1,6 +1,6 @@
 # samantha rad
 
-samantha rad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Subterrannean, Chicago on Thu, 6 Aug 2026.
+samantha rad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Subterrannean, Chicago on Thu, 6 Aug 2026.
 
 samantha rad is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago. Often billed alongside Pat Fee, Amy Unland and Pete Phunk. Next up: Subterrannean, Chicago on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ samantha rad is a house and techno artist based in United States of America, tra
 
 Pat Fee, Amy Unland, Pete Phunk
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samantharad/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samantharad/)*

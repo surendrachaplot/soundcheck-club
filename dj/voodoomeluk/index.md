@@ -1,6 +1,6 @@
 # Voodoo Meluk
 
-Voodoo Meluk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Oriente, Mexico City on Sat, 8 Aug 2026.
+Voodoo Meluk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Oriente, Mexico City on Sat, 8 Aug 2026.
 
 Voodoo Meluk is a house and techno artist tracked on soundcheck, with 28 sets logged across Mexicocity. Often billed alongside Enya Botello, Deejay Fuego and Phanta. Next up: Bar Oriente, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Voodoo Meluk is a house and techno artist tracked on soundcheck, with 28 sets lo
 
 Enya Botello, Deejay Fuego, Phanta
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoomeluk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoomeluk/)*

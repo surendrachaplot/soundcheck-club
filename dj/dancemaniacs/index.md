@@ -1,6 +1,6 @@
 # Dance Maniacs
 
-Dance Maniacs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Dance Maniacs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Dance Maniacs is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Avi Loud, Liano and Oak City Slums. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dance Maniacs is a techno and house artist based in United States of America, tr
 
 Avi Loud, Liano, Oak City Slums
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancemaniacs/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancemaniacs/)*

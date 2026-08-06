@@ -1,6 +1,6 @@
 # ädene
 
-ädene is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Kassa Boat, Budapest on Fri, 7 Aug 2026.
+ädene is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kassa Boat, Budapest on Fri, 7 Aug 2026.
 
 ädene is a techno and industrial artist based in Hungary, tracked on soundcheck, with 49 sets logged across Budapest. Often billed alongside Johanna Bozai, rav:n and Ben Dover. Next up: Kassa Boat, Budapest on Fri 7 Aug.
 
@@ -27,4 +27,4 @@
 
 Johanna Bozai, rav:n, Ben Dover
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*

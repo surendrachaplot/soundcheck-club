@@ -1,6 +1,6 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Sziget Events Hall, Budapest on Thu, 13 Aug 2026.
+Natascha Polké is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sziget Events Hall, Budapest on Thu, 13 Aug 2026.
 
 Natascha Polké is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: Sziget Events Hall, Budapest on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 
 Parra for Cuva, NTO, Nora En Pure
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*

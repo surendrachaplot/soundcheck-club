@@ -1,6 +1,6 @@
 # SaoTeknik
 
-SaoTeknik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Elsewhere, Bangkok on Fri, 7 Aug 2026.
+SaoTeknik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Elsewhere, Bangkok on Fri, 7 Aug 2026.
 
 SaoTeknik is a house and techno artist based in Thailand, tracked on soundcheck, with 43 sets logged across Bangkok and Osaka. Often billed alongside Elaheh, Gishiyama and JAKRIN. Next up: Elsewhere, Bangkok on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SaoTeknik is a house and techno artist based in Thailand, tracked on soundcheck,
 
 Elaheh, Gishiyama, JAKRIN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*

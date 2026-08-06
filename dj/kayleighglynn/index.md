@@ -1,6 +1,6 @@
 # Kayleigh Glynn
 
-Kayleigh Glynn is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
+Kayleigh Glynn is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
 
 Kayleigh Glynn is an electronica and techno artist based in Ireland, tracked on soundcheck, with 20 sets logged across Belfast, Dublin and Ibiza. Often billed alongside Kaycee, LAMMER and A K. Next up: Palmerstown House Estate, Dublin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Kayleigh Glynn is an electronica and techno artist based in Ireland, tracked on 
 
 Kaycee, LAMMER, A K
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleighglynn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleighglynn/)*

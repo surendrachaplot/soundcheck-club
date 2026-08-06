@@ -1,6 +1,6 @@
 # Dorchester Brewing Company
 
-Dorchester Brewing Company is a music venue in Boston with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "MIDNIGHT SUN \\ ENDLESS SUMMER - A y2k Hard Dance Fantasy (21+)" on Sat, 15 Aug 2026.
+Dorchester Brewing Company is a music venue in Boston with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "MIDNIGHT SUN \\ ENDLESS SUMMER - A y2k Hard Dance Fantasy (21+)" on Sat, 15 Aug 2026.
 
 Dorchester Brewing Company is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1250 Massachusetts Ave, Boston, MA 02125.
 
@@ -14,4 +14,4 @@ Dorchester Brewing Company is a music venue in Boston listed on soundcheck. 1 up
 
 1250 Massachusetts Ave, Boston, MA 02125, Boston
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dorchester-brewing-company/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dorchester-brewing-company/)*

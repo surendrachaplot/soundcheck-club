@@ -1,6 +1,6 @@
 # Willo
 
-Willo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Chinese Laundry, Sydney on Sat, 15 Aug 2026.
+Willo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Chinese Laundry, Sydney on Sat, 15 Aug 2026.
 
 Willo is a house and techno artist tracked on soundcheck, with 27 sets logged across Brisbane, Dublin, Liverpool and London and 3 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Chinese Laundry, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Willo is a house and techno artist tracked on soundcheck, with 27 sets logged ac
 
 1tbsp, Ayebatonye, Duskus
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*

@@ -1,6 +1,6 @@
 # Prins Thomas
 
-Prins Thomas is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
+Prins Thomas is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
 
 Prins Thomas is a house and disco artist based in Norway, tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside G-HA, Olanskii and Skatebård. Next up: Het Dorp, Amsterdam on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Prins Thomas is a house and disco artist based in Norway, tracked on soundcheck,
 
 G-HA, Olanskii, Skatebård
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsthomas/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsthomas/)*

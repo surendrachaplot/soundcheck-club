@@ -1,8 +1,8 @@
 # Carl Luis
 
-Carl Luis is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at THF Tower, Berlin on Sat, 8 Aug 2026.
+Carl Luis is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at THF Tower, Berlin on Sat, 8 Aug 2026.
 
-Carl Luis is a dub and dancehall artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Milan. Often billed alongside Giouann, Arthur (DE) and Gavsborg. Next up: THF Tower, Berlin on Sat 8 Aug.
+Carl Luis is a dub and dancehall artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Milan and Newyorkcity. Often billed alongside Giouann, Arthur (DE) and Gavsborg. Next up: THF Tower, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carl Luis is a dub and dancehall artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | THF Tower | Berlin |
 | Sun, 16 Aug 2026 | Plattenvereinigung | Berlin |
+| Fri, 25 Sept 2026 | public records | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Carl Luis is a dub and dancehall artist based in Germany, tracked on soundcheck,
 
 Giouann, Arthur (DE), Gavsborg
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*

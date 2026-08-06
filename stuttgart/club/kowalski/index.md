@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "07ELEVEN X Kowalski" on Fri, 7 Aug 2026.
+Kowalski is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "07ELEVEN X Kowalski" on Fri, 7 Aug 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including DJ Unholy, Fabian Kaa, FANXI B and GIORG and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights,
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

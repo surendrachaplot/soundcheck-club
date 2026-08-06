@@ -1,6 +1,6 @@
 # kasetakumi (2)
 
-kasetakumi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bonobo, Tokyo on Fri, 14 Aug 2026.
+kasetakumi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bonobo, Tokyo on Fri, 14 Aug 2026.
 
 kasetakumi (2) is a house and techno artist based in Japan, tracked on soundcheck, with 24 sets logged across Kyoto and Tokyo. Often billed alongside DJ melody, YELLOWUHURU and arow. Next up: Bonobo, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ kasetakumi (2) is a house and techno artist based in Japan, tracked on soundchec
 
 DJ melody, YELLOWUHURU, arow
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*

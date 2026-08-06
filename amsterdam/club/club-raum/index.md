@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "BASHKKA present INVIGORATE A.M" on Fri, 7 Aug 2026.
+CLUB RAUM is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "BASHKKA present INVIGORATE A.M" on Fri, 7 Aug 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including 36framez, Aldonna, Alienata and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

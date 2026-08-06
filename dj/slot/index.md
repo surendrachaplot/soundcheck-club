@@ -1,6 +1,6 @@
 # Slot
 
-Slot is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Terminal Zero, Barcelona on Sat, 15 Aug 2026.
+Slot is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Terminal Zero, Barcelona on Sat, 15 Aug 2026.
 
 Slot is a house and electro artist based in Italy, tracked on soundcheck, with 5 sets logged across Barcelona, Berlin, Buenosaires and Milan. Often billed alongside ABYSS 369, Akaj and Alex Dima. Next up: Terminal Zero, Barcelona on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Slot is a house and electro artist based in Italy, tracked on soundcheck, with 5
 
 ABYSS 369, Akaj, Alex Dima
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slot/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slot/)*

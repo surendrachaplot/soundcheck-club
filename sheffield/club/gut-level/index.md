@@ -1,8 +1,8 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "FETISCH" on Sat, 22 Aug 2026.
+Gut Level is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "FETISCH" on Sat, 22 Aug 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 6 upcoming nights, with line-ups including Byron Yeates, Chris Jackson, FM Arlo and HausKlown and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Byron Yeates, Chris Jackson, Danielle and FM Arlo and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 6 upcoming nights,
 | Fri, 28 Aug 2026 | Dirty Funking Queers | HausKlown, Paniolo, Sportsdyke |
 | Sat, 29 Aug 2026 | Gut Level presents: Byron Yeates (Adonis / Radiant Records) & Malus | Byron Yeates |
 | Fri, 11 Sept 2026 | TAKIN'LIBERTIES TL0015 with HVL | Chris Jackson, FM Arlo, HVL, Jacksa, sleepsang |
+| Fri, 16 Oct 2026 | Hard Ballet with Danielle | Danielle, FM Arlo, Jacksa |
 
 ## Address
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

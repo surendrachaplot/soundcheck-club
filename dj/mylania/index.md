@@ -1,6 +1,6 @@
 # Mylania
 
-Mylania is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Starlane Pizza Bar, London on Sun, 9 Aug 2026.
+Mylania is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Starlane Pizza Bar, London on Sun, 9 Aug 2026.
 
 Mylania is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds and London. Often billed alongside CHY (1), Petz and ad*n. Next up: Starlane Pizza Bar, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mylania is a jungle and drum & bass artist based in United Kingdom, tracked on s
 
 CHY (1), Petz, ad*n
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylania/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylania/)*

@@ -1,14 +1,13 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "NØCLR presents -CONNECT VOL.1-" on Wed, 5 Aug 2026.
+Saloon is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "For the homies" on Mon, 10 Aug 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 35DH-1, BASiRiNO, Do Shock Booze and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 35DH-1, BASiRiNO, Do Shock Booze and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | NØCLR presents -CONNECT VOL.1- |  |
 | Mon, 10 Aug 2026 | For the homies |  |
 | Wed, 12 Aug 2026 | Roll |  |
 | Fri, 14 Aug 2026 | Shibuya Meltdown | Number Collector |
@@ -23,4 +22,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with 
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

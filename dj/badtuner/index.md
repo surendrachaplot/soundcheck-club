@@ -1,6 +1,6 @@
 # Bad Tuner
 
-Bad Tuner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ZeyZey, Miami on Fri, 7 Aug 2026.
+Bad Tuner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZeyZey, Miami on Fri, 7 Aug 2026.
 
 Bad Tuner is a house and techno artist tracked on soundcheck, with 21 sets logged across Austin, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Gilligan Moss, James Juke and Swoosh (2). Next up: ZeyZey, Miami on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Bad Tuner is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 Gilligan Moss, James Juke, Swoosh (2)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badtuner/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badtuner/)*

@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Oriana (Solitary Listener)" on Fri, 7 Aug 2026.
+Modeci is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Oriana (Solitary Listener)" on Fri, 7 Aug 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including .2ndfloor, Acidwork, Boyoon and Chae and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -16,4 +16,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with l
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

@@ -1,6 +1,6 @@
 # Anthracene
 
-Anthracene is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bar131, Berlin on Thu, 6 Aug 2026.
+Anthracene is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bar131, Berlin on Thu, 6 Aug 2026.
 
 Anthracene is a club and experimental artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Warlord®, Nyennea and SILVASURFER. Next up: Bar131, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Anthracene is a club and experimental artist tracked on soundcheck, with 14 sets
 
 Warlord®, Nyennea, SILVASURFER
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*

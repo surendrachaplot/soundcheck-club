@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Prozak B2B Oldboy + Veritas " on Fri, 7 Aug 2026.
+Ouseburn Garden is a music venue in Newcastle with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Prozak B2B Oldboy + Veritas " on Fri, 7 Aug 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 9 upcoming nights, with line-ups including Adam Lance, Alec Falconer, Bobby O'Donnell and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -22,4 +22,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 9 upcoming n
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

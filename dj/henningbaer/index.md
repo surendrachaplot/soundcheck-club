@@ -1,6 +1,6 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 8 Aug 2026.
+Henning Baer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 8 Aug 2026.
 
 Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: Pisco Bar, Kualalumpur on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Henning Baer is a techno and house artist based in Germany, tracked on soundchec
 
 P.E.A.R.L., JKS, Laure Croft
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*

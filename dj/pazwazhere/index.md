@@ -1,6 +1,6 @@
 # PAZ WAZ HERE
 
-PAZ WAZ HERE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Switch Bar, Barcelona on Fri, 7 Aug 2026.
+PAZ WAZ HERE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Switch Bar, Barcelona on Fri, 7 Aug 2026.
 
 PAZ WAZ HERE is a house and techno artist based in Portugal, tracked on soundcheck, with 58 sets logged across Barcelona and Lisbon. Often billed alongside Rele, Alexxx and XipNoize. Next up: Switch Bar, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ PAZ WAZ HERE is a house and techno artist based in Portugal, tracked on soundche
 
 Rele, Alexxx, XipNoize
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*

@@ -1,13 +1,14 @@
 # August V. M.
 
-August V. M. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
+August V. M. is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Massive, Seattle on Thu, 20 Aug 2026.
 
-August V. M. is a techno and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity, Portland and Seattle. Often billed alongside Carly Barton, DJ Eft and Gardenparty. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 27 Aug.
+August V. M. is a techno and experimental artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity, Portland and Seattle. Often billed alongside Carly Barton, DJ Eft and Gardenparty. Next up: Massive, Seattle on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | Massive | Seattle |
 | Thu, 27 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ August V. M. is a techno and experimental artist based in United States of Ameri
 
 Carly Barton, DJ Eft, Gardenparty
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/augustv.m./)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/augustv.m./)*

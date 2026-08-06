@@ -1,6 +1,6 @@
 # Cami Jones
 
-Cami Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Monkey Loft, Seattle on Thu, 20 Aug 2026.
+Cami Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Monkey Loft, Seattle on Thu, 20 Aug 2026.
 
 Cami Jones is a house and tech house artist based in Australia, tracked on soundcheck, with 14 sets logged across Ibiza, London, Newyorkcity and Seattle. Often billed alongside Ryan O Gorman, Camilo Miranda and Nuzzo. Next up: The Monkey Loft, Seattle on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Cami Jones is a house and tech house artist based in Australia, tracked on sound
 
 Ryan O Gorman, Camilo Miranda, Nuzzo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camijones/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camijones/)*

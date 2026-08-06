@@ -1,6 +1,6 @@
 # E.M.R miranda
 
-E.M.R miranda is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at FLUCC, Vienna on Fri, 7 Aug 2026.
+E.M.R miranda is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at FLUCC, Vienna on Fri, 7 Aug 2026.
 
 E.M.R miranda is an electro and techno artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside DjBadshape, LDY OSC and Welia. Next up: FLUCC, Vienna on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ E.M.R miranda is an electro and techno artist tracked on soundcheck, with 4 sets
 
 DjBadshape, LDY OSC, Welia
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.m.rmiranda/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.m.rmiranda/)*

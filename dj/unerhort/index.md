@@ -1,6 +1,6 @@
 # Unerhört
 
-Unerhört is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at KitKatClub, Berlin on Wed, 12 Aug 2026.
+Unerhört is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KitKatClub, Berlin on Wed, 12 Aug 2026.
 
 Unerhört is a techno and acid artist tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside DJ Jordan, Chaos Techno.Berlin and Ida Scheppert. Next up: KitKatClub, Berlin on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Unerhört is a techno and acid artist tracked on soundcheck, with 31 sets logged
 
 DJ Jordan, Chaos Techno.Berlin, Ida Scheppert
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unerhort/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unerhort/)*

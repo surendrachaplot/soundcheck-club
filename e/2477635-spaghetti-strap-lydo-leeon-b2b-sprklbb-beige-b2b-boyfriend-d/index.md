@@ -1,6 +1,6 @@
-# Spaghetti Strap: LYDO, Leeon b2b SPRKLBB, BEIGE b2b Boyfriend Dick, SWIMMIE at Signal
+# Spaghetti Strap: LYDO, Leeon b2b SPRKLBB, BEIGE b2b Boyfriend Dick, Swimmie at Signal
 
-Spaghetti Strap: LYDO, Leeon b2b SPRKLBB, BEIGE b2b Boyfriend Dick, SWIMMIE at Signal on Sun 9 Aug, Newyorkcity. 6 acts on the bill: BEIGE, Boyfriend Dick, Leeon and LYDO and 2 more. Preview the line-up and save it on soundcheck.
+Spaghetti Strap: LYDO, Leeon b2b SPRKLBB, BEIGE b2b Boyfriend Dick, Swimmie at Signal on Sun 9 Aug, Newyorkcity. 6 acts on the bill: BEIGE, Boyfriend Dick, Leeon and LYDO and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

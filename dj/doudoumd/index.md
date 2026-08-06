@@ -1,6 +1,6 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Doudou MD is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Doudou MD is a house and techno artist tracked on soundcheck, with 213 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -33,4 +33,4 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 213 sets logg
 
 Samuel Deep, DJ Senc, Cap
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

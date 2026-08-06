@@ -1,6 +1,6 @@
 # John Heaven
 
-John Heaven is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Razzmatazz, Barcelona on Fri, 7 Aug 2026.
+John Heaven is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Razzmatazz, Barcelona on Fri, 7 Aug 2026.
 
 John Heaven is an electronica and house artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Nile Fee, Daniel 2000 and Marcelo Pantani. Next up: Razzmatazz, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ John Heaven is an electronica and house artist tracked on soundcheck, with 49 se
 
 Nile Fee, Daniel 2000, Marcelo Pantani
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnheaven/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnheaven/)*

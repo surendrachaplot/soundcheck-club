@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY" on Wed, 5 Aug 2026.
+Jupiter Disco is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Beneath x Electrosol present: Garden State of Mind feat. SOICY, Mike Foch, TOR$O, Matt Pace" on Thu, 6 Aug 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including CMD+JAZMINE, Cosmo, Cosmo (NY) and C Powers and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including Cosmo, Cosmo (NY), C Powers and cry$cross and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Baddie2Baddie: Petal, CMD+JAZMINE, Xana 101, Soo Intoit, MANGUMAMI, XOY | CMD+JAZMINE, MANGUMAMI, Petal, Soo Intoit, XOY, Xana 101 |
 | Thu, 6 Aug 2026 | Beneath x Electrosol present: Garden State of Mind feat. SOICY, Mike Foch, TOR$O, Matt Pace | Matt Pace, Mike Foch, SOICY, TOR$O |
 | Fri, 7 Aug 2026 | Top Secret Grand Prix Record Release Party: Spiñorita, DJ Shannon, Cosmo | Cosmo, Cosmo (NY), DJ Shannon, Spiñorita |
 | Sat, 8 Aug 2026 | HEADCRACK: C Powers, Fugitive Artifact | C Powers, Fugitive Artifact |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 20 upcoming 
 | Fri, 14 Aug 2026 | cry$cross, Kfeelz, DJ Raqx | Kat Offline, Kfeelz, RAQX, cry$cross |
 | Sat, 15 Aug 2026 | Tromac, Intimacy Simulator, MUSE(O)FIRE | Intimacy Simulator, MUSE(O)FIRE, Tromac |
 | Sun, 16 Aug 2026 | Pink Rambo, Hard Boiled Babe, Scott McPhie, DJ VEEPS, Nas Leber | Hard Boiled Babe, Nas Leber, Veeps |
+| Wed, 19 Aug 2026 | A Midsummers Night Dream: Peter Storm, JØ and DJ Meech |  |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

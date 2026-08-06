@@ -1,6 +1,6 @@
 # Porschelane
 
-Porschelane is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
+Porschelane is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
 Porschelane is a club and r&b artist based in Greece, tracked on soundcheck, with 16 sets logged across Athens and Berlin. Often billed alongside Nyennea, BABYNYMPH777 and Joseph Mouzakitis. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Porschelane is a club and r&b artist based in Greece, tracked on soundcheck, wit
 
 Nyennea, BABYNYMPH777, Joseph Mouzakitis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porschelane/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porschelane/)*

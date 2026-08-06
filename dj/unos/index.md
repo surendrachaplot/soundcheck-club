@@ -1,6 +1,6 @@
 # UNOS
 
-UNOS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Trix, Antwerp on Mon, 10 Aug 2026.
+UNOS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Trix, Antwerp on Mon, 10 Aug 2026.
 
 UNOS is a house and disco artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside Fais Le Beau, Zouzibabe and Azo. Next up: Trix, Antwerp on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ UNOS is a house and disco artist tracked on soundcheck, with 58 sets logged acro
 
 Fais Le Beau, Zouzibabe, Azo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*

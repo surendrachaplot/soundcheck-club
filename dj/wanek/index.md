@@ -1,6 +1,6 @@
 # wanek
 
-wanek is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Porto Pollo, Vienna on Thu, 6 Aug 2026.
+wanek is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Porto Pollo, Vienna on Thu, 6 Aug 2026.
 
 wanek is a house and minimal artist tracked on soundcheck, with 15 sets logged across Vienna. Often billed alongside Välth, Gustuff and Veronika Amie. Next up: Porto Pollo, Vienna on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ wanek is a house and minimal artist tracked on soundcheck, with 15 sets logged a
 
 Välth, Gustuff, Veronika Amie
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wanek/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wanek/)*

@@ -1,6 +1,6 @@
 # Roaming Data
 
-Roaming Data is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 14 Aug 2026.
+Roaming Data is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 14 Aug 2026.
 
 Roaming Data is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Barcelona, Brighton, Bristol and Brussels and 2 more. Often billed alongside K A I, Miss Mash and Civic Grief. Next up: Village Underground Barcelona, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Roaming Data is a garage and bass artist based in United Kingdom, tracked on sou
 
 K A I, Miss Mash, Civic Grief
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roamingdata/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roamingdata/)*

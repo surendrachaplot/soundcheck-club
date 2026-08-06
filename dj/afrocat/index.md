@@ -1,6 +1,6 @@
 # Afrocat
 
-Afrocat is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Helen of Troy, London on Thu, 6 Aug 2026.
+Afrocat is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Helen of Troy, London on Thu, 6 Aug 2026.
 
 Afrocat is a funk / soul and afrobeat artist tracked on soundcheck, with 8 sets logged across Brighton and London. Often billed alongside Jack Tyson Charles, Architect and Jamz Supernova. Next up: Helen of Troy, London on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ Afrocat is a funk / soul and afrobeat artist tracked on soundcheck, with 8 sets 
 
 Jack Tyson Charles, Architect, Jamz Supernova
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrocat/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrocat/)*

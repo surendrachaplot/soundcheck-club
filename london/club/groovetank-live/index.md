@@ -1,6 +1,6 @@
 # Groovetank Live
 
-Groovetank Live is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Js:on & Friends - Starchaser Release Party" on Sat, 8 Aug 2026.
+Groovetank Live is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Js:on & Friends - Starchaser Release Party" on Sat, 8 Aug 2026.
 
 Groovetank Live is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including ChrisCarter, Js:on, Mista Glitch and Nettle Dj and 2 more. Browse upcoming dates, start times and who's playing. Unit 67, CONTAINERVILLE STUDIOS, 40 The Oval, London E2 9DT.
 
@@ -15,4 +15,4 @@ Groovetank Live is a music venue in London listed on soundcheck. 2 upcoming nigh
 
 Unit 67, CONTAINERVILLE STUDIOS, 40 The Oval, London E2 9DT, London
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/groovetank-live/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/groovetank-live/)*

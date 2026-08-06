@@ -1,6 +1,6 @@
 # Tritonal
 
-Tritonal is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Substation, Seattle on Fri, 25 Sept 2026.
+Tritonal is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Substation, Seattle on Fri, 25 Sept 2026.
 
 Tritonal is a progressive house and trance artist based in United States of America, tracked on soundcheck, with 8 sets logged across Boston, Chicago, Denver and Miami and 2 more. Often billed alongside Farius, Morgin Madison and Matt Fax. Next up: Substation, Seattle on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Tritonal is a progressive house and trance artist based in United States of Amer
 
 Farius, Morgin Madison, Matt Fax
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tritonal/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tritonal/)*

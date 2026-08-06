@@ -1,6 +1,6 @@
 # Gurl
 
-Gurl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
+Gurl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
 
 Gurl is a house and techno artist tracked on soundcheck, with 37 sets logged across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Islas, Alfred Anders and Dana Kuehr. Next up: Buda BXL, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gurl is a house and techno artist tracked on soundcheck, with 37 sets logged acr
 
 Islas, Alfred Anders, Dana Kuehr
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gurl-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gurl-2/)*

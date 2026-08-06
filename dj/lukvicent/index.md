@@ -1,6 +1,6 @@
 # Luk Vicent
 
-Luk Vicent is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pallas, Hamburg on Thu, 6 Aug 2026.
+Luk Vicent is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pallas, Hamburg on Thu, 6 Aug 2026.
 
 Luk Vicent is a house and breakbeat artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Hamburg. Often billed alongside freesi, Anton Jonathan and ATTA (GER). Next up: Pallas, Hamburg on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Luk Vicent is a house and breakbeat artist based in Germany, tracked on soundche
 
 freesi, Anton Jonathan, ATTA (GER)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukvicent/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukvicent/)*

@@ -1,6 +1,6 @@
 # BRAINDAAMAGE
 
-BRAINDAAMAGE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kraftwerk, Zurich on Sat, 8 Aug 2026.
+BRAINDAAMAGE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kraftwerk, Zurich on Sat, 8 Aug 2026.
 
 BRAINDAAMAGE is a techno and hardcore artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Berlin and Zurich. Often billed alongside Raxeller, andris and CAERMI. Next up: Kraftwerk, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ BRAINDAAMAGE is a techno and hardcore artist based in Switzerland, tracked on so
 
 Raxeller, andris, CAERMI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*

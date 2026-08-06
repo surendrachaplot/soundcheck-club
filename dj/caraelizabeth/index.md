@@ -1,6 +1,6 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Cara Elizabeth is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -36,4 +36,4 @@ Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 135 set
 
 Kø:lab, Part Time Killer, SEKTOR69
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

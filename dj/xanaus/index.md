@@ -1,6 +1,6 @@
 # XANA (US)
 
-XANA (US) is a Reggaeton and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Ground at Club Space, Miami on Fri, 14 Aug 2026.
+XANA (US) is a Reggaeton and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Ground at Club Space, Miami on Fri, 14 Aug 2026.
 
 XANA (US) is a reggaeton and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Chicago, Miami and Newyorkcity. Often billed alongside 1-800-Lolita, SATURNSARii and Marte (US). Next up: The Ground at Club Space, Miami on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ XANA (US) is a reggaeton and techno artist based in United States of America, tr
 
 1-800-Lolita, SATURNSARii, Marte (US)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanaus/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanaus/)*

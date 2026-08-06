@@ -1,6 +1,6 @@
 # Ben Santiago
 
-Ben Santiago is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
+Ben Santiago is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
 
 Ben Santiago is a house and trance artist based in Spain, tracked on soundcheck, with 22 sets logged across Amsterdam, Birmingham, Edinburgh and Ibiza and 2 more. Often billed alongside Lovely Laura, Bongo Ben and Jason Bye. Next up: Prospect Park, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ben Santiago is a house and trance artist based in Spain, tracked on soundcheck,
 
 Lovely Laura, Bongo Ben, Jason Bye
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensantiago/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensantiago/)*

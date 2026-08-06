@@ -1,8 +1,8 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+D.Dan is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+D.Dan is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,15 +11,15 @@ D.Dan is a techno and house artist tracked on soundcheck, with 193 sets logged a
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
+| Fri, 28 Aug 2026 | Karmakoma | Belgrade |
 | Fri, 4 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Thu, 10 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 11 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sun, 11 Oct 2026 | VENT | Tokyo |
-| Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
-| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 193 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

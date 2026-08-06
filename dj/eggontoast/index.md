@@ -1,6 +1,6 @@
 # Egg On Toast
 
-Egg On Toast is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at renae, Manchester on Fri, 7 Aug 2026.
+Egg On Toast is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at renae, Manchester on Fri, 7 Aug 2026.
 
 Egg On Toast is a techno and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Manchester and Sheffield. Often billed alongside MARACUYá, THT GRL and Aiden Francis. Next up: renae, Manchester on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Egg On Toast is a techno and house artist based in United Kingdom, tracked on so
 
 MARACUYá, THT GRL, Aiden Francis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eggontoast/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eggontoast/)*

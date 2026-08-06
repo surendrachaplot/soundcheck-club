@@ -1,6 +1,6 @@
 # Pasha
 
-Pasha is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
+Pasha is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
 
 Pasha is a house and tech house artist based in Canada, tracked on soundcheck, with 57 sets logged across Amsterdam, Losangeles, Montreal and Tbilisi and 1 more. Often billed alongside RUDEE NIK, Tabbara and Chiara. Next up: Valerie Toronto, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Pasha is a house and tech house artist based in Canada, tracked on soundcheck, w
 
 RUDEE NIK, Tabbara, Chiara
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha/)*

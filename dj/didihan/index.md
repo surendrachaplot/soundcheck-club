@@ -1,6 +1,6 @@
 # Didi Han
 
-Didi Han is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 13 Sept 2026.
+Didi Han is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 13 Sept 2026.
 
 Didi Han is a house and club artist based in South Korea, tracked on soundcheck, with 53 sets logged across Amsterdam, Bali, Bangkok and Hongkong and 13 more. Often billed alongside Cezaire, Darius (FR) and Angie (FR). Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Didi Han is a house and club artist based in South Korea, tracked on soundcheck,
 
 Cezaire, Darius (FR), Angie (FR)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*

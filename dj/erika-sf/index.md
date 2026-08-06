@@ -1,8 +1,8 @@
 # erika (SF)
 
-erika (SF) is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+erika (SF) is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
-erika (SF) is a club and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside sfcowboy, moth (US) and DJ JUANNY. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
+erika (SF) is a club and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 | Fri, 7 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 8 Aug 2026 | Underground SF | San Francisco/Oakland |
 | Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Thu, 20 Aug 2026 | H0L0 | New York City |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 
@@ -27,6 +28,6 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 
 ## Shares bills with
 
-sfcowboy, moth (US), DJ JUANNY
+sfcowboy, moth (US), Lexicon
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*

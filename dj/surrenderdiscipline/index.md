@@ -1,6 +1,6 @@
 # Surrender Discipline
 
-Surrender Discipline is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Marina Botafoch, Ibiza on Sun, 9 Aug 2026.
+Surrender Discipline is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Marina Botafoch, Ibiza on Sun, 9 Aug 2026.
 
 Surrender Discipline is a minimal and house artist tracked on soundcheck, with 8 sets logged across Belgrade, Berlin, Bucharest and Ibiza and 2 more. Often billed alongside Aljosa, EUGEN1O and Innēr Sense (ofc). Next up: Marina Botafoch, Ibiza on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Surrender Discipline is a minimal and house artist tracked on soundcheck, with 8
 
 Aljosa, EUGEN1O, Innēr Sense (ofc)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surrenderdiscipline/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surrenderdiscipline/)*

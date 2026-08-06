@@ -1,6 +1,6 @@
 # Leblanc
 
-Leblanc is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
+Leblanc is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
 
 Leblanc is a house and afro house artist based in France, tracked on soundcheck, with 18 sets logged across Athens, Barcelona, Basel and Berlin and 6 more. Often billed alongside Joachim Pastor, Bérou and James de Torres. Next up: La Clairière, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Leblanc is a house and afro house artist based in France, tracked on soundcheck,
 
 Joachim Pastor, Bérou, James de Torres
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leblanc/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leblanc/)*

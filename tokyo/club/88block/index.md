@@ -1,14 +1,13 @@
 # 88block
 
-88block is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Upper Cuts #114" on Wed, 5 Aug 2026.
+88block is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "88block 3RD ANNIVERSARY PARTY DAY1" on Fri, 7 Aug 2026.
 
-88block is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Aimos, Ali (4), Anela and Blabla and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
+88block is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Aimos, Ali (4), Anela and Blabla and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Upper Cuts #114 | Early Morning |
 | Fri, 7 Aug 2026 | 88block 3RD ANNIVERSARY PARTY DAY1 | Ali (4), Blabla, Lago, Yass, Yuu (GR), jima |
 | Sat, 8 Aug 2026 | 88block 3RD ANNIVERSARY PARTY DAY2 | Aimos, Diceman, MileZ |
 | Mon, 10 Aug 2026 | 88block 3RD ANNIVERSARY DAY3 | Anela, OG Militant B |
@@ -18,4 +17,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

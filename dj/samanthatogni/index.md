@@ -1,6 +1,6 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
+Samantha Togni is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
 
 Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: TILLATEC, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 
 Mar/us, Lewis G. Burton, Nanzhen Yang
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

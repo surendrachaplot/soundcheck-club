@@ -1,6 +1,6 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+Beau Didier is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
 Beau Didier is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Beau Didier is a techno and house artist tracked on soundcheck, with 149 sets lo
 
 Isaiah (NL), Flits, Lasse
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

@@ -1,6 +1,6 @@
 # FASTNSOFT
 
-FASTNSOFT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 13 Aug 2026.
+FASTNSOFT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 13 Aug 2026.
 
 FASTNSOFT is a trance and techno artist tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside ccil, ENAMOR and JOG MODE. Next up: Jardins Gamelin, Montreal on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ FASTNSOFT is a trance and techno artist tracked on soundcheck, with 6 sets logge
 
 ccil, ENAMOR, JOG MODE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fastnsoft/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fastnsoft/)*

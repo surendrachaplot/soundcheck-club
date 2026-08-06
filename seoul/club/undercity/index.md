@@ -1,6 +1,6 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "CORE #009 by UNDERCITY" on Sat, 8 Aug 2026.
+UNDERCITY is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "CORE #009 by UNDERCITY" on Sat, 8 Aug 2026.
 
 UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including DAMIE (KR), JIA, KIMNA and Mukthi and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
@@ -16,4 +16,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming nights, wit
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

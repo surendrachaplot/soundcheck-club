@@ -1,6 +1,6 @@
 # Butterz (2)
 
-Butterz (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sooki Lounge, Melbourne on Sat, 8 Aug 2026.
+Butterz (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sooki Lounge, Melbourne on Sat, 8 Aug 2026.
 
 Butterz (2) is a techno and house artist tracked on soundcheck, with 7 sets logged across Brisbane and Melbourne. Often billed alongside Christopher Brooks, DJ Rondel and Doppel. Next up: Sooki Lounge, Melbourne on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Butterz (2) is a techno and house artist tracked on soundcheck, with 7 sets logg
 
 Christopher Brooks, DJ Rondel, Doppel
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butterz-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butterz-2/)*

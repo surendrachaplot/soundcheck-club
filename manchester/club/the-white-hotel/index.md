@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 32 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Bodyworks 4: Anti-Symposium" on Fri, 7 Aug 2026.
+The White Hotel is a music venue in Manchester with 32 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bodyworks 4: Anti-Symposium" on Fri, 7 Aug 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Alessandro Adriani and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 32 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

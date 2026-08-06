@@ -1,6 +1,6 @@
 # EMRYSLAZULI
 
-EMRYSLAZULI is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
+EMRYSLAZULI is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
 
 EMRYSLAZULI is a techno and club artist based in Canada, tracked on soundcheck, with 25 sets logged across Detroit and Toronto. Often billed alongside Ard1n, Miss Bible and DR 4SKYN. Next up: Standard Time, Toronto on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ EMRYSLAZULI is a techno and club artist based in Canada, tracked on soundcheck, 
 
 Ard1n, Miss Bible, DR 4SKYN
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emryslazuli/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emryslazuli/)*

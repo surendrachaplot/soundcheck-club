@@ -1,6 +1,6 @@
 # Edward Tenk
 
-Edward Tenk is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Switch Bar, Barcelona on Fri, 7 Aug 2026.
+Edward Tenk is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Switch Bar, Barcelona on Fri, 7 Aug 2026.
 
 Edward Tenk is a deep house and tech house artist tracked on soundcheck, with 7 sets logged across Barcelona and London. Often billed alongside Diana Loredana, Thomas Galbardi and Alexxx. Next up: Switch Bar, Barcelona on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Edward Tenk is a deep house and tech house artist tracked on soundcheck, with 7 
 
 Diana Loredana, Thomas Galbardi, Alexxx
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardtenk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardtenk/)*

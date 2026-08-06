@@ -1,6 +1,6 @@
 # Amok Club
 
-Amok Club is a music venue in Mallorca with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Petit Comité Mallorca with Bastian Bux & Uri B" on Sat, 8 Aug 2026.
+Amok Club is a music venue in Mallorca with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Petit Comité Mallorca with Bastian Bux & Uri B" on Sat, 8 Aug 2026.
 
 Amok Club is a music venue in Mallorca listed on soundcheck. 7 upcoming nights, with line-ups including AAfrAA, Bastian Bux, Claptone and Nic Vesperi. Browse upcoming dates, start times and who's playing. Carretera de S´Aranjassa, Km 10, Levante, 07199, Islas Baleares.
 
@@ -20,4 +20,4 @@ Amok Club is a music venue in Mallorca listed on soundcheck. 7 upcoming nights, 
 
 Carretera de S´Aranjassa, Km 10, Levante, 07199, Islas Baleares, Mallorca
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/amok-club/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/amok-club/)*

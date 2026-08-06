@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "SINAPSI @ MODULE" on Thu, 6 Aug 2026.
+MODULE is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "SINAPSI @ MODULE" on Thu, 6 Aug 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including ALADAG, Anders HP, Baime and Bestrawa and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -20,4 +20,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, w
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

@@ -1,6 +1,6 @@
 # Plus One (1)
 
-Plus One (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cross Club, Prague on Fri, 7 Aug 2026.
+Plus One (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cross Club, Prague on Fri, 7 Aug 2026.
 
 Plus One (1) is a techno and experimental artist tracked on soundcheck, with 31 sets logged across Amsterdam, Belfast, Berlin and Dublin and 5 more. Often billed alongside Ejdm, SLOUCHO and Boyfrens. Next up: Cross Club, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Plus One (1) is a techno and experimental artist tracked on soundcheck, with 31 
 
 Ejdm, SLOUCHO, Boyfrens
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plusone/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plusone/)*

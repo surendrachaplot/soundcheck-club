@@ -1,6 +1,6 @@
 # DJ BlackGold
 
-DJ BlackGold is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
+DJ BlackGold is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
 DJ BlackGold is a house and disco artist tracked on soundcheck, with 10 sets logged across Montreal and Toronto. Often billed alongside h1bou, zi! and Alina (MTL). Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ BlackGold is a house and disco artist tracked on soundcheck, with 10 sets log
 
 h1bou, zi!, Alina (MTL)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackgold/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackgold/)*

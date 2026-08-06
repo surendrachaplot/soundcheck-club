@@ -1,6 +1,6 @@
 # Tastemaker
 
-Tastemaker is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+Tastemaker is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 Tastemaker is a techno and club artist tracked on soundcheck, with 46 sets logged across Losangeles and Sanfrancisco. Often billed alongside Discnogirl, Redbeans and Tom Marsi. Next up: 1015 Folsom, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Tastemaker is a techno and club artist tracked on soundcheck, with 46 sets logge
 
 Discnogirl, Redbeans, Tom Marsi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tastemaker/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tastemaker/)*

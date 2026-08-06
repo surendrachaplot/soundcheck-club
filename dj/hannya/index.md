@@ -1,6 +1,6 @@
 # hannya
 
-hannya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 14 Aug 2026.
+hannya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 14 Aug 2026.
 
 hannya is a techno and house artist based in Poland, tracked on soundcheck, with 45 sets logged across Brussels, Krakow, Warsaw and Zurich. Often billed alongside Mohji, Yaris and Doga. Next up: STK 47 WAREHOUSE, Krakow on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ hannya is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Mohji, Yaris, Doga
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannya/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannya/)*

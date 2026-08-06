@@ -1,8 +1,8 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "X CLUB. All Night" on Thu, 6 Aug 2026.
+Nowadays is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "X CLUB. All Night" on Thu, 6 Aug 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including Akanbi, Ali Coleman, Aurora Halal and Baalti and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including 5ive, MORENXXX, Akanbi and Ali Coleman and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 32 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

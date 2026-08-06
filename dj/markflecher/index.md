@@ -1,6 +1,6 @@
 # Mark Flecher
 
-Mark Flecher is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Gare Porto, Porto on Fri, 21 Aug 2026.
+Mark Flecher is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gare Porto, Porto on Fri, 21 Aug 2026.
 
 Mark Flecher is an electronica and techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona, Madrid and Porto. Often billed alongside Alexa Strange, Ali-Az and Amulador. Next up: Gare Porto, Porto on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Mark Flecher is an electronica and techno artist based in Spain, tracked on soun
 
 Alexa Strange, Ali-Az, Amulador
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markflecher/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markflecher/)*

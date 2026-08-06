@@ -1,6 +1,6 @@
 # Soraere Brocken
 
-Soraere Brocken is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lion Super Club, Seoul on Sat, 8 Aug 2026.
+Soraere Brocken is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lion Super Club, Seoul on Sat, 8 Aug 2026.
 
 Soraere Brocken is a techno and electro artist based in South Korea, tracked on soundcheck, with 79 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Kuro, Honn and Minehero. Next up: Lion Super Club, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Soraere Brocken is a techno and electro artist based in South Korea, tracked on 
 
 Kuro, Honn, Minehero
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soraerebrocken/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soraerebrocken/)*

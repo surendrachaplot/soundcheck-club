@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY" on Sat, 8 Aug 2026.
+Catch One is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY" on Sat, 8 Aug 2026.
 
 Catch One is a music venue in Losangeles listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -18,4 +18,4 @@ Catch One is a music venue in Losangeles listed on soundcheck. 5 upcoming nights
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

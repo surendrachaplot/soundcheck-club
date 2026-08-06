@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "PANZERSCHOKOLADE #32" on Fri, 7 Aug 2026.
+FLUCC is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "PANZERSCHOKOLADE #32" on Fri, 7 Aug 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including 3DDY, Albin Brezlan, DJ Vibekiller and E.M.R miranda and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -18,4 +18,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

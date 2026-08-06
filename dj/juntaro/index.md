@@ -1,6 +1,6 @@
 # Juntaro
 
-Juntaro is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Yless, Seoul on Sat, 8 Aug 2026.
+Juntaro is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Yless, Seoul on Sat, 8 Aug 2026.
 
 Juntaro is a tech house and electro artist tracked on soundcheck, with 11 sets logged across London, Seoul and Tokyo. Often billed alongside LOOZBONE, SIELO and 2SPADE. Next up: Yless, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Juntaro is a tech house and electro artist tracked on soundcheck, with 11 sets l
 
 LOOZBONE, SIELO, 2SPADE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juntaro/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juntaro/)*

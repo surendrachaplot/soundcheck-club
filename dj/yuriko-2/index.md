@@ -1,6 +1,6 @@
 # Yuriko (2)
 
-Yuriko (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Faust, Seoul on Fri, 14 Aug 2026.
+Yuriko (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Faust, Seoul on Fri, 14 Aug 2026.
 
 Yuriko (2) is a house and minimal artist based in South Korea, tracked on soundcheck, with 57 sets logged across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Youngisland and Gyusco. Next up: Faust, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Yuriko (2) is a house and minimal artist based in South Korea, tracked on soundc
 
 Cityboy from Seoul, Youngisland, Gyusco
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuriko-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuriko-2/)*

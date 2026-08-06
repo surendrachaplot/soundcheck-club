@@ -1,6 +1,6 @@
 # Ben Ready
 
-Ben Ready is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+Ben Ready is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 Ben Ready is a house and garage artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside EAMMS, nmaito and AG (1). Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ben Ready is a house and garage artist based in United States of America, tracke
 
 EAMMS, nmaito, AG (1)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benready/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benready/)*

@@ -1,6 +1,6 @@
 # Amit
 
-Amit is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Phoenix Landing, Boston on Thu, 6 Aug 2026.
+Amit is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Phoenix Landing, Boston on Thu, 6 Aug 2026.
 
 Amit is a drum & bass and dubstep artist tracked on soundcheck, with 12 sets logged across Berlin, Boston, Bucharest and Chicago and 6 more. Often billed alongside Lenore, Seba and Terraphorm. Next up: Phoenix Landing, Boston on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Amit is a drum & bass and dubstep artist tracked on soundcheck, with 12 sets log
 
 Lenore, Seba, Terraphorm
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*

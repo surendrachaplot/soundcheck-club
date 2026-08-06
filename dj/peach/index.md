@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Peach is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
 Peach is a house and techno artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Gaffe, London on Sun 30 Aug.
 
@@ -30,4 +30,4 @@ Peach is a house and techno artist tracked on soundcheck, with 203 sets logged a
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

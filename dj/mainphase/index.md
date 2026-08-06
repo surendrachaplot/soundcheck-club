@@ -1,6 +1,6 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 29 Aug 2026.
+Main Phase is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 29 Aug 2026.
 
 Main Phase is a garage and bass artist tracked on soundcheck, with 196 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: La Cheetah Club, Glasgow on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Main Phase is a garage and bass artist tracked on soundcheck, with 196 sets logg
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

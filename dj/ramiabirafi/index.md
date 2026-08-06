@@ -1,6 +1,6 @@
 # Rami Abi Rafi
 
-Rami Abi Rafi is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 6 Aug 2026.
+Rami Abi Rafi is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 6 Aug 2026.
 
 Rami Abi Rafi is an experimental and techno artist tracked on soundcheck, with 21 sets logged across Berlin, London and Rotterdam. Often billed alongside Chloe Lula (3), Harp-a and Justine Perry. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Rami Abi Rafi is an experimental and techno artist tracked on soundcheck, with 2
 
 Chloe Lula (3), Harp-a, Justine Perry
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiabirafi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiabirafi/)*

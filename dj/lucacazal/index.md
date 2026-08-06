@@ -1,14 +1,15 @@
 # Luca Cazal
 
-Luca Cazal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
+Luca Cazal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
 
-Luca Cazal is a house and techno artist based in Italy, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside AD:mE, Claudia Kane and David Triana. Next up: Amnesia Ibiza, Ibiza on Thu 6 Aug.
+Luca Cazal is a house and techno artist based in Italy, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Maxime dB, AD:mE and Claudia Kane. Next up: Amnesia Ibiza, Ibiza on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 7 Aug 2026 | Teatro Pereyra | Ibiza |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Luca Cazal is a house and techno artist based in Italy, tracked on soundcheck, w
 
 ## Shares bills with
 
-AD:mE, Claudia Kane, David Triana
+Maxime dB, AD:mE, Claudia Kane
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacazal/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacazal/)*

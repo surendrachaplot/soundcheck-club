@@ -1,6 +1,6 @@
 # Mark Gill
 
-Mark Gill is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Crack Bellmer, Berlin on Sun, 16 Aug 2026.
+Mark Gill is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Crack Bellmer, Berlin on Sun, 16 Aug 2026.
 
 Mark Gill is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside Tania Just, Murrin and Moretz. Next up: Crack Bellmer, Berlin on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Mark Gill is a house and techno artist tracked on soundcheck, with 67 sets logge
 
 Tania Just, Murrin, Moretz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*

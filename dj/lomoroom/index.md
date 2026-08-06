@@ -1,6 +1,6 @@
 # LOMOROOM
 
-LOMOROOM is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Horn, Bangkok on Thu, 6 Aug 2026.
+LOMOROOM is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Horn, Bangkok on Thu, 6 Aug 2026.
 
 LOMOROOM is a techno and electro artist based in Thailand, tracked on soundcheck, with 50 sets logged across Bangkok and Shanghai. Often billed alongside MJMA, MOONBLUE and GUNI. Next up: Horn, Bangkok on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ LOMOROOM is a techno and electro artist based in Thailand, tracked on soundcheck
 
 MJMA, MOONBLUE, GUNI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lomoroom/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lomoroom/)*

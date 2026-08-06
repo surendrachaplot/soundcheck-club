@@ -1,0 +1,28 @@
+# Crucial Roots
+
+Crucial Roots is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Roastery, Edinburgh on Fri, 7 Aug 2026.
+
+Crucial Roots is a dub and dancehall artist tracked on soundcheck, with 12 sets logged across Edinburgh and Glasgow. Often billed alongside Hometown Sound, Haseeb Iqbal and James Hometown. Next up: The Roastery, Edinburgh on Fri 7 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 7 Aug 2026 | The Roastery | Edinburgh |
+
+## Recently played
+
+- The Art School, Glasgow — Thu, 7 May 2026
+- EXIT Glasgow, Glasgow — Sat, 17 Jan 2026
+- The Art School, Glasgow — Fri, 24 Oct 2025
+- EXIT Glasgow, Glasgow — Fri, 30 May 2025
+- The Art School, Glasgow — Thu, 15 May 2025
+- Slay, Glasgow — Fri, 7 Mar 2025
+- EXIT Glasgow, Glasgow — Sat, 18 Jan 2025
+- Stereo, Glasgow — Sat, 2 Nov 2024
+
+## Shares bills with
+
+Hometown Sound, Haseeb Iqbal, James Hometown
+
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crucialroots/)*

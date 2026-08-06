@@ -1,6 +1,6 @@
 # Gyeongsu
 
-Gyeongsu is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Marseille, Marseille on Fri, 7 Aug 2026.
+Gyeongsu is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Marseille, Marseille on Fri, 7 Aug 2026.
 
 Gyeongsu is an electro and experimental artist tracked on soundcheck, with 7 sets logged across Brussels, Copenhagen, Marseille and Newyorkcity and 1 more. Often billed alongside Callahan, Jetty and Sene. Next up: TBA - Marseille, Marseille on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Gyeongsu is an electro and experimental artist tracked on soundcheck, with 7 set
 
 Callahan, Jetty, Sene
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyeongsu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyeongsu/)*

@@ -1,6 +1,6 @@
 # Eder Croket
 
-Eder Croket is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cadavra, Madrid on Sat, 8 Aug 2026.
+Eder Croket is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cadavra, Madrid on Sat, 8 Aug 2026.
 
 Eder Croket is an electronica and house artist tracked on soundcheck, with 36 sets logged across Berlin and Madrid. Often billed alongside El cuerpo del Disco, Fer Xplosion and Fuentes-Guerra. Next up: Cadavra, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Eder Croket is an electronica and house artist tracked on soundcheck, with 36 se
 
 El cuerpo del Disco, Fer Xplosion, Fuentes-Guerra
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edercroket/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edercroket/)*

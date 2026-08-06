@@ -1,6 +1,6 @@
 # benzii
 
-benzii is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
+benzii is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
 benzii is a club and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Warlord®, bod [包家巷] and 0neo. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ benzii is a club and techno artist tracked on soundcheck, with 31 sets logged ac
 
 Warlord®, bod [包家巷], 0neo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzii/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benzii/)*

@@ -1,6 +1,6 @@
 # CHEAHDX
 
-CHEAHDX is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Thu, 6 Aug 2026.
+CHEAHDX is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Solace, Melbourne on Thu, 6 Aug 2026.
 
 CHEAHDX is a techno and bass artist based in Australia, tracked on soundcheck, with 27 sets logged across Australiancapitalterritory, Melbourne and Sydney. Often billed alongside Mabel, Kate Miller and Rakhi. Next up: Solace, Melbourne on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ CHEAHDX is a techno and bass artist based in Australia, tracked on soundcheck, w
 
 Mabel, Kate Miller, Rakhi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheahdx/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheahdx/)*

@@ -1,8 +1,8 @@
 # Bambi (Menage a Trois)
 
-Bambi (Menage a Trois) is a Techno and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Bambi (Menage a Trois) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
-Bambi (Menage a Trois) is a techno and r&b artist based in Spain, tracked on soundcheck, with 30 sets logged across Bangkok, Barcelona, Berlin and Cologne and 4 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
+Bambi (Menage a Trois) is a techno and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Bangkok, Barcelona, Berlin and Cologne and 5 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bambi (Menage a Trois) is a techno and r&b artist based in Spain, tracked on sou
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Secret Place | Marseille |
 | Sat, 22 Aug 2026 | Bangkok Island | Bangkok |
+| Sat, 5 Sept 2026 | Hi-Lawn D.C. | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bambi (Menage a Trois) is a techno and r&b artist based in Spain, tracked on sou
 
 WESTKLANG, DJ B2B, Speedo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*

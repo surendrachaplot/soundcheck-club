@@ -1,6 +1,6 @@
 # Nosphere
 
-Nosphere is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kassa Boat, Budapest on Sat, 22 Aug 2026.
+Nosphere is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kassa Boat, Budapest on Sat, 22 Aug 2026.
 
 Nosphere is a dubstep artist tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside 1991, BARK and Chris.SU. Next up: Kassa Boat, Budapest on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Nosphere is a dubstep artist tracked on soundcheck, with 6 sets logged across Bu
 
 1991, BARK, Chris.SU
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosphere/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosphere/)*

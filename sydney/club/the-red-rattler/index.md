@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Marcus Whale: 'Nether' Album Launch" on Fri, 7 Aug 2026.
+The Red Rattler is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Marcus Whale: 'Nether' Album Launch" on Fri, 7 Aug 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Arsonist, Cristal No.5, Grasps and Jungist and 2 more. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -17,4 +17,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming nigh
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

@@ -1,0 +1,20 @@
+# Shock Value Nonstop: B0YG1RL, DILUVIA, DICAP, Juliana Huxtable, Sewa Choki, Syd Falls, Via App at Nowadays
+
+Shock Value Nonstop: B0YG1RL, DILUVIA, DICAP, Juliana Huxtable, Sewa Choki, Syd Falls, Via App at Nowadays on Sat 5 Sept, Newyorkcity. 6 acts on the bill: B0YG1RL, DICAP, DILUVIA and Juliana Huxtable and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 5 Sept 2026 |
+| Venue | Nowadays |
+| City | New York City |
+
+## Line-up
+
+- B0YG1RL
+- DICAP
+- DILUVIA
+- Juliana Huxtable
+- sydfalls
+- Via App
+
+*Source: [soundcheck](https://soundcheck.club/e/2499989-shock-value-nonstop-b0yg1rl-diluvia-dicap-juliana-huxtable-s/)*

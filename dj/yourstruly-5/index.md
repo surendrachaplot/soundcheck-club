@@ -1,6 +1,6 @@
 # Yours Truly (5)
 
-Yours Truly (5) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
+Yours Truly (5) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
 
 Yours Truly (5) is a house and techno artist based in Ireland, tracked on soundcheck, with 8 sets logged across Berlin and Dublin. Often billed alongside Havik, Surka (1) and Talinho. Next up: Pawn Shop, Dublin on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Yours Truly (5) is a house and techno artist based in Ireland, tracked on soundc
 
 Havik, Surka (1), Talinho
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*

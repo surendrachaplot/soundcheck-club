@@ -1,6 +1,6 @@
 # DOBERMAN
 
-DOBERMAN is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bolero, Seoul on Sat, 8 Aug 2026.
+DOBERMAN is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bolero, Seoul on Sat, 8 Aug 2026.
 
 DOBERMAN is a club and hip-hop artist tracked on soundcheck, with 139 sets logged across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: Bolero, Seoul on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DOBERMAN is a club and hip-hop artist tracked on soundcheck, with 139 sets logge
 
 SKiiDA, ANDOW, Multivsn
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*

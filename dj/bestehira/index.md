@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at FOLD, London on Fri, 7 Aug 2026.
+Beste Hira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at FOLD, London on Fri, 7 Aug 2026.
 
 Beste Hira is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Rødhåd, Lobster (NL) and Freddy K. Next up: FOLD, London on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Beste Hira is a techno and house artist tracked on soundcheck, with 171 sets log
 
 Rødhåd, Lobster (NL), Freddy K
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

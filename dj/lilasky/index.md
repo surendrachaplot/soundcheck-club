@@ -1,6 +1,6 @@
 # Lila sky
 
-Lila sky is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
+Lila sky is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
 
 Lila sky is a latin bass and reggaeton artist based in Colombia, tracked on soundcheck, with 9 sets logged across Barcelona, Brussels, Lyon and Madrid and 3 more. Often billed alongside Meth Math, NEGRACONDA and .VRIL. Next up: YuYu Cine Club, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Lila sky is a latin bass and reggaeton artist based in Colombia, tracked on soun
 
 Meth Math, NEGRACONDA, .VRIL
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilasky/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilasky/)*

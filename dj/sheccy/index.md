@@ -1,6 +1,6 @@
 # Sheccy
 
-Sheccy is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
+Sheccy is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
 
 Sheccy is a garage and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Leeds, London and Manchester. Often billed alongside TDV (UK), Flint and EEBEE. Next up: Lord Napier, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sheccy is a garage and house artist based in United Kingdom, tracked on soundche
 
 TDV (UK), Flint, EEBEE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheccy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheccy/)*

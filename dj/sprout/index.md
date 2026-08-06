@@ -1,6 +1,6 @@
 # Sprout
 
-Sprout is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
+Sprout is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
 
 Sprout is a house and techno artist tracked on soundcheck, with 18 sets logged across Austin, Losangeles and Sandiego. Often billed alongside Drew Dapps, Mario Lui and Tyler Chase. Next up: TBA, Sandiego on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sprout is a house and techno artist tracked on soundcheck, with 18 sets logged a
 
 Drew Dapps, Mario Lui, Tyler Chase
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sprout/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sprout/)*

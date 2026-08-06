@@ -1,6 +1,6 @@
 # Raquel B.
 
-Raquel B. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
+Raquel B. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
 
 Raquel B. is a techno and house artist tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside Shawescape Renegade, Julion De'Angelo and Meftah. Next up: Marble Bar, Detroit on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Raquel B. is a techno and house artist tracked on soundcheck, with 9 sets logged
 
 Shawescape Renegade, Julion De'Angelo, Meftah
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raquelb./)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raquelb./)*

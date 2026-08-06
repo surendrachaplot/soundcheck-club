@@ -1,6 +1,6 @@
 # BLACKMDNA
 
-BLACKMDNA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bastet, Philadelphia on Fri, 14 Aug 2026.
+BLACKMDNA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bastet, Philadelphia on Fri, 14 Aug 2026.
 
 BLACKMDNA is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 14 sets logged across Philadelphia. Often billed alongside Krispy, SOUNDBWOY and magglezzz. Next up: Bastet, Philadelphia on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ BLACKMDNA is a club and hip-hop artist based in United States of America, tracke
 
 Krispy, SOUNDBWOY, magglezzz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmdna/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmdna/)*

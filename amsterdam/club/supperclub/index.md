@@ -1,6 +1,6 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Source" on Thu, 6 Aug 2026.
+Supperclub is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Source" on Thu, 6 Aug 2026.
 
 Supperclub is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Bianchetti, Heritage Listed, JP Hernández and Kirilski. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
@@ -23,4 +23,4 @@ Supperclub is a music venue in Amsterdam listed on soundcheck. 14 upcoming night
 
 Singel 460, 1017 AW Amsterdam, Amsterdam
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*

@@ -1,6 +1,6 @@
 # adrialin
 
-adrialin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
+adrialin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
 
 adrialin is a techno and trance artist based in Austria, tracked on soundcheck, with 29 sets logged across Vienna. Often billed alongside KRETA, Relinquo and DANBERG. Next up: Das Werk, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ adrialin is a techno and trance artist based in Austria, tracked on soundcheck, 
 
 KRETA, Relinquo, DANBERG
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialin/)*

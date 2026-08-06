@@ -1,6 +1,6 @@
 # Dru Ruiz
 
-Dru Ruiz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Spkrbox, Detroit on Sun, 9 Aug 2026.
+Dru Ruiz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Spkrbox, Detroit on Sun, 9 Aug 2026.
 
 Dru Ruiz is a techno and house artist tracked on soundcheck, with 141 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside DJ Hyperactive, Garrison XR and Augustus Williams. Next up: Spkrbox, Detroit on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Dru Ruiz is a techno and house artist tracked on soundcheck, with 141 sets logge
 
 DJ Hyperactive, Garrison XR, Augustus Williams
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*

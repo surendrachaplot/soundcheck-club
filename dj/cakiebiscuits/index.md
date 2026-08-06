@@ -1,6 +1,6 @@
 # Cakiebiscuits
 
-Cakiebiscuits is a Grime and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paradise Palms, Edinburgh on Fri, 7 Aug 2026.
+Cakiebiscuits is a Grime and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Paradise Palms, Edinburgh on Fri, 7 Aug 2026.
 
 Cakiebiscuits is a grime and hip-hop artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Edinburgh. Often billed alongside Humza, m1 (1) and monicat. Next up: Paradise Palms, Edinburgh on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Cakiebiscuits is a grime and hip-hop artist based in United Kingdom, tracked on 
 
 Humza, m1 (1), monicat
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cakiebiscuits/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cakiebiscuits/)*

@@ -1,6 +1,6 @@
 # Black Merlin
 
-Black Merlin is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+Black Merlin is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
 Black Merlin is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Belgrade, Berlin, Bristol and Dusseldorf and 5 more. Often billed alongside Aura Nox, GNMR and 30drop. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Black Merlin is a techno and acid artist based in United Kingdom, tracked on sou
 
 Aura Nox, GNMR, 30drop
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmerlin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmerlin/)*

@@ -1,6 +1,6 @@
 # HVN (1)
 
-HVN (1) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
+HVN (1) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
 
 HVN (1) is a club and techno artist tracked on soundcheck, with 108 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Ard1n, Young Teesh and Litney. Next up: TBA - mile ex, Montreal on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ HVN (1) is a club and techno artist tracked on soundcheck, with 108 sets logged 
 
 Ard1n, Young Teesh, Litney
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvn-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvn-1/)*

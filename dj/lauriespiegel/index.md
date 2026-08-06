@@ -1,6 +1,6 @@
 # Laurie Spiegel
 
-Laurie Spiegel is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Konzerthaus Berlin, Berlin on Wed, 30 Sept 2026.
+Laurie Spiegel is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Konzerthaus Berlin, Berlin on Wed, 30 Sept 2026.
 
 Laurie Spiegel is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 2 sets logged across Berlin and Copenhagen. Often billed alongside Efdemin, Evol and Nkisi. Next up: Konzerthaus Berlin, Berlin on Wed 30 Sept.
 
@@ -18,4 +18,4 @@ Laurie Spiegel is an experimental and electronica artist based in United States 
 
 Efdemin, Evol, Nkisi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauriespiegel/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauriespiegel/)*

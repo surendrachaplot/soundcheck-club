@@ -1,6 +1,6 @@
 # TBA - 6910 Shirley Avenue Austin, TX
 
-TBA - 6910 Shirley Avenue Austin, TX is a music venue in Austin with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Might Be Magic PRESENTS: Mark Grusane (RUSH HOUR, CHICAGO), Brett Johnson  DJ HOT DONNA" on Fri, 7 Aug 2026.
+TBA - 6910 Shirley Avenue Austin, TX is a music venue in Austin with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Might Be Magic PRESENTS: Mark Grusane (RUSH HOUR, CHICAGO), Brett Johnson  DJ HOT DONNA" on Fri, 7 Aug 2026.
 
 TBA - 6910 Shirley Avenue Austin, TX is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Brett Johnson, DJ HOT DONNA and Mark Grusane. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 6910 Shirley Avenue Austin, TX is a music venue in Austin listed on soundc
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Might Be Magic PRESENTS: Mark Grusane (RUSH HOUR, CHICAGO), Brett Johnson  DJ HOT DONNA | Brett Johnson, DJ HOT DONNA, Mark Grusane |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-6910-shirley-avenue-austin-tx/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-6910-shirley-avenue-austin-tx/)*

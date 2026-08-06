@@ -1,6 +1,6 @@
 # Gilles Bock
 
-Gilles Bock is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Gilles Bock is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
 
 Gilles Bock is a techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne. Often billed alongside Kos:mo, Steven Shade and Tschatsching. Next up: Odonien, Cologne on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Gilles Bock is a techno artist based in Germany, tracked on soundcheck, with 6 s
 
 Kos:mo, Steven Shade, Tschatsching
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesbock/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesbock/)*

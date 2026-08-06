@@ -1,6 +1,6 @@
 # S1LVERLUV
 
-S1LVERLUV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cakeshop, Seoul on Sat, 8 Aug 2026.
+S1LVERLUV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cakeshop, Seoul on Sat, 8 Aug 2026.
 
 S1LVERLUV is a techno and hardcore artist based in France, tracked on soundcheck, with 10 sets logged across Seoul. Often billed alongside D.E.F, Rivako and ZENA (KR). Next up: Cakeshop, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ S1LVERLUV is a techno and hardcore artist based in France, tracked on soundcheck
 
 D.E.F, Rivako, ZENA (KR)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s1lverluv/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s1lverluv/)*

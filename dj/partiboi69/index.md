@@ -1,13 +1,14 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Miami on Sat, 5 Sept 2026.
+Partiboi69 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Spin, San Diego on Fri, 4 Sept 2026.
 
-Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 187 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: TBA, Miami on Sat 5 Sept.
+Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 188 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: Spin, Sandiego on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Spin | San Diego |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Sat, 5 Sept 2026 | Public Works | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |
@@ -30,4 +31,4 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 
 KETTAMA, Juicy Romance, DJ Heartstring
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

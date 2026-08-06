@@ -1,6 +1,6 @@
 # Yigit
 
-Yigit is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Yigit is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 Yigit is an electronic artist based in Turkey, tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Mila Haj Kasem, 36framez and Amotik. Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Yigit is an electronic artist based in Turkey, tracked on soundcheck, with 7 set
 
 Mila Haj Kasem, 36framez, Amotik
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yigit/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yigit/)*

@@ -1,6 +1,6 @@
 # Nicola Cruz
 
-Nicola Cruz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at The Loft, Manchester on Fri, 7 Aug 2026.
+Nicola Cruz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Loft, Manchester on Fri, 7 Aug 2026.
 
 Nicola Cruz is a house and techno artist tracked on soundcheck, with 94 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: The Loft, Manchester on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Nicola Cruz is a house and techno artist tracked on soundcheck, with 94 sets log
 
 Shvili, Cosmic JD, Juncheol
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*

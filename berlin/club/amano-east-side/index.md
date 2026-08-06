@@ -1,6 +1,6 @@
 # Amano East-Side
 
-Amano East-Side is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Rooftop Tapes Berlin Summer Closing" on Sat, 8 Aug 2026.
+Amano East-Side is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Rooftop Tapes Berlin Summer Closing" on Sat, 8 Aug 2026.
 
 Amano East-Side is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including CAMET, FR3ADY and Le TIZI. Browse upcoming dates, start times and who's playing. Stralauer Pl. 30-31, 10243 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Amano East-Side is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Stralauer Pl. 30-31, 10243 Berlin, Germany, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*

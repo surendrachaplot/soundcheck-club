@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "SurfBeatzUK & Aurora presents FLETCH" on Fri, 7 Aug 2026.
+Distrikt is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "SurfBeatzUK & Aurora presents FLETCH" on Fri, 7 Aug 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including FLETCH, Adam Lance, ad*n and Cap and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -21,4 +21,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

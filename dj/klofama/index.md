@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+KLOFAMA is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 KLOFAMA is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 94 sets lo
 
 KARAH, SLVL, SANTØS
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

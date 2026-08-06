@@ -1,6 +1,6 @@
 # DJ Sauci Soni
 
-DJ Sauci Soni is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Mehanata Bar, New York City on Thu, 6 Aug 2026.
+DJ Sauci Soni is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Mehanata Bar, New York City on Thu, 6 Aug 2026.
 
 DJ Sauci Soni is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside MISS VEE, MAXWELL HöUSE and FTZGRLD. Next up: Mehanata Bar, Newyorkcity on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ DJ Sauci Soni is a house and techno artist based in United States of America, tr
 
 MISS VEE, MAXWELL HöUSE, FTZGRLD
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*

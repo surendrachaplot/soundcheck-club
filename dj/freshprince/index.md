@@ -1,6 +1,6 @@
 # Fresh Prince
 
-Fresh Prince is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Fresh Prince is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Fresh Prince is a house and techno artist based in Malta, tracked on soundcheck, with 24 sets logged across Barcelona, Leipzig and Malta. Often billed alongside Damz, Daniel Blade and Georg MT. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Fresh Prince is a house and techno artist based in Malta, tracked on soundcheck,
 
 Damz, Daniel Blade, Georg MT
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freshprince/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freshprince/)*

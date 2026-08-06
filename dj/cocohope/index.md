@@ -1,6 +1,6 @@
 # Coco Hope
 
-Coco Hope is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Unter Deck, Munich on Fri, 7 Aug 2026.
+Coco Hope is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Unter Deck, Munich on Fri, 7 Aug 2026.
 
 Coco Hope is an electro and bass artist tracked on soundcheck, with 20 sets logged across Munich. Often billed alongside BELP, Kiawash and tanjuesch. Next up: Unter Deck, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Coco Hope is an electro and bass artist tracked on soundcheck, with 20 sets logg
 
 BELP, Kiawash, tanjuesch
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocohope/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocohope/)*

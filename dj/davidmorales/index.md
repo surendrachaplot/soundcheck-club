@@ -1,14 +1,13 @@
 # David Morales
 
-David Morales is a House and Disco artist with 18 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pikes Ibiza, Ibiza on Wed, 5 Aug 2026.
+David Morales is a House and Disco artist with 17 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pikes Ibiza, Ibiza on Wed, 12 Aug 2026.
 
-David Morales is a house and disco artist tracked on soundcheck, with 189 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Pikes Ibiza, Ibiza on Wed 5 Aug.
+David Morales is a house and disco artist tracked on soundcheck, with 189 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Pikes Ibiza, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Pikes Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Pikes Ibiza | Ibiza |
 | Mon, 17 Aug 2026 | Chinois Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | Pikes Ibiza | Ibiza |
@@ -20,9 +19,11 @@ David Morales is a house and disco artist tracked on soundcheck, with 189 sets l
 | Sat, 5 Sept 2026 | Refuge | New York City |
 | Sun, 6 Sept 2026 | Refuge | New York City |
 | Wed, 16 Sept 2026 | Pikes Ibiza | Ibiza |
+| Sat, 19 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Pikes Ibiza, Ibiza — Wed, 5 Aug 2026
 - Studio 338, London — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
 - Pikes Ibiza, Ibiza — Wed, 29 Jul 2026
@@ -30,10 +31,9 @@ David Morales is a house and disco artist tracked on soundcheck, with 189 sets l
 - Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
 - Stereo, Montreal — Sat, 4 Jul 2026
 - Pikes Ibiza, Ibiza — Wed, 1 Jul 2026
-- The Opera House, Toronto — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Louie Vega, Todd Terry
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

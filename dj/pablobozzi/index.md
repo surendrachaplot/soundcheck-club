@@ -1,6 +1,6 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at StereoBar, Montreal on Fri, 7 Aug 2026.
+Pablo Bozzi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at StereoBar, Montreal on Fri, 7 Aug 2026.
 
 Pablo Bozzi is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: StereoBar, Montreal on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Pablo Bozzi is a techno and house artist tracked on soundcheck, with 205 sets lo
 
 Phase Fatale, Jen Cardini, Soft Crash
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

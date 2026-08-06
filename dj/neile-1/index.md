@@ -1,6 +1,6 @@
 # Neil E
 
-Neil E is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 7 Aug 2026.
+Neil E is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 7 Aug 2026.
 
 Neil E is a techno and house artist based in Australia, tracked on soundcheck, with 23 sets logged across Bangkok, Berlin, Melbourne and Sydney. Often billed alongside Billus, DJ Camov and Snad. Next up: Collingwood Basement, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Neil E is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Billus, DJ Camov, Snad
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neile-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neile-1/)*

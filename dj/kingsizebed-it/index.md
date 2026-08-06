@@ -1,6 +1,6 @@
 # Kingsizebed
 
-Kingsizebed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
+Kingsizebed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
 
 Kingsizebed is a house and techno artist based in Italy, tracked on soundcheck, with 53 sets logged across Athens, Berlin, Brussels and Geneva and 2 more. Often billed alongside Aaron Blau, 131bpm and Fatima Koanda. Next up: Renate, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kingsizebed is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Aaron Blau, 131bpm, Fatima Koanda
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*

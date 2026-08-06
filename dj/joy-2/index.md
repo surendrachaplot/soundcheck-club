@@ -1,6 +1,6 @@
 # JOY (2)
 
-JOY (2) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bangkok Island, Bangkok on Sat, 8 Aug 2026.
+JOY (2) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bangkok Island, Bangkok on Sat, 8 Aug 2026.
 
 JOY (2) is a techno and progressive house artist tracked on soundcheck, with 9 sets logged across Bangkok, Berlin, Budapest and Malta and 5 more. Often billed alongside AMON (1), ANNYL and Abdy. Next up: Bangkok Island, Bangkok on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ JOY (2) is a techno and progressive house artist tracked on soundcheck, with 9 s
 
 AMON (1), ANNYL, Abdy
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joy-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joy-2/)*

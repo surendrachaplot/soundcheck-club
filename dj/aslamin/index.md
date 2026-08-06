@@ -1,6 +1,6 @@
 # Aslamin
 
-Aslamin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at B-SIDE, Warsaw on Sat, 8 Aug 2026.
+Aslamin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at B-SIDE, Warsaw on Sat, 8 Aug 2026.
 
 Aslamin is a house and techno artist tracked on soundcheck, with 16 sets logged across Krakow and Warsaw. Often billed alongside nuarrrrr, aist (LT) and Helga. Next up: B-SIDE, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aslamin is a house and techno artist tracked on soundcheck, with 16 sets logged 
 
 nuarrrrr, aist (LT), Helga
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aslamin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aslamin/)*

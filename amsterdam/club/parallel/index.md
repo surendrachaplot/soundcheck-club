@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "HYPERPRIDE" on Sat, 8 Aug 2026.
+Parallel is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "HYPERPRIDE" on Sat, 8 Aug 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including angelboy, DJ SEXSTASY, Effy and General C'mamane and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -18,4 +18,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, 
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

@@ -1,6 +1,6 @@
 # Lexmic
 
-Lexmic is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
+Lexmic is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
 
 Lexmic is a house and electronica artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona and Thehague. Often billed alongside Klankers, Arnau and Edenfranz. Next up: TBA, Thehague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lexmic is a house and electronica artist tracked on soundcheck, with 19 sets log
 
 Klankers, Arnau, Edenfranz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexmic/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexmic/)*

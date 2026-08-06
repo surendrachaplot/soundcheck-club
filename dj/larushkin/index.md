@@ -1,6 +1,6 @@
 # Larushkin
 
-Larushkin is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Loft, Manchester on Fri, 7 Aug 2026.
+Larushkin is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Loft, Manchester on Fri, 7 Aug 2026.
 
 Larushkin is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Leeds, London and Manchester. Often billed alongside Neillis, AMEX (UK) and Touré. Next up: The Loft, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Larushkin is a tech house and house artist based in United Kingdom, tracked on s
 
 Neillis, AMEX (UK), Touré
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larushkin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larushkin/)*

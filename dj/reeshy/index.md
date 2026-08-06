@@ -1,6 +1,6 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
+Reeshy is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
 
 Reeshy is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Mella Dee. Next up: Palmerstown House Estate, Dublin on Sat 8 Aug.
 
@@ -34,4 +34,4 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 105 sets log
 
 Enzo Siragusa, Laidlaw, Mella Dee
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

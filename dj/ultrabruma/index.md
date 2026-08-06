@@ -1,6 +1,6 @@
 # Ultrabruma
 
-Ultrabruma is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
+Ultrabruma is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
 
 Ultrabruma is a latin bass and techno artist based in Colombia, tracked on soundcheck, with 4 sets logged across Amsterdam, London, Paris and Prague. Often billed alongside Aidan Lee, Bamao Yendé and Blue Canarinho. Next up: Ankali & Planeta Za, Prague on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Ultrabruma is a latin bass and techno artist based in Colombia, tracked on sound
 
 Aidan Lee, Bamao Yendé, Blue Canarinho
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*

@@ -1,6 +1,6 @@
 # Nammy Wams
 
-Nammy Wams is a Grime and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
+Nammy Wams is a Grime and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
 
 Nammy Wams is a grime and club artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Cologne, London, Manchester and Paris. Often billed alongside M.I.C (The Master of Inane Conversation), Tice Cin and anti.Net. Next up: The Fox and Firkin, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nammy Wams is a grime and club artist based in United Kingdom, tracked on soundc
 
 M.I.C (The Master of Inane Conversation), Tice Cin, anti.Net
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nammywams/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nammywams/)*

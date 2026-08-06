@@ -1,6 +1,6 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Haus der Visionäre, Berlin on Sun, 9 Aug 2026.
+Octo Octa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Haus der Visionäre, Berlin on Sun, 9 Aug 2026.
 
 Octo Octa is a house and techno artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Haus der Visionäre, Berlin on Sun 9 Aug.
 
@@ -35,4 +35,4 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 196 sets logg
 
 Eris Drew, CCL, Fafi Abdel Nour
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

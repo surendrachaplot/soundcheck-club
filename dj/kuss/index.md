@@ -1,6 +1,6 @@
 # KUSS
 
-KUSS is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+KUSS is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 KUSS is a techno and electro artist based in France, tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ KUSS is a techno and electro artist based in France, tracked on soundcheck, with
 
 Koboyo, Sicion, Electric Rescue
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*

@@ -1,6 +1,6 @@
 # RayRay
 
-RayRay is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at SILO, New York City on Fri, 7 Aug 2026.
+RayRay is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at SILO, New York City on Fri, 7 Aug 2026.
 
 RayRay is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Lisbon and London and 3 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: SILO, Newyorkcity on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ RayRay is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 Varanasi, ASHTREY, Gloria Rose
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

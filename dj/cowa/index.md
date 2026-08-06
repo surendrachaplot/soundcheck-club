@@ -1,6 +1,6 @@
 # Cowa
 
-Cowa is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
+Cowa is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
 
 Cowa is a house and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia and Washingtondc. Often billed alongside Big Queso, tj groover and Qino Bounce. Next up: Upstairs at the 700, Philadelphia on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Cowa is a house and club artist based in United States of America, tracked on so
 
 Big Queso, tj groover, Qino Bounce
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*

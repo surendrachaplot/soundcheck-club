@@ -1,6 +1,6 @@
 # Lars Christian Müller
 
-Lars Christian Müller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Climax-Institutes, Stuttgart on Sat, 8 Aug 2026.
+Lars Christian Müller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Climax-Institutes, Stuttgart on Sat, 8 Aug 2026.
 
 Lars Christian Müller is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Leipzig and Stuttgart. Often billed alongside Schlepp Geist, Albrecht Wassersleben and Andreas Eckhardt. Next up: Climax-Institutes, Stuttgart on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Lars Christian Müller is a techno and house artist based in Germany, tracked on
 
 Schlepp Geist, Albrecht Wassersleben, Andreas Eckhardt
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lars-christianmueller/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lars-christianmueller/)*

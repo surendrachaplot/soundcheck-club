@@ -1,6 +1,6 @@
 # Tom2trax
 
-Tom2trax is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 14 Aug 2026.
+Tom2trax is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 14 Aug 2026.
 
 Tom2trax is a house and disco artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Liverpool and Manchester. Often billed alongside Liam Oliver, Kickin Pigeon and James Greenwood. Next up: Eastern Bloc Records, Manchester on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tom2trax is a house and disco artist based in United Kingdom, tracked on soundch
 
 Liam Oliver, Kickin Pigeon, James Greenwood
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*

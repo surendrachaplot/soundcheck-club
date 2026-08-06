@@ -1,6 +1,6 @@
 # Lepablot
 
-Lepablot is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Artlab, Buenos Aires on Sat, 15 Aug 2026.
+Lepablot is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Artlab, Buenos Aires on Sat, 15 Aug 2026.
 
 Lepablot is a house and deep house artist tracked on soundcheck, with 61 sets logged across Berlin, Buenosaires, Newyorkcity and Paris. Often billed alongside Leonardo Tou, Manuel Sahagun and Ian Puchetti. Next up: Artlab, Buenosaires on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lepablot is a house and deep house artist tracked on soundcheck, with 61 sets lo
 
 Leonardo Tou, Manuel Sahagun, Ian Puchetti
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lepablot/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lepablot/)*

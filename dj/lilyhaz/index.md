@@ -1,6 +1,6 @@
 # Lily Haz
 
-Lily Haz is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OHM, Berlin on Thu, 20 Aug 2026.
+Lily Haz is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at OHM, Berlin on Thu, 20 Aug 2026.
 
 Lily Haz is an electro and house artist tracked on soundcheck, with 32 sets logged across Berlin, Hamburg, Liverpool and London and 2 more. Often billed alongside WD40, Rafush and Katzele. Next up: OHM, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Lily Haz is an electro and house artist tracked on soundcheck, with 32 sets logg
 
 WD40, Rafush, Katzele
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhaz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhaz/)*

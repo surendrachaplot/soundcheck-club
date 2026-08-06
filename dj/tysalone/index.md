@@ -1,6 +1,6 @@
 # Ty Salone
 
-Ty Salone is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Fringe Bar, Philadelphia on Sat, 8 Aug 2026.
+Ty Salone is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fringe Bar, Philadelphia on Sat, 8 Aug 2026.
 
 Ty Salone is a house and deep house artist tracked on soundcheck, with 63 sets logged across Berlin, Budapest, London and Manchester and 5 more. Often billed alongside Rob Paine, Willyum and Rasho. Next up: Fringe Bar, Philadelphia on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ty Salone is a house and deep house artist tracked on soundcheck, with 63 sets l
 
 Rob Paine, Willyum, Rasho
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tysalone/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tysalone/)*

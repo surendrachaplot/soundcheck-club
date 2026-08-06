@@ -1,6 +1,6 @@
 # Taylor Shockley
 
-Taylor Shockley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
+Taylor Shockley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
 
 Taylor Shockley is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Boston and Brussels and 8 more. Often billed alongside 98dots, Carl H and Aurora Halal. Next up: Buda BXL, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Taylor Shockley is a techno and house artist based in United States of America, 
 
 98dots, Carl H, Aurora Halal
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*

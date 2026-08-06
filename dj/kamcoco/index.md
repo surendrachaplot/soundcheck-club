@@ -1,6 +1,6 @@
 # Kamcoco
 
-Kamcoco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ZeyZey, Miami on Sat, 29 Aug 2026.
+Kamcoco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZeyZey, Miami on Sat, 29 Aug 2026.
 
 Kamcoco is a house and deep house artist tracked on soundcheck, with 26 sets logged across Miami and Newyorkcity. Often billed alongside Apache, Nat Siriani and Lee Burridge. Next up: ZeyZey, Miami on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kamcoco is a house and deep house artist tracked on soundcheck, with 26 sets log
 
 Apache, Nat Siriani, Lee Burridge
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamcoco/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamcoco/)*

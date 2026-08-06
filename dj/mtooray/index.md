@@ -1,0 +1,28 @@
+# MTooray
+
+MTooray is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Melrose House, Los Angeles on Sat, 22 Aug 2026.
+
+MTooray is a baile funk and amapiano artist tracked on soundcheck, with 34 sets logged across Detroit, London, Losangeles and Newyorkcity and 2 more. Often billed alongside Bianca Maieli, DJ SUDI and Aku. Next up: The Melrose House, Losangeles on Sat 22 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 22 Aug 2026 | The Melrose House | Los Angeles |
+
+## Recently played
+
+- The Melrose House, Los Angeles — Fri, 5 Jun 2026
+- El Cid, Los Angeles — Sat, 4 Apr 2026
+- El Cid, Los Angeles — Sat, 20 Dec 2025
+- Psstudio, Los Angeles — Sat, 13 Dec 2025
+- Elsewhere, New York City — Sat, 6 Dec 2025
+- Caña Rum Bar, Los Angeles — Wed, 26 Nov 2025
+- Homage Brewing, Los Angeles — Fri, 24 Oct 2025
+- Apartment 503, Los Angeles — Sat, 20 Sept 2025
+
+## Shares bills with
+
+Bianca Maieli, DJ SUDI, Aku
+
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mtooray/)*

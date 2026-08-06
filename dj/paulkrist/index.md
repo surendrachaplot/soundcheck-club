@@ -1,6 +1,6 @@
 # Paul Krist
 
-Paul Krist is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Roxy, Prague on Fri, 7 Aug 2026.
+Paul Krist is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Roxy, Prague on Fri, 7 Aug 2026.
 
 Paul Krist is a techno and trance artist tracked on soundcheck, with 34 sets logged across Prague. Often billed alongside KOBOV, NONSENSE (CZ) and Xelaich. Next up: Roxy, Prague on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Paul Krist is a techno and trance artist tracked on soundcheck, with 34 sets log
 
 KOBOV, NONSENSE (CZ), Xelaich
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkrist/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkrist/)*

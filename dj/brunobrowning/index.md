@@ -1,6 +1,6 @@
 # Bruno Browning
 
-Bruno Browning is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 7 Aug 2026.
+Bruno Browning is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 7 Aug 2026.
 
 Bruno Browning is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago and Sandiego. Often billed alongside Matthew Brian, DJ Heather and Eric Leonardis. Next up: The Air Conditioned Lounge, Sandiego on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Bruno Browning is a house and techno artist based in United States of America, t
 
 Matthew Brian, DJ Heather, Eric Leonardis
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobrowning/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobrowning/)*

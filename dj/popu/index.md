@@ -1,14 +1,15 @@
 # POPU
 
-POPU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+POPU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
-POPU is a techno and house artist tracked on soundcheck, with 77 sets logged across Bangkok, Seoul, Tokyo and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and C-Star. Next up: TBA, Vancouver on Fri 28 Aug.
+POPU is a techno and house artist tracked on soundcheck, with 78 sets logged across Bangkok, Seoul, Tokyo and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA, Vancouver on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA | Vancouver |
+| Sat, 5 Sept 2026 | TBA - Secret Location | Vancouver |
 | Sat, 10 Oct 2026 | TBA | Vancouver |
 
 ## Recently played
@@ -24,6 +25,6 @@ POPU is a techno and house artist tracked on soundcheck, with 77 sets logged acr
 
 ## Shares bills with
 
-DK PAU, Behrad Tehrani, C-Star
+DK PAU, Behrad Tehrani, Fizch
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/popu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/popu/)*

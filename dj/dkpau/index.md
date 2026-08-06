@@ -1,14 +1,15 @@
 # DK PAU
 
-DK PAU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
+DK PAU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 15 Aug 2026.
 
-DK PAU is a techno and house artist tracked on soundcheck, with 76 sets logged across Montreal, Osaka, Sanfrancisco and Vancouver. Often billed alongside POPU, Behrad Tehrani and C-Star. Next up: 1201 Franklin St, Vancouver on Sat 15 Aug.
+DK PAU is a techno and house artist tracked on soundcheck, with 77 sets logged across Montreal, Osaka, Sanfrancisco and Vancouver. Often billed alongside POPU, Behrad Tehrani and C-Star. Next up: 1201 Franklin St, Vancouver on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | 1201 Franklin St | Vancouver |
+| Sat, 5 Sept 2026 | TBA - Secret Location | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DK PAU is a techno and house artist tracked on soundcheck, with 76 sets logged a
 
 POPU, Behrad Tehrani, C-Star
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkpau/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkpau/)*

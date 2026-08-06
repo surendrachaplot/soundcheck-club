@@ -1,6 +1,6 @@
 # CLUB OST & RENATE BERLIN
 
-CLUB OST & RENATE BERLIN is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "House of Lunacy & The Extended Luniverse present - The Village Festival" on Fri, 21 Aug 2026.
+CLUB OST & RENATE BERLIN is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "House of Lunacy & The Extended Luniverse present - The Village Festival" on Fri, 21 Aug 2026.
 
 CLUB OST & RENATE BERLIN is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including ADAM MUNNINGS, Ady Toledano, Alma Negrot and ANDATA and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau 70, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ CLUB OST & RENATE BERLIN is a music venue in Berlin listed on soundcheck. 2 upco
 
 Alt-Stralau 70, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-ost-renate-berlin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-ost-renate-berlin/)*

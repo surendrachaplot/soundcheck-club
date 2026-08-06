@@ -1,6 +1,6 @@
 # Manu Barcelo
 
-Manu Barcelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
+Manu Barcelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
 
 Manu Barcelo is a house and techno artist based in Argentina, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Buenosaires and Madrid. Often billed alongside Bermani, Camila Isabel and Djs Pareja. Next up: Blow, Buenosaires on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Manu Barcelo is a house and techno artist based in Argentina, tracked on soundch
 
 Bermani, Camila Isabel, Djs Pareja
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manubarcelo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manubarcelo/)*

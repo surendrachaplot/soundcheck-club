@@ -1,6 +1,6 @@
 # Raj Shindi
 
-Raj Shindi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
+Raj Shindi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
 
 Raj Shindi is a house and minimal artist based in Sweden, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Jesper Aubin, Kaldera and Martin Brodin. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Raj Shindi is a house and minimal artist based in Sweden, tracked on soundcheck,
 
 Jesper Aubin, Kaldera, Martin Brodin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajshindi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajshindi/)*

@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Standard Time, Toronto on Thu, 6 Aug 2026.
+Daphni is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Standard Time, Toronto on Thu, 6 Aug 2026.
 
 Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Brighton and 25 more. Often billed alongside Ben UFO, Floating Points and Four Tet. Next up: Standard Time, Toronto on Thu 6 Aug.
 
@@ -32,4 +32,4 @@ Daphni is a house and electronica artist based in Canada, tracked on soundcheck,
 
 Ben UFO, Floating Points, Four Tet
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

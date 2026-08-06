@@ -1,6 +1,6 @@
 # Fibe
 
-Fibe is a Drum & Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
+Fibe is a Drum & Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
 
 Fibe is a drum & bass and baile funk artist tracked on soundcheck, with 24 sets logged across Hamburg. Often billed alongside Eightball, Sindicate and duaba. Next up: Fundbureau, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fibe is a drum & bass and baile funk artist tracked on soundcheck, with 24 sets 
 
 Eightball, Sindicate, duaba
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fibe/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fibe/)*

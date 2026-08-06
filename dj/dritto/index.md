@@ -1,6 +1,6 @@
 # DRITTO
 
-DRITTO is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 29 Aug 2026.
+DRITTO is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 29 Aug 2026.
 
 DRITTO is a house and trance artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Lrya, Lush Tempora and LNY TNZ. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DRITTO is a house and trance artist tracked on soundcheck, with 12 sets logged a
 
 Lrya, Lush Tempora, LNY TNZ
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dritto/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dritto/)*

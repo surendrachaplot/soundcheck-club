@@ -1,6 +1,6 @@
 # Frida Darko
 
-Frida Darko is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Frida Darko is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Frida Darko is a techno and downtempo artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Oliver Koletzki, Urem and FLAVE. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Frida Darko is a techno and downtempo artist tracked on soundcheck, with 90 sets
 
 Oliver Koletzki, Urem, FLAVE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fridadarko/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fridadarko/)*

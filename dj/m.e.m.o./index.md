@@ -1,6 +1,6 @@
 # M.E.M.O.
 
-M.E.M.O. is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 8 Aug 2026.
+M.E.M.O. is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 M.E.M.O. is an afro house and house artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Laolu, SIS and Thimble. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ M.E.M.O. is an afro house and house artist tracked on soundcheck, with 31 sets l
 
 Laolu, SIS, Thimble
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.e.m.o./)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.e.m.o./)*

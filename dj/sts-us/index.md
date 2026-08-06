@@ -1,14 +1,15 @@
 # sts (US)
 
-sts (US) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+sts (US) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
-sts (US) is a techno and electro artist based in United States of America, tracked on soundcheck, with 23 sets logged across Antwerp and Detroit. Often billed alongside Green River Haze, 2Lanes and Rebecca Goldberg. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
+sts (US) is a techno and electro artist based in United States of America, tracked on soundcheck, with 24 sets logged across Antwerp and Detroit. Often billed alongside Green River Haze, 2Lanes and BEIGE. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
+| Sat, 15 Aug 2026 | Marble Bar | Detroit |
 | Sat, 15 Aug 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -24,6 +25,6 @@ sts (US) is a techno and electro artist based in United States of America, track
 
 ## Shares bills with
 
-Green River Haze, 2Lanes, Rebecca Goldberg
+Green River Haze, 2Lanes, BEIGE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sts-us/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sts-us/)*

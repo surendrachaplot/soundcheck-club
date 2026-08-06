@@ -1,6 +1,6 @@
 # François Dulac
 
-François Dulac is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
+François Dulac is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
 
 François Dulac is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside hi.fí, Ahni and Baltza. Next up: Bulbul Berlin, Berlin on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ François Dulac is a techno and deep house artist based in United Kingdom, track
 
 hi.fí, Ahni, Baltza
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisdulac/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisdulac/)*

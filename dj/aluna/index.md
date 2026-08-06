@@ -1,6 +1,6 @@
 # Aluna
 
-Aluna is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+Aluna is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 Aluna is a house and techno artist tracked on soundcheck, with 54 sets logged across Austin, Barcelona, Bristol and Chicago and 18 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Aluna is a house and techno artist tracked on soundcheck, with 54 sets logged ac
 
 Coco & Breezy, RaeCola, Grimes
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*

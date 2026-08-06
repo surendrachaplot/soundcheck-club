@@ -1,6 +1,6 @@
 # Ali Bilal
 
-Ali Bilal is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Solace, Melbourne on Fri, 7 Aug 2026.
+Ali Bilal is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Solace, Melbourne on Fri, 7 Aug 2026.
 
 Ali Bilal is a techno and garage artist based in Australia, tracked on soundcheck, with 13 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside ARTISAH, Dave Stuart and Jazz (AU). Next up: Solace, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ali Bilal is a techno and garage artist based in Australia, tracked on soundchec
 
 ARTISAH, Dave Stuart, Jazz (AU)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alibilal/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alibilal/)*

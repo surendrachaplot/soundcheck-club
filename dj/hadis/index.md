@@ -1,6 +1,6 @@
 # hadis
 
-hadis is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Système, Montreal on Sat, 8 Aug 2026.
+hadis is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Système, Montreal on Sat, 8 Aug 2026.
 
 hadis is a house and electro artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal and Toronto. Often billed alongside Maral Mane, Anushka (UK) and Ardalan. Next up: Système, Montreal on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ hadis is a house and electro artist based in Canada, tracked on soundcheck, with
 
 Maral Mane, Anushka (UK), Ardalan
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hadis/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hadis/)*

@@ -1,6 +1,6 @@
 # Luca Piermattei
 
-Luca Piermattei is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 8 Aug 2026.
+Luca Piermattei is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 8 Aug 2026.
 
 Luca Piermattei is an electro and techno artist based in Italy, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Alex Picone, Nick (IT) and Desyn. Next up: THE MAGICK BAR, Rome on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Luca Piermattei is an electro and techno artist based in Italy, tracked on sound
 
 Alex Picone, Nick (IT), Desyn
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucapiermattei/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucapiermattei/)*

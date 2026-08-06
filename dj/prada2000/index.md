@@ -1,6 +1,6 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+PRADA2000 is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 PRADA2000 is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ PRADA2000 is a techno and trance artist tracked on soundcheck, with 160 sets log
 
 Cleopard2000, Adrian Mills, Mika Heggemann
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*

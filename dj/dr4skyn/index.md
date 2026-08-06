@@ -1,6 +1,6 @@
 # DR 4SKYN
 
-DR 4SKYN is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
+DR 4SKYN is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
 
 DR 4SKYN is a house and club artist based in Canada, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside XANGA, emmy.wav and Delicious DJ. Next up: Standard Time, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DR 4SKYN is a house and club artist based in Canada, tracked on soundcheck, with
 
 XANGA, emmy.wav, Delicious DJ
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*

@@ -1,6 +1,6 @@
 # XILENYIA
 
-XILENYIA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 8 Aug 2026.
+XILENYIA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 XILENYIA is a house and techno artist tracked on soundcheck, with 18 sets logged across Sanfrancisco. Often billed alongside SNAQ, RawB and pxlwlkr. Next up: DNA Lounge, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ XILENYIA is a house and techno artist tracked on soundcheck, with 18 sets logged
 
 SNAQ, RawB, pxlwlkr
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xilenyia/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xilenyia/)*

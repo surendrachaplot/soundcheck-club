@@ -1,6 +1,6 @@
 # Niro (1)
 
-Niro (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Melkweg, Amsterdam on Sat, 5 Sept 2026.
+Niro (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Melkweg, Amsterdam on Sat, 5 Sept 2026.
 
 Niro (1) is an electronic artist based in Italy, tracked on soundcheck, with 3 sets logged across Amsterdam and Tokyo. Often billed alongside Akim, Danytribe and Delirium. Next up: Melkweg, Amsterdam on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Niro (1) is an electronic artist based in Italy, tracked on soundcheck, with 3 s
 
 Akim, Danytribe, Delirium
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niro-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niro-1/)*

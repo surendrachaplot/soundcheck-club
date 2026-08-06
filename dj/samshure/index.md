@@ -1,13 +1,14 @@
 # Sam Shure
 
-Sam Shure is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cova Santa, Ibiza on Fri, 28 Aug 2026.
+Sam Shure is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Spybar, Chicago on Sat, 15 Aug 2026.
 
-Sam Shure is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Oliver Koletzki, Baime and Bora Uzer. Next up: Cova Santa, Ibiza on Fri 28 Aug.
+Sam Shure is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Oliver Koletzki, Baime and Bora Uzer. Next up: Spybar, Chicago on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Spybar | Chicago |
 | Fri, 28 Aug 2026 | Cova Santa | Ibiza |
 | Sat, 29 Aug 2026 | gART.n | Berlin |
 
@@ -26,4 +27,4 @@ Sam Shure is a house and techno artist tracked on soundcheck, with 67 sets logge
 
 Oliver Koletzki, Baime, Bora Uzer
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samshure/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samshure/)*

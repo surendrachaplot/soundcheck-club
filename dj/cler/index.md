@@ -1,6 +1,6 @@
 # Cler.
 
-Cler. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Cler. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Cler. is a techno and trance artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside ALDOX, AAAA and Cabe. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cler. is a techno and trance artist based in Mexico, tracked on soundcheck, with
 
 ALDOX, AAAA, Cabe
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cler/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cler/)*

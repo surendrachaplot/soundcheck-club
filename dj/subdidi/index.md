@@ -1,6 +1,6 @@
 # SUBDIDI
 
-SUBDIDI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Vancouver on Fri, 7 Aug 2026.
+SUBDIDI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Vancouver on Fri, 7 Aug 2026.
 
 SUBDIDI is a techno and house artist tracked on soundcheck, with 39 sets logged across Toronto and Vancouver. Often billed alongside nalule, DR BPM and Frankie Teardrop. Next up: TBA, Vancouver on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SUBDIDI is a techno and house artist tracked on soundcheck, with 39 sets logged 
 
 nalule, DR BPM, Frankie Teardrop
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subdidi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subdidi/)*

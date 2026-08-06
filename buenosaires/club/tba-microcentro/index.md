@@ -1,6 +1,6 @@
 # TBA - MICROCENTRO.
 
-TBA - MICROCENTRO. is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Culto pres. Lakej All Night Long at Secret Club" on Sat, 8 Aug 2026.
+TBA - MICROCENTRO. is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Culto pres. Lakej All Night Long at Secret Club" on Sat, 8 Aug 2026.
 
 TBA - MICROCENTRO. is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - MICROCENTRO. is a music venue in Buenosaires listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Culto pres. Lakej All Night Long at Secret Club |  |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-microcentro/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-microcentro/)*

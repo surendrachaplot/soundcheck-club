@@ -1,6 +1,6 @@
 # Kiinjo
 
-Kiinjo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Standard Time, Toronto on Fri, 7 Aug 2026.
+Kiinjo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Standard Time, Toronto on Fri, 7 Aug 2026.
 
 Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 26 sets logged across Detroit, Losangeles, Mexicocity and Montreal and 5 more. Often billed alongside Purple Disco Machine, Pat Lok and Pinto (US). Next up: Standard Time, Toronto on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 Purple Disco Machine, Pat Lok, Pinto (US)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiinjo/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiinjo/)*

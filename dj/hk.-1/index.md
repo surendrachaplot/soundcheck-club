@@ -1,6 +1,6 @@
 # HK. (1)
 
-HK. (1) is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Joule, Osaka on Sat, 15 Aug 2026.
+HK. (1) is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Joule, Osaka on Sat, 15 Aug 2026.
 
 HK. (1) is a trance and psytrance artist tracked on soundcheck, with 15 sets logged across Osaka and Tokyo. Often billed alongside WATARU, PONTA and PUSTER. Next up: Joule, Osaka on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ HK. (1) is a trance and psytrance artist tracked on soundcheck, with 15 sets log
 
 WATARU, PONTA, PUSTER
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hk.-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hk.-1/)*

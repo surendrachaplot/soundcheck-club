@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 78 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "mittendrin mit Deacon Frost Jr" on Wed, 5 Aug 2026.
+Minimal Bar is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "electronic.thursday mit Pablo Cornejo (Chile)" on Thu, 6 Aug 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 78 upcoming nights, with line-ups including Andi de Luxe, Beta Basti, Bin Okin and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 77 upcoming nights, with line-ups including Andi de Luxe, Beta Basti, Bin Okin and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | mittendrin mit Deacon Frost Jr |  |
 | Thu, 6 Aug 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Fri, 7 Aug 2026 | BEATHEIM night with Bruno Otranto & Friends |  |
 | Sat, 8 Aug 2026 | DAZA & freunde | DAZA |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 78 upcoming nights,
 | Wed, 12 Aug 2026 | mittendrin mit Ian Fog |  |
 | Thu, 13 Aug 2026 | electronic.thursday mit Sciarada | Sciarada |
 | Fri, 14 Aug 2026 | U10247: French Connection (feat maniac&me, Nacime B and Kat) | Kat (13), Nacime B, maniac&me |
+| Sat, 15 Aug 2026 | friends.zone mit Ian Fog & Freunde |  |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

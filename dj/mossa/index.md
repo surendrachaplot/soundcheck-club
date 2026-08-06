@@ -1,6 +1,6 @@
 # Mossa
 
-Mossa is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Toffler, Rotterdam on Fri, 7 Aug 2026.
+Mossa is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Toffler, Rotterdam on Fri, 7 Aug 2026.
 
 Mossa is a techno and industrial artist based in Canada, tracked on soundcheck, with 4 sets logged across Amsterdam, Ibiza, Rotterdam and Toronto. Often billed alongside Donnerstag (1), David Bucka and FHNX. Next up: Toffler, Rotterdam on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Mossa is a techno and industrial artist based in Canada, tracked on soundcheck, 
 
 Donnerstag (1), David Bucka, FHNX
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mossa/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mossa/)*

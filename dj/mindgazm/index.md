@@ -1,6 +1,6 @@
 # MindGazm
 
-MindGazm is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - UPSIDE - 59 NW 28th St, Miami, FL 33127, Miami on Thu, 6 Aug 2026.
+MindGazm is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - UPSIDE - 59 NW 28th St, Miami, FL 33127, Miami on Thu, 6 Aug 2026.
 
 MindGazm is a deep house and house artist tracked on soundcheck, with 31 sets logged across Miami and Newyorkcity. Often billed alongside Max White, Alexander Technique and Brandon Morales. Next up: TBA - UPSIDE - 59 NW 28th St, Miami, FL 33127, Miami on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MindGazm is a deep house and house artist tracked on soundcheck, with 31 sets lo
 
 Max White, Alexander Technique, Brandon Morales
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*

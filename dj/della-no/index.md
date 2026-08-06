@@ -1,18 +1,18 @@
 # DELLA
 
-DELLA is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+DELLA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 14 Aug 2026.
 
-DELLA is a house and garage artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Dusseldorf, Melbourne and Oslo. Often billed alongside Anatolian Weapons, Anushka Chkheidze and Brown Suga Princess. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
+DELLA is a house and garage artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Dusseldorf, Melbourne and Oslo. Often billed alongside Anatolian Weapons, Anushka Chkheidze and Brown Suga Princess. Next up: Angel Music Bar, Melbourne on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | TBA - Rees/Haldern | Düsseldorf |
 | Fri, 14 Aug 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 
+- TBA - Rees/Haldern, Düsseldorf — Wed, 5 Aug 2026
 - The Industrique, Melbourne — Sat, 18 Oct 2025
 - Ingensteds, Oslo — Sat, 18 Nov 2023
 - Jaeger, Oslo — Sat, 11 Mar 2023
@@ -23,4 +23,4 @@ DELLA is a house and garage artist based in United States of America, tracked on
 
 Anatolian Weapons, Anushka Chkheidze, Brown Suga Princess
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/della-no/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/della-no/)*

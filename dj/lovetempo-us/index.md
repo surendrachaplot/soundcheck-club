@@ -1,13 +1,14 @@
 # lovetempo
 
-lovetempo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 23 Oct 2026.
+lovetempo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Danger Danger, New York City on Fri, 21 Aug 2026.
 
-lovetempo is a house and disco artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Losangeles, Mexicocity and Miami and 3 more. Often billed alongside LEONG, Aline Umber and Desyn. Next up: arkaoda Berlin, Berlin on Fri 23 Oct.
+lovetempo is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Losangeles, Mexicocity and Miami and 3 more. Often billed alongside LEONG, Aline Umber and Desyn. Next up: Danger Danger, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Danger Danger | New York City |
 | Fri, 23 Oct 2026 | arkaoda Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ lovetempo is a house and disco artist based in United States of America, tracked
 
 LEONG, Aline Umber, Desyn
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovetempo-us/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovetempo-us/)*

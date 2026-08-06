@@ -1,6 +1,6 @@
 # Roland & Brother Rich
 
-Roland & Brother Rich is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+Roland & Brother Rich is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
 
 Roland & Brother Rich are a house and disco duo based in United States of America, tracked on soundcheck, with 28 sets logged across Amsterdam, London, Miami and Newyorkcity. Often billed alongside Bustin' Loose, Monsieur Van Pratt and Poppi. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Roland & Brother Rich are a house and disco duo based in United States of Americ
 
 Bustin' Loose, Monsieur Van Pratt, Poppi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*

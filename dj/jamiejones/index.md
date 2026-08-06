@@ -1,14 +1,13 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at [UNVRS], Ibiza on Wed, 5 Aug 2026.
+Jamie Jones is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 5 Aug.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,9 +19,11 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 set
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
+| Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 5 Aug 2026
 - [UNVRS], Ibiza — Wed, 29 Jul 2026
 - Sophie Festival, Malaga — Sat, 25 Jul 2026
 - [UNVRS], Ibiza — Wed, 22 Jul 2026
@@ -30,10 +31,9 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 set
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- [UNVRS], Ibiza — Wed, 1 Jul 2026
 
 ## Shares bills with
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

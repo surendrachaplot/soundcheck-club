@@ -1,14 +1,13 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 18 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 5 Aug 2026.
+Marco Carola is a Tech House and Techno artist with 17 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Wed 5 Aug.
+Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Pacha Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Santanna Mykonos | Mykonos |
 | Fri, 7 Aug 2026 | Pacha Ibiza | Ibiza |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 s
 | Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Wed, 5 Aug 2026
 - Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 31 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
@@ -30,10 +31,9 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 291 s
 - TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 10 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
-- Pacha Ibiza, Ibiza — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

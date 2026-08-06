@@ -1,6 +1,6 @@
 # LOKI (3)
 
-LOKI (3) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Paloma, London on Fri, 7 Aug 2026.
+LOKI (3) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Paloma, London on Fri, 7 Aug 2026.
 
 LOKI (3) is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside D8V!, HAZ (GB) and Peezy. Next up: Paloma, London on Fri 7 Aug.
 
@@ -15,4 +15,4 @@ LOKI (3) is a house and afro house artist based in United Kingdom, tracked on so
 
 D8V!, HAZ (GB), Peezy
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-3/)*

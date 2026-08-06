@@ -1,6 +1,6 @@
 # SIIIO
 
-SIIIO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
+SIIIO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
 
 SIIIO is a techno and house artist based in Singapore, tracked on soundcheck, with 9 sets logged across London and Singapore. Often billed alongside Vince Lam, Deejay Nye and Stella Z. Next up: Distillery N17, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SIIIO is a techno and house artist based in Singapore, tracked on soundcheck, wi
 
 Vince Lam, Deejay Nye, Stella Z
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siiio/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siiio/)*

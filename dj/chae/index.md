@@ -1,6 +1,6 @@
 # Chae
 
-Chae is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Modeci, Seoul on Sat, 8 Aug 2026.
+Chae is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Modeci, Seoul on Sat, 8 Aug 2026.
 
 Chae is a house and techno artist tracked on soundcheck, with 130 sets logged across Bangkok, Barcelona, Osaka and Seoul and 1 more. Often billed alongside Cityboy from Seoul, Lyumin and Radio Revolution. Next up: Modeci, Seoul on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Chae is a house and techno artist tracked on soundcheck, with 130 sets logged ac
 
 Cityboy from Seoul, Lyumin, Radio Revolution
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chae/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chae/)*

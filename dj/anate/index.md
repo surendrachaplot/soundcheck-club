@@ -1,6 +1,6 @@
 # Anaté
 
-Anaté is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+Anaté is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 Anaté is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin and Copenhagen. Often billed alongside Upzet, Anton Quasi and DE.fine. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Anaté is a techno and house artist tracked on soundcheck, with 50 sets logged a
 
 Upzet, Anton Quasi, DE.fine
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anate/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anate/)*

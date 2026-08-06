@@ -1,6 +1,6 @@
 # SABRINA (3)
 
-SABRINA (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
+SABRINA (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
 
 SABRINA (3) is a techno and house artist based in Mexico, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Losangeles and Tokyo. Often billed alongside Iñigo Vontier, ATMEN and Aida Blanco. Next up: Sunseabar Beach Club, Barcelona on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ SABRINA (3) is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Iñigo Vontier, ATMEN, Aida Blanco
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina-3/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina-3/)*

@@ -1,6 +1,6 @@
 # Black Box
 
-Black Box is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Lieberscholli, Munich on Sun, 30 Aug 2026.
+Black Box is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lieberscholli, Munich on Sun, 30 Aug 2026.
 
 Black Box is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Unseen., Martin Mind and Min the Universe. Next up: Lieberscholli, Munich on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Black Box is a house and techno artist tracked on soundcheck, with 47 sets logge
 
 Unseen., Martin Mind, Min the Universe
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbox/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbox/)*

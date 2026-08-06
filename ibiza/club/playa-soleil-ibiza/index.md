@@ -1,14 +1,13 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 15 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "SW ♡ IBIZA AUGUST 5" on Wed, 5 Aug 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 14 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Crême de Crême" on Sat, 8 Aug 2026.
 
-Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming nights, with line-ups including Antares (UK), BILA, Cristina Lazic and Leon and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
+Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming nights, with line-ups including Antares (UK), Oliver Marshak and The Organism. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | SW ♡ IBIZA AUGUST 5 | BILA, Cristina Lazic, Leon, Marco Faraone, Priku, Shonky |
 | Sat, 8 Aug 2026 | Crême de Crême |  |
 | Tue, 11 Aug 2026 | UTOPIA — BIRTHDAY & ANNIVERSARY SPECIAL | Antares (UK), Oliver Marshak, The Organism |
 | Wed, 12 Aug 2026 | SW ♡ IBIZA AUGUST 12 |  |
@@ -18,9 +17,10 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming n
 | Sat, 29 Aug 2026 | Crême de Crême |  |
 | Sat, 5 Sept 2026 | Crême de Crême |  |
 | Sat, 12 Sept 2026 | Crême de Crême |  |
+| Wed, 16 Sept 2026 | SW ♡ IBIZA SEPTEMBER 16 |  |
 
 ## Address
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

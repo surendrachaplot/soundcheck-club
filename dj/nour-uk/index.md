@@ -1,6 +1,6 @@
 # Nour (UK)
 
-Nour (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+Nour (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 Nour (UK) is a progressive house and deep house artist tracked on soundcheck, with 32 sets logged across London, Malta, Manchester and Nottingham. Often billed alongside Tris (UK), MXV (UK) and Carina Lawrence. Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nour (UK) is a progressive house and deep house artist tracked on soundcheck, wi
 
 Tris (UK), MXV (UK), Carina Lawrence
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*

@@ -1,14 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 64 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Namaste" on Wed, 5 Aug 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 63 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Sven Väth - T.R.A.N.C.E" on Thu, 6 Aug 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 64 upcoming nights, with line-ups including Alay, Alfonso Ares, Alicia Hahn and Alok and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 63 upcoming nights, with line-ups including Alay, Alfonso Ares, Alicia Hahn and Amine K and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Namaste | Alok, Amu (1), Bruz, Nurieli |
 | Thu, 6 Aug 2026 | Sven Väth - T.R.A.N.C.E | Maurizio Schmitz, Sven Vath |
 | Fri, 7 Aug 2026 | Cirque Noir | Amirali, Ede, Of The Moon (2) |
 | Sat, 8 Aug 2026 | SUPERNOVA | Laolu, M.E.M.O., MARA BRAVO |
@@ -18,9 +17,10 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 6
 | Tue, 11 Aug 2026 | Ethereal | Clint Lee, Maura Loe, Sorä |
 | Wed, 12 Aug 2026 | Namaste - Eclipse Special | Alay, Armen Miran, Sandar Sánchez |
 | Thu, 13 Aug 2026 | Tales of the Unexpected | Andy Baxter, Goldie, Mark System |
+| Fri, 14 Aug 2026 | La Tipi | Boshan Montes, David Balmont, Words of Niō |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

@@ -1,6 +1,6 @@
 # Maxwell Owin
 
-Maxwell Owin is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Ballroom at Palais, London on Sat, 8 Aug 2026.
+Maxwell Owin is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ballroom at Palais, London on Sat, 8 Aug 2026.
 
 Maxwell Owin is a jazz and house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Berlin, London and Paris. Often billed alongside Cam Joon, Donut and Joe Armon-Jones. Next up: Ballroom at Palais, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Maxwell Owin is a jazz and house artist based in United Kingdom, tracked on soun
 
 Cam Joon, Donut, Joe Armon-Jones
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*

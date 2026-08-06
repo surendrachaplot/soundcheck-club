@@ -1,6 +1,6 @@
 # Varya Karpova
 
-Varya Karpova is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Glazart, Paris on Sun, 16 Aug 2026.
+Varya Karpova is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Glazart, Paris on Sun, 16 Aug 2026.
 
 Varya Karpova is a techno and trance artist tracked on soundcheck, with 39 sets logged across Amsterdam, Belgrade, Berlin and Cologne and 11 more. Often billed alongside ARPL, DJ Hyperdrive and LESSSS. Next up: Glazart, Paris on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Varya Karpova is a techno and trance artist tracked on soundcheck, with 39 sets 
 
 ARPL, DJ Hyperdrive, LESSSS
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varyakarpova/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varyakarpova/)*

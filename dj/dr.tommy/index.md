@@ -1,6 +1,6 @@
 # Dr.Tommy
 
-Dr.Tommy is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Débris, Tokyo on Thu, 6 Aug 2026.
+Dr.Tommy is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Débris, Tokyo on Thu, 6 Aug 2026.
 
 Dr.Tommy is a downtempo and house artist tracked on soundcheck, with 72 sets logged across Osaka and Tokyo. Often billed alongside NABE, Simon from Amsterdam and DJ Wada. Next up: Débris, Tokyo on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Dr.Tommy is a downtempo and house artist tracked on soundcheck, with 72 sets log
 
 NABE, Simon from Amsterdam, DJ Wada
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.tommy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.tommy/)*

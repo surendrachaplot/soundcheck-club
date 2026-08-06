@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Atonement wsg Tormented" on Fri, 21 Aug 2026.
+The Strays is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Atonement wsg Tormented" on Fri, 21 Aug 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Gwendolyn Dot, Kenjiro, Nick Burgess and Petra Steele and 1 more. Browse upcoming dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming nights, 
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

@@ -1,6 +1,6 @@
 # isu
 
-isu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Europa Boat, Budapest on Sat, 5 Sept 2026.
+isu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Europa Boat, Budapest on Sat, 5 Sept 2026.
 
 isu is a techno and house artist tracked on soundcheck, with 87 sets logged across Budapest. Often billed alongside Dork, Mode and DJ Crimson. Next up: Europa Boat, Budapest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ isu is a techno and house artist tracked on soundcheck, with 87 sets logged acro
 
 Dork, Mode, DJ Crimson
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isu/)*

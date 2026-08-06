@@ -1,6 +1,6 @@
 # TIMETRICKSTER
 
-TIMETRICKSTER is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
+TIMETRICKSTER is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
 
 TIMETRICKSTER is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside BENSN, 3mouth and Creep-P. Next up: Signal, Newyorkcity on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ TIMETRICKSTER is a hardcore and breakcore artist based in United States of Ameri
 
 BENSN, 3mouth, Creep-P
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timetrickster/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timetrickster/)*

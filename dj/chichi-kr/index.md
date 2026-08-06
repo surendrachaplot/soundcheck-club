@@ -1,6 +1,6 @@
 # CHICHI (KR)
 
-CHICHI (KR) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Volnost, Seoul on Fri, 28 Aug 2026.
+CHICHI (KR) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Volnost, Seoul on Fri, 28 Aug 2026.
 
 CHICHI (KR) is a techno and industrial artist tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside CHICHI (2), ANSR and HASLA. Next up: Volnost, Seoul on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ CHICHI (KR) is a techno and industrial artist tracked on soundcheck, with 2 sets
 
 CHICHI (2), ANSR, HASLA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chichi-kr/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chichi-kr/)*

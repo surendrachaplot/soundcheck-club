@@ -1,6 +1,6 @@
 # Mirands
 
-Mirands is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Zig Studio, Sao Paulo on Fri, 14 Aug 2026.
+Mirands is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Zig Studio, Sao Paulo on Fri, 14 Aug 2026.
 
 Mirands is a house and disco artist tracked on soundcheck, with 37 sets logged across Hamburg, Leipzig, Lisbon and London and 2 more. Often billed alongside Rafa Balera, Paulete Lindacelva and BADSISTA. Next up: Zig Studio, Saopaulo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mirands is a house and disco artist tracked on soundcheck, with 37 sets logged a
 
 Rafa Balera, Paulete Lindacelva, BADSISTA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirands/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirands/)*

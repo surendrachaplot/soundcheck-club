@@ -1,6 +1,6 @@
 # Kafe Hærverk
 
-Kafe Hærverk is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "MelaKlubb på Kafé Hærverk" on Fri, 14 Aug 2026.
+Kafe Hærverk is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "MelaKlubb på Kafé Hærverk" on Fri, 14 Aug 2026.
 
 Kafe Hærverk is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Arsenal Mikebe and Nora Pagu. Browse upcoming dates, start times and who's playing. Hausmanns gate 34 0182 Oslo, Norway.
 
@@ -14,4 +14,4 @@ Kafe Hærverk is a music venue in Oslo listed on soundcheck. 1 upcoming night, w
 
 Hausmanns gate 34 0182 Oslo, Norway, Oslo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*

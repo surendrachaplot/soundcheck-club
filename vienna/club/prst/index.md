@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Donnerstrada with Michael Wagner & Luca" on Thu, 6 Aug 2026.
+PRST is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Donnerstrada with Michael Wagner & Luca" on Thu, 6 Aug 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Anna Ullrich, BAUGRUPPE90, C.Love (2) and Chris Freud and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -22,4 +22,4 @@ PRST is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

@@ -1,6 +1,6 @@
 # DJ Skytrain
 
-DJ Skytrain is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, Vancouver on Sun, 9 Aug 2026.
+DJ Skytrain is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Vancouver on Sun, 9 Aug 2026.
 
 DJ Skytrain is a house and electronica artist based in Canada, tracked on soundcheck, with 2 sets logged across Vancouver. Often billed alongside DJPRESH, Just Dylan and Worldwide Wojtek. Next up: TBA, Vancouver on Sun 9 Aug.
 
@@ -18,4 +18,4 @@ DJ Skytrain is a house and electronica artist based in Canada, tracked on soundc
 
 DJPRESH, Just Dylan, Worldwide Wojtek
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskytrain/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskytrain/)*

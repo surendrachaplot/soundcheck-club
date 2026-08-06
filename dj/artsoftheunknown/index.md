@@ -1,6 +1,6 @@
 # Arts of the Unknown
 
-Arts of the Unknown is a Garage and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
+Arts of the Unknown is a Garage and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
 
 Arts of the Unknown is a garage and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol and London. Often billed alongside Archie Holmes, DASHY and Fredd Mann. Next up: Last Arch, London on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Arts of the Unknown is a garage and electronica artist based in United Kingdom, 
 
 Archie Holmes, DASHY, Fredd Mann
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artsoftheunknown/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artsoftheunknown/)*

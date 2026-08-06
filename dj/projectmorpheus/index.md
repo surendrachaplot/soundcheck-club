@@ -1,6 +1,6 @@
 # Project Morpheus
 
-Project Morpheus is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
+Project Morpheus is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
 
 Project Morpheus is a hardcore and techno artist based in Romania, tracked on soundcheck, with 13 sets logged across Bucharest. Often billed alongside Neotroxian, Dalek and Meiremax. Next up: Forge, Bucharest on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Project Morpheus is a hardcore and techno artist based in Romania, tracked on so
 
 Neotroxian, Dalek, Meiremax
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/projectmorpheus/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/projectmorpheus/)*

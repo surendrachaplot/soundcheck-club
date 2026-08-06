@@ -1,6 +1,6 @@
 # Ryu
 
-Ryu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
+Ryu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
 
 Ryu is a house and techno artist tracked on soundcheck, with 18 sets logged across Amsterdam, Krakow, Osaka and Paris and 1 more. Often billed alongside KONDO Mitsuo, yu-more and DJ B2B. Next up: clubasia, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ryu is a house and techno artist tracked on soundcheck, with 18 sets logged acro
 
 KONDO Mitsuo, yu-more, DJ B2B
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-1-ch/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-1-ch/)*

@@ -1,6 +1,6 @@
 # a life in space
 
-a life in space is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
+a life in space is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
 
 a life in space is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside ARLYSS, Bok Bok and Emilia G. Next up: The Fox and Firkin, London on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ a life in space is a bass and dubstep artist based in United Kingdom, tracked on
 
 ARLYSS, Bok Bok, Emilia G
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alifeinspace/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alifeinspace/)*

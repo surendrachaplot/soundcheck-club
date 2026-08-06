@@ -1,6 +1,6 @@
 # NEVASEEN presents DJ Jackum at Mint Warehouse
 
-NEVASEEN presents DJ Jackum at Mint Warehouse on Sat 19 Sept, Leeds. 3 acts on the bill: camukg, Jackum and THT GRL. Garage. Preview the line-up and save it on soundcheck.
+NEVASEEN presents DJ Jackum at Mint Warehouse on Sat 19 Sept, Leeds. 4 acts on the bill: camukg, Jackum, Jae Depz and THT GRL. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ NEVASEEN presents DJ Jackum at Mint Warehouse on Sat 19 Sept, Leeds. 3 acts on t
 
 - camukg
 - Jackum
+- Jae Depz
 - THT GRL
 
 *Source: [soundcheck](https://soundcheck.club/e/2506245-nevaseen-presents-dj-jackum-at-mint-warehouse/)*

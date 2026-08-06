@@ -1,14 +1,15 @@
 # DJ Dials
 
-DJ Dials is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+DJ Dials is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
-DJ Dials is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles and Sanfrancisco. Often billed alongside Galen, Adra and Anthony Mansfield. Next up: 1015 Folsom, Sanfrancisco on Thu 6 Aug.
+DJ Dials is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Sanfrancisco. Often billed alongside Galen, Adra and Anthony Mansfield. Next up: 1015 Folsom, Sanfrancisco on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
+| Fri, 7 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Dials is a house and techno artist based in United States of America, tracked
 
 Galen, Adra, Anthony Mansfield
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dials/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dials/)*

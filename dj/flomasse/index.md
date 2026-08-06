@@ -1,6 +1,6 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Flo Massé is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Flo Massé is a house and techno artist tracked on soundcheck, with 112 sets log
 
 Jolly (FR), DJ Gamba, P.O (1)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*

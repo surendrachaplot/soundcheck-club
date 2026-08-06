@@ -1,6 +1,6 @@
 # Preta
 
-Preta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Silbergold, Frankfurt on Sat, 8 Aug 2026.
+Preta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Silbergold, Frankfurt on Sat, 8 Aug 2026.
 
 Preta is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt and Vienna. Often billed alongside Heepmann, Faraz Shin and 0megavybe. Next up: Silbergold, Frankfurt on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Preta is a techno and house artist tracked on soundcheck, with 14 sets logged ac
 
 Heepmann, Faraz Shin, 0megavybe
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preta/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/preta/)*

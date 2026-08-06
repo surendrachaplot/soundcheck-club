@@ -1,6 +1,6 @@
 # TBA - RECORD CITY SHOP
 
-TBA - RECORD CITY SHOP is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "TOKYO CITY SESSIONS - Drum & Bass vinyl party at RECORD CITY SHOP" on Fri, 7 Aug 2026.
+TBA - RECORD CITY SHOP is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "TOKYO CITY SESSIONS - Drum & Bass vinyl party at RECORD CITY SHOP" on Fri, 7 Aug 2026.
 
 TBA - RECORD CITY SHOP is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including MileZ and Velocity. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - RECORD CITY SHOP is a music venue in Tokyo listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TOKYO CITY SESSIONS - Drum & Bass vinyl party at RECORD CITY SHOP | MileZ, Velocity |
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-record-city-shop/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-record-city-shop/)*

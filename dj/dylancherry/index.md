@@ -1,14 +1,15 @@
 # Dylan Cherry
 
-Dylan Cherry is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at NWHR, Montreal on Sat, 8 Aug 2026.
+Dylan Cherry is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at NWHR, Montreal on Sat, 8 Aug 2026.
 
-Dylan Cherry is a techno and minimal artist based in Canada, tracked on soundcheck, with 16 sets logged across Montreal. Often billed alongside Sound Crate, Altinbas and Christø. Next up: NWHR, Montreal on Sat 8 Aug.
+Dylan Cherry is a techno and minimal artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal. Often billed alongside Sound Crate, Altinbas and Christø. Next up: NWHR, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | NWHR | Montreal |
+| Sat, 15 Aug 2026 | Blue Room | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dylan Cherry is a techno and minimal artist based in Canada, tracked on soundche
 
 Sound Crate, Altinbas, Christø
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylancherry/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylancherry/)*

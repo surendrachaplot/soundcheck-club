@@ -1,6 +1,6 @@
 # Sam Clark
 
-Sam Clark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Rodeo, New York City on Fri, 7 Aug 2026.
+Sam Clark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Rodeo, New York City on Fri, 7 Aug 2026.
 
 Sam Clark is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Austin and Newyorkcity. Often billed alongside Horse Opera, Brett Johnson and TORSK. Next up: Rodeo, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sam Clark is a house and deep house artist based in United States of America, tr
 
 Horse Opera, Brett Johnson, TORSK
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samclark/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samclark/)*

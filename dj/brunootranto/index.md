@@ -1,6 +1,6 @@
 # Bruno Otranto
 
-Bruno Otranto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Golden Gate, Berlin on Thu, 13 Aug 2026.
+Bruno Otranto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Golden Gate, Berlin on Thu, 13 Aug 2026.
 
 Bruno Otranto is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Barcelona and Berlin and 5 more. Often billed alongside Frankie Flowerz, Anna Schreit and Bianka Banks. Next up: Golden Gate, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Bruno Otranto is a house and techno artist tracked on soundcheck, with 69 sets l
 
 Frankie Flowerz, Anna Schreit, Bianka Banks
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunootranto/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunootranto/)*

@@ -1,6 +1,6 @@
 # Bruja de Mentira
 
-Bruja de Mentira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Oriente, Mexico City on Sun, 9 Aug 2026.
+Bruja de Mentira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Oriente, Mexico City on Sun, 9 Aug 2026.
 
 Bruja de Mentira is a house and techno artist tracked on soundcheck, with 18 sets logged across Chicago and Mexicocity. Often billed alongside Valac, Adrian Bluper and Borgetti. Next up: Bar Oriente, Mexicocity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Bruja de Mentira is a house and techno artist tracked on soundcheck, with 18 set
 
 Valac, Adrian Bluper, Borgetti
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brujadementira/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brujadementira/)*

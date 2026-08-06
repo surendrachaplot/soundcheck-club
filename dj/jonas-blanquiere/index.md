@@ -1,6 +1,6 @@
 # Jonas Blanquiere
 
-Jonas Blanquiere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Absolem Marseille, Marseille on Sun, 9 Aug 2026.
+Jonas Blanquiere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Absolem Marseille, Marseille on Sun, 9 Aug 2026.
 
 Jonas Blanquiere is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin and Marseille. Often billed alongside Cez (1), Lenny Mailleau and Michel7000. Next up: Absolem Marseille, Marseille on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ Jonas Blanquiere is a house and techno artist tracked on soundcheck, with 6 sets
 
 Cez (1), Lenny Mailleau, Michel7000
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonas-blanquiere/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonas-blanquiere/)*

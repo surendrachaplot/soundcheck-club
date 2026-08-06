@@ -1,6 +1,6 @@
 # MIKE RANSOM
 
-MIKE RANSOM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Oath, Tokyo on Thu, 6 Aug 2026.
+MIKE RANSOM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Oath, Tokyo on Thu, 6 Aug 2026.
 
 MIKE RANSOM is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Detroit and Tokyo. Often billed alongside Kevin Reynolds, Steingold and Aboudi Issa. Next up: Oath, Tokyo on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ MIKE RANSOM is a techno and house artist based in United States of America, trac
 
 Kevin Reynolds, Steingold, Aboudi Issa
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeransom/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeransom/)*

@@ -1,6 +1,6 @@
 # DAWS
 
-DAWS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Minigolf Hard, Zurich on Sat, 8 Aug 2026.
+DAWS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Minigolf Hard, Zurich on Sat, 8 Aug 2026.
 
 DAWS is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Baby G, Bertie and Aldonna. Next up: Minigolf Hard, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DAWS is a house and techno artist tracked on soundcheck, with 64 sets logged acr
 
 Baby G, Bertie, Aldonna
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

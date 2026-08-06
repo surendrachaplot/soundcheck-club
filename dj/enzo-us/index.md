@@ -1,14 +1,15 @@
 # enz.O
 
-enz.O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
+enz.O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
 
-enz.O is a house and techno artist tracked on soundcheck, with 74 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ramos (2), KayLaSoul and Jus Nowhere. Next up: Flash, Washingtondc on Fri 7 Aug.
+enz.O is a house and techno artist tracked on soundcheck, with 75 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ramos (2), KayLaSoul and Jus Nowhere. Next up: Flash, Washingtondc on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Flash | Washington DC |
+| Sun, 9 Aug 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ enz.O is a house and techno artist tracked on soundcheck, with 74 sets logged ac
 
 Ramos (2), KayLaSoul, Jus Nowhere
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*

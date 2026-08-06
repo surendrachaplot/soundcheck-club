@@ -1,6 +1,6 @@
 # Forest
 
-Forest is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Forest is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Forest is a trance and techno artist tracked on soundcheck, with 45 sets logged across Barcelona, Brussels, Copenhagen and Ghent and 6 more. Often billed alongside Lastvuska, Jolly (FR) and Bambi (FR). Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Forest is a trance and techno artist tracked on soundcheck, with 45 sets logged 
 
 Lastvuska, Jolly (FR), Bambi (FR)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forest/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forest/)*

@@ -1,6 +1,6 @@
 # DJ CASPER (2)
 
-DJ CASPER (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
+DJ CASPER (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 7 Aug 2026.
 
 DJ CASPER (2) is a techno and club artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne and Sydney. Often billed alongside Aaliyah Salem, ATARANGI and FOZZA. Next up: Angel Music Bar, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ CASPER (2) is a techno and club artist based in Australia, tracked on soundch
 
 Aaliyah Salem, ATARANGI, FOZZA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcasper-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcasper-2/)*

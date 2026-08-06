@@ -1,14 +1,15 @@
 # Xela.
 
-Xela. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
+Xela. is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
 
-Xela. is a techno and electro artist based in Canada, tracked on soundcheck, with 31 sets logged across Toronto. Often billed alongside /ASYNC, Hycastle and TJ Traxx. Next up: Cherry Beach, Toronto on Sun 9 Aug.
+Xela. is a techno and electro artist based in Canada, tracked on soundcheck, with 32 sets logged across Toronto. Often billed alongside /ASYNC, Hycastle and ARK1TEK. Next up: Cherry Beach, Toronto on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Cherry Beach | Toronto |
+| Sun, 9 Aug 2026 | TBA - DUPONT & DUNDAS ST WEST | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Xela. is a techno and electro artist based in Canada, tracked on soundcheck, wit
 
 ## Shares bills with
 
-/ASYNC, Hycastle, TJ Traxx
+/ASYNC, Hycastle, ARK1TEK
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xela./)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xela./)*

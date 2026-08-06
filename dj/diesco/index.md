@@ -1,6 +1,6 @@
 # Diesco
 
-Diesco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Studio Stereo, Barcelona on Sat, 15 Aug 2026.
+Diesco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Studio Stereo, Barcelona on Sat, 15 Aug 2026.
 
 Diesco is a house and electro artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Vince Void, Pau Rosés and Adria (ES). Next up: Studio Stereo, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Diesco is a house and electro artist tracked on soundcheck, with 55 sets logged 
 
 Vince Void, Pau Rosés, Adria (ES)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*

@@ -1,6 +1,6 @@
 # Paul Z
 
-Paul Z is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
+Paul Z is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lost Horizon, Bristol on Sat, 5 Sept 2026.
 
 Paul Z is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bristol and London. Often billed alongside B.S.E, Mark Neenan and Latex Zebra. Next up: Lost Horizon, Bristol on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Paul Z is a techno and acid artist based in United Kingdom, tracked on soundchec
 
 B.S.E, Mark Neenan, Latex Zebra
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulz/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulz/)*

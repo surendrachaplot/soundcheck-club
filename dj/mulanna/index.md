@@ -1,6 +1,6 @@
 # mul/ANNA
 
-mul/ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Garage Noord, Amsterdam on Sat, 15 Aug 2026.
+mul/ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Garage Noord, Amsterdam on Sat, 15 Aug 2026.
 
 mul/ANNA is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Madrid, Rotterdam and Thehague and 1 more. Often billed alongside TWIENA, Jeans (NL) and Afra. Next up: Garage Noord, Amsterdam on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ mul/ANNA is a techno and house artist tracked on soundcheck, with 62 sets logged
 
 TWIENA, Jeans (NL), Afra
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mulanna/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mulanna/)*

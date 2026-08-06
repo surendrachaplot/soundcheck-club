@@ -1,6 +1,6 @@
 # Lapgan
 
-Lapgan is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
+Lapgan is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Elsewhere, New York City on Sat, 15 Aug 2026.
 
 Lapgan is an electronica and garage artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago, Newyorkcity, Toronto and Washingtondc. Often billed alongside Dynoman, Baalti and Ushka. Next up: Elsewhere, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lapgan is an electronica and garage artist based in United States of America, tr
 
 Dynoman, Baalti, Ushka
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapgan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapgan/)*

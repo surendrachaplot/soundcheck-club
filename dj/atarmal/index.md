@@ -1,6 +1,6 @@
 # ATARMAL
 
-ATARMAL is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Smolna, Warsaw on Thu, 6 Aug 2026.
+ATARMAL is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Smolna, Warsaw on Thu, 6 Aug 2026.
 
 ATARMAL is a techno artist tracked on soundcheck, with 8 sets logged across Warsaw. Often billed alongside Mabu, Kasia DVD and KoZa. Next up: Smolna, Warsaw on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ ATARMAL is a techno artist tracked on soundcheck, with 8 sets logged across Wars
 
 Mabu, Kasia DVD, KoZa
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atarmal/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atarmal/)*

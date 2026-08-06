@@ -1,6 +1,6 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 11 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Multi Story, London on Fri, 7 Aug 2026.
+leverson is a R&B and Hip-Hop artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Multi Story, London on Fri, 7 Aug 2026.
 
 leverson is a r&b and hip-hop artist tracked on soundcheck, with 174 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Multi Story, London on Fri 7 Aug.
 
@@ -35,4 +35,4 @@ leverson is a r&b and hip-hop artist tracked on soundcheck, with 174 sets logged
 
 Signorina, Omari King, Omari
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

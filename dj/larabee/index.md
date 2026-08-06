@@ -1,6 +1,6 @@
 # Lara Bee
 
-Lara Bee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
+Lara Bee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
 
 Lara Bee is a house and disco artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside Artphorm, Dimitry and Salvo (CA). Next up: Vino Disco, Montreal on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Lara Bee is a house and disco artist based in Canada, tracked on soundcheck, wit
 
 Artphorm, Dimitry, Salvo (CA)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larabee/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larabee/)*

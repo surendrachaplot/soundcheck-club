@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Melé is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Barcelona and Bristol and 28 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Melé is a house and tech house artist tracked on soundcheck, with 117 sets logg
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

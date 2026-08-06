@@ -1,6 +1,6 @@
 # Palmistry
 
-Palmistry is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
+Palmistry is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
 Palmistry is an experimental and club artist tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside Blood of Aza, Kamixlo and Felix Lee. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Palmistry is an experimental and club artist tracked on soundcheck, with 33 sets
 
 Blood of Aza, Kamixlo, Felix Lee
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmistry/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmistry/)*

@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 23 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Luke Alessi" on Thu, 6 Aug 2026.
+Substation is a music venue in Seattle with 23 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Luke Alessi" on Thu, 6 Aug 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 23 upcoming nights, with line-ups including AC Slater, Austin R, Baauer and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 23 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

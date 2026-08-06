@@ -1,6 +1,6 @@
 # Jiho
 
-Jiho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
+Jiho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
 
 Jiho is a techno and house artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside Linear System (CR), Shintarø Kanie and Chrumi. Next up: VENT, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jiho is a techno and house artist based in Japan, tracked on soundcheck, with 26
 
 Linear System (CR), Shintarø Kanie, Chrumi
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiho/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiho/)*

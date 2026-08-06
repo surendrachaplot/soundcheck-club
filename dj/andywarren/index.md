@@ -1,6 +1,6 @@
 # Andy Warren
 
-Andy Warren is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Andy Warren is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Andy Warren is a house and techno artist tracked on soundcheck, with 38 sets logged across Newyorkcity, Portland, Sanfrancisco and Tokyo and 1 more. Often billed alongside Peter Sheppard, Ginkgo and Trustfall. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Andy Warren is a house and techno artist tracked on soundcheck, with 38 sets log
 
 Peter Sheppard, Ginkgo, Trustfall
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*

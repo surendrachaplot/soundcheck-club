@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Café del Mar Malta, Malta on Sat, 8 Aug 2026.
+Artbat is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Café del Mar Malta, Malta on Sat, 8 Aug 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Café del Mar Malta, Malta on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 119 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

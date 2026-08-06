@@ -1,6 +1,6 @@
 # Dynoman
 
-Dynoman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Silence Please, New York City on Mon, 10 Aug 2026.
+Dynoman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Silence Please, New York City on Mon, 10 Aug 2026.
 
 Dynoman is a techno and club artist tracked on soundcheck, with 58 sets logged across Newyorkcity and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Silence Please, Newyorkcity on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Dynoman is a techno and club artist tracked on soundcheck, with 58 sets logged a
 
 Zara Dekho, Arianna Danae, JIALING
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*

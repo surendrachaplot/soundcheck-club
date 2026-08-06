@@ -1,6 +1,6 @@
 # Tyre Pressure
 
-Tyre Pressure is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Killing Time, Valencia on Thu, 6 Aug 2026.
+Tyre Pressure is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Killing Time, Valencia on Thu, 6 Aug 2026.
 
 Tyre Pressure is a dub and bass artist tracked on soundcheck, with 10 sets logged across Barcelona, Glasgow, Madrid and Valencia. Often billed alongside Andrae Durden, Chicha (2) and Emilia Grima. Next up: Killing Time, Valencia on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Tyre Pressure is a dub and bass artist tracked on soundcheck, with 10 sets logge
 
 Andrae Durden, Chicha (2), Emilia Grima
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrepressure/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrepressure/)*

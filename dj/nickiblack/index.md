@@ -1,6 +1,6 @@
 # Nicki Black
 
-Nicki Black is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Nicki Black is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Nicki Black is an industrial and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Fluid, hybral and Mogano. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Nicki Black is an industrial and techno artist based in Germany, tracked on soun
 
 Fluid, hybral, Mogano
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickiblack/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickiblack/)*

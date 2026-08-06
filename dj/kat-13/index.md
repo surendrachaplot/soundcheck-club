@@ -1,6 +1,6 @@
 # Kat (13)
 
-Kat (13) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Minimal Bar, Berlin on Fri, 14 Aug 2026.
+Kat (13) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Minimal Bar, Berlin on Fri, 14 Aug 2026.
 
 Kat (13) is a minimal and house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Nacime B and maniac&me. Next up: Minimal Bar, Berlin on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Kat (13) is a minimal and house artist tracked on soundcheck, with 3 sets logged
 
 Nacime B, maniac&me
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-13/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-13/)*

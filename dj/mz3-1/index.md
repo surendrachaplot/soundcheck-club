@@ -1,6 +1,6 @@
 # Mz3 (1)
 
-Mz3 (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mood Ring, New York City on Thu, 20 Aug 2026.
+Mz3 (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Mood Ring, New York City on Thu, 20 Aug 2026.
 
 Mz3 (1) is a techno and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside Alissa Brianna, Pacha DJ and Spam. Next up: Mood Ring, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Mz3 (1) is a techno and house artist based in United States of America, tracked 
 
 Alissa Brianna, Pacha DJ, Spam
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mz3-1/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mz3-1/)*

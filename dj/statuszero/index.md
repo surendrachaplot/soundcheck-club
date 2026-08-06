@@ -1,6 +1,6 @@
 # Status Zero
 
-Status Zero is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Socrates, Kyoto on Fri, 14 Aug 2026.
+Status Zero is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Socrates, Kyoto on Fri, 14 Aug 2026.
 
 Status Zero is a club and hardcore artist tracked on soundcheck, with 7 sets logged across Berlin and Kyoto. Often billed alongside Multifun, The Burgler and DJ ritalino. Next up: Socrates, Kyoto on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Status Zero is a club and hardcore artist tracked on soundcheck, with 7 sets log
 
 Multifun, The Burgler, DJ ritalino
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/statuszero/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/statuszero/)*

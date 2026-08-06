@@ -1,6 +1,6 @@
 # Keumzer
 
-Keumzer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
+Keumzer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
 
 Keumzer is a house and techno artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin and Lyon. Often billed alongside Lobby (FR), Atletico and 3ple Kix. Next up: AMT, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Keumzer is a house and techno artist tracked on soundcheck, with 12 sets logged 
 
 Lobby (FR), Atletico, 3ple Kix
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keumzer/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keumzer/)*

@@ -1,14 +1,15 @@
 # Sneaker
 
-Sneaker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - 6910 Shirley , Austin on Sat, 8 Aug 2026.
+Sneaker is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - 6910 Shirley , Austin on Sat, 8 Aug 2026.
 
-Sneaker is a house and techno artist tracked on soundcheck, with 30 sets logged across Austin, Berlin, Bucharest and Chicago and 11 more. Often billed alongside Joshua Cordova, Scott Zacharias and Traxx. Next up: TBA - 6910 Shirley , Austin on Sat 8 Aug.
+Sneaker is a house and acid artist tracked on soundcheck, with 31 sets logged across Austin, Berlin, Bucharest and Chicago and 11 more. Often billed alongside Joshua Cordova, Scott Zacharias and Traxx. Next up: TBA - 6910 Shirley , Austin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | TBA - 6910 Shirley  | Austin |
+| Sun, 9 Aug 2026 | smartbar | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sneaker is a house and techno artist tracked on soundcheck, with 30 sets logged 
 
 Joshua Cordova, Scott Zacharias, Traxx
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sneaker/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sneaker/)*

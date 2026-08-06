@@ -1,6 +1,6 @@
 # Big Queso
 
-Big Queso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
+Big Queso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
 
 Big Queso is a house and tech house artist tracked on soundcheck, with 9 sets logged across Philadelphia. Often billed alongside Cowa, Qino Bounce and tj groover. Next up: Liberty Point, Philadelphia on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Big Queso is a house and tech house artist tracked on soundcheck, with 9 sets lo
 
 Cowa, Qino Bounce, tj groover
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*

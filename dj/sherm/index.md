@@ -1,6 +1,6 @@
 # Sherm
 
-Sherm is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Spybar, Chicago on Sat, 29 Aug 2026.
+Sherm is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Spybar, Chicago on Sat, 29 Aug 2026.
 
 Sherm is a tech house and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Chicago. Next up: Spybar, Chicago on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Sherm is a tech house and house artist based in United States of America, tracke
 
 - Outset, Chicago — Fri, 31 Oct 2025
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherm/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherm/)*

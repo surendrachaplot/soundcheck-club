@@ -1,6 +1,6 @@
 # Chep
 
-Chep is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Groove Bar, Prague on Thu, 6 Aug 2026.
+Chep is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Groove Bar, Prague on Thu, 6 Aug 2026.
 
 Chep is a house and deep house artist based in Czech Republic, tracked on soundcheck, with 47 sets logged across Prague. Often billed alongside Sasha Nevolin, Martin Vágner and Dona. Next up: Groove Bar, Prague on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Chep is a house and deep house artist based in Czech Republic, tracked on soundc
 
 Sasha Nevolin, Martin Vágner, Dona
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chep/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chep/)*

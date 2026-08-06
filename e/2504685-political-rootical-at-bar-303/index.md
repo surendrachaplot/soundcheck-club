@@ -1,6 +1,6 @@
 # Political Rootical at Bar 303
 
-Political Rootical at Bar 303 on Sat 22 Aug, Melbourne. Hip-Hop and Dub. Preview the line-up and save it on soundcheck.
+Political Rootical at Bar 303 on Sat 22 Aug, Melbourne. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

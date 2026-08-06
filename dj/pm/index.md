@@ -1,13 +1,14 @@
 # PM
 
-PM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
+PM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 314 Scholes, New York City on Thu, 6 Aug 2026.
 
-PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 43 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside AM (8), 18+ and ZIGGY ZAYA. Next up: Revolver Upstairs, Melbourne on Fri 14 Aug.
+PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside AM (8), 18+ and ZIGGY ZAYA. Next up: 314 Scholes, Newyorkcity on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | 314 Scholes | New York City |
 | Fri, 14 Aug 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 43 
 
 AM (8), 18+, ZIGGY ZAYA
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*

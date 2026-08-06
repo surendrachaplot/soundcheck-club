@@ -1,6 +1,6 @@
 # Deep Pedi
 
-Deep Pedi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - UNDISCLOSED LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
+Deep Pedi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - UNDISCLOSED LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Deep Pedi is a techno and electronica artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside Adra, Barbosa and Authentic. Next up: TBA - UNDISCLOSED LOCATION, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Deep Pedi is a techno and electronica artist based in United States of America, 
 
 Adra, Barbosa, Authentic
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeppedi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeppedi/)*

@@ -1,6 +1,6 @@
 # Phantoms
 
-Phantoms is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 8 Aug 2026.
+Phantoms is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 8 Aug 2026.
 
 Phantoms is a house and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Losangeles, Nashville and Newyorkcity and 2 more. Often billed alongside Bad Tuner, Gilligan Moss and Mona Matsuoka. Next up: Level 8 DTLA, Losangeles on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Phantoms is a house and electronica artist based in United States of America, tr
 
 Bad Tuner, Gilligan Moss, Mona Matsuoka
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phantoms/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phantoms/)*

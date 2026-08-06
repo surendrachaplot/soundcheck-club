@@ -1,6 +1,6 @@
 # Kasra V
 
-Kasra V is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+Kasra V is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
 Kasra V is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Bristol and Brussels and 20 more. Often billed alongside Angel D'lite, Marie Malarie and 131bpm. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kasra V is a techno and house artist tracked on soundcheck, with 64 sets logged 
 
 Angel D'lite, Marie Malarie, 131bpm
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*

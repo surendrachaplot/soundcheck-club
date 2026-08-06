@@ -1,6 +1,6 @@
 # Blaise Deville
 
-Blaise Deville is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Parc du Conservatoire - Nyon, Geneva on Fri, 7 Aug 2026.
+Blaise Deville is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Parc du Conservatoire - Nyon, Geneva on Fri, 7 Aug 2026.
 
 Blaise Deville is a dub and dubstep artist tracked on soundcheck, with 4 sets logged across Geneva and Zurich. Often billed alongside Mother Dubber, BJF and Channel One Sound. Next up: Parc du Conservatoire - Nyon, Geneva on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Blaise Deville is a dub and dubstep artist tracked on soundcheck, with 4 sets lo
 
 Mother Dubber, BJF, Channel One Sound
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaisedeville/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaisedeville/)*

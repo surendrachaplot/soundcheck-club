@@ -1,6 +1,6 @@
 # Cocktail Party Effect
 
-Cocktail Party Effect is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
+Cocktail Party Effect is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
 
 Cocktail Party Effect is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Belgrade, Berlin, London and Milan and 5 more. Often billed alongside Isabassi, DE:MA and Mo Van Zandt. Next up: Aaja Basement, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cocktail Party Effect is an experimental and club artist based in United Kingdom
 
 Isabassi, DE:MA, Mo Van Zandt
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocktailpartyeffect/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocktailpartyeffect/)*

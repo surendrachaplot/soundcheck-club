@@ -1,19 +1,19 @@
 # NOBUYA (2)
 
-NOBUYA (2) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Joule, Osaka on Wed, 5 Aug 2026.
+NOBUYA (2) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Joule, Osaka on Sat, 15 Aug 2026.
 
-NOBUYA (2) is a techno and tech house artist based in Japan, tracked on soundcheck, with 66 sets logged across Osaka, Singapore and Tokyo. Often billed alongside O-MAN, ALESSA(JP) and Nao Nomura. Next up: Joule, Osaka on Wed 5 Aug.
+NOBUYA (2) is a techno and tech house artist based in Japan, tracked on soundcheck, with 66 sets logged across Osaka, Singapore and Tokyo. Often billed alongside O-MAN, ALESSA(JP) and Nao Nomura. Next up: Joule, Osaka on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Joule | Osaka |
 | Sat, 15 Aug 2026 | Joule | Osaka |
 | Sat, 12 Sept 2026 | Joule | Osaka |
 
 ## Recently played
 
+- Joule, Osaka — Wed, 5 Aug 2026
 - Joule, Osaka — Wed, 29 Jul 2026
 - Joule, Osaka — Wed, 22 Jul 2026
 - Joule, Osaka — Sun, 19 Jul 2026
@@ -21,10 +21,9 @@ NOBUYA (2) is a techno and tech house artist based in Japan, tracked on soundche
 - The Lively Osaka Honmachi, Osaka — Sun, 12 Jul 2026
 - Joule, Osaka — Sat, 11 Jul 2026
 - Joule, Osaka — Fri, 10 Jul 2026
-- Joule, Osaka — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 O-MAN, ALESSA(JP), Nao Nomura
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-2/)*

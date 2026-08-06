@@ -1,6 +1,6 @@
 # Josefina Dusk
 
-Josefina Dusk is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Čistírna1906, Prague on Wed, 16 Sept 2026.
+Josefina Dusk is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Čistírna1906, Prague on Wed, 16 Sept 2026.
 
 Josefina Dusk is an electronica and experimental artist based in Czech Republic, tracked on soundcheck, with 4 sets logged across Prague and Vienna. Often billed alongside Mala Herba. Next up: Čistírna1906, Prague on Wed 16 Sept.
 
@@ -20,4 +20,4 @@ Josefina Dusk is an electronica and experimental artist based in Czech Republic,
 
 Mala Herba
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinadusk/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinadusk/)*

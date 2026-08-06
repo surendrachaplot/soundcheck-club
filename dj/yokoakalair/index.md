@@ -1,6 +1,6 @@
 # YOKO aka LAiR
 
-YOKO aka LAiR is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Joule, Osaka on Sat, 15 Aug 2026.
+YOKO aka LAiR is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Joule, Osaka on Sat, 15 Aug 2026.
 
 YOKO aka LAiR is a techno and tech house artist tracked on soundcheck, with 34 sets logged across Osaka and Tokyo. Often billed alongside O-MAN, Nao Nomura and Drunken Kong. Next up: Joule, Osaka on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ YOKO aka LAiR is a techno and tech house artist tracked on soundcheck, with 34 s
 
 O-MAN, Nao Nomura, Drunken Kong
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoakalair/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoakalair/)*

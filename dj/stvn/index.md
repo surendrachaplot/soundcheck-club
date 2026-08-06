@@ -1,6 +1,6 @@
 # STVN
 
-STVN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
+STVN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
 
 STVN is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Melbourne. Often billed alongside BVNNII, Flow and Ham (5). Next up: John Doe, Amsterdam on Tue 25 Aug.
 
@@ -20,4 +20,4 @@ STVN is a techno and tech house artist based in Netherlands, tracked on soundche
 
 BVNNII, Flow, Ham (5)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stvn/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stvn/)*

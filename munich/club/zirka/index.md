@@ -1,6 +1,6 @@
 # ZIRKA
 
-ZIRKA is a music venue in Munich with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "Radio 80000 Sommerfest" on Fri, 7 Aug 2026.
+ZIRKA is a music venue in Munich with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Radio 80000 Sommerfest" on Fri, 7 Aug 2026.
 
 ZIRKA is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including DJ Trompete and heronymus. Browse upcoming dates, start times and who's playing. Dachauer Str. 110c, 80636 München, Germany.
 
@@ -14,4 +14,4 @@ ZIRKA is a music venue in Munich listed on soundcheck. 1 upcoming night, with li
 
 Dachauer Str. 110c, 80636 München, Germany, Munich
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zirka/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zirka/)*

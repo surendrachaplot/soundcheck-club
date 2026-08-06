@@ -1,6 +1,6 @@
 # Dean Denali
 
-Dean Denali is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Club der Visionaere, Berlin on Tue, 11 Aug 2026.
+Dean Denali is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club der Visionaere, Berlin on Tue, 11 Aug 2026.
 
 Dean Denali is an electro and techno artist tracked on soundcheck, with 10 sets logged across Barcelona and Berlin. Often billed alongside cxtene, YTU (DE) and Ma.to. Next up: Club der Visionaere, Berlin on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Dean Denali is an electro and techno artist tracked on soundcheck, with 10 sets 
 
 cxtene, YTU (DE), Ma.to
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deandenali/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deandenali/)*

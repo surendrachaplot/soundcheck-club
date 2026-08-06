@@ -1,6 +1,6 @@
 # Lee Reynolds
 
-Lee Reynolds is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
+Lee Reynolds is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
 
 Lee Reynolds is a house and techno artist tracked on soundcheck, with 62 sets logged across Austin, Boston, Chicago and Denver and 10 more. Often billed alongside Mikey Lion, Marbs and Porky. Next up: TBA, Sandiego on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lee Reynolds is a house and techno artist tracked on soundcheck, with 62 sets lo
 
 Mikey Lion, Marbs, Porky
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leereynolds/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leereynolds/)*

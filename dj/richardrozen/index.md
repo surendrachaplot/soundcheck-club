@@ -1,6 +1,6 @@
 # Richard Rozen
 
-Richard Rozen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Mad Radio Miami, Miami on Sat, 8 Aug 2026.
+Richard Rozen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Mad Radio Miami, Miami on Sat, 8 Aug 2026.
 
 Richard Rozen is a house and techno artist tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona and Miami. Often billed alongside ChillOhm, Eddy Romero and Pier Mood. Next up: Mad Radio Miami, Miami on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Richard Rozen is a house and techno artist tracked on soundcheck, with 6 sets lo
 
 ChillOhm, Eddy Romero, Pier Mood
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardrozen/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardrozen/)*

@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Arapu is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Arapu is a house and minimal artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Arapu is a house and minimal artist tracked on soundcheck, with 147 sets logged 
 
 Priku, Seth Troxler, Sossa
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

@@ -1,6 +1,6 @@
 # Lumia
 
-Lumia is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
+Lumia is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
 
 Lumia is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across London, Miami, Newyorkcity and Paris and 2 more. Often billed alongside Adrian Escobar (US), Bedouin and Layton Giordani. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lumia is a house and deep house artist based in United States of America, tracke
 
 Adrian Escobar (US), Bedouin, Layton Giordani
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumia/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumia/)*

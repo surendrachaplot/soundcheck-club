@@ -1,14 +1,13 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 5 Aug 2026.
+James Hype (UK) is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 9 Aug 2026.
 
-James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Hï Ibiza, Ibiza on Wed 5 Aug.
+James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Ku Barcelona, Barcelona on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Ku Barcelona | Barcelona |
 | Wed, 12 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Magazine Open–Air | London |
@@ -20,9 +19,11 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171
 | Wed, 23 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Roxy | Prague |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Wed, 5 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 29 Jul 2026
@@ -30,10 +31,9 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171
 - Hï Ibiza, Ibiza — Wed, 15 Jul 2026
 - Cavo Paradiso, Mykonos — Mon, 13 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 8 Jul 2026
-- Bolivar Beach Bar, Athens — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

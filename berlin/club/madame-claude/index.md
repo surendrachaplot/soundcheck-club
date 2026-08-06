@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Dj Adventurous Juan" on Thu, 6 Aug 2026.
+Madame Claude is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Dj Adventurous Juan" on Thu, 6 Aug 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Aquarium and Paulina Panik. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 9 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

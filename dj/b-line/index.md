@@ -1,6 +1,6 @@
 # b-line
 
-b-line is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
+b-line is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
 
 b-line is a drum & bass and bass artist tracked on soundcheck, with 10 sets logged across Birmingham, Leeds, London and Sheffield. Often billed alongside Grima & Azza, Logan D and Eksman. Next up: Egg London, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ b-line is a drum & bass and bass artist tracked on soundcheck, with 10 sets logg
 
 Grima & Azza, Logan D, Eksman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*

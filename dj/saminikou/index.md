@@ -1,6 +1,6 @@
 # Sami Nikou
 
-Sami Nikou is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 7 Aug 2026.
+Sami Nikou is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 7 Aug 2026.
 
 Sami Nikou is a house and disco artist based in Iran, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside Chiara, Stroom and BABL. Next up: Paradise Grapevine Winery, Toronto on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sami Nikou is a house and disco artist based in Iran, tracked on soundcheck, wit
 
 Chiara, Stroom, BABL
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saminikou/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saminikou/)*

@@ -1,6 +1,6 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Forge, Bucharest on Sat, 8 Aug 2026.
+Nu Zau is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Forge, Bucharest on Sat, 8 Aug 2026.
 
 Nu Zau is a minimal and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Forge, Bucharest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nu Zau is a minimal and house artist tracked on soundcheck, with 84 sets logged 
 
 Sepp, Arapu, Sublee
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

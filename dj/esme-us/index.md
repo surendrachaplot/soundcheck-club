@@ -1,6 +1,6 @@
 # esme (US)
 
-esme (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
+esme (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Centre-sud, Montreal on Fri, 7 Aug 2026.
 
 esme (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Losangeles, Montreal, Nashville and Toronto. Often billed alongside s.talbot, Esther Côté and dileta. Next up: TBA - Centre-sud, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ esme (US) is a techno and house artist based in United States of America, tracke
 
 s.talbot, Esther Côté, dileta
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esme-us/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esme-us/)*

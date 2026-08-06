@@ -1,6 +1,6 @@
 # Augustus Williams
 
-Augustus Williams is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+Augustus Williams is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
 Augustus Williams is a techno and electro artist based in United States of America, tracked on soundcheck, with 51 sets logged across Austin, Berlin, Chicago and Detroit and 1 more. Often billed alongside DJ I.V., DJ Seoul and Dru Ruiz. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Augustus Williams is a techno and electro artist based in United States of Ameri
 
 DJ I.V., DJ Seoul, Dru Ruiz
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/augustuswilliams/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/augustuswilliams/)*

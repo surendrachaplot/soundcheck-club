@@ -1,6 +1,6 @@
 # Simula
 
-Simula is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Simula is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Simula is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Antwerp, Basel, Berlin and Brighton and 22 more. Often billed alongside Jakes, Hedex and Skantia. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Simula is a drum & bass and dubstep artist based in United Kingdom, tracked on s
 
 Jakes, Hedex, Skantia
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*

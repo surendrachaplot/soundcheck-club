@@ -1,6 +1,6 @@
 # BLURR3D
 
-BLURR3D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Revolver Upstairs, Melbourne on Thu, 6 Aug 2026.
+BLURR3D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Revolver Upstairs, Melbourne on Thu, 6 Aug 2026.
 
 BLURR3D is a techno and house artist tracked on soundcheck, with 25 sets logged across Kyoto and Melbourne. Often billed alongside Charlotte Rooney, KJONES and TRUSTEE. Next up: Revolver Upstairs, Melbourne on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ BLURR3D is a techno and house artist tracked on soundcheck, with 25 sets logged 
 
 Charlotte Rooney, KJONES, TRUSTEE
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blurr3d/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blurr3d/)*

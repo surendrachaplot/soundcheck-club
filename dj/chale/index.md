@@ -1,6 +1,6 @@
 # CHALÉ
 
-CHALÉ is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
+CHALÉ is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
 
 CHALÉ is a house and afro house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside EYCEE, Blck Mamba and Boris Coelman. Next up: Nine Lives Gallery, Rotterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ CHALÉ is a house and afro house artist tracked on soundcheck, with 30 sets logg
 
 EYCEE, Blck Mamba, Boris Coelman
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chale/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chale/)*

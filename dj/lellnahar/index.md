@@ -1,6 +1,6 @@
 # Lell Nahar
 
-Lell Nahar is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Lell Nahar is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Lell Nahar is a house and club artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Amsterdam, Munich and Zurich. Often billed alongside Patrick Ruprecht, Alay and Alessio da Silva. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lell Nahar is a house and club artist based in Switzerland, tracked on soundchec
 
 Patrick Ruprecht, Alay, Alessio da Silva
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lellnahar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lellnahar/)*

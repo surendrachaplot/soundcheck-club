@@ -1,6 +1,6 @@
 # Zabal Techno
 
-Zabal Techno is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 5 Aug 2026; the next is "ZABAL: RESISTANCE" on Sun, 16 Aug 2026.
+Zabal Techno is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "ZABAL: RESISTANCE" on Sun, 16 Aug 2026.
 
 Zabal Techno is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Bronnka and Cancel. Browse upcoming dates, start times and who's playing. Cnel. Niceto Vega 5699.
 
@@ -14,4 +14,4 @@ Zabal Techno is a music venue in Buenosaires listed on soundcheck. 1 upcoming ni
 
 Cnel. Niceto Vega 5699, Buenos Aires
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/zabal-techno/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/zabal-techno/)*

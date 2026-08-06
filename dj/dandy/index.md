@@ -1,6 +1,6 @@
 # Dandy
 
-Dandy is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Dandy is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Dandy is a house artist based in Hungary, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside COBRAH, Erol Alkan and Gina Breeze. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Dandy is a house artist based in Hungary, tracked on soundcheck, with 2 sets log
 
 COBRAH, Erol Alkan, Gina Breeze
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dandy/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dandy/)*

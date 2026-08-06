@@ -1,8 +1,8 @@
 # Pōnky
 
-Pōnky is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Pōnky is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-Pōnky is a techno and house artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Leipzig and Lyon and 6 more. Often billed alongside FENIM0RE, MADMAN (2) and BAUGRUPPE90. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+Pōnky is a techno and house artist based in France, tracked on soundcheck, with 45 sets logged across Berlin, Cologne, Leipzig and Lyon and 6 more. Often billed alongside FENIM0RE, MADMAN (2) and BAUGRUPPE90. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pōnky is a techno and house artist based in France, tracked on soundcheck, with
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Thu, 6 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 7 Aug 2026 | Else | Berlin |
+| Fri, 18 Sept 2026 | Else | Berlin |
 | Sat, 3 Oct 2026 | OST | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ Pōnky is a techno and house artist based in France, tracked on soundcheck, with
 
 FENIM0RE, MADMAN (2), BAUGRUPPE90
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*

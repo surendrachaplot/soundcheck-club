@@ -1,6 +1,6 @@
 # Sakidasumi
 
-Sakidasumi is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
+Sakidasumi is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
 
 Sakidasumi is a pop and club artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside AMIRA, Bobo and Cristal No.5. Next up: Miscellania, Melbourne on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Sakidasumi is a pop and club artist based in Australia, tracked on soundcheck, w
 
 AMIRA, Bobo, Cristal No.5
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakidasumi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakidasumi/)*

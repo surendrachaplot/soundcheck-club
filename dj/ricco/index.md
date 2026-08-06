@@ -1,6 +1,6 @@
 # Ricco
 
-Ricco is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at WaV, Liverpool on Sat, 8 Aug 2026.
+Ricco is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at WaV, Liverpool on Sat, 8 Aug 2026.
 
 Ricco is a house and club artist tracked on soundcheck, with 3 sets logged across Liverpool and Vancouver. Often billed alongside Ebo and Lee Butler. Next up: WaV, Liverpool on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Ricco is a house and club artist tracked on soundcheck, with 3 sets logged acros
 
 Ebo, Lee Butler
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricco/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricco/)*

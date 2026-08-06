@@ -1,6 +1,6 @@
 # Heavee
 
-Heavee is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
+Heavee is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Oakland, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Heavee is a footwork and club artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Big Dope P, Kode9 and avas. Next up: TBA - Oakland, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Heavee is a footwork and club artist tracked on soundcheck, with 36 sets logged 
 
 Big Dope P, Kode9, avas
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heavee/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heavee/)*

@@ -1,6 +1,6 @@
 # Justin Martin
 
-Justin Martin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Address sent to ticket holders 8pm day of show, Vancouver on Fri, 14 Aug 2026.
+Justin Martin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Address sent to ticket holders 8pm day of show, Vancouver on Fri, 14 Aug 2026.
 
 Justin Martin is a house and tech house artist tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Ardalan, MNTRA and Mikey Lion. Next up: TBA - Address sent to ticket holders 8pm day of show, Vancouver on Fri 14 Aug.
 
@@ -9,7 +9,7 @@ Justin Martin is a house and tech house artist tracked on soundcheck, with 81 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Address sent to ticket holders 8pm day of show | Vancouver |
-| Sat, 29 Aug 2026 | LoHi | New York City |
+| Sat, 29 Aug 2026 | 314 Scholes | New York City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Justin Martin is a house and tech house artist tracked on soundcheck, with 81 se
 
 Ardalan, MNTRA, Mikey Lion
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*

@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 PARAMIDA is a house and techno artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -33,4 +33,4 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 244 sets logge
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

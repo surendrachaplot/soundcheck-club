@@ -1,6 +1,6 @@
 # Argo (FR)
 
-Argo (FR) is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Kassa Boat, Budapest on Thu, 6 Aug 2026.
+Argo (FR) is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kassa Boat, Budapest on Thu, 6 Aug 2026.
 
 Argo (FR) is a dubstep and bass artist tracked on soundcheck, with 8 sets logged across Budapest and Paris. Often billed alongside Hyas, AIRKEY and Ambit (2). Next up: Kassa Boat, Budapest on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ Argo (FR) is a dubstep and bass artist tracked on soundcheck, with 8 sets logged
 
 Hyas, AIRKEY, Ambit (2)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argo-fr/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argo-fr/)*

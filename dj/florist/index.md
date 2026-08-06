@@ -1,6 +1,6 @@
 # Florist
 
-Florist is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
+Florist is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ://about blank, Berlin on Thu, 13 Aug 2026.
 
 Florist is a techno and tech house artist tracked on soundcheck, with 7 sets logged across Berlin, Brussels, Ghent and Melbourne and 1 more. Often billed alongside Afrodisiac, Aurora Halal and Avalon Emerson. Next up: ://about blank, Berlin on Thu 13 Aug.
 
@@ -23,4 +23,4 @@ Florist is a techno and tech house artist tracked on soundcheck, with 7 sets log
 
 Afrodisiac, Aurora Halal, Avalon Emerson
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florist/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florist/)*

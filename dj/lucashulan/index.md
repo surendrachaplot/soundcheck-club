@@ -1,6 +1,6 @@
 # Lucas Hulan
 
-Lucas Hulan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Cross Club, Prague on Fri, 14 Aug 2026.
+Lucas Hulan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cross Club, Prague on Fri, 14 Aug 2026.
 
 Lucas Hulan is a techno and house artist tracked on soundcheck, with 95 sets logged across Berlin and Prague. Often billed alongside Schneider Lounge, Dona and Stessie Tfgn. Next up: Cross Club, Prague on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Lucas Hulan is a techno and house artist tracked on soundcheck, with 95 sets log
 
 Schneider Lounge, Dona, Stessie Tfgn
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*

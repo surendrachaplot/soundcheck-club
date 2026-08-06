@@ -1,6 +1,6 @@
 # FLUSH Fierté at TBA - Centre-sud
 
-FLUSH Fierté at TBA - Centre-sud on Fri 7 Aug, Montreal. 11 acts on the bill: Badgalquirt, Colored Music, Dima Roas and DJ BlackGold and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+FLUSH Fierté at TBA - Centre-sud on Fri 7 Aug, Montreal. 13 acts on the bill: Badgalquirit, Badgalquirt, Colored Craig and Colored Music and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ FLUSH Fierté at TBA - Centre-sud on Fri 7 Aug, Montreal. 11 acts on the bill: B
 
 ## Line-up
 
+- Badgalquirit
 - Badgalquirt
+- Colored Craig
 - Colored Music
 - Dima Roas
 - DJ BlackGold

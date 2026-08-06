@@ -1,6 +1,6 @@
 # freesi
 
-freesi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Pallas, Hamburg on Thu, 6 Aug 2026.
+freesi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pallas, Hamburg on Thu, 6 Aug 2026.
 
 freesi is a house and disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Hamburg. Often billed alongside Franziska Frizzante, Luk Vicent and Bomchello. Next up: Pallas, Hamburg on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ freesi is a house and disco artist based in Germany, tracked on soundcheck, with
 
 Franziska Frizzante, Luk Vicent, Bomchello
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freesi/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freesi/)*

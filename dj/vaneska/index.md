@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
+Vaneska is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
 Vaneska is a trance and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside NAGINI, Praun and 9LALEY. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Vaneska is a trance and techno artist tracked on soundcheck, with 33 sets logged
 
 NAGINI, Praun, 9LALEY
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

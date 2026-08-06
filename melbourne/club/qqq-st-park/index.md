@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "DISHA - Launch Party" on Fri, 7 Aug 2026.
+QQQ ST. Park is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "DISHA - Launch Party" on Fri, 7 Aug 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including Andy Hart, Bby Cass, BDE and CAITY WATSON and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -23,4 +23,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 10 upcoming nig
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

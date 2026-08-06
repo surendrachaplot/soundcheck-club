@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 16 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "uh! on DECK - Open Air House b2b Sessions" on Thu, 6 Aug 2026.
+Kassa Boat is a music venue in Budapest with 16 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "uh! on DECK - Open Air House b2b Sessions" on Thu, 6 Aug 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 16 upcoming nights, with line-ups including ädene, Argo (FR), baeker and Daniel Moritz and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -23,4 +23,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 16 upcoming nights
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "BLOODLUST ft DJ Re:Code" on Thu, 6 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "BLOODLUST ft DJ Re:Code" on Thu, 6 Aug 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 12 upcoming nights, with line-ups including 1tbsp, ARMANA KHAN, Binh and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 12 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

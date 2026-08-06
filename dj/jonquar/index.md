@@ -1,6 +1,6 @@
 # Jonquar
 
-Jonquar is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
+Jonquar is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
 
 Jonquar is a club and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Newyorkcity, Seoul and Washingtondc. Often billed alongside Cartier.mp7, D.Va and Lo_. Next up: Signal, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Jonquar is a club and techno artist based in United States of America, tracked o
 
 Cartier.mp7, D.Va, Lo_
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquar/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquar/)*

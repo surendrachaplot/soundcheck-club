@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Luminous" on Wed, 5 Aug 2026.
+Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "InRay/SonnySun/Pico/teppei" on Thu, 6 Aug 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including 7e, Connor, DJ Garth and Frankie $ and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Connor, DJ Garth, Frankie $ and In Ray and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 5 Aug 2026 | Luminous | 7e |
 | Thu, 6 Aug 2026 | InRay/SonnySun/Pico/teppei | In Ray, Sonny Sun, teppei |
 | Fri, 7 Aug 2026 | Dependance | Ryosuke, Sakuma |
 | Fri, 7 Aug 2026 | Dependance | Ryosuke, Sakuma |
@@ -18,9 +17,10 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with
 | Fri, 14 Aug 2026 | ALIEN SEX FRIENDS | Michelle, P-YAN, RYOKEI |
 | Fri, 14 Aug 2026 | ALIEN SEX FRIENDS  | Michelle, P-YAN, RYOKEI |
 | Tue, 18 Aug 2026 | destiny | Karuta |
+| Sat, 22 Aug 2026 | AFTERLIFE with NOCO(Paramount) | Mari Sakurai, Shinsuke Goto |
 
 ## Address
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

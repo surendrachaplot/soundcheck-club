@@ -1,6 +1,6 @@
 # PBR Streetgang
 
-PBR Streetgang is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Cobalt Studios, Newcastle on Fri, 28 Aug 2026.
+PBR Streetgang is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cobalt Studios, Newcastle on Fri, 28 Aug 2026.
 
 PBR Streetgang is a house and disco artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Crazy P, Alexis Raphael and James Holroyd. Next up: Cobalt Studios, Newcastle on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ PBR Streetgang is a house and disco artist based in United Kingdom, tracked on s
 
 Crazy P, Alexis Raphael, James Holroyd
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pbrstreetgang/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pbrstreetgang/)*

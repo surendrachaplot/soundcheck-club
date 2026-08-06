@@ -1,6 +1,6 @@
 # SAGE
 
-SAGE is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "Watergate x Power Open Air with Traumer, dj sweet6teen, Bradley Zero, Yamour, Immy, Power Squad" on Sat, 8 Aug 2026.
+SAGE is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Watergate x Power Open Air with Traumer, dj sweet6teen, Bradley Zero, Yamour, Immy, Power Squad" on Sat, 8 Aug 2026.
 
 SAGE is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Alyne, Anfisa Letyago, Bonq and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 18-20 10997 Berlin, Germany.
 
@@ -19,4 +19,4 @@ SAGE is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with li
 
 Köpenicker Str. 18-20 10997 Berlin, Germany, Berlin
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sage/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sage/)*

@@ -1,6 +1,6 @@
 # Area Manchester
 
-Area Manchester is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Wed, 5 Aug 2026; the next is "TranceCode EuphoricSounds Area" on Fri, 7 Aug 2026.
+Area Manchester is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "TranceCode EuphoricSounds Area" on Fri, 7 Aug 2026.
 
 Area Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including D'joozt, MAD Beats and Warren Scott. Browse upcoming dates, start times and who's playing. 50 Sackville St, Manchester M1 3WF.
 
@@ -16,4 +16,4 @@ Area Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming 
 
 50 Sackville St, Manchester M1 3WF, Manchester
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/area-manchester/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/area-manchester/)*

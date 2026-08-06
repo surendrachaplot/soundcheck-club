@@ -1,6 +1,6 @@
 # Michael Reinboth
 
-Michael Reinboth is a Disco and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at Synthesizer Museum, Berlin on Fri, 18 Sept 2026.
+Michael Reinboth is a Disco and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Synthesizer Museum, Berlin on Fri, 18 Sept 2026.
 
 Michael Reinboth is a disco and jazz artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Munich and Tokyo and 2 more. Often billed alongside Alles Andere, Hans Nieswandt and Toshio Matsuura. Next up: Synthesizer Museum, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Michael Reinboth is a disco and jazz artist based in Germany, tracked on soundch
 
 Alles Andere, Hans Nieswandt, Toshio Matsuura
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelreinboth/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelreinboth/)*

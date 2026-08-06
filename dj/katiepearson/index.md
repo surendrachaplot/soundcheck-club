@@ -1,6 +1,6 @@
 # Katie Pearson
 
-Katie Pearson is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
+Katie Pearson is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
 
 Katie Pearson is a house and club artist based in Australia, tracked on soundcheck, with 27 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Millú, Naycab and Activator (AU). Next up: Miscellania, Melbourne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Katie Pearson is a house and club artist based in Australia, tracked on soundche
 
 Millú, Naycab, Activator (AU)
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*

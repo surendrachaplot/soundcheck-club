@@ -1,6 +1,6 @@
 # Moderna
 
-Moderna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 5 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
+Moderna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Oriente, Mexico City on Thu, 6 Aug 2026.
 
 Moderna is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Berlin, Krakow, Leipzig and Losangeles and 11 more. Often billed alongside Eli Escobar, G I N A and Daisy O'Dell. Next up: Bar Oriente, Mexicocity on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Moderna is a techno and house artist based in United States of America, tracked 
 
 Eli Escobar, G I N A, Daisy O'Dell
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*

@@ -1,6 +1,6 @@
 # Olli Rubber
 
-Olli Rubber is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 5 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
+Olli Rubber is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
 Olli Rubber is a house and techno artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Munich and Stuttgart. Often billed alongside Almedina (2), Tuff Monty and Alles Andere. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Olli Rubber is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Almedina (2), Tuff Monty, Alles Andere
 
-*Updated Wed, 5 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollirubber/)*
+*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollirubber/)*
