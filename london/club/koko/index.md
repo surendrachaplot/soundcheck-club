@@ -8,8 +8,8 @@ KOKO is a music venue in London listed on soundcheck. 22 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.1 | Jaguar, Krankbrother, MALUGI, Pretty Girl, Soul Mass Transit System |
-| Sat, 8 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.2 | Krankbrother, Sofia Kourtesis, Tia Cousins |
+| Fri, 7 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.1 | Jaguar, Krankbrother, MALUGI, Pretty Girl, Soul Mass Transit System, TILDA (2) |
+| Sat, 8 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.2 | Jaye Ward, Krankbrother, Sofia Kourtesis, Tia Cousins |
 | Fri, 14 Aug 2026 | KOKO Electronic: Neil Frances | Lulah Francs, Masha Mar, Neil Frances |
 | Sat, 15 Aug 2026 | KOKO Electronic: Ewan McVicar | Ewan McVicar |
 | Fri, 21 Aug 2026 | KOKO Electronic: Summer Closing - House & Disco |  |

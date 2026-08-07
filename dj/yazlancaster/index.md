@@ -1,8 +1,8 @@
 # Yaz Lancaster
 
-Yaz Lancaster is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Trans-Pecos, New York City on Sun, 9 Aug 2026.
+Yaz Lancaster is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Trans-Pecos, New York City on Sun, 9 Aug 2026.
 
-Yaz Lancaster is an experimental and club artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin and Newyorkcity. Often billed alongside Soo Intoit, Kilopatrah Jones and Niyah West. Next up: Trans-Pecos, Newyorkcity on Sun 9 Aug.
+Yaz Lancaster is an experimental and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, London and Newyorkcity. Often billed alongside Soo Intoit, Kilopatrah Jones and Niyah West. Next up: Trans-Pecos, Newyorkcity on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yaz Lancaster is an experimental and club artist based in United States of Ameri
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Trans-Pecos | New York City |
 | Fri, 21 Aug 2026 | KINDL Centre for Contemporary Art | Berlin |
+| Mon, 24 Aug 2026 | SJQ | London |
 
 ## Recently played
 

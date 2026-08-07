@@ -1,6 +1,6 @@
 # KOKO Electronic: Krankbrother - After Dark pt.1 at KOKO
 
-KOKO Electronic: Krankbrother - After Dark pt.1 on Fri 7 Aug, London. 5 acts on the bill: Jaguar, Krankbrother, MALUGI and Pretty Girl and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Krankbrother - After Dark pt.1 on Fri 7 Aug, London. 6 acts on the bill: Jaguar, Krankbrother, MALUGI and Pretty Girl and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ KOKO Electronic: Krankbrother - After Dark pt.1 on Fri 7 Aug, London. 5 acts on 
 - MALUGI
 - Pretty Girl
 - Soul Mass Transit System
+- TILDA (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2489524-koko-electronic-krankbrother-after-dark-pt-1-at-koko/)*

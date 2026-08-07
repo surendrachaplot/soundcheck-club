@@ -2,13 +2,13 @@
 
 Dalston Den is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Breaks/Drum & Bass" on Fri, 7 Aug 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AAKAARA, ARKNGL, Bryn Brax and Chedda Bred and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AAKAARA, Agility, ARKNGL and Bryn Brax and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Breaks/Drum & Bass | Bryn Brax, Karmel Jäger, Whatsname, zoneSL |
+| Fri, 7 Aug 2026 | Breakaway - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Breaks/Drum & Bass | Agility, Bryn Brax, Karmel Jäger, Whatsname, zoneSL |
 | Sat, 8 Aug 2026 | SUBSTANCE: Edition 2G 4.0 - hosted by Freq Foundation Sound System |  |
 | Fri, 14 Aug 2026 | Breakaway - FREE ENTRY - Jungle/Drum & Bass |  |
 | Sat, 15 Aug 2026 | BRICKS N' MORTAR PRESENTS: BRICKWORK | ARKNGL, Chedda Bred, Steeziskey, Özten |

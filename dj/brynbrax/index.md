@@ -2,7 +2,7 @@
 
 Bryn Brax is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Dalston Den, London on Fri, 7 Aug 2026.
 
-Bryn Brax is a jungle and drum & bass artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Whatsname, zoneSL and Agility. Next up: Dalston Den, London on Fri 7 Aug.
+Bryn Brax is a jungle and drum & bass artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Whatsname, Agility and zoneSL. Next up: Dalston Den, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Bryn Brax is a jungle and drum & bass artist tracked on soundcheck, with 13 sets
 
 ## Shares bills with
 
-Whatsname, zoneSL, Agility
+Whatsname, Agility, zoneSL
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brynbrax/)*

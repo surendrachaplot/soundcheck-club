@@ -1,6 +1,6 @@
 # CHELO - London at The Lower Third
 
-CHELO - London at The Lower Third on Sat 10 Oct, London. 1 act on the bill: CHELO. Downtempo and R&B. Preview the line-up and save it on soundcheck.
+CHELO - London at The Lower Third on Sat 10 Oct, London. 1 act on the bill: CHELO. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

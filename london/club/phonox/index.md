@@ -12,7 +12,7 @@ Phonox is a music venue in London listed on soundcheck. 29 upcoming nights, with
 | Sat, 8 Aug 2026 | Phonox: Derrick Carter (All Night Long) | Derrick Carter |
 | Fri, 14 Aug 2026 | Recondite (Live) | Motip White, Recondite |
 | Sat, 15 Aug 2026 | Phonox: DJ Assault + Black Rave Culture | Black Rave Culture, DJ Assault |
-| Fri, 21 Aug 2026 | A LOVE FROM OUTER SPACE | A LOVE FROM OUTER SPACE, Sean Johnston |
+| Fri, 21 Aug 2026 | A LOVE FROM OUTER SPACE (Sean Johnston) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Sat, 22 Aug 2026 | Giegling: Edward, Konstantin | Edward, Konstantin |
 | Fri, 28 Aug 2026 | Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde with Blackeye MC | Abby Daze, Blackeye MC, Coco Bryce, Dwarde, Sully, Tim Reaper |
 | Sat, 29 Aug 2026 | MOT Day Party: CIRCULATE with Introspekt & Josey Rebelle + Phonox Afterparty | Binh, DJ Nobu, Introspekt, Josey Rebelle |

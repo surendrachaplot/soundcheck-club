@@ -1,6 +1,6 @@
 # KOKO Electronic: Krankbrother - After Dark pt.2 at KOKO
 
-KOKO Electronic: Krankbrother - After Dark pt.2 on Sat 8 Aug, London. 3 acts on the bill: Krankbrother, Sofia Kourtesis and Tia Cousins. House and Disco. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Krankbrother - After Dark pt.2 on Sat 8 Aug, London. 4 acts on the bill: Jaye Ward, Krankbrother, Sofia Kourtesis and Tia Cousins. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KOKO Electronic: Krankbrother - After Dark pt.2 on Sat 8 Aug, London. 3 acts on 
 
 ## Line-up
 
+- Jaye Ward
 - Krankbrother
 - Sofia Kourtesis
 - Tia Cousins

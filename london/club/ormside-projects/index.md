@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Influences" on Fri, 7 Aug 2026.
+Ormside Projects is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Influences" on Fri, 7 Aug 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 404 eros, Ab.Diablo, anu and A-Sides and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 404 eros, Ab.Diablo, anu and A-Sides and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
