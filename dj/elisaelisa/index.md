@@ -1,8 +1,8 @@
 # Elisa Elisa
 
-Elisa Elisa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
+Elisa Elisa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
 
-Elisa Elisa is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Chris Schwarzwälder, Alma Linda and Foolik. Next up: Cova Santa, Ibiza on Fri 7 Aug.
+Elisa Elisa is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Chris Schwarzwälder, Alma Linda and Foolik. Next up: Cova Santa, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Elisa Elisa is a house and techno artist tracked on soundcheck, with 52 sets log
 | Fri, 7 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 14 Aug 2026 | Kater | Berlin |
 | Fri, 14 Aug 2026 | Südpol | Hamburg |
+| Sat, 19 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Amphoteric" on Fri, 7 Aug 2026.
+Planet Wax is a music venue in London with 20 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Amphoteric" on Fri, 7 Aug 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Achiya, Blue Ringed Baby, CATLADY and DanBe and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Achiya, Amber Rose, Blue Ringed Baby and CATLADY and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Carbon Based Lifeforms
 
-Carbon Based Lifeforms is a Electronica and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Classic Grand, Glasgow on Thu, 1 Oct 2026.
+Carbon Based Lifeforms is a Ambient and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Classic Grand, Glasgow on Thu, 1 Oct 2026.
 
-Carbon Based Lifeforms is an electronica and trance artist based in Sweden, tracked on soundcheck, with 16 sets logged across Amsterdam, Athens, Bristol and Copenhagen and 7 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: The Classic Grand, Glasgow on Thu 1 Oct.
+Carbon Based Lifeforms is an ambient and electronica artist based in Sweden, tracked on soundcheck, with 17 sets logged across Amsterdam, Athens, Bristol and Copenhagen and 8 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: The Classic Grand, Glasgow on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carbon Based Lifeforms is an electronica and trance artist based in Sweden, trac
 | Thu, 1 Oct 2026 | The Classic Grand | Glasgow |
 | Fri, 2 Oct 2026 | Band on the Wall | Manchester |
 | Sat, 3 Oct 2026 | Islington Assembly Hall | London |
+| Fri, 16 Oct 2026 | Club Privé | Tallinn |
 
 ## Recently played
 

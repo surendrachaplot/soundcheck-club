@@ -1,8 +1,8 @@
 # monicat
 
-monicat is a R&B and Pop artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Vessel, Edinburgh on Sat, 8 Aug 2026.
+monicat is a R&B and Pop artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Vessel, Edinburgh on Sat, 8 Aug 2026.
 
-monicat is a r&b and pop artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Edinburgh. Often billed alongside m1 (1), Buckfast Barbie and miira. Next up: Vessel, Edinburgh on Sat 8 Aug.
+monicat is a r&b and pop artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh. Often billed alongside m1 (1), Buckfast Barbie and miira. Next up: Vessel, Edinburgh on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ monicat is a r&b and pop artist based in United Kingdom, tracked on soundcheck, 
 | Sat, 8 Aug 2026 | Vessel | Edinburgh |
 | Mon, 10 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 17 Aug 2026 | Sneaky Pete's | Edinburgh |
+| Wed, 19 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 24 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 31 Aug 2026 | Sneaky Pete's | Edinburgh |
 

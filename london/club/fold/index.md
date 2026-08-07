@@ -15,7 +15,7 @@ FOLD is a music venue in London listed on soundcheck. 29 upcoming nights, with l
 | Fri, 14 Aug 2026 | STRUCTURE x HØL: Bailey Ibbs b2b Dylan Fogarty, INLIMEN, Habgud (live), Nakamo + more | Bailey Ibbs, Dylan Fogarty, Habgud, INLIMEN, Mold Boutique, Nakamo, XANDY |
 | Sat, 15 Aug 2026 | Art Of Dark - Summer Heights | Colin Chiddle, DJ Masda, Detroit In Effect, Katya, Matthias (1), Samuel Jabba, mad miran |
 | Sat, 15 Aug 2026 | Probe. Rebloom. Revival. with Peter Van Hoesen, Lynne & JJ b2b Jay Galligan | JJ (Rebloom), Jay Galligan, Lynne, Peter Van Hoesen |
-| Sun, 16 Aug 2026 | UNFOLD CXXXIX |  |
+| Sun, 16 Aug 2026 | UNFOLD CXXIX |  |
 | Fri, 21 Aug 2026 | Voigtmann + Z@p at FOLD | Voigtmann, Z@p |
 | Sat, 22 Aug 2026 | FOLD presents Ute.rec (EXTENDED) | Bambi (FR), Ekkel, Marius Bø, Oprofessionell, Trancesetters of Westphalia, Wednesday |
 

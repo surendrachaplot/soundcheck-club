@@ -14,7 +14,7 @@ Doka is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with
 | Sun, 13 Sept 2026 | Ciranda Sundays x Doka Studio with TBA |  |
 | Fri, 18 Sept 2026 | Likeminded x Doka Studio with TBA |  |
 | Sat, 19 Sept 2026 | Doka Studio with De Sluwe Vos B2B Theo Kottis | De Sluwe Vos, Theo Kottis |
-| Fri, 25 Sept 2026 | Doka Studio w/ Vladimir Ivkovic / Intergalactic Gary | Intergalactic Gary, Vladimir Ivkovic |
+| Fri, 25 Sept 2026 | Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary | Intergalactic Gary, Vladimir Ivkovic |
 
 ## Address
 

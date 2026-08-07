@@ -1,13 +1,14 @@
 # Buckfast Barbie
 
-Buckfast Barbie is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
+Buckfast Barbie is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 19 Aug 2026.
 
-Buckfast Barbie is a club and bass artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside miira, Sweet Philly and WBBR. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
+Buckfast Barbie is a club and bass artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside miira, Sweet Philly and WBBR. Next up: Sneaky Pete's, Edinburgh on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 18 Sept 2026 | EXIT Glasgow | Glasgow |
 
 ## Recently played

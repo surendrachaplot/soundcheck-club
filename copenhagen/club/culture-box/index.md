@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk" on Fri, 7 Aug 2026.
+Culture Box is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk" on Fri, 7 Aug 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Alex Stein and Ama Lien and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -8,7 +8,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk | AVI.avi, Animal Print, Azpecialguest, DJ BENDER, Modeplex, mrjs.ddk |
+| Fri, 7 Aug 2026 | Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk | AVI.avi, Animal Print, Azpecialguest, DJ BENDER, Modeplex, mrjs.ddk |
 | Sat, 8 Aug 2026 | SOUNDS GOOD: Andre Zimmer / Tamara / Niko Nuevo B2B Nizzy / Blană / Låndkruzer B2B Samuel Rees | Andre Zimmer, Låndkruzer, Niko Nuevo, Nizzy, Samuel Rees, Tamara |
 | Fri, 14 Aug 2026 | THE SHAKER ROOM: Shay De Castro / Naiva / Midele / RO / Ama Lien | Ama Lien, Midele, Naiva, Shay De Castro |
 | Sat, 15 Aug 2026 | What Happens: Rocío Portillo / Tim Andresen / AYELEN / Marsans / Matias Oliveros / Distracted | AYELEN, Tim Andresen |

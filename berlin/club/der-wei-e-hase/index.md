@@ -1,8 +1,8 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Bounce Rebellion" on Fri, 7 Aug 2026.
+Der Weiße Hase is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Bounce Rebellion" on Fri, 7 Aug 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Anubix, Aria Seashell, Ari Denaro and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Anubix, Aria Seashell, Ari Denaro and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 

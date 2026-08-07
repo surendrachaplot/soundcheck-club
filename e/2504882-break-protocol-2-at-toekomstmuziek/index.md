@@ -1,6 +1,6 @@
 # BREAK PROTOCOL #2 at Toekomstmuziek
 
-BREAK PROTOCOL #2 at Toekomstmuziek on Sat 17 Oct, Amsterdam. 2 acts on the bill: Daniel Englisch and Oliver Kucera. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+BREAK PROTOCOL #2 at Toekomstmuziek on Sat 17 Oct, Amsterdam. 3 acts on the bill: BTWN NTWRX, Daniel Englisch and Oliver Kucera. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BREAK PROTOCOL #2 at Toekomstmuziek on Sat 17 Oct, Amsterdam. 2 acts on the bill
 
 ## Line-up
 
+- BTWN NTWRX
 - Daniel Englisch
 - Oliver Kucera
 

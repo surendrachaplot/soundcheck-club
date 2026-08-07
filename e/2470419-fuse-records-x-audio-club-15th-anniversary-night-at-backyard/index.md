@@ -1,6 +1,6 @@
 # Fuse Records x Audio Club: 15th Anniversary (Night) at Backyard
 
-Fuse Records x Audio Club: 15th Anniversary (Night) at Backyard on Sat 29 Aug, Lisbon. 4 acts on the bill: Chinonegro, David Armada, Gilvaia and La Forêt. House and Tech House. Preview the line-up and save it on soundcheck.
+Fuse Records x Audio Club: 15th Anniversary (Night) at Backyard on Sat 29 Aug, Lisbon. 6 acts on the bill: Chinonegro, David Armada, Fragoso and Gilvaia and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ Fuse Records x Audio Club: 15th Anniversary (Night) at Backyard on Sat 29 Aug, L
 
 - Chinonegro
 - David Armada
+- Fragoso
 - Gilvaia
 - La Forêt
+- Laura De Greef
 
 *Source: [soundcheck](https://soundcheck.club/e/2470419-fuse-records-x-audio-club-15th-anniversary-night-at-backyard/)*

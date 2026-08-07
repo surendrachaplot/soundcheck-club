@@ -1,8 +1,8 @@
 # Patrick Russell
 
-Patrick Russell is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at public records, New York City on Fri, 7 Aug 2026.
+Patrick Russell is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at public records, New York City on Fri, 7 Aug 2026.
 
-Patrick Russell is a techno and acid artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Erika, Mike Servito and BMG. Next up: public records, Newyorkcity on Fri 7 Aug.
+Patrick Russell is a techno and acid artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Erika, Mike Servito and BMG. Next up: public records, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Patrick Russell is a techno and acid artist based in United States of America, t
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | public records | New York City |
 | Fri, 14 Aug 2026 | Signal | New York City |
+| Thu, 10 Sept 2026 | OHM | Berlin |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lofi, Amsterdam on Sat, 8 Aug 2026.
+Laura De Greef is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lofi, Amsterdam on Sat, 8 Aug 2026.
 
-Laura De Greef is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 5 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Lofi, Amsterdam on Sat 8 Aug.
+Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 6 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Lofi, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 29 sets 
 | Sat, 8 Aug 2026 | Lofi | Amsterdam |
 | Sun, 9 Aug 2026 | Lofi | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sat, 29 Aug 2026 | Backyard | Lisbon |
 | Sun, 30 Aug 2026 | fabric | London |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |

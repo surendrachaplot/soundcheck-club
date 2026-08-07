@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 35 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Hot Mess: Queer Dance Party" on Fri, 7 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 38 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Hot Mess: Queer Dance Party" on Fri, 7 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming nights, with line-ups including Alexis Taylor, amhailt.xox, ANNX and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 38 upcoming nights, with line-ups including Alexis Taylor, amhailt.xox, ANNX and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming ni
 | Sun, 9 Aug 2026 | Postal Festival Opening Party: Lara Sinclair b2b JI_2001 | JI_2001, Lara Sinclair |
 | Mon, 10 Aug 2026 | Ride n Bounce | m1 (1), monicat |
 | Tue, 11 Aug 2026 | RARE Club // HAPOL with Breathe | Breathe, HAPOL |
+| Wed, 12 Aug 2026 | Midnight Bass // Special Guest TBA - Drum & Bass |  |
 | Thu, 13 Aug 2026 | Morrison Street All Night Long | Morrison Street |
 | Fri, 14 Aug 2026 | mantle: DANZA NUOVA 𖦹 La Ind0 & Balheim 𖦹 Feena | Balheim, Feena, La Ind0 |
 | Sat, 15 Aug 2026 | neurons: Lora Mipsum, ANNX + noodle | ANNX, Lora Mipsum, noodle |
 | Sun, 16 Aug 2026 | George FitzGerald + Hand-made: Free Time – Edinburgh | George FitzGerald, Hand-made |
-| Sun, 16 Aug 2026 | Postal: LWS b2b Lara Sinclair, Corran, ZO3 b2b Cal Ochiltree | Corran, LWS, Lara Sinclair, ZO3 (1) |
 
 ## Address
 

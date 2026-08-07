@@ -1,8 +1,8 @@
 # OHM
 
-OHM is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Discos Movimiento" on Fri, 7 Aug 2026.
+OHM is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Discos Movimiento" on Fri, 7 Aug 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Abyss X, Alexy, Anele and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Abyss X, Alexy, Anele and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 

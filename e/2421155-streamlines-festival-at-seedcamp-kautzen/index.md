@@ -1,6 +1,6 @@
 # streamlines festival at Seedcamp, Kautzen
 
-streamlines festival at Seedcamp, Kautzen on Fri 21 Aug, Vienna. 21 acts on the bill: Angiko (2), Bernd Amman, Carl Raban and DJ Vibekiller and 17 more. Techno. Preview the line-up and save it on soundcheck.
+streamlines festival at Seedcamp, Kautzen on Fri 21 Aug, Vienna. 22 acts on the bill: Angiko (2), Bernd Amman, Carl Raban and DJ Vibekiller and 18 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -27,6 +27,7 @@ streamlines festival at Seedcamp, Kautzen on Fri 21 Aug, Vienna. 21 acts on the 
 - pezel
 - Sabre (PL)
 - Schiaba
+- Stagnat
 - Thommy Coconut
 - VOLTMARIE
 - Younes Jamil

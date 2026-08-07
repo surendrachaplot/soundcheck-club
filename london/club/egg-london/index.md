@@ -12,7 +12,7 @@ Egg London is a music venue in London listed on soundcheck. 35 upcoming nights, 
 | Sat, 8 Aug 2026 | The Official 64th Jamaican Independene: Dancehall Episode x One Drop x Dancehall Delight |  |
 | Sat, 8 Aug 2026 | Egg LDN Pres: SUBVRS - Tech House, Deep Tech & Deep House |  |
 | Sat, 8 Aug 2026 | Egg X Beezo Pres: We Wanna Party (Payback Special) | Beezo |
-| Sun, 9 Aug 2026 | AFTER KLOUD [KEINEMUSIK UNOFFICIAL AFTER-PARTY] | D8V!, HAZ (GB), LOKI (3), Peezy |
+| Sun, 9 Aug 2026 | AFTER KLOUD [FESTIVAL AFTER-PARTY] | D8V!, HAZ (GB), LOKI (3), Peezy |
 | Wed, 12 Aug 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Fri, 14 Aug 2026 | Makola Club: House, Latin, Afro House |  |
 | Fri, 14 Aug 2026 | FREE TICKETS & FREE DRINKS – RNB, REGGAETON, POP – MALOKA CLUB LAUNCH |  |

@@ -1,8 +1,8 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST" on Fri, 7 Aug 2026.
+Garage Noord is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST" on Fri, 7 Aug 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including 42nd Avenue, Akanbi, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including 42nd Avenue, Akanbi, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming nig
 | Fri, 21 Aug 2026 | co-curation by smother: smother, DJ MELL G, tba | DJ MELL G, smother |
 | Sat, 22 Aug 2026 | Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN | Luke Hess, Remma, Sarkawt Hamad |
 | Sat, 22 Aug 2026 | Piuma at BAR40 w/​ Helena Renedo, GC (Live), DHN |  |
+| Sun, 23 Aug 2026 | KRUISPUNT & Pacific Ondergronds: zomerse samenkomst |  |
 | Fri, 28 Aug 2026 | DJ Marcelle (all night) + bar40 hosted by awhlkuhn |  |
-| Sat, 29 Aug 2026 | BBBwithluv welcomes Body Is A Miracle |  |
 
 ## Address
 

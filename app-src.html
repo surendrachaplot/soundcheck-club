@@ -3946,7 +3946,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786137224296">
+<meta name="sc-build" content="1786141434318">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4004,7 +4004,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">74 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">114 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">38 events</span></a></li><li><a href="/london/2026-08-11/">Tue 11 Aug <span class="c">3 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">24 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">79 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">74 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">114 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">38 events</span></a></li><li><a href="/london/2026-08-11/">Tue 11 Aug <span class="c">3 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">24 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">80 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4338,7 +4338,7 @@
     function gateForPlay(){
       if(hasEmail()) return Promise.resolve(true);
       if(sessionPlays() < 1) return Promise.resolve(true);   // first play of each session is free
-      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile.' });
+      return ensureEmailGate({ heading:'Sign up to <span class="ac">continue listening</span>.', body:'Pop in your email and we will send you a link to set up your profile. Start liking artists, saving events and create your music diary with soundcheck.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges

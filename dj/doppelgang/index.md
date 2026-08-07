@@ -1,8 +1,8 @@
 # Doppelgang
 
-Doppelgang is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+Doppelgang is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
-Doppelgang is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: Paradiso, Amsterdam on Sat 8 Aug.
+Doppelgang is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Doppelgang is a house and techno artist tracked on soundcheck, with 108 sets log
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Paradiso | Amsterdam |
 | Fri, 14 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
+| Sat, 15 Aug 2026 | De Hangout | Amsterdam |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Sat, 12 Sept 2026 | PIP Den Haag | The Hague |

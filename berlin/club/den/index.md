@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Ten Years SYNOID" on Fri, 7 Aug 2026.
+ÆDEN is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Ten Years SYNOID" on Fri, 7 Aug 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including 7CIRCLE, KIV., Aaron Blau and Acierate and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including 7CIRCLE, KIV., Aaron Blau and Acierate and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 

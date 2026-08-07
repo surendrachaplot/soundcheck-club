@@ -1,14 +1,15 @@
 # Teddy Kitano
 
-Teddy Kitano is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
+Teddy Kitano is a Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
 
-Teddy Kitano is a bass and footwork artist based in France, tracked on soundcheck, with 16 sets logged across Belgrade, Brussels, Geneva and London and 2 more. Often billed alongside BJF, Big Dope P and Cannonbar. Next up: Ormside Projects, London on Sat 8 Aug.
+Teddy Kitano is a bass and grime artist based in France, tracked on soundcheck, with 17 sets logged across Belgrade, Brussels, Geneva and London and 2 more. Often billed alongside BJF, Big Dope P and Cannonbar. Next up: Ormside Projects, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ormside Projects | London |
+| Sat, 22 Aug 2026 | Planet Wax | London |
 
 ## Recently played
 

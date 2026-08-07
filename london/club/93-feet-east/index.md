@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Cam Stockman - London Headline | ADR (UK), Cam Stockman, James Lavelle, LILI, Oldboy |
-| Sat, 22 Aug 2026 | DSTRICT | Brands, F*ckabouts, Miggi, Rhiavas, cZ (UK) |
+| Sat, 22 Aug 2026 | DSTRICT: 1 YEAR ANNIVERSARY  | Brands, F*ckabouts, Miggi, Rhiavas, cZ (UK) |
 | Sat, 5 Sept 2026 | House Nation |  |
 | Fri, 11 Sept 2026 | SUBSTRATE 001 |  |
 | Sun, 13 Sept 2026 | NATIVES: Summer Closing Day Party with Vitoto, General C'Mamane, Hypaphonik & FATSO98 | CRUZ CTRL (3), General C'mamane, Golden Lady, INTUIT, Nésa Thea, OneThabs, Tadi.wav |
