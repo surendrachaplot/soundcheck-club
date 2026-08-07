@@ -1,6 +1,6 @@
 # NYAO
 
-NYAO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 7 Aug 2026.
+NYAO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 7 Aug 2026.
 
 NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 65 sets logged across Paris and Tokyo. Often billed alongside Sakuma, Shelly and YouForgot. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 65
 
 Sakuma, Shelly, YouForgot
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*

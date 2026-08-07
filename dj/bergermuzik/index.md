@@ -1,6 +1,6 @@
 # Berger Muzik
 
-Berger Muzik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blue Velvet Bar de Copas, Buenos Aires on Fri, 7 Aug 2026.
+Berger Muzik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blue Velvet Bar de Copas, Buenos Aires on Fri, 7 Aug 2026.
 
 Berger Muzik is a techno and house artist tracked on soundcheck, with 198 sets logged across Buenosaires. Often billed alongside Ella Anzoise, May Mc Laren and Fuocco. Next up: Blue Velvet Bar de Copas, Buenosaires on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Berger Muzik is a techno and house artist tracked on soundcheck, with 198 sets l
 
 Ella Anzoise, May Mc Laren, Fuocco
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*

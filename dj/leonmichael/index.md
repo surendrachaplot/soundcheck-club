@@ -1,6 +1,6 @@
 # Leon Michael
 
-Leon Michael is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+Leon Michael is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 Leon Michael is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Amsterdam and London. Often billed alongside Shiloh (UK), Tylah Sanchez and Cristian Ebasta. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Leon Michael is a tech house and house artist based in United Kingdom, tracked o
 
 Shiloh (UK), Tylah Sanchez, Cristian Ebasta
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonmichael/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonmichael/)*

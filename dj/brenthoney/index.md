@@ -1,8 +1,8 @@
 # Brent Honey
 
-Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
+Brent Honey is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
 
-Brent Honey is a techno and trance artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 12 more. Often billed alongside AKEYLAH, KSMBA and Prizefight. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
+Brent Honey is a techno and trance artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 12 more. Often billed alongside AKEYLAH, Baron Von Trax and KSMBA. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Brent Honey is a techno and trance artist tracked on soundcheck, with 70 sets lo
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 26 Sept 2026 | BASIS | Utrecht |
+| Fri, 23 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Brent Honey is a techno and trance artist tracked on soundcheck, with 70 sets lo
 
 ## Shares bills with
 
-AKEYLAH, KSMBA, Prizefight
+AKEYLAH, Baron Von Trax, KSMBA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*

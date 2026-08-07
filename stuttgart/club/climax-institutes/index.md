@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bei zuurii schepperts" on Fri, 7 Aug 2026.
+Climax-Institutes is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Bei zuurii schepperts" on Fri, 7 Aug 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and Chamelio 3000 and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -20,4 +20,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

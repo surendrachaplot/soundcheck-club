@@ -1,6 +1,6 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Massive, Seattle on Fri, 7 Aug 2026.
+Deejay Energy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Massive, Seattle on Fri, 7 Aug 2026.
 
 Deejay Energy is a techno and house artist based in Mexico, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Berlin and Boston and 2 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: Massive, Seattle on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Deejay Energy is a techno and house artist based in Mexico, tracked on soundchec
 
 Enya Botello, Bluecommand, Phanta
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

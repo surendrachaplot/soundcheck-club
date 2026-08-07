@@ -1,6 +1,6 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "KLAV: tINI" on Fri, 7 Aug 2026.
+Deseo BS AS is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "KLAV: tINI" on Fri, 7 Aug 2026.
 
 Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 3 upcoming nights, with line-ups including ETTA!, Momo Trosman, Nebula (AR) and Pabels and 2 more. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
@@ -16,4 +16,4 @@ Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 3 upcoming nig
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

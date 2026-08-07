@@ -1,6 +1,6 @@
 # HARDBACK: Anti Climax at The Social
 
-HARDBACK: Anti Climax at The Social on Thu 27 Aug, London. 3 acts on the bill: madame3swords, MRWIZE and six-winged hilda. Electro and Club. Preview the line-up and save it on soundcheck.
+HARDBACK: Anti Climax at The Social on Thu 27 Aug, London. 4 acts on the bill: dogheadsurigeri, madame3swords, MRWIZE and six-winged hilda. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HARDBACK: Anti Climax at The Social on Thu 27 Aug, London. 3 acts on the bill: m
 
 ## Line-up
 
+- dogheadsurigeri
 - madame3swords
 - MRWIZE
 - six-winged hilda

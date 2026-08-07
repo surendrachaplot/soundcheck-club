@@ -1,8 +1,8 @@
 # a:tok
 
-a:tok is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
+a:tok is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
 
-a:tok is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Kwaint, Barbara Hofmann and THNTS. Next up: ://about blank, Berlin on Sat 8 Aug.
+a:tok is a techno and house artist tracked on soundcheck, with 32 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Kwaint, Barbara Hofmann and Jessamine. Next up: ://about blank, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ a:tok is a techno and house artist tracked on soundcheck, with 31 sets logged ac
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | ://about blank | Berlin |
 | Sun, 9 Aug 2026 | ://about blank | Berlin |
+| Sat, 26 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ a:tok is a techno and house artist tracked on soundcheck, with 31 sets logged ac
 
 ## Shares bills with
 
-Kwaint, Barbara Hofmann, THNTS
+Kwaint, Barbara Hofmann, Jessamine
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*

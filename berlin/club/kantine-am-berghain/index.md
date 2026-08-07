@@ -1,14 +1,13 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary Screening" on Thu, 6 Aug 2026.
+Kantine am Berghain is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary 2nd Screening" on Fri, 7 Aug 2026.
 
-Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aircraft, Blockhead, Chloe Lula and Christoph de Babalon and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Kantine am Berghain is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Aircraft, Blockhead, Christoph de Babalon and Flowgeist and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary Screening | Chloe Lula |
 | Fri, 7 Aug 2026 | S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary 2nd Screening |  |
 | Mon, 7 Sept 2026 | One Leg One Eye + Bridget Ferrill |  |
 | Thu, 10 Sept 2026 | A Colourful Storm: Christoph de Babalon, Mark, Florence | Christoph de Babalon, Mark (DE) |
@@ -18,9 +17,10 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming
 | Thu, 1 Oct 2026 | Young Widows (US), Aicher, LVFT |  |
 | Tue, 6 Oct 2026 | Obsimo (live set) - Berlin | Obsimo |
 | Thu, 15 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
+| Sun, 1 Nov 2026 | Flowgeist - Live in Berlin | Flowgeist |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

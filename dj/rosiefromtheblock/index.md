@@ -1,6 +1,6 @@
 # Rosie from the Block
 
-Rosie from the Block is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
+Rosie from the Block is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
 
 Rosie from the Block is a broken beat and house artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Bristol, Brussels and London. Often billed alongside Mambele, Aemone and Arter. Next up: The BBE Store, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Rosie from the Block is a broken beat and house artist based in Belgium, tracked
 
 Mambele, Aemone, Arter
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosiefromtheblock/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosiefromtheblock/)*

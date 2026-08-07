@@ -1,6 +1,6 @@
 # SHIR.IN
 
-SHIR.IN is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
+SHIR.IN is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
 
 SHIR.IN is a club and disco artist tracked on soundcheck, with 8 sets logged across Berlin and London. Often billed alongside Sita Shah, Darama and Mahnoor. Next up: Brixton Radio, London on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ SHIR.IN is a club and disco artist tracked on soundcheck, with 8 sets logged acr
 
 Sita Shah, Darama, Mahnoor
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shir.in/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shir.in/)*

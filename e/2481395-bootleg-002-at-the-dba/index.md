@@ -1,6 +1,6 @@
 # BOOTLEG 002 at The DBA
 
-BOOTLEG 002 at The DBA on Sat 5 Sept, Manchester. 4 acts on the bill: atalaya, Jess Rose, Karlie Marx and Qoqnut. Bass and Club. Preview the line-up and save it on soundcheck.
+BOOTLEG 002 at The DBA on Sat 5 Sept, Manchester. 5 acts on the bill: atalaya, Jess Rose, Karlie Marx and MARACUYá and 1 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BOOTLEG 002 at The DBA on Sat 5 Sept, Manchester. 4 acts on the bill: atalaya, J
 - atalaya
 - Jess Rose
 - Karlie Marx
+- MARACUYá
 - Qoqnut
 
 *Source: [soundcheck](https://soundcheck.club/e/2481395-bootleg-002-at-the-dba/)*

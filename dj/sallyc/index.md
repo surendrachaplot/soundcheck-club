@@ -1,6 +1,6 @@
 # Sally C
 
-Sally C is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Sally C is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Sally C is a house and techno artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -34,4 +34,4 @@ Sally C is a house and techno artist tracked on soundcheck, with 262 sets logged
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

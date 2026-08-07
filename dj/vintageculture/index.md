@@ -1,6 +1,6 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Vintage Culture is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Vintage Culture is a house and tech house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Vintage Culture is a house and tech house artist tracked on soundcheck, with 186
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

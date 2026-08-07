@@ -1,6 +1,6 @@
 # SIMES
 
-SIMES is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gewölbe, Cologne on Sat, 15 Aug 2026.
+SIMES is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gewölbe, Cologne on Sat, 15 Aug 2026.
 
 SIMES is an electronic artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne and London. Often billed alongside Nic Lorenz, Fero Duman and Andhim. Next up: Gewölbe, Cologne on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ SIMES is an electronic artist based in Germany, tracked on soundcheck, with 6 se
 
 Nic Lorenz, Fero Duman, Andhim
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simes-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simes-de/)*

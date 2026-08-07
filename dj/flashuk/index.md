@@ -1,6 +1,6 @@
 # FLASH (UK)
 
-FLASH (UK) is a Tech House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at B-SIDE, Warsaw on Thu, 20 Aug 2026.
+FLASH (UK) is a Tech House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at B-SIDE, Warsaw on Thu, 20 Aug 2026.
 
 FLASH (UK) is a tech house and hip-hop artist based in Ukraine, tracked on soundcheck, with 7 sets logged across London, Saopaulo and Warsaw. Often billed alongside MNEEMO, DANIEL OKARO and NIKITAIDISYUDA. Next up: B-SIDE, Warsaw on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ FLASH (UK) is a tech house and hip-hop artist based in Ukraine, tracked on sound
 
 MNEEMO, DANIEL OKARO, NIKITAIDISYUDA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flashuk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flashuk/)*

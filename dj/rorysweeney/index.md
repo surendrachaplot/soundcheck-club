@@ -1,6 +1,6 @@
 # Rory Sweeney
 
-Rory Sweeney is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at St. Joseph’s, Sailortown, Belfast on Fri, 7 Aug 2026.
+Rory Sweeney is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at St. Joseph’s, Sailortown, Belfast on Fri, 7 Aug 2026.
 
 Rory Sweeney is a club and experimental artist tracked on soundcheck, with 40 sets logged across Belfast, Cork, Dublin and Galway and 6 more. Often billed alongside Julia Louise KnifeFist, E The Artist and Tadhg K. Next up: St. Joseph’s, Sailortown, Belfast on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Rory Sweeney is a club and experimental artist tracked on soundcheck, with 40 se
 
 Julia Louise KnifeFist, E The Artist, Tadhg K
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rorysweeney/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rorysweeney/)*

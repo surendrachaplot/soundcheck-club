@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K" on Fri, 7 Aug 2026.
+Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K" on Fri, 7 Aug 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including Adelina, Badalian, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -9,7 +9,7 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K | MATRIX3K, Salty DJ, holoe |
-| Sat, 8 Aug 2026 | J1 - 808 DAY: Memotech, DJ DiRCE, daisy cutter, MIHVU | MIHVU, Memotech, daisy cutter |
+| Sat, 8 Aug 2026 | J1 - 808 DAY: Memotech, DJ CiRCE, daisy cutter, MIHVU | DJ CiRCE, MIHVU, Memotech, daisy cutter |
 | Fri, 14 Aug 2026 | J1 - Pink Concrete, Karina Schneider, MKO | Karina Schneider, MKO (PL), Pink Concrete |
 | Sat, 15 Aug 2026 | J1 - Aliens: Daria Kolosova, Pawel, Dolu, Dima Kachan | Daria Kolosova, Dima Kachan, Dolu, Gio Shengelia, PAWEL (PL) |
 | Fri, 21 Aug 2026 | J1 - Michał Zietara, Kolektyw Laguna (Implode & Peteya) | Michal Zietara |
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

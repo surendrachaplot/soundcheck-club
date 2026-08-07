@@ -1,6 +1,6 @@
 # Faultlines
 
-Faultlines is a Drum & Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Populus Cafe, Edinburgh on Sun, 9 Aug 2026.
+Faultlines is a Drum & Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Populus Cafe, Edinburgh on Sun, 9 Aug 2026.
 
 Faultlines is a drum & bass and garage artist based in Poland, tracked on soundcheck, with 9 sets logged across Edinburgh, Lisbon and Warsaw. Often billed alongside Brynk, Bartek and Bambi Uzi. Next up: Populus Cafe, Edinburgh on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Faultlines is a drum & bass and garage artist based in Poland, tracked on soundc
 
 Brynk, Bartek, Bambi Uzi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faultlines/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faultlines/)*

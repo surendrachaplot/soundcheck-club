@@ -1,6 +1,6 @@
 # MARINI
 
-MARINI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Festival Pier, London on Sun, 30 Aug 2026.
+MARINI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Festival Pier, London on Sun, 30 Aug 2026.
 
 MARINI is a house and deep house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Dublin and London. Often billed alongside Ricky Chong, Aisling and Bevan. Next up: Festival Pier, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ MARINI is a house and deep house artist tracked on soundcheck, with 27 sets logg
 
 Ricky Chong, Aisling, Bevan
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marini/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marini/)*

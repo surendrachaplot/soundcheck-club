@@ -1,6 +1,6 @@
 # azul
 
-azul is a Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ikii, Berlin on Thu, 20 Aug 2026.
+azul is a Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ikii, Berlin on Thu, 20 Aug 2026.
 
 azul is an ambient artist based in Spain, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside Smiley (1), Truglut and Bea Moy. Next up: Ikii, Berlin on Thu 20 Aug.
 
@@ -22,4 +22,4 @@ azul is an ambient artist based in Spain, tracked on soundcheck, with 6 sets log
 
 Smiley (1), Truglut, Bea Moy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azul/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azul/)*

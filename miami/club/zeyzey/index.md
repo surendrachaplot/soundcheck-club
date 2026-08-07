@@ -1,8 +1,8 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 22 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bad Tuner (Free Entry)" on Fri, 7 Aug 2026.
+ZeyZey is a music venue in Miami with 23 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Bad Tuner (Free Entry)" on Fri, 7 Aug 2026.
 
-ZeyZey is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including Bad Tuner, Derrick Carter, Eli & Fur and GiZ and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
+ZeyZey is a music venue in Miami listed on soundcheck. 23 upcoming nights, with line-ups including Bad Tuner, Cult Member, Derrick Carter and Eli & Fur and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 22 upcoming nights, with 
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

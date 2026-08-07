@@ -1,6 +1,6 @@
 # Lancaster
 
-Lancaster is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
+Lancaster is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
 
 Lancaster is a house and deep house artist based in Spain, tracked on soundcheck, with 38 sets logged across Barcelona. Often billed alongside C.I.S.C.O, Gersound and IVAN POSEIDON. Next up: Seaseaclub Barcelona, Barcelona on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Lancaster is a house and deep house artist based in Spain, tracked on soundcheck
 
 C.I.S.C.O, Gersound, IVAN POSEIDON
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lancaster/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lancaster/)*

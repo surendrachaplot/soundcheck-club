@@ -1,14 +1,15 @@
 # Gong
 
-Gong is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
+Gong is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
 
-Gong is a house and minimal artist based in South Korea, tracked on soundcheck, with 19 sets logged across Liverpool and Seoul. Often billed alongside Cy Nico, Shinyoung and Acidwork. Next up: Nué Seoul, Seoul on Sat 8 Aug.
+Gong is a house and minimal artist based in South Korea, tracked on soundcheck, with 20 sets logged across Liverpool and Seoul. Often billed alongside Cy Nico, Shinyoung and Acidwork. Next up: Nué Seoul, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Nué Seoul | Seoul |
+| Fri, 14 Aug 2026 | Modeci | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gong is a house and minimal artist based in South Korea, tracked on soundcheck, 
 
 Cy Nico, Shinyoung, Acidwork
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*

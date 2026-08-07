@@ -1,6 +1,6 @@
 # Yahaira
 
-Yahaira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Fri, 7 Aug 2026.
+Yahaira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Fri, 7 Aug 2026.
 
 Yahaira is a house and techno artist based in Spain, tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Madrid and Malaga and 2 more. Often billed alongside DIGUES, Certain People and David Ponziano. Next up: Antiguo Liceo de Málaga, Malaga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Yahaira is a house and techno artist based in Spain, tracked on soundcheck, with
 
 DIGUES, Certain People, David Ponziano
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yahaira/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yahaira/)*

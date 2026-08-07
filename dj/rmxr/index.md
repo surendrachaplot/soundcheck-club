@@ -1,6 +1,6 @@
 # RMXR
 
-RMXR is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Skin Club, Madrid on Sat, 8 Aug 2026.
+RMXR is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Skin Club, Madrid on Sat, 8 Aug 2026.
 
 RMXR is an electronic artist based in Spain, tracked on soundcheck, with 21 sets logged across Madrid. Often billed alongside DJ TURBO, Clarissa Dalila and Atrâm. Next up: Skin Club, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RMXR is an electronic artist based in Spain, tracked on soundcheck, with 21 sets
 
 DJ TURBO, Clarissa Dalila, Atrâm
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmxr/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rmxr/)*

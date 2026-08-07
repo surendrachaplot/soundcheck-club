@@ -1,13 +1,14 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 29 Aug 2026.
+Giu Nunez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 8 Aug 2026.
 
-Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Craig Ouar, Anacalypto and Gigios. Next up: Quinta do Miratejo, Lisbon on Sat 29 Aug.
+Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Craig Ouar, Zopelar and Anacalypto. Next up: Caracol Bar, Saopaulo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Caracol Bar | Sao Paulo |
 | Sat, 29 Aug 2026 | Quinta do Miratejo | Lisbon |
 
 ## Recently played
@@ -23,6 +24,6 @@ Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Craig Ouar, Anacalypto, Gigios
+Craig Ouar, Zopelar, Anacalypto
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

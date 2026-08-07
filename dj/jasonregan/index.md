@@ -1,6 +1,6 @@
 # Jason Regan
 
-Jason Regan is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Social, London on Sat, 17 Oct 2026.
+Jason Regan is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Social, London on Sat, 17 Oct 2026.
 
 Jason Regan is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside The Sheen Resistance. Next up: The Social, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Jason Regan is a disco and funk / soul artist based in United Kingdom, tracked o
 
 The Sheen Resistance
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonregan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonregan/)*

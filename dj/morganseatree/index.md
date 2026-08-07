@@ -1,6 +1,6 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
+Morgan Seatree is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
 
 Morgan Seatree is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Belfast and Boston and 21 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Palmerstown House Estate, Dublin on Fri 7 Aug.
 
@@ -31,4 +31,4 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 81 s
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

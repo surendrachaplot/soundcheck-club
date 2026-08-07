@@ -1,6 +1,6 @@
 # Momo
 
-Momo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
+Momo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
 
 Momo is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Antwerp, Auckland, Berlin and Frankfurt and 13 more. Often billed alongside DJ MILLE, Michal Zietara and Helge Misof. Next up: clubasia, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Momo is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 DJ MILLE, Michal Zietara, Helge Misof
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momo-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momo-de/)*

@@ -1,6 +1,6 @@
 # Hyper Sam
 
-Hyper Sam is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fvtvr, Paris on Fri, 21 Aug 2026.
+Hyper Sam is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Fvtvr, Paris on Fri, 21 Aug 2026.
 
 Hyper Sam is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside Amanda Mussi, Aérienne and Coffintexts. Next up: Fvtvr, Paris on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Hyper Sam is a techno artist based in France, tracked on soundcheck, with 8 sets
 
 Amanda Mussi, Aérienne, Coffintexts
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypersam/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypersam/)*

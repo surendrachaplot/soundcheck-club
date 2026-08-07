@@ -1,6 +1,6 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
+MarcelDune is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
 
 MarcelDune is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: TILLATEC, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 61 sets logg
 
 Amphia, ASHTREY, Gloria Rose
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

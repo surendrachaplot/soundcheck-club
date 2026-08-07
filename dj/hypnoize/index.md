@@ -1,6 +1,6 @@
 # Hypnoize
 
-Hypnoize is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
+Hypnoize is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
 
 Hypnoize is a house and minimal artist tracked on soundcheck, with 33 sets logged across Berlin, Bucharest and Copenhagen. Often billed alongside Isaac Elejalde, vault. and Utip. Next up: TBA - Berlin - Secret Location - Neukölln, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Hypnoize is a house and minimal artist tracked on soundcheck, with 33 sets logge
 
 Isaac Elejalde, vault., Utip
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoize/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoize/)*

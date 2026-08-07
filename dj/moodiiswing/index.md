@@ -1,6 +1,6 @@
 # Mood II Swing
 
-Mood II Swing is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Jazz Cafe, London on Sat, 29 Aug 2026.
+Mood II Swing is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Jazz Cafe, London on Sat, 29 Aug 2026.
 
 Mood II Swing is a house and deep house artist tracked on soundcheck, with 32 sets logged across Chicago, Detroit, Geneva and Ibiza and 10 more. Often billed alongside Jamesey, Matt L-S and Prunk. Next up: The Jazz Cafe, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mood II Swing is a house and deep house artist tracked on soundcheck, with 32 se
 
 Jamesey, Matt L-S, Prunk
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*

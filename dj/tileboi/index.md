@@ -1,6 +1,6 @@
 # TILEBOI
 
-TILEBOI is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
+TILEBOI is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
 
 TILEBOI is an industrial and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Balrog, Aero (1) and Alex Wilcox. Next up: The Glove That Fits, London on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ TILEBOI is an industrial and techno artist based in United Kingdom, tracked on s
 
 Balrog, Aero (1), Alex Wilcox
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tileboi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tileboi/)*

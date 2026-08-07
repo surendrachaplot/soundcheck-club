@@ -1,8 +1,8 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
+SHUFFA is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
 
-SHUFFA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Belfast and 13 more. Often billed alongside Rich Reason, T-Man (UK) and Diffrent. Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
+SHUFFA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Belfast and 13 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SHUFFA is a garage and house artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 9 Oct 2026 | SWG3 | Glasgow |
+| Thu, 22 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ SHUFFA is a garage and house artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Rich Reason, T-Man (UK), Diffrent
+Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

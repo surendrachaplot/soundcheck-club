@@ -1,6 +1,6 @@
 # Frissonn
 
-Frissonn is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bordello Aperitivo, Amsterdam on Fri, 7 Aug 2026.
+Frissonn is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bordello Aperitivo, Amsterdam on Fri, 7 Aug 2026.
 
 Frissonn is a deep house and dub techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Giovane Filippo, The Silentist and tanggero. Next up: Bordello Aperitivo, Amsterdam on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Frissonn is a deep house and dub techno artist based in Netherlands, tracked on 
 
 Giovane Filippo, The Silentist, tanggero
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frissonn/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frissonn/)*

@@ -1,6 +1,6 @@
 # Mitch Dodge
 
-Mitch Dodge is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+Mitch Dodge is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 Mitch Dodge is a house and tech house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Losangeles, Sandiego and Seattle. Often billed alongside Susio, Terry Jasinto and Ali Gria. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mitch Dodge is a house and tech house artist based in United States of America, 
 
 Susio, Terry Jasinto, Ali Gria
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdodge/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdodge/)*

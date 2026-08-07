@@ -1,15 +1,15 @@
 # John Raffaele
 
-John Raffaele is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Fringe Bar, Philadelphia on Sat, 8 Aug 2026.
+John Raffaele is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Jolene, Copenhagen on Sat, 22 Aug 2026.
 
-John Raffaele is a house and techno artist tracked on soundcheck, with 74 sets logged across Austin, Barcelona, Boston and Brussels and 8 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: Fringe Bar, Philadelphia on Sat 8 Aug.
+John Raffaele is a house and techno artist tracked on soundcheck, with 74 sets logged across Austin, Barcelona, Boston and Brussels and 8 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: Jolene, Copenhagen on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Fringe Bar | Philadelphia |
 | Sat, 22 Aug 2026 | Jolene | Copenhagen |
+| Fri, 25 Sept 2026 | Fringe Bar | Philadelphia |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ John Raffaele is a house and techno artist tracked on soundcheck, with 74 sets l
 
 Keen, Sweater, Rob Paine
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*

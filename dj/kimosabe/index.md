@@ -1,6 +1,6 @@
 # KIMOSABE
 
-KIMOSABE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+KIMOSABE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 KIMOSABE is a club and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside RITCHRD, QUEENIE (US) and Discnogirl. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ KIMOSABE is a club and techno artist based in United States of America, tracked 
 
 RITCHRD, QUEENIE (US), Discnogirl
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimosabe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimosabe/)*

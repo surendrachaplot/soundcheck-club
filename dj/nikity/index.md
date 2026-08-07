@@ -1,6 +1,6 @@
 # Nikity
 
-Nikity is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Blackfoot Beach, Cologne on Sun, 9 Aug 2026.
+Nikity is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Blackfoot Beach, Cologne on Sun, 9 Aug 2026.
 
 Nikity is a house and balearic artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Dusseldorf and Munich. Often billed alongside AMSL, Anna Cainelli and Savsannah. Next up: TBA - Blackfoot Beach, Cologne on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Nikity is a house and balearic artist based in Germany, tracked on soundcheck, w
 
 AMSL, Anna Cainelli, Savsannah
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*

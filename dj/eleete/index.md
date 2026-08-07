@@ -1,6 +1,6 @@
 # ELEETE
 
-ELEETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
+ELEETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
 
 ELEETE is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Tim Hagemann. Next up: KitKatClub, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ ELEETE is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 KEN (DE), DJ PayPaul, Tim Hagemann
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleete/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleete/)*

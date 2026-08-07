@@ -1,6 +1,6 @@
 # LZZY
 
-LZZY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 8 Aug 2026.
+LZZY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 8 Aug 2026.
 
 LZZY is a house and techno artist based in Malaysia, tracked on soundcheck, with 63 sets logged across Kualalumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Rimka. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ LZZY is a house and techno artist based in Malaysia, tracked on soundcheck, with
 
 JonnyVicious, Roshan, Rimka
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzzy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzzy/)*

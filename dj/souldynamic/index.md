@@ -1,6 +1,6 @@
 # Souldynamic
 
-Souldynamic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at [UNVRS], Ibiza on Sun, 13 Sept 2026.
+Souldynamic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at [UNVRS], Ibiza on Sun, 13 Sept 2026.
 
 Souldynamic is a house and disco artist tracked on soundcheck, with 24 sets logged across Ibiza, Lisbon, Milan and Naples and 2 more. Often billed alongside Vettel, Alberto Valente and Craig Smith. Next up: [UNVRS], Ibiza on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Souldynamic is a house and disco artist tracked on soundcheck, with 24 sets logg
 
 Vettel, Alberto Valente, Craig Smith
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souldynamic/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souldynamic/)*

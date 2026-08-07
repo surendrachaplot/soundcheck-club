@@ -1,6 +1,6 @@
 # SOMEGUY
 
-SOMEGUY is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at O Beach, Ibiza on Sun, 23 Aug 2026.
+SOMEGUY is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at O Beach, Ibiza on Sun, 23 Aug 2026.
 
 SOMEGUY is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Ibiza and Sheffield. Often billed alongside David Penn, Garage and Jamie Love. Next up: O Beach, Ibiza on Sun 23 Aug.
 
@@ -19,4 +19,4 @@ SOMEGUY is a garage and drum & bass artist based in United Kingdom, tracked on s
 
 David Penn, Garage, Jamie Love
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someguy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someguy/)*

@@ -1,6 +1,6 @@
 # TTristana
 
-TTristana is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Unité.22, Marseille on Fri, 7 Aug 2026.
+TTristana is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Unité.22, Marseille on Fri, 7 Aug 2026.
 
 TTristana is a techno and experimental artist based in France, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, vendredear and Alexi Shell. Next up: Unité.22, Marseille on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ TTristana is a techno and experimental artist based in France, tracked on soundc
 
 Lisa More, vendredear, Alexi Shell
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttristana/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttristana/)*

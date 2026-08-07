@@ -1,6 +1,6 @@
 # Ovuello
 
-Ovuello is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "AfroHouse by SonOfTheSoil" on Sun, 30 Aug 2026.
+Ovuello is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "AfroHouse by SonOfTheSoil" on Sun, 30 Aug 2026.
 
 Ovuello is a music venue in Birmingham listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 14-16 Suffolk Street Queensway, Birmingham B1 1LT.
 
@@ -15,4 +15,4 @@ Ovuello is a music venue in Birmingham listed on soundcheck. 2 upcoming nights. 
 
 14-16 Suffolk Street Queensway, Birmingham B1 1LT, Birmingham
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/ovuello/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/ovuello/)*

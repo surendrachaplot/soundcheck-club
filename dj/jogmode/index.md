@@ -1,6 +1,6 @@
 # JOG MODE
 
-JOG MODE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Salon Daomé, Montreal on Thu, 13 Aug 2026.
+JOG MODE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Salon Daomé, Montreal on Thu, 13 Aug 2026.
 
 JOG MODE is a techno and industrial artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal. Often billed alongside ENAMOR, Kris Tin and LAPA XII. Next up: Salon Daomé, Montreal on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ JOG MODE is a techno and industrial artist based in Canada, tracked on soundchec
 
 ENAMOR, Kris Tin, LAPA XII
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jogmode/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jogmode/)*

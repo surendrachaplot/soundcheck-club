@@ -1,8 +1,8 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
+Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
-Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Tommy Phillips, Ozzie Guven and DXNBY. Next up: Lab11, Birmingham on Sat 8 Aug.
+Joss Dean is a house and tech house artist tracked on soundcheck, with 78 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Tommy Phillips, Ozzie Guven and Max Dean. Next up: Lab11, Birmingham on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets l
 | Sat, 5 Sept 2026 | Room 22 | Sydney |
 | Sun, 6 Sept 2026 | Revolver Upstairs | Melbourne |
 | Fri, 18 Sept 2026 | The Loft | Manchester |
+| Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | Spybar | Chicago |
 
 ## Recently played
@@ -32,6 +33,6 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 77 sets l
 
 ## Shares bills with
 
-Tommy Phillips, Ozzie Guven, DXNBY
+Tommy Phillips, Ozzie Guven, Max Dean
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

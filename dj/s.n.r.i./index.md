@@ -1,6 +1,6 @@
 # S.N.R.I.
 
-S.N.R.I. is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+S.N.R.I. is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 S.N.R.I. is a trance and acid artist based in Czech Republic, tracked on soundcheck, with 13 sets logged across Prague. Often billed alongside Diva, KAWA and Riki Boro. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ S.N.R.I. is a trance and acid artist based in Czech Republic, tracked on soundch
 
 Diva, KAWA, Riki Boro
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.n.r.i./)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.n.r.i./)*

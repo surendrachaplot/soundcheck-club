@@ -1,8 +1,8 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Efdemin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
-Efdemin is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
+Efdemin is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Efdemin is a techno and house artist tracked on soundcheck, with 114 sets logged
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Sat, 29 Aug 2026 | RADION | Amsterdam |
 | Fri, 11 Sept 2026 | Artheater | Cologne |
 | Wed, 30 Sept 2026 | Konzerthaus Berlin | Berlin |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
@@ -29,4 +30,4 @@ Efdemin is a techno and house artist tracked on soundcheck, with 114 sets logged
 
 Polygonia, Steffi, Virginia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

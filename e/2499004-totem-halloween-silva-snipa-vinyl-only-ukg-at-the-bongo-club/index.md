@@ -1,6 +1,6 @@
 # TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) at The Bongo Club
 
-TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) at The Bongo Club on Thu 29 Oct, Edinburgh. 2 acts on the bill: Silva Snipa and Trucha. House and Garage. Preview the line-up and save it on soundcheck.
+TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) at The Bongo Club on Thu 29 Oct, Edinburgh. 3 acts on the bill: Maya Hacker, Silva Snipa and Trucha. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) at The Bongo Club on Thu 29 Oct, E
 
 ## Line-up
 
+- Maya Hacker
 - Silva Snipa
 - Trucha
 

@@ -1,6 +1,6 @@
 # Tiki Taka
 
-Tiki Taka is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Le Gambetta Club, Paris on Fri, 18 Sept 2026.
+Tiki Taka is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Le Gambetta Club, Paris on Fri, 18 Sept 2026.
 
 Tiki Taka is a house and electro artist based in France, tracked on soundcheck, with 67 sets logged across London, Lyon and Paris. Often billed alongside Diskay, Nhyx and Antoine Chambe. Next up: Le Gambetta Club, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tiki Taka is a house and electro artist based in France, tracked on soundcheck, 
 
 Diskay, Nhyx, Antoine Chambe
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tikitaka/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tikitaka/)*

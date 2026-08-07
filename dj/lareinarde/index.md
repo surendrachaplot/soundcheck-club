@@ -1,6 +1,6 @@
 # La Reinarde
 
-La Reinarde is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jupiter Disco, New York City on Sun, 23 Aug 2026.
+La Reinarde is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jupiter Disco, New York City on Sun, 23 Aug 2026.
 
 La Reinarde is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity and Philadelphia. Often billed alongside Maha Kuma, Nöel Black and sasababy. Next up: Jupiter Disco, Newyorkcity on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ La Reinarde is a techno and house artist based in United States of America, trac
 
 Maha Kuma, Nöel Black, sasababy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lareinarde/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lareinarde/)*

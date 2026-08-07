@@ -1,6 +1,6 @@
 # Roxy
 
-Roxy is a music venue in Prague with 18 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "RAVE & GEAR - The biggest LGBTQ+ & gear party" on Fri, 7 Aug 2026.
+Roxy is a music venue in Prague with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "RAVE & GEAR - The biggest LGBTQ+ & gear techno party" on Fri, 7 Aug 2026.
 
 Roxy is a music venue in Prague listed on soundcheck. 18 upcoming nights, with line-ups including 1991 (UK), Adrian Mills, Andy C and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
@@ -8,7 +8,7 @@ Roxy is a music venue in Prague listed on soundcheck. 18 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | RAVE & GEAR - The biggest LGBTQ+ & gear party | KOBOV, NONSENSE (CZ), Paul Krist |
+| Fri, 7 Aug 2026 | RAVE & GEAR - The biggest LGBTQ+ & gear techno party | KOBOV, NONSENSE (CZ), Paul Krist |
 | Sat, 8 Aug 2026 | Pride Parade Afterparty w HOVR (Berlin - Stil vor Talent) ✶ House Of Love  | Arton (CZ), Axis Alpha, Eva Falt, Fembot, HOVR, Telly Savalas |
 | Fri, 14 Aug 2026 | TECHNO NIGHT ∞ ROXY Prague | Domek, Jaqullin, Orbith |
 | Sat, 15 Aug 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 18 upcoming nights, with l
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

@@ -1,6 +1,6 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at OIL Club, Shenzhen on Fri, 7 Aug 2026.
+Slim Soledad is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at OIL Club, Shenzhen on Fri, 7 Aug 2026.
 
 Slim Soledad is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: OIL Club, Shenzhen on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Slim Soledad is a techno and house artist tracked on soundcheck, with 129 sets l
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

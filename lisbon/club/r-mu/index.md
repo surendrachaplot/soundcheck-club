@@ -1,13 +1,15 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "ROOM: Carpet & Friends: Hudson's Choice (UK) + Kulas (AO)" on Wed, 12 Aug 2026.
+Rūmu is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Rūmu presents: Mâhfoud" on Fri, 7 Aug 2026.
 
-Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Bernardo Vaz, Bryto, Kristina (2) and MYKI and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
+Rūmu is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Bernardo Vaz, Bryto, Kristina (2) and Mâhfoud and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Rūmu presents: Mâhfoud | Mâhfoud |
+| Sat, 8 Aug 2026 | Rūmu presents: The Josh Craig | The Josh Craig |
 | Wed, 12 Aug 2026 | ROOM: Carpet & Friends: Hudson's Choice (UK) + Kulas (AO) |  |
 | Thu, 13 Aug 2026 | PARTY PEOPLE: AFTER • August 13, 2026 | Bryto, Paola Vigorito |
 | Sat, 15 Aug 2026 | Rūmu presents: Shaun Soomro | Shaun Soomro |
@@ -18,4 +20,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with l
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

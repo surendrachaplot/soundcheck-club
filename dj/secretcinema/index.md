@@ -1,6 +1,6 @@
 # Secret Cinema
 
-Secret Cinema is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Secret Cinema is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Secret Cinema is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 6 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Secret Cinema is a techno and house artist tracked on soundcheck, with 49 sets l
 
 ABOUT SOFIYA, Olympe, Benny Rodrigues
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*

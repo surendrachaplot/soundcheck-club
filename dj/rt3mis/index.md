@@ -1,6 +1,6 @@
 # Rt3mis
 
-Rt3mis is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at or, Tokyo on Sat, 15 Aug 2026.
+Rt3mis is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at or, Tokyo on Sat, 15 Aug 2026.
 
 Rt3mis is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 32 sets logged across Tokyo. Often billed alongside SolaNino, ATAMI and DJ B2B. Next up: or, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rt3mis is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 
 
 SolaNino, ATAMI, DJ B2B
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rt3mis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rt3mis/)*

@@ -1,6 +1,6 @@
 # Nosh
 
-Nosh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Montreal on Sat, 8 Aug 2026.
+Nosh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Montreal on Sat, 8 Aug 2026.
 
 Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal, Tbilisi and Tokyo. Often billed alongside dawny, SOBAKA and ANIIKA. Next up: TBA, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 1
 
 dawny, SOBAKA, ANIIKA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

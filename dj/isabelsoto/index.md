@@ -1,8 +1,8 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
 
-Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Claudio PRC, Mike Larry and Oscar Mulero. Next up: Rote Sonne, Munich on Fri 7 Aug.
+Isabel Soto is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Rote Sonne, Munich on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets log
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets log
 
 ## Shares bills with
 
-Claudio PRC, Mike Larry, Oscar Mulero
+Claudio PRC, Mike Larry, Fadi Mohem
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

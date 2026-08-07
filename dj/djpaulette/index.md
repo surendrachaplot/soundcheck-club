@@ -1,6 +1,6 @@
 # DJ Paulette
 
-DJ Paulette is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 7 Aug 2026.
+DJ Paulette is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 DJ Paulette is a house and disco artist tracked on soundcheck, with 78 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 19 more. Often billed alongside Graeme Park, Erol Alkan and David Morales. Next up: Hï Ibiza, Ibiza on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ DJ Paulette is a house and disco artist tracked on soundcheck, with 78 sets logg
 
 Graeme Park, Erol Alkan, David Morales
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulette/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulette/)*

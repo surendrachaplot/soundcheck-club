@@ -1,6 +1,6 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 821 Runnymede Rd, Toronto on Sat, 8 Aug 2026.
+ALT8 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 821 Runnymede Rd, Toronto on Sat, 8 Aug 2026.
 
 ALT8 is a techno and trance artist tracked on soundcheck, with 133 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: 821 Runnymede Rd, Toronto on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ ALT8 is a techno and trance artist tracked on soundcheck, with 133 sets logged a
 
 Sara Landry, OGUZ, Stan Christ
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

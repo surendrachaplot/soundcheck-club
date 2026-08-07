@@ -1,6 +1,6 @@
 # Vault All Vinyl WKNDR | Night | RADION at RADION
 
-Vault All Vinyl WKNDR | Night | RADION on Sat 29 Aug, Amsterdam. 4 acts on the bill: Afra, DJ Red, Laia and Rosati. Techno. Preview the line-up and save it on soundcheck.
+Vault All Vinyl WKNDR | Night | RADION on Sat 29 Aug, Amsterdam. 5 acts on the bill: Afra, DJ Red, Efdemin and Laia and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Vault All Vinyl WKNDR | Night | RADION on Sat 29 Aug, Amsterdam. 4 acts on the b
 
 - Afra
 - DJ Red
+- Efdemin
 - Laia
 - Rosati
 

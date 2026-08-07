@@ -1,8 +1,8 @@
 # Frida(y)
 
-Frida(y) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+Frida(y) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
-Frida(y) is a techno and house artist tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Adexia, Anna Logic and Alex Friday. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
+Frida(y) is a techno and house artist tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Adexia, Anders HP and Anna Logic. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Frida(y) is a techno and house artist tracked on soundcheck, with 4 sets logged 
 
 ## Shares bills with
 
-Adexia, Anna Logic, Alex Friday
+Adexia, Anders HP, Anna Logic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*

@@ -1,6 +1,6 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 9 Aug 2026.
+Megatronic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 9 Aug 2026.
 
 Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Miradouro de Baixo, Lisbon on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Megatronic is a house and disco artist based in United Kingdom, tracked on sound
 
 JKriv, Disgonuts, Aaron Dae
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*

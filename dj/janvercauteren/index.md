@@ -1,6 +1,6 @@
 # Jan Vercauteren
 
-Jan Vercauteren is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
+Jan Vercauteren is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
 
 Jan Vercauteren is a techno and industrial artist based in Belgium, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Basswell, ANXHELA and AnD. Next up: Fuse, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jan Vercauteren is a techno and industrial artist based in Belgium, tracked on s
 
 Basswell, ANXHELA, AnD
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janvercauteren/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janvercauteren/)*

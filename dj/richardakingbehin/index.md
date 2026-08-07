@@ -1,8 +1,8 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
 
-Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
+Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played
 
@@ -29,6 +30,6 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 
 ## Shares bills with
 
-Tikiman, livwutang, BASHKKA
+Tikiman, Fadi Mohem, livwutang
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

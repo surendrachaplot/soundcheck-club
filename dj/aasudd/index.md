@@ -1,13 +1,14 @@
 # Aa Sudd
 
-Aa Sudd is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+Aa Sudd is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Genezareth-Kirche, Berlin on Thu, 3 Sept 2026.
 
-Aa Sudd is a techno and experimental artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 5 more. Often billed alongside Konduku, Loek Frey and Vardae. Next up: Gessnerallee, Zurich on Fri 2 Oct.
+Aa Sudd is a techno and experimental artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 5 more. Often billed alongside Konduku, Loek Frey and Vardae. Next up: Genezareth-Kirche, Berlin on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Genezareth-Kirche | Berlin |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aa Sudd is a techno and experimental artist based in Germany, tracked on soundch
 
 Konduku, Loek Frey, Vardae
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aasudd/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aasudd/)*

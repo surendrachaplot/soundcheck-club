@@ -1,6 +1,6 @@
 # Mødze
 
-Mødze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Maison25, Zurich on Sun, 9 Aug 2026.
+Mødze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Maison25, Zurich on Sun, 9 Aug 2026.
 
 Mødze is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 40 sets logged across Antwerp, Belgrade, Berlin and Cologne and 9 more. Often billed alongside DeGuzman, Raxeller and Ana Dimco. Next up: Maison25, Zurich on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mødze is a techno and industrial artist based in Switzerland, tracked on soundc
 
 DeGuzman, Raxeller, Ana Dimco
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modze/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modze/)*

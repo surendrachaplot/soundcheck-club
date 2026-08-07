@@ -1,6 +1,6 @@
 # Tom Oakley
 
-Tom Oakley is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Deaf Institute, Manchester on Wed, 30 Sept 2026.
+Tom Oakley is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Deaf Institute, Manchester on Wed, 30 Sept 2026.
 
 Tom Oakley is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London, Manchester and Sheffield. Often billed alongside Kani, Sideshow and Sweetly. Next up: The Deaf Institute, Manchester on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Tom Oakley is a jungle and bass artist based in United Kingdom, tracked on sound
 
 Kani, Sideshow, Sweetly
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoakley/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoakley/)*

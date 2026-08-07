@@ -1,6 +1,6 @@
 # TOTE BOI
 
-TOTE BOI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
+TOTE BOI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 13 Aug 2026.
 
 TOTE BOI is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles. Often billed alongside Akumen, DJ Burrito Boy and Andy Oro. Next up: General Lee's Cocktail House, Losangeles on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ TOTE BOI is a house and techno artist based in United States of America, tracked
 
 Akumen, DJ Burrito Boy, Andy Oro
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toteboi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toteboi/)*

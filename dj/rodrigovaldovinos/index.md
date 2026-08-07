@@ -1,6 +1,6 @@
 # Rodrigo Valdovinos
 
-Rodrigo Valdovinos is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Club Magna, Costanera, Buenos Aires on Fri, 7 Aug 2026.
+Rodrigo Valdovinos is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Club Magna, Costanera, Buenos Aires on Fri, 7 Aug 2026.
 
 Rodrigo Valdovinos is a deep house and tech house artist based in Argentina, tracked on soundcheck, with 16 sets logged across Barcelona, Buenosaires and Ibiza. Often billed alongside Facundo Mohrr, Chustek and Cocho. Next up: TBA - Club Magna, Costanera, Buenosaires on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Rodrigo Valdovinos is a deep house and tech house artist based in Argentina, tra
 
 Facundo Mohrr, Chustek, Cocho
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigovaldovinos/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigovaldovinos/)*

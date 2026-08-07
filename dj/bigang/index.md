@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
+Big Ang is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Jamie Duggan, Silva Bumpa and Chad Harrison. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Big Ang is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Jamie Duggan, Silva Bumpa, Chad Harrison
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

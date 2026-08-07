@@ -1,6 +1,6 @@
 # Kelly Lee Owens
 
-Kelly Lee Owens is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Kelly Lee Owens is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Kelly Lee Owens is a techno and electro artist tracked on soundcheck, with 50 sets logged across Barcelona, Brighton, Bristol and Budapest and 18 more. Often billed alongside George Daniel, Oscar Farrell and Leon Vynehall. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kelly Lee Owens is a techno and electro artist tracked on soundcheck, with 50 se
 
 George Daniel, Oscar Farrell, Leon Vynehall
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*

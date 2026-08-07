@@ -1,6 +1,6 @@
 # Gera (3)
 
-Gera (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
+Gera (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 Gera (3) is a house and minimal artist based in Romania, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin and London. Often billed alongside Daescu, Dimbee and Bttologic. Next up: Sunseabar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gera (3) is a house and minimal artist based in Romania, tracked on soundcheck, 
 
 Daescu, Dimbee, Bttologic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gera-3/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gera-3/)*

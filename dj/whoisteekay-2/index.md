@@ -1,18 +1,18 @@
 # Who Is TeeKay?
 
-Who Is TeeKay? is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Greyhound, London on Thu, 6 Aug 2026.
+Who Is TeeKay? is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Colours Hoxton, London on Fri, 14 Aug 2026.
 
-Who Is TeeKay? is a bass and jungle artist based in Netherlands, tracked on soundcheck, with 9 sets logged across London and Nottingham. Often billed alongside johan2k, Adela and Carien. Next up: The Greyhound, London on Thu 6 Aug.
+Who Is TeeKay? is a bass and jungle artist based in Netherlands, tracked on soundcheck, with 9 sets logged across London and Nottingham. Often billed alongside johan2k, Adela and Carien. Next up: Colours Hoxton, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | The Greyhound | London |
 | Fri, 14 Aug 2026 | Colours Hoxton | London |
 
 ## Recently played
 
+- The Greyhound, London — Thu, 6 Aug 2026
 - Munster Munch, London — Sat, 1 Aug 2026
 - The Model, Nottingham — Sat, 6 Jun 2026
 - Club Makossa, London — Sat, 4 Oct 2025
@@ -25,4 +25,4 @@ Who Is TeeKay? is a bass and jungle artist based in Netherlands, tracked on soun
 
 johan2k, Adela, Carien
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisteekay-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisteekay-2/)*

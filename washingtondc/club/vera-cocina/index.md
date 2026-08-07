@@ -1,6 +1,6 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Discoteca X The Disco Express presents: Bustin' Loose" on Fri, 7 Aug 2026.
+Vera Cocina & بار is a music venue in Washington DC with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Discoteca X The Disco Express presents: Bustin' Loose" on Fri, 7 Aug 2026.
 
 Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 7 upcoming nights, with line-ups including Bustin' Loose and Nanoos. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
@@ -20,4 +20,4 @@ Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 7 up
 
 2002 Fenwick St NE, Washington, DC 20002, USA, Washington DC
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*

@@ -1,6 +1,6 @@
 # DJ Tracksuit
 
-DJ Tracksuit is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Zomerfabriek, Antwerp on Sat, 8 Aug 2026.
+DJ Tracksuit is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Zomerfabriek, Antwerp on Sat, 8 Aug 2026.
 
 DJ Tracksuit is a house and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 7 more. Often billed alongside Shady Lady, EG (1) and Abiba Sokoto. Next up: Zomerfabriek, Antwerp on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Tracksuit is a house and disco artist tracked on soundcheck, with 69 sets log
 
 Shady Lady, EG (1), Abiba Sokoto
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtracksuit/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtracksuit/)*

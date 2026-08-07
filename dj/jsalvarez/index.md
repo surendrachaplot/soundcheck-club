@@ -1,6 +1,6 @@
 # JS Alvarez
 
-JS Alvarez is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Podlasie Club, Chicago on Sat, 29 Aug 2026.
+JS Alvarez is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Podlasie Club, Chicago on Sat, 29 Aug 2026.
 
 JS Alvarez is a techno and electro artist tracked on soundcheck, with 44 sets logged across Chicago, Denver, Detroit and Newyorkcity and 2 more. Often billed alongside Makeen, Shanti and Dan B Hood. Next up: Podlasie Club, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JS Alvarez is a techno and electro artist tracked on soundcheck, with 44 sets lo
 
 Makeen, Shanti, Dan B Hood
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*

@@ -1,6 +1,6 @@
 # Mikey Gee
 
-Mikey Gee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Goldener Reiter, Munich on Sat, 15 Aug 2026.
+Mikey Gee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Goldener Reiter, Munich on Sat, 15 Aug 2026.
 
 Mikey Gee is a house and disco artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin and Munich. Often billed alongside Julie Fleischer, André Dancekowski and CHEWCHEW. Next up: Goldener Reiter, Munich on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mikey Gee is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Julie Fleischer, André Dancekowski, CHEWCHEW
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeygee/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeygee/)*

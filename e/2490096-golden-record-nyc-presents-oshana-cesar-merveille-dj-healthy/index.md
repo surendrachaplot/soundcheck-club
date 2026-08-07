@@ -1,6 +1,6 @@
 # Golden Record NYC presents Oshana, Cesar Merveille, DJ Healthy at Green Room NYC
 
-Golden Record NYC presents Oshana, Cesar Merveille, DJ Healthy at Green Room NYC on Fri 7 Aug, Newyorkcity. 9 acts on the bill: Cesar Merveille, DJ Healthy, DJ Healthy (OKOKOK) and DJ Primo and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Golden Record NYC presents Oshana, Cesar Merveille, DJ Healthy at Green Room NYC on Fri 7 Aug, Newyorkcity. 10 acts on the bill: Amy Jor, Cesar Merveille, DJ Healthy and DJ Healthy (OKOKOK) and 6 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Golden Record NYC presents Oshana, Cesar Merveille, DJ Healthy at Green Room NYC
 
 ## Line-up
 
+- Amy Jor
 - Cesar Merveille
 - DJ Healthy
 - DJ Healthy (OKOKOK)

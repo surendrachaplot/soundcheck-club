@@ -1,6 +1,6 @@
 # The Bridge
 
-The Bridge is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Take it Outside - POSTPONED" on Sat, 8 Aug 2026.
+The Bridge is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Take it Outside - POSTPONED" on Sat, 8 Aug 2026.
 
 The Bridge is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Dick Ensalada, Dor Wand, Dylan Payne and Heidi Lawden and 2 more. Browse upcoming dates, start times and who's playing. 630 S Anderson St, Los Angeles, CA 90023.
 
@@ -16,4 +16,4 @@ The Bridge is a music venue in Losangeles listed on soundcheck. 3 upcoming night
 
 630 S Anderson St, Los Angeles, CA 90023, Los Angeles
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*

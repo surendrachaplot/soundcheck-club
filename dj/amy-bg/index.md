@@ -1,6 +1,6 @@
 # AMY (BG)
 
-AMY (BG) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 8 Aug 2026.
+AMY (BG) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 8 Aug 2026.
 
 AMY (BG) is a house and techno artist based in Bulgaria, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside gem.ini, ANNARA and ANouch. Next up: Jonny Knüppel, Berlin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ AMY (BG) is a house and techno artist based in Bulgaria, tracked on soundcheck, 
 
 gem.ini, ANNARA, ANouch
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amy-bg/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amy-bg/)*

@@ -1,6 +1,6 @@
 # Leefia
 
-Leefia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 14 Aug 2026.
+Leefia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 14 Aug 2026.
 
 Leefia is a techno and house artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Kengo Yuasa and Mamazu. Next up: Enter Shibuya, Tokyo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Leefia is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 SIGNAL (JP), Kengo Yuasa, Mamazu
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leefia/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leefia/)*

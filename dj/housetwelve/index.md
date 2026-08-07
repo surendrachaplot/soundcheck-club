@@ -1,6 +1,6 @@
 # House Twelve
 
-House Twelve is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Flash, Washington DC on Sun, 9 Aug 2026.
+House Twelve is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Flash, Washington DC on Sun, 9 Aug 2026.
 
 House Twelve is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Washingtondc. Often billed alongside Apollo Dust, Sneakers in the Dryer and KayLaSoul. Next up: Flash, Washingtondc on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ House Twelve is a house and techno artist based in United States of America, tra
 
 Apollo Dust, Sneakers in the Dryer, KayLaSoul
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housetwelve/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housetwelve/)*

@@ -1,6 +1,6 @@
 # mo.fede
 
-mo.fede is a Latin Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cafeteria, Toronto on Fri, 7 Aug 2026.
+mo.fede is a Latin Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cafeteria, Toronto on Fri, 7 Aug 2026.
 
 mo.fede is a latin bass and hardcore artist based in Colombia, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Ana Luisa, Momocita and SEXMP3. Next up: Cafeteria, Toronto on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ mo.fede is a latin bass and hardcore artist based in Colombia, tracked on soundc
 
 Ana Luisa, Momocita, SEXMP3
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mo.fede/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mo.fede/)*

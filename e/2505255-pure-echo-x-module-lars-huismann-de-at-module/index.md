@@ -1,6 +1,6 @@
 # Pure Echo X MODULE: Lars Huismann (DE) at MODULE
 
-Pure Echo X MODULE: Lars Huismann (DE) on Sat 5 Sept, Copenhagen. 3 acts on the bill: Ida Aya, Lars Huismann and WE.LL. Techno. Preview the line-up and save it on soundcheck.
+Pure Echo X MODULE: Lars Huismann (DE) on Sat 5 Sept, Copenhagen. 4 acts on the bill: Ida Aya, Lars Huismann, Phase Line and WE.LL. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Pure Echo X MODULE: Lars Huismann (DE) on Sat 5 Sept, Copenhagen. 3 acts on the 
 
 - Ida Aya
 - Lars Huismann
+- Phase Line
 - WE.LL
 
 *Source: [soundcheck](https://soundcheck.club/e/2505255-pure-echo-x-module-lars-huismann-de-at-module/)*

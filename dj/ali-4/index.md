@@ -1,6 +1,6 @@
 # Ali (4)
 
-Ali (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 88block, Tokyo on Fri, 7 Aug 2026.
+Ali (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 88block, Tokyo on Fri, 7 Aug 2026.
 
 Ali (4) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Detroit, London, Losangeles and Mexicocity and 3 more. Often billed alongside Stev3NN, Sunny (DE) and ALLY. Next up: 88block, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ali (4) is a house and techno artist based in United Kingdom, tracked on soundch
 
 Stev3NN, Sunny (DE), ALLY
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-4/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-4/)*

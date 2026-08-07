@@ -1,14 +1,15 @@
 # Technadze
 
-Technadze is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Technadze is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
-Technadze is a techno and ghetto tech artist based in Georgia, tracked on soundcheck, with 22 sets logged across Berlin, Krakow and Prague. Often billed alongside Kavkaz Widow, MLK:M and DZiONYSUS. Next up: Altenburg 1964, Prague on Fri 21 Aug.
+Technadze is a techno and ghetto tech artist based in Georgia, tracked on soundcheck, with 23 sets logged across Berlin, Krakow and Prague. Often billed alongside MLK:M, Kavkaz Widow and Diva. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
+| Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Technadze is a techno and ghetto tech artist based in Georgia, tracked on soundc
 
 ## Shares bills with
 
-Kavkaz Widow, MLK:M, DZiONYSUS
+MLK:M, Kavkaz Widow, Diva
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*

@@ -1,8 +1,8 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
+Tommy Phillips is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
-Tommy Phillips is a tech house and house artist tracked on soundcheck, with 58 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Lab11, Birmingham on Sat 8 Aug.
+Tommy Phillips is a tech house and house artist tracked on soundcheck, with 59 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Lab11, Birmingham on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 58 s
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | A.i Warehouse | Washington DC |
 | Sun, 20 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 58 s
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

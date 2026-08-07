@@ -1,6 +1,6 @@
 # Seven Lions
 
-Seven Lions is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Echostage, Washington DC on Sat, 8 Aug 2026.
+Seven Lions is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Echostage, Washington DC on Sat, 8 Aug 2026.
 
 Seven Lions is a dubstep and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Boston, Chicago and London and 7 more. Often billed alongside Deadmau5, KREAM and Audien. Next up: Echostage, Washingtondc on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Seven Lions is a dubstep and house artist based in United States of America, tra
 
 Deadmau5, KREAM, Audien
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*

@@ -1,6 +1,6 @@
 # MATHILDA (2)
 
-MATHILDA (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Else, Berlin on Sun, 6 Sept 2026.
+MATHILDA (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Else, Berlin on Sun, 6 Sept 2026.
 
 MATHILDA (2) is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Carluschka, DJ SPORTSCHUH and BNZN. Next up: Else, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ MATHILDA (2) is a house and techno artist based in Germany, tracked on soundchec
 
 Carluschka, DJ SPORTSCHUH, BNZN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*

@@ -1,6 +1,6 @@
 # Lex Ludlow
 
-Lex Ludlow is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
+Lex Ludlow is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
 
 Lex Ludlow is a house and electronica artist based in Sweden, tracked on soundcheck, with 5 sets logged across Berlin and Copenhagen. Often billed alongside Jesper Aubin, Kaldera and Dole & Kom. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Lex Ludlow is a house and electronica artist based in Sweden, tracked on soundch
 
 Jesper Aubin, Kaldera, Dole & Kom
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexludlow/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexludlow/)*

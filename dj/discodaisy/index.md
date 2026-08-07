@@ -1,6 +1,6 @@
 # DiscoDaisy
 
-DiscoDaisy is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ://about blank, Berlin on Sat, 22 Aug 2026.
+DiscoDaisy is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ://about blank, Berlin on Sat, 22 Aug 2026.
 
 DiscoDaisy is a trance and techno artist based in Austria, tracked on soundcheck, with 29 sets logged across Berlin, Leipzig and Munich. Often billed alongside CARGO (DE), DJ SeXex and Felix Schwarzenberger. Next up: ://about blank, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DiscoDaisy is a trance and techno artist based in Austria, tracked on soundcheck
 
 CARGO (DE), DJ SeXex, Felix Schwarzenberger
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discodaisy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discodaisy/)*

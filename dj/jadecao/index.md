@@ -1,13 +1,14 @@
 # JADE CAO
 
-JADE CAO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+JADE CAO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Flash, Washington DC on Fri, 4 Sept 2026.
 
-JADE CAO is a techno and house artist tracked on soundcheck, with 30 sets logged across Boston, Newyorkcity and Washingtondc. Often billed alongside CLAUDIX, Marteka Fair and Matthew Cha. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
+JADE CAO is a techno and house artist tracked on soundcheck, with 31 sets logged across Boston, Newyorkcity and Washingtondc. Often billed alongside CLAUDIX, Marteka Fair and Matthew Cha. Next up: Flash, Washingtondc on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Flash | Washington DC |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 
 ## Recently played
@@ -25,4 +26,4 @@ JADE CAO is a techno and house artist tracked on soundcheck, with 30 sets logged
 
 CLAUDIX, Marteka Fair, Matthew Cha
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadecao/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadecao/)*

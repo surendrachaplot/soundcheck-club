@@ -1,6 +1,6 @@
 # Andrew Emil
 
-Andrew Emil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 9 Aug 2026.
+Andrew Emil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 9 Aug 2026.
 
 Andrew Emil is a house and deep house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Chicago, Detroit, Lisbon and Mexicocity and 4 more. Often billed alongside Gene Hunt, Adorio and Mike Dunn. Next up: Carmo Rooftop, Lisbon on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Andrew Emil is a house and deep house artist based in United States of America, 
 
 Gene Hunt, Adorio, Mike Dunn
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewemil/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewemil/)*

@@ -1,13 +1,14 @@
 # Faacia
 
-Faacia is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Faust, Seoul on Sat, 22 Aug 2026.
+Faacia is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pistil, Seoul on Fri, 7 Aug 2026.
 
-Faacia is a club and experimental artist based in South Korea, tracked on soundcheck, with 24 sets logged across Seoul. Often billed alongside Moon Ki, dayoung and ABOPF. Next up: Faust, Seoul on Sat 22 Aug.
+Faacia is a club and experimental artist based in South Korea, tracked on soundcheck, with 25 sets logged across Seoul. Often billed alongside Moon Ki, dayoung and ABOPF. Next up: Pistil, Seoul on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Pistil | Seoul |
 | Sat, 22 Aug 2026 | Faust | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Faacia is a club and experimental artist based in South Korea, tracked on soundc
 
 Moon Ki, dayoung, ABOPF
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faacia/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faacia/)*

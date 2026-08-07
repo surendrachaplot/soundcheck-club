@@ -1,6 +1,6 @@
 # Lauren Yoon
 
-Lauren Yoon is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Mood Ring, New York City on Sat, 8 Aug 2026.
+Lauren Yoon is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Mood Ring, New York City on Sat, 8 Aug 2026.
 
 Lauren Yoon is a house and experimental artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Brian Thabault, Tj McAu and Gamma Vibes. Next up: Mood Ring, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lauren Yoon is a house and experimental artist based in United States of America
 
 Brian Thabault, Tj McAu, Gamma Vibes
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenyoon/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenyoon/)*

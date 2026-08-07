@@ -1,6 +1,6 @@
 # Danny Marx
 
-Danny Marx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
+Danny Marx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
 
 Danny Marx is a house and disco artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside GRIT., Alex Rebel and DRSJ. Next up: Egg London, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Danny Marx is a house and disco artist based in United Kingdom, tracked on sound
 
 GRIT., Alex Rebel, DRSJ
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannymarx/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannymarx/)*

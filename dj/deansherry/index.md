@@ -1,6 +1,6 @@
 # Dean Sherry
 
-Dean Sherry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Electric Garden, Dublin on Sat, 29 Aug 2026.
+Dean Sherry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Electric Garden, Dublin on Sat, 29 Aug 2026.
 
 Dean Sherry is a house and techno artist based in Ireland, tracked on soundcheck, with 10 sets logged across Dublin. Often billed alongside Cailín, Connect and DJ PIERR. Next up: Electric Garden, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dean Sherry is a house and techno artist based in Ireland, tracked on soundcheck
 
 Cailín, Connect, DJ PIERR
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deansherry/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deansherry/)*

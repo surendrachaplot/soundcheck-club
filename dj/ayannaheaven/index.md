@@ -1,6 +1,6 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Night Tales Loft, London on Sat, 8 Aug 2026.
+Ayanna Heaven is a Dancehall and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Night Tales Loft, London on Sat, 8 Aug 2026.
 
 Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Night Tales Loft, London on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 
 Honey Bun, Akanbi, Lovie
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*

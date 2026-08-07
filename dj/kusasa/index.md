@@ -1,6 +1,6 @@
 # Kusasa
 
-Kusasa is a Broken Beat and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Glove That Fits, London on Fri, 7 Aug 2026.
+Kusasa is a Broken Beat and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Glove That Fits, London on Fri, 7 Aug 2026.
 
 Kusasa is a broken beat and baile funk artist tracked on soundcheck, with 54 sets logged across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Moova, Oriki and Obeka. Next up: The Glove That Fits, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kusasa is a broken beat and baile funk artist tracked on soundcheck, with 54 set
 
 Moova, Oriki, Obeka
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*

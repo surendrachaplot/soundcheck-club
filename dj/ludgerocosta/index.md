@@ -1,6 +1,6 @@
 # Ludgero Costa
 
-Ludgero Costa is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - East London Location TBA, London on Sat, 8 Aug 2026.
+Ludgero Costa is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - East London Location TBA, London on Sat, 8 Aug 2026.
 
 Ludgero Costa is a minimal and minimal techno artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across London. Often billed alongside LUUD, Myriam and Kesh (1). Next up: TBA - East London Location TBA, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ludgero Costa is a minimal and minimal techno artist based in United Kingdom, tr
 
 LUUD, Myriam, Kesh (1)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludgerocosta/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludgerocosta/)*

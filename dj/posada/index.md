@@ -1,6 +1,6 @@
 # Posada
 
-Posada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Garage 442, Barcelona on Sat, 8 Aug 2026.
+Posada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Garage 442, Barcelona on Sat, 8 Aug 2026.
 
 Posada is a house and techno artist based in Colombia, tracked on soundcheck, with 22 sets logged across Barcelona, Madrid and Saopaulo. Often billed alongside Elop, Ettier and Lucien (3). Next up: Garage 442, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Posada is a house and techno artist based in Colombia, tracked on soundcheck, wi
 
 Elop, Ettier, Lucien (3)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*

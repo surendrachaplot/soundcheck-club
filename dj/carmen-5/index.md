@@ -1,6 +1,6 @@
 # Carmen (5)
 
-Carmen (5) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Pangea, Vancouver on Fri, 7 Aug 2026.
+Carmen (5) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Pangea, Vancouver on Fri, 7 Aug 2026.
 
 Carmen (5) is a techno and minimal techno artist based in Portugal, tracked on soundcheck, with 13 sets logged across Lisbon, Paris, Porto and Vancouver. Often billed alongside AïDA, BABY-B and Backbone. Next up: TBA - Pangea, Vancouver on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Carmen (5) is a techno and minimal techno artist based in Portugal, tracked on s
 
 AïDA, BABY-B, Backbone
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-5/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-5/)*

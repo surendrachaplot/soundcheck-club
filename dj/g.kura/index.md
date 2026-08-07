@@ -1,6 +1,6 @@
 # G.Kura
 
-G.Kura is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bassiani, Tbilisi on Sat, 15 Aug 2026.
+G.Kura is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bassiani, Tbilisi on Sat, 15 Aug 2026.
 
 G.Kura is a techno and afro house artist based in Georgia, tracked on soundcheck, with 10 sets logged across Tbilisi and Toronto. Often billed alongside Ash Scholem, AudioSpace and Gio Shengelia. Next up: Bassiani, Tbilisi on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ G.Kura is a techno and afro house artist based in Georgia, tracked on soundcheck
 
 Ash Scholem, AudioSpace, Gio Shengelia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g.kura/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g.kura/)*

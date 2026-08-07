@@ -1,6 +1,6 @@
 # Babypufff
 
-Babypufff is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Trans-Pecos, New York City on Sat, 8 Aug 2026.
+Babypufff is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Trans-Pecos, New York City on Sat, 8 Aug 2026.
 
 Babypufff is a bass and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity and Washingtondc. Often billed alongside Black Grealish, kabir. and Djoser. Next up: Trans-Pecos, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Babypufff is a bass and club artist based in United States of America, tracked o
 
 Black Grealish, kabir., Djoser
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babypufff/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babypufff/)*

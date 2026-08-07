@@ -1,8 +1,8 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
+Kai Alce is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
 
-Kai Alce is a house and deep house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and DJ Spen. Next up: TBA - National Union Building, Washingtondc on Sat 8 Aug.
+Kai Alce is a house and deep house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and DJ Spen. Next up: TBA - National Union Building, Washingtondc on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 82 sets lo
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sun, 16 Aug 2026 | TV Lounge | Detroit |
+| Fri, 21 Aug 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 82 sets lo
 
 DJ Kemit, Ash Lauryn, DJ Spen
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

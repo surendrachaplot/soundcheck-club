@@ -1,6 +1,6 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Agonis is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Agonis is a techno and experimental artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Garçon, Timnah and Konduku. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Agonis is a techno and experimental artist tracked on soundcheck, with 69 sets l
 
 Garçon, Timnah, Konduku
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*

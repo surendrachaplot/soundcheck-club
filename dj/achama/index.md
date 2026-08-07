@@ -1,6 +1,6 @@
 # ACHAMA
 
-ACHAMA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 7 Aug 2026.
+ACHAMA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 7 Aug 2026.
 
 ACHAMA is a club and techno artist tracked on soundcheck, with 18 sets logged across Portland, Seattle and Tokyo. Often billed alongside N SO, MUNÉO and Jason Code. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ ACHAMA is a club and techno artist tracked on soundcheck, with 18 sets logged ac
 
 N SO, MUNÉO, Jason Code
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*

@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Outer Heaven, New York City on Sat, 15 Aug 2026.
+Kurilo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Outer Heaven, New York City on Sat, 15 Aug 2026.
 
 Kurilo is a house and techno artist tracked on soundcheck, with 111 sets logged across Berlin, Boston, Detroit and Losangeles and 6 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Outer Heaven, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Kurilo is a house and techno artist tracked on soundcheck, with 111 sets logged 
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

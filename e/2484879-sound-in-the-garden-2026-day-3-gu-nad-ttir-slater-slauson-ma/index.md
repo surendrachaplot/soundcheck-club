@@ -1,6 +1,6 @@
-# Sound in the Garden 2026, Day 3 (Guðnadóttir & Slater // Slauson Malone 1) at Neue Nationalgalerie
+# Sound in the Garden 2026, Day 3 (Guðnadóttir & Slater // Slauson Malone 1 // Eve Matin) at Neue Nationalgalerie
 
-Sound in the Garden 2026, Day 3 (Guðnadóttir & Slater // Slauson Malone 1) at Neue Nationalgalerie on Fri 14 Aug, Berlin. 1 act on the bill: Hildur Guðnadóttir. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Sound in the Garden 2026, Day 3 (Guðnadóttir & Slater // Slauson Malone 1 // Eve Matin) at Neue Nationalgalerie on Fri 14 Aug, Berlin. 1 act on the bill: Hildur Guðnadóttir. Experimental and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

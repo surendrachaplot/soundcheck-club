@@ -1,6 +1,6 @@
 # DanBe
 
-DanBe is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
+DanBe is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
 
 DanBe is a house and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside 2CUTE2CUE, Ac1d Vicious and Carbon Copy (2). Next up: Planet Wax, London on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ DanBe is a house and garage artist based in United Kingdom, tracked on soundchec
 
 2CUTE2CUE, Ac1d Vicious, Carbon Copy (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danbe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danbe/)*

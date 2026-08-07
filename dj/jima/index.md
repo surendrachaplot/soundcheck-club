@@ -1,6 +1,6 @@
 # jima
 
-jima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 88block, Tokyo on Fri, 7 Aug 2026.
+jima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 88block, Tokyo on Fri, 7 Aug 2026.
 
 jima is a house and techno artist based in Greece, tracked on soundcheck, with 82 sets logged across Athens, Hamburg, Milan and Tokyo. Often billed alongside 5harpy, bungo and LEFTOLD. Next up: 88block, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ jima is a house and techno artist based in Greece, tracked on soundcheck, with 8
 
 5harpy, bungo, LEFTOLD
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jima/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jima/)*

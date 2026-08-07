@@ -1,6 +1,6 @@
 # CHRANDY
 
-CHRANDY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
+CHRANDY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
 
 CHRANDY is a house and club artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Hamburg. Often billed alongside Doctora Amor, Agua con gas and Femur. Next up: Bulbul Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ CHRANDY is a house and club artist based in Germany, tracked on soundcheck, with
 
 Doctora Amor, Agua con gas, Femur
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrandy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrandy/)*

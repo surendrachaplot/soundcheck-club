@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
+Masalo is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
 
 Masalo is a house and disco artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bali and 34 more. Often billed alongside Kamma, Antal and DJ Tennis. Next up: La Terrrazza, Barcelona on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Masalo is a house and disco artist tracked on soundcheck, with 127 sets logged a
 
 Kamma, Antal, DJ Tennis
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

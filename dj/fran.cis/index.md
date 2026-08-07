@@ -1,6 +1,6 @@
 # Fran.cis
 
-Fran.cis is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Spook Club, Valencia on Sat, 8 Aug 2026.
+Fran.cis is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Spook Club, Valencia on Sat, 8 Aug 2026.
 
 Fran.cis is a house and deep house artist based in Spain, tracked on soundcheck, with 5 sets logged across Valencia. Often billed alongside Blanch, Pizzicatto and Sueezo. Next up: Spook Club, Valencia on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Fran.cis is a house and deep house artist based in Spain, tracked on soundcheck,
 
 Blanch, Pizzicatto, Sueezo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fran.cis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fran.cis/)*

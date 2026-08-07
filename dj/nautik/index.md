@@ -1,6 +1,6 @@
 # NAUTIK
 
-NAUTIK is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
+NAUTIK is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 NAUTIK is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Ibiza, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Shiba San, Hugel and Nala. Next up: Hï Ibiza, Ibiza on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ NAUTIK is a house and deep house artist based in United States of America, track
 
 Shiba San, Hugel, Nala
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nautik/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nautik/)*

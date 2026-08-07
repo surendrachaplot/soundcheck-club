@@ -1,6 +1,6 @@
 # Imaniii
 
-Imaniii is a Club and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Haggerston, London on Sat, 8 Aug 2026.
+Imaniii is a Club and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Haggerston, London on Sat, 8 Aug 2026.
 
 Imaniii is a club and uk funky artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside VIRI$$, SALD3E and effua. Next up: The Haggerston, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Imaniii is a club and uk funky artist based in United Kingdom, tracked on soundc
 
 VIRI$$, SALD3E, effua
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imaniii/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imaniii/)*

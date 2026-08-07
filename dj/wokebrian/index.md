@@ -1,13 +1,14 @@
 # Woke Brian
 
-Woke Brian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jupiter Disco, New York City on Wed, 12 Aug 2026.
+Woke Brian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Unveiled, New York City on Fri, 7 Aug 2026.
 
-Woke Brian is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Ali Mae, Avision and BB Lux. Next up: Jupiter Disco, Newyorkcity on Wed 12 Aug.
+Woke Brian is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Ali Mae, Avision and BB Lux. Next up: Unveiled, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Unveiled | New York City |
 | Wed, 12 Aug 2026 | Jupiter Disco | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Woke Brian is a house and techno artist based in United States of America, track
 
 Ali Mae, Avision, BB Lux
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wokebrian/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wokebrian/)*

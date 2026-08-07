@@ -1,6 +1,6 @@
 # Jacaranda Baltic
 
-Jacaranda Baltic is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Overmono: DJ Set (Late)" on Thu, 13 Aug 2026.
+Jacaranda Baltic is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Overmono: DJ Set (Late)" on Thu, 13 Aug 2026.
 
 Jacaranda Baltic is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including Antony Szmierek, Bonobo and Overmono. Browse upcoming dates, start times and who's playing. Unit 2, Cains Brewery, Liverpool L8 5XJ.
 
@@ -17,4 +17,4 @@ Jacaranda Baltic is a music venue in Liverpool listed on soundcheck. 4 upcoming 
 
 Unit 2, Cains Brewery, Liverpool L8 5XJ, Liverpool
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/jacaranda-baltic/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/jacaranda-baltic/)*

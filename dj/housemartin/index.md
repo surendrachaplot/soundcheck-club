@@ -1,6 +1,6 @@
 # House Martin
 
-House Martin is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Piękny Pies, Krakow on Sat, 8 Aug 2026.
+House Martin is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Piękny Pies, Krakow on Sat, 8 Aug 2026.
 
 House Martin is a drum & bass and garage artist tracked on soundcheck, with 40 sets logged across Krakow. Often billed alongside Bartman, MRV (1) and Jusvybe. Next up: Piękny Pies, Krakow on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ House Martin is a drum & bass and garage artist tracked on soundcheck, with 40 s
 
 Bartman, MRV (1), Jusvybe
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housemartin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housemartin/)*

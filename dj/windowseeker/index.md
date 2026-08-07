@@ -1,6 +1,6 @@
 # Windowseeker
 
-Windowseeker is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+Windowseeker is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 Windowseeker is an ambient and experimental artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Cologne and Glasgow and 7 more. Often billed alongside èvia, Ben Bondy and Buttechno. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Windowseeker is an ambient and experimental artist based in Germany, tracked on 
 
 èvia, Ben Bondy, Buttechno
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/windowseeker/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/windowseeker/)*

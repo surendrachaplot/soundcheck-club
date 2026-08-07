@@ -1,6 +1,6 @@
 # Bobby Davis
 
-Bobby Davis is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
+Bobby Davis is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
 Bobby Davis is a tech house and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Louie B, André Branney and Anton Morales. Next up: Basing House, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bobby Davis is a tech house and house artist based in United States of America, 
 
 Louie B, André Branney, Anton Morales
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbydavis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbydavis/)*

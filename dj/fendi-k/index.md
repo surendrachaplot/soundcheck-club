@@ -1,6 +1,6 @@
 # FENDI-K
 
-FENDI-K is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
+FENDI-K is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
 
 FENDI-K is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brighton, Hamburg and London. Often billed alongside OS:MAN, VXRGO and Silva Snipa. Next up: The Carpet Shop, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ FENDI-K is a jungle and garage artist based in United Kingdom, tracked on soundc
 
 OS:MAN, VXRGO, Silva Snipa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fendi-k/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fendi-k/)*

@@ -1,6 +1,6 @@
 # STRAY SON
 
-STRAY SON is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+STRAY SON is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 STRAY SON is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam and London. Often billed alongside Tear of Joy, Ebz and Nic Cammelli. Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ STRAY SON is a deep house and progressive house artist based in United Kingdom, 
 
 Tear of Joy, Ebz, Nic Cammelli
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strayson/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strayson/)*

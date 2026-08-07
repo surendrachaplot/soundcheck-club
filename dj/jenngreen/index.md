@@ -1,13 +1,14 @@
 # JENN GREEN
 
-JENN GREEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+JENN GREEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 8 Aug 2026.
 
-JENN GREEN is a techno and house artist tracked on soundcheck, with 63 sets logged across Losangeles, Portland, Seattle and Vancouver. Often billed alongside Jason Code, Jordana and Freddy M. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
+JENN GREEN is a techno and house artist tracked on soundcheck, with 64 sets logged across Losangeles, Portland, Seattle and Vancouver. Often billed alongside Jason Code, Jordana and Freddy M. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Fri, 21 Aug 2026 | TBA - Private Campground | Seattle |
 
 ## Recently played
@@ -25,4 +26,4 @@ JENN GREEN is a techno and house artist tracked on soundcheck, with 63 sets logg
 
 Jason Code, Jordana, Freddy M
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*

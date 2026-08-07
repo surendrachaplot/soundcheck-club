@@ -1,6 +1,6 @@
 # Innercity (BE)
 
-Innercity (BE) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
+Innercity (BE) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Innercity (BE) is an electronica and house artist based in Belgium, tracked on soundcheck, with 2 sets logged across Detroit and Ibiza. Often billed alongside Axel Boman, Chaos In The CBD and DJ Lady D. Next up: Amnesia Ibiza, Ibiza on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Innercity (BE) is an electronica and house artist based in Belgium, tracked on s
 
 Axel Boman, Chaos In The CBD, DJ Lady D
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innercitybe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innercitybe/)*

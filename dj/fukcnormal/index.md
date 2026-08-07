@@ -1,6 +1,6 @@
 # FUKCNORMAL
 
-FUKCNORMAL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
+FUKCNORMAL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
 
 FUKCNORMAL is a techno and club artist tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Lisbon and London and 2 more. Often billed alongside Olvido, DJ Final Boss and LVL1. Next up: Algha's Plantroom, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ FUKCNORMAL is a techno and club artist tracked on soundcheck, with 42 sets logge
 
 Olvido, DJ Final Boss, LVL1
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fukcnormal/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fukcnormal/)*

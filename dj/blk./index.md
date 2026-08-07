@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
+blk. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
 
 blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Charlie Sparks and Basswell. Next up: Hippodrome de Vincennes, Paris on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged a
 
 Azyr, Charlie Sparks, Basswell
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

@@ -1,6 +1,6 @@
 # Florens
 
-Florens is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sensorium, Berlin on Sat, 8 Aug 2026.
+Florens is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sensorium, Berlin on Sat, 8 Aug 2026.
 
 Florens is a tech house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Jvhnq, Akollor and Blck-Swan. Next up: Sensorium, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Florens is a tech house and techno artist based in Germany, tracked on soundchec
 
 Jvhnq, Akollor, Blck-Swan
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florens/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florens/)*

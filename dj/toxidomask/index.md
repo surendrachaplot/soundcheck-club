@@ -1,6 +1,6 @@
 # Toxido Mask
 
-Toxido Mask is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+Toxido Mask is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 Toxido Mask is a techno and ambient artist tracked on soundcheck, with 53 sets logged across Bangkok, Barcelona, Berlin and London and 3 more. Often billed alongside MAEDON, Ario and CONCEPTUAL. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Toxido Mask is a techno and ambient artist tracked on soundcheck, with 53 sets l
 
 MAEDON, Ario, CONCEPTUAL
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*

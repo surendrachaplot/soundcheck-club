@@ -1,6 +1,6 @@
 # DUANE (US)
 
-DUANE (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cannons, Detroit on Fri, 7 Aug 2026.
+DUANE (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cannons, Detroit on Fri, 7 Aug 2026.
 
 DUANE (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside John Collins (US), Stacey Hotwaxx Hale and A Guy Called Gerald. Next up: Cannons, Detroit on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ DUANE (US) is a techno and house artist based in United States of America, track
 
 John Collins (US), Stacey Hotwaxx Hale, A Guy Called Gerald
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duane-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duane-2/)*

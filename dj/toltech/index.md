@@ -1,14 +1,14 @@
 # Toltech
 
-Toltech is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Parc Viau , Montreal on Sat, 8 Aug 2026.
+Toltech is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ctrllab Art House and Gallery, Montreal on Sat, 8 Aug 2026.
 
-Toltech is a techno and house artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal and Toronto. Often billed alongside Terrn, KaterUnser and Miss Oana. Next up: TBA - Parc Viau , Montreal on Sat 8 Aug.
+Toltech is a techno and house artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal and Toronto. Often billed alongside Terrn, KaterUnser and Miss Oana. Next up: Ctrllab Art House and Gallery, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - Parc Viau  | Montreal |
+| Sat, 8 Aug 2026 | Ctrllab Art House and Gallery | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Toltech is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Terrn, KaterUnser, Miss Oana
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toltech/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toltech/)*

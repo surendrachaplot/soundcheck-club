@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
+KILIMANJARO is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 KILIMANJARO is a house and afro house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 35 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Chinois Ibiza, Ibiza on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ KILIMANJARO is a house and afro house artist tracked on soundcheck, with 131 set
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

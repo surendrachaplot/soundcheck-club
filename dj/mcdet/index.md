@@ -1,6 +1,6 @@
 # MC Det
 
-MC Det is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Riverside East, London on Sat, 15 Aug 2026.
+MC Det is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Riverside East, London on Sat, 15 Aug 2026.
 
 MC Det is a drum & bass and jungle artist tracked on soundcheck, with 47 sets logged across Birmingham, Brighton, Bristol and Hamburg and 3 more. Often billed alongside DJ Brockie, The Ragga Twins and Funsta. Next up: Riverside East, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ MC Det is a drum & bass and jungle artist tracked on soundcheck, with 47 sets lo
 
 DJ Brockie, The Ragga Twins, Funsta
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdet/)*

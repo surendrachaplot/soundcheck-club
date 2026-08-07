@@ -1,6 +1,6 @@
 # Nick Castle
 
-Nick Castle is a Deep House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
+Nick Castle is a Deep House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
 
 Nick Castle is a deep house and afro house artist tracked on soundcheck, with 55 sets logged across Birmingham, Brussels, Ibiza and Lisbon and 2 more. Often billed alongside Adriatique, Âme and Caiiro. Next up: Old Royal Naval College, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Nick Castle is a deep house and afro house artist tracked on soundcheck, with 55
 
 Adriatique, Âme, Caiiro
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*

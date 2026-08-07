@@ -1,6 +1,6 @@
 # Mood Architect
 
-Mood Architect is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Toronto Island, Toronto on Sat, 8 Aug 2026.
+Mood Architect is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Toronto Island, Toronto on Sat, 8 Aug 2026.
 
 Mood Architect is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside ARJ (IR), PRSIS10S and Lizard Time. Next up: Toronto Island, Toronto on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Mood Architect is a progressive house and deep house artist based in United King
 
 ARJ (IR), PRSIS10S, Lizard Time
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodarchitect/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodarchitect/)*

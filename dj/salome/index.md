@@ -1,8 +1,8 @@
 # Salomé Le Chat
 
-Salomé Le Chat is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 8 Aug 2026.
+Salomé Le Chat is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 8 Aug 2026.
 
-Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 21 more. Often billed alongside Ben Sterling, Jamie Jones and Marco Carola. Next up: Hï Ibiza, Ibiza on Sat 8 Aug.
+Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 22 more. Often billed alongside Jamie Jones, Ben Sterling and Marco Carola. Next up: Hï Ibiza, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104
 | Sat, 15 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
+| Sat, 26 Sept 2026 | Studio Club Malaga | Malaga |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -26,6 +28,6 @@ Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104
 
 ## Shares bills with
 
-Ben Sterling, Jamie Jones, Marco Carola
+Jamie Jones, Ben Sterling, Marco Carola
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*

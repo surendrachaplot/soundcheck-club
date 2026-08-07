@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Samuel Moriero (2) is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
 
 Samuel Moriero (2) is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside 999999999, BØĘRY and Daisy-it. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Samuel Moriero (2) is a techno and hardcore artist tracked on soundcheck, with 1
 
 999999999, BØĘRY, Daisy-it
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

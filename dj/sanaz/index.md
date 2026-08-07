@@ -1,8 +1,8 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Else, Berlin on Sat, 22 Aug 2026.
+Sanaz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Else, Berlin on Sat, 22 Aug 2026.
 
-Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne, London and Madrid and 2 more. Often billed alongside Immy, Dornika and Hanaby. Next up: Else, Berlin on Sat 22 Aug.
+Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne, London and Madrid and 2 more. Often billed alongside Immy, Dornika and Hanaby. Next up: Else, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 | Sat, 22 Aug 2026 | Else | Berlin |
 | Sat, 29 Aug 2026 | Renate | Berlin |
 | Sat, 29 Aug 2026 | Renate | Berlin |
+| Sat, 24 Oct 2026 | Gaswrx Birmingham | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Immy, Dornika, Hanaby
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

@@ -1,6 +1,6 @@
 # SENAIDA
 
-SENAIDA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
+SENAIDA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
 
 SENAIDA is a techno and house artist based in Canada, tracked on soundcheck, with 51 sets logged across Athens, Bangkok, Berlin and Brussels and 6 more. Often billed alongside estro, AnEmD and CRYFXB. Next up: Altenburg 1964, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SENAIDA is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 estro, AnEmD, CRYFXB
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*

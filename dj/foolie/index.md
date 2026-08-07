@@ -1,6 +1,6 @@
 # FOOLiE
 
-FOOLiE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 7 Aug 2026.
+FOOLiE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 FOOLiE is a tech house and house artist tracked on soundcheck, with 11 sets logged across Losangeles, Miami, Newyorkcity and Sanfrancisco. Often billed alongside Walker & Royce, An Dres and Ardalan. Next up: Monarch, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ FOOLiE is a tech house and house artist tracked on soundcheck, with 11 sets logg
 
 Walker & Royce, An Dres, Ardalan
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foolie/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foolie/)*

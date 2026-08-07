@@ -1,6 +1,6 @@
 # ĀFRAME
 
-ĀFRAME is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+ĀFRAME is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 ĀFRAME is a trance and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Carotin, GEN97 and ANDATA. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -20,4 +20,4 @@
 
 Carotin, GEN97, ANDATA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aframe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aframe/)*

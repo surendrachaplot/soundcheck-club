@@ -1,6 +1,6 @@
 # Fizch
 
-Fizch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, Vancouver on Sat, 5 Sept 2026.
+Fizch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Vancouver on Sat, 5 Sept 2026.
 
 Fizch is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Toronto and Vancouver. Often billed alongside C-Star, DK PAU and POPU. Next up: TBA - Secret Location, Vancouver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Fizch is a techno and house artist tracked on soundcheck, with 73 sets logged ac
 
 C-Star, DK PAU, POPU
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*

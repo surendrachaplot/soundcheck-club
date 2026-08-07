@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "HET GROTE GRATIS ZOMERFEEST + BBQ + HAPPY HOUR" on Fri, 7 Aug 2026.
+Skatecafe is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "HET GROTE GRATIS ZOMERFEEST + BBQ + HAPPY HOUR" on Fri, 7 Aug 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including AAlva, A For Alpha, Alec Dienaar and Aniko and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

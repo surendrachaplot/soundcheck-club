@@ -1,6 +1,6 @@
 # N.O.X.
 
-N.O.X. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 23 Aug 2026.
+N.O.X. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 23 Aug 2026.
 
 N.O.X. is a house and minimal artist tracked on soundcheck, with 25 sets logged across Melbourne and Sydney. Often billed alongside Jmcee, Lucca Tan and Steph Yeah. Next up: Revolver Upstairs, Melbourne on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ N.O.X. is a house and minimal artist tracked on soundcheck, with 25 sets logged 
 
 Jmcee, Lucca Tan, Steph Yeah
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nox-fr/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nox-fr/)*

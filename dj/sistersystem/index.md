@@ -1,6 +1,6 @@
 # Sister System
 
-Sister System is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Floyd, Miami on Fri, 7 Aug 2026.
+Sister System is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Fri, 7 Aug 2026.
 
 Sister System is a techno and house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Chicago, Denver, Miami and Newyorkcity. Often billed alongside Jonny From Space, Coffintexts and Bakke. Next up: Floyd, Miami on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sister System is a techno and house artist based in United States of America, tr
 
 Jonny From Space, Coffintexts, Bakke
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersystem/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersystem/)*

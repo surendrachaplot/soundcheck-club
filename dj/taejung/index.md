@@ -1,6 +1,6 @@
 # Taejung
 
-Taejung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Temp., Bangkok on Fri, 14 Aug 2026.
+Taejung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bar Temp., Bangkok on Fri, 14 Aug 2026.
 
 Taejung is a house and techno artist tracked on soundcheck, with 29 sets logged across Bangkok, Paris and Seoul. Often billed alongside Ligrye, Hyejin and NET GALA. Next up: Bar Temp., Bangkok on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Taejung is a house and techno artist tracked on soundcheck, with 29 sets logged 
 
 Ligrye, Hyejin, NET GALA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taejung/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taejung/)*

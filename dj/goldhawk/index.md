@@ -1,6 +1,6 @@
 # Goldhawk
 
-Goldhawk is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+Goldhawk is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 Goldhawk is a deep house and progressive house artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Olesia_Ra, Parra Vie and STRAY SON. Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Goldhawk is a deep house and progressive house artist tracked on soundcheck, wit
 
 Olesia_Ra, Parra Vie, STRAY SON
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldhawk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldhawk/)*

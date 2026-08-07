@@ -1,6 +1,6 @@
 # Foly
 
-Foly is a Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Minimal Bar, Berlin on Tue, 6 Oct 2026.
+Foly is a Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Minimal Bar, Berlin on Tue, 6 Oct 2026.
 
 Foly is a minimal techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Next up: Minimal Bar, Berlin on Tue 6 Oct.
 
@@ -14,4 +14,4 @@ Foly is a minimal techno artist based in Germany, tracked on soundcheck, with 2 
 
 - TBA, Berlin — Fri, 12 Jun 2026
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foly/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foly/)*

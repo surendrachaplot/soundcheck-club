@@ -1,6 +1,6 @@
 # +UMBRAX+
 
-+UMBRAX+ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
++UMBRAX+ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 +UMBRAX+ is a techno and industrial artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Axciid, BSLS and FOKUS (Live). Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -15,4 +15,4 @@
 
 Axciid, BSLS, FOKUS (Live)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umbrax/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umbrax/)*

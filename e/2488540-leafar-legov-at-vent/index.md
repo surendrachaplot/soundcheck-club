@@ -1,6 +1,6 @@
 # Leafar Legov at VENT
 
-Leafar Legov at VENT on Fri 14 Aug, Tokyo. 3 acts on the bill: Celter, Leafar Legov and Toner(JP). House. Preview the line-up and save it on soundcheck.
+Leafar Legov at VENT on Fri 14 Aug, Tokyo. 5 acts on the bill: Celter, Kurea, Leafar Legov and takumar and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Leafar Legov at VENT on Fri 14 Aug, Tokyo. 3 acts on the bill: Celter, Leafar Le
 ## Line-up
 
 - Celter
+- Kurea
 - Leafar Legov
+- takumar
 - Toner(JP)
 
 *Source: [soundcheck](https://soundcheck.club/e/2488540-leafar-legov-at-vent/)*

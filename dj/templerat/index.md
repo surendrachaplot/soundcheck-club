@@ -1,8 +1,8 @@
 # Temple Rat
 
-Temple Rat is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
+Temple Rat is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
 
-Temple Rat is a techno and house artist based in China, tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 6 more. Often billed alongside David Fogarty, Alicia Carrera and Richii. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
+Temple Rat is a techno and house artist based in China, tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Alicia Carrera and Richii. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Temple Rat is a techno and house artist based in China, tracked on soundcheck, w
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | TBA - Secret Location near Jannowitzbrücke | Berlin |
 | Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
+| Sun, 27 Sept 2026 | Club Cheek | London |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Temple Rat is a techno and house artist based in China, tracked on soundcheck, w
 
 David Fogarty, Alicia Carrera, Richii
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*

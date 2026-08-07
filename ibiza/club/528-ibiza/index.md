@@ -1,6 +1,6 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 33 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "ANDY MANUMISSION PRESENTS SATURDAYS" on Sat, 8 Aug 2026.
+528 Ibiza is a music venue in Ibiza with 33 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "ANDY MANUMISSION PRESENTS SATURDAYS" on Sat, 8 Aug 2026.
 
 528 Ibiza is a music venue in Ibiza listed on soundcheck. 33 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

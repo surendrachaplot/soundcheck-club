@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Sounds Crazy @ The Cause" on Fri, 7 Aug 2026.
+The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sounds Crazy @ The Cause" on Fri, 7 Aug 2026.
 
-The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including KT, Aba Shanti-I, AliA and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including KT, Aba Shanti-I, AliA and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

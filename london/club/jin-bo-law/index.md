@@ -1,6 +1,6 @@
 # Jin Bo Law
 
-Jin Bo Law is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "El Sueno" on Fri, 7 Aug 2026.
+Jin Bo Law is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "El Sueno" on Fri, 7 Aug 2026.
 
 Jin Bo Law is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 14th floor, 9, Dorsett City, Aldgate High St, London EC3N 1AH.
 
@@ -14,4 +14,4 @@ Jin Bo Law is a music venue in London listed on soundcheck. 1 upcoming night. Br
 
 14th floor, 9, Dorsett City, Aldgate High St, London EC3N 1AH, London
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jin-bo-law/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jin-bo-law/)*

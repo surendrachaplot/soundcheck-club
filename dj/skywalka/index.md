@@ -1,8 +1,8 @@
 # skywalka
 
-skywalka is a Trance and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Daltons Brighton, Brighton on Sun, 23 Aug 2026.
+skywalka is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Daltons Brighton, Brighton on Sun, 23 Aug 2026.
 
-skywalka is a trance and garage artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside Sleazebag, Rodney and Krash Dubs. Next up: Daltons Brighton, Brighton on Sun 23 Aug.
+skywalka is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside Sleazebag, Rodney and Krash Dubs. Next up: Daltons Brighton, Brighton on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ skywalka is a trance and garage artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Daltons Brighton | Brighton |
 | Sat, 12 Sept 2026 | Honey Street Studio | Manchester |
+| Fri, 25 Sept 2026 | renae | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ skywalka is a trance and garage artist based in United Kingdom, tracked on sound
 
 Sleazebag, Rodney, Krash Dubs
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skywalka/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skywalka/)*

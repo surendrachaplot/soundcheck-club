@@ -1,18 +1,18 @@
 # Gulp
 
-Gulp is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 6 Aug 2026.
+Gulp is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
-Gulp is a house and techno artist based in Argentina, tracked on soundcheck, with 32 sets logged across Berlin, Buenosaires, Malta and Miami and 1 more. Often billed alongside Lamache, Momo Trosman and Andrés Zacco. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 6 Aug.
+Gulp is a house and techno artist based in Argentina, tracked on soundcheck, with 32 sets logged across Berlin, Buenosaires, Malta and Miami and 1 more. Often billed alongside Lamache, Momo Trosman and Andrés Zacco. Next up: H0L0, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | TBA - Tokyo Club, Costanera | Buenos Aires |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 
 ## Recently played
 
+- TBA - Tokyo Club, Costanera, Buenos Aires — Thu, 6 Aug 2026
 - Club der Visionaere, Berlin — Mon, 8 Jun 2026
 - TBA, Buenos Aires — Sat, 7 Mar 2026
 - TBA - Casa Futuro, Palermo, Buenos Aires — Fri, 27 Feb 2026
@@ -20,10 +20,9 @@ Gulp is a house and techno artist based in Argentina, tracked on soundcheck, wit
 - TBA - Casa Futuro, Palermo, Buenos Aires — Fri, 19 Sept 2025
 - TBA - Secret Location, Malta — Sat, 19 Jul 2025
 - Mad Radio Miami, Miami — Fri, 23 May 2025
-- Mad Radio Miami, Miami — Fri, 23 May 2025
 
 ## Shares bills with
 
 Lamache, Momo Trosman, Andrés Zacco
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gulp/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gulp/)*

@@ -1,6 +1,6 @@
 # KALI (AU)
 
-KALI (AU) is a Gqom and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Section 8, Melbourne on Sat, 8 Aug 2026.
+KALI (AU) is a Gqom and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Section 8, Melbourne on Sat, 8 Aug 2026.
 
 KALI (AU) is a gqom and latin bass artist based in South Africa, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside fbw.archive, BIG SLIME and BABANASHE. Next up: Section 8, Melbourne on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ KALI (AU) is a gqom and latin bass artist based in South Africa, tracked on soun
 
 fbw.archive, BIG SLIME, BABANASHE
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kali-aus/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kali-aus/)*

@@ -1,6 +1,6 @@
 # Lvcky
 
-Lvcky is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Movers, Nottingham on Fri, 28 Aug 2026.
+Lvcky is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Movers, Nottingham on Fri, 28 Aug 2026.
 
 Lvcky is a bass and garage artist tracked on soundcheck, with 25 sets logged across Bristol, Nottingham and Sheffield. Often billed alongside Lo Shea, 96 Back and DJ Deep Heat. Next up: Movers, Nottingham on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lvcky is a bass and garage artist tracked on soundcheck, with 25 sets logged acr
 
 Lo Shea, 96 Back, DJ Deep Heat
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcky/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcky/)*

@@ -1,6 +1,6 @@
 # NALIITA
 
-NALIITA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Angel Music Bar, Melbourne on Sat, 8 Aug 2026.
+NALIITA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Angel Music Bar, Melbourne on Sat, 8 Aug 2026.
 
 NALIITA is a house and deep house artist based in Australia, tracked on soundcheck, with 15 sets logged across Melbourne. Often billed alongside Miles Ahead, Julius Myles and ANNIE KEZ. Next up: Angel Music Bar, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ NALIITA is a house and deep house artist based in Australia, tracked on soundche
 
 Miles Ahead, Julius Myles, ANNIE KEZ
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naliita/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naliita/)*

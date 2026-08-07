@@ -1,6 +1,6 @@
 # 3PM RECORDS
 
-3PM RECORDS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Headrow House, Leeds on Fri, 21 Aug 2026.
+3PM RECORDS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Headrow House, Leeds on Fri, 21 Aug 2026.
 
 3PM RECORDS is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Leeds and Manchester. Often billed alongside Partridge, Fentonffp and Anil Aras. Next up: Headrow House, Leeds on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 Partridge, Fentonffp, Anil Aras
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3pmrecords/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3pmrecords/)*

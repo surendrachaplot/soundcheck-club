@@ -1,6 +1,6 @@
 # Ella Anzoise
 
-Ella Anzoise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blue Velvet Bar de Copas, Buenos Aires on Sun, 16 Aug 2026.
+Ella Anzoise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blue Velvet Bar de Copas, Buenos Aires on Sun, 16 Aug 2026.
 
 Ella Anzoise is a techno and house artist based in Argentina, tracked on soundcheck, with 26 sets logged across Buenosaires. Often billed alongside Berger Muzik, Julian Viegas and Fuocco. Next up: Blue Velvet Bar de Copas, Buenosaires on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Ella Anzoise is a techno and house artist based in Argentina, tracked on soundch
 
 Berger Muzik, Julian Viegas, Fuocco
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaanzoise/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaanzoise/)*

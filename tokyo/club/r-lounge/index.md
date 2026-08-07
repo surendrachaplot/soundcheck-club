@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "on" on Thu, 6 Aug 2026.
+R Lounge is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Peeps" on Fri, 7 Aug 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 雷庵(RYan), ATT, CITY1 and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 雷庵(RYan), AEMI, ATT and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | on |  |
 | Fri, 7 Aug 2026 | Peeps | JUN INAGAWA, ecec |
 | Sat, 8 Aug 2026 | PsynOpticz Records - Label Party |  |
 | Sat, 8 Aug 2026 | EIGHTY-EIGHT | Light.aka |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, wit
 | Sat, 15 Aug 2026 | HEAT MODE | ATT |
 | Wed, 19 Aug 2026 | DJ RYOKO HAPPY BIRTHDAY |  |
 | Thu, 20 Aug 2026 | H.O.F | Ëmbyrblume |
+| Fri, 21 Aug 2026 | mewww:Aries | MIDI War, Ruki, meweta, 宇宙チンチラ |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

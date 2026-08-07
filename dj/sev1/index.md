@@ -1,6 +1,6 @@
 # SEV1
 
-SEV1 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+SEV1 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 SEV1 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside DBL_BBL, KANZE and Rainbow Light Body. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -23,4 +23,4 @@ SEV1 is a techno and experimental artist based in United States of America, trac
 
 DBL_BBL, KANZE, Rainbow Light Body
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sev1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sev1/)*

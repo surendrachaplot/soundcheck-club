@@ -1,6 +1,6 @@
 # Keeks
 
-Keeks is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Model, Nottingham on Sat, 5 Sept 2026.
+Keeks is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Model, Nottingham on Sat, 5 Sept 2026.
 
 Keeks is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Nottingham and Portland. Often billed alongside Evil Woman, Mush Love (UK) and soapy. Next up: The Model, Nottingham on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Keeks is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Evil Woman, Mush Love (UK), soapy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keeks/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keeks/)*

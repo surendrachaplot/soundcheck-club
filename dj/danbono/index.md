@@ -1,6 +1,6 @@
 # Dan Bono
 
-Dan Bono is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
+Dan Bono is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
 
 Dan Bono is an electro and techno artist based in France, tracked on soundcheck, with 8 sets logged across Nantes. Often billed alongside Quentin Schneider, Acid Arab and Art of Tones. Next up: Warehouse, Nantes on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Dan Bono is an electro and techno artist based in France, tracked on soundcheck,
 
 Quentin Schneider, Acid Arab, Art of Tones
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danbono/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danbono/)*

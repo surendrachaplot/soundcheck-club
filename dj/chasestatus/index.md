@@ -1,8 +1,8 @@
 # Chase & Status
 
-Chase & Status is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Chase & Status is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Chase & Status are a drum & bass and techno duo tracked on soundcheck, with 85 sets logged across Aberdeen, Antwerp, Auckland and Austin and 41 more. Often billed alongside Mozey, Dimension and Andy C. Next up: Union Park, Chicago on Fri 4 Sept.
+Chase & Status are a drum & bass and techno duo tracked on soundcheck, with 86 sets logged across Aberdeen, Antwerp, Auckland and Austin and 41 more. Often billed alongside Mozey, Dimension and Andy C. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chase & Status are a drum & bass and techno duo tracked on soundcheck, with 85 s
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Gallagher Square | San Diego |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Chase & Status are a drum & bass and techno duo tracked on soundcheck, with 85 s
 
 Mozey, Dimension, Andy C
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*

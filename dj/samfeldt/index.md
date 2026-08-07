@@ -1,6 +1,6 @@
 # Sam Feldt
 
-Sam Feldt is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Savaya Bali, Bali on Fri, 28 Aug 2026.
+Sam Feldt is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Savaya Bali, Bali on Fri, 28 Aug 2026.
 
 Sam Feldt is a house and deep house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Bali, Barcelona and Boston and 12 more. Often billed alongside Kygo, Alesso and Felix Jaehn. Next up: Savaya Bali, Bali on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Sam Feldt is a house and deep house artist tracked on soundcheck, with 26 sets l
 
 Kygo, Alesso, Felix Jaehn
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samfeldt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samfeldt/)*

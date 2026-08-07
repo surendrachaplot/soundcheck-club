@@ -1,6 +1,6 @@
 # Kailyn Crabbe
 
-Kailyn Crabbe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
+Kailyn Crabbe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
 
 Kailyn Crabbe is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside Slumdog, Prizefight and Sophie Forrest. Next up: Milneys, Melbourne on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Kailyn Crabbe is a house and techno artist based in Australia, tracked on soundc
 
 Slumdog, Prizefight, Sophie Forrest
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kailyncrabbe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kailyncrabbe/)*

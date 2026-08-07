@@ -1,8 +1,8 @@
 # DJ Bone
 
-DJ Bone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+DJ Bone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
-DJ Bone is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Austin and Bali and 35 more. Often billed alongside Azucy, Yeti Mind Tricks and Jack Fresia. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
+DJ Bone is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Austin and Bali and 35 more. Often billed alongside Azucy, Yeti Mind Tricks and Jack Fresia. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Bone is a techno and house artist tracked on soundcheck, with 127 sets logged
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sat, 15 Aug 2026 | TV Lounge | Detroit |
 | Fri, 21 Aug 2026 | TBA | Los Angeles |
+| Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -30,4 +31,4 @@ DJ Bone is a techno and house artist tracked on soundcheck, with 127 sets logged
 
 Azucy, Yeti Mind Tricks, Jack Fresia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*

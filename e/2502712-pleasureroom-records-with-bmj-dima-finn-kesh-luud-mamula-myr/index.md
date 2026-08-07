@@ -1,6 +1,6 @@
-# Pleasureroom Records with BMJ Dima, Finn, Kesh, LUUD,Mamula, Myriam, Samantha Blackburn at TBA - East London Location TBA
+# Pleasureroom Records with BMJ, Dima, Finn, Kesh, LUUD,Mamula, Myriam, Samantha Blackburn at TBA - East London Location TBA
 
-Pleasureroom Records with BMJ Dima, Finn, Kesh, LUUD,Mamula, Myriam, Samantha Blackburn at TBA - East London Location TBA on Sat 8 Aug, London. 7 acts on the bill: Finn, Kesh (1), Ludgero Costa and LUUD and 3 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Pleasureroom Records with BMJ, Dima, Finn, Kesh, LUUD,Mamula, Myriam, Samantha Blackburn at TBA - East London Location TBA on Sat 8 Aug, London. 7 acts on the bill: Finn, Kesh (1), Ludgero Costa and LUUD and 3 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

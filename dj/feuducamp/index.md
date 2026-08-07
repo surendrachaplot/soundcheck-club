@@ -1,6 +1,6 @@
 # Feu du Camp
 
-Feu du Camp is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Statera Cellars, Portland on Sun, 16 Aug 2026.
+Feu du Camp is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Statera Cellars, Portland on Sun, 16 Aug 2026.
 
 Feu du Camp is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Portland. Often billed alongside Petite Syrah, Aaron Davis and Andy Warren. Next up: Statera Cellars, Portland on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Feu du Camp is a techno and house artist based in United States of America, trac
 
 Petite Syrah, Aaron Davis, Andy Warren
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feuducamp/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feuducamp/)*

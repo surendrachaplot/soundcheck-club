@@ -1,6 +1,6 @@
 # Admiral
 
-Admiral is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+Admiral is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
 Admiral is a deep house and afro house artist tracked on soundcheck, with 15 sets logged across Losangeles and Sanfrancisco. Often billed alongside IZIK, Vann Essa and Alan Dixon. Next up: TBA, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Admiral is a deep house and afro house artist tracked on soundcheck, with 15 set
 
 IZIK, Vann Essa, Alan Dixon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/admiral/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/admiral/)*

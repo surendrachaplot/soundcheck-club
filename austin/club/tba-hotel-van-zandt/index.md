@@ -1,6 +1,6 @@
 # TBA - Hotel Van Zandt
 
-TBA - Hotel Van Zandt is a music venue in Austin with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "BODY LANGUAGE VOL. 5" on Sat, 8 Aug 2026.
+TBA - Hotel Van Zandt is a music venue in Austin with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "BODY LANGUAGE VOL. 5" on Sat, 8 Aug 2026.
 
 TBA - Hotel Van Zandt is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Nyoki and Phamstar. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Hotel Van Zandt is a music venue in Austin listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | BODY LANGUAGE VOL. 5 | Nyoki, Phamstar |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-hotel-van-zandt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-hotel-van-zandt/)*

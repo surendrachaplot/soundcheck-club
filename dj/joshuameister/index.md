@@ -1,6 +1,6 @@
 # Joshua Meister
 
-Joshua Meister is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kaos Berlin, Berlin on Fri, 21 Aug 2026.
+Joshua Meister is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kaos Berlin, Berlin on Fri, 21 Aug 2026.
 
 Joshua Meister is a house and minimal techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Avocado, Philipp Fein and BERF. Next up: Kaos Berlin, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Joshua Meister is a house and minimal techno artist based in Germany, tracked on
 
 Avocado, Philipp Fein, BERF
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuameister/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuameister/)*

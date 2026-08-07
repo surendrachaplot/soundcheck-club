@@ -1,6 +1,6 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE]" on Fri, 7 Aug 2026.
+The Dolphin is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE]" on Fri, 7 Aug 2026.
 
 The Dolphin is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Dave Tidey, DJ Xtina, Doll.Redacted and G I N A and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
@@ -17,4 +17,4 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 4 upcoming ni
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

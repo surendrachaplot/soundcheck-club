@@ -1,6 +1,6 @@
 # dela Moon
 
-dela Moon is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
+dela Moon is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
 
 dela Moon is a drum & bass and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Detroit, Losangeles and Sandiego and 1 more. Often billed alongside Anton Tumas, Treavor Moontribe and Ant TC1. Next up: Void Club, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ dela Moon is a drum & bass and techno artist tracked on soundcheck, with 26 sets
 
 Anton Tumas, Treavor Moontribe, Ant TC1
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delamoon/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delamoon/)*

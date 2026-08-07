@@ -1,6 +1,6 @@
 # Mafalda
 
-Mafalda is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+Mafalda is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 Mafalda is a disco and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Seiji Ono, Theo Terev and Red Greg. Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Mafalda is a disco and house artist tracked on soundcheck, with 84 sets logged a
 
 Seiji Ono, Theo Terev, Red Greg
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*

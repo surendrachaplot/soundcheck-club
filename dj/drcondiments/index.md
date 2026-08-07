@@ -1,6 +1,6 @@
 # Dr. Condiments
 
-Dr. Condiments is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Dr. Condiments is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 Dr. Condiments is a house and balearic artist tracked on soundcheck, with 21 sets logged across Melbourne. Often billed alongside Floss Dogg, Kgomotso and Dawn Again. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dr. Condiments is a house and balearic artist tracked on soundcheck, with 21 set
 
 Floss Dogg, Kgomotso, Dawn Again
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drcondiments/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drcondiments/)*

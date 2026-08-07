@@ -1,6 +1,6 @@
 # B0YG1RL
 
-B0YG1RL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - CDMX, Mexico City on Sat, 8 Aug 2026.
+B0YG1RL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - CDMX, Mexico City on Sat, 8 Aug 2026.
 
 B0YG1RL is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Lady Narcisse, Racci and XANA (US). Next up: TBA - CDMX, Mexicocity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ B0YG1RL is a techno and club artist based in United States of America, tracked o
 
 Lady Narcisse, Racci, XANA (US)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*

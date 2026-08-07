@@ -1,13 +1,14 @@
 # House of Noa
 
-House of Noa is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "MISS HONEY*" on Thu, 6 Aug 2026.
+House of Noa is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "House of Noa House Party" on Fri, 7 Aug 2026.
 
-House of Noa is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including ARRA and Mia Moretti. Browse upcoming dates, start times and who's playing.
+House of Noa is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | MISS HONEY* | ARRA, Mia Moretti |
+| Fri, 7 Aug 2026 | House of Noa House Party |  |
+| Sat, 8 Aug 2026 | House of Noa House Party |  |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/house-of-noa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/house-of-noa/)*

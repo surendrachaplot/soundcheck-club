@@ -1,6 +1,6 @@
 # FLETCH (GB)
 
-FLETCH (GB) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
+FLETCH (GB) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
 
 FLETCH (GB) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, London and Manchester and 4 more. Often billed alongside ANOTR, Alci and Ale Grooves. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ FLETCH (GB) is a house and tech house artist based in United Kingdom, tracked on
 
 ANOTR, Alci, Ale Grooves
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchgb/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchgb/)*

@@ -1,6 +1,6 @@
 # Chloe Battelle
 
-Chloe Battelle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Chloe Battelle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Chloe Battelle is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside gabby cocco, Raquel Michel and Serrian. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Chloe Battelle is a house and techno artist based in United States of America, t
 
 gabby cocco, Raquel Michel, Serrian
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*

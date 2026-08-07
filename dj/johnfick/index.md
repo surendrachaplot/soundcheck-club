@@ -1,6 +1,6 @@
 # John Fick
 
-John Fick is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Crack Bellmer, Berlin on Sat, 15 Aug 2026.
+John Fick is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Crack Bellmer, Berlin on Sat, 15 Aug 2026.
 
 John Fick is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside 8-AN, Molly Lollen and Ritual Cycles. Next up: Crack Bellmer, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ John Fick is a techno and house artist based in Germany, tracked on soundcheck, 
 
 8-AN, Molly Lollen, Ritual Cycles
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfick/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfick/)*

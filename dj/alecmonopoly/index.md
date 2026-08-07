@@ -1,6 +1,6 @@
 # Alec Monopoly
 
-Alec Monopoly is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Void Mykonos, Mykonos on Sat, 8 Aug 2026.
+Alec Monopoly is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Void Mykonos, Mykonos on Sat, 8 Aug 2026.
 
 Alec Monopoly is an electronic artist tracked on soundcheck, with 4 sets logged across Mykonos. Often billed alongside Alex Kosh, Kaskade and SOLR. Next up: Void Mykonos, Mykonos on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Alec Monopoly is an electronic artist tracked on soundcheck, with 4 sets logged 
 
 Alex Kosh, Kaskade, SOLR
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecmonopoly/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecmonopoly/)*

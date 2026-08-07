@@ -1,6 +1,6 @@
 # Jumbi Jamboree: Free Warehouse Edition with Dennis Bovell at Jumbi
 
-Jumbi Jamboree: Free Warehouse Edition with Dennis Bovell on Sat 15 Aug, London. 5 acts on the bill: Anja Ngozi, Dennis Bovell, Kojay and secret luvvr and 1 more. Dub and Broken Beat. Preview the line-up and save it on soundcheck.
+Jumbi Jamboree: Free Warehouse Edition with Dennis Bovell on Sat 15 Aug, London. 6 acts on the bill: Anja Ngozi, Dennis Bovell, Kojay and Rohan Rakhit and 2 more. Dub and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Jumbi Jamboree: Free Warehouse Edition with Dennis Bovell on Sat 15 Aug, London.
 - Anja Ngozi
 - Dennis Bovell
 - Kojay
+- Rohan Rakhit
 - secret luvvr
 - Tash LC
 

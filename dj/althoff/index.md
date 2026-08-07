@@ -1,6 +1,6 @@
 # Althoff
 
-Althoff is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Macarena Club, Barcelona on Fri, 7 Aug 2026.
+Althoff is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Macarena Club, Barcelona on Fri, 7 Aug 2026.
 
 Althoff is a deep house and afro house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Milan and Prague and 1 more. Often billed alongside ERRANT, Last Set and NAC Oliver. Next up: Macarena Club, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Althoff is a deep house and afro house artist tracked on soundcheck, with 64 set
 
 ERRANT, Last Set, NAC Oliver
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*

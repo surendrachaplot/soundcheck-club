@@ -1,6 +1,6 @@
 # eurokels
 
-eurokels is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Stereo, Glasgow on Sat, 15 Aug 2026.
+eurokels is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Stereo, Glasgow on Sat, 15 Aug 2026.
 
 eurokels is a club and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Glasgow and Manchester. Often billed alongside HOLTZ, 4KitSake and Darkcore Truth. Next up: Stereo, Glasgow on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ eurokels is a club and house artist based in United Kingdom, tracked on soundche
 
 HOLTZ, 4KitSake, Darkcore Truth
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eurokels/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eurokels/)*

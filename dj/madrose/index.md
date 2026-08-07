@@ -1,6 +1,6 @@
 # MADROSE
 
-MADROSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 8 Aug 2026.
+MADROSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 8 Aug 2026.
 
 MADROSE is a techno and house artist based in Malaysia, tracked on soundcheck, with 11 sets logged across Kualalumpur. Often billed alongside Alam, Odd (MY) and Notion A. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ MADROSE is a techno and house artist based in Malaysia, tracked on soundcheck, w
 
 Alam, Odd (MY), Notion A
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*

@@ -1,6 +1,6 @@
 # esoe
 
-esoe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at smartbar, Chicago on Fri, 18 Sept 2026.
+esoe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at smartbar, Chicago on Fri, 18 Sept 2026.
 
 esoe is a house and techno artist tracked on soundcheck, with 27 sets logged across Chicago, Istanbul and Newyorkcity. Often billed alongside Valentin Lamar, Garrett David and ALIKHAN. Next up: smartbar, Chicago on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ esoe is a house and techno artist tracked on soundcheck, with 27 sets logged acr
 
 Valentin Lamar, Garrett David, ALIKHAN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esoe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esoe/)*

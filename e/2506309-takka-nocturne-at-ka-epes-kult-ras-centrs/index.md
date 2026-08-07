@@ -1,6 +1,6 @@
 # Takka: Nocturne at Kaņepes Kultūras Centrs
 
-Takka: Nocturne at Kaņepes Kultūras Centrs on Sat 19 Sept, Riga. 3 acts on the bill: Freiya March, Ikss and XANDY. Techno. Preview the line-up and save it on soundcheck.
+Takka: Nocturne at Kaņepes Kultūras Centrs on Sat 19 Sept, Riga. 4 acts on the bill: Freiya March, Grisha Nirgov, Ikss and XANDY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Takka: Nocturne at Kaņepes Kultūras Centrs on Sat 19 Sept, Riga. 3 acts on the
 ## Line-up
 
 - Freiya March
+- Grisha Nirgov
 - Ikss
 - XANDY
 

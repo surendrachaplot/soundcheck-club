@@ -1,6 +1,6 @@
 # Arthur Hnatek
 
-Arthur Hnatek is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Scène Ella Fitzgerald, Geneva on Fri, 14 Aug 2026.
+Arthur Hnatek is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Scène Ella Fitzgerald, Geneva on Fri, 14 Aug 2026.
 
 Arthur Hnatek is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, Geneva and Zurich. Often billed alongside AVEM, Alex Dallas and Alex Nantaya. Next up: Scène Ella Fitzgerald, Geneva on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Arthur Hnatek is a techno and house artist tracked on soundcheck, with 9 sets lo
 
 AVEM, Alex Dallas, Alex Nantaya
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurhnatek/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurhnatek/)*

@@ -1,6 +1,6 @@
 # Ross Anderson
 
-Ross Anderson is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Fire, London on Sat, 8 Aug 2026.
+Ross Anderson is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fire, London on Sat, 8 Aug 2026.
 
 Ross Anderson is a house and tech house artist tracked on soundcheck, with 34 sets logged across Cardiff and London. Often billed alongside Raul Botella, Bradley Skeng and Jake Reed. Next up: Fire, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ross Anderson is a house and tech house artist tracked on soundcheck, with 34 se
 
 Raul Botella, Bradley Skeng, Jake Reed
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossanderson/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossanderson/)*

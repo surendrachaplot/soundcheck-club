@@ -1,13 +1,14 @@
 # Groovecreator
 
-Groovecreator is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Unveiled, New York City on Sat, 8 Aug 2026.
+Groovecreator is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Unveiled, New York City on Sat, 8 Aug 2026.
 
-Groovecreator is a techno and house artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Daniela, Philippe X and Robert Owens. Next up: Unveiled, Newyorkcity on Sat 8 Aug.
+Groovecreator is a techno and house artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Daniela, Philippe and Philippe X. Next up: Unveiled, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Unveiled | New York City |
 | Sat, 8 Aug 2026 | Unveiled | New York City |
 
 ## Recently played
@@ -19,6 +20,6 @@ Groovecreator is a techno and house artist tracked on soundcheck, with 5 sets lo
 
 ## Shares bills with
 
-Daniela, Philippe X, Robert Owens
+Daniela, Philippe, Philippe X
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovecreator/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovecreator/)*

@@ -1,6 +1,6 @@
 # Tommy Craig
 
-Tommy Craig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Section 8, Melbourne on Thu, 13 Aug 2026.
+Tommy Craig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Section 8, Melbourne on Thu, 13 Aug 2026.
 
 Tommy Craig is a techno and house artist based in Australia, tracked on soundcheck, with 70 sets logged across Melbourne. Often billed alongside HAUSWiFE, JOVE and Joey Coco. Next up: Section 8, Melbourne on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Tommy Craig is a techno and house artist based in Australia, tracked on soundche
 
 HAUSWiFE, JOVE, Joey Coco
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycraig/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycraig/)*

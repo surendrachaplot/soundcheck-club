@@ -1,6 +1,6 @@
 # Bar15
 
-Bar15 is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "KNEP X (WNDRLST HEADLINER)" on Fri, 28 Aug 2026.
+Bar15 is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "KNEP X (WNDRLST HEADLINER)" on Fri, 28 Aug 2026.
 
 Bar15 is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including ARANEA, Davide Dev, Kapote and Silja Ellis and 2 more. Browse upcoming dates, start times and who's playing. DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden.
 
@@ -15,4 +15,4 @@ Bar15 is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, wit
 
 DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden, Stockholm
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/bar15/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/bar15/)*

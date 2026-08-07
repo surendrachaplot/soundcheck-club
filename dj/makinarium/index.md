@@ -1,6 +1,6 @@
 # Makinarium
 
-Makinarium is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+Makinarium is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 Makinarium is a hardcore and gabber artist based in Germany, tracked on soundcheck, with 15 sets logged across Barcelona and Berlin. Often billed alongside ZYNTAX, LŸBRA and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Makinarium is a hardcore and gabber artist based in Germany, tracked on soundche
 
 ZYNTAX, LŸBRA, Cobb Douglas
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makinarium/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makinarium/)*

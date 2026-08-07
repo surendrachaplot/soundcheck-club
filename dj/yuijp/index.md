@@ -1,6 +1,6 @@
 # Yui (JP)
 
-Yui (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
+Yui (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
 
 Yui (JP) is a techno and house artist tracked on soundcheck, with 53 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside tnseei, Lynta and Kurea. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Yui (JP) is a techno and house artist tracked on soundcheck, with 53 sets logged
 
 tnseei, Lynta, Kurea
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*

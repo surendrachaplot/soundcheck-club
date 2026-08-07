@@ -1,6 +1,6 @@
 # Petit Problème
 
-Petit Problème is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - SECRET HACKNEY LOCATION, London on Fri, 7 Aug 2026.
+Petit Problème is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - SECRET HACKNEY LOCATION, London on Fri, 7 Aug 2026.
 
 Petit Problème is a jungle and breakbeat artist tracked on soundcheck, with 11 sets logged across London and Manchester. Often billed alongside SIMMS, Janaway and Nio-B. Next up: TBA - SECRET HACKNEY LOCATION, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Petit Problème is a jungle and breakbeat artist tracked on soundcheck, with 11 
 
 SIMMS, Janaway, Nio-B
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petitprobleme/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petitprobleme/)*

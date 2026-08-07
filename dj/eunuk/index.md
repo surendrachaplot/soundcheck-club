@@ -1,13 +1,14 @@
 # eunuk
 
-eunuk is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nyapi, Seoul on Fri, 14 Aug 2026.
+eunuk is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bar Piment, Seoul on Sat, 8 Aug 2026.
 
-eunuk is a club and house artist based in South Korea, tracked on soundcheck, with 22 sets logged across Newyorkcity and Seoul. Often billed alongside jiwon, GYUWAN and Juncheol. Next up: Nyapi, Seoul on Fri 14 Aug.
+eunuk is a club and house artist based in South Korea, tracked on soundcheck, with 23 sets logged across Newyorkcity and Seoul. Often billed alongside jiwon, GYUWAN and Juncheol. Next up: Bar Piment, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Bar Piment | Seoul |
 | Fri, 14 Aug 2026 | Nyapi | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ eunuk is a club and house artist based in South Korea, tracked on soundcheck, wi
 
 jiwon, GYUWAN, Juncheol
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eunuk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eunuk/)*

@@ -1,8 +1,8 @@
 # Conducta
 
-Conducta is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Conducta is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
-Conducta is a garage and house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Bakey. Next up: Colour Factory, London on Sat 15 Aug.
+Conducta is a garage and house artist tracked on soundcheck, with 180 sets logged across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: Colour Factory, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Conducta is a garage and house artist tracked on soundcheck, with 179 sets logge
 | Sat, 15 Aug 2026 | Colour Factory | London |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 3 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Franklin Music Hall | Philadelphia |
 
 ## Recently played
@@ -26,6 +27,6 @@ Conducta is a garage and house artist tracked on soundcheck, with 179 sets logge
 
 ## Shares bills with
 
-Oppidan, Tim Reaper, Bakey
+Oppidan, Tim Reaper, Todd Edwards
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

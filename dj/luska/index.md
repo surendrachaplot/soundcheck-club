@@ -1,8 +1,8 @@
 # Luska
 
-Luska is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cadavra, Madrid on Fri, 21 Aug 2026.
+Luska is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cadavra, Madrid on Fri, 21 Aug 2026.
 
-Luska is a techno and electro artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Madrid, Malaga and Valencia. Often billed alongside OXNA, Nurias and Robert Cosmic. Next up: Cadavra, Madrid on Fri 21 Aug.
+Luska is a techno and electro artist based in Spain, tracked on soundcheck, with 62 sets logged across Barcelona, Madrid, Malaga and Valencia. Often billed alongside OXNA, Nurias and Robert Cosmic. Next up: Cadavra, Madrid on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luska is a techno and electro artist based in Spain, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Cadavra | Madrid |
 | Fri, 28 Aug 2026 | Sala Siroco | Madrid |
+| Fri, 4 Sept 2026 | Lasociaciøn | Madrid |
 | Sat, 26 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -27,4 +28,4 @@ Luska is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 OXNA, Nurias, Robert Cosmic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*

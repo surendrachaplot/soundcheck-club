@@ -1,6 +1,6 @@
 # RIMIX
 
-RIMIX is a Club and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
+RIMIX is a Club and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
 
 RIMIX is a club and broken beat artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside ABIMBOLA, Afroasis and Bindās. Next up: Brixton Radio, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ RIMIX is a club and broken beat artist based in United Kingdom, tracked on sound
 
 ABIMBOLA, Afroasis, Bindās
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*

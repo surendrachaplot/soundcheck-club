@@ -1,8 +1,8 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Hush with Rooleh, Easttown & More" on Sat, 29 Aug 2026.
+TivoliVredenburg is a music venue in Utrecht with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Hush with Rooleh, Easttown & More" on Sat, 29 Aug 2026.
 
-TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 5 upcoming nights, with line-ups including AAT (NL), Aphrodite, Black Sun Empire and Cici Daze and 2 more. Browse upcoming dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
+TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 6 upcoming nights, with line-ups including AAT (NL), Aba Shanti-I, Aho Ssan and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
 ## What's on
 
@@ -13,9 +13,10 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 5 upcoming ni
 | Sat, 5 Sept 2026 | Motiv with Olive Anguz, Burnr & More |  |
 | Fri, 2 Oct 2026 | Daft Funk Live in Utrecht | Daft Funk Live |
 | Sat, 17 Oct 2026 | Motiv - Lisa Korver (Extended set) & More | Lisa Korver |
+| Thu, 5 Nov 2026 | Le Guess Who? 2026 | Aba Shanti-I, Aho Ssan, Ana Roxanne, Arsenal Mikebe, Aunty Rayzor, Azu Tiwaline, BBBBBBB, CARISTA, Carmen Villain, Chinnamasta, Elvin Brandhi, Georgia Anne Muldrow, Gigi Masin, Goat (JP), Grouper, Heith, Introspekt, JUDGITZU, KMRU, Kelman Duran, Kelsey Lu, Loraine James, Los Thuthanaka, Mad Professor, Mark Fell, NEXCYIA, Ouri, Sa Pa, Seekersinternational, Shabaka, Tash LC, The Bug, The Scientist, Tortoise, Tshegue, Valentina Magaletti, ojoo |
 
 ## Address
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

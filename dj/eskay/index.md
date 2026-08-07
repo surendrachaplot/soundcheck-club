@@ -1,6 +1,6 @@
 # eskay
 
-eskay is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
+eskay is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
 
 eskay is a house and jungle artist based in Ireland, tracked on soundcheck, with 26 sets logged across Dublin, Newyorkcity and Sydney. Often billed alongside 2step.png, Jenn Hession and Decorum. Next up: Wigwam, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ eskay is a house and jungle artist based in Ireland, tracked on soundcheck, with
 
 2step.png, Jenn Hession, Decorum
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eskay/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eskay/)*

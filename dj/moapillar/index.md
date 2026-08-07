@@ -1,6 +1,6 @@
 # Moa Pillar
 
-Moa Pillar is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
+Moa Pillar is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
 
 Moa Pillar is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol, Leeds, London and Manchester. Often billed alongside Ushko, Slayphex Twins and HIKIING. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Moa Pillar is an experimental and ambient artist based in United Kingdom, tracke
 
 Ushko, Slayphex Twins, HIKIING
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moapillar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moapillar/)*

@@ -1,6 +1,6 @@
 # Minoas Cirillo
 
-Minoas Cirillo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Minoas Cirillo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Minoas Cirillo is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Cologne and Dusseldorf. Often billed alongside Bellville, Cosmic Dance and ADEMES. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Minoas Cirillo is a house and techno artist based in Germany, tracked on soundch
 
 Bellville, Cosmic Dance, ADEMES
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minoascirillo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minoascirillo/)*

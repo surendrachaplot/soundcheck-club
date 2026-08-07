@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 61 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Hugel presents Make The Girls Dance" on Thu, 6 Aug 2026.
+Hï Ibiza is a music venue in Ibiza with 60 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Dom Dolla" on Fri, 7 Aug 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 61 upcoming nights, with line-ups including 8KAYS, AARON SEVILLA, Adam Beyer and Adam Ten and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 60 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Hugel presents Make The Girls Dance | AARON SEVILLA, Akami, Hugel, Miss Monique, Nora En Pure, Paradoks |
 | Fri, 7 Aug 2026 | Dom Dolla | Chaos In The CBD, DJ Paulette, Dom Dolla, Ewan McVicar |
 | Sat, 8 Aug 2026 | Black Coffee | Black Coffee, Brunello, Mita Gami, OMRI., Salomé Le Chat, Skepta |
 | Sun, 9 Aug 2026 | CamelPhat present Summer of Love | Azyr, BIIA, CamelPhat, Indira Paganotto |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 61 upcoming nights, wi
 | Thu, 13 Aug 2026 | Hugel presents Make The Girls Dance | Hugel, Kiko, Konstantin Sibold, Miss Monique |
 | Fri, 14 Aug 2026 | Dom Dolla | Dom Dolla, Ewan McVicar, Sally C |
 | Sat, 15 Aug 2026 | Black Coffee | Adam Ten, Ankhoï, Black Coffee, JAMIIE, RY X, Skepta |
+| Sun, 16 Aug 2026 | CamelPhat present Summer of Love | CamelPhat, Charlie Sparks, Indira Paganotto, R.Korner, Sam Paganini |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

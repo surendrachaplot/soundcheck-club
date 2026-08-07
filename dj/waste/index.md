@@ -1,6 +1,6 @@
 # Waste
 
-Waste is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Astron Club, Athens on Fri, 7 Aug 2026.
+Waste is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Astron Club, Athens on Fri, 7 Aug 2026.
 
 Waste is a techno and electro artist tracked on soundcheck, with 27 sets logged across Athens, Oslo and Saopaulo. Often billed alongside Ayshel, Avatos and BMSK. Next up: Astron Club, Athens on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Waste is a techno and electro artist tracked on soundcheck, with 27 sets logged 
 
 Ayshel, Avatos, BMSK
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*

@@ -1,6 +1,6 @@
 # kuntress
 
-kuntress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Crybaby, San Francisco/Oakland on Sat, 5 Sept 2026.
+kuntress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crybaby, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 kuntress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 7 sets logged across Austin, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside ALTÉGO, ARCHANGEL (US) and Amarji King. Next up: Crybaby, Sanfrancisco on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ kuntress is a club and ghetto tech artist based in United States of America, tra
 
 ALTÉGO, ARCHANGEL (US), Amarji King
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

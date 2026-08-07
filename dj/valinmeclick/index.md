@@ -1,6 +1,6 @@
 # Vali NME Click
 
-Vali NME Click is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at YAAM Berlin, Berlin on Fri, 14 Aug 2026.
+Vali NME Click is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at YAAM Berlin, Berlin on Fri, 14 Aug 2026.
 
 Vali NME Click is a jungle and hardcore artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Frankfurt and London. Often billed alongside DJ Chromz, KaraKara and Louise Plus One. Next up: YAAM Berlin, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Vali NME Click is a jungle and hardcore artist based in Germany, tracked on soun
 
 DJ Chromz, KaraKara, Louise Plus One
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valinmeclick/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valinmeclick/)*

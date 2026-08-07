@@ -1,6 +1,6 @@
 # Master Stepz
 
-Master Stepz is a Garage and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
+Master Stepz is a Garage and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
 Master Stepz is a garage and deep house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Ibiza and London. Often billed alongside Mark Radford, Supa D and Sy Sez. Next up: Studio 338, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Master Stepz is a garage and deep house artist based in United Kingdom, tracked 
 
 Mark Radford, Supa D, Sy Sez
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masterstepz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masterstepz/)*

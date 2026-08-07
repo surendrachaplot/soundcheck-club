@@ -1,8 +1,8 @@
 # Steve Rachmad
 
-Steve Rachmad is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
+Steve Rachmad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 7 Aug 2026.
 
-Steve Rachmad is a techno and house artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 15 more. Often billed alongside STERAC, Dimitri Kneppers and Fadi Mohem. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
+Steve Rachmad is a techno and house artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 15 more. Often billed alongside STERAC, Fadi Mohem and Richard Akingbehin. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Steve Rachmad is a techno and house artist based in Netherlands, tracked on soun
 | Fri, 7 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Sat, 12 Sept 2026 | KALT | Strasbourg |
+| Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Steve Rachmad is a techno and house artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-STERAC, Dimitri Kneppers, Fadi Mohem
+STERAC, Fadi Mohem, Richard Akingbehin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*

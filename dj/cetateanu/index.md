@@ -1,6 +1,6 @@
 # Cetateanu
 
-Cetateanu is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Bucharest on Fri, 7 Aug 2026.
+Cetateanu is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Bucharest on Fri, 7 Aug 2026.
 
 Cetateanu is a techno and minimal techno artist based in Romania, tracked on soundcheck, with 14 sets logged across Bucharest. Often billed alongside Constratti, OLEG and Techu. Next up: TBA, Bucharest on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Cetateanu is a techno and minimal techno artist based in Romania, tracked on sou
 
 Constratti, OLEG, Techu
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cetateanu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cetateanu/)*

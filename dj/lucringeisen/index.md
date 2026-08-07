@@ -1,6 +1,6 @@
 # Luc Ringeisen
 
-Luc Ringeisen is a Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
+Luc Ringeisen is a Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
 
 Luc Ringeisen is a minimal artist tracked on soundcheck, with 37 sets logged across Berlin, Geneva and Ibiza. Often billed alongside DeWalta, Lorenzo Chiabotti and Pavlicu. Next up: Club der Visionaere, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Luc Ringeisen is a minimal artist tracked on soundcheck, with 37 sets logged acr
 
 DeWalta, Lorenzo Chiabotti, Pavlicu
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucringeisen/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucringeisen/)*

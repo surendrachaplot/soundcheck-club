@@ -1,6 +1,6 @@
 # Valentin Huedo
 
-Valentin Huedo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cova Santa, Ibiza on Wed, 12 Aug 2026.
+Valentin Huedo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cova Santa, Ibiza on Wed, 12 Aug 2026.
 
 Valentin Huedo is a house and deep house artist based in Spain, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Belgrade and Ibiza and 7 more. Often billed alongside Bora Uzer, Igor Marijuan and Omer Tayar. Next up: Cova Santa, Ibiza on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Valentin Huedo is a house and deep house artist based in Spain, tracked on sound
 
 Bora Uzer, Igor Marijuan, Omer Tayar
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinhuedo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinhuedo/)*

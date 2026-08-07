@@ -1,6 +1,6 @@
 # AK-97
 
-AK-97 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Section 8, Melbourne on Wed, 12 Aug 2026.
+AK-97 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Section 8, Melbourne on Wed, 12 Aug 2026.
 
 AK-97 is a techno and house artist based in Australia, tracked on soundcheck, with 16 sets logged across Melbourne. Often billed alongside Ejeckt, Gus McKinna and Ketris. Next up: Section 8, Melbourne on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ AK-97 is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 Ejeckt, Gus McKinna, Ketris
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-97/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-97/)*

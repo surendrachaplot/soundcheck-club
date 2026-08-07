@@ -1,6 +1,6 @@
 # Odela Sound
 
-Odela Sound is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Concorde 2, Brighton on Sat, 8 Aug 2026.
+Odela Sound is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Concorde 2, Brighton on Sat, 8 Aug 2026.
 
 Odela Sound is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Barcelona, Brighton and Ibiza. Often billed alongside Ashkaan, Sway-B and Ethan Jenner. Next up: Concorde 2, Brighton on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Odela Sound is a house and deep house artist based in United Kingdom, tracked on
 
 Ashkaan, Sway-B, Ethan Jenner
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odelasound/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odelasound/)*

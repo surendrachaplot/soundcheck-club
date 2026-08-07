@@ -1,14 +1,15 @@
 # Amapola Rose
 
-Amapola Rose is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
+Amapola Rose is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
 
-Amapola Rose is an electronica and techno artist based in Mexico, tracked on soundcheck, with 37 sets logged across Mexicocity and Newyorkcity. Often billed alongside Choi, Alexandria (MX) and Santa Bina. Next up: TBA - SECRET LOCATION, Mexicocity on Fri 14 Aug.
+Amapola Rose is a techno and electronica artist based in Mexico, tracked on soundcheck, with 38 sets logged across Mexicocity and Newyorkcity. Often billed alongside Choi, Alexandria (MX) and Santa Bina. Next up: TBA - SECRET LOCATION, Mexicocity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - SECRET LOCATION | Mexico City |
+| Sat, 29 Aug 2026 | TBA | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Amapola Rose is an electronica and techno artist based in Mexico, tracked on sou
 
 Choi, Alexandria (MX), Santa Bina
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*

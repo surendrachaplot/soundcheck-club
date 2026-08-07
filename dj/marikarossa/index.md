@@ -1,6 +1,6 @@
 # Marika Rossa
 
-Marika Rossa is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Usus am Wasser, Vienna on Fri, 7 Aug 2026.
+Marika Rossa is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Usus am Wasser, Vienna on Fri, 7 Aug 2026.
 
 Marika Rossa is a techno and industrial artist tracked on soundcheck, with 26 sets logged across Athens, Barcelona, Berlin and Brisbane and 14 more. Often billed alongside Alchemiah, Patrik Berg and Anna V.. Next up: Usus am Wasser, Vienna on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Marika Rossa is a techno and industrial artist tracked on soundcheck, with 26 se
 
 Alchemiah, Patrik Berg, Anna V.
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*

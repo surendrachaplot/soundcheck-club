@@ -1,8 +1,8 @@
 # cybr.nova
 
-cybr.nova is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
+cybr.nova is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Signal, New York City on Thu, 13 Aug 2026.
 
-cybr.nova is a techno and club artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside cyb0rrrg, Odyssey and Xana 101. Next up: Signal, Newyorkcity on Thu 13 Aug.
+cybr.nova is a techno and club artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside cyb0rrrg, Odyssey and WADDLE. Next up: Signal, Newyorkcity on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ cybr.nova is a techno and club artist tracked on soundcheck, with 14 sets logged
 
 ## Shares bills with
 
-cyb0rrrg, Odyssey, Xana 101
+cyb0rrrg, Odyssey, WADDLE
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cybr.nova/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cybr.nova/)*

@@ -1,6 +1,6 @@
 # Faly
 
-Faly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KitKatClub, Berlin on Mon, 10 Aug 2026.
+Faly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at KitKatClub, Berlin on Mon, 10 Aug 2026.
 
 Faly is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Frankie Flowerz, ANouch and Ale Castro. Next up: KitKatClub, Berlin on Mon 10 Aug.
 
@@ -20,4 +20,4 @@ Faly is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Frankie Flowerz, ANouch, Ale Castro
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faly/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faly/)*

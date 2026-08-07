@@ -1,14 +1,13 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Thursday Social" on Thu, 6 Aug 2026.
+Rolling Stock is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DA SOURCE" on Sat, 8 Aug 2026.
 
-Rolling Stock is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Jon E Cash. Browse upcoming dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
+Rolling Stock is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Jon E Cash. Browse upcoming dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Thursday Social |  |
 | Sat, 8 Aug 2026 | DA SOURCE | Jon E Cash |
 | Thu, 13 Aug 2026 | Thursday Social |  |
 | Thu, 20 Aug 2026 | Thursday Social |  |
@@ -18,4 +17,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 5 upcoming nights
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

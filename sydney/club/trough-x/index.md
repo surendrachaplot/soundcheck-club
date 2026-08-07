@@ -1,6 +1,6 @@
 # Trough X
 
-Trough X is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "BARBA AT TROUGHX" on Sat, 22 Aug 2026.
+Trough X is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "BARBA AT TROUGHX" on Sat, 22 Aug 2026.
 
 Trough X is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Trough X is a music venue in Sydney listed on soundcheck. 1 upcoming night. Brow
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | BARBA AT TROUGHX |  |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/trough-x/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/trough-x/)*

@@ -1,6 +1,6 @@
 # Andra (DE)
 
-Andra (DE) is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Andra (DE) is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Andra (DE) is a house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Blame Anthony, Butterhands and Thabo. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Andra (DE) is a house artist based in Germany, tracked on soundcheck, with 6 set
 
 Blame Anthony, Butterhands, Thabo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrade-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrade-de/)*

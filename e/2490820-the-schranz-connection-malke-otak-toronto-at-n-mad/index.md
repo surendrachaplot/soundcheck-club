@@ -1,6 +1,6 @@
 # THE SCHRANZ CONNECTION: Malke & Otak - Toronto at NØMAD
 
-THE SCHRANZ CONNECTION: Malke & Otak - Toronto at NØMAD on Fri 28 Aug, Toronto. 3 acts on the bill: FridaY (DE), Malke and ÖTAK. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+THE SCHRANZ CONNECTION: Malke & Otak - Toronto at NØMAD on Fri 28 Aug, Toronto. 4 acts on the bill: A_C_E., FridaY (DE), Malke and ÖTAK. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ THE SCHRANZ CONNECTION: Malke & Otak - Toronto at NØMAD on Fri 28 Aug, Toronto.
 
 ## Line-up
 
+- A_C_E.
 - FridaY (DE)
 - Malke
 - ÖTAK

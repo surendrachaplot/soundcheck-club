@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 15 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Alpa + XaviChan + Cone" on Thu, 6 Aug 2026.
+Oven Club is a music venue in Valencia with 14 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Velasco + Pin / Bar: Mardi & Depanachi" on Fri, 7 Aug 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 15 upcoming nights, with line-ups including Aguirre, Ariezzz, Baloo and BAR (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights, with line-ups including Aguirre, Ariezzz, Baloo and BAR (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Alpa + XaviChan + Cone | Cone |
 | Fri, 7 Aug 2026 | Velasco + Pin / Bar: Mardi & Depanachi | Pin, Velasco |
 | Sat, 8 Aug 2026 | Baloo + Pau Pérez + Blanch / Bar: Dj Grip & Dystorizon | Baloo, Blanch, Dystorizon, Pau Pérez, ViTo |
 | Wed, 12 Aug 2026 | SOULEAST b2b Gregori | Gregori |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 15 upcoming nights,
 | Wed, 19 Aug 2026 | Disco Sour: SOUMZ b2b Giorgio Bonetti | Disco Sour |
 | Thu, 20 Aug 2026 | Blanch + Ladrillovitz + Serret | Blanch, Ladrillovitz |
 | Fri, 21 Aug 2026 | JUAAN + Pin | JUAAN, Pin |
+| Sat, 22 Aug 2026 | Atmo: NysoK + Pol R + G Groove / Bar: Cosy O & DJ Lance | BAR (DE) |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

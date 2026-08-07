@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
+Benwal is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nitsa Club, Barcelona on Fri, 7 Aug 2026.
 
 Benwal is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Nitsa Club, Barcelona on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist tracked on soundcheck, with 167 sets logged 
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

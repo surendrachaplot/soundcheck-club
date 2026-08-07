@@ -1,6 +1,6 @@
 # Decibella
 
-Decibella is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
+Decibella is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
 
 Decibella is a jungle and drum & bass artist tracked on soundcheck, with 83 sets logged across Brighton, Bristol, Brussels and Copenhagen and 14 more. Often billed alongside Tim Reaper, Double O and Mantra. Next up: Ormside Projects, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Decibella is a jungle and drum & bass artist tracked on soundcheck, with 83 sets
 
 Tim Reaper, Double O, Mantra
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*

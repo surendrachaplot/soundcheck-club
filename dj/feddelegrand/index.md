@@ -1,6 +1,6 @@
 # Fedde Le Grand
 
-Fedde Le Grand is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 21 Sept 2026.
+Fedde Le Grand is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 21 Sept 2026.
 
 Fedde Le Grand is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Armin van Buuren, David Guetta and Paul Reynolds. Next up: Ushuaïa Ibiza, Ibiza on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Fedde Le Grand is a house and progressive house artist based in Netherlands, tra
 
 Armin van Buuren, David Guetta, Paul Reynolds
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feddelegrand/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feddelegrand/)*

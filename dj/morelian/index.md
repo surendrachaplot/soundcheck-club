@@ -1,6 +1,6 @@
 # Mor Elian
 
-Mor Elian is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at fabric, London on Sat, 12 Sept 2026.
+Mor Elian is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at fabric, London on Sat, 12 Sept 2026.
 
 Mor Elian is a techno and bass artist based in United States of America, tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Belfast and 33 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: fabric, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mor Elian is a techno and bass artist based in United States of America, tracked
 
 Rhyw, Pariah, Marie Montexier
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*

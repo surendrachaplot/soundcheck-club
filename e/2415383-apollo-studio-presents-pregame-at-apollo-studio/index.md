@@ -1,6 +1,6 @@
 # Apollo Studio presents Pregame at Apollo Studio
 
-Apollo Studio presents Pregame on Fri 21 Aug, Newyorkcity. 5 acts on the bill: Armii1n, John Everett, Monk (2) and Rana Iravani and 1 more. Preview the line-up and save it on soundcheck.
+Apollo Studio presents Pregame on Fri 21 Aug, Newyorkcity. 6 acts on the bill: Armii1n, domenico (2), John Everett and Monk (2) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Apollo Studio presents Pregame on Fri 21 Aug, Newyorkcity. 5 acts on the bill: A
 ## Line-up
 
 - Armii1n
+- domenico (2)
 - John Everett
 - Monk (2)
 - Rana Iravani

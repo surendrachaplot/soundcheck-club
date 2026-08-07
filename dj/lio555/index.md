@@ -1,6 +1,6 @@
 # Lio555
 
-Lio555 is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+Lio555 is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 Lio555 is a drum & bass and house artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside DJ AKi, Jackit and SAKO. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lio555 is a drum & bass and house artist based in Japan, tracked on soundcheck, 
 
 DJ AKi, Jackit, SAKO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lio555/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lio555/)*

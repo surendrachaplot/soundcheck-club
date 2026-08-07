@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Knockdown Center, New York City on Sat, 15 Aug 2026.
+Mira is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Knockdown Center, New York City on Sat, 15 Aug 2026.
 
 Mira is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Austin and Bangkok and 37 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Knockdown Center, Newyorkcity on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Mira is a house and techno artist tracked on soundcheck, with 185 sets logged ac
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

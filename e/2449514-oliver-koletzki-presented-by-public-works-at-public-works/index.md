@@ -1,6 +1,6 @@
 # Oliver Koletzki presented by Public Works at Public Works
 
-Oliver Koletzki presented by Public Works on Fri 21 Aug, Sanfrancisco. 3 acts on the bill: Asymmetry, Benjamin K and Oliver Koletzki. Preview the line-up and save it on soundcheck.
+Oliver Koletzki presented by Public Works on Fri 21 Aug, Sanfrancisco. 5 acts on the bill: 3kelves, Asymmetry, Benjamin K and Dylan C. Greene and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Oliver Koletzki presented by Public Works on Fri 21 Aug, Sanfrancisco. 3 acts on
 
 ## Line-up
 
+- 3kelves
 - Asymmetry
 - Benjamin K
+- Dylan C. Greene
 - Oliver Koletzki
 
 *Source: [soundcheck](https://soundcheck.club/e/2449514-oliver-koletzki-presented-by-public-works-at-public-works/)*

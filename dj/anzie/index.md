@@ -1,6 +1,6 @@
 # anzie
 
-anzie is a Ghetto Tech and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cafe Jurta, Warsaw on Fri, 7 Aug 2026.
+anzie is a Ghetto Tech and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cafe Jurta, Warsaw on Fri, 7 Aug 2026.
 
 anzie is a ghetto tech and neo perreo artist tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Janek Pirks, PITCHY PEACHY and Sosia. Next up: Cafe Jurta, Warsaw on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ anzie is a ghetto tech and neo perreo artist tracked on soundcheck, with 4 sets 
 
 Janek Pirks, PITCHY PEACHY, Sosia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anzie/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anzie/)*

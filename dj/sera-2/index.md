@@ -1,6 +1,6 @@
 # SERA (2)
 
-SERA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
+SERA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
 SERA (2) is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and ANDOW. Next up: Renate, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SERA (2) is a techno and house artist tracked on soundcheck, with 36 sets logged
 
 Francesco Passantino, KARAYAN, ANDOW
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*

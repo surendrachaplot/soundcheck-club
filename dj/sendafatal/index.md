@@ -1,8 +1,8 @@
 # SENDA FATAL
 
-SENDA FATAL is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+SENDA FATAL is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-SENDA FATAL is a techno and minimal artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Baldman, Bibi and Bleach. Next up: Heave Festival, Madrid on Fri 25 Sept.
+SENDA FATAL is a techno and minimal artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside BOUNCE BRIGADE, Baldman and Bibi. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ SENDA FATAL is a techno and minimal artist based in Spain, tracked on soundcheck
 
 ## Shares bills with
 
-Baldman, Bibi, Bleach
+BOUNCE BRIGADE, Baldman, Bibi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*

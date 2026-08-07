@@ -1,6 +1,6 @@
 # Ryan Smith
 
-Ryan Smith is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BASEMENT, New York City on Sat, 8 Aug 2026.
+Ryan Smith is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BASEMENT, New York City on Sat, 8 Aug 2026.
 
 Ryan Smith is a techno and jungle artist based in United States of America, tracked on soundcheck, with 46 sets logged across Miami, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Ron Like Hell, Day Thief and Juana. Next up: BASEMENT, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ryan Smith is a techno and jungle artist based in United States of America, trac
 
 Ron Like Hell, Day Thief, Juana
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansmith/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansmith/)*

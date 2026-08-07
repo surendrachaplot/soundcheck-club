@@ -1,6 +1,6 @@
 # Bar Le Ritz PDB
 
-Bar Le Ritz PDB is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "AFRODITE Y MÁS" on Sat, 8 Aug 2026.
+Bar Le Ritz PDB is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "AFRODITE Y MÁS" on Sat, 8 Aug 2026.
 
 Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Bad Faith Actor, CVSTRO, DJ_Dave and DJ InYourFace and 2 more. Browse upcoming dates, start times and who's playing. 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2.
 
@@ -21,4 +21,4 @@ Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 8 upcoming ni
 
 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2, Montreal
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*

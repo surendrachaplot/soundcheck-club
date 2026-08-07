@@ -1,6 +1,6 @@
 # Caru (NZ)
 
-Caru (NZ) is a Breakbeat and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Fri, 7 Aug 2026.
+Caru (NZ) is a Breakbeat and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Fri, 7 Aug 2026.
 
 Caru (NZ) is a breakbeat and garage artist based in New Zealand, tracked on soundcheck, with 11 sets logged across Auckland and London. Often billed alongside Burna, Foxtrot (2) and Hyan (2). Next up: Whammy Bar/Double Whammy/Public Bar, Auckland on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Caru (NZ) is a breakbeat and garage artist based in New Zealand, tracked on soun
 
 Burna, Foxtrot (2), Hyan (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*

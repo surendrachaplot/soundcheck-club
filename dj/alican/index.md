@@ -1,6 +1,6 @@
 # Alican
 
-Alican is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kafes x Milo, Istanbul on Sun, 9 Aug 2026.
+Alican is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kafes x Milo, Istanbul on Sun, 9 Aug 2026.
 
 Alican is a house and techno artist based in Turkey, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Murat Uncuoglu, Gespona and Amadori. Next up: Kafes x Milo, Istanbul on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Alican is a house and techno artist based in Turkey, tracked on soundcheck, with
 
 Murat Uncuoglu, Gespona, Amadori
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*

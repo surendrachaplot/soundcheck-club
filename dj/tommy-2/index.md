@@ -1,6 +1,6 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
+Tommy (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
 
 Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 4 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Yonenaga, Satoshi Matsui, Wataru Sakuraba
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*

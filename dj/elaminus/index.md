@@ -1,6 +1,6 @@
 # Ela Minus
 
-Ela Minus is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Register for location, New York City on Wed, 12 Aug 2026.
+Ela Minus is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Register for location, New York City on Wed, 12 Aug 2026.
 
 Ela Minus is a techno and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 13 more. Often billed alongside DJ Gigola, DJ Tennis and 2ManyDJs. Next up: TBA - Register for location, Newyorkcity on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Ela Minus is a techno and house artist tracked on soundcheck, with 29 sets logge
 
 DJ Gigola, DJ Tennis, 2ManyDJs
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elaminus/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elaminus/)*

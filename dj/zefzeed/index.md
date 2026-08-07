@@ -1,6 +1,6 @@
 # Zefzeed
 
-Zefzeed is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Zefzeed is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Zefzeed is a minimal and house artist based in Romania, tracked on soundcheck, with 49 sets logged across Bucharest and Zurich. Often billed alongside Bohnenblust, Aron (CH) and G76. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Zefzeed is a minimal and house artist based in Romania, tracked on soundcheck, w
 
 Bohnenblust, Aron (CH), G76
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zefzeed/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zefzeed/)*

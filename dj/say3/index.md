@@ -1,6 +1,6 @@
 # SAY3
 
-SAY3 is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nowadays, New York City on Fri, 7 Aug 2026.
+SAY3 is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nowadays, New York City on Fri, 7 Aug 2026.
 
 SAY3 is an afro house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami, Montreal, Newyorkcity and Toronto. Often billed alongside DJ Nigga Fox, J-Cush and Run P.. Next up: Nowadays, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SAY3 is an afro house and techno artist based in United States of America, track
 
 DJ Nigga Fox, J-Cush, Run P.
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/say3/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/say3/)*

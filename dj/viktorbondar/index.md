@@ -1,6 +1,6 @@
 # Viktor Bondar
 
-Viktor Bondar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
+Viktor Bondar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 9 Aug 2026.
 
 Viktor Bondar is a house and techno artist tracked on soundcheck, with 81 sets logged across Budapest. Often billed alongside Ratkay, StereoStrip and ANESI. Next up: Pontoon Budapest, Budapest on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Viktor Bondar is a house and techno artist tracked on soundcheck, with 81 sets l
 
 Ratkay, StereoStrip, ANESI
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorbondar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorbondar/)*

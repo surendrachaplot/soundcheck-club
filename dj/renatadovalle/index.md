@@ -1,6 +1,6 @@
 # Renata Do Valle
 
-Renata Do Valle is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at public records, New York City on Sat, 15 Aug 2026.
+Renata Do Valle is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at public records, New York City on Sat, 15 Aug 2026.
 
 Renata Do Valle is a house and disco artist based in Brazil, tracked on soundcheck, with 43 sets logged across Berlin, Losangeles, Mexicocity and Miami and 1 more. Often billed alongside Cody Currie, JDH & Dave P and Seedy J. Next up: public records, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Renata Do Valle is a house and disco artist based in Brazil, tracked on soundche
 
 Cody Currie, JDH & Dave P, Seedy J
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renatadovalle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renatadovalle/)*

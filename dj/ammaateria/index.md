@@ -1,6 +1,6 @@
 # Amma Ateria
 
-Amma Ateria is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Amma Ateria is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 Amma Ateria is an experimental and ambient artist tracked on soundcheck, with 8 sets logged across Berlin, Newyorkcity, Sanfrancisco and Vienna. Often billed alongside ALPHA (NL), Abstraction and Alpha Tracks. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Amma Ateria is an experimental and ambient artist tracked on soundcheck, with 8 
 
 ALPHA (NL), Abstraction, Alpha Tracks
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammaateria/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammaateria/)*

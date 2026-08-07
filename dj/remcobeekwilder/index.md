@@ -1,14 +1,15 @@
 # Remco Beekwilder
 
-Remco Beekwilder is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
+Remco Beekwilder is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
-Remco Beekwilder is a techno and trance artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Belfast and 23 more. Often billed alongside Stephanie Sykes, Isaiah (NL) and Ben Sims. Next up: RADION, Amsterdam on Thu 22 Oct.
+Remco Beekwilder is a techno and house artist based in Netherlands, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Athens and Belfast and 23 more. Often billed alongside Stephanie Sykes, Isaiah (NL) and Laure Croft. Next up: RADION, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
+| Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Remco Beekwilder is a techno and trance artist based in Netherlands, tracked on 
 
 ## Shares bills with
 
-Stephanie Sykes, Isaiah (NL), Ben Sims
+Stephanie Sykes, Isaiah (NL), Laure Croft
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remcobeekwilder/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remcobeekwilder/)*

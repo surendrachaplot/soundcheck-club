@@ -1,6 +1,6 @@
 # Max Gyver
 
-Max Gyver is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hochwasserbassin Hammerbrook, Hamburg on Sat, 8 Aug 2026.
+Max Gyver is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hochwasserbassin Hammerbrook, Hamburg on Sat, 8 Aug 2026.
 
 Max Gyver is a disco and funk / soul artist based in Germany, tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Bushfya, Diskohengst and Erobique. Next up: Hochwasserbassin Hammerbrook, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Max Gyver is a disco and funk / soul artist based in Germany, tracked on soundch
 
 Bushfya, Diskohengst, Erobique
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgyver/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgyver/)*

@@ -1,6 +1,6 @@
 # Dunaway
 
-Dunaway is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
+Dunaway is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
 
 Dunaway is a house and techno artist based in Canada, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside florasystem, maxedvisa and AZA. Next up: Cherry Beach, Toronto on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Dunaway is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 florasystem, maxedvisa, AZA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaway/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaway/)*

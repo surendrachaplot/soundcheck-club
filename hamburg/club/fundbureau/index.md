@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "BIMÄN // Nettta // TECHNIKER ALLSTARS" on Fri, 7 Aug 2026.
+Fundbureau is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "BIMÄN // Nettta // TECHNIKER ALLSTARS" on Fri, 7 Aug 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming nights,
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

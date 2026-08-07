@@ -1,14 +1,15 @@
 # Kontravoid
 
-Kontravoid is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Elysium, Austin on Thu, 10 Sept 2026.
+Kontravoid is a EBM and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Elysium, Austin on Thu, 10 Sept 2026.
 
-Kontravoid is an ebm and industrial artist tracked on soundcheck, with 35 sets logged across Austin, Berlin, Bristol and Bucharest and 18 more. Often billed alongside Andi, Kris Baha and Sharlese. Next up: Elysium, Austin on Thu 10 Sept.
+Kontravoid is an ebm and industrial artist tracked on soundcheck, with 36 sets logged across Austin, Berlin, Bristol and Bucharest and 18 more. Often billed alongside Andi, Kris Baha and Sharlese. Next up: Elysium, Austin on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Elysium | Austin |
+| Sat, 19 Sept 2026 | Nikki Lopez | Philadelphia |
 | Tue, 22 Sept 2026 | Foufounes Electronique | Montreal |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kontravoid is an ebm and industrial artist tracked on soundcheck, with 35 sets l
 
 Andi, Kris Baha, Sharlese
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*

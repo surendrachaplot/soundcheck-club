@@ -1,6 +1,6 @@
 # KTB DJž
 
-KTB DJž is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
+KTB DJž is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
 
 KTB DJž is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Lady Roc, Amor Ante and Any Koh. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ KTB DJž is a techno and electro artist based in United Kingdom, tracked on soun
 
 Lady Roc, Amor Ante, Any Koh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ktbdjz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ktbdjz/)*

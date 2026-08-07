@@ -1,6 +1,6 @@
 # Gene Hunt
 
-Gene Hunt is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Monkey Loft, Seattle on Thu, 13 Aug 2026.
+Gene Hunt is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Monkey Loft, Seattle on Thu, 13 Aug 2026.
 
 Gene Hunt is a house and deep house artist tracked on soundcheck, with 129 sets logged across Boston, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Adorio, Mike Dunn and Duke Shin. Next up: The Monkey Loft, Seattle on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Gene Hunt is a house and deep house artist tracked on soundcheck, with 129 sets 
 
 Adorio, Mike Dunn, Duke Shin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genehunt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genehunt/)*

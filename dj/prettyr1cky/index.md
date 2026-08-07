@@ -1,6 +1,6 @@
 # Pretty R1cky
 
-Pretty R1cky is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Los Angeles on Sat, 8 Aug 2026.
+Pretty R1cky is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Los Angeles on Sat, 8 Aug 2026.
 
 Pretty R1cky is a club and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside BL4ZE, MARCHANTE and T3KNO. Next up: TBA, Losangeles on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Pretty R1cky is a club and experimental artist based in United States of America
 
 BL4ZE, MARCHANTE, T3KNO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyr1cky/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyr1cky/)*

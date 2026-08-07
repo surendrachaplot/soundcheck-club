@@ -1,14 +1,13 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "NoctamBar x Soliym & friends" on Thu, 6 Aug 2026.
+La Gravière is a music venue in Geneva with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Introspective Records: Buds Buzzy + Ereib + GFX + Lenny" on Fri, 7 Aug 2026.
 
-La Gravière is a music venue in Geneva listed on soundcheck. 8 upcoming nights, with line-ups including AIEAIEAIE, Amal, Black Rave Culture and Braises de Velours and 2 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
+La Gravière is a music venue in Geneva listed on soundcheck. 7 upcoming nights, with line-ups including AIEAIEAIE, Amal, Black Rave Culture and Braises de Velours and 2 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | NoctamBar x Soliym & friends |  |
 | Fri, 7 Aug 2026 | Introspective Records: Buds Buzzy + Ereib + GFX + Lenny | Buds Buzzy |
 | Sat, 8 Aug 2026 | 97X: Agon Lija + Senjadi + Layla + Les Novas + House of Perreo |  |
 | Thu, 13 Aug 2026 | NoctamBar x BB2DESK |  |
@@ -21,4 +20,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 8 upcoming nights,
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

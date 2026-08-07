@@ -1,8 +1,8 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Old Royal Naval College, London on Sun, 16 Aug 2026.
+Delilah is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Old Royal Naval College, London on Sun, 16 Aug 2026.
 
-Delilah is a house and tech house artist tracked on soundcheck, with 35 sets logged across Berlin, Bristol, Brussels and Dublin and 6 more. Often billed alongside Rossi, Sidney Charles and Eliza Rose. Next up: Old Royal Naval College, London on Sun 16 Aug.
+Delilah is a house and tech house artist tracked on soundcheck, with 36 sets logged across Berlin, Bristol, Brussels and Dublin and 6 more. Often billed alongside Rossi, Sidney Charles and Eliza Rose. Next up: Old Royal Naval College, London on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Delilah is a house and tech house artist tracked on soundcheck, with 35 sets log
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Sat, 3 Oct 2026 | Hidden | Manchester |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Delilah is a house and tech house artist tracked on soundcheck, with 35 sets log
 
 Rossi, Sidney Charles, Eliza Rose
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

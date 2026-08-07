@@ -1,6 +1,6 @@
 # Victor Hugo
 
-Victor Hugo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
+Victor Hugo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
 
 Victor Hugo is a house and club artist based in Mexico, tracked on soundcheck, with 56 sets logged across Barcelona, Ibiza, Madrid and Mexicocity. Often billed alongside Eudald Selva, Elwei and DAGZZ. Next up: BORIS CLUB, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Victor Hugo is a house and club artist based in Mexico, tracked on soundcheck, w
 
 Eudald Selva, Elwei, DAGZZ
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

@@ -1,6 +1,6 @@
 # GlamourDeath
 
-GlamourDeath is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Trumbullplex, Detroit on Sat, 8 Aug 2026.
+GlamourDeath is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Trumbullplex, Detroit on Sat, 8 Aug 2026.
 
 GlamourDeath is a techno and gabber artist based in United States of America, tracked on soundcheck, with 2 sets logged across Detroit. Often billed alongside joycxi, Auntie Chanel and Gallons. Next up: Trumbullplex, Detroit on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ GlamourDeath is a techno and gabber artist based in United States of America, tr
 
 joycxi, Auntie Chanel, Gallons
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glamourdeath/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glamourdeath/)*

@@ -1,6 +1,6 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
+EREZ.JPG is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
 
 EREZ.JPG is a house and minimal artist based in United States of America, tracked on soundcheck, with 40 sets logged across Detroit, Losangeles, Miami and Newyorkcity. Often billed alongside shanty mane, Armii1n and Gill (US). Next up: Green Room NYC, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, tracke
 
 shanty mane, Armii1n, Gill (US)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

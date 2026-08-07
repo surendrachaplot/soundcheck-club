@@ -1,6 +1,6 @@
 # Versalles 64
 
-Versalles 64 is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "[sic]: Macarena / Ferdiyei / OMFDAN" on Sat, 8 Aug 2026.
+Versalles 64 is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "[sic]: Macarena / Ferdiyei / OMFDAN" on Sat, 8 Aug 2026.
 
 Versalles 64 is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including Alby Esc, daveh00d, Diego Palacios and Ferdiyei and 2 more. Browse upcoming dates, start times and who's playing. Calle Versalles 64, Col. Juárez. CDMX.
 
@@ -16,4 +16,4 @@ Versalles 64 is a music venue in Mexicocity listed on soundcheck. 3 upcoming nig
 
 Calle Versalles 64, Col. Juárez. CDMX, Mexico City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*

@@ -1,6 +1,6 @@
 # Shelter presents: Bondru - Julian Anthony, The Ghost & More at Shelter Amsterdam
 
-Shelter presents: Bondru - Julian Anthony, The Ghost & More at Shelter Amsterdam on Sat 22 Aug, Amsterdam. 5 acts on the bill: Isabelle Koci, Izak Jules, Julian Anthony and LORI (NL) and 1 more. House. Preview the line-up and save it on soundcheck.
+Shelter presents: Bondru - Julian Anthony, The Ghost & More at Shelter Amsterdam on Sat 22 Aug, Amsterdam. 6 acts on the bill: Isabelle Koci, Izak Jules, Julian Anthony and Julien Fuentes and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Shelter presents: Bondru - Julian Anthony, The Ghost & More at Shelter Amsterdam
 - Isabelle Koci
 - Izak Jules
 - Julian Anthony
+- Julien Fuentes
 - LORI (NL)
 - The Ghost
 

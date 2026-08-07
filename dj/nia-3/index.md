@@ -1,6 +1,6 @@
 # NIA (3)
 
-NIA (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Artheater, Cologne on Fri, 7 Aug 2026.
+NIA (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Artheater, Cologne on Fri, 7 Aug 2026.
 
 NIA (3) is a techno and trance artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Cologne and Munich and 2 more. Often billed alongside DETOXX, Amøn and DJ Achim Feuervogel. Next up: Artheater, Cologne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ NIA (3) is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 DETOXX, Amøn, DJ Achim Feuervogel
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-3/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-3/)*

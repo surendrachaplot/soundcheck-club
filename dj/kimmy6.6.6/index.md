@@ -1,6 +1,6 @@
 # kimmy6.6.6
 
-kimmy6.6.6 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Mushroom, Hong Kong on Sat, 15 Aug 2026.
+kimmy6.6.6 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Mushroom, Hong Kong on Sat, 15 Aug 2026.
 
 kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, with 28 sets logged across Hongkong. Often billed alongside Fischmonger, Kelvin T and Shawn (2). Next up: Mushroom, Hongkong on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, wi
 
 Fischmonger, Kelvin T, Shawn (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*

@@ -1,6 +1,6 @@
 # HEYFAYBAE
 
-HEYFAYBAE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
+HEYFAYBAE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
 
 HEYFAYBAE is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside DJanae, Aleska and Ariana Roseman. Next up: Newtown Radio, Newyorkcity on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ HEYFAYBAE is a techno and house artist based in United States of America, tracke
 
 DJanae, Aleska, Ariana Roseman
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heyfaybae/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heyfaybae/)*

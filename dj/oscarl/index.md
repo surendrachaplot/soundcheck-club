@@ -1,13 +1,14 @@
 # Oscar L
 
-Oscar L is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at SILO, New York City on Sat, 17 Oct 2026.
+Oscar L is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Egg London, London on Fri, 4 Sept 2026.
 
-Oscar L is a techno and tech house artist based in Spain, tracked on soundcheck, with 51 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Adam Beyer, Eli Brown and Max Styler. Next up: SILO, Newyorkcity on Sat 17 Oct.
+Oscar L is a techno and tech house artist based in Spain, tracked on soundcheck, with 52 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Adam Beyer, Eli Brown and Max Styler. Next up: Egg London, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Egg London | London |
 | Sat, 17 Oct 2026 | SILO | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Oscar L is a techno and tech house artist based in Spain, tracked on soundcheck,
 
 Adam Beyer, Eli Brown, Max Styler
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarl/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarl/)*

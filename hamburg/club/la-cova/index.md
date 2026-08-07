@@ -1,6 +1,6 @@
 # La Cova
 
-La Cova is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "La Cova Loca" on Sat, 8 Aug 2026.
+La Cova is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "La Cova Loca" on Sat, 8 Aug 2026.
 
 La Cova is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including An Chen, Eva Nyx, LIRICA and Ly Sas and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
 
@@ -18,4 +18,4 @@ La Cova is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, wit
 
 Reeperbahn 152, 20359 Hamburg, Hamburg
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*

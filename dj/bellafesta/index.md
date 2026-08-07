@@ -1,6 +1,6 @@
 # Bella Festa
 
-Bella Festa is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 12 Sept 2026.
+Bella Festa is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 12 Sept 2026.
 
 Bella Festa is an italo disco and house artist tracked on soundcheck, with 51 sets logged across Belfast, Berlin, Cork and Dublin and 2 more. Often billed alongside David Diamond, Aidan and Budino. Next up: The Ulster Sports Club, Belfast on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bella Festa is an italo disco and house artist tracked on soundcheck, with 51 se
 
 David Diamond, Aidan, Budino
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellafesta/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellafesta/)*

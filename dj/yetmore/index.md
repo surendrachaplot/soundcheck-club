@@ -1,0 +1,28 @@
+# Yet More
+
+Yet More is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pluto, Los Angeles on Fri, 7 Aug 2026.
+
+Yet More is a house and deep house artist based in France, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Nandu, Auggië and Miguel Payda. Next up: Pluto, Losangeles on Fri 7 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 7 Aug 2026 | Pluto | Los Angeles |
+
+## Recently played
+
+- Silencio, Paris — Sat, 4 Jul 2026
+- Void Mykonos, Mykonos — Sat, 27 Jun 2026
+- BORIS CLUB, Barcelona — Sat, 6 Jun 2026
+- Silencio, Paris — Sat, 16 May 2026
+- Refuge, New York City — Sat, 25 Apr 2026
+- Silencio, Paris — Sat, 4 Apr 2026
+- Volt Club Milano, Milan — Sat, 7 Mar 2026
+- Silencio, Paris — Fri, 6 Mar 2026
+
+## Shares bills with
+
+Nandu, Auggië, Miguel Payda
+
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yetmore/)*

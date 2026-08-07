@@ -1,8 +1,8 @@
 # Ozzie Guven
 
-Ozzie Guven is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Ozzie Guven is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
-Ozzie Guven is a house and tech house artist tracked on soundcheck, with 113 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: Dullingham Polo Club, London on Sat 22 Aug.
+Ozzie Guven is a house and tech house artist tracked on soundcheck, with 114 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ozzie Guven is a house and tech house artist tracked on soundcheck, with 113 set
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Sat, 12 Sept 2026 | Gaswrx Birmingham | London |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
+| Sat, 3 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ozzie Guven is a house and tech house artist tracked on soundcheck, with 113 set
 
 DXNBY, Sidney Charles, Ellia Jaya
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*

@@ -1,6 +1,6 @@
 # Sacred Keys
 
-Sacred Keys is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 8 Aug 2026.
+Sacred Keys is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 8 Aug 2026.
 
 Sacred Keys is a post-punk and electronica artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Edinburgh. Often billed alongside Moth Girl, The Nightlark and philomenah. Next up: People's Leisure Club, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sacred Keys is a post-punk and electronica artist based in United Kingdom, track
 
 Moth Girl, The Nightlark, philomenah
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sacredkeys/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sacredkeys/)*

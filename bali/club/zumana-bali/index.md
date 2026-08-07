@@ -1,13 +1,14 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "AWEN" on Fri, 21 Aug 2026.
+Zumana Bali is a music venue in Bali with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DJ RUCKUS" on Wed, 19 Aug 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 8 upcoming nights, with line-ups including Artbat, AARON SEVILLA, AWEN and Laolu and 2 more. Browse upcoming dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 9 upcoming nights, with line-ups including Artbat, AARON SEVILLA, AWEN and Laolu and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | DJ RUCKUS |  |
 | Fri, 21 Aug 2026 | AWEN | AWEN |
 | Fri, 28 Aug 2026 | AARON SEVILLA | AARON SEVILLA |
 | Wed, 9 Sept 2026 | Laolu | Laolu |
@@ -17,4 +18,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 8 upcoming nights, wi
 | Sat, 26 Sept 2026 | Satori (Live) | Satori |
 | Fri, 16 Oct 2026 | Artbat | Artbat |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

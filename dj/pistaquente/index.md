@@ -1,6 +1,6 @@
 # Pista Quente
 
-Pista Quente is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Rua Bento Freitas, 306 - República, São Paulo - SP, 01220-000, Brasil, Sao Paulo on Sat, 8 Aug 2026.
+Pista Quente is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Rua Bento Freitas, 306 - República, São Paulo - SP, 01220-000, Brasil, Sao Paulo on Sat, 8 Aug 2026.
 
 Pista Quente is a house and balearic artist based in Brazil, tracked on soundcheck, with 51 sets logged across Lisbon and Saopaulo. Often billed alongside Akin/Non Exist, Benjamin Sallum and Capetini. Next up: TBA - Rua Bento Freitas, 306 - República, São Paulo - SP, 01220-000, Brasil, Saopaulo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Pista Quente is a house and balearic artist based in Brazil, tracked on soundche
 
 Akin/Non Exist, Benjamin Sallum, Capetini
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaquente/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaquente/)*

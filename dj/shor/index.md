@@ -1,6 +1,6 @@
 # shor
 
-shor is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Next Door Records Two, London on Fri, 7 Aug 2026.
+shor is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Next Door Records Two, London on Fri, 7 Aug 2026.
 
 shor is a house and drum & bass artist tracked on soundcheck, with 6 sets logged across Birmingham, Glasgow and London. Often billed alongside Giulia Tess, Indigo Eyes and Pretty Girl. Next up: Next Door Records Two, London on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ shor is a house and drum & bass artist tracked on soundcheck, with 6 sets logged
 
 Giulia Tess, Indigo Eyes, Pretty Girl
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shor/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shor/)*

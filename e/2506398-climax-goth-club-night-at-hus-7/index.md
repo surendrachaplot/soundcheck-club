@@ -1,10 +1,10 @@
 # Climax - Goth club night at Hus 7
 
-Climax - Goth club night at Hus 7 on Sat 8 Aug, Stockholm. 1 act on the bill: Mira Iranpour. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Climax - Goth club night at Hus 7 on Fri 28 Aug, Stockholm. 1 act on the bill: Mira Iranpour. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Fri, 28 Aug 2026 |
 | Venue | Hus 7 |
 | City | Stockholm |
 

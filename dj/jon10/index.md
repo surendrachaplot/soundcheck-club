@@ -1,14 +1,14 @@
 # Jon10
 
-Jon10 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Clinker Lounge in der Backfabrik, Berlin on Sat, 8 Aug 2026.
+Jon10 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at CLINKER, Berlin on Sat, 8 Aug 2026.
 
-Jon10 is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Cork, Dublin and Galway and 5 more. Often billed alongside Dylan Fogarty, TMS (Dj) and CULT. Next up: Clinker Lounge in der Backfabrik, Berlin on Sat 8 Aug.
+Jon10 is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Cork, Dublin and Galway and 5 more. Often billed alongside Dylan Fogarty, TMS (Dj) and CULT. Next up: CLINKER, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Clinker Lounge in der Backfabrik | Berlin |
+| Sat, 8 Aug 2026 | CLINKER | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jon10 is a techno and house artist tracked on soundcheck, with 28 sets logged ac
 
 Dylan Fogarty, TMS (Dj), CULT
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jon10/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jon10/)*

@@ -1,6 +1,6 @@
 # Mazurbate
 
-Mazurbate is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
+Mazurbate is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
 
 Mazurbate is a club and techno artist tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Tama Gucci, Kenni Javon and CHOQUE. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mazurbate is a club and techno artist tracked on soundcheck, with 17 sets logged
 
 Tama Gucci, Kenni Javon, CHOQUE
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazurbate/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazurbate/)*

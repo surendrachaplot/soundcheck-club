@@ -1,6 +1,6 @@
 # Malzof
 
-Malzof is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Malzof is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Malzof is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit, Losangeles, Newyorkcity and Philadelphia and 2 more. Often billed alongside Kiernan Laveaux, Security Dog and Tammy Lakkis. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Malzof is a techno and house artist based in United States of America, tracked o
 
 Kiernan Laveaux, Security Dog, Tammy Lakkis
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

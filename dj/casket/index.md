@@ -1,6 +1,6 @@
 # Casket
 
-Casket is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Northalsted, Chicago on Sat, 8 Aug 2026.
+Casket is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Northalsted, Chicago on Sat, 8 Aug 2026.
 
 Casket is a house and minimal artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago. Often billed alongside Adam Pecho, Anthony Cruz and Ariel Zetina. Next up: TBA - Northalsted, Chicago on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Casket is a house and minimal artist based in United States of America, tracked 
 
 Adam Pecho, Anthony Cruz, Ariel Zetina
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casket/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casket/)*

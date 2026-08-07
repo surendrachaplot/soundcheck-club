@@ -1,6 +1,6 @@
 # Oui Lv
 
-Oui Lv is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
+Oui Lv is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 15 Aug 2026.
 
 Oui Lv is a techno and house artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Shawna Solaris and shirlz. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ Oui Lv is a techno and house artist tracked on soundcheck, with 2 sets logged ac
 
 Shawna Solaris, shirlz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ouilv/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ouilv/)*

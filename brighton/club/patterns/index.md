@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bora Bora Music" on Sat, 8 Aug 2026.
+Patterns is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Bora Bora Music" on Sat, 8 Aug 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming nights, with line-ups including Al Bradley, Benji Hedonator, BIKINIWAX (2) and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including Al Bradley, Benji Hedonator, BIKINIWAX (2) and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming nights, 
 | Sun, 6 Sept 2026 | Brighton Sundae with Matthew Herbert (DJ set) | Matthew Herbert |
 | Sun, 13 Sept 2026 | Just Keep Moving Day Party Finale | BIKINIWAX (2), Benji Hedonator, Kyle Bower |
 | Sat, 19 Sept 2026 | Memory Box: Disco in The House with Joe Goddard (Hot Chip) | Hot Chip, Joe Goddard |
+| Fri, 25 Sept 2026 | Freshly Baked - Basement Rave |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
-| Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

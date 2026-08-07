@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "After O'clock X La Plage Open Air: Faustø,HSOP & Vlan" on Sat, 8 Aug 2026.
+Glazart is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "After O'clock X La Plage Open Air: Faustø,HSOP & Vlan" on Sat, 8 Aug 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Cattoni, Charleeps, Faustø and HSOP and 2 more. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -19,4 +19,4 @@ Glazart is a music venue in Paris listed on soundcheck. 6 upcoming nights, with 
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

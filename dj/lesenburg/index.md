@@ -1,6 +1,6 @@
 # Lesenburg
 
-Lesenburg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Lesenburg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Lesenburg is a techno and house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Tommy- (UK), Darush and Greg Brockmann. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Lesenburg is a techno and house artist tracked on soundcheck, with 7 sets logged
 
 Tommy- (UK), Darush, Greg Brockmann
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lesenburg/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lesenburg/)*

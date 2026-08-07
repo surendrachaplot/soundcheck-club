@@ -1,6 +1,6 @@
 # Rafa Aleman
 
-Rafa Aleman is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
+Rafa Aleman is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
 
 Rafa Aleman is a tech house and techno artist based in Venezuela, tracked on soundcheck, with 43 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Bill Hates, Klency and MACKINLAY. Next up: BORIS CLUB, Barcelona on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Rafa Aleman is a tech house and techno artist based in Venezuela, tracked on sou
 
 Bill Hates, Klency, MACKINLAY
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaaleman/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaaleman/)*

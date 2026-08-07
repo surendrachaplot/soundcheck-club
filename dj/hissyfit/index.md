@@ -1,6 +1,6 @@
 # Hissy Fit
 
-Hissy Fit is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 22 Aug 2026.
+Hissy Fit is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Hissy Fit is a club and techno artist based in Canada, tracked on soundcheck, with 7 sets logged across Sanfrancisco and Washingtondc. Often billed alongside Franxx, Gabberbitch69 and DJ Land Reform. Next up: F8 1192 Folsom, Sanfrancisco on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Hissy Fit is a club and techno artist based in Canada, tracked on soundcheck, wi
 
 Franxx, Gabberbitch69, DJ Land Reform
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit/)*

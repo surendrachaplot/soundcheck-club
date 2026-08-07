@@ -1,6 +1,6 @@
 # LIZA (6)
 
-LIZA (6) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Blvck Water, Osaka on Fri, 7 Aug 2026.
+LIZA (6) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Blvck Water, Osaka on Fri, 7 Aug 2026.
 
 LIZA (6) is a techno and acid artist based in Japan, tracked on soundcheck, with 21 sets logged across Osaka. Often billed alongside FENGX2, 死者蘇生CH and ZAGUN. Next up: Blvck Water, Osaka on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ LIZA (6) is a techno and acid artist based in Japan, tracked on soundcheck, with
 
 FENGX2, 死者蘇生CH, ZAGUN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-6/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-6/)*

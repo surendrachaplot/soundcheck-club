@@ -1,6 +1,6 @@
 # Drum & Lace
 
-Drum & Lace is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Next Door Records Two, London on Sat, 8 Aug 2026.
+Drum & Lace is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Next Door Records Two, London on Sat, 8 Aug 2026.
 
 Drum & Lace are an electronica and ambient duo tracked on soundcheck, with 9 sets logged across London and Newyorkcity. Often billed alongside elisa (3), Tommy Value and Giulia Tess. Next up: Next Door Records Two, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Drum & Lace are an electronica and ambient duo tracked on soundcheck, with 9 set
 
 elisa (3), Tommy Value, Giulia Tess
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drumlace/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drumlace/)*

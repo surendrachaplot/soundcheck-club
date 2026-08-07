@@ -1,6 +1,6 @@
 # Flo Ruby
 
-Flo Ruby is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
+Flo Ruby is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
 
 Flo Ruby is a bass and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside szoryn, Isaac Arthur and St. Amp. Next up: Distillery N17, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Flo Ruby is a bass and trance artist based in United Kingdom, tracked on soundch
 
 szoryn, Isaac Arthur, St. Amp
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floruby/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floruby/)*

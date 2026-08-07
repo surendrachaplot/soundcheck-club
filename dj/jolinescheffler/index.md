@@ -1,14 +1,15 @@
 # Joline Scheffler
 
-Joline Scheffler is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club Cheek, London on Sat, 29 Aug 2026.
+Joline Scheffler is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Club Cheek, London on Sat, 29 Aug 2026.
 
-Joline Scheffler is a techno and ambient artist based in Sweden, tracked on soundcheck, with 8 sets logged across Berlin, Leipzig, Liverpool and London and 2 more. Often billed alongside Fergus Sweetland, Yant and 1morning. Next up: Club Cheek, London on Sat 29 Aug.
+Joline Scheffler is a techno and ambient artist based in Sweden, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Leipzig and Liverpool and 3 more. Often billed alongside Darwin, Fergus Sweetland and Nastia. Next up: Club Cheek, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Club Cheek | London |
+| Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Joline Scheffler is a techno and ambient artist based in Sweden, tracked on soun
 
 ## Shares bills with
 
-Fergus Sweetland, Yant, 1morning
+Darwin, Fergus Sweetland, Nastia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jolinescheffler/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jolinescheffler/)*

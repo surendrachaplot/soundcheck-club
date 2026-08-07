@@ -1,6 +1,6 @@
 # Arson Fire
 
-Arson Fire is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
+Arson Fire is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
 
 Arson Fire is a techno and ebm artist tracked on soundcheck, with 5 sets logged across Berlin and Melbourne. Often billed alongside Goat Spokesperson, Pseudo-ku and DJ Hell. Next up: Metropol, Berlin on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Arson Fire is a techno and ebm artist tracked on soundcheck, with 5 sets logged 
 
 Goat Spokesperson, Pseudo-ku, DJ Hell
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonfire/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonfire/)*

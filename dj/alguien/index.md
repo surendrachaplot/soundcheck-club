@@ -1,6 +1,6 @@
 # alguien
 
-alguien is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
+alguien is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
 
 alguien is an electro and acid artist tracked on soundcheck, with 32 sets logged across Madrid. Often billed alongside Vulker, Reitze and Epileptik. Next up: Sala Siroco, Madrid on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ alguien is an electro and acid artist tracked on soundcheck, with 32 sets logged
 
 Vulker, Reitze, Epileptik
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alguien/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alguien/)*

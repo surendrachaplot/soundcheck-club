@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kaufleuten, Zurich on Sat, 8 Aug 2026.
+Franc Fala is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kaufleuten, Zurich on Sat, 8 Aug 2026.
 
 Franc Fala is a house and tech house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Basel and Brussels and 8 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Kaufleuten, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Franc Fala is a house and tech house artist tracked on soundcheck, with 33 sets 
 
 Benja, Benja (NL), Cincity
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

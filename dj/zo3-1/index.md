@@ -1,6 +1,6 @@
 # ZO3 (1)
 
-ZO3 (1) is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Mash House, Edinburgh on Fri, 7 Aug 2026.
+ZO3 (1) is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Mash House, Edinburgh on Fri, 7 Aug 2026.
 
 ZO3 (1) is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Dundee and Edinburgh. Often billed alongside Lara Sinclair, Casement and DV60. Next up: The Mash House, Edinburgh on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ ZO3 (1) is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Lara Sinclair, Casement, DV60
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zo3-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zo3-1/)*

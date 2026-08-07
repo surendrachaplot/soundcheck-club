@@ -1,6 +1,6 @@
 # Insolence
 
-Insolence is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at C12, Brussels on Sat, 8 Aug 2026.
+Insolence is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at C12, Brussels on Sat, 8 Aug 2026.
 
 Insolence is a techno and hardcore artist based in France, tracked on soundcheck, with 16 sets logged across Amsterdam and Brussels. Often billed alongside ECH/O, Makoveev and Tyotya Lida. Next up: C12, Brussels on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Insolence is a techno and hardcore artist based in France, tracked on soundcheck
 
 ECH/O, Makoveev, Tyotya Lida
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insolence/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insolence/)*

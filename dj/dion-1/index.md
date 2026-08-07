@@ -1,6 +1,6 @@
 # Dion
 
-Dion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Sao Paulo on Sat, 8 Aug 2026.
+Dion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Sao Paulo on Sat, 8 Aug 2026.
 
 Dion is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Athens, Bali, Belfast and Berlin and 4 more. Often billed alongside BERLIN, Der Eggert and Goa Camino. Next up: TBA, Saopaulo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dion is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 BERLIN, Der Eggert, Goa Camino
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dion-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dion-1/)*

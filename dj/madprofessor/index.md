@@ -1,8 +1,8 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+Mad Professor is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
-Mad Professor is a dub and bass artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside DjRUM, Beatrice M. and Dj Babatr. Next up: Colour Factory, London on Sat 8 Aug.
+Mad Professor is a dub and bass artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Colour Factory, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mad Professor is a dub and bass artist tracked on soundcheck, with 61 sets logge
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Colour Factory | London |
 | Fri, 11 Sept 2026 | Le Molodoi | Strasbourg |
+| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mad Professor is a dub and bass artist tracked on soundcheck, with 61 sets logge
 
 ## Shares bills with
 
-DjRUM, Beatrice M., Dj Babatr
+DjRUM, Tash LC, Arsenal Mikebe
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

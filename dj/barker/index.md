@@ -1,6 +1,6 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
+Barker is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
 
 Barker is a techno and experimental artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 26 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Finsbury Park, London on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Barker is a techno and experimental artist tracked on soundcheck, with 86 sets l
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

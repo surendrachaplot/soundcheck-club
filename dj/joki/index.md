@@ -1,6 +1,6 @@
 # JOKI
 
-JOKI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at M-BIA, Berlin on Sat, 8 Aug 2026.
+JOKI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at M-BIA, Berlin on Sat, 8 Aug 2026.
 
 JOKI is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin and Tokyo. Often billed alongside Momentune, Ohishi and Curl Ease. Next up: M-BIA, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ JOKI is a house and techno artist based in United States of America, tracked on 
 
 Momentune, Ohishi, Curl Ease
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*

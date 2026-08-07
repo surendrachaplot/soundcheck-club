@@ -1,8 +1,8 @@
 # Yosuke
 
-Yosuke is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 7 Aug 2026.
+Yosuke is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 7 Aug 2026.
 
-Yosuke is a house and hip-hop artist based in Japan, tracked on soundcheck, with 15 sets logged across Osaka and Tokyo. Often billed alongside MARZY, SAITO and SAMO (JP). Next up: Enter Shibuya, Tokyo on Fri 7 Aug.
+Yosuke is a house and hip-hop artist based in Japan, tracked on soundcheck, with 15 sets logged across Osaka and Tokyo. Often billed alongside Shoma fr,dambosound, MARZY and SAITO. Next up: Enter Shibuya, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Yosuke is a house and hip-hop artist based in Japan, tracked on soundcheck, with
 
 ## Shares bills with
 
-MARZY, SAITO, SAMO (JP)
+Shoma fr,dambosound, MARZY, SAITO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosuke/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosuke/)*

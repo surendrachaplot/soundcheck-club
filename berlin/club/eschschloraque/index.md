@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "BULETTEN BINGO – OPENAIR EDITION" on Thu, 6 Aug 2026.
+Eschschloraque is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Lost Label" on Fri, 7 Aug 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including DJ Vela, MissVergnügen, patte and Sky Deep and 1 more. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including DJ Vela, MissVergnügen, patte and Sky Deep and 1 more. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | BULETTEN BINGO – OPENAIR EDITION |  |
 | Fri, 7 Aug 2026 | Lost Label | Yves Taubert, patte |
 | Wed, 12 Aug 2026 | 20 Jahre MissVergnügen | MissVergnügen |
 | Fri, 14 Aug 2026 | BadassBassBombardement | DJ Vela, Sky Deep |
@@ -19,4 +18,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

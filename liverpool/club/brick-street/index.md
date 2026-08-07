@@ -1,6 +1,6 @@
 # Brick Street
 
-Brick Street is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "The Wonder Pot X SubHarmonic pres: Calibre Open Air" on Sat, 26 Sept 2026.
+Brick Street is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "The Wonder Pot X SubHarmonic pres: Calibre Open Air" on Sat, 26 Sept 2026.
 
 Brick Street is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including adamine, All Trades, Calibre and Crazy P and 2 more. Browse upcoming dates, start times and who's playing. 44 Brick Street, L1 0BN, Liverpool, United Kingdom.
 
@@ -15,4 +15,4 @@ Brick Street is a music venue in Liverpool listed on soundcheck. 2 upcoming nigh
 
 44 Brick Street, L1 0BN, Liverpool, United Kingdom, Liverpool
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/brick-street/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/brick-street/)*

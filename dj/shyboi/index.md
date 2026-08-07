@@ -1,6 +1,6 @@
 # Shyboi
 
-Shyboi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at C'mon Everybody, New York City on Fri, 7 Aug 2026.
+Shyboi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at C'mon Everybody, New York City on Fri, 7 Aug 2026.
 
 Shyboi is a techno and house artist based in United States of America, tracked on soundcheck, with 124 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Juliana Huxtable, Junior M (US) and MORENXXX. Next up: C'mon Everybody, Newyorkcity on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Shyboi is a techno and house artist based in United States of America, tracked o
 
 Juliana Huxtable, Junior M (US), MORENXXX
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*

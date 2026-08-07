@@ -1,6 +1,6 @@
 # Zur Insel
 
-Zur Insel is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "El Patio Open Air 2026" on Sat, 8 Aug 2026.
+Zur Insel is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "El Patio Open Air 2026" on Sat, 8 Aug 2026.
 
 Zur Insel is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Coppola (DE), George Sanchez and Tau Car. Browse upcoming dates, start times and who's playing. Schmickstraße 16, 60314, Frankfurt am Main, Deutschland.
 
@@ -15,4 +15,4 @@ Zur Insel is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights,
 
 Schmickstraße 16, 60314, Frankfurt am Main, Deutschland, Frankfurt
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zur-insel/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zur-insel/)*

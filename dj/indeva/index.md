@@ -1,6 +1,6 @@
 # Indeva
 
-Indeva is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Off The Square, Manchester on Fri, 7 Aug 2026.
+Indeva is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Off The Square, Manchester on Fri, 7 Aug 2026.
 
 Indeva is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside BOA (1), BR-Z and Jack Banner. Next up: Off The Square, Manchester on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Indeva is a jungle and garage artist based in United Kingdom, tracked on soundch
 
 BOA (1), BR-Z, Jack Banner
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indeva/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indeva/)*

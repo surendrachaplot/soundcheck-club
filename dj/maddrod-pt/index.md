@@ -1,6 +1,6 @@
 # Madd Rod
 
-Madd Rod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lux Fragil, Lisbon on Sat, 8 Aug 2026.
+Madd Rod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lux Fragil, Lisbon on Sat, 8 Aug 2026.
 
 Madd Rod is a techno and house artist based in Portugal, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 5 more. Often billed alongside Bizzarro Universe, C.A.R. and DJ Tennis. Next up: Lux Fragil, Lisbon on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Madd Rod is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 Bizzarro Universe, C.A.R., DJ Tennis
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddrod-pt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddrod-pt/)*

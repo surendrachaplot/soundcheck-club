@@ -1,6 +1,6 @@
 # Js:on
 
-Js:on is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Groovetank Live, London on Sat, 8 Aug 2026.
+Js:on is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Groovetank Live, London on Sat, 8 Aug 2026.
 
 Js:on is a house and bass artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Lutsu, DJ FUNGHOUL and GEM (UK). Next up: Groovetank Live, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Js:on is a house and bass artist based in United Kingdom, tracked on soundcheck,
 
 Lutsu, DJ FUNGHOUL, GEM (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/json-uk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/json-uk/)*

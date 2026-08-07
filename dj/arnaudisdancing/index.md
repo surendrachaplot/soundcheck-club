@@ -1,6 +1,6 @@
 # Arnaud Is Dancing
 
-Arnaud Is Dancing is a Trance and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OHM Town, Nantes on Sat, 8 Aug 2026.
+Arnaud Is Dancing is a Trance and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OHM Town, Nantes on Sat, 8 Aug 2026.
 
 Arnaud Is Dancing is a trance and breakbeat artist based in France, tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Berlin and Krakow and 2 more. Often billed alongside Gaya (FR), matilda (2) and Selected Dream Memories. Next up: OHM Town, Nantes on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Arnaud Is Dancing is a trance and breakbeat artist based in France, tracked on s
 
 Gaya (FR), matilda (2), Selected Dream Memories
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudisdancing/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudisdancing/)*

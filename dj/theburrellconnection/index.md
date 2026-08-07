@@ -1,18 +1,18 @@
 # The Burrell Connection
 
-The Burrell Connection is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ikii, Berlin on Thu, 6 Aug 2026.
+The Burrell Connection is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
-The Burrell Connection is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin, Budapest, Edinburgh and Ghent and 4 more. Often billed alongside Amanita, Craigie Knowes and DJ CHICHI. Next up: Ikii, Berlin on Thu 6 Aug.
+The Burrell Connection is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin, Budapest, Edinburgh and Ghent and 4 more. Often billed alongside Amanita, Craigie Knowes and DJ CHICHI. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Ikii | Berlin |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 
+- Ikii, Berlin — Thu, 6 Aug 2026
 - Renate, Berlin — Fri, 31 Jul 2026
 - TBA - secret loc Neukölln, Berlin — Fri, 3 Jul 2026
 - Renate, Berlin — Sun, 21 Jun 2026
@@ -20,10 +20,9 @@ The Burrell Connection is a house and techno artist based in United Kingdom, tra
 - La Cheetah Club, Glasgow — Sun, 7 Jun 2026
 - Atno, Budapest — Fri, 23 Jan 2026
 - arkaoda Berlin, Berlin — Sat, 25 Oct 2025
-- Block1, Berlin — Sat, 18 Oct 2025
 
 ## Shares bills with
 
 Amanita, Craigie Knowes, DJ CHICHI
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theburrellconnection/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theburrellconnection/)*

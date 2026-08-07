@@ -1,6 +1,6 @@
 # Uggo
 
-Uggo is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club Cheek, London on Fri, 11 Sept 2026.
+Uggo is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Cheek, London on Fri, 11 Sept 2026.
 
 Uggo is a techno and idm artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Sydney (SP), Jhumka and Leo Gosh. Next up: Club Cheek, London on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Uggo is a techno and idm artist tracked on soundcheck, with 4 sets logged across
 
 Sydney (SP), Jhumka, Leo Gosh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uggo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uggo/)*

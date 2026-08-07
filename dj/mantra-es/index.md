@@ -1,6 +1,6 @@
 # Mantra (ES)
 
-Mantra (ES) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Mantra (ES) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Mantra (ES) is an electronic artist based in Spain, tracked on soundcheck, with 3 sets logged across Amsterdam and London. Often billed alongside LTJ Bukem, Blackeye MC and Christian AB. Next up: The Cause, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Mantra (ES) is an electronic artist based in Spain, tracked on soundcheck, with 
 
 LTJ Bukem, Blackeye MC, Christian AB
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra-es/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra-es/)*

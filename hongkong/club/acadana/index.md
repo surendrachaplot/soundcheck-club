@@ -1,6 +1,6 @@
 # Acadana
 
-Acadana is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "DROPSOUND: REBORN" on Sat, 8 Aug 2026.
+Acadana is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DROPSOUND: REBORN" on Sat, 8 Aug 2026.
 
 Acadana is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with line-ups including Francis_kkk, HearThug, Linh Violet and MarcoYu and 2 more. Browse upcoming dates, start times and who's playing. B22, B23, Blk B, New Territories, Hong Kong.
 
@@ -15,4 +15,4 @@ Acadana is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, wi
 
 B22, B23, Blk B, New Territories, Hong Kong, Hong Kong
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/acadana/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/acadana/)*

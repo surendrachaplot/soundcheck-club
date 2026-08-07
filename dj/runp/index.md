@@ -1,6 +1,6 @@
 # Run P.
 
-Run P. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Thu, 27 Aug 2026.
+Run P. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Thu, 27 Aug 2026.
 
 Run P. is a club and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across London and Newyorkcity. Often billed alongside Nativesun, SAY3 and Bok Bok. Next up: Colour Factory, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Run P. is a club and house artist based in United States of America, tracked on 
 
 Nativesun, SAY3, Bok Bok
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runp/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/runp/)*

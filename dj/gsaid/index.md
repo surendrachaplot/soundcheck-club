@@ -1,6 +1,6 @@
 # Gsaid
 
-Gsaid is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Soup, Manchester on Sat, 22 Aug 2026.
+Gsaid is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Soup, Manchester on Sat, 22 Aug 2026.
 
 Gsaid is a techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Lisbon, Manchester and Seoul. Often billed alongside PINA (PT), A.Morgan and BootyWagon. Next up: Soup, Manchester on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Gsaid is a techno artist based in Portugal, tracked on soundcheck, with 6 sets l
 
 PINA (PT), A.Morgan, BootyWagon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gsaid/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gsaid/)*

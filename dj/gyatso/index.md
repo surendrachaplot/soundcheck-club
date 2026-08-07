@@ -1,14 +1,15 @@
 # Gyatso
 
-Gyatso is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 14 Aug 2026.
+Gyatso is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 14 Aug 2026.
 
-Gyatso is a ghetto tech and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Bangkok and Belgrade and 9 more. Often billed alongside Franky Sticks, ZEP (NL) and Eileen (NL). Next up: De Fik Garden, Amsterdam on Fri 14 Aug.
+Gyatso is a ghetto tech and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Bangkok and Belgrade and 9 more. Often billed alongside Franky Sticks, ZEP (NL) and Eileen (NL). Next up: De Fik Garden, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | De Fik Garden | Amsterdam |
+| Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gyatso is a ghetto tech and house artist tracked on soundcheck, with 65 sets log
 
 Franky Sticks, ZEP (NL), Eileen (NL)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyatso/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyatso/)*

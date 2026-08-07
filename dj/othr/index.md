@@ -1,6 +1,6 @@
 # OTHR
 
-OTHR is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
+OTHR is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
 
 OTHR is a techno and ebm artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Madrid and Paris and 2 more. Often billed alongside Ancient Methods, Vulkanski and Knaughty. Next up: KHIDI, Tbilisi on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ OTHR is a techno and ebm artist tracked on soundcheck, with 64 sets logged acros
 
 Ancient Methods, Vulkanski, Knaughty
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/othr/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/othr/)*

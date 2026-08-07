@@ -1,6 +1,6 @@
 # Side to Side at THE OTHER SIDE
 
-Side to Side at THE OTHER SIDE on Sat 12 Sept, Amsterdam. 1 act on the bill: MELLEHH. House and Garage. Preview the line-up and save it on soundcheck.
+Side to Side at THE OTHER SIDE on Sat 12 Sept, Amsterdam. 2 acts on the bill: Melle and MELLEHH. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Side to Side at THE OTHER SIDE on Sat 12 Sept, Amsterdam. 1 act on the bill: MEL
 
 ## Line-up
 
+- Melle
 - MELLEHH
 
 *Source: [soundcheck](https://soundcheck.club/e/2493683-side-to-side-at-the-other-side/)*

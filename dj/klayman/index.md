@@ -1,6 +1,6 @@
 # Klayman
 
-Klayman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
+Klayman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
 
 Klayman is a house and techno artist tracked on soundcheck, with 38 sets logged across Budapest. Often billed alongside Vatsanah, SVR101 and Jaffa Surfa. Next up: Very Small Club, Budapest on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Klayman is a house and techno artist tracked on soundcheck, with 38 sets logged 
 
 Vatsanah, SVR101, Jaffa Surfa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klayman/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klayman/)*

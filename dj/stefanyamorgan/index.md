@@ -1,6 +1,6 @@
 # Stefanya Morgan
 
-Stefanya Morgan is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - after dark, Bali on Fri, 7 Aug 2026.
+Stefanya Morgan is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - after dark, Bali on Fri, 7 Aug 2026.
 
 Stefanya Morgan is a techno and afro house artist tracked on soundcheck, with 66 sets logged across Bali and Kualalumpur. Often billed alongside Ashley Black, Irenee S and Julia Deychuk. Next up: TBA - after dark, Bali on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Stefanya Morgan is a techno and afro house artist tracked on soundcheck, with 66
 
 Ashley Black, Irenee S, Julia Deychuk
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanyamorgan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanyamorgan/)*

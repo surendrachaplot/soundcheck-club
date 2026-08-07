@@ -1,6 +1,6 @@
 # TBA - Twenty One 
 
-TBA - Twenty One  is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "HOUSE PARTY 360° RAVE" on Fri, 7 Aug 2026.
+TBA - Twenty One  is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "HOUSE PARTY 360° RAVE" on Fri, 7 Aug 2026.
 
 TBA - Twenty One  is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including DONT BLINK. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Twenty One  is a music venue in Leipzig listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | HOUSE PARTY 360° RAVE | DONT BLINK |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-twenty-one/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-twenty-one/)*

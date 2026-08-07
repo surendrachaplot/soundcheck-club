@@ -1,8 +1,8 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Signal, New York City on Fri, 14 Aug 2026.
+Youandewan is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Signal, New York City on Fri, 14 Aug 2026.
 
-Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 112 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: Signal, Newyorkcity on Fri 14 Aug.
+Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: Signal, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Youandewan is a house and minimal artist based in Germany, tracked on soundcheck
 | Sat, 15 Aug 2026 | TBA - Warehouse | Denver |
 | Sun, 16 Aug 2026 | Statera Cellars | Portland |
 | Sat, 22 Aug 2026 | Tresor / Globus | Berlin |
+| Sat, 12 Sept 2026 | The Loft | Manchester |
 | Fri, 25 Sept 2026 | Village Underground | London |
 
 ## Recently played
@@ -29,4 +30,4 @@ Youandewan is a house and minimal artist based in Germany, tracked on soundcheck
 
 Huerta, Liquid Earth, Truly Madly
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*

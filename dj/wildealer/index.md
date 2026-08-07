@@ -1,6 +1,6 @@
 # Wildealer
 
-Wildealer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Wildealer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Wildealer is a house and tech house artist based in Thailand, tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Ibiza and Kualalumpur and 3 more. Often billed alongside IYY (TH), PunTue and Meltmode (2). Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Wildealer is a house and tech house artist based in Thailand, tracked on soundch
 
 IYY (TH), PunTue, Meltmode (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*

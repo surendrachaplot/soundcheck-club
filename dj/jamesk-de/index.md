@@ -1,6 +1,6 @@
 # james K
 
-james K is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+james K is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 james K is an ambient and experimental artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Nick León, Yumi and Hank Jackson. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ james K is an ambient and experimental artist tracked on soundcheck, with 78 set
 
 Nick León, Yumi, Hank Jackson
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*

@@ -1,8 +1,8 @@
 # Suze Ijó
 
-Suze Ijó is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Circle Park, Brussels on Sat, 22 Aug 2026.
+Suze Ijó is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Circle Park, Brussels on Sat, 22 Aug 2026.
 
-Suze Ijó is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Auckland and Bali and 46 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Circle Park, Brussels on Sat 22 Aug.
+Suze Ijó is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Auckland and Bali and 46 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Circle Park, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Suze Ijó is a house and techno artist tracked on soundcheck, with 199 sets logg
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Circle Park | Brussels |
 | Sat, 10 Oct 2026 | Night Tales | London |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Suze Ijó is a house and techno artist tracked on soundcheck, with 199 sets logg
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

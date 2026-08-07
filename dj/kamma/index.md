@@ -1,6 +1,6 @@
 # Kamma
 
-Kamma is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
+Kamma is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
 
 Kamma is a house and disco artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside Masalo, Antal and DJ Tennis. Next up: La Terrrazza, Barcelona on Fri 7 Aug.
 
@@ -34,4 +34,4 @@ Kamma is a house and disco artist tracked on soundcheck, with 136 sets logged ac
 
 Masalo, Antal, DJ Tennis
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*

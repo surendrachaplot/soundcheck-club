@@ -1,6 +1,6 @@
 # VIRI$$
 
-VIRI$$ is a Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
+VIRI$$ is a Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
 
 VIRI$$ is a club artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Ab.Diablo, WAAW and Imaniii. Next up: Ormside Projects, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ VIRI$$ is a club artist based in United Kingdom, tracked on soundcheck, with 23 
 
 Ab.Diablo, WAAW, Imaniii
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viri/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viri/)*

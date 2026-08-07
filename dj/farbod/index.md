@@ -1,6 +1,6 @@
 # Farbod
 
-Farbod is a Techno and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kramladen, Vienna on Fri, 7 Aug 2026.
+Farbod is a Techno and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kramladen, Vienna on Fri, 7 Aug 2026.
 
 Farbod is a techno and funk / soul artist based in Austria, tracked on soundcheck, with 51 sets logged across Athens, Leipzig, Prague and Sanfrancisco and 1 more. Often billed alongside Arman Shadow, DJ Wolle and Rui de Janeiro. Next up: Kramladen, Vienna on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Farbod is a techno and funk / soul artist based in Austria, tracked on soundchec
 
 Arman Shadow, DJ Wolle, Rui de Janeiro
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/farbod/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/farbod/)*

@@ -1,14 +1,13 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "CONFESS - World Pride Edition" on Thu, 6 Aug 2026.
+Paradiso is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Tropikali BY NIGHT | Worldpride Amsterdam" on Sat, 8 Aug 2026.
 
-Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including AAT (NL), Absoluut, Answer Code Request and Artefakt and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
+Paradiso is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including AAT (NL), Absoluut, Answer Code Request and Artefakt and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | CONFESS - World Pride Edition | Kristiaan Kiwitz, Lady Deep, Veering |
 | Sat, 8 Aug 2026 | Tropikali BY NIGHT / Worldpride Amsterdam | ASHTATTZ, Absoluut, DHC, Disk Cartel, Doppelgang, Protopapa, S-candalo, THC |
 | Fri, 4 Sept 2026 | The Midnight Project | Sebastiaan Hooft |
 | Fri, 4 Sept 2026 | The Patchwork Family 5 Year Anniversary | DJ Europarking, Melis Köke, Slimfit, YoungWoman |
@@ -18,9 +17,10 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights,
 | Thu, 22 Oct 2026 | State OFFF // ADE | State OFFF |
 | Thu, 22 Oct 2026 | Lawrence Hart - ADE | Lawrence Hart |
 | Thu, 22 Oct 2026 | Anjunadeep - ADE |  |
+| Sat, 24 Oct 2026 | Speedy J presents STOOR Live - ADE 2026 (Day 1) | JakoJako, Lady Starlight, Rødhåd, Speedy J, UFO95 |
 
 ## Address
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

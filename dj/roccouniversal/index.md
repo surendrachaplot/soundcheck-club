@@ -1,6 +1,6 @@
 # Rocco Universal
 
-Rocco Universal is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Klymax Discotheque, Bali on Sat, 8 Aug 2026.
+Rocco Universal is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Klymax Discotheque, Bali on Sat, 8 Aug 2026.
 
 Rocco Universal is an acid and disco artist tracked on soundcheck, with 4 sets logged across Bali and Bangkok. Often billed alongside IMEN., Idjut Boys and Ross From Friends. Next up: Klymax Discotheque, Bali on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Rocco Universal is an acid and disco artist tracked on soundcheck, with 4 sets l
 
 IMEN., Idjut Boys, Ross From Friends
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccouniversal/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccouniversal/)*

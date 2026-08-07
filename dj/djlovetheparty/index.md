@@ -1,6 +1,6 @@
 # DJLOVETHEPARTY
 
-DJLOVETHEPARTY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
+DJLOVETHEPARTY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
 
 DJLOVETHEPARTY is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexicocity. Often billed alongside Fuckboyzo, Ivxn and Lex Digital. Next up: TBA - República de Cuba 58, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJLOVETHEPARTY is a techno and hardcore artist based in Mexico, tracked on sound
 
 Fuckboyzo, Ivxn, Lex Digital
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovetheparty/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovetheparty/)*

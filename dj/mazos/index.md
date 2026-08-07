@@ -1,6 +1,6 @@
 # Mazos
 
-Mazos is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Cause, London on Sat, 8 Aug 2026.
+Mazos is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Cause, London on Sat, 8 Aug 2026.
 
 Mazos is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, London and Malta. Often billed alongside G CHASE, Gracey Grey and Pat Wilson. Next up: The Cause, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Mazos is a house and tech house artist based in United Kingdom, tracked on sound
 
 G CHASE, Gracey Grey, Pat Wilson
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazos/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazos/)*

@@ -1,6 +1,6 @@
 # Curl Ease
 
-Curl Ease is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at M-BIA, Berlin on Sat, 8 Aug 2026.
+Curl Ease is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at M-BIA, Berlin on Sat, 8 Aug 2026.
 
 Curl Ease is a techno and psytrance artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Momentune, SHIRO and oston. Next up: M-BIA, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Curl Ease is a techno and psytrance artist tracked on soundcheck, with 11 sets l
 
 Momentune, SHIRO, oston
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/curlease/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/curlease/)*

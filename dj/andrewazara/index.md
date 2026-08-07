@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 7 Aug 2026.
+Andrew Azara is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 7 Aug 2026.
 
 Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 8 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: 3oz Dive Club, Sandiego on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets l
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

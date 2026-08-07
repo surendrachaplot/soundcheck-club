@@ -1,6 +1,6 @@
 # heronymus
 
-heronymus is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZIRKA, Munich on Fri, 7 Aug 2026.
+heronymus is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ZIRKA, Munich on Fri, 7 Aug 2026.
 
 heronymus is a house and progressive house artist tracked on soundcheck, with 31 sets logged across Munich and Vienna. Often billed alongside Mo the prophet, Morz Des Soundsystem and Julie Fleischer. Next up: ZIRKA, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ heronymus is a house and progressive house artist tracked on soundcheck, with 31
 
 Mo the prophet, Morz Des Soundsystem, Julie Fleischer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heronymus/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heronymus/)*

@@ -1,14 +1,13 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Brian Gallagher" on Thu, 6 Aug 2026.
+Fidelity Studio is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Different Rhythm + Rhyzine" on Fri, 7 Aug 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including Collie (1), Donal Dineen, Joe Goddard and Pretty Girl and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Collie (1), Donal Dineen, Joe Goddard and Pretty Girl and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Brian Gallagher |  |
 | Fri, 7 Aug 2026 | Different Rhythm + Rhyzine | Rhyzine |
 | Sat, 8 Aug 2026 | Quantic, B+ & Donal Dineen | Donal Dineen, Quantic |
 | Sun, 9 Aug 2026 | Emmy Shigeta + Friends |  |
@@ -21,4 +20,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 8 upcoming nigh
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

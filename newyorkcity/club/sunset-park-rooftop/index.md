@@ -1,6 +1,6 @@
 # Sunset Park Rooftop
 
-Sunset Park Rooftop is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Teksupport: Carlita (extended set) SOLD OUT" on Fri, 7 Aug 2026.
+Sunset Park Rooftop is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Teksupport: Carlita (extended set) SOLD OUT" on Fri, 7 Aug 2026.
 
 Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Aline Umber, Archie Hamilton, Carlita and Colyn and 2 more. Browse upcoming dates, start times and who's playing. 14b 53rd St, Brooklyn, NY 11232.
 
@@ -19,4 +19,4 @@ Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 6 upco
 
 14b 53rd St, Brooklyn, NY 11232, New York City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sunset-park-rooftop/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sunset-park-rooftop/)*

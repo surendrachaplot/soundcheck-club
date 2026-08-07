@@ -1,6 +1,6 @@
 # Óbuda Bay
 
-Óbuda Bay is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Óbuda Bay x Bladerunnaz pres. SUB FOCUS" on Sat, 15 Aug 2026.
+Óbuda Bay is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Óbuda Bay x Bladerunnaz pres. SUB FOCUS" on Sat, 15 Aug 2026.
 
 Óbuda Bay is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including Alfa Romero, Aly & Fila, Giuseppe Ottaviani and Justrice and 2 more. Browse upcoming dates, start times and who's playing. 1033 Budapest, Hajógyár utca 18386/9.
 
@@ -16,4 +16,4 @@
 
 1033 Budapest, Hajógyár utca 18386/9, Budapest
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*

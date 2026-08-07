@@ -1,17 +1,18 @@
 # Atlantic Club
 
-Atlantic Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "PEOPLE: Special Halloween Edition " on Sat, 31 Oct 2026.
+Atlantic Club is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "KINYXX pres: Mansion Fetish Edition" on Sat, 5 Sept 2026.
 
-Atlantic Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Couce. Browse upcoming dates, start times and who's playing. Avinguda del Tibidabo, 56, 08035 Barcelona, España.
+Atlantic Club is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Couce. Browse upcoming dates, start times and who's playing. Avinguda del Tibidabo, 56, 08035 Barcelona, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | KINYXX pres: Mansion Fetish Edition |  |
 | Sat, 31 Oct 2026 | PEOPLE: Special Halloween Edition  | Couce |
 
 ## Address
 
 Avinguda del Tibidabo, 56, 08035 Barcelona, España, Barcelona
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-club/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-club/)*

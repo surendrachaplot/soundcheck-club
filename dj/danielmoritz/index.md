@@ -1,6 +1,6 @@
 # Daniel Moritz
 
-Daniel Moritz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 7 Aug 2026.
+Daniel Moritz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 7 Aug 2026.
 
 Daniel Moritz is a house and techno artist based in Hungary, tracked on soundcheck, with 106 sets logged across Budapest and Malta. Often billed alongside Rovizz, Sobek and Falcao. Next up: Aether Club Budapest, Budapest on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Daniel Moritz is a house and techno artist based in Hungary, tracked on soundche
 
 Rovizz, Sobek, Falcao
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*

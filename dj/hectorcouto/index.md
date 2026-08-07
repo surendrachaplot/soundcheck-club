@@ -1,14 +1,15 @@
 # Hector Couto
 
-Hector Couto is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Hector Couto is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
-Hector Couto is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Bali and Barcelona and 20 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: UNO MALTA, Malta on Sat 8 Aug.
+Hector Couto is a tech house and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Bali and Barcelona and 20 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | UNO MALTA | Malta |
+| Fri, 21 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hector Couto is a tech house and house artist tracked on soundcheck, with 65 set
 
 Prunk, Ammo Avenue, Dimmish
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*

@@ -1,17 +1,19 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Het Concept // House & UK Garage" on Sat, 22 Aug 2026.
+Club Up is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Het Concept // House & UK Garage" on Sat, 22 Aug 2026.
 
-Club Up is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Baker (NL), Club Soda, MCL. and TIFLO. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
+Club Up is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Baker (NL), Club Soda, MCL. and Not Yet (2) and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Het Concept // House & UK Garage | Baker (NL), Club Soda, MCL., TIFLO |
+| Sat, 29 Aug 2026 | EAST Techno Collective |  |
+| Sat, 12 Sept 2026 | ONDA FORTE | Not Yet (2), Pedro da Mata |
 
 ## Address
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

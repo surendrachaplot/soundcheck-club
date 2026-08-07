@@ -1,6 +1,6 @@
 # mitallerliebe
 
-mitallerliebe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
+mitallerliebe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
 
 mitallerliebe is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin and Melbourne. Often billed alongside DJ Speed, ABACILAR and ADAM REC.. Next up: Pas Berlin, Berlin on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ mitallerliebe is a house and techno artist tracked on soundcheck, with 6 sets lo
 
 DJ Speed, ABACILAR, ADAM REC.
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitallerliebe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitallerliebe/)*

@@ -1,6 +1,6 @@
 # Cheff The Boy
 
-Cheff The Boy is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
+Cheff The Boy is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
 
 Cheff The Boy is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Bristol, Dundee, Leeds and Liverpool and 3 more. Often billed alongside Fez the Kid, Artificial Red and Betsy Mae. Next up: Document, Bristol on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Cheff The Boy is a jungle and drum & bass artist based in United Kingdom, tracke
 
 Fez the Kid, Artificial Red, Betsy Mae
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chefftheboy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chefftheboy/)*

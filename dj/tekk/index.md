@@ -1,6 +1,6 @@
 # Tekk
 
-Tekk is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at M-BIA, Berlin on Fri, 7 Aug 2026.
+Tekk is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at M-BIA, Berlin on Fri, 7 Aug 2026.
 
 Tekk is a techno and hardcore artist based in Slovakia, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside A², Techno Frühstück and Bass. Next up: M-BIA, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Tekk is a techno and hardcore artist based in Slovakia, tracked on soundcheck, w
 
 A², Techno Frühstück, Bass
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*

@@ -1,8 +1,8 @@
 # Darco
 
-Darco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+Darco is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
-Darco is a house and techno artist based in Ukraine, tracked on soundcheck, with 8 sets logged across Chicago, Ibiza, Losangeles and Mexicocity and 3 more. Often billed alongside BLOND:ISH, AABEL and Admiral. Next up: TBA, Losangeles on Sat 19 Sept.
+Darco is a house and techno artist based in Ukraine, tracked on soundcheck, with 9 sets logged across Chicago, Ibiza, Losangeles and Mexicocity and 3 more. Often billed alongside BLOND:ISH, SIEGEL (2) and Yamagucci. Next up: TBA, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Darco is a house and techno artist based in Ukraine, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA | Los Angeles |
 | Sat, 26 Sept 2026 | La Clairière | Paris |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Darco is a house and techno artist based in Ukraine, tracked on soundcheck, with
 
 ## Shares bills with
 
-BLOND:ISH, AABEL, Admiral
+BLOND:ISH, SIEGEL (2), Yamagucci
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darco/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darco/)*

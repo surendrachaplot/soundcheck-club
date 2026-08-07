@@ -1,6 +1,6 @@
 # Emiliano Chamandy
 
-Emiliano Chamandy is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sans Soleil, Montreal on Sun, 9 Aug 2026.
+Emiliano Chamandy is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sans Soleil, Montreal on Sun, 9 Aug 2026.
 
 Emiliano Chamandy is a house and acid artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Kris Guilty, DJ InYourFace and Dj Sarcastic. Next up: Sans Soleil, Montreal on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Emiliano Chamandy is a house and acid artist tracked on soundcheck, with 8 sets 
 
 Kris Guilty, DJ InYourFace, Dj Sarcastic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilianochamandy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilianochamandy/)*

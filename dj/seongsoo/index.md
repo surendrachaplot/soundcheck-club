@@ -1,6 +1,6 @@
 # Seongsoo
 
-Seongsoo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
+Seongsoo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nué Seoul, Seoul on Sat, 8 Aug 2026.
 
 Seongsoo is a techno and house artist based in South Korea, tracked on soundcheck, with 38 sets logged across Seoul. Often billed alongside Cy Nico, Kim Jooyoung and VVAIN. Next up: Nué Seoul, Seoul on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Seongsoo is a techno and house artist based in South Korea, tracked on soundchec
 
 Cy Nico, Kim Jooyoung, VVAIN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seongsoo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seongsoo/)*

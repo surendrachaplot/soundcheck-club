@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 8 Aug 2026.
+Tarkno is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 8 Aug 2026.
 
 Tarkno is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 30 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Sub Club Melbourne, Melbourne on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Tarkno is a techno and house artist tracked on soundcheck, with 104 sets logged 
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

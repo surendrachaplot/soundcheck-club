@@ -1,6 +1,6 @@
 # Grid
 
-Grid is a Electro and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - (Tickets), Montreal on Sat, 29 Aug 2026.
+Grid is a Electro and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - (Tickets), Montreal on Sat, 29 Aug 2026.
 
 Grid is an electro and funk / soul artist based in Lebanon, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Cidoine, Darone Sassounian and feelsgoopta. Next up: TBA - (Tickets), Montreal on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Grid is an electro and funk / soul artist based in Lebanon, tracked on soundchec
 
 Cidoine, Darone Sassounian, feelsgoopta
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grid/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grid/)*

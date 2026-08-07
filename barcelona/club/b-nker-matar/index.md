@@ -1,6 +1,6 @@
 # Bünker Mataró
 
-Bünker Mataró is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Bünker XVI: Mogano, NAUAL, Adriano" on Fri, 4 Sept 2026.
+Bünker Mataró is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Bünker XVI: Mogano, NAUAL, Adriano" on Fri, 4 Sept 2026.
 
 Bünker Mataró is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Adriano., Mogano and NAUAL. Browse upcoming dates, start times and who's playing. Carrer Batista i Roca 55, Mataró, Barcelona.
 
@@ -14,4 +14,4 @@ Bünker Mataró is a music venue in Barcelona listed on soundcheck. 1 upcoming n
 
 Carrer Batista i Roca 55, Mataró, Barcelona, Barcelona
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/b-nker-matar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/b-nker-matar/)*

@@ -1,6 +1,6 @@
 # Cali Rose
 
-Cali Rose is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
+Cali Rose is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Cali Rose is a techno and club artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 9 more. Often billed alongside Mama Yha Yha, Juliana Huxtable and Ariel Zetina. Next up: Public Works, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Cali Rose is a techno and club artist tracked on soundcheck, with 50 sets logged
 
 Mama Yha Yha, Juliana Huxtable, Ariel Zetina
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calirose/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calirose/)*

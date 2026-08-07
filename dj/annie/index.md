@@ -1,6 +1,6 @@
 # Annie
 
-Annie is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
+Annie is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
 
 Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 4 sets logged across Hamburg, Ibiza, Melbourne and Seoul. Often billed alongside ANDOW, Andres Campo and András. Next up: Edelfettwerk, Hamburg on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 4 
 
 ANDOW, Andres Campo, András
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*

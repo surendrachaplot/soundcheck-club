@@ -1,6 +1,6 @@
 # Trustfall
 
-Trustfall is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Trustfall is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Trustfall is a techno and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Melbourne, Portland and Toronto. Often billed alongside Peter Sheppard, Andy Warren and DJ Trustfall. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Trustfall is a techno and house artist based in United States of America, tracke
 
 Peter Sheppard, Andy Warren, DJ Trustfall
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*

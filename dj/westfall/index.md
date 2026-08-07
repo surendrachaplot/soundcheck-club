@@ -1,14 +1,15 @@
 # Westfall
 
-Westfall is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kilomètre25, Paris on Fri, 14 Aug 2026.
+Westfall is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kilomètre25, Paris on Fri, 14 Aug 2026.
 
-Westfall is a techno and trance artist based in France, tracked on soundcheck, with 15 sets logged across Berlin and Paris. Often billed alongside Bady (FR), E.T. and Yous. Next up: Kilomètre25, Paris on Fri 14 Aug.
+Westfall is a techno and trance artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Paris. Often billed alongside Bady (FR), E.T. and FØSS. Next up: Kilomètre25, Paris on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Kilomètre25 | Paris |
+| Fri, 2 Oct 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Westfall is a techno and trance artist based in France, tracked on soundcheck, w
 
 ## Shares bills with
 
-Bady (FR), E.T., Yous
+Bady (FR), E.T., FØSS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*

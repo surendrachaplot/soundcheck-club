@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "XTRUDE w/ AADJA, Markus Suckut, Sanna Mun & Chontane" on Fri, 7 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AADJA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AADJA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -16,11 +16,11 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 | Sat, 22 Aug 2026 | La Mala Noche | Ananda (BR), Bella Sarris, Berenice, Byron Yeates, Cari Lekebusch, D.Dan, DJ TOOL, Disk Cartel, Hyperaktivist, JASSS, Jen Cardini, Kikelomo, Meilgaarden, OMOLOKO, Rosati, S-candalo, THC, Yazzus, ābnamā |
 | Sun, 23 Aug 2026 | Jauchomatic - Open Air (since 1995) By The People For The People (Baergarten) | DJ Jauche |
 | Sun, 23 Aug 2026 | JAUCHOMATIC - Open Air - By the People for the People (since 1995) / Baergarten | DJ Jauche |
+| Fri, 28 Aug 2026 | TAPERED | Carla Schmitt, FJUSHA, Neoma, Yasmin Regisford |
 | Sat, 29 Aug 2026 | XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia | Akua, Alarico, Decka, Henning Baer, Kameliia, Laia, Nadia Struiwigh, ORBE, Olivia Mendez, Psyk, Roll Dann, Sandrien, Shadow Hrym (ES) |
-| Fri, 4 Sept 2026 | PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT |  |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

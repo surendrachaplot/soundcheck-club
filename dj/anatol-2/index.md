@@ -1,6 +1,6 @@
 # ANATOL (2)
 
-ANATOL (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Das Werk, Vienna on Fri, 7 Aug 2026.
+ANATOL (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Das Werk, Vienna on Fri, 7 Aug 2026.
 
 ANATOL (2) is a techno artist based in Austria, tracked on soundcheck, with 12 sets logged across Vienna. Often billed alongside Dj Wifi (3), BLUDHOUND and Farbod. Next up: Das Werk, Vienna on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ANATOL (2) is a techno artist based in Austria, tracked on soundcheck, with 12 s
 
 Dj Wifi (3), BLUDHOUND, Farbod
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anatol-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anatol-2/)*

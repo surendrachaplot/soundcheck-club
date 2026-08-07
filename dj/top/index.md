@@ -1,6 +1,6 @@
 # TOP
 
-TOP is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Copacabana, New York City on Sat, 8 Aug 2026.
+TOP is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Copacabana, New York City on Sat, 8 Aug 2026.
 
 TOP is a latin bass and reggaeton artist tracked on soundcheck, with 4 sets logged across Milan and Newyorkcity. Often billed alongside Gabriel LMRN, Sciorty and Soft Planet. Next up: Copacabana, Newyorkcity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ TOP is a latin bass and reggaeton artist tracked on soundcheck, with 4 sets logg
 
 Gabriel LMRN, Sciorty, Soft Planet
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/top/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/top/)*

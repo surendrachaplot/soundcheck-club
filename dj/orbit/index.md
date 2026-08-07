@@ -1,6 +1,6 @@
 # Orbit
 
-Orbit is a Pop and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+Orbit is a Pop and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
 
 Orbit is a pop and ambient artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Berlin, Brussels, Dublin and Hamburg and 1 more. Often billed alongside Parra for Cuva, &ME and 999999999. Next up: TBA, Brussels on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Orbit is a pop and ambient artist based in Ukraine, tracked on soundcheck, with 
 
 Parra for Cuva, &ME, 999999999
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orbit/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orbit/)*

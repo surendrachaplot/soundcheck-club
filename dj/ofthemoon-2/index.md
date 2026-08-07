@@ -1,6 +1,6 @@
 # Of The Moon (2)
 
-Of The Moon (2) is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 7 Aug 2026.
+Of The Moon (2) is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 Of The Moon (2) is a deep house and electronica artist based in Iran, tracked on soundcheck, with 8 sets logged across Ibiza, Losangeles and Mexicocity. Often billed alongside Cirque Noir, ARYA (US) and Amirali. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Of The Moon (2) is a deep house and electronica artist based in Iran, tracked on
 
 Cirque Noir, ARYA (US), Amirali
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthemoon-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthemoon-2/)*

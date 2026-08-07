@@ -1,6 +1,6 @@
 # Ancut
 
-Ancut is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 8 Aug 2026.
+Ancut is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 8 Aug 2026.
 
 Ancut is a techno and electro artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Matthias (1), So-Fi and Alex Picone. Next up: Platforma Wolff, Bucharest on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ancut is a techno and electro artist tracked on soundcheck, with 63 sets logged 
 
 Matthias (1), So-Fi, Alex Picone
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*

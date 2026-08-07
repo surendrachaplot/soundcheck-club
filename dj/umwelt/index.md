@@ -1,6 +1,6 @@
 # Umwelt
 
-Umwelt is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+Umwelt is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
 Umwelt is a techno and electro artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside DAX J, Chloe Lula (3) and Terence Fixmer. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Umwelt is a techno and electro artist based in France, tracked on soundcheck, wi
 
 DAX J, Chloe Lula (3), Terence Fixmer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*

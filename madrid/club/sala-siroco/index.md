@@ -1,8 +1,8 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Tropic Hustle: Alvaro Ramos + Laorden" on Fri, 7 Aug 2026.
+Sala Siroco is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Tropic Hustle: Alvaro Ramos + Laorden" on Fri, 7 Aug 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including alguien, Belkan, Conio and Djen and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including alguien, Belkan, Conio and Djen and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, 
 | Sun, 13 Sept 2026 | ABYSS Techno Club | G4G0 |
 | Sun, 11 Oct 2026 | GRLS - Sala Siroco, Madrid |  |
 | Thu, 15 Oct 2026 | DIEGALES - Sala Siroco |  |
+| Wed, 4 Nov 2026 | Belladonna SEED's | Leofix, Satori |
 
 ## Address
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

@@ -1,6 +1,6 @@
 # Facets
 
-Facets is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Danger Danger, New York City on Fri, 7 Aug 2026.
+Facets is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Danger Danger, New York City on Fri, 7 Aug 2026.
 
 Facets is an italo disco and house artist based in Serbia, tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 19 more. Often billed alongside Andi, Franz Scala and Berlin Bunny. Next up: Danger Danger, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Facets is an italo disco and house artist based in Serbia, tracked on soundcheck
 
 Andi, Franz Scala, Berlin Bunny
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*

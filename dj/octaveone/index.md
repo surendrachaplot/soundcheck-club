@@ -1,8 +1,8 @@
 # Octave One
 
-Octave One is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 28 Aug 2026.
+Octave One is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 28 Aug 2026.
 
-Octave One is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Carl Craig, Charlotte de Witte and Moodymann. Next up: Oxford Art Factory, Sydney on Fri 28 Aug.
+Octave One is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Carl Craig, Charlotte de Witte and Moodymann. Next up: Oxford Art Factory, Sydney on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Octave One is a techno and house artist tracked on soundcheck, with 91 sets logg
 | Fri, 28 Aug 2026 | Oxford Art Factory | Sydney |
 | Sat, 29 Aug 2026 | Melbourne Town Hall | Melbourne |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Sat, 12 Sept 2026 | Studio Club Malaga | Malaga |
 | Fri, 18 Sept 2026 | FOLD | London |
 | Fri, 9 Oct 2026 | Jaeger | Oslo |
 
@@ -29,4 +30,4 @@ Octave One is a techno and house artist tracked on soundcheck, with 91 sets logg
 
 Carl Craig, Charlotte de Witte, Moodymann
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

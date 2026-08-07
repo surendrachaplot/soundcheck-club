@@ -1,6 +1,6 @@
 # Vodka Wodka
 
-Vodka Wodka is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Up The Road X Vodka Wodka West" on Sat, 8 Aug 2026.
+Vodka Wodka is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Up The Road X Vodka Wodka West" on Sat, 8 Aug 2026.
 
 Vodka Wodka is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 31 Ashton Ln, Glasgow G12 8SJ.
 
@@ -14,4 +14,4 @@ Vodka Wodka is a music venue in Glasgow listed on soundcheck. 1 upcoming night. 
 
 31 Ashton Ln, Glasgow G12 8SJ, Glasgow
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vodka-wodka/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vodka-wodka/)*

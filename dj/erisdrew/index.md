@@ -1,6 +1,6 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 7 Aug 2026.
+Eris Drew is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 7 Aug 2026.
 
 Eris Drew is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: CLUB RAUM, Amsterdam on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 179 sets logg
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

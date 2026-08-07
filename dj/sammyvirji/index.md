@@ -1,6 +1,6 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+Sammy Virji is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
 Sammy Virji is a garage and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Finsbury Park, London on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Sammy Virji is a garage and house artist tracked on soundcheck, with 123 sets lo
 
 Oppidan, Interplanetary Criminal, salute
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*

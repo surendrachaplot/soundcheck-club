@@ -1,14 +1,15 @@
 # Sinan Varol
 
-Sinan Varol is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat, 8 Aug 2026.
+Sinan Varol is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat, 8 Aug 2026.
 
-Sinan Varol is a house and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside LG JASPER <3, DJ FUNKI TASTE and Baumeister (2). Next up: ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat 8 Aug.
+Sinan Varol is a house and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside LG JASPER <3, DJ FUNKI TASTE and Baumeister (2). Next up: ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | ZK/U (Zentrum für Kunst und Urbanistik) | Berlin |
+| Sat, 5 Sept 2026 | gART.n | Berlin |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Sinan Varol is a house and trance artist based in Germany, tracked on soundcheck
 
 LG JASPER <3, DJ FUNKI TASTE, Baumeister (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanvarol/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanvarol/)*

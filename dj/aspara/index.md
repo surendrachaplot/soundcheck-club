@@ -1,6 +1,6 @@
 # Aspara
 
-Aspara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club Daphnia, Osaka on Sat, 8 Aug 2026.
+Aspara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Daphnia, Osaka on Sat, 8 Aug 2026.
 
 Aspara is a techno and house artist tracked on soundcheck, with 36 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside imazutsubasa, Ryogo and E.O.U. Next up: Club Daphnia, Osaka on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aspara is a techno and house artist tracked on soundcheck, with 36 sets logged a
 
 imazutsubasa, Ryogo, E.O.U
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*

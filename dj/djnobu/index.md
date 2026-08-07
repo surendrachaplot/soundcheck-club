@@ -1,8 +1,8 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+DJ Nobu is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-DJ Nobu is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Gianpula Village, Malta on Wed 12 Aug.
+DJ Nobu is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 222 sets logged
 | Sat, 29 Aug 2026 | Phonox | London |
 | Sat, 5 Sept 2026 | Motel Campo | Geneva |
 | Sat, 19 Sept 2026 | The Lower Level | Boston |
+| Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
-| Sat, 17 Oct 2026 | fabric | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 222 sets logged
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

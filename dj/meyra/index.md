@@ -1,6 +1,6 @@
 # Meyra
 
-Meyra is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Left Bank, Tbilisi on Fri, 7 Aug 2026.
+Meyra is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Left Bank, Tbilisi on Fri, 7 Aug 2026.
 
 Meyra is an electronic artist based in Georgia, tracked on soundcheck, with 13 sets logged across Tbilisi. Often billed alongside Routes Not Roots, Sportsmanship and Giorgi Pipia. Next up: Left Bank, Tbilisi on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Meyra is an electronic artist based in Georgia, tracked on soundcheck, with 13 s
 
 Routes Not Roots, Sportsmanship, Giorgi Pipia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meyra/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meyra/)*

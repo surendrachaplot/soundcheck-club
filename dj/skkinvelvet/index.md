@@ -1,6 +1,6 @@
 # SKKIN VELVET
 
-SKKIN VELVET is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 8 Aug 2026.
+SKKIN VELVET is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 8 Aug 2026.
 
 SKKIN VELVET is a techno and trance artist based in Germany, tracked on soundcheck, with 72 sets logged across Berlin and Hamburg. Often billed alongside KENZ, MKHXR and Nina Hepburn. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SKKIN VELVET is a techno and trance artist based in Germany, tracked on soundche
 
 KENZ, MKHXR, Nina Hepburn
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skkinvelvet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skkinvelvet/)*

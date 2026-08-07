@@ -1,6 +1,6 @@
 # Mandrake
 
-Mandrake is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Onyx Room at House of Yes, New York City on Fri, 7 Aug 2026.
+Mandrake is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Onyx Room at House of Yes, New York City on Fri, 7 Aug 2026.
 
 Mandrake is a house and deep house artist tracked on soundcheck, with 40 sets logged across Berlin, Istanbul, London and Losangeles and 9 more. Often billed alongside Chris Schwarzwälder, Mira and Britta Arnold. Next up: The Onyx Room at House of Yes, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Mandrake is a house and deep house artist tracked on soundcheck, with 40 sets lo
 
 Chris Schwarzwälder, Mira, Britta Arnold
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mandrake/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mandrake/)*

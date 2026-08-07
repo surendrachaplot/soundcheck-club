@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Nu Zau & Lumieux & Guy From Downstairs - All Of Us x Out Of Work" on Sat, 8 Aug 2026.
+Forge is a music venue in Bucharest with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Nu Zau & Lumieux & Guy From Downstairs - All Of Us x Out Of Work" on Sat, 8 Aug 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming nights, with line-ups including Aiur, Dalek, Guy From Downstairs and Lobster (NL) and 2 more. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -17,4 +17,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming nights, wit
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

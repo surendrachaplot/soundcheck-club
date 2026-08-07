@@ -1,6 +1,6 @@
 # WONNSSS
 
-WONNSSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Xanadu, New York City on Sun, 16 Aug 2026.
+WONNSSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Xanadu, New York City on Sun, 16 Aug 2026.
 
 WONNSSS is a techno and trance artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Lilflower, ASTER (DJ) and Petal. Next up: Xanadu, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ WONNSSS is a techno and trance artist based in United States of America, tracked
 
 Lilflower, ASTER (DJ), Petal
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wonnsss/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wonnsss/)*

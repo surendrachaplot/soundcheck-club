@@ -1,6 +1,6 @@
 # Sara Delirio
 
-Sara Delirio is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Liquid Room Warehouse, Edinburgh on Fri, 7 Aug 2026.
+Sara Delirio is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Liquid Room Warehouse, Edinburgh on Fri, 7 Aug 2026.
 
 Sara Delirio is a techno and electro artist based in Colombia, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Buenosaires and Edinburgh and 2 more. Often billed alongside Arieshandmodel, Chalita Claudine and Dave Mech. Next up: The Liquid Room Warehouse, Edinburgh on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Sara Delirio is a techno and electro artist based in Colombia, tracked on soundc
 
 Arieshandmodel, Chalita Claudine, Dave Mech
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*

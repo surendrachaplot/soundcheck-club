@@ -1,6 +1,6 @@
 # EXCiT
 
-EXCiT is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gianca - Murazzi, Turin on Fri, 7 Aug 2026.
+EXCiT is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gianca - Murazzi, Turin on Fri, 7 Aug 2026.
 
 EXCiT is a tech house and house artist based in Italy, tracked on soundcheck, with 10 sets logged across Turin. Often billed alongside Nicola Gavino, YOUniverse and Riverside (IT). Next up: Gianca - Murazzi, Turin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ EXCiT is a tech house and house artist based in Italy, tracked on soundcheck, wi
 
 Nicola Gavino, YOUniverse, Riverside (IT)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excit/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excit/)*

@@ -1,6 +1,6 @@
 # RPR Soundsystem
 
-RPR Soundsystem is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+RPR Soundsystem is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 RPR Soundsystem is a minimal and house artist based in Romania, tracked on soundcheck, with 19 sets logged across Antwerp, Barcelona, Bucharest and Ibiza and 6 more. Often billed alongside Petre Inspirescu, Raresh and Rhadoo. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ RPR Soundsystem is a minimal and house artist based in Romania, tracked on sound
 
 Petre Inspirescu, Raresh, Rhadoo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rprsoundsystem/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rprsoundsystem/)*

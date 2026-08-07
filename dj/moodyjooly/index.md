@@ -1,6 +1,6 @@
 # moodyjooly
 
-moodyjooly is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cafeteria, Toronto on Sat, 8 Aug 2026.
+moodyjooly is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cafeteria, Toronto on Sat, 8 Aug 2026.
 
 moodyjooly is a club and house artist tracked on soundcheck, with 32 sets logged across Philadelphia and Toronto. Often billed alongside Coco de Mol, ENSIDER (2) and GUSSYEE. Next up: Cafeteria, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ moodyjooly is a club and house artist tracked on soundcheck, with 32 sets logged
 
 Coco de Mol, ENSIDER (2), GUSSYEE
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*

@@ -1,6 +1,6 @@
 # Sugar Barbie
 
-Sugar Barbie is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
+Sugar Barbie is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri, 7 Aug 2026.
 
 Sugar Barbie is a club and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Sydney. Often billed alongside Anthracene, Freestyler (2) and Global. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sugar Barbie is a club and electro artist based in Germany, tracked on soundchec
 
 Anthracene, Freestyler (2), Global
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarbarbie/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarbarbie/)*

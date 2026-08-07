@@ -1,6 +1,6 @@
 # Jack Costello
 
-Jack Costello is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at radial, London on Sat, 8 Aug 2026.
+Jack Costello is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at radial, London on Sat, 8 Aug 2026.
 
 Jack Costello is a house and techno artist based in Ireland, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Sean Nolan, Coinín Beag and DIEBYVEG. Next up: radial, London on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Jack Costello is a house and techno artist based in Ireland, tracked on soundche
 
 Sean Nolan, Coinín Beag, DIEBYVEG
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackcostello/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackcostello/)*

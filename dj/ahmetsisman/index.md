@@ -1,6 +1,6 @@
 # Ahmet Sisman
 
-Ahmet Sisman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
+Ahmet Sisman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
 
 Ahmet Sisman is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Basel, Berlin and Brussels and 8 more. Often billed alongside VNNN., Felix Fleer and .VRIL. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Ahmet Sisman is a techno and house artist based in Germany, tracked on soundchec
 
 VNNN., Felix Fleer, .VRIL
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahmetsisman/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahmetsisman/)*

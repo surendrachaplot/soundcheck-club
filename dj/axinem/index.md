@@ -1,13 +1,14 @@
 # Axine M
 
-Axine M is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nowadays, New York City on Thu, 17 Sept 2026.
+Axine M is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pageant, New York City on Wed, 12 Aug 2026.
 
-Axine M is an experimental and techno artist tracked on soundcheck, with 13 sets logged across Berlin, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Deflector, 96 Back and AM sin. Next up: Nowadays, Newyorkcity on Thu 17 Sept.
+Axine M is an experimental and techno artist tracked on soundcheck, with 14 sets logged across Berlin, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Deflector, 96 Back and AM sin. Next up: Pageant, Newyorkcity on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Pageant | New York City |
 | Thu, 17 Sept 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Axine M is an experimental and techno artist tracked on soundcheck, with 13 sets
 
 Deflector, 96 Back, AM sin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axinem/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axinem/)*

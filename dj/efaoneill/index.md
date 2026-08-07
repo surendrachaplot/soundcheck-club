@@ -1,6 +1,6 @@
 # Efa O'Neill
 
-Efa O'Neill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 8 Aug 2026.
+Efa O'Neill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 8 Aug 2026.
 
 Efa O'Neill is a house and techno artist tracked on soundcheck, with 36 sets logged across Belfast, Cork, Dublin and Galway and 1 more. Often billed alongside Barker, Neil Flynn and Sahana. Next up: Yamamori Tengu, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Efa O'Neill is a house and techno artist tracked on soundcheck, with 36 sets log
 
 Barker, Neil Flynn, Sahana
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efaoneill/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efaoneill/)*

@@ -1,14 +1,15 @@
 # Flo Real
 
-Flo Real is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZIK Zeit ist Knapp, Berlin on Sun, 9 Aug 2026.
+Flo Real is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ZIK Zeit ist Knapp, Berlin on Sun, 9 Aug 2026.
 
-Flo Real is a house and disco artist tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 7 more. Often billed alongside JP Bechamel, Moodymann and Rumi de Baires. Next up: ZIK Zeit ist Knapp, Berlin on Sun 9 Aug.
+Flo Real is a house and disco artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 7 more. Often billed alongside Moodymann, JP Bechamel and Rumi de Baires. Next up: ZIK Zeit ist Knapp, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | ZIK Zeit ist Knapp | Berlin |
+| Sat, 3 Oct 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Flo Real is a house and disco artist tracked on soundcheck, with 37 sets logged 
 
 ## Shares bills with
 
-JP Bechamel, Moodymann, Rumi de Baires
+Moodymann, JP Bechamel, Rumi de Baires
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*

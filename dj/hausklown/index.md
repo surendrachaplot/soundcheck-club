@@ -1,6 +1,6 @@
 # HausKlown
 
-HausKlown is a Tech House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Gut Level, Sheffield on Fri, 28 Aug 2026.
+HausKlown is a Tech House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gut Level, Sheffield on Fri, 28 Aug 2026.
 
 HausKlown is a tech house and acid artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Sheffield. Often billed alongside Paniolo, ik0nixx and Sportsdyke. Next up: Gut Level, Sheffield on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ HausKlown is a tech house and acid artist based in United Kingdom, tracked on so
 
 Paniolo, ik0nixx, Sportsdyke
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hausklown/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hausklown/)*

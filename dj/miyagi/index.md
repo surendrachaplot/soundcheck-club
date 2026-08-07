@@ -1,6 +1,6 @@
 # Miyagi
 
-Miyagi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
+Miyagi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
 
 Miyagi is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside MikAH, SUZé and Dirty Doering. Next up: Phoxxi Green Area, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Miyagi is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 MikAH, SUZé, Dirty Doering
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miyagi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miyagi/)*

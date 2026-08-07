@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+HALFPINT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
 HALFPINT is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Brighton, Dublin and Hamburg and 2 more. Often billed alongside Sossa, Seth Troxler and Jamback. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ HALFPINT is a house and techno artist tracked on soundcheck, with 42 sets logged
 
 Sossa, Seth Troxler, Jamback
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

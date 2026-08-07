@@ -1,6 +1,6 @@
 # Candy Jones
 
-Candy Jones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Paloma, Berlin on Fri, 7 Aug 2026.
+Candy Jones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Paloma, Berlin on Fri, 7 Aug 2026.
 
 Candy Jones is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Munich. Often billed alongside 11:68PM, Luca Mariaux and Saber (2). Next up: Paloma, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Candy Jones is a techno and house artist based in Germany, tracked on soundcheck
 
 11:68PM, Luca Mariaux, Saber (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candyjones/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candyjones/)*

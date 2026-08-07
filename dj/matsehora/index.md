@@ -1,6 +1,6 @@
 # Matsehora
 
-Matsehora is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
+Matsehora is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
 
 Matsehora is a house and electro artist based in Ukraine, tracked on soundcheck, with 9 sets logged across Montreal and Tbilisi. Often billed alongside Evita, Ada Dielman and Adam Solomon. Next up: StereoBar, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Matsehora is a house and electro artist based in Ukraine, tracked on soundcheck,
 
 Evita, Ada Dielman, Adam Solomon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matsehora/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matsehora/)*

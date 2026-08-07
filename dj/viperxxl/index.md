@@ -1,6 +1,6 @@
 # ViperXXL
 
-ViperXXL is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 15 Aug 2026.
+ViperXXL is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 15 Aug 2026.
 
 ViperXXL is a techno and acid artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 5 more. Often billed alongside Golpe, Ropemaker and Basstronauten. Next up: R25 Kulturschlachthof, Dusseldorf on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ViperXXL is a techno and acid artist based in Germany, tracked on soundcheck, wi
 
 Golpe, Ropemaker, Basstronauten
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*

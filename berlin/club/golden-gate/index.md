@@ -1,14 +1,13 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Klubnacht" on Thu, 6 Aug 2026.
+Golden Gate is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Nightshade Family" on Fri, 7 Aug 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Ana Karla, BelaBang, Bruno Otranto and Cindy G and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Ana Karla, BelaBang, Bruno Otranto and Cindy G and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Klubnacht | Marcela, Neco, Sudo (US) |
 | Fri, 7 Aug 2026 | Nightshade Family | Harry Axt, Nils Ohrmann |
 | Sat, 8 Aug 2026 | Santa Musica | Gianluca, KIRSCH, Luis Radio, Topper |
 | Thu, 13 Aug 2026 | Hidden Variables | Bruno Otranto, Elene, Enzo Muro |
@@ -18,9 +17,10 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 11 upcoming nights,
 | Fri, 21 Aug 2026 | Shaktu Night | Ana Karla, Madura, NAT(SK) |
 | Thu, 27 Aug 2026 | Sweetspot | Joe BRT, NTSC, Nils Twachtmann |
 | Fri, 28 Aug 2026 | Golden Times | Hagel, POSI FLO |
+| Sat, 29 Aug 2026 | Highly Addictive | BelaBang, Meggy, Samuel Fach, Slurm McKenzie |
 
 ## Address
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

@@ -1,6 +1,6 @@
 # Et Al (1)
 
-Et Al (1) is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 4 Sept 2026.
+Et Al (1) is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 4 Sept 2026.
 
 Et Al (1) is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Aberdeen, Edinburgh, Glasgow and Munich. Often billed alongside Josh Buchanan, REYKA and J Wax. Next up: La Cheetah Club, Glasgow on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Et Al (1) is a techno and garage artist based in United Kingdom, tracked on soun
 
 Josh Buchanan, REYKA, J Wax
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*

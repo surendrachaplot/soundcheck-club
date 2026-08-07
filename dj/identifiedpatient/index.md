@@ -1,6 +1,6 @@
 # Identified Patient
 
-Identified Patient is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bassiani, Tbilisi on Fri, 7 Aug 2026.
+Identified Patient is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bassiani, Tbilisi on Fri, 7 Aug 2026.
 
 Identified Patient is a techno and electro artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Patient (MT), mad miran and DjRUM. Next up: Bassiani, Tbilisi on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Identified Patient is a techno and electro artist tracked on soundcheck, with 15
 
 Patient (MT), mad miran, DjRUM
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*

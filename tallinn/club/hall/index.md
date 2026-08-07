@@ -1,8 +1,8 @@
 # Hall
 
-Hall is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Beats From The Vault" on Sat, 8 Aug 2026.
+Hall is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Beats From The Vault" on Sat, 8 Aug 2026.
 
-Hall is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with line-ups including animaTek (2), Arto, Artur Lääts and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
+Hall is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with line-ups including animaTek (2), ANNDRA, Arto and Artur Lääts and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
 ## What's on
 
@@ -12,10 +12,10 @@ Hall is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with l
 | Fri, 14 Aug 2026 | Dark Side of the Moon 2026 | Arto, Artur Lääts, Blasha & Allatt, Brett Rästas, Charch, Denzel, FAKIGN, Hicham (FR), Jeku, Joni DJ, Katja Adrikova, Laurine, Micaela Saraceno, Nikolajev, Ojelma, Pavliuk, Steffi, Tanel Mütt, Unai Trotti |
 | Fri, 4 Sept 2026 | KONTRAST with Mija - Hall x SVE x culture unseen | Mija, QSLAP, Unknown Horizon |
 | Sat, 5 Sept 2026 | Scorched Earth: Skee Mask | Skee Mask, Tanel Mütt, animaTek (2), no-a |
-| Fri, 11 Sept 2026 | HELLINN - CROSS BORDER EDITION | In Furcht, MEDINA, QSLAP |
+| Fri, 11 Sept 2026 | HELLINN - CROSS BORDER EDITION | ANNDRA, Discolisko, In Furcht, Jori Samarin, Lee Wander, MEDINA, NØSARA, QSLAP, RSKS, Sensory Deprivation, Techno Hate Project |
 
 ## Address
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

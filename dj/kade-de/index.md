@@ -1,6 +1,6 @@
 # Ká (DE)
 
-Ká (DE) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 15 Aug 2026.
+Ká (DE) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 15 Aug 2026.
 
 Ká (DE) is a bass and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Hamburg and Prague and 3 more. Often billed alongside INVERNO, Triqi and hripsime. Next up: Acud Macht NEU, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Ká (DE) is a bass and techno artist tracked on soundcheck, with 32 sets logged 
 
 INVERNO, Triqi, hripsime
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kade-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kade-de/)*

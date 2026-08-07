@@ -1,6 +1,6 @@
 # Lucy B
 
-Lucy B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+Lucy B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
 Lucy B is a house and disco artist based in Australia, tracked on soundcheck, with 33 sets logged across London, Melbourne and Sydney. Often billed alongside Jack Love, ADMNTi and B.Love. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lucy B is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 Jack Love, ADMNTi, B.Love
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyb/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyb/)*

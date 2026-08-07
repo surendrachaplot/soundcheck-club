@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "MAKE SOME WAVES — Summer Intensive Edition 2" on Mon, 10 Aug 2026.
+Acud Macht NEU is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "MAKE SOME WAVES — Summer Intensive Edition 2" on Mon, 10 Aug 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including alizé.e, Aysun, DJ B2B and DJ Kündigung and 2 more. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

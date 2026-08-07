@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 25 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Jesús Riaño b2b Unkle Fon at ANFANG" on Thu, 6 Aug 2026.
+Cadavra is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "CDVR invites VALENCIA" on Fri, 7 Aug 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming nights, with line-ups including Alienata, Alvaro Cabana, Amaliah and ARTIIC and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, with line-ups including Alienata, Alvaro Cabana, Amaliah and ARTIIC and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Jesús Riaño b2b Unkle Fon at ANFANG | Jesus Riaño, Unkle Fon |
 | Fri, 7 Aug 2026 | CDVR invites VALENCIA | Ces-Q, Garai, Nurias, Pizzicatto, Varis |
 | Sat, 8 Aug 2026 | CDVR x Mad_WAX strictly vinyl | Eder Croket, Ninalash!, Simon Garcia |
 | Fri, 21 Aug 2026 | CDVR pres. Senda Festival | Certain People, Emi Koto, Joseph Platz, Luska |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming nights, wit
 | Sat, 29 Aug 2026 | CDVR invites Blotter Hall | Alvaro Cabana, Javi Redondo |
 | Thu, 3 Sept 2026 | Samuel Kerridge at ANFANG | Irazu, Samuel Kerridge |
 | Fri, 4 Sept 2026 | La Movida Radioactiva with Franzizca | EMIR-B, Franzizca. |
+| Sat, 5 Sept 2026 | SUBWAX with Baldo & Ethel | Baldo, Ethel, Margott |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

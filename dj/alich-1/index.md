@@ -1,6 +1,6 @@
 # Alich (1)
 
-Alich (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Marseille on Fri, 7 Aug 2026.
+Alich (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Marseille on Fri, 7 Aug 2026.
 
 Alich (1) is a house and tech house artist based in Morocco, tracked on soundcheck, with 12 sets logged across Marseille and Paris. Often billed alongside Amine S, Domi (FR) and E.LINA. Next up: TBA, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Alich (1) is a house and tech house artist based in Morocco, tracked on soundche
 
 Amine S, Domi (FR), E.LINA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alich-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alich-1/)*

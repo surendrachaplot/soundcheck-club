@@ -1,6 +1,6 @@
 # 3DDY
 
-3DDY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at FLUCC, Vienna on Sat, 8 Aug 2026.
+3DDY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at FLUCC, Vienna on Sat, 8 Aug 2026.
 
 3DDY is a techno and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Belgrade, Newyorkcity and Vienna. Often billed alongside HETEM, AJ Christou and Adnoir. Next up: FLUCC, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@
 
 HETEM, AJ Christou, Adnoir
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3ddy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3ddy/)*

@@ -1,6 +1,6 @@
 # S3BA
 
-S3BA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Om Being, London on Fri, 28 Aug 2026.
+S3BA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Om Being, London on Fri, 28 Aug 2026.
 
 S3BA is a techno and acid artist tracked on soundcheck, with 27 sets logged across Copenhagen, Istanbul and London. Often billed alongside Anahita Shamsaei, Gloria Rose and Saroor. Next up: Om Being, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ S3BA is a techno and acid artist tracked on soundcheck, with 27 sets logged acro
 
 Anahita Shamsaei, Gloria Rose, Saroor
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ba/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ba/)*

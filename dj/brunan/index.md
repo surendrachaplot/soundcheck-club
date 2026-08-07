@@ -1,6 +1,6 @@
 # Bruna N.
 
-Bruna N. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
+Bruna N. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
 Bruna N. is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Daisy Weweh, Anton Jonathan and Jean Mauj. Next up: AMT, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bruna N. is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Daisy Weweh, Anton Jonathan, Jean Mauj
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*

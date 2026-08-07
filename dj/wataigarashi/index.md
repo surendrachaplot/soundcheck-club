@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Wata Igarashi is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Wata Igarashi is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -16,7 +16,8 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets 
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
-| Thu, 15 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Thu, 8 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
@@ -35,4 +36,4 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets 
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

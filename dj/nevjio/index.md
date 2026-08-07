@@ -1,6 +1,6 @@
 # Nev Jio
 
-Nev Jio is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 29 Aug 2026.
+Nev Jio is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 29 Aug 2026.
 
 Nev Jio is a house and bass artist based in Ireland, tracked on soundcheck, with 35 sets logged across Cork, Dublin, Lisbon and London and 2 more. Often billed alongside EMA (1), Lesko and Mercorn. Next up: Yamamori Tengu, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Nev Jio is a house and bass artist based in Ireland, tracked on soundcheck, with
 
 EMA (1), Lesko, Mercorn
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevjio/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevjio/)*

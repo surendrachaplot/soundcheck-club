@@ -1,6 +1,6 @@
 # anymati
 
-anymati is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
+anymati is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
 
 anymati is a guaracha and techno artist tracked on soundcheck, with 36 sets logged across Warsaw. Often billed alongside czuly, monia.mp3 and dj neurospicy. Next up: K-Bar Powiśle, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ anymati is a guaracha and techno artist tracked on soundcheck, with 36 sets logg
 
 czuly, monia.mp3, dj neurospicy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*

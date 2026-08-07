@@ -1,6 +1,6 @@
 # Synoxis
 
-Synoxis is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+Synoxis is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 Synoxis is a drum & bass and bass artist tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside 1991, Ampe and Asian Sal. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Synoxis is a drum & bass and bass artist tracked on soundcheck, with 16 sets log
 
 1991, Ampe, Asian Sal
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*

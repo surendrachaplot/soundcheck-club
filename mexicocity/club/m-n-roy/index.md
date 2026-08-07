@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "TANSEN & FRIENDS: TANSEN + NAGIB & JACKSON" on Fri, 7 Aug 2026.
+M.N.Roy is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "TANSEN & FRIENDS: TANSEN + NAGIB & JACKSON" on Fri, 7 Aug 2026.
 
 M.N.Roy is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Baby Mango, Colossio, Irena Stanisic and Mejia and 2 more. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -21,4 +21,4 @@ M.N.Roy is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, 
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

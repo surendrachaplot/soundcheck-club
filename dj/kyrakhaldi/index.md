@@ -1,8 +1,8 @@
 # Kyra Khaldi
 
-Kyra Khaldi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BRET, Amsterdam on Fri, 14 Aug 2026.
+Kyra Khaldi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BRET, Amsterdam on Fri, 14 Aug 2026.
 
-Kyra Khaldi is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: BRET, Amsterdam on Fri 14 Aug.
+Kyra Khaldi is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: BRET, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kyra Khaldi is a house and techno artist tracked on soundcheck, with 133 sets lo
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Fri, 28 Aug 2026 | Radio Radio | Amsterdam |
+| Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kyra Khaldi is a house and techno artist tracked on soundcheck, with 133 sets lo
 
 Moody Mehran, Benny Rodrigues, Boris Coelman
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*

@@ -1,6 +1,6 @@
 # Oliver Dollar
 
-Oliver Dollar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Fri, 14 Aug 2026.
+Oliver Dollar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Green Room NYC, New York City on Fri, 14 Aug 2026.
 
 Oliver Dollar is a house and tech house artist tracked on soundcheck, with 45 sets logged across Bali, Berlin, Boston and Brisbane and 12 more. Often billed alongside Nils Ohrmann, Boogs and Eastside Jon. Next up: Green Room NYC, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Oliver Dollar is a house and tech house artist tracked on soundcheck, with 45 se
 
 Nils Ohrmann, Boogs, Eastside Jon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverdollar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverdollar/)*

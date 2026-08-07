@@ -1,6 +1,6 @@
 # Kat Bendis
 
-Kat Bendis is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Notting Hill Arts Club, London on Sat, 8 Aug 2026.
+Kat Bendis is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Notting Hill Arts Club, London on Sat, 8 Aug 2026.
 
 Kat Bendis is an electronica and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside DAMPY, Steve Brown and ADMNTi. Next up: Notting Hill Arts Club, London on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Kat Bendis is an electronica and tech house artist based in United Kingdom, trac
 
 DAMPY, Steve Brown, ADMNTi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katbendis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katbendis/)*

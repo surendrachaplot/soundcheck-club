@@ -1,8 +1,8 @@
 # Priku
 
-Priku is a Minimal and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Priku is a Minimal and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
-Priku is a minimal and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Supermarket, Zurich on Fri 7 Aug.
+Priku is a minimal and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Supermarket, Zurich on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Priku is a minimal and house artist tracked on soundcheck, with 168 sets logged 
 | Sun, 23 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Rhythm | Toronto |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Priku is a minimal and house artist tracked on soundcheck, with 168 sets logged 
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

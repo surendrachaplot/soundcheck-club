@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - // HALLE622, Zurich on Sat, 8 Aug 2026.
+Adrian Mills is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - // HALLE622, Zurich on Sat, 8 Aug 2026.
 
 Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: TBA - // HALLE622, Zurich on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets 
 
 Cloudy, KUKO, Serafina
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

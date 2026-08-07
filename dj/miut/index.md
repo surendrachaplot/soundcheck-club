@@ -1,6 +1,6 @@
 # Miut
 
-Miut is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sala Siroco, Madrid on Sat, 8 Aug 2026.
+Miut is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sala Siroco, Madrid on Sat, 8 Aug 2026.
 
 Miut is an electronica and trance artist tracked on soundcheck, with 15 sets logged across Barcelona and Madrid. Often billed alongside CUTE AGRESSION, DJ Final Boss and LA INDIA. Next up: Sala Siroco, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Miut is an electronica and trance artist tracked on soundcheck, with 15 sets log
 
 CUTE AGRESSION, DJ Final Boss, LA INDIA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miut/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miut/)*

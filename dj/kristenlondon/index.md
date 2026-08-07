@@ -1,6 +1,6 @@
 # Kristen London
 
-Kristen London is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+Kristen London is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 Kristen London is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside Szobi, DJ girlcrush and Ah Dek. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Kristen London is a house and techno artist based in United States of America, t
 
 Szobi, DJ girlcrush, Ah Dek
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristenlondon/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristenlondon/)*

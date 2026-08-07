@@ -1,6 +1,6 @@
 # Chance Sands
 
-Chance Sands is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at On The Hiyu, Seattle on Fri, 7 Aug 2026.
+Chance Sands is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at On The Hiyu, Seattle on Fri, 7 Aug 2026.
 
 Chance Sands is a deep house and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Seattle. Often billed alongside Interwave Surfer, Jacki Why and Jono (2). Next up: On The Hiyu, Seattle on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Chance Sands is a deep house and house artist based in United States of America,
 
 Interwave Surfer, Jacki Why, Jono (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chancesands/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chancesands/)*

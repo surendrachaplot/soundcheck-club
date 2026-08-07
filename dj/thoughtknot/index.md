@@ -1,13 +1,14 @@
 # ThoughtKnot
 
-ThoughtKnot is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Good Room, New York City on Sun, 6 Sept 2026.
+ThoughtKnot is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at H0L0, New York City on Fri, 28 Aug 2026.
 
-ThoughtKnot is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Athens and Newyorkcity. Often billed alongside James Axon, beewack and ALEXIS DE LA ROSA. Next up: Good Room, Newyorkcity on Sun 6 Sept.
+ThoughtKnot is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Athens and Newyorkcity. Often billed alongside James Axon, beewack and ALEXIS DE LA ROSA. Next up: H0L0, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | H0L0 | New York City |
 | Sun, 6 Sept 2026 | Good Room | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ ThoughtKnot is a house and techno artist based in United Kingdom, tracked on sou
 
 James Axon, beewack, ALEXIS DE LA ROSA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoughtknot/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoughtknot/)*

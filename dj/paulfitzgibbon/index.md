@@ -1,6 +1,6 @@
 # Paul Fitzgibbon
 
-Paul Fitzgibbon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
+Paul Fitzgibbon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pawn Shop, Dublin on Fri, 7 Aug 2026.
 
 Paul Fitzgibbon is a techno and house artist based in Ireland, tracked on soundcheck, with 10 sets logged across Dublin and London. Often billed alongside BLILI, DREIAN and Famos Jr. Next up: Pawn Shop, Dublin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Paul Fitzgibbon is a techno and house artist based in Ireland, tracked on soundc
 
 BLILI, DREIAN, Famos Jr
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulfitzgibbon/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulfitzgibbon/)*

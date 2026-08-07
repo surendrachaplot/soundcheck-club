@@ -1,6 +1,6 @@
 # Judas Du
 
-Judas Du is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
+Judas Du is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
 
 Judas Du is a house and electro artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Manchester. Often billed alongside The Taxidermist, Chafik Bali and Chafik. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Judas Du is a house and electro artist based in United Kingdom, tracked on sound
 
 The Taxidermist, Chafik Bali, Chafik
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judasdu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judasdu/)*

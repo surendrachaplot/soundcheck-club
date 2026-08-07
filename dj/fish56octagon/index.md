@@ -1,6 +1,6 @@
 # Fish56Octagon
 
-Fish56Octagon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Index, Dublin on Fri, 7 Aug 2026.
+Fish56Octagon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Index, Dublin on Fri, 7 Aug 2026.
 
 Fish56Octagon is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 24 more. Often billed alongside Ben Hemsley, 4am Kru and Ghoulish. Next up: Index, Dublin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Fish56Octagon is a house and techno artist tracked on soundcheck, with 57 sets l
 
 Ben Hemsley, 4am Kru, Ghoulish
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*

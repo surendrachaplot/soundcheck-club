@@ -1,6 +1,6 @@
 # Antdot
 
-Antdot is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BCM, Mallorca on Sat, 8 Aug 2026.
+Antdot is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BCM, Mallorca on Sat, 8 Aug 2026.
 
 Antdot is a house and afro house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Buenosaires, Ibiza and Lisbon and 18 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: BCM, Mallorca on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Antdot is a house and afro house artist tracked on soundcheck, with 56 sets logg
 
 Maz (BR), Argy, Artbat
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

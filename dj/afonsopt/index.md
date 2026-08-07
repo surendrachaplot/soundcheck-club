@@ -1,6 +1,6 @@
 # Afonso (PT)
 
-Afonso (PT) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Quinta do Joinal, Lisbon on Sat, 8 Aug 2026.
+Afonso (PT) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Quinta do Joinal, Lisbon on Sat, 8 Aug 2026.
 
 Afonso (PT) is a house and club artist based in Portugal, tracked on soundcheck, with 22 sets logged across Lisbon and Stockholm. Often billed alongside Joaquim Quadros, Bernardo Vaz and Thiago Guiselini. Next up: Quinta do Joinal, Lisbon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Afonso (PT) is a house and club artist based in Portugal, tracked on soundcheck,
 
 Joaquim Quadros, Bernardo Vaz, Thiago Guiselini
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopt/)*

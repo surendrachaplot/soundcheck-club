@@ -1,13 +1,14 @@
 # Samogulov
 
-Samogulov is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
+Samogulov is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Twist Bar, Prague on Fri, 7 Aug 2026.
 
-Samogulov is a techno and minimal artist tracked on soundcheck, with 48 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Shjva, Plastik (1) and Puha. Next up: Jasna 1, Warsaw on Sat 29 Aug.
+Samogulov is a techno and minimal artist tracked on soundcheck, with 49 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Shjva, Plastik (1) and Puha. Next up: Twist Bar, Prague on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Twist Bar | Prague |
 | Sat, 29 Aug 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Samogulov is a techno and minimal artist tracked on soundcheck, with 48 sets log
 
 Shjva, Plastik (1), Puha
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samogulov/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samogulov/)*

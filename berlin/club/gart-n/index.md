@@ -1,6 +1,6 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Out of Office: Open Air" on Sat, 8 Aug 2026.
+gART.n is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Out of Office: Open Air" on Sat, 8 Aug 2026.
 
 gART.n is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 7heads, Ada, AGILY and Alexia (2) and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
@@ -16,11 +16,11 @@ gART.n is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with
 | Sun, 23 Aug 2026 | Sonntags by Lotte Ahoi | C.love, Lotte Ahoi, Luis Rosenberg, Neobeo |
 | Sat, 29 Aug 2026 | Kotori Open Air | AGILY, Hemi, Sam Shure |
 | Sun, 30 Aug 2026 | OewerSause im gART.n | Martha van Straaten, Saraabb |
-| Sat, 5 Sept 2026 | AROMA |  |
+| Sat, 5 Sept 2026 | AROMA | LG JASPER <3, Sinan Varol, carrà |
 | Sun, 6 Sept 2026 | Sonntags by Caleesi & Kreis | Ada, Caleesi, Gina Sabatini, Sarah Kreis |
 
 ## Address
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

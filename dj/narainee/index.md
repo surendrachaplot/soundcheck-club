@@ -1,6 +1,6 @@
 # Narainee
 
-Narainee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pact, Sydney on Fri, 7 Aug 2026.
+Narainee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pact, Sydney on Fri, 7 Aug 2026.
 
 Narainee is a techno and trance artist based in Australia, tracked on soundcheck, with 14 sets logged across Sydney. Often billed alongside Andy Garvey, DELIRIOUS and Kasper Marott. Next up: Pact, Sydney on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Narainee is a techno and trance artist based in Australia, tracked on soundcheck
 
 Andy Garvey, DELIRIOUS, Kasper Marott
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narainee/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narainee/)*

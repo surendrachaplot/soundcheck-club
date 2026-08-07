@@ -1,13 +1,14 @@
 # GOME
 
-GOME is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cova Santa, Ibiza on Sun, 6 Sept 2026.
+GOME is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 8 Aug 2026.
 
-GOME is a house and disco artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: Cova Santa, Ibiza on Sun 6 Sept.
+GOME is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: Golden Pudel Club, Hamburg on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sun, 6 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 
@@ -26,4 +27,4 @@ GOME is a house and disco artist tracked on soundcheck, with 83 sets logged acro
 
 LOVEFOXY, Cinthie, Jean Mauj
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*

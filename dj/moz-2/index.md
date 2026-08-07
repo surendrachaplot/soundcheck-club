@@ -1,6 +1,6 @@
 # mOZ (2)
 
-mOZ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 7 Aug 2026.
+mOZ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 7 Aug 2026.
 
 mOZ (2) is a techno and house artist tracked on soundcheck, with 72 sets logged across Melbourne, Riga and Tokyo. Often billed alongside Herren Ivo, East Cho and Bogdan Taran. Next up: River Ship Vecrīga, Riga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ mOZ (2) is a techno and house artist tracked on soundcheck, with 72 sets logged 
 
 Herren Ivo, East Cho, Bogdan Taran
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moz-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moz-2/)*

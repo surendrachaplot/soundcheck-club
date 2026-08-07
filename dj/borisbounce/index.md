@@ -1,6 +1,6 @@
 # BORIS BOUNCE
 
-BORIS BOUNCE is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
+BORIS BOUNCE is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
 
 BORIS BOUNCE is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Acid Rebels, Bodi and Colin Benders. Next up: Kabelfabriek, Thehague on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ BORIS BOUNCE is a techno and progressive house artist based in Netherlands, trac
 
 Acid Rebels, Bodi, Colin Benders
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbounce/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbounce/)*

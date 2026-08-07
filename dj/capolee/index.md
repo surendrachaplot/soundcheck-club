@@ -1,14 +1,15 @@
 # Capo Lee
 
-Capo Lee is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Capo Lee is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Capo Lee is a garage and bass artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 21 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Capo Lee is a garage and bass artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 21 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 19 Sept 2026 | Colour Factory | London |
 | Sat, 31 Oct 2026 | The Clock Factory | Bristol |
 
 ## Recently played
@@ -26,4 +27,4 @@ Capo Lee is a garage and bass artist tracked on soundcheck, with 91 sets logged 
 
 Bakey, Izco, bullet tooth
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

@@ -1,6 +1,6 @@
 # AAMIROO
 
-AAMIROO is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at DV, Berlin on Fri, 7 Aug 2026.
+AAMIROO is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at DV, Berlin on Fri, 7 Aug 2026.
 
 AAMIROO is a house and trance artist based in Iran, tracked on soundcheck, with 22 sets logged across Berlin, Cologne and London. Often billed alongside Aalia Iraki, Bloomfield and Cassens. Next up: DV, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ AAMIROO is a house and trance artist based in Iran, tracked on soundcheck, with 
 
 Aalia Iraki, Bloomfield, Cassens
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aamiroo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aamiroo/)*

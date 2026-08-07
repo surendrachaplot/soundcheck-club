@@ -1,6 +1,6 @@
 # Ovrtic
 
-Ovrtic is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Jago, London on Sun, 9 Aug 2026.
+Ovrtic is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Jago, London on Sun, 9 Aug 2026.
 
 Ovrtic is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Mo Dardouk, Missy T and Belmar (UK). Next up: The Jago, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Ovrtic is a garage and uk funky artist based in United Kingdom, tracked on sound
 
 Mo Dardouk, Missy T, Belmar (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*

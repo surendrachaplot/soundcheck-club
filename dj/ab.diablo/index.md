@@ -1,6 +1,6 @@
 # Ab.Diablo
 
-Ab.Diablo is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
+Ab.Diablo is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ormside Projects, London on Sat, 8 Aug 2026.
 
 Ab.Diablo is a club and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside VIRI$$, WAAW and Mahnoor. Next up: Ormside Projects, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ab.Diablo is a club and house artist based in United Kingdom, tracked on soundch
 
 VIRI$$, WAAW, Mahnoor
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ab.diablo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ab.diablo/)*

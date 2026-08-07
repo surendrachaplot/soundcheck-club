@@ -1,6 +1,6 @@
 # SaintMark
 
-SaintMark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Flash, Washington DC on Sat, 22 Aug 2026.
+SaintMark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Flash, Washington DC on Sat, 22 Aug 2026.
 
 SaintMark is a house and techno artist tracked on soundcheck, with 29 sets logged across Newyorkcity and Washingtondc. Often billed alongside KayLaSoul, SPCL.K and Sneakers in the Dryer. Next up: Flash, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ SaintMark is a house and techno artist tracked on soundcheck, with 29 sets logge
 
 KayLaSoul, SPCL.K, Sneakers in the Dryer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintmark/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintmark/)*

@@ -1,6 +1,6 @@
 # Aero (1)
 
-Aero (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
+Aero (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
 
 Aero (1) is a techno and house artist tracked on soundcheck, with 47 sets logged across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside MEJMI, Offtrack and TAUREAN (2). Next up: The Glove That Fits, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Aero (1) is a techno and house artist tracked on soundcheck, with 47 sets logged
 
 MEJMI, Offtrack, TAUREAN (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*

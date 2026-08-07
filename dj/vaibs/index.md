@@ -1,6 +1,6 @@
 # VAIBS
 
-VAIBS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 15 Aug 2026.
+VAIBS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 15 Aug 2026.
 
 VAIBS is a techno and house artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Kualalumpur and Seoul and 1 more. Often billed alongside DEZ (SG), sho&tell and Kevin Sy. Next up: Pisco Bar, Kualalumpur on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ VAIBS is a techno and house artist tracked on soundcheck, with 91 sets logged ac
 
 DEZ (SG), sho&tell, Kevin Sy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*

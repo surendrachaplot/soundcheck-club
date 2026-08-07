@@ -1,6 +1,6 @@
 # Scott W.
 
-Scott W. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Vancouver on Sat, 15 Aug 2026.
+Scott W. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Vancouver on Sat, 15 Aug 2026.
 
 Scott W. is a techno and house artist based in Canada, tracked on soundcheck, with 21 sets logged across Osaka, Portland, Tokyo and Toronto and 1 more. Often billed alongside Dane, KAITO. and DJ D.Dee. Next up: TBA, Vancouver on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Scott W. is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 Dane, KAITO., DJ D.Dee
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottw./)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottw./)*

@@ -1,6 +1,6 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
+MCMLXXXV is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
 
 MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: La Station - Gare des Mines, Paris on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, w
 
 CEM, Dj Saliva, JASSS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*

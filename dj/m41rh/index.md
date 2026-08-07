@@ -1,6 +1,6 @@
 # M41RH
 
-M41RH is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
+M41RH is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
 
 M41RH is a techno and breakbeat artist tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside Ridgie, Dcascallana and LTO.. Next up: Praterbrücke, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ M41RH is a techno and breakbeat artist tracked on soundcheck, with 17 sets logge
 
 Ridgie, Dcascallana, LTO.
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m41rh/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m41rh/)*

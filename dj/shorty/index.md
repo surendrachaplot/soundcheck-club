@@ -1,6 +1,6 @@
 # Shorty
 
-Shorty is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at M-BIA, Berlin on Fri, 11 Sept 2026.
+Shorty is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at M-BIA, Berlin on Fri, 11 Sept 2026.
 
 Shorty is a techno and trance artist based in Romania, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, London and Munich. Often billed alongside Bisk, Duppy and Tombish. Next up: M-BIA, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Shorty is a techno and trance artist based in Romania, tracked on soundcheck, wi
 
 Bisk, Duppy, Tombish
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shorty/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shorty/)*

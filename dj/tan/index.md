@@ -1,13 +1,14 @@
 # Tañ
 
-Tañ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Tañ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
 
-Tañ is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 12 more. Often billed alongside Bakey, Dr Dubplate and Mall Grab. Next up: The Cause, London on Sat 12 Sept.
+Tañ is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 12 more. Often billed alongside Bakey, Dr Dubplate and Mall Grab. Next up: komunal, Birmingham on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | komunal | Birmingham |
 | Sat, 12 Sept 2026 | The Cause | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tañ is a techno and house artist tracked on soundcheck, with 56 sets logged acr
 
 Bakey, Dr Dubplate, Mall Grab
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tan/)*

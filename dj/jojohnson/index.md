@@ -1,6 +1,6 @@
 # Jo Johnson
 
-Jo Johnson is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Alhambar, Geneva on Fri, 28 Aug 2026.
+Jo Johnson is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Alhambar, Geneva on Fri, 28 Aug 2026.
 
 Jo Johnson is an ambient and experimental artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Detroit and Dublin and 8 more. Often billed alongside Erika, Bryan Kasenic and Mike Servito. Next up: Alhambar, Geneva on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Jo Johnson is an ambient and experimental artist tracked on soundcheck, with 23 
 
 Erika, Bryan Kasenic, Mike Servito
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojohnson/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojohnson/)*

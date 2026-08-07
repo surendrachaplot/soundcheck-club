@@ -1,6 +1,6 @@
 # Jorge Guasch
 
-Jorge Guasch is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 30 Aug 2026.
+Jorge Guasch is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
 Jorge Guasch is a house and afro house artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Vanuza Casimiro, Lupe Republic and Raphael Miranda (2). Next up: Almar Beach Club, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jorge Guasch is a house and afro house artist based in Spain, tracked on soundch
 
 Vanuza Casimiro, Lupe Republic, Raphael Miranda (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeguasch/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeguasch/)*

@@ -1,6 +1,6 @@
 # Jolly Mare
 
-Jolly Mare is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at PAC Padiglione D'arte Contemporanea, Milan on Sun, 13 Sept 2026.
+Jolly Mare is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at PAC Padiglione D'arte Contemporanea, Milan on Sun, 13 Sept 2026.
 
 Jolly Mare is a disco and house artist based in Italy, tracked on soundcheck, with 9 sets logged across Milan, Rome and Turin. Often billed alongside Tamati, Ansonica and Daniele Baldelli. Next up: PAC Padiglione D'arte Contemporanea, Milan on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Jolly Mare is a disco and house artist based in Italy, tracked on soundcheck, wi
 
 Tamati, Ansonica, Daniele Baldelli
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jollymare/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jollymare/)*

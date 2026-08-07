@@ -1,6 +1,6 @@
 # Hello Darling - Manchester Pride Special at The Deaf Institute
 
-Hello Darling - Manchester Pride Special at The Deaf Institute on Sun 30 Aug, Manchester. 4 acts on the bill: DJ Scissher, Kim Lana, Lenny Ye$ and Treble Gemini. House. Preview the line-up and save it on soundcheck.
+Hello Darling - Manchester Pride Special at The Deaf Institute on Sun 30 Aug, Manchester. 5 acts on the bill: DJ Klitbait, DJ Scissher, Kim Lana and Lenny Ye$ and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Hello Darling - Manchester Pride Special at The Deaf Institute on Sun 30 Aug, Ma
 
 ## Line-up
 
+- DJ Klitbait
 - DJ Scissher
 - Kim Lana
 - Lenny Ye$

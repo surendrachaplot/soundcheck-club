@@ -1,6 +1,6 @@
 # Sloppy
 
-Sloppy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blue Room, Montreal on Fri, 7 Aug 2026.
+Sloppy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blue Room, Montreal on Fri, 7 Aug 2026.
 
 Sloppy is a techno and house artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside Miette, Alien D and Breakcheck. Next up: Blue Room, Montreal on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Sloppy is a techno and house artist based in Canada, tracked on soundcheck, with
 
 Miette, Alien D, Breakcheck
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sloppy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sloppy/)*

@@ -1,6 +1,6 @@
 # Eva Myra May
 
-Eva Myra May is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
+Eva Myra May is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Airliner, Los Angeles on Fri, 7 Aug 2026.
 
 Eva Myra May is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles and Sandiego. Often billed alongside Pretty Gay Friendly, coldsweat and gloworm. Next up: The Airliner, Losangeles on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Eva Myra May is a house and techno artist based in United States of America, tra
 
 Pretty Gay Friendly, coldsweat, gloworm
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evamyramay/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evamyramay/)*

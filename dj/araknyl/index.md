@@ -1,6 +1,6 @@
 # Araknyl
 
-Araknyl is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hangaren, Copenhagen on Sun, 9 Aug 2026.
+Araknyl is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hangaren, Copenhagen on Sun, 9 Aug 2026.
 
 Araknyl is a trance and techno artist based in Sweden, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Copenhagen and Leipzig and 1 more. Often billed alongside My Gander, Jidder and Matriark. Next up: Hangaren, Copenhagen on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Araknyl is a trance and techno artist based in Sweden, tracked on soundcheck, wi
 
 My Gander, Jidder, Matriark
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/araknyl/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/araknyl/)*

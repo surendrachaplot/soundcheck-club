@@ -1,14 +1,13 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at [UNVRS], Ibiza on Thu, 6 Aug 2026.
+Loco Dice is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at [UNVRS], Ibiza on Wed, 12 Aug 2026.
 
-Loco Dice is a tech house and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: [UNVRS], Ibiza on Thu 6 Aug.
+Loco Dice is a tech house and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: [UNVRS], Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
 | Sun, 16 Aug 2026 | UNO MALTA | Malta |
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
@@ -23,6 +22,7 @@ Loco Dice is a tech house and house artist tracked on soundcheck, with 199 sets 
 
 ## Recently played
 
+- [UNVRS], Ibiza — Thu, 6 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 4 Jul 2026
 - Club Space Miami, Miami — Sat, 27 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Sat, 20 Jun 2026
@@ -30,10 +30,9 @@ Loco Dice is a tech house and house artist tracked on soundcheck, with 199 sets 
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 - TBA - Honi Beach Club - Póvoa de Varzim, Porto — Sat, 13 Jun 2026
 - 528 Ibiza, Ibiza — Wed, 10 Jun 2026
-- Coda, Toronto — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*

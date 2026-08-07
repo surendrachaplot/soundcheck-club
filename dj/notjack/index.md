@@ -1,6 +1,6 @@
 # notjack
 
-notjack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at radial, London on Sat, 8 Aug 2026.
+notjack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at radial, London on Sat, 8 Aug 2026.
 
 notjack is a house and techno artist based in Ireland, tracked on soundcheck, with 7 sets logged across Dublin, Galway and London. Often billed alongside Coinín Beag, DJ Love UK and DJ SWISHA. Next up: radial, London on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ notjack is a house and techno artist based in Ireland, tracked on soundcheck, wi
 
 Coinín Beag, DJ Love UK, DJ SWISHA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notjack/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notjack/)*

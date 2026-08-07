@@ -1,6 +1,6 @@
 # Stephen O'Malley
 
-Stephen O'Malley is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
+Stephen O'Malley is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Neue Nationalgalerie, Berlin on Sun, 16 Aug 2026.
 
 Stephen O'Malley is an ambient and classical artist based in France, tracked on soundcheck, with 13 sets logged across Berlin, Brussels, London and Losangeles and 2 more. Often billed alongside Kali Malone, Alva Noto and Ryuichi Sakamoto. Next up: Neue Nationalgalerie, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Stephen O'Malley is an ambient and classical artist based in France, tracked on 
 
 Kali Malone, Alva Noto, Ryuichi Sakamoto
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenomalley/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenomalley/)*

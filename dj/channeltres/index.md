@@ -1,8 +1,8 @@
 # Channel Tres
 
-Channel Tres is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Channel Tres is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Channel Tres is a house and techno artist tracked on soundcheck, with 46 sets logged across Austin, Berlin, Brisbane and Brussels and 17 more. Often billed alongside KETTAMA, Boys Noize and Mochakk. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Channel Tres is a house and techno artist tracked on soundcheck, with 47 sets logged across Austin, Berlin, Brisbane and Brussels and 17 more. Often billed alongside KETTAMA, Boys Noize and Mochakk. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Channel Tres is a house and techno artist tracked on soundcheck, with 46 sets lo
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | The Shrine | Chicago |
+| Fri, 23 Oct 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Channel Tres is a house and techno artist tracked on soundcheck, with 46 sets lo
 
 KETTAMA, Boys Noize, Mochakk
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*

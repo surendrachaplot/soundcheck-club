@@ -1,20 +1,20 @@
 # Miss Crafty
 
-Miss Crafty is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+Miss Crafty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 8 Aug 2026.
 
-Miss Crafty is a techno and house artist tracked on soundcheck, with 47 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside SNAQ, Romii and Tastemaker. Next up: 1015 Folsom, Sanfrancisco on Thu 6 Aug.
+Miss Crafty is a techno and house artist tracked on soundcheck, with 47 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside SNAQ, Romii and Tastemaker. Next up: DNA Lounge, Sanfrancisco on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 8 Aug 2026 | DNA Lounge | San Francisco/Oakland |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Thu, 6 Aug 2026
 - TBA - Sierra Mountains (3hrs from San Francisco / 1.5hrs from Sacramento), San Francisco/Oakland — Fri, 3 Jul 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 26 Jun 2026
 - Club Six, San Francisco/Oakland — Fri, 3 Apr 2026
@@ -22,10 +22,9 @@ Miss Crafty is a techno and house artist tracked on soundcheck, with 47 sets log
 - Palace of Fine Arts, San Francisco/Oakland — Sat, 28 Feb 2026
 - The Midway, San Francisco/Oakland — Sat, 14 Feb 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 16 Jan 2026
-- Madrone Art Bar, San Francisco/Oakland — Thu, 20 Nov 2025
 
 ## Shares bills with
 
 SNAQ, Romii, Tastemaker
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*

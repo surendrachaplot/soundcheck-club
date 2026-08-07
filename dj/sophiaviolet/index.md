@@ -1,6 +1,6 @@
 # Sophia Violet
 
-Sophia Violet is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Thekla, Bristol on Fri, 25 Sept 2026.
+Sophia Violet is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Thekla, Bristol on Fri, 25 Sept 2026.
 
 Sophia Violet is a garage and jungle artist tracked on soundcheck, with 71 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 11 more. Often billed alongside Girls Don't Sync, Rich Reason and Skeptic. Next up: Thekla, Bristol on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Sophia Violet is a garage and jungle artist tracked on soundcheck, with 71 sets 
 
 Girls Don't Sync, Rich Reason, Skeptic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*

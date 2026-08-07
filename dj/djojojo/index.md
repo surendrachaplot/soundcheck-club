@@ -1,6 +1,6 @@
 # Dj Ojojo
 
-Dj Ojojo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Trojský Pivovar, Prague on Sat, 22 Aug 2026.
+Dj Ojojo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Trojský Pivovar, Prague on Sat, 22 Aug 2026.
 
 Dj Ojojo is a techno and house artist tracked on soundcheck, with 19 sets logged across Prague. Often billed alongside Misha Jaru, S.Tian and Jemazzz. Next up: Trojský Pivovar, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dj Ojojo is a techno and house artist tracked on soundcheck, with 19 sets logged
 
 Misha Jaru, S.Tian, Jemazzz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djojojo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djojojo/)*

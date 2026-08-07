@@ -1,6 +1,6 @@
 # Oriana
 
-Oriana is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Modeci, Seoul on Fri, 7 Aug 2026.
+Oriana is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Modeci, Seoul on Fri, 7 Aug 2026.
 
 Oriana is a techno and electro artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 21 more. Often billed alongside OMAR (UY), Ed Warner and Niff. Next up: Modeci, Seoul on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Oriana is a techno and electro artist tracked on soundcheck, with 103 sets logge
 
 OMAR (UY), Ed Warner, Niff
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*

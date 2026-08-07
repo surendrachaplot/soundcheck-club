@@ -1,13 +1,14 @@
 # MARACUYá
 
-MARACUYá is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Elsewhere, New York City on Sat, 5 Sept 2026.
+MARACUYá is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
 
-MARACUYá is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Liverpool, London, Manchester and Newyorkcity and 3 more. Often billed alongside Egg On Toast, THT GRL and MOLL (UK). Next up: Elsewhere, Newyorkcity on Sat 5 Sept.
+MARACUYá is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Liverpool, London, Manchester and Newyorkcity and 3 more. Often billed alongside Egg On Toast, THT GRL and MOLL (UK). Next up: The DBA, Manchester on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | The DBA | Manchester |
 | Sat, 5 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ MARACUYá is a techno and electro artist based in United Kingdom, tracked on sou
 
 Egg On Toast, THT GRL, MOLL (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maracuya/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maracuya/)*

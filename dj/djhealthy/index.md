@@ -1,6 +1,6 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
+DJ Healthy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
 
 DJ Healthy is a techno and house artist tracked on soundcheck, with 98 sets logged across Bangkok, Dublin, Hongkong and Kyoto and 10 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: Green Room NYC, Newyorkcity on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ DJ Healthy is a techno and house artist tracked on soundcheck, with 98 sets logg
 
 Amelia Holt, YELLOWUHURU, Chung
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

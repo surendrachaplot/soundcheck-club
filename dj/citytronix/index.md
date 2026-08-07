@@ -1,14 +1,15 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Fri, 7 Aug 2026.
+CITYTRONIX is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Fri, 7 Aug 2026.
 
-CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, KAVARI and Klahrk. Next up: Colour Factory, London on Fri 7 Aug.
+CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: Colour Factory, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Colour Factory | London |
+| Sat, 22 Aug 2026 | Sui Generis | London |
 | Thu, 3 Sept 2026 | The Glove That Fits | London |
 | Sat, 5 Sept 2026 | The Steel Yard | London |
 | Sat, 12 Sept 2026 | Algha's Plantroom | London |
@@ -26,6 +27,6 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-nohexcode, KAVARI, Klahrk
+nohexcode, Modlar, KAVARI
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

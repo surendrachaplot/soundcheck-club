@@ -1,14 +1,13 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Yu Yu Cine Club: Baile x Venezuela" on Thu, 6 Aug 2026.
+YuYu Cine Club is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Yu Yu Cine Club: Blue Venado takeover with Nando, Labibe, HSPTLS B2B JIMG" on Fri, 7 Aug 2026.
 
-YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Alena Vox, Ana Armada, Astroboii and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
+YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Alena Vox, Ana Armada, Astroboii and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Yu Yu Cine Club: Baile x Venezuela | DJ Guapis, Iris Estefanía, Lila sky, MJ Nebreda, Meth Math, NEGRACONDA |
 | Fri, 7 Aug 2026 | Yu Yu Cine Club: Blue Venado takeover with Nando, Labibe, HSPTLS B2B JIMG |  |
 | Sat, 8 Aug 2026 | Yu Yu Cine Club: Unfamiliar Sound takeover | Ana Armada, Astroboii, Ekcent, El irreal Veintiuno, Marion O (2), Neukila, Vinil Motion |
 | Fri, 14 Aug 2026 | Yu Yu Cine Club: J. Dark takeover with Torgy, UUFFOO DJ, Eliel Capa | Eliel Capa, Torgy, UUFFOO DJ |
@@ -23,4 +22,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 10 upcoming 
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

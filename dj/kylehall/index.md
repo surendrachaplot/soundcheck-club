@@ -1,14 +1,16 @@
 # Kyle Hall
 
-Kyle Hall is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at House of Yes, New York City on Fri, 21 Aug 2026.
+Kyle Hall is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at House of Yes, New York City on Fri, 21 Aug 2026.
 
-Kyle Hall is a house and techno artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Byron The Aquarius, Carl Craig and Mister Joshooa. Next up: House of Yes, Newyorkcity on Fri 21 Aug.
+Kyle Hall is a house and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: House of Yes, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | House of Yes | New York City |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Sat, 24 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Kyle Hall is a house and techno artist based in United States of America, tracke
 
 ## Shares bills with
 
-Byron The Aquarius, Carl Craig, Mister Joshooa
+Byron The Aquarius, Carl Craig, DJ Holographic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*

@@ -1,6 +1,6 @@
 # HiTech
 
-HiTech is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+HiTech is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 HiTech is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 33 more. Often billed alongside ojoo, Crystallmess and Fullbodydurag. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ HiTech is a ghetto tech and techno artist based in United States of America, tra
 
 ojoo, Crystallmess, Fullbodydurag
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitech/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitech/)*

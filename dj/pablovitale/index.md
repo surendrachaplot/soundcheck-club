@@ -1,6 +1,6 @@
 # Pablo Vitale
 
-Pablo Vitale is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Deep End, New York City on Fri, 7 Aug 2026.
+Pablo Vitale is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Deep End, New York City on Fri, 7 Aug 2026.
 
 Pablo Vitale is a techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside a.gar, AJACENT and shirlz. Next up: The Deep End, Newyorkcity on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Pablo Vitale is a techno artist based in United States of America, tracked on so
 
 a.gar, AJACENT, shirlz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovitale/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovitale/)*

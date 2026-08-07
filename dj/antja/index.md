@@ -1,6 +1,6 @@
 # Antja
 
-Antja is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
+Antja is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
 
 Antja is a house and electro artist based in Italy, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg, Leipzig and Zurich. Often billed alongside A.B.U., Aline (CH) and Last Pines. Next up: Supermarket, Zurich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Antja is a house and electro artist based in Italy, tracked on soundcheck, with 
 
 A.B.U., Aline (CH), Last Pines
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antja/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antja/)*

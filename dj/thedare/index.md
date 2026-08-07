@@ -1,6 +1,6 @@
 # The Dare
 
-The Dare is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+The Dare is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 The Dare is an electro and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Brussels and Chicago and 15 more. Often billed alongside Doss, Yaeji and 999999999. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ The Dare is an electro and techno artist based in United States of America, trac
 
 Doss, Yaeji, 999999999
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*

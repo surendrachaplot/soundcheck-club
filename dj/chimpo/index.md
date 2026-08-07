@@ -1,6 +1,6 @@
 # Chimpo
 
-Chimpo is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hidden, Manchester on Sat, 8 Aug 2026.
+Chimpo is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hidden, Manchester on Sat, 8 Aug 2026.
 
 Chimpo is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and MC Fox. Next up: Hidden, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Chimpo is a drum & bass and jungle artist tracked on soundcheck, with 102 sets l
 
 Rich Reason, Chunky, MC Fox
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*

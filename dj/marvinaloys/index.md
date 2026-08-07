@@ -1,6 +1,6 @@
 # Marvin Aloys
 
-Marvin Aloys is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at MH5 Rooftop, Munich on Sat, 22 Aug 2026.
+Marvin Aloys is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at MH5 Rooftop, Munich on Sat, 22 Aug 2026.
 
 Marvin Aloys is a tech house and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Barcelona, Bucharest, Cologne and Munich and 1 more. Often billed alongside Alice DiMar, AARON and ATMOS. Next up: MH5 Rooftop, Munich on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Marvin Aloys is a tech house and house artist based in Germany, tracked on sound
 
 Alice DiMar, AARON, ATMOS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinaloys/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinaloys/)*

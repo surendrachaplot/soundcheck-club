@@ -1,6 +1,6 @@
 # Pierce
 
-Pierce is a Progressive House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club Z in Zimmermans, Cologne on Fri, 11 Sept 2026.
+Pierce is a Progressive House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Z in Zimmermans, Cologne on Fri, 11 Sept 2026.
 
 Pierce is a progressive house and funk / soul artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne and Manchester. Often billed alongside AMBAM, Cosmic Dance and George Morel. Next up: Club Z in Zimmermans, Cologne on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Pierce is a progressive house and funk / soul artist based in Germany, tracked o
 
 AMBAM, Cosmic Dance, George Morel
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce/)*

@@ -1,6 +1,6 @@
 # TDJ
 
-TDJ is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at MoMA PS1, New York City on Fri, 28 Aug 2026.
+TDJ is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at MoMA PS1, New York City on Fri, 28 Aug 2026.
 
 TDJ is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: MoMA PS1, Newyorkcity on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ TDJ is a techno and trance artist tracked on soundcheck, with 130 sets logged ac
 
 Cult Member, Zorza, MCR-T
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*

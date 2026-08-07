@@ -1,6 +1,6 @@
 # Kelvin
 
-Kelvin is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
+Kelvin is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
 
 Kelvin is a techno and drum & bass artist tracked on soundcheck, with 104 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 15 more. Often billed alongside JSUS, Kelvin 373 and Kupris. Next up: Misisipi River Boat, Riga on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kelvin is a techno and drum & bass artist tracked on soundcheck, with 104 sets l
 
 JSUS, Kelvin 373, Kupris
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin/)*

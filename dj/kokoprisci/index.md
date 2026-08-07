@@ -1,6 +1,6 @@
 # Kokoprisci
 
-Kokoprisci is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sacré, Paris on Fri, 7 Aug 2026.
+Kokoprisci is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sacré, Paris on Fri, 7 Aug 2026.
 
 Kokoprisci is a techno and house artist tracked on soundcheck, with 36 sets logged across Marseille, Oslo and Paris. Often billed alongside Hyas, Tatyana Jane and Boys Noize. Next up: Sacré, Paris on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kokoprisci is a techno and house artist tracked on soundcheck, with 36 sets logg
 
 Hyas, Tatyana Jane, Boys Noize
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoprisci/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoprisci/)*

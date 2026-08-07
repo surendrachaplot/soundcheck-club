@@ -1,6 +1,6 @@
 # Xanexx
 
-Xanexx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Volnost, Seoul on Sat, 8 Aug 2026.
+Xanexx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Volnost, Seoul on Sat, 8 Aug 2026.
 
 Xanexx is a techno and house artist based in South Korea, tracked on soundcheck, with 150 sets logged across Barcelona, Seoul and Tokyo. Often billed alongside Scøpe, Noidman and Zeemen. Next up: Volnost, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Xanexx is a techno and house artist based in South Korea, tracked on soundcheck,
 
 Scøpe, Noidman, Zeemen
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanexx/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanexx/)*

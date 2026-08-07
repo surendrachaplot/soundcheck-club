@@ -1,14 +1,13 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "La Reiv" on Thu, 6 Aug 2026.
+Macarena Club is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Dissonanza" on Fri, 7 Aug 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 26 upcoming nights, with line-ups including Jo-Sie, Alex Blaze, Althoff and Amadori and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including Jo-Sie, Alex Blaze, Althoff and Amadori and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | La Reiv | Chino Latino, Mariano Cima, Merlina |
 | Fri, 7 Aug 2026 | Dissonanza | Althoff, Cipy, ERRANT, SABALZA |
 | Sat, 8 Aug 2026 | S.L.A.N.G | UFO Space |
 | Sun, 9 Aug 2026 | Move Your Body | Villaça |
@@ -18,9 +17,10 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 26 upcoming ni
 | Thu, 13 Aug 2026 | Magnolia | NUUP, marta aramini |
 | Fri, 14 Aug 2026 | Unnamed | Amadori, Frucula, Lea Corio, Marvio |
 | Sat, 15 Aug 2026 | Tempesta Music | Dj Kosmos, Mr. B |
+| Sun, 16 Aug 2026 | Move Your Body |  |
 
 ## Address
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

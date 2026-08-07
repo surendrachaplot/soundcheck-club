@@ -1,6 +1,6 @@
 # Malakai
 
-Malakai is a Bass and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
+Malakai is a Bass and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
 
 Malakai is a bass and uk funky artist tracked on soundcheck, with 4 sets logged across Berlin, Newyorkcity and Philadelphia. Often billed alongside Cordner, DJSOULSEEK and Don-Ri. Next up: 314 Scholes St, Newyorkcity on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Malakai is a bass and uk funky artist tracked on soundcheck, with 4 sets logged 
 
 Cordner, DJSOULSEEK, Don-Ri
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malakai/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malakai/)*

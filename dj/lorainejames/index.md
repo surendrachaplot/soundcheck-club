@@ -1,8 +1,8 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ICA, London on Wed, 9 Sept 2026.
+Loraine James is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ICA, London on Wed, 9 Sept 2026.
 
-Loraine James is an experimental and ambient artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Valentina Magaletti, Lee Gamble and Space Afrika. Next up: ICA, London on Wed 9 Sept.
+Loraine James is an experimental and ambient artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: ICA, London on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Loraine James is an experimental and ambient artist tracked on soundcheck, with 
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | ICA | London |
 | Tue, 13 Oct 2026 | TBA | Valencia |
+| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Loraine James is an experimental and ambient artist tracked on soundcheck, with 
 
 ## Shares bills with
 
-Valentina Magaletti, Lee Gamble, Space Afrika
+Valentina Magaletti, Kelman Duran, Lee Gamble
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*

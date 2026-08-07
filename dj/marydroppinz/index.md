@@ -1,14 +1,15 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Mary Droppinz is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 49 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Zeds Dead, Matroda and Boys Noize. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Zeds Dead, Matroda and Boys Noize. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mary Droppinz is a house and bass artist based in United States of America, trac
 
 Zeds Dead, Matroda, Boys Noize
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

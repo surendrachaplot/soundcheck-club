@@ -1,14 +1,15 @@
 # LG JASPER <3
 
-LG JASPER <3 is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat, 8 Aug 2026.
+LG JASPER <3 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat, 8 Aug 2026.
 
-LG JASPER <3 is a disco and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside Sinan Varol, DJ FUNKI TASTE and Alex Korner. Next up: ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat 8 Aug.
+LG JASPER <3 is a house and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Leipzig. Often billed alongside Sinan Varol, DJ FUNKI TASTE and Alex Korner. Next up: ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | ZK/U (Zentrum für Kunst und Urbanistik) | Berlin |
+| Sat, 5 Sept 2026 | gART.n | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LG JASPER <3 is a disco and house artist based in Germany, tracked on soundcheck
 
 Sinan Varol, DJ FUNKI TASTE, Alex Korner
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lgjasper/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lgjasper/)*

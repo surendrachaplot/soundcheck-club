@@ -1,6 +1,6 @@
 # m1 (1)
 
-m1 (1) is a R&B and Pop artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Vessel, Edinburgh on Sat, 8 Aug 2026.
+m1 (1) is a R&B and Pop artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Vessel, Edinburgh on Sat, 8 Aug 2026.
 
 m1 (1) is a r&b and pop artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Edinburgh and Glasgow. Often billed alongside monicat, Buckfast Barbie and Quarterpoundernocheese. Next up: Vessel, Edinburgh on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ m1 (1) is a r&b and pop artist based in United Kingdom, tracked on soundcheck, w
 
 monicat, Buckfast Barbie, Quarterpoundernocheese
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-1/)*

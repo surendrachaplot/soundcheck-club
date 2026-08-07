@@ -1,6 +1,6 @@
 # Dean Munch
 
-Dean Munch is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nice N Sleazy, Glasgow on Fri, 14 Aug 2026.
+Dean Munch is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nice N Sleazy, Glasgow on Fri, 14 Aug 2026.
 
 Dean Munch is a disco and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Edinburgh and Glasgow. Often billed alongside Charlotte Tuesday, Casual Look and DJ Catnip. Next up: Nice N Sleazy, Glasgow on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dean Munch is a disco and house artist based in United Kingdom, tracked on sound
 
 Charlotte Tuesday, Casual Look, DJ Catnip
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanmunch/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanmunch/)*

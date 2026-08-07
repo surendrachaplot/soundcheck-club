@@ -1,6 +1,6 @@
 # Pegasvs
 
-Pegasvs is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
+Pegasvs is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
 
 Pegasvs is a house and jazz artist tracked on soundcheck, with 15 sets logged across London and Mallorca. Often billed alongside ARLYSS, ADJ and Alfaz. Next up: Parc de Sa Gravera, Mallorca on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pegasvs is a house and jazz artist tracked on soundcheck, with 15 sets logged ac
 
 ARLYSS, ADJ, Alfaz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pegasvs/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pegasvs/)*

@@ -1,6 +1,6 @@
 # Romi
 
-Romi is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ikii, Berlin on Thu, 20 Aug 2026.
+Romi is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ikii, Berlin on Thu, 20 Aug 2026.
 
 Romi is an ambient and experimental artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Cologne and Hongkong and 2 more. Often billed alongside Schwarzmalerei, Toxido Mask and Ario. Next up: Ikii, Berlin on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Romi is an ambient and experimental artist based in Germany, tracked on soundche
 
 Schwarzmalerei, Toxido Mask, Ario
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romi/)*

@@ -1,6 +1,6 @@
 # Simon Heyliger
 
-Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Refuge, New York City on Sat, 8 Aug 2026.
+Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Refuge, New York City on Sat, 8 Aug 2026.
 
 Simon Heyliger is a house and techno artist tracked on soundcheck, with 63 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Morgan, Kiyoshi and Martín Y Corazón. Next up: Refuge, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Simon Heyliger is a house and techno artist tracked on soundcheck, with 63 sets 
 
 Morgan, Kiyoshi, Martín Y Corazón
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*

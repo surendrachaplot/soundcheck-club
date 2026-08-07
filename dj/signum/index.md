@@ -1,6 +1,6 @@
 # Signum
 
-Signum is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
+Signum is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Signum is a trance and house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Dublin, Glasgow, Ibiza and Leeds and 6 more. Often billed alongside Dave Pearce, Lange and Judge Jules. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Signum is a trance and house artist based in Netherlands, tracked on soundcheck,
 
 Dave Pearce, Lange, Judge Jules
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*

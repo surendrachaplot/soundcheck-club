@@ -1,13 +1,14 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "CYBERFUNK BERLIN" on Fri, 28 Aug 2026.
+Urban Spree is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "EBONY KM2 DE LUXO" on Sat, 8 Aug 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Blush Response, Flor Coto, Furz and GB (2) and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Blush Response, Flor Coto, Furz and GB (2) and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | EBONY KM2 DE LUXO |  |
 | Fri, 28 Aug 2026 | CYBERFUNK BERLIN | Flor Coto, Furz, Guile, Juli Gago, LUKAS (4), Manu Oubiña, Szew |
 | Sat, 29 Aug 2026 | aufnahme + wiedergabe: Fünfzehn Jahre // Zweiter Akt | Blush Response, Philipp Strobel, Rhys Fulber |
 | Mon, 31 Aug 2026 | New Candys (Fuzz Club) – Live |  |
@@ -22,4 +23,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 9 upcoming nights, 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

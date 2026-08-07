@@ -1,6 +1,6 @@
 # Cyko
 
-Cyko is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
+Cyko is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ritter Butzke, Berlin on Fri, 7 Aug 2026.
 
 Cyko is a minimal and house artist based in Belgium, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Papa K, Annina and Scoopsi. Next up: Ritter Butzke, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Cyko is a minimal and house artist based in Belgium, tracked on soundcheck, with
 
 Papa K, Annina, Scoopsi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyko/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyko/)*

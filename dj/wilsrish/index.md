@@ -1,6 +1,6 @@
 # WILS*RISH
 
-WILS*RISH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Glamorama, Melbourne on Fri, 7 Aug 2026.
+WILS*RISH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Glamorama, Melbourne on Fri, 7 Aug 2026.
 
 WILS*RISH is a techno and house artist based in Australia, tracked on soundcheck, with 13 sets logged across Hobart and Melbourne. Often billed alongside AKEYLAH, Caleb Jay and Nene H. Next up: Glamorama, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ WILS*RISH is a techno and house artist based in Australia, tracked on soundcheck
 
 AKEYLAH, Caleb Jay, Nene H
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilsrish/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilsrish/)*

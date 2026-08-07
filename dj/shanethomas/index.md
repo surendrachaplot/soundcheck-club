@@ -1,13 +1,14 @@
 # Shane Thomas
 
-Shane Thomas is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
+Shane Thomas is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Los Angeles on Fri, 7 Aug 2026.
 
-Shane Thomas is a club and techno artist tracked on soundcheck, with 78 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: TBA, Losangeles on Fri 21 Aug.
+Shane Thomas is a club and techno artist tracked on soundcheck, with 79 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: TBA, Losangeles on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TBA | Los Angeles |
 | Fri, 21 Aug 2026 | TBA | Los Angeles |
 | Fri, 28 Aug 2026 | TBA - Silverlake | Los Angeles |
 
@@ -26,4 +27,4 @@ Shane Thomas is a club and techno artist tracked on soundcheck, with 78 sets log
 
 Rob Aquino, Banoffee, Miracles
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*

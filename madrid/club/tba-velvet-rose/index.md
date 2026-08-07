@@ -1,6 +1,6 @@
 # TBA - Velvet Rose 
 
-TBA - Velvet Rose  is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "POOL PARTY TECHNETIUM" on Sat, 8 Aug 2026.
+TBA - Velvet Rose  is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "POOL PARTY TECHNETIUM" on Sat, 8 Aug 2026.
 
 TBA - Velvet Rose  is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including KITAE, M.I.XX.I and Picotres. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Velvet Rose  is a music venue in Madrid listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | POOL PARTY TECHNETIUM | KITAE, M.I.XX.I, Picotres |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-velvet-rose/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-velvet-rose/)*

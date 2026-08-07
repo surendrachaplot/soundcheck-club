@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Stoic Music x Breakout DNB (NL)" on Sat, 8 Aug 2026.
+Void Hall is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Stoic Music x Breakout DNB (NL)" on Sat, 8 Aug 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Anton Quasi, Initia and phasebound. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -15,4 +15,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wi
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

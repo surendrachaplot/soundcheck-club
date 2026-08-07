@@ -1,6 +1,6 @@
 # Tokyo University of the Arts
 
-Tokyo University of the Arts is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Tiny Office Concert Vol. 2" on Fri, 7 Aug 2026.
+Tokyo University of the Arts is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Tiny Office Concert Vol. 2" on Fri, 7 Aug 2026.
 
 Tokyo University of the Arts is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 12-8 Ueno Park, Taito Ward, Tokyo 1108714, JAPAN.
 
@@ -14,4 +14,4 @@ Tokyo University of the Arts is a music venue in Tokyo listed on soundcheck. 1 u
 
 12-8 Ueno Park, Taito Ward, Tokyo 1108714, JAPAN, Tokyo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tokyo-university-of-the-arts/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tokyo-university-of-the-arts/)*

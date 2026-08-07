@@ -1,6 +1,6 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Raresh is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Raresh is a house and minimal artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Raresh is a house and minimal artist tracked on soundcheck, with 188 sets logged
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

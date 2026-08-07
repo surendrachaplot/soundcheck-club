@@ -1,6 +1,6 @@
 # Whales
 
-Whales is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Meow Wolf Houston, Houston on Sat, 15 Aug 2026.
+Whales is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Meow Wolf Houston, Houston on Sat, 15 Aug 2026.
 
 Whales is a bass and dubstep artist based in Israel, tracked on soundcheck, with 3 sets logged across Cologne, Houston and Portland. Often billed alongside BIANKA and Synoxis. Next up: Meow Wolf Houston, Houston on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Whales is a bass and dubstep artist based in Israel, tracked on soundcheck, with
 
 BIANKA, Synoxis
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whales/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whales/)*

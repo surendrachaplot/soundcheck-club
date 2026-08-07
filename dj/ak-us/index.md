@@ -1,8 +1,8 @@
 # AK (US)
 
-AK (US) is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
+AK (US) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
 
-AK (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 74 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and BEIGE. Next up: Northern Lights Lounge, Detroit on Sat 8 Aug.
+AK (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and JMT (2). Next up: Northern Lights Lounge, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ AK (US) is a techno and ghetto tech artist based in United States of America, tr
 | Sat, 8 Aug 2026 | Northern Lights Lounge | Detroit |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
 | Sat, 15 Aug 2026 | Lincoln Factory | Detroit |
+| Sun, 16 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ AK (US) is a techno and ghetto tech artist based in United States of America, tr
 
 ## Shares bills with
 
-Blackmoonchild, Disc Jockey George, BEIGE
+Blackmoonchild, Disc Jockey George, JMT (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

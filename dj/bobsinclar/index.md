@@ -1,6 +1,6 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Café del Mar Malta, Malta on Mon, 17 Aug 2026.
+Bob Sinclar is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Café del Mar Malta, Malta on Mon, 17 Aug 2026.
 
 Bob Sinclar is a house and electro artist based in France, tracked on soundcheck, with 41 sets logged across Barcelona, Chicago, Geneva and Ibiza and 11 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: Café del Mar Malta, Malta on Mon 17 Aug.
 
@@ -27,4 +27,4 @@ Bob Sinclar is a house and electro artist based in France, tracked on soundcheck
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

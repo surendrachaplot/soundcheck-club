@@ -1,6 +1,6 @@
 # Charlieowo
 
-Charlieowo is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 宀 Club, Hong Kong on Sat, 15 Aug 2026.
+Charlieowo is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 宀 Club, Hong Kong on Sat, 15 Aug 2026.
 
 Charlieowo is a techno and bass artist tracked on soundcheck, with 31 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Dan-neo, Faxtory and VSLORIA. Next up: 宀 Club, Hongkong on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Charlieowo is a techno and bass artist tracked on soundcheck, with 31 sets logge
 
 Dan-neo, Faxtory, VSLORIA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieowo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieowo/)*

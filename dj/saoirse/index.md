@@ -1,14 +1,13 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
+Saoirse is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
 
-Saoirse is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Amnesia Ibiza, Ibiza on Thu 6 Aug.
+Saoirse is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: 528 Ibiza, Ibiza on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | Southwark Park | London |
@@ -22,6 +21,7 @@ Saoirse is a house and techno artist tracked on soundcheck, with 184 sets logged
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 28 Jul 2026
@@ -29,10 +29,9 @@ Saoirse is a house and techno artist tracked on soundcheck, with 184 sets logged
 - Micas Garten (Zurich), Zurich — Sat, 27 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Fri, 19 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

@@ -1,13 +1,14 @@
 # KYLIE
 
-KYLIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nordstern, Basel on Sat, 15 Aug 2026.
+KYLIE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Frieda's Büxe, Zurich on Fri, 7 Aug 2026.
 
-KYLIE is a techno and trance artist based in Switzerland, tracked on soundcheck, with 34 sets logged across Basel, Geneva, Stuttgart and Zurich. Often billed alongside MARCISM, kso12 and Thomas Bianco. Next up: Nordstern, Basel on Sat 15 Aug.
+KYLIE is a techno and house artist based in Switzerland, tracked on soundcheck, with 35 sets logged across Basel, Geneva, Stuttgart and Zurich. Often billed alongside MARCISM, kso12 and Thomas Bianco. Next up: Frieda's Büxe, Zurich on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Frieda's Büxe | Zurich |
 | Sat, 15 Aug 2026 | Nordstern | Basel |
 
 ## Recently played
@@ -25,4 +26,4 @@ KYLIE is a techno and trance artist based in Switzerland, tracked on soundcheck,
 
 MARCISM, kso12, Thomas Bianco
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*

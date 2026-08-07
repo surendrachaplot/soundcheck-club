@@ -1,6 +1,6 @@
 # Peter Parker
 
-Peter Parker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
+Peter Parker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 7 Aug 2026.
 
 Peter Parker is a house and techno artist based in Denmark, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Manchester. Often billed alongside DJ Optimal 1, Daniel Jaeger and Electric Gigi. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Peter Parker is a house and techno artist based in Denmark, tracked on soundchec
 
 DJ Optimal 1, Daniel Jaeger, Electric Gigi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterparker/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterparker/)*

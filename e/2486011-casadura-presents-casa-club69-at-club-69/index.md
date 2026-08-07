@@ -1,6 +1,6 @@
 # CASADURA PRESENTS: CASA CLUB69 at Club 69
 
-CASADURA PRESENTS: CASA CLUB69 at Club 69 on Sat 29 Aug, Glasgow. 2 acts on the bill: COURTEZ and SAPHOS. Trance and Tech House. Preview the line-up and save it on soundcheck.
+CASADURA PRESENTS: CASA CLUB69 at Club 69 on Sat 29 Aug, Glasgow. 3 acts on the bill: Aileron, COURTEZ and SAPHOS. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CASADURA PRESENTS: CASA CLUB69 at Club 69 on Sat 29 Aug, Glasgow. 2 acts on the 
 
 ## Line-up
 
+- Aileron
 - COURTEZ
 - SAPHOS
 

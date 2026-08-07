@@ -1,6 +1,6 @@
 # Pelin Vedis
 
-Pelin Vedis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
+Pelin Vedis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
 
 Pelin Vedis is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside dasstudach, KUKO and Andy Katz. Next up: Kraftwerk, Zurich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Pelin Vedis is a techno and trance artist tracked on soundcheck, with 98 sets lo
 
 dasstudach, KUKO, Andy Katz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pelinvedis/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pelinvedis/)*

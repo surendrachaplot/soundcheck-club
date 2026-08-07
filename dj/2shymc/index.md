@@ -1,6 +1,6 @@
 # 2Shy MC
 
-2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
+2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
 
 2Shy MC is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Antwerp, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Jumping Jack Frost, IC3 and Kanine. Next up: Grand Hotel Bucharest, Bucharest on Sat 22 Aug.
 
@@ -26,4 +26,4 @@
 
 Jumping Jack Frost, IC3, Kanine
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*

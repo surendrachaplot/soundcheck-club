@@ -1,6 +1,6 @@
 # Driv
 
-Driv is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
+Driv is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, The Hague on Sat, 22 Aug 2026.
 
 Driv is a house and balearic artist tracked on soundcheck, with 5 sets logged across Amsterdam and Thehague. Often billed alongside Klankers, Lexmic and Arnau. Next up: TBA, Thehague on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Driv is a house and balearic artist tracked on soundcheck, with 5 sets logged ac
 
 Klankers, Lexmic, Arnau
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/driv/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/driv/)*

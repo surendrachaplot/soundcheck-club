@@ -1,6 +1,6 @@
 # Phosky
 
-Phosky is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at LAUT, Barcelona on Sun, 11 Oct 2026.
+Phosky is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at LAUT, Barcelona on Sun, 11 Oct 2026.
 
 Phosky is a techno and tech house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona. Often billed alongside Elwood, Momasé and oddzero. Next up: LAUT, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Phosky is a techno and tech house artist based in Spain, tracked on soundcheck, 
 
 Elwood, Momasé, oddzero
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phosky/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phosky/)*

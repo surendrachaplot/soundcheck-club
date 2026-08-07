@@ -1,6 +1,6 @@
 # Sub Sahara
 
-Sub Sahara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+Sub Sahara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
 Sub Sahara is a techno and house artist tracked on soundcheck, with 24 sets logged across Auckland, Berlin, London and Melbourne and 1 more. Often billed alongside Ojos de miel, Aunty Nora and Lixi. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Sub Sahara is a techno and house artist tracked on soundcheck, with 24 sets logg
 
 Ojos de miel, Aunty Nora, Lixi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subsahara/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subsahara/)*

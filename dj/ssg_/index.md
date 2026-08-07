@@ -1,6 +1,6 @@
 # SSG_
 
-SSG_ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Sat, 8 Aug 2026.
+SSG_ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Green Room NYC, New York City on Sat, 8 Aug 2026.
 
 SSG_ is a techno and house artist tracked on soundcheck, with 41 sets logged across Boston, Detroit and Newyorkcity. Often billed alongside CSILLA, KXAH and Devoye. Next up: Green Room NYC, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SSG_ is a techno and house artist tracked on soundcheck, with 41 sets logged acr
 
 CSILLA, KXAH, Devoye
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssg_/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssg_/)*

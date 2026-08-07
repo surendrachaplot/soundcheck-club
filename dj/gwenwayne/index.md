@@ -1,6 +1,6 @@
 # Gwen Wayne
 
-Gwen Wayne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 8 Aug 2026.
+Gwen Wayne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 8 Aug 2026.
 
 Gwen Wayne is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Julio Paradise, Punani and Elliver. Next up: Jonny Knüppel, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gwen Wayne is a techno and house artist tracked on soundcheck, with 51 sets logg
 
 Julio Paradise, Punani, Elliver
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenwayne/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenwayne/)*

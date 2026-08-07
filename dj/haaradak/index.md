@@ -1,6 +1,6 @@
 # Haaradak
 
-Haaradak is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
+Haaradak is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
 
 Haaradak is a hardcore and industrial artist based in Mexico, tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside Lex Digital, Rafa Beltran and Naij. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
 
@@ -18,4 +18,4 @@ Haaradak is a hardcore and industrial artist based in Mexico, tracked on soundch
 
 Lex Digital, Rafa Beltran, Naij
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haaradak/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haaradak/)*

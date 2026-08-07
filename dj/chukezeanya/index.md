@@ -1,6 +1,6 @@
 # Chuk Ezeanya
 
-Chuk Ezeanya is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Moondog Cafe, Detroit on Sat, 29 Aug 2026.
+Chuk Ezeanya is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Moondog Cafe, Detroit on Sat, 29 Aug 2026.
 
 Chuk Ezeanya is a house and jazz artist tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Ameera, Gulley and Kindle. Next up: Moondog Cafe, Detroit on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Chuk Ezeanya is a house and jazz artist tracked on soundcheck, with 7 sets logge
 
 Ameera, Gulley, Kindle
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chukezeanya/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chukezeanya/)*

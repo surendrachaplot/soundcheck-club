@@ -1,6 +1,6 @@
 # Igor Garanin
 
-Igor Garanin is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+Igor Garanin is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 Igor Garanin is a progressive house and deep house artist based in Azerbaijan, tracked on soundcheck, with 5 sets logged across London. Often billed alongside GYS (TT), Trilucid and Tris (UK). Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Igor Garanin is a progressive house and deep house artist based in Azerbaijan, t
 
 GYS (TT), Trilucid, Tris (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/igorgaranin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/igorgaranin/)*

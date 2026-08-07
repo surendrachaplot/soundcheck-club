@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Brave New Rave: Moderna, Fatima, Salva" on Thu, 6 Aug 2026.
+Bar Oriente is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Electrique Music: Andre VII, Moon Runner, ROCCO DESENTIS" on Fri, 7 Aug 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Adrian Bluper, Andre VII, Borgetti and Bruja de Mentira and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Adrian Bluper, Andre VII, Borgetti and Bruja de Mentira and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Brave New Rave: Moderna, Fatima, Salva | Fatima, Moderna, Salva |
 | Fri, 7 Aug 2026 | Electrique Music: Andre VII, Moon Runner, ROCCO DESENTIS | Andre VII, ROCCO DESENTIS |
 | Sat, 8 Aug 2026 | Lee Foss (Dj Set), Voodoo Meluk, Chesare | Lee Foss, Voodoo Meluk |
 | Sun, 9 Aug 2026 | Domingo en tu Idioma | Adrian Bluper, Borgetti, Bruja de Mentira, Daddy Issues, TAPIIA |
@@ -23,4 +22,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

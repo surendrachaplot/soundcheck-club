@@ -1,13 +1,14 @@
 # Kai Song
 
-Kai Song is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Le Bain, New York City on Fri, 7 Aug 2026.
+Kai Song is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Apollo Studio, New York City on Fri, 7 Aug 2026.
 
-Kai Song is a house and electronica artist tracked on soundcheck, with 5 sets logged across Newyorkcity, Tokyo and Washingtondc. Often billed alongside Anane, Andrew Grant and CLESENT. Next up: Le Bain, Newyorkcity on Fri 7 Aug.
+Kai Song is a house and electronica artist tracked on soundcheck, with 6 sets logged across Newyorkcity, Tokyo and Washingtondc. Often billed alongside Anane, Andrew Grant and CLESENT. Next up: Apollo Studio, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Apollo Studio | New York City |
 | Fri, 7 Aug 2026 | Le Bain | New York City |
 
 ## Recently played
@@ -21,4 +22,4 @@ Kai Song is a house and electronica artist tracked on soundcheck, with 5 sets lo
 
 Anane, Andrew Grant, CLESENT
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaisong/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaisong/)*

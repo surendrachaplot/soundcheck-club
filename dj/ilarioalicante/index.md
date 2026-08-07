@@ -1,6 +1,6 @@
 # Ilario Alicante
 
-Ilario Alicante is a Tech House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Ilario Alicante is a Tech House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -34,4 +34,4 @@ Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 19
 
 Marco Carola, Paco Osuna, Franky Rizardo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*

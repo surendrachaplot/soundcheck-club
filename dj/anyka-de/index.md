@@ -1,6 +1,6 @@
 # anyka
 
-anyka is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Artheater, Cologne on Fri, 21 Aug 2026.
+anyka is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Artheater, Cologne on Fri, 21 Aug 2026.
 
 anyka is a trance and house artist tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Tristan K (1), DJ Tallboy and Diffrent. Next up: Artheater, Cologne on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ anyka is a trance and house artist tracked on soundcheck, with 2 sets logged acr
 
 Tristan K (1), DJ Tallboy, Diffrent
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyka-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyka-de/)*

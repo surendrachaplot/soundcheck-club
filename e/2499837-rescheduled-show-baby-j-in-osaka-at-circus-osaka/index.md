@@ -1,6 +1,6 @@
 # 【Rescheduled show】Baby J in Osaka at Circus Osaka
 
-【Rescheduled show】Baby J in Osaka at Circus Osaka on Fri 21 Aug, Osaka. 1 act on the bill: Baby J (2). Bass and Afro House. Preview the line-up and save it on soundcheck.
+【Rescheduled show】Baby J in Osaka at Circus Osaka on Fri 21 Aug, Osaka. 2 acts on the bill: Baby J (2) and ryota dj. Bass and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - Baby J (2)
+- ryota dj
 
 *Source: [soundcheck](https://soundcheck.club/e/2499837-rescheduled-show-baby-j-in-osaka-at-circus-osaka/)*

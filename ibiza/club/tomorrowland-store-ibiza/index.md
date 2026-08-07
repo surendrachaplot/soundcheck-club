@@ -1,14 +1,15 @@
 # Tomorrowland Store Ibiza
 
-Tomorrowland Store Ibiza is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Alleanza Showcase @ Tomorrowland Store, Ibiza" on Sun, 9 Aug 2026.
+Tomorrowland Store Ibiza is a music venue in Ibiza with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Alleanza Showcase @ Tomorrowland Store, Ibiza" on Sun, 9 Aug 2026.
 
-Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with line-ups including James Hurr, Jewel Kid, NODUS and Sam Supplier and 1 more. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears.
+Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with line-ups including James Hurr, Jewel Kid, LUKAS & FRANK and NODUS and 2 more. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Alleanza Showcase @ Tomorrowland Store, Ibiza | James Hurr, Jewel Kid, NODUS, Sam Supplier |
+| Mon, 10 Aug 2026 | Tomorrowland Ibiza Rooftop Session | LUKAS & FRANK |
 | Fri, 14 Aug 2026 | Tomorrowland Rooftop Sessions | Sebastiaan Hooft |
 | Sat, 22 Aug 2026 | Gabriel Marchisio |  |
 | Fri, 28 Aug 2026 | Tomorrowland Rooftop Sessions | Sebastiaan Hooft |
@@ -20,4 +21,4 @@ Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcom
 
 Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears, Ibiza
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomorrowland-store-ibiza/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomorrowland-store-ibiza/)*

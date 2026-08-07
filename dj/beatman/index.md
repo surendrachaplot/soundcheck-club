@@ -1,6 +1,6 @@
 # beatman
 
-beatman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at rake?raka?, Osaka on Fri, 7 Aug 2026.
+beatman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at rake?raka?, Osaka on Fri, 7 Aug 2026.
 
 beatman is a house and garage artist based in Japan, tracked on soundcheck, with 8 sets logged across Osaka and Tokyo. Often billed alongside Tokumoto, DMITRI ABSINTHE and RICHKID. Next up: rake?raka?, Osaka on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ beatman is a house and garage artist based in Japan, tracked on soundcheck, with
 
 Tokumoto, DMITRI ABSINTHE, RICHKID
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beatman/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beatman/)*

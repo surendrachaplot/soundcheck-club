@@ -1,6 +1,6 @@
 # Cardi-O
 
-Cardi-O is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
+Cardi-O is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
 
 Cardi-O is a house and electro artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Hamburg and Tbilisi. Often billed alongside Mystigrix, crydebleich and Daniel Mata. Next up: PETER'S, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cardi-O is a house and electro artist based in Germany, tracked on soundcheck, w
 
 Mystigrix, crydebleich, Daniel Mata
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*

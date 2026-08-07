@@ -1,13 +1,14 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
+Human Space Machine is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-Human Space Machine is a techno and dub techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Eversines, Kaap and Nathan Kofi. Next up: RADION, Amsterdam on Sat 24 Oct.
+Human Space Machine is a techno and ambient artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Eversines, Kaap and Nathan Kofi. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Human Space Machine is a techno and dub techno artist tracked on soundcheck, wit
 
 Eversines, Kaap, Nathan Kofi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

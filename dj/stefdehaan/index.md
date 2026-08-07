@@ -1,6 +1,6 @@
 # Stef de Haan
 
-Stef de Haan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+Stef de Haan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
 Stef de Haan is a techno and house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Stef de Haan is a techno and house artist based in Netherlands, tracked on sound
 
 Anton Jonathan, DJ Babyblade, EliaHaze
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*

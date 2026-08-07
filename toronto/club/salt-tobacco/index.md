@@ -1,6 +1,6 @@
 # Salt & Tobacco
 
-Salt & Tobacco is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Sunday Window" on Sun, 9 Aug 2026.
+Salt & Tobacco is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sunday Window" on Sun, 9 Aug 2026.
 
 Salt & Tobacco is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Olekhar. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Salt & Tobacco is a music venue in Toronto listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Sunday Window | Olekhar |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/salt-tobacco/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/salt-tobacco/)*

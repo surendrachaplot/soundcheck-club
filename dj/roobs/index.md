@@ -1,6 +1,6 @@
 # Roobs
 
-Roobs is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Yaga Bar, Kuala Lumpur on Fri, 7 Aug 2026.
+Roobs is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Yaga Bar, Kuala Lumpur on Fri, 7 Aug 2026.
 
 Roobs is a techno and trance artist based in Malaysia, tracked on soundcheck, with 26 sets logged across Kualalumpur. Often billed alongside Yrag L, Jason Voon and 96000hz. Next up: TBA - Yaga Bar, Kualalumpur on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Roobs is a techno and trance artist based in Malaysia, tracked on soundcheck, wi
 
 Yrag L, Jason Voon, 96000hz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roobs/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roobs/)*

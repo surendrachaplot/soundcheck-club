@@ -1,6 +1,6 @@
 # Capablanca
 
-Capablanca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
+Capablanca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 15 Aug 2026.
 
 Capablanca is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside FFAN, CHIDA and CVLT. Next up: Quinta do Miratejo, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Capablanca is a house and techno artist based in Germany, tracked on soundcheck,
 
 FFAN, CHIDA, CVLT
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capablanca/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capablanca/)*

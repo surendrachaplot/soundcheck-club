@@ -1,6 +1,6 @@
 # UNORDNUNGSAMT
 
-UNORDNUNGSAMT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at M01, Berlin on Fri, 7 Aug 2026.
+UNORDNUNGSAMT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at M01, Berlin on Fri, 7 Aug 2026.
 
 UNORDNUNGSAMT is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Nurnberg. Often billed alongside MEGUROLOVE, Paraçek and SIMOFF. Next up: M01, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ UNORDNUNGSAMT is a techno and trance artist based in Germany, tracked on soundch
 
 MEGUROLOVE, Paraçek, SIMOFF
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unordnungsamt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unordnungsamt/)*

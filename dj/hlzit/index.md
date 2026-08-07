@@ -1,6 +1,6 @@
 # HLZ (IT)
 
-HLZ (IT) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kaskada, Warsaw on Fri, 14 Aug 2026.
+HLZ (IT) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kaskada, Warsaw on Fri, 14 Aug 2026.
 
 HLZ (IT) is a jungle and drum & bass artist based in Italy, tracked on soundcheck, with 3 sets logged across Milan, Prague and Warsaw. Often billed alongside Akrom (IT), Ardimann MC and Doc Scott. Next up: Kaskada, Warsaw on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ HLZ (IT) is a jungle and drum & bass artist based in Italy, tracked on soundchec
 
 Akrom (IT), Ardimann MC, Doc Scott
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hlzit/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hlzit/)*

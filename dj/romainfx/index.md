@@ -1,6 +1,6 @@
 # Romain Fx
 
-Romain Fx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 8 Aug 2026.
+Romain Fx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Edifício Martinelli, Sao Paulo on Sat, 8 Aug 2026.
 
 Romain Fx is a house and disco artist based in China, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Berlin and Bucharest and 20 more. Often billed alongside Maï-Linh, Ryu (2) and KOTSU. Next up: Edifício Martinelli, Saopaulo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Romain Fx is a house and disco artist based in China, tracked on soundcheck, wit
 
 Maï-Linh, Ryu (2), KOTSU
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romainfx/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romainfx/)*

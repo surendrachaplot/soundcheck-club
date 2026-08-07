@@ -1,8 +1,8 @@
 # Numm
 
-Numm is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "GOOSEBUMPS" on Fri, 7 Aug 2026.
+Numm is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "GOOSEBUMPS" on Fri, 7 Aug 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 135 (1), Blue Flower, Calm and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including 135 (1), Blue Flower, Calm and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Numm is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with li
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

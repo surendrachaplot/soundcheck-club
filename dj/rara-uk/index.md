@@ -1,6 +1,6 @@
 # rára
 
-rára is a Dancehall and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Steel Yard, London on Fri, 11 Sept 2026.
+rára is a Dancehall and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Steel Yard, London on Fri, 11 Sept 2026.
 
 rára is a dancehall and disco artist tracked on soundcheck, with 11 sets logged across Edinburgh, Glasgow, London and Prague. Often billed alongside Shadobeni, Milli and Almass Badat. Next up: The Steel Yard, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ rára is a dancehall and disco artist tracked on soundcheck, with 11 sets logged
 
 Shadobeni, Milli, Almass Badat
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-uk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-uk/)*

@@ -1,6 +1,6 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 7 Aug 2026.
+Mika Heggemann is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 7 Aug 2026.
 
 Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Studio Club Malaga, Malaga on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 set
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

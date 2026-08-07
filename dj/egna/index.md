@@ -1,6 +1,6 @@
 # Egna
 
-Egna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 15 Aug 2026.
+Egna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 15 Aug 2026.
 
 Egna is a techno and trance artist tracked on soundcheck, with 65 sets logged across Antwerp, Brussels, Cologne and Krakow and 4 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: La Station - Gare des Mines, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Egna is a techno and trance artist tracked on soundcheck, with 65 sets logged ac
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

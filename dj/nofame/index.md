@@ -1,6 +1,6 @@
 # No Fame
 
-No Fame is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, Athens on Sat, 8 Aug 2026.
+No Fame is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Athens on Sat, 8 Aug 2026.
 
 No Fame is a techno and trance artist based in Spain, tracked on soundcheck, with 5 sets logged across Amsterdam, Athens and Madrid. Often billed alongside Anika Kunst, Balheim and Jasmín. Next up: TBA - Secret Location, Athens on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ No Fame is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Anika Kunst, Balheim, Jasmín
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nofame/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nofame/)*

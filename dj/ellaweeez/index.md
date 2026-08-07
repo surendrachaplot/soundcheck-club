@@ -1,6 +1,6 @@
 # Ellaweeez
 
-Ellaweeez is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ballroom at Palais, London on Fri, 7 Aug 2026.
+Ellaweeez is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ballroom at Palais, London on Fri, 7 Aug 2026.
 
 Ellaweeez is a house and garage artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp and London. Often billed alongside Kojay, Ariane V and DJ Bone. Next up: Ballroom at Palais, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Ellaweeez is a house and garage artist based in United Kingdom, tracked on sound
 
 Kojay, Ariane V, DJ Bone
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*

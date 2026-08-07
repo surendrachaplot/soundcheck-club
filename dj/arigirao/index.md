@@ -1,6 +1,6 @@
 # Ari Girao
 
-Ari Girao is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
+Ari Girao is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
 
 Ari Girao is an electronica and tech house artist based in Portugal, tracked on soundcheck, with 10 sets logged across Lisbon. Often billed alongside Vintage Culture, Armand Van Helden and Carlita. Next up: Forte Santo António da Barra, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ari Girao is an electronica and tech house artist based in Portugal, tracked on 
 
 Vintage Culture, Armand Van Helden, Carlita
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arigirao/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arigirao/)*

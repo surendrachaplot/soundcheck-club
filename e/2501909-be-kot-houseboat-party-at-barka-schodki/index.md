@@ -1,6 +1,6 @@
 # Bełkot HOUSEBOAT PARTY at Barka Schodki
 
-Bełkot HOUSEBOAT PARTY at Barka Schodki on Fri 14 Aug, Warsaw. 2 acts on the bill: Dedenia and Viennaus. Techno and House. Preview the line-up and save it on soundcheck.
+Bełkot HOUSEBOAT PARTY at Barka Schodki on Fri 14 Aug, Warsaw. 4 acts on the bill: Dedenia, Mambi Dexter, Viennaus and Vounce. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Bełkot HOUSEBOAT PARTY at Barka Schodki on Fri 14 Aug, Warsaw. 2 acts on the bi
 ## Line-up
 
 - Dedenia
+- Mambi Dexter
 - Viennaus
+- Vounce
 
 *Source: [soundcheck](https://soundcheck.club/e/2501909-be-kot-houseboat-party-at-barka-schodki/)*

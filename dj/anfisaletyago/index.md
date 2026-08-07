@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 8 Aug 2026.
+Anfisa Letyago is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 8 Aug 2026.
 
 Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Eli Brown, Enrico Sangiuliano and Héctor Oaks. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets
 
 Eli Brown, Enrico Sangiuliano, Héctor Oaks
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

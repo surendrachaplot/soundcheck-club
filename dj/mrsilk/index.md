@@ -1,6 +1,6 @@
 # Mr Silk
 
-Mr Silk is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at E1, London on Sat, 22 Aug 2026.
+Mr Silk is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at E1, London on Sat, 22 Aug 2026.
 
 Mr Silk is an afro house and amapiano artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Boddhi Satva, AfroKillerz and BADBOX. Next up: E1, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mr Silk is an afro house and amapiano artist based in United Kingdom, tracked on
 
 Boddhi Satva, AfroKillerz, BADBOX
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsilk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsilk/)*

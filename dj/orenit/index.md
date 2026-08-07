@@ -1,6 +1,6 @@
 # Oren (IT)
 
-Oren (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
+Oren (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Doggy Klœb, Malaga on Fri, 7 Aug 2026.
 
 Oren (IT) is an electro and house artist tracked on soundcheck, with 38 sets logged across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: Doggy Klœb, Malaga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Oren (IT) is an electro and house artist tracked on soundcheck, with 38 sets log
 
 Peter Grand, Yuma (UK), FeR (IT)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*

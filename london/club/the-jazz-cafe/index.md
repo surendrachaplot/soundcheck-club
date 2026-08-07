@@ -1,14 +1,13 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 47 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Shaggy" on Thu, 6 Aug 2026.
+The Jazz Cafe is a music venue in London with 46 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Juls — Jazz Cafe Residency (4 Fridays in the Summer)" on Fri, 7 Aug 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 47 upcoming nights, with line-ups including AMANDA SZE, AMARI, Amy Os and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including AMANDA SZE, AMARI, Amy Os and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Shaggy | Shaggy |
 | Fri, 7 Aug 2026 | Juls — Jazz Cafe Residency (4 Fridays in the Summer) | Dj Nico, Duo, HARUNA (2), Hagan, Juls, Kwamzy, Larizzle, Papu Raf, Rhiavas |
 | Fri, 7 Aug 2026 | Juls — Jazz Cafe Residency (4 Fridays in the Summer - 7 August) | Duo, Juls, Kwamzy, Larizzle, Rhiavas |
 | Sat, 8 Aug 2026 | Soul City: House Music Every Saturday Night |  |
@@ -18,9 +17,10 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 47 upcoming night
 | Sat, 15 Aug 2026 | Razor-N-Tape Party at Jazz Cafe | JKriv |
 | Fri, 21 Aug 2026 | Juls — Jazz Cafe Residency (4 Fridays in the Summer - 21 August) | Dj Nico, HARUNA (2), Hagan, Juls, Papu Raf |
 | Sat, 22 Aug 2026 | Soul City: Day & Night Party |  |
+| Sat, 22 Aug 2026 | Soul City: House Music Every Saturday Night |  |
 
 ## Address
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

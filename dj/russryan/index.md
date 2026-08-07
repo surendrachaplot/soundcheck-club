@@ -1,6 +1,6 @@
 # Russ Ryan
 
-Russ Ryan is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jumbi, London on Sun, 16 Aug 2026.
+Russ Ryan is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jumbi, London on Sun, 16 Aug 2026.
 
 Russ Ryan is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside DJ Gilla, MarshmeLLo and Yazmin Lacey. Next up: Jumbi, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Russ Ryan is a house and jazz artist based in United Kingdom, tracked on soundch
 
 DJ Gilla, MarshmeLLo, Yazmin Lacey
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russryan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russryan/)*

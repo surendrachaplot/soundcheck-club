@@ -1,14 +1,15 @@
 # Daragma
 
-Daragma is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Rhythm, Toronto on Sat, 22 Aug 2026.
+Daragma is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Rhythm, Toronto on Sat, 22 Aug 2026.
 
-Daragma is a techno and minimal techno artist tracked on soundcheck, with 21 sets logged across Saopaulo and Toronto. Often billed alongside Barbosa, CAETANO and Chafic. Next up: Rhythm, Toronto on Sat 22 Aug.
+Daragma is a techno and minimal techno artist tracked on soundcheck, with 22 sets logged across Saopaulo and Toronto. Often billed alongside Barbosa, CAETANO and Chafic. Next up: Rhythm, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Rhythm | Toronto |
+| Fri, 11 Sept 2026 | Junction Underground | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Daragma is a techno and minimal techno artist tracked on soundcheck, with 21 set
 
 Barbosa, CAETANO, Chafic
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daragma/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daragma/)*

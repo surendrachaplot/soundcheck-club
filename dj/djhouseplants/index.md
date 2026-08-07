@@ -1,6 +1,6 @@
 # DJ Houseplants
 
-DJ Houseplants is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
+DJ Houseplants is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 20 Aug 2026.
 
 DJ Houseplants is a house and techno artist tracked on soundcheck, with 44 sets logged across Berlin, London, Losangeles and Newyorkcity and 4 more. Often billed alongside dj poolboi, sunflwr and Florence Cecile. Next up: Dead Letter No. 9, Newyorkcity on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ DJ Houseplants is a house and techno artist tracked on soundcheck, with 44 sets 
 
 dj poolboi, sunflwr, Florence Cecile
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhouseplants/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhouseplants/)*

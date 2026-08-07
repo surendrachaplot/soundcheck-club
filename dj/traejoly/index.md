@@ -1,6 +1,6 @@
 # Trae Joly
 
-Trae Joly is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Unité.22, Marseille on Fri, 14 Aug 2026.
+Trae Joly is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Unité.22, Marseille on Fri, 14 Aug 2026.
 
 Trae Joly is a bass and breakbeat artist tracked on soundcheck, with 25 sets logged across Athens, London, Lyon and Marseille and 1 more. Often billed alongside Sweet Juju (FR), Manguini and SANA. Next up: Unité.22, Marseille on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Trae Joly is a bass and breakbeat artist tracked on soundcheck, with 25 sets log
 
 Sweet Juju (FR), Manguini, SANA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traejoly/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traejoly/)*

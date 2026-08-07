@@ -1,6 +1,6 @@
 # DJ Kiti
 
-DJ Kiti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
+DJ Kiti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
 
 DJ Kiti is a techno and house artist tracked on soundcheck, with 101 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Solace, Melbourne on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ DJ Kiti is a techno and house artist tracked on soundcheck, with 101 sets logged
 
 Mike Callander, Acid Safari, Chiara Kickdrum
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkiti/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkiti/)*

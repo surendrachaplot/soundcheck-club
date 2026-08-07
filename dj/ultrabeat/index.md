@@ -1,6 +1,6 @@
 # Ultrabeat
 
-Ultrabeat is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
+Ultrabeat is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Ultrabeat is a club and trance artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Edinburgh, Glasgow, Ibiza and Leeds and 5 more. Often billed alongside Billy Gillies, DJ Zitkus and Ian Van Dahl. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Ultrabeat is a club and trance artist based in United Kingdom, tracked on soundc
 
 Billy Gillies, DJ Zitkus, Ian Van Dahl
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabeat/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabeat/)*

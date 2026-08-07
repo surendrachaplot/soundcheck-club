@@ -1,6 +1,6 @@
 # Ryuichi Sakamoto
 
-Ryuichi Sakamoto is a Classical and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 7 Aug 2026.
+Ryuichi Sakamoto is a Classical and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 7 Aug 2026.
 
 Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Alva Noto, Stephen O'Malley and Blackhaine. Next up: The Sound Lounge at Percy, Philadelphia on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Ryuichi Sakamoto is a classical and pop artist based in Japan, tracked on soundc
 
 Alva Noto, Stephen O'Malley, Blackhaine
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichisakamoto/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichisakamoto/)*

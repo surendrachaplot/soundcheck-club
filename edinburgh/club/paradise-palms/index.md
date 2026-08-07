@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Cakie Biscuits" on Fri, 7 Aug 2026.
+Paradise Palms is a music venue in Edinburgh with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Cakie Biscuits" on Fri, 7 Aug 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 6 upcoming nights, with line-ups including aminabonthebeat, Cakiebiscuits and Ravelston. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -19,4 +19,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 6 upcoming ni
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

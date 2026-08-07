@@ -1,6 +1,6 @@
 # Djavan Guy
 
-Djavan Guy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Happyfun Hideaway, New York City on Sun, 9 Aug 2026.
+Djavan Guy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Happyfun Hideaway, New York City on Sun, 9 Aug 2026.
 
 Djavan Guy is an afro house and afro tech artist based in United States of America, tracked on soundcheck, with 49 sets logged across Newyorkcity. Often billed alongside NewYorkKnick, Sade James and Stevo Blaque. Next up: Happyfun Hideaway, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Djavan Guy is an afro house and afro tech artist based in United States of Ameri
 
 NewYorkKnick, Sade James, Stevo Blaque
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djavanguy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djavanguy/)*

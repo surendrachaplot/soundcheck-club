@@ -1,8 +1,8 @@
 # HiHat
 
-HiHat is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+HiHat is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
 
-HiHat is a techno and trance artist tracked on soundcheck, with 116 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: ://about blank, Berlin on Sat 15 Aug.
+HiHat is a techno and trance artist tracked on soundcheck, with 117 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: ://about blank, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ HiHat is a techno and trance artist tracked on soundcheck, with 116 sets logged 
 | Sat, 22 Aug 2026 | Artheater | Cologne |
 | Sat, 5 Sept 2026 | Gewölbe | Cologne |
 | Sat, 26 Sept 2026 | fi | Cologne |
+| Sat, 26 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ HiHat is a techno and trance artist tracked on soundcheck, with 116 sets logged 
 
 DJ Palga, DJ Fucks Himself, Arno
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*

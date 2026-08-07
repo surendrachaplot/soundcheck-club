@@ -1,6 +1,6 @@
 # Jasper James
 
-Jasper James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Eden NYC, New York City on Fri, 7 Aug 2026.
+Jasper James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eden NYC, New York City on Fri, 7 Aug 2026.
 
 Jasper James is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Ewan McVicar, MiNNA and Tom Trago. Next up: Eden NYC, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Jasper James is a house and techno artist tracked on soundcheck, with 91 sets lo
 
 Ewan McVicar, MiNNA, Tom Trago
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*

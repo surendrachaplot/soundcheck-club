@@ -1,6 +1,6 @@
 # FC Kabagar
 
-FC Kabagar is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 23 Aug 2026.
+FC Kabagar is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 23 Aug 2026.
 
 FC Kabagar is a trance and techno artist based in France, tracked on soundcheck, with 12 sets logged across Berlin, Madrid, Nantes and Paris. Often billed alongside DJ Football, EARGASM GOD and Kenzzza. Next up: Lokschuppen Berlin, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ FC Kabagar is a trance and techno artist based in France, tracked on soundcheck,
 
 DJ Football, EARGASM GOD, Kenzzza
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fckabagar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fckabagar/)*

@@ -1,6 +1,6 @@
 # Cakes Da Killa
 
-Cakes Da Killa is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
+Cakes Da Killa is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
 
 Cakes Da Killa is a club and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Byrell The Great, Honey Dijon and Roza Terenzi. Next up: Société des arts technologiques, Montreal on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Cakes Da Killa is a club and house artist based in United States of America, tra
 
 Byrell The Great, Honey Dijon, Roza Terenzi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cakesdakilla/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cakesdakilla/)*

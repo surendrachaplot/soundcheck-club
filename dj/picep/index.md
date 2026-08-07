@@ -1,6 +1,6 @@
 # Picep
 
-Picep is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
+Picep is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 7 Aug 2026.
 
 Picep is an afro house and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London. Often billed alongside MEERA (UK), Aur0m and Simon Alfred. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Picep is an afro house and techno artist based in United Kingdom, tracked on sou
 
 MEERA (UK), Aur0m, Simon Alfred
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*

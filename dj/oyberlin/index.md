@@ -1,6 +1,6 @@
 # O/Y
 
-O/Y is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+O/Y is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 O/Y is a deep house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Basel, Berlin and Ghent and 9 more. Often billed alongside Black Mirror Park, Telva and Rafush. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ O/Y is a deep house and techno artist based in Germany, tracked on soundcheck, w
 
 Black Mirror Park, Telva, Rafush
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyberlin/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyberlin/)*

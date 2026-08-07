@@ -1,8 +1,8 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+ANNĒ is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-ANNĒ is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Sera J. Next up: Gianpula Village, Malta on Wed 12 Aug.
+ANNĒ is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 176 sets logged a
 | Fri, 21 Aug 2026 | Yamamori Tengu | Dublin |
 | Sat, 22 Aug 2026 | Palais | London |
 | Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 5 Sept 2026 | KMSKA | Antwerp |
 | Fri, 11 Sept 2026 | essaim | Paris |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | TBA | Sao Paulo |
 | Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
-| Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 176 sets logged a
 
 ## Shares bills with
 
-SHDW, Sol Ortega, Sera J
+SHDW, Sol Ortega, Alarico
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

@@ -1,6 +1,6 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+Matroda is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 Matroda is a house and tech house artist tracked on soundcheck, with 77 sets logged across Austin, Basel, Berlin and Boston and 20 more. Often billed alongside J. Worra, Mary Droppinz and Max Styler. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Matroda is a house and tech house artist tracked on soundcheck, with 77 sets log
 
 J. Worra, Mary Droppinz, Max Styler
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

@@ -1,10 +1,10 @@
 # The Subsurface Shakedown at Fringe Bar
 
-The Subsurface Shakedown at Fringe Bar on Sat 8 Aug, Philadelphia. 5 acts on the bill: John Raffaele, Keen, Rob Paine and Ty Salone and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+The Subsurface Shakedown at Fringe Bar on Fri 25 Sept, Philadelphia. 5 acts on the bill: John Raffaele, Keen, Rob Paine and Ty Salone and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Fri, 25 Sept 2026 |
 | Venue | Fringe Bar |
 | City | Philadelphia |
 

@@ -1,6 +1,6 @@
 # Jordan Hearns
 
-Jordan Hearns is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
+Jordan Hearns is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
 
 Jordan Hearns is an electronic artist based in Ireland, tracked on soundcheck, with 13 sets logged across Dublin and London. Often billed alongside Gadget & The Cloud, Daire Carolan and Ms.G. Next up: Distillery N17, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jordan Hearns is an electronic artist based in Ireland, tracked on soundcheck, w
 
 Gadget & The Cloud, Daire Carolan, Ms.G
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanhearns/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanhearns/)*

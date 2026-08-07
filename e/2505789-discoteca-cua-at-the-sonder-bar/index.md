@@ -1,10 +1,10 @@
 # Discoteca Cua at The Sonder Bar
 
-Discoteca Cua at The Sonder Bar on Sat 8 Aug, Portland. Disco. Preview the line-up and save it on soundcheck.
+Discoteca Cua at The Sonder Bar on Fri 14 Aug, Portland. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Fri, 14 Aug 2026 |
 | Venue | The Sonder Bar |
 | City | Portland |
 

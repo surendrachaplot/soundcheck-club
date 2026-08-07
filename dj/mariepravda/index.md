@@ -1,6 +1,6 @@
 # Marie Pravda
 
-Marie Pravda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
+Marie Pravda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
 
 Marie Pravda is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 14 more. Often billed alongside fleika, Kobayashi Maru and Dean High. Next up: Altenburg 1964, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Marie Pravda is a techno and house artist tracked on soundcheck, with 117 sets l
 
 fleika, Kobayashi Maru, Dean High
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariepravda/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariepravda/)*

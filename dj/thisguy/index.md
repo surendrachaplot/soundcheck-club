@@ -1,6 +1,6 @@
 # This Guy
 
-This Guy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
+This Guy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
 
 This Guy is a techno and house artist tracked on soundcheck, with 26 sets logged across Manchester. Often billed alongside Deventi, Ally Shone and Jess Rose. Next up: Honey Street Studio, Manchester on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ This Guy is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 Deventi, Ally Shone, Jess Rose
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thisguy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thisguy/)*

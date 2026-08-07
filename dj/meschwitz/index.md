@@ -1,6 +1,6 @@
 # Meschwitz
 
-Meschwitz is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Boston on Fri, 21 Aug 2026.
+Meschwitz is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Boston on Fri, 21 Aug 2026.
 
 Meschwitz is a techno and acid artist based in Bolivia, tracked on soundcheck, with 22 sets logged across Boston and Newyorkcity. Often billed alongside Xoce, Niqi and Ketzaal. Next up: TBA, Boston on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Meschwitz is a techno and acid artist based in Bolivia, tracked on soundcheck, w
 
 Xoce, Niqi, Ketzaal
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meschwitz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meschwitz/)*

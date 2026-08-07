@@ -1,6 +1,6 @@
 # Miazmat RESTART at K-Bar Powiśle
 
-Miazmat RESTART at K-Bar Powiśle on Sat 15 Aug, Warsaw. 9 acts on the bill: Buchan, DD, DJNIEMUSIAŁ and DOMEL and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Miazmat RESTART at K-Bar Powiśle on Sat 15 Aug, Warsaw. 10 acts on the bill: Buchan, DD, DJNIEMUSIAŁ and DOMEL and 6 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Miazmat RESTART at K-Bar Powiśle on Sat 15 Aug, Warsaw. 9 acts on the bill: Buc
 - DJNIEMUSIAŁ
 - DOMEL
 - Leona Jacewska
+- MARCUCCIO
 - MATRIX3K
 - Private Press
 - Sinmo

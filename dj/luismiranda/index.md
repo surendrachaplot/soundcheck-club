@@ -1,6 +1,6 @@
 # LUIS MIRANDA
 
-LUIS MIRANDA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
+LUIS MIRANDA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
 
 LUIS MIRANDA is a techno and trance artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Madrid, Sandiego and Vancouver and 1 more. Often billed alongside Behrad Tehrani, DJ Hyperactive and Drumcell. Next up: TBA - Los Angeles, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ LUIS MIRANDA is a techno and trance artist based in United States of America, tr
 
 Behrad Tehrani, DJ Hyperactive, Drumcell
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luismiranda/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luismiranda/)*

@@ -1,6 +1,6 @@
 # Ka Nalu
 
-Ka Nalu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Boomerang Beach, The Hague on Sat, 15 Aug 2026.
+Ka Nalu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Boomerang Beach, The Hague on Sat, 15 Aug 2026.
 
 Ka Nalu is a house and techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Thehague. Often billed alongside AMORAL, DORA and Lobster (NL). Next up: Boomerang Beach, Thehague on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Ka Nalu is a house and techno artist based in Netherlands, tracked on soundcheck
 
 AMORAL, DORA, Lobster (NL)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanalu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanalu/)*

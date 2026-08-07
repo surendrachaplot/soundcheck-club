@@ -1,6 +1,6 @@
 # Axle
 
-Axle is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
+Axle is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
 
 Axle is a dubstep and bass artist tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Edinburgh and London and 4 more. Often billed alongside Fearless Dread, Henry Greenleaf and Sharnie. Next up: The Cider Box, Bristol on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Axle is a dubstep and bass artist tracked on soundcheck, with 25 sets logged acr
 
 Fearless Dread, Henry Greenleaf, Sharnie
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axle/)*

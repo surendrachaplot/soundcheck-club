@@ -1,6 +1,6 @@
 # PIRAPUS
 
-PIRAPUS is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
+PIRAPUS is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
 
 PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 12 sets logged across Amsterdam, Auckland, Bristol and Budapest and 6 more. Often billed alongside Grafix, 1991 (UK) and Anaïs. Next up: Le Kilowatt, Paris on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 12 sets log
 
 Grafix, 1991 (UK), Anaïs
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*

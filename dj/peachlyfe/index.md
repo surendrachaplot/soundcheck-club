@@ -1,6 +1,6 @@
 # Peachlyfe
 
-Peachlyfe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
+Peachlyfe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
 
 Peachlyfe is a techno and trance artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Pumpehuset, Copenhagen on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Peachlyfe is a techno and trance artist tracked on soundcheck, with 122 sets log
 
 Ezy, Schacke, DJ Nah Care
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*

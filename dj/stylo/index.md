@@ -1,6 +1,6 @@
 # Stylo
 
-Stylo is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ciudad Del Rock, Madrid on Sat, 26 Sept 2026.
+Stylo is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ciudad Del Rock, Madrid on Sat, 26 Sept 2026.
 
 Stylo is a hip-hop and techno artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Anyma, DJ B2B and Mind Against. Next up: Ciudad Del Rock, Madrid on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Stylo is a hip-hop and techno artist tracked on soundcheck, with 17 sets logged 
 
 Anyma, DJ B2B, Mind Against
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*

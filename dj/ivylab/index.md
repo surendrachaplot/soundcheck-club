@@ -1,8 +1,8 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 77 sets logged across Antwerp, Auckland, Austin and Berlin and 28 more. Often billed alongside Kasra, Lake Hills and SP:MC. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 78 sets logged across Antwerp, Auckland, Austin and Berlin and 28 more. Often billed alongside Kasra, Lake Hills and SP:MC. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 77 sets log
 | Fri, 11 Sept 2026 | Lincoln Factory | Detroit |
 | Fri, 25 Sept 2026 | Ogden Theatre | Denver |
 | Sat, 26 Sept 2026 | Substation | Seattle |
+| Thu, 8 Oct 2026 | Smoke & Mirrors | Chicago |
 | Sat, 10 Oct 2026 | SILO | New York City |
 | Sat, 24 Oct 2026 | Public Works | San Francisco/Oakland |
 
@@ -30,4 +31,4 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 77 sets log
 
 Kasra, Lake Hills, SP:MC
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

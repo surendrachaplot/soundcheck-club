@@ -1,6 +1,6 @@
 # Théo Muller
 
-Théo Muller is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Théo Muller is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Théo Muller is a techno and bass artist tracked on soundcheck, with 10 sets logged across Lisbon, Lyon, Marseille and Nantes and 1 more. Often billed alongside ojoo, NVST and Salma Rosa. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Théo Muller is a techno and bass artist tracked on soundcheck, with 10 sets log
 
 ojoo, NVST, Salma Rosa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theomuller/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theomuller/)*

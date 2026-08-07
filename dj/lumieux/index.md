@@ -1,6 +1,6 @@
 # Lumieux
 
-Lumieux is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Forge, Bucharest on Sat, 8 Aug 2026.
+Lumieux is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Forge, Bucharest on Sat, 8 Aug 2026.
 
 Lumieux is a minimal and house artist tracked on soundcheck, with 15 sets logged across Barcelona, Bucharest, Budapest and London and 1 more. Often billed alongside Kane Solo, LUUD and Nu Zau. Next up: Forge, Bucharest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lumieux is a minimal and house artist tracked on soundcheck, with 15 sets logged
 
 Kane Solo, LUUD, Nu Zau
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumieux/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumieux/)*

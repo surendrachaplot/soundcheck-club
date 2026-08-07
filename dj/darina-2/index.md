@@ -1,6 +1,6 @@
 # Darina (2)
 
-Darina (2) is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tagada, Vienna on Sat, 15 Aug 2026.
+Darina (2) is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tagada, Vienna on Sat, 15 Aug 2026.
 
 Darina (2) is an industrial and experimental artist based in Ukraine, tracked on soundcheck, with 2 sets logged across Vienna. Often billed alongside Annakonda, Bordërlane and Evanora Unlimited. Next up: Tagada, Vienna on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Darina (2) is an industrial and experimental artist based in Ukraine, tracked on
 
 Annakonda, Bordërlane, Evanora Unlimited
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darina-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darina-2/)*

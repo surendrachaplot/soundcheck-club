@@ -1,6 +1,6 @@
 # ganz oder gar nicht
 
-ganz oder gar nicht is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Thu, 20 Aug 2026.
+ganz oder gar nicht is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Thu, 20 Aug 2026.
 
 ganz oder gar nicht is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside justUS, hörmi and AELVA K. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Thu 20 Aug.
 
@@ -22,4 +22,4 @@ ganz oder gar nicht is a house and techno artist based in Germany, tracked on so
 
 justUS, hörmi, AELVA K
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ganzodergarnicht/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ganzodergarnicht/)*

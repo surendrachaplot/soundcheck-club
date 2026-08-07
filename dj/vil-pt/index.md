@@ -1,6 +1,6 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
+VIL (PT) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
 
 VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: Lux Fragil, Lisbon on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 CRAVO, Temudo, Nørbak
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

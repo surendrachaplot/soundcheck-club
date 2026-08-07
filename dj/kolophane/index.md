@@ -1,6 +1,6 @@
 # Kolophane
 
-Kolophane is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 28 Aug 2026.
+Kolophane is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 28 Aug 2026.
 
 Kolophane is a progressive house and techno artist tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside AYEENB, Berkaï and Underthebed. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Kolophane is a progressive house and techno artist tracked on soundcheck, with 7
 
 AYEENB, Berkaï, Underthebed
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolophane/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolophane/)*

@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Generous B presents" on Thu, 6 Aug 2026.
+Jolene Downtown Miami is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "MADAFAKAZ: Laidlaw" on Fri, 7 Aug 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Arapu, Archie Hamilton, Ben Roberts and Daizy and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including Arapu, Archie Hamilton, Daizy and DIFFER and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Generous B presents | Ben Roberts, Generous B |
 | Fri, 7 Aug 2026 | MADAFAKAZ: Laidlaw | Laidlaw, Ms. Mada, Natalia Roth |
 | Sat, 8 Aug 2026 | LuSiD | Mick Jerome, Thunderpony |
 | Thu, 13 Aug 2026 | slugg b2b Ms. Mada (All Night Long) | Ms. Mada, slugg |
@@ -18,9 +17,10 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcomin
 | Fri, 21 Aug 2026 | Archie Hamilton  | Archie Hamilton, Malone, Nicole Gallamini |
 | Sat, 22 Aug 2026 | Gerd Janson | Gerd Janson, Will Buck |
 | Fri, 28 Aug 2026 | Arapu, Sepp, & more | Arapu, Sepp |
+| Fri, 4 Sept 2026 | KinAhau | KinAhau |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

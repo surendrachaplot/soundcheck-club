@@ -1,6 +1,6 @@
 # Alex Kislov
 
-Alex Kislov is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Castaways, Chicago on Fri, 7 Aug 2026.
+Alex Kislov is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Castaways, Chicago on Fri, 7 Aug 2026.
 
 Alex Kislov is a house and tech house artist tracked on soundcheck, with 43 sets logged across Chicago. Often billed alongside ARVI MALA, Phives and AMARI. Next up: Castaways, Chicago on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Alex Kislov is a house and tech house artist tracked on soundcheck, with 43 sets
 
 ARVI MALA, Phives, AMARI
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkislov/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkislov/)*

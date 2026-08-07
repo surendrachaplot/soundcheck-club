@@ -1,6 +1,6 @@
 # Linh Violet
 
-Linh Violet is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Acadana, Hong Kong on Sat, 8 Aug 2026.
+Linh Violet is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Acadana, Hong Kong on Sat, 8 Aug 2026.
 
 Linh Violet is a techno and psytrance artist based in China, tracked on soundcheck, with 19 sets logged across Bangkok, Hongkong and Shenzhen. Often billed alongside KONTOMO, AngeliKa and Finsent C. Next up: Acadana, Hongkong on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Linh Violet is a techno and psytrance artist based in China, tracked on soundche
 
 KONTOMO, AngeliKa, Finsent C
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linhviolet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linhviolet/)*

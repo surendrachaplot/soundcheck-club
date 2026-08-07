@@ -1,14 +1,15 @@
 # Pulpix
 
-Pulpix is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sala El Sol, Madrid on Sat, 8 Aug 2026.
+Pulpix is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sala El Sol, Madrid on Sat, 8 Aug 2026.
 
-Pulpix is a techno and acid artist tracked on soundcheck, with 189 sets logged across Ibiza and Madrid. Often billed alongside Nixy, Trenzark and Syperx. Next up: Sala El Sol, Madrid on Sat 8 Aug.
+Pulpix is a techno and acid artist tracked on soundcheck, with 190 sets logged across Ibiza and Madrid. Often billed alongside Nixy, Trenzark and Syperx. Next up: Sala El Sol, Madrid on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Sala El Sol | Madrid |
+| Wed, 12 Aug 2026 | Sala El Sol | Madrid |
 | Sat, 15 Aug 2026 | Sala Pirandelo | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Pulpix is a techno and acid artist tracked on soundcheck, with 189 sets logged a
 
 Nixy, Trenzark, Syperx
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pulpix/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pulpix/)*

@@ -1,6 +1,6 @@
 # jaql
 
-jaql is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
+jaql is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
 
 jaql is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 36 sets logged across London, Newyorkcity, Portland and Seoul. Often billed alongside Poisonfrog, Don-Ri and Dwarde. Next up: 314 Scholes St, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ jaql is a jungle and drum & bass artist based in United States of America, track
 
 Poisonfrog, Don-Ri, Dwarde
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaql/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaql/)*

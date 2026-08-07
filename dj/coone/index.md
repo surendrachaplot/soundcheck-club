@@ -1,6 +1,6 @@
 # Coone
 
-Coone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Coone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Coone is a techno and house artist based in Belgium, tracked on soundcheck, with 18 sets logged across Amsterdam, Dusseldorf, Glasgow and London and 5 more. Often billed alongside Brennan Heart, Da Tweekaz and Dual Damage. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Coone is a techno and house artist based in Belgium, tracked on soundcheck, with
 
 Brennan Heart, Da Tweekaz, Dual Damage
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*

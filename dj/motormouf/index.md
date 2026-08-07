@@ -1,6 +1,6 @@
 # Motormouf
 
-Motormouf is a Hip-Hop and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Commune, Liverpool on Sat, 8 Aug 2026.
+Motormouf is a Hip-Hop and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Commune, Liverpool on Sat, 8 Aug 2026.
 
 Motormouf is a hip-hop and garage artist tracked on soundcheck, with 9 sets logged across Liverpool and London. Often billed alongside Beat Detective, Matica and Charlie Power. Next up: Commune, Liverpool on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Motormouf is a hip-hop and garage artist tracked on soundcheck, with 9 sets logg
 
 Beat Detective, Matica, Charlie Power
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motormouf/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motormouf/)*

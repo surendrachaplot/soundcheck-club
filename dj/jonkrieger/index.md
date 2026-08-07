@@ -1,6 +1,6 @@
 # JON KRIEGER
 
-JON KRIEGER is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at radial, London on Fri, 7 Aug 2026.
+JON KRIEGER is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at radial, London on Fri, 7 Aug 2026.
 
 JON KRIEGER is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, Brussels, London and Zurich. Often billed alongside Jane Darke, Arrosa and Claudia Kane. Next up: radial, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ JON KRIEGER is a techno and ebm artist based in United Kingdom, tracked on sound
 
 Jane Darke, Arrosa, Claudia Kane
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*

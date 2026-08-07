@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Katernacht with GiZ, Nyra, Ben Evers, Diass + more" on Fri, 7 Aug 2026.
+Kater is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Katernacht with GiZ, Nyra, Ben Evers, Diass + more" on Fri, 7 Aug 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with 
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

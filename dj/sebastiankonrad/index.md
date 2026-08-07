@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
+Sebastian Konrad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
 
 Sebastian Konrad is a house and techno artist tracked on soundcheck, with 53 sets logged across Basel, Berlin, Dusseldorf and Ibiza and 7 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Hive Club, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Sebastian Konrad is a house and techno artist tracked on soundcheck, with 53 set
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

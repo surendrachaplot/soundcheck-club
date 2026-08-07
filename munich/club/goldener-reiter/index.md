@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "CALABAZZA Showcase with Louisianaha b2b Sniff, Lou Velvet, Pynewood b2b Sabrina Hawk" on Fri, 7 Aug 2026.
+Goldener Reiter is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "CALABAZZA Showcase with Louisianaha b2b Sniff, Lou Velvet, Pynewood b2b Sabrina Hawk" on Fri, 7 Aug 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including André Dancekowski, Jeyrototo, Jôka and Louisianaha and 2 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -16,4 +16,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 3 upcoming nigh
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

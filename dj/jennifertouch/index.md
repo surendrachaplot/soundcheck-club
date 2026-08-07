@@ -1,6 +1,6 @@
 # Jennifer Touch
 
-Jennifer Touch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
+Jennifer Touch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
 
 Jennifer Touch is a techno and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brighton and Leipzig and 5 more. Often billed alongside Melanie Havens, Paranoid London and Paty Vapor. Next up: Kater, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jennifer Touch is a techno and house artist tracked on soundcheck, with 24 sets 
 
 Melanie Havens, Paranoid London, Paty Vapor
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennifertouch/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennifertouch/)*

@@ -1,6 +1,6 @@
 # Polyop
 
-Polyop is a Club and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
+Polyop is a Club and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
 
 Polyop is a club and acid artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Fresh Lov3, Obscenity State and A Guy Called Gerald. Next up: Aaja Basement, London on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Polyop is a club and acid artist based in United Kingdom, tracked on soundcheck,
 
 Fresh Lov3, Obscenity State, A Guy Called Gerald
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polyop/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polyop/)*

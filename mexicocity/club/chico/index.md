@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Harppp y Silencio EPI" on Fri, 7 Aug 2026.
+CHICO is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Harppp y Silencio EPI" on Fri, 7 Aug 2026.
 
 CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including DJ Earth Angel, Juni, Louie El Ser and Profesito and 2 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -9,7 +9,7 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Harppp y Silencio EPI | Turning Torso, Von Temple |
-| Sat, 8 Aug 2026 | House of CHICO |  |
+| Sat, 8 Aug 2026 | house of legends |  |
 | Thu, 13 Aug 2026 | Selección Mejicana de Djismo |  |
 | Sat, 15 Aug 2026 | Deseo en CHICO CDMX ✮⋆˙ |  |
 | Fri, 21 Aug 2026 | Karate Audio Takeover |  |
@@ -19,4 +19,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, wi
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

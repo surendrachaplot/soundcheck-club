@@ -1,6 +1,6 @@
-# Mike Servito  Lauren Flax at Marble Bar
+# Mike Servito & Lauren Flax at Marble Bar
 
-Mike Servito  Lauren Flax at Marble Bar on Sat 8 Aug, Detroit. 6 acts on the bill: Ashton Swinton, BeatLoaf, Garrison XR and Lauren Flax and 2 more. Preview the line-up and save it on soundcheck.
+Mike Servito & Lauren Flax at Marble Bar on Sat 8 Aug, Detroit. 6 acts on the bill: Ashton Swinton, BeatLoaf, Garrison XR and Lauren Flax and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

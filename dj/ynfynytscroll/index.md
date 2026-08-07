@@ -1,6 +1,6 @@
 # Ynfynyt Scroll
 
-Ynfynyt Scroll is a Guaracha and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Que Sera, Los Angeles on Fri, 14 Aug 2026.
+Ynfynyt Scroll is a Guaracha and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Que Sera, Los Angeles on Fri, 14 Aug 2026.
 
 Ynfynyt Scroll is a guaracha and club artist tracked on soundcheck, with 15 sets logged across Austin, Berlin, Chicago and Losangeles and 5 more. Often billed alongside EL NICK DGO, Diablito and 4LOKA. Next up: Que Sera, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ynfynyt Scroll is a guaracha and club artist tracked on soundcheck, with 15 sets
 
 EL NICK DGO, Diablito, 4LOKA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ynfynytscroll/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ynfynytscroll/)*

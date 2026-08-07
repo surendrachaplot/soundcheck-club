@@ -1,6 +1,6 @@
 # DJ Healthy (OKOKOK)
 
-DJ Healthy (OKOKOK) is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
+DJ Healthy (OKOKOK) is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Green Room NYC, New York City on Fri, 7 Aug 2026.
 
 DJ Healthy (OKOKOK) is a house and experimental artist tracked on soundcheck, with 8 sets logged across Berlin, Leipzig, Losangeles and Newyorkcity and 1 more. Often billed alongside 131bpm, 2FARO and 7e. Next up: Green Room NYC, Newyorkcity on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ DJ Healthy (OKOKOK) is a house and experimental artist tracked on soundcheck, wi
 
 131bpm, 2FARO, 7e
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy-OKOKOK/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy-OKOKOK/)*

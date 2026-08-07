@@ -1,6 +1,6 @@
 # Kanem
 
-Kanem is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+Kanem is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
 
 Kanem is a house and deep house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Kojay, Midnight Runner and P-Lucas. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kanem is a house and deep house artist tracked on soundcheck, with 14 sets logge
 
 Kojay, Midnight Runner, P-Lucas
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*

@@ -1,8 +1,8 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Strange Brew presents Regal86 + Yushh b2b ssslip" on Fri, 7 Aug 2026.
+Strange Brew is a music venue in Bristol with 16 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Strange Brew presents Regal86 + Yushh b2b ssslip" on Fri, 7 Aug 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including Alicia Carrera, Andy Blake, Andy Mac and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 16 upcoming nights, with line-ups including Alicia Carrera, Andy Blake, Andy Mac and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming night
 | Sat, 22 Aug 2026 | Peter Van Hoesen + Ayesha: RTN x System Revival | Ayesha, Peter Van Hoesen |
 | Fri, 28 Aug 2026 | GOO: Daniel Avery B2B Richard Fearless | Daniel Avery, Richard Fearless |
 | Sat, 29 Aug 2026 | PTS ϟ daisy* (fka BABii), Mun Sing, Emma DJ, 祐曦 Yau Hei | ASJ, BABii, Emma DJ, Mun Sing |
+| Sun, 30 Aug 2026 | Strange Brew presents Lakuti & Tama Sumo + Winkles | Jamie Slater, Lakuti, Tama Sumo |
 | Sat, 5 Sept 2026 | Strange Brew turns 6! (club show) feat. Andy Blake, Alicia Carrera & Tender T | Alicia Carrera, Andy Blake |
-| Sat, 5 Sept 2026 | Strange Brew turns 6! (live show) ft The Space Lady, Factory Floor | Factory Floor, The Space Lady |
 
 ## Address
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

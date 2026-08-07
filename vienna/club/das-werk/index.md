@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "NACHTSCHUB - SCHMU'S BIRTHDAY BASH" on Fri, 7 Aug 2026.
+Das Werk is a music venue in Vienna with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "NACHTSCHUB - SCHMU'S BIRTHDAY BASH" on Fri, 7 Aug 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 12 upcoming nights, with line-ups including adrialin, Albin Brezlan, ANATOL (2) and Bangerfabrique and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -23,4 +23,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 12 upcoming nights, wi
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

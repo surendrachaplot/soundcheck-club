@@ -1,6 +1,6 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Sub Sessions" on Fri, 7 Aug 2026.
+Sub Club Melbourne is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sub Sessions" on Fri, 7 Aug 2026.
 
 Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Arktic, BDE, CAITY WATSON and Cloudy Ku and 2 more. Browse upcoming dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
@@ -18,4 +18,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 5 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

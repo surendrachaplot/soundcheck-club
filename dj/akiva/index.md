@@ -1,6 +1,6 @@
 # AKIVA
 
-AKIVA is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+AKIVA is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 AKIVA is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam and Losangeles. Often billed alongside Aubrey Fry, Stefan Medici and Covsky. Next up: Bears Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ AKIVA is a techno and progressive house artist based in United States of America
 
 Aubrey Fry, Stefan Medici, Covsky
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiva/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiva/)*

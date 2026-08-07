@@ -1,6 +1,6 @@
 # P Money
 
-P Money is a Drum & Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+P Money is a Drum & Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 P Money is a drum & bass and grime artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 17 more. Often billed alongside Whiney, Flava D and Degs. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ P Money is a drum & bass and grime artist tracked on soundcheck, with 67 sets lo
 
 Whiney, Flava D, Degs
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*

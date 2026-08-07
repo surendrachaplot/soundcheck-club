@@ -1,6 +1,6 @@
 # skoglund
 
-skoglund is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 7 Aug 2026.
+skoglund is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 7 Aug 2026.
 
 skoglund is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Erik Braun, HNDRNC and Ron Like Hell. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ skoglund is a techno and house artist based in United States of America, tracked
 
 Erik Braun, HNDRNC, Ron Like Hell
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skoglund/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skoglund/)*

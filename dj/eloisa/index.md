@@ -1,6 +1,6 @@
 # ELOISA
 
-ELOISA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+ELOISA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
 ELOISA is a techno and trance artist tracked on soundcheck, with 76 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Carotin, Melanchromie and two girls one mom. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ ELOISA is a techno and trance artist tracked on soundcheck, with 76 sets logged 
 
 Carotin, Melanchromie, two girls one mom
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*

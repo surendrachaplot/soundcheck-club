@@ -1,6 +1,6 @@
 # TiaNT
 
-TiaNT is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OIL Club, Shenzhen on Sat, 22 Aug 2026.
+TiaNT is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OIL Club, Shenzhen on Sat, 22 Aug 2026.
 
 TiaNT is a techno and club artist based in China, tracked on soundcheck, with 17 sets logged across Shenzhen. Often billed alongside DJ 86, Foambb and Beibeilon. Next up: OIL Club, Shenzhen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ TiaNT is a techno and club artist based in China, tracked on soundcheck, with 17
 
 DJ 86, Foambb, Beibeilon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiant/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiant/)*

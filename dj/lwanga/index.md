@@ -1,6 +1,6 @@
 # LWANGA
 
-LWANGA is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
+LWANGA is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The BBE Store, London on Fri, 14 Aug 2026.
 
 LWANGA is a house and broken beat artist tracked on soundcheck, with 6 sets logged across London and Nottingham. Often billed alongside Steffi Bricks, Blue Soup DJ and Baloubop. Next up: The BBE Store, London on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ LWANGA is a house and broken beat artist tracked on soundcheck, with 6 sets logg
 
 Steffi Bricks, Blue Soup DJ, Baloubop
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lwanga/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lwanga/)*

@@ -1,6 +1,6 @@
 # Morph (RO)
 
-Morph (RO) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
+Morph (RO) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
 
 Morph (RO) is a hardcore and gabber artist tracked on soundcheck, with 4 sets logged across Berlin and Bucharest. Often billed alongside Aiur, BERLIN and Dalek. Next up: Forge, Bucharest on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Morph (RO) is a hardcore and gabber artist tracked on soundcheck, with 4 sets lo
 
 Aiur, BERLIN, Dalek
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morph-ro/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morph-ro/)*

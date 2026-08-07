@@ -1,6 +1,6 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Mathys Lenne is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
 Mathys Lenne is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 28 more. Often billed alongside Maris Shilton, Mara Menace and Olivia Mendez. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Mathys Lenne is a techno and house artist tracked on soundcheck, with 90 sets lo
 
 Maris Shilton, Mara Menace, Olivia Mendez
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*

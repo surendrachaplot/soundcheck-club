@@ -1,6 +1,6 @@
 # Juliana Branco
 
-Juliana Branco is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
+Juliana Branco is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
 
 Juliana Branco is a house and electro artist tracked on soundcheck, with 39 sets logged across London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and GOIA AMO. Next up: Vittoria Wharf Studio, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Juliana Branco is a house and electro artist tracked on soundcheck, with 39 sets
 
 Leonardo Cruz DJ, Simoon Pedro, GOIA AMO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianabranco/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianabranco/)*

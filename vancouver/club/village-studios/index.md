@@ -1,6 +1,6 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 8 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Otha" on Sat, 8 Aug 2026.
+Village Studios is a music venue in Vancouver with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Otha" on Sat, 8 Aug 2026.
 
 Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming nights, with line-ups including ATRIP, camoufly, Dean Turnley and Denham Audio and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
@@ -21,4 +21,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming n
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

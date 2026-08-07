@@ -1,6 +1,6 @@
 # TEXT
 
-TEXT is a Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Schinkel Pavillon, Berlin on Thu, 3 Sept 2026.
+TEXT is a Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Schinkel Pavillon, Berlin on Thu, 3 Sept 2026.
 
 TEXT is a dembow artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin, Bristol, London and Miami. Often billed alongside Graham Dunning, Jeremiah Asiamah and Sascha Brosamer. Next up: Schinkel Pavillon, Berlin on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ TEXT is a dembow artist based in United Kingdom, tracked on soundcheck, with 4 s
 
 Graham Dunning, Jeremiah Asiamah, Sascha Brosamer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/text/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/text/)*

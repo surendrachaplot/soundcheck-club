@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "BOOTLEG: VOL2" on Fri, 7 Aug 2026.
+The DBA is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "BOOTLEG: VOL2" on Fri, 7 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Fastlove, Aiden Francis and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including 4STR0, Fastlove, Aiden Francis and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

@@ -1,6 +1,6 @@
 # Frantz
 
-Frantz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 16 Aug 2026.
+Frantz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 16 Aug 2026.
 
 Frantz is a house and disco artist based in United States of America, tracked on soundcheck, with 31 sets logged across Melbourne, Newyorkcity and Warsaw. Often billed alongside Danny Ramos, Dante Scaglione and IBM Doily. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Frantz is a house and disco artist based in United States of America, tracked on
 
 Danny Ramos, Dante Scaglione, IBM Doily
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frantz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frantz/)*

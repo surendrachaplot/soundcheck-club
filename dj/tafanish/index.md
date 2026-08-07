@@ -1,6 +1,6 @@
 # Tafanish
 
-Tafanish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at THE MAGICK BAR, Rome on Sun, 9 Aug 2026.
+Tafanish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at THE MAGICK BAR, Rome on Sun, 9 Aug 2026.
 
 Tafanish is a techno and house artist tracked on soundcheck, with 13 sets logged across Rome. Often billed alongside Martek, Sunday Bath and Carlo (6). Next up: THE MAGICK BAR, Rome on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Tafanish is a techno and house artist tracked on soundcheck, with 13 sets logged
 
 Martek, Sunday Bath, Carlo (6)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tafanish/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tafanish/)*

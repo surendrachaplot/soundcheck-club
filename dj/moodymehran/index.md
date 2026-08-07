@@ -1,6 +1,6 @@
 # Moody Mehran
 
-Moody Mehran is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Skatecafe, Amsterdam on Fri, 14 Aug 2026.
+Moody Mehran is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Skatecafe, Amsterdam on Fri, 14 Aug 2026.
 
 Moody Mehran is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Bali and Berlin and 10 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Skatecafe, Amsterdam on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Moody Mehran is a house and techno artist tracked on soundcheck, with 144 sets l
 
 Lucky Done Gone, Tjade, Kyra Khaldi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*

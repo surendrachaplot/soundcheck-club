@@ -1,6 +1,6 @@
 # Ashbeat
 
-Ashbeat is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 8 Aug 2026.
+Ashbeat is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 8 Aug 2026.
 
 Ashbeat is a house and club artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Julien Josh, ZYMT and fuxi. Next up: Bulbul Berlin, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Ashbeat is a house and club artist tracked on soundcheck, with 5 sets logged acr
 
 Julien Josh, ZYMT, fuxi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashbeat/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashbeat/)*

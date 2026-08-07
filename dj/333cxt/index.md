@@ -1,6 +1,6 @@
 # 333CXT
 
-333CXT is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Room 2 Glasgow, Glasgow on Sat, 15 Aug 2026.
+333CXT is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Room 2 Glasgow, Glasgow on Sat, 15 Aug 2026.
 
 333CXT is a techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Antwerp, Berlin, Glasgow and Hamburg and 1 more. Often billed alongside VECTA, SOLID (2) and UMKA BEGOVIC. Next up: Room 2 Glasgow, Glasgow on Sat 15 Aug.
 
@@ -25,4 +25,4 @@
 
 VECTA, SOLID (2), UMKA BEGOVIC
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*

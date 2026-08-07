@@ -1,6 +1,6 @@
 # Modeplex
 
-Modeplex is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
+Modeplex is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
 
 Modeplex is a techno and progressive house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 4 more. Often billed alongside Adi Dassler, Nihil Young and D-Formation. Next up: Culture Box, Copenhagen on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Modeplex is a techno and progressive house artist tracked on soundcheck, with 18
 
 Adi Dassler, Nihil Young, D-Formation
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modeplex/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modeplex/)*

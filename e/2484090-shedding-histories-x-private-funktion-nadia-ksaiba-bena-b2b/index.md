@@ -1,11 +1,11 @@
-# Shedding Histories x Private Funktion: Nadia Ksaiba, Bena b2b Chameleonas & Eman Pav at Cellar
+# Shedding Histories x Private Funktion: Nadia Ksaiba, Bena b2b Chameleonas & Eman Pav at EartH
 
-Shedding Histories x Private Funktion: Nadia Ksaiba, Bena b2b Chameleonas & Eman Pav at Cellar on Sat 15 Aug, London. 4 acts on the bill: Bena, Chameleonas, Emanuel Pavlova and Nadia Ksaiba. Disco and Electronica. Preview the line-up and save it on soundcheck.
+Shedding Histories x Private Funktion: Nadia Ksaiba, Bena b2b Chameleonas & Eman Pav at EartH on Sat 15 Aug, London. 4 acts on the bill: Bena, Chameleonas, Emanuel Pavlova and Nadia Ksaiba. Disco and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 15 Aug 2026 |
-| Venue | Cellar |
+| Venue | EartH |
 | City | London |
 
 ## Line-up

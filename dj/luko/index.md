@@ -1,6 +1,6 @@
 # Luko
 
-Luko is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 20 Aug 2026.
+Luko is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 20 Aug 2026.
 
 Luko is an electronic artist based in France, tracked on soundcheck, with 12 sets logged across Berlin, Lyon and Munich. Often billed alongside Pablo, XCS and Namenlos. Next up: Bahnwärter Thiel, Munich on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Luko is an electronic artist based in France, tracked on soundcheck, with 12 set
 
 Pablo, XCS, Namenlos
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luko/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luko/)*

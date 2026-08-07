@@ -1,6 +1,6 @@
 # Negativ
 
-Negativ is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BarKa, Warsaw on Sun, 9 Aug 2026.
+Negativ is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BarKa, Warsaw on Sun, 9 Aug 2026.
 
 Negativ is a hip-hop and bass artist tracked on soundcheck, with 11 sets logged across Amsterdam, Belfast, Frankfurt and Warsaw. Often billed alongside A.N.I., Adelix and Azyr. Next up: BarKa, Warsaw on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Negativ is a hip-hop and bass artist tracked on soundcheck, with 11 sets logged 
 
 A.N.I., Adelix, Azyr
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*

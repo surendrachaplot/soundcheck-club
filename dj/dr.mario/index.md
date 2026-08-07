@@ -1,6 +1,6 @@
 # Dr . Mario
 
-Dr . Mario is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Underground Rave -> Location only via Telegram , Berlin on Sat, 8 Aug 2026.
+Dr . Mario is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Underground Rave -> Location only via Telegram , Berlin on Sat, 8 Aug 2026.
 
 Dr . Mario is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Thielking, nicole lukiys and ClubSubbe. Next up: TBA - Underground Rave -> Location only via Telegram , Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Dr . Mario is a techno and trance artist tracked on soundcheck, with 3 sets logg
 
 Thielking, nicole lukiys, ClubSubbe
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mario/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mario/)*

@@ -1,6 +1,6 @@
 # KONZ
 
-KONZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+KONZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
 KONZ is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Hamburg, London and Mexicocity and 1 more. Often billed alongside djslut, Amphia and VINVAR. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ KONZ is a techno and house artist tracked on soundcheck, with 36 sets logged acr
 
 djslut, Amphia, VINVAR
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*

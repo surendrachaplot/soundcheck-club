@@ -1,6 +1,6 @@
 # JAKE BACK
 
-JAKE BACK is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Boston on Sat, 8 Aug 2026.
+JAKE BACK is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Boston on Sat, 8 Aug 2026.
 
 JAKE BACK is a techno and minimal artist tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside Ignez and Julia Govor. Next up: TBA, Boston on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ JAKE BACK is a techno and minimal artist tracked on soundcheck, with 2 sets logg
 
 Ignez, Julia Govor
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakeback/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakeback/)*

@@ -1,6 +1,6 @@
 # EMROSE
 
-EMROSE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
+EMROSE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
 
 EMROSE is a house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Grá (IRE), tasha.mp4 and FITS ME FUNNY. Next up: Crown Pier, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ EMROSE is a house and techno artist based in United Kingdom, tracked on soundche
 
 Grá (IRE), tasha.mp4, FITS ME FUNNY
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emrose/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emrose/)*

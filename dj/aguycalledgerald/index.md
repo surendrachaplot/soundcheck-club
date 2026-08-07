@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+A Guy Called Gerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 106
 
 Will B, gyrofield, Ben UFO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

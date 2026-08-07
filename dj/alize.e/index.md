@@ -1,8 +1,8 @@
 # alizé.e
 
-alizé.e is a Electronica and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pleasure Patterns, Berlin on Thu, 13 Aug 2026.
+alizé.e is a Electronica and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pleasure Patterns, Berlin on Thu, 13 Aug 2026.
 
-alizé.e is an electronica and dub artist based in France, tracked on soundcheck, with 15 sets logged across Berlin and Brussels. Often billed alongside Kat Never, scdr and Andriy K.. Next up: Pleasure Patterns, Berlin on Thu 13 Aug.
+alizé.e is an electronica and ambient artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Brussels. Often billed alongside Andriy K., Kat Never and scdr. Next up: Pleasure Patterns, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ alizé.e is an electronica and dub artist based in France, tracked on soundcheck
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Pleasure Patterns | Berlin |
 | Sat, 15 Aug 2026 | Acud Macht NEU | Berlin |
+| Thu, 20 Aug 2026 | arkaoda Berlin | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ alizé.e is an electronica and dub artist based in France, tracked on soundcheck
 
 ## Shares bills with
 
-Kat Never, scdr, Andriy K.
+Andriy K., Kat Never, scdr
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*

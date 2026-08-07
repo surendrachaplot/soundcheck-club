@@ -1,8 +1,8 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Silencio, Paris on Fri, 7 Aug 2026.
+Yamagucci is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Silencio, Paris on Fri, 7 Aug 2026.
 
-Yamagucci is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Adam Ten, Mita Gami and Tom & Collins. Next up: Silencio, Paris on Fri 7 Aug.
+Yamagucci is a house and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL (2). Next up: Silencio, Paris on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yamagucci is a house and techno artist tracked on soundcheck, with 58 sets logge
 | Fri, 7 Aug 2026 | Silencio | Paris |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
 | Sat, 8 Aug 2026 | Kaufleuten | Zurich |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Yamagucci is a house and techno artist tracked on soundcheck, with 58 sets logge
 
 ## Shares bills with
 
-Adam Ten, Mita Gami, Tom & Collins
+Adam Ten, Mita Gami, SIEGEL (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

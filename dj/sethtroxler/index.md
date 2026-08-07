@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Seth Troxler is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Seth Troxler is a house and techno artist tracked on soundcheck, with 298 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Seth Troxler is a house and techno artist tracked on soundcheck, with 301 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 298 sets l
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
+| Sun, 30 Aug 2026 | W Barcelona | Barcelona |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Fri, 25 Sept 2026 | Pacha Ibiza | Ibiza |
@@ -35,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 298 sets l
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

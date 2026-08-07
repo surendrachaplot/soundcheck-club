@@ -1,6 +1,6 @@
 # Black Devil Disco Club
 
-Black Devil Disco Club is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Greyhound, London on Fri, 7 Aug 2026.
+Black Devil Disco Club is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Greyhound, London on Fri, 7 Aug 2026.
 
 Black Devil Disco Club is a disco and italo disco artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, London and Lyon. Often billed alongside Alden Tyrell, Alexander Robotnick and Amotik. Next up: The Greyhound, London on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Black Devil Disco Club is a disco and italo disco artist tracked on soundcheck, 
 
 Alden Tyrell, Alexander Robotnick, Amotik
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdevildiscoclub/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdevildiscoclub/)*

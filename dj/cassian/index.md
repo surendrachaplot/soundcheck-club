@@ -1,8 +1,8 @@
 # Cassian
 
-Cassian is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
+Cassian is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
 
-Cassian is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: [UNVRS], Ibiza on Tue 15 Sept.
+Cassian is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: [UNVRS], Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cassian is a techno and house artist tracked on soundcheck, with 130 sets logged
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | BERHTA | Washington DC |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Cassian is a techno and house artist tracked on soundcheck, with 130 sets logged
 
 Tale Of Us, Kevin de Vries, Mathame
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*

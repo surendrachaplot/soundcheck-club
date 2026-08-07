@@ -1,6 +1,6 @@
 # Pau Guilera
 
-Pau Guilera is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
+Pau Guilera is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 7 Aug 2026.
 
 Pau Guilera is a tech house and house artist tracked on soundcheck, with 116 sets logged across Barcelona, Ibiza and Utrecht. Often billed alongside Jones May, Vidaloca and Abdon. Next up: BORIS CLUB, Barcelona on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Pau Guilera is a tech house and house artist tracked on soundcheck, with 116 set
 
 Jones May, Vidaloca, Abdon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*

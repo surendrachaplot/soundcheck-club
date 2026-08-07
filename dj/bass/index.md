@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
+Bass is a Drum & Bass and Jazz artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
 
 Bass is a drum & bass and jazz artist tracked on soundcheck, with 107 sets logged across Bali, Bangkok, Barcelona and Basel and 35 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Odonien, Cologne on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Bass is a drum & bass and jazz artist tracked on soundcheck, with 107 sets logge
 
 Jungle (UK), Tekk, A²
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

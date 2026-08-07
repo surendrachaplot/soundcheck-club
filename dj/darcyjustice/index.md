@@ -1,6 +1,6 @@
 # Darcy Justice
 
-Darcy Justice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 29 Aug 2026.
+Darcy Justice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 29 Aug 2026.
 
 Darcy Justice is a house and techno artist based in Australia, tracked on soundcheck, with 47 sets logged across Melbourne and Sydney. Often billed alongside DJ PGZ, Emelyne and Kate Miller. Next up: QQQ ST. Park, Melbourne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Darcy Justice is a house and techno artist based in Australia, tracked on soundc
 
 DJ PGZ, Emelyne, Kate Miller
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*

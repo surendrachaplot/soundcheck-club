@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Deseo BS AS, Buenos Aires on Fri, 7 Aug 2026.
+tINI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Deseo BS AS, Buenos Aires on Fri, 7 Aug 2026.
 
 tINI is a house and techno artist tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Deseo BS AS, Buenosaires on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ tINI is a house and techno artist tracked on soundcheck, with 228 sets logged ac
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

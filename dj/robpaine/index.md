@@ -1,14 +1,14 @@
 # Rob Paine
 
-Rob Paine is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fringe Bar, Philadelphia on Sat, 8 Aug 2026.
+Rob Paine is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Fringe Bar, Philadelphia on Fri, 25 Sept 2026.
 
-Rob Paine is a house and deep house artist based in United States of America, tracked on soundcheck, with 111 sets logged across Miami, Philadelphia and Washingtondc. Often billed alongside Francisco Collazo, Ty Salone and Willyum. Next up: Fringe Bar, Philadelphia on Sat 8 Aug.
+Rob Paine is a house and deep house artist based in United States of America, tracked on soundcheck, with 111 sets logged across Miami, Philadelphia and Washingtondc. Often billed alongside Francisco Collazo, Ty Salone and Willyum. Next up: Fringe Bar, Philadelphia on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Fringe Bar | Philadelphia |
+| Fri, 25 Sept 2026 | Fringe Bar | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Rob Paine is a house and deep house artist based in United States of America, tr
 
 Francisco Collazo, Ty Salone, Willyum
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robpaine/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robpaine/)*

@@ -1,6 +1,6 @@
 # Ejdm
 
-Ejdm is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Cross Club, Prague on Fri, 7 Aug 2026.
+Ejdm is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cross Club, Prague on Fri, 7 Aug 2026.
 
 Ejdm is a drum & bass artist based in Czech Republic, tracked on soundcheck, with 44 sets logged across Prague. Often billed alongside Patricio Strix, Plus One (1) and Werian. Next up: Cross Club, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ejdm is a drum & bass artist based in Czech Republic, tracked on soundcheck, wit
 
 Patricio Strix, Plus One (1), Werian
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejdm/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejdm/)*

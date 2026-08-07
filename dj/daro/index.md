@@ -1,6 +1,6 @@
 # Daro
 
-Daro is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Roof 175, Frankfurt on Sat, 15 Aug 2026.
+Daro is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Roof 175, Frankfurt on Sat, 15 Aug 2026.
 
 Daro is a techno and trance artist based in Poland, tracked on soundcheck, with 11 sets logged across Frankfurt and Warsaw. Often billed alongside Mabu, HANICZ and KoZa. Next up: Roof 175, Frankfurt on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Daro is a techno and trance artist based in Poland, tracked on soundcheck, with 
 
 Mabu, HANICZ, KoZa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daro/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daro/)*

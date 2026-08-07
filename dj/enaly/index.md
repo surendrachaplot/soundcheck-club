@@ -1,6 +1,6 @@
 # Enaly
 
-Enaly is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
+Enaly is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
 
 Enaly is a drum & bass and techno artist tracked on soundcheck, with 75 sets logged across Cologne and Frankfurt. Often billed alongside Gourski, Jaycut and DELTA LABS. Next up: Odonien, Cologne on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Enaly is a drum & bass and techno artist tracked on soundcheck, with 75 sets log
 
 Gourski, Jaycut, DELTA LABS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enaly/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enaly/)*

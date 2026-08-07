@@ -1,6 +1,6 @@
 # YOUSUKE FUYAMA
 
-YOUSUKE FUYAMA is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Chitei 地底, Tokyo on Fri, 7 Aug 2026.
+YOUSUKE FUYAMA is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Chitei 地底, Tokyo on Fri, 7 Aug 2026.
 
 YOUSUKE FUYAMA is an experimental and electronica artist tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Eric Frye, NTsKi and Ritsuko Sakata. Next up: Chitei 地底, Tokyo on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ YOUSUKE FUYAMA is an experimental and electronica artist tracked on soundcheck, 
 
 Eric Frye, NTsKi, Ritsuko Sakata
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yousukefuyama/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yousukefuyama/)*

@@ -1,6 +1,6 @@
 # WaqWaq Kingdom
 
-WaqWaq Kingdom is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 14 Aug 2026.
+WaqWaq Kingdom is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 14 Aug 2026.
 
 WaqWaq Kingdom is an experimental and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 7 more. Often billed alongside DJ Scotch Egg, Deadbeat and Eiko Ishibashi. Next up: TBA - Secret Location, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ WaqWaq Kingdom is an experimental and techno artist tracked on soundcheck, with 
 
 DJ Scotch Egg, Deadbeat, Eiko Ishibashi
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waqwaqkingdom/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waqwaqkingdom/)*

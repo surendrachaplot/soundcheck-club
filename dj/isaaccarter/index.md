@@ -1,8 +1,8 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 8 Aug 2026.
+Isaac Carter is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 8 Aug 2026.
 
-Isaac Carter is a house and deep house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 8 Aug.
+Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Isaac Carter is a house and deep house artist tracked on soundcheck, with 87 set
 | Sat, 5 Sept 2026 | SAGE | Berlin |
 | Tue, 15 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
@@ -33,4 +34,4 @@ Isaac Carter is a house and deep house artist tracked on soundcheck, with 87 set
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

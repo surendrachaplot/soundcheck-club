@@ -1,6 +1,6 @@
 # Alan Jimenez
 
-Alan Jimenez is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Atlantic Sound, Barcelona on Sun, 9 Aug 2026.
+Alan Jimenez is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Atlantic Sound, Barcelona on Sun, 9 Aug 2026.
 
 Alan Jimenez is a tech house and deep house artist tracked on soundcheck, with 25 sets logged across Barcelona. Often billed alongside Kaeru, Bill Hates and LORZA. Next up: Atlantic Sound, Barcelona on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Alan Jimenez is a tech house and deep house artist tracked on soundcheck, with 2
 
 Kaeru, Bill Hates, LORZA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanjimenez/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanjimenez/)*

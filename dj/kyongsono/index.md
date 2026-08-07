@@ -1,6 +1,6 @@
 # Kyong Sono
 
-Kyong Sono is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Kyong Sono is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Kyong Sono is an electronic artist tracked on soundcheck, with 19 sets logged across Berlin, Hamburg and Paris. Often billed alongside Coss, Zettka and Borella. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kyong Sono is an electronic artist tracked on soundcheck, with 19 sets logged ac
 
 Coss, Zettka, Borella
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyongsono/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyongsono/)*

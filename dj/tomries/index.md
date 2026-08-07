@@ -1,6 +1,6 @@
 # Tom Ries
 
-Tom Ries is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
+Tom Ries is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tokonoma Club, Frankfurt on Fri, 7 Aug 2026.
 
 Tom Ries is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Frankfurt, London and Seoul and 1 more. Often billed alongside Markus Sommer, Klix (3) and Tzena. Next up: Tokonoma Club, Frankfurt on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Tom Ries is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Markus Sommer, Klix (3), Tzena
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomries/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomries/)*

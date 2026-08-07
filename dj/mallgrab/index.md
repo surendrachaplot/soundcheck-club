@@ -1,8 +1,8 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Realm PDX, Portland on Fri, 7 Aug 2026.
+Mall Grab is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Realm PDX, Portland on Fri, 7 Aug 2026.
 
-Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Realm PDX, Portland on Fri 7 Aug.
+Mall Grab is a house and techno artist tracked on soundcheck, with 203 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Realm PDX, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logg
 | Sun, 20 Sept 2026 | Factory Town | Miami |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 | Thu, 29 Oct 2026 | Substation | Seattle |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 202 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

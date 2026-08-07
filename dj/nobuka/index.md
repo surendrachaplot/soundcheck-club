@@ -1,6 +1,6 @@
 # nobuka
 
-nobuka is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
+nobuka is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
 
 nobuka is an acid and ambient artist tracked on soundcheck, with 5 sets logged across Chicago and Thehague. Often billed alongside m50. Next up: TBA, Chicago on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ nobuka is an acid and ambient artist tracked on soundcheck, with 5 sets logged a
 
 m50
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuka/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuka/)*

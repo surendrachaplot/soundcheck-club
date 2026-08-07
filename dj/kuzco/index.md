@@ -1,6 +1,6 @@
 # Kuzco
 
-Kuzco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lane's Edge Wine Bar, Melbourne on Sat, 15 Aug 2026.
+Kuzco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lane's Edge Wine Bar, Melbourne on Sat, 15 Aug 2026.
 
 Kuzco is a house and deep house artist based in Australia, tracked on soundcheck, with 32 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Adam Trace, Harvey Sutherland and Mike Gurrieri. Next up: Lane's Edge Wine Bar, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kuzco is a house and deep house artist based in Australia, tracked on soundcheck
 
 Adam Trace, Harvey Sutherland, Mike Gurrieri
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*

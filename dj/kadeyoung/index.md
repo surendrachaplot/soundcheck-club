@@ -1,6 +1,6 @@
 # Kade Young
 
-Kade Young is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
+Kade Young is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
 
 Kade Young is a house and club artist based in United States of America, tracked on soundcheck, with 29 sets logged across Glasgow, London, Newyorkcity and Philadelphia and 2 more. Often billed alongside CalvoMusic, JIALING and Kenny M. Next up: Upstairs at the 700, Philadelphia on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kade Young is a house and club artist based in United States of America, tracked
 
 CalvoMusic, JIALING, Kenny M
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*

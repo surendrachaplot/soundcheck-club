@@ -1,8 +1,8 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "House of Grooves: Stretch Armstrong + Sissies of Mercy All Night" on Fri, 7 Aug 2026.
+House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "House of Grooves: Stretch Armstrong + Sissies of Mercy All Night" on Fri, 7 Aug 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Aluna, Brian Cid, Bridge (NY) and CAM GIRL and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Aluna, Brian Cid, Bridge (NY) and CAM GIRL and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
@@ -16,11 +16,11 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 | Fri, 28 Aug 2026 | Slayyyland: CAM GIRL, Vice, P_A_T | CAM GIRL, Vice |
 | Sat, 29 Aug 2026 | ABC Party: Sponges & N2N | N2N (US) |
 | Fri, 4 Sept 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
+| Sat, 5 Sept 2026 | Glitterbox: Dam Swindle, Mike Dunn, Cosmo and More | Cosmo, Dam Swindle, Mike Dunn |
 | Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist & OVEOUS | Echonomist, OVEOUS |
-| Fri, 25 Sept 2026 | Midnight Groove: Kellie Allen, Madota & More | Kellie Allen, Madota, OBA+FLIP |
 
 ## Address
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

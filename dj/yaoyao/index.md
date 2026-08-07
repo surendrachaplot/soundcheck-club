@@ -1,6 +1,6 @@
 # Yao Yao
 
-Yao Yao is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Jama, Toronto on Fri, 7 Aug 2026.
+Yao Yao is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Jama, Toronto on Fri, 7 Aug 2026.
 
 Yao Yao is a house and electro artist based in Canada, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside HYMZ, Thanks for the Tears and Vertigeux. Next up: The Jama, Toronto on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Yao Yao is a house and electro artist based in Canada, tracked on soundcheck, wi
 
 HYMZ, Thanks for the Tears, Vertigeux
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaoyao/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaoyao/)*

@@ -1,6 +1,6 @@
 # Lou Velvet
 
-Lou Velvet is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Goldener Reiter, Munich on Fri, 7 Aug 2026.
+Lou Velvet is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Goldener Reiter, Munich on Fri, 7 Aug 2026.
 
 Lou Velvet is a house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Munich. Often billed alongside 600-cell, Akua and Alessio Barletta. Next up: Goldener Reiter, Munich on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Lou Velvet is a house and tech house artist based in Germany, tracked on soundch
 
 600-cell, Akua, Alessio Barletta
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louvelvet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louvelvet/)*

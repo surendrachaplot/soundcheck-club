@@ -1,6 +1,6 @@
 # Māokē
 
-Māokē is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
+Māokē is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Le Mazette, Paris on Sat, 8 Aug 2026.
 
 Māokē is a house and techno artist based in France, tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside KAZAM, Victor Tomasi and Yann Polewka. Next up: Le Mazette, Paris on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Māokē is a house and techno artist based in France, tracked on soundcheck, wit
 
 KAZAM, Victor Tomasi, Yann Polewka
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maoke/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maoke/)*

@@ -1,6 +1,6 @@
 # Atomyard
 
-Atomyard is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+Atomyard is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 Atomyard is a house and deep house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Miami. Often billed alongside Kike Roldan, Soto Music and Penny Lane. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Atomyard is a house and deep house artist based in United States of America, tra
 
 Kike Roldan, Soto Music, Penny Lane
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atomyard/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atomyard/)*

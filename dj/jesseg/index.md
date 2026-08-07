@@ -1,6 +1,6 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+Jesse G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 Jesse G is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 15 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jesse G is a techno and house artist tracked on soundcheck, with 97 sets logged 
 
 Blasha & Allatt, Jasmín, Katy De Jesus
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*

@@ -1,14 +1,15 @@
 # Myd
 
-Myd is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cova Santa, Ibiza on Sat, 8 Aug 2026.
+Myd is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cova Santa, Ibiza on Sat, 8 Aug 2026.
 
-Myd is a house and electro artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Cova Santa, Ibiza on Sat 8 Aug.
+Myd is a house and electro artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Cova Santa, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Cova Santa | Ibiza |
+| Fri, 21 Aug 2026 | Le Bain | New York City |
 | Thu, 27 Aug 2026 | ZeyZey | Miami |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
@@ -27,4 +28,4 @@ Myd is a house and electro artist tracked on soundcheck, with 105 sets logged ac
 
 Busy P, Breakbot, Cassius
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

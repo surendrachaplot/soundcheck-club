@@ -1,6 +1,6 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Signal, New York City on Sat, 8 Aug 2026.
+Sevyn Love is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Signal, New York City on Sat, 8 Aug 2026.
 
 Sevyn Love is a techno and house artist tracked on soundcheck, with 70 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJPT, Dr. Fruit and LOKA (US). Next up: Signal, Newyorkcity on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Sevyn Love is a techno and house artist tracked on soundcheck, with 70 sets logg
 
 DJPT, Dr. Fruit, LOKA (US)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

@@ -1,6 +1,6 @@
 # Lunar Disco
 
-Lunar Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ELECTRIC BAR, Melbourne on Fri, 28 Aug 2026.
+Lunar Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ELECTRIC BAR, Melbourne on Fri, 28 Aug 2026.
 
 Lunar Disco is a house and disco artist tracked on soundcheck, with 18 sets logged across Bali, Barcelona, Ibiza and Marseille and 3 more. Often billed alongside Aaiste, Andy Garvey and Ben Nott. Next up: ELECTRIC BAR, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lunar Disco is a house and disco artist tracked on soundcheck, with 18 sets logg
 
 Aaiste, Andy Garvey, Ben Nott
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunardisco/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunardisco/)*

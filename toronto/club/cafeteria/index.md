@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "A Veneno Summer ☼ with Clementaum & Ms Nina " on Fri, 7 Aug 2026.
+Cafeteria is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "A Veneno Summer ☼ with Clementaum & Ms Nina " on Fri, 7 Aug 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including 10cust, Ana Luisa, Blkvirgo and Clementaum and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -20,4 +20,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

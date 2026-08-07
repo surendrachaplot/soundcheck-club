@@ -1,6 +1,6 @@
 # MartinoResi
 
-MartinoResi is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Olympo Sky Bar, Microcentro, Buenos Aires on Sat, 8 Aug 2026.
+MartinoResi is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Olympo Sky Bar, Microcentro, Buenos Aires on Sat, 8 Aug 2026.
 
 MartinoResi is a tech house and electronica artist tracked on soundcheck, with 9 sets logged across Buenosaires. Often billed alongside Feda, Rafa Barrios and Technasia. Next up: TBA - Olympo Sky Bar, Microcentro, Buenosaires on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ MartinoResi is a tech house and electronica artist tracked on soundcheck, with 9
 
 Feda, Rafa Barrios, Technasia
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinoresi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinoresi/)*

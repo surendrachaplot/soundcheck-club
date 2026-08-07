@@ -1,6 +1,6 @@
 # Cherry Beach
 
-Cherry Beach is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Promise Cherry Beach: Takeover6ix presents 1morning (LA)" on Sun, 9 Aug 2026.
+Cherry Beach is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Promise Cherry Beach: Takeover6ix presents 1morning (LA)" on Sun, 9 Aug 2026.
 
 Cherry Beach is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including 1morning, ARK1TEK, AZA and Burnin' Vernon and 2 more. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
 
@@ -18,4 +18,4 @@ Cherry Beach is a music venue in Toronto listed on soundcheck. 5 upcoming nights
 
 Toronto, ON; Canada, Toronto
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*

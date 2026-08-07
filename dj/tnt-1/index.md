@@ -1,6 +1,6 @@
 # tnt (1)
 
-tnt (1) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+tnt (1) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 tnt (1) is a techno and drum & bass artist tracked on soundcheck, with 16 sets logged across Birmingham, Kualalumpur, London and Losangeles and 6 more. Often billed alongside Coone, Act of Rage and Alesso. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ tnt (1) is a techno and drum & bass artist tracked on soundcheck, with 16 sets l
 
 Coone, Act of Rage, Alesso
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tnt-1/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tnt-1/)*

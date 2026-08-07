@@ -1,6 +1,6 @@
 # Sazzle
 
-Sazzle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Ballroom at Palais, London on Sat, 22 Aug 2026.
+Sazzle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ballroom at Palais, London on Sat, 22 Aug 2026.
 
 Sazzle is a techno and house artist tracked on soundcheck, with 25 sets logged across Belfast, London and Newcastle. Often billed alongside Elianne, TEDESCO and AKU (3). Next up: Ballroom at Palais, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sazzle is a techno and house artist tracked on soundcheck, with 25 sets logged a
 
 Elianne, TEDESCO, AKU (3)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*

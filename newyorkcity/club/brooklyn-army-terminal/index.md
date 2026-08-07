@@ -1,6 +1,6 @@
 # Brooklyn Army Terminal
 
-Brooklyn Army Terminal is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Teksupport: Cloonee (Hellbent)" on Sat, 15 Aug 2026.
+Brooklyn Army Terminal is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Teksupport: Cloonee (Hellbent)" on Sat, 15 Aug 2026.
 
 Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Alesso, Cloonee, Joseph Capriati and Mau P and 1 more. Browse upcoming dates, start times and who's playing. 58th St, Brooklyn, NY 11220.
 
@@ -18,4 +18,4 @@ Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 5 u
 
 58th St, Brooklyn, NY 11220, New York City
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*

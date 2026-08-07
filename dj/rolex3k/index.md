@@ -1,6 +1,6 @@
 # Rolex3k
 
-Rolex3k is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at THF Tower, Berlin on Sat, 8 Aug 2026.
+Rolex3k is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at THF Tower, Berlin on Sat, 8 Aug 2026.
 
 Rolex3k is a bass and dubstep artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Finally Julius, 300km/h and ANDI.ANDEAN. Next up: THF Tower, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rolex3k is a bass and dubstep artist based in Germany, tracked on soundcheck, wi
 
 Finally Julius, 300km/h, ANDI.ANDEAN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolex3k/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolex3k/)*

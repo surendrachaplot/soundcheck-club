@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "Tilt - Street Parade Afterparty/ Mantra, Gio Elia, Jenny Cara, F1-PV," on Sat, 8 Aug 2026.
+Zentralwäscherei is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Tilt - Street Parade Afterparty/ Mantra, Gio Elia, Jenny Cara, F1-PV," on Sat, 8 Aug 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including F1-PV, Gio Elia, Jenny Cara and Mantra and 1 more. Browse upcoming dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -14,4 +14,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 1 upcoming ni
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

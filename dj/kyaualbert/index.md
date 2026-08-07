@@ -1,6 +1,6 @@
 # Kyau & Albert
 
-Kyau & Albert is a Trance and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Alte Kaserne, Zurich on Sat, 8 Aug 2026.
+Kyau & Albert is a Trance and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Alte Kaserne, Zurich on Sat, 8 Aug 2026.
 
 Kyau & Albert are a trance and psytrance duo tracked on soundcheck, with 12 sets logged across Dublin, Glasgow, Hamburg and Ibiza and 8 more. Often billed alongside nümind, Boss Axis and Ciaran McAuley. Next up: Alte Kaserne, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Kyau & Albert are a trance and psytrance duo tracked on soundcheck, with 12 sets
 
 nümind, Boss Axis, Ciaran McAuley
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyaualbert/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyaualbert/)*

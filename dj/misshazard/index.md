@@ -1,6 +1,6 @@
 # Miss Hazard
 
-Miss Hazard is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 7 Aug 2026.
+Miss Hazard is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 7 Aug 2026.
 
 Miss Hazard is a house and electro artist based in Canada, tracked on soundcheck, with 6 sets logged across Newyorkcity and Vancouver. Often billed alongside CatLadyHi, Astro Raw and Briser Gonzalez. Next up: Dead Letter No. 9, Newyorkcity on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Miss Hazard is a house and electro artist based in Canada, tracked on soundcheck
 
 CatLadyHi, Astro Raw, Briser Gonzalez
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshazard/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshazard/)*

@@ -1,6 +1,6 @@
 # BUTCHER BABY
 
-BUTCHER BABY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nether Club, Bucharest on Sat, 5 Sept 2026.
+BUTCHER BABY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nether Club, Bucharest on Sat, 5 Sept 2026.
 
 BUTCHER BABY is a techno and hardcore artist tracked on soundcheck, with 11 sets logged across Bucharest. Often billed alongside Radox, Sitra Akhra and KØMI. Next up: Nether Club, Bucharest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ BUTCHER BABY is a techno and hardcore artist tracked on soundcheck, with 11 sets
 
 Radox, Sitra Akhra, KØMI
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butcherbaby/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butcherbaby/)*

@@ -1,14 +1,15 @@
 # Bekefi
 
-Bekefi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
+Bekefi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Vespers Club, London on Fri, 21 Aug 2026.
 
-Bekefi is a house and techno artist tracked on soundcheck, with 39 sets logged across Berlin, Budapest, London and Manchester. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: Vespers Club, London on Fri 21 Aug.
+Bekefi is a house and techno artist tracked on soundcheck, with 40 sets logged across Berlin, Budapest, London and Manchester. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: Vespers Club, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Vespers Club | London |
+| Sat, 22 Aug 2026 | The Roses of Elagabalus | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bekefi is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 S_STEELE, HOLY C, Hayley Wallace
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*

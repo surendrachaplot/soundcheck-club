@@ -1,6 +1,6 @@
 # Zanelato
 
-Zanelato is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 7 Aug 2026.
+Zanelato is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 7 Aug 2026.
 
 Zanelato is a house and disco artist based in Brazil, tracked on soundcheck, with 6 sets logged across Edinburgh, Paris and Saopaulo. Often billed alongside Mary Roman, Arraya and Barbara Boeing. Next up: People's Leisure Club, Edinburgh on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Zanelato is a house and disco artist based in Brazil, tracked on soundcheck, wit
 
 Mary Roman, Arraya, Barbara Boeing
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zanelato/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zanelato/)*

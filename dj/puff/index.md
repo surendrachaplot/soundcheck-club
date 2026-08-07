@@ -1,6 +1,6 @@
 # PUFF
 
-PUFF is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 17 Aug 2026.
+PUFF is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 17 Aug 2026.
 
 PUFF is a house and club artist based in United States of America, tracked on soundcheck, with 32 sets logged across Bangkok, Losangeles and Newyorkcity. Often billed alongside Fugitive Artifact, LIONESSA and SSG_. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 17 Aug.
 
@@ -26,4 +26,4 @@ PUFF is a house and club artist based in United States of America, tracked on so
 
 Fugitive Artifact, LIONESSA, SSG_
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/puff/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/puff/)*

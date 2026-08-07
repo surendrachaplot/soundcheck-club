@@ -1,8 +1,8 @@
 # Leena Punks
 
-Leena Punks is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 31 Aug 2026.
+Leena Punks is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 31 Aug 2026.
 
-Leena Punks is a trance and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Ibiza and Liverpool and 9 more. Often billed alongside Amy Wiles, Ben Hemsley and Mat Zo. Next up: Amnesia Ibiza, Ibiza on Mon 31 Aug.
+Leena Punks is a trance and progressive house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Ibiza and Liverpool and 9 more. Often billed alongside Amy Wiles, Ben Hemsley and Mat Zo. Next up: Amnesia Ibiza, Ibiza on Mon 31 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Leena Punks is a trance and techno artist tracked on soundcheck, with 53 sets lo
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | Ministry Of Sound | London |
+| Sat, 24 Oct 2026 | Gaswrx Birmingham | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Leena Punks is a trance and techno artist tracked on soundcheck, with 53 sets lo
 
 Amy Wiles, Ben Hemsley, Mat Zo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*

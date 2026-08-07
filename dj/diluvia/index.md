@@ -1,6 +1,6 @@
 # DILUVIA
 
-DILUVIA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
+DILUVIA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
 
 DILUVIA is a techno and club artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside MORENXXX, Battygyal and LOKA (US). Next up: Nowadays, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DILUVIA is a techno and club artist tracked on soundcheck, with 21 sets logged a
 
 MORENXXX, Battygyal, LOKA (US)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diluvia/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diluvia/)*

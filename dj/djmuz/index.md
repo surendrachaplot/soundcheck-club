@@ -1,6 +1,6 @@
 # DJ Müz
 
-DJ Müz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Turbina, Budapest on Sat, 22 Aug 2026.
+DJ Müz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Turbina, Budapest on Sat, 22 Aug 2026.
 
 DJ Müz is a techno and trance artist based in Malta, tracked on soundcheck, with 10 sets logged across Budapest, Malta and Prague. Often billed alongside Charry, Akác and Technokool. Next up: Turbina, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Müz is a techno and trance artist based in Malta, tracked on soundcheck, wit
 
 Charry, Akác, Technokool
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmuz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmuz/)*

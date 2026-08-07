@@ -1,6 +1,6 @@
 # SIVINSKI
 
-SIVINSKI is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
+SIVINSKI is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
 
 SIVINSKI is a techno and minimal techno artist based in Argentina, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Milan and Turin. Often billed alongside ARIHA, Alfa Cornae and Amo (IT). Next up: ÆDEN, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ SIVINSKI is a techno and minimal techno artist based in Argentina, tracked on so
 
 ARIHA, Alfa Cornae, Amo (IT)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sivinski/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sivinski/)*

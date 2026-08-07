@@ -1,6 +1,6 @@
 # Ruggz
 
-Ruggz is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+Ruggz is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
 
 Ruggz is a techno and bass artist tracked on soundcheck, with 10 sets logged across Barcelona, Bristol and London. Often billed alongside Nancy June, Normski and Amy Kisnorbo. Next up: Colour Factory, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ruggz is a techno and bass artist tracked on soundcheck, with 10 sets logged acr
 
 Nancy June, Normski, Amy Kisnorbo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruggz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruggz/)*

@@ -1,6 +1,6 @@
 # VIBRAN
 
-VIBRAN is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Vino Disco, Montreal on Sat, 15 Aug 2026.
+VIBRAN is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Vino Disco, Montreal on Sat, 15 Aug 2026.
 
 VIBRAN is a house and disco artist tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside Deneb, Jino K and MilSif. Next up: Vino Disco, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ VIBRAN is a house and disco artist tracked on soundcheck, with 25 sets logged ac
 
 Deneb, Jino K, MilSif
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibran-ca/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibran-ca/)*

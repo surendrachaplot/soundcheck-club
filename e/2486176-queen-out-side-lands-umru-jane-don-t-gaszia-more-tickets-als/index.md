@@ -1,0 +1,21 @@
+# QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More - TICKETS ALSO AVAILABLE AT PUBLICSF.COM at Public Works
+
+QUEEN OUT[SIDE LANDS]: Umru, Jane Don't, Gaszia & More - TICKETS ALSO AVAILABLE AT PUBLICSF.COM at Public Works on Fri 7 Aug, Sanfrancisco. 7 acts on the bill: Beverly Chills, Cali Rose, Ducky and gaszia and 3 more. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 7 Aug 2026 |
+| Venue | Public Works |
+| City | San Francisco/Oakland |
+
+## Line-up
+
+- Beverly Chills
+- Cali Rose
+- Ducky
+- gaszia
+- Loft
+- MAMA SAN
+- umru
+
+*Source: [soundcheck](https://soundcheck.club/e/2486176-queen-out-side-lands-umru-jane-don-t-gaszia-more-tickets-als/)*

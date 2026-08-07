@@ -1,8 +1,8 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cakeshop, Seoul on Fri, 14 Aug 2026.
+Safety Trance is a Techno and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cakeshop, Seoul on Fri, 14 Aug 2026.
 
-Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: Cakeshop, Seoul on Fri 14 Aug.
+Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: Cakeshop, Seoul on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 104 s
 | Fri, 14 Aug 2026 | Cakeshop | Seoul |
 | Sat, 19 Sept 2026 | ALICE | Copenhagen |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Sat, 24 Oct 2026 | Paragon | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 104 s
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

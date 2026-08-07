@@ -1,6 +1,6 @@
 # 98dots
 
-98dots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
+98dots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Bushwick Rooftop (11237), New York City on Sun, 16 Aug 2026.
 
 98dots is a techno and house artist tracked on soundcheck, with 67 sets logged across Antwerp, Belgrade, Berlin and Boston and 11 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: TBA - Bushwick Rooftop (11237), Newyorkcity on Sun 16 Aug.
 
@@ -26,4 +26,4 @@
 
 Amelia Holt, Zitto, Kancheli
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*

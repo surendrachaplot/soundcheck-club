@@ -1,6 +1,6 @@
 # Dunes of Dawn
 
-Dunes of Dawn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Dunes of Dawn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Dunes of Dawn is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago. Often billed alongside Muffy, DJ Hyperactive and Flores Negras. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Dunes of Dawn is a techno and house artist based in United States of America, tr
 
 Muffy, DJ Hyperactive, Flores Negras
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dunesofdawn/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dunesofdawn/)*

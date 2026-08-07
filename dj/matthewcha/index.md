@@ -1,6 +1,6 @@
 # Matthew Cha
 
-Matthew Cha is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 7 Aug 2026.
+Matthew Cha is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 7 Aug 2026.
 
 Matthew Cha is a techno and experimental artist tracked on soundcheck, with 28 sets logged across Berlin, Boston, Newyorkcity and Seoul and 1 more. Often billed alongside Marteka Fair, JADE CAO and dDre. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Matthew Cha is a techno and experimental artist tracked on soundcheck, with 28 s
 
 Marteka Fair, JADE CAO, dDre
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*

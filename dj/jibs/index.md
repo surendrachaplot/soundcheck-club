@@ -1,6 +1,6 @@
 # JIBS
 
-JIBS is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Haus73, Hamburg on Sat, 8 Aug 2026.
+JIBS is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Haus73, Hamburg on Sat, 8 Aug 2026.
 
 JIBS is an electronic artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg. Often billed alongside G-Lamour, Tana (2) and fluence. Next up: Haus73, Hamburg on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ JIBS is an electronic artist based in Germany, tracked on soundcheck, with 2 set
 
 G-Lamour, Tana (2), fluence
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jibs/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jibs/)*

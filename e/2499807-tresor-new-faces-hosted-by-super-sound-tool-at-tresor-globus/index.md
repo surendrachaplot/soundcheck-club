@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Super Sound Tool at Tresor / Globus
 
-Tresor New Faces hosted by Super Sound Tool at Tresor / Globus on Wed 9 Sept, Berlin. 4 acts on the bill: Blint, jiyun kim, OneAgent and Victoria Arena. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by Super Sound Tool at Tresor / Globus on Wed 9 Sept, Berlin. 5 acts on the bill: Blint, jiyun kim, One Agent and OneAgent and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Tresor New Faces hosted by Super Sound Tool at Tresor / Globus on Wed 9 Sept, Be
 
 - Blint
 - jiyun kim
+- One Agent
 - OneAgent
 - Victoria Arena
 

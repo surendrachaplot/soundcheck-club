@@ -1,6 +1,6 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 8 Aug 2026.
+DJ Cringey is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 8 Aug 2026.
 
 DJ Cringey is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Edelfettwerk, Hamburg on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ DJ Cringey is a techno and house artist tracked on soundcheck, with 94 sets logg
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

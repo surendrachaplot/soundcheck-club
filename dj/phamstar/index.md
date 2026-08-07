@@ -1,6 +1,6 @@
 # Phamstar
 
-Phamstar is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Hotel Van Zandt, Austin on Sat, 8 Aug 2026.
+Phamstar is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Hotel Van Zandt, Austin on Sat, 8 Aug 2026.
 
 Phamstar is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin. Often billed alongside Daniel Allen, Bonnie Stoneman and Knos. Next up: TBA - Hotel Van Zandt, Austin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Phamstar is a house and deep house artist based in United States of America, tra
 
 Daniel Allen, Bonnie Stoneman, Knos
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phamstar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phamstar/)*

@@ -1,8 +1,8 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Mano Le Tough is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Mano Le Tough is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Mano Le Tough is a house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mano Le Tough is a house and techno artist tracked on soundcheck, with 160 sets 
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Sat, 26 Sept 2026 | fabric | London |
+| Fri, 23 Oct 2026 | BRET | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mano Le Tough is a house and techno artist tracked on soundcheck, with 160 sets 
 
 Âme, Jonathan Kaspar, Sossa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

@@ -1,8 +1,8 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Jamie Jones is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, ALISHA and Manda Moor. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 set
 
 ## Shares bills with
 
-Joseph Capriati, Manda Moor, ALISHA
+Joseph Capriati, ALISHA, Manda Moor
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

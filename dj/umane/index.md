@@ -1,6 +1,6 @@
 # UMANE
 
-UMANE is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at XOYO, London on Wed, 12 Aug 2026.
+UMANE is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at XOYO, London on Wed, 12 Aug 2026.
 
 UMANE is a tech house and deep house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Francesco Poggi, D.X.D and Ryan Spicer. Next up: XOYO, London on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ UMANE is a tech house and deep house artist tracked on soundcheck, with 11 sets 
 
 Francesco Poggi, D.X.D, Ryan Spicer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umane/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umane/)*

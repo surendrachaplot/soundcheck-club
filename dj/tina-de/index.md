@@ -1,6 +1,6 @@
 # Tina (DE)
 
-Tina (DE) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
+Tina (DE) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
 
 Tina (DE) is a house and electronica artist tracked on soundcheck, with 19 sets logged across Berlin, Buenosaires, Rome and Tbilisi. Often billed alongside DJ Pete, Nathalie Seres and Baba Sy. Next up: Fluxbau, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Tina (DE) is a house and electronica artist tracked on soundcheck, with 19 sets 
 
 DJ Pete, Nathalie Seres, Baba Sy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tina-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tina-de/)*

@@ -1,6 +1,6 @@
 # DJ Lisa Frank
 
-DJ Lisa Frank is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Connect Record Shop, Miami on Sat, 8 Aug 2026.
+DJ Lisa Frank is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Connect Record Shop, Miami on Sat, 8 Aug 2026.
 
 DJ Lisa Frank is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Sarah Myers, Chris Nitti and KayLaSoul. Next up: Connect Record Shop, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Lisa Frank is a house and disco artist based in United States of America, tra
 
 Sarah Myers, Chris Nitti, KayLaSoul
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlisafrank/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlisafrank/)*

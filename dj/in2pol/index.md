@@ -1,6 +1,6 @@
 # IN2POL
 
-IN2POL is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Colorado Charlie, The Hague on Sat, 15 Aug 2026.
+IN2POL is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Colorado Charlie, The Hague on Sat, 15 Aug 2026.
 
 IN2POL is a house and disco artist based in Australia, tracked on soundcheck, with 9 sets logged across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Mordi, 6 SENSE and Airwolf Paradise. Next up: Colorado Charlie, Thehague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ IN2POL is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 Mordi, 6 SENSE, Airwolf Paradise
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*

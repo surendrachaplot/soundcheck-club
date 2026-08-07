@@ -1,6 +1,6 @@
 # Wiley
 
-Wiley is a Afro House and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bureau of Silly Ideas, London on Sun, 9 Aug 2026.
+Wiley is a Afro House and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bureau of Silly Ideas, London on Sun, 9 Aug 2026.
 
 Wiley is an afro house and grime artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London, Manchester, Melbourne and Newyorkcity and 1 more. Often billed alongside Artful Dodger, DJ Luck & MC Neat and MC Kie. Next up: Bureau of Silly Ideas, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Wiley is an afro house and grime artist based in United Kingdom, tracked on soun
 
 Artful Dodger, DJ Luck & MC Neat, MC Kie
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiley/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiley/)*

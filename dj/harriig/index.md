@@ -1,6 +1,6 @@
 # HarriiG
 
-HarriiG is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+HarriiG is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 HarriiG is a minimal and tech house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Bran (4), Hoodle and IZZY (UK). Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ HarriiG is a minimal and tech house artist tracked on soundcheck, with 2 sets lo
 
 Bran (4), Hoodle, IZZY (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harriig/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harriig/)*

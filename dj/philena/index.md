@@ -1,19 +1,19 @@
 # Philena
 
-Philena is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Philena is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 9 Aug 2026.
 
-Philena is a techno and dub techno artist tracked on soundcheck, with 23 sets logged across Berlin and Munich. Often billed alongside DJ SPORTSCHUH, KIKE Friday and ZOEVITA. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+Philena is a techno and dub techno artist tracked on soundcheck, with 23 sets logged across Berlin and Munich. Often billed alongside DJ SPORTSCHUH, KIKE Friday and ZOEVITA. Next up: Lokschuppen Berlin, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Sun, 9 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 3 Sept 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
+- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 - Else, Berlin — Thu, 16 Jul 2026
 - Else, Berlin — Fri, 19 Jun 2026
 - Humboldthain Club, Berlin — Sat, 13 Jun 2026
@@ -21,10 +21,9 @@ Philena is a techno and dub techno artist tracked on soundcheck, with 23 sets lo
 - KREUZWERK, Berlin — Thu, 14 May 2026
 - Bizarradies, Munich — Sat, 18 Apr 2026
 - Ritter Butzke, Berlin — Fri, 3 Apr 2026
-- Tresor / Globus, Berlin — Wed, 11 Mar 2026
 
 ## Shares bills with
 
 DJ SPORTSCHUH, KIKE Friday, ZOEVITA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philena/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philena/)*

@@ -1,6 +1,6 @@
 # CIOZ
 
-CIOZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Luz De Gas, Barcelona on Fri, 7 Aug 2026.
+CIOZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Luz De Gas, Barcelona on Fri, 7 Aug 2026.
 
 CIOZ is a techno and house artist based in Italy, tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: Luz De Gas, Barcelona on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ CIOZ is a techno and house artist based in Italy, tracked on soundcheck, with 54
 
 Oliver Koletzki, Kotoe, Madmotormiquel
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*

@@ -1,8 +1,8 @@
 # Wille
 
-Wille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Jolene, Copenhagen on Fri, 7 Aug 2026.
+Wille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Jolene, Copenhagen on Fri, 7 Aug 2026.
 
-Wille is a house and techno artist based in Denmark, tracked on soundcheck, with 26 sets logged across Berlin and Copenhagen. Often billed alongside Enterthevoigt, Benster and Bokéh. Next up: Jolene, Copenhagen on Fri 7 Aug.
+Wille is a house and techno artist based in Denmark, tracked on soundcheck, with 27 sets logged across Berlin and Copenhagen. Often billed alongside Enterthevoigt, Benster and Bokéh. Next up: Jolene, Copenhagen on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Wille is a house and techno artist based in Denmark, tracked on soundcheck, with
 
 ## Recently played
 
+- Hotel Cecil, Copenhagen — Thu, 6 Aug 2026
 - Paloma, Berlin — Sat, 25 Jul 2026
 - Culture Box, Copenhagen — Fri, 27 Mar 2026
 - Culture Box, Copenhagen — Sat, 6 Sept 2025
@@ -20,10 +21,9 @@ Wille is a house and techno artist based in Denmark, tracked on soundcheck, with
 - Cecil AM, Copenhagen — Fri, 15 Nov 2024
 - Hangaren, Copenhagen — Fri, 18 Oct 2024
 - Klub Werkstatt, Copenhagen — Sat, 14 Sept 2024
-- Cecil AM, Copenhagen — Fri, 13 Sept 2024
 
 ## Shares bills with
 
 Enterthevoigt, Benster, Bokéh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wille/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wille/)*

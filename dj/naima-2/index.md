@@ -1,6 +1,6 @@
 # Naima (2)
 
-Naima (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club der Visionaere, Berlin on Tue, 11 Aug 2026.
+Naima (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Tue, 11 Aug 2026.
 
 Naima (2) is an electro and techno artist based in Italy, tracked on soundcheck, with 8 sets logged across Berlin, Milan, Rome and Turin. Often billed alongside Stella Fiore, ARIHA and Dean Denali. Next up: Club der Visionaere, Berlin on Tue 11 Aug.
 
@@ -24,4 +24,4 @@ Naima (2) is an electro and techno artist based in Italy, tracked on soundcheck,
 
 Stella Fiore, ARIHA, Dean Denali
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naima-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naima-2/)*

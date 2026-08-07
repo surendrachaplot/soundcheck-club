@@ -1,18 +1,18 @@
 # JD. REID
 
-JD. REID is a UK Funky and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Jumbi, London on Thu, 6 Aug 2026.
+JD. REID is a UK Funky and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
-JD. REID is an uk funky and club artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Jumbi, London on Thu 6 Aug.
+JD. REID is an uk funky and club artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Night Tales Loft, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Jumbi | London |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
 
 ## Recently played
 
+- Jumbi, London — Thu, 6 Aug 2026
 - The Carpet Shop, London — Sat, 18 Jul 2026
 - The Carpet Shop, London — Sat, 2 May 2026
 - Phonox, London — Sat, 10 Jan 2026
@@ -20,10 +20,9 @@ JD. REID is an uk funky and club artist based in United Kingdom, tracked on soun
 - The Carpet Shop, London — Sat, 29 Nov 2025
 - Village Underground, London — Sat, 22 Nov 2025
 - TBA - Kindred, London — Sat, 27 Sept 2025
-- The Carpet Shop, London — Sat, 16 Aug 2025
 
 ## Shares bills with
 
 Bok Bok, Halogenix, Call Super
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*

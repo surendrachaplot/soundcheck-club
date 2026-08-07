@@ -1,6 +1,6 @@
 # Fred V
 
-Fred V is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Star|Bolt, Philadelphia on Fri, 21 Aug 2026.
+Fred V is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Star|Bolt, Philadelphia on Fri, 21 Aug 2026.
 
 Fred V is a drum & bass and jungle artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 14 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Star|Bolt, Philadelphia on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Fred V is a drum & bass and jungle artist tracked on soundcheck, with 39 sets lo
 
 Flava D, Whiney, Metrik
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

@@ -1,6 +1,6 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "The Dub Techno Chess Club" on Sun, 9 Aug 2026.
+Bar Shrimp is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "The Dub Techno Chess Club" on Sun, 9 Aug 2026.
 
 Bar Shrimp is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including AdomasLP and Tommy Cross. Browse upcoming dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
@@ -14,4 +14,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 1 upcoming night
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

@@ -1,6 +1,6 @@
 # Emma Ro.zn
 
-Emma Ro.zn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 15 Aug 2026.
+Emma Ro.zn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 15 Aug 2026.
 
 Emma Ro.zn is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Leipzig. Often billed alongside DELIKAT, DJ Paradox and LA BITCHENCIO. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Emma Ro.zn is a trance and techno artist based in Germany, tracked on soundcheck
 
 DELIKAT, DJ Paradox, LA BITCHENCIO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaro.zn/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaro.zn/)*

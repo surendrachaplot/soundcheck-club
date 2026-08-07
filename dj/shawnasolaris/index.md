@@ -1,6 +1,6 @@
 # Shawna Solaris
 
-Shawna Solaris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Elsewhere, New York City on Sun, 9 Aug 2026.
+Shawna Solaris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Elsewhere, New York City on Sun, 9 Aug 2026.
 
 Shawna Solaris is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside shirlz, Ah Dek and DJ Sauci Soni. Next up: Elsewhere, Newyorkcity on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ Shawna Solaris is a house and techno artist based in United States of America, t
 
 shirlz, Ah Dek, DJ Sauci Soni
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnasolaris/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnasolaris/)*

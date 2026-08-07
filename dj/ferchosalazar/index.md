@@ -1,6 +1,6 @@
 # Fercho salazar
 
-Fercho salazar is a Progressive House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Pracht, Frankfurt on Fri, 7 Aug 2026.
+Fercho salazar is a Progressive House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pracht, Frankfurt on Fri, 7 Aug 2026.
 
 Fercho salazar is a progressive house and afro house artist based in Costa Rica, tracked on soundcheck, with 5 sets logged across Budapest, Frankfurt, Hamburg and Madrid. Often billed alongside Andreas Henneberg, Animal Print and Calypsis. Next up: Pracht, Frankfurt on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Fercho salazar is a progressive house and afro house artist based in Costa Rica,
 
 Andreas Henneberg, Animal Print, Calypsis
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferchosalazar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferchosalazar/)*

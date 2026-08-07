@@ -1,6 +1,6 @@
 # Melo-D
 
-Melo-D is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
+Melo-D is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
 
 Melo-D is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Rotterdam. Often billed alongside Konetix, Angela Rose and Mark Radford. Next up: Addington Park, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Melo-D is a jungle and drum & bass artist based in United Kingdom, tracked on so
 
 Konetix, Angela Rose, Mark Radford
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-d/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-d/)*

@@ -1,6 +1,6 @@
 # INA (3)
 
-INA (3) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+INA (3) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
 INA (3) is a house and breakbeat artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, London and Paris and 1 more. Often billed alongside LAN the Wireless, LENI and Analyze. Next up: SISSI'S Amsterdam, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ INA (3) is a house and breakbeat artist tracked on soundcheck, with 33 sets logg
 
 LAN the Wireless, LENI, Analyze
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ina-3/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ina-3/)*

@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
+Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
 
 Voigtmann is a house and tech house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Refuge, Newyorkcity on Fri 14 Aug.
 
@@ -33,4 +33,4 @@ Voigtmann is a house and tech house artist tracked on soundcheck, with 187 sets 
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

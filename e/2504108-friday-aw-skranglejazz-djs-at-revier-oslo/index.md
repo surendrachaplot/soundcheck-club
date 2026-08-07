@@ -1,10 +1,10 @@
 # Friday AW / Skranglejazz DJs at Revier Oslo
 
-Friday AW / Skranglejazz DJs at Revier Oslo on Sat 8 Aug, Oslo. House. Preview the line-up and save it on soundcheck.
+Friday AW / Skranglejazz DJs at Revier Oslo on Fri 21 Aug, Oslo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Fri, 21 Aug 2026 |
 | Venue | Revier Oslo |
 | City | Oslo |
 

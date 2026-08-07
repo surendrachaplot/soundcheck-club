@@ -1,6 +1,6 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Chinese Laundry, Sydney on Fri, 21 Aug 2026.
+Jacques Greene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Chinese Laundry, Sydney on Fri, 21 Aug 2026.
 
 Jacques Greene is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Austin and Berlin and 32 more. Often billed alongside Nosaj Thing, Jubilee and Bonobo. Next up: Chinese Laundry, Sydney on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Jacques Greene is a house and techno artist tracked on soundcheck, with 102 sets
 
 Nosaj Thing, Jubilee, Bonobo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

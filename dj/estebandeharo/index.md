@@ -1,6 +1,6 @@
 # Esteban De Haro
 
-Esteban De Haro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Club der Visionaere, Berlin on Mon, 10 Aug 2026.
+Esteban De Haro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Mon, 10 Aug 2026.
 
 Esteban De Haro is a house and minimal artist tracked on soundcheck, with 20 sets logged across Berlin, Hamburg, Mexicocity and Prague. Often billed alongside Flandez, Pia Kauitl and Audio Werner. Next up: Club der Visionaere, Berlin on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Esteban De Haro is a house and minimal artist tracked on soundcheck, with 20 set
 
 Flandez, Pia Kauitl, Audio Werner
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estebandeharo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estebandeharo/)*

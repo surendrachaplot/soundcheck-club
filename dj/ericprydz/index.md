@@ -1,8 +1,8 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Eric Prydz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Bali and Barcelona and 28 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,7 +13,9 @@ Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, 
 | Sat, 15 Aug 2026 | TBA | Brussels |
 | Wed, 2 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 16 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 23 Oct 2026 | Tap1 | Copenhagen |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, 
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

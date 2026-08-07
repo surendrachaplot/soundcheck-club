@@ -1,6 +1,6 @@
 # Katrixia
 
-Katrixia is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Cross Club, Prague on Sat, 15 Aug 2026.
+Katrixia is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cross Club, Prague on Sat, 15 Aug 2026.
 
 Katrixia is a techno and breakbeat artist based in Czech Republic, tracked on soundcheck, with 15 sets logged across Prague. Often billed alongside SAVBEA, OKSI and VISNEACS. Next up: Cross Club, Prague on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Katrixia is a techno and breakbeat artist based in Czech Republic, tracked on so
 
 SAVBEA, OKSI, VISNEACS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*

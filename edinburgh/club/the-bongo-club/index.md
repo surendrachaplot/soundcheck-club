@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "☻ Bongo Reopening Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻" on Fri, 4 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "☻ Bongo Reopening Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻" on Fri, 4 Sept 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 9 upcoming nights, with line-ups including YVI, Anikonik, Bryan Gee and Brynk and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -15,11 +15,11 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 9 upcoming ni
 | Tue, 15 Sept 2026 | REDEMPTION // Freshers Takeover at Bongo Club |  |
 | Thu, 17 Sept 2026 | Origins x TOTEM: Oldboy | Oldboy (UK), Rònan White, yung kidd |
 | Fri, 25 Sept 2026 | PULSE with SPFDJ | Darrell Pulse, SPFDJ |
-| Fri, 9 Oct 2026 | Disorder presents: Bryan Gee (V Recordings) & MC Gusto (Sofa Sound)  | Bryan Gee, Harry Jackson, MC Gusto |
-| Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Silva Snipa, Trucha |
+| Fri, 9 Oct 2026 | Disorder presents: Bryan Gee (V Recordings) [2 HOUR SET] | Bryan Gee, Harry Jackson, MC Gusto |
+| Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Maya Hacker, Silva Snipa, Trucha |
 
 ## Address
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

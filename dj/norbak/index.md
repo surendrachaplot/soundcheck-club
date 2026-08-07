@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Stereo, Montreal on Fri, 14 Aug 2026.
+Nørbak is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Stereo, Montreal on Fri, 14 Aug 2026.
 
 Nørbak is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Stereo, Montreal on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Nørbak is a techno and house artist tracked on soundcheck, with 133 sets logged
 
 Temudo, Quelza, CRAVO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

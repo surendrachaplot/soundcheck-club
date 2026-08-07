@@ -1,6 +1,6 @@
 # ORBE
 
-ORBE is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+ORBE is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
 
 ORBE is a techno and hardcore artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Psyk, Fadi Mohem and Dexter Lux. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ ORBE is a techno and hardcore artist tracked on soundcheck, with 75 sets logged 
 
 Psyk, Fadi Mohem, Dexter Lux
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

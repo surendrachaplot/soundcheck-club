@@ -1,6 +1,6 @@
 # Hex Hector
 
-Hex Hector is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Club Rawhide, New York City on Fri, 7 Aug 2026.
+Hex Hector is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Club Rawhide, New York City on Fri, 7 Aug 2026.
 
 Hex Hector is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Danny Krivit, The Carry Nation and DJ USA. Next up: Club Rawhide, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Hex Hector is a house and disco artist based in United States of America, tracke
 
 Danny Krivit, The Carry Nation, DJ USA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexhector/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexhector/)*

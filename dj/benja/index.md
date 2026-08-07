@@ -1,6 +1,6 @@
 # Benja
 
-Benja is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Void Mykonos, Mykonos on Fri, 7 Aug 2026.
+Benja is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Void Mykonos, Mykonos on Fri, 7 Aug 2026.
 
 Benja is a tech house and house artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Basel and Hamburg and 6 more. Often billed alongside Franc Fala, Cincity and Mahmut Orhan. Next up: Void Mykonos, Mykonos on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Benja is a tech house and house artist based in Switzerland, tracked on soundche
 
 Franc Fala, Cincity, Mahmut Orhan
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*

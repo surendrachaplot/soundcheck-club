@@ -1,6 +1,6 @@
 # Bluest
 
-Bluest is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
+Bluest is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
 
 Bluest is a techno and industrial artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside eskalia, Maddest and Kat Ze. Next up: Praterbrücke, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bluest is a techno and industrial artist based in Austria, tracked on soundcheck
 
 eskalia, Maddest, Kat Ze
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluest/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluest/)*

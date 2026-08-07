@@ -1,6 +1,6 @@
 # MUKKIMIAU
 
-MUKKIMIAU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
+MUKKIMIAU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at SAGE, Berlin on Sat, 15 Aug 2026.
 
 MUKKIMIAU is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 3 more. Often billed alongside Max Joni, LIZZN and ONNI. Next up: SAGE, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MUKKIMIAU is a techno and house artist tracked on soundcheck, with 42 sets logge
 
 Max Joni, LIZZN, ONNI
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mukkimiau/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mukkimiau/)*

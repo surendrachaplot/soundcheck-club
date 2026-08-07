@@ -1,6 +1,6 @@
 # Mike Momburg
 
-Mike Momburg is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
+Mike Momburg is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
 
 Mike Momburg is a house and techno artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Schrotty, Cologne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mike Momburg is a house and techno artist based in Germany, tracked on soundchec
 
 Domenik Deckert, DAVINA, Carl Bergé
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*

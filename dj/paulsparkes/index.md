@@ -1,6 +1,6 @@
 # Paul Sparkes
 
-Paul Sparkes is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Manii Beach, Amsterdam on Sat, 29 Aug 2026.
+Paul Sparkes is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Manii Beach, Amsterdam on Sat, 29 Aug 2026.
 
 Paul Sparkes is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam and Thehague. Often billed alongside Cris-H, Dave Seaman and Alexander Koning. Next up: Manii Beach, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Paul Sparkes is a progressive house and deep house artist based in United Kingdo
 
 Cris-H, Dave Seaman, Alexander Koning
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsparkes/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsparkes/)*

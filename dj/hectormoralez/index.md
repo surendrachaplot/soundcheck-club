@@ -1,6 +1,6 @@
 # Hector Moralez
 
-Hector Moralez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Buzzworks, San Francisco/Oakland on Sat, 8 Aug 2026.
+Hector Moralez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Buzzworks, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Denver, Losangeles, Miami and Sanfrancisco and 2 more. Often billed alongside J-Dub, Amália Leandro and DJ Dazy. Next up: Buzzworks, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Hector Moralez is a house and tech house artist based in United States of Americ
 
 J-Dub, Amália Leandro, DJ Dazy
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*

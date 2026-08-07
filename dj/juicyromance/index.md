@@ -1,6 +1,6 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
+Juicy Romance is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
 
 Juicy Romance is a techno and house artist based in Australia, tracked on soundcheck, with 140 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 46 more. Often billed alongside Partiboi69, Mischluft and sim0ne. Next up: Palmerstown House Estate, Dublin on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Juicy Romance is a techno and house artist based in Australia, tracked on soundc
 
 Partiboi69, Mischluft, sim0ne
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

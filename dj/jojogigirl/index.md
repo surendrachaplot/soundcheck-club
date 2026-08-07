@@ -1,6 +1,6 @@
 # jojogigirl
 
-jojogigirl is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+jojogigirl is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
 jojogigirl is a techno and acid artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside Nail on the Hat, Nanno and get no. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ jojogigirl is a techno and acid artist based in Germany, tracked on soundcheck, 
 
 Nail on the Hat, Nanno, get no
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojogigirl/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojogigirl/)*

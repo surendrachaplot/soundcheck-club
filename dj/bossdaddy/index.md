@@ -1,6 +1,6 @@
 # BOSSdaddy
 
-BOSSdaddy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Hope House, Leeds on Fri, 7 Aug 2026.
+BOSSdaddy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hope House, Leeds on Fri, 7 Aug 2026.
 
 BOSSdaddy is a disco and house artist tracked on soundcheck, with 29 sets logged across Leeds, London, Manchester and Newcastle and 3 more. Often billed alongside Billy Jack (UK), Joe Hell and MYNA. Next up: Hope House, Leeds on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BOSSdaddy is a disco and house artist tracked on soundcheck, with 29 sets logged
 
 Billy Jack (UK), Joe Hell, MYNA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bossdaddy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bossdaddy/)*

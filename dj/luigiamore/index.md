@@ -1,6 +1,6 @@
 # LUIGI AMORE
 
-LUIGI AMORE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Level 8 DTLA, Los Angeles on Fri, 14 Aug 2026.
+LUIGI AMORE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Level 8 DTLA, Los Angeles on Fri, 14 Aug 2026.
 
 LUIGI AMORE is a house and afro house artist based in Italy, tracked on soundcheck, with 18 sets logged across Losangeles. Often billed alongside Omar Rantisi, PABLoKEY and Tamara Lanza. Next up: Level 8 DTLA, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ LUIGI AMORE is a house and afro house artist based in Italy, tracked on soundche
 
 Omar Rantisi, PABLoKEY, Tamara Lanza
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiamore/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiamore/)*

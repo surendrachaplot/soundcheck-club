@@ -1,6 +1,6 @@
 # Figueras
 
-Figueras is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Native Beach Club, Cardales, Buenos Aires on Sat, 26 Sept 2026.
+Figueras is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Native Beach Club, Cardales, Buenos Aires on Sat, 26 Sept 2026.
 
 Figueras is a progressive house and techno artist tracked on soundcheck, with 23 sets logged across Buenosaires. Often billed alongside Guy Mantzur, Simon Vuarambon and Jonathan Kaspar. Next up: TBA - Native Beach Club, Cardales, Buenosaires on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Figueras is a progressive house and techno artist tracked on soundcheck, with 23
 
 Guy Mantzur, Simon Vuarambon, Jonathan Kaspar
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/figueras/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/figueras/)*

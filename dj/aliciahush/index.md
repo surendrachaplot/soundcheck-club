@@ -1,6 +1,6 @@
 # Alicia Hush
 
-Alicia Hush is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Blue Room, Montreal on Thu, 13 Aug 2026.
+Alicia Hush is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blue Room, Montreal on Thu, 13 Aug 2026.
 
 Alicia Hush is a techno and minimal artist tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Claire, Orbital Mechanics and Ellxandra. Next up: Blue Room, Montreal on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ Alicia Hush is a techno and minimal artist tracked on soundcheck, with 3 sets lo
 
 Claire, Orbital Mechanics, Ellxandra
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahush/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahush/)*

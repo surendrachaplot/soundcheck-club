@@ -1,14 +1,15 @@
 # elfie
 
-elfie is a Trance and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
+elfie is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
-elfie is a trance and disco artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Tiefklang, DJ Bumski and DJ Frechdachs. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
+elfie is a trance and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Tiefklang, DJ Bumski and DJ Frechdachs. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Humboldthain Club | Berlin |
+| Fri, 14 Aug 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ elfie is a trance and disco artist based in Germany, tracked on soundcheck, with
 
 Tiefklang, DJ Bumski, DJ Frechdachs
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*

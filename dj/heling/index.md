@@ -1,6 +1,6 @@
 # Heling
 
-Heling is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Saltyacid Space, Berlin on Sat, 15 Aug 2026.
+Heling is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Saltyacid Space, Berlin on Sat, 15 Aug 2026.
 
 Heling is a bass and dub artist tracked on soundcheck, with 8 sets logged across Berlin, Hongkong and Shenzhen. Often billed alongside Dan-neo, Steve Pan and Woonjii. Next up: Saltyacid Space, Berlin on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Heling is a bass and dub artist tracked on soundcheck, with 8 sets logged across
 
 Dan-neo, Steve Pan, Woonjii
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heling/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heling/)*

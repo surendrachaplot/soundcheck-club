@@ -1,6 +1,6 @@
 # jiyun kim
 
-jiyun kim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
+jiyun kim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Else, Berlin on Sat, 8 Aug 2026.
 
 jiyun kim is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Detroit and Newyorkcity. Often billed alongside Ana Molina, Lavan and 4AM NYC. Next up: Else, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ jiyun kim is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Ana Molina, Lavan, 4AM NYC
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiyunkim/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiyunkim/)*

@@ -1,8 +1,8 @@
 # Binh
 
-Binh is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Phonox, London on Sat, 29 Aug 2026.
+Binh is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Phonox, London on Sat, 29 Aug 2026.
 
-Binh is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Phonox, London on Sat 29 Aug.
+Binh is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Austin, Bali and Bangkok and 42 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Phonox, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Binh is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Phonox | London |
 | Sat, 29 Aug 2026 | Phonox | London |
+| Sat, 5 Sept 2026 | Studio Club Malaga | Malaga |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Thu, 17 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -34,4 +35,4 @@ Binh is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

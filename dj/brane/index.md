@@ -1,6 +1,6 @@
 # Brane
 
-Brane is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Fri, 25 Sept 2026.
+Brane is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Fri, 25 Sept 2026.
 
 Brane is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Krakow and Munich. Often billed alongside Tinco, KEROSENE (ZA) and Al Aslan. Next up: DNA. CLUB - urban Space, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Brane is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Tinco, KEROSENE (ZA), Al Aslan
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brane/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brane/)*

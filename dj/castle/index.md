@@ -1,6 +1,6 @@
 # Castle
 
-Castle is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+Castle is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
 Castle is a tech house and house artist tracked on soundcheck, with 16 sets logged across Amsterdam, London and Nashville. Often billed alongside 2K88, Adam X and Anatta (CL). Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Castle is a tech house and house artist tracked on soundcheck, with 16 sets logg
 
 2K88, Adam X, Anatta (CL)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/castle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/castle/)*

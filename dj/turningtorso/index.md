@@ -1,6 +1,6 @@
 # Turning Torso
 
-Turning Torso is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at CHICO, Mexico City on Fri, 7 Aug 2026.
+Turning Torso is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at CHICO, Mexico City on Fri, 7 Aug 2026.
 
 Turning Torso is an electronica and experimental artist based in Mexico, tracked on soundcheck, with 28 sets logged across Austin, Berlin, Mexicocity and Miami. Often billed alongside Octoptic, Alo and Ranma Entero. Next up: CHICO, Mexicocity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Turning Torso is an electronica and experimental artist based in Mexico, tracked
 
 Octoptic, Alo, Ranma Entero
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turningtorso/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turningtorso/)*

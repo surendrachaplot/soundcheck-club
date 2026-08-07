@@ -1,6 +1,6 @@
 # West Port Oracle
 
-West Port Oracle is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Ann Tweak" on Fri, 7 Aug 2026.
+West Port Oracle is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Ann Tweak" on Fri, 7 Aug 2026.
 
 West Port Oracle is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Ann Tweak, Helter Skelper and Lara Sinclair. Browse upcoming dates, start times and who's playing. 27 West Port, Edinburgh EH1 2LD.
 
@@ -16,4 +16,4 @@ West Port Oracle is a music venue in Edinburgh listed on soundcheck. 3 upcoming 
 
 27 West Port, Edinburgh EH1 2LD, Edinburgh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*

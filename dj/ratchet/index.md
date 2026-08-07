@@ -1,14 +1,14 @@
 # Ratchet
 
-Ratchet is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Parc Viau , Montreal on Sat, 8 Aug 2026.
+Ratchet is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ctrllab Art House and Gallery, Montreal on Sat, 8 Aug 2026.
 
-Ratchet is a techno and trance artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Char.l.n, Xaviera and 2HOT2PLAY. Next up: TBA - Parc Viau , Montreal on Sat 8 Aug.
+Ratchet is a techno and trance artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Char.l.n, Xaviera and 2HOT2PLAY. Next up: Ctrllab Art House and Gallery, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - Parc Viau  | Montreal |
+| Sat, 8 Aug 2026 | Ctrllab Art House and Gallery | Montreal |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Ratchet is a techno and trance artist tracked on soundcheck, with 8 sets logged 
 
 Char.l.n, Xaviera, 2HOT2PLAY
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*

@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Colorado Charlie, The Hague on Sun, 23 Aug 2026.
+Luke Dean_ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colorado Charlie, The Hague on Sun, 23 Aug 2026.
 
 Luke Dean_ is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 26 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Colorado Charlie, Thehague on Sun 23 Aug.
 
@@ -31,4 +31,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 101 sets
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

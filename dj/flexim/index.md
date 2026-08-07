@@ -1,6 +1,6 @@
 # FLEXI M
 
-FLEXI M is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+FLEXI M is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 FLEXI M is a techno and trance artist based in France, tracked on soundcheck, with 12 sets logged across Nantes. Often billed alongside Laton Raver, 5euroGoldi and Bernadette. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ FLEXI M is a techno and trance artist based in France, tracked on soundcheck, wi
 
 Laton Raver, 5euroGoldi, Bernadette
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flexim/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flexim/)*

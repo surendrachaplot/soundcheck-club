@@ -1,6 +1,6 @@
 # GUREY
 
-GUREY is a UK Funky and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+GUREY is a UK Funky and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 GUREY is an uk funky and afro tech artist tracked on soundcheck, with 12 sets logged across London and Tokyo. Often billed alongside CHEZA LUCINA, Godsfave and THEMPRESS. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ GUREY is an uk funky and afro tech artist tracked on soundcheck, with 12 sets lo
 
 CHEZA LUCINA, Godsfave, THEMPRESS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gurey-uk/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gurey-uk/)*

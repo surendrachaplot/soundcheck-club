@@ -1,8 +1,8 @@
 # Treble Gemini
 
-Treble Gemini is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Deaf Institute, Manchester on Sun, 30 Aug 2026.
+Treble Gemini is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Deaf Institute, Manchester on Sun, 30 Aug 2026.
 
-Treble Gemini is a house and disco artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside DJ Scissher, Kate Meyher and Nick Charles. Next up: The Deaf Institute, Manchester on Sun 30 Aug.
+Treble Gemini is a house and disco artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside DJ Scissher, DJ Klitbait and Kate Meyher. Next up: The Deaf Institute, Manchester on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Treble Gemini is a house and disco artist tracked on soundcheck, with 6 sets log
 
 ## Shares bills with
 
-DJ Scissher, Kate Meyher, Nick Charles
+DJ Scissher, DJ Klitbait, Kate Meyher
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treblegemini/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treblegemini/)*

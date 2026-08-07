@@ -1,14 +1,13 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 20 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Macadam x Collectif 4AEM • Drafter ~ DJ Mâchoire ~ NAR6" on Thu, 6 Aug 2026.
+Macadam is a music venue in Nantes with 19 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Kluster x Macadam" on Fri, 7 Aug 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 20 upcoming nights, with line-ups including Abr., Alan.D, Alex Kassian and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 19 upcoming nights, with line-ups including Abr., Alan.D, Alex Kassian and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | Macadam x Collectif 4AEM • Drafter ~ DJ Mâchoire ~ NAR6 | NAR6 |
 | Fri, 7 Aug 2026 | Kluster x Macadam | Philippa Pacho |
 | Sat, 8 Aug 2026 | LENA Extended - Station Nuage+Macadam - Abr. live, YENKOV, Znzl | Abr., YENKOV, Znzl |
 | Sun, 9 Aug 2026 | Gloria with Grace Open Air • Tijana T ~ Maara ~ KEUT ~ Moksha ~ Soyoon ~ Maripoza ~ Boreal | KEUT, Maara, Maripoza, PALLAR, Soyoon, Tijana T |
@@ -18,9 +17,10 @@ Macadam is a music venue in Nantes listed on soundcheck. 20 upcoming nights, wit
 | Fri, 21 Aug 2026 | Macadam • Kohra ~ Bambi | Bambi (FR), Kohra |
 | Sat, 22 Aug 2026 | Macadam x CONTINUUM • Psyk ~ ANNX ~ REDLUVED | ANNX, Psyk, REDLUVED |
 | Thu, 27 Aug 2026 | Macadam x Combo Bongos • Alan.D ~ Symraah | Alan.D |
+| Fri, 28 Aug 2026 | Macadam x ONSHORE • Na Nich ~ Mademoisel ~ Sunraï ~ Space Bond | Mademoisel, Sunchase |
 
 ## Address
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

@@ -1,6 +1,6 @@
 # Adventure Club
 
-Adventure Club is a Dubstep and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at New City Gas, Montreal on Fri, 7 Aug 2026.
+Adventure Club is a Dubstep and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at New City Gas, Montreal on Fri, 7 Aug 2026.
 
 Adventure Club is a dubstep and tech house artist based in Canada, tracked on soundcheck, with 11 sets logged across Amsterdam, Denver, Losangeles and Montreal and 2 more. Often billed alongside Chris Lake, Deadmau5 and Elderbrook. Next up: New City Gas, Montreal on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Adventure Club is a dubstep and tech house artist based in Canada, tracked on so
 
 Chris Lake, Deadmau5, Elderbrook
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*

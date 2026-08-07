@@ -1,6 +1,6 @@
 # N ska
 
-N ska is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
+N ska is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
 N ska is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Berlin and Warsaw. Often billed alongside Gościńska, Delta Division and SAGAN. Next up: Renate, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ N ska is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 Gościńska, Delta Division, SAGAN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*

@@ -1,6 +1,6 @@
 # Guille De Juan
 
-Guille De Juan is a Disco and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Dreamboat Bar & Deli, Barcelona on Fri, 7 Aug 2026.
+Guille De Juan is a Disco and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Dreamboat Bar & Deli, Barcelona on Fri, 7 Aug 2026.
 
 Guille De Juan is a disco and downtempo artist tracked on soundcheck, with 12 sets logged across Barcelona and Mallorca. Often billed alongside 00970, Deckard and Exoterrism. Next up: Dreamboat Bar & Deli, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Guille De Juan is a disco and downtempo artist tracked on soundcheck, with 12 se
 
 00970, Deckard, Exoterrism
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guilledejuan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guilledejuan/)*

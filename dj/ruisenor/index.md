@@ -1,6 +1,6 @@
 # Ruiseñor
 
-Ruiseñor is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Ruiseñor is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Ruiseñor is a club and latin bass artist tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Dj Babatr, Dj Rankng and NEGRACONDA. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ruiseñor is a club and latin bass artist tracked on soundcheck, with 61 sets lo
 
 Dj Babatr, Dj Rankng, NEGRACONDA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruisenor/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruisenor/)*

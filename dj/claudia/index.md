@@ -1,6 +1,6 @@
 # Claudia
 
-Claudia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+Claudia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 Claudia is a techno and electro artist based in Italy, tracked on soundcheck, with 3 sets logged across Barcelona, Bucharest and Leipzig. Often billed alongside Alfred Czital, Amaliah and Ayumi (DE). Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Claudia is a techno and electro artist based in Italy, tracked on soundcheck, wi
 
 Alfred Czital, Amaliah, Ayumi (DE)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudia/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudia/)*

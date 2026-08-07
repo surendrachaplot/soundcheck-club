@@ -1,6 +1,6 @@
 # Last Men On Earth
 
-Last Men On Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 7 Aug 2026.
+Last Men On Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 7 Aug 2026.
 
 Last Men On Earth is a house and tech house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 4 more. Often billed alongside Agustin Giri, Djolee and Borella. Next up: Crobar - Buenos Aires, Buenosaires on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Last Men On Earth is a house and tech house artist based in Argentina, tracked o
 
 Agustin Giri, Djolee, Borella
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*

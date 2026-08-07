@@ -1,6 +1,6 @@
 # Confidence Man
 
-Confidence Man is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Confidence Man is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
 Confidence Man is a house and techno artist based in Australia, tracked on soundcheck, with 49 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 21 more. Often billed alongside Chloé Caillet, Erol Alkan and Interplanetary Criminal. Next up: Burgess Park, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Confidence Man is a house and techno artist based in Australia, tracked on sound
 
 Chloé Caillet, Erol Alkan, Interplanetary Criminal
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*

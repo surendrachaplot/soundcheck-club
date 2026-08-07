@@ -1,6 +1,6 @@
 # Lana del Rave
 
-Lana del Rave is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Eventhuset, Stockholm on Sat, 8 Aug 2026.
+Lana del Rave is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eventhuset, Stockholm on Sat, 8 Aug 2026.
 
 Lana del Rave is a techno artist based in Sweden, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig and Stockholm. Often billed alongside LAMACHINE, wannadosomething? and Acronym. Next up: Eventhuset, Stockholm on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Lana del Rave is a techno artist based in Sweden, tracked on soundcheck, with 13
 
 LAMACHINE, wannadosomething?, Acronym
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanadelrave/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lanadelrave/)*

@@ -1,6 +1,6 @@
 # LADY $UKA
 
-LADY $UKA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
+LADY $UKA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
 
 LADY $UKA is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Neyzen, gredeson and ATMOS. Next up: TBA - Secret Bunker , Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LADY $UKA is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Neyzen, gredeson, ATMOS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyuka/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyuka/)*

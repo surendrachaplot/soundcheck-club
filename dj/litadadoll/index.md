@@ -1,6 +1,6 @@
 # LITA DA DOLL
 
-LITA DA DOLL is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at C'mon Everybody, New York City on Fri, 7 Aug 2026.
+LITA DA DOLL is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at C'mon Everybody, New York City on Fri, 7 Aug 2026.
 
 LITA DA DOLL is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity and Washingtondc. Often billed alongside allducksrock, BLAIZE and CMD+JAZMINE. Next up: C'mon Everybody, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ LITA DA DOLL is a club and techno artist based in United States of America, trac
 
 allducksrock, BLAIZE, CMD+JAZMINE
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*

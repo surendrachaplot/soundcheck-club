@@ -1,6 +1,6 @@
 # A Hard Day's Dance
 
-A Hard Day's Dance is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
+A Hard Day's Dance is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
 
 A Hard Day's Dance is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Brandon Benoit, Josh German and Sahil. Next up: Basing House, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ A Hard Day's Dance is a house and garage artist based in United Kingdom, tracked
 
 Brandon Benoit, Josh German, Sahil
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aharddaysdance/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aharddaysdance/)*

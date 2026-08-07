@@ -1,6 +1,6 @@
 # Sarayu
 
-Sarayu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Elsewhere, Bangkok on Fri, 7 Aug 2026.
+Sarayu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Elsewhere, Bangkok on Fri, 7 Aug 2026.
 
 Sarayu is a house and techno artist based in Thailand, tracked on soundcheck, with 86 sets logged across Bali, Bangkok, Berlin and Hongkong and 7 more. Often billed alongside DOTT, Jirus (MELA) and Elaheh. Next up: Elsewhere, Bangkok on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Sarayu is a house and techno artist based in Thailand, tracked on soundcheck, wi
 
 DOTT, Jirus (MELA), Elaheh
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarayu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarayu/)*

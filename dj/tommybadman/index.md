@@ -1,6 +1,6 @@
 # Tommy Badman
 
-Tommy Badman is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 8 Aug 2026.
+Tommy Badman is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 8 Aug 2026.
 
 Tommy Badman is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Sheffield. Often billed alongside Earl Grey (2), King Chuga and mark andrew (2). Next up: Southbank Warehouse, Sheffield on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Tommy Badman is a jungle and drum & bass artist based in United Kingdom, tracked
 
 Earl Grey (2), King Chuga, mark andrew (2)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommybadman/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommybadman/)*

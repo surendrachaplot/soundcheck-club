@@ -1,6 +1,6 @@
 # Bek
 
-Bek is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
+Bek is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
 
 Bek is a techno and latin bass artist based in Germany, tracked on soundcheck, with 3 sets logged across Hamburg and Sydney. Often billed alongside Bonfante, Hungry Ghost and Mabel. Next up: TBA - INNER WEST, Sydney on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Bek is a techno and latin bass artist based in Germany, tracked on soundcheck, w
 
 Bonfante, Hungry Ghost, Mabel
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bek-de/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bek-de/)*

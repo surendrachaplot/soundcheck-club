@@ -1,8 +1,8 @@
 # Billy Nasty
 
-Billy Nasty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
+Billy Nasty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
 
-Billy Nasty is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 3 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: Flava Beach, Naples on Sat 5 Sept.
+Billy Nasty is a techno and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 3 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: Flava Beach, Naples on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Billy Nasty is a techno and house artist tracked on soundcheck, with 22 sets log
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Flava Beach | Naples |
 | Sat, 12 Sept 2026 | The Old Blue Last | London |
+| Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Billy Nasty is a techno and house artist tracked on soundcheck, with 22 sets log
 
 Charles Green, Lino Fuso, ADRIANNA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*

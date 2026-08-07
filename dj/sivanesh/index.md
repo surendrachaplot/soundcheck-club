@@ -1,6 +1,6 @@
 # Sivanesh
 
-Sivanesh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
+Sivanesh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
 
 Sivanesh is a house and techno artist tracked on soundcheck, with 68 sets logged across Bali, Kualalumpur, Seoul and Singapore. Often billed alongside Miss Lil, Bongomann and James Selva. Next up: The Pantry, Singapore on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sivanesh is a house and techno artist tracked on soundcheck, with 68 sets logged
 
 Miss Lil, Bongomann, James Selva
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sivanesh/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sivanesh/)*

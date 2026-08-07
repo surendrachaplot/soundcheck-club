@@ -1,6 +1,6 @@
 # Theus
 
-Theus is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at 戦国大統領, Osaka on Sat, 8 Aug 2026.
+Theus is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 戦国大統領, Osaka on Sat, 8 Aug 2026.
 
 Theus is a hardcore and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity, Osaka and Sanfrancisco. Often billed alongside ANNA PURA, Felip L Jones and Golden Kong. Next up: 戦国大統領, Osaka on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Theus is a hardcore and house artist based in United States of America, tracked 
 
 ANNA PURA, Felip L Jones, Golden Kong
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theus/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theus/)*

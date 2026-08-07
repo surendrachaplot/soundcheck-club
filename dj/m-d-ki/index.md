@@ -1,14 +1,15 @@
 # mʊdʌki
 
-mʊdʌki is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bike Jesus, Prague on Fri, 18 Sept 2026.
+mʊdʌki is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bike Jesus, Prague on Fri, 18 Sept 2026.
 
-mʊdʌki is a bass and drum & bass artist based in Belarus, tracked on soundcheck, with 37 sets logged across Berlin, Budapest, Leipzig and Prague and 2 more. Often billed alongside AXT, Andriy K. and Dash (CZ). Next up: Bike Jesus, Prague on Fri 18 Sept.
+mʊdʌki is a drum & bass and jungle artist based in Belarus, tracked on soundcheck, with 38 sets logged across Berlin, Budapest, Leipzig and Prague and 2 more. Often billed alongside AXT, Andriy K. and Dash (CZ). Next up: Bike Jesus, Prague on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Bike Jesus | Prague |
+| Sat, 10 Oct 2026 | Fuchs2 | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ mʊdʌki is a bass and drum & bass artist based in Belarus, tracked on soundchec
 
 AXT, Andriy K., Dash (CZ)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-d-ki/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-d-ki/)*

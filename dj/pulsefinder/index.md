@@ -1,6 +1,6 @@
 # Pulse Finder
 
-Pulse Finder is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Tamarack, San Francisco/Oakland on Fri, 14 Aug 2026.
+Pulse Finder is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tamarack, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Pulse Finder is a techno and garage artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside Zero Idea, Curb Alert and AFFIRM. Next up: Tamarack, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Pulse Finder is a techno and garage artist based in United States of America, tr
 
 Zero Idea, Curb Alert, AFFIRM
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsefinder/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsefinder/)*

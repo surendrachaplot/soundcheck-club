@@ -1,6 +1,6 @@
 # Julian Bender
 
-Julian Bender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Romantica, Stuttgart on Sat, 29 Aug 2026.
+Julian Bender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Romantica, Stuttgart on Sat, 29 Aug 2026.
 
 Julian Bender is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside Jorkes, Iron Curtis and Johannes Albert. Next up: Romantica, Stuttgart on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Julian Bender is a house and techno artist tracked on soundcheck, with 4 sets lo
 
 Jorkes, Iron Curtis, Johannes Albert
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbender/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbender/)*

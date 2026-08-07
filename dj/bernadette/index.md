@@ -1,6 +1,6 @@
 # Bernadette
 
-Bernadette is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Unité.22, Marseille on Sat, 22 Aug 2026.
+Bernadette is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Unité.22, Marseille on Sat, 22 Aug 2026.
 
 Bernadette is a techno and house artist based in France, tracked on soundcheck, with 31 sets logged across Lyon, Marseille, Nantes and Paris. Often billed alongside Mangabey, Audrey Danza and DouceSoeur. Next up: Unité.22, Marseille on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bernadette is a techno and house artist based in France, tracked on soundcheck, 
 
 Mangabey, Audrey Danza, DouceSoeur
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernadette/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernadette/)*

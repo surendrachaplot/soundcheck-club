@@ -1,6 +1,6 @@
 # ANSWER (2)
 
-ANSWER (2) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at COUNTER CLUB, Tokyo on Fri, 7 Aug 2026.
+ANSWER (2) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at COUNTER CLUB, Tokyo on Fri, 7 Aug 2026.
 
 ANSWER (2) is a house and breakbeat artist based in China, tracked on soundcheck, with 5 sets logged across Shenzhen and Tokyo. Often billed alongside Amu (1), CAS9 and DJ S (UK). Next up: COUNTER CLUB, Tokyo on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ ANSWER (2) is a house and breakbeat artist based in China, tracked on soundcheck
 
 Amu (1), CAS9, DJ S (UK)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/answer-2/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/answer-2/)*

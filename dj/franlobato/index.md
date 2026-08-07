@@ -1,6 +1,6 @@
 # Fran Lobato
 
-Fran Lobato is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at EL SÓTANO, Madrid on Fri, 28 Aug 2026.
+Fran Lobato is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at EL SÓTANO, Madrid on Fri, 28 Aug 2026.
 
 Fran Lobato is a tech house and house artist based in Spain, tracked on soundcheck, with 20 sets logged across Madrid and Mexicocity. Often billed alongside Ruben Luna, Red Effects and Alffie. Next up: EL SÓTANO, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fran Lobato is a tech house and house artist based in Spain, tracked on soundche
 
 Ruben Luna, Red Effects, Alffie
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franlobato/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franlobato/)*

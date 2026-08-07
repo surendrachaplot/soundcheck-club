@@ -1,6 +1,6 @@
 # Mona Sage
 
-Mona Sage is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
+Mona Sage is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
 Mona Sage is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen and London. Often billed alongside Manni Dee, S Ruston and James Newmarch. Next up: FOLD, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mona Sage is a techno and trance artist tracked on soundcheck, with 16 sets logg
 
 Manni Dee, S Ruston, James Newmarch
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*

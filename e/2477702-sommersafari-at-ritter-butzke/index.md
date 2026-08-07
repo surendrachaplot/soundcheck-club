@@ -1,6 +1,6 @@
 # SommerSafari at Ritter Butzke
 
-SommerSafari at Ritter Butzke on Sat 26 Sept, Berlin. 5 acts on the bill: Das Amt, Dominik Eulberg, Format B and Moonbootica and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+SommerSafari at Ritter Butzke on Sat 26 Sept, Berlin. 7 acts on the bill: Christopher Kono, Das Amt, DJ Tragik and Dominik Eulberg and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ SommerSafari at Ritter Butzke on Sat 26 Sept, Berlin. 5 acts on the bill: Das Am
 
 ## Line-up
 
+- Christopher Kono
 - Das Amt
+- DJ Tragik
 - Dominik Eulberg
 - Format B
 - Moonbootica

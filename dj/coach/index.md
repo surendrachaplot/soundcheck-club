@@ -1,14 +1,14 @@
 # COACH
 
-COACH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Parc Viau , Montreal on Sat, 8 Aug 2026.
+COACH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ctrllab Art House and Gallery, Montreal on Sat, 8 Aug 2026.
 
-COACH is a techno and house artist tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Jino K, Ben Mancini and Christø. Next up: TBA - Parc Viau , Montreal on Sat 8 Aug.
+COACH is a techno and house artist tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Jino K, Ben Mancini and Christø. Next up: Ctrllab Art House and Gallery, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - Parc Viau  | Montreal |
+| Sat, 8 Aug 2026 | Ctrllab Art House and Gallery | Montreal |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ COACH is a techno and house artist tracked on soundcheck, with 6 sets logged acr
 
 Jino K, Ben Mancini, Christø
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coach/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coach/)*

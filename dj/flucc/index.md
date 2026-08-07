@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+FLUCC is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 FLUCC is a techno and hardcore artist based in Germany, tracked on soundcheck, with 60 sets logged across Antwerp, Barcelona, Berlin and Edinburgh and 9 more. Often billed alongside LØUS, Olmatri and Der Schaffner. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ FLUCC is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 LØUS, Olmatri, Der Schaffner
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*

@@ -1,6 +1,6 @@
 # Suite7a
 
-Suite7a is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "World of Knots." on Sun, 9 Aug 2026.
+Suite7a is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "World of Knots." on Sun, 9 Aug 2026.
 
 Suite7a is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including gi (24) and Marcus Whale. Browse upcoming dates, start times and who's playing. Shop 74, Level 5/1 Dixon St, Haymarket NSW 2000.
 
@@ -14,4 +14,4 @@ Suite7a is a music venue in Sydney listed on soundcheck. 1 upcoming night, with 
 
 Shop 74, Level 5/1 Dixon St, Haymarket NSW 2000, Sydney
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/suite7a/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/suite7a/)*

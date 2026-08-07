@@ -1,6 +1,6 @@
 # Alex Albrecht
 
-Alex Albrecht is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Night Cat, Melbourne on Fri, 14 Aug 2026.
+Alex Albrecht is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Night Cat, Melbourne on Fri, 14 Aug 2026.
 
 Alex Albrecht is an ambient and techno artist based in Australia, tracked on soundcheck, with 35 sets logged across Berlin, Brussels, Budapest and Kualalumpur and 10 more. Often billed alongside Andy Hart, Pjenné and CityBoyLounge. Next up: The Night Cat, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Alex Albrecht is an ambient and techno artist based in Australia, tracked on sou
 
 Andy Hart, Pjenné, CityBoyLounge
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*

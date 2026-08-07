@@ -1,6 +1,6 @@
 # NOFEX
 
-NOFEX is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Fri, 7 Aug 2026.
+NOFEX is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Fri, 7 Aug 2026.
 
 NOFEX is a deep house and house artist based in Italy, tracked on soundcheck, with 22 sets logged across Barcelona, London and Rome. Often billed alongside EDEF, Francesco Poggi and Liam Black. Next up: TBA - Backstage - Carrer Casp, 33, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ NOFEX is a deep house and house artist based in Italy, tracked on soundcheck, wi
 
 EDEF, Francesco Poggi, Liam Black
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nofex/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nofex/)*

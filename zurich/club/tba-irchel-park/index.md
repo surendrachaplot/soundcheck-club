@@ -1,6 +1,6 @@
 # TBA - Irchel Park
 
-TBA - Irchel Park is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 6 Aug 2026; the next is "IRCHEL FREQUENCY — OFF PARADE" on Sat, 8 Aug 2026.
+TBA - Irchel Park is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "IRCHEL FREQUENCY — OFF PARADE" on Sat, 8 Aug 2026.
 
 TBA - Irchel Park is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Adi Dassler. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Irchel Park is a music venue in Zurich listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | IRCHEL FREQUENCY — OFF PARADE | Adi Dassler |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/tba-irchel-park/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/tba-irchel-park/)*

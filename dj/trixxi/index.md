@@ -1,6 +1,6 @@
 # TRIXXI
 
-TRIXXI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Under Bridge Madrid, Madrid on Sat, 15 Aug 2026.
+TRIXXI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Under Bridge Madrid, Madrid on Sat, 15 Aug 2026.
 
 TRIXXI is a house and techno artist tracked on soundcheck, with 19 sets logged across Madrid. Often billed alongside Tucu (Tucu), Brisa Then and Alexis mayer. Next up: Under Bridge Madrid, Madrid on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TRIXXI is a house and techno artist tracked on soundcheck, with 19 sets logged a
 
 Tucu (Tucu), Brisa Then, Alexis mayer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*

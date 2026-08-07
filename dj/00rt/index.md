@@ -1,6 +1,6 @@
 # 00rt
 
-00rt is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
+00rt is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at KHIDI, Tbilisi on Fri, 7 Aug 2026.
 
 00rt is a techno and acid artist tracked on soundcheck, with 43 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Ancient Methods, Unhuman and Frequency Shifter. Next up: KHIDI, Tbilisi on Fri 7 Aug.
 
@@ -27,4 +27,4 @@
 
 Ancient Methods, Unhuman, Frequency Shifter
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*

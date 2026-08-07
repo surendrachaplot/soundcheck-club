@@ -1,6 +1,6 @@
 # Melchior Productions Ltd
 
-Melchior Productions Ltd is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Melchior Productions Ltd is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
 Melchior Productions Ltd is a minimal and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Bucharest and Ibiza and 8 more. Often billed alongside Sammy Dee, Cem Ozden and Zip. Next up: OXI, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Melchior Productions Ltd is a minimal and house artist based in Germany, tracked
 
 Sammy Dee, Cem Ozden, Zip
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorproductionsltd/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorproductionsltd/)*

@@ -1,6 +1,6 @@
 # AdomasLP
 
-AdomasLP is a Dub Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bar Shrimp, Manchester on Sun, 9 Aug 2026.
+AdomasLP is a Dub Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bar Shrimp, Manchester on Sun, 9 Aug 2026.
 
 AdomasLP is a dub techno and electro artist tracked on soundcheck, with 34 sets logged across Bristol, London and Manchester. Often billed alongside Tommy Cross, MEMP3 and Ruf Dug. Next up: Bar Shrimp, Manchester on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ AdomasLP is a dub techno and electro artist tracked on soundcheck, with 34 sets 
 
 Tommy Cross, MEMP3, Ruf Dug
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*

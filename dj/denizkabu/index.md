@@ -1,6 +1,6 @@
 # Deniz Kabu
 
-Deniz Kabu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kastel, Istanbul on Fri, 7 Aug 2026.
+Deniz Kabu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kastel, Istanbul on Fri, 7 Aug 2026.
 
 Deniz Kabu is a house and techno artist tracked on soundcheck, with 10 sets logged across Istanbul. Often billed alongside 19:26, Ash and BARAN YILDIRIM. Next up: Kastel, Istanbul on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Deniz Kabu is a house and techno artist tracked on soundcheck, with 10 sets logg
 
 19:26, Ash, BARAN YILDIRIM
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denizkabu/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denizkabu/)*

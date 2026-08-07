@@ -1,13 +1,14 @@
 # RIKHTER
 
-RIKHTER is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Chocolate Factory, New York City on Sat, 22 Aug 2026.
+RIKHTER is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 21 Aug 2026.
 
-RIKHTER is a techno and trance artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: The Chocolate Factory, Newyorkcity on Sat 22 Aug.
+RIKHTER is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Smoke & Mirrors, Chicago on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Smoke & Mirrors | Chicago |
 | Sat, 22 Aug 2026 | The Chocolate Factory | New York City |
 | Fri, 28 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 29 Aug 2026 | Domicile | Miami |
@@ -27,4 +28,4 @@ RIKHTER is a techno and trance artist tracked on soundcheck, with 146 sets logge
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

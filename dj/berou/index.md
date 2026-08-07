@@ -1,6 +1,6 @@
 # Bérou
 
-Bérou is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
+Bérou is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
 
 Bérou is a techno and house artist tracked on soundcheck, with 52 sets logged across Berlin, Geneva, Lyon and Nantes and 1 more. Often billed alongside Zaratustra, Colapso and Djé Djé from the block. Next up: Kilomètre25, Paris on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Bérou is a techno and house artist tracked on soundcheck, with 52 sets logged a
 
 Zaratustra, Colapso, Djé Djé from the block
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berou/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berou/)*

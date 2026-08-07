@@ -1,8 +1,8 @@
 # Piem
 
-Piem is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
+Piem is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
 
-Piem is a house and tech house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside Nesi, Tamborero and GIVIO. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
+Piem is a house and tech house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside Nesi, Tamborero and GIVIO. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Piem is a house and tech house artist tracked on soundcheck, with 157 sets logge
 | Fri, 21 Aug 2026 | Else | Berlin |
 | Sat, 22 Aug 2026 | Guíxols Arena | Barcelona |
 | Sun, 23 Aug 2026 | W Barcelona | Barcelona |
+| Sun, 30 Aug 2026 | W Barcelona | Barcelona |
 | Sat, 3 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 17 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Thu, 22 Oct 2026 | Supperclub Cruise | Amsterdam |
@@ -32,4 +33,4 @@ Piem is a house and tech house artist tracked on soundcheck, with 157 sets logge
 
 Nesi, Tamborero, GIVIO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*

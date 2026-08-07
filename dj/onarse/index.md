@@ -1,6 +1,6 @@
 # ONARSÉ
 
-ONARSÉ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Room 22, Sydney on Fri, 28 Aug 2026.
+ONARSÉ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Room 22, Sydney on Fri, 28 Aug 2026.
 
 ONARSÉ is a techno and hardcore artist tracked on soundcheck, with 19 sets logged across Amsterdam, Auckland, London and Melbourne and 2 more. Often billed alongside BASS SLVT, ARTISAH and Audiophile. Next up: Room 22, Sydney on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ ONARSÉ is a techno and hardcore artist tracked on soundcheck, with 19 sets logg
 
 BASS SLVT, ARTISAH, Audiophile
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onarse/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onarse/)*

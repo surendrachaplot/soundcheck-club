@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Demorave Preparty" on Fri, 7 Aug 2026.
+Südpol is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Demorave Preparty" on Fri, 7 Aug 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Andre Kronert, Ani con Gas, Anna Ullrich and Anne-Lu and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, wit
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

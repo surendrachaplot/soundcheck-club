@@ -1,6 +1,6 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "SCORDISCI 2 Year Anniversary: Dublin Debut [Full Venue Takeover]" on Fri, 7 Aug 2026.
+Pawn Shop is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SCORDISCI 2 Year Anniversary: Dublin Debut [Full Venue Takeover]" on Fri, 7 Aug 2026.
 
 Pawn Shop is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including Ashes (2), BAYNES, Havik and Hooligan and 2 more. Browse upcoming dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
@@ -15,4 +15,4 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 2 upcoming nights, wi
 
 15 Dame St, Dublin 2, D02 KD74, Dublin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*

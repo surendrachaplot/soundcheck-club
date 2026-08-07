@@ -1,6 +1,6 @@
 # Acid Oslo
 
-Acid Oslo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - 4 Rue Gallieni, 92230 Gennevilliers, France, Paris on Sat, 29 Aug 2026.
+Acid Oslo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - 4 Rue Gallieni, 92230 Gennevilliers, France, Paris on Sat, 29 Aug 2026.
 
 Acid Oslo is a techno and electro artist tracked on soundcheck, with 81 sets logged across Lyon, Paris and Turin. Often billed alongside NEWIN, Ben Manson and Karmakiddo. Next up: TBA - 4 Rue Gallieni, 92230 Gennevilliers, France, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Acid Oslo is a techno and electro artist tracked on soundcheck, with 81 sets log
 
 NEWIN, Ben Manson, Karmakiddo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidoslo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidoslo/)*

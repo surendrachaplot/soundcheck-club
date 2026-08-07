@@ -1,6 +1,6 @@
 # Caratastrophe
 
-Caratastrophe is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
+Caratastrophe is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
 
 Caratastrophe is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Jake Korolev. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
 
@@ -15,4 +15,4 @@ Caratastrophe is an electronic artist based in United States of America, tracked
 
 Jake Korolev
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*

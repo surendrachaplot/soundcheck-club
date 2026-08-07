@@ -1,14 +1,16 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+OLIVIA LENSEN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
-OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Cologne, Rotterdam and Thehague and 1 more. Often billed alongside Lisa Korver, DART and Moody Mehran. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
+OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Cologne, Rotterdam and Thehague and 1 more. Often billed alongside Lisa Korver, DART and Moody Mehran. Next up: Laak, Thehague on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Laak | The Hague |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Thu, 22 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soun
 
 Lisa Korver, DART, Moody Mehran
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

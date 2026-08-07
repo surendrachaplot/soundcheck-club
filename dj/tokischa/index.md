@@ -1,6 +1,6 @@
 # Tokischa
 
-Tokischa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Tokischa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
 Tokischa is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 10 sets logged across Berlin, London, Losangeles and Mexicocity and 3 more. Often billed alongside Jyoty, Adam Port and Charlotte de Witte. Next up: Burgess Park, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tokischa is a house and techno artist based in Dominican Republic, tracked on so
 
 Jyoty, Adam Port, Charlotte de Witte
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*

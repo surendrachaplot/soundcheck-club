@@ -1,6 +1,6 @@
 # niwa
 
-niwa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Red Bar, Tokyo on Mon, 10 Aug 2026.
+niwa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Red Bar, Tokyo on Mon, 10 Aug 2026.
 
 niwa is a house and techno artist based in Japan, tracked on soundcheck, with 83 sets logged across Chicago, Osaka and Tokyo. Often billed alongside guro.det, MIZUKI OGISU and Kobashi Mitsuki. Next up: Red Bar, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ niwa is a house and techno artist based in Japan, tracked on soundcheck, with 83
 
 guro.det, MIZUKI OGISU, Kobashi Mitsuki
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niwa/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niwa/)*

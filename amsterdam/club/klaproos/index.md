@@ -1,6 +1,6 @@
 # Klaproos
 
-Klaproos is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Polifonic & SMIILE ADE 2026" on Thu, 22 Oct 2026.
+Klaproos is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Polifonic & SMIILE ADE 2026" on Thu, 22 Oct 2026.
 
 Klaproos is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Alexia Glensy, BASHKKA, Cassy and Fais Le Beau and 2 more. Browse upcoming dates, start times and who's playing. Papaverweg 38, 1032 KJ Amsterdam.
 
@@ -15,4 +15,4 @@ Klaproos is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, 
 
 Papaverweg 38, 1032 KJ Amsterdam, Amsterdam
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/klaproos/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/klaproos/)*

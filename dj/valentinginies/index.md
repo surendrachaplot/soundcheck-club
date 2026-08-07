@@ -1,6 +1,6 @@
 # Valentin Ginies
 
-Valentin Ginies is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Gare Porto, Porto on Sat, 15 Aug 2026.
+Valentin Ginies is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gare Porto, Porto on Sat, 15 Aug 2026.
 
 Valentin Ginies is a techno and minimal techno artist tracked on soundcheck, with 26 sets logged across Berlin, Hongkong, Porto and Prague and 1 more. Often billed alongside D-Leria, DANA NADA and Toxido Mask. Next up: Gare Porto, Porto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Valentin Ginies is a techno and minimal techno artist tracked on soundcheck, wit
 
 D-Leria, DANA NADA, Toxido Mask
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*

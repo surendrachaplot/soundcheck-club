@@ -1,6 +1,6 @@
 # n9oc
 
-n9oc is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+n9oc is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 n9oc is a house and electronica artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt, Munich and Strasbourg. Often billed alongside Oliver Hafenbauer, Jenne and Aprill. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ n9oc is a house and electronica artist based in Germany, tracked on soundcheck, 
 
 Oliver Hafenbauer, Jenne, Aprill
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n9oc/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n9oc/)*

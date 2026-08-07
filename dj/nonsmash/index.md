@@ -1,6 +1,6 @@
 # NONSMASH
 
-NONSMASH is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Jolene, Copenhagen on Sat, 8 Aug 2026.
+NONSMASH is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Jolene, Copenhagen on Sat, 8 Aug 2026.
 
 NONSMASH is a house and techno artist tracked on soundcheck, with 13 sets logged across Copenhagen and Paris. Often billed alongside Entree, Cockwhore & Macho and JULEEO. Next up: Jolene, Copenhagen on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ NONSMASH is a house and techno artist tracked on soundcheck, with 13 sets logged
 
 Entree, Cockwhore & Macho, JULEEO
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsmash/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsmash/)*

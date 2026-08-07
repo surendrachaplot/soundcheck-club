@@ -1,6 +1,6 @@
 # Nazz
 
-Nazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Stuttgart on Sat, 15 Aug 2026.
+Nazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Stuttgart on Sat, 15 Aug 2026.
 
 Nazz is a techno and house artist based in Germany, tracked on soundcheck, with 70 sets logged across Basel, Berlin, Dusseldorf and Frankfurt and 3 more. Often billed alongside AHURA, Jannis Maxim and SYMON. Next up: TBA, Stuttgart on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nazz is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 AHURA, Jannis Maxim, SYMON
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazz/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazz/)*

@@ -1,14 +1,13 @@
 # BCM
 
-BCM is a music venue in Mallorca with 28 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "DJ Snake" on Thu, 6 Aug 2026.
+BCM is a music venue in Mallorca with 27 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "The Glow White Party" on Fri, 7 Aug 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 28 upcoming nights, with line-ups including AARON SEVILLA, Antdot, DJ Snake and Duke Dumont and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 27 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Duke Dumont and East End Dubs and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | DJ Snake | DJ Snake |
 | Fri, 7 Aug 2026 | The Glow White Party |  |
 | Sat, 8 Aug 2026 | Antdot | Antdot |
 | Sun, 9 Aug 2026 | Grossomoddo |  |
@@ -18,9 +17,10 @@ BCM is a music venue in Mallorca listed on soundcheck. 28 upcoming nights, with 
 | Thu, 13 Aug 2026 | The Martinez Brothers | The Martinez Brothers |
 | Fri, 14 Aug 2026 | The Glow White Party |  |
 | Sat, 15 Aug 2026 | Wade | Wade |
+| Sun, 16 Aug 2026 | Grossomoddo |  |
 
 ## Address
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

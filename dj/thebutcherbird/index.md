@@ -1,14 +1,13 @@
 # the butcher bird
 
-the butcher bird is a Bass and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Greyhound, London on Thu, 6 Aug 2026.
+the butcher bird is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Fri, 7 Aug 2026.
 
-the butcher bird is a bass and electronica artist tracked on soundcheck, with 19 sets logged across London and Sheffield. Often billed alongside MF Ceól, Sway Of The Verses and D.N.S. Next up: The Greyhound, London on Thu 6 Aug.
+the butcher bird is a bass and electronica artist tracked on soundcheck, with 19 sets logged across London and Sheffield. Often billed alongside MF Ceól, Sway Of The Verses and D.N.S. Next up: Colour Factory, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | The Greyhound | London |
 | Fri, 7 Aug 2026 | Colour Factory | London |
 | Fri, 14 Aug 2026 | The Queen Adelaide | London |
 | Fri, 11 Sept 2026 | The System | Sheffield |
@@ -16,6 +15,7 @@ the butcher bird is a bass and electronica artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- The Greyhound, London — Thu, 6 Aug 2026
 - radial, London — Sat, 27 Jun 2026
 - Bonkers Bar, London — Fri, 1 May 2026
 - Club Makossa, London — Thu, 16 Apr 2026
@@ -23,10 +23,9 @@ the butcher bird is a bass and electronica artist tracked on soundcheck, with 19
 - Distillery N17, London — Wed, 31 Dec 2025
 - The Greyhound, London — Sat, 13 Dec 2025
 - The Greyhound, London — Fri, 14 Nov 2025
-- The Cause, London — Sat, 25 Oct 2025
 
 ## Shares bills with
 
 MF Ceól, Sway Of The Verses, D.N.S
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*

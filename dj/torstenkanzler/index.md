@@ -1,6 +1,6 @@
 # Torsten Kanzler
 
-Torsten Kanzler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Torsten Kanzler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Torsten Kanzler is a techno and tech house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside MILAN MILANO, Basstronauten and Daniel Boon. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Torsten Kanzler is a techno and tech house artist tracked on soundcheck, with 19
 
 MILAN MILANO, Basstronauten, Daniel Boon
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torstenkanzler/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torstenkanzler/)*

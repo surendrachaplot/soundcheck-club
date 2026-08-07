@@ -1,6 +1,6 @@
 # Luma
 
-Luma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+Luma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
 
 Luma is a techno and house artist tracked on soundcheck, with 9 sets logged across Bali, Berlin, Liverpool and London and 2 more. Often billed alongside ADJ, Amerza and Azymuth. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Luma is a techno and house artist tracked on soundcheck, with 9 sets logged acro
 
 ADJ, Amerza, Azymuth
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luma/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luma/)*

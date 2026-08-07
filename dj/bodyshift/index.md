@@ -1,6 +1,6 @@
 # BODYSHIFT
 
-BODYSHIFT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
+BODYSHIFT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at AMT, Berlin on Sat, 8 Aug 2026.
 
 BODYSHIFT is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, Hamburg and Lisbon. Often billed alongside Qualia Trax, SIBAST and Manta. Next up: AMT, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ BODYSHIFT is a house and techno artist tracked on soundcheck, with 24 sets logge
 
 Qualia Trax, SIBAST, Manta
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyshift/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyshift/)*

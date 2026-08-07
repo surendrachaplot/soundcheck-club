@@ -1,6 +1,6 @@
 # Sandor
 
-Sandor is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Garage Noord, Amsterdam on Fri, 14 Aug 2026.
+Sandor is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Garage Noord, Amsterdam on Fri, 14 Aug 2026.
 
 Sandor is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Brighton, Budapest and Copenhagen and 1 more. Often billed alongside Able, Amz and KDNC. Next up: Garage Noord, Amsterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sandor is a house and tech house artist based in United Kingdom, tracked on soun
 
 Able, Amz, KDNC
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandor/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandor/)*

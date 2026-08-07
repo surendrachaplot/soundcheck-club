@@ -1,6 +1,6 @@
 # Dolan
 
-Dolan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
+Dolan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lieberscholli, Munich on Sat, 22 Aug 2026.
 
 Dolan is a house and techno artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Dublin and Munich. Often billed alongside Elpawel, Inu G and Kamo. Next up: Lieberscholli, Munich on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Dolan is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Elpawel, Inu G, Kamo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolan/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolan/)*

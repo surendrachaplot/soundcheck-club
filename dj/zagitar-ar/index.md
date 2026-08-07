@@ -1,6 +1,6 @@
 # Zagitar
 
-Zagitar is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Sat, 8 Aug 2026.
+Zagitar is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Sat, 8 Aug 2026.
 
 Zagitar is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 10 sets logged across Buenosaires. Often billed alongside Ubbah, Agustin Giri and Fideles. Next up: TBA - Palacio Alsina, Microcentro, Buenosaires on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Zagitar is a techno and progressive house artist based in Argentina, tracked on 
 
 Ubbah, Agustin Giri, Fideles
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zagitar-ar/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zagitar-ar/)*

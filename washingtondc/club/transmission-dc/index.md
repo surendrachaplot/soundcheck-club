@@ -1,14 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 12 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "BLOODLUST ft DJ Re:Code" on Thu, 6 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "ARMANA KHAN RESIDENCY 001" on Fri, 7 Aug 2026.
 
-TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 12 upcoming nights, with line-ups including 1tbsp, ARMANA KHAN, Binh and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 11 upcoming nights, with line-ups including 1tbsp, ARMANA KHAN, Binh and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | BLOODLUST ft DJ Re:Code | DJ Re:Code, Ether Pleaser, GOkibstarGO, xXabiXx |
 | Fri, 7 Aug 2026 | ARMANA KHAN RESIDENCY 001 | ARMANA KHAN, Franxx |
 | Sat, 8 Aug 2026 | ARMANA KHAN RESIDENCY 001 | ARMANA KHAN |
 | Thu, 13 Aug 2026 | Substrate Pres. Moktar | Moktar |
@@ -18,9 +17,10 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 12 upcomi
 | Thu, 3 Sept 2026 | Substrate Pres. Grace Dahl | Grace Dahl |
 | Sat, 12 Sept 2026 | Black Box pres. Clarisa Kimskii | Clarisa Kimskii |
 | Thu, 17 Sept 2026 | Substrate Pres. Binh | Binh |
+| Thu, 8 Oct 2026 | Substrate Pres. Wata Igarashi | Wata Igarashi |
 
 ## Address
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

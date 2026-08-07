@@ -1,6 +1,6 @@
 # maenad
 
-maenad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at public records, New York City on Sat, 22 Aug 2026.
+maenad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at public records, New York City on Sat, 22 Aug 2026.
 
 maenad is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside Zeigler, microfossil and Brutal Twink. Next up: public records, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ maenad is a house and techno artist based in United States of America, tracked o
 
 Zeigler, microfossil, Brutal Twink
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maenad/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maenad/)*

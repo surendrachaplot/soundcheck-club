@@ -1,8 +1,8 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at EXIL, Zurich on Sat, 8 Aug 2026.
+AMORAL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at EXIL, Zurich on Sat, 8 Aug 2026.
 
-AMORAL is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside MARRØN, Rene Wise and Beste Hira. Next up: EXIL, Zurich on Sat 8 Aug.
+AMORAL is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside MARRØN, Rene Wise and Beste Hira. Next up: EXIL, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ AMORAL is a techno and house artist tracked on soundcheck, with 159 sets logged 
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
 | Sat, 29 Aug 2026 | Karmen Camina | Strasbourg |
+| Fri, 4 Sept 2026 | Studio Club Malaga | Malaga |
 | Sat, 12 Sept 2026 | Palais | London |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
@@ -31,4 +32,4 @@ AMORAL is a techno and house artist tracked on soundcheck, with 159 sets logged 
 
 MARRØN, Rene Wise, Beste Hira
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

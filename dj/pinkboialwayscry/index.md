@@ -1,6 +1,6 @@
 # PINKBOIALWAYSCRY
 
-PINKBOIALWAYSCRY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+PINKBOIALWAYSCRY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 PINKBOIALWAYSCRY is a techno and trance artist based in China, tracked on soundcheck, with 3 sets logged across Bangkok and Berlin. Often billed alongside Acierate, AnD and Evaluvfrog. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ PINKBOIALWAYSCRY is a techno and trance artist based in China, tracked on soundc
 
 Acierate, AnD, Evaluvfrog
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkboialwayscry/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkboialwayscry/)*

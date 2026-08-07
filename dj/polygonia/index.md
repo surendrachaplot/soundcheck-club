@@ -1,6 +1,6 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Polygonia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Polygonia is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ Polygonia is a techno and house artist tracked on soundcheck, with 220 sets logg
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

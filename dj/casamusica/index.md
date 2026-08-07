@@ -1,13 +1,14 @@
 # CASAMUSICA
 
-CASAMUSICA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
+CASAMUSICA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kockiri, Seoul on Sat, 8 Aug 2026.
 
-CASAMUSICA is a house and disco artist based in Japan, tracked on soundcheck, with 14 sets logged across Hongkong and Seoul. Often billed alongside DJ Kirby, Zora Chan and Andy-S. Next up: TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hongkong on Fri 14 Aug.
+CASAMUSICA is a house and disco artist based in Japan, tracked on soundcheck, with 15 sets logged across Hongkong and Seoul. Often billed alongside DJ Kirby, Zora Chan and Andy-S. Next up: Kockiri, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Kockiri | Seoul |
 | Fri, 14 Aug 2026 | TBA - Secret Location, announce to all ticket holders 1 day prior to the event | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ CASAMUSICA is a house and disco artist based in Japan, tracked on soundcheck, wi
 
 DJ Kirby, Zora Chan, Andy-S
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casamusica/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casamusica/)*

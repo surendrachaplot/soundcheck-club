@@ -1,11 +1,17 @@
 # 15 Jahre Clubsandwich at Fluxbau
 
-15 Jahre Clubsandwich at Fluxbau on Fri 7 Aug, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+15 Jahre Clubsandwich at Fluxbau on Fri 7 Aug, Berlin. 3 acts on the bill: ECE EKREN, Jack Tennis and NOCUI. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 7 Aug 2026 |
 | Venue | Fluxbau |
 | City | Berlin |
+
+## Line-up
+
+- ECE EKREN
+- Jack Tennis
+- NOCUI
 
 *Source: [soundcheck](https://soundcheck.club/e/2496750-15-jahre-clubsandwich-at-fluxbau/)*

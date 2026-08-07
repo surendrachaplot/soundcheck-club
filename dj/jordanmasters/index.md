@@ -1,6 +1,6 @@
 # Jordan Masters
 
-Jordan Masters is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
+Jordan Masters is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at fabric, London on Sun, 16 Aug 2026.
 
 Jordan Masters is a house and tech house artist tracked on soundcheck, with 23 sets logged across Birmingham, Bristol, Leeds and Liverpool and 1 more. Often billed alongside Wax Material, ADMNTi and Julian Anthony. Next up: fabric, London on Sun 16 Aug.
 
@@ -29,4 +29,4 @@ Jordan Masters is a house and tech house artist tracked on soundcheck, with 23 s
 
 Wax Material, ADMNTi, Julian Anthony
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*

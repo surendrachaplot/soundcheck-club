@@ -1,6 +1,6 @@
 # Alex Paoloni
 
-Alex Paoloni is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Pelikan Bar, Zurich on Sat, 8 Aug 2026.
+Alex Paoloni is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pelikan Bar, Zurich on Sat, 8 Aug 2026.
 
 Alex Paoloni is a house and deep house artist based in Italy, tracked on soundcheck, with 5 sets logged across Ibiza and Zurich. Often billed alongside Mirko Paoloni. Next up: Pelikan Bar, Zurich on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Alex Paoloni is a house and deep house artist based in Italy, tracked on soundch
 
 Mirko Paoloni
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpaoloni/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpaoloni/)*

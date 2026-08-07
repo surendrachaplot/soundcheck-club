@@ -1,6 +1,6 @@
 # Oscar Farrell
 
-Oscar Farrell is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at The Greyhound, London on Sat, 22 Aug 2026.
+Oscar Farrell is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Greyhound, London on Sat, 22 Aug 2026.
 
 Oscar Farrell is an electronica artist tracked on soundcheck, with 24 sets logged across London, Losangeles, Manchester and Newyorkcity and 1 more. Often billed alongside George Daniel, Kelly Lee Owens and 2D0GS. Next up: The Greyhound, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Oscar Farrell is an electronica artist tracked on soundcheck, with 24 sets logge
 
 George Daniel, Kelly Lee Owens, 2D0GS
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfarrell/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfarrell/)*

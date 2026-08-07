@@ -1,6 +1,6 @@
 # Malcolm Moore
 
-Malcolm Moore is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Switch Bar, Barcelona on Thu, 20 Aug 2026.
+Malcolm Moore is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Switch Bar, Barcelona on Thu, 20 Aug 2026.
 
 Malcolm Moore is an electronic artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Arildo. Next up: Switch Bar, Barcelona on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ Malcolm Moore is an electronic artist tracked on soundcheck, with 7 sets logged 
 
 Arildo
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmmoore/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmmoore/)*

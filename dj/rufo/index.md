@@ -1,6 +1,6 @@
 # Rufo
 
-Rufo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at M7 Club, Barcelona on Sat, 8 Aug 2026.
+Rufo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at M7 Club, Barcelona on Sat, 8 Aug 2026.
 
 Rufo is a house and techno artist tracked on soundcheck, with 46 sets logged across Barcelona, Edinburgh, Lisbon and London and 4 more. Often billed alongside Onoffon, Sebastián and Christian Arcila. Next up: M7 Club, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rufo is a house and techno artist tracked on soundcheck, with 46 sets logged acr
 
 Onoffon, Sebastián, Christian Arcila
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*

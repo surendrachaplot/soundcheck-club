@@ -1,6 +1,6 @@
 # DJ BIZZIBEE
 
-DJ BIZZIBEE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Basing House, London on Fri, 7 Aug 2026.
+DJ BIZZIBEE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Basing House, London on Fri, 7 Aug 2026.
 
 DJ BIZZIBEE is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Ayrts, AfroLicious Mumma and Ginn LDN. Next up: Basing House, London on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ DJ BIZZIBEE is a house and afro house artist based in United Kingdom, tracked on
 
 Ayrts, AfroLicious Mumma, Ginn LDN
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbizzibee/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbizzibee/)*

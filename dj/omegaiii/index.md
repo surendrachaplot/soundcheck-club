@@ -1,6 +1,6 @@
 # Omega III
 
-Omega III is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Switch Bar, Barcelona on Sat, 8 Aug 2026.
+Omega III is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Switch Bar, Barcelona on Sat, 8 Aug 2026.
 
 Omega III is a house and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Milan and Tokyo. Often billed alongside Luca Lozano, Satta B and ffeyt. Next up: Switch Bar, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Omega III is a house and garage artist based in United Kingdom, tracked on sound
 
 Luca Lozano, Satta B, ffeyt
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omegaiii/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omegaiii/)*

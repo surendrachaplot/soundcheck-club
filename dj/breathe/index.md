@@ -1,6 +1,6 @@
 # Breathe
 
-Breathe is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 11 Aug 2026.
+Breathe is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 11 Aug 2026.
 
 Breathe is a house and bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Edinburgh and Glasgow. Often billed alongside Jamie Gunn, Robbie and Carmen Baía. Next up: Sneaky Pete's, Edinburgh on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Breathe is a house and bass artist based in United Kingdom, tracked on soundchec
 
 Jamie Gunn, Robbie, Carmen Baía
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breathe/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breathe/)*

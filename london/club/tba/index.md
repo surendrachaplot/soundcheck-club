@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a music venue in London with 276 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "[CANCELLED]" on Thu, 6 Aug 2026.
+TBA is a music venue in London with 288 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "3000Grad Festival" on Fri, 7 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 276 upcoming nights, with line-ups including 1morning, 2M (CH), 3 Minds and 619! and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 288 upcoming nights, with line-ups including 1morning, 2M (CH), 3 Minds and 619! and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | [CANCELLED] |  |
 | Fri, 7 Aug 2026 | 3000Grad Festival | WOODKIN |
 | Fri, 7 Aug 2026 | Deep Beats First Fridays |  |
 | Fri, 7 Aug 2026 | Groove Therapy | SUBDIDI |
@@ -18,5 +17,6 @@ TBA is a music venue in London listed on soundcheck. 276 upcoming nights, with l
 | Fri, 7 Aug 2026 | Zenith all night Long | Zenith |
 | Fri, 7 Aug 2026 | VUIET PREPARTY w/SECRET GUEST,CETĂȚEANU,SERGIU | Cetateanu |
 | Fri, 7 Aug 2026 | OPEN AIR | Alich (1), Eugene Pascal |
+| Fri, 7 Aug 2026 | Sorbet feat. Shane Thomas (Open to Close) | Shane Thomas |
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

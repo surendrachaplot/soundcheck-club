@@ -1,6 +1,6 @@
 # JUN TANAKA
 
-JUN TANAKA is a Afrobeats and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 7 Aug 2026.
+JUN TANAKA is a Afrobeats and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 7 Aug 2026.
 
 JUN TANAKA is an afrobeats and r&b artist based in Japan, tracked on soundcheck, with 20 sets logged across Osaka, Seoul, Shenzhen and Tokyo. Often billed alongside JOMMY, MILS (JP) and HIKARU. Next up: Enter Shibuya, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ JUN TANAKA is an afrobeats and r&b artist based in Japan, tracked on soundcheck,
 
 JOMMY, MILS (JP), HIKARU
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juntanaka/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juntanaka/)*

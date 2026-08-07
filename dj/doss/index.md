@@ -1,6 +1,6 @@
 # Doss
 
-Doss is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Paragon, New York City on Thu, 13 Aug 2026.
+Doss is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paragon, New York City on Thu, 13 Aug 2026.
 
 Doss is a club and techno artist tracked on soundcheck, with 51 sets logged across Athens, Austin, Berlin and Brisbane and 18 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: Paragon, Newyorkcity on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Doss is a club and techno artist tracked on soundcheck, with 51 sets logged acro
 
 Yves Tumor, 1NN3R53LF, CFCF
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

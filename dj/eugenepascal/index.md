@@ -1,6 +1,6 @@
 # Eugene Pascal
 
-Eugene Pascal is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TBA, Marseille on Fri, 7 Aug 2026.
+Eugene Pascal is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Marseille on Fri, 7 Aug 2026.
 
 Eugene Pascal is a tech house and progressive house artist tracked on soundcheck, with 3 sets logged across Marseille and Melbourne. Often billed alongside Alich (1), Claire O'Brien and Felon5. Next up: TBA, Marseille on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Eugene Pascal is a tech house and progressive house artist tracked on soundcheck
 
 Alich (1), Claire O'Brien, Felon5
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eugenepascal/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eugenepascal/)*

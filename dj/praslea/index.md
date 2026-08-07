@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Praslea is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged
 
 Raresh, CEZAR, Traumer
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

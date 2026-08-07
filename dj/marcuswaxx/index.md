@@ -1,6 +1,6 @@
 # Marcus Waxx
 
-Marcus Waxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
+Marcus Waxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Starlane Pizza Bar, London on Fri, 21 Aug 2026.
 
 Marcus Waxx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Boston, Bristol and London. Often billed alongside A-Bril, Antepop and Wendy Bkz. Next up: Starlane Pizza Bar, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Marcus Waxx is a house and techno artist based in United Kingdom, tracked on sou
 
 A-Bril, Antepop, Wendy Bkz
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuswaxx/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuswaxx/)*

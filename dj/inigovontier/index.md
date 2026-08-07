@@ -1,14 +1,15 @@
 # Iñigo Vontier
 
-Iñigo Vontier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
+Iñigo Vontier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
 
-Iñigo Vontier is a techno and house artist tracked on soundcheck, with 77 sets logged across Bali, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Sabrina, Concret and SABRINA (3). Next up: Sunseabar Beach Club, Barcelona on Fri 7 Aug.
+Iñigo Vontier is a techno and house artist tracked on soundcheck, with 78 sets logged across Bali, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Sabrina, Concret and SABRINA (3). Next up: Sunseabar Beach Club, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Sunseabar Beach Club | Barcelona |
+| Sat, 5 Sept 2026 | public records | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Iñigo Vontier is a techno and house artist tracked on soundcheck, with 77 sets 
 
 Sabrina, Concret, SABRINA (3)
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inigovontier/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inigovontier/)*

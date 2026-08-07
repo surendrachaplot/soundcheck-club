@@ -1,6 +1,6 @@
 # DAMIANA
 
-DAMIANA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
+DAMIANA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
 
 DAMIANA is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Antwerp, Berlin, Lisbon and London. Often billed alongside Michelle Manetti, Areola Grande Latte and BADSISTA. Next up: TRAUM, Antwerp on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DAMIANA is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Michelle Manetti, Areola Grande Latte, BADSISTA
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*

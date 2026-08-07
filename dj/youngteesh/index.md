@@ -1,6 +1,6 @@
 # Young Teesh
 
-Young Teesh is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at The Jama, Toronto on Fri, 7 Aug 2026.
+Young Teesh is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Jama, Toronto on Fri, 7 Aug 2026.
 
 Young Teesh is a club and techno artist tracked on soundcheck, with 111 sets logged across Berlin, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Nino Brown (2), HVN (1) and Bambii. Next up: The Jama, Toronto on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Young Teesh is a club and techno artist tracked on soundcheck, with 111 sets log
 
 Nino Brown (2), HVN (1), Bambii
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*

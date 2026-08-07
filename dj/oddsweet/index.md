@@ -1,6 +1,6 @@
 # Odd Sweet
 
-Odd Sweet is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Canal Barboteur, Paris on Sun, 9 Aug 2026.
+Odd Sweet is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Canal Barboteur, Paris on Sun, 9 Aug 2026.
 
 Odd Sweet is a house and funk / soul artist based in France, tracked on soundcheck, with 7 sets logged across Berlin and Paris. Often billed alongside Nick V, Basile de Suresnes and Blanche. Next up: Canal Barboteur, Paris on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Odd Sweet is a house and funk / soul artist based in France, tracked on soundche
 
 Nick V, Basile de Suresnes, Blanche
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oddsweet/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oddsweet/)*

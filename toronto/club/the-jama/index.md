@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "STRIPPER NEWS: ONE YEAR ANNIVERSARY (featuring Young Teesh, Debbie and Yao Yao)" on Fri, 7 Aug 2026.
+The Jama is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "STRIPPER NEWS: ONE YEAR ANNIVERSARY (featuring Young Teesh, Debbie and Yao Yao)" on Fri, 7 Aug 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Conna Haraway, Critter, Dj Hermano and Facta and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -17,4 +17,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

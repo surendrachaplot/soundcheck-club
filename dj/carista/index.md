@@ -1,8 +1,8 @@
 # CARISTA
 
-CARISTA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 6 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+CARISTA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
-CARISTA is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Job Jobse, Eris Drew and Suze Ijó. Next up: Old Royal Naval College, London on Fri 7 Aug.
+CARISTA is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Job Jobse, Eris Drew and Suze Ijó. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CARISTA is a house and techno artist tracked on soundcheck, with 179 sets logged
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Old Royal Naval College | London |
 | Wed, 12 Aug 2026 | Hï Ibiza | Ibiza |
+| Sat, 22 Aug 2026 | KOKO | London |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 19 Sept 2026 | CLUB RAUM | Amsterdam |
@@ -17,6 +18,7 @@ CARISTA is a house and techno artist tracked on soundcheck, with 179 sets logged
 | Sun, 4 Oct 2026 | public records | New York City |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
@@ -33,4 +35,4 @@ CARISTA is a house and techno artist tracked on soundcheck, with 179 sets logged
 
 Job Jobse, Eris Drew, Suze Ijó
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*

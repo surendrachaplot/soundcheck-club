@@ -1,6 +1,6 @@
 # dj prinskorv
 
-dj prinskorv is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 13 Aug 2026.
+dj prinskorv is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 13 Aug 2026.
 
 dj prinskorv is a house and disco artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Soul Atomic, 65 Shapeshifters and DJ Desires. Next up: Bulbul Berlin, Berlin on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ dj prinskorv is a house and disco artist based in Sweden, tracked on soundcheck,
 
 Soul Atomic, 65 Shapeshifters, DJ Desires
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djprinskorv/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djprinskorv/)*

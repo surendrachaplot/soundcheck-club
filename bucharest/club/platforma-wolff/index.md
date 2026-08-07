@@ -1,14 +1,13 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "PW x Mudee TV • Karak, Racer X, Bog, Didier" on Thu, 6 Aug 2026.
+Platforma Wolff is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "PW x Deruta • CEZAR, Avram" on Fri, 7 Aug 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including CEZAR, Ancut, Avram and Barbu and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including CEZAR, Ancut, Avram and Barbu and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 6 Aug 2026 | PW x Mudee TV • Karak, Racer X, Bog, Didier | Bog (3) |
 | Fri, 7 Aug 2026 | PW x Deruta • CEZAR, Avram | Avram, CEZAR |
 | Sat, 8 Aug 2026 | PW x Superluminal • Noizar, Mattias, Ancut | Ancut, Matthias (1), Noizar |
 | Fri, 14 Aug 2026 | PW 5 Years Anniversary • Jane Fitz (all night long) | Jane Fitz |
@@ -22,4 +21,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

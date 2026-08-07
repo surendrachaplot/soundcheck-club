@@ -1,6 +1,6 @@
 # Peezy
 
-Peezy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 6 Aug 2026, next at Egg London, London on Sun, 9 Aug 2026.
+Peezy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Egg London, London on Sun, 9 Aug 2026.
 
 Peezy is a house and techno artist tracked on soundcheck, with 13 sets logged across Detroit, London and Newyorkcity. Often billed alongside Erica (IT), SONG and TECHNOLUX. Next up: Egg London, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Peezy is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 Erica (IT), SONG, TECHNOLUX
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peezy/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peezy/)*

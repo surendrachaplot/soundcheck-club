@@ -1,6 +1,6 @@
 # El Cid
 
-El Cid is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 6 Aug 2026; the next is "Club Connection presented by Salon Recordings" on Fri, 14 Aug 2026.
+El Cid is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Club Connection presented by Salon Recordings" on Fri, 14 Aug 2026.
 
 El Cid is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including DINABN, Giselle Peppers, jo_sway and shunug (1). Browse upcoming dates, start times and who's playing. 4212 W. Sunset Blvd, Los Angeles, CA 90029.
 
@@ -15,4 +15,4 @@ El Cid is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, w
 
 4212 W. Sunset Blvd, Los Angeles, CA 90029, Los Angeles
 
-*Updated Thu, 6 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*
