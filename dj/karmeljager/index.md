@@ -1,8 +1,8 @@
 # Karmel Jäger
 
-Karmel Jäger is a Techno and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Dalston Den, London on Fri, 7 Aug 2026.
+Karmel Jäger is a Techno and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Dalston Den, London on Fri, 7 Aug 2026.
 
-Karmel Jäger is a techno and jungle artist based in Australia, tracked on soundcheck, with 31 sets logged across Berlin, London and Sydney. Often billed alongside Floga, S Smurf and Hotel 84. Next up: Dalston Den, London on Fri 7 Aug.
+Karmel Jäger is a techno and garage artist based in Australia, tracked on soundcheck, with 32 sets logged across Berlin, London and Sydney. Often billed alongside Floga, S Smurf and Hotel 84. Next up: Dalston Den, London on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Karmel Jäger is a techno and jungle artist based in Australia, tracked on sound
 | Fri, 7 Aug 2026 | Dalston Den | London |
 | Sat, 8 Aug 2026 | Der Weiße Hase | Berlin |
 | Fri, 14 Aug 2026 | Machine Hall | Sydney |
+| Sat, 5 Sept 2026 | The Lord Gladstone | Sydney |
 
 ## Recently played
 

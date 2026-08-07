@@ -1,8 +1,8 @@
 # Multivsn
 
-Multivsn is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bolero, Seoul on Sat, 8 Aug 2026.
+Multivsn is a Hip-Hop and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bolero, Seoul on Sat, 8 Aug 2026.
 
-Multivsn is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 67 sets logged across Seoul. Often billed alongside DOBERMAN, SKiiDA and SUJINPAAK. Next up: Bolero, Seoul on Sat 8 Aug.
+Multivsn is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 68 sets logged across Seoul. Often billed alongside DOBERMAN, SKiiDA and SUJINPAAK. Next up: Bolero, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Multivsn is a hip-hop and club artist based in South Korea, tracked on soundchec
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Bolero | Seoul |
 | Sat, 8 Aug 2026 | Bolero | Seoul |
+| Fri, 14 Aug 2026 | Bolero | Seoul |
 
 ## Recently played
 

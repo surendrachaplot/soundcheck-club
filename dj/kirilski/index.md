@@ -1,14 +1,15 @@
 # Kirilski
 
-Kirilski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
+Kirilski is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
 
-Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Madam, Amsterdam on Fri 7 Aug.
+Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Madam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Madam | Amsterdam |
+| Fri, 28 Aug 2026 | Db55 | Amsterdam |
 
 ## Recently played
 

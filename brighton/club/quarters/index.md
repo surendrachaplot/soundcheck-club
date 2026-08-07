@@ -1,8 +1,8 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "10 Years of 1985 Music with Alix Perez" on Fri, 7 Aug 2026.
+Quarters is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "10 Years of 1985 Music with Alix Perez" on Fri, 7 Aug 2026.
 
-Quarters is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including 2ManyDJs, Alix Perez, Captain Wallop and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
+Quarters is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including 2ManyDJs, Alix Perez, Captain Wallop and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Quarters is a music venue in Brighton listed on soundcheck. 11 upcoming nights, 
 | Sat, 12 Sept 2026 | Free The Rave with Mandidextrous | Mandidextrous |
 | Fri, 18 Sept 2026 | Sofia Kourtesis | Sofia Kourtesis |
 | Fri, 25 Sept 2026 | Mungo's Hi-Fi | Mungo's Hi Fi |
-| Sat, 3 Oct 2026 | Chicane | Chicane |
+| Sat, 26 Sept 2026 | Black Octopus 8th Birthday Part 1 with Danilo Plessow aka MCDE | Danilo Plessow, Ellie Talebian, Motor City Drum Ensemble, Pablo Contraband |
 
 ## Address
 

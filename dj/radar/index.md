@@ -1,13 +1,14 @@
 # Radar
 
-Radar is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
+Radar is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
 
-Radar is a techno and minimal artist based in United States of America, tracked on soundcheck, with 47 sets logged across Berlin, Boston, Lyon and Miami and 3 more. Often billed alongside Mr. Tron, Low Earth Orbit and SHYDA. Next up: Domicile, Miami on Sat 22 Aug.
+Radar is a techno and minimal artist based in United States of America, tracked on soundcheck, with 48 sets logged across Berlin, Boston, Lyon and Miami and 3 more. Often billed alongside Mr. Tron, Low Earth Orbit and SHYDA. Next up: Paraiso Estereo, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Paraiso Estereo | Miami |
 | Sat, 22 Aug 2026 | Domicile | Miami |
 
 ## Recently played

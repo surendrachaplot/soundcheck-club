@@ -1,6 +1,6 @@
 # Westhafen Season Closing at Westhafen
 
-Westhafen Season Closing on Sat 5 Sept, Leipzig. 15 acts on the bill: Anni Herzer, Annina, clemi and DJ Exit and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Westhafen Season Closing on Sat 5 Sept, Leipzig. 16 acts on the bill: Anni Herzer, Annina, clemi and DJ Exit and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Westhafen Season Closing on Sat 5 Sept, Leipzig. 15 acts on the bill: Anni Herze
 - DJ Hyperdrive
 - DJ Koze
 - Gabrielle Kwarteng
+- Jonathan Kaspar
 - Marcel Dettmann
 - marengo (2)
 - MIDNXGHT

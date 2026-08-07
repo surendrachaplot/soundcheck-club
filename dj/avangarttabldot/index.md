@@ -1,8 +1,8 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sala Upload Barcelona, Barcelona on Sat, 8 Aug 2026.
+Avangart Tabldot is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sala Upload Barcelona, Barcelona on Sat, 8 Aug 2026.
 
-Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Sala Upload Barcelona, Barcelona on Sat 8 Aug.
+Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Sala Upload Barcelona, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 85
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Sala Upload Barcelona | Barcelona |
 | Sun, 9 Aug 2026 | Chinois Ibiza | Ibiza |
+| Thu, 27 Aug 2026 | Scorpios | Mykonos |
 | Fri, 28 Aug 2026 | Cova Santa | Ibiza |
+| Tue, 1 Sept 2026 | Scorpios | Mykonos |
 
 ## Recently played
 

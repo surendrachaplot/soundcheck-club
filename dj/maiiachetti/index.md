@@ -1,8 +1,8 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 15 Aug 2026.
+Mai iachetti is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 15 Aug 2026.
 
-Mai iachetti is a house and tech house artist tracked on soundcheck, with 124 sets logged across Boston, Chicago, Denver and Ibiza and 7 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Floyd, Miami on Sat 15 Aug.
+Mai iachetti is a house and tech house artist tracked on soundcheck, with 125 sets logged across Boston, Chicago, Denver and Ibiza and 7 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Floyd, Miami on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mai iachetti is a house and tech house artist tracked on soundcheck, with 124 se
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Floyd | Miami |
 | Fri, 21 Aug 2026 | Sunset Park Rooftop | New York City |
+| Fri, 23 Oct 2026 | Echostage | Washington DC |
 
 ## Recently played
 

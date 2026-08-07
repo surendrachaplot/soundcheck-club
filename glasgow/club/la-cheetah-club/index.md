@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 23 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Hawd That 007 // Scissor Salad" on Fri, 7 Aug 2026.
+La Cheetah Club is a music venue in Glasgow with 24 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Hawd That 007 // Scissor Salad" on Fri, 7 Aug 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming nights, with line-ups including Ali Watts, Babyccino, Boss Priester and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 24 upcoming nights, with line-ups including Ali Watts, Babyccino, Boss Priester and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Pantheøn at Cova Santa
 
-Pantheøn at Cova Santa on Sun 16 Aug, Ibiza. 2 acts on the bill: JNJS and Solardo. Preview the line-up and save it on soundcheck.
+Pantheøn at Cova Santa on Sun 16 Aug, Ibiza. 5 acts on the bill: De La Swing, Hector Couto, JNJS and Sem Jacobs and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Pantheøn at Cova Santa on Sun 16 Aug, Ibiza. 2 acts on the bill: JNJS and Solar
 
 ## Line-up
 
+- De La Swing
+- Hector Couto
 - JNJS
+- Sem Jacobs
 - Solardo
 
 *Source: [soundcheck](https://soundcheck.club/e/2440776-panthe-n-at-cova-santa/)*

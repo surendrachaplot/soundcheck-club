@@ -1,14 +1,15 @@
 # Camion Bazar
 
-Camion Bazar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
+Camion Bazar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
 
-Camion Bazar is a house and techno artist tracked on soundcheck, with 60 sets logged across Bangkok, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
+Camion Bazar is a house and techno artist tracked on soundcheck, with 61 sets logged across Bangkok, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | La Station - Gare des Mines | Paris |
+| Sat, 29 Aug 2026 | TBA - Marseille 13014 | Marseille |
 
 ## Recently played
 

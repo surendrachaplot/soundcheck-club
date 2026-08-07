@@ -1,14 +1,15 @@
 # Ascalypso
 
-Ascalypso is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Forestlimit, Tokyo on Mon, 10 Aug 2026.
+Ascalypso is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Forestlimit, Tokyo on Mon, 10 Aug 2026.
 
-Ascalypso is a techno and house artist tracked on soundcheck, with 50 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Limited Toss and Lomax. Next up: Forestlimit, Tokyo on Mon 10 Aug.
+Ascalypso is a techno and house artist tracked on soundcheck, with 51 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Limited Toss and Lomax. Next up: Forestlimit, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | Forestlimit | Tokyo |
+| Sun, 6 Sept 2026 | Octave | Kyoto |
 | Sat, 12 Sept 2026 | Teranoma | Osaka |
 
 ## Recently played

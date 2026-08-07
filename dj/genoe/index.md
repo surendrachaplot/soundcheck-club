@@ -1,8 +1,8 @@
 # Genoe
 
-Genoe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Fri, 7 Aug 2026.
+Genoe is a Bass and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Fri, 7 Aug 2026.
 
-Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Prague. Often billed alongside anna andersrum, Comf and DJ STRAIGHT GIRL. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Fri 7 Aug.
+Genoe is a bass and breakbeat artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Prague. Often billed alongside anna andersrum, Migz and Comf. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Secret Location near Jannowitzbrücke | Berlin |
 | Sat, 8 Aug 2026 | Gretchen | Berlin |
+| Thu, 27 Aug 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-anna andersrum, Comf, DJ STRAIGHT GIRL
+anna andersrum, Migz, Comf
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*

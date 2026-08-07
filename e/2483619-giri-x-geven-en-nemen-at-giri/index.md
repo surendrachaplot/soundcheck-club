@@ -1,6 +1,6 @@
 # Giri x Geven en Nemen at Giri
 
-Giri x Geven en Nemen on Fri 7 Aug, Berlin. 3 acts on the bill: Cleo (AU), Guava and SOCIAL VLAD. R&B. Preview the line-up and save it on soundcheck.
+Giri x Geven en Nemen on Fri 7 Aug, Berlin. 4 acts on the bill: CLEO, Cleo (AU), Guava and SOCIAL VLAD. R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Giri x Geven en Nemen on Fri 7 Aug, Berlin. 3 acts on the bill: Cleo (AU), Guava
 
 ## Line-up
 
+- CLEO
 - Cleo (AU)
 - Guava
 - SOCIAL VLAD

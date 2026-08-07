@@ -1,8 +1,8 @@
 # TEED
 
-TEED is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Standard Time, Toronto on Fri, 7 Aug 2026.
+TEED is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Standard Time, Toronto on Fri, 7 Aug 2026.
 
-TEED is a house and bass artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Boston and Brisbane and 21 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Standard Time, Toronto on Fri 7 Aug.
+TEED is a house and bass artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Standard Time, Toronto on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TEED is a house and bass artist tracked on soundcheck, with 44 sets logged acros
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Standard Time | Toronto |
 | Tue, 8 Sept 2026 | 528 Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | La Paloma | Barcelona |
 | Fri, 18 Sept 2026 | The Cause | London |
 
 ## Recently played

@@ -12,9 +12,9 @@ Crazy P is a disco and house artist tracked on soundcheck, with 129 sets logged 
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | LDN East | London |
 | Wed, 16 Sept 2026 | Cabaret Voltaire | Edinburgh |
+| Sat, 19 Sept 2026 | Brick Street | Liverpool |
 | Sat, 19 Sept 2026 | The Hifi Club | Leeds |
 | Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
-| Sat, 26 Sept 2026 | Brick Street | Liverpool |
 | Sat, 10 Oct 2026 | Sala Villanos | Madrid |
 
 ## Recently played

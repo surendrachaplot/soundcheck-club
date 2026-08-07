@@ -1,8 +1,8 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
+Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Fri, 7 Aug 2026.
 
-Danilo Plessow is a house and disco artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: La Terrrazza, Barcelona on Fri 7 Aug.
+Danilo Plessow is a house and disco artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: La Terrrazza, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 160 sets 
 | Sun, 30 Aug 2026 | Sísí Rooftop Glasgow | Glasgow |
 | Sat, 5 Sept 2026 | fabric | London |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |
+| Sat, 26 Sept 2026 | Quarters | Brighton |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 16 Oct 2026 | Sala Villanos | Madrid |
 

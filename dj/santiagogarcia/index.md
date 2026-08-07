@@ -1,8 +1,8 @@
 # Santiago Garcia
 
-Santiago Garcia is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kastel, Istanbul on Sat, 22 Aug 2026.
+Santiago Garcia is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kastel, Istanbul on Sat, 22 Aug 2026.
 
-Santiago Garcia is a deep house and house artist based in Argentina, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Buenosaires and Chicago and 13 more. Often billed alongside Bedouin, Amiti and Avangart Tabldot. Next up: Kastel, Istanbul on Sat 22 Aug.
+Santiago Garcia is a deep house and house artist based in Argentina, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Buenosaires and Chicago and 13 more. Often billed alongside Bedouin, Amiti and Avangart Tabldot. Next up: Kastel, Istanbul on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Santiago Garcia is a deep house and house artist based in Argentina, tracked on 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Kastel | Istanbul |
 | Sun, 23 Aug 2026 | Chinois Ibiza | Ibiza |
+| Wed, 9 Sept 2026 | Scorpios | Mykonos |
 
 ## Recently played
 

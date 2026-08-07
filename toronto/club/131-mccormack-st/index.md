@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | RAW SHOWCASE presented by TAKEOVER 6IX & KONDUKTOR (OPEN AIR) | Bours?, DJ MELL G, DLV, Rorganic, callie |
-| Sat, 22 Aug 2026 | DAY INTO NIGHT: Patrick Mason | Alley Kay, DJ Minx, Patrick Mason, Pedro (CA), SHEA (2) |
+| Sat, 22 Aug 2026 | Patrick Mason: TORONTO | Alley Kay, DJ Minx, MENACE (CA), Patrick Mason, Pedro (CA), SHEA (2) |
 | Sat, 29 Aug 2026 | Rhythm Open Air: Trommel x Rhythm | Cristi Cons, Lamache, Negin, Per Hammar |
 | Sun, 6 Sept 2026 | TAKEOVER 6IX presents ONLYNUMBERS | Katamina, MENACE., Onlynumbers, mikeyraps |
 | Fri, 11 Sept 2026 | UNREAL NA TOUR: TORONTO | CRISTI:ANA, KUKO, Winson |

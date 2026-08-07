@@ -1,14 +1,15 @@
 # Rafa Beltran
 
-Rafa Beltran is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
+Rafa Beltran is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
 
-Rafa Beltran is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Dj Fucci and Lex Digital. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
+Rafa Beltran is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 14 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Dj Fucci and Lex Digital. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Foro EX Normandie | Mexico City |
+| Sat, 22 Aug 2026 | Levu VIP | Mexico City |
 
 ## Recently played
 

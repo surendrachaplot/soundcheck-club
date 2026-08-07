@@ -1,8 +1,8 @@
 # MKLY
 
-MKLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
+MKLY is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
 
-MKLY is a techno and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Coyo (Berlin), Johnny Gutmann and Monika Punanski. Next up: Beate Uwe, Berlin on Fri 11 Sept.
+MKLY is a house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Coyo (Berlin), Johnny Gutmann and Monika Punanski. Next up: Beate Uwe, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 

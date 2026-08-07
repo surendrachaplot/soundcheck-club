@@ -12,7 +12,7 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nigh
 | Thu, 13 Aug 2026 | REVERB: HARDGROOVE | metabiite |
 | Fri, 14 Aug 2026 | JAWNS |  |
 | Sun, 16 Aug 2026 | BAILE F**K VOL. 003 |  |
-| Thu, 20 Aug 2026 | REVERB x MUTANDIS present 2AT | 2AT, JAQ.XS |
+| Thu, 20 Aug 2026 | REVERB x MUTANDIS presents 2AT | 2AT, JAQ.XS |
 | Fri, 21 Aug 2026 | FNGRS CRSSD presents Mindchatter [DJ Set] |  |
 | Fri, 28 Aug 2026 | FNGRS CRSSD presents Ragie Ban |  |
 | Sat, 29 Aug 2026 | LED presents BIJOU |  |

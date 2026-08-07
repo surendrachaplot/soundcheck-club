@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Ten Years SYNOID" on Fri, 7 Aug 2026.
+ÆDEN is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Ten Years SYNOID" on Fri, 7 Aug 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including 7CIRCLE, KIV., Aaron Blau and Acierate and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including 7CIRCLE, KIV., Aaron Blau and Acierate and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
@@ -16,8 +16,8 @@
 | Wed, 12 Aug 2026 | Lilith |  |
 | Wed, 12 Aug 2026 | Crêpes & Open Decks |  |
 | Thu, 13 Aug 2026 | FREENETICA CREW at ÆDEN with Tarkno - 7CIRCLE - Caniche - Mython | 7CIRCLE, Caniche, Jacopo Forli, Linda shiro, Mat Hex, Mython, NKK (IT), Phreenetic, Soffice, Tarkno |
+| Sat, 15 Aug 2026 | Lilith THE PLANET |  |
 | Fri, 21 Aug 2026 | BPM x Anechoic: Summer Ride | August Kind, B.R.K.Ø., Bruno Brero, Deltapeak, E.T., Eli Bot, Hanne B, MIMI404, OnlyWithYou, VICKY, bbymeister, e.leptic, jeanska, k4mi, queen yasmeen, sterni (DE) |
-| Sat, 22 Aug 2026 | FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) | Dylan Fogarty, EMIRA, Human Experiments, JenTen, Jessie Granqvist, Ksenia K, MAURER, Maris Shilton, Mython, PØVE, Santos., TAUREAN (2), Taurean, VOICEX |
 
 ## Address
 

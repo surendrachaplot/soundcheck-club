@@ -1,10 +1,10 @@
 # Crazy P Day Party - Liverpool at Brick Street
 
-Crazy P Day Party - Liverpool at Brick Street on Sat 26 Sept, Liverpool. 2 acts on the bill: Crazy P and Lemyn. House and Disco. Preview the line-up and save it on soundcheck.
+Crazy P Day Party - Liverpool at Brick Street on Sat 19 Sept, Liverpool. 2 acts on the bill: Crazy P and Lemyn. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Sat, 19 Sept 2026 |
 | Venue | Brick Street |
 | City | Liverpool |
 

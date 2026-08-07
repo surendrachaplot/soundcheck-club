@@ -1,6 +1,6 @@
-# Boukan records VS Jijei: Onoola Sama (live) //Jawnino (live) // Bamao Yendé // Idazer at TBA - 22 rue Jobin 13003 marseille 
+# Boukan records VS Jijei: Onoola-Sama (live) //Jawnino (live) // Bamao Yendé // Idazerrr at TBA - 22 rue Jobin 13003 marseille 
 
-Boukan records VS Jijei: Onoola Sama (live) //Jawnino (live) // Bamao Yendé // Idazer at TBA - 22 rue Jobin 13003 marseille  on Thu 13 Aug, Marseille. Club. Preview the line-up and save it on soundcheck.
+Boukan records VS Jijei: Onoola-Sama (live) //Jawnino (live) // Bamao Yendé // Idazerrr at TBA - 22 rue Jobin 13003 marseille  on Thu 13 Aug, Marseille. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Scorpios, Mykonos on Tue, 1 Sept 2026.
 
-Reznik is a house and afro house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside Bedouin, David Hopperman and Dennis Cruz. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Reznik is a house and afro house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Samm (BE), Avangart Tabldot and Bedouin. Next up: Scorpios, Mykonos on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 1 Sept 2026 | Scorpios | Mykonos |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Sat, 26 Sept 2026 | Hackney Bridge | London |
 
@@ -24,6 +25,6 @@ Reznik is a house and afro house artist tracked on soundcheck, with 43 sets logg
 
 ## Shares bills with
 
-Bedouin, David Hopperman, Dennis Cruz
+Samm (BE), Avangart Tabldot, Bedouin
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

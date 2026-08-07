@@ -1,13 +1,14 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ticcle, Hobart on Sun, 11 Oct 2026.
+DJ Fett Burger is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-DJ Fett Burger is a house and disco artist tracked on soundcheck, with 86 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside DJ Sotofett, Telephones and Jana Falcon. Next up: Ticcle, Hobart on Sun 11 Oct.
+DJ Fett Burger is a house and disco artist tracked on soundcheck, with 87 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside DJ Sotofett, Telephones and Jana Falcon. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Sun, 11 Oct 2026 | Ticcle | Hobart |
 
 ## Recently played

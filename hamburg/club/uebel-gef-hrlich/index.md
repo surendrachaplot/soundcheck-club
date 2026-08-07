@@ -13,7 +13,7 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 7 upcoming
 | Fri, 21 Aug 2026 | bratty |  |
 | Fri, 11 Sept 2026 | VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm | Charleen Herzig, KENZ, Suay Aenna, dannycookin, davyboi, djcob, unjani |
 | Fri, 25 Sept 2026 | Liquicity Hamburg 2026 | Eightball, Lexurus, Maduk, Pola & Bryson |
-| Fri, 2 Oct 2026 | King Kong Kicks • Indie Pop & Hypes • Uebel & Gefährlich • Hamburg |  |
+| Fri, 2 Oct 2026 | King Kong Kicks • IndiePop&Hypes + RaveIsKing• Uebel & Gefährlich • Hamburg |  |
 | Sat, 10 Oct 2026 | Innerblum with Karla Blum, Levt, Mha iri | Karla Blum, Levt, Mha iri |
 
 ## Address

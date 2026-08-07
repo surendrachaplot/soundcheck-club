@@ -1,14 +1,15 @@
 # nocapz.
 
-nocapz. is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 29 Aug 2026.
+nocapz. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 29 Aug 2026.
 
-nocapz. is a house and tech house artist based in Brazil, tracked on soundcheck, with 9 sets logged across Malta, Miami, Saopaulo and Washingtondc. Often billed alongside Dennis Ferrer, HoneyLuv and Aline Rocha. Next up: Floyd, Miami on Sat 29 Aug.
+nocapz. is a house and tech house artist based in Brazil, tracked on soundcheck, with 10 sets logged across Malta, Miami, Newyorkcity and Saopaulo and 1 more. Often billed alongside Dennis Ferrer, HoneyLuv and Mochakk. Next up: Floyd, Miami on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Floyd | Miami |
+| Sun, 30 Aug 2026 | Knockdown Center | New York City |
 | Fri, 4 Sept 2026 | BERHTA | Washington DC |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
@@ -23,6 +24,6 @@ nocapz. is a house and tech house artist based in Brazil, tracked on soundcheck,
 
 ## Shares bills with
 
-Dennis Ferrer, HoneyLuv, Aline Rocha
+Dennis Ferrer, HoneyLuv, Mochakk
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*

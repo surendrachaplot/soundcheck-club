@@ -1,0 +1,27 @@
+# PERSIANLOVE!
+
+PERSIANLOVE! is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 15 Aug 2026.
+
+PERSIANLOVE! is a house and techno artist tracked on soundcheck, with 8 sets logged across Amsterdam, Paris, Thehague and Utrecht. Often billed alongside ALADAG, Authentiek Recept and Binome. Next up: Het Sieraad, Amsterdam on Sat 15 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 15 Aug 2026 | Het Sieraad | Amsterdam |
+
+## Recently played
+
+- Le Mazette, Paris — Sat, 22 Mar 2025
+- NAR, Utrecht — Sat, 1 Feb 2025
+- NAR, Utrecht — Sat, 1 Feb 2025
+- Db55, Amsterdam — Sat, 18 Jan 2025
+- THE OTHER SIDE, Amsterdam — Fri, 27 Sept 2024
+- Boomerang Beach, The Hague — Fri, 19 Jul 2024
+- Madam, Amsterdam — Fri, 22 Mar 2024
+
+## Shares bills with
+
+ALADAG, Authentiek Recept, Binome
+
+*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/persianlove!/)*

@@ -1,6 +1,6 @@
 # Rave the Planet Parade Imagine Love Volume Berlin Records & Microglobe Collective Float at Straße des 17. Juni
 
-Rave the Planet Parade Imagine Love Volume Berlin Records & Microglobe Collective Float at Straße des 17. Juni on Sat 15 Aug, Berlin. 7 acts on the bill: Cat Vermillion, Christian Grade, Felix Reichelt and Mijk van Dijk and 3 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Rave the Planet Parade Imagine Love Volume Berlin Records & Microglobe Collective Float at Straße des 17. Juni on Sat 15 Aug, Berlin. 8 acts on the bill: Andreas Kraemer, Cat Vermillion, Christian Grade and Felix Reichelt and 4 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rave the Planet Parade Imagine Love Volume Berlin Records & Microglobe Collectiv
 
 ## Line-up
 
+- Andreas Kraemer
 - Cat Vermillion
 - Christian Grade
 - Felix Reichelt

@@ -1,14 +1,15 @@
 # Miles J Paralysis
 
-Miles J Paralysis is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at McNeills, Glasgow on Fri, 21 Aug 2026.
+Miles J Paralysis is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at McNeills, Glasgow on Fri, 21 Aug 2026.
 
-Miles J Paralysis is a dub and house artist tracked on soundcheck, with 5 sets logged across Aberdeen, Glasgow and Leeds. Often billed alongside Mike BC, Alexis Le-Tan and Bleaching Agent. Next up: McNeills, Glasgow on Fri 21 Aug.
+Miles J Paralysis is a dub and house artist tracked on soundcheck, with 6 sets logged across Aberdeen, Berlin, Glasgow and Leeds. Often billed alongside Mike BC, Alexis Le-Tan and Bleaching Agent. Next up: McNeills, Glasgow on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | McNeills | Glasgow |
+| Fri, 25 Sept 2026 | Paloma | Berlin |
 
 ## Recently played
 

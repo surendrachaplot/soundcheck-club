@@ -1,8 +1,8 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including 2Shy MC, Kepler, ADR (US) and Aiden Francis and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including 2Shy MC, Kepler, ADR (US) and Aiden Francis and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 11 upcoming 
 | Fri, 9 Oct 2026 | WHP presents: Worried About Henry | 2Shy MC, Alive, Andy C, BERRA, BassLayerz, Bladerunner, Bou (UK), Break (2), Camo & Krooked, Carasel, Charlie Tee, Circadian, Crossy, Duskee, Dynamite MC, Eksman, Emily Makis, GLXY, GQ, Harriet Jaxxon, Hedex, Hybrid Minds, IC3, Inja, Joker, K Motionz, Killa P, Kings of the Rollers, Koherent, Koven, Kyrist, LOGAN (HU), LSB, Mozey, North Base, Pola & Bryson, Prosek, S.P.Y, SAVANNAH, SEMPA (UK), SKALAH (UK), SOTA, Saint Ludo, Sigma, Stamina (DE), Tempza, Tonn Piper, Vault, Visionobi, Workforce, Yan (CZ), Zero |
 | Sat, 10 Oct 2026 | Interplanetary Criminal presents | Anz, Bakey, Camille Doe, Club Angel, DJ Cosworth, DJ Seinfeld, Dr Dubplate, Faster Horses, HAAi, Helena Lauwaert, Interplanetary Criminal, Joy Orbison, Jyoty, La La, Larishka, Lauren Lo Sung, Lewis Taylor, MALUGI, Main Phase, Notion, Oldboy, Osmosis Jones, Prozak (IRL), Silva Bumpa, Skin On Skin, bullet tooth |
 | Fri, 16 Oct 2026 | WHP + Teletech presents DOOF - Hannah Laing | Hannah Laing |
+| Sat, 17 Oct 2026 | WHP26 /// Eric Prydz [Concourse Only] | Eric Prydz |
 | Sat, 24 Oct 2026 | Duke Dumont, Manchester | Duke Dumont |
-| Fri, 30 Oct 2026 | Overmono presents Pure Devotion - World Tour, Manchester | Andy C, Ash Lauryn, Aurora Halal, Blackhaine, Blawan, Cersy, DJ Bone, DJ SET (Uk), DR MYSTERY, Helena Hauff, James Blake, Joy Orbison, KAVARI, Lee Gamble, Moodymann, Nkisi, Overmono, Rainy Miller, Space Afrika, Special Guest (US) |
 
 ## Address
 

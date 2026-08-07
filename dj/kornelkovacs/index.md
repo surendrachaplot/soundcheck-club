@@ -1,13 +1,14 @@
 # Kornél Kovács
 
-Kornél Kovács is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+Kornél Kovács is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Spice H2O, Stockholm on Fri, 14 Aug 2026.
 
-Kornél Kovács is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Sat 5 Sept.
+Kornél Kovács is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Spice H2O, Stockholm on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Spice H2O | Stockholm |
 | Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 
 ## Recently played

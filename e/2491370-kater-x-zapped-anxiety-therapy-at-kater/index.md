@@ -1,6 +1,6 @@
 # Kater x Zapped & Anxiety Therapy at Kater
 
-Kater x Zapped & Anxiety Therapy on Fri 4 Sept, Berlin. 6 acts on the bill: Annina, DANNSEN, Franco Strato and Javier Anxiety and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Kater x Zapped & Anxiety Therapy on Fri 4 Sept, Berlin. 7 acts on the bill: Annina, DANNSEN, Franco Strato and Javier Anxiety and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Kater x Zapped & Anxiety Therapy on Fri 4 Sept, Berlin. 6 acts on the bill: Anni
 - Franco Strato
 - Javier Anxiety
 - Jonaku (DE)
+- Mauro Caracho
 - Musumeci
 
 *Source: [soundcheck](https://soundcheck.club/e/2491370-kater-x-zapped-anxiety-therapy-at-kater/)*

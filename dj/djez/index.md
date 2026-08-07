@@ -1,8 +1,8 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Eden, Ibiza on Wed, 26 Aug 2026.
+DJ EZ is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Eden, Ibiza on Wed, 26 Aug 2026.
 
-DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 27 more. Often billed alongside Danny Howard, Sonny Fodera and Moxie. Next up: Eden, Ibiza on Wed 26 Aug.
+DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 28 more. Often billed alongside Danny Howard, Sonny Fodera and Moxie. Next up: Eden, Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ EZ is a garage and house artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Eden | Ibiza |
 | Sat, 26 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played

@@ -9,7 +9,7 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | MAKE SOME WAVES — Summer Intensive Edition 2 | DJ B2B |
-| Sat, 15 Aug 2026 | +++ invites Ká, Aysun and Shanghai Driver | Aysun, Ká (DE), Privacy, alizé.e |
+| Sat, 15 Aug 2026 | +++ & Elo invite Ká, Aysun + Shanghai Driver | Aysun, Ká (DE), Privacy, alizé.e |
 | Thu, 20 Aug 2026 | MUSIC BUSINESS: SELF MADE STORY — Edition 2 |  |
 | Fri, 21 Aug 2026 | Hypernormalization at ACUD | DJ Kündigung, Lando, MIÑIN, Mithril, Privacy, SAINT MICHAEL, TPR (DE), Tusagi, VAP1D, Viscerale |
 

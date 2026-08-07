@@ -1,13 +1,14 @@
 # Yaki
 
-Yaki is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at public records, New York City on Thu, 17 Sept 2026.
+Yaki is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Samis Bar, Athens on Sun, 9 Aug 2026.
 
-Yaki is a techno and club artist tracked on soundcheck, with 31 sets logged across Chicago, Newyorkcity and Philadelphia. Often billed alongside Sevyn 0000, Via App and DJ Thank You. Next up: public records, Newyorkcity on Thu 17 Sept.
+Yaki is a techno and club artist tracked on soundcheck, with 32 sets logged across Athens, Chicago, Newyorkcity and Philadelphia. Often billed alongside Sevyn 0000, Via App and DJ Thank You. Next up: Samis Bar, Athens on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Samis Bar | Athens |
 | Thu, 17 Sept 2026 | public records | New York City |
 
 ## Recently played

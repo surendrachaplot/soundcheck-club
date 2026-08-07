@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 7 Aug, Berlin. 6 acts on the bill: Ceci Fierce, magic.made.by.r, Magin Karica and Maurice Mino and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 7 Aug, Berlin. 7 acts on the bill: Ceci Fierce, Lueking, magic.made.by.r and Magin Karica and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Birgits WEEKENDER on Fri 7 Aug, Berlin. 6 acts on the bill: Ceci Fierce, magic.m
 ## Line-up
 
 - Ceci Fierce
+- Lueking
 - magic.made.by.r
 - Magin Karica
 - Maurice Mino

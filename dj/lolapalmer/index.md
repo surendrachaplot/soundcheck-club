@@ -1,14 +1,15 @@
 # Lola Palmer
 
-Lola Palmer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 15 Sept 2026.
+Lola Palmer is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Lola Palmer is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 22 more. Often billed alongside Traumer, Kolter and Priku. Next up: Hï Ibiza, Ibiza on Tue 15 Sept.
+Lola Palmer is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 22 more. Often billed alongside Traumer, Priku and Andrey Pushkarev. Next up: Hï Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
+| Sun, 25 Oct 2026 | Noorderlicht Café | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lola Palmer is a house and tech house artist tracked on soundcheck, with 65 sets
 
 ## Shares bills with
 
-Traumer, Kolter, Priku
+Traumer, Priku, Andrey Pushkarev
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolapalmer/)*

@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 8 Aug, Osaka. 2 acts on the bill: DJ HI-C and DJ SO. Techno and House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 8 Aug, Osaka. 3 acts on the bill: DJ HI-C, DJ SO and Lomax. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ WEEKEND SELECTERS at BAR Inc on Sat 8 Aug, Osaka. 2 acts on the bill: DJ HI-C an
 
 - DJ HI-C
 - DJ SO
+- Lomax
 
 *Source: [soundcheck](https://soundcheck.club/e/2484869-weekend-selecters-at-bar-inc/)*

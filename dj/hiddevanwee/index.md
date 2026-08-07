@@ -1,8 +1,8 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Index, Dublin on Sat, 8 Aug 2026.
+Hidde van Wee is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Index, Dublin on Sat, 8 Aug 2026.
 
-Hidde van Wee is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 11 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Index, Dublin on Sat 8 Aug.
+Hidde van Wee is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 11 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Index, Dublin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 65 se
 | Fri, 25 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 15 Oct 2026 | The Loft | Manchester |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | The Warehouse | Leeds |
 
 ## Recently played

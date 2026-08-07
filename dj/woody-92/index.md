@@ -1,14 +1,15 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Woody92 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Woody92 is a techno and experimental artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Woody92 is a techno and experimental artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
+| Thu, 3 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

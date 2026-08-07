@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 11 Sept, Osaka. 2 acts on the bill: Ground (1) and Moodman. House and Acid. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 11 Sept, Osaka. 3 acts on the bill: Ground (1), Moodman and YAMA(JP/OSK). House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ WEEKEND SELECTERS at BAR Inc on Fri 11 Sept, Osaka. 2 acts on the bill: Ground (
 
 - Ground (1)
 - Moodman
+- YAMA(JP/OSK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2500552-weekend-selecters-at-bar-inc/)*

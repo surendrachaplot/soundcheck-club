@@ -1,8 +1,8 @@
 # JUN INAGAWA
 
-JUN INAGAWA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at R Lounge, Tokyo on Fri, 7 Aug 2026.
+JUN INAGAWA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at R Lounge, Tokyo on Fri, 7 Aug 2026.
 
-JUN INAGAWA is a techno and house artist tracked on soundcheck, with 181 sets logged across Brussels, Kyoto, Osaka and Seoul and 2 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: R Lounge, Tokyo on Fri 7 Aug.
+JUN INAGAWA is a techno and house artist tracked on soundcheck, with 182 sets logged across Brussels, Kyoto, Osaka and Seoul and 2 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: R Lounge, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JUN INAGAWA is a techno and house artist tracked on soundcheck, with 181 sets lo
 | Fri, 7 Aug 2026 | R Lounge | Tokyo |
 | Fri, 14 Aug 2026 | TBA - Somewhere in NIshi Azabu | Tokyo |
 | Wed, 19 Aug 2026 | Saloon | Tokyo |
+| Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 
 ## Recently played
 

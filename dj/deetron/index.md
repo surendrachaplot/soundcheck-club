@@ -1,8 +1,8 @@
 # Deetron
 
-Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bassiani, Tbilisi on Fri, 14 Aug 2026.
+Deetron is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bassiani, Tbilisi on Fri, 14 Aug 2026.
 
-Deetron is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 24 more. Often billed alongside SG Lewis, Zenker Brothers and AMMARA. Next up: Bassiani, Tbilisi on Fri 14 Aug.
+Deetron is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 24 more. Often billed alongside Zenker Brothers, SG Lewis and AMMARA. Next up: Bassiani, Tbilisi on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deetron is a techno and house artist tracked on soundcheck, with 53 sets logged 
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Bassiani | Tbilisi |
 | Sat, 15 Aug 2026 | Frankhan Selectist | Istanbul |
+| Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 17 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | KALT | Strasbourg |
 | Sat, 17 Oct 2026 | EL SÓTANO | Madrid |
@@ -27,6 +28,6 @@ Deetron is a techno and house artist tracked on soundcheck, with 53 sets logged 
 
 ## Shares bills with
 
-SG Lewis, Zenker Brothers, AMMARA
+Zenker Brothers, SG Lewis, AMMARA
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

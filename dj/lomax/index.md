@@ -1,13 +1,14 @@
 # Lomax
 
-Lomax is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at West Harlem, Kyoto on Fri, 14 Aug 2026.
+Lomax is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BAR Inc, Osaka on Sat, 8 Aug 2026.
 
-Lomax is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Kyoto, Leeds and London and 2 more. Often billed alongside Stones Taro, kitapon and droove. Next up: West Harlem, Kyoto on Fri 14 Aug.
+Lomax is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Kyoto, Leeds and London and 2 more. Often billed alongside Stones Taro, kitapon and droove. Next up: BAR Inc, Osaka on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | BAR Inc | Osaka |
 | Fri, 14 Aug 2026 | West Harlem | Kyoto |
 
 ## Recently played

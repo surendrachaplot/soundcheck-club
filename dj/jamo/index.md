@@ -1,13 +1,14 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Toffler, Rotterdam on Sat, 22 Aug 2026.
+JÄMO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Loop51, Amsterdam on Sat, 8 Aug 2026.
 
-JÄMO is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Kumi, Caleb Jay and 3LOAR. Next up: Toffler, Rotterdam on Sat 22 Aug.
+JÄMO is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Kumi, Caleb Jay and 3LOAR. Next up: Loop51, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Loop51 | Amsterdam |
 | Sat, 22 Aug 2026 | Toffler | Rotterdam |
 | Sun, 6 Sept 2026 | Boomerang Beach | The Hague |
 

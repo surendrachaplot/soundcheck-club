@@ -1,13 +1,14 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fitz Mallorca, Mallorca on Sun, 23 Aug 2026.
+ANOTR is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Scorpios, Mykonos on Tue, 18 Aug 2026.
 
-ANOTR is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 33 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Fitz Mallorca, Mallorca on Sun 23 Aug.
+ANOTR is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 33 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Scorpios, Mykonos on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 18 Aug 2026 | Scorpios | Mykonos |
 | Sun, 23 Aug 2026 | Fitz Mallorca | Mallorca |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |

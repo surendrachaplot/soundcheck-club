@@ -1,8 +1,8 @@
 # yu-more
 
-yu-more is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Noon + Cafe, Osaka on Fri, 7 Aug 2026.
+yu-more is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Noon + Cafe, Osaka on Fri, 7 Aug 2026.
 
-yu-more is a deep house and house artist tracked on soundcheck, with 171 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KONDO Mitsuo, Junki Akutagawa and aqtagawa. Next up: Noon + Cafe, Osaka on Fri 7 Aug.
+yu-more is a deep house and house artist tracked on soundcheck, with 172 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KONDO Mitsuo, Junki Akutagawa and aqtagawa. Next up: Noon + Cafe, Osaka on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ yu-more is a deep house and house artist tracked on soundcheck, with 171 sets lo
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Noon + Cafe | Osaka |
 | Sat, 8 Aug 2026 | EN MUSIC BAR | Osaka |
+| Wed, 12 Aug 2026 | EN MUSIC BAR | Osaka |
 | Sat, 15 Aug 2026 | rake?raka? | Osaka |
 | Fri, 28 Aug 2026 | America-Mura Club Drop | Osaka |
 | Sat, 12 Sept 2026 | Joule | Osaka |

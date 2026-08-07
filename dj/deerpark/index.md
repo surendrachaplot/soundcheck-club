@@ -1,14 +1,14 @@
 # Deer park
 
-Deer park is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, New York City on Thu, 20 Aug 2026.
+Deer park is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, New York City on Fri, 21 Aug 2026.
 
-Deer park is an experimental and hip-hop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Glasgow and London and 3 more. Often billed alongside Patch+, ANTHEM and Able Archer. Next up: TBA, Newyorkcity on Thu 20 Aug.
+Deer park is an experimental and hip-hop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Glasgow and London and 3 more. Often billed alongside Patch+, ANTHEM and Able Archer. Next up: TBA, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | TBA | New York City |
+| Fri, 21 Aug 2026 | TBA | New York City |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at White Owl Social Club, Portland on Fri, 7 Aug 2026.
+Zack Fox is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at White Owl Social Club, Portland on Fri, 7 Aug 2026.
 
-Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: White Owl Social Club, Portland on Fri 7 Aug.
+Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: White Owl Social Club, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zack Fox is a ghetto tech and house artist based in United States of America, tr
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | White Owl Social Club | Portland |
 | Sat, 5 Sept 2026 | TBA | Miami |
+| Sat, 19 Sept 2026 | Elsewhere | New York City |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played

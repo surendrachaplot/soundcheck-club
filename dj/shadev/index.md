@@ -1,8 +1,8 @@
 # SHADEV
 
-SHADEV is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cupra City Garage Manchester, Manchester on Fri, 21 Aug 2026.
+SHADEV is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cupra City Garage Manchester, Manchester on Fri, 21 Aug 2026.
 
-SHADEV is a garage and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Amsterdam, Leeds, Liverpool and London and 2 more. Often billed alongside Rich Reason, T-Man (UK) and Girls Don't Sync. Next up: Cupra City Garage Manchester, Manchester on Fri 21 Aug.
+SHADEV is a garage and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Leeds, Liverpool and London and 2 more. Often billed alongside Rich Reason, T-Man (UK) and Girls Don't Sync. Next up: Cupra City Garage Manchester, Manchester on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SHADEV is a garage and house artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Cupra City Garage Manchester | Manchester |
 | Thu, 17 Sept 2026 | Hidden | Manchester |
+| Sat, 3 Oct 2026 | Mint XL | Leeds |
 
 ## Recently played
 

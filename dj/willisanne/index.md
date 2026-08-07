@@ -1,8 +1,8 @@
 # Willis Anne
 
-Willis Anne is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 28 Aug 2026.
+Willis Anne is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 28 Aug 2026.
 
-Willis Anne is a house and techno artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: Collingwood Basement, Melbourne on Fri 28 Aug.
+Willis Anne is a house and techno artist based in France, tracked on soundcheck, with 40 sets logged across Berlin, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: Collingwood Basement, Melbourne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Willis Anne is a house and techno artist based in France, tracked on soundcheck,
 | Fri, 28 Aug 2026 | Collingwood Basement | Melbourne |
 | Sat, 29 Aug 2026 | QQQ ST. Park | Melbourne |
 | Sat, 29 Aug 2026 | QQQ ST. Park | Melbourne |
+| Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 
 ## Recently played
 

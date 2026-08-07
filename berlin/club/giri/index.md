@@ -8,7 +8,7 @@ Giri is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Giri x Geven en Nemen | Cleo (AU), Guava, SOCIAL VLAD |
+| Fri, 7 Aug 2026 | Giri x Geven en Nemen | CLEO, Cleo (AU), Guava, SOCIAL VLAD |
 | Thu, 13 Aug 2026 | Giri x Black Lab | Salem Unsigned |
 | Fri, 14 Aug 2026 | Giri x Aftertaste | Cheap Coffee, Jaymoonkay, __iwana__ |
 | Thu, 20 Aug 2026 | Giri x Rawa Club - Mexican Ambient Night |  |

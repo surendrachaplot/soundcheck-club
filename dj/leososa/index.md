@@ -1,13 +1,14 @@
 # Leo Sosa
 
-Leo Sosa is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
+Leo Sosa is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
 
-Leo Sosa is a techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside Radar, Mila Gama and X13F. Next up: Domicile, Miami on Sat 22 Aug.
+Leo Sosa is a techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Miami. Often billed alongside Radar, Mila Gama and X13F. Next up: Paraiso Estereo, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Paraiso Estereo | Miami |
 | Sat, 22 Aug 2026 | Domicile | Miami |
 
 ## Recently played

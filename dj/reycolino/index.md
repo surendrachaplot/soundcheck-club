@@ -1,14 +1,15 @@
 # Rey Colino
 
-Rey Colino is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Sat, 15 Aug 2026.
+Rey Colino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Sat, 15 Aug 2026.
 
-Rey Colino is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Spray, Eversines and Hylke. Next up: La Terrrazza, Barcelona on Sat 15 Aug.
+Rey Colino is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Spray, Eversines and Hylke. Next up: La Terrrazza, Barcelona on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | La Terrrazza | Barcelona |
+| Sat, 12 Sept 2026 | Cabaret Sauvage | Paris |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played

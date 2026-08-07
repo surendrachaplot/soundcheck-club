@@ -1,14 +1,15 @@
 # Julian Artur
 
-Julian Artur is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Trädgården, Stockholm on Thu, 13 Aug 2026.
+Julian Artur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Trädgården, Stockholm on Thu, 13 Aug 2026.
 
-Julian Artur is a techno and house artist tracked on soundcheck, with 17 sets logged across Hamburg and Stockholm. Often billed alongside Kornél Kovács, Speckman and Josephine Moriko. Next up: Trädgården, Stockholm on Thu 13 Aug.
+Julian Artur is a house and techno artist tracked on soundcheck, with 18 sets logged across Hamburg and Stockholm. Often billed alongside Kornél Kovács, Speckman and Josephine Moriko. Next up: Trädgården, Stockholm on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Trädgården | Stockholm |
+| Fri, 14 Aug 2026 | Spice H2O | Stockholm |
 
 ## Recently played
 

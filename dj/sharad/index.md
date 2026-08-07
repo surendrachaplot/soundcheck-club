@@ -1,8 +1,8 @@
 # Sharad
 
-Sharad is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 28 Aug 2026.
+Sharad is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 28 Aug 2026.
 
-Sharad is a deep house and house artist tracked on soundcheck, with 4 sets logged across Barcelona, London and Melbourne. Often billed alongside Basic Mind, Ewan Jansen and Abscal. Next up: Angel Music Bar, Melbourne on Fri 28 Aug.
+Sharad is a house and electronica artist tracked on soundcheck, with 4 sets logged across Barcelona, London and Melbourne. Often billed alongside Basic Mind, Ewan Jansen and Abscal. Next up: Angel Music Bar, Melbourne on Fri 28 Aug.
 
 ## Upcoming shows
 

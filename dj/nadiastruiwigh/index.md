@@ -1,8 +1,8 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at MONOM, Berlin on Sat, 8 Aug 2026.
+Nadia Struiwigh is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at MONOM, Berlin on Sat, 8 Aug 2026.
 
-Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside DJ MELL G, .VRIL and DjRUM. Next up: MONOM, Berlin on Sat 8 Aug.
+Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside DJ MELL G, .VRIL and DjRUM. Next up: MONOM, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 73 sets
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | MONOM | Berlin |
 | Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
+| Thu, 17 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played

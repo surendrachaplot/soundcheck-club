@@ -1,8 +1,8 @@
 # COZi
 
-COZi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 7 Aug 2026.
+COZi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 7 Aug 2026.
 
-COZi is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Barcelona, Belgrade, Berlin and Frankfurt and 6 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: arkaoda Berlin, Berlin on Fri 7 Aug.
+COZi is a house and techno artist based in Australia, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: arkaoda Berlin, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ COZi is a house and techno artist based in Australia, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | arkaoda Berlin | Berlin |
 | Sat, 8 Aug 2026 | Else | Berlin |
+| Sun, 25 Oct 2026 | Noorderlicht Café | Amsterdam |
 
 ## Recently played
 

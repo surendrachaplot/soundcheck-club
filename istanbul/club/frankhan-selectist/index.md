@@ -2,13 +2,13 @@
 
 Frankhan Selectist is a music venue in Istanbul with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Tomoki Tamura: Residency Show" on Fri, 7 Aug 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with line-ups including 4-i, Crazy P, Deetron and Eden Burns and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with line-ups including 4-i, Baban, Crazy P and Deetron and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Tomoki Tamura: Residency Show | Tomoki Tamura |
+| Fri, 7 Aug 2026 | Tomoki Tamura: Residency Show | Baban, Tomoki Tamura |
 | Sat, 8 Aug 2026 | Midnight Baklava Club: Eden Burns | Eden Burns, GARAN GARAN, Interval (2) |
 | Sun, 9 Aug 2026 | Block Party: Frankhan x Tavern |  |
 | Sat, 15 Aug 2026 | Visions: Deetron | Deetron |

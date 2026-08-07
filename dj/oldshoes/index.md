@@ -1,14 +1,15 @@
 # Oldshoes
 
-Oldshoes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cul Sec, Seoul on Fri, 7 Aug 2026.
+Oldshoes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cul Sec, Seoul on Fri, 7 Aug 2026.
 
-Oldshoes is a house and techno artist tracked on soundcheck, with 90 sets logged across Seoul and Tokyo. Often billed alongside denny, Acidwork and SINAHILL. Next up: Cul Sec, Seoul on Fri 7 Aug.
+Oldshoes is a house and techno artist tracked on soundcheck, with 91 sets logged across Seoul and Tokyo. Often billed alongside denny, Acidwork and SINAHILL. Next up: Cul Sec, Seoul on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Cul Sec | Seoul |
+| Fri, 14 Aug 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Andrea Marino
 
-Andrea Marino is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Insomnia, Berlin on Sat, 29 Aug 2026.
+Andrea Marino is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Insomnia, Berlin on Sat, 29 Aug 2026.
 
-Andrea Marino is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam and Berlin. Often billed alongside Khira Li, Sika Akis and AUTOFLOWER. Next up: Insomnia, Berlin on Sat 29 Aug.
+Andrea Marino is a techno and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam and Berlin. Often billed alongside Khira Li, CosmiKat and Epicx. Next up: Insomnia, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Insomnia | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
 
 ## Recently played
@@ -22,6 +23,6 @@ Andrea Marino is a techno artist based in Germany, tracked on soundcheck, with 8
 
 ## Shares bills with
 
-Khira Li, Sika Akis, AUTOFLOWER
+Khira Li, CosmiKat, Epicx
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreamarino/)*

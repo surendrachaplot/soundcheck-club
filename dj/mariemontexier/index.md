@@ -1,8 +1,8 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
+Marie Montexier is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
 
-Marie Montexier is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Anetha, DJ Gigola and DVS1. Next up: Hal25, Amsterdam on Sat 8 Aug.
+Marie Montexier is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Anetha, DJ Gigola and DVS1. Next up: Hal25, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marie Montexier is a techno and house artist tracked on soundcheck, with 208 set
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Hal25 | Amsterdam |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 25 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played

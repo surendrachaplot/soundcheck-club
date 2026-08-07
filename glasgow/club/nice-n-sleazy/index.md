@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "INDIE SLEAZY w SAN JOSE" on Fri, 7 Aug 2026.
+Nice N Sleazy is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "INDIE SLEAZY w SAN JOSE" on Fri, 7 Aug 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Bristol Luke, Daniel Hive, Darkcore Truth and Dean Munch and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Bristol Luke, Daniel Hive, Darkcore Truth and Dean Munch and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 

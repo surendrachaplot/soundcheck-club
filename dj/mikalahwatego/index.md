@@ -1,14 +1,15 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
+Mikalah Watego is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
 
-Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 30 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and GiGi FM. Next up: Collingwood Basement, Melbourne on Fri 14 Aug.
+Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 31 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Naycab and DAWS. Next up: Collingwood Basement, Melbourne on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Collingwood Basement | Melbourne |
+| Fri, 21 Aug 2026 | Angel Music Bar | Melbourne |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 
@@ -25,6 +26,6 @@ Mikalah Watego is a techno and house artist based in Australia, tracked on sound
 
 ## Shares bills with
 
-Hasvat Informant, Ed Kent, GiGi FM
+Hasvat Informant, Naycab, DAWS
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

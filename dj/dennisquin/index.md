@@ -1,8 +1,8 @@
 # Dennis Quin
 
-Dennis Quin is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colorado Charlie, The Hague on Sun, 9 Aug 2026.
+Dennis Quin is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Colorado Charlie, The Hague on Sun, 9 Aug 2026.
 
-Dennis Quin is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Austin and Bali and 29 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Colorado Charlie, Thehague on Sun 9 Aug.
+Dennis Quin is a house and tech house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Austin and Bali and 29 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Colorado Charlie, Thehague on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Dennis Quin is a house and tech house artist tracked on soundcheck, with 150 set
 | Sat, 19 Sept 2026 | XOYO | London |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played

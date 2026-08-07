@@ -1,6 +1,6 @@
 # swim at Commune
 
-swim at Commune on Sat 29 Aug, Liverpool. Balearic and Dub Techno. Preview the line-up and save it on soundcheck.
+swim at Commune on Sat 29 Aug, Liverpool. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

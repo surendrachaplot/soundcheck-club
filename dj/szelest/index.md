@@ -1,13 +1,14 @@
 # SZELEST
 
-SZELEST is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+SZELEST is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lilli Escher, Hamburg on Fri, 14 Aug 2026.
 
-SZELEST is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+SZELEST is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Lilli Escher, Hamburg on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Lilli Escher | Hamburg |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played

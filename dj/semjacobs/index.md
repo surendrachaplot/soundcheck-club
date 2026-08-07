@@ -1,14 +1,15 @@
 # Sem Jacobs
 
-Sem Jacobs is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Button Factory, Dublin on Sat, 8 Aug 2026.
+Sem Jacobs is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Button Factory, Dublin on Sat, 8 Aug 2026.
 
-Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Button Factory, Dublin on Sat 8 Aug.
+Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Button Factory, Dublin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Button Factory | Dublin |
+| Sun, 16 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 21 Aug 2026 | Colorado Charlie | The Hague |
 | Fri, 28 Aug 2026 | Westlight Rooftop at The William Vale | New York City |
 | Wed, 2 Sept 2026 | Hï Ibiza | Ibiza |

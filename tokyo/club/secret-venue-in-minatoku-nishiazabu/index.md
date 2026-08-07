@@ -1,8 +1,8 @@
 # Secret Venue in Minatoku-Nishiazabu
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "axiom-Mid summer longset-" on Fri, 7 Aug 2026.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "axiom-Mid summer longset-" on Fri, 7 Aug 2026.
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including AYANA KOSHIBA, Bundo, DØLLHAUS and ERIMIYA and 2 more. Browse upcoming dates, start times and who's playing.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including AYANA KOSHIBA, Bundo, DØLLHAUS and ERIMIYA and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundche
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | axiom-Mid summer longset- | FUJI (3), Gonno, NYAO |
 | Mon, 10 Aug 2026 | MEDUSA Invites Shogun: Hard Techno — Hard Industrial | AYANA KOSHIBA, DØLLHAUS, KAITO (5), Nono THING, Shogun, VÏVÏ |
+| Fri, 21 Aug 2026 | Inhale |  |
 | Sat, 22 Aug 2026 | OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) | ERIMIYA, SOGI, STRATAH, TheMuffinMan, XINOVI |
 | Fri, 4 Sept 2026 | Prologue | Bundo, MAYUDEPTH, NITA, Usk°, lostbaggage |
 

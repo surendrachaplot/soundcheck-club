@@ -1,6 +1,6 @@
 # Mostly Cloudy: B2B2B2B2B at F8 1192 Folsom
 
-Mostly Cloudy: B2B2B2B2B at F8 1192 Folsom on Sat 5 Sept, Sanfrancisco. 12 acts on the bill: Akumen, Andy Oro, ANDYLAND and DJ Saratonin and 8 more. Bass and Club. Preview the line-up and save it on soundcheck.
+Mostly Cloudy: B2B2B2B2B at F8 1192 Folsom on Sat 5 Sept, Sanfrancisco. 13 acts on the bill: Akumen, Andy Oro, ANDYLAND and DJ Saratonin and 9 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Mostly Cloudy: B2B2B2B2B at F8 1192 Folsom on Sat 5 Sept, Sanfrancisco. 12 acts 
 - ANDYLAND
 - DJ Saratonin
 - felipe d
+- HEAVENLY ARCH
 - Lil Bebe Cyborg
 - MALICIEL
 - Milli Meng

@@ -9,7 +9,7 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | SPEKTRAL OPEN AIR 2026 V2 | Cafgar, Chris Manura, Jil Tanner, Martin Young, PERISinLE, Rn86, Rodèk, Simon Phil.ter, The Glitz, knete |
-| Sat, 5 Sept 2026 | Westhafen Season Closing | Anni Herzer, Annina, DJ Exit, DJ G1NA R., DJ Hyperdrive, DJ Koze, Gabrielle Kwarteng, MIDNXGHT, Marcel Dettmann, NICI PALM, You&Na, clemi, marengo (2), mp.ulle, ÜBERKIKZ |
+| Sat, 5 Sept 2026 | Westhafen Season Closing | Anni Herzer, Annina, DJ Exit, DJ G1NA R., DJ Hyperdrive, DJ Koze, Gabrielle Kwarteng, Jonathan Kaspar, MIDNXGHT, Marcel Dettmann, NICI PALM, You&Na, clemi, marengo (2), mp.ulle, ÜBERKIKZ |
 | Sat, 19 Sept 2026 | HARBOUR Festival | Alisa Stovik, Amøn, Boltcore, Christa K, DETOXX, DJ Achim Feuervogel, Fenrick, Frederic., Fronsi, MCR-T, Maschérie, Somewhen, Ueberrest, VALENTIN FRAIS, VLUNA, adamoandiamo, djvonnebenan, gin (DE), ØTTA |
 
 ## Address

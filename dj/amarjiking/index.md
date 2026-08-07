@@ -1,8 +1,8 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Meow Wolf Houston, Houston on Fri, 7 Aug 2026.
+Amarji King is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Meow Wolf Houston, Houston on Fri, 7 Aug 2026.
 
-Amarji King is a club and techno artist tracked on soundcheck, with 44 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: Meow Wolf Houston, Houston on Fri 7 Aug.
+Amarji King is a club and techno artist tracked on soundcheck, with 45 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: Meow Wolf Houston, Houston on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Amarji King is a club and techno artist tracked on soundcheck, with 44 sets logg
 | Fri, 7 Aug 2026 | Meow Wolf Houston | Houston |
 | Sat, 8 Aug 2026 | Northern Lights Lounge | Detroit |
 | Sat, 22 Aug 2026 | Art Club | Houston |
+| Sat, 19 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
 

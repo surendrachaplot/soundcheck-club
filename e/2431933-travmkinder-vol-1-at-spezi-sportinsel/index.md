@@ -1,6 +1,6 @@
 # Travmkinder Vol.1 at Spezi Sportinsel
 
-Travmkinder Vol.1 at Spezi Sportinsel on Sat 8 Aug, Vienna. 3 acts on the bill: Alk Torres, DANBERG and Travmkind. House and Tech House. Preview the line-up and save it on soundcheck.
+Travmkinder Vol.1 at Spezi Sportinsel on Sat 8 Aug, Vienna. 4 acts on the bill: adrialin, Alk Torres, DANBERG and Travmkind. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Travmkinder Vol.1 at Spezi Sportinsel on Sat 8 Aug, Vienna. 3 acts on the bill: 
 
 ## Line-up
 
+- adrialin
 - Alk Torres
 - DANBERG
 - Travmkind

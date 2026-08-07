@@ -1,6 +1,6 @@
 # Katernacht with Reflex Blue, Frinda di Lanco, Telephones + more at Kater
 
-Katernacht with Reflex Blue, Frinda di Lanco, Telephones + more on Sat 5 Sept, Berlin. 8 acts on the bill: Benji DF, Eloïß, Frinda di Lanco and John Loveless and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Katernacht with Reflex Blue, Frinda di Lanco, Telephones + more on Sat 5 Sept, Berlin. 9 acts on the bill: Benji DF, Eloïß, Frinda di Lanco and John Loveless and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Katernacht with Reflex Blue, Frinda di Lanco, Telephones + more on Sat 5 Sept, B
 - John Loveless
 - Madd Rod
 - Martin Underwood
+- Nicole.
 - Reflex Blue
 - Telephones
 

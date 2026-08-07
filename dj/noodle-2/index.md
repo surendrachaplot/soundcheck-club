@@ -11,7 +11,7 @@ noodle is a house and techno artist tracked on soundcheck, with 59 sets logged a
 | Sat, 15 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 28 Aug 2026 | Leith Arches | Edinburgh |
 | Sat, 29 Aug 2026 | TBA - Secret Location | Glasgow |
-| Sat, 19 Sept 2026 | TBA - Secret Underground Bunker, Edinburgh | Edinburgh |
+| Sat, 19 Sept 2026 | TBA - Secret Location, Edinburgh | Edinburgh |
 
 ## Recently played
 

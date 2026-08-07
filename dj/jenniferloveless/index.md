@@ -1,8 +1,8 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
+Jennifer Loveless is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
 
-Jennifer Loveless is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
+Jennifer Loveless is a house and techno artist tracked on soundcheck, with 236 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 235 s
 | Sun, 9 Aug 2026 | Blow | Buenos Aires |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 22 Aug 2026 | fabric | London |
+| Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 25 Sept 2026 | Floyd | Miami |
 | Sun, 27 Sept 2026 | public records | New York City |
 | Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |

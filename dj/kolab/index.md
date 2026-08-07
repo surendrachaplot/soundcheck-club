@@ -1,8 +1,8 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Kø:lab is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
-Kø:lab is a techno and trance artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 20 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: Waschhaus, Berlin on Fri 7 Aug.
+Kø:lab is a techno and trance artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 20 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Kø:lab is a techno and trance artist tracked on soundcheck, with 110 sets logge
 | Sat, 19 Sept 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
 
 ## Recently played
 

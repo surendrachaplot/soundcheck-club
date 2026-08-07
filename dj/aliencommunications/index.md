@@ -11,7 +11,7 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 | Fri, 14 Aug 2026 | Club der Visionaere | Berlin |
 | Fri, 28 Aug 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Big Penny Social | London |
-| Sat, 19 Sept 2026 | TBA - Secret Underground Bunker, Edinburgh | Edinburgh |
+| Sat, 19 Sept 2026 | TBA - Secret Location, Edinburgh | Edinburgh |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
 
 ## Recently played

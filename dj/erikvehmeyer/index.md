@@ -1,14 +1,15 @@
 # Erik Vehmeyer
 
-Erik Vehmeyer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cat Alley Street, San Francisco/Oakland on Thu, 13 Aug 2026.
+Erik Vehmeyer is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cat Alley Street, San Francisco/Oakland on Thu, 13 Aug 2026.
 
-Erik Vehmeyer is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Budapest, Losangeles and Sanfrancisco. Often billed alongside Daizz, Dr. Recommended and Jimmy B. Next up: Cat Alley Street, Sanfrancisco on Thu 13 Aug.
+Erik Vehmeyer is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Budapest, Losangeles and Sanfrancisco. Often billed alongside Daizz, Dr. Recommended and Jimmy B. Next up: Cat Alley Street, Sanfrancisco on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Cat Alley Street | San Francisco/Oakland |
+| Sun, 16 Aug 2026 | Humble Sea Beer Garden on the Wharf | San Francisco/Oakland |
 
 ## Recently played
 

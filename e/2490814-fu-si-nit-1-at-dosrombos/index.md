@@ -1,6 +1,6 @@
 # FU:SIÓ [nit 1] at Dosrombos
 
-FU:SIÓ [nit 1] at Dosrombos on Sat 5 Sept, Barcelona. 1 act on the bill: Andrea Zarco. Techno and House. Preview the line-up and save it on soundcheck.
+FU:SIÓ [nit 1] at Dosrombos on Sat 5 Sept, Barcelona. 2 acts on the bill: Andrea Zarco and Breezy S. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ FU:SIÓ [nit 1] at Dosrombos on Sat 5 Sept, Barcelona. 1 act on the bill: Andrea
 ## Line-up
 
 - Andrea Zarco
+- Breezy S
 
 *Source: [soundcheck](https://soundcheck.club/e/2490814-fu-si-nit-1-at-dosrombos/)*

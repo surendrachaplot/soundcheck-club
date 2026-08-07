@@ -1,8 +1,8 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Future Nightlife, Toronto on Fri, 14 Aug 2026.
+bradeazy is a Tech House and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Future Nightlife, Toronto on Fri, 14 Aug 2026.
 
-bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Future Nightlife, Toronto on Fri 14 Aug.
+bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Future Nightlife, Toronto on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ bradeazy is a tech house and house artist based in United States of America, tra
 | Fri, 11 Sept 2026 | Kingdom Nightclub | Austin |
 | Sat, 12 Sept 2026 | Bauhaus | Houston |
 | Thu, 24 Sept 2026 | MAX Watts | Melbourne |
+| Thu, 24 Sept 2026 | Max Watt's | Melbourne |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 26 Sept 2026 | The Beaumont Brisbane | Brisbane |
 | Sat, 3 Oct 2026 | Chinese Laundry | Sydney |
 | Fri, 16 Oct 2026 | Night We Met | Nashville |
-| Fri, 30 Oct 2026 | Le Poisson Rouge | New York City |
 
 ## Recently played
 

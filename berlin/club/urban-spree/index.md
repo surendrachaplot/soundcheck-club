@@ -8,8 +8,8 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 10 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | EBONY KM2 DE LUXO |  |
-| Fri, 28 Aug 2026 | CYBERFUNK BERLIN | Flor Coto, Furz, Guile, Juli Gago, LUKAS (4), Manu Oubiña, Szew |
+| Sat, 8 Aug 2026 | EBONY KM2 DE LUXO | House Of Grace |
+| Fri, 28 Aug 2026 | CYBERFUNK BERLIN // OPEN AIR // 2 STAGES | Flor Coto, Furz, Guile, Juli Gago, LUKAS (4), Manu Oubiña, Szew |
 | Sat, 29 Aug 2026 | aufnahme + wiedergabe: Fünfzehn Jahre // Zweiter Akt | Blush Response, Philipp Strobel, Rhys Fulber |
 | Mon, 31 Aug 2026 | New Candys (Fuzz Club) – Live |  |
 | Wed, 23 Sept 2026 | GB | GB (2) |

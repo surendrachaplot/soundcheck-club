@@ -9,7 +9,7 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 15 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | WE ARE ONE #14 |  |
-| Sat, 8 Aug 2026 | DRUCKWELLE |  |
+| Sat, 8 Aug 2026 | RITMO |  |
 | Fri, 14 Aug 2026 | Groove with Steven Shade (Berlin) & Eva.Nyx (Hamburg) | Eva Nyx, Steven Shade |
 | Sat, 15 Aug 2026 | 2HARD4U (HARDTECHNO) | Kaizen, TZO (1), dannycookin |
 | Fri, 21 Aug 2026 | SENZA NOME |  |

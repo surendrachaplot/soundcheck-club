@@ -1,13 +1,14 @@
 # Khira Li
 
-Khira Li is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Insomnia, Berlin on Sat, 29 Aug 2026.
+Khira Li is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Insomnia, Berlin on Sat, 29 Aug 2026.
 
-Khira Li is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Andrea Marino, Sika Akis and Markus Klee. Next up: Insomnia, Berlin on Sat 29 Aug.
+Khira Li is a techno and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Andrea Marino, Markus Klee and Sika Akis. Next up: Insomnia, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Insomnia | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
 
 ## Recently played
@@ -22,6 +23,6 @@ Khira Li is a techno artist based in Germany, tracked on soundcheck, with 8 sets
 
 ## Shares bills with
 
-Andrea Marino, Sika Akis, Markus Klee
+Andrea Marino, Markus Klee, Sika Akis
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khirali/)*

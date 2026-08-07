@@ -1,8 +1,8 @@
 # Budino
 
-Budino is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
+Budino is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Buda BXL, Brussels on Sat, 8 Aug 2026.
 
-Budino is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Buda BXL, Brussels on Sat 8 Aug.
+Budino is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Buda BXL, Brussels on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Budino is a house and techno artist tracked on soundcheck, with 146 sets logged 
 | Sat, 8 Aug 2026 | Buda BXL | Brussels |
 | Sat, 22 Aug 2026 | Cabaret Sauvage | Paris |
 | Sun, 6 Sept 2026 | Good Room | New York City |
+| Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
 
 ## Recently played

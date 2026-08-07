@@ -1,14 +1,15 @@
 # Don Chich
 
-Don Chich is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Coil, Melbourne on Fri, 7 Aug 2026.
+Don Chich is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Coil, Melbourne on Fri, 7 Aug 2026.
 
-Don Chich is a techno and trance artist based in Australia, tracked on soundcheck, with 14 sets logged across Lyon, Melbourne and Rome. Often billed alongside Carl H, Hannah D and Lewba. Next up: Coil, Melbourne on Fri 7 Aug.
+Don Chich is a techno and trance artist based in Australia, tracked on soundcheck, with 15 sets logged across Lyon, Melbourne and Rome. Often billed alongside Carl H, Hannah D and Lewba. Next up: Coil, Melbourne on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Coil | Melbourne |
+| Fri, 28 Aug 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 

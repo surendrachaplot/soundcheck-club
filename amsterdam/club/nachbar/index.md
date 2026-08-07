@@ -1,8 +1,8 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DJ Frank & unaniem & splinter" on Fri, 7 Aug 2026.
+nachbar is a music venue in Amsterdam with 24 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DJ Frank & unaniem & splinter" on Fri, 7 Aug 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, 7AZ (1), AEZARYA and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 24 upcoming nights, with line-ups including 36framez, 7AZ (1), AEZARYA and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

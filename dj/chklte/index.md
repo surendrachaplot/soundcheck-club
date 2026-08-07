@@ -1,8 +1,8 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 7 Aug 2026.
+CHKLTE is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 7 Aug 2026.
 
-CHKLTE is a house and minimal artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Auckland and Austin and 27 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Teatro Pereyra, Ibiza on Fri 7 Aug.
+CHKLTE is a house and minimal artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Teatro Pereyra, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 111 sets logged
 | Fri, 21 Aug 2026 | TBA - Private Campground | Seattle |
 | Sat, 29 Aug 2026 | The Summer of George | Chicago |
 | Sun, 30 Aug 2026 | Kater | Berlin |
+| Fri, 4 Sept 2026 | Myra Ostraria | Lisbon |
 
 ## Recently played
 

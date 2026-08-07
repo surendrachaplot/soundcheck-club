@@ -1,6 +1,6 @@
-# Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic at Nowadays
+# Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic (live) at Nowadays
 
-Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic at Nowadays on Thu 17 Sept, Newyorkcity. 5 acts on the bill: Axine M, Lychee, Matük and OKO DJ and 1 more. Dub and Experimental. Preview the line-up and save it on soundcheck.
+Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic (live) at Nowadays on Thu 17 Sept, Newyorkcity. 5 acts on the bill: Axine M, Lychee, Matük and OKO DJ and 1 more. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

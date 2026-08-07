@@ -1,8 +1,8 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Night Tales, London on Sat, 8 Aug 2026.
+CC:DISCO! is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Night Tales, London on Sat, 8 Aug 2026.
 
-CC:DISCO! is a house and disco artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: Night Tales, London on Sat 8 Aug.
+CC:DISCO! is a house and disco artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: Night Tales, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 139 sets logge
 | Tue, 11 Aug 2026 | 528 Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Patterns | Brighton |
 | Sat, 5 Sept 2026 | 528 Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

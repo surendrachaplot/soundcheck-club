@@ -10,7 +10,7 @@ Josh Steers is a house and techno artist based in United States of America, trac
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA | Los Angeles |
 | Sat, 5 Sept 2026 | public records | New York City |
-| Fri, 11 Sept 2026 | The Brooklyn Monarch | New York City |
+| Fri, 11 Sept 2026 | The Chocolate Factory | New York City |
 
 ## Recently played
 

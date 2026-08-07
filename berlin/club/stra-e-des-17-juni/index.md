@@ -10,7 +10,7 @@ Straße des 17. Juni is a music venue in Berlin listed on soundcheck. 11 upcomin
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | OST Rave The Planet Truck | 2HOT2PLAY, Acid Asian, Amber Broos, Hannah Laing, Johannes Schuster, Katy Rough, Neon Graveyard, TANJA MIJU, The Rocketman, Trancestrudel |
 | Sat, 15 Aug 2026 | Rave the Panet - From the silence of the steppes to the frequency of freedom |  |
-| Sat, 15 Aug 2026 | Rave the Planet Parade Imagine Love Volume Berlin Records & Microglobe Collective Float | Cat Vermillion, Christian Grade, Felix Reichelt, Mijk van Dijk, Nakadia, Paula Hilton, Ronny Luft |
+| Sat, 15 Aug 2026 | Rave the Planet Parade Imagine Love Volume Berlin Records & Microglobe Collective Float | Andreas Kraemer, Cat Vermillion, Christian Grade, Felix Reichelt, Mijk van Dijk, Nakadia, Paula Hilton, Ronny Luft |
 | Sat, 15 Aug 2026 | RAVE THE PLANET // Droomschipp Float | Mia Mangata, Plunk.ton |
 | Sat, 15 Aug 2026 | TRUCK RAVE THE PLANET 2026// OSTFUNK/GOANAUTIKA | Basstronauten, Daniel Boon, Daniela Hensel, Diana May, LORD of Psychedelics (2), Linda Grazia, Mosher, Patrick Scuro, Simina Grigoriu |
 | Sat, 15 Aug 2026 | Float by Weltenphase | A.D.H.S., ASK:ME, Anna Tur, Haito, Rene Bourgeois, TAKTSTÖRER, Thomas Schumacher, Tiefundton |

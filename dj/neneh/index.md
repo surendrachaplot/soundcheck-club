@@ -1,8 +1,8 @@
 # Nene H
 
-Nene H is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
+Nene H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
 
-Nene H is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: TRAUM, Antwerp on Sat 8 Aug.
+Nene H is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: TRAUM, Antwerp on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nene H is a techno and house artist tracked on soundcheck, with 201 sets logged 
 | Sat, 22 Aug 2026 | export | Rotterdam |
 | Fri, 28 Aug 2026 | Frankhan Selectist | Istanbul |
 | Sat, 29 Aug 2026 | SMUT Athens | Athens |
+| Fri, 11 Sept 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 

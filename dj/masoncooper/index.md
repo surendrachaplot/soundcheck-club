@@ -1,14 +1,15 @@
 # Mason Cooper
 
-Mason Cooper is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Mason Cooper is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Mason Cooper is a house and tech house artist tracked on soundcheck, with 22 sets logged across Ibiza, Leeds, London and Malta and 1 more. Often billed alongside Joss Dean, Tommy Phillips and Benji King. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Mason Cooper is a house and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Joss Dean, Tommy Phillips and Benji King. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
-# TBA - Chausseestraße 131A 10115 Berlin
+# TBA - Chausseestraße 131A, 10115 Berlin
 
-TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "[8] & Opera presents Harto Falión (live) & Palmistry (live) with Aliar, bod [包家巷]" on Sat, 8 Aug 2026.
+TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "[8] & Opera presents Harto Falión (live) & Palmistry (live) with Aliar, bod [包家巷]" on Sat, 8 Aug 2026.
 
-TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Aliar, bod [包家巷] and Palmistry. Browse upcoming dates, start times and who's playing.
+TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Aliar, bod [包家巷] and Palmistry. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

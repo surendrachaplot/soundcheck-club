@@ -1,14 +1,15 @@
 # Ceci Fierce
 
-Ceci Fierce is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
+Ceci Fierce is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
 
-Ceci Fierce is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Luca Nova, BUTTCHIN and Ede. Next up: Birgit, Berlin on Fri 7 Aug.
+Ceci Fierce is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Luca Nova, BUTTCHIN and Denno Matini. Next up: Birgit, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Birgit | Berlin |
+| Fri, 28 Aug 2026 | Weekend | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ceci Fierce is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Luca Nova, BUTTCHIN, Ede
+Luca Nova, BUTTCHIN, Denno Matini
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cecifierce/)*

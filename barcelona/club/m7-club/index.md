@@ -9,7 +9,7 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | PANDEMONIUM [Rabent, Freeka, LUZZATTO & MI/KI] | Freeka, Rabent |
-| Fri, 7 Aug 2026 | M7 presenta [Kêmi, DIDIXX & Mëss] | DIDIXX |
+| Fri, 7 Aug 2026 | Hard Bounce [Kêmi, DIDIXX & Mëss] | DIDIXX |
 | Sat, 8 Aug 2026 | M7 presenta Main Room [Rowsi, Laura SN & KSTX] Up Room [BreakStyle, Ruly y Traka & Rufo] | BreakStyle, KSTX, Rowsi, Rufo |
 | Sun, 9 Aug 2026 | HARD BOUNCE [Andy Supre & Adviro] | Adviro |
 | Thu, 13 Aug 2026 | HARD BOUNCE [Xexo & Nmb2000] |  |

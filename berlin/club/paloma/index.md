@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Public Amusement with Pierre B" on Fri, 7 Aug 2026.
+Paloma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Public Amusement with Pierre B" on Fri, 7 Aug 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 

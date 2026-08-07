@@ -1,14 +1,15 @@
 # discostan
 
-discostan is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
+discostan is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Standard Time, Toronto on Sun, 16 Aug 2026.
 
-discostan is a house and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto and 1 more. Often billed alongside Lapgan, Captain Planet and DJ Ari B. Next up: Standard Time, Toronto on Sun 16 Aug.
+discostan is a house and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto and 1 more. Often billed alongside Lapgan, Captain Planet and Chaia. Next up: Standard Time, Toronto on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Standard Time | Toronto |
+| Sat, 5 Sept 2026 | Audium | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ discostan is a house and club artist based in United States of America, tracked 
 
 ## Shares bills with
 
-Lapgan, Captain Planet, DJ Ari B
+Lapgan, Captain Planet, Chaia
 
 *Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*

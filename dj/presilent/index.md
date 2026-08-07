@@ -1,14 +1,15 @@
 # Pre Silent
 
-Pre Silent is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+Pre Silent is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
-Pre Silent is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Berlin, London and Milan. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: Gaffe, London on Sat 15 Aug.
+Pre Silent is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Berlin, London and Milan. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: Gaffe, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Gaffe | London |
+| Thu, 17 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

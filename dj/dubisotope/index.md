@@ -1,8 +1,8 @@
 # Dub Isotope
 
-Dub Isotope is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paloma, Berlin on Sat, 8 Aug 2026.
+Dub Isotope is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Paloma, Berlin on Sat, 8 Aug 2026.
 
-Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 49 sets logged across Berlin. Often billed alongside Migz, Upzet and Jimi Handtrix. Next up: Paloma, Berlin on Sat 8 Aug.
+Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Migz, Upzet and Jimi Handtrix. Next up: Paloma, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 49 sets
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Paloma | Berlin |
 | Fri, 14 Aug 2026 | Void Club | Berlin |
+| Thu, 27 Aug 2026 | Crack Bellmer | Berlin |
 | Fri, 28 Aug 2026 | Void Club | Berlin |
 
 ## Recently played

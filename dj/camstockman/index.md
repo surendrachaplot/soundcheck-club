@@ -1,8 +1,8 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: 93 Feet East, London on Sat 22 Aug.
+Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: 93 Feet East, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 

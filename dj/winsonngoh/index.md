@@ -1,8 +1,8 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Völklingen Ironworks, Berlin on Sat, 22 Aug 2026.
+Winson Ngoh is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Völklingen Ironworks, Berlin on Sat, 22 Aug 2026.
 
-Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 13 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: Völklingen Ironworks, Berlin on Sat 22 Aug.
+Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 14 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: Völklingen Ironworks, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 set
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Sat, 26 Sept 2026 | Gateshead International Stadium | Newcastle |
+| Sun, 11 Oct 2026 | TBA | Barcelona |
+| Sat, 17 Oct 2026 | TBA | Leipzig |
 
 ## Recently played
 

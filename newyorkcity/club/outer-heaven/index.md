@@ -9,7 +9,7 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 13 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Outer Heaven presents: Jack Mulqueen b2b Gui Machado | Armii1n, Gui Machado, Jack Mulqueen |
-| Sat, 8 Aug 2026 | Outer Heaven presents: Amy Jor + DJ Brian | Amy Jor |
+| Sat, 8 Aug 2026 | Outer Heaven presents: Amy Jor + Connie | Amy Jor, Connie |
 | Wed, 12 Aug 2026 | Outer Heaven presents: RAAUL | RAAUL |
 | Thu, 13 Aug 2026 | Outer Heaven presents: Mona Matsuoka | Mona Matsuoka |
 | Fri, 14 Aug 2026 | Outer Heaven presents: Jack Mulqueen | Jack Mulqueen |

@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 47 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Andruss, Lilly Bombas" on Fri, 7 Aug 2026.
+Elsewhere is a music venue in New York City with 50 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Andruss, Lilly Bombas" on Fri, 7 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 47 upcoming nights, with line-ups including 444 (1), AKKI (DE), Aku and Andruss and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 50 upcoming nights, with line-ups including 444 (1), 999ADJ, AKKI (DE) and Aku and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 

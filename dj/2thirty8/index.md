@@ -1,13 +1,14 @@
 # 2thirty8
 
-2thirty8 is a Funk / Soul and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Luca Gozo, Malta on Tue, 11 Aug 2026.
+2thirty8 is a Funk / Soul and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hub Gozo, Malta on Fri, 7 Aug 2026.
 
-2thirty8 is a funk / soul and garage artist based in New Zealand, tracked on soundcheck, with 12 sets logged across Malta. Often billed alongside Razzett Sound, Jahh Roland and Ilixan Iris. Next up: Luca Gozo, Malta on Tue 11 Aug.
+2thirty8 is a funk / soul and garage artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Malta. Often billed alongside Razzett Sound, Jahh Roland and Ilixan Iris. Next up: Hub Gozo, Malta on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Hub Gozo | Malta |
 | Tue, 11 Aug 2026 | Luca Gozo | Malta |
 | Tue, 18 Aug 2026 | Luca Gozo | Malta |
 | Tue, 25 Aug 2026 | Luca Gozo | Malta |

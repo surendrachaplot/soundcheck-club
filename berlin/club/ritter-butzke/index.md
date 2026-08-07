@@ -14,7 +14,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 21 upcoming night
 | Sat, 8 Aug 2026 | Malouna & Markus Klee | Malouna, Markus Klee |
 | Fri, 14 Aug 2026 | Keep My Letters | Hyunji-A, Max Hendricks, Rikken, Simon Vuarambon, Tantum |
 | Sat, 15 Aug 2026 | House of Rave with Maceo Plex, Nicole Moudaber, Pan-Pot, Klanglos, Mark Dekoda und viele mehr | Blossmbae, Calypsis, Claudius, Ephy Pinkman, Klanglos, Lexer, Maceo Plex, Malouna, Mark Dekoda, Markus Klee, Nicole Moudaber, Nicole da Silva, OLEA, ONYVA, ONYVAA, Pan-Pot, Prismode, Solvane, Sylvie Miles, Who is ela¿ |
-| Fri, 21 Aug 2026 | Community-Rave |  |
+| Fri, 21 Aug 2026 | Community-Rave - free entry until 7pm | DERICE, EVNTHZN, EVYA, Katja Kilig, Kijara, Nadia Bel Air, RaVix, k.meower |
 | Sat, 22 Aug 2026 | Nifra | Castor |
 | Sat, 22 Aug 2026 | Fab Massimo | Bombata, Fab Massimo, justUS |
 | Fri, 28 Aug 2026 | Indiskret Berlin | Concentio, Confred, DOS, Le TIZI, Marius Holm, Rabauke, VE/RA |

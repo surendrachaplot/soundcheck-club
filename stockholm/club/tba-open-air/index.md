@@ -1,8 +1,8 @@
-# TBA - Open Air 
+# TBA - Open Air
 
-TBA - Open Air  is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Technostamp 20 - Resebyråns 5 Year Celebration" on Sat, 8 Aug 2026.
+TBA - Open Air is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Technostamp 20 - Resebyråns 5 Year Celebration" on Sat, 8 Aug 2026.
 
-TBA - Open Air  is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including Benjamin Mull, Ekkel, Evigt Mörker and Prins Filip. Browse upcoming dates, start times and who's playing.
+TBA - Open Air is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including Benjamin Mull, Ekkel, Evigt Mörker and Prins Filip. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Breezy S
 
-Breezy S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at LAUT, Barcelona on Fri, 14 Aug 2026.
+Breezy S is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at LAUT, Barcelona on Fri, 14 Aug 2026.
 
-Breezy S is a house and techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Mikaella, Miguel Silva and Djoan. Next up: LAUT, Barcelona on Fri 14 Aug.
+Breezy S is a house and techno artist based in Spain, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Mikaella, Miguel Silva and Djoan. Next up: LAUT, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | LAUT | Barcelona |
+| Sat, 5 Sept 2026 | Dosrombos | Barcelona |
 
 ## Recently played
 

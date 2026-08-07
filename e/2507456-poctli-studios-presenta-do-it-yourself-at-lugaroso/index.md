@@ -1,6 +1,6 @@
-# Poctli Studios presenta: Do It Yourself at LugarOSO
+# Poctli Studios presenta: Do it Yourself at LugarOSO
 
-Poctli Studios presenta: Do It Yourself at LugarOSO on Sun 9 Aug, Mexicocity. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Poctli Studios presenta: Do it Yourself at LugarOSO on Sun 9 Aug, Mexicocity. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

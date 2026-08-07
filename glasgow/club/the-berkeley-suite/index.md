@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 26 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Missing Persons Club // Free Tickets" on Fri, 7 Aug 2026.
+The Berkeley Suite is a music venue in Glasgow with 31 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Missing Persons Club // Free Tickets" on Fri, 7 Aug 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming nights, with line-ups including AKA DISPLAY, Angel Negrin, Austin Ato and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 31 upcoming nights, with line-ups including 6 SENSE, AKA DISPLAY, Angel Negrin and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming
 | Fri, 21 Aug 2026 | Co-Accused with L.F.T. & Ángel Negrín | Angel Negrin, Co-Accused, L.F.T. |
 | Sat, 22 Aug 2026 | Hot Towel 10th Birthday with Gigi Testa & Moira Salt | Gigi Testa |
 | Tue, 25 Aug 2026 | Swagfest x B16: Afters Exhibition W/ Dazegxd | Dazegxd |
+| Fri, 28 Aug 2026 | Céleste W/ 6 SENSE | 6 SENSE, Céleste |
 | Sat, 29 Aug 2026 | I Love Your Energy with Austin Ato | Austin Ato |
-| Thu, 3 Sept 2026 | VICE VERSA presents: Techno vs Groove | AKA DISPLAY, Bruce Sangster, DEJA, Dev Kandak, Johnny Greig, SKEEN, WEE WADS |
 
 ## Address
 

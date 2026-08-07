@@ -1,8 +1,8 @@
 # Heritage Listed
 
-Heritage Listed is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Le 211, Paris on Sun, 9 Aug 2026.
+Heritage Listed is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Le 211, Paris on Sun, 9 Aug 2026.
 
-Heritage Listed is a house and disco artist tracked on soundcheck, with 26 sets logged across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Pura Pachanga. Next up: Le 211, Paris on Sun 9 Aug.
+Heritage Listed is a house and disco artist tracked on soundcheck, with 27 sets logged across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Pura Pachanga. Next up: Le 211, Paris on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Heritage Listed is a house and disco artist tracked on soundcheck, with 26 sets 
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Le 211 | Paris |
 | Sun, 9 Aug 2026 | Le 211 | Paris |
+| Fri, 28 Aug 2026 | Db55 | Amsterdam |
 | Sat, 5 Sept 2026 | Madam | Amsterdam |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 14 Aug 2026.
+Jorkes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 14 Aug 2026.
 
-Jorkes is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Berlin and Bucharest and 9 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Fridas Pier, Stuttgart on Fri 14 Aug.
+Jorkes is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Berlin and Bucharest and 9 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Fridas Pier, Stuttgart on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jorkes is a house and techno artist tracked on soundcheck, with 135 sets logged 
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Fridas Pier | Stuttgart |
 | Sat, 29 Aug 2026 | Romantica | Stuttgart |
+| Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

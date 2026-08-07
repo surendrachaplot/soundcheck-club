@@ -1,14 +1,15 @@
 # Pato Mallet
 
-Pato Mallet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 22 Aug 2026.
+Pato Mallet is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 22 Aug 2026.
 
-Pato Mallet is a house and deep house artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Loïc, Signo and Pabels. Next up: Crobar - Buenos Aires, Buenosaires on Sat 22 Aug.
+Pato Mallet is a house and deep house artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Loïc, Signo and Pabels. Next up: Crobar - Buenos Aires, Buenosaires on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Crobar - Buenos Aires | Buenos Aires |
+| Fri, 4 Sept 2026 | TBA - La Biblioteca, San Telmo | Buenos Aires |
 
 ## Recently played
 

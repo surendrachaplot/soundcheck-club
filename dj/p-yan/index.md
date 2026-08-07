@@ -1,13 +1,14 @@
 # P-YAN
 
-P-YAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Mitsuki, Tokyo on Fri, 14 Aug 2026.
+P-YAN is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Koara, Tokyo on Thu, 13 Aug 2026.
 
-P-YAN is a techno and house artist based in Japan, tracked on soundcheck, with 112 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RYOKEI, Celter and YAMARCHY. Next up: Mitsuki, Tokyo on Fri 14 Aug.
+P-YAN is a house and techno artist based in Japan, tracked on soundcheck, with 113 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RYOKEI, Celter and YAMARCHY. Next up: Koara, Tokyo on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Koara | Tokyo |
 | Fri, 14 Aug 2026 | Mitsuki | Tokyo |
 | Fri, 14 Aug 2026 | Mitsuki | Tokyo |
 | Fri, 25 Sept 2026 | WOMB | Tokyo |

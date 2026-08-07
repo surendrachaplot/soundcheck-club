@@ -9,7 +9,7 @@ Eclair Fifi is a house and techno artist based in United Kingdom, tracked on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Palais | London |
-| Sat, 19 Sept 2026 | TBA - Secret Underground Bunker, Edinburgh | Edinburgh |
+| Sat, 19 Sept 2026 | TBA - Secret Location, Edinburgh | Edinburgh |
 
 ## Recently played
 

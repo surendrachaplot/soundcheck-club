@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Claude VonStroke, Lumia, Jasper Crenshaw" on Fri, 7 Aug 2026.
+Knockdown Center is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Claude VonStroke, Lumia, Jasper Crenshaw" on Fri, 7 Aug 2026.
 
-Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 

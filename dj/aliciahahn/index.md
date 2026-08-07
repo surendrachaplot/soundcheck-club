@@ -1,8 +1,8 @@
 # Alicia Hahn
 
-Alicia Hahn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 8 Aug 2026.
+Alicia Hahn is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 8 Aug 2026.
 
-Alicia Hahn is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside julës jay, Anahit Vardanyan and Chris Liebing. Next up: Sparta Schwimmclub, Frankfurt on Sat 8 Aug.
+Alicia Hahn is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside julës jay, Anahit Vardanyan and Chris Liebing. Next up: Sparta Schwimmclub, Frankfurt on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alicia Hahn is a techno and house artist tracked on soundcheck, with 33 sets log
 | Sat, 8 Aug 2026 | Sparta Schwimmclub | Frankfurt |
 | Sat, 15 Aug 2026 | Luz De Gas | Barcelona |
 | Sun, 16 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Mon, 17 Aug 2026 | Amok Club | Mallorca |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Baerbel
 
-Baerbel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+Baerbel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
 
-Baerbel is a techno and house artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside JUSTICE (DE), Ciao 3lla and Ele Luz. Next up: Odonien, Cologne on Sat 29 Aug.
+Baerbel is a techno and house artist based in Germany, tracked on soundcheck, with 69 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside JUSTICE (DE), Ciao 3lla and Ele Luz. Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Jonny Knüppel | Berlin |
 | Sat, 29 Aug 2026 | Odonien | Cologne |
 
 ## Recently played

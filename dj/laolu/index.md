@@ -1,14 +1,15 @@
 # Laolu
 
-Laolu is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 8 Aug 2026.
+Laolu is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 8 Aug 2026.
 
-Laolu is a house and afro house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 8 Aug.
+Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Fri, 21 Aug 2026 | Browar Warszawski | Warsaw |
 | Fri, 28 Aug 2026 | VENT | Tokyo |
 | Sat, 5 Sept 2026 | Savaya Bali | Bali |
 | Wed, 9 Sept 2026 | Zumana Bali | Bali |

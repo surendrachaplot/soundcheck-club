@@ -1,8 +1,8 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
+Mike Starr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
 
-Mike Starr is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: Fuchs2, Prague on Sat 8 Aug.
+Mike Starr is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: Fuchs2, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mike Starr is a house and techno artist tracked on soundcheck, with 87 sets logg
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Fuchs2 | Prague |
 | Sat, 12 Sept 2026 | Gewölbe | Cologne |
+| Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

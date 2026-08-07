@@ -1,8 +1,8 @@
 # Magnolia Coronado
 
-Magnolia Coronado is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
+Magnolia Coronado is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
 
-Magnolia Coronado is a techno and house artist tracked on soundcheck, with 81 sets logged across Mexicocity and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: TBA - SECRET LOCATION, Mexicocity on Fri 14 Aug.
+Magnolia Coronado is a techno and house artist tracked on soundcheck, with 82 sets logged across Mexicocity and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: TBA - SECRET LOCATION, Mexicocity on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Magnolia Coronado is a techno and house artist tracked on soundcheck, with 81 se
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - SECRET LOCATION | Mexico City |
 | Fri, 14 Aug 2026 | Foro Normandie | Mexico City |
+| Sat, 22 Aug 2026 | Levu VIP | Mexico City |
 
 ## Recently played
 

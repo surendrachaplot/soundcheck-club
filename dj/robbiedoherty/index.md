@@ -1,8 +1,8 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BRET, Amsterdam on Sat, 8 Aug 2026.
+Robbie Doherty is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at BRET, Amsterdam on Sat, 8 Aug 2026.
 
-Robbie Doherty is a house and tech house artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: BRET, Amsterdam on Sat 8 Aug.
+Robbie Doherty is a house and tech house artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: BRET, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 

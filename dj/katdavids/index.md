@@ -1,14 +1,15 @@
 # Kat Davids
 
-Kat Davids is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
+Kat Davids is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
 
-Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: Renate, Berlin on Sat 8 Aug.
+Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: Renate, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Renate | Berlin |
+| Thu, 27 Aug 2026 | THF Radio / Torhaus | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+JACK MARLOW is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-JACK MARLOW is a garage and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Berlin, Brighton, Brisbane and Bristol and 12 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Burgess Park, London on Sun 9 Aug.
+JACK MARLOW is a garage and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Berlin, Brighton, Brisbane and Bristol and 13 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JACK MARLOW is a garage and house artist based in United Kingdom, tracked on sou
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Fri, 2 Oct 2026 | Night Tales | London |
+| Fri, 16 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 

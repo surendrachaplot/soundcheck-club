@@ -1,13 +1,14 @@
 # Gino
 
-Gino is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
+Gino is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Levu VIP, Mexico City on Sat, 22 Aug 2026.
 
-Gino is a drum & bass and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Turno, Bryan Gee and Charlie Tee. Next up: fabric, London on Fri 23 Oct.
+Gino is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Turno, Bryan Gee and Charlie Tee. Next up: Levu VIP, Mexicocity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Levu VIP | Mexico City |
 | Fri, 23 Oct 2026 | fabric | London |
 
 ## Recently played

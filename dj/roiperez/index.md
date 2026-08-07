@@ -1,14 +1,15 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+Roi Perez is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
-Roi Perez is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
+Roi Perez is a house and techno artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Tanzhaus West | Frankfurt |
+| Fri, 11 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 12 Sept 2026 | Place D'espagne | Brussels |
 | Sat, 26 Sept 2026 | Phonox | London |
 

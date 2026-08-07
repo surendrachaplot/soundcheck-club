@@ -1,8 +1,8 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Beachouse, Ibiza on Wed, 12 Aug 2026.
+Guy Gerber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Beachouse, Ibiza on Wed, 12 Aug 2026.
 
-Guy Gerber is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Beachouse, Ibiza on Wed 12 Aug.
+Guy Gerber is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Beachouse, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Guy Gerber is a house and techno artist tracked on soundcheck, with 121 sets log
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | Beachouse | Ibiza |
 | Sat, 26 Sept 2026 | La Terrrazza | Barcelona |
+| Thu, 1 Oct 2026 | Cité du Cinéma | Paris |
 
 ## Recently played
 

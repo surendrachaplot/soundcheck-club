@@ -1,6 +1,6 @@
-# BEATGATE × KYZIKOS RISING PRESENT: Re.You ❚❚ BATU (TR) b2b Eren Yildiz + many more ❚❚ at Kastel
+# BEATGATE × KYZIKOS RISING PRESENT: Re.You  BATU (TR) b2b Eren Yildiz  many more at Kastel
 
-BEATGATE × KYZIKOS RISING PRESENT: Re.You ❚❚ BATU (TR) b2b Eren Yildiz + many more ❚❚ at Kastel on Fri 28 Aug, Istanbul. 4 acts on the bill: BATU (TR), Eren Yildiz, Manendria and Re.You. House. Preview the line-up and save it on soundcheck.
+BEATGATE × KYZIKOS RISING PRESENT: Re.You  BATU (TR) b2b Eren Yildiz  many more at Kastel on Fri 28 Aug, Istanbul. 4 acts on the bill: BATU (TR), Eren Yildiz, Manendria and Re.You. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

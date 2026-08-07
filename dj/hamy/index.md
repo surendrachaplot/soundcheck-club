@@ -1,14 +1,15 @@
 # HAMY
 
-HAMY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+HAMY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-HAMY is a techno and house artist tracked on soundcheck, with 48 sets logged across Bangkok, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
+HAMY is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 6 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
+| Sat, 29 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 19 Sept 2026 | Chausseestrasse 131 | Berlin |
 
 ## Recently played

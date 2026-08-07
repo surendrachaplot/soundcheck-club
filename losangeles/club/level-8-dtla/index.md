@@ -10,7 +10,7 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming nig
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | SUNSET SESSIONS presents: 'GOOD GIRL' Release Party | David Paul, Electric Field, Tamara Lanza |
 | Sat, 8 Aug 2026 | Phantoms POOL PARTY at Level 8 | Phantoms |
-| Fri, 14 Aug 2026 | Sex with The City: Sunset Summer Sessions Takeover | Evo Twinz, LUIGI AMORE |
+| Fri, 14 Aug 2026 | Sex with The City: Sunset Summer Sessions Takeover | Evo Twinz, KAPIR, LUIGI AMORE |
 | Sat, 15 Aug 2026 | FLOAT Rooftop Pool Party feat. Massane [2-8 PM] | Massane |
 | Sat, 22 Aug 2026 | FLOAT Rooftop Pool Party feat. Durante [2-8 PM] | Durante |
 | Sat, 29 Aug 2026 | Chai Rave LA: ON THE ROOFTOP at LEVEL8 ON AUG 29TH! (ONE YEAR ANNIVERSARY!) |  |

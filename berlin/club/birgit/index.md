@@ -8,7 +8,7 @@ Birgit is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Birgits WEEKENDER | Ceci Fierce, Magin Karica, Maurice Mino, Radio Marrakech, Sebastian Kettel, magic.made.by.r |
+| Fri, 7 Aug 2026 | Birgits WEEKENDER | Ceci Fierce, Lueking, Magin Karica, Maurice Mino, Radio Marrakech, Sebastian Kettel, magic.made.by.r |
 | Sat, 8 Aug 2026 | Birgit NIGHTS - Mosher | Mosher |
 | Fri, 14 Aug 2026 | Birgits WEEKENDER | Konfusia, Kos:mo, RHAPSODIE, Sayuri (GER) |
 | Fri, 21 Aug 2026 | Birgits WEEKENDER | Gioski, LOUPING, Mabu, Predex |
