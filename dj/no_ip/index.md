@@ -1,6 +1,6 @@
 # no_ip
 
-no_ip is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
+no_ip is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Luz De Gas, Barcelona on Fri, 21 Aug 2026.
 
 no_ip is a techno and tech house artist based in Spain, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Raxon, Shall Ocin and Damon Jee. Next up: Luz De Gas, Barcelona on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ no_ip is a techno and tech house artist based in Spain, tracked on soundcheck, w
 
 Raxon, Shall Ocin, Damon Jee
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no_ip/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no_ip/)*

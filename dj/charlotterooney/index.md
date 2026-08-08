@@ -1,6 +1,6 @@
 # Charlotte Rooney
 
-Charlotte Rooney is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 22 Aug 2026.
+Charlotte Rooney is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 22 Aug 2026.
 
 Charlotte Rooney is a techno and house artist tracked on soundcheck, with 69 sets logged across Melbourne. Often billed alongside Ambedo, anna(n) and Black Dave. Next up: QQQ ST. Park, Melbourne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Charlotte Rooney is a techno and house artist tracked on soundcheck, with 69 set
 
 Ambedo, anna(n), Black Dave
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotterooney/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotterooney/)*

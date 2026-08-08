@@ -1,6 +1,6 @@
 # Un4 L0kur4
 
-Un4 L0kur4 is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 15 Aug 2026.
+Un4 L0kur4 is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 15 Aug 2026.
 
 Un4 L0kur4 is a baile funk and latin bass artist based in Mexico, tracked on soundcheck, with 20 sets logged across Mexicocity. Often billed alongside KEBRA, Bruja Prieta and NEGRACONDA. Next up: YuYu Cine Club, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Un4 L0kur4 is a baile funk and latin bass artist based in Mexico, tracked on sou
 
 KEBRA, Bruja Prieta, NEGRACONDA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/un4l0kur4/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/un4l0kur4/)*

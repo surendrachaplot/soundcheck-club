@@ -1,6 +1,6 @@
 # Rayen
 
-Rayen is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
+Rayen is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Toffler, Rotterdam on Sat, 15 Aug 2026.
 
 Rayen is a tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Rotterdam. Often billed alongside Anderdox, Chris Brooks and Jezza. Next up: Toffler, Rotterdam on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Rayen is a tech house artist based in United Kingdom, tracked on soundcheck, wit
 
 Anderdox, Chris Brooks, Jezza
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayen/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayen/)*

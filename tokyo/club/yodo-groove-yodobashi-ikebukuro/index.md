@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Tokyo Sunset House & Techno Experience ft Ken Ishii" on Sun, 9 Aug 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Tokyo Sunset House & Techno Experience ft Ken Ishii" on Sun, 9 Aug 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Antoniexx, Chika Luna, DJ SAWA and EMILIO (3) and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -20,4 +20,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

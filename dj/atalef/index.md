@@ -1,6 +1,6 @@
 # Atalef
 
-Atalef is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Subspace, Denver on Sat, 8 Aug 2026.
+Atalef is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Subspace, Denver on Sat, 8 Aug 2026.
 
 Atalef is a techno and acid artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver. Often billed alongside Silent Observer, Daed and Drumcell. Next up: Subspace, Denver on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Atalef is a techno and acid artist based in United States of America, tracked on
 
 Silent Observer, Daed, Drumcell
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atalef/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atalef/)*

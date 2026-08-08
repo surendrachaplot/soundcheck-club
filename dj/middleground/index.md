@@ -1,6 +1,6 @@
 # MiddleGround
 
-MiddleGround is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
+MiddleGround is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
 
 MiddleGround is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Bristol, Ibiza and London. Often billed alongside Mas Fuego, Raldo and Suly Aslan. Next up: Bermondsey Social Club, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MiddleGround is a tech house and minimal artist based in United Kingdom, tracked
 
 Mas Fuego, Raldo, Suly Aslan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/middleground/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/middleground/)*

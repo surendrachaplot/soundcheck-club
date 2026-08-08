@@ -1,6 +1,6 @@
 # Luca Musto
 
-Luca Musto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kaschemme Basel, Basel on Sat, 8 Aug 2026.
+Luca Musto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kaschemme Basel, Basel on Sat, 8 Aug 2026.
 
 Luca Musto is a house and deep house artist based in Italy, tracked on soundcheck, with 27 sets logged across Basel, Berlin, Ghent and Miami and 3 more. Often billed alongside anahï, Francesco Rizzi and Martha van Straaten. Next up: Kaschemme Basel, Basel on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Luca Musto is a house and deep house artist based in Italy, tracked on soundchec
 
 anahï, Francesco Rizzi, Martha van Straaten
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucamusto-fr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucamusto-fr/)*

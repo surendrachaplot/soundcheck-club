@@ -1,6 +1,6 @@
 # Síofra
 
-Síofra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 14 Aug 2026.
+Síofra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 14 Aug 2026.
 
 Síofra is a techno and house artist based in Ireland, tracked on soundcheck, with 78 sets logged across Belfast, Berlin, Copenhagen and Cork and 8 more. Often billed alongside Lucky Lube, Popmix and Mark Gill. Next up: Yamamori Tengu, Dublin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Síofra is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Lucky Lube, Popmix, Mark Gill
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siofra/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siofra/)*

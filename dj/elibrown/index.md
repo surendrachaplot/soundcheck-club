@@ -1,14 +1,13 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Big Night Live, Boston on Fri, 7 Aug 2026.
+Eli Brown is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Akvárium Klub, Budapest on Fri, 11 Sept 2026.
 
-Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Big Night Live, Boston on Fri 7 Aug.
+Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Akvárium Klub, Budapest on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Big Night Live | Boston |
 | Fri, 11 Sept 2026 | Akvárium Klub | Budapest |
 | Fri, 11 Sept 2026 | Akvárium Klub | Budapest |
 | Mon, 14 Sept 2026 | [UNVRS] | Ibiza |
@@ -19,6 +18,7 @@ Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logg
 
 ## Recently played
 
+- Big Night Live, Boston — Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - [UNVRS], Ibiza — Mon, 13 Jul 2026
 - Hï Ibiza, Ibiza — Thu, 2 Jul 2026
@@ -26,10 +26,9 @@ Eli Brown is a techno and house artist tracked on soundcheck, with 149 sets logg
 - Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
 - Russell Industrial Center, Detroit — Sun, 24 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
-- PNE Forum, Vancouver — Sat, 16 May 2026
 
 ## Shares bills with
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

@@ -1,6 +1,6 @@
 # xtine
 
-xtine is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 8 Aug 2026.
+xtine is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 8 Aug 2026.
 
 xtine is a techno and acid artist tracked on soundcheck, with 15 sets logged across Vancouver. Often billed alongside Overland, Derek Plaslaiko and educación física. Next up: Gorg-O-Mish, Vancouver on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ xtine is a techno and acid artist tracked on soundcheck, with 15 sets logged acr
 
 Overland, Derek Plaslaiko, educación física
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtine/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtine/)*

@@ -1,6 +1,6 @@
 # Library Bar Dtla
 
-Library Bar Dtla is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Integrate" on Sat, 15 Aug 2026.
+Library Bar Dtla is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Integrate" on Sat, 15 Aug 2026.
 
 Library Bar Dtla is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 630 W 6th St, Los Angeles, CA 90017.
 
@@ -14,4 +14,4 @@ Library Bar Dtla is a music venue in Losangeles listed on soundcheck. 1 upcoming
 
 630 W 6th St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/library-bar-dtla/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/library-bar-dtla/)*

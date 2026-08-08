@@ -1,6 +1,6 @@
 # Linus Duewer
 
-Linus Duewer is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Linus Duewer is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Linus Duewer is a tech house and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin and Hamburg. Often billed alongside Erhardt Schuster, Surreal (DE) and Hans Hammer. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Linus Duewer is a tech house and house artist based in Germany, tracked on sound
 
 Erhardt Schuster, Surreal (DE), Hans Hammer
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linusduewer/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linusduewer/)*

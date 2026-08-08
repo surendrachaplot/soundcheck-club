@@ -1,6 +1,6 @@
 # ushiro
 
-ushiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
+ushiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
 
 ushiro is a house and techno artist based in Japan, tracked on soundcheck, with 7 sets logged across Osaka and Tokyo. Often billed alongside BERLIN, circles of monarch and Ku'damm. Next up: Teranoma Tidepool, Osaka on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ ushiro is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 BERLIN, circles of monarch, Ku'damm
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ushiro/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ushiro/)*

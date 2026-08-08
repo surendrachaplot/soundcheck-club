@@ -1,6 +1,6 @@
 # Nick Kothari
 
-Nick Kothari is a Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 13 Aug 2026.
+Nick Kothari is a Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 13 Aug 2026.
 
 Nick Kothari is a disco and acid artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit. Often billed alongside DR. Disko Dust, Carlos Souffront and Jeffrey Sfire. Next up: Northern Lights Lounge, Detroit on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Nick Kothari is a disco and acid artist based in United States of America, track
 
 DR. Disko Dust, Carlos Souffront, Jeffrey Sfire
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickkothari/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickkothari/)*

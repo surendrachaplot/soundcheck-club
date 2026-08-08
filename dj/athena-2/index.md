@@ -1,6 +1,6 @@
 # Athena (2)
 
-Athena (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+Athena (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 Athena (2) is a techno and electronica artist based in Canada, tracked on soundcheck, with 5 sets logged across Mexicocity, Newyorkcity and Toronto. Often billed alongside Bianca Oblivion, DJ ATTENTION and Dougie. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Athena (2) is a techno and electronica artist based in Canada, tracked on soundc
 
 Bianca Oblivion, DJ ATTENTION, Dougie
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athena-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athena-2/)*

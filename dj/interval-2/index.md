@@ -1,6 +1,6 @@
 # Interval (2)
 
-Interval (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 8 Aug 2026.
+Interval (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 8 Aug 2026.
 
 Interval (2) is a house and techno artist tracked on soundcheck, with 11 sets logged across Istanbul. Often billed alongside jtamul, 4-i and BasicDisarm. Next up: Frankhan Selectist, Istanbul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Interval (2) is a house and techno artist tracked on soundcheck, with 11 sets lo
 
 jtamul, 4-i, BasicDisarm
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interval-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interval-2/)*

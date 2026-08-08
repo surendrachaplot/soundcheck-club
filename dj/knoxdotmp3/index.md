@@ -1,6 +1,6 @@
 # KNOXDOTMP3
 
-KNOXDOTMP3 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sun, 6 Sept 2026.
+KNOXDOTMP3 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sun, 6 Sept 2026.
 
 KNOXDOTMP3 is a club and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Losangeles, Paris and Seattle. Often billed alongside Shane Thomas, Flabbergast (LA) and MISS BRICKS. Next up: TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ KNOXDOTMP3 is a club and techno artist based in United States of America, tracke
 
 Shane Thomas, Flabbergast (LA), MISS BRICKS
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*

@@ -1,6 +1,6 @@
 # Erøx
 
-Erøx is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
+Erøx is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
 Erøx is a tech house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Jordan.nsx, A.I.F.O.S. and DaSoMaZo. Next up: Sensorium, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Erøx is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 Jordan.nsx, A.I.F.O.S., DaSoMaZo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erox/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erox/)*

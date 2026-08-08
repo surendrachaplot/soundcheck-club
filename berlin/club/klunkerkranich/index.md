@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "VULVAA POWER x WE KÜYEN w. Ativ Aras, Samer Odeh, Lila Veil, The Official Darling, Nuvm, Lima" on Fri, 7 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HMWL x Klunkerkranich w. Lex Ludlow, Kaldera, Martin Brodin, Alex Esser, Jesper Aubin" on Sat, 8 Aug 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Andeel, Boy Oh Boy, Cem Orlow and CIOZ and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Boy Oh Boy, Cem Orlow, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | VULVAA POWER x WE KÜYEN w. Ativ Aras, Samer Odeh, Lila Veil, The Official Darling, Nuvm, Lima | Andeel, Faisal, Lima, MonoAbe |
 | Sat, 8 Aug 2026 | HMWL x Klunkerkranich w. Lex Ludlow, Kaldera, Martin Brodin, Alex Esser, Jesper Aubin | Jesper Aubin, Kaldera, Lex Ludlow, Martin Brodin, Raj Shindi |
 | Sat, 8 Aug 2026 | LOVE OVERLOAD - HMWL & MINWL Label night | Jesper Aubin, Kaldera, Lex Ludlow, Martin Brodin, Raj Shindi |
 | Mon, 10 Aug 2026 | MONDAY ROAST w. Cem Orlow & Nils Ohrmann | Cem Orlow, Nils Ohrmann |
@@ -20,4 +19,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

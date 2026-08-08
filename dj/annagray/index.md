@@ -1,6 +1,6 @@
 # Anna Gray
 
-Anna Gray is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The White Hotel, Manchester on Thu, 10 Sept 2026.
+Anna Gray is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The White Hotel, Manchester on Thu, 10 Sept 2026.
 
 Anna Gray is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin and Manchester. Often billed alongside Conor Thomas, Faux Naif and Alessandro Adriani. Next up: The White Hotel, Manchester on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Anna Gray is an electronic artist based in United Kingdom, tracked on soundcheck
 
 Conor Thomas, Faux Naif, Alessandro Adriani
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annagray/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annagray/)*

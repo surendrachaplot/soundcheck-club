@@ -1,15 +1,13 @@
 # LAMMER
 
-LAMMER is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 7 Aug 2026.
+LAMMER is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-LAMMER is a techno and trance artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: Palmerstown House Estate, Dublin on Fri 7 Aug.
+LAMMER is a techno and trance artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Palmerstown House Estate | Dublin |
-| Fri, 7 Aug 2026 | block. | Dublin |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 16 Aug 2026 | Colorado Charlie | The Hague |
@@ -20,20 +18,22 @@ LAMMER is a techno and trance artist tracked on soundcheck, with 111 sets logged
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | OST | Berlin |
+| Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Fri, 7 Aug 2026
+- block., Dublin — Fri, 7 Aug 2026
 - Boston Manor Park, London — Sun, 2 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Else, Berlin — Sat, 18 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sat, 4 Jul 2026
-- La Terrrazza, Barcelona — Wed, 17 Jun 2026
-- RSO.BERLIN, Berlin — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Lisa Korver, Bella Claxton, Kyle Starkey
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*

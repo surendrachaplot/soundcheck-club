@@ -1,6 +1,6 @@
 # jass:minute
 
-jass:minute is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
+jass:minute is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mucha, Berlin on Sat, 8 Aug 2026.
 
 jass:minute is a bass and club artist tracked on soundcheck, with 17 sets logged across Berlin and Cologne. Often billed alongside Babe Gorgeous, Ubax and Zoran. Next up: Mucha, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ jass:minute is a bass and club artist tracked on soundcheck, with 17 sets logged
 
 Babe Gorgeous, Ubax, Zoran
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jass.minute/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jass.minute/)*

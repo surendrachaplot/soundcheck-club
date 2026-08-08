@@ -1,6 +1,6 @@
 # COHĒSION (UK)
 
-COHĒSION (UK) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The DBA, Manchester on Fri, 14 Aug 2026.
+COHĒSION (UK) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The DBA, Manchester on Fri, 14 Aug 2026.
 
 COHĒSION (UK) is a techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Manchester. Often billed alongside Beau Didier, Body Snatchers and Caniche. Next up: The DBA, Manchester on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ COHĒSION (UK) is a techno artist based in United Kingdom, tracked on soundcheck
 
 Beau Didier, Body Snatchers, Caniche
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cohesionuk/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cohesionuk/)*

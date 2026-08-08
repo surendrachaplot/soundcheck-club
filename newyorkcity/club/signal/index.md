@@ -1,14 +1,13 @@
 # Signal
 
-Signal is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and Navid navbox" on Fri, 7 Aug 2026.
+Signal is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DJ Fuckoff, Trax Unit, Sevyn Love" on Sat, 8 Aug 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights, with line-ups including 550am, 98dots, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 550am, 98dots, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and Navid navbox | Avenue F, Loren, Navid Navbox, Satoshi Tomiie, Shaun Reeves, Stretch, Stretch (DET), britty. |
 | Sat, 8 Aug 2026 | DJ Fuckoff, Trax Unit, Sevyn Love | DJ Fuckoff, Sevyn Love, Trax Unit |
 | Sun, 9 Aug 2026 | Spaghetti Strap: LYDO, Leeon b2b SPRKLBB, BEIGE b2b Boyfriend Dick, Swimmie | BEIGE, Boyfriend Dick, LYDO, Leeon, SPRKLBB, SWIMMIE |
 | Thu, 13 Aug 2026 | CYBERIA - Breakcore Rave | Creep-P, Donna Summer, Jonquar, TIMETRICKSTER, WADDLE, cybr.nova |
@@ -18,9 +17,10 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights,
 | Fri, 21 Aug 2026 | Night & Day: Ash Lauryn, JADALAREIGN, Jay Duncan, shekdash, Donis | Ash Lauryn, Donis, JADALAREIGN, Jay Duncan, shekdash |
 | Sun, 23 Aug 2026 | House Of PAURRO x Magic City: Marie Davidson, Jubilee x PAURRO | Jubilee, Marie Davidson, PAURRO |
 | Thu, 27 Aug 2026 | Pregame presents: 2001, Auphoria b2b Armii1n, DJ Brian | Armii1n, Auphoria, DJ Brian |
+| Fri, 28 Aug 2026 | Night & Day: Eli Escobar, The Carry Nation, Dee Diggs, Arvin T b2b Sissies of Mercy | Arvin T, Dee Diggs, Eli Escobar, Sissies of Mercy, The Carry Nation |
 
 ## Address
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

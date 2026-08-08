@@ -1,6 +1,6 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Amelie Lens is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -33,4 +33,4 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets lo
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

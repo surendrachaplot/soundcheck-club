@@ -1,6 +1,6 @@
 # KAPP
 
-KAPP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
+KAPP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
 KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside Simoon Pedro, Juliana Branco and Leonardo Cruz DJ. Next up: Square Studio Lab, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Simoon Pedro, Juliana Branco, Leonardo Cruz DJ
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapp/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapp/)*

@@ -1,26 +1,26 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 50 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Andruss, Lilly Bombas" on Fri, 7 Aug 2026.
+Elsewhere is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jawani 4eva: Aku, Arjxn, Eshie, jakari wing, Rajuju" on Sat, 8 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 50 upcoming nights, with line-ups including 444 (1), 999ADJ, AKKI (DE) and Aku and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including 444 (1), 999ADJ, AEREA and AKKI (DE) and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Andruss, Lilly Bombas | Andruss |
-| Fri, 7 Aug 2026 | Darker Than Wax - 15 Year Anniversary | Haseeb Iqbal, Honey Bun, Jasmine Li, John Silas, Lefto Early Bird, Marco Weibel, Markus (US) |
-| Fri, 7 Aug 2026 | 15 Years of Darker Than Wax: New York with Haseeb Iqbal, Marco Weibel  | Haseeb Iqbal, Honey Bun, Jasmine Li (NY), John Silas, Lefto Early Bird, Marco Weibel, Mawkus |
 | Sat, 8 Aug 2026 | Jawani 4eva: Aku, Arjxn, Eshie, jakari wing, Rajuju | Aku, Arjxn, Eshie, Rajuju, jakari wing |
 | Sat, 8 Aug 2026 | Cuffing Season: OLEA, Esentrik, Arthur Tan, Okay Ivy, SINZ, Blesst + Goldie Harris & Friends | OLEA, SINZ |
 | Sun, 9 Aug 2026 | Priyanka presents: INDIA-MAPIANO, Teej, Shawna Solaris, Mudia | Shawna Solaris |
-| Fri, 14 Aug 2026 | Mat Zo, DATSKO | DATSKO, Mat Zo |
+| Fri, 14 Aug 2026 | Mat Zo, DATSKO, DEROZA, Gusta | DATSKO, Mat Zo |
 | Sat, 15 Aug 2026 | Kyle Walker, Edd, Jeny Michelle | Edd (1), Jeny Michelle, Kyle Walker |
 | Sat, 15 Aug 2026 | DOST Takeover w/ ARINI, Mrii, [rajid selim], REHMA with VANI, Lapgan, rithu, DJ ing, + more | 444 (1), ARINI, DJ ing, Lapgan, Mrii, Munasib, dilhaar |
 | Sun, 16 Aug 2026 | Sundae Sauuce: Travis George, King Marie, JUNGIN, Angela Rayos |  |
+| Tue, 18 Aug 2026 | Hixxy, m i m i, Nurse, KING | EMMA KING, Hixxy, m i m i (US) |
+| Fri, 21 Aug 2026 | Kimonos, Narasimha, Sleepy & Boo, AKKI, DAYTIMERS NYC: Saqib, TimahTempo, faizan | AKKI (DE), Kimonos, Saqib, Sleepy & Boo, TimahTempo, faizan |
+| Fri, 21 Aug 2026 | RUZE | RUZE |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

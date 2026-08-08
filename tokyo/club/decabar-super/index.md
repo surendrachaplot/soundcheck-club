@@ -1,6 +1,6 @@
 # Decabar Super
 
-Decabar Super is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "OPPARADiSE 11th anniversary" on Sat, 8 Aug 2026.
+Decabar Super is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "OPPARADiSE 11th anniversary" on Sat, 8 Aug 2026.
 
 Decabar Super is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including CELESTE, Mayeul, Shun and WAKA XINXI. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
 
@@ -16,4 +16,4 @@ Decabar Super is a music venue in Tokyo listed on soundcheck. 3 upcoming nights,
 
 Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*

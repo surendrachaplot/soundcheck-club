@@ -1,6 +1,6 @@
 # Badbadnotgood
 
-Badbadnotgood is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
+Badbadnotgood is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
 
 Badbadnotgood is an electronic artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Dublin, London, Madrid and Montreal and 2 more. Often billed alongside Patrick Holland, Yves Tumor and Aim. Next up: The Bentway, Toronto on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Badbadnotgood is an electronic artist based in United Kingdom, tracked on soundc
 
 Patrick Holland, Yves Tumor, Aim
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badbadnotgood/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badbadnotgood/)*

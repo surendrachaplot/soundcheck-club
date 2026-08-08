@@ -1,6 +1,6 @@
 # G-Lamour
 
-G-Lamour is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Haus73, Hamburg on Sat, 8 Aug 2026.
+G-Lamour is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Haus73, Hamburg on Sat, 8 Aug 2026.
 
 G-Lamour is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg. Often billed alongside DJ MILLE, KLARYOKO and Muffel (2). Next up: Haus73, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ G-Lamour is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 DJ MILLE, KLARYOKO, Muffel (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g-lamour/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g-lamour/)*

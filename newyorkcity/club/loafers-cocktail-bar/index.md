@@ -1,6 +1,6 @@
 # Loafers Cocktail Bar
 
-Loafers Cocktail Bar is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Midnight Swim: Stevo Blaque" on Sat, 8 Aug 2026.
+Loafers Cocktail Bar is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Midnight Swim: Stevo Blaque" on Sat, 8 Aug 2026.
 
 Loafers Cocktail Bar is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including ASTER (DJ), DJ Sauci Soni, Hijo Pródigo and Kneaku and 1 more. Browse upcoming dates, start times and who's playing. 517 Court Street, Brooklyn NY 11231.
 
@@ -20,4 +20,4 @@ Loafers Cocktail Bar is a music venue in Newyorkcity listed on soundcheck. 7 upc
 
 517 Court Street, Brooklyn NY 11231, New York City
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/loafers-cocktail-bar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/loafers-cocktail-bar/)*

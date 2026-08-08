@@ -1,6 +1,6 @@
 # Karizma
 
-Karizma is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
+Karizma is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Historic Eldorado Ballroom, Houston on Sat, 15 Aug 2026.
 
 Karizma is a house and deep house artist tracked on soundcheck, with 52 sets logged across Chicago, Denver, Detroit and Houston and 8 more. Often billed alongside Baronhawk Poitier, Natasha Diggs and Rick Wilhite. Next up: The Historic Eldorado Ballroom, Houston on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Karizma is a house and deep house artist tracked on soundcheck, with 52 sets log
 
 Baronhawk Poitier, Natasha Diggs, Rick Wilhite
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*

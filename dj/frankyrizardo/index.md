@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Franky Rizardo is a house and tech house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 233 
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

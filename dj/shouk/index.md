@@ -1,6 +1,6 @@
 # Sho (UK)
 
-Sho (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+Sho (UK) is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 Sho (UK) is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Ibiza and London. Often billed alongside KREED., KAZIA and Saf Mitchell. Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sho (UK) is a minimal and tech house artist based in United Kingdom, tracked on 
 
 KREED., KAZIA, Saf Mitchell
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*

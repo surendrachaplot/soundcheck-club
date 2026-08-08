@@ -1,15 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "PANDEMONIUM [Rabent, Freeka, LUZZATTO & MI/KI]" on Fri, 7 Aug 2026.
+M7 Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "M7 presenta Main Room [Rowsi, Laura SN & KSTX] Up Room [BreakStyle, Ruly y Traka & Rufo]" on Sat, 8 Aug 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Adviro, Ana Sclifos, Apokä and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Adviro, Ana Sclifos, Apokä and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | PANDEMONIUM [Rabent, Freeka, LUZZATTO & MI/KI] | Freeka, Rabent |
-| Fri, 7 Aug 2026 | Hard Bounce [Kêmi, DIDIXX & Mëss] | DIDIXX |
 | Sat, 8 Aug 2026 | M7 presenta Main Room [Rowsi, Laura SN & KSTX] Up Room [BreakStyle, Ruly y Traka & Rufo] | BreakStyle, KSTX, Rowsi, Rufo |
 | Sun, 9 Aug 2026 | HARD BOUNCE [Andy Supre & Adviro] | Adviro |
 | Thu, 13 Aug 2026 | HARD BOUNCE [Xexo & Nmb2000] |  |
@@ -23,4 +21,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, 
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

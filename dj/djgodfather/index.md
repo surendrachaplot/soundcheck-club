@@ -1,8 +1,8 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at El Club, Detroit on Sat, 8 Aug 2026.
+DJ Godfather is a Techno and Electro artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at El Club, Detroit on Sat, 8 Aug 2026.
 
-DJ Godfather is a techno and electro artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Berlin and Boston and 17 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: El Club, Detroit on Sat 8 Aug.
+DJ Godfather is a techno and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Berlin and Boston and 17 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: El Club, Detroit on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Godfather is a techno and electro artist tracked on soundcheck, with 71 sets 
 | Sat, 15 Aug 2026 | Karmen Camina | Strasbourg |
 | Sun, 16 Aug 2026 | Sonnenraum | Berlin |
 | Fri, 28 Aug 2026 | smartbar | Chicago |
+| Fri, 28 Aug 2026 | Lincoln Factory | Detroit |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
@@ -32,4 +33,4 @@ DJ Godfather is a techno and electro artist tracked on soundcheck, with 71 sets 
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

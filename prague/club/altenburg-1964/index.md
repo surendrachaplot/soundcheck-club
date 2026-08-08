@@ -1,14 +1,13 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "ALTRA: Viktoria Spielmann, Olivia Nebula, ZANDOLY, Gabrielle" on Fri, 7 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HEAT 9 / Pride Edition " on Sat, 8 Aug 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Ansea and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Ansea and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | ALTRA: Viktoria Spielmann, Olivia Nebula, ZANDOLY, Gabrielle | Gabrielle (DE), Olivia Nebula, Viktoria Spielmann, ZANDOLY |
 | Sat, 8 Aug 2026 | HEAT 9 / Pride Edition  | Ansea, Big Lil, Nakrasia, SENAIDA, Zuzana Hakl |
 | Thu, 13 Aug 2026 | SUN > ATG < SET: jardabpm & ninaola | jardabpm |
 | Fri, 14 Aug 2026 | Grau Series: [Indoor/Outdoor] with Blue Hour (UK/DE), Adamatron b2b Fake Agent, Marie Pravda+more | Adamatron, Arton (CZ), Blue Hour, Etienn Grey, Fake Agent, Kirill Astra, Marie Pravda, ishka machina, too many Jesses |
@@ -22,4 +21,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 9 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

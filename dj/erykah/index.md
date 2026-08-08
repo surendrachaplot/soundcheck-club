@@ -1,6 +1,6 @@
 # Erykah
 
-Erykah is a Breakbeat and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ijland, Amsterdam on Sat, 8 Aug 2026.
+Erykah is a Breakbeat and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ijland, Amsterdam on Sat, 8 Aug 2026.
 
 Erykah is a breakbeat and bass artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside gguusstt, ojoo and AliA. Next up: Ijland, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Erykah is a breakbeat and bass artist tracked on soundcheck, with 63 sets logged
 
 gguusstt, ojoo, AliA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*

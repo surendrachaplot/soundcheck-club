@@ -1,6 +1,6 @@
 # Robert Hood
 
-Robert Hood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Robert Hood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Robert Hood is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Chlär, Lyric Hood and Floorplan. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Robert Hood is a techno and house artist tracked on soundcheck, with 74 sets log
 
 Chlär, Lyric Hood, Floorplan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*

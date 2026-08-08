@@ -1,6 +1,6 @@
 # Dan Dusty
 
-Dan Dusty is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
+Dan Dusty is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
 
 Dan Dusty is a house and minimal artist tracked on soundcheck, with 28 sets logged across Amsterdam. Often billed alongside Luis Ripa, De Sluwe Vos and Mees Mattern. Next up: Shelter Amsterdam, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dan Dusty is a house and minimal artist tracked on soundcheck, with 28 sets logg
 
 Luis Ripa, De Sluwe Vos, Mees Mattern
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dandusty/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dandusty/)*

@@ -1,6 +1,6 @@
 # Work Wife
 
-Work Wife is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Glamorama, Melbourne on Sat, 15 Aug 2026.
+Work Wife is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Glamorama, Melbourne on Sat, 15 Aug 2026.
 
 Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logged across Melbourne, Newyorkcity, Seoul and Sydney and 1 more. Often billed alongside Jo Christy, Simonetti and b. caszh. Next up: Glamorama, Melbourne on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 Jo Christy, Simonetti, b. caszh
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*

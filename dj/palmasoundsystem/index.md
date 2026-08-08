@@ -1,6 +1,6 @@
 # PALMA
 
-PALMA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 13 Aug 2026.
+PALMA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 13 Aug 2026.
 
 PALMA is a house and deep house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Miami, Newyorkcity and Seattle. Often billed alongside Antonio Estrada, CISUMMI and Cheyanne Hudson. Next up: Do Not Sit On The Furniture, Miami on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ PALMA is a house and deep house artist tracked on soundcheck, with 8 sets logged
 
 Antonio Estrada, CISUMMI, Cheyanne Hudson
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmasoundsystem/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmasoundsystem/)*

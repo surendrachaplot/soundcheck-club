@@ -1,6 +1,6 @@
 # Fredfades
 
-Fredfades is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Fredfades is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Fredfades is a house and deep house artist based in Norway, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Bucharest and Madrid and 6 more. Often billed alongside CHEWCHEW, Darone Sassounian and Faux Majeure. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fredfades is a house and deep house artist based in Norway, tracked on soundchec
 
 CHEWCHEW, Darone Sassounian, Faux Majeure
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredfades/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredfades/)*

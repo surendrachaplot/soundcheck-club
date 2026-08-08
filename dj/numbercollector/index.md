@@ -1,6 +1,6 @@
 # Number Collector
 
-Number Collector is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Saloon, Tokyo on Fri, 14 Aug 2026.
+Number Collector is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Saloon, Tokyo on Fri, 14 Aug 2026.
 
 Number Collector is a hip-hop and bass artist based in Japan, tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside eijin, YNZ VALENTINE and E.O.U. Next up: Saloon, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Number Collector is a hip-hop and bass artist based in Japan, tracked on soundch
 
 eijin, YNZ VALENTINE, E.O.U
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/numbercollector/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/numbercollector/)*

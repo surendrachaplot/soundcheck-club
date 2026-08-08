@@ -1,6 +1,6 @@
 # BioN
 
-BioN is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Wed, 19 Aug 2026.
+BioN is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club der Visionaere, Berlin on Wed, 19 Aug 2026.
 
 BioN is a house and minimal artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Francesco Passantino, Hamsa and Luc Ringeisen. Next up: Club der Visionaere, Berlin on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ BioN is a house and minimal artist based in Germany, tracked on soundcheck, with
 
 Francesco Passantino, Hamsa, Luc Ringeisen
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bion/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bion/)*

@@ -1,6 +1,6 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+DJ Travella is a Singeli and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 DJ Travella is a singeli and club artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DJ Travella is a singeli and club artist tracked on soundcheck, with 71 sets log
 
 DJ Diaki, Mia Koden, Aunty Rayzor
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

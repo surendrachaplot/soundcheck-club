@@ -1,6 +1,6 @@
 # LTO.
 
-LTO. is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
+LTO. is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
 
 LTO. is a breakbeat and techno artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Ridgie, M41RH and Bluest. Next up: Praterbrücke, Vienna on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ LTO. is a breakbeat and techno artist tracked on soundcheck, with 4 sets logged 
 
 Ridgie, M41RH, Bluest
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lto-aus/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lto-aus/)*

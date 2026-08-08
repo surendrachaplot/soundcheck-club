@@ -1,6 +1,6 @@
 # something blue
 
-something blue is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
+something blue is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
 
 something blue is a techno and house artist based in United States of America, tracked on soundcheck, with 113 sets logged across Austin, Chicago and Detroit. Often billed alongside Auntie Chanel, dream beach and Ashton Swinton. Next up: TV Lounge, Detroit on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ something blue is a techno and house artist based in United States of America, t
 
 Auntie Chanel, dream beach, Ashton Swinton
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somethingblue/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somethingblue/)*

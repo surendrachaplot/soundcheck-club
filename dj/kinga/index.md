@@ -1,6 +1,6 @@
 # KINGA
 
-KINGA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+KINGA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
 KINGA is a techno and electro artist based in Romania, tracked on soundcheck, with 7 sets logged across Berlin, Bucharest and Budapest. Often billed alongside ML91, Acsa and Dorota. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ KINGA is a techno and electro artist based in Romania, tracked on soundcheck, wi
 
 ML91, Acsa, Dorota
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinga/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinga/)*

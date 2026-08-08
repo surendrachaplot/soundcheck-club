@@ -1,6 +1,6 @@
 # Lexlay
 
-Lexlay is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 22 Aug 2026.
+Lexlay is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 22 Aug 2026.
 
 Lexlay is a tech house and house artist tracked on soundcheck, with 84 sets logged across Barcelona, Buenosaires, Ibiza and London and 6 more. Often billed alongside Shitake, Alvaro Smart and Carlo Lio. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Lexlay is a tech house and house artist tracked on soundcheck, with 84 sets logg
 
 Shitake, Alvaro Smart, Carlo Lio
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*

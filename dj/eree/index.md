@@ -1,6 +1,6 @@
 # eRee
 
-eRee is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
+eRee is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
 
 eRee is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside 2HZY, DINO (3) and DJ Shufflemaster. Next up: TBA - Secret Location, Toronto on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ eRee is a techno and minimal techno artist based in Japan, tracked on soundcheck
 
 2HZY, DINO (3), DJ Shufflemaster
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eree/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eree/)*

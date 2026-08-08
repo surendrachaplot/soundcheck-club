@@ -1,6 +1,6 @@
 # NOVA ANIMUS
 
-NOVA ANIMUS is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Faust, Seoul on Fri, 14 Aug 2026.
+NOVA ANIMUS is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Faust, Seoul on Fri, 14 Aug 2026.
 
 NOVA ANIMUS is a techno and minimal techno artist based in South Korea, tracked on soundcheck, with 17 sets logged across Seoul. Often billed alongside Nocturnal (KR), ROS3 and Suman. Next up: Faust, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ NOVA ANIMUS is a techno and minimal techno artist based in South Korea, tracked 
 
 Nocturnal (KR), ROS3, Suman
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novaanimus/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novaanimus/)*

@@ -1,6 +1,6 @@
 # s.talbot
 
-s.talbot is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ESC, Montreal on Sat, 8 Aug 2026.
+s.talbot is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at ESC, Montreal on Sat, 8 Aug 2026.
 
 s.talbot is a techno and electro artist based in Belgium, tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside esme (US), Lilaiza and Milkē. Next up: ESC, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ s.talbot is a techno and electro artist based in Belgium, tracked on soundcheck,
 
 esme (US), Lilaiza, Milkē
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*

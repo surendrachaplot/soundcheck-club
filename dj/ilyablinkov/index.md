@@ -1,6 +1,6 @@
 # Ilya Blinkov
 
-Ilya Blinkov is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - La Darsena, Lido di Vercurago, Milan on Sat, 8 Aug 2026.
+Ilya Blinkov is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - La Darsena, Lido di Vercurago, Milan on Sat, 8 Aug 2026.
 
 Ilya Blinkov is a house and tech house artist based in Lithuania, tracked on soundcheck, with 17 sets logged across London and Milan. Often billed alongside Bridger Ryland, Deeetro and Luca Cattaneo. Next up: TBA - La Darsena, Lido di Vercurago, Milan on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ilya Blinkov is a house and tech house artist based in Lithuania, tracked on sou
 
 Bridger Ryland, Deeetro, Luca Cattaneo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyablinkov/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyablinkov/)*

@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "THE DAY OF HARDCORE 2026" on Sat, 8 Aug 2026.
+Circus Tokyo is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "THE DAY OF HARDCORE 2026" on Sat, 8 Aug 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including AXÖN, Baby J (2), Coretex and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -21,4 +21,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, 
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

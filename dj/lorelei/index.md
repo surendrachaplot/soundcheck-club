@@ -1,6 +1,6 @@
 # Lorelei
 
-Lorelei is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at smartbar, Chicago on Sun, 9 Aug 2026.
+Lorelei is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at smartbar, Chicago on Sun, 9 Aug 2026.
 
 Lorelei is a techno and acid artist based in United States of America, tracked on soundcheck, with 36 sets logged across Chicago, Detroit, London and Newyorkcity and 1 more. Often billed alongside Justin Aulis Long, Michael Serafini and Eric Schwab. Next up: smartbar, Chicago on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Lorelei is a techno and acid artist based in United States of America, tracked o
 
 Justin Aulis Long, Michael Serafini, Eric Schwab
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelei/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelei/)*

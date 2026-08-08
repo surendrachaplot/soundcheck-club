@@ -1,6 +1,6 @@
 # Galo (2)
 
-Galo (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
+Galo (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OHM, Berlin on Fri, 14 Aug 2026.
 
 Galo (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin and Tbilisi. Often billed alongside DRAMA SOURCE ARTIFACTS, Caim and Carl H. Next up: OHM, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Galo (2) is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 DRAMA SOURCE ARTIFACTS, Caim, Carl H
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galo-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galo-2/)*

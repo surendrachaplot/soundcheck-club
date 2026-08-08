@@ -1,6 +1,6 @@
 # ako
 
-ako is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+ako is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 ako is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Antwerp, Brussels, Tokyo and Vienna and 1 more. Often billed alongside MATRIX3K, Ryan Elliott and Spiritjack. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ako is a techno and trance artist based in United Kingdom, tracked on soundcheck
 
 MATRIX3K, Ryan Elliott, Spiritjack
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ako/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ako/)*

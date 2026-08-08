@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 24 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Routine: X Club" on Sat, 8 Aug 2026.
+Substation is a music venue in Seattle with 24 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Routine: X Club" on Sat, 8 Aug 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 24 upcoming nights, with line-ups including AC Slater, Austin R, Baauer and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 24 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

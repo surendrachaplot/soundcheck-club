@@ -1,6 +1,6 @@
 # Jolani Jhones
 
-Jolani Jhones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Toffler, Rotterdam on Sat, 8 Aug 2026.
+Jolani Jhones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Toffler, Rotterdam on Sat, 8 Aug 2026.
 
 Jolani Jhones is a house and techno artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Gabriel Muñoz, Faster Horses and Alba Franch. Next up: Toffler, Rotterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Jolani Jhones is a house and techno artist based in Netherlands, tracked on soun
 
 Gabriel Muñoz, Faster Horses, Alba Franch
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*

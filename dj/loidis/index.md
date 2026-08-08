@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Loidis is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Loidis is a techno and minimal artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Huerco S. and Skee Mask. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 59 sets logged
 
 DJ Python, Huerco S., Skee Mask
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 33 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "WooMooN" on Fri, 7 Aug 2026.
+Cova Santa is a music venue in Ibiza with 32 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Cova Santa presents Mosimann" on Sat, 8 Aug 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 33 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 32 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | WooMooN | Elisa Elisa, Jan Blomqvist, Oliver Koletzki, SHARE (NL) |
 | Sat, 8 Aug 2026 | Cova Santa presents Mosimann | Miley Serious, Myd, NTO |
 | Sun, 9 Aug 2026 | Pantheøn | Matthias Tanzmann |
 | Tue, 11 Aug 2026 | PIV IBIZA TUESDAYS - August 11 | Emvae, Job de Jong, Kamma, Masalo, Moxes, Yass & Mali |
@@ -18,9 +17,10 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 33 upcoming nights, w
 | Sun, 16 Aug 2026 | Pantheøn | De La Swing, Hector Couto, JNJS, Sem Jacobs, Solardo |
 | Tue, 18 Aug 2026 | PIV IBIZA TUESDAYS - August 18 | Chiara Kidd, Grant Nelson, Kellie Allen, Midas Field, Ms. Mada, Prunk, Retrouve, Romeo Louisa |
 | Wed, 19 Aug 2026 | Rumors |  |
+| Fri, 21 Aug 2026 | WooMooN | Bora Uzer, ETNA, Emanuel Satie, Nandu |
 
 ## Address
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

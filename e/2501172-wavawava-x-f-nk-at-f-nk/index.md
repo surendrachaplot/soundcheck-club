@@ -1,6 +1,6 @@
-# Wavawava x Fünk at Fünk
+# WAVAWAVA x Fünk at Fünk
 
-Wavawava x Fünk on Thu 13 Aug, Mexicocity. 3 acts on the bill: Octoptic, Ranma Entero and Seli (2). Breakbeat and Dub Techno. Preview the line-up and save it on soundcheck.
+WAVAWAVA x Fünk on Thu 13 Aug, Mexicocity. 4 acts on the bill: Nmal, Octoptic, Ranma Entero and Seli (2). Breakbeat and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Wavawava x Fünk on Thu 13 Aug, Mexicocity. 3 acts on the bill: Octoptic, Ranma 
 
 ## Line-up
 
+- Nmal
 - Octoptic
 - Ranma Entero
 - Seli (2)

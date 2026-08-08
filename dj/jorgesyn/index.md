@@ -1,6 +1,6 @@
 # Jorgesyn
 
-Jorgesyn is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
+Jorgesyn is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
 
 Jorgesyn is a tech house and techno artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Dani Corberó, Pau Guilera and ART NO LOGIA. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jorgesyn is a tech house and techno artist based in Spain, tracked on soundcheck
 
 Dani Corberó, Pau Guilera, ART NO LOGIA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesyn/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesyn/)*

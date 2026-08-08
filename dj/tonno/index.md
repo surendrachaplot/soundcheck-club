@@ -1,6 +1,6 @@
 # TONNO
 
-TONNO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at City Hall, Barcelona on Sat, 15 Aug 2026.
+TONNO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at City Hall, Barcelona on Sat, 15 Aug 2026.
 
 TONNO is a techno and house artist based in Italy, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Geneva and Rotterdam and 1 more. Often billed alongside apeiron, CUTIE and JOANNA COELHO. Next up: City Hall, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ TONNO is a techno and house artist based in Italy, tracked on soundcheck, with 4
 
 apeiron, CUTIE, JOANNA COELHO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonno/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonno/)*

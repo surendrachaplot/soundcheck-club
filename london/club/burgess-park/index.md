@@ -1,6 +1,6 @@
 # Burgess Park
 
-Burgess Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Maiden Voyage Festival 2026" on Sat, 8 Aug 2026.
+Burgess Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Maiden Voyage Festival 2026" on Sat, 8 Aug 2026.
 
 Burgess Park is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including ALCATRAZ, Anish Kumar, Arthi and Benji King and 2 more. Browse upcoming dates, start times and who's playing. Burgess Park, Albany Road, London SE5 0RJ.
 
@@ -18,4 +18,4 @@ Burgess Park is a music venue in London listed on soundcheck. 5 upcoming nights,
 
 Burgess Park, Albany Road, London SE5 0RJ, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/burgess-park/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/burgess-park/)*

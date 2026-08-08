@@ -1,6 +1,6 @@
 # The Pink Party: A queer-powered dance event on Seattle's Pier 62 at TBA - Pier 62
 
-The Pink Party: A queer-powered dance event on Seattle's Pier 62 at TBA - Pier 62 on Mon 7 Sept, Seattle. 3 acts on the bill: Qrion, Sharlese and Spencer Brown. Techno and House. Preview the line-up and save it on soundcheck.
+The Pink Party: A queer-powered dance event on Seattle's Pier 62 at TBA - Pier 62 on Mon 7 Sept, Seattle. 4 acts on the bill: cafénico, Qrion, Sharlese and Spencer Brown. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Pink Party: A queer-powered dance event on Seattle's Pier 62 at TBA - Pier 6
 
 ## Line-up
 
+- cafénico
 - Qrion
 - Sharlese
 - Spencer Brown

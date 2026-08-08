@@ -1,6 +1,6 @@
 # Téa
 
-Téa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Byhaven, Copenhagen on Sun, 9 Aug 2026.
+Téa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Byhaven, Copenhagen on Sun, 9 Aug 2026.
 
 Téa is a techno and house artist tracked on soundcheck, with 70 sets logged across Berlin and Copenhagen. Often billed alongside Cirkeline, Kasper Marott and Cockwhore & Macho. Next up: Byhaven, Copenhagen on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Téa is a techno and house artist tracked on soundcheck, with 70 sets logged acr
 
 Cirkeline, Kasper Marott, Cockwhore & Macho
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tea-dk/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tea-dk/)*

@@ -1,6 +1,6 @@
 # Phonique
 
-Phonique is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 21 Aug 2026.
+Phonique is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at D-EDGE, Sao Paulo on Fri, 21 Aug 2026.
 
 Phonique is a house and techno artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside Diogo Accioly, Misha Svirid and Fairplay. Next up: D-EDGE, Saopaulo on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Phonique is a house and techno artist tracked on soundcheck, with 63 sets logged
 
 Diogo Accioly, Misha Svirid, Fairplay
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phonique/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phonique/)*

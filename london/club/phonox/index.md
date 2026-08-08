@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter" on Fri, 7 Aug 2026.
+Phonox is a music venue in London with 29 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Phonox: Derrick Carter (All Night Long)" on Sat, 8 Aug 2026.
 
-Phonox is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | CASISDEAD, Chinese Daughter, Sexy Lady Massive |
 | Sat, 8 Aug 2026 | Phonox: Derrick Carter (All Night Long) | Derrick Carter |
 | Fri, 14 Aug 2026 | Recondite (Live) | Motip White, Recondite |
 | Sat, 15 Aug 2026 | Phonox: DJ Assault + Black Rave Culture | Black Rave Culture, DJ Assault |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 30 upcoming nights, with
 | Sat, 29 Aug 2026 | MOT Day Party: CIRCULATE with Introspekt & Josey Rebelle + Phonox Afterparty | Binh, DJ Nobu, Introspekt, Josey Rebelle |
 | Sat, 29 Aug 2026 | Phonox: DJ Nobu & Binh | Binh, DJ Nobu |
 | Sun, 30 Aug 2026 | SYSTEM CARNIVAL SPECIAL |  |
+| Fri, 4 Sept 2026 | 30 Years of Playaz: DJ Hype, DJ Hazard, Heist, Taxman + more | DJ Hazard, DJ Hype, Funsta, Heist, Serious, Taxman, Tyke |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

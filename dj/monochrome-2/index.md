@@ -1,6 +1,6 @@
 # MonochroME (2)
 
-MonochroME (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Circus Tokyo, Tokyo on Wed, 12 Aug 2026.
+MonochroME (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Circus Tokyo, Tokyo on Wed, 12 Aug 2026.
 
 MonochroME (2) is a techno and tech house artist based in Japan, tracked on soundcheck, with 14 sets logged across Seoul and Tokyo. Often billed alongside JURI HOSHINO, DANDAN and ERIMIYA. Next up: Circus Tokyo, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ MonochroME (2) is a techno and tech house artist based in Japan, tracked on soun
 
 JURI HOSHINO, DANDAN, ERIMIYA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monochrome-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monochrome-2/)*

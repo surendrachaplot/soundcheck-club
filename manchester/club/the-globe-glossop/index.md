@@ -1,6 +1,6 @@
 # The Globe, Glossop
 
-The Globe, Glossop is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Lucid Dreams x High Peak Bass Collective at The Globe" on Sat, 8 Aug 2026.
+The Globe, Glossop is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lucid Dreams x High Peak Bass Collective at The Globe" on Sat, 8 Aug 2026.
 
 The Globe, Glossop is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Chunky, DJ Elsie, MAQUINA. and Zed Bias. Browse upcoming dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
 
@@ -16,4 +16,4 @@ The Globe, Glossop is a music venue in Manchester listed on soundcheck. 3 upcomi
 
 The Globe, 144 High St W, Glossop SK13 8HJ, Manchester
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*

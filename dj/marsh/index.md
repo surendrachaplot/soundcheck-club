@@ -1,6 +1,6 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Marsh is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Marsh is a progressive house and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 37 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Marsh is a progressive house and house artist tracked on soundcheck, with 121 se
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

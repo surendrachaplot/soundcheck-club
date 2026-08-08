@@ -1,14 +1,13 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Turbo Soundsystem presents: ACHAMA & Mirin Doja" on Fri, 7 Aug 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Atmosphérique: JENNGREEN feat. Matryoshka" on Sat, 8 Aug 2026.
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with line-ups including ACHAMA, Big Ace, Black Rave Culture and Ctrl.mp3 and 2 more. Browse upcoming dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 5 upcoming nights, with line-ups including Big Ace, Black Rave Culture, Ctrl.mp3 and DJ SUSH and 2 more. Browse upcoming dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Turbo Soundsystem presents: ACHAMA & Mirin Doja | ACHAMA, Mirin Doja |
 | Sat, 8 Aug 2026 | Atmosphérique: JENNGREEN feat. Matryoshka | JENN GREEN |
 | Sat, 15 Aug 2026 | DJ WIFI - ALL NIGHT | DJ WIFI |
 | Thu, 20 Aug 2026 | NITE SCHOOL: Light Asylum, BOAN, SRSQ djs Mister Sister + resident Candy Whiplash | Light Asylum |
@@ -19,4 +18,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

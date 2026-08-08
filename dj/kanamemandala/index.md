@@ -1,6 +1,6 @@
 # Kanamemandala
 
-Kanamemandala is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at White Space Lab, Tokyo on Sat, 8 Aug 2026.
+Kanamemandala is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at White Space Lab, Tokyo on Sat, 8 Aug 2026.
 
 Kanamemandala is a techno and bass artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside roomquake, Eichi Abe and JUN INAGAWA. Next up: White Space Lab, Tokyo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Kanamemandala is a techno and bass artist based in Japan, tracked on soundcheck,
 
 roomquake, Eichi Abe, JUN INAGAWA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanamemandala/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanamemandala/)*

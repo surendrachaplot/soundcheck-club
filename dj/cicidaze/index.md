@@ -1,14 +1,13 @@
 # Cici Daze
 
-Cici Daze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+Cici Daze is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Cici Daze is a house and techno artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, AAT (NL) and Ammé. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
+Cici Daze is a house and techno artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, AAT (NL) and Ammé. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 29 Aug 2026 | TivoliVredenburg | Utrecht |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
@@ -16,6 +15,7 @@ Cici Daze is a house and techno artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam — Fri, 7 Aug 2026
 - Toffler, Rotterdam — Sat, 1 Aug 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Boomerang Beach, The Hague — Sun, 24 May 2026
@@ -23,10 +23,9 @@ Cici Daze is a house and techno artist based in Netherlands, tracked on soundche
 - Thuishaven, Amsterdam — Sun, 5 Apr 2026
 - Colorado Charlie, The Hague — Sun, 5 Apr 2026
 - Kaap Amsterdam, Amsterdam — Sat, 28 Mar 2026
-- Thuishaven, Amsterdam — Sun, 8 Mar 2026
 
 ## Shares bills with
 
 Benny Rodrigues, AAT (NL), Ammé
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*

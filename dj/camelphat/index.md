@@ -1,14 +1,13 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+CamelPhat is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-CamelPhat is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+CamelPhat is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 204 sets logg
 | Sat, 5 Sept 2026 | La Clairière | Paris |
 | Fri, 11 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Hï Ibiza, Ibiza — Sun, 2 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - Hï Ibiza, Ibiza — Sun, 26 Jul 2026
@@ -30,10 +31,9 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 204 sets logg
 - Hï Ibiza, Ibiza — Sun, 19 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 12 Jul 2026
 - BCM, Mallorca — Sat, 11 Jul 2026
-- Hï Ibiza, Ibiza — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

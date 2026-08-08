@@ -1,6 +1,6 @@
 # WAXX OFF
 
-WAXX OFF is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Loop51, Amsterdam on Sat, 8 Aug 2026.
+WAXX OFF is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Loop51, Amsterdam on Sat, 8 Aug 2026.
 
 WAXX OFF is a garage and bass artist tracked on soundcheck, with 21 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Bangkok and 6 more. Often billed alongside Prizefight, Baron Von Trax and IsGwan. Next up: Loop51, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ WAXX OFF is a garage and bass artist tracked on soundcheck, with 21 sets logged 
 
 Prizefight, Baron Von Trax, IsGwan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*

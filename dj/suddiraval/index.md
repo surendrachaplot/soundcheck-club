@@ -1,6 +1,6 @@
 # Suddi Raval
 
-Suddi Raval is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
+Suddi Raval is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Square Studio Lab, London on Sat, 15 Aug 2026.
 
 Suddi Raval is a house and acid artist tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside NX10, Chad Jackson and Chris Coco. Next up: Square Studio Lab, London on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Suddi Raval is a house and acid artist tracked on soundcheck, with 6 sets logged
 
 NX10, Chad Jackson, Chris Coco
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suddiraval/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suddiraval/)*

@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "à escuta" on Sat, 8 Aug 2026.
+Ikii is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "à escuta" on Sat, 8 Aug 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including azul, Delikwe, Delta Division and inbuilt obsolescence and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

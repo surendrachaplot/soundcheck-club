@@ -1,14 +1,13 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SEROTØNIKA SCHRANZ EDITION - TRIPTYKH" on Fri, 7 Aug 2026.
+NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Arder Residents Night" on Sat, 8 Aug 2026.
 
-NWHR is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including AADJA, D.Blavatsky, Dylan Cherry and Elias Erium and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
+NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including AADJA, Dylan Cherry, Elias Erium and Juan Evangelista and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | SEROTØNIKA SCHRANZ EDITION - TRIPTYKH | D.Blavatsky, K657, Sumatra, TRIPTYKH |
 | Sat, 8 Aug 2026 | Arder Residents Night | Dylan Cherry |
 | Fri, 21 Aug 2026 | UNHRD  Local Heroes |  |
 | Sat, 22 Aug 2026 | Speakeasy |  |
@@ -19,4 +18,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

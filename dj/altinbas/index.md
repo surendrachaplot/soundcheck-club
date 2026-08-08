@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Altinbas is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
 Altinbas is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Altinbas is a techno and house artist tracked on soundcheck, with 165 sets logge
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

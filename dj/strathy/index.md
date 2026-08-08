@@ -1,6 +1,6 @@
 # Strathy
 
-Strathy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Strathy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Strathy is a techno and house artist tracked on soundcheck, with 36 sets logged across Hamburg and Tbilisi. Often billed alongside Aliha, GRØMM and Lifka. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Strathy is a techno and house artist tracked on soundcheck, with 36 sets logged 
 
 Aliha, GRØMM, Lifka
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strathy/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/strathy/)*

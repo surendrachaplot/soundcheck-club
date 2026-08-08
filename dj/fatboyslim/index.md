@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Fatboy Slim is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -33,4 +33,4 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

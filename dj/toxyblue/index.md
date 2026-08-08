@@ -1,6 +1,6 @@
 # TØXYBLUE
 
-TØXYBLUE is a Hardcore and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at C12, Brussels on Sat, 8 Aug 2026.
+TØXYBLUE is a Hardcore and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at C12, Brussels on Sat, 8 Aug 2026.
 
 TØXYBLUE is a hardcore and acid artist based in Italy, tracked on soundcheck, with 11 sets logged across Brussels, Ghent and Milan. Often billed alongside Minopolska, YKAi and DRUM THE SYSTEM live. Next up: C12, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ TØXYBLUE is a hardcore and acid artist based in Italy, tracked on soundcheck, w
 
 Minopolska, YKAi, DRUM THE SYSTEM live
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxyblue/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxyblue/)*

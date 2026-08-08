@@ -1,14 +1,13 @@
 # SELESSA T.
 
-SELESSA T. is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Crack Bellmer, Berlin on Fri, 7 Aug 2026.
+SELESSA T. is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 9 Aug 2026.
 
-SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logged across Berlin and Hamburg. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: Crack Bellmer, Berlin on Fri 7 Aug.
+SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logged across Berlin and Hamburg. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: Lokschuppen Berlin, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Crack Bellmer | Berlin |
 | Sun, 9 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 21 Aug 2026 | Hoppetosse | Berlin |
 | Sat, 22 Aug 2026 | Coco Boule | Berlin |
@@ -18,6 +17,7 @@ SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logg
 
 ## Recently played
 
+- Crack Bellmer, Berlin — Fri, 7 Aug 2026
 - Atelier Rooftop, Berlin — Sat, 1 Aug 2026
 - Renate, Berlin — Sat, 18 Jul 2026
 - Kater, Berlin — Sat, 27 Jun 2026
@@ -25,10 +25,9 @@ SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logg
 - Tresor / Globus, Berlin — Fri, 5 Jun 2026
 - Crack Bellmer, Berlin — Sat, 30 May 2026
 - OXI, Berlin — Fri, 1 May 2026
-- Tresor / Globus, Berlin — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Otal, Elie Bukassa, Viénce
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*

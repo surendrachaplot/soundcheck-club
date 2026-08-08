@@ -1,6 +1,6 @@
 # TBA - Amsterdam Noord
 
-TBA - Amsterdam Noord is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "DARK WATERS Noord" on Sun, 25 Oct 2026.
+TBA - Amsterdam Noord is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "DARK WATERS Noord" on Sun, 25 Oct 2026.
 
 TBA - Amsterdam Noord is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Amsterdam Noord is a music venue in Amsterdam listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | DARK WATERS Noord |  |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-amsterdam-noord/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-amsterdam-noord/)*

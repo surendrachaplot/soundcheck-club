@@ -1,6 +1,6 @@
 # KLEA
 
-KLEA is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
+KLEA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
 
 KLEA is a techno artist based in Albania, tracked on soundcheck, with 34 sets logged across Berlin and Milan. Often billed alongside Quolcat, Tinco and Luli Panasci. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ KLEA is a techno artist based in Albania, tracked on soundcheck, with 34 sets lo
 
 Quolcat, Tinco, Luli Panasci
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*

@@ -1,6 +1,6 @@
 # MUSCLE ∞ BROTHERS
 
-MUSCLE ∞ BROTHERS is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at ZEROTOKYO, Tokyo on Mon, 10 Aug 2026.
+MUSCLE ∞ BROTHERS is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at ZEROTOKYO, Tokyo on Mon, 10 Aug 2026.
 
 MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside EVE (1), EMILIO (3) and AYANA KOSHIBA. Next up: ZEROTOKYO, Tokyo on Mon 10 Aug.
 
@@ -27,4 +27,4 @@ MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, t
 
 EVE (1), EMILIO (3), AYANA KOSHIBA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muscle8brothers/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muscle8brothers/)*

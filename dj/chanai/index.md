@@ -1,6 +1,6 @@
 # chanai
 
-chanai is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 10 Aug 2026.
+chanai is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 10 Aug 2026.
 
 chanai is a techno and tech house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside Pokaska, uuu7 and Anapol. Next up: Enter Shibuya, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ chanai is a techno and tech house artist based in Japan, tracked on soundcheck, 
 
 Pokaska, uuu7, Anapol
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*

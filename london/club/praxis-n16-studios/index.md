@@ -1,6 +1,6 @@
 # Praxis N16 Studios
 
-Praxis N16 Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "The Silica Pulse presents Springg Reverbbb" on Sat, 29 Aug 2026.
+Praxis N16 Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Silica Pulse presents Springg Reverbbb" on Sat, 29 Aug 2026.
 
 Praxis N16 Studios is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Praxis N16 Studios is a music venue in London listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Silica Pulse presents Springg Reverbbb |  |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/praxis-n16-studios/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/praxis-n16-studios/)*

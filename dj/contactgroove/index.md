@@ -1,6 +1,6 @@
 # contact groove
 
-contact groove is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Stage and Radio, Manchester on Sat, 15 Aug 2026.
+contact groove is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Stage and Radio, Manchester on Sat, 15 Aug 2026.
 
 contact groove is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Ego-Free Sequences, Deselecta and Esmé. Next up: Stage and Radio, Manchester on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ contact groove is a drum & bass and jungle artist based in United Kingdom, track
 
 Ego-Free Sequences, Deselecta, Esmé
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/contactgroove/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/contactgroove/)*

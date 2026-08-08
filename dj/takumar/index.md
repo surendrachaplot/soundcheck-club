@@ -1,6 +1,6 @@
 # takumar
 
-takumar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at VENT, Tokyo on Fri, 14 Aug 2026.
+takumar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at VENT, Tokyo on Fri, 14 Aug 2026.
 
 takumar is a house and techno artist based in Japan, tracked on soundcheck, with 39 sets logged across Tokyo. Often billed alongside Onométro, Terax and 3rill. Next up: VENT, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ takumar is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Onométro, Terax, 3rill
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takumar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takumar/)*

@@ -1,6 +1,6 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jupiter Disco, New York City on Sat, 22 Aug 2026.
+Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jupiter Disco, New York City on Sat, 22 Aug 2026.
 
 Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 101 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Jupiter Disco, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mickey Perez is a house and disco artist based in United States of America, trac
 
 Toribio, Deon Jamar, Guthrie
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*

@@ -1,6 +1,6 @@
 # Blawan
 
-Blawan is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Blawan is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 Blawan is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Blawan is a techno and house artist tracked on soundcheck, with 152 sets logged 
 
 Helena Hauff, JakoJako, Pariah
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

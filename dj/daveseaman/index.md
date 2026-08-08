@@ -1,6 +1,6 @@
 # Dave Seaman
 
-Dave Seaman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 15 Aug 2026.
+Dave Seaman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Dave Seaman is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Auckland and Bali and 28 more. Often billed alongside Anthony Pappa, Steve Parry and Quivver. Next up: 528 Ibiza, Ibiza on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dave Seaman is a progressive house and house artist based in United Kingdom, tra
 
 Anthony Pappa, Steve Parry, Quivver
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveseaman/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveseaman/)*

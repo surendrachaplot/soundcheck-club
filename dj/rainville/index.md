@@ -1,6 +1,6 @@
 # RAINVILLE
 
-RAINVILLE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Madam, Amsterdam on Sat, 8 Aug 2026.
+RAINVILLE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Madam, Amsterdam on Sat, 8 Aug 2026.
 
 RAINVILLE is a tech house and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona and Rotterdam. Often billed alongside Karim Soliman, hitty and Benny Rodrigues. Next up: Madam, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RAINVILLE is a tech house and house artist based in Netherlands, tracked on soun
 
 Karim Soliman, hitty, Benny Rodrigues
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainville/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainville/)*

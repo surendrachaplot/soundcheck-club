@@ -1,6 +1,6 @@
 # Ameera
 
-Ameera is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TV Lounge, Detroit on Fri, 14 Aug 2026.
+Ameera is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TV Lounge, Detroit on Fri, 14 Aug 2026.
 
 Ameera is a house and funk / soul artist tracked on soundcheck, with 56 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Billy Winters, Kindle and Meftah. Next up: TV Lounge, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ameera is a house and funk / soul artist tracked on soundcheck, with 56 sets log
 
 Billy Winters, Kindle, Meftah
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*

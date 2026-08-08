@@ -1,6 +1,6 @@
 # Floyd
 
-Floyd is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "ODD X Interplanetary" on Fri, 7 Aug 2026.
+Floyd is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "808 Life: Egyptian Lover" on Sat, 8 Aug 2026.
 
 Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with line-ups including 1-800-Lolita, Alci, Ale Acosta and Ammo Avenue and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
@@ -8,7 +8,6 @@ Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | ODD X Interplanetary | Amor Satyr, Joe Delon, Sister System, Siu Mata (2) |
 | Sat, 8 Aug 2026 | 808 Life: Egyptian Lover | DB Cooper, Egyptian Lover, Roll-e, Sel.6 |
 | Sun, 9 Aug 2026 | Forest Fires Radio: Doctor Jeep | Ale Acosta, Coffintexts, Doctor Jeep, HAZÓN, KUJO (US), Trippie Hippie (US), Violeta |
 | Fri, 14 Aug 2026 | Ammo Avenue | Ammo Avenue, Chris Clarke, Natalia Roth |
@@ -18,9 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with l
 | Sat, 22 Aug 2026 | Escape Room presents: ZAINAB | 1-800-Lolita, Crisca, RUDE BOY (US), XANA (US) |
 | Sun, 23 Aug 2026 | Groovers Only: Classmatic + Alves | Classmatic |
 | Fri, 28 Aug 2026 | Sinopoli All Night Long | Sinopoli |
+| Sat, 29 Aug 2026 | nocapz + Jay Crusoe | Nicole Gallamini, nocapz. |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

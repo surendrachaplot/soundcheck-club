@@ -1,14 +1,13 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SAN CAYETANO: María Caponne, Adrian Mart, Gijonne" on Fri, 7 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 20 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SAN CAYETANO: David Ponziano, David Kano, Sandro Bianchi" on Sat, 8 Aug 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including Adrian Mart, Alvaro Cabana, Arok Shiva and Bembi and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 20 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Bembi and David Berna and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | SAN CAYETANO: María Caponne, Adrian Mart, Gijonne | Adrian Mart, Gijonne |
 | Sat, 8 Aug 2026 | SAN CAYETANO: David Ponziano, David Kano, Sandro Bianchi | David Ponziano, Fer Xplosion |
 | Sun, 9 Aug 2026 | RIOT CLUB: Lau.tastic, Arok Shiva, Dambo | Arok Shiva, Lau.tastic |
 | Thu, 13 Aug 2026 | FIESTAS DE LA PALOMA: BOSSA: Julio Machicado, Héctor Pericet | Héctor Pericet, Julio Machicado |
@@ -18,9 +17,10 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, 
 | Thu, 20 Aug 2026 | DANZE AFRIKA: DJ Mois, Dj Matería Prima | DJ Mois |
 | Fri, 21 Aug 2026 | TORMENTA: Ina Housez B2B Giulia Mad, DJ Chris B2B Bembi, Guido Mik , Vico Deep, Yhago | Bembi, Giulia Mad, Guidomik, Vico Deep, Yhago |
 | Sat, 22 Aug 2026 | HOUSENATION X ROTTEN CITY BASEMENT: Javi Redondo, Álvaro Cabana | Alvaro Cabana, Javi Redondo |
+| Sun, 23 Aug 2026 | RIOT CLUB: Arzadous, Arok Shiva, Capitán Pum Pum | Arok Shiva |
 
 ## Address
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

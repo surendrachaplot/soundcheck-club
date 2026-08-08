@@ -1,6 +1,6 @@
 # Ellie Jennings
 
-Ellie Jennings is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Meraki, Liverpool on Fri, 25 Sept 2026.
+Ellie Jennings is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Meraki, Liverpool on Fri, 25 Sept 2026.
 
 Ellie Jennings is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Liverpool. Often billed alongside AC Groove, Aly P and Kathryn. Next up: Meraki, Liverpool on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ellie Jennings is a house and tech house artist based in United Kingdom, tracked
 
 AC Groove, Aly P, Kathryn
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliejennings/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliejennings/)*

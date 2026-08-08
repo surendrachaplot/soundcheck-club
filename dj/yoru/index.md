@@ -1,6 +1,6 @@
 # Yoru
 
-Yoru is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+Yoru is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 Yoru is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, with 31 sets logged across Belfast, Berlin and Seoul. Often billed alongside Upzet, Anton Quasi and Migz. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Yoru is a drum & bass and jungle artist based in Ireland, tracked on soundcheck,
 
 Upzet, Anton Quasi, Migz
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoru/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoru/)*

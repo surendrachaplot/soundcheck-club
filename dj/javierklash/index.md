@@ -1,6 +1,6 @@
 # Javier Klash
 
-Javier Klash is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at EL SÓTANO, Madrid on Fri, 11 Sept 2026.
+Javier Klash is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at EL SÓTANO, Madrid on Fri, 11 Sept 2026.
 
 Javier Klash is a techno and electro artist based in Spain, tracked on soundcheck, with 45 sets logged across Madrid. Often billed alongside Vandiaz, Dyans and Belkan. Next up: EL SÓTANO, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Javier Klash is a techno and electro artist based in Spain, tracked on soundchec
 
 Vandiaz, Dyans, Belkan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javierklash/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javierklash/)*

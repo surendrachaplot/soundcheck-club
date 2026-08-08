@@ -1,6 +1,6 @@
 # Maël Marc
 
-Maël Marc is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Maël Marc is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Maël Marc is a house and afro house artist based in Italy, tracked on soundcheck, with 7 sets logged across Barcelona and Milan. Often billed alongside Dadame, Marc Gimeno and Mat Spiaggi. Next up: Almar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Maël Marc is a house and afro house artist based in Italy, tracked on soundchec
 
 Dadame, Marc Gimeno, Mat Spiaggi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maelmarc/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maelmarc/)*

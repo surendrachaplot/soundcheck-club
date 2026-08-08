@@ -1,6 +1,6 @@
 # SHADU
 
-SHADU is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Nimbus House, Rome on Sat, 8 Aug 2026.
+SHADU is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Nimbus House, Rome on Sat, 8 Aug 2026.
 
 SHADU is an afro house and tech house artist tracked on soundcheck, with 6 sets logged across Bucharest, Dubai, Rome and Tbilisi. Next up: TBA - Nimbus House, Rome on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ SHADU is an afro house and tech house artist tracked on soundcheck, with 6 sets 
 - TBA - Space Event Hall, Tbilisi — Sat, 25 Apr 2026
 - TBA - Studio Night Club, Bucharest — Wed, 23 Oct 2024
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadu/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadu/)*

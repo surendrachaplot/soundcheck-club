@@ -1,6 +1,6 @@
 # TAIKI
 
-TAIKI is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
+TAIKI is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at clubasia, Tokyo on Sat, 8 Aug 2026.
 
 TAIKI is a house and hip-hop artist based in Japan, tracked on soundcheck, with 86 sets logged across Kyoto, Newyorkcity, Osaka and Tokyo. Often billed alongside Ren Yokoi, Omar Santis and Jamon Iberico. Next up: clubasia, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ TAIKI is a house and hip-hop artist based in Japan, tracked on soundcheck, with 
 
 Ren Yokoi, Omar Santis, Jamon Iberico
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiki/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiki/)*

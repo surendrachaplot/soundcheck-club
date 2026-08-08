@@ -1,6 +1,6 @@
 # Amine K
 
-Amine K is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 9 Aug 2026.
+Amine K is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Amine K is a house and deep house artist based in Morocco, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Mr ID, OTTMANN and Acid Eastern. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Amine K is a house and deep house artist based in Morocco, tracked on soundcheck
 
 Mr ID, OTTMANN, Acid Eastern
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*

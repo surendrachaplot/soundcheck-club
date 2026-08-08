@@ -1,6 +1,6 @@
 # Lovelace
 
-Lovelace is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
+Lovelace is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ormside Projects, London on Fri, 14 Aug 2026.
 
 Lovelace is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brussels, London, Losangeles and Newyorkcity. Often billed alongside A For Alpha, Aquamarine and DJ Nope. Next up: Ormside Projects, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lovelace is a drum & bass and techno artist based in United Kingdom, tracked on 
 
 A For Alpha, Aquamarine, DJ Nope
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelace/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelace/)*

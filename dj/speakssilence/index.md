@@ -1,6 +1,6 @@
 # Speaks Silence
 
-Speaks Silence is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
+Speaks Silence is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
 
 Speaks Silence is an electronic artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona, London and Madrid. Often billed alongside Blaark, Irazu and MÄEM. Next up: Razzmatazz, Barcelona on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Speaks Silence is an electronic artist based in Spain, tracked on soundcheck, wi
 
 Blaark, Irazu, MÄEM
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speakssilence/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speakssilence/)*

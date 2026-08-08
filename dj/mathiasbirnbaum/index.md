@@ -1,6 +1,6 @@
 # Mathias Birnbaum
 
-Mathias Birnbaum is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 14 Aug 2026.
+Mathias Birnbaum is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 14 Aug 2026.
 
 Mathias Birnbaum is a techno and tech house artist tracked on soundcheck, with 36 sets logged across Berlin. Often billed alongside Honschu Lee, Maschine and Oliver Raumklang. Next up: Der Weiße Hase, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Mathias Birnbaum is a techno and tech house artist tracked on soundcheck, with 3
 
 Honschu Lee, Maschine, Oliver Raumklang
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiasbirnbaum/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiasbirnbaum/)*

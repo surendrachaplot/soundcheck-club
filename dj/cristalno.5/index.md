@@ -1,6 +1,6 @@
 # Cristal No.5
 
-Cristal No.5 is a Bass and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
+Cristal No.5 is a Bass and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
 
 Cristal No.5 is a bass and club artist based in Australia, tracked on soundcheck, with 33 sets logged across Bangkok, Melbourne and Sydney. Often billed alongside Haus of Ralph, Mon Franco and Baschoe. Next up: Miscellania, Melbourne on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Cristal No.5 is a bass and club artist based in Australia, tracked on soundcheck
 
 Haus of Ralph, Mon Franco, Baschoe
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalno.5/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalno.5/)*

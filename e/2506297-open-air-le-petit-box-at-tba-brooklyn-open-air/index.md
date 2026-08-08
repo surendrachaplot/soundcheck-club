@@ -1,6 +1,6 @@
 # OPEN AIR // Le Petit Box at TBA - Brooklyn Open Air
 
-OPEN AIR // Le Petit Box at TBA - Brooklyn Open Air on Sat 22 Aug, Newyorkcity. 3 acts on the bill: Elle Dee, S A M I and sixsix. Techno. Preview the line-up and save it on soundcheck.
+OPEN AIR // Le Petit Box at TBA - Brooklyn Open Air on Sat 22 Aug, Newyorkcity. 5 acts on the bill: bîllî, Elle Dee, PAC (2) and S A M I and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ OPEN AIR // Le Petit Box at TBA - Brooklyn Open Air on Sat 22 Aug, Newyorkcity. 
 
 ## Line-up
 
+- bîllî
 - Elle Dee
+- PAC (2)
 - S A M I
 - sixsix
 

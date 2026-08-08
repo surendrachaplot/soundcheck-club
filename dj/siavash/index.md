@@ -1,6 +1,6 @@
 # Siavash
 
-Siavash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Thuishaven, Amsterdam on Sat, 8 Aug 2026.
+Siavash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Thuishaven, Amsterdam on Sat, 8 Aug 2026.
 
 Siavash is a house and techno artist based in Canada, tracked on soundcheck, with 36 sets logged across Amsterdam, Montreal, Toronto and Vancouver. Often billed alongside Tiago de Renor, Made By Pete and Perspectiv. Next up: Thuishaven, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Siavash is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Tiago de Renor, Made By Pete, Perspectiv
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siavash/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siavash/)*

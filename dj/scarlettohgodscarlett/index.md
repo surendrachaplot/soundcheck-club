@@ -1,6 +1,6 @@
 # Scarlett (ohgodscarlett)
 
-Scarlett (ohgodscarlett) is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jardin21, Paris on Fri, 14 Aug 2026.
+Scarlett (ohgodscarlett) is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jardin21, Paris on Fri, 14 Aug 2026.
 
 Scarlett (ohgodscarlett) is a club and dembow artist based in France, tracked on soundcheck, with 15 sets logged across Lyon and Paris. Often billed alongside BJF, Jeune Gaou and Philou CxC. Next up: Jardin21, Paris on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Scarlett (ohgodscarlett) is a club and dembow artist based in France, tracked on
 
 BJF, Jeune Gaou, Philou CxC
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettohgodscarlett/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettohgodscarlett/)*

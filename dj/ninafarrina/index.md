@@ -1,6 +1,6 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+Nina Farrina is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
 Nina Farrina is a techno and club artist tracked on soundcheck, with 133 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Nina Farrina is a techno and club artist tracked on soundcheck, with 133 sets lo
 
 3ever, SJ Yellow, tmk (CZ)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*

@@ -1,18 +1,18 @@
 # rubi*
 
-rubi* is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
+rubi* is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
-rubi* is a house and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Cleymoore, Atree and ALINA (3). Next up: Club der Visionaere, Berlin on Fri 7 Aug.
+rubi* is a house and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Cleymoore, Atree and ALINA (3). Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Club der Visionaere | Berlin |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 
 ## Recently played
 
+- Club der Visionaere, Berlin — Fri, 7 Aug 2026
 - MaHalla, Berlin — Sun, 2 Aug 2026
 - Club der Visionaere, Berlin — Fri, 5 Jun 2026
 - Club der Visionaere, Berlin — Tue, 2 Jun 2026
@@ -20,10 +20,9 @@ rubi* is a house and techno artist based in Spain, tracked on soundcheck, with 5
 - Hoppetosse, Berlin — Sat, 21 Mar 2026
 - ., Berlin — Wed, 21 Jan 2026
 - Ikii, Berlin — Wed, 31 Dec 2025
-- TBA - Secret Location, Berlin — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Cleymoore, Atree, ALINA (3)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi-de/)*

@@ -1,6 +1,6 @@
 # Rem Siman
 
-Rem Siman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hotel Nacional, Melbourne on Sat, 8 Aug 2026.
+Rem Siman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hotel Nacional, Melbourne on Sat, 8 Aug 2026.
 
 Rem Siman is a house and techno artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne, Osaka and Tokyo. Often billed alongside Jordan Corey, Boogs and Cara Murphy. Next up: Hotel Nacional, Melbourne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Rem Siman is a house and techno artist based in Australia, tracked on soundcheck
 
 Jordan Corey, Boogs, Cara Murphy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remsiman/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remsiman/)*

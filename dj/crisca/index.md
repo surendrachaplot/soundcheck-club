@@ -1,6 +1,6 @@
 # Crisca
 
-Crisca is a Acid and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 22 Aug 2026.
+Crisca is a Acid and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Floyd, Miami on Sat, 22 Aug 2026.
 
 Crisca is an acid and reggaeton artist based in United States of America, tracked on soundcheck, with 3 sets logged across Madrid and Miami. Often billed alongside 1-800-Lolita, RUDE BOY (US) and XANA (US). Next up: Floyd, Miami on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Crisca is an acid and reggaeton artist based in United States of America, tracke
 
 1-800-Lolita, RUDE BOY (US), XANA (US)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crisca/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crisca/)*

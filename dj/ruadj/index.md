@@ -1,6 +1,6 @@
 # RUA DJ
 
-RUA DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
+RUA DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
 
 RUA DJ is a techno and house artist tracked on soundcheck, with 12 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside FITS ME FUNNY, EMROSE and Grá (IRE). Next up: Half-Cut Coffee, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RUA DJ is a techno and house artist tracked on soundcheck, with 12 sets logged a
 
 FITS ME FUNNY, EMROSE, Grá (IRE)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruadj/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruadj/)*

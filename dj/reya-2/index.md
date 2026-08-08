@@ -1,6 +1,6 @@
 # reya (2)
 
-reya (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at West Harlem, Kyoto on Sat, 5 Sept 2026.
+reya (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at West Harlem, Kyoto on Sat, 5 Sept 2026.
 
 reya (2) is a techno and house artist based in Japan, tracked on soundcheck, with 4 sets logged across Kyoto. Often billed alongside kotakunisaki, D.J.Fulltono and Matthias Abe. Next up: West Harlem, Kyoto on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ reya (2) is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 kotakunisaki, D.J.Fulltono, Matthias Abe
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reya-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reya-2/)*

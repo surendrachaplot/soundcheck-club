@@ -1,6 +1,6 @@
 # RAW Gelände
 
-RAW Gelände is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Zug der Liebe 2goes RAW" on Sat, 29 Aug 2026.
+RAW Gelände is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Zug der Liebe 2goes RAW" on Sat, 29 Aug 2026.
 
 RAW Gelände is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Basstronauten. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ RAW Gelände is a music venue in Berlin listed on soundcheck. 1 upcoming night, 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Zug der Liebe 2goes RAW | Basstronauten |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/raw-gel-nde/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/raw-gel-nde/)*

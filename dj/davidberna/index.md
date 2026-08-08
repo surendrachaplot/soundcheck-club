@@ -1,6 +1,6 @@
 # David Berna
 
-David Berna is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at EL SÓTANO, Madrid on Fri, 14 Aug 2026.
+David Berna is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at EL SÓTANO, Madrid on Fri, 14 Aug 2026.
 
 David Berna is a house and tech house artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside fajardo, jose fajardo and Ismael Rivas. Next up: EL SÓTANO, Madrid on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ David Berna is a house and tech house artist based in Spain, tracked on soundche
 
 fajardo, jose fajardo, Ismael Rivas
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberna/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberna/)*

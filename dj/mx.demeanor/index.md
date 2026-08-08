@@ -1,6 +1,6 @@
 # Mx. Demeanor
 
-Mx. Demeanor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 28 Aug 2026.
+Mx. Demeanor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 28 Aug 2026.
 
 Mx. Demeanor is a house and disco artist based in United States of America, tracked on soundcheck, with 4 sets logged across Boston and Newyorkcity. Often billed alongside DEMEANOR, Bartek and DJ Brian Halligan. Next up: Institute of Contemporary Art, Boston on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Mx. Demeanor is a house and disco artist based in United States of America, trac
 
 DEMEANOR, Bartek, DJ Brian Halligan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mx.demeanor/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mx.demeanor/)*

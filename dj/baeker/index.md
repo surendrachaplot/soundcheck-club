@@ -1,6 +1,6 @@
 # baeker
 
-baeker is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kassa Boat, Budapest on Thu, 13 Aug 2026.
+baeker is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Kassa Boat, Budapest on Thu, 13 Aug 2026.
 
 baeker is a house and garage artist tracked on soundcheck, with 79 sets logged across Budapest. Often billed alongside quera, Kiqo and Gemcamp. Next up: Kassa Boat, Budapest on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ baeker is a house and garage artist tracked on soundcheck, with 79 sets logged a
 
 quera, Kiqo, Gemcamp
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baeker/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baeker/)*

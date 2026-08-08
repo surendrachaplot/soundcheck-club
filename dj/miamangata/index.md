@@ -1,6 +1,6 @@
 # Mia Mangata
 
-Mia Mangata is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Mia Mangata is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Mia Mangata is a techno and deep house artist tracked on soundcheck, with 23 sets logged across Berlin, Hamburg and Munich. Often billed alongside Paula Hilton, Better Call Paul and Einfach Taffo. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mia Mangata is a techno and deep house artist tracked on soundcheck, with 23 set
 
 Paula Hilton, Better Call Paul, Einfach Taffo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamangata/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamangata/)*

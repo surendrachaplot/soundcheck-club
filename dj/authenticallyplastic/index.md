@@ -1,6 +1,6 @@
 # Authentically Plastic
 
-Authentically Plastic is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
+Authentically Plastic is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Algha's Plantroom, London on Sun, 9 Aug 2026.
 
 Authentically Plastic is a techno and club artist based in Uganda, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Berlin and Brussels and 18 more. Often billed alongside Nsasi, Soft Break and Turkana. Next up: Algha's Plantroom, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Authentically Plastic is a techno and club artist based in Uganda, tracked on so
 
 Nsasi, Soft Break, Turkana
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*

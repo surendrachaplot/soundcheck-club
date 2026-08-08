@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ritter Butzke, Berlin on Sat, 8 Aug 2026.
+Eli & Fur is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ritter Butzke, Berlin on Sat, 8 Aug 2026.
 
 Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Austin and Barcelona and 31 more. Often billed alongside CRi, Marsh and Jody Wisternoff. Next up: Ritter Butzke, Berlin on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundch
 
 CRi, Marsh, Jody Wisternoff
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

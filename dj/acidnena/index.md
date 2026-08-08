@@ -1,6 +1,6 @@
 # Acidnena
 
-Acidnena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nitsa Club, Barcelona on Sat, 8 Aug 2026.
+Acidnena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Nitsa Club, Barcelona on Sat, 8 Aug 2026.
 
 Acidnena is a techno and house artist based in Argentina, tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 5 more. Often billed alongside Verushka, M8NSE and Drazzit. Next up: Nitsa Club, Barcelona on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Acidnena is a techno and house artist based in Argentina, tracked on soundcheck,
 
 Verushka, M8NSE, Drazzit
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*

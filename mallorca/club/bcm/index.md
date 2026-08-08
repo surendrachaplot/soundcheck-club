@@ -1,14 +1,13 @@
 # BCM
 
-BCM is a music venue in Mallorca with 27 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "The Glow White Party" on Fri, 7 Aug 2026.
+BCM is a music venue in Mallorca with 26 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Antdot" on Sat, 8 Aug 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 27 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Duke Dumont and East End Dubs and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 26 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Duke Dumont and East End Dubs and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | The Glow White Party |  |
 | Sat, 8 Aug 2026 | Antdot | Antdot |
 | Sun, 9 Aug 2026 | Grossomoddo |  |
 | Mon, 10 Aug 2026 | Gims |  |
@@ -18,9 +17,10 @@ BCM is a music venue in Mallorca listed on soundcheck. 27 upcoming nights, with 
 | Fri, 14 Aug 2026 | The Glow White Party |  |
 | Sat, 15 Aug 2026 | Wade | Wade |
 | Sun, 16 Aug 2026 | Grossomoddo |  |
+| Mon, 17 Aug 2026 | Mambolosco |  |
 
 ## Address
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

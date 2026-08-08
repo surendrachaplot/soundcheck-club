@@ -1,6 +1,6 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "STAHLBOX37 OFF PARADE 2026" on Sat, 8 Aug 2026.
+Kraftwerk is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "STAHLBOX37 OFF PARADE 2026" on Sat, 8 Aug 2026.
 
 Kraftwerk is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including AEREA, BRAINDAAMAGE, CLTX and Cortez (2) and 2 more. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
@@ -18,4 +18,4 @@ Kraftwerk is a music venue in Zurich listed on soundcheck. 5 upcoming nights, wi
 
 Selnaustrasse 25, 8001 Zürich, Switzerland, Zurich
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*

@@ -1,6 +1,6 @@
 # Jesse Boyd
 
-Jesse Boyd is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 23 Aug 2026.
+Jesse Boyd is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 23 Aug 2026.
 
 Jesse Boyd is a house and techno artist tracked on soundcheck, with 45 sets logged across Melbourne and Sydney. Often billed alongside FRISCO (AUS), KELLY TEE and Cara Murphy. Next up: Revolver Upstairs, Melbourne on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Jesse Boyd is a house and techno artist tracked on soundcheck, with 45 sets logg
 
 FRISCO (AUS), KELLY TEE, Cara Murphy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseboyd/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseboyd/)*

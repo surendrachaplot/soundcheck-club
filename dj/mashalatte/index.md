@@ -1,6 +1,6 @@
 # masha latte
 
-masha latte is a Techno and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+masha latte is a Techno and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 masha latte is a techno and baile funk artist based in Ukraine, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside R-DNA, SEDENTARY and 1ol1v1a. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ masha latte is a techno and baile funk artist based in Ukraine, tracked on sound
 
 R-DNA, SEDENTARY, 1ol1v1a
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashalatte/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashalatte/)*

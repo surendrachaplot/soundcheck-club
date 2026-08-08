@@ -1,6 +1,6 @@
 # OLEA
 
-OLEA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+OLEA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 8 more. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Markus Klee, Prismode, Solvane
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*

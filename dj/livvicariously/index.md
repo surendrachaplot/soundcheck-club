@@ -1,6 +1,6 @@
 # Liv Vicariously
 
-Liv Vicariously is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
+Liv Vicariously is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
 
 Liv Vicariously is a house and techno artist tracked on soundcheck, with 8 sets logged across Leeds and Melbourne. Often billed alongside Amphi, Acid Safari and Activator. Next up: Angel Music Bar, Melbourne on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Liv Vicariously is a house and techno artist tracked on soundcheck, with 8 sets 
 
 Amphi, Acid Safari, Activator
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livvicariously/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livvicariously/)*

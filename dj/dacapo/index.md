@@ -1,6 +1,6 @@
 # Da Capo
 
-Da Capo is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Savaya Bali, Bali on Sun, 9 Aug 2026.
+Da Capo is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Savaya Bali, Bali on Sun, 9 Aug 2026.
 
 Da Capo is an afro house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Bali and Barcelona and 13 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: Savaya Bali, Bali on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Da Capo is an afro house and house artist tracked on soundcheck, with 51 sets lo
 
 Enoo Napa, Caiiro, Van Zand
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*

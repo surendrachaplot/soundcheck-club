@@ -1,6 +1,6 @@
 # samarsi
 
-samarsi is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
+samarsi is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hive Club, Zurich on Sat, 8 Aug 2026.
 
 samarsi is a house artist based in Switzerland, tracked on soundcheck, with 14 sets logged across Basel and Zurich. Often billed alongside Animal Trainer, Juli Lee and Manuel Moreno. Next up: Hive Club, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ samarsi is a house artist based in Switzerland, tracked on soundcheck, with 14 s
 
 Animal Trainer, Juli Lee, Manuel Moreno
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samarsi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samarsi/)*

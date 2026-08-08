@@ -1,6 +1,6 @@
 # Kandylion
 
-Kandylion is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 22 Aug 2026.
+Kandylion is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 22 Aug 2026.
 
 Kandylion is a house and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Detroit, London, Newyorkcity and Philadelphia. Often billed alongside SPRFRK, HONEY B and DJ Shannon. Next up: Dead Letter No. 9, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kandylion is a house and techno artist based in United States of America, tracke
 
 SPRFRK, HONEY B, DJ Shannon
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kandylion/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kandylion/)*

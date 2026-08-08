@@ -1,6 +1,6 @@
 # Qwenty
 
-Qwenty is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
+Qwenty is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
 
 Qwenty is a house and techno artist based in Italy, tracked on soundcheck, with 10 sets logged across Copenhagen and Paris. Often billed alongside DJ B2B, Aja Gulris and Anders HP. Next up: Culture Box, Copenhagen on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Qwenty is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 DJ B2B, Aja Gulris, Anders HP
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*

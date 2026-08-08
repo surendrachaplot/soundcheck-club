@@ -1,6 +1,6 @@
 # Qerty
 
-Qerty is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
+Qerty is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
 
 Qerty is a drum & bass and house artist based in Estonia, tracked on soundcheck, with 15 sets logged across Riga and Tallinn. Often billed alongside ENTER (EE), KETA (LV) and Sansave. Next up: H2o6, Riga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Qerty is a drum & bass and house artist based in Estonia, tracked on soundcheck,
 
 ENTER (EE), KETA (LV), Sansave
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qerty/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qerty/)*

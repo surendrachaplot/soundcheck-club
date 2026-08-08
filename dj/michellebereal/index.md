@@ -1,6 +1,6 @@
 # Michelle Be Real
 
-Michelle Be Real is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
+Michelle Be Real is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, San Diego on Sat, 8 Aug 2026.
 
 Michelle Be Real is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles and Sandiego. Often billed alongside DJ IDeaL, Terry Jasinto and AB3D. Next up: TBA, Sandiego on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Michelle Be Real is a house and tech house artist based in United States of Amer
 
 DJ IDeaL, Terry Jasinto, AB3D
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michellebereal/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michellebereal/)*

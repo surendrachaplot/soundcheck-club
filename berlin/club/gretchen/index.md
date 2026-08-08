@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Recycle: 15 Years FLEXOUT AUDIO" on Sat, 8 Aug 2026.
+Gretchen is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Recycle: 15 Years FLEXOUT AUDIO" on Sat, 8 Aug 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 33 upcoming nights, with line-ups including Acid Arab, Alley Cat, Allynx and Bel Cobain and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 33 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

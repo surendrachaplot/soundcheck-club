@@ -1,6 +1,6 @@
 # katja.
 
-katja. is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crack Bellmer, Berlin on Sun, 16 Aug 2026.
+katja. is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Crack Bellmer, Berlin on Sun, 16 Aug 2026.
 
 katja. is a house and club artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside 4BLISS#, Calcium Channel and Frozilla. Next up: Crack Bellmer, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ katja. is a house and club artist based in Germany, tracked on soundcheck, with 
 
 4BLISS#, Calcium Channel, Frozilla
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katja./)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katja./)*

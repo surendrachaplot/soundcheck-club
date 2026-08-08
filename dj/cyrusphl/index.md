@@ -1,6 +1,6 @@
 # Cyrus (PHL)
 
-Cyrus (PHL) is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 13 Aug 2026.
+Cyrus (PHL) is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 13 Aug 2026.
 
 Cyrus (PHL) is an experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Philadelphia. Often billed alongside Cubby, Shi Shi and cubby.com. Next up: The Sound Lounge at Percy, Philadelphia on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Cyrus (PHL) is an experimental artist based in United States of America, tracked
 
 Cubby, Shi Shi, cubby.com
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusphl/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusphl/)*

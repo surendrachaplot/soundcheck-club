@@ -1,6 +1,6 @@
 # Jr Spesh
 
-Jr Spesh is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pallas Projects Studios, Dublin on Sat, 8 Aug 2026.
+Jr Spesh is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Pallas Projects Studios, Dublin on Sat, 8 Aug 2026.
 
 Jr Spesh is a bass and club artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside DJ Egg. Next up: Pallas Projects Studios, Dublin on Sat 8 Aug.
 
@@ -15,4 +15,4 @@ Jr Spesh is a bass and club artist based in Ireland, tracked on soundcheck, with
 
 DJ Egg
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jrspesh/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jrspesh/)*

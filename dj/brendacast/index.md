@@ -1,6 +1,6 @@
 # Brenda Cast
 
-Brenda Cast is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 8 Aug 2026.
+Brenda Cast is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at BUS Hexperience, Barcelona on Sat, 8 Aug 2026.
 
 Brenda Cast is a house and progressive house artist tracked on soundcheck, with 22 sets logged across Barcelona and Berlin. Often billed alongside MøønkiZa, Cetratelli and ATMEN. Next up: BUS Hexperience, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Brenda Cast is a house and progressive house artist tracked on soundcheck, with 
 
 MøønkiZa, Cetratelli, ATMEN
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brendacast/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brendacast/)*

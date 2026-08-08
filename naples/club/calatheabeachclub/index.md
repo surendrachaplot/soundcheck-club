@@ -1,6 +1,6 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "ONDA x NEUHM • Tony Humphries + Gigi Testa, Drunkdrivers, Balbucea" on Sat, 8 Aug 2026.
+Calatheabeachclub is a music venue in Naples with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ONDA x NEUHM • Tony Humphries + Gigi Testa, Drunkdrivers, Balbucea" on Sat, 8 Aug 2026.
 
 Calatheabeachclub is a music venue in Naples listed on soundcheck. 5 upcoming nights, with line-ups including assu, Bulma Brief, Dirty Channels and Drunkdrivers and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
@@ -18,4 +18,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 5 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

@@ -1,6 +1,6 @@
 # Lorri Rose
 
-Lorri Rose is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Vaag, Antwerp on Fri, 11 Sept 2026.
+Lorri Rose is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club Vaag, Antwerp on Fri, 11 Sept 2026.
 
 Lorri Rose is a techno and trance artist based in Belgium, tracked on soundcheck, with 7 sets logged across Antwerp and Brussels. Often billed alongside ATARAXY, Ce$ar and Chipo Chipo. Next up: Club Vaag, Antwerp on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Lorri Rose is a techno and trance artist based in Belgium, tracked on soundcheck
 
 ATARAXY, Ce$ar, Chipo Chipo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorrirose/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorrirose/)*

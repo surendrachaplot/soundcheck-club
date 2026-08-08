@@ -1,14 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "VLTX.MP3: OUT OF THE STUDIO" on Fri, 7 Aug 2026.
+Stage and Radio is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Ritual - A journey through underground house" on Sat, 8 Aug 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including adamine, AJ Jonesy, Balgi and Blason and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including adamine, AJ Jonesy, Balgi and Blason and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | VLTX.MP3: OUT OF THE STUDIO | BONSWA, BRNE, EDJM |
 | Sat, 8 Aug 2026 | Ritual - A journey through underground house | Eddy Bennett |
 | Sat, 8 Aug 2026 | Subterranean Record |  |
 | Fri, 14 Aug 2026 | Emotional Slut Music: Leo | CITYSPROBLEM, DJ Try (US), Hollyamorous, Princess Elf Bar, maevie, moistbreezy |
@@ -18,9 +17,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 23 upcoming
 | Wed, 19 Aug 2026 | Blue Star presents: Deconstruct | DJ Clipping, chlo333e |
 | Thu, 20 Aug 2026 | Reload Collective - First Light |  |
 | Sat, 22 Aug 2026 | Foldmcr | Eddy Smiles |
+| Sat, 22 Aug 2026 | SubSessions | Groooves, K1ng Arthur |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

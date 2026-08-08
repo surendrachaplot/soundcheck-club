@@ -1,6 +1,6 @@
 # Rhod Parry
 
-Rhod Parry is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at renae, Manchester on Thu, 13 Aug 2026.
+Rhod Parry is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at renae, Manchester on Thu, 13 Aug 2026.
 
 Rhod Parry is a house and techno artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Kickin Pigeon, Chunky and Fastlove. Next up: renae, Manchester on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Rhod Parry is a house and techno artist based in United Kingdom, tracked on soun
 
 Kickin Pigeon, Chunky, Fastlove
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*

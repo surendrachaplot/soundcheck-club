@@ -1,6 +1,6 @@
 # JAWS
 
-JAWS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Goya Social Club, Madrid on Sat, 8 Aug 2026.
+JAWS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Goya Social Club, Madrid on Sat, 8 Aug 2026.
 
 JAWS is a techno and industrial artist based in Colombia, tracked on soundcheck, with 33 sets logged across London, Madrid, Manchester and Valencia. Often billed alongside Nigabba, BELCEBÚ and MVPDJ. Next up: Goya Social Club, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ JAWS is a techno and industrial artist based in Colombia, tracked on soundcheck,
 
 Nigabba, BELCEBÚ, MVPDJ
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaws/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaws/)*

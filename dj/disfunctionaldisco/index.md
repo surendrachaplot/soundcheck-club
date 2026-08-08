@@ -1,6 +1,6 @@
 # Disfunctional Disco
 
-Disfunctional Disco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Disfunctional Disco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Disfunctional Disco is a house and techno artist based in Denmark, tracked on soundcheck, with 11 sets logged across Copenhagen. Often billed alongside Descroix, Mary Harp and Midele. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Disfunctional Disco is a house and techno artist based in Denmark, tracked on so
 
 Descroix, Mary Harp, Midele
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disfunctionaldisco/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disfunctionaldisco/)*

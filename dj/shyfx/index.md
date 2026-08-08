@@ -1,6 +1,6 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Shy FX is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 64 sets lo
 
 Wilkinson, Chimpo, Andy C
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*

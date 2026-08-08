@@ -1,6 +1,6 @@
 # Kashpitzky
 
-Kashpitzky is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
+Kashpitzky is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
 
 Kashpitzky is a techno and acid artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Shlomi Aber, Linkan Ray and Alexandra (GE). Next up: ÆDEN, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Kashpitzky is a techno and acid artist tracked on soundcheck, with 31 sets logge
 
 Shlomi Aber, Linkan Ray, Alexandra (GE)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashpitzky/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashpitzky/)*

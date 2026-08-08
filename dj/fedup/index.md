@@ -1,6 +1,6 @@
 # FedUp
 
-FedUp is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hedges Club, Ibiza on Sat, 8 Aug 2026.
+FedUp is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hedges Club, Ibiza on Sat, 8 Aug 2026.
 
 FedUp is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Ibiza and London. Often billed alongside input, VENERE and ACCARD. Next up: Hedges Club, Ibiza on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ FedUp is a progressive house and house artist based in United Kingdom, tracked o
 
 input, VENERE, ACCARD
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedup/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedup/)*

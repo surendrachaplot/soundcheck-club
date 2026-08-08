@@ -1,6 +1,6 @@
 # Ivan Ruiz
 
-Ivan Ruiz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Buzzworks, San Francisco/Oakland on Sat, 8 Aug 2026.
+Ivan Ruiz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Buzzworks, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Ivan Ruiz is a house and techno artist tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Heather Besos, Homero Espinosa and Mark Farina. Next up: Buzzworks, Sanfrancisco on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Ivan Ruiz is a house and techno artist tracked on soundcheck, with 8 sets logged
 
 Heather Besos, Homero Espinosa, Mark Farina
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanruiz/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanruiz/)*

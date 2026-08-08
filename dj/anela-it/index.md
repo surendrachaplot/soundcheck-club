@@ -1,6 +1,6 @@
 # Anela
 
-Anela is a Techno and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 88block, Tokyo on Mon, 10 Aug 2026.
+Anela is a Techno and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 88block, Tokyo on Mon, 10 Aug 2026.
 
 Anela is a techno and hip-hop artist based in Italy, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside NO FACE, iLAN and KASSANDRA. Next up: 88block, Tokyo on Mon 10 Aug.
 
@@ -27,4 +27,4 @@ Anela is a techno and hip-hop artist based in Italy, tracked on soundcheck, with
 
 NO FACE, iLAN, KASSANDRA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anela-it/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anela-it/)*

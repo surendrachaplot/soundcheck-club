@@ -1,6 +1,6 @@
 # Peace Control
 
-Peace Control is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sunset Park Rooftop, New York City on Sat, 8 Aug 2026.
+Peace Control is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sunset Park Rooftop, New York City on Sat, 8 Aug 2026.
 
 Peace Control is a house and afro house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Buenosaires and Chicago and 18 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: Sunset Park Rooftop, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Peace Control is a house and afro house artist based in United States of America
 
 Francis Mercier, Marten Lou, Bontan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*

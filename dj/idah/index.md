@@ -1,6 +1,6 @@
 # idaH
 
-idaH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 29 Aug 2026.
+idaH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 29 Aug 2026.
 
 idaH is a house and disco artist tracked on soundcheck, with 31 sets logged across Bristol and London. Often billed alongside Conrad Lee, RONISA and Marley Reid. Next up: Two Tribes CAMPFIRE, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ idaH is a house and disco artist tracked on soundcheck, with 31 sets logged acro
 
 Conrad Lee, RONISA, Marley Reid
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idah/)*

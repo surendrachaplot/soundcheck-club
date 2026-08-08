@@ -1,6 +1,6 @@
 # maikoo
 
-maikoo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Aiiro Cafe, Tokyo on Fri, 14 Aug 2026.
+maikoo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Aiiro Cafe, Tokyo on Fri, 14 Aug 2026.
 
 maikoo is a techno and house artist tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside guzenji, sayapan and Ririko. Next up: Aiiro Cafe, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ maikoo is a techno and house artist tracked on soundcheck, with 17 sets logged a
 
 guzenji, sayapan, Ririko
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maikoo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maikoo/)*

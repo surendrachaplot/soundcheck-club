@@ -1,6 +1,6 @@
 # Shay De Castro
 
-Shay De Castro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Que Sera, Los Angeles on Sat, 8 Aug 2026.
+Shay De Castro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Que Sera, Los Angeles on Sat, 8 Aug 2026.
 
 Shay De Castro is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Austin, Berlin and Chicago and 13 more. Often billed alongside Brennen Grey, MIG-35 and Alchemiah. Next up: Que Sera, Losangeles on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Shay De Castro is a techno and house artist tracked on soundcheck, with 39 sets 
 
 Brennen Grey, MIG-35, Alchemiah
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydecastro/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydecastro/)*

@@ -1,14 +1,13 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "FRNDS ONLY - OUTSIDE LANDS WEEKEND KICK OFF" on Fri, 7 Aug 2026.
+Temple SF is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Euphoria: An EDM Tribute Party with Mikey Tan" on Sat, 8 Aug 2026.
 
-Temple SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
+Temple SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | FRNDS ONLY - OUTSIDE LANDS WEEKEND KICK OFF |  |
 | Sat, 8 Aug 2026 | Euphoria: An EDM Tribute Party with Mikey Tan |  |
 | Sat, 8 Aug 2026 | DJ CHEF DRE at LVL55 - Hiphop Room Saturdays |  |
 | Fri, 14 Aug 2026 | OCHO - The pOCHO Tour - SF |  |
@@ -22,4 +21,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nigh
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

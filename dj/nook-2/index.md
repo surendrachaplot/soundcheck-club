@@ -1,6 +1,6 @@
 # NooK (2)
 
-NooK (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Lucia, Vienna on Fri, 21 Aug 2026.
+NooK (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club Lucia, Vienna on Fri, 21 Aug 2026.
 
 NooK (2) is a techno and trance artist based in Austria, tracked on soundcheck, with 3 sets logged across Vienna. Often billed alongside TONKS, Annakonda and Black Tourmaline. Next up: Club Lucia, Vienna on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ NooK (2) is a techno and trance artist based in Austria, tracked on soundcheck, 
 
 TONKS, Annakonda, Black Tourmaline
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nook-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nook-2/)*

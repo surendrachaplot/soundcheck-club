@@ -1,6 +1,6 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Skatecafe, Amsterdam on Sat, 8 Aug 2026.
+Alec Dienaar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Skatecafe, Amsterdam on Sat, 8 Aug 2026.
 
 Alec Dienaar is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Dublin and Hamburg and 7 more. Often billed alongside Genex, STIPP and Julian Wijn. Next up: Skatecafe, Amsterdam on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Alec Dienaar is a techno and house artist tracked on soundcheck, with 42 sets lo
 
 Genex, STIPP, Julian Wijn
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*

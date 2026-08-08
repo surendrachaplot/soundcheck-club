@@ -1,6 +1,6 @@
 # Cristina Tosio
 
-Cristina Tosio is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 23 Aug 2026.
+Cristina Tosio is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Cristina Tosio is a house and electronica artist tracked on soundcheck, with 23 sets logged across Barcelona, Ibiza, Madrid and Malaga. Often billed alongside Lola Bozzano, ARODES and Adana Twins. Next up: 528 Ibiza, Ibiza on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Cristina Tosio is a house and electronica artist tracked on soundcheck, with 23 
 
 Lola Bozzano, ARODES, Adana Twins
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinatosio/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinatosio/)*

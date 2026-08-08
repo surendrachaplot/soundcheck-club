@@ -1,6 +1,6 @@
 # Casual Treatment
 
-Casual Treatment is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 15 Aug 2026.
+Casual Treatment is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 15 Aug 2026.
 
 Casual Treatment is a techno and trance artist based in France, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Denver and Detroit and 11 more. Often billed alongside Alfandi, John Mood and Kerrie. Next up: TBA - Brooklyn, Newyorkcity on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Casual Treatment is a techno and trance artist based in France, tracked on sound
 
 Alfandi, John Mood, Kerrie
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casualtreatment/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casualtreatment/)*

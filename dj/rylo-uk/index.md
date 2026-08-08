@@ -1,6 +1,6 @@
 # RYLO (UK)
 
-RYLO (UK) is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at renae, Manchester on Fri, 14 Aug 2026.
+RYLO (UK) is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at renae, Manchester on Fri, 14 Aug 2026.
 
 RYLO (UK) is a house and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside HSTN, imad:re and FXCKBOUT. Next up: renae, Manchester on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ RYLO (UK) is a house and trance artist based in United Kingdom, tracked on sound
 
 HSTN, imad:re, FXCKBOUT
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*

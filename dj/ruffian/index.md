@@ -1,6 +1,6 @@
 # Ruffian
 
-Ruffian is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Klub Progresja, Warsaw on Sat, 19 Sept 2026.
+Ruffian is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Klub Progresja, Warsaw on Sat, 19 Sept 2026.
 
 Ruffian is a hardcore artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Cologne and Warsaw. Often billed alongside Pavo, The Darkraver and NoXa. Next up: Klub Progresja, Warsaw on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Ruffian is a hardcore artist based in Netherlands, tracked on soundcheck, with 8
 
 Pavo, The Darkraver, NoXa
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffian/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffian/)*

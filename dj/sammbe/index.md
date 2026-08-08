@@ -1,6 +1,6 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
+Samm (BE) is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
 
 Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside ARODES, AJNA and Alex Wann. Next up: Old Royal Naval College, London on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets l
 
 ARODES, AJNA, Alex Wann
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

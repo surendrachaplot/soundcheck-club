@@ -1,8 +1,8 @@
 # Drop Catch
 
-Drop Catch is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 215 W, Detroit on Fri, 14 Aug 2026.
+Drop Catch is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 215 W, Detroit on Fri, 14 Aug 2026.
 
-Drop Catch is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit. Often billed alongside RAEDY LEX, DISCOBOT and Key Mitch. Next up: 215 W, Detroit on Fri 14 Aug.
+Drop Catch is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit. Often billed alongside RAEDY LEX, DISCOBOT and Key Mitch. Next up: 215 W, Detroit on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Drop Catch is a house and disco artist based in United States of America, tracke
 | Fri, 14 Aug 2026 | 215 W | Detroit |
 | Sun, 16 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 21 Aug 2026 | Tangent Gallery | Detroit |
+| Fri, 4 Sept 2026 | 215 W | Detroit |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
 
 ## Recently played
@@ -28,4 +29,4 @@ Drop Catch is a house and disco artist based in United States of America, tracke
 
 RAEDY LEX, DISCOBOT, Key Mitch
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dropcatch/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dropcatch/)*

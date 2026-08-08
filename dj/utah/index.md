@@ -1,6 +1,6 @@
 # Utah
 
-Utah is a Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Left Bank, Tbilisi on Sat, 22 Aug 2026.
+Utah is a Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Left Bank, Tbilisi on Sat, 22 Aug 2026.
 
 Utah is a bass artist based in United Kingdom, tracked on soundcheck, with 146 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Left Bank, Tbilisi on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Utah is a bass artist based in United Kingdom, tracked on soundcheck, with 146 s
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utah/)*

@@ -1,6 +1,6 @@
 # Gaspray
 
-Gaspray is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Horn, Bangkok on Sat, 8 Aug 2026.
+Gaspray is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Horn, Bangkok on Sat, 8 Aug 2026.
 
 Gaspray is a techno and house artist based in Belgium, tracked on soundcheck, with 50 sets logged across Bangkok and Singapore. Often billed alongside E Nick, Tristan Kino and DJ TADA. Next up: Horn, Bangkok on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gaspray is a techno and house artist based in Belgium, tracked on soundcheck, wi
 
 E Nick, Tristan Kino, DJ TADA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspray/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspray/)*

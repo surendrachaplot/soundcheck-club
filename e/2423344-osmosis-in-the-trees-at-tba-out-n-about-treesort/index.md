@@ -1,6 +1,6 @@
 # Osmosis in the Trees at TBA - Out ‘n’ About Treesort
 
-Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portland. 45 acts on the bill: 8maos, Aaron Davis, Alvaro and Andrew Paris and 41 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portland. 46 acts on the bill: 8maos, Aaron Davis, aka-Sol and Alvaro and 42 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portlan
 
 - 8maos
 - Aaron Davis
+- aka-Sol
 - Alvaro
 - Andrew Paris
 - Andy Warren

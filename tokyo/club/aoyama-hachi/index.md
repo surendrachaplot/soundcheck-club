@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "酔祭-YOMATSURI-" on Sat, 8 Aug 2026.
+Aoyama Hachi is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "酔祭-YOMATSURI-" on Sat, 8 Aug 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 雷庵(RYan), AOI BLOOM, ATT and BUD (1) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 10 upcoming nights,
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

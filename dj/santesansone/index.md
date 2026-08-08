@@ -1,6 +1,6 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Sante Sansone is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Sante Sansone is a tech house and house artist tracked on soundcheck, with 41 sets logged across Barcelona, Boston, Buenosaires and Frankfurt and 17 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Sante Sansone is a tech house and house artist tracked on soundcheck, with 41 se
 
 Hector Couto, Pirate Copy, Ammo Avenue
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*

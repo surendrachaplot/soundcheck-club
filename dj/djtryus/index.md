@@ -1,8 +1,8 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
+DJ Try (US) is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
 
-DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Ibiza, London and Manchester and 3 more. Often billed alongside CITYSPROBLEM, Princess Elf Bar and moistbreezy. Next up: The Glove That Fits, London on Thu 13 Aug.
+DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Berlin, Ibiza, London and Manchester and 4 more. Often billed alongside CITYSPROBLEM, Princess Elf Bar and moistbreezy. Next up: The Glove That Fits, London on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 | Wed, 19 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | Badaboum | Paris |
 | Mon, 31 Aug 2026 | [UNVRS] | Ibiza |
+| Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 CITYSPROBLEM, Princess Elf Bar, moistbreezy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

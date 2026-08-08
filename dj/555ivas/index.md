@@ -1,6 +1,6 @@
 # 555ivas
 
-555ivas is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Samis Bar, Athens on Sat, 8 Aug 2026.
+555ivas is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Samis Bar, Athens on Sat, 8 Aug 2026.
 
 555ivas is an experimental and club artist based in Greece, tracked on soundcheck, with 21 sets logged across Athens. Often billed alongside Qasbah, Baggymilziade and Miss Trouli. Next up: Samis Bar, Athens on Sat 8 Aug.
 
@@ -25,4 +25,4 @@
 
 Qasbah, Baggymilziade, Miss Trouli
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/555ivas/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/555ivas/)*

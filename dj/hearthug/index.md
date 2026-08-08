@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Ministerium Club, Lisbon on Sat, 8 Aug 2026.
+HearThug is a House and Electro artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ministerium Club, Lisbon on Sat, 8 Aug 2026.
 
 HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Ministerium Club, Lisbon on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 
 Occibel, IAMBP, Alyhas
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

@@ -1,6 +1,6 @@
 # SepTeo
 
-SepTeo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Brooklyn Rooftop, New York City on Sun, 30 Aug 2026.
+SepTeo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Brooklyn Rooftop, New York City on Sun, 30 Aug 2026.
 
 SepTeo is a house and minimal artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Guzt, Jay La Soul and ICE THOMPSON. Next up: TBA - Brooklyn Rooftop, Newyorkcity on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ SepTeo is a house and minimal artist tracked on soundcheck, with 6 sets logged a
 
 Guzt, Jay La Soul, ICE THOMPSON
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/septeo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/septeo/)*

@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Kastel #ROOFTOPSERIES: Deniz Kabu + MANTHEM + ESRENA + UGUR SEN + FULERS + DECKBEE DJ" on Fri, 7 Aug 2026.
+Kastel is a music venue in Istanbul with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "BEATGATE PRESENTS: Nandu + Volkan Gunduz + FAITH" on Sat, 8 Aug 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 9 upcoming nights, with line-ups including Atakan Uysal, BATU (TR), Benny Benassi and Deniz Kabu and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with line-ups including Atakan Uysal, BATU (TR), Benny Benassi and Doruk Guralp and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Kastel #ROOFTOPSERIES: Deniz Kabu + MANTHEM + ESRENA + UGUR SEN + FULERS + DECKBEE DJ | Deniz Kabu |
 | Sat, 8 Aug 2026 | BEATGATE PRESENTS: Nandu + Volkan Gunduz + FAITH | Atakan Uysal, FAITH, Nandu, Volkan Gunduz |
 | Wed, 12 Aug 2026 | Kastel RAVIN PRESENTS: ANIL VARDARELİ + GİZEM GÖKÇE b2b YUNUS SEZENER + many more |  |
 | Fri, 14 Aug 2026 | Kastel #ROOFTOPSERIES: ORKUN BOZDEMİR + Doruk Guralp b2b TOLGA DUYAN + Mert Batigun + Ymir | Doruk Guralp, Mert Batigun, Orkun Bozdemir, Ymir |
@@ -22,4 +21,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 9 upcoming nights, wit
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

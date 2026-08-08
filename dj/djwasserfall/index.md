@@ -1,6 +1,6 @@
 # DJ WASSERFALL
 
-DJ WASSERFALL is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+DJ WASSERFALL is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 DJ WASSERFALL is a trance and techno artist based in Germany, tracked on soundcheck, with 71 sets logged across Basel, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside DJ Sonnenbrand, Paraçek and KLING&KLANG. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ WASSERFALL is a trance and techno artist based in Germany, tracked on soundch
 
 DJ Sonnenbrand, Paraçek, KLING&KLANG
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwasserfall/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwasserfall/)*

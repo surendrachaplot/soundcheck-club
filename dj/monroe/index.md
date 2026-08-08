@@ -1,6 +1,6 @@
 # m.O.N.R.O.E.
 
-m.O.N.R.O.E. is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cova Santa, Ibiza on Tue, 25 Aug 2026.
+m.O.N.R.O.E. is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Cova Santa, Ibiza on Tue, 25 Aug 2026.
 
 m.O.N.R.O.E. is a minimal and tech house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Jorissen, Andrea Ghita and Jason Rault. Next up: Cova Santa, Ibiza on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ m.O.N.R.O.E. is a minimal and tech house artist based in United States of Americ
 
 Jorissen, Andrea Ghita, Jason Rault
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*

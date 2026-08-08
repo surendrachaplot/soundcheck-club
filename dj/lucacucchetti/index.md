@@ -1,6 +1,6 @@
 # Luca Cucchetti
 
-Luca Cucchetti is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at NEO CLUB ROMA, Rome on Fri, 14 Aug 2026.
+Luca Cucchetti is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at NEO CLUB ROMA, Rome on Fri, 14 Aug 2026.
 
 Luca Cucchetti is a club and house artist tracked on soundcheck, with 4 sets logged across Rome. Often billed alongside De Gama, Francesco Zappala and Marco Moreggia. Next up: NEO CLUB ROMA, Rome on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Luca Cucchetti is a club and house artist tracked on soundcheck, with 4 sets log
 
 De Gama, Francesco Zappala, Marco Moreggia
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacucchetti/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacucchetti/)*

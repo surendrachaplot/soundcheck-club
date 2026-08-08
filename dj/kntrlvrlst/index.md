@@ -1,20 +1,20 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+KNTRLVRLST is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 64 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Waschhaus, Berlin on Fri 7 Aug.
+KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 64 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |
 
 ## Recently played
 
+- Waschhaus, Berlin — Fri, 7 Aug 2026
 - Lehmann Club, Stuttgart — Fri, 26 Jun 2026
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
 - Kilomètre25, Paris — Sat, 6 Jun 2026
@@ -22,10 +22,9 @@ KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 64 sets log
 - DSTRKT Club Berlin, Berlin — Fri, 29 May 2026
 - Airport Würzburg, Nürnberg — Sun, 24 May 2026
 - Tanzhaus West, Frankfurt — Fri, 22 May 2026
-- Bootshaus, Cologne — Fri, 15 May 2026
 
 ## Shares bills with
 
 A.N.I., Vagabund, O.B.I. (DE)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

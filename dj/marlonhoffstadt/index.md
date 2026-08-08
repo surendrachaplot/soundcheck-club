@@ -1,14 +1,13 @@
 # Marlon Hoffstadt
 
-Marlon Hoffstadt is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Santanna Mykonos, Mykonos on Fri, 7 Aug 2026.
+Marlon Hoffstadt is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
-Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: Santanna Mykonos, Mykonos on Fri 7 Aug.
+Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Santanna Mykonos | Mykonos |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
 | Sun, 9 Aug 2026 | Werksviertel Mitte | Munich |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
@@ -21,6 +20,7 @@ Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 124 se
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 8 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -28,10 +28,9 @@ Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 124 se
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Lofi, Amsterdam — Sun, 7 Jun 2026
 - Lofi, Amsterdam — Thu, 4 Jun 2026
-- Clifton Street, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 MALUGI, Surf 2 Glory, I Hate Models
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*

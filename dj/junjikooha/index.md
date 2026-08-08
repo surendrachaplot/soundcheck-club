@@ -1,6 +1,6 @@
 # Jun Jikooha
 
-Jun Jikooha is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 7th Floor, Tokyo on Sat, 29 Aug 2026.
+Jun Jikooha is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 7th Floor, Tokyo on Sat, 29 Aug 2026.
 
 Jun Jikooha is a techno and trance artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside Tomocomo, Funky Gong and HIROAKI WADA. Next up: 7th Floor, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jun Jikooha is a techno and trance artist based in Japan, tracked on soundcheck,
 
 Tomocomo, Funky Gong, HIROAKI WADA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junjikooha/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junjikooha/)*

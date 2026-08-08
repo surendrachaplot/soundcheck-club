@@ -1,6 +1,6 @@
 # babsko
 
-babsko is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 8 Aug 2026.
+babsko is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 8 Aug 2026.
 
 babsko is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Copenhagen, London and Warsaw. Often billed alongside dgbt, WE.LL and AANO. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ babsko is a techno and trance artist based in United Kingdom, tracked on soundch
 
 dgbt, WE.LL, AANO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*

@@ -1,6 +1,6 @@
 # Francesca Lombardo
 
-Francesca Lombardo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Reelworks Denver, Denver on Fri, 11 Sept 2026.
+Francesca Lombardo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Reelworks Denver, Denver on Fri, 11 Sept 2026.
 
 Francesca Lombardo is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Boston and Bucharest and 19 more. Often billed alongside Anthony Middleton, Cassy and Esther Silex. Next up: Reelworks Denver, Denver on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Francesca Lombardo is a house and deep house artist based in United Kingdom, tra
 
 Anthony Middleton, Cassy, Esther Silex
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*

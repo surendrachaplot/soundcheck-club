@@ -1,6 +1,6 @@
 # Antonio De Angelis
 
-Antonio De Angelis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+Antonio De Angelis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
 Antonio De Angelis is a techno and industrial artist tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Ibiza and London and 1 more. Often billed alongside Pre Silent, Polanski and Laure Croft. Next up: Gaffe, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Antonio De Angelis is a techno and industrial artist tracked on soundcheck, with
 
 Pre Silent, Polanski, Laure Croft
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*

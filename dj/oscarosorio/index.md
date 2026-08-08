@@ -1,14 +1,13 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 13 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Club Leidse, Amsterdam on Fri, 7 Aug 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Club Leidse, Amsterdam on Sat, 8 Aug 2026.
 
-Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 48 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Adrian Reyes. Next up: Club Leidse, Amsterdam on Fri 7 Aug.
+Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 48 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Adrian Reyes. Next up: Club Leidse, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Club Leidse | Amsterdam |
 | Sat, 8 Aug 2026 | Club Leidse | Amsterdam |
 | Fri, 14 Aug 2026 | Club Leidse | Amsterdam |
 | Sat, 15 Aug 2026 | Club Leidse | Amsterdam |
@@ -20,9 +19,11 @@ Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 48 sets log
 | Sat, 12 Sept 2026 | Club Leidse | Amsterdam |
 | Fri, 18 Sept 2026 | Club Leidse | Amsterdam |
 | Sat, 19 Sept 2026 | Club Leidse | Amsterdam |
+| Sat, 26 Sept 2026 | Club Leidse | Amsterdam |
 
 ## Recently played
 
+- Club Leidse, Amsterdam — Fri, 7 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Club Leidse, Amsterdam — Sat, 1 Aug 2026
 - Club Leidse, Amsterdam — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 48 sets log
 - Homage Brewing, Los Angeles — Fri, 24 Jul 2026
 - Club Leidse, Amsterdam — Fri, 24 Jul 2026
 - Club Leidse, Amsterdam — Sat, 18 Jul 2026
-- Club Leidse, Amsterdam — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Rishi Romero, DJ LIGMA, Adrian Reyes
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*

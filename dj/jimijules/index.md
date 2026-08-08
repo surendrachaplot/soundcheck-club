@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
+Jimi Jules is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
 
 Jimi Jules is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: TBA, Zurich on Sat 8 Aug.
 
@@ -35,4 +35,4 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 190 sets log
 
 Dixon, Âme, Trikk
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

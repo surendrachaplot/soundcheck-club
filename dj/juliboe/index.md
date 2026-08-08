@@ -1,6 +1,6 @@
 # juliboe
 
-juliboe is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
+juliboe is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
 
 juliboe is a house and ebm artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Vienna. Often billed alongside Mganz, DC81 and Santi Gonzalez. Next up: La Terrrazza, Barcelona on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ juliboe is a house and ebm artist based in Spain, tracked on soundcheck, with 19
 
 Mganz, DC81, Santi Gonzalez
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliboe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliboe/)*

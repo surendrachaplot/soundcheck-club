@@ -1,6 +1,6 @@
 # Recurrence
 
-Recurrence is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
+Recurrence is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
 
 Recurrence is a techno and trance artist based in Latvia, tracked on soundcheck, with 13 sets logged across Riga. Often billed alongside Johnny Depo, Mikass and Grisha Nirgov. Next up: TBA - Hyper Radošais Centrs, Riga on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Recurrence is a techno and trance artist based in Latvia, tracked on soundcheck,
 
 Johnny Depo, Mikass, Grisha Nirgov
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recurrence/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recurrence/)*

@@ -1,14 +1,13 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Macadam, Nantes on Fri, 7 Aug 2026.
+Philippa Pacho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Macadam, Nantes on Fri 7 Aug.
+Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Macadam | Nantes |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Fri, 28 Aug 2026 | Zoo | Geneva |
 | Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
@@ -18,6 +17,7 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets
 
 ## Recently played
 
+- Macadam, Nantes — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Else, Berlin — Sat, 1 Aug 2026
 - Arzenal, Budapest — Fri, 31 Jul 2026
@@ -25,10 +25,9 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 213 sets
 - BASEMENT, New York City — Fri, 24 Jul 2026
 - BLITZ, Munich — Fri, 17 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
-- Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
 
 ## Shares bills with
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

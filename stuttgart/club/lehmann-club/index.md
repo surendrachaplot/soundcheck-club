@@ -1,14 +1,13 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina" on Fri, 7 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "LEHMANN Schranznacht with In Verruf, dasstudach, MOIA, GAAAS" on Sat, 8 Aug 2026.
 
-Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Afem Syko, Blawan, cyaabottom and dasstudach and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
+Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Blawan, cyaabottom, dasstudach and DICE and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | HALBWELT pres. Afem Syko (All Night Long) + PETERBLUE, Sibel, Selina | Afem Syko, PETERBLUE |
 | Sat, 8 Aug 2026 | LEHMANN Schranznacht with In Verruf, dasstudach, MOIA, GAAAS | GAAAS, In Verruf, MOIA, dasstudach |
 | Fri, 14 Aug 2026 | HARDCORE GENERATORS pres. 2YEARS STUTTGART HARDCORE SOUND | Edgerunner, IceLipzz, LØUS, Medusa, SYNTH3SE, Tayphoon, cyaabottom |
 | Sat, 15 Aug 2026 | Lehmann Clubnacht with ÜBERREST, Mila Black, Raphael Dincsoy, Source Code, 2ND FLOOR NKR | Mila Black, Raphael Dincsoy, Source Code, Ueberrest |
@@ -20,4 +19,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 7 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

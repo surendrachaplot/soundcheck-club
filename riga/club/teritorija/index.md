@@ -1,14 +1,13 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Platz fur Tanz x Teritorija: Espen Lauritzen (Krill Music, NO)" on Fri, 7 Aug 2026.
+Teritorija is a music venue in Riga with 12 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "VLAD PHANGAN" on Sat, 8 Aug 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, with line-ups including ANGEDONIYA, Aniri Chan, A$PHYXXXÏA and ARRISHA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 12 upcoming nights, with line-ups including ANGEDONIYA, Aniri Chan, A$PHYXXXÏA and ARRISHA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Platz fur Tanz x Teritorija: Espen Lauritzen (Krill Music, NO) | Espen Lauritzen, KAGATE, Ksenia Kamikaza, Sink Sync |
 | Sat, 8 Aug 2026 | VLAD PHANGAN | VLAD PHANGAN |
 | Sat, 8 Aug 2026 | CLUBSHINE | ANGEDONIYA, hitomori, maniken05, porfod |
 | Fri, 14 Aug 2026 | Esoniq | Esoniq |
@@ -18,9 +17,10 @@ Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, wi
 | Sat, 22 Aug 2026 | Notwelcome | Notwelcome |
 | Sat, 22 Aug 2026 | BASS SLAUGHTER x TRT: SUBLIMINAL | DENOVA, Leprosy, MBark, MVKO, Notwelcome, XSYNC19, oshigakill |
 | Sat, 22 Aug 2026 | BASS SLAUGHTER session 5 (SUBLIMINAL) | B2BBASS, MBark, MVKO, XSYNC19, excels, oshigakill |
+| Fri, 28 Aug 2026 | Golden Habit | Golden Habit |
 
 ## Address
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

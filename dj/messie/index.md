@@ -1,6 +1,6 @@
 # MESSIE
 
-MESSIE is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+MESSIE is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 MESSIE is a house and bass artist based in New Zealand, tracked on soundcheck, with 15 sets logged across Auckland, Barcelona, Brisbane and Bristol and 6 more. Often billed alongside Arthi, Anish Kumar and Bushbby. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ MESSIE is a house and bass artist based in New Zealand, tracked on soundcheck, w
 
 Arthi, Anish Kumar, Bushbby
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*

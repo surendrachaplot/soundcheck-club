@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 32 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers" on Fri, 7 Aug 2026.
+fabric is a music venue in London with 31 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Adriatique presents X: Nick Castle, Nicky Elisabeth, Samm, Scenarios, Julia Linkogel" on Sat, 8 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including Adriatique, A For Alpha, A Hard Day's Dance and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Adriatique, A For Alpha, A Hard Day's Dance and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | DISCOWORKS: Jeremy Underground, Cody Currie, Tommy Gold, Minister Ballantine, Dunmore Brothers | Cody Currie, Dunmore Brothers, Jeremy Underground, Minister Ballantine, Tommy Gold, malix |
 | Sat, 8 Aug 2026 | Adriatique presents X: Nick Castle, Nicky Elisabeth, Samm, Scenarios, Julia Linkogel | Adriatique, Julia Linkogel, Nick Castle, Nicky Elisabeth, Samm |
 | Sun, 9 Aug 2026 | CAYA by fabric: Tamango - Yaya (All Night Long) | Yaya |
 | Fri, 14 Aug 2026 | Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more | Brina Knauss, Cristoph, Giolì & Assia, Layla Benitez, Lowsteppa, Paisley Jensen, hitty |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 32 upcoming nights, with
 | Sat, 22 Aug 2026 | Broadwick Live presents: Flight Facilities, Kirollus, Jennifer Loveless, Fort Romeau + more | A Hard Day's Dance, Aroop Roy, Donis, Ella Knight, Flight Facilities, Fort Romeau, Jennifer Loveless, Kirollus, MILLIE, Pheebs |
 | Sun, 23 Aug 2026 | CAYA by fabric: Inermu - James Dexter (All Night Long) | James Dexter |
 | Fri, 28 Aug 2026 | FABRICLIVE: Piano People Afterparty - TXC, ZEE NXUMALO, MöRDA, DEB FA, JADA JADE | LIMZy, MöRDA, OneThabs |
+| Sat, 29 Aug 2026 | Appetite Afterparty (Saturday) - Skream, Special Guests, Jaden Thompson, Kellie Allen + more | HALFPINT, Jaden Thompson, James Lavelle, Kellie Allen, Lewis Carroll, Phill de Janeiro, Skream, Tom Da Silva |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

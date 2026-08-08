@@ -1,6 +1,6 @@
 # Dentana
 
-Dentana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Umbria Arts, Philadelphia on Sat, 22 Aug 2026.
+Dentana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Umbria Arts, Philadelphia on Sat, 22 Aug 2026.
 
 Dentana is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Philadelphia. Often billed alongside Carl Michaels, Hideyoshi and Traps N Trees. Next up: Umbria Arts, Philadelphia on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Dentana is a house and techno artist based in United States of America, tracked 
 
 Carl Michaels, Hideyoshi, Traps N Trees
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dentana/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dentana/)*

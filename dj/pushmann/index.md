@@ -1,6 +1,6 @@
 # Pushmann
 
-Pushmann is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Pushmann is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Pushmann is a techno and dub techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 7 more. Often billed alongside Judy (ES), Paula Cazenave and Truncate. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Pushmann is a techno and dub techno artist tracked on soundcheck, with 31 sets l
 
 Judy (ES), Paula Cazenave, Truncate
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pushmann/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pushmann/)*

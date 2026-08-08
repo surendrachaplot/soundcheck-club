@@ -1,6 +1,6 @@
 # Shelle.y
 
-Shelle.y is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Stereo, Glasgow on Sat, 15 Aug 2026.
+Shelle.y is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Stereo, Glasgow on Sat, 15 Aug 2026.
 
 Shelle.y is a disco and club artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow and Manchester. Often billed alongside Girlfriend, Kacper Pieta and gr00vy.cat. Next up: Stereo, Glasgow on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Shelle.y is a disco and club artist based in United Kingdom, tracked on soundche
 
 Girlfriend, Kacper Pieta, gr00vy.cat
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shelle.y/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shelle.y/)*

@@ -1,6 +1,6 @@
 # Mary Gehnyei
 
-Mary Gehnyei is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 8 Aug 2026.
+Mary Gehnyei is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 8 Aug 2026.
 
 Mary Gehnyei is a house and deep house artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Copenhagen and Milan and 1 more. Often billed alongside Mary G, Ameliée and Lela Xein. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mary Gehnyei is a house and deep house artist tracked on soundcheck, with 20 set
 
 Mary G, Ameliée, Lela Xein
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*

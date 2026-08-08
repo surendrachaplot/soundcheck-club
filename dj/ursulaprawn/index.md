@@ -1,6 +1,6 @@
 # Ursula Prawn
 
-Ursula Prawn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
+Ursula Prawn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
 
 Ursula Prawn is a techno and house artist based in Mexico, tracked on soundcheck, with 88 sets logged across Berlin, Lisbon, London and Madrid and 3 more. Often billed alongside Portugal, sadgal and Celice Monnette. Next up: Renate, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Ursula Prawn is a techno and house artist based in Mexico, tracked on soundcheck
 
 Portugal, sadgal, Celice Monnette
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaprawn/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaprawn/)*

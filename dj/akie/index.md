@@ -1,6 +1,6 @@
 # Akie
 
-Akie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Grassroots, Tokyo on Sat, 8 Aug 2026.
+Akie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Grassroots, Tokyo on Sat, 8 Aug 2026.
 
 Akie is a techno and house artist tracked on soundcheck, with 55 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside YAMARCHY, DJ Nobu and KABUTO. Next up: Grassroots, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Akie is a techno and house artist tracked on soundcheck, with 55 sets logged acr
 
 YAMARCHY, DJ Nobu, KABUTO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*

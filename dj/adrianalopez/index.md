@@ -1,6 +1,6 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Flux, Istanbul on Sat, 8 Aug 2026.
+Adriana Lopez is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Flux, Istanbul on Sat, 8 Aug 2026.
 
 Adriana Lopez is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Flux, Istanbul on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Adriana Lopez is a techno and house artist tracked on soundcheck, with 139 sets 
 
 Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

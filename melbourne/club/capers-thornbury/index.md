@@ -1,6 +1,6 @@
 # Capers Thornbury
 
-Capers Thornbury is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Lady Muck pres. Menace" on Sat, 22 Aug 2026.
+Capers Thornbury is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lady Muck pres. Menace" on Sat, 22 Aug 2026.
 
 Capers Thornbury is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including DJ Mum. Browse upcoming dates, start times and who's playing. 843 High St, Thornbury VIC 3071.
 
@@ -14,4 +14,4 @@ Capers Thornbury is a music venue in Melbourne listed on soundcheck. 1 upcoming 
 
 843 High St, Thornbury VIC 3071, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/capers-thornbury/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/capers-thornbury/)*

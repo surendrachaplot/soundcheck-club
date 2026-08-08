@@ -1,6 +1,6 @@
 # Prince Language
 
-Prince Language is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eavesdrop, New York City on Sat, 8 Aug 2026.
+Prince Language is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eavesdrop, New York City on Sat, 8 Aug 2026.
 
 Prince Language is a house and techno artist tracked on soundcheck, with 30 sets logged across Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Ivan Berko, Lauren Murada and 063N13. Next up: Eavesdrop, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Prince Language is a house and techno artist tracked on soundcheck, with 30 sets
 
 Ivan Berko, Lauren Murada, 063N13
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princelanguage/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princelanguage/)*

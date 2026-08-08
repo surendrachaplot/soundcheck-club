@@ -1,6 +1,6 @@
 # Malwen
 
-Malwen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
+Malwen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
 
 Malwen is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Roy McKilljoy, KOSIE and Martita. Next up: Next Door Records Two, London on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Malwen is a house and techno artist based in United Kingdom, tracked on soundche
 
 Roy McKilljoy, KOSIE, Martita
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malwen/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malwen/)*

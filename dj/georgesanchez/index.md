@@ -1,6 +1,6 @@
 # George Sanchez
 
-George Sanchez is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Zur Insel, Frankfurt on Sat, 8 Aug 2026.
+George Sanchez is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Zur Insel, Frankfurt on Sat, 8 Aug 2026.
 
 George Sanchez is a house and ambient artist based in Germany, tracked on soundcheck, with 6 sets logged across Frankfurt. Often billed alongside Pascal Fischer, Karotte and Marc Keen. Next up: Zur Insel, Frankfurt on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ George Sanchez is a house and ambient artist based in Germany, tracked on soundc
 
 Pascal Fischer, Karotte, Marc Keen
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesanchez/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesanchez/)*

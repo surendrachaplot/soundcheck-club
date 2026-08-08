@@ -1,6 +1,6 @@
 # towLie
 
-towLie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Spice H2O, Stockholm on Sat, 8 Aug 2026.
+towLie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Spice H2O, Stockholm on Sat, 8 Aug 2026.
 
 towLie is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Stockholm and Tbilisi. Often billed alongside Acronym, Bella Boo and Daniel Bertholdsson. Next up: Spice H2O, Stockholm on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ towLie is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 Acronym, Bella Boo, Daniel Bertholdsson
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/towlie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/towlie/)*

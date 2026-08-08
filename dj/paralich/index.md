@@ -1,6 +1,6 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
+Paralich is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
 
 Paralich is a techno and trance artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Roel Langerakpark, Rotterdam on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 156 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

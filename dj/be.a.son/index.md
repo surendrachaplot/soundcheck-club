@@ -1,6 +1,6 @@
 # Be.a.son
 
-Be.a.son is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
+Be.a.son is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
 
 Be.a.son is a minimal and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Amsterdam and Utrecht. Often billed alongside Nicola Piva, AnnaM (NL) and Mission Architect. Next up: KABUL à GoGo, Utrecht on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Be.a.son is a minimal and house artist based in Italy, tracked on soundcheck, wi
 
 Nicola Piva, AnnaM (NL), Mission Architect
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/be.a.son/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/be.a.son/)*

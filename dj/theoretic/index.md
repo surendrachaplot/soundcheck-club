@@ -1,6 +1,6 @@
 # theoretic
 
-theoretic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Eavesdrop, New York City on Fri, 14 Aug 2026.
+theoretic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Eavesdrop, New York City on Fri, 14 Aug 2026.
 
 theoretic is a house and techno artist tracked on soundcheck, with 62 sets logged across Copenhagen, Hamburg, London and Newyorkcity and 1 more. Often billed alongside Niyah West, PlayPlay and VARSHA. Next up: Eavesdrop, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ theoretic is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 Niyah West, PlayPlay, VARSHA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*

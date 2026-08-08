@@ -1,6 +1,6 @@
 # CHARLIE POWELL
 
-CHARLIE POWELL is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Circe’S Rooftop, London on Sat, 8 Aug 2026.
+CHARLIE POWELL is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Circe’S Rooftop, London on Sat, 8 Aug 2026.
 
 CHARLIE POWELL is a house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Ibiza, London and Nottingham. Often billed alongside 2fox, CHANEY and Charlotte Van de Peer. Next up: Circe’S Rooftop, London on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ CHARLIE POWELL is a house artist based in United Kingdom, tracked on soundcheck,
 
 2fox, CHANEY, Charlotte Van de Peer
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliepowell/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliepowell/)*

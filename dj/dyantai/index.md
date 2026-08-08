@@ -1,6 +1,6 @@
 # Dyan Tai
 
-Dyan Tai is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 14 Aug 2026.
+Dyan Tai is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 14 Aug 2026.
 
 Dyan Tai is a pop and electronica artist tracked on soundcheck, with 10 sets logged across Berlin, Brisbane, Melbourne and Sydney. Often billed alongside Fried Pork Chop, Baschoe and Dan Azzo. Next up: TBA - Secret Location, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dyan Tai is a pop and electronica artist tracked on soundcheck, with 10 sets log
 
 Fried Pork Chop, Baschoe, Dan Azzo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyantai/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyantai/)*

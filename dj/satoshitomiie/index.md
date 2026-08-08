@@ -1,14 +1,13 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Signal, New York City on Fri, 7 Aug 2026.
+Satoshi Tomiie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
-Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: Signal, Newyorkcity on Fri 7 Aug.
+Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Signal | New York City |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 14 Aug 2026 | TV Lounge | Detroit |
@@ -20,6 +19,7 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 122 sets
 
 ## Recently played
 
+- Signal, New York City — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - The Jazz Cafe, London — Wed, 29 Jul 2026
 - Flash, Washington DC — Sat, 25 Jul 2026
@@ -27,10 +27,9 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 122 sets
 - Pacific Science Center, Seattle — Sat, 18 Jul 2026
 - Monarch, San Francisco/Oakland — Fri, 17 Jul 2026
 - Forte Antenne, Rome — Sat, 4 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Doudou MD, Cabanne, Kuniyuki
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

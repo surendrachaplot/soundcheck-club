@@ -1,6 +1,6 @@
 # BOTL
 
-BOTL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
+BOTL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
 
 BOTL is a techno and hardcore artist tracked on soundcheck, with 24 sets logged across Berlin, Cologne, London and Lyon and 7 more. Often billed alongside AISHA, ARDL and Afem Syko. Next up: Kilomètre25, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ BOTL is a techno and hardcore artist tracked on soundcheck, with 24 sets logged 
 
 AISHA, ARDL, Afem Syko
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/botl/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/botl/)*

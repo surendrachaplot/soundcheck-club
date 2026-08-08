@@ -1,6 +1,6 @@
 # Kazu
 
-Kazu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
+Kazu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at VENT, Tokyo on Sat, 8 Aug 2026.
 
 Kazu is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Hongkong and Tokyo. Often billed alongside RYUGO, YuWa and Golpe Mortal. Next up: VENT, Tokyo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Kazu is a techno and house artist based in Japan, tracked on soundcheck, with 21
 
 RYUGO, YuWa, Golpe Mortal
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*

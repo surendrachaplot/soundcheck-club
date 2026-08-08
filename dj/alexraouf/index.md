@@ -1,6 +1,6 @@
 # Alex Raouf
 
-Alex Raouf is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 8 Aug 2026.
+Alex Raouf is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 8 Aug 2026.
 
 Alex Raouf is a deep house and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Newyorkcity. Often billed alongside AG (NYC), Omar Ludwig and ROLO (NYC). Next up: Summertime Roof Terrace, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Alex Raouf is a deep house and house artist based in United States of America, t
 
 AG (NYC), Omar Ludwig, ROLO (NYC)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexraouf/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexraouf/)*

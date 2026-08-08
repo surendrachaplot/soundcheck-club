@@ -1,6 +1,6 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at National Union Building, Washington DC on Sat, 8 Aug 2026.
+Kai Alce is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at National Union Building, Washington DC on Sat, 8 Aug 2026.
 
 Kai Alce is a house and deep house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and DJ Spen. Next up: National Union Building, Washingtondc on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 83 sets lo
 
 DJ Kemit, Ash Lauryn, DJ Spen
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

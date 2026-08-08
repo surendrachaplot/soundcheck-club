@@ -1,14 +1,13 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 7 Aug 2026.
+Clarisa Kimskii is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TRAUM, Antwerp on Sat, 8 Aug 2026.
 
-Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: CLUB RAUM, Amsterdam on Fri 7 Aug.
+Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: TRAUM, Antwerp on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | CLUB RAUM | Amsterdam |
 | Sat, 8 Aug 2026 | TRAUM | Antwerp |
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Sept 2026 | The Chocolate Factory | New York City |
@@ -19,6 +18,7 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 set
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Fri, 7 Aug 2026
 - Nowadays, New York City — Sat, 25 Jul 2026
 - TBA - 4211 Todd Ln Suite A, Austin — Fri, 24 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
@@ -26,10 +26,9 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 set
 - Brutus, Rotterdam — Sat, 27 Jun 2026
 - The Island, Bristol — Sat, 13 Jun 2026
 - Signal, New York City — Sun, 7 Jun 2026
-- BASIS, Utrecht — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

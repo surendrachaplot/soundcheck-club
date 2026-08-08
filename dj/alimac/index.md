@@ -1,6 +1,6 @@
 # Alimac
 
-Alimac is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 29 Aug 2026.
+Alimac is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tempio del Futuro Perduto, Milan on Sat, 29 Aug 2026.
 
 Alimac is an electronic artist based in Brazil, tracked on soundcheck, with 32 sets logged across Milan. Often billed alongside Acidalia, Industrial Romantico and Naydiaa. Next up: Tempio del Futuro Perduto, Milan on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alimac is an electronic artist based in Brazil, tracked on soundcheck, with 32 s
 
 Acidalia, Industrial Romantico, Naydiaa
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alimac/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alimac/)*

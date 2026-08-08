@@ -1,6 +1,6 @@
 # SMFORMA
 
-SMFORMA is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hall, Tallinn on Sat, 8 Aug 2026.
+SMFORMA is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hall, Tallinn on Sat, 8 Aug 2026.
 
 SMFORMA is an ebm and industrial artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Madrid and Tallinn and 1 more. Often billed alongside Squaric, Alemal and Alpha Sect. Next up: Hall, Tallinn on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ SMFORMA is an ebm and industrial artist tracked on soundcheck, with 11 sets logg
 
 Squaric, Alemal, Alpha Sect
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smforma/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smforma/)*

@@ -1,6 +1,6 @@
 # Korenberg
 
-Korenberg is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
+Korenberg is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
 
 Korenberg is a house and electronica artist based in Poland, tracked on soundcheck, with 27 sets logged across Warsaw. Often billed alongside GiGi (PL), WEIKUM and Mazi (PL). Next up: Kaskada, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Korenberg is a house and electronica artist based in Poland, tracked on soundche
 
 GiGi (PL), WEIKUM, Mazi (PL)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korenberg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korenberg/)*

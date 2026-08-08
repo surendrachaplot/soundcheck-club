@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Toobris is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Toobris is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Berlin and Brussels and 17 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -29,4 +29,4 @@ Toobris is a techno and house artist tracked on soundcheck, with 50 sets logged 
 
 Freddy K, Alarico, Lobster (NL)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

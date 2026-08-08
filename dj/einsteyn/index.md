@@ -1,6 +1,6 @@
 # einsteyn
 
-einsteyn is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Yellow House, Amsterdam on Fri, 14 Aug 2026.
+einsteyn is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Yellow House, Amsterdam on Fri, 14 Aug 2026.
 
 einsteyn is a house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside AEMS, DJ Kay and DOA (2). Next up: Yellow House, Amsterdam on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ einsteyn is a house artist tracked on soundcheck, with 3 sets logged across Amst
 
 AEMS, DJ Kay, DOA (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/einsteyn/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/einsteyn/)*

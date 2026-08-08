@@ -1,14 +1,13 @@
 # Blå
 
-Blå is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Pearson Sound (Hessle Audio) & DJ Sprinter" on Fri, 7 Aug 2026.
+Blå is a music venue in Oslo with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "GATEFEST" on Sat, 8 Aug 2026.
 
-Blå is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including DJ Sprinter, Egyptian Lover, Fredfades and Glayden and 2 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
+Blå is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with line-ups including Egyptian Lover, Fredfades, Glayden and Los Thuthanaka and 2 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Pearson Sound (Hessle Audio) & DJ Sprinter | DJ Sprinter, Pearson Sound |
 | Sat, 8 Aug 2026 | GATEFEST | Loveshy, Morstaq, Nick León, Niilas, Olefonken, Posner, RAUAND I., Simon Tyv, Ta1da, Tia Taro, spr1te |
 | Sat, 8 Aug 2026 | Fredfades b2b Richard Fribert (SE/FR) | Fredfades, Richard Fribert |
 | Sat, 15 Aug 2026 | Prins Thomas - 4 timer DJ-set / BLÅ | Prins Thomas |
@@ -23,4 +22,4 @@ Blå is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with lin
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

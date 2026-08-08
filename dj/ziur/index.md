@@ -1,6 +1,6 @@
 # Ziúr
 
-Ziúr is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
+Ziúr is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
 
 Ziúr is an experimental and club artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside DjRUM, aya and 33EMYBW. Next up: Panke, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ziúr is an experimental and club artist tracked on soundcheck, with 33 sets log
 
 DjRUM, aya, 33EMYBW
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziur/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziur/)*

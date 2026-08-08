@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 17 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "atraktor" on Fri, 7 Aug 2026.
+Club Metro is a music venue in Kyoto with 16 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DEN-EN" on Sat, 8 Aug 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 17 upcoming nights, with line-ups including Andy Vaz, DMITRI ABSINTHE, Doltz and imus and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 16 upcoming nights, with line-ups including Andy Vaz, DMITRI ABSINTHE, Doltz and imus and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | atraktor |  |
 | Sat, 8 Aug 2026 | DEN-EN | Loe (JP), Tui (1), imus |
 | Sun, 9 Aug 2026 | 3MAN SHOW x 3 MONTHS 'gold' |  |
 | Mon, 10 Aug 2026 | REGGAE Kyotosplash 4 |  |
@@ -18,9 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 17 upcoming nights, w
 | Sat, 15 Aug 2026 | Dachambo「blue dot white line」release tour | SOFT (2) |
 | Sun, 16 Aug 2026 | (((33333))) |  |
 | Fri, 21 Aug 2026 | Japaradiso! -Japanese Disko & City Pop Experience～7th Anniversary with DJ Yoshizawa Dynamite.jp | Ryoma Sasaki |
+| Sat, 22 Aug 2026 | platform | Doltz |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

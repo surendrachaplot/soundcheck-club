@@ -1,6 +1,6 @@
 # Rafa Balera
 
-Rafa Balera is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Raumerweiterungshalle, Berlin on Sat, 15 Aug 2026.
+Rafa Balera is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Raumerweiterungshalle, Berlin on Sat, 15 Aug 2026.
 
 Rafa Balera is a house and disco artist tracked on soundcheck, with 32 sets logged across Berlin, Lisbon and Saopaulo. Often billed alongside Mirands, Paulete Lindacelva and Aerobica. Next up: Raumerweiterungshalle, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Rafa Balera is a house and disco artist tracked on soundcheck, with 32 sets logg
 
 Mirands, Paulete Lindacelva, Aerobica
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*

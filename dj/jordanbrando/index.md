@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Secret Grove, Portland on Sat, 8 Aug 2026.
+Jordan Brando is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Secret Grove, Portland on Sat, 8 Aug 2026.
 
 Jordan Brando is a house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Brisbane and 11 more. Often billed alongside Luke Alessi, William Kiss and Luuk van Dijk. Next up: Secret Grove, Portland on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Jordan Brando is a house and tech house artist tracked on soundcheck, with 41 se
 
 Luke Alessi, William Kiss, Luuk van Dijk
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

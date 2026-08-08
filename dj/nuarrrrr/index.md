@@ -1,6 +1,6 @@
 # nuarrrrr
 
-nuarrrrr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at B-SIDE, Warsaw on Sat, 8 Aug 2026.
+nuarrrrr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at B-SIDE, Warsaw on Sat, 8 Aug 2026.
 
 nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logged across Berlin, Brussels, Krakow and Warsaw. Often billed alongside Nadezh No, Sava (3) and Aslamin. Next up: B-SIDE, Warsaw on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ nuarrrrr is a house and techno artist tracked on soundcheck, with 114 sets logge
 
 Nadezh No, Sava (3), Aslamin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*

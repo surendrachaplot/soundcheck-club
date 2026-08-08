@@ -1,6 +1,6 @@
 # Kago Pengchi
 
-Kago Pengchi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
+Kago Pengchi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
 
 Kago Pengchi is a trance and techno artist based in South Korea, tracked on soundcheck, with 4 sets logged across Seoul. Often billed alongside Casepeat, Kataploks and M42 (1). Next up: Ximxim Bar, Seoul on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Kago Pengchi is a trance and techno artist based in South Korea, tracked on soun
 
 Casepeat, Kataploks, M42 (1)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagopengchi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagopengchi/)*

@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 14 Aug 2026.
+Calussa is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 14 Aug 2026.
 
 Calussa is a house and afro house artist tracked on soundcheck, with 58 sets logged across Austin, Buenosaires, Chicago and Ibiza and 13 more. Often billed alongside BLOND:ISH, Bora Uzer and Max Styler. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Calussa is a house and afro house artist tracked on soundcheck, with 58 sets log
 
 BLOND:ISH, Bora Uzer, Max Styler
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

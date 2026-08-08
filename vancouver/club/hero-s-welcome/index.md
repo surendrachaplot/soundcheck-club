@@ -1,6 +1,6 @@
 # Hero's Welcome
 
-Hero's Welcome is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "August Jazz Jam with Jimi James" on Sun, 9 Aug 2026.
+Hero's Welcome is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "August Jazz Jam with Jimi James" on Sun, 9 Aug 2026.
 
 Hero's Welcome is a music venue in Vancouver listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 3917 Main St, Vancouver, BC V5V 3P3.
 
@@ -16,4 +16,4 @@ Hero's Welcome is a music venue in Vancouver listed on soundcheck. 3 upcoming ni
 
 3917 Main St, Vancouver, BC V5V 3P3, Vancouver
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hero-s-welcome/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hero-s-welcome/)*

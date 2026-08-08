@@ -1,6 +1,6 @@
 # DJ IBON
 
-DJ IBON is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+DJ IBON is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 DJ IBON is a trance and techno artist based in Norway, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside ibon, Matriark and HORNS (1). Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ DJ IBON is a trance and techno artist based in Norway, tracked on soundcheck, wi
 
 ibon, Matriark, HORNS (1)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djibon/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djibon/)*

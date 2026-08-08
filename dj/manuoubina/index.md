@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Avant Garten, Buenos Aires on Wed, 12 Aug 2026.
+Manu Oubiña is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Avant Garten, Buenos Aires on Wed, 12 Aug 2026.
 
 Manu Oubiña is a house and electro artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside LUKAS (4), Guile and Medano. Next up: Avant Garten, Buenosaires on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 114 sets 
 
 LUKAS (4), Guile, Medano
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

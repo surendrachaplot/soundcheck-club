@@ -1,8 +1,8 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Ueberrest is a Techno and Trance artist with 18 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Ueberrest is a techno and trance artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Ueberrest is a techno and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 86 sets logg
 
 Kobosil, Somewhen, KUKO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

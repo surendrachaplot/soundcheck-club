@@ -1,14 +1,15 @@
 # DB Cooper
 
-DB Cooper is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
+DB Cooper is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
 
-DB Cooper is a drum & bass and bass artist based in United States of America, tracked on soundcheck, with 28 sets logged across Chicago and Miami. Often billed alongside DJ Tamsom, Topher the Alien and Sel.6. Next up: Floyd, Miami on Sat 8 Aug.
+DB Cooper is a bass and drum & bass artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago and Miami. Often billed alongside DJ Tamsom, Topher the Alien and Roll-e. Next up: Floyd, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Floyd | Miami |
+| Thu, 27 Aug 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DB Cooper is a drum & bass and bass artist based in United States of America, tr
 
 ## Shares bills with
 
-DJ Tamsom, Topher the Alien, Sel.6
+DJ Tamsom, Topher the Alien, Roll-e
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbcooper/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbcooper/)*

@@ -1,6 +1,6 @@
 # AUDIO DUNE
 
-AUDIO DUNE is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
+AUDIO DUNE is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Brixton Jamm, London on Sat, 8 Aug 2026.
 
 AUDIO DUNE is a garage and jungle artist tracked on soundcheck, with 47 sets logged across Brighton and London. Often billed alongside RACH!, warmluke and JAY-MO. Next up: Brixton Jamm, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ AUDIO DUNE is a garage and jungle artist tracked on soundcheck, with 47 sets log
 
 RACH!, warmluke, JAY-MO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audiodune/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audiodune/)*

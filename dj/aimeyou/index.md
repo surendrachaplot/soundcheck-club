@@ -1,6 +1,6 @@
 # Aimé You
 
-Aimé You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at MH5 Rooftop, Munich on Sat, 8 Aug 2026.
+Aimé You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at MH5 Rooftop, Munich on Sat, 8 Aug 2026.
 
 Aimé You is a house and techno artist tracked on soundcheck, with 59 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside _____.neo, Nikklaas and Seemless. Next up: MH5 Rooftop, Munich on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Aimé You is a house and techno artist tracked on soundcheck, with 59 sets logge
 
 _____.neo, Nikklaas, Seemless
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*

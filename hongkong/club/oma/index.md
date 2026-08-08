@@ -1,6 +1,6 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "New World Club 04" on Sat, 8 Aug 2026.
+OMA is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "New World Club 04" on Sat, 8 Aug 2026.
 
 OMA is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with line-ups including kimmy6.6.6, Saint Bernard and Techa. Browse upcoming dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
@@ -15,4 +15,4 @@ OMA is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with l
 
 Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong, Hong Kong
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*

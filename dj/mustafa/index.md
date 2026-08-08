@@ -1,6 +1,6 @@
 # Mustafa
 
-Mustafa is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eavesdrop, New York City on Sat, 8 Aug 2026.
+Mustafa is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eavesdrop, New York City on Sat, 8 Aug 2026.
 
 Mustafa is a funk / soul and disco artist tracked on soundcheck, with 8 sets logged across Austin and Newyorkcity. Often billed alongside Jay Rezon, Joyhauser and Nafis. Next up: Eavesdrop, Newyorkcity on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Mustafa is a funk / soul and disco artist tracked on soundcheck, with 8 sets log
 
 Jay Rezon, Joyhauser, Nafis
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mustafa/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mustafa/)*

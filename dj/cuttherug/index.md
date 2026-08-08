@@ -1,6 +1,6 @@
 # Cut the Rug
 
-Cut the Rug is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
+Cut the Rug is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
 
 Cut the Rug is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside Lucas Alexander, Finn Nelson and Nick & Nath. Next up: Honey Street Studio, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Cut the Rug is a garage and house artist based in United Kingdom, tracked on sou
 
 Lucas Alexander, Finn Nelson, Nick & Nath
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuttherug/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuttherug/)*

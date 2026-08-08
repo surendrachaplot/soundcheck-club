@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Zur Insel, Frankfurt on Sat, 8 Aug 2026.
+Tau Car is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Zur Insel, Frankfurt on Sat, 8 Aug 2026.
 
 Tau Car is a house and electro artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside International Mac, Edward and Konstantin. Next up: Zur Insel, Frankfurt on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tau Car is a house and electro artist tracked on soundcheck, with 111 sets logge
 
 International Mac, Edward, Konstantin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

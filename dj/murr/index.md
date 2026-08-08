@@ -1,6 +1,6 @@
 # Murr
 
-Murr is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+Murr is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
 
 Murr is a house and minimal artist based in Canada, tracked on soundcheck, with 4 sets logged across Amsterdam, London and Toronto. Often billed alongside DJ Chris (CA), Ale De Tuglie and Daniella Font. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ Murr is a house and minimal artist based in Canada, tracked on soundcheck, with 
 
 DJ Chris (CA), Ale De Tuglie, Daniella Font
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murr/)*

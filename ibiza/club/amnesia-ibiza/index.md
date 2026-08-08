@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 54 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Glitterbox" on Fri, 7 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 53 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Pyramid" on Sun, 9 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 54 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 53 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Glitterbox | Carl Craig, Daisybelle, Derrick Carter, Flight Facilities, Groove Armada, Honey Dijon, Moodymann, Yasmin |
 | Sun, 9 Aug 2026 | Pyramid | 999999999, CAAL, Héctor Oaks, Interplanetary Criminal, Sidney Charles, Silva Bumpa, Yanamaste, ÜBERKIKZ |
 | Mon, 10 Aug 2026 | NRG | Ben Hemsley, DART, Fergie, Kyle Starkey |
 | Tue, 11 Aug 2026 | Joseph Capriati presents Metamorfosi | Clara Cuvé, Daria Kolosova, Fatima Hajji, Joseph Capriati, Kidoo, Luuk van Dijk, Luxi Villar, WhoMadeWho |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 54 upcoming nights
 | Sun, 16 Aug 2026 | Pyramid | Alan Fitzpatrick, Alvaro Medina, Andres Campo, CAAL, Chris Stussy, Deborah De Luca, Estella Boersma, FUMI, Mar-T, Raresh, Ricardo Villalobos, Sidney Charles |
 | Mon, 17 Aug 2026 | NRG | Ben Hemsley, DART, Kyle Starkey, Morgan Seatree, Winson, blk. |
 | Tue, 18 Aug 2026 | Joseph Capriati presents Metamorfosi | Alarico, Amedeo Picone, Antonio Pepe, Ben Klock, Cloonee, Joseph Capriati, Serafina, Traumer |
+| Wed, 19 Aug 2026 | Resistance Ibiza | Adam Beyer, Artbat, CamelPhat |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

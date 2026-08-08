@@ -1,6 +1,6 @@
 # Moso
 
-Moso is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Atdge Seoul, Seoul on Fri, 14 Aug 2026.
+Moso is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Atdge Seoul, Seoul on Fri, 14 Aug 2026.
 
 Moso is a house and disco artist based in South Korea, tracked on soundcheck, with 26 sets logged across Seoul and Tokyo. Often billed alongside Gio (KR), JAMWON and Joshüa. Next up: Atdge Seoul, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Moso is a house and disco artist based in South Korea, tracked on soundcheck, wi
 
 Gio (KR), JAMWON, Joshüa
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moso/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moso/)*

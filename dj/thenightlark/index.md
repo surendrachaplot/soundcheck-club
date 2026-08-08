@@ -1,6 +1,6 @@
 # The Nightlark
 
-The Nightlark is a Disco and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Caley Bar, Edinburgh on Sat, 8 Aug 2026.
+The Nightlark is a Disco and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Caley Bar, Edinburgh on Sat, 8 Aug 2026.
 
 The Nightlark is a disco and post-punk artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Edinburgh and Glasgow. Often billed alongside Moth Girl, Sacred Keys and philomenah. Next up: The Caley Bar, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ The Nightlark is a disco and post-punk artist based in United Kingdom, tracked o
 
 Moth Girl, Sacred Keys, philomenah
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenightlark/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenightlark/)*

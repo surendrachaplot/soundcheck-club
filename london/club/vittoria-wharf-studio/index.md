@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Loose Legs presents: Sticky Dub, joey manzi, LORA S & DREY" on Sat, 8 Aug 2026.
+Vittoria Wharf Studio is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Loose Legs presents: Sticky Dub, joey manzi, LORA S & DREY" on Sat, 8 Aug 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Alfie Aukett, Amaliah, AmeliaBC and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -21,4 +21,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

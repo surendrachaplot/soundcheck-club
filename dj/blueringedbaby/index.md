@@ -1,6 +1,6 @@
 # Blue Ringed Baby
 
-Blue Ringed Baby is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
+Blue Ringed Baby is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
 
 Blue Ringed Baby is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London, Osaka and Tokyo. Often billed alongside Jake de Glanville, SIMMS and ŌKAMI. Next up: Planet Wax, London on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Blue Ringed Baby is a jungle and bass artist based in United Kingdom, tracked on
 
 Jake de Glanville, SIMMS, ŌKAMI
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blueringedbaby/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blueringedbaby/)*

@@ -1,6 +1,6 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Kaptein And Fr8 Train Duo - Upside Down Lounge" on Wed, 9 Sept 2026.
+Goblin is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Kaptein And Fr8 Train Duo - Upside Down Lounge" on Wed, 9 Sept 2026.
 
 Goblin is a music venue in Auckland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
@@ -14,4 +14,4 @@ Goblin is a music venue in Auckland listed on soundcheck. 1 upcoming night. Brow
 
 134 Ponsonby Road, Grey Lynn, Auckland 1011, Auckland
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*

@@ -1,14 +1,13 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Knockdown Center, New York City on Fri, 7 Aug 2026.
+Lindsey Herbert is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Vibehaus ATX, Austin on Fri, 21 Aug 2026.
 
-Lindsey Herbert is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Knockdown Center, Newyorkcity on Fri 7 Aug.
+Lindsey Herbert is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Vibehaus ATX, Austin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Knockdown Center | New York City |
 | Fri, 21 Aug 2026 | Vibehaus ATX | Austin |
 | Sat, 22 Aug 2026 | TBA | Austin |
 | Fri, 28 Aug 2026 | Domicile | Miami |
@@ -19,6 +18,7 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 107 set
 
 ## Recently played
 
+- Knockdown Center, New York City — Fri, 7 Aug 2026
 - BASEMENT, New York City — Fri, 31 Jul 2026
 - Liquid Club, Malta — Sat, 20 Jun 2026
 - Cabaret  Aléatoire, Marseille — Fri, 19 Jun 2026
@@ -26,10 +26,9 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 107 set
 - Russell Industrial Center, Detroit — Sun, 24 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Refuge, New York City — Fri, 8 May 2026
-- TBA - Location With Ticket, Denver — Sat, 2 May 2026
 
 ## Shares bills with
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

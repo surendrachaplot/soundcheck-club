@@ -1,6 +1,6 @@
 # Seb Zito
 
-Seb Zito is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at fabric, London on Sat, 15 Aug 2026.
+Seb Zito is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at fabric, London on Sat, 15 Aug 2026.
 
 Seb Zito is a house and tech house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside Rossko, ACA (YU) and East End Dubs. Next up: fabric, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Seb Zito is a house and tech house artist tracked on soundcheck, with 123 sets l
 
 Rossko, ACA (YU), East End Dubs
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*

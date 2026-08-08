@@ -1,14 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 7 Aug 2026.
+Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Studio Club Malaga, Malaga on Fri 7 Aug.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Studio Club Malaga | Malaga |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 16 Aug 2026 | Escala25 | Lisbon |
 | Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
@@ -23,6 +22,7 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 set
 
 ## Recently played
 
+- Studio Club Malaga, Malaga — Fri, 7 Aug 2026
 - Beton-T, Utrecht — Sat, 1 Aug 2026
 - BASIS, Utrecht — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 31 Jul 2026
@@ -30,10 +30,9 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 161 set
 - DNA Club, Munich — Fri, 3 Jul 2026
 - Kømplex Lisbon, Lisbon — Sat, 27 Jun 2026
 - TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
-- TBA - Lucky Star Munich, Munich — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

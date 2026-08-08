@@ -1,6 +1,6 @@
 # Atrevido
 
-Atrevido is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, San Diego on Sat, 15 Aug 2026.
+Atrevido is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, San Diego on Sat, 15 Aug 2026.
 
 Atrevido is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 16 sets logged across Lisbon, Losangeles, Sandiego and Seattle. Often billed alongside Crushed Peanut, Bill Converse and agraybé. Next up: TBA, Sandiego on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Atrevido is a techno and downtempo artist based in United States of America, tra
 
 Crushed Peanut, Bill Converse, agraybé
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrevido/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrevido/)*

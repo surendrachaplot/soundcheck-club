@@ -1,6 +1,6 @@
 # Stevo Blaque
 
-Stevo Blaque is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Loafers Cocktail Bar, New York City on Sat, 8 Aug 2026.
+Stevo Blaque is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Loafers Cocktail Bar, New York City on Sat, 8 Aug 2026.
 
 Stevo Blaque is a house and club artist tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Djavan Guy, Jaséda Galore and Sade James. Next up: Loafers Cocktail Bar, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Stevo Blaque is a house and club artist tracked on soundcheck, with 16 sets logg
 
 Djavan Guy, Jaséda Galore, Sade James
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevoblaque/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevoblaque/)*

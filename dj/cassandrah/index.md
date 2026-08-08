@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at MODULE, Copenhagen on Sat, 8 Aug 2026.
+cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at MODULE, Copenhagen on Sat, 8 Aug 2026.
 
 cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Rian Wood, La Penderie Noire and Pura Solenne. Next up: MODULE, Copenhagen on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets
 
 Rian Wood, La Penderie Noire, Pura Solenne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

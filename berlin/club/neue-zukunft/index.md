@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "punx'n'kweenz festival" on Fri, 7 Aug 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "King Howl + Stoned Medusa // Neue Zukunft" on Wed, 12 Aug 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Bleach (2), DJ Pendejo, Dornika and Grischa Lichtenberger. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Grischa Lichtenberger. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | punx'n'kweenz festival | Bleach (2), DJ Pendejo, Dornika |
 | Wed, 12 Aug 2026 | King Howl + Stoned Medusa // Neue Zukunft |  |
 | Mon, 17 Aug 2026 | Grischa Lichtenberger, BK UNITED, Hilde Wollenstein (Saga.Domaine label night) | Grischa Lichtenberger |
 | Wed, 19 Aug 2026 | 10¹⁷ (Colin Stetson & Stian Westerhus) |  |
@@ -23,4 +22,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

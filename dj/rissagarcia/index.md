@@ -1,6 +1,6 @@
 # Rissa Garcia
 
-Rissa Garcia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at MAD Radio NYC, New York City on Sat, 8 Aug 2026.
+Rissa Garcia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at MAD Radio NYC, New York City on Sat, 8 Aug 2026.
 
 Rissa Garcia is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Boston, Detroit, Miami and Newyorkcity and 1 more. Often billed alongside Danny Krivit, Ruez and Francois K. Next up: MAD Radio NYC, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rissa Garcia is a house and disco artist based in United States of America, trac
 
 Danny Krivit, Ruez, Francois K
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rissagarcia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rissagarcia/)*

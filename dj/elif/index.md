@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+ELIF is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged ac
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

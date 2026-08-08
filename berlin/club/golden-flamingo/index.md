@@ -1,6 +1,6 @@
 # Golden Flamingo
 
-Golden Flamingo is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "CANCELLED Brudi Summerparty" on Sat, 8 Aug 2026.
+Golden Flamingo is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "CANCELLED Brudi Summerparty" on Sat, 8 Aug 2026.
 
 Golden Flamingo is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Andreas Kraemer, BERLIN, Christian Grade and Daniela Hensel and 2 more. Browse upcoming dates, start times and who's playing. James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Golden Flamingo is a music venue in Berlin listed on soundcheck. 3 upcoming nigh
 
 James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*

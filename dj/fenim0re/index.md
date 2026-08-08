@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Poolen, Copenhagen on Sat, 8 Aug 2026.
+FENIM0RE is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Poolen, Copenhagen on Sat, 8 Aug 2026.
 
 FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Athens and Berlin and 19 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: Poolen, Copenhagen on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 47 sets l
 
 future.666, ÜBERKIKZ, Pōnky
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

@@ -1,8 +1,8 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - East Williamsburg, New York City on Sat, 8 Aug 2026.
+Pablo Romero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - East Williamsburg, New York City on Sat, 8 Aug 2026.
 
-Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 121 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: TBA - East Williamsburg, Newyorkcity on Sat 8 Aug.
+Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 122 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: TBA - East Williamsburg, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | TBA - East Williamsburg | New York City |
 | Sat, 8 Aug 2026 | TBA - East Williamsburg | New York City |
+| Fri, 14 Aug 2026 | MAD Radio NYC | New York City |
 | Sat, 15 Aug 2026 | Le Bain | New York City |
 | Sun, 30 Aug 2026 | TBA - Brooklyn Rooftop | New York City |
 | Mon, 21 Sept 2026 | Bossa Nova Civic Club | New York City |
@@ -29,4 +30,4 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

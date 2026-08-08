@@ -1,6 +1,6 @@
 # Franeva
 
-Franeva is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OST, Berlin on Fri, 14 Aug 2026.
+Franeva is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OST, Berlin on Fri, 14 Aug 2026.
 
 Franeva is a techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Berlin and Paris. Often billed alongside DJ EFE, .JKM and Inverse Element. Next up: OST, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Franeva is a techno artist based in United States of America, tracked on soundch
 
 DJ EFE, .JKM, Inverse Element
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franeva/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franeva/)*

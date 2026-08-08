@@ -1,6 +1,6 @@
 # Delirante
 
-Delirante is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 8 Aug 2026.
+Delirante is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 8 Aug 2026.
 
 Delirante is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Leipzig. Often billed alongside Alfa Cornae, Bélavie and Chami. Next up: Gwuni Mopera Zentrum Leipzig, Leipzig on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Delirante is a techno and drum & bass artist based in Germany, tracked on soundc
 
 Alfa Cornae, Bélavie, Chami
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirante/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirante/)*

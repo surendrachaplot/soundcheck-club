@@ -1,6 +1,6 @@
 # Natasha Roze
 
-Natasha Roze is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wilder als Erwartet, Berlin on Thu, 13 Aug 2026.
+Natasha Roze is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Wilder als Erwartet, Berlin on Thu, 13 Aug 2026.
 
 Natasha Roze is a house and tech house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin and Prague. Often billed alongside LIZZN, MARIE.MOON and AVHD. Next up: Wilder als Erwartet, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Natasha Roze is a house and tech house artist based in United States of America,
 
 LIZZN, MARIE.MOON, AVHD
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natasharoze/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natasharoze/)*

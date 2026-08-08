@@ -1,6 +1,6 @@
 # Wat
 
-Wat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at R Lounge, Tokyo on Tue, 11 Aug 2026.
+Wat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at R Lounge, Tokyo on Tue, 11 Aug 2026.
 
 Wat is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Seoul and Tokyo. Often billed alongside Takayuki Kamiya, Spinnage and Takami. Next up: R Lounge, Tokyo on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Wat is a techno and house artist based in Japan, tracked on soundcheck, with 27 
 
 Takayuki Kamiya, Spinnage, Takami
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wat/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wat/)*

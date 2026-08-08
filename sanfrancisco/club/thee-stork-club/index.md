@@ -1,6 +1,6 @@
 # Thee Stork Club
 
-Thee Stork Club is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Melodies of Love" on Sat, 15 Aug 2026.
+Thee Stork Club is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Melodies of Love" on Sat, 15 Aug 2026.
 
 Thee Stork Club is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including DJ Goth Spice, @djlobottomy, Femmelectric and Jaage. Browse upcoming dates, start times and who's playing. 2330 Telegraph Ave, Oakland, CA 94612.
 
@@ -15,4 +15,4 @@ Thee Stork Club is a music venue in Sanfrancisco listed on soundcheck. 2 upcomin
 
 2330 Telegraph Ave, Oakland, CA 94612, San Francisco/Oakland
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/thee-stork-club/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/thee-stork-club/)*

@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SOUND SOUND HEATWAVE with DJ GUESTLIST, WOLTERS & MORE" on Sat, 8 Aug 2026.
+Schrotty is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SOUND SOUND HEATWAVE with DJ GUESTLIST, WOLTERS & MORE" on Sat, 8 Aug 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including 909 RACING TEAM, A.D.H.S., Adrian Mills and Anna Reusch and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming nights, w
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

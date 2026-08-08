@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Jeff Mills is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Flava Beach, Naples on Sat, 15 Aug 2026.
 
-Jeff Mills is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Jeff Mills is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Flava Beach, Naples on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 15 Aug 2026 | Flava Beach | Naples |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Fri, 28 Aug 2026 | MTELUS | Montreal |
@@ -22,6 +21,7 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 178 sets log
 
 ## Recently played
 
+- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Boston Manor Park, London — Sat, 25 Jul 2026
@@ -29,10 +29,9 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 178 sets log
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - Over & Above KL, Kuala Lumpur — Sun, 31 May 2026
-- RASA, Singapore — Sat, 30 May 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

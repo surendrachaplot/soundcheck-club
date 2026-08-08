@@ -1,6 +1,6 @@
 # Monkey Junkie Funky
 
-Monkey Junkie Funky is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
+Monkey Junkie Funky is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
 
 Monkey Junkie Funky is a club and electronica artist based in Mexico, tracked on soundcheck, with 28 sets logged across Mexicocity. Often billed alongside HMR (MX), Basho and Lyo XS. Next up: TBA, Mexicocity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Monkey Junkie Funky is a club and electronica artist based in Mexico, tracked on
 
 HMR (MX), Basho, Lyo XS
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeyjunkiefunky/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeyjunkiefunky/)*

@@ -1,14 +1,13 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 17 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sam Gellaitry [DJ Set]" on Fri, 7 Aug 2026.
+BERHTA is a music venue in Washington DC with 16 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "PLAYGRND SERIES" on Sat, 8 Aug 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights, with line-ups including 6EJOU, Cassian, Culture Shock and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 16 upcoming nights, with line-ups including 6EJOU, Cassian, Culture Shock and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Sam Gellaitry [DJ Set] | Sam Gellaitry |
 | Sat, 8 Aug 2026 | PLAYGRND SERIES |  |
 | Fri, 14 Aug 2026 | Culture Shock | Culture Shock |
 | Sat, 22 Aug 2026 | OPEN-AIR: Deep Dish | Deep Dish, Dubfire, Sharam |
@@ -18,9 +17,10 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights
 | Fri, 4 Sept 2026 | Mochakk | DURFY, Floorplan, Mochakk, nocapz. |
 | Sat, 5 Sept 2026 | First We Dance |  |
 | Sat, 19 Sept 2026 | OPEN-AIR: DJ MANDY | DJ MANDY |
+| Sat, 19 Sept 2026 | EAT IT UP | Ty Sunderland |
 
 ## Address
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

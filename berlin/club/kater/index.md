@@ -1,14 +1,13 @@
 # Kater
 
-Kater is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Katernacht with GiZ, Nyra, Ben Evers, Diass + more" on Fri, 7 Aug 2026.
+Kater is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Kater x GOOEY" on Sat, 8 Aug 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adri Alibi and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Katernacht with GiZ, Nyra, Ben Evers, Diass + more | Ben Evers, Diass, Dj Diass, GiZ, Mely, Naajet (2), Nyra, Sven Dohse, goldie (2) |
 | Sat, 8 Aug 2026 | Kater x GOOEY | Adriana Ruas, Alfonsvs, Emmanuel K, Jan Ketel, Jennifer Touch, Joe Cleen, Luzie, Meriem S, Norman Weber, Siggatunez, The Brvtalist, Zaatar |
 | Tue, 11 Aug 2026 | The Funky Chicken Club | Disco Gessner |
 | Fri, 14 Aug 2026 | Kater x Bird House | DJ Tara, Elisa Elisa, KC Wray, Lea Czychy, Matthias Meyer, Moehecan, Sydney Blu |
@@ -18,9 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with 
 | Tue, 25 Aug 2026 | The Funky Chicken Club | Daniel Wang, Disco Gessner |
 | Fri, 28 Aug 2026 | 4Q4 ERROR Festival: Heatwave | BLVSH |
 | Fri, 28 Aug 2026 | 4Q4 ERROR Festival: Heatwave | Adri Alibi, Ahni, BLVSH, Baltza, Berfu, CRUSH, Camilla Rae, DJ Trade Trainer, DJ titka, DSGNRPSSY, ESVEAE, Eira, Fluffi, François Dulac, GOOSINDRA, INVERNO, Ina Vietha, Inga Sama, Jimmie, Kat Never, Kidcat, MI$$ JUNIA, Manta, Mer Esnal, NAT(SK), Organza, Panooc, Part-Time Lesbian, Posture, Projekt Gestalten, Prosecco Babes, Reinartz, Robin Flux, Sky Deep, Supergross, Tina von Kugler, Triqi, VRTL, Venus Melissa, Whos He, caipora, elliephunk, eshot (DE), femnms, hi.fí, ilbroccolovolante, materia hache, tee.tee, zikade |
+| Sun, 30 Aug 2026 | 257 x Santamusica with CHKLTE, Topper + more | CHKLTE, SAFA, Topper |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

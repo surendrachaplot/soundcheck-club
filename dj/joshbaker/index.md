@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Knockdown Center, New York City on Sat, 8 Aug 2026.
+Josh Baker is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Knockdown Center, New York City on Sat, 8 Aug 2026.
 
 Josh Baker is a house and tech house artist tracked on soundcheck, with 224 sets logged across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Knockdown Center, Newyorkcity on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 224 sets
 
 Max Dean, Rossi, Prospa
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

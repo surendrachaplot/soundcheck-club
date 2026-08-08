@@ -1,6 +1,6 @@
 # A.dixen
 
-A.dixen is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Klub Werkstatt, Copenhagen on Sat, 15 Aug 2026.
+A.dixen is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Klub Werkstatt, Copenhagen on Sat, 15 Aug 2026.
 
 A.dixen is a garage and uk funky artist tracked on soundcheck, with 30 sets logged across Copenhagen. Often billed alongside DJ JM, Ludvig Poll and Martinez. Next up: Klub Werkstatt, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ A.dixen is a garage and uk funky artist tracked on soundcheck, with 30 sets logg
 
 DJ JM, Ludvig Poll, Martinez
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adixen/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adixen/)*

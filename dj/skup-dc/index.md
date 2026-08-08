@@ -1,6 +1,6 @@
 # Sküp
 
-Sküp is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Fabrica, Washington DC on Sat, 8 Aug 2026.
+Sküp is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Fabrica, Washington DC on Sat, 8 Aug 2026.
 
 Sküp is a house and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Jahsonic, MAXIMILIANO (US) and belizenotbrazil. Next up: La Fabrica, Washingtondc on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Sküp is a house and club artist based in United States of America, tracked on s
 
 Jahsonic, MAXIMILIANO (US), belizenotbrazil
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skup-dc/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skup-dc/)*

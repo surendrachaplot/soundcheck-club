@@ -1,6 +1,6 @@
 # ur kanmani
 
-ur kanmani is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
+ur kanmani is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
 
 ur kanmani is a techno and bass artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside AMLA.DHAS, SRI (1) and Wareshevik. Next up: Mood Ring, Newyorkcity on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ ur kanmani is a techno and bass artist based in United States of America, tracke
 
 AMLA.DHAS, SRI (1), Wareshevik
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urkanmani/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urkanmani/)*

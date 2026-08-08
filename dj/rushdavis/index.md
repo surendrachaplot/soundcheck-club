@@ -1,6 +1,6 @@
 # Rush Davis
 
-Rush Davis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 15 Aug 2026.
+Rush Davis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 15 Aug 2026.
 
 Rush Davis is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Berlin, Cardiff, Edinburgh and Hamburg and 6 more. Often billed alongside Shaun Ross, Ashley Younniä and Saturn Risin9. Next up: Dead Letter No. 9, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Rush Davis is a house and techno artist based in United States of America, track
 
 Shaun Ross, Ashley Younniä, Saturn Risin9
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*

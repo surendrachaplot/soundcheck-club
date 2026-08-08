@@ -1,6 +1,6 @@
 # Almedina (2)
 
-Almedina (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
+Almedina (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
 Almedina (2) is a house and techno artist tracked on soundcheck, with 28 sets logged across Barcelona, Munich, Stuttgart and Vienna. Often billed alongside Olli Rubber, A-DEE and Alles Andere. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Almedina (2) is a house and techno artist tracked on soundcheck, with 28 sets lo
 
 Olli Rubber, A-DEE, Alles Andere
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almedina-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almedina-2/)*

@@ -1,6 +1,6 @@
 # DJ Eastwood
 
-DJ Eastwood is a Afro House and R&B artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
+DJ Eastwood is a Afro House and R&B artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Addington Park, London on Sat, 8 Aug 2026.
 
 DJ Eastwood is an afro house and r&b artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Ill Blu, Pioneer and Shenin Amara. Next up: Addington Park, London on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ DJ Eastwood is an afro house and r&b artist based in United Kingdom, tracked on 
 
 Ill Blu, Pioneer, Shenin Amara
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeastwood/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeastwood/)*

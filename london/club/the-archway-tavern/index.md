@@ -1,6 +1,6 @@
 # The Archway Tavern
 
-The Archway Tavern is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sesiones de Domingo" on Sun, 9 Aug 2026.
+The Archway Tavern is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Sesiones de Domingo" on Sun, 9 Aug 2026.
 
 The Archway Tavern is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 7 Archway Road, London, N19 3TX.
 
@@ -14,4 +14,4 @@ The Archway Tavern is a music venue in London listed on soundcheck. 1 upcoming n
 
 7 Archway Road, London, N19 3TX, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-archway-tavern/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-archway-tavern/)*

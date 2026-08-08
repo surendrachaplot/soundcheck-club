@@ -1,6 +1,6 @@
 # Disco Freaks
 
-Disco Freaks is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Peckham Levels, London on Sat, 31 Oct 2026.
+Disco Freaks is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Peckham Levels, London on Sat, 31 Oct 2026.
 
 Disco Freaks is a disco and house artist tracked on soundcheck, with 18 sets logged across Barcelona and London. Often billed alongside Jazzheadchronic, Aitch B and Al Kent. Next up: Peckham Levels, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Disco Freaks is a disco and house artist tracked on soundcheck, with 18 sets log
 
 Jazzheadchronic, Aitch B, Al Kent
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discofreaks/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discofreaks/)*

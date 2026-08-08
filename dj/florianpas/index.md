@@ -1,6 +1,6 @@
 # Florian Pas
 
-Florian Pas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
+Florian Pas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
 
 Florian Pas is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin and Glasgow. Often billed alongside M A R, CC:NIELOS and Luca Mariaux. Next up: Crack Bellmer, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Florian Pas is a house and techno artist tracked on soundcheck, with 14 sets log
 
 M A R, CC:NIELOS, Luca Mariaux
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*

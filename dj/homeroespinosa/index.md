@@ -1,6 +1,6 @@
 # Homero Espinosa
 
-Homero Espinosa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
+Homero Espinosa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Homero Espinosa is a house and deep house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Detroit, Mexicocity and Sanfrancisco and 1 more. Often billed alongside David Harness, John Glass and Mark Farina. Next up: TBA - Secret Location, Berkeley, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Homero Espinosa is a house and deep house artist based in United States of Ameri
 
 David Harness, John Glass, Mark Farina
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homeroespinosa/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homeroespinosa/)*

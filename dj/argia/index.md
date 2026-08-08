@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Argia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Argia is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Âme, Alican and Manu Strasse. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Argia is a techno and house artist tracked on soundcheck, with 67 sets logged ac
 
 Âme, Alican, Manu Strasse
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

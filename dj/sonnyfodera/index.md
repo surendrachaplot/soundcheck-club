@@ -1,6 +1,6 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+Sonny Fodera is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -36,4 +36,4 @@ Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 se
 
 Danny Howard, Gorgon City, Greta Levska
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*

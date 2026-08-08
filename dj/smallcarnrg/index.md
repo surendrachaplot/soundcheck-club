@@ -1,6 +1,6 @@
 # Small Car NRG
 
-Small Car NRG is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 12 Sept 2026.
+Small Car NRG is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 12 Sept 2026.
 
 Small Car NRG is a club and bass artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Delay Grounds, Henzo and Klahrk. Next up: Avalon Cafe Bermondsey, London on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Small Car NRG is a club and bass artist tracked on soundcheck, with 4 sets logge
 
 Delay Grounds, Henzo, Klahrk
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcarnrg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcarnrg/)*

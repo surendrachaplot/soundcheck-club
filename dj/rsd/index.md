@@ -1,6 +1,6 @@
 # RSD
 
-RSD is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
+RSD is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Cider Box, Bristol on Sat, 15 Aug 2026.
 
 RSD is a dubstep and dub artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Bristol, Leeds and Manchester and 1 more. Often billed alongside LOTU (UK), SGT Pokes and Chad Dubz. Next up: The Cider Box, Bristol on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ RSD is a dubstep and dub artist based in United Kingdom, tracked on soundcheck, 
 
 LOTU (UK), SGT Pokes, Chad Dubz
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsd/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsd/)*

@@ -1,6 +1,6 @@
 # The Darrs
 
-The Darrs is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
+The Darrs is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
 
 The Darrs is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Birmingham, Leeds, Lisbon and London and 1 more. Often billed alongside B.Love, Jenson. and Neb Spook. Next up: The Chapter Hall, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ The Darrs is a house and tech house artist based in United Kingdom, tracked on s
 
 B.Love, Jenson., Neb Spook
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarrs/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarrs/)*

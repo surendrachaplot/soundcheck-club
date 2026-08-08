@@ -1,6 +1,6 @@
 # Palo Canto
 
-Palo Canto is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Dürer Kert, Budapest on Sat, 19 Sept 2026.
+Palo Canto is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Dürer Kert, Budapest on Sat, 19 Sept 2026.
 
 Palo Canto is a downtempo and deep house artist tracked on soundcheck, with 6 sets logged across Budapest. Next up: Dürer Kert, Budapest on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Palo Canto is a downtempo and deep house artist tracked on soundcheck, with 6 se
 - Pontoon Budapest, Budapest — Fri, 27 Jun 2025
 - Turbina, Budapest — Thu, 17 Apr 2025
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palocanto/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palocanto/)*

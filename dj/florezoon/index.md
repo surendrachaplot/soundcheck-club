@@ -1,6 +1,6 @@
 # Florezoon
 
-Florezoon is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
+Florezoon is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
 
 Florezoon is a house and uk funky artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Rotterdam. Often billed alongside Armand Chabert, Ben Diggins and Ansjowvis. Next up: Brewpub Reijngoud, Rotterdam on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Florezoon is a house and uk funky artist based in Netherlands, tracked on soundc
 
 Armand Chabert, Ben Diggins, Ansjowvis
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florezoon/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florezoon/)*

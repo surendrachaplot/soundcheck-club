@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 15 Aug 2026 | Smoke & Mirrors | Chicago |
 | Sun, 16 Aug 2026 | Signal | New York City |
@@ -20,6 +19,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 245 sets lo
 
 ## Recently played
 
+- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Kvarteret, Stockholm — Sat, 1 Aug 2026
 - CLUB RAUM, Amsterdam — Sat, 25 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
@@ -27,10 +27,9 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 245 sets lo
 - Palais de Tokyo, Paris — Sat, 18 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - But, Madrid — Sun, 5 Jul 2026
-- KREUZWERK, Berlin — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

@@ -1,6 +1,6 @@
 # La Lani
 
-La Lani is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Loop51, Amsterdam on Sat, 8 Aug 2026.
+La Lani is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Loop51, Amsterdam on Sat, 8 Aug 2026.
 
 La Lani is a house and disco artist tracked on soundcheck, with 8 sets logged across Adelaide, Amsterdam and Melbourne. Often billed alongside Jack Jelly, BANO (AU) and DylanWrites. Next up: Loop51, Amsterdam on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ La Lani is a house and disco artist tracked on soundcheck, with 8 sets logged ac
 
 Jack Jelly, BANO (AU), DylanWrites
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalani/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalani/)*

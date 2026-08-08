@@ -1,6 +1,6 @@
 # Eastside Jon
 
-Eastside Jon is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Warren Cafe, Detroit on Thu, 13 Aug 2026.
+Eastside Jon is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Warren Cafe, Detroit on Thu, 13 Aug 2026.
 
 Eastside Jon is a funk / soul and disco artist based in United States of America, tracked on soundcheck, with 157 sets logged across Detroit. Often billed alongside ERNO (US), John Collins (US) and dej.y. Next up: Warren Cafe, Detroit on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Eastside Jon is a funk / soul and disco artist based in United States of America
 
 ERNO (US), John Collins (US), dej.y
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsidejon/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsidejon/)*

@@ -1,6 +1,6 @@
 # Neibiss
 
-Neibiss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Octave, Kyoto on Sun, 6 Sept 2026.
+Neibiss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Octave, Kyoto on Sun, 6 Sept 2026.
 
 Neibiss is a house and club artist tracked on soundcheck, with 10 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside MARZY, Towa Tei and Ascalypso. Next up: Octave, Kyoto on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Neibiss is a house and club artist tracked on soundcheck, with 10 sets logged ac
 
 MARZY, Towa Tei, Ascalypso
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neibiss/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neibiss/)*

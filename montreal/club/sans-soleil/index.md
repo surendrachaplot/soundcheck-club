@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Silktits + somebody3lse back in da bass-ment" on Sat, 8 Aug 2026.
+Sans Soleil is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Silktits + somebody3lse back in da bass-ment" on Sat, 8 Aug 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Emiliano Chamandy, matthew909, Silktits and somebody3lse. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -15,4 +15,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 2 upcoming nights
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

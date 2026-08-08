@@ -1,6 +1,6 @@
 # Von Bueno
 
-Von Bueno is a New Wave and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Edge Seoul, Seoul on Sat, 8 Aug 2026.
+Von Bueno is a New Wave and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Edge Seoul, Seoul on Sat, 8 Aug 2026.
 
 Von Bueno is a new wave and bass artist tracked on soundcheck, with 18 sets logged across Seoul. Often billed alongside yuyungsik, Quandol and Uman Therma. Next up: The Edge Seoul, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Von Bueno is a new wave and bass artist tracked on soundcheck, with 18 sets logg
 
 yuyungsik, Quandol, Uman Therma
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbueno/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbueno/)*

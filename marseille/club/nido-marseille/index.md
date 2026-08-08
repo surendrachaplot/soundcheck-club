@@ -1,14 +1,13 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Nido local session - Barda takeover with Easy tiger & Vouiz" on Fri, 7 Aug 2026.
+Nido Marseille is a music venue in Marseille with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Nido club session - curated by Sea Of Sentiments with David Holmes" on Sat, 8 Aug 2026.
 
-Nido Marseille is a music venue in Marseille listed on soundcheck. 12 upcoming nights, with line-ups including David Holmes, Edward, KERN1000 and Markus Sommer and 1 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
+Nido Marseille is a music venue in Marseille listed on soundcheck. 11 upcoming nights, with line-ups including David Holmes, Edward, KERN1000 and Markus Sommer and 1 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Nido local session - Barda takeover with Easy tiger & Vouiz |  |
 | Sat, 8 Aug 2026 | Nido club session - curated by Sea Of Sentiments with David Holmes | David Holmes |
 | Sat, 8 Aug 2026 | Sea Of Sentiments present Aquanest with David Holmes | David Holmes |
 | Thu, 13 Aug 2026 | Nido all night long - Kifran |  |
@@ -18,9 +17,10 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 12 upcoming n
 | Thu, 20 Aug 2026 | Nido - Tintouin takeover  with Arthur Lastmann & Rashin |  |
 | Sat, 22 Aug 2026 | Nido local heros - Tibahuult & Zakir |  |
 | Sat, 22 Aug 2026 | BIG SPIN RECORDS presents SIMSIM at NIDO | KERN1000 |
+| Sat, 12 Sept 2026 | Display w/ Sweely (live), Markus Sommer, Aladdin! | Markus Sommer, Sweely |
 
 ## Address
 
 20 boulevard fifi turin, Marseille
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

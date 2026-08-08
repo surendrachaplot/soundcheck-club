@@ -1,14 +1,13 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sacha Mambo All Night Long" on Fri, 7 Aug 2026.
+Karmakoma is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "De.mur, aleksssa, Rope" on Sat, 8 Aug 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, with line-ups including aleksssa, Ali Guney, Aneri and Ciel and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including aleksssa, Ali Guney, Aneri and Ciel and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Sacha Mambo All Night Long | Sacha Mambo |
 | Sat, 8 Aug 2026 | De.mur, aleksssa, Rope | aleksssa |
 | Sat, 15 Aug 2026 | Ali Güney, Matej Rusmir, lu:ka | Ali Guney, Matej Rusmir, lu:ka |
 | Sat, 22 Aug 2026 | YES | Stevie Whisper |
@@ -21,4 +20,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

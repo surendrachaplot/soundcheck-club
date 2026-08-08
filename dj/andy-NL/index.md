@@ -1,6 +1,6 @@
 # Andy (NL)
 
-Andy (NL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
+Andy (NL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
 Andy (NL) is a house and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Tsepo, Pieter Jansen and ESTRELLA. Next up: RADION, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Andy (NL) is a house and techno artist based in Netherlands, tracked on soundche
 
 Tsepo, Pieter Jansen, ESTRELLA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-NL/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-NL/)*

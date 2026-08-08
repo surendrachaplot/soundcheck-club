@@ -1,6 +1,6 @@
 # MLLE CEE
 
-MLLE CEE is a Latin Bass and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 8 Aug 2026.
+MLLE CEE is a Latin Bass and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Bar Le Ritz PDB, Montreal on Sat, 8 Aug 2026.
 
 MLLE CEE is a latin bass and afro house artist based in Canada, tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside softwarewolfe, CVSTRO and xibaona. Next up: Bar Le Ritz PDB, Montreal on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ MLLE CEE is a latin bass and afro house artist based in Canada, tracked on sound
 
 softwarewolfe, CVSTRO, xibaona
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mllecee/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mllecee/)*

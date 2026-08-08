@@ -1,6 +1,6 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
+Mixfits (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
 
 Mixfits (2) is a house and techno artist tracked on soundcheck, with 37 sets logged across Edinburgh and Glasgow. Often billed alongside Jodie Mooney, TOOKAST and CLEAR UK. Next up: Half-Cut Coffee, Edinburgh on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Mixfits (2) is a house and techno artist tracked on soundcheck, with 37 sets log
 
 Jodie Mooney, TOOKAST, CLEAR UK
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

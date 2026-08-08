@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Flux Fridays: Sandar Sanchez" on Fri, 7 Aug 2026.
+Flux is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "RX Saturdaze: Adriana Lopez" on Sat, 8 Aug 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with line-ups including Adriana Lopez, FJAAK, future.666 and GiGi FM and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -8,9 +8,9 @@ Flux is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Flux Fridays: Sandar Sanchez | Sandar Sánchez |
 | Sat, 8 Aug 2026 | RX Saturdaze: Adriana Lopez | Adriana Lopez |
 | Sat, 15 Aug 2026 | RX Saturdaze: GiGi FM | GiGi FM |
+| Sat, 5 Sept 2026 | 3HZ INVITES: UFO95 (live) | Peja, UFO95, obskure |
 | Sat, 19 Sept 2026 | RX Saturdaze: FJAAK | FJAAK |
 | Fri, 2 Oct 2026 | BCCO x RX: FUTURE.666 | Procombo, future.666 |
 | Sat, 10 Oct 2026 | DEFRAGGED x Faction Invites: Ignez | Ignez, Script (GE), Uväll, gwän, undrtow |
@@ -20,4 +20,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with 
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

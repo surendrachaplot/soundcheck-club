@@ -1,6 +1,6 @@
 # ASHTREY
 
-ASHTREY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
+ASHTREY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
 
 ASHTREY is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Samantha Togni, Karlie Marx and TEDESCO. Next up: TILLATEC, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ ASHTREY is a techno and house artist tracked on soundcheck, with 47 sets logged 
 
 Samantha Togni, Karlie Marx, TEDESCO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtrey/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtrey/)*

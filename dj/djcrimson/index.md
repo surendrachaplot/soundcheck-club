@@ -1,6 +1,6 @@
 # DJ Crimson
 
-DJ Crimson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at A38, Budapest on Sat, 8 Aug 2026.
+DJ Crimson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at A38, Budapest on Sat, 8 Aug 2026.
 
 DJ Crimson is a house and deep house artist based in Hungary, tracked on soundcheck, with 30 sets logged across Budapest and Prague. Often billed alongside isu, Maron and Galactic Jackson. Next up: A38, Budapest on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Crimson is a house and deep house artist based in Hungary, tracked on soundch
 
 isu, Maron, Galactic Jackson
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrimson/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrimson/)*

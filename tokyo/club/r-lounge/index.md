@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Peeps" on Fri, 7 Aug 2026.
+R Lounge is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "PsynOpticz Records - Label Party" on Sat, 8 Aug 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 雷庵(RYan), AEMI, ATT and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 雷庵(RYan), AEMI, ATT and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Peeps | JUN INAGAWA, ecec |
 | Sat, 8 Aug 2026 | PsynOpticz Records - Label Party |  |
 | Sat, 8 Aug 2026 | EIGHTY-EIGHT | Light.aka |
 | Mon, 10 Aug 2026 | AXIS |  |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, wit
 | Wed, 19 Aug 2026 | DJ RYOKO HAPPY BIRTHDAY |  |
 | Thu, 20 Aug 2026 | H.O.F | Ëmbyrblume |
 | Fri, 21 Aug 2026 | mewww:Aries | MIDI War, Ruki, meweta, 宇宙チンチラ |
+| Fri, 21 Aug 2026 | R-TRANCE Feat.WILD CARD | AEMI, BEPPU, DJ 34, NDK |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

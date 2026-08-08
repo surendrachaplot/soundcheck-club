@@ -1,6 +1,6 @@
 # AUX_ID
 
-AUX_ID is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
+AUX_ID is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
 
 AUX_ID is a techno artist based in Italy, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Marivs, Anika Kunst and Antwon Faulkner. Next up: Rhythm, Toronto on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ AUX_ID is a techno artist based in Italy, tracked on soundcheck, with 4 sets log
 
 Marivs, Anika Kunst, Antwon Faulkner
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aux_id/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aux_id/)*

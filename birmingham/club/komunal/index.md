@@ -1,14 +1,13 @@
 # komunal
 
-komunal is a music venue in Birmingham with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Flori, Bakes + Huss" on Fri, 7 Aug 2026.
+komunal is a music venue in Birmingham with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Kesone with Justin, Lexeh + Brad Bennett" on Sat, 8 Aug 2026.
 
-komunal is a music venue in Birmingham listed on soundcheck. 8 upcoming nights, with line-ups including Dannheimer, Elliott Boyd, Flori and Tañ. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
+komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming nights, with line-ups including Dannheimer, Elliott Boyd and Tañ. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Flori, Bakes + Huss | Flori |
 | Sat, 8 Aug 2026 | Kesone with Justin, Lexeh + Brad Bennett |  |
 | Sat, 8 Aug 2026 | rekord fair with Danza Wax |  |
 | Fri, 14 Aug 2026 | Asha b2b Vurtea, Crystal Leisure + Vipond |  |
@@ -21,4 +20,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 8 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

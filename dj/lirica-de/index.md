@@ -1,6 +1,6 @@
 # LIRICA
 
-LIRICA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Cova, Hamburg on Sat, 8 Aug 2026.
+LIRICA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Cova, Hamburg on Sat, 8 Aug 2026.
 
 LIRICA is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Shilo, Alexej and CHICHO. Next up: La Cova, Hamburg on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ LIRICA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Shilo, Alexej, CHICHO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*

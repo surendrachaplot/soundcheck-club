@@ -1,6 +1,6 @@
 # Sydney (SP)
 
-Sydney (SP) is a IDM and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Cheek, London on Fri, 11 Sept 2026.
+Sydney (SP) is a IDM and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club Cheek, London on Fri, 11 Sept 2026.
 
 Sydney (SP) is an idm and electro artist tracked on soundcheck, with 10 sets logged across London, Melbourne, Paris and Sanfrancisco and 1 more. Often billed alongside Bonobo, Uggo and DJ PGZ. Next up: Club Cheek, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sydney (SP) is an idm and electro artist tracked on soundcheck, with 10 sets log
 
 Bonobo, Uggo, DJ PGZ
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydney-sp/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydney-sp/)*

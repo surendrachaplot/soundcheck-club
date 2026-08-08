@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 47 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DJ Nori & Lil Mofo" on Fri, 7 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 46 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "KZA & KINYA" on Sat, 8 Aug 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 47 upcoming nights, with line-ups including DJ Emma, DJ Nori, DNG (1) and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 46 upcoming nights, with line-ups including DJ Emma, DJ Nori, DNG (1) and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | DJ Nori & Lil Mofo | DJ Nori, Lil Mofo |
 | Sat, 8 Aug 2026 | KZA & KINYA | KZA |
 | Mon, 10 Aug 2026 | DJ MINOYAMA, DAH-ISHI, ISABELLE & CHEBB |  |
 | Tue, 11 Aug 2026 | RYOSUKE, EDDY & DJ NOTSUYA |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 47 upcoming nights
 | Sat, 15 Aug 2026 | DNG & Nari | DNG (1), Nari (2), Toshiyuki Goto |
 | Mon, 17 Aug 2026 | KANGO, Ohishi & KAI | Ohishi |
 | Tue, 18 Aug 2026 | ZUKIE, KDT & Kenskzm | KDT |
+| Wed, 19 Aug 2026 | HIROSHI KAWANABE & FELINE | FELINE (JP) |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

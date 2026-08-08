@@ -1,6 +1,6 @@
 # NIGHTVVITCH
 
-NIGHTVVITCH is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Xanadu, New York City on Thu, 13 Aug 2026.
+NIGHTVVITCH is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Xanadu, New York City on Thu, 13 Aug 2026.
 
 NIGHTVVITCH is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Boiled Angel, Andi and Ali Berger. Next up: Xanadu, Newyorkcity on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ NIGHTVVITCH is an ebm and industrial artist based in United States of America, t
 
 Boiled Angel, Andi, Ali Berger
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightvvitch/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightvvitch/)*

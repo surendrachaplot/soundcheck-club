@@ -1,6 +1,6 @@
 # Thiago Guiselini
 
-Thiago Guiselini is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Quinta do Joinal, Lisbon on Sat, 8 Aug 2026.
+Thiago Guiselini is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Quinta do Joinal, Lisbon on Sat, 8 Aug 2026.
 
 Thiago Guiselini is a house and club artist based in Brazil, tracked on soundcheck, with 29 sets logged across Lisbon, Porto and Saopaulo. Often billed alongside Francisco Berberan, CVLT and Adam Purnell. Next up: Quinta do Joinal, Lisbon on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Thiago Guiselini is a house and club artist based in Brazil, tracked on soundche
 
 Francisco Berberan, CVLT, Adam Purnell
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagoguiselini/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagoguiselini/)*

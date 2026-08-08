@@ -1,6 +1,6 @@
 # Lacchesi
 
-Lacchesi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kilomètre25, Paris on Fri, 28 Aug 2026.
+Lacchesi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Kilomètre25, Paris on Fri, 28 Aug 2026.
 
 Lacchesi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 47 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Kilomètre25, Paris on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lacchesi is a techno and trance artist tracked on soundcheck, with 163 sets logg
 
 Lorenzo Lacchesi, Mac Declos, Laure Croft
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*

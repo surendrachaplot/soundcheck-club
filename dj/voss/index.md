@@ -1,6 +1,6 @@
 # Voss
 
-Voss is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 8 Aug 2026.
+Voss is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at De Fik Garden, Amsterdam on Sat, 8 Aug 2026.
 
 Voss is a house and minimal techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam. Often billed alongside Daniël, no:attitude and Frank Haag. Next up: De Fik Garden, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Voss is a house and minimal techno artist based in Netherlands, tracked on sound
 
 Daniël, no:attitude, Frank Haag
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*

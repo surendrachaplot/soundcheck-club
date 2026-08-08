@@ -1,6 +1,6 @@
 # Sentiment
 
-Sentiment is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Sentiment is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Sentiment is an electronica artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Zurich. Often billed alongside Ajele, Alissa and Leo Gretener. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Sentiment is an electronica artist based in Switzerland, tracked on soundcheck, 
 
 Ajele, Alissa, Leo Gretener
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sentiment/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sentiment/)*

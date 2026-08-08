@@ -1,6 +1,6 @@
 # DJ MANU (MUNICH)
 
-DJ MANU (MUNICH) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at NY.Club, Munich on Sat, 8 Aug 2026.
+DJ MANU (MUNICH) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at NY.Club, Munich on Sat, 8 Aug 2026.
 
 DJ MANU (MUNICH) is a techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Munich. Often billed alongside Alejandro Alvarez, Lazykid and John Pacheco. Next up: NY.Club, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ MANU (MUNICH) is a techno artist based in Germany, tracked on soundcheck, wit
 
 Alejandro Alvarez, Lazykid, John Pacheco
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanumunich/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanumunich/)*

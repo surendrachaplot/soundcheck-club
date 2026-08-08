@@ -1,6 +1,6 @@
 # Sid Vaga
 
-Sid Vaga is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 8 Aug 2026.
+Sid Vaga is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Summertime Roof Terrace, New York City on Sat, 8 Aug 2026.
 
 Sid Vaga is a house and afro house artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Chris Love, KANZE and AG (NYC). Next up: Summertime Roof Terrace, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sid Vaga is a house and afro house artist tracked on soundcheck, with 12 sets lo
 
 Chris Love, KANZE, AG (NYC)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidvaga/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidvaga/)*

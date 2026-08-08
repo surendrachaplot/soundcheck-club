@@ -1,18 +1,18 @@
 # Bollmann
 
-Bollmann is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Tanzhaus West, Frankfurt on Fri, 7 Aug 2026.
+Bollmann is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at SILO, New York City on Fri, 18 Sept 2026.
 
-Bollmann is a techno and industrial artist tracked on soundcheck, with 92 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: Tanzhaus West, Frankfurt on Fri 7 Aug.
+Bollmann is a techno and industrial artist tracked on soundcheck, with 92 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: SILO, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Tanzhaus West | Frankfurt |
 | Fri, 18 Sept 2026 | SILO | New York City |
 
 ## Recently played
 
+- Tanzhaus West, Frankfurt — Fri, 7 Aug 2026
 - City Hall, Barcelona — Sat, 13 Jun 2026
 - Kilomètre25, Paris — Sat, 6 Jun 2026
 - Elektroküche, Cologne — Fri, 22 May 2026
@@ -20,10 +20,9 @@ Bollmann is a techno and industrial artist tracked on soundcheck, with 92 sets l
 - Lokschuppen Berlin, Berlin — Sat, 11 Apr 2026
 - AMT, Berlin — Sat, 28 Mar 2026
 - DNA Club, Munich — Sat, 7 Feb 2026
-- DSTRKT Club Berlin, Berlin — Tue, 30 Dec 2025
 
 ## Shares bills with
 
 LØUS, FLUCC, Punktmidi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*

@@ -1,6 +1,6 @@
 # Delikwe
 
-Delikwe is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ikii, Berlin on Sat, 8 Aug 2026.
+Delikwe is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ikii, Berlin on Sat, 8 Aug 2026.
 
 Delikwe is an ambient and dub artist based in Italy, tracked on soundcheck, with 25 sets logged across Berlin, Lisbon and Milan. Often billed alongside SALTI, .VRIL and Al Paino. Next up: Ikii, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Delikwe is an ambient and dub artist based in Italy, tracked on soundcheck, with
 
 SALTI, .VRIL, Al Paino
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delikwe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delikwe/)*

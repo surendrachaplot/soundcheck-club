@@ -1,6 +1,6 @@
 # Deco (BE)
 
-Deco (BE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Void Mykonos, Mykonos on Wed, 12 Aug 2026.
+Deco (BE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Void Mykonos, Mykonos on Wed, 12 Aug 2026.
 
 Deco (BE) is an afro house and house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels, Budapest and Ghent and 3 more. Often billed alongside Bastin., John Noseda and Kenny Montana. Next up: Void Mykonos, Mykonos on Wed 12 Aug.
 
@@ -27,4 +27,4 @@ Deco (BE) is an afro house and house artist based in Belgium, tracked on soundch
 
 Bastin., John Noseda, Kenny Montana
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decobe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decobe/)*

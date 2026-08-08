@@ -1,6 +1,6 @@
 # Sammy Boyko
 
-Sammy Boyko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Revír Karlín, Prague on Thu, 13 Aug 2026.
+Sammy Boyko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Revír Karlín, Prague on Thu, 13 Aug 2026.
 
 Sammy Boyko is a techno and house artist tracked on soundcheck, with 34 sets logged across Prague. Often billed alongside Nill Garçon, Shiloff and Misha Jaru. Next up: Revír Karlín, Prague on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Sammy Boyko is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Nill Garçon, Shiloff, Misha Jaru
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyboyko/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyboyko/)*

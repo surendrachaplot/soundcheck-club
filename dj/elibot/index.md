@@ -1,6 +1,6 @@
 # Eli Bot
 
-Eli Bot is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
+Eli Bot is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
 Eli Bot is a trance and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Berlin and Malaga. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Eli Bot is a trance and techno artist based in United States of America, tracked
 
 Deltapeak, bbymeister, jeanska
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibot/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elibot/)*

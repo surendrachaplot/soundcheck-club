@@ -1,6 +1,6 @@
 # Rinzen
 
-Rinzen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Rinzen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Rinzen is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Austin, Chicago and Denver and 9 more. Often billed alongside Robby East, Le Youth and Massane. Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Rinzen is a house and techno artist based in United States of America, tracked o
 
 Robby East, Le Youth, Massane
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*

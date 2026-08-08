@@ -1,18 +1,18 @@
 # Kaeno
 
-Kaeno is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Luka, Seoul on Fri, 7 Aug 2026.
+Kaeno is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
 
-Kaeno is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Boston, London and Losangeles and 3 more. Often billed alongside Casepeat, Kataploks and M42 (1). Next up: Luka, Seoul on Fri 7 Aug.
+Kaeno is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Boston, London and Losangeles and 3 more. Often billed alongside Casepeat, Kataploks and M42 (1). Next up: Ximxim Bar, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Luka | Seoul |
 | Sat, 8 Aug 2026 | Ximxim Bar | Seoul |
 
 ## Recently played
 
+- Luka, Seoul — Fri, 7 Aug 2026
 - Royale, Boston — Fri, 16 Jan 2026
 - The Queen Mary, Los Angeles — Fri, 21 Nov 2025
 - Ohjo Bldg, Tokyo — Sat, 8 Nov 2025
@@ -25,4 +25,4 @@ Kaeno is a techno and trance artist based in United States of America, tracked o
 
 Casepeat, Kataploks, M42 (1)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeno/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeno/)*

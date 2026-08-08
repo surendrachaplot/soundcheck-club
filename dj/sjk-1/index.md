@@ -1,6 +1,6 @@
 # SJK (1)
 
-SJK (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at vurt., Seoul on Sat, 8 Aug 2026.
+SJK (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at vurt., Seoul on Sat, 8 Aug 2026.
 
 SJK (1) is a techno and experimental artist based in South Korea, tracked on soundcheck, with 29 sets logged across Seoul and Tokyo. Often billed alongside ANSOL, SUZAN (2) and OYYMMIT. Next up: vurt., Seoul on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ SJK (1) is a techno and experimental artist based in South Korea, tracked on sou
 
 ANSOL, SUZAN (2), OYYMMIT
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sjk-1/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sjk-1/)*

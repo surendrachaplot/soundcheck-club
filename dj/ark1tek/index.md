@@ -1,6 +1,6 @@
 # ARK1TEK
 
-ARK1TEK is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
+ARK1TEK is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
 
 ARK1TEK is a techno and electro artist based in Colombia, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside Xela., /ASYNC and Hycastle. Next up: Cherry Beach, Toronto on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ ARK1TEK is a techno and electro artist based in Colombia, tracked on soundcheck,
 
 Xela., /ASYNC, Hycastle
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*

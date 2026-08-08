@@ -1,14 +1,15 @@
 # Bakke
 
-Bakke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Ground at Club Space, Miami on Sat, 8 Aug 2026.
+Bakke is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Ground at Club Space, Miami on Sat, 8 Aug 2026.
 
-Bakke is a house and tech house artist tracked on soundcheck, with 150 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: The Ground at Club Space, Miami on Sat 8 Aug.
+Bakke is a house and tech house artist tracked on soundcheck, with 151 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: The Ground at Club Space, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Ground at Club Space | Miami |
+| Sat, 5 Sept 2026 | Jolene Downtown Miami | Miami |
 | Fri, 18 Sept 2026 | Floyd | Miami |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bakke is a house and tech house artist tracked on soundcheck, with 150 sets logg
 
 Danyelino, Thunderpony, Ms. Mada
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*

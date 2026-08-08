@@ -1,6 +1,6 @@
 # Tzena
 
-Tzena is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+Tzena is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 Tzena is a house and electro artist based in Slovenia, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside Mayell, Markus Sommer and Tim Kern. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tzena is a house and electro artist based in Slovenia, tracked on soundcheck, wi
 
 Mayell, Markus Sommer, Tim Kern
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzena/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzena/)*

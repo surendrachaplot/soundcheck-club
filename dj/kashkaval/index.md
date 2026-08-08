@@ -1,6 +1,6 @@
 # Kash Kaval
 
-Kash Kaval is a Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
+Kash Kaval is a Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
 Kash Kaval is a bass and downtempo artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Tbilisi and Thehague. Often billed alongside Torus, 751 and Black Cadmium. Next up: Laak, Thehague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kash Kaval is a bass and downtempo artist based in Germany, tracked on soundchec
 
 Torus, 751, Black Cadmium
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashkaval/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kashkaval/)*

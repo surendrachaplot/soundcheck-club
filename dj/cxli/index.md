@@ -1,6 +1,6 @@
 # CXLI
 
-CXLI is a UK Funky and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Jumbi, London on Sun, 9 Aug 2026.
+CXLI is a UK Funky and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Jumbi, London on Sun, 9 Aug 2026.
 
 CXLI is an uk funky and baile funk artist tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside OTDELTA, Ìyáàlù and Papaoul. Next up: Jumbi, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ CXLI is an uk funky and baile funk artist tracked on soundcheck, with 24 sets lo
 
 OTDELTA, Ìyáàlù, Papaoul
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*

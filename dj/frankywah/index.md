@@ -1,6 +1,6 @@
 # Franky Wah
 
-Franky Wah is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Luz De Gas, Barcelona on Sat, 8 Aug 2026.
+Franky Wah is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Luz De Gas, Barcelona on Sat, 8 Aug 2026.
 
 Franky Wah is a techno and house artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Sasha, Artche and Korolova. Next up: Luz De Gas, Barcelona on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Franky Wah is a techno and house artist based in United Kingdom, tracked on soun
 
 Sasha, Artche, Korolova
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*

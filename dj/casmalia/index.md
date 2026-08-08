@@ -1,6 +1,6 @@
 # Casmalia
 
-Casmalia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 12 Aug 2026.
+Casmalia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 12 Aug 2026.
 
 Casmalia is a tech house and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco and 1 more. Often billed alongside Doc Brown, Redux Saints and DJ IDeaL. Next up: F8 1192 Folsom, Sanfrancisco on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Casmalia is a tech house and house artist based in United States of America, tra
 
 Doc Brown, Redux Saints, DJ IDeaL
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casmalia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casmalia/)*

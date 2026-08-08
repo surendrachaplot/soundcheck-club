@@ -1,6 +1,6 @@
 # Evissimax
 
-Evissimax is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Stereo, Glasgow on Sat, 29 Aug 2026.
+Evissimax is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Stereo, Glasgow on Sat, 29 Aug 2026.
 
 Evissimax is a techno and baile funk artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Berlin and Glasgow and 6 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Stereo, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Evissimax is a techno and baile funk artist based in Italy, tracked on soundchec
 
 Slim Soledad, Aiden (DE), Faster Horses
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*

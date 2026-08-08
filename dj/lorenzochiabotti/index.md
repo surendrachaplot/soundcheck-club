@@ -1,6 +1,6 @@
 # Lorenzo Chiabotti
 
-Lorenzo Chiabotti is a Deep House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
+Lorenzo Chiabotti is a Deep House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
 
 Lorenzo Chiabotti is a deep house and breakbeat artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Lisbon, Milan and Prague. Often billed alongside Luc Ringeisen, Cesar Merveille and Clovis. Next up: Club der Visionaere, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Lorenzo Chiabotti is a deep house and breakbeat artist based in Germany, tracked
 
 Luc Ringeisen, Cesar Merveille, Clovis
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzochiabotti/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzochiabotti/)*

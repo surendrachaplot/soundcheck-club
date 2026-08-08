@@ -1,6 +1,6 @@
 # Fuckboyzo
 
-Fuckboyzo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
+Fuckboyzo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - República de Cuba 58, Mexico City on Sat, 8 Aug 2026.
 
 Fuckboyzo is a techno and industrial artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Ivxn, Cabe and DJLOVETHEPARTY. Next up: TBA - República de Cuba 58, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fuckboyzo is a techno and industrial artist based in Mexico, tracked on soundche
 
 Ivxn, Cabe, DJLOVETHEPARTY
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fuckboyzo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fuckboyzo/)*

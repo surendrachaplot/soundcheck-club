@@ -1,14 +1,13 @@
 # erika (SF)
 
-erika (SF) is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+erika (SF) is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Underground SF, San Francisco/Oakland on Sat, 8 Aug 2026.
 
-erika (SF) is a club and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
+erika (SF) is a club and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: Underground SF, Sanfrancisco on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 8 Aug 2026 | Underground SF | San Francisco/Oakland |
 | Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 20 Aug 2026 | H0L0 | New York City |
@@ -17,6 +16,7 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland — Fri, 7 Aug 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 17 Jul 2026
 - F8 1192 Folsom, San Francisco/Oakland — Wed, 1 Jul 2026
 - The San Francisco Mint, San Francisco/Oakland — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 - Public Works, San Francisco/Oakland — Fri, 5 Jun 2026
 - Moongate Lounge, San Francisco/Oakland — Sat, 30 May 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 29 May 2026
-- Public Works, San Francisco/Oakland — Thu, 7 May 2026
 
 ## Shares bills with
 
 sfcowboy, moth (US), Lexicon
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*

@@ -1,6 +1,6 @@
 # Théque Support
 
-Théque Support is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Monkey Loft, Seattle on Sat, 15 Aug 2026.
+Théque Support is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Monkey Loft, Seattle on Sat, 15 Aug 2026.
 
 Théque Support is a disco and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit and Seattle. Often billed alongside Eddie Logix, Hot N' Spicy Disco and Matt Dandois. Next up: The Monkey Loft, Seattle on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Théque Support is a disco and house artist based in United States of America, t
 
 Eddie Logix, Hot N' Spicy Disco, Matt Dandois
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thequesupport/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thequesupport/)*

@@ -1,6 +1,6 @@
 # Granular Heat
 
-Granular Heat is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Hedges Club, Ibiza on Sat, 8 Aug 2026.
+Granular Heat is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hedges Club, Ibiza on Sat, 8 Aug 2026.
 
 Granular Heat is a techno and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Hamburg and Ibiza. Often billed alongside David Bucka, Nikiija and SKKIN VELVET. Next up: Hedges Club, Ibiza on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Granular Heat is a techno and deep house artist based in Germany, tracked on sou
 
 David Bucka, Nikiija, SKKIN VELVET
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/granularheat/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/granularheat/)*

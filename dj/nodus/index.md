@@ -1,6 +1,6 @@
 # NODUS
 
-NODUS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Sun, 9 Aug 2026.
+NODUS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 NODUS is a tech house and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Cologne and Ibiza and 4 more. Often billed alongside Lola Rossa, Juliet Sikora and Orkun Bozdemir. Next up: Tomorrowland Store Ibiza, Ibiza on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ NODUS is a tech house and house artist tracked on soundcheck, with 42 sets logge
 
 Lola Rossa, Juliet Sikora, Orkun Bozdemir
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nodus/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nodus/)*

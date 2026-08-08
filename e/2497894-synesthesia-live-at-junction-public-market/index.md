@@ -1,6 +1,6 @@
 # Synesthesia LIVE at Junction Public Market
 
-Synesthesia LIVE at Junction Public Market on Sat 22 Aug, Vancouver. 1 act on the bill: The Ryze. House and Experimental. Preview the line-up and save it on soundcheck.
+Synesthesia LIVE at Junction Public Market on Sat 22 Aug, Vancouver. 1 act on the bill: The Ryze. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

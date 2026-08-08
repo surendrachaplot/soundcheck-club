@@ -1,14 +1,15 @@
 # moii-chan
 
-moii-chan is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Moss Park, Toronto on Fri, 14 Aug 2026.
+moii-chan is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Moss Park, Toronto on Fri, 14 Aug 2026.
 
-moii-chan is a club and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside 999ADJ, CYLLA and Jelly Monte. Next up: TBA - Moss Park, Toronto on Fri 14 Aug.
+moii-chan is a club and techno artist based in Canada, tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside 999ADJ, CYLLA and Jelly Monte. Next up: TBA - Moss Park, Toronto on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Moss Park | Toronto |
+| Fri, 28 Aug 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ moii-chan is a club and techno artist based in Canada, tracked on soundcheck, wi
 
 999ADJ, CYLLA, Jelly Monte
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moii-chan/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moii-chan/)*

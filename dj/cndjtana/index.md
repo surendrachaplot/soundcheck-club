@@ -1,6 +1,6 @@
 # CN DJ TANA
 
-CN DJ TANA is a Afrobeat and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cococure Haus, London on Sun, 16 Aug 2026.
+CN DJ TANA is a Afrobeat and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Cococure Haus, London on Sun, 16 Aug 2026.
 
 CN DJ TANA is an afrobeat and afrobeats artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside DJ Decimal, Diggz and Toad. Next up: Cococure Haus, London on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ CN DJ TANA is an afrobeat and afrobeats artist based in United Kingdom, tracked 
 
 DJ Decimal, Diggz, Toad
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cndjtana/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cndjtana/)*

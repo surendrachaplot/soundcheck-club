@@ -1,18 +1,19 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at smartbar, Chicago on Fri, 7 Aug 2026.
+Chris Cruse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Process PDX, Portland on Fri, 21 Aug 2026.
 
-Chris Cruse is a house and techno artist based in United States of America, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Austin and Bali and 26 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Roi Perez. Next up: smartbar, Chicago on Fri 7 Aug.
+Chris Cruse is a house and techno artist based in United States of America, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Roi Perez. Next up: Process PDX, Portland on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | smartbar | Chicago |
+| Fri, 21 Aug 2026 | Process PDX | Portland |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
 
+- smartbar, Chicago — Fri, 7 Aug 2026
 - BK Backyard, New York City — Sun, 19 Jul 2026
 - Qncc, New York City — Sat, 11 Jul 2026
 - TBA - Toronto, Toronto — Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ Chris Cruse is a house and techno artist based in United States of America, trac
 - Psstudio, Los Angeles — Sat, 13 Jun 2026
 - TBA - Downtown, Los Angeles — Sat, 13 Jun 2026
 - TBA, New York City — Fri, 12 Jun 2026
-- KREUZWERK, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 Luigi Di Venere, Massimiliano Pagliara, Roi Perez
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*

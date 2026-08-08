@@ -1,6 +1,6 @@
 # SHIRO
 
-SHIRO is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at M-BIA, Berlin on Sat, 8 Aug 2026.
+SHIRO is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at M-BIA, Berlin on Sat, 8 Aug 2026.
 
 SHIRO is a techno and psytrance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Tokyo and Valencia. Often billed alongside MØABEAT, Curl Ease and Momentune. Next up: M-BIA, Berlin on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ SHIRO is a techno and psytrance artist based in Germany, tracked on soundcheck, 
 
 MØABEAT, Curl Ease, Momentune
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shiro-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shiro-de/)*

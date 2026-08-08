@@ -1,6 +1,6 @@
 # Fabio Santos
 
-Fabio Santos is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
+Fabio Santos is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
 
 Fabio Santos is a house and trance artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Fabio Santos is a house and trance artist based in Netherlands, tracked on sound
 
 Michel de Hey, AAT (NL), Benny Rodrigues
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*

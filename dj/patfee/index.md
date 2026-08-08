@@ -1,6 +1,6 @@
 # Pat Fee
 
-Pat Fee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Chicago on Sat, 8 Aug 2026.
+Pat Fee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Chicago on Sat, 8 Aug 2026.
 
 Pat Fee is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Chicago. Often billed alongside samantha rad, Amy Unland and Branko (DJ). Next up: TBA, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Pat Fee is a house and techno artist based in United States of America, tracked 
 
 samantha rad, Amy Unland, Branko (DJ)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patfee/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patfee/)*

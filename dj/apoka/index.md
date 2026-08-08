@@ -1,6 +1,6 @@
 # Apokä
 
-Apokä is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at M7 Club, Barcelona on Sat, 15 Aug 2026.
+Apokä is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at M7 Club, Barcelona on Sat, 15 Aug 2026.
 
 Apokä is a techno artist based in Turkey, tracked on soundcheck, with 21 sets logged across Barcelona. Often billed alongside Rowsi, Siv Hal and Deborah Forti. Next up: M7 Club, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Apokä is a techno artist based in Turkey, tracked on soundcheck, with 21 sets l
 
 Rowsi, Siv Hal, Deborah Forti
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apoka/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apoka/)*

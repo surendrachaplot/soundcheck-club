@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Lane 8 is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Lane 8 is a deep house and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Kaskade and Yotto. Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -29,4 +29,4 @@ Lane 8 is a deep house and house artist based in United States of America, track
 
 Sultan + Shepard, Kaskade, Yotto
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

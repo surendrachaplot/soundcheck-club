@@ -1,6 +1,6 @@
 # páthos
 
-páthos is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 12 Aug 2026.
+páthos is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 12 Aug 2026.
 
 páthos is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Leipzig. Often billed alongside CARGO (DE), YOVA and DJ GUESTLIST. Next up: Lokschuppen Berlin, Berlin on Wed 12 Aug.
 
@@ -20,4 +20,4 @@ páthos is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 CARGO (DE), YOVA, DJ GUESTLIST
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pathos/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pathos/)*

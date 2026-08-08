@@ -1,14 +1,15 @@
 # Roll-e
 
-Roll-e is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
+Roll-e is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Floyd, Miami on Sat, 8 Aug 2026.
 
-Roll-e is a bass and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Miami. Often billed alongside SATURNSARii, Ale Acosta and CHAOS!. Next up: Floyd, Miami on Sat 8 Aug.
+Roll-e is a bass and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Miami. Often billed alongside SATURNSARii, CHAOS! and Ale Acosta. Next up: Floyd, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Floyd | Miami |
+| Thu, 27 Aug 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Roll-e is a bass and house artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-SATURNSARii, Ale Acosta, CHAOS!
+SATURNSARii, CHAOS!, Ale Acosta
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*

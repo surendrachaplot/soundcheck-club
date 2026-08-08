@@ -1,6 +1,6 @@
 # Tada
 
-Tada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at ZUBAR, Tokyo on Fri, 28 Aug 2026.
+Tada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at ZUBAR, Tokyo on Fri, 28 Aug 2026.
 
 Tada is a house and techno artist based in Colombia, tracked on soundcheck, with 31 sets logged across Bangkok and Tokyo. Often billed alongside DJ TADA, Jirus (MELA) and Kova O' Sarin. Next up: ZUBAR, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Tada is a house and techno artist based in Colombia, tracked on soundcheck, with
 
 DJ TADA, Jirus (MELA), Kova O' Sarin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tada/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tada/)*

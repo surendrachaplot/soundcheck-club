@@ -1,6 +1,6 @@
 # Submorphics
 
-Submorphics is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 9 Aug 2026.
+Submorphics is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 9 Aug 2026.
 
 Submorphics is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Bristol and Chicago and 8 more. Often billed alongside Lenzman, MC Fox and khariszma. Next up: F8 1192 Folsom, Sanfrancisco on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Submorphics is a drum & bass and jungle artist based in United States of America
 
 Lenzman, MC Fox, khariszma
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/submorphics/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/submorphics/)*

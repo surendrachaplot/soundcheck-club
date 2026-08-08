@@ -1,6 +1,6 @@
 # Kilig (UK)
 
-Kilig (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Carpet Shop, London on Fri, 23 Oct 2026.
+Kilig (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Carpet Shop, London on Fri, 23 Oct 2026.
 
 Kilig (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Barcelona, Brighton, Cardiff and London and 1 more. Often billed alongside Danny Vito, Liam Cross and Osmaan. Next up: The Carpet Shop, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kilig (UK) is a house and techno artist based in United Kingdom, tracked on soun
 
 Danny Vito, Liam Cross, Osmaan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilig-uk/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilig-uk/)*

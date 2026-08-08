@@ -1,6 +1,6 @@
 # _MARCBA
 
-_MARCBA is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
+_MARCBA is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
 
 _MARCBA is a house and minimal artist tracked on soundcheck, with 31 sets logged across Barcelona. Often billed alongside FLEX.cat, Ion Pananides and Alex Pott. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ _MARCBA is a house and minimal artist tracked on soundcheck, with 31 sets logged
 
 FLEX.cat, Ion Pananides, Alex Pott
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/_marcba/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/_marcba/)*

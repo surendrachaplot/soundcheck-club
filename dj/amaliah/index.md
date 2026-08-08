@@ -1,6 +1,6 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Trädgården, Stockholm on Sat, 8 Aug 2026.
+Amaliah is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Trädgården, Stockholm on Sat, 8 Aug 2026.
 
 Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Trädgården, Stockholm on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged
 
 NIKS, Danielle, Call Super
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

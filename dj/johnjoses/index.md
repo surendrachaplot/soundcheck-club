@@ -1,6 +1,6 @@
 # John Joses
 
-John Joses is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+John Joses is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 John Joses is an electronic artist tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Bombe, Atomlui and Aii PS. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ John Joses is an electronic artist tracked on soundcheck, with 10 sets logged ac
 
 Bombe, Atomlui, Aii PS
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnjoses/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnjoses/)*

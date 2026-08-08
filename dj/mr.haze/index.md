@@ -1,6 +1,6 @@
 # Mr. Haze
 
-Mr. Haze is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wiggle Room, Toronto on Sat, 8 Aug 2026.
+Mr. Haze is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Wiggle Room, Toronto on Sat, 8 Aug 2026.
 
 Mr. Haze is a house and tech house artist based in Canada, tracked on soundcheck, with 21 sets logged across Losangeles and Toronto. Often billed alongside Jason Hodges, Jay NuFunk and Yogi. Next up: Wiggle Room, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mr. Haze is a house and tech house artist based in Canada, tracked on soundcheck
 
 Jason Hodges, Jay NuFunk, Yogi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.haze/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.haze/)*

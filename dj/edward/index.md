@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nocturna, Ibiza on Fri, 21 Aug 2026.
+Edward is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Nocturna, Ibiza on Fri, 21 Aug 2026.
 
 Edward is a house and minimal artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Nocturna, Ibiza on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ Edward is a house and minimal artist tracked on soundcheck, with 130 sets logged
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

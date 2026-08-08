@@ -1,18 +1,18 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Ben Techy is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Budapest and 18 more. Often billed alongside Raxeller, IGDA and KARAH. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
+Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Budapest and 18 more. Often billed alongside Raxeller, IGDA and KARAH. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 
+- Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - DNA Club, Munich — Sat, 4 Jul 2026
 - OST, Berlin — Sat, 27 Jun 2026
 - Afas Live, Amsterdam — Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Adam Riese, Frankfurt — Fri, 29 May 2026
 - Club Exil, Vienna — Thu, 30 Apr 2026
-- Royal Highland Centre, Edinburgh — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Raxeller, IGDA, KARAH
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

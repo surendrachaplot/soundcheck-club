@@ -1,6 +1,6 @@
 # Eren Yildiz
 
-Eren Yildiz is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
+Eren Yildiz is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
 
 Eren Yildiz is a house and afro tech artist based in Turkey, tracked on soundcheck, with 20 sets logged across Amsterdam, Istanbul, London and Milan. Often billed alongside BATU (TR), Mont Rouge and A DEEN. Next up: Kastel, Istanbul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Eren Yildiz is a house and afro tech artist based in Turkey, tracked on soundche
 
 BATU (TR), Mont Rouge, A DEEN
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erenyildiz/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erenyildiz/)*

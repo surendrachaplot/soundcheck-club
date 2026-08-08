@@ -1,6 +1,6 @@
 # Redshift (2)
 
-Redshift (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
+Redshift (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 21 Aug 2026.
 
 Redshift (2) is a house and electro artist tracked on soundcheck, with 23 sets logged across Leeds, London and Newcastle. Often billed alongside Cam Harrop, Dylan Whicher and Eli Shaw. Next up: NUMBER 90 LONDON, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Redshift (2) is a house and electro artist tracked on soundcheck, with 23 sets l
 
 Cam Harrop, Dylan Whicher, Eli Shaw
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redshift-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redshift-2/)*

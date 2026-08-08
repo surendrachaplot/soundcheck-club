@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
+Mike Servito is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Marble Bar, Detroit on Sat, 8 Aug 2026.
 
 Mike Servito is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Erika, Shaun J. Wright and BMG. Next up: Marble Bar, Detroit on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Mike Servito is a house and techno artist tracked on soundcheck, with 279 sets l
 
 Erika, Shaun J. Wright, BMG
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

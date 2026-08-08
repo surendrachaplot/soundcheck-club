@@ -1,6 +1,6 @@
 # DJ Krazy
 
-DJ Krazy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tangent Gallery, Detroit on Sun, 16 Aug 2026.
+DJ Krazy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tangent Gallery, Detroit on Sun, 16 Aug 2026.
 
 DJ Krazy is a techno and house artist tracked on soundcheck, with 24 sets logged across Detroit. Often billed alongside DJ Seoul, Human Robot and DJ I.V.. Next up: Tangent Gallery, Detroit on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ DJ Krazy is a techno and house artist tracked on soundcheck, with 24 sets logged
 
 DJ Seoul, Human Robot, DJ I.V.
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrazy/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrazy/)*

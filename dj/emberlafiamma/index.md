@@ -1,6 +1,6 @@
 # Ember LaFiamma
 
-Ember LaFiamma is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
+Ember LaFiamma is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
 
 Ember LaFiamma is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 28 sets logged across Detroit and Newyorkcity. Often billed alongside we1sman, jamea. and STAKXX. Next up: Trumbullplex, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ember LaFiamma is a techno and ghetto tech artist based in United States of Amer
 
 we1sman, jamea., STAKXX
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emberlafiamma/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emberlafiamma/)*

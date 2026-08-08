@@ -1,6 +1,6 @@
 # Hammer
 
-Hammer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wigwam, Dublin on Sat, 22 Aug 2026.
+Hammer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Wigwam, Dublin on Sat, 22 Aug 2026.
 
 Hammer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Barcelona, Belfast, Boston and Brisbane and 15 more. Often billed alongside Bicep, CAOIMHE and Colin Perkins. Next up: Wigwam, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Hammer is a house and techno artist based in United Kingdom, tracked on soundche
 
 Bicep, CAOIMHE, Colin Perkins
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*

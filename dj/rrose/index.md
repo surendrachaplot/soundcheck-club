@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+Rrose is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
 
 Rrose is a techno and experimental artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Wata Igarashi and Polygonia. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
 
@@ -32,4 +32,4 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 135 sets l
 
 DJ Nobu, Wata Igarashi, Polygonia
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

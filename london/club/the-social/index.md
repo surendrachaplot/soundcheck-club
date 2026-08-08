@@ -1,14 +1,13 @@
 # The Social
 
-The Social is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "LOCALISM: Grizzle (Tom Caslin)" on Fri, 7 Aug 2026.
+The Social is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "LOCALISM: Kate Hutchinson" on Fri, 14 Aug 2026.
 
-The Social is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including dogheadsurigeri, Jason Regan, Jenny Twenty and Kate Hutchinson and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+The Social is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including dogheadsurigeri, Jason Regan, Jenny Twenty and Kate Hutchinson and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | LOCALISM: Grizzle (Tom Caslin) |  |
 | Fri, 14 Aug 2026 | LOCALISM: Kate Hutchinson | Kate Hutchinson |
 | Fri, 21 Aug 2026 | LOCALISM: Jenny Twenty | Jenny Twenty |
 | Sat, 22 Aug 2026 | UNDR SOUNDS LONDON |  |
@@ -20,4 +19,4 @@ The Social is a music venue in London listed on soundcheck. 7 upcoming nights, w
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

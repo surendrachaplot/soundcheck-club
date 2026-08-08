@@ -1,6 +1,6 @@
 # Feardotcom
 
-Feardotcom is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 29 Aug 2026.
+Feardotcom is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 Feardotcom is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 21 sets logged across Boston, Chicago, Montreal and Newyorkcity and 2 more. Often billed alongside Y4NCY, 2004 and Triff (2). Next up: F8 1192 Folsom, Sanfrancisco on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Feardotcom is a hardcore and gabber artist based in United States of America, tr
 
 Y4NCY, 2004, Triff (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feardotcom/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feardotcom/)*

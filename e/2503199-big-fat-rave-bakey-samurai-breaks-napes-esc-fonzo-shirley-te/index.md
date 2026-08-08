@@ -1,6 +1,6 @@
 # Big Fat Rave: Bakey, Samurai Breaks, Napes, ESC, Fonzo, Shirley Temper & More at Beaver Works
 
-Big Fat Rave: Bakey, Samurai Breaks, Napes, ESC, Fonzo, Shirley Temper & More at Beaver Works on Fri 16 Oct, Leeds. 6 acts on the bill: Bakey, ESC (5), Fonzo (UK) and Napes and 2 more. Preview the line-up and save it on soundcheck.
+Big Fat Rave: Bakey, Samurai Breaks, Napes, ESC, Fonzo, Shirley Temper & More at Beaver Works on Fri 16 Oct, Leeds. 6 acts on the bill: Bakey, ESC (5), Fonzo (UK) and Napes and 2 more. Garage and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

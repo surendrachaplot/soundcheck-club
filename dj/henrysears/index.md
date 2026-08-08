@@ -1,6 +1,6 @@
 # Henry Sears
 
-Henry Sears is a Broken Beat and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Low Profile Studios, London on Fri, 14 Aug 2026.
+Henry Sears is a Broken Beat and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Low Profile Studios, London on Fri, 14 Aug 2026.
 
 Henry Sears is a broken beat and funk / soul artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds and London. Often billed alongside saviourofplastic, Alexander Nut and Ariane V. Next up: Low Profile Studios, London on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Henry Sears is a broken beat and funk / soul artist based in United Kingdom, tra
 
 saviourofplastic, Alexander Nut, Ariane V
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysears/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysears/)*

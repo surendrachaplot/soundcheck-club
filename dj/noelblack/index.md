@@ -1,6 +1,6 @@
 # Nöel Black
 
-Nöel Black is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
+Nöel Black is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
 
 Nöel Black is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Maha Kuma, sasababy and ASTER (DJ). Next up: Bossa Nova Civic Club, Newyorkcity on Tue 18 Aug.
 
@@ -24,4 +24,4 @@ Nöel Black is a techno and house artist based in United States of America, trac
 
 Maha Kuma, sasababy, ASTER (DJ)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noelblack/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noelblack/)*

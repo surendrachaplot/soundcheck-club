@@ -1,6 +1,6 @@
 # Surusinghe
 
-Surusinghe is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Surusinghe is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 Surusinghe is a techno and bass artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Blawan, Moktar and Interplanetary Criminal. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Surusinghe is a techno and bass artist tracked on soundcheck, with 141 sets logg
 
 Blawan, Moktar, Interplanetary Criminal
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*

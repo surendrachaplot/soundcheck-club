@@ -1,6 +1,6 @@
 # Telfort
 
-Telfort is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+Telfort is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
 
 Telfort is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Edinburgh and London and 2 more. Often billed alongside Move D, noodle and Privet. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Telfort is a house and deep house artist based in United Kingdom, tracked on sou
 
 Move D, noodle, Privet
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/telfort/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/telfort/)*

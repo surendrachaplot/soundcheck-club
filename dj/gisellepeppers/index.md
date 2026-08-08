@@ -1,6 +1,6 @@
 # Giselle Peppers
 
-Giselle Peppers is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at El Cid, Los Angeles on Fri, 14 Aug 2026.
+Giselle Peppers is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at El Cid, Los Angeles on Fri, 14 Aug 2026.
 
 Giselle Peppers is a reggaeton and house artist tracked on soundcheck, with 85 sets logged across Chicago, Losangeles, Newyorkcity and Sandiego and 1 more. Often billed alongside Cquestt, 88. (1) and DINABN. Next up: El Cid, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Giselle Peppers is a reggaeton and house artist tracked on soundcheck, with 85 s
 
 Cquestt, 88. (1), DINABN
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*

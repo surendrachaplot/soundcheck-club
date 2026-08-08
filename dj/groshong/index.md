@@ -1,6 +1,6 @@
 # Groshong
 
-Groshong is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Sonder Bar, Portland on Thu, 13 Aug 2026.
+Groshong is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Sonder Bar, Portland on Thu, 13 Aug 2026.
 
 Groshong is a house and techno artist tracked on soundcheck, with 5 sets logged across Portland. Often billed alongside Ben Tactic, Carly Barton and Centrikal. Next up: The Sonder Bar, Portland on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ Groshong is a house and techno artist tracked on soundcheck, with 5 sets logged 
 
 Ben Tactic, Carly Barton, Centrikal
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groshong/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groshong/)*

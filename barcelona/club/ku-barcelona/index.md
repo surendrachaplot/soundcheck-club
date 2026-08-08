@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera" on Sun, 9 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera" on Sun, 9 Aug 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alex Now, ATMEN, Ertug Karakas and HARI and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -18,4 +18,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

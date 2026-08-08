@@ -1,6 +1,6 @@
 # Sarkawt Hamad
 
-Sarkawt Hamad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Garage Noord, Amsterdam on Sat, 22 Aug 2026.
+Sarkawt Hamad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Garage Noord, Amsterdam on Sat, 22 Aug 2026.
 
 Sarkawt Hamad is a techno and house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Mary Lake, Nèna and Woody92. Next up: Garage Noord, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sarkawt Hamad is a techno and house artist based in Netherlands, tracked on soun
 
 Mary Lake, Nèna, Woody92
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarkawthamad/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarkawthamad/)*

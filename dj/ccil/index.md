@@ -1,6 +1,6 @@
 # ccil
 
-ccil is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Système, Montreal on Sat, 8 Aug 2026.
+ccil is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Système, Montreal on Sat, 8 Aug 2026.
 
 ccil is a techno and trance artist tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside Meen Moreen, ENAMOR and FASTNSOFT. Next up: Système, Montreal on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ ccil is a techno and trance artist tracked on soundcheck, with 19 sets logged ac
 
 Meen Moreen, ENAMOR, FASTNSOFT
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccil/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccil/)*

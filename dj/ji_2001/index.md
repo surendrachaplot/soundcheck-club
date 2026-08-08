@@ -1,6 +1,6 @@
 # JI_2001
 
-JI_2001 is a Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
+JI_2001 is a Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
 
 JI_2001 is a bass and grime artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Dundee and Edinburgh. Often billed alongside Smiff, Lara Sinclair and Casement. Next up: Half-Cut Coffee, Edinburgh on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ JI_2001 is a bass and grime artist based in United Kingdom, tracked on soundchec
 
 Smiff, Lara Sinclair, Casement
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ji_2001/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ji_2001/)*

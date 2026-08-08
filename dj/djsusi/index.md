@@ -1,6 +1,6 @@
 # DJ SUSI
 
-DJ SUSI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gleis19, Vienna on Fri, 28 Aug 2026.
+DJ SUSI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gleis19, Vienna on Fri, 28 Aug 2026.
 
 DJ SUSI is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin, Munich and Vienna. Often billed alongside Anna Ullrich, Macon and 9LALEY. Next up: Gleis19, Vienna on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DJ SUSI is a techno and trance artist tracked on soundcheck, with 13 sets logged
 
 Anna Ullrich, Macon, 9LALEY
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsusi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsusi/)*

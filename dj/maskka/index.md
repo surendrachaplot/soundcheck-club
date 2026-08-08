@@ -1,6 +1,6 @@
 # Maskka
 
-Maskka is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
+Maskka is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Nice N Sleazy, Glasgow on Tue, 25 Aug 2026.
 
 Maskka is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow. Often billed alongside Bristol Luke, Mellin and ArthurDnB. Next up: Nice N Sleazy, Glasgow on Tue 25 Aug.
 
@@ -22,4 +22,4 @@ Maskka is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Bristol Luke, Mellin, ArthurDnB
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maskka/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maskka/)*

@@ -1,6 +1,6 @@
 # Malena (2)
 
-Malena (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
+Malena (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
 
 Malena (2) is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Leipzig and Prague. Often billed alongside SVERRA, BIGALKE and DJ STIMULA. Next up: Distillery, Leipzig on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Malena (2) is a techno and house artist based in Germany, tracked on soundcheck,
 
 SVERRA, BIGALKE, DJ STIMULA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malena-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malena-2/)*

@@ -1,6 +1,6 @@
 # Modat
 
-Modat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
+Modat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
 
 Modat is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin and Glasgow. Often billed alongside Kairogen, Babyccino and C29STY. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
 
@@ -22,4 +22,4 @@ Modat is a house and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Kairogen, Babyccino, C29STY
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modat/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modat/)*

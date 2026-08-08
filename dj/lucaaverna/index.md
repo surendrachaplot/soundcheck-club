@@ -1,6 +1,6 @@
 # Luca Averna
 
-Luca Averna is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
+Luca Averna is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
 
 Luca Averna is a balearic and house artist tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Copenhagen and Ibiza and 3 more. Often billed alongside Camilo Miranda, Christian Len and Jaime Fiorito. Next up: OXI, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Luca Averna is a balearic and house artist tracked on soundcheck, with 50 sets l
 
 Camilo Miranda, Christian Len, Jaime Fiorito
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaaverna/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaaverna/)*

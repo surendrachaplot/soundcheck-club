@@ -1,6 +1,6 @@
 # Branko (DJ)
 
-Branko (DJ) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Chicago on Sat, 8 Aug 2026.
+Branko (DJ) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Chicago on Sat, 8 Aug 2026.
 
 Branko (DJ) is a techno and house artist based in Serbia, tracked on soundcheck, with 6 sets logged across Chicago. Often billed alongside Pat Fee, Gabriel Palomo and Adorio. Next up: TBA, Chicago on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Branko (DJ) is a techno and house artist based in Serbia, tracked on soundcheck,
 
 Pat Fee, Gabriel Palomo, Adorio
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brankodj/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brankodj/)*

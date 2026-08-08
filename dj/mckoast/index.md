@@ -1,6 +1,6 @@
 # MC Koast
 
-MC Koast is a Amapiano and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+MC Koast is a Amapiano and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 MC Koast is an amapiano and bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside Blackdown, Alix Perez and Atki2. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ MC Koast is an amapiano and bass artist based in United Kingdom, tracked on soun
 
 Blackdown, Alix Perez, Atki2
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mckoast/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mckoast/)*

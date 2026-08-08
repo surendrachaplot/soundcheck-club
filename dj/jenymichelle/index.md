@@ -1,6 +1,6 @@
 # Jeny Michelle
 
-Jeny Michelle is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Apollo Studio, New York City on Sat, 8 Aug 2026.
+Jeny Michelle is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Apollo Studio, New York City on Sat, 8 Aug 2026.
 
 Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundcheck, with 66 sets logged across London, Mexicocity, Newyorkcity and Sandiego. Often billed alongside Auphoria, shanty mane and Amba. Next up: Apollo Studio, Newyorkcity on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundche
 
 Auphoria, shanty mane, Amba
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*

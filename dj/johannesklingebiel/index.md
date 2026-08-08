@@ -1,6 +1,6 @@
 # Johannes Klingebiel
 
-Johannes Klingebiel is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Südpol, Hamburg on Sat, 8 Aug 2026.
+Johannes Klingebiel is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Südpol, Hamburg on Sat, 8 Aug 2026.
 
 Johannes Klingebiel is a house and balearic artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Philipp Fein, Stella Stellar and Sven Dohse. Next up: Südpol, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Johannes Klingebiel is a house and balearic artist based in Germany, tracked on 
 
 Philipp Fein, Stella Stellar, Sven Dohse
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesklingebiel/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesklingebiel/)*

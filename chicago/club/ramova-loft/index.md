@@ -1,6 +1,6 @@
 # Ramova Loft
 
-Ramova Loft is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "South East Collectors" on Sat, 8 Aug 2026.
+Ramova Loft is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "South East Collectors" on Sat, 8 Aug 2026.
 
 Ramova Loft is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including DJ Slugo, Marc Davis and Sadar Bahar. Browse upcoming dates, start times and who's playing. 3520 S Halsted, Chicago IL.
 
@@ -15,4 +15,4 @@ Ramova Loft is a music venue in Chicago listed on soundcheck. 2 upcoming nights,
 
 3520 S Halsted, Chicago IL, Chicago
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/ramova-loft/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/ramova-loft/)*

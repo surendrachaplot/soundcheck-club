@@ -1,6 +1,6 @@
 # Clara Da Costa
 
-Clara Da Costa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 29 Aug 2026.
+Clara Da Costa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Clara Da Costa is a house and minimal artist based in Spain, tracked on soundcheck, with 12 sets logged across Ibiza, Leeds and Prague. Often billed alongside Jason Bye, Allister Whitehead and Andy Baxter. Next up: 528 Ibiza, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Clara Da Costa is a house and minimal artist based in Spain, tracked on soundche
 
 Jason Bye, Allister Whitehead, Andy Baxter
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claradacosta/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claradacosta/)*

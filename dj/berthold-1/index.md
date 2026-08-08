@@ -1,6 +1,6 @@
 # Berthold (1)
 
-Berthold (1) is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tuin van Heden, Ghent on Sun, 16 Aug 2026.
+Berthold (1) is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tuin van Heden, Ghent on Sun, 16 Aug 2026.
 
 Berthold (1) is a bass and trance artist based in Belgium, tracked on soundcheck, with 5 sets logged across Ghent. Often billed alongside Karawane, Mankiyan and TT (NYC). Next up: Tuin van Heden, Ghent on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ Berthold (1) is a bass and trance artist based in Belgium, tracked on soundcheck
 
 Karawane, Mankiyan, TT (NYC)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berthold-1/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berthold-1/)*

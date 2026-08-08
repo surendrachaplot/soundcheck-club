@@ -1,6 +1,6 @@
 # Martin Ikin
 
-Martin Ikin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eden, Ibiza on Thu, 20 Aug 2026.
+Martin Ikin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eden, Ibiza on Thu, 20 Aug 2026.
 
 Martin Ikin is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Austin, Chicago, Cologne and Copenhagen and 14 more. Often billed alongside Mark Knight, Gene Farris and CASSIMM. Next up: Eden, Ibiza on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Martin Ikin is a house and tech house artist based in United Kingdom, tracked on
 
 Mark Knight, Gene Farris, CASSIMM
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinikin/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinikin/)*

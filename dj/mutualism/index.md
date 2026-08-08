@@ -1,6 +1,6 @@
 # Mutualism
 
-Mutualism is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at BASEMENT, New York City on Sat, 22 Aug 2026.
+Mutualism is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at BASEMENT, New York City on Sat, 22 Aug 2026.
 
 Mutualism is a house and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Austin, Barcelona, Berlin and Boston and 10 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: BASEMENT, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mutualism is a house and techno artist based in United States of America, tracke
 
 SPRKLBB, Mutualism (DE), Baronhawk Poitier
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*

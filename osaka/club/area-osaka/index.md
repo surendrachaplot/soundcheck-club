@@ -1,6 +1,6 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "TEST" on Sat, 8 Aug 2026.
+Area_osaka is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "TEST" on Sat, 8 Aug 2026.
 
 Area_osaka is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including CHISE, IKUZO, SCUM PRIEST and Shoki Hayashi and 1 more. Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
@@ -18,4 +18,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 5 upcoming nights, wi
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

@@ -1,6 +1,6 @@
 # Simon Tyv
 
-Simon Tyv is a House and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Simon Tyv is a House and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Simon Tyv is a house and experimental artist tracked on soundcheck, with 11 sets logged across Copenhagen and Oslo. Often billed alongside DJ JM, Olefonken and Posner. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Simon Tyv is a house and experimental artist tracked on soundcheck, with 11 sets
 
 DJ JM, Olefonken, Posner
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simontyv-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simontyv-2/)*

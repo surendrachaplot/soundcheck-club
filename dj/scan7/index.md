@@ -1,6 +1,6 @@
 # Scan 7
 
-Scan 7 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
+Scan 7 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Rhythm, Toronto on Sat, 15 Aug 2026.
 
 Scan 7 is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Detroit, Munich and Newyorkcity and 1 more. Often billed alongside Max Watts, Ash Lauryn and Javonntte. Next up: Rhythm, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Scan 7 is a techno and house artist based in United States of America, tracked o
 
 Max Watts, Ash Lauryn, Javonntte
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scan7/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scan7/)*

@@ -1,6 +1,6 @@
 # Vera Amberg
 
-Vera Amberg is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Vera Amberg is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Vera Amberg is an electronic artist tracked on soundcheck, with 6 sets logged across Zurich. Often billed alongside MARCISM, ADO (DE) and Add FM. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Vera Amberg is an electronic artist tracked on soundcheck, with 6 sets logged ac
 
 MARCISM, ADO (DE), Add FM
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veraamberg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veraamberg/)*

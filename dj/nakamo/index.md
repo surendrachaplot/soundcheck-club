@@ -1,6 +1,6 @@
 # Nakamo
 
-Nakamo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+Nakamo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 Nakamo is a techno and trance artist based in France, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, London and Manchester. Often billed alongside Vindya, Slumber and Arkane. Next up: FOLD, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Nakamo is a techno and trance artist based in France, tracked on soundcheck, wit
 
 Vindya, Slumber, Arkane
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamo/)*

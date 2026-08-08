@@ -1,6 +1,6 @@
 # Zoe from Finance
 
-Zoe from Finance is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 14 Aug 2026.
+Zoe from Finance is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 14 Aug 2026.
 
 Zoe from Finance is an acid and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside Exterior, Hobbes and Davie Miller. Next up: People's Leisure Club, Edinburgh on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Zoe from Finance is an acid and house artist based in United Kingdom, tracked on
 
 Exterior, Hobbes, Davie Miller
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoefromfinance/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoefromfinance/)*

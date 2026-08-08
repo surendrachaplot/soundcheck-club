@@ -1,6 +1,6 @@
 # Isis Moray
 
-Isis Moray is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Mary St Live, Sheffield on Sat, 29 Aug 2026.
+Isis Moray is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mary St Live, Sheffield on Sat, 29 Aug 2026.
 
 Isis Moray is a techno and electronica artist tracked on soundcheck, with 7 sets logged across Leeds and Sheffield. Often billed alongside Alarico, CL:ARK and Cimmerian. Next up: Mary St Live, Sheffield on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Isis Moray is a techno and electronica artist tracked on soundcheck, with 7 sets
 
 Alarico, CL:ARK, Cimmerian
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isismoray/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isismoray/)*

@@ -1,6 +1,6 @@
 # Gregor Welz
 
-Gregor Welz is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Gregor Welz is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Gregor Welz is an electronic artist tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Anna Schreit, Antoine Baiser and Batte. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Gregor Welz is an electronic artist tracked on soundcheck, with 5 sets logged ac
 
 Anna Schreit, Antoine Baiser, Batte
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorwelz/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorwelz/)*

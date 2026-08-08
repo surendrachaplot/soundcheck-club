@@ -1,6 +1,6 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Mietze Conte is a House and Experimental artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
 Mietze Conte is a house and experimental artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Baschoe. Next up: Burgess Park, London on Sat 8 Aug.
 
@@ -35,4 +35,4 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 50 s
 
 1tbsp, DJ Gigola, Baschoe
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

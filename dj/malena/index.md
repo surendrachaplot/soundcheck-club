@@ -1,6 +1,6 @@
 # MALENA
 
-MALENA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+MALENA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 MALENA is a house and techno artist based in Argentina, tracked on soundcheck, with 61 sets logged across Barcelona, Buenosaires, Hamburg and Ibiza and 6 more. Often billed alongside Acidnena, Berenice and Bruno (ES). Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MALENA is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Acidnena, Berenice, Bruno (ES)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malena/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malena/)*

@@ -1,6 +1,6 @@
 # Ciszak
 
-Ciszak is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Spybar, Chicago on Sat, 8 Aug 2026.
+Ciszak is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Spybar, Chicago on Sat, 8 Aug 2026.
 
 Ciszak is a house and tech house artist based in Brazil, tracked on soundcheck, with 16 sets logged across Chicago, Denver, Losangeles and Miami and 4 more. Often billed alongside Ardalan, DJ Minx and Life on Planets. Next up: Spybar, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ciszak is a house and tech house artist based in Brazil, tracked on soundcheck, 
 
 Ardalan, DJ Minx, Life on Planets
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciszak-br/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ciszak-br/)*

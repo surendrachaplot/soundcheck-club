@@ -1,6 +1,6 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+David Löhlein is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 David Löhlein is a techno and trance artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ David Löhlein is a techno and trance artist tracked on soundcheck, with 145 set
 
 Raphael Dincsoy, Rove Ranger, AHURA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

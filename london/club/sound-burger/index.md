@@ -1,6 +1,6 @@
 # Sound Burger
 
-Sound Burger is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "leverson x Sound Burger" on Fri, 21 Aug 2026.
+Sound Burger is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "leverson x Sound Burger" on Fri, 21 Aug 2026.
 
 Sound Burger is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including leverson. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sound Burger is a music venue in London listed on soundcheck. 1 upcoming night, 
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | leverson x Sound Burger | leverson |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/sound-burger/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/sound-burger/)*

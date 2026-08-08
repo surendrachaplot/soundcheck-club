@@ -1,6 +1,6 @@
 # The Journey
 
-The Journey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 16 Aug 2026.
+The Journey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 16 Aug 2026.
 
 The Journey is a house and techno artist based in Australia, tracked on soundcheck, with 37 sets logged across Auckland, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Mike Callander, Rachel May and Rem Siman. Next up: Revolver Upstairs, Melbourne on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ The Journey is a house and techno artist based in Australia, tracked on soundche
 
 Mike Callander, Rachel May, Rem Siman
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*

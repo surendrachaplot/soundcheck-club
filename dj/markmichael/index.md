@@ -1,6 +1,6 @@
 # Mark Michael
 
-Mark Michael is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at O der Klub, Vienna on Fri, 2 Oct 2026.
+Mark Michael is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at O der Klub, Vienna on Fri, 2 Oct 2026.
 
 Mark Michael is a techno and tech house artist based in Austria, tracked on soundcheck, with 52 sets logged across Berlin and Vienna. Often billed alongside Albin Brezlan, Manuel Petrik and ESH. Next up: O der Klub, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mark Michael is a techno and tech house artist based in Austria, tracked on soun
 
 Albin Brezlan, Manuel Petrik, ESH
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markmichael/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markmichael/)*

@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 21 Aug 2026.
+L.F.T. is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 21 Aug 2026.
 
 L.F.T. is a techno and electro artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Festnacht, DJ MELL G and Alessandro Adriani. Next up: The Berkeley Suite, Glasgow on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ L.F.T. is a techno and electro artist tracked on soundcheck, with 107 sets logge
 
 Festnacht, DJ MELL G, Alessandro Adriani
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

@@ -1,6 +1,6 @@
 # Toko k
 
-Toko k is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Left Bank, Tbilisi on Fri, 21 Aug 2026.
+Toko k is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Left Bank, Tbilisi on Fri, 21 Aug 2026.
 
 Toko k is a trance and house artist based in Georgia, tracked on soundcheck, with 62 sets logged across Tbilisi. Often billed alongside Gio Shengelia, Giorgi Devadze and Bero. Next up: Left Bank, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Toko k is a trance and house artist based in Georgia, tracked on soundcheck, wit
 
 Gio Shengelia, Giorgi Devadze, Bero
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokok/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tokok/)*

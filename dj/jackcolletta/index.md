@@ -1,6 +1,6 @@
 # Jack Colletta
 
-Jack Colletta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 9 Aug 2026.
+Jack Colletta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 9 Aug 2026.
 
 Jack Colletta is a house and techno artist tracked on soundcheck, with 24 sets logged across Melbourne. Often billed alongside Steve Bleas, Christian Kamitsis and Amity. Next up: Revolver Upstairs, Melbourne on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Jack Colletta is a house and techno artist tracked on soundcheck, with 24 sets l
 
 Steve Bleas, Christian Kamitsis, Amity
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackcolletta/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackcolletta/)*

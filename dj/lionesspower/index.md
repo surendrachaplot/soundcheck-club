@@ -1,6 +1,6 @@
 # Lioness Power
 
-Lioness Power is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 13 Aug 2026.
+Lioness Power is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 13 Aug 2026.
 
 Lioness Power is a dub and dubstep artist tracked on soundcheck, with 16 sets logged across Leeds and Manchester. Often billed alongside Breakfake, Krotone and Felixculpah. Next up: Eastern Bloc Records, Manchester on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Lioness Power is a dub and dubstep artist tracked on soundcheck, with 16 sets lo
 
 Breakfake, Krotone, Felixculpah
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lionesspower/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lionesspower/)*

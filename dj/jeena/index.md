@@ -1,6 +1,6 @@
 # Jeena
 
-Jeena is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
+Jeena is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
 
 Jeena is an ambient and experimental artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Copenhagen and Seoul. Often billed alongside Keeptress, Blu:sh and DINA. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Jeena is an ambient and experimental artist tracked on soundcheck, with 33 sets 
 
 Keeptress, Blu:sh, DINA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeena/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeena/)*

@@ -1,6 +1,6 @@
 # DJ Hazime
 
-DJ Hazime is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at COUNTER CLUB, Tokyo on Thu, 13 Aug 2026.
+DJ Hazime is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at COUNTER CLUB, Tokyo on Thu, 13 Aug 2026.
 
 DJ Hazime is a hip-hop and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Tokyo. Often billed alongside DJ HOKUTO, NikkaNinja and Booth. Next up: COUNTER CLUB, Tokyo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ DJ Hazime is a hip-hop and house artist based in Japan, tracked on soundcheck, w
 
 DJ HOKUTO, NikkaNinja, Booth
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazime-jp/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazime-jp/)*

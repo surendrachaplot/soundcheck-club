@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Stacey Pullen wsg Gene Farris" on Sat, 8 Aug 2026.
+TV Lounge is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Stacey Pullen wsg Gene Farris" on Sat, 8 Aug 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including 888lambchop, Aboudi Issa, Ameera and angela baskets and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -23,4 +23,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 12 upcoming nights, 
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

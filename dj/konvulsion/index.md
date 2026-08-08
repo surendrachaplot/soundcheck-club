@@ -1,14 +1,15 @@
 # Konvulsion
 
-Konvulsion is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Subspace, Denver on Sat, 8 Aug 2026.
+Konvulsion is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Subspace, Denver on Sat, 8 Aug 2026.
 
-Konvulsion is a techno and experimental artist tracked on soundcheck, with 11 sets logged across Denver. Often billed alongside Fiat Luxx, Silent Observer and Above The Shoulders. Next up: Subspace, Denver on Sat 8 Aug.
+Konvulsion is a techno and experimental artist tracked on soundcheck, with 12 sets logged across Denver. Often billed alongside Fiat Luxx, Silent Observer and Above The Shoulders. Next up: Subspace, Denver on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Subspace | Denver |
+| Fri, 28 Aug 2026 | TBA - Denver | Denver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Konvulsion is a techno and experimental artist tracked on soundcheck, with 11 se
 
 Fiat Luxx, Silent Observer, Above The Shoulders
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konvulsion/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konvulsion/)*

@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Kynant" on Fri, 7 Aug 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Ostgut Ton Klubnacht" on Sat, 8 Aug 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including 00rt, Acronym, Agata and Alinka and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including 00rt, Acronym, Agata and Alinka and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Kynant | Aurora Halal, Laura BCR, Richard Akingbehin, Steve Rachmad, Tikiman |
 | Sat, 8 Aug 2026 | Ostgut Ton Klubnacht | Altinbas, Cinthie, Claudio PRC, Efdemin, Fadi Mohem, Fiedel, Gallegos, Gerd Janson, GiGi FM, Inox Traxx, Isabel Soto, JakoJako, Lakuti, Luke Slater, Marcel Dettmann, Nick Höppner, Quelza, Steffi, Tama Sumo, Virginia, nd_baumecker |
 | Thu, 13 Aug 2026 | weeeirdos | Juliana Huxtable, Khloe, LOLSNAKE, TAUREAN (2) |
 | Fri, 14 Aug 2026 | BITE NITE | 00rt, Kim Ann Foxman, Oscar Mulero, P.E.A.R.L., Pablo Bozzi, Phase Fatale, Rrose, Unhuman, Volvox, ketia |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Sat, 22 Aug 2026 | Klubnacht | Amanda Mussi, André Galluzzi, Andy Martin, Banu, DJ MARIA., Deepa, Franziska Berns, Hunee, Kaiser (K S R), Kwartz, Maruwa, Mattias El Mansouri, Nicola Cruz, Norman Nodge, Zombies In Miami |
 | Thu, 27 Aug 2026 | KEYI MAGAZINE | Berlin Bunny, Bézier, Eyesdice, L.F.T., Samantha Togni |
 | Fri, 28 Aug 2026 | Love On The Rocks | Bobby., Fais Le Beau, Giammarco Orsini, Marie Montexier, PARAMIDA, Quest, Quest (IT) |
+| Sat, 29 Aug 2026 | Klubnacht | Amotik, Answer Code Request, Bella Boo, Chami, Clarisa Kimskii, Loren, Newa, Niebla, Oracy, Paul Claude, Shinedoe, Stefan Goldmann, Tau Ceti, Tijana T, Yamour, Âme |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

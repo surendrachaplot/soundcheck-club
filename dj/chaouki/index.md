@@ -1,6 +1,6 @@
 # CHAOUKI
 
-CHAOUKI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 21 Aug 2026.
+CHAOUKI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 21 Aug 2026.
 
 CHAOUKI is a house and techno artist tracked on soundcheck, with 33 sets logged across Boston and Newyorkcity. Often billed alongside Rasaaq, Bintokin and Joe Rizk. Next up: Institute of Contemporary Art, Boston on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CHAOUKI is a house and techno artist tracked on soundcheck, with 33 sets logged 
 
 Rasaaq, Bintokin, Joe Rizk
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*

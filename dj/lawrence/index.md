@@ -1,6 +1,6 @@
 # Lawrence
 
-Lawrence is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Lawrence is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Lawrence is a techno and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Basel and Berlin and 16 more. Often billed alongside Edward, Konstantin and Leafar Legov. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Lawrence is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Edward, Konstantin, Leafar Legov
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*

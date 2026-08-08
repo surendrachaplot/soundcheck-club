@@ -1,6 +1,6 @@
 # iku
 
-iku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - East Williamsburg, New York City on Sat, 8 Aug 2026.
+iku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - East Williamsburg, New York City on Sat, 8 Aug 2026.
 
 iku is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Lisbon and Newyorkcity. Often billed alongside Alex Vinent, Amy Jor and Auphoria. Next up: TBA - East Williamsburg, Newyorkcity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ iku is a techno and house artist based in United States of America, tracked on s
 
 Alex Vinent, Amy Jor, Auphoria
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iku/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iku/)*

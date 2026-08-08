@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Moe present: Sounds of… Colombia: Music of the People (1950s to 1980s) with Dr. Daniel Uribe" on Sat, 8 Aug 2026.
+Atemporal is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Moe present: Sounds of… Colombia: Music of the People (1950s to 1980s) with Dr. Daniel Uribe" on Sat, 8 Aug 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Haseeb Iqbal, Jeena, moe. and Robot Koch and 1 more. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -19,4 +19,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

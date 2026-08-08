@@ -1,6 +1,6 @@
 # Rachel Opert
 
-Rachel Opert is a Italo Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at public records, New York City on Sat, 8 Aug 2026.
+Rachel Opert is a Italo Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at public records, New York City on Sat, 8 Aug 2026.
 
 Rachel Opert is an italo disco and electro artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Mexicocity, Munich and Newyorkcity and 1 more. Often billed alongside gabby cocco, Harim and Kyle Whiting. Next up: public records, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rachel Opert is an italo disco and electro artist based in United States of Amer
 
 gabby cocco, Harim, Kyle Whiting
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelopert/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelopert/)*

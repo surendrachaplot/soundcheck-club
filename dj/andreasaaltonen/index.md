@@ -1,6 +1,6 @@
 # Andreas Aaltonen
 
-Andreas Aaltonen is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Spice H2O, Stockholm on Sat, 8 Aug 2026.
+Andreas Aaltonen is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Spice H2O, Stockholm on Sat, 8 Aug 2026.
 
 Andreas Aaltonen is an electronic artist tracked on soundcheck, with 3 sets logged across Stockholm. Often billed alongside Queen E and towLie. Next up: Spice H2O, Stockholm on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Andreas Aaltonen is an electronic artist tracked on soundcheck, with 3 sets logg
 
 Queen E, towLie
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaaltonen/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaaltonen/)*

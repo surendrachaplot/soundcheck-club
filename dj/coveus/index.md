@@ -1,6 +1,6 @@
 # COVE(US)
 
-COVE(US) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+COVE(US) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 COVE(US) is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Cow Tools, R-DNA and masha latte. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ COVE(US) is a techno and progressive house artist based in United States of Amer
 
 Cow Tools, R-DNA, masha latte
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*

@@ -1,6 +1,6 @@
 # LinkCity
 
-LinkCity is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
+LinkCity is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Half-Cut Coffee, Edinburgh on Sat, 8 Aug 2026.
 
 LinkCity is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Edinburgh, Glasgow and Melbourne. Often billed alongside Jodie Mooney, JI_2001 and Lara Sinclair. Next up: Half-Cut Coffee, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ LinkCity is a techno and garage artist based in United Kingdom, tracked on sound
 
 Jodie Mooney, JI_2001, Lara Sinclair
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linkcity/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linkcity/)*

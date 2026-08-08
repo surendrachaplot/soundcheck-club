@@ -1,6 +1,6 @@
 # Ridgie
 
-Ridgie is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
+Ridgie is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Praterbrücke, Vienna on Sat, 8 Aug 2026.
 
 Ridgie is a techno and breakbeat artist tracked on soundcheck, with 20 sets logged across Vienna. Often billed alongside M41RH, Orens K and LTO.. Next up: Praterbrücke, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ridgie is a techno and breakbeat artist tracked on soundcheck, with 20 sets logg
 
 M41RH, Orens K, LTO.
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ridgie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ridgie/)*

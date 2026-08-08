@@ -1,6 +1,6 @@
 # Jano
 
-Jano is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 28 Aug 2026.
+Jano is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 28 Aug 2026.
 
 Jano is an afro house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brussels, Manchester, Paris and Sanfrancisco and 2 more. Often billed alongside HIDRA, IZIK and MOSTASH. Next up: Fridas Pier, Stuttgart on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jano is an afro house and deep house artist based in United Kingdom, tracked on 
 
 HIDRA, IZIK, MOSTASH
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jano/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jano/)*

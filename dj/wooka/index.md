@@ -1,6 +1,6 @@
 # Wooka
 
-Wooka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 12 Sept 2026.
+Wooka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 12 Sept 2026.
 
 Wooka is a house and tech house artist based in France, tracked on soundcheck, with 22 sets logged across Barcelona, Brussels, Hamburg and London and 4 more. Often billed alongside Viktor Mercier, Brasi and Crowd Control. Next up: Vittoria Wharf Studio, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Wooka is a house and tech house artist based in France, tracked on soundcheck, w
 
 Viktor Mercier, Brasi, Crowd Control
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooka/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooka/)*

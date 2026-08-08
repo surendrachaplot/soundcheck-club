@@ -1,6 +1,6 @@
 # 131bpm
 
-131bpm is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Marmorbar, Berlin on Sat, 8 Aug 2026.
+131bpm is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Marmorbar, Berlin on Sat, 8 Aug 2026.
 
 131bpm is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 24 more. Often billed alongside Camilla Rae, Aaron Blau and Stella Zekri. Next up: Marmorbar, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@
 
 Camilla Rae, Aaron Blau, Stella Zekri
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*

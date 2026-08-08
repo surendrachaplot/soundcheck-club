@@ -1,6 +1,6 @@
 # Jitwam
 
-Jitwam is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Jumbi, London on Sat, 8 Aug 2026.
+Jitwam is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jumbi, London on Sat, 8 Aug 2026.
 
 Jitwam is a house and jazz artist tracked on soundcheck, with 50 sets logged across Bangkok, Barcelona, Brighton and Chicago and 20 more. Often billed alongside Willy Soul, Moodymann and Deepa. Next up: Jumbi, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jitwam is a house and jazz artist tracked on soundcheck, with 50 sets logged acr
 
 Willy Soul, Moodymann, Deepa
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jitwam-us/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jitwam-us/)*

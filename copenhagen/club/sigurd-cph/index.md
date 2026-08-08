@@ -1,14 +1,13 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "2200" on Fri, 7 Aug 2026.
+Sigurd CPH is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Sigurd presents: Keyrah (UK)" on Sat, 8 Aug 2026.
 
-Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including John Vincent, Keyrah, Lisa Fosmark and Slackin Beats. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
+Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including John Vincent, Keyrah, Lisa Fosmark and Slackin Beats. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | 2200 |  |
 | Sat, 8 Aug 2026 | Sigurd presents: Keyrah (UK) | Keyrah |
 | Fri, 14 Aug 2026 | 2200 | Lisa Fosmark |
 | Sat, 15 Aug 2026 | The Remix |  |
@@ -21,4 +20,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 8 upcoming night
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

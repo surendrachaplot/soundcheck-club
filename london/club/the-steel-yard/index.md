@@ -1,14 +1,13 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Klub Verboten x STEELYARD x LONDON" on Fri, 7 Aug 2026.
+The Steel Yard is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Asylum x Online Mak 10's Birthday" on Sat, 8 Aug 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AVANTIME, Bassface, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AVANTIME, Bassface, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Klub Verboten x STEELYARD x LONDON | Gloria Rose, Jeneva, Modlar |
 | Sat, 8 Aug 2026 | The Asylum x Online Mak 10's Birthday | Donae'o, Marcus Nasty, N Fostell, Pioneer, Shenin Amara |
 | Sat, 15 Aug 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *HEADLINERS*! FREE TICKETS & FREE DRINK | Bassface |
 | Sat, 15 Aug 2026 | FREE TICKETS + FREE DRINK - RnB, Afrohouse, Latin house, Reggaeton, Pop - MOTIVE |  |
@@ -18,9 +17,10 @@ The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming nigh
 | Fri, 11 Sept 2026 | Habibis y Azizams: A Middle Eastern / SWANA RAVE (CENTRAL LDN) | Milli, rára |
 | Fri, 25 Sept 2026 | James Zabiela, Henry Saiz  | AVANTIME, Dari-A, Henry Saiz, James Zabiela |
 | Thu, 1 Oct 2026 | Devlin - London |  |
+| Sat, 3 Oct 2026 | Virus - Face 2 Face |  |
 
 ## Address
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

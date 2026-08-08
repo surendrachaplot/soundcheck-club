@@ -1,6 +1,6 @@
 # MLCH
 
-MLCH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
+MLCH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
 
 MLCH is a house and techno artist tracked on soundcheck, with 29 sets logged across Bali, Bangkok, Hongkong and Krakow and 2 more. Often billed alongside DJ Kirby, Guido Balboa and Mamie's. Next up: TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hongkong on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ MLCH is a house and techno artist tracked on soundcheck, with 29 sets logged acr
 
 DJ Kirby, Guido Balboa, Mamie's
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mlch-cn/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mlch-cn/)*

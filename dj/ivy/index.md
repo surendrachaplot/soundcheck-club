@@ -1,6 +1,6 @@
 # Ivy
 
-Ivy is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Socore Factory, Osaka on Thu, 20 Aug 2026.
+Ivy is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Socore Factory, Osaka on Thu, 20 Aug 2026.
 
 Ivy is a club and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Bristol and Detroit and 8 more. Often billed alongside Freda, KAMIKAZE and Mefjus. Next up: Socore Factory, Osaka on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Ivy is a club and electronica artist based in United States of America, tracked 
 
 Freda, KAMIKAZE, Mefjus
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*

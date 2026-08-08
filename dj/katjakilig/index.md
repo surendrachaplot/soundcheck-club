@@ -1,6 +1,6 @@
 # Katja Kilig
 
-Katja Kilig is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Insomnia, Berlin on Sat, 8 Aug 2026.
+Katja Kilig is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Insomnia, Berlin on Sat, 8 Aug 2026.
 
 Katja Kilig is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside CosmiKat, Der Eggert and Diana May. Next up: Insomnia, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Katja Kilig is a techno and tech house artist tracked on soundcheck, with 17 set
 
 CosmiKat, Der Eggert, Diana May
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katjakilig/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katjakilig/)*

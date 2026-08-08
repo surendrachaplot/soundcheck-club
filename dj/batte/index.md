@@ -1,6 +1,6 @@
 # Batte
 
-Batte is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Batte is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Batte is an electronica and downtempo artist tracked on soundcheck, with 22 sets logged across Berlin and Hamburg. Often billed alongside Crew Ombrelle, Neobeo and Sutsche. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Batte is an electronica and downtempo artist tracked on soundcheck, with 22 sets
 
 Crew Ombrelle, Neobeo, Sutsche
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batte/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batte/)*

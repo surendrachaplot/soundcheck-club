@@ -1,8 +1,8 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Sam Gellaitry" on Thu, 20 Aug 2026.
+Concord Music Hall is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Sam Gellaitry" on Thu, 20 Aug 2026.
 
-Concord Music Hall is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Truth. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
+Concord Music Hall is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Truth. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 9 upcoming 
 | Fri, 16 Oct 2026 | NOTD (Lonely In Paradise Tour) |  |
 | Sat, 17 Oct 2026 | Jason Ross [The True North Tour] |  |
 | Fri, 23 Oct 2026 | Truth with CHMURA, MEDICINE PLACE, CØNTRA, WOLF'D | Truth |
+| Fri, 6 Nov 2026 | Jai Wolf [10 Year Anniversary Tour] |  |
 
 ## Address
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

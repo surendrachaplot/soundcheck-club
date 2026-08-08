@@ -1,18 +1,18 @@
 # L-Side
 
-L-Side is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Dune Park, Buenos Aires on Fri, 7 Aug 2026.
+L-Side is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - LOCAL SECRETO, Sao Paulo on Sat, 22 Aug 2026.
 
-L-Side is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Budapest, Buenosaires, London and Manchester and 2 more. Often billed alongside DJ Marky, Level 2 and Bad Boy Orange. Next up: Dune Park, Buenosaires on Fri 7 Aug.
+L-Side is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Budapest, Buenosaires, London and Manchester and 2 more. Often billed alongside DJ Marky, Level 2 and Bad Boy Orange. Next up: TBA - LOCAL SECRETO, Saopaulo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Dune Park | Buenos Aires |
 | Sat, 22 Aug 2026 | TBA - LOCAL SECRETO | Sao Paulo |
 
 ## Recently played
 
+- Dune Park, Buenos Aires — Fri, 7 Aug 2026
 - TBA - LOCAL SECRETO, Sao Paulo — Sat, 25 Jul 2026
 - Hidden, Manchester — Wed, 10 Jun 2026
 - Phonox, London — Sat, 30 May 2026
@@ -20,10 +20,9 @@ L-Side is a drum & bass and jungle artist tracked on soundcheck, with 16 sets lo
 - Laundry, Melbourne — Fri, 12 Dec 2025
 - fabric, London — Sat, 15 Nov 2025
 - D-EDGE, Sao Paulo — Sat, 18 Oct 2025
-- Lote, Sao Paulo — Sun, 31 Aug 2025
 
 ## Shares bills with
 
 DJ Marky, Level 2, Bad Boy Orange
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-side/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-side/)*

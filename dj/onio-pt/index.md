@@ -1,6 +1,6 @@
 # Onio (PT)
 
-Onio (PT) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Ministerium Club, Lisbon on Thu, 13 Aug 2026.
+Onio (PT) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ministerium Club, Lisbon on Thu, 13 Aug 2026.
 
 Onio (PT) is a techno and club artist based in Portugal, tracked on soundcheck, with 29 sets logged across Berlin, Glasgow, Lisbon and Porto. Often billed alongside Caliente Isa, CLYTA and Oldyungmayn. Next up: Ministerium Club, Lisbon on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Onio (PT) is a techno and club artist based in Portugal, tracked on soundcheck, 
 
 Caliente Isa, CLYTA, Oldyungmayn
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onio-pt/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onio-pt/)*

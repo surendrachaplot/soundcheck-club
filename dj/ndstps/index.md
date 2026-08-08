@@ -1,6 +1,6 @@
 # NDSTPS
 
-NDSTPS is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+NDSTPS is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 NDSTPS is a techno and minimal artist based in Spain, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside Yeiks, BENZA and Reptile (ES). Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NDSTPS is a techno and minimal artist based in Spain, tracked on soundcheck, wit
 
 Yeiks, BENZA, Reptile (ES)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ndstps/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ndstps/)*

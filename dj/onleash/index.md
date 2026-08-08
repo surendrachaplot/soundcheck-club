@@ -1,6 +1,6 @@
 # Onleash
 
-Onleash is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Villa, Oslo on Fri, 14 Aug 2026.
+Onleash is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Villa, Oslo on Fri, 14 Aug 2026.
 
 Onleash is a trance and techno artist based in Norway, tracked on soundcheck, with 14 sets logged across Berlin, Glasgow, London and Oslo and 3 more. Often billed alongside Fakethias, AKUMU and Async Figure. Next up: The Villa, Oslo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Onleash is a trance and techno artist based in Norway, tracked on soundcheck, wi
 
 Fakethias, AKUMU, Async Figure
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*

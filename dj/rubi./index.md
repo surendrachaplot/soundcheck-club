@@ -1,6 +1,6 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sewanstraße 258, Berlin on Sat, 8 Aug 2026.
+RuBi. is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sewanstraße 258, Berlin on Sat, 8 Aug 2026.
 
 RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Schalltrichter, ALAN JOE and Danny Roach. Next up: Sewanstraße 258, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 Schalltrichter, ALAN JOE, Danny Roach
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

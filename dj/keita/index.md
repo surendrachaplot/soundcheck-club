@@ -1,6 +1,6 @@
 # KEiTA
 
-KEiTA is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at WOMB, Tokyo on Wed, 19 Aug 2026.
+KEiTA is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at WOMB, Tokyo on Wed, 19 Aug 2026.
 
 KEiTA is a drum & bass and techno artist tracked on soundcheck, with 85 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside DJ AKi, Velocity and Maozon. Next up: WOMB, Tokyo on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ KEiTA is a drum & bass and techno artist tracked on soundcheck, with 85 sets log
 
 DJ AKi, Velocity, Maozon
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keita/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keita/)*

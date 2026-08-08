@@ -1,14 +1,13 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Doudou MD is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
-Doudou MD is a house and techno artist tracked on soundcheck, with 213 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Doudou MD is a house and techno artist tracked on soundcheck, with 213 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 14 Aug 2026 | Radio Radio | Amsterdam |
 | Fri, 4 Sept 2026 | Bassiani | Tbilisi |
@@ -20,6 +19,7 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 213 sets logg
 
 ## Recently played
 
+- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - ISOamsterdam, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -27,10 +27,9 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 213 sets logg
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Plage Privée Parc de Miribel, Lyon — Sat, 27 Jun 2026
 - Hito Scheveningen, The Hague — Sat, 13 Jun 2026
-- Supermarket, Zurich — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Samuel Deep, DJ Senc, Cap
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

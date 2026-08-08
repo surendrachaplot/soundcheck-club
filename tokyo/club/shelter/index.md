@@ -1,14 +1,13 @@
 # SHeLTeR
 
-SHeLTeR is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "soundwalk" on Fri, 7 Aug 2026.
+SHeLTeR is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ALBUM" on Tue, 11 Aug 2026.
 
-SHeLTeR is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including AKIRAM EN, BILLY, Chee Shimizu and Terra. Browse upcoming dates, start times and who's playing. 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan.
+SHeLTeR is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including AKIRAM EN, BILLY, Chee Shimizu and Terra. Browse upcoming dates, start times and who's playing. 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | soundwalk |  |
 | Tue, 11 Aug 2026 | ALBUM |  |
 | Wed, 12 Aug 2026 | EVERY WEDNESDAY |  |
 | Fri, 14 Aug 2026 | Sci-Fi | AKIRAM EN, Chee Shimizu |
@@ -23,4 +22,4 @@ SHeLTeR is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with
 
 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*

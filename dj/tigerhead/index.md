@@ -1,6 +1,6 @@
 # Tigerhead
 
-Tigerhead is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at KALT, Strasbourg on Sat, 15 Aug 2026.
+Tigerhead is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at KALT, Strasbourg on Sat, 15 Aug 2026.
 
 Tigerhead is a techno and electro artist tracked on soundcheck, with 64 sets logged across Basel, Berlin, Brussels and Bucharest and 21 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: KALT, Strasbourg on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Tigerhead is a techno and electro artist tracked on soundcheck, with 64 sets log
 
 Ellen Allien, Bours?, Beau Didier
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*

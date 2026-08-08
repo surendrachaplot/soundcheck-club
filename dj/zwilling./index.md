@@ -1,14 +1,13 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 15 Aug 2026.
 
-zwilling. is a techno and trance artist tracked on soundcheck, with 94 sets logged across Antwerp, Barcelona, Basel and Berlin and 30 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
+zwilling. is a techno and trance artist tracked on soundcheck, with 94 sets logged across Antwerp, Barcelona, Basel and Berlin and 30 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Lokschuppen Berlin, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Sat, 15 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | Airport Würzburg | Nürnberg |
@@ -19,6 +18,7 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 94 sets logg
 
 ## Recently played
 
+- Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 - Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
 - OST, Berlin — Fri, 10 Jul 2026
@@ -26,10 +26,9 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 94 sets logg
 - Superior Ingredients, New York City — Thu, 2 Jul 2026
 - Superior Ingredients, New York City — Thu, 2 Jul 2026
 - The Media Room, San Francisco/Oakland — Fri, 26 Jun 2026
-- Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

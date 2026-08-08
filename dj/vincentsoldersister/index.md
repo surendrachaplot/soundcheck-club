@@ -1,6 +1,6 @@
 # Vincent's Older Sister
 
-Vincent's Older Sister is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Vincent's Older Sister is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Vincent's Older Sister is a baile funk and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Copenhagen, London and Nottingham. Often billed alongside DJ Lukey, Mary Harp and Redline Warriors. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Vincent's Older Sister is a baile funk and house artist based in United Kingdom,
 
 DJ Lukey, Mary Harp, Redline Warriors
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentsoldersister/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentsoldersister/)*

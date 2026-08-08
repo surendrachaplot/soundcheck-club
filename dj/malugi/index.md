@@ -1,15 +1,13 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+MALUGI is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cabaret Voltaire, Edinburgh on Fri, 21 Aug 2026.
 
-MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Finsbury Park, London on Fri 7 Aug.
+MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Cabaret Voltaire, Edinburgh on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Finsbury Park | London |
-| Fri, 7 Aug 2026 | KOKO | London |
 | Fri, 21 Aug 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
@@ -20,20 +18,21 @@ MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged 
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Wed, 21 Oct 2026 | Paradiso | Amsterdam |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Finsbury Park, London — Fri, 7 Aug 2026
+- KOKO, London — Fri, 7 Aug 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
 - [UNVRS], Ibiza — Fri, 10 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- TBA - Park Café, Cologne — Sat, 13 Jun 2026
-- TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
 
 ## Shares bills with
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

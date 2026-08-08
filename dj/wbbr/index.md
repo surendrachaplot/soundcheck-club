@@ -1,6 +1,6 @@
 # WBBR
 
-WBBR is a Drum & Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 23 Aug 2026.
+WBBR is a Drum & Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 23 Aug 2026.
 
 WBBR is a drum & bass and club artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Edinburgh. Often billed alongside Buckfast Barbie, DV60 and Lara Sinclair. Next up: Sneaky Pete's, Edinburgh on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ WBBR is a drum & bass and club artist based in United Kingdom, tracked on soundc
 
 Buckfast Barbie, DV60, Lara Sinclair
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wbbr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wbbr/)*

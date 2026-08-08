@@ -1,6 +1,6 @@
 # Nadav Vee
 
-Nadav Vee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Public Arts, New York City on Sat, 8 Aug 2026.
+Nadav Vee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Public Arts, New York City on Sat, 8 Aug 2026.
 
 Nadav Vee is a house and deep house artist tracked on soundcheck, with 7 sets logged across Miami and Newyorkcity. Often billed alongside Guy Mantzur, Tamir Regev and Jessy Nimni. Next up: Public Arts, Newyorkcity on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Nadav Vee is a house and deep house artist tracked on soundcheck, with 7 sets lo
 
 Guy Mantzur, Tamir Regev, Jessy Nimni
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadavvee/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadavvee/)*

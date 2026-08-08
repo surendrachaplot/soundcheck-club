@@ -1,6 +1,6 @@
 # R-SOHR
 
-R-SOHR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
+R-SOHR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at elipamanoke, Leipzig on Sat, 8 Aug 2026.
 
 R-SOHR is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Leipzig. Often billed alongside DJ STIMULA, LUZI (2) and Nienein. Next up: elipamanoke, Leipzig on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ R-SOHR is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 DJ STIMULA, LUZI (2), Nienein
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-sohr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-sohr/)*

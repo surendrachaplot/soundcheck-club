@@ -1,6 +1,6 @@
 # Civic Grief
 
-Civic Grief is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Switch Bar, Barcelona on Thu, 13 Aug 2026.
+Civic Grief is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Switch Bar, Barcelona on Thu, 13 Aug 2026.
 
 Civic Grief is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Edinburgh and London. Often billed alongside caro.aki, K A I and Sloan (2). Next up: Switch Bar, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Civic Grief is a house and techno artist based in United Kingdom, tracked on sou
 
 caro.aki, K A I, Sloan (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/civicgrief/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/civicgrief/)*

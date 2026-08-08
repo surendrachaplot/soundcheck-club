@@ -1,6 +1,6 @@
 # Apt101club
 
-Apt101club is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "APT101 presents: JOE ROLÉT" on Fri, 14 Aug 2026.
+Apt101club is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "APT101 presents: JOE ROLÉT" on Fri, 14 Aug 2026.
 
 Apt101club is a music venue in Bangkok listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3rd Floor, 233 Sukhumvit Rd, Khwaeng Khlong Toei Nuea, Watthana, Bangkok 10110.
 
@@ -14,4 +14,4 @@ Apt101club is a music venue in Bangkok listed on soundcheck. 1 upcoming night. B
 
 3rd Floor, 233 Sukhumvit Rd, Khwaeng Khlong Toei Nuea, Watthana, Bangkok 10110, Bangkok
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/apt101club/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/apt101club/)*

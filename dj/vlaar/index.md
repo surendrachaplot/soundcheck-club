@@ -1,6 +1,6 @@
 # Vlaar
 
-Vlaar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
+Vlaar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
 
 Vlaar is a house and electro artist based in Spain, tracked on soundcheck, with 9 sets logged across Madrid, Malaga and Mallorca. Often billed alongside Abscal, Aizikovic and Alumno. Next up: Parc de Sa Gravera, Mallorca on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vlaar is a house and electro artist based in Spain, tracked on soundcheck, with 
 
 Abscal, Aizikovic, Alumno
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlaar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlaar/)*

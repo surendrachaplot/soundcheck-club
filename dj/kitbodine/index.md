@@ -1,6 +1,6 @@
 # Kit Bodine
 
-Kit Bodine is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Model, Nottingham on Sat, 15 Aug 2026.
+Kit Bodine is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Model, Nottingham on Sat, 15 Aug 2026.
 
 Kit Bodine is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across London and Nottingham. Often billed alongside Matt Pasche, Mush Love (UK) and Peach Fuzz. Next up: The Model, Nottingham on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Kit Bodine is a techno and trance artist based in United States of America, trac
 
 Matt Pasche, Mush Love (UK), Peach Fuzz
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kitbodine/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kitbodine/)*

@@ -1,6 +1,6 @@
 # Twang
 
-Twang is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
+Twang is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
 
 Twang is a techno and trance artist tracked on soundcheck, with 36 sets logged across Athens, Leipzig, London and Madrid. Often billed alongside TEDESCO, THEMPRESS and ASHTREY. Next up: SMUT Athens, Athens on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Twang is a techno and trance artist tracked on soundcheck, with 36 sets logged a
 
 TEDESCO, THEMPRESS, ASHTREY
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

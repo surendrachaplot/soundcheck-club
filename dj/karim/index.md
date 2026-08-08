@@ -1,6 +1,6 @@
 # Karim
 
-Karim is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
+Karim is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
 
 Karim is a techno and house artist based in Russia, tracked on soundcheck, with 15 sets logged across Bali, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Alsan, Anelle and Bastian Bell. Next up: DNA. CLUB - urban Space, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Karim is a techno and house artist based in Russia, tracked on soundcheck, with 
 
 Alsan, Anelle, Bastian Bell
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karim/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karim/)*

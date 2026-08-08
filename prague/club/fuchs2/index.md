@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "ALLNIGHTER PRIDE EDITION: B-Complex ☆ TRANSmisia" on Fri, 7 Aug 2026.
+Fuchs2 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "MAGION 04 *Pride's Afterparty*" on Sat, 8 Aug 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including Adamatron, aláya, Axis Alpha and Colum Urton and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Adamatron, aláya, Axis Alpha and Colum Urton and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | ALLNIGHTER PRIDE EDITION: B-Complex ☆ TRANSmisia | TRANSmisia |
 | Sat, 8 Aug 2026 | MAGION 04 *Pride's Afterparty* | Adamatron, Axis Alpha, Dj Poperz, JöëK, LuLu (CZ), Mike Starr, Pink Concrete, Refrig, TerminusTechnikus, frujty |
 | Fri, 14 Aug 2026 | ELYSIA - BRAZILIAN FUNK at SALO with MANLIKEBEDI, Vialla, VIBECHIEF, DJ NÁVÍ | Reba, Vialla |
 | Sat, 15 Aug 2026 | F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama | DDK (1), Dash (CZ), Helena Hauff, Inger Illel, Kaa Glo, Midirama, Misha Jaru, NEW MAGIC MEDIA, Nastya Muravyova, Neoma, Nina Farrina, Sioc, TRANSmisia, divinity statue, saschka, tmk (CZ), zazitech |
@@ -18,9 +17,10 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with
 | Sat, 19 Sept 2026 | hereandthere x Spectrum Waves: open-air day&night |  |
 | Sat, 26 Sept 2026 | X-RAY: Roll Deep | Dj Alyaz, Double J, JohnyM, Manga Saint Hilare, Noir, Riko Dan, Sir Free, fahell |
 | Sat, 3 Oct 2026 | GEGEN PRAGUE |  |
+| Sat, 10 Oct 2026 | mʊdʌki INVITES Samurai Breaks | Dj Alyaz, Samurai Breaks, mʊdʌki |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

@@ -1,6 +1,6 @@
 # Aysun
 
-Aysun is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 15 Aug 2026.
+Aysun is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 15 Aug 2026.
 
 Aysun is an ambient and experimental artist tracked on soundcheck, with 18 sets logged across Berlin and Newyorkcity. Often billed alongside Pino Peña, Vincent Grabowski and sleeptwitch. Next up: Acud Macht NEU, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Aysun is an ambient and experimental artist tracked on soundcheck, with 18 sets 
 
 Pino Peña, Vincent Grabowski, sleeptwitch
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aysun/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aysun/)*

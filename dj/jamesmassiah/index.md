@@ -1,6 +1,6 @@
 # James Massiah
 
-James Massiah is a Dancehall and Experimental artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Palais, London on Sat, 8 Aug 2026.
+James Massiah is a Dancehall and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Palais, London on Sat, 8 Aug 2026.
 
 James Massiah is a dancehall and experimental artist tracked on soundcheck, with 92 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: Palais, London on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ James Massiah is a dancehall and experimental artist tracked on soundcheck, with
 
 Lord Tusk, Kemarr, Tash LC
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

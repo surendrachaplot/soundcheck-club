@@ -1,6 +1,6 @@
 # MANNIO
 
-MANNIO is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
+MANNIO is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Racket Space, Dublin on Sat, 15 Aug 2026.
 
 MANNIO is a techno and electro artist tracked on soundcheck, with 20 sets logged across Berlin, Dublin, Galway and Manchester. Often billed alongside Culchee, Niall Kelly and Peadar. Next up: The Racket Space, Dublin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MANNIO is a techno and electro artist tracked on soundcheck, with 20 sets logged
 
 Culchee, Niall Kelly, Peadar
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*

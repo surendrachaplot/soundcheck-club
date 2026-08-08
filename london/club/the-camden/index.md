@@ -1,6 +1,6 @@
 # The Camden
 
-The Camden is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "100% Dancehall Part II" on Sun, 9 Aug 2026.
+The Camden is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "100% Dancehall Part II" on Sun, 9 Aug 2026.
 
 The Camden is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
@@ -17,4 +17,4 @@ The Camden is a music venue in London listed on soundcheck. 4 upcoming nights. B
 
 65 Crowndale Road, Camden, London, NW1 1TN, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*

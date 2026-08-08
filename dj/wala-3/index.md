@@ -1,6 +1,6 @@
 # Wala
 
-Wala is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Wala is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Wala is a techno artist based in Belgium, tracked on soundcheck, with 12 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Wala is a techno artist based in Belgium, tracked on soundcheck, with 12 sets lo
 
 Ignez, Inox Traxx, Altinbas
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*

@@ -1,6 +1,6 @@
 # Taelyn
 
-Taelyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bar Piment, Seoul on Sat, 8 Aug 2026.
+Taelyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bar Piment, Seoul on Sat, 8 Aug 2026.
 
 Taelyn is a house and techno artist based in South Korea, tracked on soundcheck, with 73 sets logged across Seoul. Often billed alongside Juncheol, Chae and Sunday Lee. Next up: Bar Piment, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Taelyn is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Juncheol, Chae, Sunday Lee
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taelyn/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taelyn/)*

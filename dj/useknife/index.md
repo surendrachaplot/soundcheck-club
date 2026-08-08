@@ -1,6 +1,6 @@
 # Use Knife
 
-Use Knife is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Import Export, Munich on Sat, 8 Aug 2026.
+Use Knife is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Import Export, Munich on Sat, 8 Aug 2026.
 
 Use Knife is an experimental and downtempo artist tracked on soundcheck, with 5 sets logged across Brussels, Munich and Thehague. Often billed alongside Monstera Occulta, AKA HEX and Able Noise. Next up: Import Export, Munich on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Use Knife is an experimental and downtempo artist tracked on soundcheck, with 5 
 
 Monstera Occulta, AKA HEX, Able Noise
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/useknife/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/useknife/)*

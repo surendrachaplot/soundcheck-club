@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Happyfun Hideaway, New York City on Sun, 9 Aug 2026.
+purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Happyfun Hideaway, New York City on Sun, 9 Aug 2026.
 
 purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Brussels, Losangeles and Miami and 4 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Happyfun Hideaway, Newyorkcity on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ purp is a club and ghetto tech artist based in United States of America, tracked
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

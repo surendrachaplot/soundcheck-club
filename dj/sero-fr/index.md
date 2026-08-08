@@ -1,6 +1,6 @@
 # Serō
 
-Serō is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Virage, Paris on Sat, 8 Aug 2026.
+Serō is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Virage, Paris on Sat, 8 Aug 2026.
 
 Serō is a techno artist based in France, tracked on soundcheck, with 5 sets logged across Berlin, Brussels and Paris. Often billed alongside Acid Oslo, Alhena_ and BISOUX. Next up: Virage, Paris on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Serō is a techno artist based in France, tracked on soundcheck, with 5 sets log
 
 Acid Oslo, Alhena_, BISOUX
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*

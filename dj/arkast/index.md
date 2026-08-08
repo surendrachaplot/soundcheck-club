@@ -1,6 +1,6 @@
 # ARKAST
 
-ARKAST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Romantica, Stuttgart on Sat, 8 Aug 2026.
+ARKAST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Romantica, Stuttgart on Sat, 8 Aug 2026.
 
 ARKAST is a techno and trance artist tracked on soundcheck, with 8 sets logged across Stuttgart. Often billed alongside Anica, Pascalos and Nick Hurton. Next up: Romantica, Stuttgart on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ ARKAST is a techno and trance artist tracked on soundcheck, with 8 sets logged a
 
 Anica, Pascalos, Nick Hurton
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkast/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkast/)*

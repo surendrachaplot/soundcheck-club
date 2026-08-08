@@ -1,6 +1,6 @@
 # Twaankalu
 
-Twaankalu is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
+Twaankalu is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Mood Ring, New York City on Fri, 21 Aug 2026.
 
 Twaankalu is a club and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Petal, Daniro and Devin Hudson. Next up: Mood Ring, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Twaankalu is a club and house artist based in United States of America, tracked 
 
 Petal, Daniro, Devin Hudson
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*

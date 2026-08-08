@@ -1,6 +1,6 @@
 # Mordeaux
 
-Mordeaux is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Smolna, Warsaw on Thu, 13 Aug 2026.
+Mordeaux is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Smolna, Warsaw on Thu, 13 Aug 2026.
 
 Mordeaux is a techno and house artist tracked on soundcheck, with 34 sets logged across Krakow and Warsaw. Often billed alongside kaj garage, Sickdat and Fogler. Next up: Smolna, Warsaw on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Mordeaux is a techno and house artist tracked on soundcheck, with 34 sets logged
 
 kaj garage, Sickdat, Fogler
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mordeaux/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mordeaux/)*

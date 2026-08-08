@@ -1,18 +1,18 @@
 # M42 (1)
 
-M42 (1) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Luka, Seoul on Fri, 7 Aug 2026.
+M42 (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
 
-M42 (1) is a trance and techno artist based in South Korea, tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside Casepeat, Kataploks and Kago Pengchi. Next up: Luka, Seoul on Fri 7 Aug.
+M42 (1) is a trance and techno artist based in South Korea, tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside Casepeat, Kataploks and Kago Pengchi. Next up: Ximxim Bar, Seoul on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Luka | Seoul |
 | Sat, 8 Aug 2026 | Ximxim Bar | Seoul |
 
 ## Recently played
 
+- Luka, Seoul — Fri, 7 Aug 2026
 - Luka, Seoul — Sun, 2 Aug 2026
 - Luka, Seoul — Sun, 19 Jul 2026
 - Blank Site, Seoul — Fri, 3 Jul 2026
@@ -25,4 +25,4 @@ M42 (1) is a trance and techno artist based in South Korea, tracked on soundchec
 
 Casepeat, Kataploks, Kago Pengchi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m42-1/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m42-1/)*

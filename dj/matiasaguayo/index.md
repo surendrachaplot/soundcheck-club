@@ -1,6 +1,6 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Yerba Buena Estudios, San Francisco/Oakland on Sat, 8 Aug 2026.
+Matias Aguayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Yerba Buena Estudios, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Matias Aguayo is a house and electronica artist tracked on soundcheck, with 77 sets logged across Austin, Barcelona, Basel and Belgrade and 26 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Yerba Buena Estudios, Sanfrancisco on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Matias Aguayo is a house and electronica artist tracked on soundcheck, with 77 s
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

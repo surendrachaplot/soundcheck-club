@@ -1,6 +1,6 @@
 # Phil Spank
 
-Phil Spank is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eavesdrop, New York City on Sun, 9 Aug 2026.
+Phil Spank is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eavesdrop, New York City on Sun, 9 Aug 2026.
 
 Phil Spank is a house and deep house artist tracked on soundcheck, with 30 sets logged across Losangeles, Mexicocity, Newyorkcity and Portland and 2 more. Often billed alongside Clancy Hickinbotham, natebytheway and Klaytron. Next up: Eavesdrop, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Phil Spank is a house and deep house artist tracked on soundcheck, with 30 sets 
 
 Clancy Hickinbotham, natebytheway, Klaytron
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philspank/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philspank/)*

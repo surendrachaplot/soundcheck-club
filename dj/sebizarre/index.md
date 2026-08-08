@@ -1,6 +1,6 @@
 # Sebizarre
 
-Sebizarre is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
+Sebizarre is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
 
 Sebizarre is a house and minimal artist tracked on soundcheck, with 12 sets logged across Paris. Often billed alongside El Hey, NOCH (2) and Camion Bazar. Next up: Cabaret Sauvage, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sebizarre is a house and minimal artist tracked on soundcheck, with 12 sets logg
 
 El Hey, NOCH (2), Camion Bazar
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebizarre/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebizarre/)*

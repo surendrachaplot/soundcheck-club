@@ -1,14 +1,13 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "10 Years of 1985 Music with Alix Perez" on Fri, 7 Aug 2026.
+Quarters is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Free The Jungle with Samurai Breaks" on Fri, 21 Aug 2026.
 
-Quarters is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including 2ManyDJs, Alix Perez, Captain Wallop and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
+Quarters is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including 2ManyDJs, Captain Wallop, Chicane and Danilo Plessow and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | 10 Years of 1985 Music with Alix Perez | Alix Perez, Cesco, Dub Athlete, SP:MC |
 | Fri, 21 Aug 2026 | Free The Jungle with Samurai Breaks | Samurai Breaks |
 | Sat, 22 Aug 2026 | Uncut Jams: The Trip, Tiffany Quinn  | The Trip, Tiffany Quinn |
 | Fri, 28 Aug 2026 | hitty | hitty |
@@ -18,9 +17,10 @@ Quarters is a music venue in Brighton listed on soundcheck. 12 upcoming nights, 
 | Fri, 18 Sept 2026 | Sofia Kourtesis | Sofia Kourtesis |
 | Fri, 25 Sept 2026 | Mungo's Hi-Fi | Mungo's Hi Fi |
 | Sat, 26 Sept 2026 | Black Octopus 8th Birthday Part 1 with Danilo Plessow aka MCDE | Danilo Plessow, Ellie Talebian, Motor City Drum Ensemble, Pablo Contraband |
+| Sat, 3 Oct 2026 | Chicane | Chicane |
 
 ## Address
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

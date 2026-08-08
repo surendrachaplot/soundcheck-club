@@ -1,6 +1,6 @@
 # MLE (1)
 
-MLE (1) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Boondocks, Houston on Sat, 8 Aug 2026.
+MLE (1) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Boondocks, Houston on Sat, 8 Aug 2026.
 
 MLE (1) is a club and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Houston. Often billed alongside ARMANA KHAN, Amarji King and Maldita Vaina. Next up: Boondocks, Houston on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ MLE (1) is a club and techno artist based in United States of America, tracked o
 
 ARMANA KHAN, Amarji King, Maldita Vaina
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mle-1/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mle-1/)*

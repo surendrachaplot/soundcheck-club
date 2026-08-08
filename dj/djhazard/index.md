@@ -1,6 +1,6 @@
 # DJ Hazard
 
-DJ Hazard is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
+DJ Hazard is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
 
 DJ Hazard is a drum & bass and jungle artist tracked on soundcheck, with 36 sets logged across Bangkok, Belfast, Birmingham and Brighton and 11 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Phonox, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ DJ Hazard is a drum & bass and jungle artist tracked on soundcheck, with 36 sets
 
 DJ Hype, IC3, Dillinja
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*

@@ -1,18 +1,18 @@
 # BDE
 
-BDE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 7 Aug 2026.
+BDE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 15 Aug 2026.
 
-BDE is a techno and trance artist based in Australia, tracked on soundcheck, with 51 sets logged across Melbourne. Often billed alongside CAITY WATSON, Shell Shock and AMY.. Next up: Sub Club Melbourne, Melbourne on Fri 7 Aug.
+BDE is a techno and trance artist based in Australia, tracked on soundcheck, with 51 sets logged across Melbourne. Often billed alongside CAITY WATSON, Shell Shock and AMY.. Next up: QQQ ST. Park, Melbourne on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 15 Aug 2026 | QQQ ST. Park | Melbourne |
 
 ## Recently played
 
+- Sub Club Melbourne, Melbourne — Fri, 7 Aug 2026
 - Revolver Upstairs, Melbourne — Fri, 24 Jul 2026
 - My Aeon, Melbourne — Fri, 3 Jul 2026
 - My Aeon, Melbourne — Fri, 3 Jul 2026
@@ -20,10 +20,9 @@ BDE is a techno and trance artist based in Australia, tracked on soundcheck, wit
 - My Aeon, Melbourne — Fri, 15 May 2026
 - Revolver Upstairs, Melbourne — Fri, 17 Apr 2026
 - Lucky Coq, Melbourne — Sun, 22 Mar 2026
-- TBA, Melbourne — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 CAITY WATSON, Shell Shock, AMY.
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bde/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bde/)*

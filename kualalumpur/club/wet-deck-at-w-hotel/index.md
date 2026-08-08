@@ -1,6 +1,6 @@
 # Wet Deck at W Hotel
 
-Wet Deck at W Hotel is a music venue in Kuala Lumpur with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "FEMME FATALE" on Sat, 8 Aug 2026.
+Wet Deck at W Hotel is a music venue in Kuala Lumpur with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "FEMME FATALE" on Sat, 8 Aug 2026.
 
 Wet Deck at W Hotel is a music venue in Kualalumpur listed on soundcheck. 4 upcoming nights, with line-ups including Alam, Axel Groove, Da Funkie Junkie and JonnyVicious and 2 more. Browse upcoming dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
 
@@ -17,4 +17,4 @@ Wet Deck at W Hotel is a music venue in Kualalumpur listed on soundcheck. 4 upco
 
 121, Jalan Ampang, 50450, Kuala Lumpur, Kuala Lumpur
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/wet-deck-at-w-hotel/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/wet-deck-at-w-hotel/)*

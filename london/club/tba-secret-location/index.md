@@ -1,16 +1,13 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 33 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Subverted" on Fri, 7 Aug 2026.
+TBA - Secret Location is a music venue in London with 30 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Steep presents: Pierro (All Night Long)" on Sat, 8 Aug 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 33 upcoming nights, with line-ups including 550am, AARON GEHRIG, Alben and Amapola Rose and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 550am, Amapola Rose, Amelia Holt and Arval and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Subverted | +UMBRAX+, Fluid, Napakee, Nicki Black, Pomah, feyd.x |
-| Fri, 7 Aug 2026 | UNIO Music Festival | AARON GEHRIG, Alben, Bonjessu, Hen Greca, LAJE, MOOGLI (DE), Monika Ross, Robert Monarch, Simma (1), Superlounge, Vanni, Zohki |
-| Fri, 7 Aug 2026 | PRÆTER·NATURA - Renegade Master | CLAUDIX, dicqbeats |
 | Sat, 8 Aug 2026 | Steep presents: Pierro (All Night Long) |  |
 | Sat, 8 Aug 2026 | Secret Beach Rave | No Fame |
 | Sat, 8 Aug 2026 | Secret Beach Rave |  |
@@ -18,5 +15,8 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 33 upcomi
 | Fri, 14 Aug 2026 | EL FUTURO ES TRANS x 4LI4DXS | Amapola Rose, Bruja Prieta, Luisa Almaguer, MIKITA (MX), Magnolia Coronado, Victoria Volkova |
 | Fri, 14 Aug 2026 | Vermilion Sun Records - Release Party | John Debo, Wiersma, cutwoes |
 | Fri, 14 Aug 2026 | AN(8)X festival 2026: Love Village, August 15-16th, September 25th  | Dyan Tai, WaqWaq Kingdom |
+| Fri, 14 Aug 2026 | NO SUGAR x FENCE HOP | JEY SYANO, MLLE CEE, Punk à Poules, Raylhem, namanariii, softwarewolfe |
+| Sat, 15 Aug 2026 | Fairy August | Johnson (2), Rafon (2) |
+| Sun, 16 Aug 2026 | DOGGY FAMILY FEST - POOL PARTY | Arval, Jorgge Decar, Nitrile Affair, Unreal Vibes, ildec, rubbio |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

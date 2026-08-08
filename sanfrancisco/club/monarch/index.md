@@ -1,16 +1,17 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Boots N' Cats presents FOOLiE" on Fri, 7 Aug 2026.
+Monarch is a music venue in San Francisco/Oakland with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Mostly Cloudy: Dina + QUEENIE" on Sat, 8 Aug 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including Acid Boner, ANDYLAND, bastiengoat and DINABN and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including DJ JUANNY, Acid Boner, Amatric and ANDYLAND and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Boots N' Cats presents FOOLiE | FOOLiE, PADRE BLESS |
 | Sat, 8 Aug 2026 | Mostly Cloudy: Dina + QUEENIE | DINABN, QUEENIE (US) |
+| Fri, 14 Aug 2026 | Iz & Diz (Chicago) - Cira - Playstation - Amatric - Mipsy 3000 | Amatric, DJ Cira, DJ PlayStation, Iz & Diz |
 | Sat, 15 Aug 2026 | Revolutions: Staxx of Wax with guest DJ: DMak | Duserock |
+| Thu, 20 Aug 2026 | Bump presents DJ JUANNY, FeLine, HUFFY | DJ JUANNY, FeLine, Huffy (2) |
 | Fri, 21 Aug 2026 | Reggaeton de Hoy vs. Reggaeton de Antes | DJ Earth Angel |
 | Sat, 22 Aug 2026 | Pluko |  |
 | Fri, 28 Aug 2026 | Second Skin: ANDYLAND, felipe d, QUEENIE, MALICIEL | ANDYLAND, MALICIEL, QUEENIE (US), felipe d |
@@ -22,4 +23,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

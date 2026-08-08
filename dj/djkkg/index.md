@@ -1,6 +1,6 @@
 # DJKKG
 
-DJKKG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Asylum Collective, Seattle on Sat, 15 Aug 2026.
+DJKKG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Asylum Collective, Seattle on Sat, 15 Aug 2026.
 
 DJKKG is a techno and house artist tracked on soundcheck, with 28 sets logged across Seattle. Often billed alongside Geo Xeal, Adware and DJ Raine. Next up: Asylum Collective, Seattle on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJKKG is a techno and house artist tracked on soundcheck, with 28 sets logged ac
 
 Geo Xeal, Adware, DJ Raine
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkkg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkkg/)*

@@ -1,32 +1,30 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+Nick León is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
-Nick León is a techno and club artist tracked on soundcheck, with 200 sets logged across Amsterdam, Austin, Barcelona and Belfast and 50 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Old Royal Naval College, London on Fri 7 Aug.
+Nick León is a techno and club artist tracked on soundcheck, with 200 sets logged across Amsterdam, Austin, Barcelona and Belfast and 50 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Blå, Oslo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Old Royal Naval College | London |
-| Fri, 7 Aug 2026 | The Cause | London |
 | Sat, 8 Aug 2026 | Blå | Oslo |
 | Wed, 12 Aug 2026 | TBA - Register for location | New York City |
 | Thu, 3 Sept 2026 | ICA | London |
 
 ## Recently played
 
+- Old Royal Naval College, London — Fri, 7 Aug 2026
+- The Cause, London — Fri, 7 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - TBA - Downtown, Los Angeles — Sat, 25 Jul 2026
 - Refuge, New York City — Sun, 12 Jul 2026
 - Smoke & Mirrors, Chicago — Fri, 10 Jul 2026
 - Centro Cultural Conde Duque, Madrid — Sat, 13 Jun 2026
 - FLUCC, Vienna — Fri, 12 Jun 2026
-- Botanique, Brussels — Sun, 31 May 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 DJ Python, Bitter Babe, Jonny From Space
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*

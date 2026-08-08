@@ -1,6 +1,6 @@
 # Deventi
 
-Deventi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The DBA, Manchester on Sat, 8 Aug 2026.
+Deventi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The DBA, Manchester on Sat, 8 Aug 2026.
 
 Deventi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Connor (UK), Danny Roach and Egui. Next up: The DBA, Manchester on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Deventi is a techno and house artist based in United Kingdom, tracked on soundch
 
 Connor (UK), Danny Roach, Egui
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*

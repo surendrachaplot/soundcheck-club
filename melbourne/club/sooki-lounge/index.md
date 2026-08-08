@@ -1,14 +1,13 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SUBSONIC - BASS THERAPY" on Fri, 7 Aug 2026.
+Sooki Lounge is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HDC #122 HYPNOTIC SHOWCASE W/ CAITY WATSON & FRIENDS" on Sat, 8 Aug 2026.
 
-Sooki Lounge is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including AJNA, ALIEN-A, Butterz (2) and CAITY WATSON and 2 more. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
+Sooki Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including AJNA, ALIEN-A, Butterz (2) and CAITY WATSON and 2 more. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | SUBSONIC - BASS THERAPY |  |
 | Sat, 8 Aug 2026 | HDC #122 HYPNOTIC SHOWCASE W/ CAITY WATSON & FRIENDS | ALIEN-A, CAITY WATSON, Linkage |
 | Sat, 8 Aug 2026 | HDC #122 Jungle Ft Butterz | Butterz (2) |
 | Fri, 21 Aug 2026 | ROLLING BASE PRESENTS COSMIC PORTAL | PHENOMENAL |
@@ -23,4 +22,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 10 upcoming nig
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

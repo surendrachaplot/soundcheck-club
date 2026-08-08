@@ -1,6 +1,6 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at FOLD, London on Sat, 19 Sept 2026.
+KTK (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at FOLD, London on Sat, 19 Sept 2026.
 
 KTK (DE) is a techno and trance artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside DLV, Kander and Trancemaster Krause. Next up: FOLD, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ KTK (DE) is a techno and trance artist tracked on soundcheck, with 90 sets logge
 
 DLV, Kander, Trancemaster Krause
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

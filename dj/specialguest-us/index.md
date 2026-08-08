@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Grumblethorpe, Philadelphia on Sat, 15 Aug 2026.
+Special Guest (US) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Grumblethorpe, Philadelphia on Sat, 15 Aug 2026.
 
 Special Guest (US) is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Carasel, DJ S (UK) and SP:MC. Next up: Grumblethorpe, Philadelphia on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Special Guest (US) is a house and techno artist tracked on soundcheck, with 145 
 
 Carasel, DJ S (UK), SP:MC
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

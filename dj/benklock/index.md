@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -34,4 +34,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 245 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

@@ -1,6 +1,6 @@
 # Olekhar
 
-Olekhar is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Salt & Tobacco, Toronto on Sun, 9 Aug 2026.
+Olekhar is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Salt & Tobacco, Toronto on Sun, 9 Aug 2026.
 
 Olekhar is a house and electro artist based in Ukraine, tracked on soundcheck, with 13 sets logged across Toronto. Often billed alongside Milidi, Steve Marto and Alexander Harris. Next up: Salt & Tobacco, Toronto on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Olekhar is a house and electro artist based in Ukraine, tracked on soundcheck, w
 
 Milidi, Steve Marto, Alexander Harris
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olekhar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olekhar/)*

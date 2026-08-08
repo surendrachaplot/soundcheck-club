@@ -1,6 +1,6 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Elements Cave - Tere Ling" on Sat, 8 Aug 2026.
+Sala El Sol is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Elements Cave - Tere Ling" on Sat, 8 Aug 2026.
 
 Sala El Sol is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Fellino, Irene Yago, KHAOS IN ORDER and Lucía Gea and 2 more. Browse upcoming dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
@@ -21,4 +21,4 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 8 upcoming nights, 
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

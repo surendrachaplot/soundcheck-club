@@ -1,6 +1,6 @@
 # TBA - Plummer Park WeHo
 
-TBA - Plummer Park WeHo is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "The Soul Space f/ Tamara Jade & Orlando Dixon, Mark Evich, DJ Rosegawd at Summer Sounds" on Sun, 16 Aug 2026.
+TBA - Plummer Park WeHo is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Soul Space f/ Tamara Jade & Orlando Dixon, Mark Evich, DJ Rosegawd at Summer Sounds" on Sun, 16 Aug 2026.
 
 TBA - Plummer Park WeHo is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Plummer Park WeHo is a music venue in Losangeles listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | The Soul Space f/ Tamara Jade & Orlando Dixon, Mark Evich, DJ Rosegawd at Summer Sounds |  |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-plummer-park-weho/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-plummer-park-weho/)*

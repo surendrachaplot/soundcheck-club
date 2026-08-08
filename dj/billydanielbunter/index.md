@@ -1,6 +1,6 @@
 # Billy Daniel Bunter
 
-Billy Daniel Bunter is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Billy Daniel Bunter is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 47 sets logged across Amsterdam, Brighton, Leeds and Liverpool and 5 more. Often billed alongside Ratpack, Nicky Blackmarket and Shades Of Rhythm. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 
 
 Ratpack, Nicky Blackmarket, Shades Of Rhythm
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*

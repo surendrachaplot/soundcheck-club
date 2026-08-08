@@ -1,6 +1,6 @@
 # JIN CROMANYON
 
-JIN CROMANYON is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Socore Factory, Osaka on Wed, 19 Aug 2026.
+JIN CROMANYON is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Socore Factory, Osaka on Wed, 19 Aug 2026.
 
 JIN CROMANYON is a house and bass artist tracked on soundcheck, with 6 sets logged across Osaka. Often billed alongside ANATAKIKOU, BERLIN and CHIE. Next up: Socore Factory, Osaka on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ JIN CROMANYON is a house and bass artist tracked on soundcheck, with 6 sets logg
 
 ANATAKIKOU, BERLIN, CHIE
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jincromanyon/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jincromanyon/)*

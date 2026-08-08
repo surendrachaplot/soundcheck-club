@@ -1,6 +1,6 @@
 # Aerobica
 
-Aerobica is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
+Aerobica is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Blow, Buenos Aires on Sun, 9 Aug 2026.
 
 Aerobica is a house and disco artist based in Chile, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 11 more. Often billed alongside Chloé Caillet, Mirands and Paulete Lindacelva. Next up: Blow, Buenosaires on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Aerobica is a house and disco artist based in Chile, tracked on soundcheck, with
 
 Chloé Caillet, Mirands, Paulete Lindacelva
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerobica/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerobica/)*

@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Truncate, Shanti / Tornado Wallace, CAMILLA / Patrick Russell" on Fri, 7 Aug 2026.
+public records is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "BAE BAE, Sevyn / Spiñorita, Tara / SEEPS" on Sat, 8 Aug 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 36 upcoming nights, with line-ups including 30000AD, The AM/AMX, BLKshine and Paula Tape and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including 30000AD, The AM/AMX, BLKshine and Paula Tape and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Truncate, Shanti / Tornado Wallace, CAMILLA / Patrick Russell | CAMILLA, Patrick Russell, Shanti, Tornado Wallace, Truncate |
 | Sat, 8 Aug 2026 | BAE BAE, Sevyn / Spiñorita, Tara / SEEPS | BAE BAE, DJ Tara, SEEPS, Sevyn, Spiñorita |
 | Sat, 8 Aug 2026 | The Nursery: Mare Nara w/ gabby cocco & Rachel Opert with special guest James Axon | James Axon, Rachel Opert, gabby cocco |
 | Sun, 9 Aug 2026 | The Nursery: Diva Diva w/ Grace Sands, The Carry Nation, Saia & Sevyn Love, Keith Lawrence | Grace Sands, Saia, Sevyn Love, The Carry Nation |
@@ -18,9 +17,10 @@ public records is a music venue in Newyorkcity listed on soundcheck. 36 upcoming
 | Sun, 16 Aug 2026 | The Nursery: Love Injection, Kamma & Masalo | Kamma, Love Injection, Masalo |
 | Thu, 20 Aug 2026 | Footwork Appreciation Month: Heavee, Rhino Clark, BEYBLADE SHAWTY, Petal, Chelsea | BEYBLADE SHAWTY, Heavee, Petal, Rhino Clark |
 | Fri, 21 Aug 2026 | Elisa Batti, Sarah Wreath, echo / Elle Dee b2b Kellam Matthews / Mr. Murray | Elisa Batti, Elle Dee, Kellam Matthews, Mr. Murray, Sarah Wreath, echo (3) |
+| Sat, 22 Aug 2026 | Hieroglyphic Being, 30,000AD / Physical Therapy, maenad / Scott Zacharias | 30000AD, Hieroglyphic Being, Physical Therapy, Scott Zacharias, maenad |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

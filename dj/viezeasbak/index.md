@@ -1,15 +1,13 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Vieze Asbak is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Eden, Ibiza on Tue, 11 Aug 2026.
 
-Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, KARAH and Restricted. Next up: Waschhaus, Berlin on Fri 7 Aug.
+Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, KARAH and Restricted. Next up: Eden, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Waschhaus | Berlin |
-| Fri, 7 Aug 2026 | OST | Berlin |
 | Tue, 11 Aug 2026 | Eden | Ibiza |
 | Thu, 27 Aug 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 28 Aug 2026 | Arzenal | Budapest |
@@ -23,17 +21,17 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 93 sets 
 
 ## Recently played
 
+- Waschhaus, Berlin — Fri, 7 Aug 2026
+- OST, Berlin — Fri, 7 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - Audiodrome, Turin — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Garage Klub, Antwerp — Sat, 27 Jun 2026
 - Amnesia Ibiza, Ibiza — Thu, 25 Jun 2026
 - Eden, Ibiza — Tue, 16 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- Radius, Chicago — Sat, 30 May 2026
 
 ## Shares bills with
 
 KLOFAMA, KARAH, Restricted
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

@@ -1,6 +1,6 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at UNO MALTA, Malta on Thu, 13 Aug 2026.
+Holy Priest is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UNO MALTA, Malta on Thu, 13 Aug 2026.
 
 Holy Priest is a techno and hardcore artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: UNO MALTA, Malta on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ Holy Priest is a techno and hardcore artist tracked on soundcheck, with 122 sets
 
 elMefti, Fantasm, JAZZY (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

@@ -1,6 +1,6 @@
 # Colin Self
 
-Colin Self is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Andy Arts, Detroit on Sat, 8 Aug 2026.
+Colin Self is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Andy Arts, Detroit on Sat, 8 Aug 2026.
 
 Colin Self is an experimental and classical artist based in United States of America, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Detroit and Frankfurt and 3 more. Often billed alongside Baby Leo, Relaxer and Ahadadream. Next up: Andy Arts, Detroit on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Colin Self is an experimental and classical artist based in United States of Ame
 
 Baby Leo, Relaxer, Ahadadream
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinself/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinself/)*

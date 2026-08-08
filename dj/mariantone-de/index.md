@@ -1,6 +1,6 @@
 # Marian Tone
 
-Marian Tone is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
+Marian Tone is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
 
 Marian Tone is a house and funk / soul artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and London. Often billed alongside Paulita, Tom Kutsche and Allynx. Next up: Pas Berlin, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Marian Tone is a house and funk / soul artist based in Germany, tracked on sound
 
 Paulita, Tom Kutsche, Allynx
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*

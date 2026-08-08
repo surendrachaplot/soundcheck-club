@@ -1,6 +1,6 @@
 # Earl Grey (2)
 
-Earl Grey (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 8 Aug 2026.
+Earl Grey (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Southbank Warehouse, Sheffield on Sat, 8 Aug 2026.
 
 Earl Grey (2) is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London, Manchester and Sheffield. Often billed alongside Tommy Badman, mark andrew (2) and Bokonon (2). Next up: Southbank Warehouse, Sheffield on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Earl Grey (2) is a jungle and drum & bass artist based in United Kingdom, tracke
 
 Tommy Badman, mark andrew (2), Bokonon (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-2/)*

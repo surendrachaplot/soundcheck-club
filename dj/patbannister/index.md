@@ -1,6 +1,6 @@
 # Pat Bannister
 
-Pat Bannister is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Coil, Melbourne on Sat, 8 Aug 2026.
+Pat Bannister is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Coil, Melbourne on Sat, 8 Aug 2026.
 
 Pat Bannister is a techno and trance artist tracked on soundcheck, with 17 sets logged across Melbourne. Often billed alongside 3LOAR, Cookies & Cream and Girl Crush. Next up: Coil, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Pat Bannister is a techno and trance artist tracked on soundcheck, with 17 sets 
 
 3LOAR, Cookies & Cream, Girl Crush
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patbannister/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patbannister/)*

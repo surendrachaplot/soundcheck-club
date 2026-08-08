@@ -1,6 +1,6 @@
 # Julia Govor
 
-Julia Govor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Boston on Sat, 8 Aug 2026.
+Julia Govor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Boston on Sat, 8 Aug 2026.
 
 Julia Govor is a techno and house artist based in United States of America, tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Kamran Sadeghi, Adrian Hex and Cloudy Ku. Next up: TBA, Boston on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Julia Govor is a techno and house artist based in United States of America, trac
 
 Kamran Sadeghi, Adrian Hex, Cloudy Ku
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagovor/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagovor/)*

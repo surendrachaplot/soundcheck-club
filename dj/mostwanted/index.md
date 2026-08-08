@@ -1,6 +1,6 @@
 # MostWanted
 
-MostWanted is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 12 Sept 2026.
+MostWanted is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 12 Sept 2026.
 
 MostWanted is a house and electro artist based in Peru, tracked on soundcheck, with 15 sets logged across Barcelona and Madrid. Often billed alongside Santacreu, JJ Beteta and Christian Arcila. Next up: Sunseabar Beach Club, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MostWanted is a house and electro artist based in Peru, tracked on soundcheck, w
 
 Santacreu, JJ Beteta, Christian Arcila
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*

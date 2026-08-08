@@ -1,14 +1,13 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Deborah De Luca is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
 
-Deborah De Luca is a techno and house artist tracked on soundcheck, with 145 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Deborah De Luca is a techno and house artist tracked on soundcheck, with 145 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Kaufleuten | Zurich |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -16,6 +15,7 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 145 set
 
 ## Recently played
 
+- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Cavo Paradiso, Mykonos — Thu, 6 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - Bolivar Beach Bar, Athens — Fri, 31 Jul 2026
@@ -23,10 +23,9 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 145 set
 - Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
 - TBA - AMK Club, Almagro, Buenos Aires — Wed, 8 Jul 2026
 - Café del Mar Malta, Malta — Sat, 4 Jul 2026
-- Kiesgrube, Düsseldorf — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

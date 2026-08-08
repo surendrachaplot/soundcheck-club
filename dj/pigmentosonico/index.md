@@ -1,6 +1,6 @@
 # Pigmento Sónico
 
-Pigmento Sónico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 33/45 Club, Valencia on Sat, 8 Aug 2026.
+Pigmento Sónico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 33/45 Club, Valencia on Sat, 8 Aug 2026.
 
 Pigmento Sónico is a techno and house artist tracked on soundcheck, with 7 sets logged across Valencia. Often billed alongside Hanten, Cubo and DJ Free Download. Next up: 33/45 Club, Valencia on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Pigmento Sónico is a techno and house artist tracked on soundcheck, with 7 sets
 
 Hanten, Cubo, DJ Free Download
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pigmentosonico/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pigmentosonico/)*

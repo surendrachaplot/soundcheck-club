@@ -1,6 +1,6 @@
 # Karinga
 
-Karinga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Publichouse-Ageya, Tokyo on Sat, 8 Aug 2026.
+Karinga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Publichouse-Ageya, Tokyo on Sat, 8 Aug 2026.
 
 Karinga is a techno and house artist based in Japan, tracked on soundcheck, with 36 sets logged across Tokyo. Often billed alongside Da Yama, FUJIMON and KENJI FURUYA. Next up: Publichouse-Ageya, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Karinga is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Da Yama, FUJIMON, KENJI FURUYA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karinga/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karinga/)*

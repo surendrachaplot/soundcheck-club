@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Hypnosis Productions present. HARD N' BOUNCE Vol III a techno event" on Sat, 8 Aug 2026.
+Il Brutto Auckland is a music venue in Auckland with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Hypnosis Productions present. HARD N' BOUNCE Vol III a techno event" on Sat, 8 Aug 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 4 upcoming nights, with line-ups including Andwahn, Cam Harris, EMMYJ and ONARSÉ and 2 more. Browse upcoming dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -17,4 +17,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 4 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

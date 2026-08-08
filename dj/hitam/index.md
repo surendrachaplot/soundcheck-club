@@ -1,6 +1,6 @@
 # Hitam
 
-Hitam is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+Hitam is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
 Hitam is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Bali and Berlin and 28 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: Gaffe, London on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Hitam is a techno and minimal techno artist based in Netherlands, tracked on sou
 
 WINDFUHR, AMORAL, I-RO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

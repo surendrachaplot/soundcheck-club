@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Metalheadz X 30 Years of Volks" on Sat, 8 Aug 2026.
+Volks is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Metalheadz X 30 Years of Volks" on Sat, 8 Aug 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 4 upcoming nights, with line-ups including Channel One Sound, DJ BinBag, DJ Paypal and Elemental and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -17,4 +17,4 @@ Volks is a music venue in Brighton listed on soundcheck. 4 upcoming nights, with
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

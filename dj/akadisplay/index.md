@@ -1,6 +1,6 @@
 # AKA DISPLAY
 
-AKA DISPLAY is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
+AKA DISPLAY is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Berkeley Suite, Glasgow on Thu, 3 Sept 2026.
 
 AKA DISPLAY is a dub techno and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow. Often billed alongside SKEEN, DEJA and Johnny Greig. Next up: The Berkeley Suite, Glasgow on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ AKA DISPLAY is a dub techno and techno artist based in United Kingdom, tracked o
 
 SKEEN, DEJA, Johnny Greig
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akadisplay/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akadisplay/)*

@@ -1,6 +1,6 @@
 # Soulox
 
-Soulox is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Soulox is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Soulox is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 23 sets logged across Denver, Losangeles and Sanfrancisco. Often billed alongside Soeneido, Bored Lord and Lonald J. Bandz. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Soulox is a jungle and drum & bass artist based in United States of America, tra
 
 Soeneido, Bored Lord, Lonald J. Bandz
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulox/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulox/)*

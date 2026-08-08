@@ -1,6 +1,6 @@
 # Dj Hermano
 
-Dj Hermano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Jama, Toronto on Sat, 8 Aug 2026.
+Dj Hermano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Jama, Toronto on Sat, 8 Aug 2026.
 
 Dj Hermano is a house and techno artist tracked on soundcheck, with 72 sets logged across Chicago, Losangeles, Mexicocity and Montreal and 8 more. Often billed alongside Pretty Gay Friendly, Mok-T and CUERPOS. Next up: The Jama, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Dj Hermano is a house and techno artist tracked on soundcheck, with 72 sets logg
 
 Pretty Gay Friendly, Mok-T, CUERPOS
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*

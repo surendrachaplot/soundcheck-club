@@ -1,14 +1,13 @@
 # The Model
 
-The Model is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Archeology DJs - House Music All Night" on Fri, 7 Aug 2026.
+The Model is a music venue in Nottingham with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Technolectrohouse: Dj WorldWide + L4!NE (FREE ENTRY)" on Sat, 8 Aug 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including chimaera (2), dj come, Dylan Whicher and Evil Woman and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 9 upcoming nights, with line-ups including chimaera (2), dj come, Dylan Whicher and Evil Woman and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Archeology DJs - House Music All Night |  |
 | Sat, 8 Aug 2026 | Technolectrohouse: Dj WorldWide + L4!NE (FREE ENTRY) | dj come |
 | Fri, 14 Aug 2026 | Boundary Keys x The Lunar Snail Affair | Dylan Whicher, Markos (2) |
 | Sat, 15 Aug 2026 | The Witching Hours w/ Evil Woman, Alex Bong + Kit Fuzz | Evil Woman, Kit Bodine |
@@ -23,4 +22,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming night
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

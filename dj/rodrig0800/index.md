@@ -1,6 +1,6 @@
 # rodrig0800
 
-rodrig0800 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
+rodrig0800 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
 
 rodrig0800 is a techno and house artist tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Diego Palacios, Leidbaz and Kodemul. Next up: Versalles 64, Mexicocity on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ rodrig0800 is a techno and house artist tracked on soundcheck, with 6 sets logge
 
 Diego Palacios, Leidbaz, Kodemul
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrig0800/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrig0800/)*

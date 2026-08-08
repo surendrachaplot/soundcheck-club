@@ -1,6 +1,6 @@
 # Muziekgebouw aan t' IJ
 
-Muziekgebouw aan t' IJ is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Forced to be the Clown" on Sat, 3 Oct 2026.
+Muziekgebouw aan t' IJ is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Forced to be the Clown" on Sat, 3 Oct 2026.
 
 Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including 2K88, Bianca Scout, Burchhhha and Castle and 2 more. Browse upcoming dates, start times and who's playing. Piet Heinkade 1, 1019 BR Amsterdam.
 
@@ -17,4 +17,4 @@ Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 4 upc
 
 Piet Heinkade 1, 1019 BR Amsterdam, Amsterdam
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*

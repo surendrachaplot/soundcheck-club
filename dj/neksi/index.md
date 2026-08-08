@@ -1,6 +1,6 @@
 # Neksi
 
-Neksi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
+Neksi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
 
 Neksi is a house and techno artist based in Romania, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Bärtaub, Elli.on and Frank Furto. Next up: Crack Bellmer, Berlin on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Neksi is a house and techno artist based in Romania, tracked on soundcheck, with
 
 Bärtaub, Elli.on, Frank Furto
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neksi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neksi/)*

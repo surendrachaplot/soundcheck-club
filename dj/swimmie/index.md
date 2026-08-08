@@ -1,6 +1,6 @@
 # SWIMMIE
 
-SWIMMIE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Signal, New York City on Sun, 9 Aug 2026.
+SWIMMIE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Signal, New York City on Sun, 9 Aug 2026.
 
 SWIMMIE is a techno and electro artist tracked on soundcheck, with 34 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside Brutal Twink, Subcultures and Cassi-DJ. Next up: Signal, Newyorkcity on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ SWIMMIE is a techno and electro artist tracked on soundcheck, with 34 sets logge
 
 Brutal Twink, Subcultures, Cassi-DJ
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmie/)*

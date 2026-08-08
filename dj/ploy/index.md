@@ -1,6 +1,6 @@
 # Ploy
 
-Ploy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Strange Brew, Bristol on Sat, 8 Aug 2026.
+Ploy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Strange Brew, Bristol on Sat, 8 Aug 2026.
 
 Ploy is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Batu, Parris and Ayesha. Next up: Strange Brew, Bristol on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Ploy is a techno and house artist tracked on soundcheck, with 122 sets logged ac
 
 Batu, Parris, Ayesha
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*

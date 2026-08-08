@@ -1,14 +1,13 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Billus & Neil E All Night Long" on Fri, 7 Aug 2026.
+Collingwood Basement is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "OVERLAY in the Basement W/ Mikalah Watego" on Fri, 14 Aug 2026.
 
-Collingwood Basement is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including AK-97, AROHA, Baby G and Billus and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
+Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including AK-97, AROHA, Baby G and Chucheewa and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Billus & Neil E All Night Long | Billus, Neil E |
 | Fri, 14 Aug 2026 | OVERLAY in the Basement W/ Mikalah Watego | AK-97, MITSONA, Mikalah Watego, STAGEFRIGHT |
 | Sat, 15 Aug 2026 | HEADROOM: Harvey Sutherland (DJ) + AROHA | AROHA, Harvey Sutherland |
 | Fri, 21 Aug 2026 | Space'd In The Basement with Akane, Mordi, Pedestrian | Mordi |
@@ -20,4 +19,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 7 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

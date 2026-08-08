@@ -1,14 +1,13 @@
 # Moopie
 
-Moopie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Love Inn, Bristol on Fri, 7 Aug 2026.
+Moopie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
 
-Moopie is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Lena Willikens. Next up: The Love Inn, Bristol on Fri 7 Aug.
+Moopie is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Lena Willikens. Next up: BRET, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | The Love Inn | Bristol |
 | Sat, 15 Aug 2026 | BRET | Amsterdam |
 | Sat, 15 Aug 2026 | BRET | Amsterdam |
 | Fri, 21 Aug 2026 | Bassiani | Tbilisi |
@@ -20,6 +19,7 @@ Moopie is a house and techno artist tracked on soundcheck, with 195 sets logged 
 
 ## Recently played
 
+- The Love Inn, Bristol — Fri, 7 Aug 2026
 - Else, Berlin — Sun, 2 Aug 2026
 - Coil, Melbourne — Sat, 18 Jul 2026
 - Miscellania, Melbourne — Fri, 17 Jul 2026
@@ -27,10 +27,9 @@ Moopie is a house and techno artist tracked on soundcheck, with 195 sets logged 
 - Max Watt's, Melbourne — Fri, 3 Jul 2026
 - Chasers Nightclub, Melbourne — Sat, 27 Jun 2026
 - Solace, Melbourne — Fri, 12 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Kia (AU), Hannah D, Lena Willikens
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

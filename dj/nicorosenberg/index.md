@@ -1,6 +1,6 @@
 # Nico Rosenberg
 
-Nico Rosenberg is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
+Nico Rosenberg is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
 
 Nico Rosenberg is an electronic artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Ana Ritovski, Backlogs and Clarisse. Next up: Club der Visionaere, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Nico Rosenberg is an electronic artist tracked on soundcheck, with 3 sets logged
 
 Ana Ritovski, Backlogs, Clarisse
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicorosenberg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicorosenberg/)*

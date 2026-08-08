@@ -1,6 +1,6 @@
 # Anabasine
 
-Anabasine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bar Datcha, Montreal on Fri, 21 Aug 2026.
+Anabasine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bar Datcha, Montreal on Fri, 21 Aug 2026.
 
 Anabasine is a techno and house artist based in Canada, tracked on soundcheck, with 39 sets logged across Montreal and Toronto. Often billed alongside Destiny (CA), Soundshaper and DJ Frog. Next up: Bar Datcha, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Anabasine is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Destiny (CA), Soundshaper, DJ Frog
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anabasine/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anabasine/)*

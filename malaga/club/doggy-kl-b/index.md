@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "StandUP Showcase" on Fri, 7 Aug 2026.
+Doggy Klœb is a music venue in Malaga with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Cultura Club: From Hell, Jorgge Decar, Checa" on Sat, 8 Aug 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming nights, with line-ups including Andrés Sancho, Arval, Joe Dylan and Jorgge Decar and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming nights, with line-ups including Andrés Sancho, Arval, Joe Dylan and Jorgge Decar and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | StandUP Showcase | Oren (IT), Oren., Peter Grand, Yuma (UK) |
 | Sat, 8 Aug 2026 | Cultura Club: From Hell, Jorgge Decar, Checa | Jorgge Decar, Ruth García |
 | Thu, 13 Aug 2026 | Doggy & Friends: Hillgriffin |  |
 | Fri, 14 Aug 2026 | Doggy Family Fest 04: Powered by Undancel |  |
@@ -21,4 +20,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming nights, 
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

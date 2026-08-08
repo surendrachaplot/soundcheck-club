@@ -1,6 +1,6 @@
 # DiDi (2)
 
-DiDi (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club NYX, Amsterdam on Fri, 14 Aug 2026.
+DiDi (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club NYX, Amsterdam on Fri, 14 Aug 2026.
 
 DiDi (2) is a garage and house artist based in France, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Brussels and Ghent and 6 more. Often billed alongside Phoebe (1), Raz (IT) and Cardiac. Next up: Club NYX, Amsterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DiDi (2) is a garage and house artist based in France, tracked on soundcheck, wi
 
 Phoebe (1), Raz (IT), Cardiac
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/didi-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/didi-2/)*

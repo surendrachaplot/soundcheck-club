@@ -1,6 +1,6 @@
 # Pacha DJ
 
-Pacha DJ is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
+Pacha DJ is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
 
 Pacha DJ is a bass and club artist based in Mexico, tracked on soundcheck, with 38 sets logged across Mexicocity and Newyorkcity. Often billed alongside kyxm, ethereal.mvp and martine (5). Next up: Bossa Nova Civic Club, Newyorkcity on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Pacha DJ is a bass and club artist based in Mexico, tracked on soundcheck, with 
 
 kyxm, ethereal.mvp, martine (5)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pachadj/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pachadj/)*

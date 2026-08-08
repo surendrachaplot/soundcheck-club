@@ -1,14 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Jet’aime Ends with Caucasian Opportunities, C00KIE, Attungor, Divine x Garçons, Mike Carlo & PK" on Fri, 7 Aug 2026.
+Miscellania is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "FIVE YEARS OF MISC" on Sat, 8 Aug 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including Aaliyah Salem, Aashofteh, AMIRA and ATARANGI and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Aaliyah Salem, Aashofteh, AMIRA and ATARANGI and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Jet’aime Ends with Caucasian Opportunities, C00KIE, Attungor, Divine x Garçons, Mike Carlo & PK | Caucasian Opportunities, Divine |
 | Sat, 8 Aug 2026 | FIVE YEARS OF MISC | ATARANGI, Aaliyah Salem, Aashofteh, D-Grade, D. Tyrone, Katie Pearson, LOIF, Maz (BR), Millú, Naycab, Shuko, sovblkpssy |
 | Fri, 14 Aug 2026 | GIROLOCO Presents: PETRUS |  |
 | Sat, 15 Aug 2026 | Nongkrong presents: Soda Gembira | AMIRA, Bobo, Cristal No.5, Olita (UK), Sakidasumi, ones (UK) |
@@ -22,4 +21,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

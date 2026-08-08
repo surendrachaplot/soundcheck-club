@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "CHRØMA OPENING SEASON: Carlos Pérez B2B K-Style" on Fri, 4 Sept 2026.
+Sala ART is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "CHRØMA OPENING SEASON: Carlos Pérez B2B K-Style" on Fri, 4 Sept 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including Carlos Pérez, Costa (2), JAIROSKUN and K-Style. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -15,4 +15,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 2 upcoming nights, wit
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

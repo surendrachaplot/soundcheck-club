@@ -1,6 +1,6 @@
 # Don Tom
 
-Don Tom is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 8 Aug 2026.
+Don Tom is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 8 Aug 2026.
 
 Don Tom is a techno and tech house artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Ibiza and Leipzig. Often billed alongside DAV3, DJ Doorkeeper and Morris Fitch. Next up: Der Weiße Hase, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Don Tom is a techno and tech house artist based in Germany, tracked on soundchec
 
 DAV3, DJ Doorkeeper, Morris Fitch
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/don-tom/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/don-tom/)*

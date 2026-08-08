@@ -1,6 +1,6 @@
 # London Modular
 
-London Modular is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+London Modular is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
 London Modular is a techno and bass artist tracked on soundcheck, with 3 sets logged across Bristol and London. Often billed alongside Datassette, Equinox (UK) and Nik Colk Void. Next up: The Glove That Fits, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ London Modular is a techno and bass artist tracked on soundcheck, with 3 sets lo
 
 Datassette, Equinox (UK), Nik Colk Void
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/londonmodular/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/londonmodular/)*

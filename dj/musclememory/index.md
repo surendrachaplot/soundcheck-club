@@ -1,6 +1,6 @@
 # Muscle Memory
 
-Muscle Memory is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Eavesdrop, New York City on Sat, 15 Aug 2026.
+Muscle Memory is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eavesdrop, New York City on Sat, 15 Aug 2026.
 
 Muscle Memory is a house and italo disco artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside Timo Lee, Amelia Holt and Bodega Bruja. Next up: Eavesdrop, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Muscle Memory is a house and italo disco artist based in United States of Americ
 
 Timo Lee, Amelia Holt, Bodega Bruja
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musclememory/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musclememory/)*

@@ -1,6 +1,6 @@
 # Club Soda
 
-Club Soda is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club Up, Amsterdam on Sat, 22 Aug 2026.
+Club Soda is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club Up, Amsterdam on Sat, 22 Aug 2026.
 
 Club Soda is a house and hip-hop artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Newyorkcity, Paris and Toronto. Often billed alongside Baker (NL), MCL. and TIFLO. Next up: Club Up, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Club Soda is a house and hip-hop artist based in Netherlands, tracked on soundch
 
 Baker (NL), MCL., TIFLO
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsoda/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsoda/)*

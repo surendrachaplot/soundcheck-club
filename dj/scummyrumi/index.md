@@ -1,6 +1,6 @@
 # scummy rumi
 
-scummy rumi is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Arcana, San Francisco/Oakland on Fri, 21 Aug 2026.
+scummy rumi is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Arcana, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 scummy rumi is a techno and garage artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside Modyl, Natural Orbit and &ndmore. Next up: Arcana, Sanfrancisco on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ scummy rumi is a techno and garage artist based in United States of America, tra
 
 Modyl, Natural Orbit, &ndmore
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scummyrumi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scummyrumi/)*

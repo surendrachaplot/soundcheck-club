@@ -1,6 +1,6 @@
 # dvdv
 
-dvdv is a IDM and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Giri, Berlin on Fri, 21 Aug 2026.
+dvdv is a IDM and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Giri, Berlin on Fri, 21 Aug 2026.
 
 dvdv is an idm and ambient artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Blu:sh, CYBERMISSION and Ground Tactics. Next up: Giri, Berlin on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ dvdv is an idm and ambient artist based in Germany, tracked on soundcheck, with 
 
 Blu:sh, CYBERMISSION, Ground Tactics
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvdv/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvdv/)*

@@ -1,6 +1,6 @@
 # Big Animal Theory
 
-Big Animal Theory is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue, 11 Aug 2026.
+Big Animal Theory is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue, 11 Aug 2026.
 
 Big Animal Theory is a bass and house artist tracked on soundcheck, with 32 sets logged across London, Osaka and Tokyo. Often billed alongside George Bolton, Kaisei and Guchon. Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Big Animal Theory is a bass and house artist tracked on soundcheck, with 32 sets
 
 George Bolton, Kaisei, Guchon
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*

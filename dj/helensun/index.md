@@ -1,6 +1,6 @@
 # Helen Sun
 
-Helen Sun is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Vespers Club, London on Sat, 8 Aug 2026.
+Helen Sun is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Vespers Club, London on Sat, 8 Aug 2026.
 
 Helen Sun is an experimental and idm artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Copenhagen, London and Prague. Often billed alongside 300SkullsAndCounting, Global and Patch+. Next up: Vespers Club, London on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Helen Sun is an experimental and idm artist based in United States of America, t
 
 300SkullsAndCounting, Global, Patch+
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helensun/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helensun/)*

@@ -1,6 +1,6 @@
 # Denoir
 
-Denoir is a Tech House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Madam, Amsterdam on Sat, 15 Aug 2026.
+Denoir is a Tech House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Madam, Amsterdam on Sat, 15 Aug 2026.
 
 Denoir is a tech house and latin bass artist based in Spain, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside PALO MAIN, Marcel BS and Kaeru. Next up: Madam, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Denoir is a tech house and latin bass artist based in Spain, tracked on soundche
 
 PALO MAIN, Marcel BS, Kaeru
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denoir/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denoir/)*

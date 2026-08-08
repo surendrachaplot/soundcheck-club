@@ -1,6 +1,6 @@
 # sixsix
 
-sixsix is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Brooklyn Open Air, New York City on Sat, 22 Aug 2026.
+sixsix is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Brooklyn Open Air, New York City on Sat, 22 Aug 2026.
 
 sixsix is a house and techno artist tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside S A M I, okDUNC and tyben. Next up: TBA - Brooklyn Open Air, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ sixsix is a house and techno artist tracked on soundcheck, with 20 sets logged a
 
 S A M I, okDUNC, tyben
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsix/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsix/)*

@@ -1,6 +1,6 @@
 # Richard Fribert
 
-Richard Fribert is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Richard Fribert is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Richard Fribert is a house and disco artist based in Sweden, tracked on soundcheck, with 42 sets logged across Bangkok, London, Melbourne and Montreal and 8 more. Often billed alongside Lorem Ipsum Crew, Merchant and Cannelle. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Richard Fribert is a house and disco artist based in Sweden, tracked on soundche
 
 Lorem Ipsum Crew, Merchant, Cannelle
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*

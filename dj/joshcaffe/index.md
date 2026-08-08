@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The White Hotel, Manchester on Sun, 9 Aug 2026.
+Josh Caffé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The White Hotel, Manchester on Sun, 9 Aug 2026.
 
 Josh Caffé is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 37 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: The White Hotel, Manchester on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Josh Caffé is a house and techno artist tracked on soundcheck, with 144 sets lo
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

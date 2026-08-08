@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
+Aiden (DE) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Fuse, Brussels on Sat, 8 Aug 2026.
 
 Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Fuse, Brussels on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

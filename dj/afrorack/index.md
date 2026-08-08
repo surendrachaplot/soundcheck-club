@@ -1,6 +1,6 @@
 # AFRORACK
 
-AFRORACK is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Morphine Raum, Berlin on Thu, 24 Sept 2026.
+AFRORACK is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Morphine Raum, Berlin on Thu, 24 Sept 2026.
 
 AFRORACK is an experimental and techno artist based in Uganda, tracked on soundcheck, with 16 sets logged across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside Bloomfeld, DJ Diaki and Aunty Rayzor. Next up: Morphine Raum, Berlin on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ AFRORACK is an experimental and techno artist based in Uganda, tracked on soundc
 
 Bloomfeld, DJ Diaki, Aunty Rayzor
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrorack/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrorack/)*

@@ -1,6 +1,6 @@
 # Mi$$ Co$mix
 
-Mi$$ Co$mix is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Art School, Glasgow on Sat, 5 Sept 2026.
+Mi$$ Co$mix is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Art School, Glasgow on Sat, 5 Sept 2026.
 
 Mi$$ Co$mix is an acid and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Glasgow. Often billed alongside Bash Man, Bonzai Bonner and Céleste. Next up: The Art School, Glasgow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mi$$ Co$mix is an acid and techno artist based in United Kingdom, tracked on sou
 
 Bash Man, Bonzai Bonner, Céleste
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi$-$comix/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi$-$comix/)*

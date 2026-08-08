@@ -1,6 +1,6 @@
 # Joogmac
 
-Joogmac is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
+Joogmac is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mood Ring, New York City on Fri, 14 Aug 2026.
 
 Joogmac is a club and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside rogue.wav, Beverly Chills and Castillonaire. Next up: Mood Ring, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Joogmac is a club and house artist based in United States of America, tracked on
 
 rogue.wav, Beverly Chills, Castillonaire
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joogmac/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joogmac/)*

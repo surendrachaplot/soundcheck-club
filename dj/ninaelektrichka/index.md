@@ -1,6 +1,6 @@
 # Nina Elektrichka
 
-Nina Elektrichka is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
+Nina Elektrichka is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
 
 Nina Elektrichka is a techno and minimal techno artist based in Latvia, tracked on soundcheck, with 15 sets logged across Paris and Riga. Often billed alongside SIRDSAPES, Aizvakardiena and Dmitry Puffin. Next up: TBA - Hyper Radošais Centrs, Riga on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nina Elektrichka is a techno and minimal techno artist based in Latvia, tracked 
 
 SIRDSAPES, Aizvakardiena, Dmitry Puffin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaelektrichka/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaelektrichka/)*

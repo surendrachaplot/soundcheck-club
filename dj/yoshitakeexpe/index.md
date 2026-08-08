@@ -1,6 +1,6 @@
 # Yoshitake EXPE
 
-Yoshitake EXPE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Compufunk Records, Osaka on Tue, 11 Aug 2026.
+Yoshitake EXPE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Compufunk Records, Osaka on Tue, 11 Aug 2026.
 
 Yoshitake EXPE is a techno and house artist based in Japan, tracked on soundcheck, with 11 sets logged across Osaka and Tokyo. Often billed alongside DJ Compufunk, CHIE and Chie Otomi. Next up: Compufunk Records, Osaka on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Yoshitake EXPE is a techno and house artist based in Japan, tracked on soundchec
 
 DJ Compufunk, CHIE, Chie Otomi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakeexpe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakeexpe/)*

@@ -1,6 +1,6 @@
 # Jackum
 
-Jackum is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Clock Factory, Bristol on Fri, 21 Aug 2026.
+Jackum is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Clock Factory, Bristol on Fri, 21 Aug 2026.
 
 Jackum is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Bristol, Leeds and London and 5 more. Often billed alongside Efan, MPH (1) and Bushbaby. Next up: The Clock Factory, Bristol on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Jackum is a garage and bass artist based in United Kingdom, tracked on soundchec
 
 Efan, MPH (1), Bushbaby
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackum/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackum/)*

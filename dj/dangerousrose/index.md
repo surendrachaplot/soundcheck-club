@@ -1,6 +1,6 @@
 # Dangerous Rose
 
-Dangerous Rose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Club NYX, Amsterdam on Sat, 8 Aug 2026.
+Dangerous Rose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Club NYX, Amsterdam on Sat, 8 Aug 2026.
 
 Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Ibiza, Losangeles and Newyorkcity. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Club NYX, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dangerous Rose is a techno and house artist based in United States of America, t
 
 Makadsi, FASHION (US), Memphy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*

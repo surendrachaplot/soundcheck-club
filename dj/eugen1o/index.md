@@ -1,6 +1,6 @@
 # EUGEN1O
 
-EUGEN1O is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Marina Botafoch, Ibiza on Sun, 9 Aug 2026.
+EUGEN1O is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Marina Botafoch, Ibiza on Sun, 9 Aug 2026.
 
 EUGEN1O is a house and minimal artist tracked on soundcheck, with 6 sets logged across Ibiza. Often billed alongside de larrechea, Angel Linde and Cesar Vinzent. Next up: Marina Botafoch, Ibiza on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ EUGEN1O is a house and minimal artist tracked on soundcheck, with 6 sets logged 
 
 de larrechea, Angel Linde, Cesar Vinzent
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*

@@ -1,6 +1,6 @@
 # Thomass Jackson
 
-Thomass Jackson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, Montreal on Sat, 8 Aug 2026.
+Thomass Jackson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Montreal on Sat, 8 Aug 2026.
 
 Thomass Jackson is a house and techno artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Bucharest and Cologne and 14 more. Often billed alongside Iñigo Vontier, Barreto and Future Feelings. Next up: TBA, Montreal on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Thomass Jackson is a house and techno artist tracked on soundcheck, with 49 sets
 
 Iñigo Vontier, Barreto, Future Feelings
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomassjackson/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomassjackson/)*

@@ -1,6 +1,6 @@
 # MyCube
 
-MyCube is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
+MyCube is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
 
 MyCube is a techno and trance artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Nikitaurech, STEEN and CYNICAL (US). Next up: Bossa Nova Civic Club, Newyorkcity on Tue 18 Aug.
 
@@ -23,4 +23,4 @@ MyCube is a techno and trance artist tracked on soundcheck, with 7 sets logged a
 
 Nikitaurech, STEEN, CYNICAL (US)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mycube/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mycube/)*

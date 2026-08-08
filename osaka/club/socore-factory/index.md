@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 15 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "WORM OSAKA 5th Anniversary Party" on Fri, 7 Aug 2026.
+Socore Factory is a music venue in Osaka with 14 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "POUND" on Mon, 10 Aug 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 15 upcoming nights, with line-ups including AKIHIRO, Akira Saotome, Ane and Bass and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 14 upcoming nights, with line-ups including AKIHIRO, Akira Saotome, Ane and Bass and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | WORM OSAKA 5th Anniversary Party | Yukari BB |
 | Mon, 10 Aug 2026 | POUND | IKUZO, Itou, ONO (3), Yudai Sugiyama |
 | Tue, 11 Aug 2026 | スーパーオギャー夏祭り！ |  |
 | Thu, 13 Aug 2026 | FINALLY | AKIHIRO, rYo |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 15 upcoming night
 | Thu, 20 Aug 2026 | Ivy presents ぼくは地球と歌う | Ivy |
 | Sun, 23 Aug 2026 | DOURAKU RECORDS 7th Anniversary | Gumbo, KEi |
 | Tue, 1 Sept 2026 | ナインティーズは突然に |  |
+| Fri, 4 Sept 2026 | swell | DJ SPOT |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

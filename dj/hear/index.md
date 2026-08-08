@@ -1,6 +1,6 @@
 # HEAR
 
-HEAR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Mon, 10 Aug 2026.
+HEAR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club der Visionaere, Berlin on Mon, 10 Aug 2026.
 
 HEAR is a house and techno artist based in Canada, tracked on soundcheck, with 23 sets logged across Berlin and London. Often billed alongside Enzo Cenci, Peppe Way and ALINA (3). Next up: Club der Visionaere, Berlin on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ HEAR is a house and techno artist based in Canada, tracked on soundcheck, with 2
 
 Enzo Cenci, Peppe Way, ALINA (3)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hear/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hear/)*

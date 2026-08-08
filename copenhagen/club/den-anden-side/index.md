@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Masculina & dj g2g presents: VOL 2 " on Fri, 7 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "MIAW - Pride starts underground" on Sat, 8 Aug 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming nights, with line-ups including ābnamā, Adexia, Alegrando and Alexander Santana and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including ābnamā, Alegrando, Alexander Santana and Anders HP and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Masculina & dj g2g presents: VOL 2  | Adexia, Britney Speed, ELLE FIERCE, Suzie The Cockroach, dj g2g |
 | Sat, 8 Aug 2026 | MIAW - Pride starts underground | Alegrando, Britney Speed, DJ John Key, Fafi Abdel Nour, Kali, Majdolen |
 | Fri, 14 Aug 2026 | ASSMR x DRIFT Kyiv | Ani Kvirkvelia, OLHA, WE.LL, babsko, dragongirl, kuini2000 |
 | Sat, 15 Aug 2026 | Group Therapy Pride | Baltza, Dgeral, Lucky Lube, Midland, Verushka, steamboi, ābnamā |
@@ -22,4 +21,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming n
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

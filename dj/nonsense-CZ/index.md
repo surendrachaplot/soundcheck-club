@@ -1,20 +1,20 @@
 # NONSENSE (CZ)
 
-NONSENSE (CZ) is a Techno and Gabber artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Roxy, Prague on Fri, 7 Aug 2026.
+NONSENSE (CZ) is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Parník Tyrš, Prague on Sat, 8 Aug 2026.
 
-NONSENSE (CZ) is a techno and gabber artist tracked on soundcheck, with 23 sets logged across Prague. Often billed alongside Paul Krist, KOBOV and NEUWERTH. Next up: Roxy, Prague on Fri 7 Aug.
+NONSENSE (CZ) is a techno and gabber artist tracked on soundcheck, with 23 sets logged across Prague. Often billed alongside Paul Krist, KOBOV and NEUWERTH. Next up: Parník Tyrš, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Roxy | Prague |
 | Sat, 8 Aug 2026 | Parník Tyrš | Prague |
 | Sat, 8 Aug 2026 | Radost FX | Prague |
 | Fri, 30 Oct 2026 | Sacre Coeur Prague | Prague |
 
 ## Recently played
 
+- Roxy, Prague — Fri, 7 Aug 2026
 - Mecca, Prague — Sat, 18 Jul 2026
 - Roxy, Prague — Sat, 16 May 2026
 - Folimanka, Prague — Sat, 28 Mar 2026
@@ -22,10 +22,9 @@ NONSENSE (CZ) is a techno and gabber artist tracked on soundcheck, with 23 sets 
 - Roxy, Prague — Fri, 13 Feb 2026
 - Sacre Coeur Prague, Prague — Wed, 31 Dec 2025
 - Music Club Pulse 22, Prague — Fri, 21 Nov 2025
-- Sacre Coeur Prague, Prague — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Paul Krist, KOBOV, NEUWERTH
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense-CZ/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense-CZ/)*

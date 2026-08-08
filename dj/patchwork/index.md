@@ -1,6 +1,6 @@
 # Patchwork
 
-Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - State Park Bar, Boston on Sat, 8 Aug 2026.
+Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - State Park Bar, Boston on Sat, 8 Aug 2026.
 
 Patchwork is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across Boston. Often billed alongside Private Dancer, Rasaaq and Wiersma. Next up: TBA - State Park Bar, Boston on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Patchwork is a house and disco artist based in United States of America, tracked
 
 Private Dancer, Rasaaq, Wiersma
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*

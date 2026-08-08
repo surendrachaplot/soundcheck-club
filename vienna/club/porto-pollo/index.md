@@ -1,6 +1,6 @@
 # Porto Pollo
 
-Porto Pollo is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "VIE.W & Club Pompadour presents Golden Hours Open Air" on Sat, 8 Aug 2026.
+Porto Pollo is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "VIE.W & Club Pompadour presents Golden Hours Open Air" on Sat, 8 Aug 2026.
 
 Porto Pollo is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Apua, chris deeper, DELIVARY and Fede Frostl and 2 more. Browse upcoming dates, start times and who's playing. Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria.
 
@@ -16,4 +16,4 @@ Porto Pollo is a music venue in Vienna listed on soundcheck. 3 upcoming nights, 
 
 Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria, Vienna
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*

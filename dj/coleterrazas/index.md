@@ -1,14 +1,15 @@
 # Cole Terrazas
 
-Cole Terrazas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Knockdown Center, New York City on Sat, 8 Aug 2026.
+Cole Terrazas is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Knockdown Center, New York City on Sat, 8 Aug 2026.
 
-Cole Terrazas is a house and tech house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Chicago, Lisbon and Losangeles and 4 more. Often billed alongside Josh Baker, KinAhau and ChaseWest. Next up: Knockdown Center, Newyorkcity on Sat 8 Aug.
+Cole Terrazas is a tech house and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Chicago, Lisbon and Losangeles and 4 more. Often billed alongside KinAhau, Josh Baker and ChaseWest. Next up: Knockdown Center, Newyorkcity on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Knockdown Center | New York City |
+| Fri, 4 Sept 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Cole Terrazas is a house and tech house artist based in United States of America
 
 ## Shares bills with
 
-Josh Baker, KinAhau, ChaseWest
+KinAhau, Josh Baker, ChaseWest
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*

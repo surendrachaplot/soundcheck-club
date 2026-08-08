@@ -1,6 +1,6 @@
 # JULESMCKOOLS
 
-JULESMCKOOLS is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Alphaville, New York City on Sat, 8 Aug 2026.
+JULESMCKOOLS is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Alphaville, New York City on Sat, 8 Aug 2026.
 
 JULESMCKOOLS is a house and breakbeat artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Ah Dek, GUAVA (BK) and Lilflower. Next up: Alphaville, Newyorkcity on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ JULESMCKOOLS is a house and breakbeat artist tracked on soundcheck, with 3 sets 
 
 Ah Dek, GUAVA (BK), Lilflower
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julesmckools/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julesmckools/)*

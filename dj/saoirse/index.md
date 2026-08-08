@@ -1,6 +1,6 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
+Saoirse is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 Saoirse is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: 528 Ibiza, Ibiza on Sun 16 Aug.
 
@@ -34,4 +34,4 @@ Saoirse is a house and techno artist tracked on soundcheck, with 184 sets logged
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

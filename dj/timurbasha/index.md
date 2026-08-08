@@ -1,6 +1,6 @@
 # Timur Basha
 
-Timur Basha is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at gART.n, Berlin on Sat, 15 Aug 2026.
+Timur Basha is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at gART.n, Berlin on Sat, 15 Aug 2026.
 
 Timur Basha is a techno and minimal artist based in Ukraine, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 6 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: gART.n, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Timur Basha is a techno and minimal artist based in Ukraine, tracked on soundche
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

@@ -1,6 +1,6 @@
 # Raw Unkut
 
-Raw Unkut is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
+Raw Unkut is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 314 Scholes St, New York City on Fri, 14 Aug 2026.
 
 Raw Unkut is a drum & bass and techno artist tracked on soundcheck, with 29 sets logged across Newyorkcity. Often billed alongside Rage.inald, Don-Ri and Love Letters. Next up: 314 Scholes St, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Raw Unkut is a drum & bass and techno artist tracked on soundcheck, with 29 sets
 
 Rage.inald, Don-Ri, Love Letters
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawunkut/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawunkut/)*

@@ -1,6 +1,6 @@
 # Lucy Snake
 
-Lucy Snake is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Sky Bar - Hills Hotel Lisboa, Lisbon on Fri, 14 Aug 2026.
+Lucy Snake is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sky Bar - Hills Hotel Lisboa, Lisbon on Fri, 14 Aug 2026.
 
 Lucy Snake is a techno and tech house artist based in Argentina, tracked on soundcheck, with 14 sets logged across Berlin, Buenosaires, Lisbon and Madrid. Often billed alongside Dub Tiger, Cellow and Alex Pereira. Next up: Sky Bar - Hills Hotel Lisboa, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lucy Snake is a techno and tech house artist based in Argentina, tracked on soun
 
 Dub Tiger, Cellow, Alex Pereira
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucysnake/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucysnake/)*

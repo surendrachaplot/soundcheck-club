@@ -1,6 +1,6 @@
 # yus.f
 
-yus.f is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Music Room, Melbourne on Sat, 8 Aug 2026.
+yus.f is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Music Room, Melbourne on Sat, 8 Aug 2026.
 
 yus.f is a house and deep house artist tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Dawn Again, DJ SWELLA and Ben Kennedy. Next up: Music Room, Melbourne on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ yus.f is a house and deep house artist tracked on soundcheck, with 6 sets logged
 
 Dawn Again, DJ SWELLA, Ben Kennedy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yus.f/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yus.f/)*

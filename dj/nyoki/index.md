@@ -1,6 +1,6 @@
 # Nyoki
 
-Nyoki is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Hotel Van Zandt, Austin on Sat, 8 Aug 2026.
+Nyoki is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Hotel Van Zandt, Austin on Sat, 8 Aug 2026.
 
 Nyoki is an afro house and house artist tracked on soundcheck, with 6 sets logged across Austin. Often billed alongside DJ FERNO, Brett Johnson and Jack the Tripper. Next up: TBA - Hotel Van Zandt, Austin on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Nyoki is an afro house and house artist tracked on soundcheck, with 6 sets logge
 
 DJ FERNO, Brett Johnson, Jack the Tripper
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyoki/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyoki/)*

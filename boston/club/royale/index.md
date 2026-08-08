@@ -1,8 +1,8 @@
 # Royale
 
-Royale is a music venue in Boston with 9 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Lost Frequencies" on Fri, 14 Aug 2026.
+Royale is a music venue in Boston with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lost Frequencies" on Fri, 14 Aug 2026.
 
-Royale is a music venue in Boston listed on soundcheck. 9 upcoming nights, with line-ups including Franky Rizardo, Meduza, Restricted and Space 92 and 1 more. Browse upcoming dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
+Royale is a music venue in Boston listed on soundcheck. 10 upcoming nights, with line-ups including CamelPhat, Franky Rizardo, Meduza and Restricted and 2 more. Browse upcoming dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Royale is a music venue in Boston listed on soundcheck. 9 upcoming nights, with 
 | Sat, 17 Oct 2026 | Restricted | Restricted |
 | Fri, 23 Oct 2026 | Virtual Riot x Blanke: Far From Home Tour |  |
 | Tue, 3 Nov 2026 | AJ McLean of Backstreet Boys presents Alexander James: The Better Man Tour |  |
+| Fri, 6 Nov 2026 | CamelPhat | CamelPhat |
 
 ## Address
 
 279 Tremont Street; Boston, MA 02116; United States, Boston
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*

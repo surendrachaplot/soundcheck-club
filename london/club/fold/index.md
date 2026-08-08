@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 29 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "FOLD presents KEY VINYL (EXTENDED)" on Fri, 7 Aug 2026.
+FOLD is a music venue in London with 28 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Origins: Nicola Cruz [Extended Set] Willow & Pato" on Sat, 8 Aug 2026.
 
-FOLD is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including adobeprincess, Alarico, Alba Heidari and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including adobeprincess, Alarico, Alien Communications and amil raja and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | FOLD presents KEY VINYL (EXTENDED) | Alba Heidari, Beste Hira, Freddy K, Sons Of Hidden |
 | Sat, 8 Aug 2026 | Origins: Nicola Cruz [Extended Set] Willow & Pato | Nicola Cruz, Pato, Willow |
 | Sat, 8 Aug 2026 | SLIVER • 004 | ANNX, Matriark, Mona Sage, Slinky Kinky, Tangela |
 | Fri, 14 Aug 2026 | Origins: Pangaea, Or:la & Pariah  | Or:la, Pangaea, Pariah |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 29 upcoming nights, with l
 | Sun, 16 Aug 2026 | UNFOLD CXXIX |  |
 | Fri, 21 Aug 2026 | Voigtmann + Z@p at FOLD | Voigtmann, Z@p |
 | Sat, 22 Aug 2026 | FOLD presents Ute.rec (EXTENDED) | Bambi (FR), Ekkel, Marius Bø, Oprofessionell, Trancesetters of Westphalia, Wednesday |
+| Sun, 23 Aug 2026 | SECTION. presents Alarico All Day Long + more | Alarico, Bailey Ibbs, Debbie., Gloria Rose, Riva |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

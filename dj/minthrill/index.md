@@ -1,6 +1,6 @@
 # Minthrill
 
-Minthrill is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at elipamanoke, Leipzig on Fri, 14 Aug 2026.
+Minthrill is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at elipamanoke, Leipzig on Fri, 14 Aug 2026.
 
 Minthrill is a trance and techno artist tracked on soundcheck, with 11 sets logged across Leipzig. Often billed alongside isoSportler, Desperate House Guy and J<3SS. Next up: elipamanoke, Leipzig on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Minthrill is a trance and techno artist tracked on soundcheck, with 11 sets logg
 
 isoSportler, Desperate House Guy, J<3SS
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minthrill/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minthrill/)*

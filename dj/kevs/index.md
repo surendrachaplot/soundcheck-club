@@ -1,6 +1,6 @@
 # KEVS
 
-KEVS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
+KEVS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kaskada, Warsaw on Sat, 8 Aug 2026.
 
 KEVS is a house and tech house artist based in Poland, tracked on soundcheck, with 72 sets logged across Warsaw. Often billed alongside Mabu, HANICZ and Meskalino. Next up: Kaskada, Warsaw on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ KEVS is a house and tech house artist based in Poland, tracked on soundcheck, wi
 
 Mabu, HANICZ, Meskalino
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevs/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevs/)*

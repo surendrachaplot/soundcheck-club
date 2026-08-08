@@ -1,6 +1,6 @@
 # Ale Grooves
 
-Ale Grooves is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Last Arch, London on Fri, 14 Aug 2026.
+Ale Grooves is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Last Arch, London on Fri, 14 Aug 2026.
 
 Ale Grooves is a tech house and minimal artist based in Colombia, tracked on soundcheck, with 33 sets logged across London and Zurich. Often billed alongside Ramoss, Pedro Villa and Munooz. Next up: Last Arch, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ale Grooves is a tech house and minimal artist based in Colombia, tracked on sou
 
 Ramoss, Pedro Villa, Munooz
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alegrooves/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alegrooves/)*

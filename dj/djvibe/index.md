@@ -1,6 +1,6 @@
 # DJ Vibe
 
-DJ Vibe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
+DJ Vibe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
 
 DJ Vibe is a house and tech house artist tracked on soundcheck, with 40 sets logged across Lisbon, Montreal, Newyorkcity and Porto and 1 more. Often billed alongside Rui Vargas, Kaesar and Ze Salvador. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Vibe is a house and tech house artist tracked on soundcheck, with 40 sets log
 
 Rui Vargas, Kaesar, Ze Salvador
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*

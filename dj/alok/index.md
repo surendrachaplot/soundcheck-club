@@ -1,6 +1,6 @@
 # Alok
 
-Alok is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Cavo Paradiso, Mykonos on Sun, 9 Aug 2026.
+Alok is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cavo Paradiso, Mykonos on Sun, 9 Aug 2026.
 
 Alok is a house and electronica artist tracked on soundcheck, with 37 sets logged across Bali, Barcelona, Boston and Budapest and 16 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Pomboklap. Next up: Cavo Paradiso, Mykonos on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Alok is a house and electronica artist tracked on soundcheck, with 37 sets logge
 
 Dimitri Vegas & Like Mike, Korolova, Pomboklap
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*

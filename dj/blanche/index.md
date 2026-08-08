@@ -1,6 +1,6 @@
 # Blanche
 
-Blanche is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Blanche is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Blanche is a techno and hip-hop artist based in France, tracked on soundcheck, with 31 sets logged across Lyon, Marseille, Paris and Seoul. Often billed alongside Maison Blanche, H2O and Cogan. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Blanche is a techno and hip-hop artist based in France, tracked on soundcheck, w
 
 Maison Blanche, H2O, Cogan
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanche/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanche/)*

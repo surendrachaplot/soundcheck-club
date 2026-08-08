@@ -1,6 +1,6 @@
 # Taco
 
-Taco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Brouwerij Troost Westergas, Amsterdam on Sat, 15 Aug 2026.
+Taco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Brouwerij Troost Westergas, Amsterdam on Sat, 15 Aug 2026.
 
 Taco is a disco and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam. Often billed alongside Sad Boy Solutions. Next up: Brouwerij Troost Westergas, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Taco is a disco and house artist based in Netherlands, tracked on soundcheck, wi
 
 Sad Boy Solutions
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taco/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taco/)*

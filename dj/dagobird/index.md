@@ -1,6 +1,6 @@
 # Dagobird
 
-Dagobird is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+Dagobird is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 Dagobird is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside Osiris (2), DiskoJochen and HØLLE (2). Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Dagobird is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Osiris (2), DiskoJochen, HØLLE (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dagobird/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dagobird/)*

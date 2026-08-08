@@ -1,14 +1,13 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
+Club Angel is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Thuishaven, Amsterdam on Sun, 9 Aug 2026.
 
-Club Angel is a garage and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and salute. Next up: Finsbury Park, London on Fri 7 Aug.
+Club Angel is a garage and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and salute. Next up: Thuishaven, Amsterdam on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Finsbury Park | London |
 | Sun, 9 Aug 2026 | Thuishaven | Amsterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Tivoli | Brisbane |
@@ -22,6 +21,7 @@ Club Angel is a garage and house artist tracked on soundcheck, with 95 sets logg
 
 ## Recently played
 
+- Finsbury Park, London — Fri, 7 Aug 2026
 - Club Vaag, Antwerp — Sat, 1 Aug 2026
 - Razzmatazz, Barcelona — Sat, 25 Jul 2026
 - High Lights - Barking Park, London — Sat, 23 May 2026
@@ -29,10 +29,9 @@ Club Angel is a garage and house artist tracked on soundcheck, with 95 sets logg
 - PNE Forum, Vancouver — Sat, 16 May 2026
 - The Concourse Project, Austin — Sun, 10 May 2026
 - The Concourse Project, Austin — Sat, 9 May 2026
-- Factory Town, Miami — Wed, 25 Mar 2026
 
 ## Shares bills with
 
 Sam Alfred, Interplanetary Criminal, salute
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

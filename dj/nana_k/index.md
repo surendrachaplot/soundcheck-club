@@ -1,6 +1,6 @@
 # Nana_k
 
-Nana_k is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Mastak, Warsaw on Sun, 9 Aug 2026.
+Nana_k is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mastak, Warsaw on Sun, 9 Aug 2026.
 
 Nana_k is an experimental and techno artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Halo Y, Inhaberin (2) and Slava Bernat. Next up: Mastak, Warsaw on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Nana_k is an experimental and techno artist based in Ukraine, tracked on soundch
 
 Halo Y, Inhaberin (2), Slava Bernat
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nana_k/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nana_k/)*

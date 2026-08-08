@@ -1,6 +1,6 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
+Aashofteh is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
 
 Aashofteh is a tech house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside ATARANGI, Miscmeg and Willis Anne. Next up: Miscellania, Melbourne on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Aashofteh is a tech house and techno artist based in Australia, tracked on sound
 
 ATARANGI, Miscmeg, Willis Anne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

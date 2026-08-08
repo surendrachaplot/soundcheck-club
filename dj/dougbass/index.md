@@ -1,6 +1,6 @@
 # Doug Bass
 
-Doug Bass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Rachdingue, Barcelona on Sat, 8 Aug 2026.
+Doug Bass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Rachdingue, Barcelona on Sat, 8 Aug 2026.
 
 Doug Bass is a techno and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Nuria Ghia, Malinka and BLONDEX. Next up: Rachdingue, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Doug Bass is a techno and house artist based in Spain, tracked on soundcheck, wi
 
 Nuria Ghia, Malinka, BLONDEX
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dougbass/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dougbass/)*

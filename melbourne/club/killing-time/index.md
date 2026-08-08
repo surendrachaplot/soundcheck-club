@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "House Wears" on Sat, 8 Aug 2026.
+Killing Time is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "House Wears" on Sat, 8 Aug 2026.
 
 Killing Time is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including California Sunshine, CHARBINKS, Gay Roberto and Katie Hill and 1 more. Browse upcoming dates, start times and who's playing. 11 Chapel St; Windsor, VIC 3181; Australia.
 
@@ -15,4 +15,4 @@ Killing Time is a music venue in Melbourne listed on soundcheck. 2 upcoming nigh
 
 11 Chapel St; Windsor, VIC 3181; Australia, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/killing-time/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/killing-time/)*

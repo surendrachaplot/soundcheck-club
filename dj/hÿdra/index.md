@@ -1,6 +1,6 @@
 # hÿdra
 
-hÿdra is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
+hÿdra is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - mile ex, Montreal on Sat, 8 Aug 2026.
 
 hÿdra is a techno and ghetto tech artist tracked on soundcheck, with 21 sets logged across Montreal and Tallinn. Often billed alongside nastygloss, Casa Kobrae and Katamina. Next up: TBA - mile ex, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ hÿdra is a techno and ghetto tech artist tracked on soundcheck, with 21 sets lo
 
 nastygloss, Casa Kobrae, Katamina
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*

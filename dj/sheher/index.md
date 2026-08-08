@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+SHE/HER is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
 SHE/HER is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Prague and Rotterdam and 1 more. Often billed alongside Flits, Isaiah (NL) and Lasse. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ SHE/HER is a techno and house artist tracked on soundcheck, with 62 sets logged 
 
 Flits, Isaiah (NL), Lasse
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

@@ -1,6 +1,6 @@
 # Hollt
 
-Hollt is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 11 Sept 2026.
+Hollt is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 11 Sept 2026.
 
 Hollt is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 5 more. Often billed alongside Benny Rodrigues, Deeparture and Mees Salomé. Next up: Het Sieraad, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Hollt is a techno and progressive house artist based in Netherlands, tracked on 
 
 Benny Rodrigues, Deeparture, Mees Salomé
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hollt/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hollt/)*

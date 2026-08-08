@@ -1,6 +1,6 @@
 # Bendito
 
-Bendito is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+Bendito is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
 Bendito is a house and disco artist tracked on soundcheck, with 85 sets logged across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Bendito is a house and disco artist tracked on soundcheck, with 85 sets logged a
 
 Jeremy Giros, Donis, Elephantglasses
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*

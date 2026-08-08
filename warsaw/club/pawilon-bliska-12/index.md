@@ -1,6 +1,6 @@
 # Pawilon Bliska 12
 
-Pawilon Bliska 12 is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Techno Kawa Sztuka" on Sun, 16 Aug 2026.
+Pawilon Bliska 12 is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Techno Kawa Sztuka" on Sun, 16 Aug 2026.
 
 Pawilon Bliska 12 is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Kienievik. Browse upcoming dates, start times and who's playing. Bliska 12, 03-804 Warszawa.
 
@@ -14,4 +14,4 @@ Pawilon Bliska 12 is a music venue in Warsaw listed on soundcheck. 1 upcoming ni
 
 Bliska 12, 03-804 Warszawa, Warsaw
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/pawilon-bliska-12/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/pawilon-bliska-12/)*

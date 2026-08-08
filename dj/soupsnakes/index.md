@@ -1,6 +1,6 @@
 # Soup snakeS
 
-Soup snakeS is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Speakerbox, Bangkok on Fri, 14 Aug 2026.
+Soup snakeS is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Speakerbox, Bangkok on Fri, 14 Aug 2026.
 
 Soup snakeS is a techno and experimental artist tracked on soundcheck, with 40 sets logged across Bangkok, Berlin and Shenzhen. Often billed alongside Sriracha Czaddy, Club Mascot and Wanton Witch. Next up: Speakerbox, Bangkok on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Soup snakeS is a techno and experimental artist tracked on soundcheck, with 40 s
 
 Sriracha Czaddy, Club Mascot, Wanton Witch
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soupsnakes/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soupsnakes/)*

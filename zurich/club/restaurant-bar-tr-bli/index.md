@@ -1,6 +1,6 @@
 # Restaurant & Bar Trübli
 
-Restaurant & Bar Trübli is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Ritmo Union x Hum Records Trübli Takeover" on Sat, 8 Aug 2026.
+Restaurant & Bar Trübli is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Ritmo Union x Hum Records Trübli Takeover" on Sat, 8 Aug 2026.
 
 Restaurant & Bar Trübli is a music venue in Zurich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Restaurant & Bar Trübli is a music venue in Zurich listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ritmo Union x Hum Records Trübli Takeover |  |
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/restaurant-bar-tr-bli/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/restaurant-bar-tr-bli/)*

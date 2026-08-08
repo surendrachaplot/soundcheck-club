@@ -1,14 +1,13 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+Jubilee is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Liberty Point, Philadelphia on Sun, 9 Aug 2026.
 
-Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 146 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
+Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 146 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Liberty Point, Philadelphia on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sun, 9 Aug 2026 | Liberty Point | Philadelphia |
 | Sun, 23 Aug 2026 | Signal | New York City |
 | Sat, 29 Aug 2026 | Gabriela | New York City |
@@ -17,6 +16,7 @@ Jubilee is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland — Fri, 7 Aug 2026
 - Gabriela, New York City — Fri, 24 Jul 2026
 - BASEMENT, New York City — Sat, 18 Jul 2026
 - Elsewhere, New York City — Fri, 17 Jul 2026
@@ -24,10 +24,9 @@ Jubilee is a house and techno artist based in United States of America, tracked 
 - LoHi, New York City — Fri, 10 Jul 2026
 - Bossa Nova Civic Club, New York City — Thu, 2 Jul 2026
 - Herbert Von King Park, New York City — Sat, 27 Jun 2026
-- TBA - DTLA, Los Angeles — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

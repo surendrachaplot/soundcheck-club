@@ -1,13 +1,14 @@
 # Kenneth Scott
 
-Kenneth Scott is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Thu, 13 Aug 2026.
+Kenneth Scott is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Club der Visionaere, Berlin on Sun, 9 Aug 2026.
 
-Kenneth Scott is a house and experimental artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside DJ NOB, Dave Aju and Deadbeat. Next up: Club der Visionaere, Berlin on Thu 13 Aug.
+Kenneth Scott is a house and experimental artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside DJ NOB, Dave Aju and Deadbeat. Next up: Club der Visionaere, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Club der Visionaere | Berlin |
 | Thu, 13 Aug 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kenneth Scott is a house and experimental artist based in United States of Ameri
 
 DJ NOB, Dave Aju, Deadbeat
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethscott/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethscott/)*

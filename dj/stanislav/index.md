@@ -1,6 +1,6 @@
 # STANISLAV
 
-STANISLAV is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kade, Munich on Sat, 8 Aug 2026.
+STANISLAV is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kade, Munich on Sat, 8 Aug 2026.
 
 STANISLAV is a techno and bass artist tracked on soundcheck, with 6 sets logged across Munich and Sanfrancisco. Often billed alongside E_M_T, Milli Meng and Neverglass. Next up: Kade, Munich on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ STANISLAV is a techno and bass artist tracked on soundcheck, with 6 sets logged 
 
 E_M_T, Milli Meng, Neverglass
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislav/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislav/)*

@@ -1,14 +1,13 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "DJ Rino + Dafoe" on Fri, 7 Aug 2026.
+LAUT is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Krewe 8º aniversario: Dj Sul + DAVID LOST b2b Acido Domingo" on Sat, 8 Aug 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Alderaan, Aura Nox, Breezy S and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Alderaan, Aura Nox, Breezy S and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | DJ Rino + Dafoe | DJ Rino, Dafoe |
 | Sat, 8 Aug 2026 | Krewe 8º aniversario: Dj Sul + DAVID LOST b2b Acido Domingo | DAVID LOST, Deckard, Dj Sul |
 | Fri, 14 Aug 2026 | Breezy S + Egyptian Greyhound | Breezy S, Egyptian Greyhound |
 | Sat, 15 Aug 2026 | DJ Split + Heather + Mr. Wakanda | DJ Split, Heather (ES) |
@@ -23,4 +22,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, wit
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

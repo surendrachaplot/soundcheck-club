@@ -1,6 +1,6 @@
 # Handlebar
 
-Handlebar is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Trip Hop Radio LIVE" on Mon, 17 Aug 2026.
+Handlebar is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Trip Hop Radio LIVE" on Mon, 17 Aug 2026.
 
 Handlebar is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Gruve Collective. Browse upcoming dates, start times and who's playing. 159 Augusta, Ave, Toronto, Canada, M5T 2L4.
 
@@ -15,4 +15,4 @@ Handlebar is a music venue in Toronto listed on soundcheck. 2 upcoming nights, w
 
 159 Augusta, Ave, Toronto, Canada, M5T 2L4, Toronto
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*

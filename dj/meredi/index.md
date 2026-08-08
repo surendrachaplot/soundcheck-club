@@ -1,6 +1,6 @@
 # Meredi
 
-Meredi is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Cause, London on Sun, 23 Aug 2026.
+Meredi is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Cause, London on Sun, 23 Aug 2026.
 
 Meredi is a techno and deep house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and London. Often billed alongside Robot Koch, Bernhard Hollinger and Christian Löffler. Next up: The Cause, London on Sun 23 Aug.
 
@@ -20,4 +20,4 @@ Meredi is a techno and deep house artist based in Germany, tracked on soundcheck
 
 Robot Koch, Bernhard Hollinger, Christian Löffler
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meredi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meredi/)*

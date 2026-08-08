@@ -1,6 +1,6 @@
 # Sokool
 
-Sokool is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Freischwimmer, Berlin on Sat, 8 Aug 2026.
+Sokool is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Freischwimmer, Berlin on Sat, 8 Aug 2026.
 
 Sokool is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Basel, Berlin and Cologne. Often billed alongside CreamyZound, Creamy and Lueking. Next up: Freischwimmer, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Sokool is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 CreamyZound, Creamy, Lueking
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sokool/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sokool/)*

@@ -1,14 +1,13 @@
 # Viktor Olle
 
-Viktor Olle is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Purobeach Barcelona, Barcelona on Fri, 7 Aug 2026.
+Viktor Olle is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Purobeach Barcelona, Barcelona on Sat, 8 Aug 2026.
 
-Viktor Olle is a house and afro house artist tracked on soundcheck, with 81 sets logged across Barcelona. Often billed alongside Kanedo, Naommi and Mr. B. Next up: Purobeach Barcelona, Barcelona on Fri 7 Aug.
+Viktor Olle is a house and afro house artist tracked on soundcheck, with 81 sets logged across Barcelona. Often billed alongside Kanedo, Naommi and Mr. B. Next up: Purobeach Barcelona, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Purobeach Barcelona | Barcelona |
 | Sat, 8 Aug 2026 | Purobeach Barcelona | Barcelona |
 | Fri, 14 Aug 2026 | Purobeach Barcelona | Barcelona |
 | Sat, 15 Aug 2026 | Purobeach Barcelona | Barcelona |
@@ -17,6 +16,7 @@ Viktor Olle is a house and afro house artist tracked on soundcheck, with 81 sets
 
 ## Recently played
 
+- Purobeach Barcelona, Barcelona — Fri, 7 Aug 2026
 - Purobeach Barcelona, Barcelona — Sat, 1 Aug 2026
 - Purobeach Barcelona, Barcelona — Fri, 31 Jul 2026
 - Purobeach Barcelona, Barcelona — Sat, 25 Jul 2026
@@ -24,10 +24,9 @@ Viktor Olle is a house and afro house artist tracked on soundcheck, with 81 sets
 - Purobeach Barcelona, Barcelona — Fri, 17 Jul 2026
 - Purobeach Barcelona, Barcelona — Sat, 11 Jul 2026
 - Purobeach Barcelona, Barcelona — Fri, 10 Jul 2026
-- Purobeach Barcelona, Barcelona — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Kanedo, Naommi, Mr. B
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorolle/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorolle/)*

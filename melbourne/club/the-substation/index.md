@@ -1,6 +1,6 @@
 # The Substation
 
-The Substation is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Echo Mapping" on Wed, 12 Aug 2026.
+The Substation is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Echo Mapping" on Wed, 12 Aug 2026.
 
 The Substation is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Market Street, Newport VIC 3015, Australia.
 
@@ -14,4 +14,4 @@ The Substation is a music venue in Melbourne listed on soundcheck. 1 upcoming ni
 
 1 Market Street, Newport VIC 3015, Australia, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-substation/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-substation/)*

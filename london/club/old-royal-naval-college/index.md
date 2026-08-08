@@ -1,14 +1,13 @@
 # Old Royal Naval College
 
-Old Royal Naval College is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Overmono present Pure Devotion at Old Royal Naval College" on Fri, 7 Aug 2026.
+Old Royal Naval College is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Adriatique present X on the Thames" on Sat, 8 Aug 2026.
 
-Old Royal Naval College is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Adriatique, CARISTA, Catching Flies and Delilah and 2 more. Browse upcoming dates, start times and who's playing. London SE10 9NN.
+Old Royal Naval College is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Adriatique, Catching Flies, Delilah and Dosem and 2 more. Browse upcoming dates, start times and who's playing. London SE10 9NN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Overmono present Pure Devotion at Old Royal Naval College | CARISTA, Erika de Casier, Leod, Loukeman, Nick León, Overmono, Verraco |
 | Sat, 8 Aug 2026 | Adriatique present X on the Thames | Adriatique, Mahmut Orhan, Nick Castle, Samm (BE), TSHA |
 | Sun, 9 Aug 2026 | Anjunadeep Open Air on the Thames | Catching Flies, Dosem, Eli & Fur, Ezequiel Arias, Hana, Jody Wisternoff, Marsh, Romain Garcia |
 | Sat, 15 Aug 2026 | Moby Live on the Thames | Moby |
@@ -18,4 +17,4 @@ Old Royal Naval College is a music venue in London listed on soundcheck. 5 upcom
 
 London SE10 9NN, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/old-royal-naval-college/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/old-royal-naval-college/)*

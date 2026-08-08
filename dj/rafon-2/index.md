@@ -1,6 +1,6 @@
 # Rafon (2)
 
-Rafon (2) is a Trance and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 15 Aug 2026.
+Rafon (2) is a Trance and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 15 Aug 2026.
 
 Rafon (2) is a trance and dub artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Admo, Alexia (2) and Bunkereeno Kollektiv. Next up: TBA - Secret Location, Berlin on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Rafon (2) is a trance and dub artist tracked on soundcheck, with 6 sets logged a
 
 Admo, Alexia (2), Bunkereeno Kollektiv
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafon-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafon-2/)*

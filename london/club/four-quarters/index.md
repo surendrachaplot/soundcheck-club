@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "4Q PRESENTS: LUCKY QUARTER" on Sat, 8 Aug 2026.
+Four Quarters is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "4Q PRESENTS: LUCKY QUARTER" on Sat, 8 Aug 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including ETHICS, Hughesee, Jon Hughes and Louise Plus One and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -20,4 +20,4 @@ Four Quarters is a music venue in London listed on soundcheck. 7 upcoming nights
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

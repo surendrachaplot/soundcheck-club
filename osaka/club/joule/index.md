@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SUPERNATURAL - NOFACE JAPAN TOUR in OSAKA -" on Thu, 13 Aug 2026.
+Joule is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SUPERNATURAL - NOFACE JAPAN TOUR in OSAKA -" on Thu, 13 Aug 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including _goodbyeforever_, ALESSA(JP), DJ Compufunk and DJ HI-C and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -18,4 +18,4 @@ Joule is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with li
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

@@ -1,6 +1,6 @@
 # Ruby
 
-Ruby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
+Ruby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
 
 Ruby is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Ghent, Ibiza and Melbourne and 5 more. Often billed alongside DJ RMR, George Davis and Gerd Janson. Next up: Metropol, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Ruby is a house and techno artist tracked on soundcheck, with 26 sets logged acr
 
 DJ RMR, George Davis, Gerd Janson
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruby1/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruby1/)*

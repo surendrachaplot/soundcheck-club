@@ -1,6 +1,6 @@
 # Oria After Dark
 
-Oria After Dark is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 7 Aug 2026; the next is "Mario Liberti x Milla / OfStreets" on Sat, 29 Aug 2026.
+Oria After Dark is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Mario Liberti x Milla / OfStreets" on Sat, 29 Aug 2026.
 
 Oria After Dark is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Mario Liberti and Pepe Calles. Browse upcoming dates, start times and who's playing. 220 King Street West, Toronto, Ontario M5V 3M2, Canada.
 
@@ -14,4 +14,4 @@ Oria After Dark is a music venue in Toronto listed on soundcheck. 1 upcoming nig
 
 220 King Street West, Toronto, Ontario M5V 3M2, Canada, Toronto
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/oria-after-dark/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/oria-after-dark/)*

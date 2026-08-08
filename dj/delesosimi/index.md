@@ -1,6 +1,6 @@
 # Dele Sosimi
 
-Dele Sosimi is a Afrobeat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 29 Aug 2026.
+Dele Sosimi is a Afrobeat and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 29 Aug 2026.
 
 Dele Sosimi is an afrobeat and house artist tracked on soundcheck, with 31 sets logged across Barcelona, Brighton, Bristol and Istanbul and 6 more. Often billed alongside Medlar, La Rumba and Irfan Rainy. Next up: Two Tribes CAMPFIRE, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dele Sosimi is an afrobeat and house artist tracked on soundcheck, with 31 sets 
 
 Medlar, La Rumba, Irfan Rainy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delesosimi/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delesosimi/)*

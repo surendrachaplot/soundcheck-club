@@ -1,6 +1,6 @@
 # Lazy H
 
-Lazy H is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Lazy H is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Lazy H is a house and disco artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Alexander Nock, Flo Ruby and Angel D'lite. Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lazy H is a house and disco artist tracked on soundcheck, with 11 sets logged ac
 
 Alexander Nock, Flo Ruby, Angel D'lite
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lazyh/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lazyh/)*

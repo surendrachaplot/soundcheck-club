@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Outhouse, Edinburgh on Sat, 8 Aug 2026.
+discjocelyne is a Post-Punk and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Outhouse, Edinburgh on Sat, 8 Aug 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and al gu. Next up: The Outhouse, Edinburgh on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, tracked on
 
 Ravelston, Lara Sinclair, al gu
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

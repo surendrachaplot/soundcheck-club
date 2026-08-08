@@ -1,14 +1,15 @@
 # XD Erica
 
-XD Erica is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Melkweg, Amsterdam on Sat, 8 Aug 2026.
+XD Erica is a Baile Funk and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Melkweg, Amsterdam on Sat, 8 Aug 2026.
 
-XD Erica is a techno and baile funk artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside _hiø, Alada and Slim Soledad. Next up: Melkweg, Amsterdam on Sat 8 Aug.
+XD Erica is a baile funk and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside _hiø, Alada and Slim Soledad. Next up: Melkweg, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Melkweg | Amsterdam |
+| Sat, 29 Aug 2026 | Phantom Bar Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ XD Erica is a techno and baile funk artist tracked on soundcheck, with 74 sets l
 
 _hiø, Alada, Slim Soledad
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xderica/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xderica/)*

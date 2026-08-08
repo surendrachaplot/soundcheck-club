@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
+Thomas Melchior is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Club der Visionaere, Berlin on Sat, 8 Aug 2026.
 
 Thomas Melchior is a house and techno artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside Edward, Lawrence and Konstantin. Next up: Club der Visionaere, Berlin on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Thomas Melchior is a house and techno artist based in Germany, tracked on soundc
 
 Edward, Lawrence, Konstantin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

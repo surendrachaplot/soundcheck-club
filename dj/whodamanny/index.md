@@ -1,6 +1,6 @@
 # Whodamanny
 
-Whodamanny is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Slopes of Mount Vesuvius, Naples on Sat, 29 Aug 2026.
+Whodamanny is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Slopes of Mount Vesuvius, Naples on Sat, 29 Aug 2026.
 
 Whodamanny is a disco and house artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Bucharest and Copenhagen and 4 more. Often billed alongside Joseph Russell, Mystic Jungle and ThanksMate. Next up: TBA - Slopes of Mount Vesuvius, Naples on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Whodamanny is a disco and house artist tracked on soundcheck, with 19 sets logge
 
 Joseph Russell, Mystic Jungle, ThanksMate
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whodamanny/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whodamanny/)*

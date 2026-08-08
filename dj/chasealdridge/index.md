@@ -1,6 +1,6 @@
 # Chase Aldridge
 
-Chase Aldridge is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
+Chase Aldridge is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Elysian Park, Los Angeles on Sat, 15 Aug 2026.
 
 Chase Aldridge is a house and disco artist tracked on soundcheck, with 30 sets logged across Losangeles. Often billed alongside AIRS, Connor Mikami and Stacy Christine. Next up: Elysian Park, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chase Aldridge is a house and disco artist tracked on soundcheck, with 30 sets l
 
 AIRS, Connor Mikami, Stacy Christine
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasealdridge/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasealdridge/)*

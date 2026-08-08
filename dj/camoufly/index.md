@@ -1,6 +1,6 @@
 # camoufly
 
-camoufly is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 8 Aug 2026.
+camoufly is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: The Great Northern, Sanfrancisco on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ camoufly is a house and garage artist based in Italy, tracked on soundcheck, wit
 
 Oppidan, ATRIP, Arthi
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

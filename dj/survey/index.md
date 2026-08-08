@@ -1,6 +1,6 @@
 # Survey
 
-Survey is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
+Survey is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
 
 Survey is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside Mc Jamie White, Turrican and Upzet. Next up: Gretchen, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Survey is a drum & bass and bass artist based in Germany, tracked on soundcheck,
 
 Mc Jamie White, Turrican, Upzet
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/survey/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/survey/)*

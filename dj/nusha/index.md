@@ -1,6 +1,6 @@
 # Nusha
 
-Nusha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Rachdingue, Barcelona on Sat, 8 Aug 2026.
+Nusha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Rachdingue, Barcelona on Sat, 8 Aug 2026.
 
 Nusha is a techno and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Simina Grigoriu, Alfred Heinrichs and Anna Tur. Next up: Rachdingue, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nusha is a techno and tech house artist tracked on soundcheck, with 54 sets logg
 
 Simina Grigoriu, Alfred Heinrichs, Anna Tur
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*

@@ -1,6 +1,6 @@
 # Friedberg
 
-Friedberg is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
+Friedberg is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
 
 Friedberg is a techno and experimental artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Megan Rosengarten, DREAMINSLOW and Auspex. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 18 Aug.
 
@@ -23,4 +23,4 @@ Friedberg is a techno and experimental artist based in United States of America,
 
 Megan Rosengarten, DREAMINSLOW, Auspex
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friedberg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friedberg/)*

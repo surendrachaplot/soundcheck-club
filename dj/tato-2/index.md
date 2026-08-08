@@ -1,6 +1,6 @@
 # Tato (2)
 
-Tato (2) is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA, London on Sun, 9 Aug 2026.
+Tato (2) is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, London on Sun, 9 Aug 2026.
 
 Tato (2) is a tech house and minimal artist tracked on soundcheck, with 45 sets logged across London and Valencia. Often billed alongside Pedro Villa, CANO (3) and Andres Forero. Next up: TBA, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Tato (2) is a tech house and minimal artist tracked on soundcheck, with 45 sets 
 
 Pedro Villa, CANO (3), Andres Forero
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tato-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tato-2/)*

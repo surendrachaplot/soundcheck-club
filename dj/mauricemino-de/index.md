@@ -1,14 +1,13 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Birgit, Berlin on Fri, 7 Aug 2026.
+Maurice Mino is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Boat Party on Kaiser Friedrich Dampfer Berlin, Berlin on Fri, 14 Aug 2026.
 
-Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 144 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Birgit, Berlin on Fri 7 Aug.
+Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 144 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: TBA - Boat Party on Kaiser Friedrich Dampfer Berlin, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Birgit | Berlin |
 | Fri, 14 Aug 2026 | TBA - Boat Party on Kaiser Friedrich Dampfer Berlin | Berlin |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Cassiopeia | Berlin |
@@ -17,6 +16,7 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Birgit, Berlin — Fri, 7 Aug 2026
 - Hinterhof Mitte, Berlin — Fri, 31 Jul 2026
 - Cassiopeia, Berlin — Sat, 11 Jul 2026
 - Ritter Butzke, Berlin — Fri, 10 Jul 2026
@@ -24,10 +24,9 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 - Mammoth Moma5, Berlin — Sat, 6 Jun 2026
 - Ritter Butzke, Berlin — Fri, 5 Jun 2026
 - Odonien, Cologne — Sat, 30 May 2026
-- Uebel & Gefährlich, Hamburg — Fri, 22 May 2026
 
 ## Shares bills with
 
 Sin:port, Sabura, Konfusia
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

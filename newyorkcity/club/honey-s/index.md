@@ -1,15 +1,13 @@
 # Honey's
 
-Honey's is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Oscil" on Fri, 7 Aug 2026.
+Honey's is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "tension/release radio: open air" on Sat, 8 Aug 2026.
 
-Honey's is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including 1ol1v1a, Ben Ready, Campdukes and COVE(US) and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
+Honey's is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including 1ol1v1a, Ben Ready, Campdukes and COVE(US) and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Oscil | Oscil |
-| Fri, 7 Aug 2026 | Floor Tactics | Emsho, Kindred (2), MIARISUA, okDUNC |
 | Sat, 8 Aug 2026 | tension/release radio: open air | 1ol1v1a, COVE(US), Cow Tools, DJ girlcrush, EMZ!, Kristen London, R-DNA, masha latte, treesunstars |
 | Sat, 8 Aug 2026 | On the Roof with ራሄል (Rachel), EAMMS, Ben Ready | Ben Ready, EAMMS, ራሄል (Rachel) |
 | Tue, 11 Aug 2026 | EXTRA SPICY PLEASE Open Decks |  |
@@ -23,4 +21,4 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

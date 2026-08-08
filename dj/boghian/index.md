@@ -1,6 +1,6 @@
 # Boghian
 
-Boghian is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
+Boghian is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
 
 Boghian is a minimal and minimal techno artist tracked on soundcheck, with 5 sets logged across Miami. Often billed alongside Adam Bogdan, demenz and Barac. Next up: Paraiso Estereo, Miami on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Boghian is a minimal and minimal techno artist tracked on soundcheck, with 5 set
 
 Adam Bogdan, demenz, Barac
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boghian/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boghian/)*

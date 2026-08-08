@@ -1,14 +1,13 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+DJ Holographic is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Palais, London on Fri, 11 Sept 2026.
 
-DJ Holographic is a house and techno artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
+DJ Holographic is a house and techno artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Palais, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
 | Fri, 11 Sept 2026 | Palais | London |
 | Sat, 12 Sept 2026 | Studio Club Malaga | Malaga |
 | Fri, 25 Sept 2026 | Los Globos | Los Angeles |
@@ -19,6 +18,7 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 202 sets
 
 ## Recently played
 
+- TBA - Bat Country, Portland — Fri, 7 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
 - TBA - Shipyards North Vancouver, Vancouver — Sat, 18 Jul 2026
@@ -26,10 +26,9 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 202 sets
 - public records, New York City — Sat, 27 Jun 2026
 - TBA - Secret Location, Detroit — Fri, 19 Jun 2026
 - Gateway Mendocino, San Francisco/Oakland — Thu, 18 Jun 2026
-- The Concourse Project, Austin — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

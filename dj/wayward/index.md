@@ -1,6 +1,6 @@
 # Wayward
 
-Wayward is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Wayward is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Wayward is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Antwerp, London and Vienna. Often billed alongside Junior Simba, 2fox and Albi.. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Wayward is a hip-hop and house artist based in United Kingdom, tracked on soundc
 
 Junior Simba, 2fox, Albi.
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wayward/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wayward/)*

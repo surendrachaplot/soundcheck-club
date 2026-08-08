@@ -1,6 +1,6 @@
 # Viton
 
-Viton is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pracht, Frankfurt on Sat, 15 Aug 2026.
+Viton is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pracht, Frankfurt on Sat, 15 Aug 2026.
 
 Viton is a house and tech house artist based in Greece, tracked on soundcheck, with 55 sets logged across Athens, Barcelona, Frankfurt and London. Often billed alongside Kobo, Manolaco and Philip Z. Next up: Pracht, Frankfurt on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Viton is a house and tech house artist based in Greece, tracked on soundcheck, w
 
 Kobo, Manolaco, Philip Z
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viton/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viton/)*

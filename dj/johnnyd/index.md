@@ -1,6 +1,6 @@
 # Johnny D
 
-Johnny D is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Pimpernel, Munich on Wed, 12 Aug 2026.
+Johnny D is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pimpernel, Munich on Wed, 12 Aug 2026.
 
 Johnny D is a house and minimal artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside Hagel, RAFAELO and Rafa (1). Next up: Pimpernel, Munich on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Johnny D is a house and minimal artist based in Germany, tracked on soundcheck, 
 
 Hagel, RAFAELO, Rafa (1)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyd/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyd/)*

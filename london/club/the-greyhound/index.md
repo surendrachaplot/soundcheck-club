@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "MUSAR pres Blurs with Black Devil Disco Club (live), Tania Atyabi, Dweedo & Charlie Levan" on Fri, 7 Aug 2026.
+The Greyhound is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Rave, Rebels" on Sat, 8 Aug 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including ALNA, arawzi, BBBB (2) and Black Devil Disco Club and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including ALNA, arawzi, BBBB (2) and Blossom Hill and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | MUSAR pres Blurs with Black Devil Disco Club (live), Tania Atyabi, Dweedo & Charlie Levan | Black Devil Disco Club, Dweedo, Tania Atyabi |
 | Sat, 8 Aug 2026 | Rave, Rebels | ALNA, Franzine, Sandy Beach, arawzi |
 | Thu, 13 Aug 2026 | Side Effects | PYTKO |
 | Fri, 14 Aug 2026 | fête accomplie presents: Sub Basics | DJ Tutorial, FRNTLEFT, Sub Basics, flxclxc, sports |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 14 upcoming night
 | Sat, 22 Aug 2026 | dh2: Oscar Farrell, Braga Circuit + special guests | Braga Circuit, Oscar Farrell |
 | Thu, 27 Aug 2026 | MiiKu Exe (miku rave) |  |
 | Fri, 28 Aug 2026 | TBD x Pulse presents |  |
+| Sat, 5 Sept 2026 | Blossom Hill + Pez Invites: Heléna Star & Giulia Tess | Blossom Hill, Giulia Tess, Heléna Star, Lou Vincent |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

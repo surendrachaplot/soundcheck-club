@@ -1,6 +1,6 @@
 # Da Funkie Junkie
 
-Da Funkie Junkie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 15 Aug 2026.
+Da Funkie Junkie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 15 Aug 2026.
 
 Da Funkie Junkie is a house and disco artist tracked on soundcheck, with 4 sets logged across Kualalumpur. Often billed alongside Cosmic Girl, Joey G and JonnyVicious. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Da Funkie Junkie is a house and disco artist tracked on soundcheck, with 4 sets 
 
 Cosmic Girl, Joey G, JonnyVicious
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dafunkiejunkie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dafunkiejunkie/)*

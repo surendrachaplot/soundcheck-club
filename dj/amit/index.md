@@ -1,6 +1,6 @@
 # Amit
 
-Amit is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at The Black Box, Denver on Sat, 8 Aug 2026.
+Amit is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Black Box, Denver on Sat, 8 Aug 2026.
 
 Amit is a drum & bass and dubstep artist tracked on soundcheck, with 12 sets logged across Berlin, Boston, Bucharest and Chicago and 6 more. Often billed alongside Lenore, Seba and Terraphorm. Next up: The Black Box, Denver on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Amit is a drum & bass and dubstep artist tracked on soundcheck, with 12 sets log
 
 Lenore, Seba, Terraphorm
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*

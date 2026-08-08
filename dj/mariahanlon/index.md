@@ -1,6 +1,6 @@
 # Maria Hanlon
 
-Maria Hanlon is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Jumbi, London on Sat, 8 Aug 2026.
+Maria Hanlon is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Jumbi, London on Sat, 8 Aug 2026.
 
 Maria Hanlon is a house and disco artist tracked on soundcheck, with 42 sets logged across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: Jumbi, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Maria Hanlon is a house and disco artist tracked on soundcheck, with 42 sets log
 
 Tiffany Quinn, Jojo Jones, Mas Que Nada Brothers
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*

@@ -1,6 +1,6 @@
 # Assyouti
 
-Assyouti is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
+Assyouti is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
 
 Assyouti is a bass and experimental artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Sara Persico, Jehia and Rafush. Next up: Panke, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Assyouti is a bass and experimental artist tracked on soundcheck, with 72 sets l
 
 Sara Persico, Jehia, Rafush
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/assyouti/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/assyouti/)*

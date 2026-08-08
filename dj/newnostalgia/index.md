@@ -1,6 +1,6 @@
 # New Nostalgia
 
-New Nostalgia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 29 Aug 2026.
+New Nostalgia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 New Nostalgia is a club and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Sanfrancisco. Often billed alongside Vertigo, erika (SF) and Clearcast. Next up: Monarch, Sanfrancisco on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ New Nostalgia is a club and house artist based in United States of America, trac
 
 Vertigo, erika (SF), Clearcast
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newnostalgia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newnostalgia/)*

@@ -1,6 +1,6 @@
 # delirious.blanc
 
-delirious.blanc is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 21 Aug 2026.
+delirious.blanc is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 21 Aug 2026.
 
 delirious.blanc is a deep house and acid artist based in Australia, tracked on soundcheck, with 6 sets logged across London. Often billed alongside VERTEX (2), ArtisticFlatulence and Chris Speed Visuals. Next up: Nico's Bar at Hackney Bridge, London on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ delirious.blanc is a deep house and acid artist based in Australia, tracked on s
 
 VERTEX (2), ArtisticFlatulence, Chris Speed Visuals
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirious.blanc/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirious.blanc/)*

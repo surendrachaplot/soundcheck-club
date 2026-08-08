@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Rejuvenation: Summer All Dayer Rave 2026" on Sat, 8 Aug 2026.
+Beaver Works is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Rejuvenation: Summer All Dayer Rave 2026" on Sat, 8 Aug 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including Bakey, ESC (5), Fonzo (UK) and General Bounce and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -18,4 +18,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 5 upcoming nights, 
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

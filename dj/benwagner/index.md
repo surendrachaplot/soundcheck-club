@@ -1,6 +1,6 @@
 # Ben Wagner
 
-Ben Wagner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Good Room, New York City on Sat, 15 Aug 2026.
+Ben Wagner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Good Room, New York City on Sat, 15 Aug 2026.
 
 Ben Wagner is a house and techno artist tracked on soundcheck, with 4 sets logged across Chicago and Newyorkcity. Often billed alongside Griffin Maxwell Brooks, Delilah At Night and Glamour Cadaver. Next up: Good Room, Newyorkcity on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Ben Wagner is a house and techno artist tracked on soundcheck, with 4 sets logge
 
 Griffin Maxwell Brooks, Delilah At Night, Glamour Cadaver
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwagner/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwagner/)*

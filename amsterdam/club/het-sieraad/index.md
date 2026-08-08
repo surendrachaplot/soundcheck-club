@@ -1,14 +1,13 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Eichenbaum all-night-long" on Fri, 7 Aug 2026.
+Het Sieraad is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI" on Fri, 14 Aug 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Adam Ten, Adapter, Authentiek Recept and Bob Moses and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Adam Ten, Adapter, Authentiek Recept and Bob Moses and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Eichenbaum all-night-long | Eichenbaum |
 | Fri, 14 Aug 2026 | Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI | Ed Noodle, Mona Pirzad |
 | Sat, 15 Aug 2026 | Collé All Night Long | Collé |
 | Sat, 15 Aug 2026 | Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove | Authentiek Recept, PERSIANLOVE! |
@@ -18,9 +17,10 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming nigh
 | Sat, 5 Sept 2026 | Ópalo - 4YR Anniversary | LevyM, Romy Janssen |
 | Fri, 11 Sept 2026 | Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture | Deeparture, Hollt, Mitch de Klein, Susan Right |
 | Fri, 25 Sept 2026 | I-F - EILEEN - 5 hour sets | Eileen (NL), I-F |
+| Thu, 22 Oct 2026 | Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta | Adam Ten, Mita Gami, Tom Zeta, Yamagucci (2) |
 
 ## Address
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

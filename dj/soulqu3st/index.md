@@ -1,18 +1,18 @@
 # SOULQU3ST
 
-SOULQU3ST is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Dead Wax, Birmingham on Fri, 7 Aug 2026.
+SOULQU3ST is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Brindley Cruises, Birmingham on Sat, 8 Aug 2026.
 
-SOULQU3ST is a club and hip-hop artist tracked on soundcheck, with 7 sets logged across Birmingham, London and Manchester. Often billed alongside Alex Naz, Gamma and Kusasa. Next up: Dead Wax, Birmingham on Fri 7 Aug.
+SOULQU3ST is a club and hip-hop artist tracked on soundcheck, with 7 sets logged across Birmingham, London and Manchester. Often billed alongside Alex Naz, Gamma and Kusasa. Next up: TBA - Brindley Cruises, Birmingham on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Dead Wax | Birmingham |
 | Sat, 8 Aug 2026 | TBA - Brindley Cruises | Birmingham |
 
 ## Recently played
 
+- Dead Wax, Birmingham — Fri, 7 Aug 2026
 - renae, Manchester — Sat, 6 Jun 2026
 - renae, Manchester — Fri, 31 Oct 2025
 - Bread and Butter, London — Fri, 19 Sept 2025
@@ -23,4 +23,4 @@ SOULQU3ST is a club and hip-hop artist tracked on soundcheck, with 7 sets logged
 
 Alex Naz, Gamma, Kusasa
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulqu3st/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulqu3st/)*

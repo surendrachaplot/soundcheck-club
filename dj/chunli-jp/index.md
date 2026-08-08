@@ -1,6 +1,6 @@
 # 春麗 Chun Li
 
-春麗 Chun Li is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at West Harlem, Kyoto on Sat, 8 Aug 2026.
+春麗 Chun Li is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at West Harlem, Kyoto on Sat, 8 Aug 2026.
 
 春麗 Chun Li is a techno and bass artist based in Japan, tracked on soundcheck, with 44 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ast midori, Vís (1) and eijin. Next up: West Harlem, Kyoto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@
 
 ast midori, Vís (1), eijin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chunli-jp/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chunli-jp/)*

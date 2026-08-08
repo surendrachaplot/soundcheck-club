@@ -1,6 +1,6 @@
 # Ed Marco
 
-Ed Marco is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Buzzworks, San Francisco/Oakland on Sat, 8 Aug 2026.
+Ed Marco is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Buzzworks, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Ed Marco is a house and downtempo artist tracked on soundcheck, with 3 sets logged across London and Sanfrancisco. Often billed alongside Greg Yuen, Heather Besos and Hector Moralez. Next up: Buzzworks, Sanfrancisco on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Ed Marco is a house and downtempo artist tracked on soundcheck, with 3 sets logg
 
 Greg Yuen, Heather Besos, Hector Moralez
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edmarco/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edmarco/)*

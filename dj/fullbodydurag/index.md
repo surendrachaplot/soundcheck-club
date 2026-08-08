@@ -1,14 +1,15 @@
 # Fullbodydurag
 
-Fullbodydurag is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Cannons, Detroit on Sat, 22 Aug 2026.
+Fullbodydurag is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cannons, Detroit on Sat, 22 Aug 2026.
 
-Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: Cannons, Detroit on Sat 22 Aug.
+Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 74 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: Cannons, Detroit on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Cannons | Detroit |
+| Fri, 28 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fullbodydurag is a ghetto tech and house artist based in United States of Americ
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*

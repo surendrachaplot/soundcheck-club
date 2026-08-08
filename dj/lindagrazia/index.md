@@ -1,6 +1,6 @@
 # Linda Grazia
 
-Linda Grazia is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Linda Grazia is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Linda Grazia is a techno and psytrance artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Berlin and Zurich. Often billed alongside Basstronauten, Daniel Boon and LORD of Psychedelics (2). Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Linda Grazia is a techno and psytrance artist based in Switzerland, tracked on s
 
 Basstronauten, Daniel Boon, LORD of Psychedelics (2)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindagrazia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindagrazia/)*

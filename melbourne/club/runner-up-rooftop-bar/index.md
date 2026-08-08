@@ -1,6 +1,6 @@
 # Runner Up Rooftop Bar
 
-Runner Up Rooftop Bar is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Jasa + Showerhead [6 hours] at Runner Up Rooftop" on Sun, 16 Aug 2026.
+Runner Up Rooftop Bar is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jasa + Showerhead [6 hours] at Runner Up Rooftop" on Sun, 16 Aug 2026.
 
 Runner Up Rooftop Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Colette and Jack Popper. Browse upcoming dates, start times and who's playing. Level 2/35 Johnston St, Collingwood VIC 3066.
 
@@ -15,4 +15,4 @@ Runner Up Rooftop Bar is a music venue in Melbourne listed on soundcheck. 2 upco
 
 Level 2/35 Johnston St, Collingwood VIC 3066, Melbourne
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/runner-up-rooftop-bar/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/runner-up-rooftop-bar/)*

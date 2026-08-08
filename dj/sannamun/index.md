@@ -1,19 +1,19 @@
 # Sanna Mun
 
-Sanna Mun is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 7 Aug 2026.
+Sanna Mun is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Sanna Mun is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 12 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: RSO.BERLIN, Berlin on Fri 7 Aug.
+Sanna Mun is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 12 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | RSO.BERLIN | Berlin |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Fri, 7 Aug 2026
 - Spreefeld Bootshaus, Berlin — Wed, 29 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 20 Jun 2026
 - TILLATEC, Amsterdam — Sat, 6 Jun 2026
@@ -21,10 +21,9 @@ Sanna Mun is a techno and house artist tracked on soundcheck, with 39 sets logge
 - RSO.BERLIN, Berlin — Sat, 20 Dec 2025
 - Tunnel Club, Birmingham — Fri, 12 Dec 2025
 - ://about blank, Berlin — Fri, 21 Nov 2025
-- Avenida Aricanduva, 12011, Sao Paulo — Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Amanda Mussi, CONCEPTUAL, Function
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*

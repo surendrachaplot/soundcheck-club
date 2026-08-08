@@ -1,6 +1,6 @@
 # Tommy Hart
 
-Tommy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
+Tommy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
 
 Tommy Hart is a house and techno artist based in United States of America, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Alby Esc, Diz Shocka and Sylvie Forêt. Next up: KREUZWERK, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tommy Hart is a house and techno artist based in United States of America, track
 
 Alby Esc, Diz Shocka, Sylvie Forêt
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*

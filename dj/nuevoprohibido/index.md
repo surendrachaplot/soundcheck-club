@@ -1,6 +1,6 @@
 # Nuevo Prohibido
 
-Nuevo Prohibido is a Latin Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Phantom Bar Berlin, Berlin on Sat, 8 Aug 2026.
+Nuevo Prohibido is a Latin Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Phantom Bar Berlin, Berlin on Sat, 8 Aug 2026.
 
 Nuevo Prohibido is a latin bass and trance artist based in Mexico, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Mexicocity and Zurich. Often billed alongside DJ LOUI FROM JUPITER4, Maque and Neu Verboten. Next up: Phantom Bar Berlin, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nuevo Prohibido is a latin bass and trance artist based in Mexico, tracked on so
 
 DJ LOUI FROM JUPITER4, Maque, Neu Verboten
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuevoprohibido/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuevoprohibido/)*

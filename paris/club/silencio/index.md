@@ -1,14 +1,13 @@
 # Silencio
 
-Silencio is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Yamagucci / Astradanza " on Fri, 7 Aug 2026.
+Silencio is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "FREAKQUENCIES: The Dare + The Avalanches" on Sat, 8 Aug 2026.
 
-Silencio is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Ali RQ, Antal, The Avalanches and Logic1000 and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
+Silencio is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Ali RQ, Antal, The Avalanches and Logic1000 and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Yamagucci / Astradanza  | Yamagucci |
 | Sat, 8 Aug 2026 | FREAKQUENCIES: The Dare + The Avalanches | Ali RQ, The Avalanches, The Dare |
 | Thu, 13 Aug 2026 | Marie Davidson / Huush | Marie Davidson |
 | Fri, 14 Aug 2026 | Sofia Kourtesis / BABEL  | Sofia Kourtesis |
@@ -21,4 +20,4 @@ Silencio is a music venue in Paris listed on soundcheck. 8 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

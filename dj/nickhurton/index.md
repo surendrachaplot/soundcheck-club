@@ -1,6 +1,6 @@
 # Nick Hurton
 
-Nick Hurton is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Romantica, Stuttgart on Sat, 8 Aug 2026.
+Nick Hurton is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Romantica, Stuttgart on Sat, 8 Aug 2026.
 
 Nick Hurton is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Stuttgart. Often billed alongside ARKAST, Caldarelli and JANO (4). Next up: Romantica, Stuttgart on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Nick Hurton is a trance and techno artist based in Germany, tracked on soundchec
 
 ARKAST, Caldarelli, JANO (4)
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhurton/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhurton/)*

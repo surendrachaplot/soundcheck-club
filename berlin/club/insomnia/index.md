@@ -1,14 +1,13 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "Slave to Rock" on Fri, 7 Aug 2026.
+Insomnia is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Kinktastisch! Techno. Kink. Play" on Sat, 8 Aug 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Andrea Marino, Bäggy, Ben Green and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Andrea Marino, Bäggy, Ben Green and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Slave to Rock | Emmanuelle 5, The Shredder |
 | Sat, 8 Aug 2026 | Kinktastisch! Techno. Kink. Play | Emma (8), Epicx, Katja Kilig |
 | Wed, 12 Aug 2026 | Hello Insomnia |  |
 | Thu, 13 Aug 2026 | Berlin Kink |  |
@@ -18,9 +17,10 @@ Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, wi
 | Thu, 20 Aug 2026 | Berlin Kink |  |
 | Fri, 21 Aug 2026 | HEAT by UNDR - Kinky House & Techno Party | Bäggy, Mike La Funk, NDNA, ROBSCH, Wiebe Roose |
 | Sat, 22 Aug 2026 | 24K Kink |  |
+| Thu, 27 Aug 2026 | Berlin Kink |  |
 
 ## Address
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

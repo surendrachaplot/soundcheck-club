@@ -1,6 +1,6 @@
 # CLTX
 
-CLTX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Kraftwerk, Zurich on Sat, 8 Aug 2026.
+CLTX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Kraftwerk, Zurich on Sat, 8 Aug 2026.
 
 CLTX is a techno and trance artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: Kraftwerk, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ CLTX is a techno and trance artist tracked on soundcheck, with 165 sets logged a
 
 DYEN, Alignment, Charlie Sparks
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*

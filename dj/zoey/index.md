@@ -1,6 +1,6 @@
 # Zoey
 
-Zoey is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lowkey Seoul, Seoul on Sat, 8 Aug 2026.
+Zoey is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lowkey Seoul, Seoul on Sat, 8 Aug 2026.
 
 Zoey is an electronic artist based in Vietnam, tracked on soundcheck, with 12 sets logged across Berlin and Seoul. Often billed alongside REDBUTSOBER, Jamflat and MOOOCHANG. Next up: Lowkey Seoul, Seoul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Zoey is an electronic artist based in Vietnam, tracked on soundcheck, with 12 se
 
 REDBUTSOBER, Jamflat, MOOOCHANG
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoey/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoey/)*

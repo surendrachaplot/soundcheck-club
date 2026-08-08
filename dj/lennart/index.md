@@ -1,6 +1,6 @@
 # Lennart
 
-Lennart is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
+Lennart is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
 
 Lennart is a house and dub artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp, Berlin and Frankfurt. Often billed alongside Alexander Koning, Anil Aras and Badlokk. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Lennart is a house and dub artist based in Germany, tracked on soundcheck, with 
 
 Alexander Koning, Anil Aras, Badlokk
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennart/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennart/)*

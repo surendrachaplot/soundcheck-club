@@ -1,6 +1,6 @@
 # OXOPOHA
 
-OXOPOHA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at TBA - Friedrichshain Off Location in Nature, Berlin on Sat, 22 Aug 2026.
+OXOPOHA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Friedrichshain Off Location in Nature, Berlin on Sat, 22 Aug 2026.
 
 OXOPOHA is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside _minted, shesand and Isoskeles. Next up: TBA - Friedrichshain Off Location in Nature, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ OXOPOHA is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 _minted, shesand, Isoskeles
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxopoha/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxopoha/)*

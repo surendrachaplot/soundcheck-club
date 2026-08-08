@@ -1,6 +1,6 @@
 # Violetta (DE)
 
-Violetta (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Violetta (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
 
 Violetta (DE) is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin and Stuttgart. Often billed alongside Lucas Depta, Lakkes and Rødhåd. Next up: Hoppetosse, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Violetta (DE) is a house and techno artist tracked on soundcheck, with 21 sets l
 
 Lucas Depta, Lakkes, Rødhåd
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-de/)*

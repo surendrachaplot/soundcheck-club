@@ -1,6 +1,6 @@
 # Pavo
 
-Pavo is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lofi, Amsterdam on Sat, 3 Oct 2026.
+Pavo is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lofi, Amsterdam on Sat, 3 Oct 2026.
 
 Pavo is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Cologne and Madrid. Often billed alongside Buzz Fuzz, The Darkraver and Ruffian. Next up: Lofi, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pavo is a hardcore and gabber artist based in Netherlands, tracked on soundcheck
 
 Buzz Fuzz, The Darkraver, Ruffian
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pavo/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pavo/)*

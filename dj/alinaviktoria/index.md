@@ -1,6 +1,6 @@
 # Alina Viktoria
 
-Alina Viktoria is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+Alina Viktoria is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
 Alina Viktoria is a techno and trance artist based in Germany, tracked on soundcheck, with 67 sets logged across Berlin, Budapest, Cologne and Frankfurt and 6 more. Often billed alongside SACID, Dexy's Midnight and Aexhy. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Alina Viktoria is a techno and trance artist based in Germany, tracked on soundc
 
 SACID, Dexy's Midnight, Aexhy
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*

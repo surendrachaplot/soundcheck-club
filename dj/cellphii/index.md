@@ -1,6 +1,6 @@
 # Cellphii
 
-Cellphii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Whammy Bar, Auckland on Sat, 8 Aug 2026.
+Cellphii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Whammy Bar, Auckland on Sat, 8 Aug 2026.
 
 Cellphii is a techno and house artist tracked on soundcheck, with 5 sets logged across Auckland. Often billed alongside Clay Louis, Peach Milk and Concussion. Next up: Whammy Bar, Auckland on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Cellphii is a techno and house artist tracked on soundcheck, with 5 sets logged 
 
 Clay Louis, Peach Milk, Concussion
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellphii/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellphii/)*

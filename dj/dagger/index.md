@@ -1,6 +1,6 @@
 # Dagger
 
-Dagger is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Switch Bar, Barcelona on Fri, 28 Aug 2026.
+Dagger is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Switch Bar, Barcelona on Fri, 28 Aug 2026.
 
 Dagger is an ebm and industrial artist tracked on soundcheck, with 22 sets logged across Barcelona. Often billed alongside Stacey Cute, Chica Acosta and Eva Faerie. Next up: Switch Bar, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dagger is an ebm and industrial artist tracked on soundcheck, with 22 sets logge
 
 Stacey Cute, Chica Acosta, Eva Faerie
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dagger/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dagger/)*

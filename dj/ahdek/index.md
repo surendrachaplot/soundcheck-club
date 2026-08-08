@@ -1,6 +1,6 @@
 # Ah Dek
 
-Ah Dek is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
+Ah Dek is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
 
 Ah Dek is a house and techno artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Kristen London, DJ girlcrush and Sex Over Thirty. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Ah Dek is a house and techno artist tracked on soundcheck, with 12 sets logged a
 
 Kristen London, DJ girlcrush, Sex Over Thirty
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahdek/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahdek/)*

@@ -1,6 +1,6 @@
 # Vermelho
 
-Vermelho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 29 Aug 2026.
+Vermelho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Caracol Bar, Sao Paulo on Sat, 29 Aug 2026.
 
 Vermelho is a house and techno artist based in Brazil, tracked on soundcheck, with 69 sets logged across Buenosaires and Saopaulo. Often billed alongside Paulete Lindacelva, DJ DUE and Renato Cohen. Next up: Caracol Bar, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vermelho is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Paulete Lindacelva, DJ DUE, Renato Cohen
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*

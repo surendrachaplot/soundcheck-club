@@ -1,6 +1,6 @@
 # Anna Eberg
 
-Anna Eberg is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+Anna Eberg is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
 
 Anna Eberg is a techno and acid artist based in United States of America, tracked on soundcheck, with 25 sets logged across Boston, Newyorkcity and Philadelphia. Often billed alongside ANDRÉS GARCIL, CSILLA and DREAMINSLOW. Next up: Paragon, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Anna Eberg is a techno and acid artist based in United States of America, tracke
 
 ANDRÉS GARCIL, CSILLA, DREAMINSLOW
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaeberg/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaeberg/)*

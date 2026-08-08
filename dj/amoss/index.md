@@ -1,6 +1,6 @@
 # Amoss
 
-Amoss is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Lakota, Bristol on Sat, 8 Aug 2026.
+Amoss is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lakota, Bristol on Sat, 8 Aug 2026.
 
 Amoss is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside Sydney Bryce, Objectiv and SP:MC. Next up: Lakota, Bristol on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Amoss is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Sydney Bryce, Objectiv, SP:MC
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amoss/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amoss/)*

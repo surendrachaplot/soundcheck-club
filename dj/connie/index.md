@@ -1,6 +1,6 @@
 # Connie
 
-Connie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Outer Heaven, New York City on Sat, 8 Aug 2026.
+Connie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Outer Heaven, New York City on Sat, 8 Aug 2026.
 
 Connie is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Barcelona, Losangeles, Milan and Newyorkcity and 1 more. Often billed alongside Amy Jor, Maksim and Asha Jasz. Next up: Outer Heaven, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Connie is a house and techno artist based in United States of America, tracked o
 
 Amy Jor, Maksim, Asha Jasz
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*

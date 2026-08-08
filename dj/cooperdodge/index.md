@@ -1,6 +1,6 @@
 # Cooper Dodge
 
-Cooper Dodge is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Solace, Melbourne on Sat, 8 Aug 2026.
+Cooper Dodge is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Solace, Melbourne on Sat, 8 Aug 2026.
 
 Cooper Dodge is a minimal and house artist based in Australia, tracked on soundcheck, with 16 sets logged across Melbourne. Often billed alongside Katharine, Oli Marshall and Bex. Next up: Solace, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cooper Dodge is a minimal and house artist based in Australia, tracked on soundc
 
 Katharine, Oli Marshall, Bex
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperdodge/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperdodge/)*

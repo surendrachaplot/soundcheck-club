@@ -1,6 +1,6 @@
 # PAAX Tulum
 
-PAAX Tulum is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Beachouse, Ibiza on Fri, 28 Aug 2026.
+PAAX Tulum is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Beachouse, Ibiza on Fri, 28 Aug 2026.
 
 PAAX Tulum is a house and deep house artist based in Mexico, tracked on soundcheck, with 9 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Noncitizens, Amadori and Bab Klover. Next up: Beachouse, Ibiza on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ PAAX Tulum is a house and deep house artist based in Mexico, tracked on soundche
 
 Noncitizens, Amadori, Bab Klover
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paaxtulum/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paaxtulum/)*

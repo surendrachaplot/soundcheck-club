@@ -1,19 +1,19 @@
 # Jess (2)
 
-Jess (2) is a Dub and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 7 Aug 2026, next at Turbina, Budapest on Fri, 7 Aug 2026.
+Jess (2) is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 9 Aug 2026.
 
-Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 10 sets logged across Budapest, Lisbon, Melbourne and Paris and 2 more. Often billed alongside Baazs, Jaffa Surfa and Adelina. Next up: Turbina, Budapest on Fri 7 Aug.
+Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 10 sets logged across Budapest, Lisbon, Melbourne and Paris and 2 more. Often billed alongside Baazs, Jaffa Surfa and Adelina. Next up: Miradouro de Baixo, Lisbon on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Turbina | Budapest |
 | Sun, 9 Aug 2026 | Miradouro de Baixo | Lisbon |
 | Sat, 29 Aug 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 
+- Turbina, Budapest — Fri, 7 Aug 2026
 - Aether Club Budapest, Budapest — Sat, 9 Aug 2025
 - Aether Club Budapest, Budapest — Sat, 31 May 2025
 - Loop, Vienna — Fri, 30 May 2025
@@ -26,4 +26,4 @@ Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 1
 
 Baazs, Jaffa Surfa, Adelina
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess-2/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess-2/)*

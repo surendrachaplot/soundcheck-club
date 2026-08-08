@@ -1,6 +1,6 @@
 # Will Jack
 
-Will Jack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 10 Aug 2026.
+Will Jack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 10 Aug 2026.
 
 Will Jack is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity and Portland. Often billed alongside Giovannii, Sevyn Love and Perfect Health. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Will Jack is a house and techno artist based in United States of America, tracke
 
 Giovannii, Sevyn Love, Perfect Health
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*

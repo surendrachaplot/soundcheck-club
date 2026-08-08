@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "SENSO NACHT" on Sat, 8 Aug 2026.
+Sensorium is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SENSO NACHT" on Sat, 8 Aug 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Adrian Delmont, Blck-Swan, Camilla Tarantino and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 24 upcoming nights, w
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

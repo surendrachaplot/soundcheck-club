@@ -1,6 +1,6 @@
 # Maximus (DE)
 
-Maximus (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+Maximus (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
 Maximus (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Frankfurt, Madrid and Stuttgart and 1 more. Often billed alongside L-AUX, Mefteh and Alex Friday. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Maximus (DE) is a techno and trance artist based in Germany, tracked on soundche
 
 L-AUX, Mefteh, Alex Friday
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus-de/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus-de/)*

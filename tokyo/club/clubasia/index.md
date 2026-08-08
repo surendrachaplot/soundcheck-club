@@ -1,14 +1,13 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 7 Aug 2026; the next is "CHRØNOS" on Fri, 7 Aug 2026.
+clubasia is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "JUNXION22' at club asia" on Sat, 8 Aug 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including 5harpy, 80KIDZ, AMANE and Bonnie and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 5harpy, 80KIDZ, AMANE and Bonnie and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | CHRØNOS | Eichi Abe, FENGX2, Sonia Lagoon (2), XINOVI, egomania |
 | Sat, 8 Aug 2026 | JUNXION22' at club asia | 5harpy, DJ B2B, Momo, Ren Yokoi, Rook (1), Ryu, TAIKI |
 | Wed, 12 Aug 2026 | EXODUS vol.245 | FUJI TRILL, Hirosson, misa nakamura |
 | Thu, 13 Aug 2026 | club asia THURSDAY | hara (2), has |
@@ -18,9 +17,10 @@ clubasia is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, wit
 | Thu, 20 Aug 2026 | club asia THURSDAY | AMANE, FELINE (JP), K8 (TYO GQOM), KOTSU, Licaxxx, Nari (2), Stones Taro, kengotaki |
 | Fri, 21 Aug 2026 | NEBULA × DIMENSION welcomes Perc. HARD GROOVE • HARD TECHNO • HARDCORE | EMILIO (3), GENDER-K (2), KAMIKAZE, KONTOMO, Kosuke, LYOM, MAYUDEPTH, MUSCLE ∞ BROTHERS, NITA, Perc, shimosoma |
 | Wed, 26 Aug 2026 | EXODUS vol.247 | FUJI TRILL, misa nakamura |
+| Fri, 28 Aug 2026 | 亞典回路 | 80KIDZ, eijin, illequal |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

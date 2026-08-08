@@ -1,6 +1,6 @@
 # TAALA
 
-TAALA is a Electronica and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 7 Aug 2026, next at Kaschemme Basel, Basel on Sat, 8 Aug 2026.
+TAALA is a Electronica and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kaschemme Basel, Basel on Sat, 8 Aug 2026.
 
 TAALA is an electronica and deep house artist tracked on soundcheck, with 33 sets logged across Basel, Berlin and Zurich. Often billed alongside Sascha Stohler, Don Son and Sascha Braemer. Next up: Kaschemme Basel, Basel on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ TAALA is an electronica and deep house artist tracked on soundcheck, with 33 set
 
 Sascha Stohler, Don Son, Sascha Braemer
 
-*Updated Fri, 7 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taala/)*
+*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taala/)*
