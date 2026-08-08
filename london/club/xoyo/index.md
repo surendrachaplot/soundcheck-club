@@ -1,8 +1,8 @@
 # XOYO
 
-XOYO is a music venue in London with 34 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Foundation - XOYO Takeover Part 2" on Sat, 8 Aug 2026.
+XOYO is a music venue in London with 35 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Foundation - XOYO Takeover Part 2" on Sat, 8 Aug 2026.
 
-XOYO is a music venue in London listed on soundcheck. 34 upcoming nights, with line-ups including Kepler, Aidyscape, Aldor and Andrew Sharpe and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including Kepler, Aidyscape, Aldor and Andrew Sharpe and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 

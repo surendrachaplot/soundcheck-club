@@ -10,7 +10,7 @@ ENNIO is a techno and house artist tracked on soundcheck, with 73 sets logged ac
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 29 Aug 2026 | TILLATEC | Amsterdam |
-| Sat, 12 Sept 2026 | TBA | Berlin |
+| Sat, 12 Sept 2026 | Marmorbar | Berlin |
 
 ## Recently played
 

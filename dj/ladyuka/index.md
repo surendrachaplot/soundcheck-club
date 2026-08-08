@@ -9,7 +9,7 @@ LADY $UKA is a house and techno artist based in Germany, tracked on soundcheck, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Secret Bunker  | Berlin |
-| Sat, 12 Sept 2026 | TBA | Berlin |
+| Sat, 12 Sept 2026 | Marmorbar | Berlin |
 
 ## Recently played
 

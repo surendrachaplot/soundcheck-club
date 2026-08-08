@@ -1,6 +1,6 @@
 # FLORA Festival '26 [Session 7] at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations
 
-FLORA Festival '26 [Session 7] at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations on Sat 8 Aug, Berlin. 7 acts on the bill: Alexa Strange, Bardo (1), Jeena and Ousia Sound and 3 more. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+FLORA Festival '26 [Session 7] at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations on Sat 8 Aug, Berlin. 9 acts on the bill: Alexa Strange, Bardo (1), Eusebeia and Jeena and 5 more. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,12 @@ FLORA Festival '26 [Session 7] at TBA - Follow @BerlinFloraFestival & @Ousiasoun
 
 - Alexa Strange
 - Bardo (1)
+- Eusebeia
 - Jeena
 - Ousia Sound
 - Phalcon
 - Rodo Garcia
+- Sinhwave
 - TheRipped
 
 *Source: [soundcheck](https://soundcheck.club/e/2458401-flora-festival-26-session-7-at-tba-follow-berlinflorafestiva/)*

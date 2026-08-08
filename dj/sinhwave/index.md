@@ -1,13 +1,14 @@
 # Sinhwave
 
-Sinhwave is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 90mil, Berlin on Sun, 9 Aug 2026.
+Sinhwave is a Ambient and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
 
-Sinhwave is a dub and bass artist based in India, tracked on soundcheck, with 2 sets logged across Berlin and Newyorkcity. Often billed alongside ANICHE, O.M.Theorem and jaag (US). Next up: 90mil, Berlin on Sun 9 Aug.
+Sinhwave is an ambient and electronica artist based in India, tracked on soundcheck, with 3 sets logged across Berlin and Newyorkcity. Often billed alongside ANICHE, Alexa Strange and Bardo (1). Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Sun, 9 Aug 2026 | 90mil | Berlin |
 
 ## Recently played
@@ -16,6 +17,6 @@ Sinhwave is a dub and bass artist based in India, tracked on soundcheck, with 2 
 
 ## Shares bills with
 
-ANICHE, O.M.Theorem, jaag (US)
+ANICHE, Alexa Strange, Bardo (1)
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinhwave/)*
