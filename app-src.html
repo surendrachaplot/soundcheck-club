@@ -54,6 +54,10 @@
          radii instead of the 8 an audit found on a single screen. New CSS
          uses --r-1/2/3 directly; never a raw px radius. */
       --r-1:3px; --r-2:6px; --r-3:12px;
+      /* Buttons are ROUNDED — the native apps' corner, adopted as the standard
+         across all three surfaces. Deliberately its own token: --radius stays 6px
+         for panels and tiles, so rounding buttons never rounds the rest. */
+      --radius-btn:22px;
       --radius-2xs:var(--r-1); --radius-xs:var(--r-1); --radius-sm:var(--r-1);
       --radius:var(--r-2); --radius-md:var(--r-2); --radius-lg:var(--r-2);
       --radius-xl:var(--r-3); --radius-pill:999px;
@@ -1061,7 +1065,7 @@
     /* ── Phase 3/4 panels (profile / feed / artist / venue) reuse tray shell ── */
     .panel-stat { display:flex; gap:20px; margin:4px 0 14px; color:var(--muted); font-size:var(--fs-sm); }
     .panel-stat b { color:var(--fg); font-weight:700; }
-    .follow-btn { display:inline-flex; align-items:center; justify-content:center; min-height:42px; background:var(--accent); color:var(--accent-ink); border:none; border-radius:var(--radius); padding:0 20px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
+    .follow-btn { display:inline-flex; align-items:center; justify-content:center; min-height:42px; background:var(--accent); color:var(--accent-ink); border:none; border-radius:var(--radius-btn); padding:0 20px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
     .follow-btn:active { transform:scale(0.97); }
     .follow-btn.following { background:transparent; color:var(--fg); border:1px solid var(--border); }
     .follow-btn.following:hover { border-color:var(--accent); color:var(--accent); }
@@ -1220,8 +1224,8 @@
     .pc-foot{margin:13px 0 0;border-top:1px dashed var(--border);padding:9px 16px 14px;display:flex;justify-content:space-between;align-items:center;font-family:var(--head);font-size:var(--fs-2xs);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);}
     .pc-foot span{display:flex;align-items:center;gap:5px;}
     .pc-foot svg{width:11px;height:11px;color:var(--accent);}
-    .pc-share{margin-left:auto;flex:0 0 auto;display:inline-flex;align-items:center;gap:5px;font:600 var(--fs-2xs) var(--body);letter-spacing:0;text-transform:none;color:var(--accent);background:rgba(255,154,61,.12);border:1px solid rgba(255,154,61,.42);border-radius:var(--radius-pill);padding:3px 10px;cursor:pointer;}
-    .pc-share:hover{background:rgba(255,154,61,.2);}
+    .pc-share{margin-left:auto;flex:0 0 auto;display:inline-flex;align-items:center;gap:5px;font:600 var(--fs-2xs) var(--body);letter-spacing:0;text-transform:none;color:var(--fg);background:transparent;border:1.5px solid var(--line-2);border-radius:var(--radius-btn);padding:3px 10px;cursor:pointer;}
+    .pc-share:hover{border-color:var(--sel);background:var(--sel-weak);}
 
 
     .pd-page{width:100%;max-width:1100px;margin:0 auto;box-sizing:border-box;padding:0 18px;font-family:var(--body,'Inter',sans-serif);color:var(--fg,var(--fg));}
@@ -1961,7 +1965,7 @@
     /* ── canonical GHOST button — one spec shared by the three historical
        families (.pf-btn profile, .act-btn entity actions, .fp-ab artist hero).
        Modifiers (.primary/.go/.on) stay per-family below. ── */
-    .pf-btn, .act-btn, .fp-ab { display:inline-flex; align-items:center; justify-content:center; gap:7px; height:42px; padding:0 15px; border-radius:var(--radius); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; text-decoration:none; transition:border-color .12s, background .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .pf-btn, .act-btn, .fp-ab { display:inline-flex; align-items:center; justify-content:center; gap:7px; height:42px; padding:0 15px; border-radius:var(--radius-btn); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; text-decoration:none; transition:border-color .12s, background .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .pf-btn:hover { border-color:var(--accent); }
     .pf-btn.primary { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .pf-btn.follow.following { background:transparent; color:var(--accent); border-color:var(--accent); }
@@ -2213,9 +2217,13 @@
     .nc-title { font-family:var(--head); font-weight:700; font-size:var(--fs-md); line-height:1.15; letter-spacing:-0.015em; }
     .nc-venue { color:var(--muted); font-size:var(--fs-xs); font-weight:600; margin-top:3px; }
     .rx-row { display:flex; gap:8px; margin-top:13px; }
-    .rx-pill { flex:1; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:var(--radius); padding:9px 6px; font:700 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; transition:border-color .12s, background .12s, color .12s; }
+    .rx-pill { flex:1; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:var(--radius-btn); padding:9px 6px; font:700 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; transition:border-color .12s, background .12s, color .12s; }
     .rx-pill.on.down { border-color:var(--accent); background:rgba(255,154,61,0.14); color:var(--accent); }
-    .rx-pill.on.maybe { border-color:#d6b34d; background:rgba(214,179,77,0.14); color:#e8c75e; }
+    /* Was #d6b34d / #e8c75e — a yellow that exists nowhere else in the product.
+       Violet is the palette's "chosen" colour and is already what every other
+       selected control uses, so the three answers now read as one control:
+       accent for down, violet for maybe, muted for nah. */
+    .rx-pill.on.maybe { border-color:var(--sel); background:var(--sel-weak); color:var(--sel-text); }
     .rx-pill.on.nah { border-color:var(--muted); background:rgba(146,146,160,0.12); color:var(--fg); }
     .nc-down { display:flex; align-items:center; gap:10px; margin-top:11px; color:var(--muted); font-size:var(--fs-sm); }
     .sheet-actions { flex-wrap:wrap; }
@@ -3019,7 +3027,7 @@
     /* Sets tab — grid of the artist's full YouTube sets; tap one to play (queues the rest) */
     .fp-sets{ padding:14px 16px 18px; }
     .fp-sets-load,.fp-sets-empty{ padding:8px 2px; color:var(--muted); font:600 var(--fs-sm)/var(--lh-sm) var(--body); }
-    .fp-sets-all{ display:inline-flex; align-items:center; gap:12px; width:auto; max-width:100%; border:0; background:var(--accent); color:var(--accent-ink); border-radius:var(--radius); padding:11px 16px 11px 12px; cursor:pointer; margin-bottom:16px; text-align:left; }
+    .fp-sets-all{ display:inline-flex; align-items:center; gap:12px; width:auto; max-width:100%; border:0; background:var(--accent); color:var(--accent-ink); border-radius:var(--radius-btn); padding:11px 16px 11px 12px; cursor:pointer; margin-bottom:16px; text-align:left; }
     .fp-sets-all .fp-sets-all-ic{ flex:0 0 auto; width:34px; height:34px; border-radius:50%; display:grid; place-items:center; background:rgba(0,0,0,.16); font-size:var(--fs-xs); padding-left:2px; }
     .fp-sets-all .fp-sets-all-tx{ display:flex; flex-direction:column; gap:2px; line-height:1.15; font:800 var(--fs-base)/var(--lh-base) var(--body); }
     .fp-sets-all .fp-sets-all-tx b{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.05em; text-transform:uppercase; opacity:.82; }
@@ -3254,7 +3262,7 @@
     /* tickets link under the description */
     .fp-ev-tickets{ display:inline-flex; align-items:center; gap:6px; margin-top:16px; color:var(--accent); font:700 var(--fs-sm)/var(--lh-sm) var(--body); text-decoration:none; }
     .fp-ev-tickets:hover{ text-decoration:underline; }
-    .fp-pb{ min-width:0; border:1px solid var(--border); border-radius:var(--radius); background:var(--surface-2); color:var(--fg); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.05em; text-transform:uppercase; padding:0 14px; height:42px; cursor:pointer; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; gap:7px; transition:border-color .12s; }
+    .fp-pb{ min-width:0; border:1px solid var(--border); border-radius:var(--radius-btn); background:var(--surface-2); color:var(--fg); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.05em; text-transform:uppercase; padding:0 14px; height:42px; cursor:pointer; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; gap:7px; transition:border-color .12s; }
     .fp-pb.go{ background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }   /* same size as its siblings — Play is not oversized */
     .fp-pb svg{ width:16px; height:16px; flex:none; }
     .fp-pb.on{ background:var(--surface-2); color:var(--accent); border-color:var(--accent); }
@@ -3282,7 +3290,7 @@
     .fp-ev-loc-v{ display:flex; align-items:center; gap:14px; margin-bottom:8px; flex-wrap:wrap; }
     .fp-ev-loc-v b{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); letter-spacing:-0.01em; }
     .fp-ev-loc-v .venue-link:hover b{ color:var(--accent); }
-    .fp-ev-follow{ border:1px solid var(--border); border-radius:var(--radius); background:var(--surface-2); color:var(--fg); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.06em; text-transform:uppercase; padding:8px 13px; cursor:pointer; }
+    .fp-ev-follow{ border:1px solid var(--border); border-radius:var(--radius-btn); background:var(--surface-2); color:var(--fg); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.06em; text-transform:uppercase; padding:8px 13px; cursor:pointer; }
     .fp-ev-follow.on{ background:var(--surface-2); color:var(--accent); border-color:var(--accent); } .fp-ev-follow:hover{ border-color:var(--accent); }
     .fp-ev-addr{ font:600 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:.04em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
     .fp-ev-dir{ font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:.05em; text-transform:uppercase; color:var(--accent); cursor:pointer; text-decoration:none; }
@@ -3950,7 +3958,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786198038077">
+<meta name="sc-build" content="1786201765175">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4342,7 +4350,7 @@
     function gateForPlay(){
       if(hasEmail()) return Promise.resolve(true);
       if(sessionPlays() < 1) return Promise.resolve(true);   // first play of each session is free
-      return ensureEmailGate({ heading:'Sign up to <span class="ac">continue listening</span>.', body:'Pop in your email and we will send you a link to set up your profile. Start liking artists, saving events and create your music diary with soundcheck.' });
+      return ensureEmailGate({ heading:'Sign up to <span class="ac">continue listening</span>.', body:'Pop in your email and we will send you a link and a 6-character code to set up your profile. Start liking artists, saving events and create your music diary with soundcheck.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges

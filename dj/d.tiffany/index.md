@@ -1,14 +1,15 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+D. Tiffany is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-D. Tiffany is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Burgess Park, London on Sat 8 Aug.
+D. Tiffany is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 | Fri, 4 Sept 2026 | Société des arts technologiques | Montreal |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
 

@@ -1,8 +1,8 @@
 # Voicedrone
 
-Voicedrone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Voicedrone is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Voicedrone is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: Burgess Park, London on Sat 8 Aug.
+Voicedrone is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Voicedrone is a techno and house artist tracked on soundcheck, with 72 sets logg
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 
 ## Recently played
 

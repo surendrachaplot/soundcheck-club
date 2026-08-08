@@ -1,8 +1,8 @@
 # SHERELLE
 
-SHERELLE is a Techno and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+SHERELLE is a Techno and Jungle artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-SHERELLE is a techno and jungle artist tracked on soundcheck, with 173 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside I. JORDAN, Special Request and Nia Archives. Next up: Burgess Park, London on Sat 8 Aug.
+SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 173 sets logg
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 | Sat, 5 Sept 2026 | The White Hotel | Manchester |
 | Thu, 10 Sept 2026 | The Carpet Shop | London |
 | Fri, 11 Sept 2026 | Le Molodoi | Strasbourg |
@@ -30,6 +31,6 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 173 sets logg
 
 ## Shares bills with
 
-I. JORDAN, Special Request, Nia Archives
+I. JORDAN, Special Request, Job Jobse
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

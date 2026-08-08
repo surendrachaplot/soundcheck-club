@@ -1,8 +1,8 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Job Jobse is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Job Jobse is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Burgess Park, London on Sat 8 Aug.
+Job Jobse is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 141 sets logg
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 | Fri, 28 Aug 2026 | Else | Berlin |
 | Sat, 29 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 11 Sept 2026 | Madrid Caja Mágica | Madrid |

@@ -1,14 +1,15 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Jyoty is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Burgess Park, London on Sat 8 Aug.
+Jyoty is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 | Fri, 11 Sept 2026 | Nowadays | New York City |
 | Sat, 12 Sept 2026 | Signal | New York City |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |

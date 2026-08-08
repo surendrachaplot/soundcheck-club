@@ -1,6 +1,6 @@
 # Launch Hexagon at Hexagon Brussels
 
-Launch Hexagon at Hexagon Brussels on Sat 5 Sept, Brussels. 2 acts on the bill: Erykah and O'SIMMIE. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Launch Hexagon at Hexagon Brussels on Sat 5 Sept, Brussels. 3 acts on the bill: dirtydms, Erykah and O'SIMMIE. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Launch Hexagon at Hexagon Brussels on Sat 5 Sept, Brussels. 2 acts on the bill: 
 
 ## Line-up
 
+- dirtydms
 - Erykah
 - O'SIMMIE
 

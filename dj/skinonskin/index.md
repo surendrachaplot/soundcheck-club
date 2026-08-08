@@ -1,8 +1,8 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Skin On Skin is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Skin On Skin is a techno and house artist tracked on soundcheck, with 130 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Burgess Park, London on Sat 8 Aug.
+Skin On Skin is a techno and house artist tracked on soundcheck, with 131 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and Job Jobse. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 130 sets l
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | TBA | Toronto |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
@@ -19,7 +20,6 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 130 sets l
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 130 sets l
 
 ## Shares bills with
 
-KETTAMA, Mall Grab, CRUSH3d
+KETTAMA, Mall Grab, Job Jobse
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

@@ -1,14 +1,15 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Taylah Elaine is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Donnie Sunshine, Eliza Rose and Joy Orbison. Next up: Burgess Park, London on Sat 8 Aug.
+Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 | Fri, 25 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Donnie Sunshine, Eliza Rose, Joy Orbison
+Jyoty, DJ Heartstring, Donnie Sunshine
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

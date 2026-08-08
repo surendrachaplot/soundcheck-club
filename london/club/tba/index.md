@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 292 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Frühstück Am Abend Street Parade" on Sat, 8 Aug 2026.
+TBA is a music venue in London with 293 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Frühstück Am Abend Street Parade" on Sat, 8 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 292 upcoming nights, with line-ups including 1morning, 2M (CH), 3 Minds and 619! and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 293 upcoming nights, with line-ups including 1morning, 2M (CH), 3 Minds and 619! and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

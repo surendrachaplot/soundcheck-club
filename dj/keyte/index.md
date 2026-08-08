@@ -1,13 +1,14 @@
 # Keyte
 
-Keyte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
+Keyte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Safari Lounge, Edinburgh on Sat, 8 Aug 2026.
 
-Keyte is a techno and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Edinburgh. Often billed alongside WolfJazz, Stephen Brown and Bash Man. Next up: La Belle Angele, Edinburgh on Sat 29 Aug.
+Keyte is a techno and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Edinburgh. Often billed alongside WolfJazz, Stephen Brown and Bash Man. Next up: The Safari Lounge, Edinburgh on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | The Safari Lounge | Edinburgh |
 | Sat, 29 Aug 2026 | La Belle Angele | Edinburgh |
 
 ## Recently played

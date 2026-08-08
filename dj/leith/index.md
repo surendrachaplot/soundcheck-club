@@ -1,13 +1,14 @@
 # Leith
 
-Leith is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Gallery, London on Thu, 27 Aug 2026.
+Leith is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at fabric, London on Sun, 9 Aug 2026.
 
-Leith is a house and tech house artist tracked on soundcheck, with 41 sets logged across Aberdeen, Edinburgh, Glasgow and London. Often billed alongside Tomoya Mizuno, Billa Bazz and Jacob Husley. Next up: Gallery, London on Thu 27 Aug.
+Leith is a house and tech house artist tracked on soundcheck, with 42 sets logged across Aberdeen, Edinburgh, Glasgow and London. Often billed alongside Tomoya Mizuno, Billa Bazz and Jacob Husley. Next up: fabric, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | fabric | London |
 | Thu, 27 Aug 2026 | Gallery | London |
 
 ## Recently played

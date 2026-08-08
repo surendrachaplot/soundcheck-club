@@ -1,8 +1,8 @@
 # Yaeji
 
-Yaeji is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Yaeji is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, HiTech and Young Marco. Next up: Burgess Park, London on Sat 8 Aug.
+Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, HiTech and Skin On Skin. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yaeji is a house and techno artist based in United States of America, tracked on
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
+| Sat, 15 Aug 2026 | Burgess Park | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Yaeji is a house and techno artist based in United States of America, tracked on
 
 ## Shares bills with
 
-Bambii, HiTech, Young Marco
+Bambii, HiTech, Skin On Skin
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*

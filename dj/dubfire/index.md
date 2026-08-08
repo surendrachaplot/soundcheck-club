@@ -1,13 +1,14 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at BERHTA, Washington DC on Sat, 22 Aug 2026.
+Dubfire is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 12 Aug 2026.
 
-Dubfire is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: BERHTA, Washingtondc on Sat 22 Aug.
+Dubfire is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: Playa Soleil Ibiza, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Playa Soleil Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | BERHTA | Washington DC |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Descent | Boston |

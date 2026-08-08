@@ -1,13 +1,14 @@
 # Alexis Cabrera
 
-Alexis Cabrera is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
+Alexis Cabrera is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 12 Aug 2026.
 
-Alexis Cabrera is a minimal techno and minimal artist based in Argentina, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Brussels and Bucharest and 7 more. Often billed alongside Ignacio Morales, Jonny Rock and Nekes. Next up: Seaseaclub Barcelona, Barcelona on Fri 14 Aug.
+Alexis Cabrera is a minimal techno and minimal artist based in Argentina, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Brussels and Bucharest and 7 more. Often billed alongside Ignacio Morales, Dubfire and Jonny Rock. Next up: Playa Soleil Ibiza, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Playa Soleil Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ Alexis Cabrera is a minimal techno and minimal artist based in Argentina, tracke
 
 ## Shares bills with
 
-Ignacio Morales, Jonny Rock, Nekes
+Ignacio Morales, Dubfire, Jonny Rock
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiscabrera/)*
