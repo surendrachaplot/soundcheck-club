@@ -2,7 +2,7 @@
 
 Liquid Club is a music venue in Malta with 21 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Kore Hypnotica - CHAPTER THREE - Tina, Chouhal, Sofried" on Sat, 8 Aug 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, with line-ups including A.Paul, Abdy, Ashibane and Chopper and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, with line-ups including A.Paul, Abdy, Ashibane and BOA (1) and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 

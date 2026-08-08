@@ -1,14 +1,15 @@
 # Kate Moss
 
-Kate Moss is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at XOYO, London on Wed, 12 Aug 2026.
+Kate Moss is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at XOYO, London on Wed, 12 Aug 2026.
 
-Kate Moss is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Athens and London. Often billed alongside CENKK, VENERE and Yashar (UK). Next up: XOYO, London on Wed 12 Aug.
+Kate Moss is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Athens, London and Malta. Often billed alongside CENKK, VENERE and Yashar (UK). Next up: XOYO, London on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | XOYO | London |
+| Fri, 18 Sept 2026 | Liquid Club | Malta |
 
 ## Recently played
 

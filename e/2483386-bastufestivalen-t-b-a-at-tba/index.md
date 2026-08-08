@@ -1,6 +1,6 @@
 # BASTUFESTIVALEN T.B.A at TBA
 
-BASTUFESTIVALEN T.B.A at TBA on Sat 15 Aug, Stockholm. 1 act on the bill: DJ Godfather. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+BASTUFESTIVALEN T.B.A at TBA on Sat 15 Aug, Stockholm. 3 acts on the bill: DJ Godfather, Per Qx and shanlifiction. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ BASTUFESTIVALEN T.B.A at TBA on Sat 15 Aug, Stockholm. 1 act on the bill: DJ God
 ## Line-up
 
 - DJ Godfather
+- Per Qx
+- shanlifiction
 
 *Source: [soundcheck](https://soundcheck.club/e/2483386-bastufestivalen-t-b-a-at-tba/)*
