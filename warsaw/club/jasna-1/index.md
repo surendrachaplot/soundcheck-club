@@ -1,8 +1,8 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "J1 - 808 DAY: Memotech, DJ CiRCE, daisy cutter, MIHVU" on Sat, 8 Aug 2026.
+Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "J1 - 808 DAY: Memotech, DJ CiRCE, daisy cutter, MIHVU" on Sat, 8 Aug 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming nights, with line-ups including Adelina, Badalian, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including 999999999, Adelina, Badalian and Blazej Malinowski and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 

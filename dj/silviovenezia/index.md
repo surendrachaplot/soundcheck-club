@@ -1,14 +1,15 @@
 # Silvio Venezia
 
-Silvio Venezia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Life Park, Istanbul on Sat, 15 Aug 2026.
+Silvio Venezia is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Life Park, Istanbul on Sat, 15 Aug 2026.
 
-Silvio Venezia is a techno and industrial artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Istanbul. Often billed alongside Not Modest, BBetriebswirt and Boys Noize. Next up: Life Park, Istanbul on Sat 15 Aug.
+Silvio Venezia is a techno and industrial artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Istanbul. Often billed alongside Not Modest, ALT8 and BBetriebswirt. Next up: Life Park, Istanbul on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Life Park | Istanbul |
+| Fri, 6 Nov 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Silvio Venezia is a techno and industrial artist based in Germany, tracked on so
 
 ## Shares bills with
 
-Not Modest, BBetriebswirt, Boys Noize
+Not Modest, ALT8, BBetriebswirt
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silviovenezia/)*

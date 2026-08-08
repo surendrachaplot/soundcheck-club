@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "MAGMA Festival | 08. & 09. August 2026" on Sat, 8 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "MAGMA Festival | 08. & 09. August 2026" on Sat, 8 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 

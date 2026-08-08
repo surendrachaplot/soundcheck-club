@@ -1,14 +1,14 @@
 # Mayuu
 
-Mayuu is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - OtaQlab, Bangkok on Sat, 8 Aug 2026.
+Mayuu is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Otaqlab Bangkok, Bangkok on Sat, 8 Aug 2026.
 
-Mayuu is an electronica and techno artist based in Thailand, tracked on soundcheck, with 12 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Eizu 映図 and Wisarut. Next up: TBA - OtaQlab, Bangkok on Sat 8 Aug.
+Mayuu is an electronica and techno artist based in Thailand, tracked on soundcheck, with 12 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Eizu 映図 and Wisarut. Next up: Otaqlab Bangkok, Bangkok on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - OtaQlab | Bangkok |
+| Sat, 8 Aug 2026 | Otaqlab Bangkok | Bangkok |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Hochsommer - Sommerhoch at Malzfabrik
 
-Hochsommer - Sommerhoch at Malzfabrik on Sat 22 Aug, Berlin. 3 acts on the bill: Dynamic Experience, multibliss and Repthiloid. Techno and House. Preview the line-up and save it on soundcheck.
+Hochsommer - Sommerhoch at Malzfabrik on Sat 22 Aug, Berlin. 6 acts on the bill: Dynamic Experience, multibliss, Philena and Repthiloid and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,9 @@ Hochsommer - Sommerhoch at Malzfabrik on Sat 22 Aug, Berlin. 3 acts on the bill:
 
 - Dynamic Experience
 - multibliss
+- Philena
 - Repthiloid
+- tamarawrx3
+- yamagucci42
 
 *Source: [soundcheck](https://soundcheck.club/e/2505353-hochsommer-sommerhoch-at-malzfabrik/)*

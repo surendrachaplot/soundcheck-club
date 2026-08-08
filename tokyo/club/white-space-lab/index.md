@@ -1,8 +1,8 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ishin" on Sat, 8 Aug 2026.
+White Space Lab is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ishin" on Sat, 8 Aug 2026.
 
-White Space Lab is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 北極 / Ali NM, ALLY, JagdAngel and Kanamemandala and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
+White Space Lab is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 北極 / Ali NM, ALLY, Crazy Neo and JagdAngel and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
 ## What's on
 
@@ -15,6 +15,7 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 7 upcoming night
 | Wed, 19 Aug 2026 | SENSE | KEI_DJ, MOTOKA, PortaL(JP), 北極 / Ali NM |
 | Thu, 20 Aug 2026 | Third Party | NEKODAIKEYLAI |
 | Thu, 27 Aug 2026 | Four on the beat |  |
+| Fri, 28 Aug 2026 | Dissolve | Crazy Neo, Maki.Itoh |
 
 ## Address
 

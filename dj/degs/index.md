@@ -1,14 +1,15 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ground Floor, Philadelphia on Fri, 4 Sept 2026.
+Degs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ground Floor, Philadelphia on Fri, 4 Sept 2026.
 
-Degs is a drum & bass and jungle artist tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Berlin and Boston and 24 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Ground Floor, Philadelphia on Fri 4 Sept.
+Degs is a drum & bass and jungle artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Berlin and Boston and 24 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Ground Floor, Philadelphia on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Ground Floor | Philadelphia |
+| Sat, 12 Sept 2026 | Volks | Brighton |
 | Sun, 11 Oct 2026 | Holocene | Portland |
 
 ## Recently played

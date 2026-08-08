@@ -1,14 +1,15 @@
 # Wyatt (1)
 
-Wyatt (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
+Wyatt (1) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
 
-Wyatt (1) is a house and tech house artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Bristol, Bucharest, London and Osaka and 2 more. Often billed alongside Adriano Lemon, Aline (CH) and Nick F. Next up: Supermarket, Zurich on Sat 29 Aug.
+Wyatt (1) is a house and tech house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Berlin, Bristol, Bucharest and London and 3 more. Often billed alongside Adriano Lemon, Aline (CH) and Nick F. Next up: Supermarket, Zurich on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Supermarket | Zurich |
+| Fri, 6 Nov 2026 | Lido Berlin | Berlin |
 
 ## Recently played
 

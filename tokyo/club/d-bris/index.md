@@ -1,13 +1,14 @@
 # Débris
 
-Débris is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "REPOS" on Mon, 17 Aug 2026.
+Débris is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Caprice" on Sat, 15 Aug 2026.
 
-Débris is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
+Débris is a music venue in Tokyo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Caprice |  |
 | Mon, 17 Aug 2026 | REPOS |  |
 
 ## Address

@@ -1,10 +1,10 @@
 # Diversiones at Amma at TBA - AMMA CAFE RIDGEWOOD
 
-Diversiones at Amma at TBA - AMMA CAFE RIDGEWOOD on Thu 20 Aug, Newyorkcity. 2 acts on the bill: cazadory and dj wagner. Bass and Ballroom. Preview the line-up and save it on soundcheck.
+Diversiones at Amma at TBA - AMMA CAFE RIDGEWOOD on Fri 21 Aug, Newyorkcity. 2 acts on the bill: cazadory and dj wagner. Bass and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 20 Aug 2026 |
+| Date | Fri, 21 Aug 2026 |
 | Venue | TBA - AMMA CAFE RIDGEWOOD |
 | City | New York City |
 

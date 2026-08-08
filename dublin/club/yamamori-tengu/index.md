@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 15 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Tengu presents: Efa O'Neill All Night Long" on Sat, 8 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 16 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Tengu presents: Efa O'Neill All Night Long" on Sat, 8 Aug 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 15 upcoming nights, with line-ups including A For Alpha, ANNĒ, Benson and Bull Horris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming nights, with line-ups including A For Alpha, ANNĒ, Benson and Bull Horris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 

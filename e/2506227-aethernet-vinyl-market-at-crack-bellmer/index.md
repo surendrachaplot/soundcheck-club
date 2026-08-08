@@ -1,6 +1,6 @@
 # AETHERNET VINYL MARKET at Crack Bellmer
 
-AETHERNET VINYL MARKET at Crack Bellmer on Sun 16 Aug, Berlin. 2 acts on the bill: Mark Gill and oraclepussies. House and Electro. Preview the line-up and save it on soundcheck.
+AETHERNET VINYL MARKET at Crack Bellmer on Sun 16 Aug, Berlin. 3 acts on the bill: katja., Mark Gill and oraclepussies. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AETHERNET VINYL MARKET at Crack Bellmer on Sun 16 Aug, Berlin. 2 acts on the bil
 
 ## Line-up
 
+- katja.
 - Mark Gill
 - oraclepussies
 

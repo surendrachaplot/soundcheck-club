@@ -10,7 +10,7 @@ Blue Room is a music venue in Montreal listed on soundcheck. 3 upcoming nights, 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Hear No Evil presents: YVNNI / SEB TODD / CAMILLE | Camille (1) |
 | Thu, 13 Aug 2026 | Planète Secrète takeover: Claire / Alicia Hush / Zepha | Alicia Hush, Claire, Zepha |
-| Sat, 15 Aug 2026 | Dylan Cherry / Othman | Dylan Cherry, Othman |
+| Sat, 15 Aug 2026 | Dylan Cherry / Jino K | Dylan Cherry, Othman |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Equation feat. AceMo b2b Swami Sound [Extended Live Hardware Set] / Gamma Vibes" on Sat, 8 Aug 2026.
+SILO is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Equation feat. AceMo b2b Swami Sound [Extended Live Hardware Set] / Gamma Vibes" on Sat, 8 Aug 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including AceMo, A DJ Named SNE, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including AceMo, A DJ Named SNE, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 

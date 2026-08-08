@@ -1,8 +1,8 @@
 # A38
 
-A38 is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lick the Click! Sunburst Classic Terrace" on Sat, 8 Aug 2026.
+A38 is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lick the Click! Sunburst Classic Terrace" on Sat, 8 Aug 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Alix Perez, DJ Crimson, Dual DeStress and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Alix Perez, DJ Crimson, Dual DeStress and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
@@ -10,6 +10,7 @@ A38 is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with l
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Lick the Click! Sunburst Classic Terrace | DJ Crimson, isu |
 | Thu, 13 Aug 2026 | Fine Selection #218 w/Electric Boutique & Turner | Electric Boutique |
+| Fri, 14 Aug 2026 | Drum Club / Friday | Longman, Sin |
 | Wed, 19 Aug 2026 | 10 YEARS OF 1985 MUSIC: Alix Perez & SP:MC | Alix Perez, Gemcamp, Markov |
 | Wed, 19 Aug 2026 | Bladerunnaz presents: Alix Perez & SP:MC (10 Years of 1985 Music) | Alix Perez, Gemcamp, Markov, SP:MC |
 | Thu, 27 Aug 2026 | Fine Selection #219 w/Electric Boutique & Lost in Details | Electric Boutique, Lost in Details |

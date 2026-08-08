@@ -1,14 +1,14 @@
 # GAEL
 
-GAEL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 8 Aug 2026.
+GAEL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 8 Aug 2026.
 
-GAEL is a techno and trance artist based in Ukraine, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Cologne and Geneva and 8 more. Often billed alongside Skungal, job sifre and Tweeman. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 8 Aug.
+GAEL is a techno and trance artist based in Ukraine, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Cologne and Geneva and 8 more. Often billed alongside Skungal, job sifre and Tweeman. Next up: TBA - Neukolln, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - Neukolln. 52.47736265617827, 13.4592885932799 | Berlin |
+| Sat, 8 Aug 2026 | TBA - Neukolln | Berlin |
 
 ## Recently played
 

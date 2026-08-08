@@ -12,7 +12,7 @@ Ex Macello is a music venue in Milan listed on soundcheck. 5 upcoming nights, wi
 | Fri, 11 Sept 2026 | Le Cannibale Ex Macello - L'ultima festa | Andrewww, Clover, Creamy, Giale, Riccardo Moschen |
 | Thu, 24 Sept 2026 | VISION open air MFW presents Michael Bibi | Michael Bibi |
 | Sat, 26 Sept 2026 | VISION open air MFW presents Solomun Milan | Solomun |
-| Sat, 3 Oct 2026 | Milan Open Air all'Ex Macello - L'ultimissima festa | Futuro Tropicale, HYLO (IT), Joe Lewandowski, STYLOPHONIC |
+| Sat, 3 Oct 2026 | Milan Open Air all'Ex Macello - L'ultimissima festa [free party] | Futuro Tropicale, HYLO (IT), Joe Lewandowski, STYLOPHONIC |
 
 ## Address
 

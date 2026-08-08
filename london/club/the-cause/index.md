@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 22 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Boat Club Open Air" on Sat, 8 Aug 2026.
+The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Boat Club Open Air" on Sat, 8 Aug 2026.
 
-The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including KT, Aba Shanti-I, AliA and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including KT, Aba Shanti-I, AliA and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 

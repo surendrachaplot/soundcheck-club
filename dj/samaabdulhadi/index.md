@@ -1,8 +1,8 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sub Club, Glasgow on Fri, 21 Aug 2026.
+Sama' Abdulhadi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sub Club, Glasgow on Fri, 21 Aug 2026.
 
-Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Sub Club, Glasgow on Fri 21 Aug.
+Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Sub Club, Glasgow on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 139 set
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Sub Club | Glasgow |
 | Sat, 29 Aug 2026 | Bolivar Beach Bar | Athens |
+| Fri, 4 Sept 2026 | Rex Club | Paris |
 | Sat, 5 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 17 Oct 2026 | fabric | London |

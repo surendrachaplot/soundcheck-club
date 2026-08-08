@@ -1,8 +1,8 @@
 # Linds
 
-Linds is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Linds is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
-Linds is a techno and trance artist based in Poland, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 10 more. Often billed alongside GI.O, Kichta and LINDS (NL). Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
+Linds is a techno and trance artist based in Poland, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 10 more. Often billed alongside GI.O, Kichta and LINDS (NL). Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Linds is a techno and trance artist based in Poland, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 18 Sept 2026 | Kilomètre25 | Paris |
+| Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

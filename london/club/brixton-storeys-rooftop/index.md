@@ -1,8 +1,8 @@
 # Brixton Storeys Rooftop
 
-Brixton Storeys Rooftop is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Rooftop Party LDN - Everyone Free Before 6PM" on Sun, 9 Aug 2026.
+Brixton Storeys Rooftop is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Rooftop Party LDN - Everyone Free Before 6PM" on Sun, 9 Aug 2026.
 
-Brixton Storeys Rooftop is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 49 Brixton Station Road  London SW9 8PQ.
+Brixton Storeys Rooftop is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 49 Brixton Station Road  London SW9 8PQ.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Brixton Storeys Rooftop is a music venue in London listed on soundcheck. 2 upcom
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Rooftop Party LDN - Everyone Free Before 6PM |  |
 | Sun, 9 Aug 2026 | Day Party Motion - LDN |  |
+| Sun, 9 Aug 2026 | Jamaican Independence - Rooftop Day Pary - Everyone Free Before 6PM |  |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 71 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DEMOLATE x VULGED OPEN AIR w/ V.Honorio, Beau Didier, Flits, Isaiah" on Sat, 8 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 72 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DEMOLATE x VULGED OPEN AIR w/ V.Honorio, Beau Didier, Flits, Isaiah" on Sat, 8 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 72 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 

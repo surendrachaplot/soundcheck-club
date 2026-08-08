@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' " on Sat, 8 Aug 2026.
+OXI is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' " on Sat, 8 Aug 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Alexander Kowalski, Alex Levin, Alison Swing and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aggy, Ahni, Alexander Kowalski and Alex Levin and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
@@ -17,7 +17,7 @@ OXI is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with li
 | Sat, 15 Aug 2026 | OXI GROOVE AFFAIR (OPEN AIR & INDOOR) + Official Paradise Worldwide Rave The Planet Afterparty | Anaté, Crihan, DJ Fresh Garlic, La Terrasse, MADAM, Matteo Gamba, Module One, Oli Neate, Sasse, Sven Weisemann |
 | Tue, 18 Aug 2026 | ✦SEELEN x encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | E2NMN, JANEIN, Medha, Stigmatique |
 | Thu, 20 Aug 2026 | [OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin | Dave Mech, Gabrielle (DE), Hendrik Nitsche, Jan Ritter, Jasmin Giovanazzi, Mattone, Solvados, UniKhatu |
-| Sat, 22 Aug 2026 | Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) | Bayetë, Camilo Miranda, Delfonic, Franz Scala, Luca Averna, Luca Elsi, Trujillo, keikee |
+| Fri, 21 Aug 2026 | Common Ground with Lifted, Flinta Club Deck & What A Playground | Aggy, Ahni, NeZoomie, Pilar Jordan, elliephunk |
 
 ## Address
 

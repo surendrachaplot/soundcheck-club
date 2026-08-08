@@ -1,6 +1,6 @@
-# whiplash FT. GRACE SANDS // EMILIA G // SPRING // YSHEE BLACK at Hare & Hounds
+# whiplash ft grace sands // emilia g // spring // yshee black at Hare & Hounds
 
-whiplash FT. GRACE SANDS // EMILIA G // SPRING // YSHEE BLACK at Hare & Hounds on Sat 3 Oct, Birmingham. House and Acid. Preview the line-up and save it on soundcheck.
+whiplash ft grace sands // emilia g // spring // yshee black at Hare & Hounds on Sat 3 Oct, Birmingham. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

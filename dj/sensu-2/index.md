@@ -1,14 +1,15 @@
 # Sensu (2)
 
-Sensu (2) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
+Sensu (2) is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
 
-Sensu (2) is a house and trance artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Brighton, Bristol, Geneva and London and 4 more. Often billed alongside Auramatic, Swimming Paul and Arithmittel. Next up: Badaboum, Paris on Fri 28 Aug.
+Sensu (2) is a house and trance artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Brighton, Bristol, Geneva and London and 4 more. Often billed alongside Auramatic, Swimming Paul and Arithmittel. Next up: Badaboum, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Badaboum | Paris |
+| Fri, 6 Nov 2026 | The Jazz Cafe | London |
 
 ## Recently played
 

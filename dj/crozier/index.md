@@ -1,13 +1,14 @@
 # Crozier
 
-Crozier is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
+Crozier is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Lucky Cat, Sydney on Sat, 8 Aug 2026.
 
-Crozier is a house and deep house artist based in Australia, tracked on soundcheck, with 76 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Amber Ferraro, Macmillan and Adam Trace. Next up: Revolver Upstairs, Melbourne on Sat 5 Sept.
+Crozier is a house and deep house artist based in Australia, tracked on soundcheck, with 77 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Amber Ferraro, Macmillan and Adam Trace. Next up: The Lucky Cat, Sydney on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | The Lucky Cat | Sydney |
 | Sat, 5 Sept 2026 | Revolver Upstairs | Melbourne |
 | Sat, 26 Sept 2026 | 24 Moons | Melbourne |
 

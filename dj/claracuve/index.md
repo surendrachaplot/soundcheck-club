@@ -1,8 +1,8 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
-Clara Cuvé is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
+Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # Posthuman
 
-Posthuman is a Acid and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Brixton Radio, London on Sat, 29 Aug 2026.
+Posthuman is a Acid and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Brixton Radio, London on Sat, 29 Aug 2026.
 
-Posthuman is an acid and techno artist tracked on soundcheck, with 74 sets logged across Bangkok, Birmingham, Bristol and Chicago and 10 more. Often billed alongside Luke Vibert, Nightwave and Jon Dasilva. Next up: Brixton Radio, London on Sat 29 Aug.
+Posthuman is an acid and techno artist tracked on soundcheck, with 75 sets logged across Bangkok, Birmingham, Bristol and Chicago and 10 more. Often billed alongside Luke Vibert, Nightwave and Jon Dasilva. Next up: Brixton Radio, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Posthuman is an acid and techno artist tracked on soundcheck, with 74 sets logge
 | Fri, 25 Sept 2026 | Hare & Hounds | Birmingham |
 | Fri, 16 Oct 2026 | The Berkeley Suite | Glasgow |
 | Sat, 31 Oct 2026 | The Golden Lion | Manchester |
+| Fri, 6 Nov 2026 | The Cause | London |
 
 ## Recently played
 

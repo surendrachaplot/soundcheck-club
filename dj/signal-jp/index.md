@@ -1,8 +1,8 @@
 # SIGNAL (JP)
 
-SIGNAL (JP) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 8 Aug 2026.
+SIGNAL (JP) is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 8 Aug 2026.
 
-SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 252 sets logged across Osaka and Tokyo. Often billed alongside MOTOKA, SINZIN and cosmolady. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 8 Aug.
+SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 253 sets logged across Osaka and Tokyo. Often billed alongside MOTOKA, SINZIN and cosmolady. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, 
 | Sat, 8 Aug 2026 | Royal Lounge | Tokyo |
 | Fri, 14 Aug 2026 | R Lounge | Tokyo |
 | Sun, 16 Aug 2026 | Aoyama Hachi | Tokyo |
+| Wed, 19 Aug 2026 | Azumaya | Tokyo |
 | Sun, 30 Aug 2026 | Aoyama Hachi | Tokyo |
 | Fri, 4 Sept 2026 | WOMB | Tokyo |
 

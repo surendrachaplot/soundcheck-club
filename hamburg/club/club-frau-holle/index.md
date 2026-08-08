@@ -10,7 +10,7 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 5 upcoming nig
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | OFF GRID Festival - Afterparty w/ Drumcomplex (Cocoon, Terminal M), Romi Nation, Nana K,  | Drumcomplex, Nana K. |
 | Fri, 14 Aug 2026 | INVITED with LUCAS DARIO, SIN, COSMOKAT |  |
-| Fri, 21 Aug 2026 | HYPER HOLLE with VABU, NIKIIJA |  |
+| Fri, 21 Aug 2026 | HYPER HOLLE with VABU, NIKIIJA, TANTE THOMAS |  |
 | Sat, 5 Sept 2026 | Electronic Redlight 'Clubnight' |  |
 | Fri, 18 Sept 2026 | BROKEN FORMS with MATHIAS KADEN (Rekids, Diynamic, Heideton, Poker Flat), VABU, DELLOSEN, DAVIDE |  |
 

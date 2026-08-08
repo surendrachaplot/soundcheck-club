@@ -1,6 +1,6 @@
-# Milan Open Air in Monte Stella with L3um4s, STYLOPHONIC, Flashmob at Anfiteatro Monte Stella
+# Milan Open Air in Monte Stella with L3um4s, STYLOPHONIC, Flashmob [free party] at Anfiteatro Monte Stella
 
-Milan Open Air in Monte Stella with L3um4s, STYLOPHONIC, Flashmob at Anfiteatro Monte Stella on Sat 12 Sept, Milan. 3 acts on the bill: Flashmob, HYLO (IT) and STYLOPHONIC. Preview the line-up and save it on soundcheck.
+Milan Open Air in Monte Stella with L3um4s, STYLOPHONIC, Flashmob [free party] at Anfiteatro Monte Stella on Sat 12 Sept, Milan. 3 acts on the bill: Flashmob, HYLO (IT) and STYLOPHONIC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

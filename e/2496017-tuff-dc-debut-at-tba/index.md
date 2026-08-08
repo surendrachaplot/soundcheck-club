@@ -1,6 +1,6 @@
 # TUFF - DC DEBUT at TBA
 
-TUFF - DC DEBUT at TBA on Sat 22 Aug, Washingtondc. 1 act on the bill: Danny Lethal. Techno and House. Preview the line-up and save it on soundcheck.
+TUFF - DC DEBUT at TBA on Sat 22 Aug, Washingtondc. 2 acts on the bill: Danny Lethal and TOMI. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ TUFF - DC DEBUT at TBA on Sat 22 Aug, Washingtondc. 1 act on the bill: Danny Let
 ## Line-up
 
 - Danny Lethal
+- TOMI
 
 *Source: [soundcheck](https://soundcheck.club/e/2496017-tuff-dc-debut-at-tba/)*

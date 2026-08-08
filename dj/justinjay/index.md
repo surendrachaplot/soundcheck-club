@@ -1,8 +1,8 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lieberscholli, Munich on Sun, 23 Aug 2026.
+Justin Jay is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lieberscholli, Munich on Sun, 23 Aug 2026.
 
-Justin Jay is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 26 more. Often billed alongside Bad Boombox, Janis Zielinski and Mija. Next up: Lieberscholli, Munich on Sun 23 Aug.
+Justin Jay is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 26 more. Often billed alongside Bad Boombox, Janis Zielinski and Mija. Next up: Lieberscholli, Munich on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Justin Jay is a house and techno artist tracked on soundcheck, with 73 sets logg
 | Fri, 11 Sept 2026 | Sacré | Paris |
 | Sat, 12 Sept 2026 | Grelle Forelle | Vienna |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |
+| Fri, 6 Nov 2026 | E1 | London |
 
 ## Recently played
 

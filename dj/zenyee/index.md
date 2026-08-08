@@ -1,8 +1,8 @@
 # Zenyee
 
-Zenyee is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 14 Aug 2026.
+Zenyee is a electronic artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 14 Aug 2026.
 
-Zenyee is an electronic artist based in China, tracked on soundcheck, with 48 sets logged across Berlin and Milan. Often billed alongside Bubbling, Dolce Potente and Industrial Romantico. Next up: Tempio del Futuro Perduto, Milan on Fri 14 Aug.
+Zenyee is an electronic artist based in China, tracked on soundcheck, with 51 sets logged across Berlin and Milan. Often billed alongside Bubbling, Dolce Potente and Industrial Romantico. Next up: Tempio del Futuro Perduto, Milan on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ Zenyee is an electronic artist based in China, tracked on soundcheck, with 48 se
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Tempio del Futuro Perduto | Milan |
 | Fri, 21 Aug 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 4 Sept 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 11 Sept 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 18 Sept 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 

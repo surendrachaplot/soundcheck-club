@@ -1,8 +1,8 @@
 # Dixon
 
-Dixon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Fitz Mallorca, Mallorca on Sun, 9 Aug 2026.
+Dixon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Fitz Mallorca, Mallorca on Sun, 9 Aug 2026.
 
-Dixon is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Fitz Mallorca, Mallorca on Sun 9 Aug.
+Dixon is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Fitz Mallorca, Mallorca on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dixon is a house and techno artist tracked on soundcheck, with 186 sets logged a
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Sun, 6 Sept 2026 | Woodstock'69 | Amsterdam |
 | Thu, 17 Sept 2026 | Scorpios | Mykonos |
+| Fri, 18 Sept 2026 | Forte Antenne | Rome |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 
 ## Recently played

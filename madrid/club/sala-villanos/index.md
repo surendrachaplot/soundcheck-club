@@ -1,8 +1,8 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Marcellus Pittman + Nacho Marco" on Sat, 12 Sept 2026.
+Sala Villanos is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Marcellus Pittman + Nacho Marco" on Sat, 12 Sept 2026.
 
-Sala Villanos is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including Acid Hero, Crazy P, Damian Schwartz and Danilo Plessow and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
+Sala Villanos is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including Acid Hero, Crazy P, Damian Schwartz and Danilo Plessow and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 9 upcoming nights
 | Sat, 10 Oct 2026 | Crazy P (Dj Set) + Acid Hero + Toni Aparisi | Acid Hero, Crazy P, Toni Aparisi |
 | Fri, 16 Oct 2026 | Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias | Danilo Plessow, Javi Frias, Marcos Boricua |
 | Sat, 24 Oct 2026 | Sadar Bahar + Buitre + Dj Rchlbraü | Sadar Bahar |
+| Fri, 6 Nov 2026 | Dave Lee (FKA Joey Negro) + Javi Frias | Dave Lee, Javi Frias |
 
 ## Address
 

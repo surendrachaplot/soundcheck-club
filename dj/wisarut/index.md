@@ -1,14 +1,14 @@
 # Wisarut
 
-Wisarut is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - OtaQlab, Bangkok on Sat, 8 Aug 2026.
+Wisarut is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Otaqlab Bangkok, Bangkok on Sat, 8 Aug 2026.
 
-Wisarut is a techno and electronica artist based in Thailand, tracked on soundcheck, with 12 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Mayuu and DukeDumb. Next up: TBA - OtaQlab, Bangkok on Sat 8 Aug.
+Wisarut is a techno and electronica artist based in Thailand, tracked on soundcheck, with 12 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Mayuu and DukeDumb. Next up: Otaqlab Bangkok, Bangkok on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - OtaQlab | Bangkok |
+| Sat, 8 Aug 2026 | Otaqlab Bangkok | Bangkok |
 | Thu, 13 Aug 2026 | Horn | Bangkok |
 
 ## Recently played

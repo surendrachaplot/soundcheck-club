@@ -1,8 +1,8 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 15 Aug 2026.
+Kerri Chandler is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 15 Aug 2026.
 
-Kerri Chandler is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Seth Troxler, Chris Stussy and DJ Tennis. Next up: Chinois Ibiza, Ibiza on Sat 15 Aug.
+Kerri Chandler is a house and techno artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Seth Troxler, Chris Stussy and DJ Tennis. Next up: Chinois Ibiza, Ibiza on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 153 sets
 | Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 6 Nov 2026 | TBA - Toronto | Toronto |
 
 ## Recently played
 

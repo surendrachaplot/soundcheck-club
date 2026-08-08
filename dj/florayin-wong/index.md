@@ -1,8 +1,8 @@
 # Flora Yin-Wong
 
-Flora Yin-Wong is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 90mil, Berlin on Sat, 12 Sept 2026.
+Flora Yin-Wong is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 90mil, Berlin on Sat, 12 Sept 2026.
 
-Flora Yin-Wong is an experimental and ambient artist tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Berlin and Bristol and 16 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Ana Quiroga and Astrid Sonne. Next up: 90mil, Berlin on Sat 12 Sept.
+Flora Yin-Wong is an experimental and ambient artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Berlin and Bristol and 16 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Ana Quiroga and Astrid Sonne. Next up: 90mil, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Flora Yin-Wong is an experimental and ambient artist tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | 90mil | Berlin |
 | Wed, 23 Sept 2026 | Silent Green | Berlin |
+| Fri, 6 Nov 2026 | Cafe OTO | London |
 
 ## Recently played
 

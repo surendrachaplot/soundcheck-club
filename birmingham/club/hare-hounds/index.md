@@ -13,7 +13,7 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming ni
 | Thu, 10 Sept 2026 | Devlin - Birmingham |  |
 | Fri, 11 Sept 2026 | Joe Goddard (DJ Set) | Joe Goddard |
 | Fri, 25 Sept 2026 | I Love Acid presents Luke Vibert | Luke Vibert, Nightwave, Posthuman |
-| Sat, 3 Oct 2026 | whiplash FT. GRACE SANDS // EMILIA G // SPRING // YSHEE BLACK |  |
+| Sat, 3 Oct 2026 | whiplash ft grace sands // emilia g // spring // yshee black |  |
 | Fri, 9 Oct 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
 | Sun, 11 Oct 2026 | Luke Una | Luke Una |
 | Sat, 24 Oct 2026 | Love Affair presents Greg Wilson | Greg Wilson |

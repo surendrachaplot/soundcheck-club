@@ -1,8 +1,8 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 32 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jackies 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero" on Sat, 8 Aug 2026.
+La Terrrazza is a music venue in Barcelona with 33 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jackies 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero" on Sat, 8 Aug 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 32 upcoming nights, with line-ups including Alice Caroline, Belu Rodriguez, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 33 upcoming nights, with line-ups including Alice Caroline, Belu Rodriguez, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 

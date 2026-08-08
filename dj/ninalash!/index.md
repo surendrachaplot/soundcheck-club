@@ -1,14 +1,15 @@
 # Ninalash!
 
-Ninalash! is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Cadavra, Madrid on Sat, 8 Aug 2026.
+Ninalash! is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cadavra, Madrid on Sat, 8 Aug 2026.
 
-Ninalash! is a house and electronica artist based in Uzbekistan, tracked on soundcheck, with 18 sets logged across Madrid. Often billed alongside Dj Homie, WO KEM and David Cabrera. Next up: Cadavra, Madrid on Sat 8 Aug.
+Ninalash! is a house and electronica artist based in Uzbekistan, tracked on soundcheck, with 19 sets logged across Madrid. Often billed alongside Dj Homie, WO KEM and David Cabrera. Next up: Cadavra, Madrid on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Cadavra | Madrid |
+| Fri, 11 Sept 2026 | LFO.exp | Madrid |
 
 ## Recently played
 

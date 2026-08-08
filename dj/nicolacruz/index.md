@@ -1,8 +1,8 @@
 # Nicola Cruz
 
-Nicola Cruz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
+Nicola Cruz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
-Nicola Cruz is a house and techno artist tracked on soundcheck, with 94 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: FOLD, London on Sat 8 Aug.
+Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: FOLD, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nicola Cruz is a house and techno artist tracked on soundcheck, with 94 sets log
 | Sat, 15 Aug 2026 | essaim | Paris |
 | Sun, 16 Aug 2026 | Le Sucre | Lyon |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 
 ## Recently played
 

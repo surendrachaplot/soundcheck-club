@@ -1,6 +1,6 @@
-# HYPERDRIVE with KAYA at F8 1192 Folsom
+# HYPERDRIVE with KAYA! at F8 1192 Folsom
 
-HYPERDRIVE with KAYA at F8 1192 Folsom on Fri 4 Sept, Sanfrancisco. House and Bass. Preview the line-up and save it on soundcheck.
+HYPERDRIVE with KAYA! at F8 1192 Folsom on Fri 4 Sept, Sanfrancisco. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

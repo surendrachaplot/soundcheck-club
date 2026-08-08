@@ -1,14 +1,15 @@
 # Sippin' T
 
-Sippin' T is a UK Funky and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Sippin' T is a Techno and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-Sippin' T is an uk funky and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside THEMPRESS, GIDEÖN and Lagoon Femshayma. Next up: Southwark Park, London on Sun 30 Aug.
+Sippin' T is a techno and uk funky artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Southwark Park | London |
+| Sun, 6 Sept 2026 | Hackney Bridge | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sippin' T is an uk funky and techno artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-THEMPRESS, GIDEÖN, Lagoon Femshayma
+TEDESCO, THEMPRESS, GIDEÖN
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*

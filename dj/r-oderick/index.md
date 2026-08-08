@@ -1,14 +1,15 @@
 # R-ODERICK
 
-R-ODERICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Standard Time, Toronto on Sat, 15 Aug 2026.
+R-ODERICK is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Standard Time, Toronto on Sat, 15 Aug 2026.
 
-R-ODERICK is a techno and house artist based in Canada, tracked on soundcheck, with 60 sets logged across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: Standard Time, Toronto on Sat 15 Aug.
+R-ODERICK is a techno and house artist based in Canada, tracked on soundcheck, with 61 sets logged across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: Standard Time, Toronto on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Standard Time | Toronto |
+| Sat, 22 Aug 2026 | TBA - Bloor/Spadina | Toronto |
 | Fri, 30 Oct 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played

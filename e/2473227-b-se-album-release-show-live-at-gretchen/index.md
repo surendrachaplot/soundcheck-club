@@ -1,6 +1,6 @@
 # ÀBÁSE - Album Release Show *live at Gretchen
 
-ÀBÁSE - Album Release Show *live at Gretchen on Thu 5 Nov, Berlin. 1 act on the bill: Àbáse. Jazz and Afrobeat. Preview the line-up and save it on soundcheck.
+ÀBÁSE - Album Release Show *live at Gretchen on Thu 5 Nov, Berlin. 1 act on the bill: Àbáse. Afrobeat and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

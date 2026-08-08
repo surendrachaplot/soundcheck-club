@@ -1,14 +1,14 @@
 # DukeDumb
 
-DukeDumb is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - OtaQlab, Bangkok on Sat, 8 Aug 2026.
+DukeDumb is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Otaqlab Bangkok, Bangkok on Sat, 8 Aug 2026.
 
-DukeDumb is a techno and electro artist based in Thailand, tracked on soundcheck, with 40 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Gus The Goof and Yoongying. Next up: TBA - OtaQlab, Bangkok on Sat 8 Aug.
+DukeDumb is a techno and electro artist based in Thailand, tracked on soundcheck, with 40 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Gus The Goof and Yoongying. Next up: Otaqlab Bangkok, Bangkok on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - OtaQlab | Bangkok |
+| Sat, 8 Aug 2026 | Otaqlab Bangkok | Bangkok |
 
 ## Recently played
 

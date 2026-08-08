@@ -1,8 +1,8 @@
 # umru
 
-umru is a Club and Pop artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Système, Montreal on Sun, 16 Aug 2026.
+umru is a Club and Pop artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Système, Montreal on Sun, 16 Aug 2026.
 
-umru is a club and pop artist based in United States of America, tracked on soundcheck, with 145 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Système, Montreal on Sun 16 Aug.
+umru is a club and pop artist based in United States of America, tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Système, Montreal on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ umru is a club and pop artist based in United States of America, tracked on soun
 | Sun, 16 Aug 2026 | Système | Montreal |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Sat, 26 Sept 2026 | Club360 | London |
+| Fri, 6 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
 

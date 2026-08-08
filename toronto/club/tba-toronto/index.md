@@ -1,8 +1,8 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Cute Animals Dancing" on Sat, 15 Aug 2026.
+TBA - Toronto is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Cute Animals Dancing" on Sat, 15 Aug 2026.
 
-TBA - Toronto is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including A++ and Sex on Drugs. Browse upcoming dates, start times and who's playing.
+TBA - Toronto is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including A++, Kerri Chandler and Sex on Drugs. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -13,5 +13,6 @@ TBA - Toronto is a music venue in Toronto listed on soundcheck. 5 upcoming night
 | Fri, 28 Aug 2026 | FORMAT X PARADOX: Limited Capacity |  |
 | Sat, 12 Sept 2026 | ROTE8 EVENTS presents: TBA |  |
 | Sat, 12 Sept 2026 | Rhythmic Roots X Ritual Recall: Open Air Summer Closer |  |
+| Fri, 6 Nov 2026 | Apollo presents Kerri Chandler (Open to Close) | Kerri Chandler |
 
 *Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*
