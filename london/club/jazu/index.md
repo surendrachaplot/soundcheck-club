@@ -1,6 +1,6 @@
 # Jazu
 
-Jazu is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Donna Leake X Jazu" on Sat, 15 Aug 2026.
+Jazu is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Donna Leake X Jazu" on Sat, 15 Aug 2026.
 
 Jazu is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Donna Leake. Browse upcoming dates, start times and who's playing. 2 Deptford High Street, London, SE8 4AF.
 
@@ -14,4 +14,4 @@ Jazu is a music venue in London listed on soundcheck. 1 upcoming night, with lin
 
 2 Deptford High Street, London, SE8 4AF, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jazu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jazu/)*

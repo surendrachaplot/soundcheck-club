@@ -1,14 +1,15 @@
 # Jordan Villa
 
-Jordan Villa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
+Jordan Villa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
 
-Jordan Villa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Belfast, Manchester and Rotterdam. Often billed alongside Aletha, Joe Motion and Joe Roche. Next up: Amber's, Manchester on Sat 3 Oct.
+Jordan Villa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Belfast, Manchester and Rotterdam. Often billed alongside Aletha, Joe Motion and Joe Roche. Next up: Amber's, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Amber's | Manchester |
+| Sat, 10 Oct 2026 | renae | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jordan Villa is a house and techno artist based in United Kingdom, tracked on so
 
 Aletha, Joe Motion, Joe Roche
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*

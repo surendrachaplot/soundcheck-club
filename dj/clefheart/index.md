@@ -1,6 +1,6 @@
 # Clefheart
 
-Clefheart is a Italo Disco and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Egg London, London on Sun, 6 Sept 2026.
+Clefheart is a Italo Disco and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Egg London, London on Sun, 6 Sept 2026.
 
 Clefheart is an italo disco and club artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton and London. Often billed alongside Deceivr and D.X.D. Next up: Egg London, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Clefheart is an italo disco and club artist based in United Kingdom, tracked on 
 
 Deceivr, D.X.D
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clefheart/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clefheart/)*

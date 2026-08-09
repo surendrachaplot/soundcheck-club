@@ -1,6 +1,6 @@
 # Connor Simons
 
-Connor Simons is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Address sent out to ticket holders at 6pm day of the event, Philadelphia on Fri, 4 Sept 2026.
+Connor Simons is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Address sent out to ticket holders at 6pm day of the event, Philadelphia on Fri, 4 Sept 2026.
 
 Connor Simons is a techno and new wave artist tracked on soundcheck, with 3 sets logged across Newyorkcity and Philadelphia. Often billed alongside Concrete Husband, Grace Dahl and Junkfile. Next up: TBA - Address sent out to ticket holders at 6pm day of the event, Philadelphia on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Connor Simons is a techno and new wave artist tracked on soundcheck, with 3 sets
 
 Concrete Husband, Grace Dahl, Junkfile
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connorsimons/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connorsimons/)*

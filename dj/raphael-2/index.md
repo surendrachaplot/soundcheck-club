@@ -1,6 +1,6 @@
 # RAPHAËL (2)
 
-RAPHAËL (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lincoln Factory, Detroit on Sat, 15 Aug 2026.
+RAPHAËL (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lincoln Factory, Detroit on Sat, 15 Aug 2026.
 
 RAPHAËL (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver and Detroit. Often billed alongside Sinistarr, Disc Jockey George and Fullbodydurag. Next up: Lincoln Factory, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ RAPHAËL (2) is a techno and house artist based in United States of America, tra
 
 Sinistarr, Disc Jockey George, Fullbodydurag
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*

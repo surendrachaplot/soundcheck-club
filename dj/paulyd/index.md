@@ -1,6 +1,6 @@
 # Pauly D
 
-Pauly D is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Boat Cruise Summer Series, Boston on Fri, 21 Aug 2026.
+Pauly D is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Boat Cruise Summer Series, Boston on Fri, 21 Aug 2026.
 
 Pauly D is a house and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston, Miami, Montreal and Seattle. Next up: Boat Cruise Summer Series, Boston on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Pauly D is a house and club artist based in United States of America, tracked on
 - Big Night Live, Boston — Sat, 25 Oct 2025
 - Boat Cruise Summer Series, Boston — Fri, 8 Aug 2025
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulyd/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulyd/)*

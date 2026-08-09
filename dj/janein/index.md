@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OXI, Berlin on Tue, 18 Aug 2026.
+JANEIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OXI, Berlin on Tue, 18 Aug 2026.
 
 JANEIN is a techno and house artist tracked on soundcheck, with 82 sets logged across Basel, Belgrade, Berlin and Frankfurt and 14 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: OXI, Berlin on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ JANEIN is a techno and house artist tracked on soundcheck, with 82 sets logged a
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

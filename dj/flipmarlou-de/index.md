@@ -1,6 +1,6 @@
 # Flip Marlou
 
-Flip Marlou is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Minimal Bar, Berlin on Sun, 9 Aug 2026.
+Flip Marlou is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Minimal Bar, Berlin on Sun, 9 Aug 2026.
 
 Flip Marlou is an electronic artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Next up: Minimal Bar, Berlin on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Flip Marlou is an electronic artist based in Germany, tracked on soundcheck, wit
 - Minimal Bar, Berlin — Tue, 3 Dec 2024
 - Minimal Bar, Berlin — Fri, 30 Aug 2024
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flipmarlou-de/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flipmarlou-de/)*

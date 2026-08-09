@@ -1,6 +1,6 @@
 # Joe Dylan
 
-Joe Dylan is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Doggy Klœb, Malaga on Sat, 15 Aug 2026.
+Joe Dylan is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Doggy Klœb, Malaga on Sat, 15 Aug 2026.
 
 Joe Dylan is an electronica and club artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Unreal Vibes, Andrés Sancho and Alex Vincent. Next up: Doggy Klœb, Malaga on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Joe Dylan is an electronica and club artist based in Spain, tracked on soundchec
 
 Unreal Vibes, Andrés Sancho, Alex Vincent
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joedylan/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joedylan/)*

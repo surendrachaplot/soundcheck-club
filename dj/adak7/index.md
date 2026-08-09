@@ -1,6 +1,6 @@
 # adak7
 
-adak7 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pure's Sound Market, Tokyo on Mon, 10 Aug 2026.
+adak7 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pure's Sound Market, Tokyo on Mon, 10 Aug 2026.
 
 adak7 is a techno and experimental artist based in Japan, tracked on soundcheck, with 50 sets logged across Osaka and Tokyo. Often billed alongside Olevv, Masafumi Take and DJ Yazi. Next up: Pure's Sound Market, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ adak7 is a techno and experimental artist based in Japan, tracked on soundcheck,
 
 Olevv, Masafumi Take, DJ Yazi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adak7/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adak7/)*

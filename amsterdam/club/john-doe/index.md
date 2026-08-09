@@ -1,14 +1,13 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 44 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]" on Sat, 8 Aug 2026.
+John Doe is a music venue in Amsterdam with 43 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "No Sundays Without Techno" on Sun, 9 Aug 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 44 upcoming nights, with line-ups including Alex Medina, ARTISTIKK, Alex Sharp and BEZMEZH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 43 upcoming nights, with line-ups including Alex Medina, ARTISTIKK, Alex Sharp and Billy Currie and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL] | BEZMEZH, Nina de Koning, RUL3, Robin Hastings, Zaphy |
 | Sun, 9 Aug 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 10 Aug 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
 | Tue, 11 Aug 2026 | [PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY | TRANZ, Y4R4, inKKiss |
@@ -18,9 +17,10 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 44 upcoming nights,
 | Sat, 15 Aug 2026 | Amsterdam Techno Sessions | Marco Ramos |
 | Sun, 16 Aug 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 17 Aug 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
+| Tue, 18 Aug 2026 | [PHANTOM GROUP] KLUBNACHT w JTN | JTN (1) |
 
 ## Address
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

@@ -1,6 +1,6 @@
 # TØXIC
 
-TØXIC is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Amsterdam on Sat, 15 Aug 2026.
+TØXIC is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Amsterdam on Sat, 15 Aug 2026.
 
 TØXIC is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Next up: TBA, Amsterdam on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ TØXIC is a techno and industrial artist based in Netherlands, tracked on soundc
 
 - nachbar, Amsterdam — Wed, 15 Jul 2026
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxic-ne/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxic-ne/)*

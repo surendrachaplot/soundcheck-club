@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "TIME'S TATTOO SPACE" on Sat, 8 Aug 2026.
+Time is the new space is a music venue in Rotterdam with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "TIME'S FOUR YEAR (MINUS ONE) CELEBRATION" on Thu, 13 Aug 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upcoming nights, with line-ups including Ambu Bambu, Conduct Disorder, georg-i and Ofra and 1 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 4 upcoming nights, with line-ups including Ambu Bambu, Conduct Disorder, georg-i and Ofra and 1 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TIME'S TATTOO SPACE |  |
 | Thu, 13 Aug 2026 | TIME'S FOUR YEAR (MINUS ONE) CELEBRATION |  |
 | Fri, 14 Aug 2026 | TIME ANNIVERSARY – EURODANCE SPECIAL |  |
 | Sat, 15 Aug 2026 | PAUZE | Ambu Bambu, Conduct Disorder, georg-i |
@@ -18,4 +17,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

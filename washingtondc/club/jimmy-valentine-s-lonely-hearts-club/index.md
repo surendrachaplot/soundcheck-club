@@ -1,18 +1,17 @@
 # Jimmy Valentine's Lonely Hearts Club
 
-Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Incoming Dust: A Leo Season Party" on Sat, 8 Aug 2026.
+Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Cyn's Birthday" on Fri, 14 Aug 2026.
 
-Jimmy Valentine's Lonely Hearts Club is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including DJ Blasian, DJ DCM-9, DR MILLER and JFREE. Browse upcoming dates, start times and who's playing. 1103 Bladensburg Road; NE Washington, DC 20002; United States.
+Jimmy Valentine's Lonely Hearts Club is a music venue in Washingtondc listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1103 Bladensburg Road; NE Washington, DC 20002; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Incoming Dust: A Leo Season Party | DJ Blasian, DJ DCM-9, DR MILLER, JFREE |
 | Fri, 14 Aug 2026 | Cyn's Birthday |  |
 
 ## Address
 
 1103 Bladensburg Road; NE Washington, DC 20002; United States, Washington DC
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/jimmy-valentine-s-lonely-hearts-club/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/jimmy-valentine-s-lonely-hearts-club/)*

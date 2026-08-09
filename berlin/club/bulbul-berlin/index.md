@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Club Morena: Julien Josh, Ashbeat, ZYMT & fuxi" on Sat, 8 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Welcome To My House: Flaaviø, dj prinskorv, La Terrasse" on Thu, 13 Aug 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Agua con gas, Ahni, Ashbeat and B. Clarke and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Agua con gas, Ahni, B. Clarke and Bianchetti and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Club Morena: Julien Josh, Ashbeat, ZYMT & fuxi | Ashbeat, Julien Josh, ZYMT, fuxi |
 | Thu, 13 Aug 2026 | Welcome To My House: Flaaviø, dj prinskorv, La Terrasse | Flaaviø, La Terrasse, dj prinskorv |
 | Fri, 14 Aug 2026 | Fridaze: Tba |  |
 | Sat, 15 Aug 2026 | Organza invites: SENERGI, Agua con gas, elliephunk, Organza | Agua con gas, Organza, SENERGI, elliephunk |
@@ -23,4 +22,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

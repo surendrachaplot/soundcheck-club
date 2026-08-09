@@ -1,6 +1,6 @@
 # TheNext
 
-TheNext is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Golden Pudel Club, Hamburg on Sun, 9 Aug 2026.
+TheNext is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Golden Pudel Club, Hamburg on Sun, 9 Aug 2026.
 
 TheNext is a bass and dubstep artist based in Germany, tracked on soundcheck, with 16 sets logged across Hamburg. Often billed alongside Der Vinylizer, Phokus and Doc Bader. Next up: Golden Pudel Club, Hamburg on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ TheNext is a bass and dubstep artist based in Germany, tracked on soundcheck, wi
 
 Der Vinylizer, Phokus, Doc Bader
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenext/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenext/)*

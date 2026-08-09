@@ -1,6 +1,6 @@
 # Tsuruda
 
-Tsuruda is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Spybar, Chicago on Thu, 13 Aug 2026.
+Tsuruda is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Spybar, Chicago on Thu, 13 Aug 2026.
 
 Tsuruda is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago, Denver, Kyoto and Losangeles and 3 more. Often billed alongside Daddy Kev, Fumitake Tamura and Anna Morgan. Next up: Spybar, Chicago on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Tsuruda is a bass and dubstep artist based in United States of America, tracked 
 
 Daddy Kev, Fumitake Tamura, Anna Morgan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuruda/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuruda/)*

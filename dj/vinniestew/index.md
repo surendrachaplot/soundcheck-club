@@ -1,6 +1,6 @@
 # Vinnie Stew
 
-Vinnie Stew is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mdlr, Singapore on Sat, 22 Aug 2026.
+Vinnie Stew is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mdlr, Singapore on Sat, 22 Aug 2026.
 
 Vinnie Stew is a techno and house artist based in Singapore, tracked on soundcheck, with 32 sets logged across Singapore. Often billed alongside Joshua Dillon, sho&tell and 3MZY. Next up: Mdlr, Singapore on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Vinnie Stew is a techno and house artist based in Singapore, tracked on soundche
 
 Joshua Dillon, sho&tell, 3MZY
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinniestew/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinniestew/)*

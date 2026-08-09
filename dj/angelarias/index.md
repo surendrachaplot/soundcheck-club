@@ -1,6 +1,6 @@
 # Angel Arias
 
-Angel Arias is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
+Angel Arias is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 14 Aug 2026.
 
 Angel Arias is an electronic artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Malcolm XL, Mazurbate and Piscesprince. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Angel Arias is an electronic artist tracked on soundcheck, with 2 sets logged ac
 
 Malcolm XL, Mazurbate, Piscesprince
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelarias/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelarias/)*

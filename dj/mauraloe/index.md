@@ -1,6 +1,6 @@
 # Maura Loe
 
-Maura Loe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 11 Aug 2026.
+Maura Loe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 11 Aug 2026.
 
 Maura Loe is a techno and trance artist tracked on soundcheck, with 22 sets logged across Berlin, Copenhagen, Geneva and Ibiza and 3 more. Often billed alongside Esther Urioste, Alienata and Andy Clayton. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Maura Loe is a techno and trance artist tracked on soundcheck, with 22 sets logg
 
 Esther Urioste, Alienata, Andy Clayton
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mauraloe/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mauraloe/)*

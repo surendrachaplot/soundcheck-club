@@ -1,6 +1,6 @@
 # Ga7o
 
-Ga7o is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kømplex Lisbon, Lisbon on Fri, 14 Aug 2026.
+Ga7o is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kømplex Lisbon, Lisbon on Fri, 14 Aug 2026.
 
 Ga7o is a techno and trance artist tracked on soundcheck, with 17 sets logged across Lisbon. Often billed alongside GTH (FR), Madson Carpenter and PAISANA. Next up: Kømplex Lisbon, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ga7o is a techno and trance artist tracked on soundcheck, with 17 sets logged ac
 
 GTH (FR), Madson Carpenter, PAISANA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ga7o/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ga7o/)*

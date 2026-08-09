@@ -1,6 +1,6 @@
 # Acid Asian
 
-Acid Asian is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ministerium Club, Lisbon on Thu, 13 Aug 2026.
+Acid Asian is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Ministerium Club, Lisbon on Thu, 13 Aug 2026.
 
 Acid Asian is a techno and acid artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 3 more. Often billed alongside BETRIZA, BR:UNO and Amber Broos. Next up: Ministerium Club, Lisbon on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Acid Asian is a techno and acid artist tracked on soundcheck, with 26 sets logge
 
 BETRIZA, BR:UNO, Amber Broos
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidasian/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidasian/)*

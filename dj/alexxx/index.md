@@ -1,6 +1,6 @@
 # Alexxx
 
-Alexxx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Alexxx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with 36 sets logged across Barcelona and Valencia. Often billed alongside Rele, PAZ WAZ HERE and LASK (2). Next up: Almar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Alexxx is a house and minimal artist based in Italy, tracked on soundcheck, with
 
 Rele, PAZ WAZ HERE, LASK (2)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*

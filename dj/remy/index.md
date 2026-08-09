@@ -1,6 +1,6 @@
 # Remy
 
-Remy is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+Remy is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kaap Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
 Remy is an acid and house artist tracked on soundcheck, with 2 sets logged across Amsterdam and Vienna. Often billed alongside Benjamin Brown, DJ Gregory and Erick E. Next up: Kaap Amsterdam, Amsterdam on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Remy is an acid and house artist tracked on soundcheck, with 2 sets logged acros
 
 Benjamin Brown, DJ Gregory, Erick E
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remy/)*

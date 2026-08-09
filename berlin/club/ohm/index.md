@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "George FitzGerald - All Night Long" on Sat, 8 Aug 2026.
+OHM is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Ark Welders Guild (Deadbeat & Elle Kai), Monty Luke: Mandingo Sound System, Isabassi & Uta, JJ" on Thu, 13 Aug 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Abyss X, Alexy, Anele and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Abyss X, Alexy, Anele and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | George FitzGerald - All Night Long | George FitzGerald |
 | Thu, 13 Aug 2026 | Ark Welders Guild (Deadbeat & Elle Kai), Monty Luke: Mandingo Sound System, Isabassi & Uta, JJ | Deadbeat, Isabassi, JJ (Rebloom), Monty Luke, Uta |
 | Fri, 14 Aug 2026 | Zel at OHM | Aton, DRAMA SOURCE ARTIFACTS, Etienne, Galo (2) |
 | Sat, 15 Aug 2026 | aanjel takeover | Farsight, PAURRO, Posture, Valeriana |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with li
 | Thu, 27 Aug 2026 | Neighbourhood with Stenny, Tasha & Victor | Stenny, Tasha, Victor |
 | Fri, 4 Sept 2026 | KOOKOO | Mieko Suzuki |
 | Sat, 5 Sept 2026 | KINETIC II, Secret Lineup + Tech Talk & Garden Pop-up |  |
+| Thu, 10 Sept 2026 | System Revival with Haruka, Patrick Russell, Mayss | Haruka, Mayss, Patrick Russell |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "404: BET ON system" on Fri, 28 Aug 2026.
+The Comfort Zone is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "404: BET ON system" on Fri, 28 Aug 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including KILL 9 1, Stacey Pullen and Theta State. Browse upcoming dates, start times and who's playing. 1369 Queen St. West.
 
@@ -16,4 +16,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 3 upcoming ni
 
 1369 Queen St. West, Toronto
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

@@ -1,6 +1,6 @@
 # Matt Pond
 
-Matt Pond is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Algha's Plantroom, London on Sat, 29 Aug 2026.
+Matt Pond is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Algha's Plantroom, London on Sat, 29 Aug 2026.
 
 Matt Pond is a deep house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Birmingham and London. Often billed alongside Brad Peterson, Ella Fayden and Jane Fitz. Next up: Algha's Plantroom, London on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Matt Pond is a deep house and techno artist based in United Kingdom, tracked on 
 
 Brad Peterson, Ella Fayden, Jane Fitz
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattpond/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattpond/)*

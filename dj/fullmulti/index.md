@@ -1,6 +1,6 @@
 # Full Multi
 
-Full Multi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Berlin on Fri, 21 Aug 2026.
+Full Multi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Berlin on Fri, 21 Aug 2026.
 
 Full Multi is a tech house and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Alex Grebe, Akirahawks and Chris Rey. Next up: TBA, Berlin on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Full Multi is a tech house and house artist based in Germany, tracked on soundch
 
 Alex Grebe, Akirahawks, Chris Rey
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmulti/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmulti/)*

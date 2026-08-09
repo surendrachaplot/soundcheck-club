@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "BDrive: EQUISS (OSSX) & SYD" on Fri, 14 Aug 2026.
+Platform9 is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "BDrive: EQUISS (OSSX) & SYD" on Fri, 14 Aug 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, with line-ups including 1morning, AVRY, AWood and DJ Hockey and 2 more. Browse upcoming dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -16,4 +16,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 3 upcoming nights,
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

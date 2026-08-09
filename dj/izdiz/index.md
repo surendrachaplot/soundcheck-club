@@ -1,6 +1,6 @@
 # Iz & Diz
 
-Iz & Diz is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 14 Aug 2026.
+Iz & Diz is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Iz & Diz are a deep house and house duo tracked on soundcheck, with 6 sets logged across Chicago, Detroit, Sanfrancisco and Seattle. Often billed alongside Marcellus Pittman, Maurice Fulton and Amatric. Next up: Monarch, Sanfrancisco on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Iz & Diz are a deep house and house duo tracked on soundcheck, with 6 sets logge
 
 Marcellus Pittman, Maurice Fulton, Amatric
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izdiz/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izdiz/)*

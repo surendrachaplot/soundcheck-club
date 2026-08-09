@@ -1,14 +1,13 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at LA-YAM Rooftop, London on Sat, 8 Aug 2026.
+Coco & Breezy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 12 Aug 2026.
 
-Coco & Breezy are a house and techno duo tracked on soundcheck, with 84 sets logged across Austin, Boston, Chicago and Copenhagen and 19 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: LA-YAM Rooftop, London on Sat 8 Aug.
+Coco & Breezy are a house and techno duo tracked on soundcheck, with 84 sets logged across Austin, Boston, Chicago and Copenhagen and 19 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: Hï Ibiza, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | LA-YAM Rooftop | London |
 | Wed, 12 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Søpavillonen | Copenhagen |
 | Fri, 4 Sept 2026 | Chinois Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Coco & Breezy are a house and techno duo tracked on soundcheck, with 84 sets log
 
 ## Recently played
 
+- LA-YAM Rooftop, London — Sat, 8 Aug 2026
 - Celebrities Night Club, Vancouver — Fri, 31 Jul 2026
 - Q Nightclub, Seattle — Sat, 4 Jul 2026
 - Barbara Hall Park, Toronto — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Coco & Breezy are a house and techno duo tracked on soundcheck, with 84 sets log
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 - Magic Stick, Detroit — Sun, 24 May 2026
 - Hotel Via, San Francisco/Oakland — Sun, 3 May 2026
-- Audio SF, San Francisco/Oakland — Sat, 2 May 2026
 
 ## Shares bills with
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

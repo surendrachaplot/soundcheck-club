@@ -1,6 +1,6 @@
 # Rishka
 
-Rishka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Die Rakete, Nürnberg on Fri, 21 Aug 2026.
+Rishka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Die Rakete, Nürnberg on Fri, 21 Aug 2026.
 
 Rishka is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Munich and Nurnberg and 1 more. Often billed alongside DJ SEXSTASY, KTK (DE) and LANI AKEA. Next up: Die Rakete, Nurnberg on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Rishka is a techno and trance artist tracked on soundcheck, with 21 sets logged 
 
 DJ SEXSTASY, KTK (DE), LANI AKEA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rishka/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rishka/)*

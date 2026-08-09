@@ -1,6 +1,6 @@
 # Alas (2)
 
-Alas (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OST, Berlin on Sat, 3 Oct 2026.
+Alas (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OST, Berlin on Sat, 3 Oct 2026.
 
 Alas (2) is an electronic artist tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside 3Hertz, BBlove and COIDO. Next up: OST, Berlin on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Alas (2) is an electronic artist tracked on soundcheck, with 5 sets logged acros
 
 3Hertz, BBlove, COIDO
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*

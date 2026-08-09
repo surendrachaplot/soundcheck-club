@@ -1,6 +1,6 @@
 # Baalti
 
-Baalti is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
+Baalti is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
 
 Baalti is a house and club artist tracked on soundcheck, with 57 sets logged across Amsterdam, Austin, Berlin and Brisbane and 19 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Nowadays, Newyorkcity on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Baalti is a house and club artist tracked on soundcheck, with 57 sets logged acr
 
 Seb Wildblood, Tom VR, Ahadadream
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*

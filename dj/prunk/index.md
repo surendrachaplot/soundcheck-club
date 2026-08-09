@@ -1,14 +1,13 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Prunk is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 294 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Prunk is a house and tech house artist tracked on soundcheck, with 294 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Tue, 18 Aug 2026 | Cova Santa | Ibiza |
 | Wed, 26 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Colorado Charlie | The Hague |
@@ -20,9 +19,11 @@ Prunk is a house and tech house artist tracked on soundcheck, with 294 sets logg
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 12 Sept 2026 | Gaswrx Birmingham | London |
+| Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Colorado Charlie, The Hague — Fri, 7 Aug 2026
 - Cova Santa, Ibiza — Tue, 28 Jul 2026
 - [UNVRS], Ibiza — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ Prunk is a house and tech house artist tracked on soundcheck, with 294 sets logg
 - W Barcelona, Barcelona — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Maarsseveense Plassen, Utrecht — Sat, 11 Jul 2026
-- Thuishaven, Amsterdam — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

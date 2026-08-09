@@ -1,6 +1,6 @@
 # Guido Balboa
 
-Guido Balboa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
+Guido Balboa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong on Fri, 14 Aug 2026.
 
 Guido Balboa is a house and techno artist tracked on soundcheck, with 16 sets logged across Hongkong and Shenzhen. Often billed alongside MLCH, Yadin Moha and Hysteric. Next up: TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hongkong on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Guido Balboa is a house and techno artist tracked on soundcheck, with 16 sets lo
 
 MLCH, Yadin Moha, Hysteric
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidobalboa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidobalboa/)*

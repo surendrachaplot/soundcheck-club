@@ -1,14 +1,13 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ASL - All Systems Live" on Sat, 8 Aug 2026.
+Mothership is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "oksional First Thursdays: Professor Bang" on Thu, 3 Sept 2026.
 
-Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including ECTO (3) and Justyn Myers. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
+Mothership is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Justyn Myers. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | ASL - All Systems Live | ECTO (3) |
 | Thu, 3 Sept 2026 | oksional First Thursdays: Professor Bang | Justyn Myers |
 | Sun, 4 Oct 2026 | Tromac |  |
 
@@ -16,4 +15,4 @@ Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nig
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

@@ -1,14 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Effy, B From E, Kawun, Ida Daugaard, Ana Karla, TINDRA" on Sat, 8 Aug 2026.
+Hangaren is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sunday Psy x Quake: Araknyl, DJ Sea View, Jeroen, FILTH.y, Frølår, Signe Alarcón, Wendy" on Sun, 9 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Effy, B From E, Kawun, Ida Daugaard, Ana Karla, TINDRA | Ana Karla, B From E, Effy, Ida Daugaard, Kawun, TINDRA |
 | Sun, 9 Aug 2026 | Sunday Psy x Quake: Araknyl, DJ Sea View, Jeroen, FILTH.y, Frølår, Signe Alarcón, Wendy | Araknyl, DJ Sea View, FILTH.y, Frølår, Signe Alarcón |
 | Fri, 14 Aug 2026 | Gerd Janson, Harrison Heat, NAT, Tamara, DJ LoveCatt, Roussakis | DJ LoveCatt, Gerd Janson, Harrison Heat, NAT(SK), Roussakis, Tamara |
 | Sat, 15 Aug 2026 | Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz  | Elliott Taguchi, Holtz (2), Kander, Kardinal Bertram, Mëtro, UBER KNAST |
@@ -18,9 +17,10 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights
 | Thu, 27 Aug 2026 | Karrusel / 27–29 Aug 2026 | Acid Pauli, Afgang, Amelie Lens, Bad Boombox, Baime, Buja, Christian Löffler, Christina Evangelista, Conducta, DJ Spice, DRABER666, Dgeral, Disfunctional Disco, Egyptian Lover, Ellen Allien, Ena Cosovic, FILTH.y, Halfdan Sandquist, Helena Lauwaert, Jungle Julia, Jungle Julia(DK), Kip Analog, Lou Nour, Lucy Headburn, Mary Harp, Mia Kober, Milo Makua, Mischluft, Monolink, NILU, Notion, Peachlyfe, Pentti Igor, RHR, RIRIA, Redline Warriors, Ricardo Roessel, Shkoon, Suzie The Cockroach, TINDRA, Valentina(DK), Vincent's Older Sister, Volker Arnold, Y U QT, babysquid, horsegiirL, maurinstarr, parashoot |
 | Thu, 27 Aug 2026 | Karrusel Afterparty: SKALA, Aja Gulris, Anders HP | Aja Gulris, Anders HP, SKALA |
 | Fri, 28 Aug 2026 | Karrusel Afterparty: Kyle Starkey, B From E, ENNA | B From E, ENNA, Kyle Starkey |
+| Sat, 29 Aug 2026 | Karrusel Afterparty: TOCCORORO, Meilgaarden, WE.LL | Meilgaarden, TOCCORORO, WE.LL |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

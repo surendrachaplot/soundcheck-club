@@ -1,6 +1,6 @@
 # Armen Miran
 
-Armen Miran is a Deep House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 12 Aug 2026.
+Armen Miran is a Deep House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Armen Miran is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Athens, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 12 Aug.
 
@@ -30,4 +30,4 @@ Armen Miran is a deep house and progressive house artist based in United States 
 
 Nick Warren, Borella, Caleesi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*

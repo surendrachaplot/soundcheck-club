@@ -1,6 +1,6 @@
 # SDRV
 
-SDRV is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mood Ring, New York City on Thu, 13 Aug 2026.
+SDRV is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mood Ring, New York City on Thu, 13 Aug 2026.
 
 SDRV is a techno and acid artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Boston, Miami and Newyorkcity. Often billed alongside Ultrathem, Winter Wrong and SATURNSARii. Next up: Mood Ring, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ SDRV is a techno and acid artist based in United States of America, tracked on s
 
 Ultrathem, Winter Wrong, SATURNSARii
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdrv/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdrv/)*

@@ -1,6 +1,6 @@
 # MS.SMITH
 
-MS.SMITH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 10 Aug 2026.
+MS.SMITH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 10 Aug 2026.
 
 MS.SMITH is a techno and bass artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Del (4), FINISHHER and Mnemonics. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 10 Aug.
 
@@ -21,4 +21,4 @@ MS.SMITH is a techno and bass artist based in United States of America, tracked 
 
 Del (4), FINISHHER, Mnemonics
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.smith/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.smith/)*

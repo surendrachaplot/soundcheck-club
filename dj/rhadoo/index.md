@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 30 Oct 2026.
+Rhadoo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 30 Oct 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Les Enfants Brillants, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 172 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

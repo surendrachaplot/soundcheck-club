@@ -1,14 +1,13 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DJ Typhoon & Friends" on Sat, 8 Aug 2026.
+Byhaven is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "IKIGAI Sundays presents: Ricardo Roessel + Téa + NEC (AR)" on Sun, 9 Aug 2026.
 
-Byhaven is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including Absalon Rieper, Britney Speed, Entree and JULEEO and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
+Byhaven is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including Absalon Rieper, Britney Speed, Entree and JULEEO and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | DJ Typhoon & Friends |  |
 | Sun, 9 Aug 2026 | IKIGAI Sundays presents: Ricardo Roessel + Téa + NEC (AR) | Ricardo Roessel, Téa |
 | Sat, 15 Aug 2026 | MAINSTREAM - PRIDE | Britney Speed, Cockwhore & Macho, Entree, JULEEO, NONSMASH, vazkez |
 | Tue, 18 Aug 2026 | BASKE + Absalon Rieper | Absalon Rieper |
@@ -19,4 +18,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

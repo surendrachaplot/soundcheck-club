@@ -1,6 +1,6 @@
 # Grace Kim
 
-Grace Kim is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
+Grace Kim is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kind Square, Seoul on Sat, 15 Aug 2026.
 
 Grace Kim is a house and tech house artist tracked on soundcheck, with 35 sets logged across Seoul and Singapore. Often billed alongside Better, Ruta (2) and Liza (KR). Next up: Kind Square, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Grace Kim is a house and tech house artist tracked on soundcheck, with 35 sets l
 
 Better, Ruta (2), Liza (KR)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracekim/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracekim/)*

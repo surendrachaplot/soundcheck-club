@@ -1,6 +1,6 @@
 # VIDEOBOY
 
-VIDEOBOY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
+VIDEOBOY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mad Radio Miami, Miami on Fri, 14 Aug 2026.
 
 VIDEOBOY is a techno and house artist tracked on soundcheck, with 30 sets logged across Miami, Osaka and Tokyo. Often billed alongside Shingo, ONO (3) and Nao Nomura. Next up: Mad Radio Miami, Miami on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ VIDEOBOY is a techno and house artist tracked on soundcheck, with 30 sets logged
 
 Shingo, ONO (3), Nao Nomura
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/videoboy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/videoboy/)*

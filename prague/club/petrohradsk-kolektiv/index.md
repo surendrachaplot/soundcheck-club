@@ -1,6 +1,6 @@
 # Petrohradská Kolektiv
 
-Petrohradská Kolektiv is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Petro Live: Orchard" on Thu, 13 Aug 2026.
+Petrohradská Kolektiv is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Petro Live: Orchard" on Thu, 13 Aug 2026.
 
 Petrohradská Kolektiv is a music venue in Prague listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Petrohradská 438/13, 101 00 Praha 10-Vršovice, Czechia.
 
@@ -16,4 +16,4 @@ Petrohradská Kolektiv is a music venue in Prague listed on soundcheck. 3 upcomi
 
 Petrohradská 438/13, 101 00 Praha 10-Vršovice, Czechia, Prague
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/petrohradsk-kolektiv/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/petrohradsk-kolektiv/)*

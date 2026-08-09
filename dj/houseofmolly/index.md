@@ -1,6 +1,6 @@
 # House of Molly
 
-House of Molly is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tausend, Berlin on Fri, 21 Aug 2026.
+House of Molly is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tausend, Berlin on Fri, 21 Aug 2026.
 
 House of Molly is a house artist tracked on soundcheck, with 3 sets logged across Berlin and London. Often billed alongside FERALisKINKY, Hifi Sean and Jeanie Crystal. Next up: Tausend, Berlin on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ House of Molly is a house artist tracked on soundcheck, with 3 sets logged acros
 
 FERALisKINKY, Hifi Sean, Jeanie Crystal
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofmolly/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofmolly/)*

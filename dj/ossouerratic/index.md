@@ -1,6 +1,6 @@
 # Ossou Erratic
 
-Ossou Erratic is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
+Ossou Erratic is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
 
 Ossou Erratic is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside Hopeless Romantic, Nakamo and Nina Pixina. Next up: Honey Street Studio, Manchester on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ossou Erratic is a bass and techno artist based in United Kingdom, tracked on so
 
 Hopeless Romantic, Nakamo, Nina Pixina
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossouerratic/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossouerratic/)*

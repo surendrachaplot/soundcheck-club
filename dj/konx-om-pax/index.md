@@ -1,6 +1,6 @@
 # Konx-om-Pax
 
-Konx-om-Pax is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Old Hairdressers, Glasgow on Sat, 15 Aug 2026.
+Konx-om-Pax is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Old Hairdressers, Glasgow on Sat, 15 Aug 2026.
 
 Konx-om-Pax is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bristol, Glasgow, Istanbul and London and 2 more. Often billed alongside Isa Gordon, Nightwave and Peeve. Next up: The Old Hairdressers, Glasgow on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Konx-om-Pax is an experimental and electronica artist based in United Kingdom, t
 
 Isa Gordon, Nightwave, Peeve
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konx-om-pax/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konx-om-pax/)*

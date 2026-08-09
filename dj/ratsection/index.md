@@ -1,6 +1,6 @@
 # Rat Section
 
-Rat Section is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Bangkok Kunsthalle, Bangkok on Fri, 14 Aug 2026.
+Rat Section is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Bangkok Kunsthalle, Bangkok on Fri, 14 Aug 2026.
 
 Rat Section is an experimental and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Basel and Berlin and 14 more. Often billed alongside NEW YORK, Covco and Mellowdramatics. Next up: Bangkok Kunsthalle, Bangkok on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Rat Section is an experimental and techno artist tracked on soundcheck, with 47 
 
 NEW YORK, Covco, Mellowdramatics
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*

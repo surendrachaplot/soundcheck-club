@@ -1,6 +1,6 @@
 # YokoO
 
-YokoO is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 9 Oct 2026.
+YokoO is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 9 Oct 2026.
 
 YokoO is a deep house and house artist tracked on soundcheck, with 93 sets logged across Antwerp, Barcelona, Brussels and Buenosaires and 17 more. Often billed alongside Matthew Dekay, Kokeshi and Lee Burridge. Next up: Do Not Sit On The Furniture, Miami on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ YokoO is a deep house and house artist tracked on soundcheck, with 93 sets logge
 
 Matthew Dekay, Kokeshi, Lee Burridge
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*

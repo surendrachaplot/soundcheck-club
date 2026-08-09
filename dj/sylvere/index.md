@@ -1,6 +1,6 @@
 # Sylvere
 
-Sylvere is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
+Sylvere is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
 
 Sylvere is a techno and club artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Hey Bony, Nico Adomako and Teki Latex. Next up: Ormside Projects, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sylvere is a techno and club artist tracked on soundcheck, with 31 sets logged a
 
 Hey Bony, Nico Adomako, Teki Latex
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvere/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvere/)*

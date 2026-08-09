@@ -1,6 +1,6 @@
 # EVYA
 
-EVYA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
+EVYA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
 
 EVYA is a house and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside DERICE, Nadia Bel Air and ANAMORPH_. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ EVYA is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 DERICE, Nadia Bel Air, ANAMORPH_
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*

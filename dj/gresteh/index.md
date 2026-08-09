@@ -1,6 +1,6 @@
 # Gres Teh
 
-Gres Teh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Speakerbox, Bangkok on Fri, 14 Aug 2026.
+Gres Teh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Speakerbox, Bangkok on Fri, 14 Aug 2026.
 
 Gres Teh is a house and disco artist tracked on soundcheck, with 18 sets logged across Bangkok. Often billed alongside Mae Happyair, Pam Anantr and TAM (TH). Next up: Speakerbox, Bangkok on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Gres Teh is a house and disco artist tracked on soundcheck, with 18 sets logged 
 
 Mae Happyair, Pam Anantr, TAM (TH)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gresteh/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gresteh/)*

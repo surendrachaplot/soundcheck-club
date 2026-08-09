@@ -1,6 +1,6 @@
 # Sakaguchi
 
-Sakaguchi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+Sakaguchi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
 Sakaguchi is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, Leipzig and Losangeles. Often billed alongside Tahl (US), sprintf and tamypro. Next up: TBA, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sakaguchi is a techno and house artist tracked on soundcheck, with 9 sets logged
 
 Tahl (US), sprintf, tamypro
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakaguchi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakaguchi/)*

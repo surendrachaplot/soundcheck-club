@@ -1,6 +1,6 @@
 # ISA (UK)
 
-ISA (UK) is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 29 Aug 2026.
+ISA (UK) is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 29 Aug 2026.
 
 ISA (UK) is a techno and ebm artist based in Poland, tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Chernobyl Steve, Deventi and Egui. Next up: Eastern Bloc Records, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ISA (UK) is a techno and ebm artist based in Poland, tracked on soundcheck, with
 
 Chernobyl Steve, Deventi, Egui
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-uk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-uk/)*

@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 13 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "NAVE D-EDGE SP pres.: P1: IGNACIO. ENTROPIA. L_cio. Luchi & Raizer // LOUNGE: SPETO (BDAY)" on Sat, 8 Aug 2026.
+D-EDGE is a music venue in Sao Paulo with 12 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SUPERAFTER D-EDGE SP pres.: P2: VEGA B2B GYZA" on Sun, 9 Aug 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 13 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Buga and Cesare vs Disorder and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, Buga and Cesare vs Disorder and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | NAVE D-EDGE SP pres.: P1: IGNACIO. ENTROPIA. L_cio. Luchi & Raizer // LOUNGE: SPETO (BDAY) | Entropia (2), L_cio, Luchi & Raizer |
 | Sun, 9 Aug 2026 | SUPERAFTER D-EDGE SP pres.: P2: VEGA B2B GYZA |  |
 | Thu, 13 Aug 2026 | MOVING D-EDGE SP pres.: ACROBATIK. DIANA LIMA. ELOY. LUKE ZM |  |
 | Fri, 14 Aug 2026 | FREAK CHIC D-EDGE SP pres.: P1: Buga. MOREIRA. N.A.S.S.I | Buga |
@@ -18,9 +17,10 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 13 upcoming nights, wi
 | Sat, 22 Aug 2026 | NAVE D-EDGE SP pres.: MARKY & FRIENDS. Hugh Hardie. DJ MS2 // P2: Marcelo Vasami (AR). Teclas | DJ Marky, Hugh Hardie, Marcelo Vasami, Teclas |
 | Sun, 23 Aug 2026 | SUPERAFTER D-EDGE SP pres.: P2: BRUNA STRAIT. STORMYX // LOUNGE: SONNERO |  |
 | Thu, 27 Aug 2026 | MOVING D-EDGE SP pres.: ANA JABLONSKI. AKULA HAMPTON. Guilherme VAC | Guilherme VAC |
+| Fri, 28 Aug 2026 | FREAK CHIC D-EDGE SP pres.: P1: FATSYNC. BALANKA. PUKA |  |
 
 ## Address
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

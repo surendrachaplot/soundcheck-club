@@ -1,18 +1,18 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Alex Farell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
-Alex Farell is a techno and trance artist tracked on soundcheck, with 115 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 36 more. Often billed alongside SIKOTI, Azyr and Leaha. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
+Alex Farell is a techno and trance artist tracked on soundcheck, with 115 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 36 more. Often billed alongside SIKOTI, Azyr and Leaha. Next up: OST, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
 | Sat, 22 Aug 2026 | OST | Berlin |
 
 ## Recently played
 
+- Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - Kilomètre25, Paris — Sat, 4 Jul 2026
 - Melbourne Showgrounds, Melbourne — Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Alex Farell is a techno and trance artist tracked on soundcheck, with 115 sets l
 - Superordinary, Brisbane — Fri, 19 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
 - Parc Olympique de Montréal, Montreal — Fri, 29 May 2026
-- TBA, Kuala Lumpur — Sat, 9 May 2026
 
 ## Shares bills with
 
 SIKOTI, Azyr, Leaha
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

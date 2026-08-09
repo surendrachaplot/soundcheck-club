@@ -1,6 +1,6 @@
 # Praqqa
 
-Praqqa is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 29 Aug 2026.
+Praqqa is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 29 Aug 2026.
 
 Praqqa is a trance and techno artist based in Mexico, tracked on soundcheck, with 36 sets logged across Mexicocity. Often billed alongside Umvral, Deenia and Finoh. Next up: Bajo Mundo, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Praqqa is a trance and techno artist based in Mexico, tracked on soundcheck, wit
 
 Umvral, Deenia, Finoh
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praqqa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praqqa/)*

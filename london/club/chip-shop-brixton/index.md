@@ -1,6 +1,6 @@
 # Chip Shop Brixton
 
-Chip Shop Brixton is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "SA-ROC at the CHIP SHOP" on Sun, 9 Aug 2026.
+Chip Shop Brixton is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "SA-ROC at the CHIP SHOP" on Sun, 9 Aug 2026.
 
 Chip Shop Brixton is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 378 Coldharbour Lane, London SW9 8LF.
 
@@ -14,4 +14,4 @@ Chip Shop Brixton is a music venue in London listed on soundcheck. 1 upcoming ni
 
 378 Coldharbour Lane, London SW9 8LF, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/chip-shop-brixton/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/chip-shop-brixton/)*

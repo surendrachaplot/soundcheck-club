@@ -1,13 +1,14 @@
 # Monkey Timers
 
-Monkey Timers is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+Monkey Timers is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at HVEN, Tokyo on Sat, 15 Aug 2026.
 
-Monkey Timers is a house and disco artist tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Berlin and Osaka and 3 more. Often billed alongside YAMARCHY, YOSHIHAARAA and Kenji Takimi. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
+Monkey Timers is a house and disco artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Berlin and Osaka and 3 more. Often billed alongside YAMARCHY, YOSHIHAARAA and Kenji Takimi. Next up: HVEN, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | HVEN | Tokyo |
 | Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
 | Fri, 21 Aug 2026 | Klymax Discotheque | Bali |
 | Fri, 28 Aug 2026 | WOMB | Tokyo |
@@ -27,4 +28,4 @@ Monkey Timers is a house and disco artist tracked on soundcheck, with 92 sets lo
 
 YAMARCHY, YOSHIHAARAA, Kenji Takimi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeytimers/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeytimers/)*

@@ -1,6 +1,6 @@
 # DJ Skudero
 
-DJ Skudero is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at EL SÓTANO, Madrid on Sat, 24 Oct 2026.
+DJ Skudero is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at EL SÓTANO, Madrid on Sat, 24 Oct 2026.
 
 DJ Skudero is a hardcore and trance artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Xavi Metralla, 1luu and Athina. Next up: EL SÓTANO, Madrid on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ DJ Skudero is a hardcore and trance artist based in Spain, tracked on soundcheck
 
 Xavi Metralla, 1luu, Athina
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskudero/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskudero/)*

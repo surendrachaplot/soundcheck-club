@@ -1,6 +1,6 @@
 # Liano
 
-Liano is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Liano is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Liano is a techno and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside Avi Loud, Daddy Kev and Oak City Slums. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Liano is a techno and club artist based in United States of America, tracked on 
 
 Avi Loud, Daddy Kev, Oak City Slums
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liano/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liano/)*

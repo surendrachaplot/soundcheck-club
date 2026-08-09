@@ -1,15 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 23 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Alarico is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
-| Sat, 8 Aug 2026 | EXIL | Zurich |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,20 +18,22 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 | Sat, 5 Sept 2026 | Gate Milano | Milan |
 | Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | BASIS | Utrecht |
+| Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 17 Sept 2026 | Mondo | Madrid |
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
+- EXIL, Zurich — Sat, 8 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - TBA, Mexico City — Sat, 1 Aug 2026
 - TRANSMISSION DC, Washington DC — Thu, 30 Jul 2026
 - Grelle Forelle, Vienna — Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 21 Jul 2026
 - Radius, Chicago — Sun, 19 Jul 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
-- Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

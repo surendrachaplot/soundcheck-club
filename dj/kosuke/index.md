@@ -1,6 +1,6 @@
 # Kosuke
 
-Kosuke is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
+Kosuke is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
 
 Kosuke is a techno and industrial artist based in Japan, tracked on soundcheck, with 56 sets logged across Amsterdam, Hamburg, Ibiza and Madrid and 4 more. Often billed alongside FENGX2, EMILIO (3) and EVE (1). Next up: clubasia, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kosuke is a techno and industrial artist based in Japan, tracked on soundcheck, 
 
 FENGX2, EMILIO (3), EVE (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosuke/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosuke/)*

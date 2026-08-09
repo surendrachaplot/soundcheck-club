@@ -1,6 +1,6 @@
 # SUPPLANT
 
-SUPPLANT is a Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at 8MM, Berlin on Thu, 13 Aug 2026.
+SUPPLANT is a Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at 8MM, Berlin on Thu, 13 Aug 2026.
 
 SUPPLANT is a post-punk artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Caillou (DE), Paulina Panik and Philipp Strobel. Next up: 8MM, Berlin on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ SUPPLANT is a post-punk artist based in Germany, tracked on soundcheck, with 3 s
 
 Caillou (DE), Paulina Panik, Philipp Strobel
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supplant/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supplant/)*

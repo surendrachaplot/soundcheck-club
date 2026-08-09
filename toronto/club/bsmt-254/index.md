@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Rumbleton's 50th BDay Bash Dub Conference" on Sat, 15 Aug 2026.
+Bsmt 254 is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Rumbleton's 50th BDay Bash Dub Conference" on Sat, 15 Aug 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Brash-B, Burnin' Vernon, CRISTI:ANA and Dan Medland and 2 more. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -17,4 +17,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 4 upcoming nights, wi
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

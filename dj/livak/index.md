@@ -1,6 +1,6 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 10 Aug 2026.
+Liva K is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 10 Aug 2026.
 
 Liva K is an afro house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Santanna Mykonos, Mykonos on Mon 10 Aug.
 
@@ -28,4 +28,4 @@ Liva K is an afro house and house artist tracked on soundcheck, with 85 sets log
 
 Black Coffee, Bedouin, Damian Lazarus
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*

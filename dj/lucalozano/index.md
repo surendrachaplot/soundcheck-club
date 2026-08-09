@@ -1,6 +1,6 @@
 # Luca Lozano
 
-Luca Lozano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Luca Lozano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Luca Lozano is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Luca Lozano is a house and techno artist tracked on soundcheck, with 100 sets lo
 
 Mr. Ho, Mogwaa, Omega III
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*

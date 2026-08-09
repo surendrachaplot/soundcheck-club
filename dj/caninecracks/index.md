@@ -1,6 +1,6 @@
 # Canine Cracks
 
-Canine Cracks is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Canine Cracks is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Canine Cracks is an electronic artist tracked on soundcheck, with 4 sets logged across Brussels and Paris. Often billed alongside Joshua Murphy, Nova Materia and Abajour. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Canine Cracks is an electronic artist tracked on soundcheck, with 4 sets logged 
 
 Joshua Murphy, Nova Materia, Abajour
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caninecracks/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caninecracks/)*

@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 1520, Manchester on Sat, 5 Sept 2026.
+Zuri is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at 1520, Manchester on Sat, 5 Sept 2026.
 
 Zuri is a techno and bass artist based in Spain, tracked on soundcheck, with 69 sets logged across Amsterdam, Hongkong, London and Manchester and 2 more. Often billed alongside Aletha, Korzi and Atiké. Next up: 1520, Manchester on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Zuri is a techno and bass artist based in Spain, tracked on soundcheck, with 69 
 
 Aletha, Korzi, Atiké
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

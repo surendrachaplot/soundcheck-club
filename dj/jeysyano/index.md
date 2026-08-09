@@ -1,6 +1,6 @@
 # JEY SYANO
 
-JEY SYANO is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
+JEY SYANO is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Secret location, Montreal on Fri, 14 Aug 2026.
 
 JEY SYANO is an afrobeats and baile funk artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Raylhem, MLLE CEE and Punk à Poules. Next up: TBA - Secret location, Montreal on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ JEY SYANO is an afrobeats and baile funk artist based in Canada, tracked on soun
 
 Raylhem, MLLE CEE, Punk à Poules
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeysyano/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeysyano/)*

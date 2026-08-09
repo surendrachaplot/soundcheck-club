@@ -1,14 +1,13 @@
 # Maya Beach Experience
 
-Maya Beach Experience is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "MAYA ELEMENTS VITO (UK) - FIORELLA" on Sat, 8 Aug 2026.
+Maya Beach Experience is a music venue in Naples with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "MAYA ELEMENTS SHOWCASE" on Sat, 15 Aug 2026.
 
-Maya Beach Experience is a music venue in Naples listed on soundcheck. 4 upcoming nights, with line-ups including Cristian Volpe, La Hara, Ludo Erre and Marco Tropeano and 2 more. Browse upcoming dates, start times and who's playing. Via villazzano, 3 - Massa Lubrense.
+Maya Beach Experience is a music venue in Naples listed on soundcheck. 3 upcoming nights, with line-ups including Cristian Volpe, La Hara, Ludo Erre and Marco Tropeano and 2 more. Browse upcoming dates, start times and who's playing. Via villazzano, 3 - Massa Lubrense.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | MAYA ELEMENTS VITO (UK) - FIORELLA | Ludo Erre, VITO (UK) |
 | Sat, 15 Aug 2026 | MAYA ELEMENTS SHOWCASE | Cristian Volpe, La Hara, Ludo Erre |
 | Sat, 22 Aug 2026 | MAYA ELEMENTS x SOUNDSVALLEY | La Hara, Ludo Erre, Tiga |
 | Sat, 29 Aug 2026 | MAYA ELEMENTS X HARMONIA | Cristian Volpe, Marco Tropeano, Traumer |
@@ -17,4 +16,4 @@ Maya Beach Experience is a music venue in Naples listed on soundcheck. 4 upcomin
 
 Via villazzano, 3 - Massa Lubrense, Naples
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/maya-beach-experience/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/maya-beach-experience/)*

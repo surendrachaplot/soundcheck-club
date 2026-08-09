@@ -1,6 +1,6 @@
 # Datassette
 
-Datassette is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Datassette is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
 Datassette is a bass and techno artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside T-Flex, Equinox (UK) and TVO. Next up: The Glove That Fits, London on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Datassette is a bass and techno artist tracked on soundcheck, with 8 sets logged
 
 T-Flex, Equinox (UK), TVO
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datassette/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datassette/)*

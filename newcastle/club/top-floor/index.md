@@ -1,6 +1,6 @@
 # Top Floor
 
-Top Floor is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Top Floor presents: Objekt & Jacklyn" on Sat, 19 Sept 2026.
+Top Floor is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Top Floor presents: Objekt & Jacklyn" on Sat, 19 Sept 2026.
 
 Top Floor is a music venue in Newcastle listed on soundcheck. 2 upcoming nights, with line-ups including Jacklyn and Objekt. Browse upcoming dates, start times and who's playing. 13 Bigg Market NE1 1SU.
 
@@ -15,4 +15,4 @@ Top Floor is a music venue in Newcastle listed on soundcheck. 2 upcoming nights,
 
 13 Bigg Market NE1 1SU, Newcastle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*

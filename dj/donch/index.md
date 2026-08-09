@@ -1,6 +1,6 @@
 # Donch
 
-Donch is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+Donch is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
 
 Donch is a hip-hop and r&b artist tracked on soundcheck, with 17 sets logged across Amsterdam, Birmingham and London. Often billed alongside Supa D, AAA and AyChibs. Next up: Ministry Of Sound, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Donch is a hip-hop and r&b artist tracked on soundcheck, with 17 sets logged acr
 
 Supa D, AAA, AyChibs
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donch/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donch/)*

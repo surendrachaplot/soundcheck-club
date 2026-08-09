@@ -1,14 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Paardenrave Afterparty" on Sat, 8 Aug 2026.
+export is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran" on Fri, 14 Aug 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alírio, Ben Diggins, BMG and COLD ASS ICE and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including Alírio, Ben Diggins, BMG and DJ Shahmaran and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Paardenrave Afterparty | COLD ASS ICE, iMarly |
 | Fri, 14 Aug 2026 | Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran | DJ Shahmaran, Kontronatura |
 | Sat, 15 Aug 2026 | I-RO, Ozzo, ROD | I-RO, ROD |
 | Fri, 21 Aug 2026 | doo-bop, Doktoro, sima k | Doktoro, doo-bop, sima k |
@@ -21,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

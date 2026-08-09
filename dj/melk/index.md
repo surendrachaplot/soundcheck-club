@@ -1,6 +1,6 @@
 # MELK
 
-MELK is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
+MELK is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The System, Sheffield on Sun, 30 Aug 2026.
 
 MELK is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Montreal, Paris and Sheffield. Often billed alongside Nonna Fab, Paniolo and Wiltbarn. Next up: The System, Sheffield on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ MELK is a techno and tech house artist tracked on soundcheck, with 15 sets logge
 
 Nonna Fab, Paniolo, Wiltbarn
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melk/)*

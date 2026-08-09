@@ -1,6 +1,6 @@
 # MYUMA
 
-MYUMA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Circus Tokyo, Tokyo on Fri, 14 Aug 2026.
+MYUMA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Circus Tokyo, Tokyo on Fri, 14 Aug 2026.
 
 MYUMA is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside ACHIRI, ITSUKI and YUUGOH. Next up: Circus Tokyo, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ MYUMA is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 ACHIRI, ITSUKI, YUUGOH
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myuma/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myuma/)*

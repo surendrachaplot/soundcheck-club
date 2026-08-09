@@ -1,6 +1,6 @@
 # saschka
 
-saschka is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+saschka is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
 saschka is a techno and breakbeat artist tracked on soundcheck, with 38 sets logged across London, Prague, Riga and Stuttgart and 1 more. Often billed alongside esti.d, AfroNinja and DJ Sprudel. Next up: Fuchs2, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ saschka is a techno and breakbeat artist tracked on soundcheck, with 38 sets log
 
 esti.d, AfroNinja, DJ Sprudel
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saschka/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saschka/)*

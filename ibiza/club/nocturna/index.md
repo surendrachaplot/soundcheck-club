@@ -1,6 +1,6 @@
 # Nocturna
 
-Nocturna is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "XTRA THE PARTY - AUGUST 12TH" on Wed, 12 Aug 2026.
+Nocturna is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "XTRA THE PARTY - AUGUST 12TH" on Wed, 12 Aug 2026.
 
 Nocturna is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with line-ups including ANDREA VANDALL, BASHKKA, Ceri and E.LINA and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Nocturna is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with
 | Wed, 26 Aug 2026 | XTRA THE PARTY - AUGUST 26TH | ANDREA VANDALL, Inès Rau, LOVEFOXY |
 | Wed, 2 Sept 2026 | XTRA THE PARTY CLOSING - SEPTEMBER 2ND | Ceri, Grace Sands |
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/nocturna/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/nocturna/)*

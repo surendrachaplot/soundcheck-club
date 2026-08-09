@@ -1,6 +1,6 @@
 # Mohini Burgos
 
-Mohini Burgos is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Puerto Bahia Club de Mar, Barcelona on Sat, 15 Aug 2026.
+Mohini Burgos is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Puerto Bahia Club de Mar, Barcelona on Sat, 15 Aug 2026.
 
 Mohini Burgos is a hip-hop and techno artist tracked on soundcheck, with 3 sets logged across Barcelona and Berlin. Often billed alongside IMVIC, Black Mirror Park and Carvach. Next up: Puerto Bahia Club de Mar, Barcelona on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Mohini Burgos is a hip-hop and techno artist tracked on soundcheck, with 3 sets 
 
 IMVIC, Black Mirror Park, Carvach
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mohiniburgos/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mohiniburgos/)*

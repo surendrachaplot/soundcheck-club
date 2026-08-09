@@ -1,6 +1,6 @@
 # Marcus Whale
 
-Marcus Whale is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Suite7a, Sydney on Sun, 9 Aug 2026.
+Marcus Whale is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Suite7a, Sydney on Sun, 9 Aug 2026.
 
 Marcus Whale is an experimental and bass artist based in Australia, tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside Grasps, Rydeen (AU) and Jungist. Next up: Suite7a, Sydney on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Marcus Whale is an experimental and bass artist based in Australia, tracked on s
 
 Grasps, Rydeen (AU), Jungist
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuswhale/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuswhale/)*

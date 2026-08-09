@@ -1,14 +1,13 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - // HALLE622, Zurich on Sat, 8 Aug 2026.
+KUKO is a Techno and Trance artist with 19 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: TBA - // HALLE622, Zurich on Sat 8 Aug.
+KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - // HALLE622 | Zurich |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Wed, 19 Aug 2026 | Arzenal | Budapest |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,9 +19,11 @@ KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged a
 | Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
+| Sat, 12 Sept 2026 | Radius | Chicago |
 
 ## Recently played
 
+- TBA - // HALLE622, Zurich — Sat, 8 Aug 2026
 - Waschhaus, Berlin — Fri, 7 Aug 2026
 - Valley, Berlin — Sun, 2 Aug 2026
 - Nescio - by Generator Amsterdam, Amsterdam — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged a
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - Westhafen, Leipzig — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Flanders Expo Centre, Ghent — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

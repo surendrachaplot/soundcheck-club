@@ -1,6 +1,6 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
+Kim April is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at XOYO, London on Sat, 15 Aug 2026.
 
 Kim April is a house and tech house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Job de Jong, M-High and Sidney Charles. Next up: XOYO, London on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Kim April is a house and tech house artist tracked on soundcheck, with 83 sets l
 
 Job de Jong, M-High, Sidney Charles
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

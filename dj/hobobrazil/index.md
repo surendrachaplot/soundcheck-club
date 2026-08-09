@@ -1,6 +1,6 @@
 # HOBOBRAZIL
 
-HOBOBRAZIL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 9 Aug 2026.
+HOBOBRAZIL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 9 Aug 2026.
 
 HOBOBRAZIL is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, MDMC and bungo. Next up: Aoyama Hachi, Tokyo on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ HOBOBRAZIL is a techno and house artist based in Japan, tracked on soundcheck, w
 
 KA4U, MDMC, bungo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*

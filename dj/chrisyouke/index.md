@@ -1,6 +1,6 @@
 # Chris Youké
 
-Chris Youké is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Fabriek, Brussels on Fri, 14 Aug 2026.
+Chris Youké is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Fabriek, Brussels on Fri, 14 Aug 2026.
 
 Chris Youké is a techno and trance artist tracked on soundcheck, with 13 sets logged across Brussels. Often billed alongside L'enfant Nocturne, Susano and Hysope. Next up: La Fabriek, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Chris Youké is a techno and trance artist tracked on soundcheck, with 13 sets l
 
 L'enfant Nocturne, Susano, Hysope
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisyouke/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisyouke/)*

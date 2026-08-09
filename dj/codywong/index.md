@@ -1,6 +1,6 @@
 # Cody Wong
 
-Cody Wong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tigullio, Malta on Tue, 11 Aug 2026.
+Cody Wong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tigullio, Malta on Tue, 11 Aug 2026.
 
 Cody Wong is a techno and house artist based in Ireland, tracked on soundcheck, with 18 sets logged across Belfast, Dublin, Edinburgh and Glasgow and 5 more. Often billed alongside Ben Hemsley, Alan Fitzpatrick and chouhal. Next up: Tigullio, Malta on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Cody Wong is a techno and house artist based in Ireland, tracked on soundcheck, 
 
 Ben Hemsley, Alan Fitzpatrick, chouhal
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/codywong/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/codywong/)*

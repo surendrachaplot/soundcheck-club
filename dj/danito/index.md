@@ -1,6 +1,6 @@
 # Danito
 
-Danito is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Danito is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Danito is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 1 more. Often billed alongside derderwandert, Avocado and Vemativ. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Danito is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 derderwandert, Avocado, Vemativ
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danito/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danito/)*

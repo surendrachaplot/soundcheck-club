@@ -1,16 +1,13 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 21 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Melodies International with Mad Professor, Aisha, Mafalda, Seiji Ono & special guests" on Sat, 8 Aug 2026.
+Colour Factory is a music venue in London with 18 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Playlist LDN - FREE ENTRY" on Fri, 14 Aug 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Amber Rose, Andrea Giudice, Beavs and Brown Excellence and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Amber Rose, Andrea Giudice, Beavs and Brown Excellence and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Melodies International with Mad Professor, Aisha, Mafalda, Seiji Ono & special guests | Mad Professor, Mafalda, Seiji Ono |
-| Sat, 8 Aug 2026 | BAILE TRAMA w/ CIANA, MANUKA HONEY, DAZLBOY, YAS, JCVS ˚ˋঌ˖ | DAZLBØY, JCVS, Manuka Honey, YAS (9) |
-| Sat, 8 Aug 2026 | Element: Garden Party | HarriiG, IZZY (UK), Malachi (2), Sho (UK) |
 | Fri, 14 Aug 2026 | Playlist LDN - FREE ENTRY |  |
 | Fri, 14 Aug 2026 | Nitecawr: Cortisa Star, Dazegxd   | Dazegxd, Soma (2), Soulgem (1) |
 | Sat, 15 Aug 2026 | Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More | Cable!, Conducta, Danielle, GRACE.., Ghoulish, Jamie Joy, Jossy Mitsu, Lu.Re, Selassie TBC, VNEE |
@@ -18,9 +15,12 @@ Colour Factory is a music venue in London listed on soundcheck. 21 upcoming nigh
 | Sat, 22 Aug 2026 | INTERNATIONAL A$$ SHAKING COMMITTEE PRESENTS: I LIED, I LOVE BEING OUTSIDE | Seksu |
 | Sat, 22 Aug 2026 | The Cookout presents: OUTside | Donnie Sunshine, Mark-Ashley Dupé |
 | Thu, 27 Aug 2026 | QUENCH presents: NyLon Carnival w/ Martelo, Run P. Say Less, Donis + more | Donis, Run P., Say Less |
+| Sun, 30 Aug 2026 | Popola Carnival Afterparty | Black Daria, CHEZA LUCINA, Ivicore |
+| Sun, 30 Aug 2026 | Colour Garden Free Party: House, Disco, Balearic & Boogie | Beavs, JOSH FB, Nadia Ksaiba |
+| Fri, 4 Sept 2026 | Brown Excellence - All Night Long | Brown Excellence |
 
 ## Address
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

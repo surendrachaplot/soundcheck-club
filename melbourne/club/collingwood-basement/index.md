@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "OVERLAY in the Basement W/ Mikalah Watego" on Fri, 14 Aug 2026.
+Collingwood Basement is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "OVERLAY in the Basement W/ Mikalah Watego" on Fri, 14 Aug 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including AK-97, AROHA, Baby G and Chucheewa and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -19,4 +19,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

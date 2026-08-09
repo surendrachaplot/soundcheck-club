@@ -1,14 +1,15 @@
 # AKIHIRO
 
-AKIHIRO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Socore Factory, Osaka on Thu, 13 Aug 2026.
+AKIHIRO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Socore Factory, Osaka on Thu, 13 Aug 2026.
 
-AKIHIRO is a techno and house artist tracked on soundcheck, with 38 sets logged across Osaka, Seoul and Tokyo. Often billed alongside KZA, FFAN and KAITO.. Next up: Socore Factory, Osaka on Thu 13 Aug.
+AKIHIRO is a house and techno artist tracked on soundcheck, with 39 sets logged across Osaka, Seoul and Tokyo. Often billed alongside KZA, FFAN and KAITO.. Next up: Socore Factory, Osaka on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Socore Factory | Osaka |
+| Sat, 15 Aug 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AKIHIRO is a techno and house artist tracked on soundcheck, with 38 sets logged 
 
 KZA, FFAN, KAITO.
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akihiro/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akihiro/)*

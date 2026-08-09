@@ -1,6 +1,6 @@
 # Aron Friedman
 
-Aron Friedman is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Café Katoen, Amsterdam on Thu, 13 Aug 2026.
+Aron Friedman is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Café Katoen, Amsterdam on Thu, 13 Aug 2026.
 
 Aron Friedman is a house and tech house artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam and Berlin. Often billed alongside Boj Tieman, Franca and Galen. Next up: Café Katoen, Amsterdam on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Aron Friedman is a house and tech house artist based in Netherlands, tracked on 
 
 Boj Tieman, Franca, Galen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*

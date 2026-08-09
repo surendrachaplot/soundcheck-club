@@ -1,14 +1,13 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 8 Aug 2026.
+In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
 
-In Verruf is a techno and trance artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Lehmann Club, Stuttgart on Sat 8 Aug.
+In Verruf is a techno and trance artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: OST, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Lehmann Club | Stuttgart |
 | Sat, 22 Aug 2026 | OST | Berlin |
 | Thu, 27 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
@@ -18,6 +17,7 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 133 sets log
 
 ## Recently played
 
+- Lehmann Club, Stuttgart — Sat, 8 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
@@ -25,10 +25,9 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 133 sets log
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - The Bassement, Madrid — Fri, 5 Jun 2026
 - Edelfettwerk, Hamburg — Sat, 16 May 2026
-- Kømplex Lisbon, Lisbon — Fri, 15 May 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

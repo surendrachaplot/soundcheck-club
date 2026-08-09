@@ -1,6 +1,6 @@
 # Austin Ato
 
-Austin Ato is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 29 Aug 2026.
+Austin Ato is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 29 Aug 2026.
 
 Austin Ato is a house and disco artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Bangkok, Barcelona, Berlin and Edinburgh and 5 more. Often billed alongside Optimistic Soul, Auntie Flo and Bonzai Bonner. Next up: The Berkeley Suite, Glasgow on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Austin Ato is a house and disco artist based in United Kingdom, tracked on sound
 
 Optimistic Soul, Auntie Flo, Bonzai Bonner
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/austinato/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/austinato/)*

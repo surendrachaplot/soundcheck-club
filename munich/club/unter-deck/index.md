@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Unter Deck w/ Schienenersatzverkehr" on Sat, 8 Aug 2026.
+Unter Deck is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "NAGINI & DJ FM im Unter Deck – Tuesday in Love" on Tue, 11 Aug 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Kim_Twiddle and NAGINI and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Kim_Twiddle and NAGINI and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Unter Deck w/ Schienenersatzverkehr |  |
 | Tue, 11 Aug 2026 | NAGINI & DJ FM im Unter Deck – Tuesday in Love | DJ FM & DJ FREUND, NAGINI |
 | Wed, 12 Aug 2026 | Isarbass im Unter Deck |  |
 | Tue, 25 Aug 2026 | This time 4 real: JANKA b2b RONNY All night long | RONNY |
@@ -21,4 +20,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 8 upcoming nights, w
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

@@ -1,8 +1,8 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at BCM, Mallorca on Tue, 18 Aug 2026.
+Riordan is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BCM, Mallorca on Tue, 18 Aug 2026.
 
-Riordan is a house and tech house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: BCM, Mallorca on Tue 18 Aug.
+Riordan is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: BCM, Mallorca on Tue 18 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Riordan is a house and tech house artist tracked on soundcheck, with 116 sets lo
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 9 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Quartyard | San Diego |
+| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Riordan is a house and tech house artist tracked on soundcheck, with 116 sets lo
 
 Gorgon City, Prunk, Hot Since 82
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

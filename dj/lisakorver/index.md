@@ -1,14 +1,13 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Lisa Korver is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at [UNVRS], Ibiza on Mon, 10 Aug 2026.
 
-Lisa Korver is a techno and trance artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Ibiza and London and 5 more. Often billed alongside LAMMER, OLIVIA LENSEN and Bella Claxton. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Lisa Korver is a techno and trance artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Ibiza and London and 5 more. Often billed alongside LAMMER, OLIVIA LENSEN and Bella Claxton. Next up: [UNVRS], Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Mon, 10 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
@@ -22,6 +21,7 @@ Lisa Korver is a techno and trance artist tracked on soundcheck, with 64 sets lo
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Beton-T, Utrecht — Sat, 1 Aug 2026
 - BASIS, Utrecht — Sat, 1 Aug 2026
 - Thuishaven, Amsterdam — Sun, 26 Jul 2026
@@ -29,10 +29,9 @@ Lisa Korver is a techno and trance artist tracked on soundcheck, with 64 sets lo
 - Stadshaven Brouwerij, Rotterdam — Sat, 4 Jul 2026
 - Ruigenhoek, Utrecht — Sat, 30 May 2026
 - Central Studios Utrecht, Utrecht — Sat, 30 May 2026
-- Boomerang Beach, The Hague — Thu, 14 May 2026
 
 ## Shares bills with
 
 LAMMER, OLIVIA LENSEN, Bella Claxton
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

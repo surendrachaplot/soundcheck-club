@@ -1,6 +1,6 @@
 # TEE EM DEE
 
-TEE EM DEE is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at H0l0 Yard, New York City on Sat, 15 Aug 2026.
+TEE EM DEE is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at H0l0 Yard, New York City on Sat, 15 Aug 2026.
 
 TEE EM DEE is a house and hip-hop artist tracked on soundcheck, with 35 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside DAYE., EDEN BEKELE and EQUISS. Next up: H0l0 Yard, Newyorkcity on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ TEE EM DEE is a house and hip-hop artist tracked on soundcheck, with 35 sets log
 
 DAYE., EDEN BEKELE, EQUISS
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teeemdee/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teeemdee/)*

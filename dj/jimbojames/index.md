@@ -1,19 +1,19 @@
 # Jimbo James
 
-Jimbo James is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - PUBLIC Hotel The Roof, 215 Chrystie Street on the Lower East Side, New York City on Sat, 8 Aug 2026.
+Jimbo James is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
-Jimbo James is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Losangeles, Miami, Nashville and Newyorkcity and 1 more. Often billed alongside Gian-Paul, Ramin Majlessi and AMIRA. Next up: TBA - PUBLIC Hotel The Roof, 215 Chrystie Street on the Lower East Side, Newyorkcity on Sat 8 Aug.
+Jimbo James is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Losangeles, Miami, Nashville and Newyorkcity and 1 more. Often billed alongside Gian-Paul, Ramin Majlessi and AMIRA. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - PUBLIC Hotel The Roof, 215 Chrystie Street on the Lower East Side | New York City |
 | Fri, 14 Aug 2026 | TBA - Private Location | San Diego |
 | Sun, 4 Oct 2026 | TBA - Private Location | San Diego |
 
 ## Recently played
 
+- TBA - PUBLIC Hotel The Roof, 215 Chrystie Street on the Lower East Side, New York City — Sat, 8 Aug 2026
 - Laissez Faire, New York City — Fri, 7 Aug 2026
 - Office Bar, San Diego — Wed, 17 Jun 2026
 - 3oz Dive Club, San Diego — Sat, 30 May 2026
@@ -21,10 +21,9 @@ Jimbo James is a house and deep house artist based in United States of America, 
 - TBA - Private Location San Diego, San Diego — Sun, 26 Apr 2026
 - TBA - 2191 Main St, San Diego, CA 92113, San Diego — Fri, 10 Apr 2026
 - 3oz Dive Club, San Diego — Sun, 5 Apr 2026
-- Coasterra, San Diego — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Gian-Paul, Ramin Majlessi, AMIRA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*

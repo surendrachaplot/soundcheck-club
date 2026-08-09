@@ -1,6 +1,6 @@
 # Soma (2)
 
-Soma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Colour Factory, London on Fri, 14 Aug 2026.
+Soma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Colour Factory, London on Fri, 14 Aug 2026.
 
 Soma (2) is a techno and house artist based in Italy, tracked on soundcheck, with 14 sets logged across Athens, Berlin, Dublin and London and 3 more. Often billed alongside KEi, NOËL and Rikuto Shibazaki. Next up: Colour Factory, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Soma (2) is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 KEi, NOËL, Rikuto Shibazaki
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soma-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soma-2/)*

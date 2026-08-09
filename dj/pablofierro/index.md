@@ -1,6 +1,6 @@
 # Pablo Fierro
 
-Pablo Fierro is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Cova Santa, Ibiza on Sat, 15 Aug 2026.
+Pablo Fierro is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Sat, 15 Aug 2026.
 
 Pablo Fierro is an afro house and house artist tracked on soundcheck, with 123 sets logged across Athens, Bali, Barcelona and Boston and 26 more. Often billed alongside Black Coffee, Dan Ficara and Fiona Kraft. Next up: Cova Santa, Ibiza on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Pablo Fierro is an afro house and house artist tracked on soundcheck, with 123 s
 
 Black Coffee, Dan Ficara, Fiona Kraft
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablofierro/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablofierro/)*

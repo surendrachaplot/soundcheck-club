@@ -1,14 +1,13 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sukkerbiten, Oslo on Sat, 8 Aug 2026.
+Dr Banana is a House and Garage artist with 11 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 14 Aug 2026.
 
-Dr Banana is a house and garage artist tracked on soundcheck, with 242 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Sukkerbiten, Oslo on Sat 8 Aug.
+Dr Banana is a house and garage artist tracked on soundcheck, with 242 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Les Enfants Brillants, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sukkerbiten | Oslo |
 | Fri, 14 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Sun, 16 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Rumore Nightclub Capri | Naples |
@@ -23,6 +22,7 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 242 sets logg
 
 ## Recently played
 
+- Sukkerbiten, Oslo — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 16 Jul 2026
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
 - 528 Ibiza, Ibiza — Tue, 2 Jun 2026
@@ -30,10 +30,9 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 242 sets logg
 - Freight Island, Manchester — Sun, 24 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - Sandown Racecourse, London — Sat, 23 May 2026
-- Night Tales, London — Fri, 22 May 2026
 
 ## Shares bills with
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

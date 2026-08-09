@@ -1,6 +1,6 @@
 # SA:FIR
 
-SA:FIR is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Nice N Sleazy, Glasgow on Sun, 13 Sept 2026.
+SA:FIR is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Nice N Sleazy, Glasgow on Sun, 13 Sept 2026.
 
 SA:FIR is a techno and progressive house artist based in Portugal, tracked on soundcheck, with 2 sets logged across Glasgow and Krakow. Often billed alongside EL PADRE and Jay Cluss. Next up: Nice N Sleazy, Glasgow on Sun 13 Sept.
 
@@ -18,4 +18,4 @@ SA:FIR is a techno and progressive house artist based in Portugal, tracked on so
 
 EL PADRE, Jay Cluss
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safir-pl/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safir-pl/)*

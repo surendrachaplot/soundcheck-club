@@ -1,6 +1,6 @@
 # Hoang
 
-Hoang is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Echostage, Washington DC on Sat, 29 Aug 2026.
+Hoang is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Echostage, Washington DC on Sat, 29 Aug 2026.
 
 Hoang is a bass and club artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Philadelphia, Sanfrancisco and Seattle and 1 more. Often billed alongside AMÉMÉ, Alok and Andy C. Next up: Echostage, Washingtondc on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Hoang is a bass and club artist based in United States of America, tracked on so
 
 AMÉMÉ, Alok, Andy C
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoang/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoang/)*

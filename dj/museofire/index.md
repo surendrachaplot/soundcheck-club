@@ -1,6 +1,6 @@
 # MUSE(O)FIRE
 
-MUSE(O)FIRE is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jupiter Disco, New York City on Sat, 15 Aug 2026.
+MUSE(O)FIRE is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jupiter Disco, New York City on Sat, 15 Aug 2026.
 
 MUSE(O)FIRE is a house and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity and Washingtondc. Often billed alongside EL SUCIO, BIIANCO and Clamazon. Next up: Jupiter Disco, Newyorkcity on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ MUSE(O)FIRE is a house and electro artist based in United States of America, tra
 
 EL SUCIO, BIIANCO, Clamazon
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*

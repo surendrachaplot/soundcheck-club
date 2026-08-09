@@ -1,6 +1,6 @@
 # Gav Easby
 
-Gav Easby is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
+Gav Easby is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
 
 Gav Easby is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and Newcastle. Often billed alongside SOBAH, Kieran Muckle and Lexicon Avenue. Next up: The Fibre Penthouse, Leeds on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Gav Easby is a progressive house and deep house artist based in United Kingdom, 
 
 SOBAH, Kieran Muckle, Lexicon Avenue
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaveasby/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaveasby/)*

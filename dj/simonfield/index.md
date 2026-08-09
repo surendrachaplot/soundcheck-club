@@ -1,6 +1,6 @@
 # Simon Field
 
-Simon Field is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jaeger, Oslo on Fri, 21 Aug 2026.
+Simon Field is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jaeger, Oslo on Fri, 21 Aug 2026.
 
 Simon Field is a house and deep house artist based in Norway, tracked on soundcheck, with 33 sets logged across Lisbon and Oslo. Often billed alongside blichfeldt, G-HA and Olanskii. Next up: Jaeger, Oslo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Simon Field is a house and deep house artist based in Norway, tracked on soundch
 
 blichfeldt, G-HA, Olanskii
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfield/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfield/)*

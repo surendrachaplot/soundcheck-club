@@ -1,18 +1,18 @@
 # TAARIS
 
-TAARIS is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+TAARIS is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 9 Aug 2026.
 
-TAARIS is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Berlin, London and Paris. Often billed alongside Ylia (UK), Deranged and GIZZI. Next up: Gaffe, London on Sat 8 Aug.
+TAARIS is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Berlin, London and Paris. Often billed alongside Ylia (UK), Deranged and GIZZI. Next up: NUMBER 90 LONDON, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Gaffe | London |
 | Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Gaffe, London — Sat, 8 Aug 2026
 - essaim, Paris — Fri, 22 May 2026
 - ÆDEN, Berlin — Thu, 26 Mar 2026
 - The Cause, London — Fri, 13 Mar 2026
@@ -24,4 +24,4 @@ TAARIS is a techno artist based in France, tracked on soundcheck, with 8 sets lo
 
 Ylia (UK), Deranged, GIZZI
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taaris/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taaris/)*

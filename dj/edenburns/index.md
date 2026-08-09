@@ -1,14 +1,13 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Frankhan Selectist, Istanbul on Sat, 8 Aug 2026.
+Eden Burns is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Virage, Paris on Thu, 13 Aug 2026.
 
-Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 52 sets logged across Auckland, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Adriana (1), DJ City and Babycino. Next up: Frankhan Selectist, Istanbul on Sat 8 Aug.
+Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 52 sets logged across Auckland, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Adriana (1), DJ City and Babycino. Next up: Virage, Paris on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Frankhan Selectist | Istanbul |
 | Thu, 13 Aug 2026 | Virage | Paris |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | Honey Street Studio | Manchester |
@@ -17,6 +16,7 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul — Sat, 8 Aug 2026
 - Jaeger, Oslo — Fri, 7 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
 - La Terrrazza, Barcelona — Fri, 24 Jul 2026
@@ -24,10 +24,9 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 - Tokonoma Club, Frankfurt — Sat, 4 Jul 2026
 - Second Story Studios, Melbourne — Sat, 30 May 2026
 - Collingwood Basement, Melbourne — Fri, 13 Feb 2026
-- Goblin, Auckland — Fri, 9 Jan 2026
 
 ## Shares bills with
 
 Adriana (1), DJ City, Babycino
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

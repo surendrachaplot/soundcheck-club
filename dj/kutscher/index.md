@@ -1,18 +1,18 @@
 # kutscher
 
-kutscher is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+kutscher is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
 
-kutscher is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Copenhagen. Often billed alongside BENDOM, FRËIHERR and Nilinski. Next up: ÆDEN, Berlin on Sat 8 Aug.
+kutscher is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Copenhagen. Often billed alongside BENDOM, FRËIHERR and Nilinski. Next up: Void Club, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | ÆDEN | Berlin |
 | Sat, 22 Aug 2026 | Void Club | Berlin |
 
 ## Recently played
 
+- ÆDEN, Berlin — Sat, 8 Aug 2026
 - ÆDEN, Berlin — Fri, 17 Oct 2025
 - Baggen, Copenhagen — Fri, 16 May 2025
 - M01, Berlin — Sat, 12 Oct 2024
@@ -22,4 +22,4 @@ kutscher is a techno and drum & bass artist based in Germany, tracked on soundch
 
 BENDOM, FRËIHERR, Nilinski
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kutscher/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kutscher/)*

@@ -1,6 +1,6 @@
 # Metrodome
 
-Metrodome is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Shepherds Rest Inn. Todmorden, Manchester on Sun, 30 Aug 2026.
+Metrodome is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Shepherds Rest Inn. Todmorden, Manchester on Sun, 30 Aug 2026.
 
 Metrodome is a jungle and drum & bass artist tracked on soundcheck, with 60 sets logged across Berlin, Hamburg, London and Manchester. Often billed alongside Rich Reason, Chunky and DAIZ. Next up: The Shepherds Rest Inn. Todmorden, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Metrodome is a jungle and drum & bass artist tracked on soundcheck, with 60 sets
 
 Rich Reason, Chunky, DAIZ
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*

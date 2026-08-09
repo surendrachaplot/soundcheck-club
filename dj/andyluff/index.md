@@ -1,6 +1,6 @@
 # Andy Luff
 
-Andy Luff is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
+Andy Luff is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BRET, Amsterdam on Sat, 15 Aug 2026.
 
 Andy Luff is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Jos, Tadeusz and Loa Szala. Next up: BRET, Amsterdam on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Andy Luff is a house and techno artist tracked on soundcheck, with 111 sets logg
 
 Jos, Tadeusz, Loa Szala
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*

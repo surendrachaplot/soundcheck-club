@@ -1,6 +1,6 @@
 # Loefah
 
-Loefah is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Loefah is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Loefah is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 13 more. Often billed alongside Chinese Daughter, Coki and SGT Pokes. Next up: The Cause, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Loefah is a bass and drum & bass artist based in United Kingdom, tracked on soun
 
 Chinese Daughter, Coki, SGT Pokes
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loefah/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loefah/)*

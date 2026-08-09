@@ -1,15 +1,13 @@
 # Torus
 
-Torus is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hito Scheveningen, The Hague on Sat, 8 Aug 2026.
+Torus is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
-Torus is a house and techno artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Hito Scheveningen, Thehague on Sat 8 Aug.
+Torus is a house and techno artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Laak, Thehague on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Hito Scheveningen | The Hague |
-| Sat, 8 Aug 2026 | Royal Lounge | Tokyo |
 | Fri, 28 Aug 2026 | Laak | The Hague |
 | Fri, 4 Sept 2026 | TBA - Multiple Venues | Vienna |
 | Fri, 4 Sept 2026 | WOMB | Tokyo |
@@ -17,17 +15,17 @@ Torus is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
+- Hito Scheveningen, The Hague — Sat, 8 Aug 2026
+- Royal Lounge, Tokyo — Sat, 8 Aug 2026
 - VENT, Tokyo — Sat, 18 Jul 2026
 - MOTELSALIERI, Milan — Sat, 23 May 2026
 - Aoyama Hachi, Tokyo — Sun, 17 May 2026
 - Kraftwerk Berlin, Berlin — Tue, 12 May 2026
 - TBA - Dar Zin, 27 rue Pierre Mauroy, Paris — Sat, 25 Apr 2026
 - VENT, Tokyo — Fri, 24 Apr 2026
-- M.O.T, London — Fri, 24 Apr 2026
-- Laak, The Hague — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 SIGNAL (JP), Evian Christ, Ayana Pattra
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*

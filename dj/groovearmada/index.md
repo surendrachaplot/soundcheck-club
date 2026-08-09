@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Groove Armada is a house and disco artist tracked on soundcheck, with 82 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -34,4 +34,4 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 82 sets lo
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

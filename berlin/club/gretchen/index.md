@@ -1,14 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Recycle: 15 Years FLEXOUT AUDIO" on Sat, 8 Aug 2026.
+Gretchen is a music venue in Berlin with 33 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. KOOB, MAURA + KING OWUSU" on Thu, 20 Aug 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including Acid Arab, Alley Cat, Allynx and Bel Cobain and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 33 upcoming nights, with line-ups including Acid Arab, Alley Cat, Allynx and Bel Cobain and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Recycle: 15 Years FLEXOUT AUDIO | Genoe, Jubei, KRÆK, Mc Jamie White, Nassstya, Survey, Sydney Bryce, Teebee |
 | Thu, 20 Aug 2026 | G SESSIONS - 360 ° (Live) Show feat. KOOB, MAURA + KING OWUSU | Allynx |
 | Wed, 26 Aug 2026 | MOCKY and friends - LA meets BERLIN JAM with MAYLEE TODD *live |  |
 | Sat, 29 Aug 2026 | BFF Summer Festival | Monkyman |
@@ -18,9 +17,10 @@ Gretchen is a music venue in Berlin listed on soundcheck. 34 upcoming nights, wi
 | Wed, 23 Sept 2026 | MAYA ONGAKU *live |  |
 | Sun, 27 Sept 2026 | MOMO. - Tum Tum Tum Tour |  |
 | Wed, 30 Sept 2026 | MOP MOP ft. ANTHONY JOSEPH *live |  |
+| Thu, 1 Oct 2026 | 15 Years Gretchen: NATALIA DOCO *live |  |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

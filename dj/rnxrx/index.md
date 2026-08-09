@@ -1,6 +1,6 @@
 # RNXRX
 
-RNXRX is a Electro and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Switch Bar, Barcelona on Tue, 18 Aug 2026.
+RNXRX is a Electro and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Switch Bar, Barcelona on Tue, 18 Aug 2026.
 
 RNXRX is an electro and trance artist tracked on soundcheck, with 17 sets logged across Athens, Barcelona and Valencia. Often billed alongside Ed Warner, Marianella and Dolorosa. Next up: Switch Bar, Barcelona on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ RNXRX is an electro and trance artist tracked on soundcheck, with 17 sets logged
 
 Ed Warner, Marianella, Dolorosa
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rnxrx/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rnxrx/)*

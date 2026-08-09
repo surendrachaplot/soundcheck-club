@@ -1,6 +1,6 @@
 # Dieselboy
 
-Dieselboy is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Concourse Project, Austin on Thu, 13 Aug 2026.
+Dieselboy is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Concourse Project, Austin on Thu, 13 Aug 2026.
 
 Dieselboy is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Boston and Detroit and 9 more. Often billed alongside Dave Shichman, Agent 137 and Craze. Next up: The Concourse Project, Austin on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Dieselboy is a drum & bass and jungle artist based in United States of America, 
 
 Dave Shichman, Agent 137, Craze
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*

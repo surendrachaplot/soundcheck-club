@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Katana x shockwerk" on Sat, 8 Aug 2026.
+Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SCHRANZ is BACK Köln with Felix Kröcher & Neon Graveyard" on Fri, 14 Aug 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including Aaro (3), alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Aaro (3), alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Katana x shockwerk |  |
 | Fri, 14 Aug 2026 | SCHRANZ is BACK Köln with Felix Kröcher & Neon Graveyard | Felix Kröcher, Neon Graveyard |
 | Fri, 21 Aug 2026 | Jump House | Diffrent, Ken Brause, Lizzle, Tristan K (1), anyka, snoritz |
 | Sat, 22 Aug 2026 | jedermensch. x PhonoVision | Annemalie, Arninho, HiHat, Schuhmacher (3), alleira, lollo |
@@ -22,4 +21,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

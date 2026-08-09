@@ -1,6 +1,6 @@
 # TiBOR (HU)
 
-TiBOR (HU) is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
+TiBOR (HU) is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Last Arch, London on Sat, 15 Aug 2026.
 
 TiBOR (HU) is a progressive house and tech house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside ACID HARRY, Alythia Kwan and CARSA. Next up: Last Arch, London on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ TiBOR (HU) is a progressive house and tech house artist tracked on soundcheck, w
 
 ACID HARRY, Alythia Kwan, CARSA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiborhu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiborhu/)*

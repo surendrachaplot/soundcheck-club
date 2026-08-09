@@ -1,6 +1,6 @@
 # Sweet Philly
 
-Sweet Philly is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at People's Leisure Club, Edinburgh on Tue, 18 Aug 2026.
+Sweet Philly is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at People's Leisure Club, Edinburgh on Tue, 18 Aug 2026.
 
 Sweet Philly is a club and techno artist based in Ireland, tracked on soundcheck, with 71 sets logged across Edinburgh, Glasgow and London. Often billed alongside Katelate, Annafleur and DV60. Next up: People's Leisure Club, Edinburgh on Tue 18 Aug.
 
@@ -27,4 +27,4 @@ Sweet Philly is a club and techno artist based in Ireland, tracked on soundcheck
 
 Katelate, Annafleur, DV60
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetphilly/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetphilly/)*

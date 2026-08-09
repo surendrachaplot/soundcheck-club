@@ -1,6 +1,6 @@
 # Nakamura Minami
 
-Nakamura Minami is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at or, Tokyo on Sat, 15 Aug 2026.
+Nakamura Minami is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at or, Tokyo on Sat, 15 Aug 2026.
 
 Nakamura Minami is a hip-hop and bass artist tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Andrew (TREKKIE TRAX), K8 (TYO GQOM) and Carpainter. Next up: or, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nakamura Minami is a hip-hop and bass artist tracked on soundcheck, with 11 sets
 
 Andrew (TREKKIE TRAX), K8 (TYO GQOM), Carpainter
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamuraminami-jp/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamuraminami-jp/)*

@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "REVERB: HARDGROOVE" on Thu, 13 Aug 2026.
+EQ San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "REVERB: HARDGROOVE" on Thu, 13 Aug 2026.
 
 EQ San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nights, with line-ups including 2AT, Codak, JAQ.XS and Linska and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -23,4 +23,4 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nigh
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

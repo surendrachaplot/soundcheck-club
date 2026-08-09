@@ -1,6 +1,6 @@
 # Sancta
 
-Sancta is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at PRST, Vienna on Fri, 28 Aug 2026.
+Sancta is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at PRST, Vienna on Fri, 28 Aug 2026.
 
 Sancta is a techno and drum & bass artist tracked on soundcheck, with 13 sets logged across Berlin, Turin and Vienna. Often billed alongside ENOME, GEST (UK) and icanhearvisuals. Next up: PRST, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sancta is a techno and drum & bass artist tracked on soundcheck, with 13 sets lo
 
 ENOME, GEST (UK), icanhearvisuals
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sancta/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sancta/)*

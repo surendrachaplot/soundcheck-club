@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
 Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Brighton and Bristol and 7 more. Often billed alongside 4am Kru, Betsy Mae and Missy P. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 67 s
 
 4am Kru, Betsy Mae, Missy P
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

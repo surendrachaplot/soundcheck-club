@@ -1,6 +1,6 @@
 # DreamKiller
 
-DreamKiller is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Standard Time, Toronto on Fri, 14 Aug 2026.
+DreamKiller is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Standard Time, Toronto on Fri, 14 Aug 2026.
 
 DreamKiller is a house and experimental artist tracked on soundcheck, with 4 sets logged across London, Newyorkcity, Singapore and Toronto. Often billed alongside Behne, Impact Driver and KILL 9 1. Next up: Standard Time, Toronto on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ DreamKiller is a house and experimental artist tracked on soundcheck, with 4 set
 
 Behne, Impact Driver, KILL 9 1
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamkiller/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamkiller/)*

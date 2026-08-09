@@ -1,6 +1,6 @@
 # MISSA Aniversario 8 at Blow
 
-MISSA Aniversario 8 at Blow on Sun 9 Aug, Buenosaires. 6 acts on the bill: Aerobica, Brandon Ewing, Camila Isabel and Jennifer Loveless and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+MISSA Aniversario 8 at Blow on Sun 9 Aug, Buenosaires. 7 acts on the bill: Aerobica, Brandon Ewing, Camila Isabel and Javiera Mena and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ MISSA Aniversario 8 at Blow on Sun 9 Aug, Buenosaires. 6 acts on the bill: Aerob
 - Aerobica
 - Brandon Ewing
 - Camila Isabel
+- Javiera Mena
 - Jennifer Loveless
 - Manu Barcelo
 - VELZ (2)

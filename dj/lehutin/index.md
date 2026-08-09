@@ -1,6 +1,6 @@
 # Le Hutin
 
-Le Hutin is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Le 211, Paris on Sun, 9 Aug 2026.
+Le Hutin is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Le 211, Paris on Sun, 9 Aug 2026.
 
 Le Hutin is a house and disco artist tracked on soundcheck, with 42 sets logged across Amsterdam, Brussels, Geneva and Lyon and 4 more. Often billed alongside Heritage Listed, Chinau and Knuckle G. Next up: Le 211, Paris on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Le Hutin is a house and disco artist tracked on soundcheck, with 42 sets logged 
 
 Heritage Listed, Chinau, Knuckle G
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lehutin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lehutin/)*

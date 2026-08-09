@@ -1,6 +1,6 @@
 # Harmful Logic
 
-Harmful Logic is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Wigwam, Dublin on Thu, 13 Aug 2026.
+Harmful Logic is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Wigwam, Dublin on Thu, 13 Aug 2026.
 
 Harmful Logic is a breakcore and hardcore artist based in Ireland, tracked on soundcheck, with 26 sets logged across Belfast, Budapest, Dublin and Liverpool and 7 more. Often billed alongside DJ Kuroneko, migeru and E The Artist. Next up: Wigwam, Dublin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Harmful Logic is a breakcore and hardcore artist based in Ireland, tracked on so
 
 DJ Kuroneko, migeru, E The Artist
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harmfullogic/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harmfullogic/)*

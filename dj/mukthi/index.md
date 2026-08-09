@@ -1,6 +1,6 @@
 # Mukthi
 
-Mukthi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at UNDERCITY, Seoul on Sat, 15 Aug 2026.
+Mukthi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at UNDERCITY, Seoul on Sat, 15 Aug 2026.
 
 Mukthi is a techno and house artist based in South Korea, tracked on soundcheck, with 13 sets logged across Seoul. Often billed alongside Bagagee Viphex13, HAO (CN) and IZREAL. Next up: UNDERCITY, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mukthi is a techno and house artist based in South Korea, tracked on soundcheck,
 
 Bagagee Viphex13, HAO (CN), IZREAL
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mukthi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mukthi/)*

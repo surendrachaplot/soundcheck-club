@@ -1,14 +1,13 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+AAT (NL) is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Colorado Charlie, The Hague on Fri, 28 Aug 2026.
 
-AAT (NL) is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+AAT (NL) is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Colorado Charlie, Thehague on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 28 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Sat, 29 Aug 2026 | TivoliVredenburg | Utrecht |
@@ -22,6 +21,7 @@ AAT (NL) is a house and tech house artist tracked on soundcheck, with 82 sets lo
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Het Sieraad, Amsterdam — Sat, 25 Jul 2026
 - W Barcelona, Barcelona — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
@@ -29,10 +29,9 @@ AAT (NL) is a house and tech house artist tracked on soundcheck, with 82 sets lo
 - Supperclub, Amsterdam — Sat, 4 Jul 2026
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
-- Boomerang Beach, The Hague — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Prunk, Michel de Hey, Benny Rodrigues
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*

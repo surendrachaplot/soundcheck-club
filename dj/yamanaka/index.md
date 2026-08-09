@@ -1,6 +1,6 @@
 # Yamanaka
 
-Yamanaka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Substation, Seattle on Wed, 2 Sept 2026.
+Yamanaka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Substation, Seattle on Wed, 2 Sept 2026.
 
 Yamanaka is a techno and house artist tracked on soundcheck, with 17 sets logged across Denver, Portland, Seattle and Tokyo. Often billed alongside DJ Raine, Ana-Lucid and 'nohup'. Next up: Substation, Seattle on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Yamanaka is a techno and house artist tracked on soundcheck, with 17 sets logged
 
 DJ Raine, Ana-Lucid, 'nohup'
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamanaka/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamanaka/)*

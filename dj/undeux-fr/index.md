@@ -1,6 +1,6 @@
 # UN*DEUX
 
-UN*DEUX is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kilomètre25, Paris on Sat, 12 Sept 2026.
+UN*DEUX is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kilomètre25, Paris on Sat, 12 Sept 2026.
 
 UN*DEUX is a house and disco artist based in France, tracked on soundcheck, with 20 sets logged across Barcelona, Brussels, London and Paris. Often billed alongside Kabylie Minogue, AMVN and Ahadadream. Next up: Kilomètre25, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ UN*DEUX is a house and disco artist based in France, tracked on soundcheck, with
 
 Kabylie Minogue, AMVN, Ahadadream
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/undeux-fr/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/undeux-fr/)*

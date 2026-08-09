@@ -1,6 +1,6 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Piknic Électronik MTL #12: Worakls" on Sun, 23 Aug 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Piknic Électronik MTL #12: Worakls" on Sun, 23 Aug 2026.
 
 Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Adriatique, AMÉMÉ, Anaïs Ley and Asha and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
@@ -23,4 +23,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

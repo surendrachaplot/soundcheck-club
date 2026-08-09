@@ -1,6 +1,6 @@
 # ābnamā
 
-ābnamā is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Haus der Visionäre, Berlin on Sun, 9 Aug 2026.
+ābnamā is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Haus der Visionäre, Berlin on Sun, 9 Aug 2026.
 
 ābnamā is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Athens, Berlin, Copenhagen and Leipzig and 8 more. Often billed alongside Camilla Rae, 131bpm and Berenice. Next up: Haus der Visionäre, Berlin on Sun 9 Aug.
 
@@ -28,4 +28,4 @@
 
 Camilla Rae, 131bpm, Berenice
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*

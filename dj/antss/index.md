@@ -1,6 +1,6 @@
 # Antss
 
-Antss is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at [UNVRS], Ibiza on Wed, 12 Aug 2026.
+Antss is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at [UNVRS], Ibiza on Wed, 12 Aug 2026.
 
 Antss is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Bristol, Ibiza and Leeds and 2 more. Often billed alongside ALISHA, DXNBY and Hot Since 82. Next up: [UNVRS], Ibiza on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Antss is a tech house and house artist based in United Kingdom, tracked on sound
 
 ALISHA, DXNBY, Hot Since 82
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antss/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antss/)*

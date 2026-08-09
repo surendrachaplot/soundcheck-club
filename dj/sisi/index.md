@@ -1,6 +1,6 @@
 # Sisi
 
-Sisi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Sisi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
 Sisi is a house and techno artist based in Japan, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 12 more. Often billed alongside Kikiorix, YAMARCHY and Monkey Timers. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Sisi is a house and techno artist based in Japan, tracked on soundcheck, with 70
 
 Kikiorix, YAMARCHY, Monkey Timers
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisi/)*

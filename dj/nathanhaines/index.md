@@ -1,6 +1,6 @@
 # Nathan Haines
 
-Nathan Haines is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Crate Brewery, London on Sun, 9 Aug 2026.
+Nathan Haines is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Crate Brewery, London on Sun, 9 Aug 2026.
 
 Nathan Haines is a house and disco artist tracked on soundcheck, with 13 sets logged across Auckland, Ibiza and London. Often billed alongside Frank Booker, Sadar Bahar and Adriana (1). Next up: Crate Brewery, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Nathan Haines is a house and disco artist tracked on soundcheck, with 13 sets lo
 
 Frank Booker, Sadar Bahar, Adriana (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhaines/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhaines/)*

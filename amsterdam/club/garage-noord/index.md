@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire" on Sat, 8 Aug 2026.
+Garage Noord is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "BeHaerd BO.02 - Purposely Connect" on Sun, 9 Aug 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including 42nd Avenue, Akanbi, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire | Akanbi, Joya Astou, screenage dj |
 | Sun, 9 Aug 2026 | BeHaerd BO.02 - Purposely Connect | Cio D'Or, Cobahn, Karina Schneider, Marc Schneider, Mathys Lenne, Obscur |
 | Fri, 14 Aug 2026 | Cousin, baby ganoush b2b Nèna, Sandor | Cousin, Nèna, Sandor, baby ganoush |
 | Sat, 15 Aug 2026 | DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality | DJ Storm (2), lis (5), mul/ANNA |
@@ -18,9 +17,10 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming nig
 | Sun, 23 Aug 2026 | KRUISPUNT & Pacific Ondergronds: zomerse samenkomst |  |
 | Fri, 28 Aug 2026 | DJ Marcelle (all night) + bar40 hosted by awhlkuhn |  |
 | Sat, 29 Aug 2026 | BBBwithluv welcomes Body Is A Miracle |  |
+| Sun, 25 Oct 2026 | The Final Stretch | 42nd Avenue, Akua, Andy (NL), Angel D'lite, Bennet (DE), Caim, Children of Valis, Crinkhoff, DJ Rino, ESTRELLA, Eversines, Gene On Earth, Iggy P, Lo Ds, Lola Haro, Marie K (1), Matthew Neequaye, Mattie, Moxie, Nathan Homan, Nicolas Lutz, Noizar, Pieter Jansen, RDS, Tsepo, livwutang, tINI |
 
 ## Address
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

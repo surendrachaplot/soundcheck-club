@@ -1,6 +1,6 @@
 # Kiko
 
-Kiko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 13 Aug 2026.
+Kiko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Kiko is a house and techno artist based in France, tracked on soundcheck, with 21 sets logged across Amsterdam, Athens, Berlin and Frankfurt and 9 more. Often billed alongside Darin Epsilon, La Forêt and Miss Monique. Next up: Hï Ibiza, Ibiza on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Kiko is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Darin Epsilon, La Forêt, Miss Monique
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*

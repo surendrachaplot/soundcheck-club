@@ -1,14 +1,13 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "LEHMANN Schranznacht with In Verruf, dasstudach, MOIA, GAAAS" on Sat, 8 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "HARDCORE GENERATORS pres. 2YEARS STUTTGART HARDCORE SOUND" on Fri, 14 Aug 2026.
 
-Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Blawan, cyaabottom, dasstudach and DICE and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
+Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including Blawan, cyaabottom, DICE and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | LEHMANN Schranznacht with In Verruf, dasstudach, MOIA, GAAAS | GAAAS, In Verruf, MOIA, dasstudach |
 | Fri, 14 Aug 2026 | HARDCORE GENERATORS pres. 2YEARS STUTTGART HARDCORE SOUND | Edgerunner, IceLipzz, LØUS, Medusa, SYNTH3SE, Tayphoon, cyaabottom |
 | Sat, 15 Aug 2026 | Lehmann Clubnacht with ÜBERREST, Mila Black, Raphael Dincsoy, Source Code, 2ND FLOOR NKR | Mila Black, Raphael Dincsoy, Source Code, Ueberrest |
 | Sat, 22 Aug 2026 | Different Spaces in Concert with The Tunegirl, Tauceti, VSK, Maasym, Ivan Emanuel, Sweeko | Maasym, Sweeko, Tauceti (FR), VSK |
@@ -19,4 +18,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

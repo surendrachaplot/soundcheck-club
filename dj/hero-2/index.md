@@ -1,18 +1,21 @@
 # HERO (JPN)
 
-HERO (JPN) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
+HERO (JPN) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at VENT, Tokyo on Sat, 15 Aug 2026.
 
-HERO (JPN) is a techno and tech house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ANDY DEDE, BANANA-CHAN and EIGHT. Next up: WOMB, Tokyo on Sat 8 Aug.
+HERO (JPN) is a techno and tech house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ANDY DEDE, BANANA-CHAN and EIGHT. Next up: VENT, Tokyo on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | WOMB | Tokyo |
 | Sat, 15 Aug 2026 | VENT | Tokyo |
+
+## Recently played
+
+- WOMB, Tokyo — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 ANDY DEDE, BANANA-CHAN, EIGHT
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hero-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hero-2/)*

@@ -1,6 +1,6 @@
 # Medha
 
-Medha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OXI, Berlin on Tue, 18 Aug 2026.
+Medha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OXI, Berlin on Tue, 18 Aug 2026.
 
 Medha is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside n.akin, Ayumi (DE) and JANEIN. Next up: OXI, Berlin on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Medha is a techno and house artist tracked on soundcheck, with 29 sets logged ac
 
 n.akin, Ayumi (DE), JANEIN
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medha/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medha/)*

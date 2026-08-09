@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
+Julian Anthony is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
 
 Julian Anthony is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Voigtmann and Samuel Deep. Next up: Refuge, Newyorkcity on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ Julian Anthony is a house and tech house artist tracked on soundcheck, with 150 
 
 Laidlaw, Voigtmann, Samuel Deep
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

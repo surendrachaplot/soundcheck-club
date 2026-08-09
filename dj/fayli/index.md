@@ -1,6 +1,6 @@
 # Fayli
 
-Fayli is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at HWK, London on Sat, 12 Sept 2026.
+Fayli is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at HWK, London on Sat, 12 Sept 2026.
 
 Fayli is an afro house and afro tech artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Dj Clark Gabble, HÎMBA and Mixolis. Next up: HWK, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fayli is an afro house and afro tech artist tracked on soundcheck, with 10 sets 
 
 Dj Clark Gabble, HÎMBA, Mixolis
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fayli/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fayli/)*

@@ -1,6 +1,6 @@
 # Flex on Trax
 
-Flex on Trax is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
+Flex on Trax is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Humboldthain Club, Berlin on Sat, 15 Aug 2026.
 
 Flex on Trax is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Cologne. Often billed alongside Rosilicious, B!B! and DJ Jetset. Next up: Humboldthain Club, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Flex on Trax is a trance and techno artist based in Germany, tracked on soundche
 
 Rosilicious, B!B!, DJ Jetset
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*

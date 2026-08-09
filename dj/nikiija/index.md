@@ -1,6 +1,6 @@
 # Nikiija
 
-Nikiija is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Fundbureau, Hamburg on Sat, 29 Aug 2026.
+Nikiija is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fundbureau, Hamburg on Sat, 29 Aug 2026.
 
 Nikiija is a techno and house artist tracked on soundcheck, with 47 sets logged across Hamburg and Prague. Often billed alongside NO.MADS, Hammerschmidt and Phil Errotari. Next up: Fundbureau, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Nikiija is a techno and house artist tracked on soundcheck, with 47 sets logged 
 
 NO.MADS, Hammerschmidt, Phil Errotari
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*

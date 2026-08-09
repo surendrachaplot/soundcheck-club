@@ -1,14 +1,13 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Olive F is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 27 Aug 2026.
 
-Olive F is a house and tech house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: UNO MALTA, Malta on Sat 8 Aug.
+Olive F is a house and tech house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Amnesia Ibiza, Ibiza on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | UNO MALTA | Malta |
 | Thu, 27 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Sat, 5 Sept 2026 | [UNVRS] | Ibiza |
@@ -18,6 +17,7 @@ Olive F is a house and tech house artist tracked on soundcheck, with 124 sets lo
 
 ## Recently played
 
+- UNO MALTA, Malta — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 5 Aug 2026
 - Cova Santa, Ibiza — Tue, 28 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
@@ -25,10 +25,9 @@ Olive F is a house and tech house artist tracked on soundcheck, with 124 sets lo
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - [UNVRS], Ibiza — Wed, 10 Jun 2026
 - Document, Bristol — Sat, 30 May 2026
-- Ministry Of Sound, London — Sun, 24 May 2026
 
 ## Shares bills with
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

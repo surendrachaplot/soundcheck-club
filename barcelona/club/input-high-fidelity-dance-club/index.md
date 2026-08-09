@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Saturday - INPUT High Fidelity Club - Afterparty Brunch Electronik Festival w/ Anfisa Letyago" on Sat, 8 Aug 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SUMMER INDOOR RAVE with Don Woezik & Per Pleks" on Thu, 13 Aug 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including 753, Abstract Division, Adiel and Ana Alves and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including 753, Adiel, Ana Alves and ART NO LOGIA and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Saturday - INPUT High Fidelity Club - Afterparty Brunch Electronik Festival w/ Anfisa Letyago | ANDRØMEDA, Abstract Division, Anfisa Letyago |
 | Thu, 13 Aug 2026 | SUMMER INDOOR RAVE with Don Woezik & Per Pleks | Don Woezik, Per Pleks |
 | Fri, 14 Aug 2026 | SWING pres davyboi & CARA ELIZABETH | CRONEKIA, Cara Elizabeth, davyboi |
 | Sat, 15 Aug 2026 | PRISM pres Zisko & Mac Declos | Flug, Mac Declos, Zisko |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Thu, 27 Aug 2026 | PRISM Hard pres In Verruf | 753, In Verruf |
 | Fri, 28 Aug 2026 | INPUT pres Ely Oaks | Ely Oaks |
 | Sat, 29 Aug 2026 | PRISM Hard pres CLARA CUVE | Clara Cuvé, moUnique |
+| Fri, 4 Sept 2026 | PRISM pres D. DAN | Ana Alves, D.Dan |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

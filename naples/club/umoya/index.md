@@ -1,6 +1,6 @@
 # Umoya
 
-Umoya is a music venue in Naples with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "OWN with Sasha Carassi + Argia + Hoodia" on Sun, 13 Sept 2026.
+Umoya is a music venue in Naples with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "OWN with Sasha Carassi + Argia + Hoodia" on Sun, 13 Sept 2026.
 
 Umoya is a music venue in Naples listed on soundcheck. 2 upcoming nights, with line-ups including Argia, Giuseppe Fava, Hoodia and KARLOVE and 2 more. Browse upcoming dates, start times and who's playing. Castel Volturno CE 81030 Via Mezzagni.
 
@@ -15,4 +15,4 @@ Umoya is a music venue in Naples listed on soundcheck. 2 upcoming nights, with l
 
 Castel Volturno CE 81030 Via Mezzagni, Naples
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/umoya/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/umoya/)*

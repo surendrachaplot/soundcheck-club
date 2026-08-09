@@ -1,6 +1,6 @@
 # Otherworld
 
-Otherworld is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Simmer" on Fri, 14 Aug 2026.
+Otherworld is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Simmer" on Fri, 14 Aug 2026.
 
 Otherworld is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including alexia.f. Browse upcoming dates, start times and who's playing. 1406 E Pike St, Seattle, WA 98122.
 
@@ -14,4 +14,4 @@ Otherworld is a music venue in Seattle listed on soundcheck. 1 upcoming night, w
 
 1406 E Pike St, Seattle, WA 98122, Seattle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/otherworld/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/otherworld/)*

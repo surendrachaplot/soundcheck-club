@@ -1,6 +1,6 @@
 # XRTN
 
-XRTN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at BASIS, Utrecht on Sat, 22 Aug 2026.
+XRTN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at BASIS, Utrecht on Sat, 22 Aug 2026.
 
 XRTN is a techno and industrial artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Aphøtic, KARAH and DIØN. Next up: BASIS, Utrecht on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ XRTN is a techno and industrial artist tracked on soundcheck, with 65 sets logge
 
 Aphøtic, KARAH, DIØN
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xrtn/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xrtn/)*

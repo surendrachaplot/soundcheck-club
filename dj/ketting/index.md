@@ -1,6 +1,6 @@
 # KETTING
 
-KETTING is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Flinders, Sydney on Sat, 15 Aug 2026.
+KETTING is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Flinders, Sydney on Sat, 15 Aug 2026.
 
 KETTING is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside KARAH, Cynthia Spiering and Alignment. Next up: The Flinders, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KETTING is a techno and industrial artist based in Netherlands, tracked on sound
 
 KARAH, Cynthia Spiering, Alignment
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketting/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketting/)*

@@ -1,6 +1,6 @@
 # Akira (Buntai)
 
-Akira (Buntai) is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Akira (Buntai) is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 Akira (Buntai) is a garage and jungle artist tracked on soundcheck, with 30 sets logged across Bangkok, Brighton, Bristol and Cardiff and 2 more. Often billed alongside Modula (UK), OS:MAN and CITIZEN. Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Akira (Buntai) is a garage and jungle artist tracked on soundcheck, with 30 sets
 
 Modula (UK), OS:MAN, CITIZEN
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akirabuntai/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akirabuntai/)*

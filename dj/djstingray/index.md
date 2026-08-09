@@ -1,14 +1,13 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
+DJ Stingray 313 is a Techno and Electro artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Razzmatazz, Barcelona on Sat 8 Aug.
+DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Razzmatazz | Barcelona |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
 | Thu, 20 Aug 2026 | TRANSMISSION DC | Washington DC |
@@ -21,6 +20,7 @@ DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 s
 
 ## Recently played
 
+- Razzmatazz, Barcelona — Sat, 8 Aug 2026
 - RADION, Amsterdam — Fri, 31 Jul 2026
 - RASA, Singapore — Sat, 11 Jul 2026
 - MIDNIGHT EAST, Tokyo — Fri, 10 Jul 2026
@@ -28,10 +28,9 @@ DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 s
 - Village Underground Barcelona, Barcelona — Fri, 19 Jun 2026
 - Sophie Festival, Malaga — Sat, 13 Jun 2026
 - The Ulster Sports Club, Belfast — Fri, 12 Jun 2026
-- The Cause, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 DJ MELL G, Helena Hauff, Akua
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*

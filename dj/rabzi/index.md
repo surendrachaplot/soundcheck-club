@@ -1,6 +1,6 @@
 # Rabzi
 
-Rabzi is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
+Rabzi is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
 
 Rabzi is a house and trance artist tracked on soundcheck, with 52 sets logged across Istanbul, London and Toronto. Often billed alongside 99hp, Ficilio and Milch (1). Next up: The Bentway, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rabzi is a house and trance artist tracked on soundcheck, with 52 sets logged ac
 
 99hp, Ficilio, Milch (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*

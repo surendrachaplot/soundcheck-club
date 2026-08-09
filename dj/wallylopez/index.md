@@ -1,6 +1,6 @@
 # Wally Lopez
 
-Wally Lopez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Chinois Ibiza, Ibiza on Mon, 24 Aug 2026.
+Wally Lopez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Chinois Ibiza, Ibiza on Mon, 24 Aug 2026.
 
 Wally Lopez is a house and tech house artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Barcelona and Houston and 8 more. Often billed alongside NODUS, Oscar Colorado and AN5 (SP). Next up: Chinois Ibiza, Ibiza on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Wally Lopez is a house and tech house artist based in Spain, tracked on soundche
 
 NODUS, Oscar Colorado, AN5 (SP)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*

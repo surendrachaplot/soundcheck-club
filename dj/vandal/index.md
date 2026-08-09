@@ -1,6 +1,6 @@
 # Vandal
 
-Vandal is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Vandal is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Vandal is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Mandidextrous, billx and Russian Village Boys. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Vandal is a techno and jungle artist based in United Kingdom, tracked on soundch
 
 Mandidextrous, billx, Russian Village Boys
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandal/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandal/)*

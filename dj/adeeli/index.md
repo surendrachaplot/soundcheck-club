@@ -1,6 +1,6 @@
 # adeeli
 
-adeeli is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Vraba Terrace, Barcelona on Sun, 9 Aug 2026.
+adeeli is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vraba Terrace, Barcelona on Sun, 9 Aug 2026.
 
 adeeli is a tech house artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside MARTISTA. Next up: Vraba Terrace, Barcelona on Sun 9 Aug.
 
@@ -18,4 +18,4 @@ adeeli is a tech house artist tracked on soundcheck, with 2 sets logged across B
 
 MARTISTA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adeeli/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adeeli/)*

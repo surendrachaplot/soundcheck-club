@@ -1,6 +1,6 @@
 # Jack Popper
 
-Jack Popper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Runner Up Rooftop Bar, Melbourne on Sun, 23 Aug 2026.
+Jack Popper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Runner Up Rooftop Bar, Melbourne on Sun, 23 Aug 2026.
 
 Jack Popper is a house and disco artist based in Australia, tracked on soundcheck, with 34 sets logged across Brisbane and Melbourne. Often billed alongside Colette, Gay Roberto and Joe Miller. Next up: Runner Up Rooftop Bar, Melbourne on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Jack Popper is a house and disco artist based in Australia, tracked on soundchec
 
 Colette, Gay Roberto, Joe Miller
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackpopper/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackpopper/)*

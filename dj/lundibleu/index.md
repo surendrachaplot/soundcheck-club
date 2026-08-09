@@ -1,6 +1,6 @@
 # Lundi bleu
 
-Lundi bleu is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Crown, New York City on Fri, 14 Aug 2026.
+Lundi bleu is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Crown, New York City on Fri, 14 Aug 2026.
 
 Lundi bleu is an electro and house artist tracked on soundcheck, with 28 sets logged across Losangeles, Newyorkcity and Paris. Often billed alongside Camila Wolf, Anna Eberg and Bob Sinclar. Next up: The Crown, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Lundi bleu is an electro and house artist tracked on soundcheck, with 28 sets lo
 
 Camila Wolf, Anna Eberg, Bob Sinclar
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lundibleu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lundibleu/)*

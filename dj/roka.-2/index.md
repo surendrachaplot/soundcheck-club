@@ -1,6 +1,6 @@
 # Roka
 
-Roka is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Roka is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
 Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 17 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Roka is a tech house and house artist based in Australia, tracked on soundcheck,
 
 Séarlait, Char(k), DJ Possum
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

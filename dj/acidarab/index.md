@@ -1,6 +1,6 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Praia Irmão, Lisbon on Sat, 15 Aug 2026.
+Acid Arab is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Praia Irmão, Lisbon on Sat, 15 Aug 2026.
 
 Acid Arab is an electro and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Praia Irmão, Lisbon on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Acid Arab is an electro and techno artist tracked on soundcheck, with 92 sets lo
 
 NTO, Goom Gum, Hannes Bieger
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

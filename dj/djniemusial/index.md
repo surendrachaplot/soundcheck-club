@@ -1,6 +1,6 @@
 # DJNIEMUSIAŁ
 
-DJNIEMUSIAŁ is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
+DJNIEMUSIAŁ is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 15 Aug 2026.
 
 DJNIEMUSIAŁ is a techno and bass artist based in Poland, tracked on soundcheck, with 34 sets logged across Krakow and Warsaw. Often billed alongside dj.zamocno, Abrew and TYMEGG. Next up: K-Bar Powiśle, Warsaw on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJNIEMUSIAŁ is a techno and bass artist based in Poland, tracked on soundcheck,
 
 dj.zamocno, Abrew, TYMEGG
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djniemusial/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djniemusial/)*

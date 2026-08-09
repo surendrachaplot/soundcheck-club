@@ -1,6 +1,6 @@
 # STAGEFRIGHT
 
-STAGEFRIGHT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
+STAGEFRIGHT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
 
 STAGEFRIGHT is a techno and trance artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne. Often billed alongside MITSONA, 925 (AU) and AK-97. Next up: Collingwood Basement, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ STAGEFRIGHT is a techno and trance artist based in Australia, tracked on soundch
 
 MITSONA, 925 (AU), AK-97
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stagefright/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stagefright/)*

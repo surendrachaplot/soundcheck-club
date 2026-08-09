@@ -1,6 +1,6 @@
 # Acronym
 
-Acronym is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Sept 2026.
+Acronym is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Sept 2026.
 
 Acronym is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, London and Stockholm. Often billed alongside Basement Space, Jessie Granqvist and towLie. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Acronym is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 Basement Space, Jessie Granqvist, towLie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acronym/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acronym/)*

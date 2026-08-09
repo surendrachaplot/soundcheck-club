@@ -1,6 +1,6 @@
 # Celebrity Bitcrush
 
-Celebrity Bitcrush is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Sultan Room, New York City on Mon, 17 Aug 2026.
+Celebrity Bitcrush is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Sultan Room, New York City on Mon, 17 Aug 2026.
 
 Celebrity Bitcrush is a bass and breakbeat artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity and Philadelphia. Often billed alongside KANZE, DBL_BBL and Taboh. Next up: The Sultan Room, Newyorkcity on Mon 17 Aug.
 
@@ -25,4 +25,4 @@ Celebrity Bitcrush is a bass and breakbeat artist based in United States of Amer
 
 KANZE, DBL_BBL, Taboh
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celebritybitcrush/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celebritybitcrush/)*

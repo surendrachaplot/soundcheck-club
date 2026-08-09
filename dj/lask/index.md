@@ -1,6 +1,6 @@
 # Lask
 
-Lask is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Lask is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
 
 Lask is a techno and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside Balthazar Martinez, Her Waveform and Reka Zalan. Next up: Hoppetosse, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lask is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 Balthazar Martinez, Her Waveform, Reka Zalan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*

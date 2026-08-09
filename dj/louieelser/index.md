@@ -1,6 +1,6 @@
 # Louie El Ser
 
-Louie El Ser is a Club and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at CHICO, Mexico City on Fri, 28 Aug 2026.
+Louie El Ser is a Club and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at CHICO, Mexico City on Fri, 28 Aug 2026.
 
 Louie El Ser is a club and neo perreo artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles, Mexicocity, Portland and Sanfrancisco. Often billed alongside Profesito, Discnogirl and Oscat (2). Next up: CHICO, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Louie El Ser is a club and neo perreo artist based in United States of America, 
 
 Profesito, Discnogirl, Oscat (2)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louieelser/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louieelser/)*

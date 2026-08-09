@@ -1,14 +1,13 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Otha" on Sat, 8 Aug 2026.
+Village Studios is a music venue in Vancouver with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Takuya Nakamura" on Sat, 5 Sept 2026.
 
-Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming nights, with line-ups including ATRIP, camoufly, Dean Turnley and Denham Audio and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
+Village Studios is a music venue in Vancouver listed on soundcheck. 7 upcoming nights, with line-ups including ATRIP, camoufly, Dean Turnley and Denham Audio and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Otha |  |
 | Sat, 5 Sept 2026 | Takuya Nakamura | Takuya Nakamura |
 | Fri, 11 Sept 2026 | ATRIP & DJ BORING: Can You Keep Up (Vancouver) | ATRIP, DJ BORING |
 | Sat, 19 Sept 2026 | Julian Fijma | Julian Fijma |
@@ -21,4 +20,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming n
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

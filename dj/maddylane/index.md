@@ -1,6 +1,6 @@
 # Maddylane
 
-Maddylane is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Le Bain, New York City on Fri, 14 Aug 2026.
+Maddylane is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Le Bain, New York City on Fri, 14 Aug 2026.
 
 Maddylane is a house and club artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside AJACENT, Izzy Holmes and NATALIA.. Next up: Le Bain, Newyorkcity on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Maddylane is a house and club artist based in United States of America, tracked 
 
 AJACENT, Izzy Holmes, NATALIA.
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddylane/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddylane/)*

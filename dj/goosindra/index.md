@@ -1,6 +1,6 @@
 # GOOSINDRA
 
-GOOSINDRA is a Deep House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+GOOSINDRA is a Deep House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 GOOSINDRA is a deep house and drum & bass artist based in Kyrgyzstan, tracked on soundcheck, with 12 sets logged across Berlin, Hamburg and Prague. Often billed alongside missteikk, AAMIROO and Moji Taali. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ GOOSINDRA is a deep house and drum & bass artist based in Kyrgyzstan, tracked on
 
 missteikk, AAMIROO, Moji Taali
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goosindra/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goosindra/)*

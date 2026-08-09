@@ -1,6 +1,6 @@
 # Ritmo at Brouwerij Troost Westergas
 
-Ritmo at Brouwerij Troost Westergas on Sat 15 Aug, Amsterdam. 2 acts on the bill: Sad Boy Solutions and Taco. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Ritmo at Brouwerij Troost Westergas on Sat 15 Aug, Amsterdam. 2 acts on the bill: Sad Boy Solutions and Taco. Balearic and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Czech Boat
 
-Czech Boat is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HulaHoop Boat Party (Daytime)" on Sat, 8 Aug 2026.
+Czech Boat is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Mikro Boat 2026 ≋" on Sat, 22 Aug 2026.
 
-Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Adam Cloud, agap, Big Lil and C-Motion and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem).
+Czech Boat is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including Adam Cloud, Coco, Danilo Kupfernagel and Indigo (CR) and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | HulaHoop Boat Party (Daytime) | Big Lil, C-Motion, agap, tg_paul |
 | Sat, 22 Aug 2026 | Mikro Boat 2026 ≋ | Coco, Lucas Hulan, Schneider Lounge, Stessie Tfgn |
 | Sat, 12 Sept 2026 | Mikro Boat 2026 ≋ | Schneider Lounge |
 | Sat, 19 Sept 2026 | MC × Bondage Music ◑ Boat Party & Afterparty with Mihai Popoviciu | Adam Cloud, Danilo Kupfernagel, Indigo (CR), LEENI, Mihai Popoviciu, Pornbugs |
@@ -17,4 +16,4 @@ Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, w
 
 Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem), Prague
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/czech-boat/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/czech-boat/)*

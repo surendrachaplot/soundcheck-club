@@ -1,6 +1,6 @@
 # D.GTLE
 
-D.GTLE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Hamburg on Sat, 5 Sept 2026.
+D.GTLE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Hamburg on Sat, 5 Sept 2026.
 
 D.GTLE is a techno and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg. Often billed alongside Unromantic and Frank Leder. Next up: TBA, Hamburg on Sat 5 Sept.
 
@@ -15,4 +15,4 @@ D.GTLE is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Unromantic, Frank Leder
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dgtle-de/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dgtle-de/)*

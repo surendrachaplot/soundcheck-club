@@ -1,6 +1,6 @@
 # CONFLICT BUREAU
 
-CONFLICT BUREAU is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, San Diego on Sat, 15 Aug 2026.
+CONFLICT BUREAU is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, San Diego on Sat, 15 Aug 2026.
 
 CONFLICT BUREAU is a house and acid artist based in United States of America, tracked on soundcheck, with 14 sets logged across Chicago, Detroit, Newyorkcity and Sandiego. Often billed alongside Eric Schwab, Max Daley and Atrevido. Next up: TBA, Sandiego on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ CONFLICT BUREAU is a house and acid artist based in United States of America, tr
 
 Eric Schwab, Max Daley, Atrevido
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*

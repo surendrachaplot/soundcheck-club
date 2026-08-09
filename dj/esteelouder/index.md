@@ -1,6 +1,6 @@
 # Estée Louder
 
-Estée Louder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
+Estée Louder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
 
 Estée Louder is a techno and house artist tracked on soundcheck, with 53 sets logged across Athens, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside Kato, Jo Christy and Overexpired. Next up: Metropol, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Estée Louder is a techno and house artist tracked on soundcheck, with 53 sets l
 
 Kato, Jo Christy, Overexpired
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esteelouder/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esteelouder/)*

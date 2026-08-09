@@ -1,6 +1,6 @@
 # Marco Maldarella
 
-Marco Maldarella is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
+Marco Maldarella is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
 
 Marco Maldarella is a techno and bass artist tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Berlin and Budapest and 10 more. Often billed alongside Woody92, Abo Abo and BLUME. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Marco Maldarella is a techno and bass artist tracked on soundcheck, with 32 sets
 
 Woody92, Abo Abo, BLUME
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcomaldarella/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcomaldarella/)*

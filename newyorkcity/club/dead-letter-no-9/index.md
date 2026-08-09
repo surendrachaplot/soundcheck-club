@@ -1,14 +1,13 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Disgonuts, Omer Mil, Armii1n, Michael Magnan, Borbón - Dead Letter No.9" on Sat, 8 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Timo Lee, Armii1n - Dead Letter No.9" on Thu, 13 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Alcantara, Ali Coleman, Amber Valentine and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Disgonuts, Omer Mil, Armii1n, Michael Magnan, Borbón - Dead Letter No.9 | Armii1n, Borbón, Disgonuts, Michael Magnan, Omer Mil |
 | Thu, 13 Aug 2026 | Timo Lee, Armii1n - Dead Letter No.9 | Armii1n, Timo Lee |
 | Fri, 14 Aug 2026 | Non-Friction Records presents: Lubelski, Matt FX, Your Mom b2b Sylvan Paul, America Rose + more | Leg Room, Lubelski, Matt FX, Tim Lucent, Vibeiana |
 | Sat, 15 Aug 2026 | Peter Napoli, Rush Davis, David Ohana Aviance, Daniro - Dead Letter No.9 | Daniro, David Ohana Aviance, Peter Napoli, Rush Davis |
@@ -23,4 +22,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcom
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

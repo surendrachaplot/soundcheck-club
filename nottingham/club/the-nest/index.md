@@ -1,6 +1,6 @@
 # The Nest
 
-The Nest is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "bullet tooth B2B Laidlaw - Groovebox at The Nest" on Sun, 30 Aug 2026.
+The Nest is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "bullet tooth B2B Laidlaw - Groovebox at The Nest" on Sun, 30 Aug 2026.
 
 The Nest is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including Boss Priester, bullet tooth, Laidlaw and Micah Baxter. Browse upcoming dates, start times and who's playing. The Nest,  Iremonger Rd,  Nottingham  NG2 3HU.
 
@@ -14,4 +14,4 @@ The Nest is a music venue in Nottingham listed on soundcheck. 1 upcoming night, 
 
 The Nest,  Iremonger Rd,  Nottingham  NG2 3HU, Nottingham
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-nest/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-nest/)*

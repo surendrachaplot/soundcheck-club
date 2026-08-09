@@ -1,6 +1,6 @@
 # Belkan
 
-Belkan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sala Siroco, Madrid on Sat, 29 Aug 2026.
+Belkan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sala Siroco, Madrid on Sat, 29 Aug 2026.
 
 Belkan is a techno and electro artist based in Spain, tracked on soundcheck, with 19 sets logged across Madrid. Often billed alongside Dyans, Vandiaz and Djen. Next up: Sala Siroco, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Belkan is a techno and electro artist based in Spain, tracked on soundcheck, wit
 
 Dyans, Vandiaz, Djen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belkan/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belkan/)*

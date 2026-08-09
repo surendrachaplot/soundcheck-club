@@ -1,6 +1,6 @@
 # canary yellow
 
-canary yellow is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+canary yellow is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 canary yellow is a garage and house artist tracked on soundcheck, with 19 sets logged across Chicago, Denver, Losangeles and Mexicocity and 2 more. Often billed alongside Clearcast, RamonPang and Hannah Laing. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ canary yellow is a garage and house artist tracked on soundcheck, with 19 sets l
 
 Clearcast, RamonPang, Hannah Laing
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*

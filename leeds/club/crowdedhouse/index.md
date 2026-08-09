@@ -1,6 +1,6 @@
 # Crowdedhouse
 
-Crowdedhouse is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "LIT Ibiza Takeover Summer Closing Party" on Sun, 30 Aug 2026.
+Crowdedhouse is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "LIT Ibiza Takeover Summer Closing Party" on Sun, 30 Aug 2026.
 
 Crowdedhouse is a music venue in Leeds listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Level 5 & 6, Trinity Centre, 70 Boar Ln, Leeds LS1 6HW.
 
@@ -14,4 +14,4 @@ Crowdedhouse is a music venue in Leeds listed on soundcheck. 1 upcoming night. B
 
 Level 5 & 6, Trinity Centre, 70 Boar Ln, Leeds LS1 6HW, Leeds
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/crowdedhouse/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/crowdedhouse/)*

@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
+1morning is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cherry Beach, Toronto on Sun, 9 Aug 2026.
 
 1morning is a techno and club artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Cherry Beach, Toronto on Sun 9 Aug.
 
@@ -33,4 +33,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

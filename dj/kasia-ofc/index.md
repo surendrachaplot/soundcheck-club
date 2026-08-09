@@ -1,6 +1,6 @@
 # Kasia (OFC)
 
-Kasia (OFC) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 12 Aug 2026.
+Kasia (OFC) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 Kasia (OFC) is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: Amnesia Ibiza, Ibiza on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Kasia (OFC) is a techno and house artist tracked on soundcheck, with 76 sets log
 
 Adam Beyer, Kevin de Vries, Chris Avantgarde
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*

@@ -1,6 +1,6 @@
 # Antenne
 
-Antenne is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Montreal on Sat, 22 Aug 2026.
+Antenne is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Montreal on Sat, 22 Aug 2026.
 
 Antenne is a minimal and techno artist tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside euphorism and Thomas Desrosiers. Next up: TBA, Montreal on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Antenne is a minimal and techno artist tracked on soundcheck, with 4 sets logged
 
 euphorism, Thomas Desrosiers
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antenne/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antenne/)*

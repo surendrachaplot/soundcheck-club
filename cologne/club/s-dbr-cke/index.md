@@ -1,6 +1,6 @@
 # Südbrücke
 
-Südbrücke is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Desire Openair with Stef de Haan, EMILIJA, Janis Zielinski, a.m" on Sat, 15 Aug 2026.
+Südbrücke is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Desire Openair with Stef de Haan, EMILIJA, Janis Zielinski, a.m" on Sat, 15 Aug 2026.
 
 Südbrücke is a music venue in Cologne listed on soundcheck. 4 upcoming nights, with line-ups including Annemalie, Cera Khin, Chris Di Perri and Christian Löffler and 2 more. Browse upcoming dates, start times and who's playing. Alfred-Schütte-Allee 34, 51105 Köln.
 
@@ -17,4 +17,4 @@ Südbrücke is a music venue in Cologne listed on soundcheck. 4 upcoming nights,
 
 Alfred-Schütte-Allee 34, 51105 Köln, Cologne
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke/)*

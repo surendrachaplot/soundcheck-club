@@ -1,14 +1,13 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Events471 PRESENTS: Direct Input Vol 6: Sisters, Luno, Plus More TBA" on Sat, 8 Aug 2026.
+Quarry is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "its PLAYTIME" on Sat, 15 Aug 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including Crimewave, Karman and Those Holy (2). Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Crimewave, Karman and Those Holy (2). Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Events471 PRESENTS: Direct Input Vol 6: Sisters, Luno, Plus More TBA |  |
 | Sat, 15 Aug 2026 | its PLAYTIME |  |
 | Thu, 27 Aug 2026 | THOSE HOLY: Cold Celtic Electronics Release Show | Crimewave, Karman, Those Holy (2) |
 | Thu, 10 Sept 2026 | Sword II at Quarry |  |
@@ -20,4 +19,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, wi
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

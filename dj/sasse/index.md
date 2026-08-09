@@ -1,6 +1,6 @@
 # Sasse
 
-Sasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+Sasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 Sasse is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside Alexander Maier, Filippo Moscatello and Freestyle Man. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sasse is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 Alexander Maier, Filippo Moscatello, Freestyle Man
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasse/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasse/)*

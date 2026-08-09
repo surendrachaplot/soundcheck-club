@@ -1,6 +1,6 @@
 # LÄUFF
 
-LÄUFF is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+LÄUFF is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
 LÄUFF is a techno and trance artist based in France, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Lyon and Marseille and 1 more. Often billed alongside ASCHENBRENNER, Apocalypse Nao and Atzendent. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LÄUFF is a techno and trance artist based in France, tracked on soundcheck, wit
 
 ASCHENBRENNER, Apocalypse Nao, Atzendent
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauff/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauff/)*

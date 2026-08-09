@@ -1,6 +1,6 @@
 # Divine
 
-Divine is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Amsterdam on Fri, 28 Aug 2026.
+Divine is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Amsterdam on Fri, 28 Aug 2026.
 
 Divine is a house and acid artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Melbourne, Rotterdam and Thehague. Often billed alongside Alexander Koning, ROOG and Dimitri (1). Next up: TBA, Amsterdam on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Divine is a house and acid artist based in Netherlands, tracked on soundcheck, w
 
 Alexander Koning, ROOG, Dimitri (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divine/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divine/)*

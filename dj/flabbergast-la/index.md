@@ -1,6 +1,6 @@
 # Flabbergast (LA)
 
-Flabbergast (LA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
+Flabbergast (LA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
 
 Flabbergast (LA) is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Losangeles and Newyorkcity. Often billed alongside Naté, BUCK/OFF and Heidi Lawden. Next up: TBA, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Flabbergast (LA) is a house and techno artist based in United States of America,
 
 Naté, BUCK/OFF, Heidi Lawden
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*

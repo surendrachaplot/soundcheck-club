@@ -1,6 +1,6 @@
 # DJ Vega
 
-DJ Vega is a Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at SOBs, New York City on Thu, 20 Aug 2026.
+DJ Vega is a Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at SOBs, New York City on Thu, 20 Aug 2026.
 
 DJ Vega is a hip-hop artist based in Egypt, tracked on soundcheck, with 4 sets logged across Brussels, Ghent and Newyorkcity. Next up: SOBs, Newyorkcity on Thu 20 Aug.
 
@@ -16,4 +16,4 @@ DJ Vega is a hip-hop artist based in Egypt, tracked on soundcheck, with 4 sets l
 - TBA - Keizerpark, Ghent — Thu, 14 May 2026
 - Beursschouwburg, Brussels — Sat, 11 Apr 2026
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvega/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvega/)*

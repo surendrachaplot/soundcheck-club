@@ -1,6 +1,6 @@
 # Om Dream
 
-Om Dream is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Om Being, London on Fri, 28 Aug 2026.
+Om Dream is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Om Being, London on Fri, 28 Aug 2026.
 
 Om Dream is a techno and dub artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside DJ Programma, MSG (uk) and Oaky Doke. Next up: Om Being, London on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Om Dream is a techno and dub artist based in United Kingdom, tracked on soundche
 
 DJ Programma, MSG (uk), Oaky Doke
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omdream/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omdream/)*

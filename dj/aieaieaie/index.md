@@ -1,6 +1,6 @@
 # AIEAIEAIE
 
-AIEAIEAIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Gravière, Geneva on Fri, 14 Aug 2026.
+AIEAIEAIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Gravière, Geneva on Fri, 14 Aug 2026.
 
 AIEAIEAIE is a techno and trance artist based in Switzerland, tracked on soundcheck, with 1 set logged across Geneva. Often billed alongside Djamzer, Ecar and Rebelo. Next up: La Gravière, Geneva on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ AIEAIEAIE is a techno and trance artist based in Switzerland, tracked on soundch
 
 Djamzer, Ecar, Rebelo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*

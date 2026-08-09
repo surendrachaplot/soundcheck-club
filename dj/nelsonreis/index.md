@@ -1,6 +1,6 @@
 # Nelson Reis
 
-Nelson Reis is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Various Venues Ibiza, Ibiza on Mon, 10 Aug 2026.
+Nelson Reis is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Various Venues Ibiza, Ibiza on Mon, 10 Aug 2026.
 
 Nelson Reis is a tech house and house artist based in Portugal, tracked on soundcheck, with 29 sets logged across Brussels and Ibiza. Often billed alongside Em i6, Priestland (2) and Ivan Pica. Next up: TBA - Various Venues Ibiza, Ibiza on Mon 10 Aug.
 
@@ -29,4 +29,4 @@ Nelson Reis is a tech house and house artist based in Portugal, tracked on sound
 
 Em i6, Priestland (2), Ivan Pica
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nelsonreis/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nelsonreis/)*

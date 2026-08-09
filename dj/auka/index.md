@@ -1,6 +1,6 @@
 # AUKA
 
-AUKA is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jumbi, London on Sun, 9 Aug 2026.
+AUKA is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jumbi, London on Sun, 9 Aug 2026.
 
 AUKA is a reggaeton and dembow artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside DJ Programma, Izzi and limi. Next up: Jumbi, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ AUKA is a reggaeton and dembow artist based in United Kingdom, tracked on soundc
 
 DJ Programma, Izzi, limi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auka/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auka/)*

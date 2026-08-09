@@ -1,19 +1,19 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Seattle on Sat, 8 Aug 2026.
+Nanoos is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 79 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: TBA, Seattle on Sat 8 Aug.
+Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 79 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA | Seattle |
 | Fri, 21 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 28 Aug 2026 | Vera Cocina & بار | Washington DC |
 
 ## Recently played
 
+- TBA, Seattle — Sat, 8 Aug 2026
 - Podlasie Club, Chicago — Fri, 7 Aug 2026
 - OXI, Berlin — Sun, 26 Jul 2026
 - Badehaus Berlin, Berlin — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Nanoos is a club and ghetto tech artist based in United States of America, track
 - Sneaky Pete's, Edinburgh — Thu, 23 Jul 2026
 - Soup, Manchester — Fri, 17 Jul 2026
 - La Gravière, Geneva — Sat, 11 Jul 2026
-- Point Ephémère, Paris — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Dj Nico, Nadim Maghzal, Cquestt
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

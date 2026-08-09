@@ -1,6 +1,6 @@
 # Coffeeboy Records + Cafe
 
-Coffeeboy Records + Cafe is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "EDEN & FRIENDS COMMUNITY RADIO LIVE" on Sat, 29 Aug 2026.
+Coffeeboy Records + Cafe is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "EDEN & FRIENDS COMMUNITY RADIO LIVE" on Sat, 29 Aug 2026.
 
 Coffeeboy Records + Cafe is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including Boydell. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Coffeeboy Records + Cafe is a music venue in Kualalumpur listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | EDEN & FRIENDS COMMUNITY RADIO LIVE | Boydell |
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/coffeeboy-records-cafe/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/coffeeboy-records-cafe/)*

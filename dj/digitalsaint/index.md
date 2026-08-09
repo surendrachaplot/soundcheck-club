@@ -1,6 +1,6 @@
 # DIGITALSAINT
 
-DIGITALSAINT is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Haggerston, London on Sat, 5 Sept 2026.
+DIGITALSAINT is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Haggerston, London on Sat, 5 Sept 2026.
 
 DIGITALSAINT is a club and disco artist based in Ireland, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Blue Ringed Baby, fAt-lÏP and midnightswami. Next up: The Haggerston, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DIGITALSAINT is a club and disco artist based in Ireland, tracked on soundcheck,
 
 Blue Ringed Baby, fAt-lÏP, midnightswami
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalsaint/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalsaint/)*

@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 16 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Tengu presents: Efa O'Neill All Night Long" on Sat, 8 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 15 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Equinox presents: Pancratio" on Fri, 14 Aug 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming nights, with line-ups including A For Alpha, ANNĒ, Benson and Bull Horris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 15 upcoming nights, with line-ups including A For Alpha, ANNĒ, Benson and Bull Horris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Tengu presents: Efa O'Neill All Night Long | Efa O'Neill |
 | Fri, 14 Aug 2026 | Equinox presents: Pancratio | Pancratio, Síofra |
 | Sat, 15 Aug 2026 | Giovanni Grooves | DJ Get Luc(y) |
 | Fri, 21 Aug 2026 | Research x Hidden Love: ANNĒ | ANNĒ, Posterboy |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming nigh
 | Fri, 4 Sept 2026 | OMNI.DUB presents: The Ghost | The Ghost |
 | Sat, 5 Sept 2026 | Tengu presents: Sunil Sharpe All Night Long | Sunil Sharpe |
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show |  |
+| Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - Second Show |  |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

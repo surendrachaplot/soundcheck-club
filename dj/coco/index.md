@@ -1,6 +1,6 @@
 # Coco
 
-Coco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Czech Boat, Prague on Sat, 22 Aug 2026.
+Coco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Czech Boat, Prague on Sat, 22 Aug 2026.
 
 Coco is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Bali and Bangkok and 6 more. Often billed alongside Empro, Bee Lincoln and Stan Starry. Next up: Czech Boat, Prague on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Coco is a techno and house artist tracked on soundcheck, with 47 sets logged acr
 
 Empro, Bee Lincoln, Stan Starry
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coco/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coco/)*

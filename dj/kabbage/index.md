@@ -1,6 +1,6 @@
 # KABBAGE
 
-KABBAGE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
+KABBAGE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
 
 KABBAGE is a house and tech house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Colin Dale, Oscillate and Sixteensix. Next up: The Ministry, London on Sun 4 Oct.
 
@@ -18,4 +18,4 @@ KABBAGE is a house and tech house artist tracked on soundcheck, with 2 sets logg
 
 Colin Dale, Oscillate, Sixteensix
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabbage/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabbage/)*

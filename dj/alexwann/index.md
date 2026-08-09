@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
+Alex Wann is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
 
 Alex Wann is an afro house and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Notre Dame, Francis Mercier and ARODES. Next up: TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat 15 Aug.
 
@@ -31,4 +31,4 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 138 sets
 
 Notre Dame, Francis Mercier, ARODES
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

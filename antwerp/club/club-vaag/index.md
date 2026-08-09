@@ -1,14 +1,13 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 13 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Club Vaag invites DJ AYA & SIREN" on Sat, 8 Aug 2026.
+Club Vaag is a music venue in Antwerp with 12 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Club Vaag invites DT43 B2B VINO" on Fri, 14 Aug 2026.
 
-Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming nights, with line-ups including 6 SENSE, ANSWR, Benleh and DJ AYA and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
+Club Vaag is a music venue in Antwerp listed on soundcheck. 12 upcoming nights, with line-ups including 6 SENSE, ANSWR, Benleh and Faster Horses and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Club Vaag invites DJ AYA & SIREN | DJ AYA, Matthias Geerts |
 | Fri, 14 Aug 2026 | Club Vaag invites DT43 B2B VINO |  |
 | Sat, 15 Aug 2026 | Club Vaag invites TWOFACED & Inafekt | Inafekt, MOKER |
 | Fri, 21 Aug 2026 | Club Vaag invites AZDAT & BLNK |  |
@@ -18,9 +17,10 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming nights, 
 | Sat, 5 Sept 2026 | VAAG OUTDOOR AFTERPARTY | ANSWR |
 | Fri, 11 Sept 2026 | Club Vaag invites Mac Declos | Lorri Rose, Mac Declos |
 | Fri, 18 Sept 2026 | 11 Years Club Vaag with JOWI ALL NIGHT LONG (SOLD OUT) |  |
+| Fri, 2 Oct 2026 | Club Vaag invites Faster Horses, Milion & Unregular | Faster Horses, Milion, Unregular |
 
 ## Address
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

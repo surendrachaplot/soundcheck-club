@@ -1,6 +1,6 @@
 # Sam I Am
 
-Sam I Am is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Flinders, Sydney on Fri, 28 Aug 2026.
+Sam I Am is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Flinders, Sydney on Fri, 28 Aug 2026.
 
 Sam I Am is a techno and tech house artist based in Canada, tracked on soundcheck, with 14 sets logged across Sydney and Toronto. Often billed alongside Pandemonium, <777> and ARTISAH. Next up: The Flinders, Sydney on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Sam I Am is a techno and tech house artist based in Canada, tracked on soundchec
 
 Pandemonium, <777>, ARTISAH
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samiam/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samiam/)*

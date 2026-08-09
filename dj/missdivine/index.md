@@ -1,14 +1,13 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at [UNVRS], Ibiza on Sat, 8 Aug 2026.
+Sam Divine is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 3 Sept 2026.
 
-Sam Divine is a house and tech house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: [UNVRS], Ibiza on Sat 8 Aug.
+Sam Divine is a house and tech house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: Chinois Ibiza, Ibiza on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
@@ -20,6 +19,7 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 165 sets
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 23 Jul 2026
 - 77, London — Fri, 17 Jul 2026
 - La Terrrazza, Barcelona — Sat, 11 Jul 2026
@@ -27,10 +27,9 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 165 sets
 - Sublim, Malaga — Sun, 28 Jun 2026
 - Audio Club, Geneva — Fri, 26 Jun 2026
 - Hï Ibiza, Ibiza — Wed, 3 Jun 2026
-- Ministry Of Sound, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Low Steppa, Arielle Free, Rio Tashan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

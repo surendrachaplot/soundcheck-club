@@ -1,6 +1,6 @@
 # Baz and Nova
 
-Baz and Nova is a Balearic and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Robin Hood, Leeds on Sat, 22 Aug 2026.
+Baz and Nova is a Balearic and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Robin Hood, Leeds on Sat, 22 Aug 2026.
 
 Baz and Nova are a balearic and new wave duo based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds. Often billed alongside Andy Pye, Chris Massey and John Paynter. Next up: The Robin Hood, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Baz and Nova are a balearic and new wave duo based in United Kingdom, tracked on
 
 Andy Pye, Chris Massey, John Paynter
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bazandnova/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bazandnova/)*

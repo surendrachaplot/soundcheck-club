@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "5 GATE TEMPLE ~ CARNIVAL WEEKEND" on Fri, 28 Aug 2026.
+Club Cheek is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "5 GATE TEMPLE ~ CARNIVAL WEEKEND" on Fri, 28 Aug 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alicia (UK), Anahita Shamsaei, ANNX and Bianca Scout and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -22,4 +22,4 @@ Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, w
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

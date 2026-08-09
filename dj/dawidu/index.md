@@ -1,18 +1,18 @@
 # Dawidu
 
-Dawidu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Spook Club, Valencia on Sat, 8 Aug 2026.
+Dawidu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 4 Sept 2026.
 
-Dawidu is a house and techno artist based in France, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Maxime dB, Sibil (1) and Aline Umber. Next up: Spook Club, Valencia on Sat 8 Aug.
+Dawidu is a house and techno artist based in France, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Maxime dB, Sibil (1) and Aline Umber. Next up: 303 Audiophile Bar, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Spook Club | Valencia |
 | Fri, 4 Sept 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
 
+- Spook Club, Valencia — Sat, 8 Aug 2026
 - TBA - Paris, Paris — Fri, 1 May 2026
 - H0L0, New York City — Sat, 7 Feb 2026
 - Apollo Studio, New York City — Fri, 30 Jan 2026
@@ -20,10 +20,9 @@ Dawidu is a house and techno artist based in France, tracked on soundcheck, with
 - Haus73, Hamburg — Fri, 21 Nov 2025
 - Frankhan Selectist, Istanbul — Sat, 13 Sept 2025
 - Les Enfants Brillants, Barcelona — Fri, 4 Jul 2025
-- Outer Heaven, New York City — Sat, 21 Jun 2025
 
 ## Shares bills with
 
 Maxime dB, Sibil (1), Aline Umber
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*

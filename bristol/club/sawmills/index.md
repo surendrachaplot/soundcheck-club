@@ -1,14 +1,13 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Don't F**k with Disco - Bristol - Open Air Summer Party - NO HAT… NO ENTRY" on Sat, 8 Aug 2026.
+Sawmills is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is " Sawmills Open Air" on Sat, 5 Sept 2026.
 
-Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including A.M.C., AD (UK), Anton X and Atlas (2) and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
+Sawmills is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including A.M.C., AD (UK), Anton X and Atlas (2) and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Don't F**k with Disco - Bristol - Open Air Summer Party - NO HAT… NO ENTRY | Don't F**k with Disco |
 | Sat, 5 Sept 2026 |  Sawmills Open Air |  |
 | Sat, 12 Sept 2026 | Run All Day 2026 | A.M.C., AD (UK), Anton X, Atlas (2), Bou (UK), Bryan Gee, Carasel, Dazee, Deanie Rankin, Dillinja, Eksman, Fatman D, Harry Shotta, Jakes, Joker, KOAST, LOTU (UK), Maksim, Mefjus, Mensah, Moose, Phantom, Problem Central, Roni Size, SL8R, SMG (UK), Scuffed, Sukh Knight, TC, Turno |
 | Fri, 25 Sept 2026 | [IVY] presents XTASË - Bristol |  |
@@ -18,4 +17,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

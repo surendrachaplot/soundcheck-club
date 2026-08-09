@@ -1,6 +1,6 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Obskur is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Obskur is a house and tech house artist tracked on soundcheck, with 151 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -36,4 +36,4 @@ Obskur is a house and tech house artist tracked on soundcheck, with 151 sets log
 
 East End Dubs, Max Dean, ALISHA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

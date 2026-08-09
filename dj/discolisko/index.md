@@ -1,6 +1,6 @@
 # Discolisko
 
-Discolisko is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
+Discolisko is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
 
 Discolisko is a techno artist based in Finland, tracked on soundcheck, with 1 set logged across Tallinn. Often billed alongside ANNDRA, In Furcht and Jori Samarin. Next up: Hall, Tallinn on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ Discolisko is a techno artist based in Finland, tracked on soundcheck, with 1 se
 
 ANNDRA, In Furcht, Jori Samarin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discolisko/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discolisko/)*

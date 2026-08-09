@@ -1,6 +1,6 @@
 # Azul Rooftop Barceloneta
 
-Azul Rooftop Barceloneta is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Azul Sessions Rooftop 360° views over Barcelona" on Fri, 14 Aug 2026.
+Azul Rooftop Barceloneta is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Azul Sessions Rooftop 360° views over Barcelona" on Fri, 14 Aug 2026.
 
 Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including BRU ON and Kev Williams. Browse upcoming dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
 
@@ -14,4 +14,4 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 1 u
 
 Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona, Barcelona
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*

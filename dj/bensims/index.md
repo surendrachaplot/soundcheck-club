@@ -1,14 +1,13 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Ben Sims is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Thu, 13 Aug 2026 | Medusa Beach | Valencia |
 | Fri, 21 Aug 2026 | essaim | Paris |
@@ -22,6 +21,7 @@ Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logge
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - BRET, Amsterdam — Sun, 19 Jul 2026
 - The Bassement, Madrid — Sat, 18 Jul 2026
 - PIP Den Haag, The Hague — Sat, 4 Jul 2026
@@ -29,10 +29,9 @@ Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logge
 - Spook Club, Valencia — Tue, 23 Jun 2026
 - Razzmatazz, Barcelona — Sat, 20 Jun 2026
 - Fvtvr, Paris — Fri, 19 Jun 2026
-- BLITZ, Munich — Sat, 30 May 2026
 
 ## Shares bills with
 
 Oscar Mulero, Rødhåd, Blasha & Allatt
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

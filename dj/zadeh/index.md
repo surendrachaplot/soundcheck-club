@@ -1,6 +1,6 @@
 # Zadeh
 
-Zadeh is a Techno and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Zadeh is a Techno and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Zadeh is a techno and afrobeats artist tracked on soundcheck, with 4 sets logged across Newyorkcity, Paris and Tokyo. Often billed alongside Dauwd, Abajour and Amau. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Zadeh is a techno and afrobeats artist tracked on soundcheck, with 4 sets logged
 
 Dauwd, Abajour, Amau
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zadeh/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zadeh/)*

@@ -1,6 +1,6 @@
 # Gersound
 
-Gersound is a Afro House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Macarena Club, Barcelona on Fri, 21 Aug 2026.
+Gersound is a Afro House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Macarena Club, Barcelona on Fri, 21 Aug 2026.
 
 Gersound is an afro house and electronica artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Ibiza. Often billed alongside Lancaster, Derovio and Adrian Grösser. Next up: Macarena Club, Barcelona on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Gersound is an afro house and electronica artist based in Spain, tracked on soun
 
 Lancaster, Derovio, Adrian Grösser
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gersound/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gersound/)*

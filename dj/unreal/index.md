@@ -1,6 +1,6 @@
 # Unreal
 
-Unreal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
+Unreal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
 
 Unreal is a techno and house artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Madrid and Tokyo. Often billed alongside Soulness, Dani Lewis and Dzeko. Next up: Razzmatazz, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Unreal is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 Soulness, Dani Lewis, Dzeko
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unreal/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unreal/)*

@@ -1,14 +1,13 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Loullapalooza" on Sat, 8 Aug 2026.
+Lion's Den is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Chillin n Grillin: Manu Magick, Mutis (Vinyl)" on Sun, 9 Aug 2026.
 
-Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming nights, with line-ups including Atomyard, Blame (EC), Cesar Merveille and Cristobal ON and 2 more. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
+Lion's Den is a music venue in Miami listed on soundcheck. 2 upcoming nights, with line-ups including Gio Elia, Manumat, Terence Tabeau and Will Renuart. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Loullapalooza | Atomyard, Blame (EC), Cesar Merveille, Cristobal ON, DIFFER, DJ JAFA, Konkret, Log _In, Lou Flores, Maayan Nidam, Markem, Retronika, San Dee, TMD (US), demenz |
 | Sun, 9 Aug 2026 | Chillin n Grillin: Manu Magick, Mutis (Vinyl) |  |
 | Sat, 29 Aug 2026 | Pickle Surprise | Gio Elia, Manumat, Terence Tabeau, Will Renuart |
 
@@ -16,4 +15,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming nights, wi
 
 150 NW 73rd st, Miami
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

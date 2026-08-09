@@ -1,6 +1,6 @@
 # Mehill
 
-Mehill is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Rumores Speakeasy Cdmx, Mexico City on Sat, 15 Aug 2026.
+Mehill is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Rumores Speakeasy Cdmx, Mexico City on Sat, 15 Aug 2026.
 
 Mehill is a techno and progressive house artist tracked on soundcheck, with 28 sets logged across Barcelona, Malaga and Mexicocity. Often billed alongside Alerch, Aera and Köves. Next up: Rumores Speakeasy Cdmx, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mehill is a techno and progressive house artist tracked on soundcheck, with 28 s
 
 Alerch, Aera, Köves
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mehill/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mehill/)*

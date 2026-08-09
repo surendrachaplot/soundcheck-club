@@ -1,15 +1,13 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Euphoria: An EDM Tribute Party with Mikey Tan" on Sat, 8 Aug 2026.
+Temple SF is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "OCHO - The pOCHO Tour - SF" on Fri, 14 Aug 2026.
 
-Temple SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
+Temple SF is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Euphoria: An EDM Tribute Party with Mikey Tan |  |
-| Sat, 8 Aug 2026 | DJ CHEF DRE at LVL55 - Hiphop Room Saturdays |  |
 | Fri, 14 Aug 2026 | OCHO - The pOCHO Tour - SF |  |
 | Sat, 15 Aug 2026 | DJ BRIAN V at LVL55 - Hiphop Room Saturdays |  |
 | Fri, 21 Aug 2026 | A HIPHOP & R&B FRIDAY! Back To School Edition |  |
@@ -21,4 +19,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nigh
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

@@ -1,6 +1,6 @@
 # Luisa Almaguer
 
-Luisa Almaguer is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
+Luisa Almaguer is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
 
 Luisa Almaguer is an electronica and techno artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity and Munich. Often billed alongside DJ Gigola, Magnolia Coronado and Amapola Rose. Next up: TBA - SECRET LOCATION, Mexicocity on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ Luisa Almaguer is an electronica and techno artist based in Mexico, tracked on s
 
 DJ Gigola, Magnolia Coronado, Amapola Rose
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisaalmaguer/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luisaalmaguer/)*

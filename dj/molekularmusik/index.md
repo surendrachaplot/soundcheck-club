@@ -1,6 +1,6 @@
 # Molekularmusik
 
-Molekularmusik is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Fridas Pier, Stuttgart on Sun, 9 Aug 2026.
+Molekularmusik is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fridas Pier, Stuttgart on Sun, 9 Aug 2026.
 
 Molekularmusik is a techno and tech house artist based in Germany, tracked on soundcheck, with 24 sets logged across Munich and Stuttgart. Often billed alongside tim|bre, Alyne and Line. Next up: Fridas Pier, Stuttgart on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Molekularmusik is a techno and tech house artist based in Germany, tracked on so
 
 tim|bre, Alyne, Line
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molekularmusik/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molekularmusik/)*

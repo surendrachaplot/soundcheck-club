@@ -1,6 +1,6 @@
 # Twelve Original Players
 
-Twelve Original Players is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Lounge 33 Leith, Edinburgh on Sun, 9 Aug 2026.
+Twelve Original Players is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lounge 33 Leith, Edinburgh on Sun, 9 Aug 2026.
 
 Twelve Original Players is a hip-hop and funk / soul artist tracked on soundcheck, with 17 sets logged across Edinburgh. Often billed alongside AKUMU, Anikonik and Bake. Next up: Lounge 33 Leith, Edinburgh on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Twelve Original Players is a hip-hop and funk / soul artist tracked on soundchec
 
 AKUMU, Anikonik, Bake
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveoriginalplayers/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveoriginalplayers/)*

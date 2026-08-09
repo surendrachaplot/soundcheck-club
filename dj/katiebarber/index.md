@@ -1,6 +1,6 @@
 # Katie Barber
 
-Katie Barber is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Carat's Cafe & Bar, Brighton on Sat, 15 Aug 2026.
+Katie Barber is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Carat's Cafe & Bar, Brighton on Sat, 15 Aug 2026.
 
 Katie Barber is a house and disco artist tracked on soundcheck, with 3 sets logged across Brighton and London. Often billed alongside Afronaut UK, Bugz in the Attic and Cevin Fisher. Next up: Carat's Cafe & Bar, Brighton on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Katie Barber is a house and disco artist tracked on soundcheck, with 3 sets logg
 
 Afronaut UK, Bugz in the Attic, Cevin Fisher
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebarber/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebarber/)*

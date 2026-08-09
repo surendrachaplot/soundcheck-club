@@ -1,6 +1,6 @@
 # Brown Excellence
 
-Brown Excellence is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Colour Factory, London on Fri, 4 Sept 2026.
+Brown Excellence is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Colour Factory, London on Fri, 4 Sept 2026.
 
 Brown Excellence is a bass and electro artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin, Brighton, Bristol and Dundee and 7 more. Often billed alongside Arabesque, Buggery Grips and Jay Carder. Next up: Colour Factory, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Brown Excellence is a bass and electro artist based in United Kingdom, tracked o
 
 Arabesque, Buggery Grips, Jay Carder
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*

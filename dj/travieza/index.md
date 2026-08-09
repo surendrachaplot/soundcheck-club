@@ -1,6 +1,6 @@
 # TRAVIEZA
 
-TRAVIEZA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
+TRAVIEZA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 TRAVIEZA is a club and techno artist based in Mexico, tracked on soundcheck, with 20 sets logged across Losangeles, Mexicocity and Sanfrancisco. Often billed alongside DJ JUANNY, Technopagan and erika (SF). Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ TRAVIEZA is a club and techno artist based in Mexico, tracked on soundcheck, wit
 
 DJ JUANNY, Technopagan, erika (SF)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/travieza/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/travieza/)*

@@ -1,15 +1,13 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Mietze Conte is a House and Experimental artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
-Mietze Conte is a house and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Burgess Park, London on Sat 8 Aug.
+Mietze Conte is a house and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Burgess Park, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Burgess Park | London |
-| Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 15 Aug 2026 | Burgess Park | London |
 | Wed, 2 Sept 2026 | Bar Le Ritz PDB | Montreal |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
@@ -23,17 +21,17 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 51 s
 
 ## Recently played
 
+- Burgess Park, London — Sat, 8 Aug 2026
+- RSO.BERLIN, Berlin — Sat, 8 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Bar Le Ritz PDB, Montreal — Fri, 29 May 2026
 - The Cobalt, Vancouver — Wed, 27 May 2026
 - Holocene, Portland — Sun, 24 May 2026
 - The Roxy, Los Angeles — Thu, 21 May 2026
 - The Ground at Club Space, Miami — Fri, 8 May 2026
-- Elsewhere, New York City — Fri, 1 May 2026
-- Virage, Paris — Thu, 23 Apr 2026
 
 ## Shares bills with
 
 1tbsp, DJ Gigola, Skin On Skin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

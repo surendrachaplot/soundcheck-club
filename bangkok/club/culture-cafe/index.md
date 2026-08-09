@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 39 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Groove Thailand presents'In Bed with The Vinyl Casanova' ; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl)" on Sat, 8 Aug 2026.
+Culture Cafe is a music venue in Bangkok with 38 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 9 Aug 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 39 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Groove Thailand presents'In Bed with The Vinyl Casanova' ; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
 | Sun, 9 Aug 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Sun, 9 Aug 2026 | Groove Thailand presents'In Bed with The Vinyl Casanova' ; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
 | Mon, 10 Aug 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
@@ -18,9 +17,10 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 39 upcoming night
 | Fri, 14 Aug 2026 | HARD EDGE: Dark&Industrial Hard Techno | Damon Rider, Gunya, The3RD |
 | Sat, 15 Aug 2026 | Groove Thailand presents'In Bed with The Vinyl Casanova' ; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
 | Sun, 16 Aug 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
+| Mon, 17 Aug 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 
 ## Address
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

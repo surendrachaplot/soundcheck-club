@@ -1,6 +1,6 @@
 # DJ Three
 
-DJ Three is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 19 Aug 2026.
+DJ Three is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 19 Aug 2026.
 
 DJ Three is a house and tech house artist tracked on soundcheck, with 30 sets logged across Austin, Detroit, Houston and Losangeles and 4 more. Often billed alongside Öona Dahl, Dylan Payne and Mazin. Next up: F8 1192 Folsom, Sanfrancisco on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ DJ Three is a house and tech house artist tracked on soundcheck, with 30 sets lo
 
 Öona Dahl, Dylan Payne, Mazin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*

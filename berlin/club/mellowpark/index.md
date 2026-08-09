@@ -1,6 +1,6 @@
 # Mellowpark
 
-Mellowpark is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lost In Mellowpark ☼ Sommerfest ☼ Open Air" on Sat, 22 Aug 2026.
+Mellowpark is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Lost In Mellowpark ☼ Sommerfest ☼ Open Air" on Sat, 22 Aug 2026.
 
 Mellowpark is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Erosiv, Hannelore, krawallwitz and Little Nats and 1 more. Browse upcoming dates, start times and who's playing. An der Wuhlheide 250-256, D-12555 Berlin.
 
@@ -14,4 +14,4 @@ Mellowpark is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 An der Wuhlheide 250-256, D-12555 Berlin, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mellowpark/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mellowpark/)*

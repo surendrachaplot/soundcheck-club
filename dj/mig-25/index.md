@@ -1,6 +1,6 @@
 # MiG-25
 
-MiG-25 is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
+MiG-25 is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
 
 MiG-25 is a techno artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside shimosoma, AI (10) and DJ Sodeyama. Next up: VENT, Tokyo on Mon 10 Aug.
 
@@ -18,4 +18,4 @@ MiG-25 is a techno artist based in Japan, tracked on soundcheck, with 2 sets log
 
 shimosoma, AI (10), DJ Sodeyama
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mig-25/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mig-25/)*

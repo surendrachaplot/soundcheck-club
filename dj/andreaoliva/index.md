@@ -1,14 +1,13 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+Andrea Oliva is a Tech House and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 10 Aug 2026.
 
-Andrea Oliva is a tech house and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Zürichsee, Zurich on Sat 8 Aug.
+Andrea Oliva is a tech house and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Hï Ibiza, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Zürichsee | Zurich |
 | Mon, 10 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Kiesgrube | Düsseldorf |
 | Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 198 se
 | Sat, 19 Sept 2026 | Studio Club Malaga | Malaga |
 | Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Chinois Ibiza | Ibiza |
+| Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Zürichsee, Zurich — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 3 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 198 se
 - [UNVRS], Ibiza — Sun, 19 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 13 Jul 2026
 - Silverworks Island, London — Sat, 11 Jul 2026
-- Hï Ibiza, Ibiza — Mon, 6 Jul 2026
 
 ## Shares bills with
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

@@ -1,6 +1,6 @@
 # Arjuna Schiks
 
-Arjuna Schiks is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Thuishaven, Amsterdam on Sat, 22 Aug 2026.
+Arjuna Schiks is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Thuishaven, Amsterdam on Sat, 22 Aug 2026.
 
 Arjuna Schiks is a deep house and techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Rose Ringed, Lövestad and Olivier Weiter. Next up: Thuishaven, Amsterdam on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Arjuna Schiks is a deep house and techno artist based in Netherlands, tracked on
 
 Rose Ringed, Lövestad, Olivier Weiter
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunaschiks/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunaschiks/)*

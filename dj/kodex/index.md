@@ -1,6 +1,6 @@
 # KØDE X
 
-KØDE X is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
+KØDE X is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
 
 KØDE X is a techno and industrial artist based in Portugal, tracked on soundcheck, with 23 sets logged across Lisbon and Porto. Often billed alongside GAIVEU, Anastasiya Ty and DIMENSION 9. Next up: Kømplex Lisbon, Lisbon on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ KØDE X is a techno and industrial artist based in Portugal, tracked on soundche
 
 GAIVEU, Anastasiya Ty, DIMENSION 9
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodex/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodex/)*

@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Liberty Hall, Sydney on Fri, 14 Aug 2026.
+1tbsp is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Liberty Hall, Sydney on Fri, 14 Aug 2026.
 
 1tbsp is a house and electronica artist tracked on soundcheck, with 115 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Liberty Hall, Sydney on Fri 14 Aug.
 
@@ -28,4 +28,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

@@ -1,6 +1,6 @@
 # Cyberboy
 
-Cyberboy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Café Katoen, Amsterdam on Thu, 20 Aug 2026.
+Cyberboy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Café Katoen, Amsterdam on Thu, 20 Aug 2026.
 
 Cyberboy is an electronic artist tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin and Rotterdam. Often billed alongside Kevin Lo, ADRIANA LUCID and Maria Cue. Next up: Café Katoen, Amsterdam on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Cyberboy is an electronic artist tracked on soundcheck, with 5 sets logged acros
 
 Kevin Lo, ADRIANA LUCID, Maria Cue
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberboy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberboy/)*

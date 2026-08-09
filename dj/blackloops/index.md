@@ -1,6 +1,6 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Black Loops is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Black Loops is a house and deep house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Bali and Bangkok and 41 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -27,4 +27,4 @@ Black Loops is a house and deep house artist tracked on soundcheck, with 146 set
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

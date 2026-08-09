@@ -1,6 +1,6 @@
 # Haseeb Iqbal
 
-Haseeb Iqbal is a Dub and Jazz artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at ZENNER, Berlin on Sun, 9 Aug 2026.
+Haseeb Iqbal is a Dub and Jazz artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ZENNER, Berlin on Sun, 9 Aug 2026.
 
 Haseeb Iqbal is a dub and jazz artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Berlin, Brighton, Bristol and Edinburgh and 12 more. Often billed alongside Donna Leake, Mark Quinn and Heléna Star. Next up: ZENNER, Berlin on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Haseeb Iqbal is a dub and jazz artist based in United Kingdom, tracked on soundc
 
 Donna Leake, Mark Quinn, Heléna Star
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*

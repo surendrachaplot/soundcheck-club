@@ -1,6 +1,6 @@
 # Moojo
 
-Moojo is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 24 Sept 2026.
+Moojo is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 24 Sept 2026.
 
 Moojo is an afro house and deep house artist based in France, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Basel and Houston and 15 more. Often billed alongside Emir Sagiroglu, Hugel and ARYMÉ. Next up: Hï Ibiza, Ibiza on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Moojo is an afro house and deep house artist based in France, tracked on soundch
 
 Emir Sagiroglu, Hugel, ARYMÉ
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moojo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moojo/)*

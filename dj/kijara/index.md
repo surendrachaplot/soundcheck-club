@@ -1,6 +1,6 @@
 # Kijara
 
-Kijara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
+Kijara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
 
 Kijara is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside CEEE, DERICE and Alex Grebe. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Kijara is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 CEEE, DERICE, Alex Grebe
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*

@@ -1,6 +1,6 @@
 # Nick Reverse
 
-Nick Reverse is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Nick Reverse is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Nick Reverse is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Bali and Barcelona and 7 more. Often billed alongside André Müller, Ben Nott and Joris Turenhout. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nick Reverse is a techno and tech house artist tracked on soundcheck, with 88 se
 
 André Müller, Ben Nott, Joris Turenhout
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*

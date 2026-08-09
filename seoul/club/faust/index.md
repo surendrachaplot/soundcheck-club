@@ -1,14 +1,13 @@
 # Faust
 
-Faust is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "nacht" on Sat, 8 Aug 2026.
+Faust is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "nacht" on Fri, 14 Aug 2026.
 
-Faust is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including BootyWagon, Dadachoe, Faacia and Ginger (KR) and 2 more. Browse upcoming dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
+Faust is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including BootyWagon, Faacia, Ginger (KR) and GPG (SK) and 2 more. Browse upcoming dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | nacht | Dadachoe, Mars Parck, Nocturnal (KR), Sol (KR), Suman |
 | Fri, 14 Aug 2026 | nacht | GPG (SK), NOVA ANIMUS, Stann Lumo, Yuriko (2) |
 | Sat, 15 Aug 2026 | LIBERATION | Marcus L, Minish, ROS3, hv9 (KR) |
 | Sun, 16 Aug 2026 | INVITES: LB aka LABAT | BootyWagon, LB aka LABAT, Nocturnal (KR), Suman, TYSN |
@@ -19,4 +18,4 @@ Faust is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with li
 
 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea, Seoul
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*

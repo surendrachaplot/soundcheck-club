@@ -1,6 +1,6 @@
 # Matt Timms
 
-Matt Timms is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Timber Loft, London on Sun, 13 Sept 2026.
+Matt Timms is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Timber Loft, London on Sun, 13 Sept 2026.
 
 Matt Timms is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London, Montreal and Prague. Often billed alongside Daniel Neighbour, Big Nick D and Carl Matthews. Next up: The Timber Loft, London on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Matt Timms is a minimal and tech house artist based in United Kingdom, tracked o
 
 Daniel Neighbour, Big Nick D, Carl Matthews
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matttimms/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matttimms/)*

@@ -1,6 +1,6 @@
 # xXabiXx
 
-xXabiXx is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Vagabond, Washington DC on Sun, 9 Aug 2026.
+xXabiXx is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vagabond, Washington DC on Sun, 9 Aug 2026.
 
 xXabiXx is a house and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Washingtondc. Often billed alongside Harley (US), $et and DJ Con. Next up: Vagabond, Washingtondc on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ xXabiXx is a house and club artist based in United States of America, tracked on
 
 Harley (US), $et, DJ Con
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxabixx/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xxabixx/)*

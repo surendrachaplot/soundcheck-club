@@ -1,6 +1,6 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+Junkie Kid is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
 
 Junkie Kid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 13 sets logged across Brisbane, Chicago, Houston and Losangeles and 7 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Superordinary, Brisbane on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Junkie Kid is a techno and hardcore artist based in United States of America, tr
 
 DJ GUESTLIST, HIJCKD, Mark Blair
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*

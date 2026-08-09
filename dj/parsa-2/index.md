@@ -1,6 +1,6 @@
 # PARSA (2)
 
-PARSA (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sound Studio Dom, Tokyo on Tue, 11 Aug 2026.
+PARSA (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sound Studio Dom, Tokyo on Tue, 11 Aug 2026.
 
 PARSA (2) is a techno and industrial artist based in Japan, tracked on soundcheck, with 7 sets logged across Amsterdam and Tokyo. Often billed alongside SONATA, EMILIO (3) and FINYA. Next up: Sound Studio Dom, Tokyo on Tue 11 Aug.
 
@@ -23,4 +23,4 @@ PARSA (2) is a techno and industrial artist based in Japan, tracked on soundchec
 
 SONATA, EMILIO (3), FINYA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parsa-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parsa-2/)*

@@ -1,6 +1,6 @@
 # femnms
 
-femnms is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Pleasure Patterns, Berlin on Thu, 13 Aug 2026.
+femnms is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Pleasure Patterns, Berlin on Thu, 13 Aug 2026.
 
 femnms is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside INVERNO, Kat Never and Acidfinky. Next up: Pleasure Patterns, Berlin on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ femnms is a house and techno artist based in United Kingdom, tracked on soundche
 
 INVERNO, Kat Never, Acidfinky
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/femnms/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/femnms/)*

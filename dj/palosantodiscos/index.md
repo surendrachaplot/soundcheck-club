@@ -1,6 +1,6 @@
 # Palo Santo Discos
 
-Palo Santo Discos is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Grow, London on Fri, 11 Sept 2026.
+Palo Santo Discos is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Grow, London on Fri, 11 Sept 2026.
 
 Palo Santo Discos is a house and jazz artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, London and Paris and 1 more. Often billed alongside Coco Maria, Poly-Ritmo and DJK. Next up: Grow, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Palo Santo Discos is a house and jazz artist tracked on soundcheck, with 21 sets
 
 Coco Maria, Poly-Ritmo, DJK
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palosantodiscos/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palosantodiscos/)*

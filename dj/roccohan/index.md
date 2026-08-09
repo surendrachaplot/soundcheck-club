@@ -1,6 +1,6 @@
 # Rocco Han
 
-Rocco Han is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at fabric, London on Sun, 9 Aug 2026.
+Rocco Han is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at fabric, London on Sun, 9 Aug 2026.
 
 Rocco Han is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Basement Maxx, Billa Bazz and Creano. Next up: fabric, London on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ Rocco Han is a garage and house artist based in United Kingdom, tracked on sound
 
 Basement Maxx, Billa Bazz, Creano
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*

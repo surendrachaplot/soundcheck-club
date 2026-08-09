@@ -1,6 +1,6 @@
 # DubFreq (2)
 
-DubFreq (2) is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
+DubFreq (2) is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
 
 DubFreq (2) is a dubstep and grime artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Bristol and London. Often billed alongside Slimzee, Edge <3 and N-Type. Next up: Goodness Brewing Company, London on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ DubFreq (2) is a dubstep and grime artist based in United Kingdom, tracked on so
 
 Slimzee, Edge <3, N-Type
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfreq-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfreq-2/)*

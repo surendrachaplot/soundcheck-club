@@ -1,6 +1,6 @@
 # Gartzzea
 
-Gartzzea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+Gartzzea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
 Gartzzea is a house and techno artist based in Brazil, tracked on soundcheck, with 35 sets logged across Barcelona, London and Saopaulo. Often billed alongside Andre Salata, Andre Torquato and DJ Magal. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gartzzea is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Andre Salata, Andre Torquato, DJ Magal
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*

@@ -1,14 +1,13 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "camoufly with 1-800 Girls & Vertigo (Outside Lands Night Shows)" on Sat, 8 Aug 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "NIGHT VISION - Carrellee - Skoto - The Gallery - DJ Omar" on Fri, 14 Aug 2026.
 
-The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including 1-800 GIRLS, ANDYLAND, Avalon Emerson and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including ANDYLAND, Avalon Emerson, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | camoufly with 1-800 Girls & Vertigo (Outside Lands Night Shows) | 1-800 GIRLS, Vertigo, camoufly |
 | Fri, 14 Aug 2026 | NIGHT VISION - Carrellee - Skoto - The Gallery - DJ Omar |  |
 | Sat, 15 Aug 2026 | Mostly Cloudy x Keep Hush: BADSISTA, BAE BAE + more | ANDYLAND, BADSISTA, BAE BAE, Femme Jatale, Profesito, QUEENIE (US), felipe d |
 | Fri, 21 Aug 2026 | Studio 54th Cole: DJ Garth - Cole Odin - Sleight of Hands & Friends | Cole Odin, DJ Garth, Sleight of Hands, Soulfunky |
@@ -21,4 +20,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 8 upco
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

@@ -1,6 +1,6 @@
 # Zha (UK)
 
-Zha (UK) is a Dubstep and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
+Zha (UK) is a Dubstep and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
 
 Zha (UK) is a dubstep and vaporwave artist tracked on soundcheck, with 13 sets logged across Bristol, London, Manchester and Vancouver. Often billed alongside Ourman, Cimm and Mystic State. Next up: The Carpet Shop, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Zha (UK) is a dubstep and vaporwave artist tracked on soundcheck, with 13 sets l
 
 Ourman, Cimm, Mystic State
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zha-1/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zha-1/)*

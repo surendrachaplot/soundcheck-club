@@ -1,6 +1,6 @@
 # Manthrax
 
-Manthrax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Manthrax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Manthrax is a techno and house artist based in Malta, tracked on soundcheck, with 27 sets logged across Malta. Often billed alongside Gordon Flash, Sean Rickett and Human Safari. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Manthrax is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 Gordon Flash, Sean Rickett, Human Safari
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manthrax/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manthrax/)*

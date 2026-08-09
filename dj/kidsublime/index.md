@@ -1,6 +1,6 @@
 # Kid Sublime
 
-Kid Sublime is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 22 Aug 2026.
+Kid Sublime is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 22 Aug 2026.
 
 Kid Sublime is a funk / soul and disco artist tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Rob Coley, Chris Wheatley and DJ Emma (2). Next up: Noorderlicht Café, Amsterdam on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Kid Sublime is a funk / soul and disco artist tracked on soundcheck, with 6 sets
 
 Rob Coley, Chris Wheatley, DJ Emma (2)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsublime/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsublime/)*

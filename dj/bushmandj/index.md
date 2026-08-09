@@ -1,6 +1,6 @@
 # Bushman (UK)
 
-Bushman (UK) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
+Bushman (UK) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The DBA, Manchester on Sat, 15 Aug 2026.
 
 Bushman (UK) is a house and afro house artist tracked on soundcheck, with 25 sets logged across Austin, Glasgow, London and Manchester and 1 more. Often billed alongside MYDIR, Trekkah and Mixed Message Music. Next up: The DBA, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bushman (UK) is a house and afro house artist tracked on soundcheck, with 25 set
 
 MYDIR, Trekkah, Mixed Message Music
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushmandj/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushmandj/)*

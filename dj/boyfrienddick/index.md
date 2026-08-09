@@ -1,6 +1,6 @@
 # Boyfriend Dick
 
-Boyfriend Dick is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Signal, New York City on Sun, 9 Aug 2026.
+Boyfriend Dick is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Signal, New York City on Sun, 9 Aug 2026.
 
 Boyfriend Dick is a techno and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago, Detroit, Leipzig and London and 7 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: Signal, Newyorkcity on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Boyfriend Dick is a techno and club artist based in United States of America, tr
 
 Garrison XR, Amino, Luca Miel
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*

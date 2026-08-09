@@ -1,14 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Lick the Click! Sunburst Classic Terrace" on Sat, 8 Aug 2026.
+A38 is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Fine Selection #218 w/Electric Boutique & Turner" on Thu, 13 Aug 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Alix Perez, DJ Crimson, Dual DeStress and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and Gemcamp and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Lick the Click! Sunburst Classic Terrace | DJ Crimson, isu |
 | Thu, 13 Aug 2026 | Fine Selection #218 w/Electric Boutique & Turner | Electric Boutique |
 | Fri, 14 Aug 2026 | Drum Club / Friday | Longman, Sin |
 | Wed, 19 Aug 2026 | 10 YEARS OF 1985 MUSIC: Alix Perez & SP:MC | Alix Perez, Gemcamp, Markov |
@@ -21,4 +20,4 @@ A38 is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with l
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

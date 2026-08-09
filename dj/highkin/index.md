@@ -1,20 +1,20 @@
 # Highkin'
 
-Highkin' is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
+Highkin' is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at 450 S Bixel St, Los Angeles, CA 90017, Los Angeles on Sun, 9 Aug 2026.
 
-Highkin' is a house and minimal artist based in Russia, tracked on soundcheck, with 51 sets logged across Austin, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Krane, PabloDiscobar and Dylan Payne. Next up: Paraiso Estereo, Miami on Sat 8 Aug.
+Highkin' is a house and minimal artist based in Russia, tracked on soundcheck, with 51 sets logged across Austin, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Krane, PabloDiscobar and Dylan Payne. Next up: 450 S Bixel St, Los Angeles, CA 90017, Losangeles on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Paraiso Estereo | Miami |
 | Sun, 9 Aug 2026 | 450 S Bixel St, Los Angeles, CA 90017 | Los Angeles |
 | Fri, 14 Aug 2026 | TBA - DTLA | Los Angeles |
 | Sat, 15 Aug 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
+- Paraiso Estereo, Miami — Sat, 8 Aug 2026
 - TBA - Arts District, Los Angeles — Fri, 26 Jun 2026
 - TBA - Arts District, Los Angeles — Fri, 22 May 2026
 - TBA - DTLA, Los Angeles — Sat, 2 May 2026
@@ -22,10 +22,9 @@ Highkin' is a house and minimal artist based in Russia, tracked on soundcheck, w
 - TBA - DTLA, Los Angeles — Fri, 10 Apr 2026
 - 3oz Dive Club, San Diego — Thu, 2 Apr 2026
 - 94th Aero Squadron, Miami — Fri, 27 Mar 2026
-- TBA, Los Angeles — Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Krane, PabloDiscobar, Dylan Payne
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/highkin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/highkin/)*

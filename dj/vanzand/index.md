@@ -1,6 +1,6 @@
 # Van Zand
 
-Van Zand is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Van Zand is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
 Van Zand is an afro house and afro tech artist tracked on soundcheck, with 25 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague. Often billed alongside Da Capo, Enoo Napa and Philou Louzolo. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Van Zand is an afro house and afro tech artist tracked on soundcheck, with 25 se
 
 Da Capo, Enoo Napa, Philou Louzolo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanzand/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanzand/)*

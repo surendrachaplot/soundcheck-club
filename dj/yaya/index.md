@@ -1,6 +1,6 @@
 # Yaya
 
-Yaya is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at fabric, London on Sun, 9 Aug 2026.
+Yaya is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at fabric, London on Sun, 9 Aug 2026.
 
 Yaya is a tech house and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Bucharest and Budapest and 22 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: fabric, London on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Yaya is a tech house and house artist tracked on soundcheck, with 89 sets logged
 
 Mahony, Loco Dice, Joey Daniel
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*

@@ -1,14 +1,13 @@
 # Quartyard
 
-Quartyard is a music venue in San Diego with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "FNGRS CRSSD presents Chris Luno" on Sat, 8 Aug 2026.
+Quartyard is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SHINE: Brett Johnson, Miguel Rios, Tony Rafael, Flo" on Sun, 16 Aug 2026.
 
-Quartyard is a music venue in Sandiego listed on soundcheck. 7 upcoming nights, with line-ups including Brett Johnson, Chris Luno, Miguel Rios and Riordan and 1 more. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
+Quartyard is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including Brett Johnson, Miguel Rios, Riordan and Tony Rafael. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | FNGRS CRSSD presents Chris Luno | Chris Luno |
 | Sun, 16 Aug 2026 | SHINE: Brett Johnson, Miguel Rios, Tony Rafael, Flo | Brett Johnson, Miguel Rios, Tony Rafael |
 | Sat, 29 Aug 2026 | LED presents Boogie T |  |
 | Sat, 12 Sept 2026 | FNGRS CRSSD presents Jerro |  |
@@ -20,4 +19,4 @@ Quartyard is a music venue in Sandiego listed on soundcheck. 7 upcoming nights, 
 
 1301 Market Street, San Diego, CA, San Diego
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*

@@ -1,6 +1,6 @@
 # Chris Coco
 
-Chris Coco is a Balearic and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Elmhurst, London on Sun, 16 Aug 2026.
+Chris Coco is a Balearic and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Elmhurst, London on Sun, 16 Aug 2026.
 
 Chris Coco is a balearic and disco artist tracked on soundcheck, with 34 sets logged across Brighton, Copenhagen, Edinburgh and Ibiza and 1 more. Often billed alongside Neil Thornton, Graeme Ross and Luca Averna. Next up: The Elmhurst, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Chris Coco is a balearic and disco artist tracked on soundcheck, with 34 sets lo
 
 Neil Thornton, Graeme Ross, Luca Averna
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscoco/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscoco/)*

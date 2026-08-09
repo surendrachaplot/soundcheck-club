@@ -1,6 +1,6 @@
 # Han McGee
 
-Han McGee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
+Han McGee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
 
 Han McGee is a house and disco artist tracked on soundcheck, with 14 sets logged across Edinburgh and Glasgow. Often billed alongside Jack Brown (2), Babyccino and TIERNEY. Next up: TBA - Secret Location, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Han McGee is a house and disco artist tracked on soundcheck, with 14 sets logged
 
 Jack Brown (2), Babyccino, TIERNEY
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanmcgee/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanmcgee/)*

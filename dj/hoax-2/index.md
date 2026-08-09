@@ -1,6 +1,6 @@
 # Hoax (UK)
 
-Hoax (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
+Hoax (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
 
 Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Auckland, Bristol, Ibiza and London and 2 more. Often billed alongside Danny Byrd, London Elektricity and MC Texas. Next up: Watsons EQ, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Danny Byrd, London Elektricity, MC Texas
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax-2/)*

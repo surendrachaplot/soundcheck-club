@@ -1,19 +1,19 @@
 # Rohan Rakhit
 
-Rohan Rakhit is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Fox and Firkin, London on Sat, 8 Aug 2026.
+Rohan Rakhit is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
-Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 sets logged across Berlin, Leeds, Liverpool and London. Often billed alongside Donut, Soph and Raji Rags. Next up: The Fox and Firkin, London on Sat 8 Aug.
+Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 sets logged across Berlin, Leeds, Liverpool and London. Often billed alongside Donut, Soph and Raji Rags. Next up: Jumbi, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | The Fox and Firkin | London |
 | Sat, 15 Aug 2026 | Jumbi | London |
 | Sat, 29 Aug 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- The Fox and Firkin, London — Sat, 8 Aug 2026
 - Grow, London — Sat, 11 Jul 2026
 - TBA - Near Salisbury, London — Fri, 12 Jun 2026
 - 24 Kitchen Street Green Room, Liverpool — Fri, 12 Jun 2026
@@ -21,10 +21,9 @@ Rohan Rakhit is a broken beat and house artist tracked on soundcheck, with 58 se
 - Truman Brewery Multiple Venues, London — Fri, 24 Apr 2026
 - The Lower Third, London — Sat, 18 Apr 2026
 - Paloma, Berlin — Sat, 21 Mar 2026
-- Hootananny Brixton, London — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Donut, Soph, Raji Rags
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanrakhit/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanrakhit/)*

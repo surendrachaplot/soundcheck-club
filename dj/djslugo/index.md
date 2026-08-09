@@ -1,18 +1,18 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at El Club, Detroit on Sat, 8 Aug 2026.
+DJ Slugo is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ramova Loft, Chicago on Fri, 14 Aug 2026.
 
-DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: El Club, Detroit on Sat 8 Aug.
+DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: Ramova Loft, Chicago on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | El Club | Detroit |
 | Fri, 14 Aug 2026 | Ramova Loft | Chicago |
 
 ## Recently played
 
+- El Club, Detroit — Sat, 8 Aug 2026
 - TBA - SECRET DTLA LOCATION , Los Angeles — Sat, 1 Aug 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 31 Jul 2026
 - Paragon, New York City — Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 67 sets l
 - Jackson Park, Chicago — Sat, 11 Jul 2026
 - Smoke & Mirrors, Chicago — Sat, 27 Jun 2026
 - Lulo, Nashville — Fri, 26 Jun 2026
-- Nowadays, New York City — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

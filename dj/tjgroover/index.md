@@ -1,13 +1,14 @@
 # tj groover
 
-tj groover is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
+tj groover is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Pentridge Station, Philadelphia on Fri, 14 Aug 2026.
 
-tj groover is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Philadelphia. Often billed alongside Cowa, Qino Bounce and Big Queso. Next up: Liberty Point, Philadelphia on Sun 30 Aug.
+tj groover is a house and deep house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Philadelphia. Often billed alongside Big Queso, Cowa and Qino Bounce. Next up: Pentridge Station, Philadelphia on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Pentridge Station | Philadelphia |
 | Sun, 30 Aug 2026 | Liberty Point | Philadelphia |
 
 ## Recently played
@@ -23,6 +24,6 @@ tj groover is a house and deep house artist based in United States of America, t
 
 ## Shares bills with
 
-Cowa, Qino Bounce, Big Queso
+Big Queso, Cowa, Qino Bounce
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tjgroover/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tjgroover/)*

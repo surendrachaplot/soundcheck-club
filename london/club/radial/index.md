@@ -1,14 +1,13 @@
 # radial
 
-radial is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Autonomy's Day into Night at radial / DJ Love, Derv EMMIE, Marina Potion Club " on Sat, 8 Aug 2026.
+radial is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "theoracle with Theo Kottis (brand new venue)" on Fri, 14 Aug 2026.
 
-radial is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Coinín Beag, Danny Goliger, Daskaran and D.D. Curry and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Danny Goliger, Daskaran, D.D. Curry and Dennis Christensen and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Autonomy's Day into Night at radial / DJ Love, Derv EMMIE, Marina Potion Club  | Coinín Beag, DJ Love UK, Derv, EMMIE, Jack Costello, Sean Nolan, notjack |
 | Fri, 14 Aug 2026 | theoracle with Theo Kottis (brand new venue) | Theo Kottis |
 | Sat, 15 Aug 2026 | Soulmates Summer Residents Party | Dennis Christensen, Rap Saunders |
 | Fri, 21 Aug 2026 | Adult Party | Meg Ward |
@@ -23,4 +22,4 @@ radial is a music venue in London listed on soundcheck. 10 upcoming nights, with
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

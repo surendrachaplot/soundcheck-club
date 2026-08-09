@@ -1,6 +1,6 @@
 # Blake Baxter
 
-Blake Baxter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Blake Baxter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 Blake Baxter is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Buenosaires and Detroit and 1 more. Often billed alongside Huey Mnemonic, D. Strange and Juan Atkins. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Blake Baxter is a techno and house artist based in United States of America, tra
 
 Huey Mnemonic, D. Strange, Juan Atkins
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blakebaxter/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blakebaxter/)*

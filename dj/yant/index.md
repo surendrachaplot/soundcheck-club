@@ -1,18 +1,18 @@
 # Yant
 
-Yant is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 8 Aug 2026.
+Yant is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Club Cheek, London on Sat, 29 Aug 2026.
 
-Yant is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Eastern Bloc Records, Manchester on Sat 8 Aug.
+Yant is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Club Cheek, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Eastern Bloc Records | Manchester |
 | Sat, 29 Aug 2026 | Club Cheek | London |
 
 ## Recently played
 
+- Eastern Bloc Records, Manchester — Sat, 8 Aug 2026
 - Mooi Space, Toronto — Sat, 27 Jun 2026
 - House of Q, Stockholm — Fri, 5 Jun 2026
 - BASEMENT, New York City — Sat, 28 Mar 2026
@@ -20,10 +20,9 @@ Yant is a techno and house artist tracked on soundcheck, with 74 sets logged acr
 - renae, Manchester — Sat, 28 Feb 2026
 - The Carpet Shop, London — Fri, 27 Feb 2026
 - Amber's, Manchester — Fri, 30 Jan 2026
-- Tresor / Globus, Berlin — Sat, 20 Dec 2025
 
 ## Shares bills with
 
 Setaoc Mass, Blasha & Allatt, Aletha
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*

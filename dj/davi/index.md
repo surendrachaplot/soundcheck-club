@@ -1,6 +1,6 @@
 # DAVI
 
-DAVI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Public Roof, New York City on Fri, 14 Aug 2026.
+DAVI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Public Roof, New York City on Fri, 14 Aug 2026.
 
 DAVI is a house and deep house artist tracked on soundcheck, with 67 sets logged across Kyoto, Losangeles, Mexicocity and Miami and 7 more. Often billed alongside Anton Tumas, Ray Kash and Doc Martin. Next up: Public Roof, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DAVI is a house and deep house artist tracked on soundcheck, with 67 sets logged
 
 Anton Tumas, Ray Kash, Doc Martin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*

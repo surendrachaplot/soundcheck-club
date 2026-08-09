@@ -1,6 +1,6 @@
 # @djlobottomy
 
-@djlobottomy is a Latin Bass and Guaracha artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Delirium San Francisco, San Francisco/Oakland on Fri, 14 Aug 2026.
+@djlobottomy is a Latin Bass and Guaracha artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Delirium San Francisco, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 @djlobottomy is a latin bass and guaracha artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside Maznoize, xtcemi and DE ALMA. Next up: Delirium San Francisco, Sanfrancisco on Fri 14 Aug.
 
@@ -27,4 +27,4 @@
 
 Maznoize, xtcemi, DE ALMA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*

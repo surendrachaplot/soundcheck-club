@@ -1,6 +1,6 @@
 # Ana Isabela
 
-Ana Isabela is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Haggerston, London on Sat, 15 Aug 2026.
+Ana Isabela is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Haggerston, London on Sat, 15 Aug 2026.
 
 Ana Isabela is a baile funk and garage artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside DJABLÈS, HARUNA (2) and Onda Saoco. Next up: The Haggerston, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ana Isabela is a baile funk and garage artist based in United Kingdom, tracked o
 
 DJABLÈS, HARUNA (2), Onda Saoco
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaisabela/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaisabela/)*

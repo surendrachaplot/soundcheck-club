@@ -1,6 +1,6 @@
 # Blackromeo
 
-Blackromeo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Blackromeo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Blackromeo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Ben Dursley, Bezi and DJ 2C. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Blackromeo is a house and tech house artist based in United Kingdom, tracked on 
 
 Ben Dursley, Bezi, DJ 2C
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackromeo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackromeo/)*

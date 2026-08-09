@@ -1,6 +1,6 @@
 # Underground Resistance
 
-Underground Resistance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
+Underground Resistance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
 
 Underground Resistance is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Mark Flash, Huey Mnemonic and Christian AB. Next up: The Airliner, Losangeles on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Underground Resistance is a techno and house artist based in United States of Am
 
 Mark Flash, Huey Mnemonic, Christian AB
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*

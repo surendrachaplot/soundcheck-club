@@ -1,6 +1,6 @@
 # Middlesex
 
-Middlesex is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "KEEP ON - CAKEWALK (OPEN TO CLOSE)" on Thu, 13 Aug 2026.
+Middlesex is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "KEEP ON - CAKEWALK (OPEN TO CLOSE)" on Thu, 13 Aug 2026.
 
 Middlesex is a music venue in Boston listed on soundcheck. 3 upcoming nights, with line-ups including Brianna Paon, Leon Vynehall and Wiersma. Browse upcoming dates, start times and who's playing. 315 Massachusetts Avenue; Cambridge, MA 02139; United States.
 
@@ -16,4 +16,4 @@ Middlesex is a music venue in Boston listed on soundcheck. 3 upcoming nights, wi
 
 315 Massachusetts Avenue; Cambridge, MA 02139; United States, Boston
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/middlesex/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/middlesex/)*

@@ -1,6 +1,6 @@
 # Jae Depz
 
-Jae Depz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Mint Warehouse, Leeds on Sat, 19 Sept 2026.
+Jae Depz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mint Warehouse, Leeds on Sat, 19 Sept 2026.
 
 Jae Depz is a garage and house artist tracked on soundcheck, with 7 sets logged across Leeds, Manchester and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: Mint Warehouse, Leeds on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Jae Depz is a garage and house artist tracked on soundcheck, with 7 sets logged 
 
 camukg, Bassboy, Burgaboy
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaedepz/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaedepz/)*

@@ -1,6 +1,6 @@
 # Emanate
 
-Emanate is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - UNDISCLOSED LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
+Emanate is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - UNDISCLOSED LOCATION, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Emanate is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, Damienn and Matony. Next up: TBA - UNDISCLOSED LOCATION, Sanfrancisco on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Emanate is a techno and progressive house artist based in United States of Ameri
 
 HIDRA, Damienn, Matony
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*

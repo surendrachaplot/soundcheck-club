@@ -1,6 +1,6 @@
 # Dan Howell
 
-Dan Howell is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
+Dan Howell is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Two More Years, London on Sat, 15 Aug 2026.
 
 Dan Howell is a disco and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Franklin DJ and Giles Smith. Next up: Two More Years, London on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ Dan Howell is a disco and house artist based in United Kingdom, tracked on sound
 
 Franklin DJ, Giles Smith
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danhowell-uk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danhowell-uk/)*

@@ -1,6 +1,6 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Raphael Carrau is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Raphael Carrau is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Austin, Bali and Bangkok and 37 more. Often billed alongside Unai Trotti, Colin Chiddle and Vass. Next up: Sunseabar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Raphael Carrau is a house and techno artist tracked on soundcheck, with 134 sets
 
 Unai Trotti, Colin Chiddle, Vass
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*

@@ -1,6 +1,6 @@
 # lifeloose
 
-lifeloose is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Concept Haus, Manchester on Sat, 15 Aug 2026.
+lifeloose is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Concept Haus, Manchester on Sat, 15 Aug 2026.
 
 lifeloose is an electronica and electro artist tracked on soundcheck, with 12 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Alexis, Krunx and PVA. Next up: Concept Haus, Manchester on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ lifeloose is an electronica and electro artist tracked on soundcheck, with 12 se
 
 Alexis, Krunx, PVA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeloose/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeloose/)*

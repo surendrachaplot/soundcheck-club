@@ -1,6 +1,6 @@
 # Nondough
 
-Nondough is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Moondog Hifi, New York City on Thu, 13 Aug 2026.
+Nondough is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Moondog Hifi, New York City on Thu, 13 Aug 2026.
 
 Nondough is a funk / soul and disco artist tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Gossamer, Jahveri and Neil Macc. Next up: Moondog Hifi, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Nondough is a funk / soul and disco artist tracked on soundcheck, with 23 sets l
 
 Gossamer, Jahveri, Neil Macc
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nondough/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nondough/)*

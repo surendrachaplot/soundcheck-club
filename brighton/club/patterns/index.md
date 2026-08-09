@@ -1,14 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Bora Bora Music" on Sat, 8 Aug 2026.
+Patterns is a music venue in Brighton with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "10 Years of Sunshine Soul: Luke Solomon & Marcia Carr" on Fri, 28 Aug 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including Al Bradley, Benji Hedonator, BIKINIWAX (2) and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), CC:DISCO! and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Bora Bora Music | Al Bradley, Dave Gallier, Gee Moore, Pete Bones |
 | Fri, 28 Aug 2026 | 10 Years of Sunshine Soul: Luke Solomon & Marcia Carr | Luke Solomon, Marcia Carr, Mylo Harvey |
 | Sun, 30 Aug 2026 | CC:DISCO! Terrace Party | CC:DISCO!, Discokid, Wildblood and Queenie |
 | Fri, 4 Sept 2026 | GRASSROOTS - FREE First Fridays - Disco, Funk & House - 04/09/26 |  |
@@ -18,9 +17,10 @@ Patterns is a music venue in Brighton listed on soundcheck. 11 upcoming nights, 
 | Fri, 25 Sept 2026 | Freshly Baked - Basement Rave |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
+| Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

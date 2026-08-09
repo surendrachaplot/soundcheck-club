@@ -1,6 +1,6 @@
 # GRRLCRRSH
 
-GRRLCRRSH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - downtown t.o., Toronto on Sat, 5 Sept 2026.
+GRRLCRRSH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - downtown t.o., Toronto on Sat, 5 Sept 2026.
 
 GRRLCRRSH is a techno and bass artist tracked on soundcheck, with 45 sets logged across Newyorkcity and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: TBA - downtown t.o., Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ GRRLCRRSH is a techno and bass artist tracked on soundcheck, with 45 sets logged
 
 Sappho.XD, Zellers, Hycastle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*

@@ -1,6 +1,6 @@
 # Martin Young
 
-Martin Young is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+Martin Young is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
 
 Martin Young is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Leipzig. Often billed alongside PERISinLE, Chris Manura and RAMPONAGE. Next up: Westhafen, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Martin Young is a house and techno artist based in Germany, tracked on soundchec
 
 PERISinLE, Chris Manura, RAMPONAGE
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinyoung/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinyoung/)*

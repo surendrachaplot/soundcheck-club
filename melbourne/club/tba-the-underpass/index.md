@@ -1,6 +1,6 @@
 # TBA - The Underpass
 
-TBA - The Underpass is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Novel presents Bicep" on Sun, 1 Nov 2026.
+TBA - The Underpass is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Novel presents Bicep" on Sun, 1 Nov 2026.
 
 TBA - The Underpass is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Bicep. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Underpass is a music venue in Melbourne listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Novel presents Bicep | Bicep |
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-the-underpass/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-the-underpass/)*

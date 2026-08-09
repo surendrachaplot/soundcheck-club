@@ -1,14 +1,13 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Nick Warren is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
 
-Nick Warren is a progressive house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Nick Warren is a progressive house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: UNLOCKED, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 5 Sept 2026 | UNLOCKED | London |
 | Sat, 19 Sept 2026 | Q Nightclub | Seattle |
 | Sun, 20 Sept 2026 | Castaways | Chicago |
@@ -23,6 +22,7 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Bristol Amphitheatre & Waterfront Square, Bristol — Fri, 24 Jul 2026
 - Bridge Gardens, Glasgow — Sat, 18 Jul 2026
 - Sala UNI Madrid, Madrid — Fri, 17 Jul 2026
@@ -30,10 +30,9 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 - Cova Santa, Ibiza — Thu, 9 Jul 2026
 - 315 Meserole, New York City — Sun, 5 Jul 2026
 - Stereo, Montreal — Fri, 3 Jul 2026
-- Fünk, Mexico City — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

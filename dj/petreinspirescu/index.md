@@ -1,6 +1,6 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Europa Boat, Budapest on Sat, 19 Sept 2026.
+Petre Inspirescu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Europa Boat, Budapest on Sat, 19 Sept 2026.
 
 Petre Inspirescu is a minimal and house artist based in Romania, tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Europa Boat, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Petre Inspirescu is a minimal and house artist based in Romania, tracked on soun
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

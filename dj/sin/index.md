@@ -1,6 +1,6 @@
 # Sin
 
-Sin is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at A38, Budapest on Fri, 14 Aug 2026.
+Sin is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at A38, Budapest on Fri, 14 Aug 2026.
 
 Sin is a drum & bass and techno artist based in Poland, tracked on soundcheck, with 21 sets logged across Amsterdam, Auckland, Berlin and Bucharest and 6 more. Often billed alongside Chris.SU, Atmospheric Conditions and AuSET. Next up: A38, Budapest on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sin is a drum & bass and techno artist based in Poland, tracked on soundcheck, w
 
 Chris.SU, Atmospheric Conditions, AuSET
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sin/)*

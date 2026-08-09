@@ -1,6 +1,6 @@
 # Monolake
 
-Monolake is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Monolake is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Monolake is a techno and experimental artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Lyon and Sydney. Often billed alongside Spekki Webu, Tatyana Jane and ojoo. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Monolake is a techno and experimental artist based in Germany, tracked on soundc
 
 Spekki Webu, Tatyana Jane, ojoo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monolake/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monolake/)*

@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Paradiso: LOVEFOXY, Kilopatrah Jones, 550am + HARD " on Sat, 8 Aug 2026.
+Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Dominican Night: Sterling Juan Diaz, Puro Sonido, DADA COZMIC, Fried Platano, Maya Margarita " on Sun, 9 Aug 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 550am, MORENXXX, Adred and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including MORENXXX, Adred, ALEXIS DE LA ROSA and Anna Eberg and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Paradiso: LOVEFOXY, Kilopatrah Jones, 550am + HARD  | 550am, BLAIZE, DJ SWISHA, Kilopatrah Jones, LOVEFOXY |
 | Sun, 9 Aug 2026 | Dominican Night: Sterling Juan Diaz, Puro Sonido, DADA COZMIC, Fried Platano, Maya Margarita  | ALEXIS DE LA ROSA, Bendito, DADA COZMIC, Donis, Honey Dip, Jeremy Giros, Maya Margarita, Sterling Juan Diaz, Total XTC, friedplatano |
 | Thu, 13 Aug 2026 | Doss & Friends | Doss |
 | Fri, 14 Aug 2026 | C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado | Coyado, DREAMINSLOW, MORENXXX, Miss Parker, Muerte Lenta, S4M23 |
@@ -18,9 +17,10 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights
 | Fri, 28 Aug 2026 | Pressure: Randomer, Flores Negras, Juno + SLICK DOWN with De Schuurman | De Schuurman, Flores Negras, Juno (NY), Love Higher, Randomer, Simisola, wahala.wav |
 | Sat, 29 Aug 2026 | Paradiso: Todd Terry, Stonie Blue, Madre Guía + DAIYAH, Pure Immanence | DAIYAH, Madre Guía, Pure Immanence, Stonie Blue, Todd Terry |
 | Fri, 4 Sept 2026 | METALHEADZ: Goldie, Adred, Diverge + Anónima, LOKA | Adred, Anónima, Diverge, Goldie, LOKA (US) |
+| Fri, 11 Sept 2026 | Club Stars: dj g2g, River Moon, flotussin + PARKA ALL-STARS | Anna Eberg, DJ Sharf, DREAMINSLOW, Gabi, Pierre Louis, River Moon, Special Guest DJ, dj g2g, flotussin |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

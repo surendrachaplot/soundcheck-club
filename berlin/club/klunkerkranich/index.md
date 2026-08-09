@@ -1,15 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HMWL x Klunkerkranich w. Lex Ludlow, Kaldera, Martin Brodin, Alex Esser, Jesper Aubin" on Sat, 8 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "MONDAY ROAST w. Cem Orlow & Nils Ohrmann" on Mon, 10 Aug 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Boy Oh Boy, Cem Orlow, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Boy Oh Boy, Cem Orlow, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | HMWL x Klunkerkranich w. Lex Ludlow, Kaldera, Martin Brodin, Alex Esser, Jesper Aubin | Jesper Aubin, Kaldera, Lex Ludlow, Martin Brodin, Raj Shindi |
-| Sat, 8 Aug 2026 | LOVE OVERLOAD - HMWL & MINWL Label night | Jesper Aubin, Kaldera, Lex Ludlow, Martin Brodin, Raj Shindi |
 | Mon, 10 Aug 2026 | MONDAY ROAST w. Cem Orlow & Nils Ohrmann | Cem Orlow, Nils Ohrmann |
 | Tue, 11 Aug 2026 | BLAUES STÜNDCHEN w. yvois | yvois |
 | Thu, 13 Aug 2026 | Roof Harder with Moto Moto, Silvi Knallt & Emel White | Emel White, Moto Moto, Silvi Knallt |
@@ -19,4 +17,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

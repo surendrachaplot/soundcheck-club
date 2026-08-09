@@ -1,6 +1,6 @@
 # Stojche
 
-Stojche is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 13 Aug 2026.
+Stojche is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 13 Aug 2026.
 
 Stojche is a techno and dub techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside SHDW, Anika Kunst and Phara. Next up: Les Enfants Brillants, Barcelona on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Stojche is a techno and dub techno artist tracked on soundcheck, with 60 sets lo
 
 SHDW, Anika Kunst, Phara
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*

@@ -1,6 +1,6 @@
 # kts<3
 
-kts<3 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+kts<3 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 kts<3 is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Atletico, Carmelina and DJ Halloumi. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ kts<3 is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Atletico, Carmelina, DJ Halloumi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kts3/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kts3/)*

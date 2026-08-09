@@ -1,6 +1,6 @@
 # Matt Hum
 
-Matt Hum is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Golden Lion, Manchester on Sat, 15 Aug 2026.
+Matt Hum is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Golden Lion, Manchester on Sat, 15 Aug 2026.
 
 Matt Hum is a house and acid artist tracked on soundcheck, with 34 sets logged across Leeds, London and Manchester. Often billed alongside Syd Minsky, Duncan Gray and Erol Alkan. Next up: The Golden Lion, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Matt Hum is a house and acid artist tracked on soundcheck, with 34 sets logged a
 
 Syd Minsky, Duncan Gray, Erol Alkan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthum/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthum/)*

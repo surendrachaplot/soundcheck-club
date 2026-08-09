@@ -1,6 +1,6 @@
 # Sparkling Attitude
 
-Sparkling Attitude is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Homa, Mykonos on Sun, 9 Aug 2026.
+Sparkling Attitude is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Homa, Mykonos on Sun, 9 Aug 2026.
 
 Sparkling Attitude is a disco and house artist based in Italy, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Copenhagen and London and 3 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Homa, Mykonos on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Sparkling Attitude is a disco and house artist based in Italy, tracked on soundc
 
 Bustin' Loose, Tatiana, Magnolia_
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklingattitude/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklingattitude/)*

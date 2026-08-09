@@ -1,6 +1,6 @@
 # Xia (2)
 
-Xia (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Le Red Room, Montreal on Wed, 12 Aug 2026.
+Xia (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Le Red Room, Montreal on Wed, 12 Aug 2026.
 
 Xia (2) is a techno and trance artist based in Canada, tracked on soundcheck, with 38 sets logged across Berlin, Cologne, Lyon and Mexicocity and 3 more. Often billed alongside Corinita, CrisseMarqueur and No Police. Next up: Le Red Room, Montreal on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Xia (2) is a techno and trance artist based in Canada, tracked on soundcheck, wi
 
 Corinita, CrisseMarqueur, No Police
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-2/)*

@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
 
 Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on sou
 
 u.r.trax, DJ Hyperdrive, fka.m4a
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

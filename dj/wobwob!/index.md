@@ -1,6 +1,6 @@
 # WobWob!
 
-WobWob! is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Golden Pudel Club, Hamburg on Sun, 9 Aug 2026.
+WobWob! is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Golden Pudel Club, Hamburg on Sun, 9 Aug 2026.
 
 WobWob! is a bass and dubstep artist tracked on soundcheck, with 8 sets logged across Hamburg. Often billed alongside Der Vinylizer, Phokus and TheNext. Next up: Golden Pudel Club, Hamburg on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ WobWob! is a bass and dubstep artist tracked on soundcheck, with 8 sets logged a
 
 Der Vinylizer, Phokus, TheNext
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wobwob!/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wobwob!/)*

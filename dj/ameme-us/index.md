@@ -1,6 +1,6 @@
 # AMÉMÉ
 
-AMÉMÉ is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at LA-YAM Rooftop, London on Sun, 23 Aug 2026.
+AMÉMÉ is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at LA-YAM Rooftop, London on Sun, 23 Aug 2026.
 
 AMÉMÉ is an afro house and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: LA-YAM Rooftop, London on Sun 23 Aug.
 
@@ -30,4 +30,4 @@ AMÉMÉ is an afro house and house artist tracked on soundcheck, with 140 sets l
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

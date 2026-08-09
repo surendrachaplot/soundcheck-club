@@ -1,6 +1,6 @@
 # Flat White Chris
 
-Flat White Chris is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Movers, Nottingham on Sun, 30 Aug 2026.
+Flat White Chris is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Movers, Nottingham on Sun, 30 Aug 2026.
 
 Flat White Chris is a house and disco artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside IVES, Last Nubian and Alex Traska. Next up: Movers, Nottingham on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Flat White Chris is a house and disco artist based in United Kingdom, tracked on
 
 IVES, Last Nubian, Alex Traska
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flatwhitechris/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flatwhitechris/)*

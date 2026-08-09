@@ -1,6 +1,6 @@
 # leahgte
 
-leahgte is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 14 Aug 2026.
+leahgte is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 14 Aug 2026.
 
 leahgte is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, Bellarosa and Salam Kitty. Next up: The Berkeley Suite, Glasgow on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ leahgte is a techno and bass artist based in United Kingdom, tracked on soundche
 
 Rahul.mp3, Bellarosa, Salam Kitty
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*

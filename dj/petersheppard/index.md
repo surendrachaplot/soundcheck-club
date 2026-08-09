@@ -1,6 +1,6 @@
 # Peter Sheppard
 
-Peter Sheppard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Peter Sheppard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Peter Sheppard is a house and techno artist tracked on soundcheck, with 35 sets logged across Mexicocity and Portland. Often billed alongside Andy Warren, Trustfall and Ginkgo. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Peter Sheppard is a house and techno artist tracked on soundcheck, with 35 sets 
 
 Andy Warren, Trustfall, Ginkgo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*

@@ -1,6 +1,6 @@
 # Mihnea Rog
 
-Mihnea Rog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
+Mihnea Rog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Scânteia +, Bucharest on Fri, 21 Aug 2026.
 
 Mihnea Rog is a techno and house artist based in Romania, tracked on soundcheck, with 17 sets logged across Bucharest and London. Often billed alongside Cap, DumitrEscu and BILA. Next up: Scânteia +, Bucharest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mihnea Rog is a techno and house artist based in Romania, tracked on soundcheck,
 
 Cap, DumitrEscu, BILA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*

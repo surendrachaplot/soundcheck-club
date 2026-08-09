@@ -1,14 +1,13 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 18 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "TOFFLER presents Jill-Ann and friends" on Sat, 8 Aug 2026.
+Toffler is a music venue in Rotterdam with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "TOFFLER presents The Funkmoore Brothers and friends" on Fri, 14 Aug 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 18 upcoming nights, with line-ups including Ammé, Anderdox, Ben Horton and BISOUX and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 17 upcoming nights, with line-ups including Ammé, Anderdox, Ben Horton and BISOUX and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TOFFLER presents Jill-Ann and friends | Jolani Jhones, Vato Gonzalez, emssoleil |
 | Fri, 14 Aug 2026 | TOFFLER presents The Funkmoore Brothers and friends | BISOUX, Cleo Grooves, Keykey |
 | Sat, 15 Aug 2026 | TOFFLER presents LOZO and friends | Anderdox, Chris Brooks, Nick Garcia, Rayen, Wes Colstock |
 | Fri, 21 Aug 2026 | TOFFLER presents LEYO and friends | Ammé, Robin Nicolas |
@@ -18,9 +17,10 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 18 upcoming nights, 
 | Fri, 4 Sept 2026 | TOFFLER presents G-NO and friends | Rob Stillekens |
 | Sat, 5 Sept 2026 | TOFFLER presents Nacho Scoppa and friends | Capron, Cher Semain |
 | Fri, 11 Sept 2026 | TOFFLER presents RAMØN and friends | N00M1, RAMØN, Torsten |
+| Sat, 12 Sept 2026 | TOFFLER presents Karim Soliman and friends | Shades |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

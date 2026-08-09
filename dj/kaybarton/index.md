@@ -1,6 +1,6 @@
 # Kay Barton
 
-Kay Barton is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
+Kay Barton is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
 
 Kay Barton is a techno and club artist based in Austria, tracked on soundcheck, with 16 sets logged across Berlin and Vienna. Often billed alongside PAUNA, Elah and DAV3. Next up: Bredouille, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Kay Barton is a techno and club artist based in Austria, tracked on soundcheck, 
 
 PAUNA, Elah, DAV3
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaybarton/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaybarton/)*

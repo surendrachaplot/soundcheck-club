@@ -1,14 +1,13 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ALL MATTER + ALEDAN" on Sat, 8 Aug 2026.
+M.N.Roy is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Mejia + VH04" on Fri, 14 Aug 2026.
 
-M.N.Roy is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including Baby Mango, Colossio, Irena Stanisic and Mejia and 2 more. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
+M.N.Roy is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including Baby Mango, Colossio, Irena Stanisic and Mejia and 2 more. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | ALL MATTER + ALEDAN |  |
 | Fri, 14 Aug 2026 | Mejia + VH04 | Mejia |
 | Sat, 15 Aug 2026 | Moisees + Baby Mango | Baby Mango, Moisees |
 | Fri, 21 Aug 2026 | Wolffer + IRENA | Irena Stanisic, Wolffer |
@@ -20,4 +19,4 @@ M.N.Roy is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, 
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

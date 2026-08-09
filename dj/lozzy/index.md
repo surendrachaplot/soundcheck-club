@@ -1,6 +1,6 @@
 # Lozzy
 
-Lozzy is a UK Funky and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
+Lozzy is a UK Funky and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
 
 Lozzy is an uk funky and reggaeton artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Bushbby, CITIZEN and Hannah (1). Next up: The Carpet Shop, London on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Lozzy is an uk funky and reggaeton artist based in United Kingdom, tracked on so
 
 Bushbby, CITIZEN, Hannah (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozzy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozzy/)*

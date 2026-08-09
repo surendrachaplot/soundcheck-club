@@ -1,6 +1,6 @@
 # Campdukes
 
-Campdukes is a Breakbeat and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Honey's, New York City on Sat, 5 Sept 2026.
+Campdukes is a Breakbeat and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Honey's, New York City on Sat, 5 Sept 2026.
 
 Campdukes is a breakbeat and baile funk artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Castillonaire, Choo Choo and Heim. Next up: Honey's, Newyorkcity on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Campdukes is a breakbeat and baile funk artist tracked on soundcheck, with 4 set
 
 Castillonaire, Choo Choo, Heim
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/campdukes/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/campdukes/)*

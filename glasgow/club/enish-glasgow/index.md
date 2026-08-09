@@ -1,6 +1,6 @@
 # Enish Glasgow
 
-Enish Glasgow is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jerry Shaffer Live in Glasgow" on Sat, 29 Aug 2026.
+Enish Glasgow is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Jerry Shaffer Live in Glasgow" on Sat, 29 Aug 2026.
 
 Enish Glasgow is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 186 Bath St, Glasgow G2 4HG.
 
@@ -14,4 +14,4 @@ Enish Glasgow is a music venue in Glasgow listed on soundcheck. 1 upcoming night
 
 186 Bath St, Glasgow G2 4HG, Glasgow
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*

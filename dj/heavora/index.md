@@ -1,6 +1,6 @@
 # Heavora
 
-Heavora is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
+Heavora is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
 
 Heavora is a techno and acid artist based in Belgium, tracked on soundcheck, with 9 sets logged across Antwerp, Brussels, Ghent and Paris. Often billed alongside Minopolska, Abdénord and BOTL. Next up: Kilomètre25, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Heavora is a techno and acid artist based in Belgium, tracked on soundcheck, wit
 
 Minopolska, Abdénord, BOTL
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*

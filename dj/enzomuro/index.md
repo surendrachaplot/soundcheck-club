@@ -1,6 +1,6 @@
 # Enzo Muro
 
-Enzo Muro is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - DTLA, Los Angeles on Sun, 9 Aug 2026.
+Enzo Muro is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - DTLA, Los Angeles on Sun, 9 Aug 2026.
 
 Enzo Muro is a house and minimal artist tracked on soundcheck, with 62 sets logged across Berlin, Bucharest, Losangeles and Prague and 2 more. Often billed alongside Ray Kash, Artur (US) and Silky. Next up: TBA - DTLA, Losangeles on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Enzo Muro is a house and minimal artist tracked on soundcheck, with 62 sets logg
 
 Ray Kash, Artur (US), Silky
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzomuro/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzomuro/)*

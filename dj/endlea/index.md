@@ -1,6 +1,6 @@
 # endléa
 
-endléa is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
+endléa is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at arkaoda Berlin, Berlin on Thu, 20 Aug 2026.
 
 endléa is an ambient and bass artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Andriy K., alizé.e and AXT. Next up: arkaoda Berlin, Berlin on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ endléa is an ambient and bass artist tracked on soundcheck, with 7 sets logged 
 
 Andriy K., alizé.e, AXT
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endlea/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endlea/)*

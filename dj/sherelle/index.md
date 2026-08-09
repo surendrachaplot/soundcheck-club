@@ -1,14 +1,13 @@
 # SHERELLE
 
-SHERELLE is a Techno and Jungle artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+SHERELLE is a Techno and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Burgess Park, London on Sat 8 Aug.
+SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Burgess Park | London |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | Burgess Park | London |
 | Sat, 5 Sept 2026 | The White Hotel | Manchester |
@@ -20,6 +19,7 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logg
 
 ## Recently played
 
+- Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Garage Noord, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -27,10 +27,9 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 174 sets logg
 - Circolo Magnolia, Milan — Fri, 10 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Het Twiske, Amsterdam — Sat, 23 May 2026
-- Kyoto Fuminnomori Hiyoshi, Kyoto — Sat, 16 May 2026
 
 ## Shares bills with
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

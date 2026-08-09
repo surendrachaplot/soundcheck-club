@@ -1,6 +1,6 @@
 # Dom Ore
 
-Dom Ore is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Jago, London on Sat, 15 Aug 2026.
+Dom Ore is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Jago, London on Sat, 15 Aug 2026.
 
 Dom Ore is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London and Sheffield. Often billed alongside Alena Arpels, LEV (UK) and Chris Wheatley. Next up: The Jago, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Dom Ore is a funk / soul and disco artist based in United Kingdom, tracked on so
 
 Alena Arpels, LEV (UK), Chris Wheatley
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domore/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domore/)*

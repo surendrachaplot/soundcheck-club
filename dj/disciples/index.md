@@ -1,6 +1,6 @@
 # Disciples
 
-Disciples is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 13 Aug 2026.
+Disciples is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Disciples is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Brighton, Ibiza and London and 2 more. Often billed alongside Calvin Harris, Danny Howard and Jess Bays. Next up: Ushuaïa Ibiza, Ibiza on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Disciples is a house and progressive house artist based in United Kingdom, track
 
 Calvin Harris, Danny Howard, Jess Bays
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disciples/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disciples/)*

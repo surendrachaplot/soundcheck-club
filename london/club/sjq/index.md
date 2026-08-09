@@ -1,6 +1,6 @@
 # SJQ
 
-SJQ is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DIME 'Sitting Stealth' EP Release" on Tue, 18 Aug 2026.
+SJQ is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "DIME 'Sitting Stealth' EP Release" on Tue, 18 Aug 2026.
 
 SJQ is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Gus de Silva, Wan Tu and Yaz Lancaster. Browse upcoming dates, start times and who's playing. 10a Bradbury Street , Dalston, N16 8JH.
 
@@ -17,4 +17,4 @@ SJQ is a music venue in London listed on soundcheck. 4 upcoming nights, with lin
 
 10a Bradbury Street , Dalston, N16 8JH, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*

@@ -1,18 +1,18 @@
 # Tommy Cornelis
 
-Tommy Cornelis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at DC9, Washington DC on Sat, 8 Aug 2026.
+Tommy Cornelis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
-Tommy Cornelis is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Denver, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: DC9, Washingtondc on Sat 8 Aug.
+Tommy Cornelis is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Denver, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | DC9 | Washington DC |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 
 ## Recently played
 
+- DC9, Washington DC — Sat, 8 Aug 2026
 - Showtime Lounge, Washington DC — Sun, 19 Jul 2026
 - DC9, Washington DC — Sat, 11 Jul 2026
 - Showtime Lounge, Washington DC — Sun, 21 Jun 2026
@@ -20,10 +20,9 @@ Tommy Cornelis is a house and techno artist based in United States of America, t
 - Denver Eagle, Denver — Sat, 16 May 2026
 - DC9, Washington DC — Sat, 9 May 2026
 - Showtime Lounge, Washington DC — Sun, 19 Apr 2026
-- Showtime Lounge, Washington DC — Sun, 15 Mar 2026
 
 ## Shares bills with
 
 Joyce Lim, Baronhawk Poitier, Dean Sullivan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*

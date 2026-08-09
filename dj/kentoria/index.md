@@ -1,8 +1,8 @@
 # Kent Oria
 
-Kent Oria is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
+Kent Oria is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
 
-Kent Oria is a techno and house artist based in Japan, tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside DANA NADA, ACHIRI and Jiho. Next up: VENT, Tokyo on Mon 10 Aug.
+Kent Oria is a techno and house artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside DANA NADA, ACHIRI and DANDAN. Next up: VENT, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kent Oria is a techno and house artist based in Japan, tracked on soundcheck, wi
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | VENT | Tokyo |
 | Fri, 21 Aug 2026 | Cave | Tokyo |
+| Fri, 11 Sept 2026 | TBA -     | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Kent Oria is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 ## Shares bills with
 
-DANA NADA, ACHIRI, Jiho
+DANA NADA, ACHIRI, DANDAN
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentoria/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentoria/)*

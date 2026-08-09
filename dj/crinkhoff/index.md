@@ -1,6 +1,6 @@
 # Crinkhoff
 
-Crinkhoff is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Waterhouse Studios, Amsterdam on Fri, 14 Aug 2026.
+Crinkhoff is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Waterhouse Studios, Amsterdam on Fri, 14 Aug 2026.
 
 Crinkhoff is a house and techno artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam and Barcelona. Often billed alongside DJ Delivero, Stëfän Däniëls and ESTRELLA. Next up: Waterhouse Studios, Amsterdam on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Crinkhoff is a house and techno artist based in Netherlands, tracked on soundche
 
 DJ Delivero, Stëfän Däniëls, ESTRELLA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crinkhoff/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crinkhoff/)*

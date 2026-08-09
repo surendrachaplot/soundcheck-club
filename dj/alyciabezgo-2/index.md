@@ -1,14 +1,13 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
+Alycia Bezgo is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
 
-Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Athens and Basel and 21 more. Often billed alongside Helena Lauwaert, I Hate Models and BIIANCO. Next up: Hippodrome de Vincennes, Paris on Sat 8 Aug.
+Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Athens and Basel and 21 more. Often billed alongside Helena Lauwaert, I Hate Models and BIIANCO. Next up: TBA, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Hippodrome de Vincennes | Paris |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
@@ -19,6 +18,7 @@ Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundche
 
 ## Recently played
 
+- Hippodrome de Vincennes, Paris — Sat, 8 Aug 2026
 - Beton-T, Utrecht — Sat, 1 Aug 2026
 - Tokonoma Club, Frankfurt — Sat, 25 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 4 Jul 2026
@@ -26,10 +26,9 @@ Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundche
 - Arzenal, Budapest — Fri, 3 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Lokschuppen Berlin, Berlin — Sat, 20 Jun 2026
-- BASIS, Utrecht — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Helena Lauwaert, I Hate Models, BIIANCO
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

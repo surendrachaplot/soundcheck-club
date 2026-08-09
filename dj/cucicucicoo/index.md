@@ -1,6 +1,6 @@
 # cuci cuci coo
 
-cuci cuci coo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Piccadilly Central, Manchester on Fri, 28 Aug 2026.
+cuci cuci coo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Piccadilly Central, Manchester on Fri, 28 Aug 2026.
 
 cuci cuci coo is a techno and progressive house artist tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside Andriy K., Archypness and colell. Next up: Piccadilly Central, Manchester on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ cuci cuci coo is a techno and progressive house artist tracked on soundcheck, wi
 
 Andriy K., Archypness, colell
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*

@@ -1,6 +1,6 @@
 # The Fridge
 
-The Fridge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Reading, Debris Bardot, Clothes, Nice Breeze" on Thu, 13 Aug 2026.
+The Fridge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Reading, Debris Bardot, Clothes, Nice Breeze" on Thu, 13 Aug 2026.
 
 The Fridge is a music venue in Washingtondc listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 516 8th St SE Rear Alley, Washington, DC 20003; United States.
 
@@ -14,4 +14,4 @@ The Fridge is a music venue in Washingtondc listed on soundcheck. 1 upcoming nig
 
 516 8th St SE Rear Alley, Washington, DC 20003; United States, Washington DC
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/the-fridge/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/the-fridge/)*

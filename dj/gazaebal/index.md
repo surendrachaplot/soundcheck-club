@@ -1,6 +1,6 @@
 # gazaebal
 
-gazaebal is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+gazaebal is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
 gazaebal is an experimental and ambient artist based in South Korea, tracked on soundcheck, with 18 sets logged across Basel, Berlin, London and Sanfrancisco and 2 more. Often billed alongside ABOPF, Austen and Blood of Aza. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ gazaebal is an experimental and ambient artist based in South Korea, tracked on 
 
 ABOPF, Austen, Blood of Aza
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazaebal/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazaebal/)*

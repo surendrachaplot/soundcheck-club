@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Clock Factory, Bristol on Sat, 26 Sept 2026.
+Yung Singh is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Clock Factory, Bristol on Sat, 26 Sept 2026.
 
 Yung Singh is a garage and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Auckland and Austin and 55 more. Often billed alongside Bakey, salute and Ryota. Next up: The Clock Factory, Bristol on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 170 sets log
 
 Bakey, salute, Ryota
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

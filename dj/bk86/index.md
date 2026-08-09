@@ -1,6 +1,6 @@
 # BK86
 
-BK86 is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
+BK86 is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Crate Brewery, London on Sat, 15 Aug 2026.
 
 BK86 is an electronic artist based in Ireland, tracked on soundcheck, with 5 sets logged across Dublin and London. Often billed alongside JWY (1), DATA RYDER and Becky (2). Next up: Crate Brewery, London on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ BK86 is an electronic artist based in Ireland, tracked on soundcheck, with 5 set
 
 JWY (1), DATA RYDER, Becky (2)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bk86/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bk86/)*

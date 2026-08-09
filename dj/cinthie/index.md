@@ -1,14 +1,13 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Cinthie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Cinthie is a house and techno artist tracked on soundcheck, with 276 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
+Cinthie is a house and techno artist tracked on soundcheck, with 276 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Hï Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
 | Tue, 8 Sept 2026 | Cova Santa | Ibiza |
@@ -21,6 +20,7 @@ Cinthie is a house and techno artist tracked on soundcheck, with 276 sets logged
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 - Sub Club, Glasgow — Sun, 2 Aug 2026
 - Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
@@ -28,10 +28,9 @@ Cinthie is a house and techno artist tracked on soundcheck, with 276 sets logged
 - Cova Santa, Ibiza — Tue, 7 Jul 2026
 - Sparta Schwimmclub, Frankfurt — Sun, 5 Jul 2026
 - Club der Visionaere, Berlin — Wed, 17 Jun 2026
-- BRET, Amsterdam — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

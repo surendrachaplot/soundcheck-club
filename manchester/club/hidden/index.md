@@ -1,14 +1,13 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 18 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky " on Sat, 8 Aug 2026.
+Hidden is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Parallel: Keefy G + Support" on Fri, 21 Aug 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Chimpo and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Jungle & DNB Rave presents: Chimpo & Friends, DJ Flight, Spooky  | Chimpo, DJ Flight, Spooky |
 | Fri, 21 Aug 2026 | Parallel: Keefy G + Support | Hanz, Jovak, K1ng Arthur, Keefy G |
 | Sun, 30 Aug 2026 | Luke Una presents É Soul Cultura | Luke Una |
 | Fri, 11 Sept 2026 | Parallel: Christian AB & Touré | Christian AB, Touré |
@@ -18,9 +17,10 @@ Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming nights, 
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
 | Sat, 19 Sept 2026 | Hardt Antoine + Support - Klubnacht Series | Hardt Antoine |
 | Mon, 21 Sept 2026 | Ghosts of Garage: A FRESH START | Charlie Shell, LARISHKA (UK), Rich Reason, T-Man (UK) |
+| Thu, 24 Sept 2026 | Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends  | Fixate, Fracture, Hanz, Kahn, Sir Spyro, Tailor Jae, Trends, VXRGO |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

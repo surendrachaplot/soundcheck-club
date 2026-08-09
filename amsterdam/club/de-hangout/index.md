@@ -1,6 +1,6 @@
 # De Hangout
 
-De Hangout is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "New Amsterdam Beach takeover" on Sat, 15 Aug 2026.
+De Hangout is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "New Amsterdam Beach takeover" on Sat, 15 Aug 2026.
 
 De Hangout is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Dan Dusty, Doppelgang and Maruwa. Browse upcoming dates, start times and who's playing. Reyndersweg 201, 1951 LB Velsen-Noord.
 
@@ -15,4 +15,4 @@ De Hangout is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights
 
 Reyndersweg 201, 1951 LB Velsen-Noord, Amsterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-hangout/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-hangout/)*

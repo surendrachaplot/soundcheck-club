@@ -1,14 +1,13 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Loveland Festival Official Afterparty (Sat)" on Sat, 8 Aug 2026.
+Lofi is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Loveland Festival Official Afterparty (Sun)" on Sun, 9 Aug 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including 1991 (UK), Maqossa, Yulia Niko and AC13 and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including 1991 (UK), Yulia Niko, AC13 and Agonis and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Loveland Festival Official Afterparty (Sat) | Bart Skils, Denis Sulta, Laura De Greef, M-High, Manda Moor, Maqossa, Nicole Moudaber, Sandrien, Sven Vath |
 | Sun, 9 Aug 2026 | Loveland Festival Official Afterparty (Sun) | BELLA (NL), Bart Skils, Laura De Greef, Sandrien, Sven Vath |
 | Fri, 14 Aug 2026 | Get Closer | DJ BORING, Luuk van Dijk, Merel Helderman, The Trip |
 | Sat, 15 Aug 2026 | HIGH TEA Festeaval 2026 | 1991 (UK), AC13, Alcemist, Friction, K Motionz, Licia, Monrroe, Shockone |
@@ -18,9 +17,10 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, wit
 | Sun, 6 Sept 2026 | Kirollus [all day long] | Kirollus |
 | Sat, 12 Sept 2026 | Massano - All Night Long | Massano |
 | Sat, 12 Sept 2026 | Lofi by Tjade | Aldonna, Bibi Seck, Cinthie, Demi Riquisimo, Luke Alessi, Tjade |
+| Sat, 19 Sept 2026 | Patio - Summer Closing | AMORAL, Amanda Mussi, BIANKA, Ignez, Mary Lake, Nick Moody, Nørbak, Olivia Mendez, Phara, Setaoc Mass, TAFKAMP, Talismann, Toobris, UFO95, VIL (PT), Valody |
 
 ## Address
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

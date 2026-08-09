@@ -1,6 +1,6 @@
 # The Melrose House
 
-The Melrose House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "SPICE presents: Rush Hour" on Sat, 22 Aug 2026.
+The Melrose House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "SPICE presents: Rush Hour" on Sat, 22 Aug 2026.
 
 The Melrose House is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Aku, Bianca Maieli, DJ SUDI and MTooray. Browse upcoming dates, start times and who's playing. 4216 Melrose ave. Los Angeles, CA 90029.
 
@@ -14,4 +14,4 @@ The Melrose House is a music venue in Losangeles listed on soundcheck. 1 upcomin
 
 4216 Melrose ave. Los Angeles, CA 90029, Los Angeles
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-melrose-house/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-melrose-house/)*

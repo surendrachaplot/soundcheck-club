@@ -1,6 +1,6 @@
 # Cezaire
 
-Cezaire is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Jazz Cafe, London on Sat, 5 Sept 2026.
+Cezaire is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Jazz Cafe, London on Sat, 5 Sept 2026.
 
 Cezaire is a house and disco artist tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Barcelona and Brussels and 10 more. Often billed alongside Darius (FR), Kartell and Didi Han. Next up: The Jazz Cafe, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Cezaire is a house and disco artist tracked on soundcheck, with 44 sets logged a
 
 Darius (FR), Kartell, Didi Han
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*

@@ -1,6 +1,6 @@
 # KOI (MX)
 
-KOI (MX) is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Dolores54, Mexico City on Sat, 22 Aug 2026.
+KOI (MX) is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dolores54, Mexico City on Sat, 22 Aug 2026.
 
 KOI (MX) is an electronica and experimental artist tracked on soundcheck, with 26 sets logged across Chicago and Mexicocity. Often billed alongside DNZA, Sotolo and Swati. Next up: Dolores54, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KOI (MX) is an electronica and experimental artist tracked on soundcheck, with 2
 
 DNZA, Sotolo, Swati
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koi-mx/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koi-mx/)*

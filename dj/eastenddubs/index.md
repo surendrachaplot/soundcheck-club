@@ -1,14 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+East End Dubs is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 271 s
 | Thu, 3 Sept 2026 | BCM | Mallorca |
 | Tue, 8 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 19 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 4 Aug 2026
 - Colorado Charlie, The Hague — Sun, 2 Aug 2026
 - Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 271 s
 - Hï Ibiza, Ibiza — Tue, 28 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 21 Jul 2026
 - Sunset Park Rooftop, New York City — Fri, 17 Jul 2026
-- [UNVRS], Ibiza — Wed, 15 Jul 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

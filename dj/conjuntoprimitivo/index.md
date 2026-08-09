@@ -1,6 +1,6 @@
 # Conjunto Primitivo
 
-Conjunto Primitivo is a Industrial and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Podlasie Club, Chicago on Wed, 19 Aug 2026.
+Conjunto Primitivo is a Industrial and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Podlasie Club, Chicago on Wed, 19 Aug 2026.
 
 Conjunto Primitivo is an industrial and electronica artist tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Beau Wanzer, DJ Manny and Flores Negras. Next up: Podlasie Club, Chicago on Wed 19 Aug.
 
@@ -19,4 +19,4 @@ Conjunto Primitivo is an industrial and electronica artist tracked on soundcheck
 
 Beau Wanzer, DJ Manny, Flores Negras
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conjuntoprimitivo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conjuntoprimitivo/)*

@@ -1,6 +1,6 @@
 # KATA (6)
 
-KATA (6) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
+KATA (6) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
 
 KATA (6) is a techno and tech house artist tracked on soundcheck, with 2 sets logged across Berlin and Hamburg. Often billed alongside Alex Benz, Bailey Brown and Charleen Herzig. Next up: Hoppetosse, Berlin on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ KATA (6) is a techno and tech house artist tracked on soundcheck, with 2 sets lo
 
 Alex Benz, Bailey Brown, Charleen Herzig
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kata-6/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kata-6/)*

@@ -1,6 +1,6 @@
 # The Loco Klub
 
-The Loco Klub is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "BAD WINNER Launch Party" on Sun, 4 Oct 2026.
+The Loco Klub is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "BAD WINNER Launch Party" on Sun, 4 Oct 2026.
 
 The Loco Klub is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including DJ Caramelstick, JAZ IMSKY and SKALAH (UK). Browse upcoming dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
 
@@ -15,4 +15,4 @@ The Loco Klub is a music venue in Bristol listed on soundcheck. 2 upcoming night
 
 Clock Tower Yard, Bristol BS1 6QH, United Kingdom, Bristol
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*

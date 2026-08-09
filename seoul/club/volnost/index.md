@@ -1,14 +1,13 @@
 # Volnost
 
-Volnost is a music venue in Seoul with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Volnost Night" on Sat, 8 Aug 2026.
+Volnost is a music venue in Seoul with 8 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Thursday Volnost" on Thu, 13 Aug 2026.
 
-Volnost is a music venue in Seoul listed on soundcheck. 9 upcoming nights, with line-ups including ASYNC, ccb, CHICHI (2) and CHICHI (KR) and 2 more. Browse upcoming dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
+Volnost is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with line-ups including ASYNC, ccb, CHICHI (2) and CHICHI (KR) and 2 more. Browse upcoming dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Volnost Night | Deekay, Xanexx, mizae lim |
 | Thu, 13 Aug 2026 | Thursday Volnost | Jooheon, Yeonju |
 | Fri, 14 Aug 2026 | Volnost Night | Haeterna, Hogun, odkis |
 | Sat, 15 Aug 2026 | Volnost Night | ASYNC, ComaRobot, chukimaandal |
@@ -22,4 +21,4 @@ Volnost is a music venue in Seoul listed on soundcheck. 9 upcoming nights, with 
 
 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/volnost/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/volnost/)*

@@ -1,6 +1,6 @@
 # Jamie Gunn
 
-Jamie Gunn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
+Jamie Gunn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
 
 Jamie Gunn is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Robbie, Carmen Baía and Breathe. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Jamie Gunn is a house and techno artist based in United Kingdom, tracked on soun
 
 Robbie, Carmen Baía, Breathe
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiegunn/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiegunn/)*

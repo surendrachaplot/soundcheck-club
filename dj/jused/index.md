@@ -1,6 +1,6 @@
 # Jus-Ed
 
-Jus-Ed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
+Jus-Ed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
 
 Jus-Ed is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Boston and Buenosaires and 14 more. Often billed alongside Move D, Doreen and Maayan Nidam. Next up: Pas Berlin, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Jus-Ed is a house and techno artist tracked on soundcheck, with 53 sets logged a
 
 Move D, Doreen, Maayan Nidam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jused/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jused/)*

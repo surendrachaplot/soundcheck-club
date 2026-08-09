@@ -1,6 +1,6 @@
 # The Church Nightclub
 
-The Church Nightclub is a music venue in Denver with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ero808 x HNTR" on Sat, 29 Aug 2026.
+The Church Nightclub is a music venue in Denver with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "ero808 x HNTR" on Sat, 29 Aug 2026.
 
 The Church Nightclub is a music venue in Denver listed on soundcheck. 6 upcoming nights, with line-ups including Carlita, Claptone and HNTR. Browse upcoming dates, start times and who's playing. 1160 Lincoln St, Denver, CO 80203.
 
@@ -19,4 +19,4 @@ The Church Nightclub is a music venue in Denver listed on soundcheck. 6 upcoming
 
 1160 Lincoln St, Denver, CO 80203, Denver
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-church-nightclub/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-church-nightclub/)*

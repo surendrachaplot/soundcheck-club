@@ -1,14 +1,13 @@
 # Megix
 
-Megix is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
+Megix is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
 
-Megix is a techno and industrial artist tracked on soundcheck, with 84 sets logged across Basel, Cologne, Frankfurt and Geneva and 6 more. Often billed alongside CAERMI, Galopp and dasstudach. Next up: MÄX, Zurich on Sat 8 Aug.
+Megix is a techno and industrial artist tracked on soundcheck, with 84 sets logged across Basel, Cologne, Frankfurt and Geneva and 6 more. Often billed alongside CAERMI, Galopp and dasstudach. Next up: Hive Club, Zurich on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | MÄX | Zurich |
 | Fri, 28 Aug 2026 | Hive Club | Zurich |
 | Sat, 29 Aug 2026 | Hafenkran | Basel |
 | Fri, 4 Sept 2026 | Zoo | Geneva |
@@ -17,6 +16,7 @@ Megix is a techno and industrial artist tracked on soundcheck, with 84 sets logg
 
 ## Recently played
 
+- MÄX, Zurich — Sat, 8 Aug 2026
 - Aurathebunker, Grellingen (CH), Basel — Sat, 11 Jul 2026
 - Zinkbad Eventhalle, Zurich — Sat, 13 Jun 2026
 - Hive Club, Zurich — Fri, 12 Jun 2026
@@ -24,10 +24,9 @@ Megix is a techno and industrial artist tracked on soundcheck, with 84 sets logg
 - Zinkbad Eventhalle, Zurich — Fri, 1 May 2026
 - Zinkbad Eventhalle, Zurich — Fri, 1 May 2026
 - Lehmann Club, Stuttgart — Sat, 18 Apr 2026
-- MÄX, Zurich — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 CAERMI, Galopp, dasstudach
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*

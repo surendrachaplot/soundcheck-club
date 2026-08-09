@@ -1,6 +1,6 @@
 # Rita Blue
 
-Rita Blue is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pumpehuset, Copenhagen on Thu, 13 Aug 2026.
+Rita Blue is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pumpehuset, Copenhagen on Thu, 13 Aug 2026.
 
 Rita Blue is an electronic artist tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Gavnlig, dragongirl and DJ Woo Girl. Next up: Pumpehuset, Copenhagen on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Rita Blue is an electronic artist tracked on soundcheck, with 4 sets logged acro
 
 Gavnlig, dragongirl, DJ Woo Girl
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ritablue/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ritablue/)*

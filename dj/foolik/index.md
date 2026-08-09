@@ -1,6 +1,6 @@
 # Foolik
 
-Foolik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Foolik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Foolik is a techno and house artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Pauli Pocket, Peter Schumann and Falke. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Foolik is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Pauli Pocket, Peter Schumann, Falke
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foolik/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foolik/)*

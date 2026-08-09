@@ -1,6 +1,6 @@
 # kstrobez
 
-kstrobez is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Sultan Room, New York City on Fri, 14 Aug 2026.
+kstrobez is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Sultan Room, New York City on Fri, 14 Aug 2026.
 
 kstrobez is a jungle and drum & bass artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside 32LVS, Gina Turner and KC (NYC). Next up: The Sultan Room, Newyorkcity on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ kstrobez is a jungle and drum & bass artist tracked on soundcheck, with 4 sets l
 
 32LVS, Gina Turner, KC (NYC)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kstrobez/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kstrobez/)*

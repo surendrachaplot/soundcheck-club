@@ -1,6 +1,6 @@
 # Eric Furtado
 
-Eric Furtado is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 20 Sept 2026.
+Eric Furtado is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 20 Sept 2026.
 
 Eric Furtado is a house and minimal artist tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside Markov (cult), CVLT and Emma B. Next up: Carmo Rooftop, Lisbon on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Eric Furtado is a house and minimal artist tracked on soundcheck, with 13 sets l
 
 Markov (cult), CVLT, Emma B
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*

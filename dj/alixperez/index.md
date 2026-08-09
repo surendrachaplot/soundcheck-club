@@ -1,14 +1,13 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Alix Perez is a Drum & Bass and Bass artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Jaeger, Oslo on Wed, 12 Aug 2026.
 
-Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: The Prospect Building, Bristol on Sat 8 Aug.
+Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Jaeger, Oslo on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | The Prospect Building | Bristol |
 | Wed, 12 Aug 2026 | Jaeger | Oslo |
 | Fri, 14 Aug 2026 | TRAUM | Antwerp |
 | Wed, 19 Aug 2026 | A38 | Budapest |
@@ -21,6 +20,7 @@ Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets 
 
 ## Recently played
 
+- The Prospect Building, Bristol — Sat, 8 Aug 2026
 - Quarters, Brighton — Fri, 7 Aug 2026
 - Freight Island, Manchester — Sun, 2 Aug 2026
 - Public Works, San Francisco/Oakland — Sat, 4 Apr 2026
@@ -28,10 +28,9 @@ Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets 
 - SILO, New York City — Sat, 28 Mar 2026
 - Warehouse on Watts, Philadelphia — Fri, 27 Mar 2026
 - The Vermont Hollywood, Los Angeles — Fri, 20 Mar 2026
-- Nectar Lounge, Seattle — Thu, 19 Mar 2026
 
 ## Shares bills with
 
 SP:MC, Cesco, Visages
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

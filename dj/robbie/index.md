@@ -1,6 +1,6 @@
 # Robbie
 
-Robbie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 21 Aug 2026.
+Robbie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 21 Aug 2026.
 
 Robbie is a house and techno artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Aberdeen, Auckland, Dundee and Edinburgh and 3 more. Often billed alongside Jamie Gunn, Carmen Baía and Breathe. Next up: La Cheetah Club, Glasgow on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Robbie is a house and techno artist based in United Kingdom, tracked on soundche
 
 Jamie Gunn, Carmen Baía, Breathe
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbie/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbie/)*

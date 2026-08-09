@@ -1,6 +1,6 @@
 # ISHU
 
-ISHU is a Club and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
+ISHU is a Club and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Brixton Radio, London on Sat, 15 Aug 2026.
 
 ISHU is a club and uk funky artist based in India, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Bindās, Missy T and Mithun. Next up: Brixton Radio, London on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ ISHU is a club and uk funky artist based in India, tracked on soundcheck, with 2
 
 Bindās, Missy T, Mithun
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishu/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishu/)*

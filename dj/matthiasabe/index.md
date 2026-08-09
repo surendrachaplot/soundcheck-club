@@ -1,6 +1,6 @@
 # Matthias Abe
 
-Matthias Abe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at West Harlem, Kyoto on Mon, 10 Aug 2026.
+Matthias Abe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at West Harlem, Kyoto on Mon, 10 Aug 2026.
 
 Matthias Abe is a house and techno artist tracked on soundcheck, with 61 sets logged across Kyoto and Osaka. Often billed alongside DJ Master Kohta, Mario Kassian and Mannuma. Next up: West Harlem, Kyoto on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Matthias Abe is a house and techno artist tracked on soundcheck, with 61 sets lo
 
 DJ Master Kohta, Mario Kassian, Mannuma
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasabe/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasabe/)*

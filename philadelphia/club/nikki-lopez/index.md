@@ -1,6 +1,6 @@
 # Nikki Lopez
 
-Nikki Lopez is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Can You Feel It?: A K-Hole Demon Hunter Fundraver" on Mon, 10 Aug 2026.
+Nikki Lopez is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Can You Feel It?: A K-Hole Demon Hunter Fundraver" on Mon, 10 Aug 2026.
 
 Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including DJ Paul T, GorpoPap and Kontravoid. Browse upcoming dates, start times and who's playing. 304 South St, Philadelphia, PA 19147.
 
@@ -15,4 +15,4 @@ Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 2 upcoming ni
 
 304 South St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*

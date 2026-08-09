@@ -1,6 +1,6 @@
 # Lorenzo Senni
 
-Lorenzo Senni is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
+Lorenzo Senni is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
 
 Lorenzo Senni is an experimental and techno artist based in Italy, tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Marcel Dettmann, Daito Manabe and Ryoji Ikeda. Next up: Laak, Thehague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lorenzo Senni is an experimental and techno artist based in Italy, tracked on so
 
 Marcel Dettmann, Daito Manabe, Ryoji Ikeda
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*

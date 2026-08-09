@@ -1,6 +1,6 @@
 # lu:ka
 
-lu:ka is a EBM and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Karmakoma, Belgrade on Sat, 15 Aug 2026.
+lu:ka is a EBM and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Karmakoma, Belgrade on Sat, 15 Aug 2026.
 
 lu:ka is an ebm and electronica artist tracked on soundcheck, with 14 sets logged across Belgrade. Often billed alongside tsola, Ali Guney and Edin (Oma). Next up: Karmakoma, Belgrade on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ lu:ka is an ebm and electronica artist tracked on soundcheck, with 14 sets logge
 
 tsola, Ali Guney, Edin (Oma)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luka/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luka/)*

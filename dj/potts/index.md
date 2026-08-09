@@ -1,6 +1,6 @@
 # Potts
 
-Potts is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Bag Factory, Manchester on Fri, 4 Sept 2026.
+Potts is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Bag Factory, Manchester on Fri, 4 Sept 2026.
 
 Potts is a house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester and Miami. Often billed alongside AbueKev, Betty and Mystics. Next up: The Bag Factory, Manchester on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Potts is a house and drum & bass artist based in United Kingdom, tracked on soun
 
 AbueKev, Betty, Mystics
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/potts/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/potts/)*

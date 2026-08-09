@@ -1,6 +1,6 @@
 # Eyes Wide Shut (US)
 
-Eyes Wide Shut (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jade, New York City on Thu, 13 Aug 2026.
+Eyes Wide Shut (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jade, New York City on Thu, 13 Aug 2026.
 
 Eyes Wide Shut (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity, Rotterdam and Utrecht. Often billed alongside ceviché, Bastienne and Cataract. Next up: Jade, Newyorkcity on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ Eyes Wide Shut (US) is a techno and house artist based in United States of Ameri
 
 ceviché, Bastienne, Cataract
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyeswideshut-us/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyeswideshut-us/)*

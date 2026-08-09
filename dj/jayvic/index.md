@@ -1,6 +1,6 @@
 # Jay Vic
 
-Jay Vic is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at H0l0 Yard, New York City on Sat, 15 Aug 2026.
+Jay Vic is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at H0l0 Yard, New York City on Sat, 15 Aug 2026.
 
 Jay Vic is a house and afro house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Miami and Newyorkcity. Often billed alongside Anthony Romano, LEFTI and Eli Fola. Next up: H0l0 Yard, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jay Vic is a house and afro house artist based in United States of America, trac
 
 Anthony Romano, LEFTI, Eli Fola
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvic/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvic/)*

@@ -1,6 +1,6 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Orbits: Deep Hypnotic Techno with Kairogen" on Sun, 27 Sept 2026.
+McChuills Music Bar is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Orbits: Deep Hypnotic Techno with Kairogen" on Sun, 27 Sept 2026.
 
 McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Chris Hewitt, Deepbass, Fernie and JOC (A Deeper Groove) and 2 more. Browse upcoming dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
@@ -15,4 +15,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 2 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

@@ -1,6 +1,6 @@
 # Jaqullin
 
-Jaqullin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Roxy, Prague on Fri, 14 Aug 2026.
+Jaqullin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Roxy, Prague on Fri, 14 Aug 2026.
 
 Jaqullin is a techno and house artist based in Czech Republic, tracked on soundcheck, with 18 sets logged across Prague. Often billed alongside Broken Robot, Hugorieri and Domek. Next up: Roxy, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jaqullin is a techno and house artist based in Czech Republic, tracked on soundc
 
 Broken Robot, Hugorieri, Domek
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaqullin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaqullin/)*

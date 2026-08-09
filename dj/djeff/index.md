@@ -1,6 +1,6 @@
 # DJEFF
 
-DJEFF is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ministry Of Sound, London on Fri, 11 Sept 2026.
+DJEFF is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Ministry Of Sound, London on Fri, 11 Sept 2026.
 
 DJEFF is an afro house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Ministry Of Sound, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ DJEFF is an afro house and house artist tracked on soundcheck, with 65 sets logg
 
 Black Coffee, CLEIDO, Cincity
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*

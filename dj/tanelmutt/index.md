@@ -1,6 +1,6 @@
 # Tanel Mütt
 
-Tanel Mütt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Tanel Mütt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Tanel Mütt is a techno and house artist tracked on soundcheck, with 48 sets logged across Berlin, Tallinn and Thehague. Often billed alongside Arto, Pavliuk and no-a. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tanel Mütt is a techno and house artist tracked on soundcheck, with 48 sets log
 
 Arto, Pavliuk, no-a
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanelmutt/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanelmutt/)*

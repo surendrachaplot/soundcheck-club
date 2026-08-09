@@ -1,14 +1,13 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Fly Life w Bruce + Ploy" on Sat, 8 Aug 2026.
+Strange Brew is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Dirtytalk & SB present MAYURASHKA" on Fri, 14 Aug 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including Alicia Carrera, Andy Blake, Andy Mac and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 14 upcoming nights, with line-ups including Alicia Carrera, Andy Blake, Andy Mac and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Fly Life w Bruce + Ploy | Bruce, Ploy |
 | Fri, 14 Aug 2026 | Dirtytalk & SB present MAYURASHKA | Dirtytalk, MAYURASHKA |
 | Sat, 15 Aug 2026 | GLASSHOUSE: FREAKENSTEIN & Ellie Anderson | Ellie Anderson, FREAKENSTEIN |
 | Fri, 21 Aug 2026 | Deep Street x Strange Brew with Glenn Underground | Andy Mac, Glenn Underground, Jay L |
@@ -18,9 +17,10 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming night
 | Sun, 30 Aug 2026 | Strange Brew presents Lakuti & Tama Sumo + Winkles | Jamie Slater, Lakuti, Tama Sumo |
 | Sat, 5 Sept 2026 | Strange Brew turns 6! (club show) feat. Andy Blake, Alicia Carrera & Tender T | Alicia Carrera, Andy Blake |
 | Sat, 5 Sept 2026 | Strange Brew turns 6! (live show) ft The Space Lady, Factory Floor | Factory Floor, The Space Lady |
+| Fri, 11 Sept 2026 | Galcher Lustwerk (live) + Ibrahim Alfa Jnr + Daisy Moon | Daisy Moon, Galcher Lustwerk, Ibrahim Alfa |
 
 ## Address
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

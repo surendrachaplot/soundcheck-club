@@ -1,6 +1,6 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 9 Aug 2026.
+Rich NXT is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Rich NXT is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: 528 Ibiza, Ibiza on Sun 9 Aug.
 
@@ -30,4 +30,4 @@ Rich NXT is a house and tech house artist tracked on soundcheck, with 105 sets l
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

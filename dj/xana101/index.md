@@ -1,6 +1,6 @@
 # Xana 101
 
-Xana 101 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+Xana 101 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 Xana 101 is a techno and club artist based in United States of America, tracked on soundcheck, with 92 sets logged across Boston, Chicago, Miami and Newcastle and 2 more. Often billed alongside Cyb3r Bull, Soo Intoit and Vyper. Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Xana 101 is a techno and club artist based in United States of America, tracked 
 
 Cyb3r Bull, Soo Intoit, Vyper
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xana101/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xana101/)*

@@ -1,6 +1,6 @@
 # Shanti People
 
-Shanti People is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Shanti People is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Shanti People is a techno and psytrance artist based in Ukraine, tracked on soundcheck, with 9 sets logged across Barcelona, London, Madrid and Melbourne and 3 more. Often billed alongside Ambient Pino, Astrix and Berg. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Shanti People is a techno and psytrance artist based in Ukraine, tracked on soun
 
 Ambient Pino, Astrix, Berg
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shantipeople/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shantipeople/)*

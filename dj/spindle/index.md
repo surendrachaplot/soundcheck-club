@@ -1,6 +1,6 @@
 # Spindle
 
-Spindle is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Chippo Hotel, Sydney on Sat, 22 Aug 2026.
+Spindle is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Chippo Hotel, Sydney on Sat, 22 Aug 2026.
 
 Spindle is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sydney. Often billed alongside Mike Bee and Pash. Next up: The Chippo Hotel, Sydney on Sat 22 Aug.
 
@@ -18,4 +18,4 @@ Spindle is a drum & bass and jungle artist based in United States of America, tr
 
 Mike Bee, Pash
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spindle/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spindle/)*

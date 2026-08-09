@@ -1,6 +1,6 @@
 # ZO3 (1)
 
-ZO3 (1) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 16 Aug 2026.
+ZO3 (1) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 16 Aug 2026.
 
 ZO3 (1) is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Dundee and Edinburgh. Often billed alongside Lara Sinclair, Casement and DV60. Next up: Sneaky Pete's, Edinburgh on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ ZO3 (1) is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Lara Sinclair, Casement, DV60
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zo3-1/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zo3-1/)*

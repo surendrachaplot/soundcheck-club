@@ -1,6 +1,6 @@
 # Harry Cross
 
-Harry Cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Chicago on Sat, 19 Sept 2026.
+Harry Cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Chicago on Sat, 19 Sept 2026.
 
 Harry Cross is a house and techno artist tracked on soundcheck, with 77 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Madeline (Chi), Club Chow and Horse Meat Disco. Next up: TBA, Chicago on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Harry Cross is a house and techno artist tracked on soundcheck, with 77 sets log
 
 Madeline (Chi), Club Chow, Horse Meat Disco
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrycross/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrycross/)*

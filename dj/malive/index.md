@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Cova Santa, Ibiza on Fri, 14 Aug 2026.
+Malive is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Fri, 14 Aug 2026.
 
 Malive is a house and deep house artist tracked on soundcheck, with 29 sets logged across Athens, Barcelona, Budapest and Ibiza and 12 more. Often billed alongside Jonas Blue, Korolova and Maz (BR). Next up: Cova Santa, Ibiza on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Malive is a house and deep house artist tracked on soundcheck, with 29 sets logg
 
 Jonas Blue, Korolova, Maz (BR)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

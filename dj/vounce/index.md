@@ -1,6 +1,6 @@
 # Vounce
 
-Vounce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Barka Schodki, Warsaw on Fri, 14 Aug 2026.
+Vounce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Barka Schodki, Warsaw on Fri, 14 Aug 2026.
 
 Vounce is a house and techno artist tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Viennaus, DJNIEMUSIAŁ and Dedenia. Next up: Barka Schodki, Warsaw on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Vounce is a house and techno artist tracked on soundcheck, with 4 sets logged ac
 
 Viennaus, DJNIEMUSIAŁ, Dedenia
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vounce/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vounce/)*

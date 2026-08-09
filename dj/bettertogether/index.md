@@ -1,6 +1,6 @@
 # Better Together
 
-Better Together is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Better Together is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Better Together is an electronic artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Cyranotaurus Cortex, Emma Keks and Franz Scala. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -18,4 +18,4 @@ Better Together is an electronic artist based in Germany, tracked on soundcheck,
 
 Cyranotaurus Cortex, Emma Keks, Franz Scala
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bettertogether/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bettertogether/)*

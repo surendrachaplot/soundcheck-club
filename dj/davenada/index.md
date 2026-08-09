@@ -1,6 +1,6 @@
 # Dave Nada
 
-Dave Nada is a Latin Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Culture, Washington DC on Fri, 14 Aug 2026.
+Dave Nada is a Latin Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Culture, Washington DC on Fri, 14 Aug 2026.
 
 Dave Nada is a latin bass and breakbeat artist based in United States of America, tracked on soundcheck, with 3 sets logged across Portland, Sanfrancisco and Washingtondc. Often billed alongside Tittsworth, ALoSo and DJ JUANNY. Next up: Culture, Washingtondc on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Dave Nada is a latin bass and breakbeat artist based in United States of America
 
 Tittsworth, ALoSo, DJ JUANNY
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davenada/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davenada/)*

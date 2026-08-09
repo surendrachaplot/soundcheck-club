@@ -1,14 +1,13 @@
 # Else
 
-Else is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Else Birthday: 40 hrs: Len Faki, Nightmares on Wax, Young Marco, Matrixxman, Kameliia" on Sat, 8 Aug 2026.
+Else is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Else x Hotlord Fest presented by LOVEFOXY" on Fri, 14 Aug 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including ALCATRAZ, ALI3N, Alex Kassian and Amanda Mussi and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including ALCATRAZ, Alex Kassian, Amanda Mussi and Anaté and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Else Birthday: 40 hrs: Len Faki, Nightmares on Wax, Young Marco, Matrixxman, Kameliia | ALI3N, Angel D'lite, Blue Hour, COZi, Carl Bergé, Cecilia Tosh, DJ SOURCE, DJ SUN (CH/DE), DJ Sun, DJ TOOL, Dee Diggs, KVLR, Kameliia, Len Faki, Matrixxman, Nightmares on Wax, Stella Zekri, Stephanie Sykes, Talia Dorr, Thabo, Vincent Neumann, Young Marco, jiyun kim, nthng |
 | Fri, 14 Aug 2026 | Else x Hotlord Fest presented by LOVEFOXY | Bambounou, Eliza Rose, Kevin Saunderson, LACATY, LOVEFOXY |
 | Sat, 15 Aug 2026 | Else x Toy Tonics | Aroop Roy, Barbara Boeing, Emilia Callari, Laurence Guy, Max NRG Supply, Natalie Robinson, Stump Valley |
 | Fri, 21 Aug 2026 | Jackies Open Air Party Berlin - with Dennis Cruz | Aria Santillana, Dan Shake, Dennis Cruz, GIVIO, Nesi, Piem |
@@ -18,9 +17,10 @@ Else is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with l
 | Sat, 29 Aug 2026 | Else x Innellea, Massano, Dyzen, Ede and many more | Anaté, Caleesi, Dyzen, Ede, Innellea, Massano |
 | Sun, 30 Aug 2026 | Hard Feelings - Mischluft All Day Long  | Juicy Romance, M4RY, Mischluft, Ollie Lishman, hawi |
 | Sat, 5 Sept 2026 | Else x Hoe__mies |  |
+| Sun, 6 Sept 2026 | HEISSS I Open Air & Indoor | Byron Yeates, Carly Zeng, MATHILDA (2), Mac Declos, N.R.M, Pablo Bozzi, Patient (MT), SELESSA T., Vincent Neumann |
 
 ## Address
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

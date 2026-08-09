@@ -1,6 +1,6 @@
 # VASSIŁINA
 
-VASSIŁINA is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Cantina Social, Athens on Sun, 9 Aug 2026.
+VASSIŁINA is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Cantina Social, Athens on Sun, 9 Aug 2026.
 
 VASSIŁINA is a pop and club artist based in Greece, tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Catu Diosis, Curses and DJ Problems. Next up: Cantina Social, Athens on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ VASSIŁINA is a pop and club artist based in Greece, tracked on soundcheck, with
 
 Catu Diosis, Curses, DJ Problems
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vassilina/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vassilina/)*

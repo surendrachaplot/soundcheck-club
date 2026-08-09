@@ -1,14 +1,13 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "LYRIX: ONE MORE SONG" on Sat, 8 Aug 2026.
+Cafeteria is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Invisible City presents: CUERPOS (Live)" on Fri, 14 Aug 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including 10cust, Blkvirgo, CUERPOS and DJ Chris (CA) and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including 10cust, CUERPOS, Ficilio and Gremlinz and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | LYRIX: ONE MORE SONG | Blkvirgo, DJ Chris (CA), moodyjooly |
 | Fri, 14 Aug 2026 | Invisible City presents: CUERPOS (Live) | CUERPOS, Ficilio, Marnigurl, Milch (1) |
 | Sat, 15 Aug 2026 | La Rumba Buena |  |
 | Fri, 21 Aug 2026 | unimmune: 10cust | 10cust, sopretty |
@@ -19,4 +18,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

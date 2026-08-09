@@ -1,6 +1,6 @@
 # Sappho.XD
 
-Sappho.XD is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
+Sappho.XD is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
 
 Sappho.XD is a drum & bass and electro artist tracked on soundcheck, with 32 sets logged across Toronto. Often billed alongside Ms. GothicFish, GRRLCRRSH and Hycastle. Next up: TBA, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sappho.XD is a drum & bass and electro artist tracked on soundcheck, with 32 set
 
 Ms. GothicFish, GRRLCRRSH, Hycastle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho.xd/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho.xd/)*

@@ -1,14 +1,13 @@
 # 5A
 
-5A is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Bruno Curtis + Vitor Batista" on Sat, 8 Aug 2026.
+5A is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Hypnotic Black Magic" on Fri, 14 Aug 2026.
 
-5A is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Brusca, Cruz (PT), Hypnotic Black Magic and Pandilla LTD and 2 more. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
+5A is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Brusca, Cruz (PT), Hypnotic Black Magic and Pandilla LTD and 1 more. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Bruno Curtis + Vitor Batista | Vitor Batista |
 | Fri, 14 Aug 2026 | Hypnotic Black Magic | Hypnotic Black Magic |
 | Sat, 15 Aug 2026 | Ze Salvador | Ze Salvador |
 | Fri, 21 Aug 2026 | Brusca + Laura | Brusca |
@@ -20,4 +19,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

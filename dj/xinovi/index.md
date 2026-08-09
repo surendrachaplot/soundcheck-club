@@ -1,6 +1,6 @@
 # XINOVI
 
-XINOVI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
+XINOVI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 15 Aug 2026.
 
 XINOVI is a techno and trance artist tracked on soundcheck, with 75 sets logged across Tokyo. Often billed alongside Daichi Wada, DIV and EVE (1). Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ XINOVI is a techno and trance artist tracked on soundcheck, with 75 sets logged 
 
 Daichi Wada, DIV, EVE (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xinovi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xinovi/)*

@@ -1,6 +1,6 @@
 # JEZZN
 
-JEZZN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 18 Aug 2026.
+JEZZN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 18 Aug 2026.
 
 JEZZN is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside 4NOUK, Chili con Sosa and EGE363. Next up: Der Weiße Hase, Berlin on Tue 18 Aug.
 
@@ -20,4 +20,4 @@ JEZZN is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 4NOUK, Chili con Sosa, EGE363
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzn/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzn/)*

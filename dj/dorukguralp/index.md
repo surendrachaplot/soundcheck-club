@@ -1,6 +1,6 @@
 # Doruk Guralp
 
-Doruk Guralp is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kastel, Istanbul on Fri, 14 Aug 2026.
+Doruk Guralp is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kastel, Istanbul on Fri, 14 Aug 2026.
 
 Doruk Guralp is a house and tech house artist tracked on soundcheck, with 7 sets logged across Istanbul. Often billed alongside Orkun Bozdemir, Ace Brothers and Ali Kuru. Next up: Kastel, Istanbul on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Doruk Guralp is a house and tech house artist tracked on soundcheck, with 7 sets
 
 Orkun Bozdemir, Ace Brothers, Ali Kuru
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorukguralp/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorukguralp/)*

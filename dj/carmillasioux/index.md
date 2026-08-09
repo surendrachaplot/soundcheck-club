@@ -1,6 +1,6 @@
 # Carmilla Sioux
 
-Carmilla Sioux is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+Carmilla Sioux is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
 Carmilla Sioux is a techno and ebm artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 4 more. Often billed alongside Jessica Bellomo, Ianko Dark and Internal Operator. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Carmilla Sioux is a techno and ebm artist based in Spain, tracked on soundcheck,
 
 Jessica Bellomo, Ianko Dark, Internal Operator
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmillasioux/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmillasioux/)*

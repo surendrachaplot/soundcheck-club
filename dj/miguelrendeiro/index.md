@@ -1,6 +1,6 @@
 # Miguel Rendeiro
 
-Miguel Rendeiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
+Miguel Rendeiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
 
 Miguel Rendeiro is a house and techno artist based in Portugal, tracked on soundcheck, with 29 sets logged across Lisbon, Munich and Porto. Often billed alongside OSTINATO, SHIA and Carlos Regadas. Next up: TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Miguel Rendeiro is a house and techno artist based in Portugal, tracked on sound
 
 OSTINATO, SHIA, Carlos Regadas
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrendeiro/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrendeiro/)*

@@ -1,14 +1,13 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Spikey Lee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City on Sat, 15 Aug 2026.
 
-Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: RADION, Amsterdam on Sat 8 Aug.
+Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexicocity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | RADION | Amsterdam |
 | Sat, 15 Aug 2026 | TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08 | Mexico City |
 | Sat, 22 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 29 Aug 2026 | Club NYX | Amsterdam |
@@ -17,6 +16,7 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logg
 
 ## Recently played
 
+- RADION, Amsterdam — Sat, 8 Aug 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Wanderlust, Paris — Thu, 2 Jul 2026
 - Rote Sonne, Munich — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logg
 - BASIS, Utrecht — Sat, 9 May 2026
 - CLUB RAUM, Amsterdam — Mon, 27 Apr 2026
 - CLUB RAUM, Amsterdam — Sun, 26 Apr 2026
-- TBA - Carré montparnasse - 34 rue du Départ, 75014 Paris, Paris — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Lenard Klein, Haeder, VINVAR
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

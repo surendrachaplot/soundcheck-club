@@ -1,6 +1,6 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "JAMMINJAR presents COSMIC NATYAM" on Fri, 14 Aug 2026.
+Era uma vez no Porto is a music venue in Porto with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "JAMMINJAR presents COSMIC NATYAM" on Fri, 14 Aug 2026.
 
 Era uma vez no Porto is a music venue in Porto listed on soundcheck. 3 upcoming nights, with line-ups including Primus V. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
@@ -16,4 +16,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 3 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

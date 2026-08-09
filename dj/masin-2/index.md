@@ -1,6 +1,6 @@
 # MASIN
 
-MASIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Atdge Seoul, Seoul on Sat, 15 Aug 2026.
+MASIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Atdge Seoul, Seoul on Sat, 15 Aug 2026.
 
 MASIN is a techno and industrial artist based in South Korea, tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside HASLA, ComaRobot and Dong. Next up: Atdge Seoul, Seoul on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ MASIN is a techno and industrial artist based in South Korea, tracked on soundch
 
 HASLA, ComaRobot, Dong
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masin-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masin-2/)*

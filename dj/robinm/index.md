@@ -1,6 +1,6 @@
 # Robin M
 
-Robin M is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 9 Aug 2026.
+Robin M is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Robin M is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Ibiza, London and Sanfrancisco. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: Chinois Ibiza, Ibiza on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Robin M is a house and afro house artist based in United Kingdom, tracked on sou
 
 Jeremiah Asiamah, Bedouin, L.A. Dave
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*

@@ -1,6 +1,6 @@
 # Electric Boutique
 
-Electric Boutique is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at A38, Budapest on Thu, 13 Aug 2026.
+Electric Boutique is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at A38, Budapest on Thu, 13 Aug 2026.
 
 Electric Boutique is a house and minimal artist tracked on soundcheck, with 107 sets logged across Budapest. Often billed alongside Monoclick, Lost in Details and Claudio Imperatrice. Next up: A38, Budapest on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Electric Boutique is a house and minimal artist tracked on soundcheck, with 107 
 
 Monoclick, Lost in Details, Claudio Imperatrice
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electricboutique/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electricboutique/)*

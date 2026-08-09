@@ -1,6 +1,6 @@
 # Lüma-G
 
-Lüma-G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Glazart, Paris on Sat, 15 Aug 2026.
+Lüma-G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Glazart, Paris on Sat, 15 Aug 2026.
 
 Lüma-G is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Marseille and Paris. Often billed alongside piaconcept, BABY-B and Leo Von Zbeul. Next up: Glazart, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lüma-G is a house and techno artist based in France, tracked on soundcheck, wit
 
 piaconcept, BABY-B, Leo Von Zbeul
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luma-g/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luma-g/)*

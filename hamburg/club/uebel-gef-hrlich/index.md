@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SesssHH" on Fri, 14 Aug 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SesssHH" on Fri, 14 Aug 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Charleen Herzig, CHIEF QUEEF, dannycookin and davyboi and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -19,4 +19,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 6 upcoming
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

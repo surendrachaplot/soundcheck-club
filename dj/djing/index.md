@@ -1,6 +1,6 @@
 # DJ ing
 
-DJ ing is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Pitatti, Tokyo on Sun, 9 Aug 2026.
+DJ ing is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Pitatti, Tokyo on Sun, 9 Aug 2026.
 
 DJ ing is a house and club artist based in United States of America, tracked on soundcheck, with 29 sets logged across Newyorkcity and Tokyo. Often billed alongside Brant Wolff, To The End. and Mozn. Next up: Pitatti, Tokyo on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ DJ ing is a house and club artist based in United States of America, tracked on 
 
 Brant Wolff, To The End., Mozn
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djing/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djing/)*

@@ -1,6 +1,6 @@
 # Matheus
 
-Matheus is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Distrikt, Prague on Fri, 21 Aug 2026.
+Matheus is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Distrikt, Prague on Fri, 21 Aug 2026.
 
 Matheus is a techno and hardcore artist tracked on soundcheck, with 4 sets logged across Prague. Often billed alongside Paul Krist, Crime Act and Big Lil. Next up: Distrikt, Prague on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Matheus is a techno and hardcore artist tracked on soundcheck, with 4 sets logge
 
 Paul Krist, Crime Act, Big Lil
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matheus/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matheus/)*

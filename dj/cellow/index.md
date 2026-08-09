@@ -1,6 +1,6 @@
 # Cellow
 
-Cellow is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Sky Bar - Hills Hotel Lisboa, Lisbon on Fri, 14 Aug 2026.
+Cellow is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sky Bar - Hills Hotel Lisboa, Lisbon on Fri, 14 Aug 2026.
 
 Cellow is a techno and tech house artist based in Brazil, tracked on soundcheck, with 17 sets logged across Lisbon. Often billed alongside Lucy Snake, Melgazzo (1) and RAQ (BR). Next up: Sky Bar - Hills Hotel Lisboa, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Cellow is a techno and tech house artist based in Brazil, tracked on soundcheck,
 
 Lucy Snake, Melgazzo (1), RAQ (BR)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellow/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellow/)*

@@ -1,6 +1,6 @@
 # The BBE Store
 
-The BBE Store is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Faro & LEV presents: Rosie from the Block & LWANGA" on Fri, 14 Aug 2026.
+The BBE Store is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Faro & LEV presents: Rosie from the Block & LWANGA" on Fri, 14 Aug 2026.
 
 The BBE Store is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Faro, LEV (UK), Love Injection and LWANGA and 1 more. Browse upcoming dates, start times and who's playing. 376 Helmsley Pl, London E8 3SB.
 
@@ -15,4 +15,4 @@ The BBE Store is a music venue in London listed on soundcheck. 2 upcoming nights
 
 376 Helmsley Pl, London E8 3SB, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*

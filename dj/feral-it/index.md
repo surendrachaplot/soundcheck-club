@@ -1,6 +1,6 @@
 # Feral
 
-Feral is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
+Feral is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
 
 Feral is a techno and electronica artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 26 more. Often billed alongside Spekki Webu, Luigi Tozzi and Garçon. Next up: Tresor / Globus, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Feral is a techno and electronica artist tracked on soundcheck, with 66 sets log
 
 Spekki Webu, Luigi Tozzi, Garçon
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*

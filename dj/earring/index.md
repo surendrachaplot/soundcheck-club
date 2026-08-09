@@ -1,6 +1,6 @@
 # earring
 
-earring is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Blank Site, Seoul on Fri, 14 Aug 2026.
+earring is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Blank Site, Seoul on Fri, 14 Aug 2026.
 
 earring is a techno and electro artist tracked on soundcheck, with 28 sets logged across Seoul and Tokyo. Often billed alongside Gosha, Short Finger and ANSR. Next up: Blank Site, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ earring is a techno and electro artist tracked on soundcheck, with 28 sets logge
 
 Gosha, Short Finger, ANSR
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earring/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earring/)*

@@ -1,6 +1,6 @@
 # KAZBONGO
 
-KAZBONGO is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ebisu Senrogiwa, Tokyo on Tue, 11 Aug 2026.
+KAZBONGO is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ebisu Senrogiwa, Tokyo on Tue, 11 Aug 2026.
 
 KAZBONGO is a house and hip-hop artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Isshin, O.Goo and POSTMAN. Next up: Ebisu Senrogiwa, Tokyo on Tue 11 Aug.
 
@@ -23,4 +23,4 @@ KAZBONGO is a house and hip-hop artist based in Japan, tracked on soundcheck, wi
 
 Isshin, O.Goo, POSTMAN
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazbongo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazbongo/)*

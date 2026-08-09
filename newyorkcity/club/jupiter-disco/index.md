@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HEADCRACK: C Powers, Fugitive Artifact" on Sat, 8 Aug 2026.
+Jupiter Disco is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "DJ STEPDAD, Soler System, 3 People" on Sun, 9 Aug 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including C Powers, cry$cross, DJ STEPDAD and Elephantglasses and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including cry$cross, DJ STEPDAD, Elephantglasses and Hard Boiled Babe and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | HEADCRACK: C Powers, Fugitive Artifact | C Powers, Fugitive Artifact |
 | Sun, 9 Aug 2026 | DJ STEPDAD, Soler System, 3 People | DJ STEPDAD |
 | Wed, 12 Aug 2026 | Woke Brian & Friends: s.c.k, sanatswrld, Eddy K | Sanat, Woke Brian, sanatswrld |
 | Thu, 13 Aug 2026 | IBM Doily  The Grouch DJ | IBM Doily, The Grouch Dj |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 17 upcoming 
 | Wed, 19 Aug 2026 | A Midsummers Night Dream: Peter Storm, JØ and DJ Meech |  |
 | Thu, 20 Aug 2026 | VISTA Album Release Party with Mantis Hands | Mantis Hands |
 | Fri, 21 Aug 2026 | The Jukeboxx: James Juke + Willy Soul | James Juke, Willy Soul |
+| Sat, 22 Aug 2026 | Mickey Perez All Night | Mickey Perez |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

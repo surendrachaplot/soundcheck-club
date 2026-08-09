@@ -1,6 +1,6 @@
 # Egyptian Greyhound
 
-Egyptian Greyhound is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at LAUT, Barcelona on Fri, 14 Aug 2026.
+Egyptian Greyhound is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at LAUT, Barcelona on Fri, 14 Aug 2026.
 
 Egyptian Greyhound is a techno and house artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona and Berlin. Often billed alongside -nico-, Alex Kassian and Beniso. Next up: LAUT, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Egyptian Greyhound is a techno and house artist based in Spain, tracked on sound
 
 -nico-, Alex Kassian, Beniso
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptiangreyhound/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptiangreyhound/)*

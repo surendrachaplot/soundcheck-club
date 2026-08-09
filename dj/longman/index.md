@@ -1,6 +1,6 @@
 # Longman
 
-Longman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at A38, Budapest on Fri, 14 Aug 2026.
+Longman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at A38, Budapest on Fri, 14 Aug 2026.
 
 Longman is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across Budapest. Often billed alongside Marka, Markov and Mentalien. Next up: A38, Budapest on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Longman is a drum & bass and jungle artist tracked on soundcheck, with 4 sets lo
 
 Marka, Markov, Mentalien
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/longman/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/longman/)*

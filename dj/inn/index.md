@@ -1,6 +1,6 @@
 # !NN
 
-!NN is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
+!NN is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
 
 !NN is a techno and acid artist tracked on soundcheck, with 8 sets logged across Barcelona and London. Often billed alongside Chris Liberator, ISORA and Marco Coluccio. Next up: Distillery N17, London on Fri 18 Sept.
 
@@ -24,4 +24,4 @@
 
 Chris Liberator, ISORA, Marco Coluccio
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inn/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inn/)*

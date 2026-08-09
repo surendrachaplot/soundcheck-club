@@ -1,6 +1,6 @@
 # EQUISS
 
-EQUISS is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Platform9, Vancouver on Fri, 14 Aug 2026.
+EQUISS is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Platform9, Vancouver on Fri, 14 Aug 2026.
 
 EQUISS is a club and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside OSSX, ELISE (US) and Bok Bok. Next up: Platform9, Vancouver on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ EQUISS is a club and techno artist tracked on soundcheck, with 74 sets logged ac
 
 OSSX, ELISE (US), Bok Bok
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*

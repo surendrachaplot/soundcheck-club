@@ -1,6 +1,6 @@
 # XANDY
 
-XANDY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+XANDY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 XANDY is a techno and house artist tracked on soundcheck, with 20 sets logged across Birmingham, London, Manchester and Riga and 1 more. Often billed alongside INLIMEN, Aeden (1) and Eudoxie. Next up: FOLD, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ XANDY is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 INLIMEN, Aeden (1), Eudoxie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*

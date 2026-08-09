@@ -1,6 +1,6 @@
 # The Grouch Dj
 
-The Grouch Dj is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jupiter Disco, New York City on Thu, 13 Aug 2026.
+The Grouch Dj is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jupiter Disco, New York City on Thu, 13 Aug 2026.
 
 The Grouch Dj is a house and balearic artist based in United States of America, tracked on soundcheck, with 14 sets logged across Austin, Detroit, Montreal and Newyorkcity and 3 more. Often billed alongside IBM Doily, Millos Kaiser and Akin/Non Exist. Next up: Jupiter Disco, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ The Grouch Dj is a house and balearic artist based in United States of America, 
 
 IBM Doily, Millos Kaiser, Akin/Non Exist
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thegrouchdj/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thegrouchdj/)*

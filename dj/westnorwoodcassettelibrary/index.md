@@ -1,6 +1,6 @@
 # West Norwood Cassette Library
 
-West Norwood Cassette Library is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
+West Norwood Cassette Library is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
 
 West Norwood Cassette Library is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Dexta, LMajor and Decibella. Next up: Four Quarters, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ West Norwood Cassette Library is a breakbeat and bass artist based in United Kin
 
 Dexta, LMajor, Decibella
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westnorwoodcassettelibrary/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/westnorwoodcassettelibrary/)*

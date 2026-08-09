@@ -1,6 +1,6 @@
 # Matthew Brian
 
-Matthew Brian is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 26 Aug 2026.
+Matthew Brian is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 26 Aug 2026.
 
 Matthew Brian is a house and deep house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Chicago, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Eric Leonardis, Jesse Austin and Boys Don't Disco. Next up: F8 1192 Folsom, Sanfrancisco on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Matthew Brian is a house and deep house artist based in United States of America
 
 Eric Leonardis, Jesse Austin, Boys Don't Disco
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewbrian/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewbrian/)*

@@ -1,6 +1,6 @@
 # B2BBASS
 
-B2BBASS is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
+B2BBASS is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Teritorija, Riga on Sat, 22 Aug 2026.
 
 B2BBASS is a hardcore and gabber artist based in Latvia, tracked on soundcheck, with 13 sets logged across Riga. Often billed alongside hitomori, porfod and MVKO. Next up: Teritorija, Riga on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ B2BBASS is a hardcore and gabber artist based in Latvia, tracked on soundcheck, 
 
 hitomori, porfod, MVKO
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bbass/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bbass/)*

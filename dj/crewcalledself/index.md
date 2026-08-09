@@ -1,6 +1,6 @@
 # Crew Called Self
 
-Crew Called Self is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Sultan Room, New York City on Mon, 17 Aug 2026.
+Crew Called Self is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Sultan Room, New York City on Mon, 17 Aug 2026.
 
 Crew Called Self is an experimental and techno artist tracked on soundcheck, with 10 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside DBL_BBL, KANZE and void (NYC). Next up: The Sultan Room, Newyorkcity on Mon 17 Aug.
 
@@ -25,4 +25,4 @@ Crew Called Self is an experimental and techno artist tracked on soundcheck, wit
 
 DBL_BBL, KANZE, void (NYC)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crewcalledself/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crewcalledself/)*

@@ -1,6 +1,6 @@
 # Fox Stevenson
 
-Fox Stevenson is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Le Kilowatt, Paris on Fri, 28 Aug 2026.
+Fox Stevenson is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Le Kilowatt, Paris on Fri, 28 Aug 2026.
 
 Fox Stevenson is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 12 more. Often billed alongside Maduk, Delta Heavy and Koven. Next up: Le Kilowatt, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fox Stevenson is a drum & bass and bass artist based in United Kingdom, tracked 
 
 Maduk, Delta Heavy, Koven
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxstevenson/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxstevenson/)*

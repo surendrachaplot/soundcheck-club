@@ -1,6 +1,6 @@
 # Anderson (US)
 
-Anderson (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
+Anderson (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
 
 Anderson (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside DJ Zurückbleiben Bitte, Some Uncertain Sir and Peppe Way. Next up: TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Anderson (US) is a house and techno artist based in United States of America, tr
 
 DJ Zurückbleiben Bitte, Some Uncertain Sir, Peppe Way
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson-us/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson-us/)*

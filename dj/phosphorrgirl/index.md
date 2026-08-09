@@ -1,6 +1,6 @@
 # phosphorrgirl
 
-phosphorrgirl is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
+phosphorrgirl is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - 5510 ellerbie st lanham MD, Washington DC on Sat, 15 Aug 2026.
 
 phosphorrgirl is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Washingtondc. Often billed alongside Hissyfit, America Loves Me and Angel Jelly. Next up: TBA - 5510 ellerbie st lanham MD, Washingtondc on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ phosphorrgirl is a hardcore and techno artist based in United States of America,
 
 Hissyfit, America Loves Me, Angel Jelly
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phosphorrgirl/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phosphorrgirl/)*

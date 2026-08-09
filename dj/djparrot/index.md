@@ -1,6 +1,6 @@
 # DJ Parrot
 
-DJ Parrot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 12 Aug 2026.
+DJ Parrot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 12 Aug 2026.
 
 DJ Parrot is a house and tech house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Sanfrancisco. Often billed alongside Black Panda, HIDRA and Joey Trip. Next up: F8 1192 Folsom, Sanfrancisco on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ DJ Parrot is a house and tech house artist based in United States of America, tr
 
 Black Panda, HIDRA, Joey Trip
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djparrot/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djparrot/)*

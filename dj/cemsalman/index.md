@@ -1,6 +1,6 @@
 # Cem Salman
 
-Cem Salman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kafes x Milo, Istanbul on Sun, 9 Aug 2026.
+Cem Salman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kafes x Milo, Istanbul on Sun, 9 Aug 2026.
 
 Cem Salman is a techno and electronica artist tracked on soundcheck, with 4 sets logged across Istanbul. Often billed alongside Murat Uncuoglu, Phallen and Alican. Next up: Kafes x Milo, Istanbul on Sun 9 Aug.
 
@@ -20,4 +20,4 @@ Cem Salman is a techno and electronica artist tracked on soundcheck, with 4 sets
 
 Murat Uncuoglu, Phallen, Alican
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cemsalman/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cemsalman/)*

@@ -1,6 +1,6 @@
 # Mosai
 
-Mosai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Glove That Fits, London on Sun, 9 Aug 2026.
+Mosai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Glove That Fits, London on Sun, 9 Aug 2026.
 
 Mosai is a techno and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Liverpool, London and Manchester. Often billed alongside Tasman-UK, Debbie. and Kessie. Next up: The Glove That Fits, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Mosai is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Tasman-UK, Debbie., Kessie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*

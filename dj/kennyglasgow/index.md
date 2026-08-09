@@ -1,6 +1,6 @@
 # Kenny Glasgow
 
-Kenny Glasgow is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
+Kenny Glasgow is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
 
 Kenny Glasgow is a house and tech house artist based in Canada, tracked on soundcheck, with 76 sets logged across London, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside RUDEE NIK, Yogi and Art Department. Next up: Valerie Toronto, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Kenny Glasgow is a house and tech house artist based in Canada, tracked on sound
 
 RUDEE NIK, Yogi, Art Department
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyglasgow/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyglasgow/)*

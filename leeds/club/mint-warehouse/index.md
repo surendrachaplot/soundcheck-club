@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Mint Terrace Party: Locklead, Cam Stockman, bullet tooth + more" on Sun, 30 Aug 2026.
+Mint Warehouse is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Mint Terrace Party: Locklead, Cam Stockman, bullet tooth + more" on Sun, 30 Aug 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Alec Falconer, Arty (UK), bullet tooth and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -17,4 +17,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming nights
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

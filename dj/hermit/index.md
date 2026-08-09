@@ -1,6 +1,6 @@
 # Hermit
 
-Hermit is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
+Hermit is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
 Hermit is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and BrassTooth. Next up: Basing House, London on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Hermit is a house and garage artist based in United Kingdom, tracked on soundche
 
 Daniel Ward, DJ Listener, BrassTooth
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*

@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Percebes: This Ain't Chicago" on Sun, 9 Aug 2026.
+Carmo Rooftop is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Percebes: This Ain't Chicago" on Sun, 9 Aug 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Andrew Emil, Eric Furtado, Ka§par and Rui Alves and 1 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -17,4 +17,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming nights
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

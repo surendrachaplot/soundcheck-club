@@ -1,6 +1,6 @@
 # Margella
 
-Margella is a Deep House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Unit 58, London on Fri, 14 Aug 2026.
+Margella is a Deep House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Unit 58, London on Fri, 14 Aug 2026.
 
 Margella is a deep house and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside tasha.mp4, BIDOIS and Noizfiend. Next up: Unit 58, London on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Margella is a deep house and garage artist based in United Kingdom, tracked on s
 
 tasha.mp4, BIDOIS, Noizfiend
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margella/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margella/)*

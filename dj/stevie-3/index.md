@@ -1,6 +1,6 @@
 # stevie (3)
 
-stevie (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
+stevie (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
 stevie (3) is a techno and house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Newcastle, Rotterdam and Thehague. Often billed alongside Rosa, AKZ and AZA. Next up: Laak, Thehague on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ stevie (3) is a techno and house artist tracked on soundcheck, with 5 sets logge
 
 Rosa, AKZ, AZA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevie-3/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevie-3/)*

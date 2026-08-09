@@ -1,14 +1,13 @@
 # Brixton Storeys
 
-Brixton Storeys is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "SUMMER IN BRIXTON: Summer Rooftop Day Party" on Sat, 8 Aug 2026.
+Brixton Storeys is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Jamaican Independence - Rooftop Day Party - Everyone Free Before 6PM" on Sun, 9 Aug 2026.
 
-Brixton Storeys is a music venue in London listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
+Brixton Storeys is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | SUMMER IN BRIXTON: Summer Rooftop Day Party |  |
 | Sun, 9 Aug 2026 | Jamaican Independence - Rooftop Day Party - Everyone Free Before 6PM |  |
 | Sun, 9 Aug 2026 | Bashment & Afrobeats - Rooftop Day Party |  |
 | Sun, 9 Aug 2026 | Slow Jams & R&B - Day Party - Everyone Free Before 6PM |  |
@@ -18,4 +17,4 @@ Brixton Storeys is a music venue in London listed on soundcheck. 5 upcoming nigh
 
 467- 469 Brixton Rd, London SW9 8HH, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*

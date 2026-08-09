@@ -1,6 +1,6 @@
 # Vajdahunyad Castle
 
-Vajdahunyad Castle is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "BLOND:ISH presented by City Takeover x Citymatiné" on Sat, 22 Aug 2026.
+Vajdahunyad Castle is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "BLOND:ISH presented by City Takeover x Citymatiné" on Sat, 22 Aug 2026.
 
 Vajdahunyad Castle is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including BLOND:ISH and Clarkent. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad stny., 1146.
 
@@ -15,4 +15,4 @@ Vajdahunyad Castle is a music venue in Budapest listed on soundcheck. 2 upcoming
 
 Budapest, Vajdahunyad stny., 1146, Budapest
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vajdahunyad-castle/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vajdahunyad-castle/)*

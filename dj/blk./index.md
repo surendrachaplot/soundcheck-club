@@ -1,14 +1,13 @@
 # blk.
 
-blk. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hippodrome de Vincennes, Paris on Sat, 8 Aug 2026.
+blk. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 17 Aug 2026.
 
-blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Charlie Sparks and Basswell. Next up: Hippodrome de Vincennes, Paris on Sat 8 Aug.
+blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Charlie Sparks and Basswell. Next up: Amnesia Ibiza, Ibiza on Mon 17 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Hippodrome de Vincennes | Paris |
 | Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Mon, 7 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -18,6 +17,7 @@ blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged a
 
 ## Recently played
 
+- Hippodrome de Vincennes, Paris — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Mon, 3 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 25 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -25,10 +25,9 @@ blk. is a techno and trance artist tracked on soundcheck, with 137 sets logged a
 - TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
 - Times Square, Newcastle, Newcastle — Sat, 2 May 2026
-- Times Square, Newcastle, Newcastle — Sat, 2 May 2026
 
 ## Shares bills with
 
 Azyr, Charlie Sparks, Basswell
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

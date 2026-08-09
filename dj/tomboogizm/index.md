@@ -1,6 +1,6 @@
 # Tom Boogizm
 
-Tom Boogizm is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The White Hotel, Manchester on Sun, 16 Aug 2026.
+Tom Boogizm is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The White Hotel, Manchester on Sun, 16 Aug 2026.
 
 Tom Boogizm is a bass and club artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Bristol and Brussels and 8 more. Often billed alongside Finn, Chunky and Anz. Next up: The White Hotel, Manchester on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Tom Boogizm is a bass and club artist based in United Kingdom, tracked on soundc
 
 Finn, Chunky, Anz
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*

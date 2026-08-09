@@ -1,14 +1,13 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 18 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "EPROM" on Sat, 8 Aug 2026.
+Q Nightclub is a music venue in Seattle with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "NIFRA + SARAH DE WARREN" on Fri, 14 Aug 2026.
 
-Q Nightclub is a music venue in Seattle listed on soundcheck. 18 upcoming nights, with line-ups including Arlo, Biscits, Classmatic and Cosmic Gate and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
+Q Nightclub is a music venue in Seattle listed on soundcheck. 17 upcoming nights, with line-ups including Arlo, Biscits, Classmatic and Cosmic Gate and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | EPROM | EPROM |
 | Fri, 14 Aug 2026 | NIFRA + SARAH DE WARREN |  |
 | Sat, 15 Aug 2026 | Cosmic Gate | Cosmic Gate |
 | Fri, 21 Aug 2026 | Darude | Darude |
@@ -18,9 +17,10 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 18 upcoming nights
 | Fri, 11 Sept 2026 | MADVKTM - AMALGAMATION TOUR |  |
 | Sat, 12 Sept 2026 | Biscits | Biscits |
 | Fri, 18 Sept 2026 | R3hab | R3hab |
+| Sat, 19 Sept 2026 | Nick Warren | Nick Warren |
 
 ## Address
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

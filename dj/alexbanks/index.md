@@ -1,6 +1,6 @@
 # Alex Banks
 
-Alex Banks is a IDM and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Not For Sale Gallery, London on Fri, 14 Aug 2026.
+Alex Banks is a IDM and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Not For Sale Gallery, London on Fri, 14 Aug 2026.
 
 Alex Banks is an idm and electronica artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Brighton, London and Prague. Often billed alongside Max Cooper, Llyr and Stylus Rex. Next up: Not For Sale Gallery, London on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Alex Banks is an idm and electronica artist based in United Kingdom, tracked on 
 
 Max Cooper, Llyr, Stylus Rex
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbanks/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbanks/)*

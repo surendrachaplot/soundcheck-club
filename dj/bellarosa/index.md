@@ -1,6 +1,6 @@
 # Bellarosa
 
-Bellarosa is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Stereo, Glasgow on Fri, 18 Sept 2026.
+Bellarosa is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Stereo, Glasgow on Fri, 18 Sept 2026.
 
 Bellarosa is a club and ghetto tech artist tracked on soundcheck, with 40 sets logged across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, Salam Kitty and leahgte. Next up: Stereo, Glasgow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bellarosa is a club and ghetto tech artist tracked on soundcheck, with 40 sets l
 
 Rahul.mp3, Salam Kitty, leahgte
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*

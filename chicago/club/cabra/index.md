@@ -1,6 +1,6 @@
 # Cabra
 
-Cabra is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "HOUSE MUSIC ROOFTOP POOL PARTY" on Sun, 9 Aug 2026.
+Cabra is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "HOUSE MUSIC ROOFTOP POOL PARTY" on Sun, 9 Aug 2026.
 
 Cabra is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Soulphonetics. Browse upcoming dates, start times and who's playing. 200 N Green St, Chicago, IL 60607, USA.
 
@@ -14,4 +14,4 @@ Cabra is a music venue in Chicago listed on soundcheck. 1 upcoming night, with l
 
 200 N Green St, Chicago, IL 60607, USA, Chicago
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/cabra/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/cabra/)*

@@ -1,6 +1,6 @@
 # Parker
 
-Parker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Atlantic Sound, Barcelona on Sun, 9 Aug 2026.
+Parker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Atlantic Sound, Barcelona on Sun, 9 Aug 2026.
 
 Parker is a house and tech house artist tracked on soundcheck, with 10 sets logged across Barcelona, Leeds, London and Manchester and 1 more. Often billed alongside Binyamhn, Dan Ghenacia and Gizelle. Next up: Atlantic Sound, Barcelona on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Parker is a house and tech house artist tracked on soundcheck, with 10 sets logg
 
 Binyamhn, Dan Ghenacia, Gizelle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parker/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parker/)*

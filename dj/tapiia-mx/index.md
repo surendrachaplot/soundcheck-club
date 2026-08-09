@@ -1,6 +1,6 @@
 # TAPIIA
 
-TAPIIA is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bar Oriente, Mexico City on Sun, 9 Aug 2026.
+TAPIIA is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bar Oriente, Mexico City on Sun, 9 Aug 2026.
 
 TAPIIA is a techno and reggaeton artist based in Mexico, tracked on soundcheck, with 24 sets logged across Mexicocity. Often billed alongside Adrian Bluper, Madhouse and IRONBOARD. Next up: Bar Oriente, Mexicocity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ TAPIIA is a techno and reggaeton artist based in Mexico, tracked on soundcheck, 
 
 Adrian Bluper, Madhouse, IRONBOARD
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tapiia-mx/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tapiia-mx/)*

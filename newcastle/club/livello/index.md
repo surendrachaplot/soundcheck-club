@@ -1,6 +1,6 @@
 # Livello
 
-Livello is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Take Down" on Sat, 15 Aug 2026.
+Livello is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Take Down" on Sat, 15 Aug 2026.
 
 Livello is a music venue in Newcastle listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Lower Dean Street, 39 Side, Newcastle upon Tyne NE1 3JE.
 
@@ -15,4 +15,4 @@ Livello is a music venue in Newcastle listed on soundcheck. 2 upcoming nights. B
 
 Lower Dean Street, 39 Side, Newcastle upon Tyne NE1 3JE, Newcastle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/livello/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/livello/)*

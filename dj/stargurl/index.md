@@ -1,6 +1,6 @@
 # stargurl
 
-stargurl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Virage, Paris on Wed, 12 Aug 2026.
+stargurl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Virage, Paris on Wed, 12 Aug 2026.
 
 stargurl is a techno and trance artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Cologne and 5 more. Often billed alongside vizionn, DJ Angel (1) and Krl Mx. Next up: Virage, Paris on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ stargurl is a techno and trance artist tracked on soundcheck, with 27 sets logge
 
 vizionn, DJ Angel (1), Krl Mx
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*

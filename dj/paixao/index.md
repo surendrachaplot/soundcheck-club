@@ -1,6 +1,6 @@
 # Paixão
 
-Paixão is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ministerium Club, Lisbon on Sat, 22 Aug 2026.
+Paixão is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministerium Club, Lisbon on Sat, 22 Aug 2026.
 
 Paixão is a techno and house artist based in Portugal, tracked on soundcheck, with 30 sets logged across Berlin, Krakow and Lisbon. Often billed alongside João Melgueira, MESTIZANA and Caroline Lethô. Next up: Ministerium Club, Lisbon on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Paixão is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 João Melgueira, MESTIZANA, Caroline Lethô
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paixao/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paixao/)*

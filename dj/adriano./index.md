@@ -1,6 +1,6 @@
 # Adriano.
 
-Adriano. is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bünker Mataró, Barcelona on Fri, 4 Sept 2026.
+Adriano. is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bünker Mataró, Barcelona on Fri, 4 Sept 2026.
 
 Adriano. is a techno artist tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Atonit, Kala Ros and Yamagico. Next up: Bünker Mataró, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Adriano. is a techno artist tracked on soundcheck, with 11 sets logged across Ba
 
 Atonit, Kala Ros, Yamagico
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriano./)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriano./)*

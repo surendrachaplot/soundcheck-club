@@ -1,6 +1,6 @@
 # Mister Joshooa
 
-Mister Joshooa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
+Mister Joshooa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
 
 Mister Joshooa is a house and techno artist tracked on soundcheck, with 112 sets logged across Berlin, Boston, Chicago and Detroit and 4 more. Often billed alongside Loren, Ataxia and Ashton Swinton. Next up: Marble Bar, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mister Joshooa is a house and techno artist tracked on soundcheck, with 112 sets
 
 Loren, Ataxia, Ashton Swinton
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misterjoshooa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misterjoshooa/)*

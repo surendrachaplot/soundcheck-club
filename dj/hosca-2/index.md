@@ -1,6 +1,6 @@
 # Hosca (2)
 
-Hosca (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 5 Sept 2026.
+Hosca (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - INNER WEST, Sydney on Sat, 5 Sept 2026.
 
 Hosca (2) is a techno and house artist tracked on soundcheck, with 16 sets logged across Barcelona, Osaka and Sydney. Often billed alongside Alex Albrecht, Bichue and Children of The Mist. Next up: TBA - INNER WEST, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hosca (2) is a techno and house artist tracked on soundcheck, with 16 sets logge
 
 Alex Albrecht, Bichue, Children of The Mist
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hosca-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hosca-2/)*

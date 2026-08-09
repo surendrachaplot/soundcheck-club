@@ -1,18 +1,18 @@
 # Matthias Geerts
 
-Matthias Geerts is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Club Vaag, Antwerp on Sat, 8 Aug 2026.
+Matthias Geerts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Secret Bunker , Berlin on Sat, 15 Aug 2026.
 
-Matthias Geerts is a techno and house artist based in Belgium, tracked on soundcheck, with 15 sets logged across Antwerp, Berlin and Paris. Often billed alongside BROOS, Ben Manson and TIM ZOUARI. Next up: Club Vaag, Antwerp on Sat 8 Aug.
+Matthias Geerts is a techno and house artist based in Belgium, tracked on soundcheck, with 15 sets logged across Antwerp, Berlin and Paris. Often billed alongside BROOS, Ben Manson and TIM ZOUARI. Next up: TBA - Secret Bunker , Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Club Vaag | Antwerp |
 | Sat, 15 Aug 2026 | TBA - Secret Bunker  | Berlin |
 
 ## Recently played
 
+- Club Vaag, Antwerp — Sat, 8 Aug 2026
 - Club Vaag, Antwerp — Fri, 24 Apr 2026
 - TRAUM, Antwerp — Sat, 21 Mar 2026
 - Club Vaag, Antwerp — Sat, 29 Nov 2025
@@ -20,10 +20,9 @@ Matthias Geerts is a techno and house artist based in Belgium, tracked on soundc
 - Plein Publiek, Antwerp — Fri, 20 Jun 2025
 - Club Vaag, Antwerp — Sat, 31 May 2025
 - Kavka Oudaan, Antwerp — Fri, 28 Feb 2025
-- Nouveau Casino, Paris — Sat, 31 Aug 2024
 
 ## Shares bills with
 
 BROOS, Ben Manson, TIM ZOUARI
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasgeerts/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasgeerts/)*

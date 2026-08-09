@@ -1,14 +1,13 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+Mr. Redley is a House and Funk / Soul artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Night Tales, London on Thu, 13 Aug 2026.
 
-Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
+Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Night Tales, London on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Two Tribes CAMPFIRE | London |
 | Thu, 13 Aug 2026 | Night Tales | London |
 | Fri, 14 Aug 2026 | Kelvedon Hall | London |
 | Fri, 21 Aug 2026 | Jumbi | London |
@@ -18,6 +17,7 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets
 
 ## Recently played
 
+- Two Tribes CAMPFIRE, London — Sat, 8 Aug 2026
 - The Social, London — Fri, 10 Jul 2026
 - Renate, Berlin — Sat, 20 Jun 2026
 - Two Tribes CAMPFIRE, London — Sun, 14 Jun 2026
@@ -25,10 +25,9 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets
 - The Cause, London — Sat, 9 May 2026
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
 - Renate, Berlin — Sat, 18 Apr 2026
-- Ballroom at Palais, London — Wed, 1 Apr 2026
 
 ## Shares bills with
 
 JAXX TMS, LORA S, NIKS
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

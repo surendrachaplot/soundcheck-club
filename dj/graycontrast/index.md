@@ -1,6 +1,6 @@
 # Gray Contrast
 
-Gray Contrast is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Gray Contrast is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Gray Contrast is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Dr. Spree, Dshanna and Hendrik Nitsche. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Gray Contrast is a techno artist based in Germany, tracked on soundcheck, with 2
 
 Dr. Spree, Dshanna, Hendrik Nitsche
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graycontrast/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graycontrast/)*

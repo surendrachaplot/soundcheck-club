@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Pink Rambo: DJ Party with Live Dancers" on Tue, 11 Aug 2026.
+The Sultan Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "The Pink Rambo: DJ Party with Live Dancers" on Tue, 11 Aug 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Aleska, Bandolover, Celebrity Bitcrush and Crew Called Self and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 13 upcomin
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

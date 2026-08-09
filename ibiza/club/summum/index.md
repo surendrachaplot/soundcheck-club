@@ -1,6 +1,6 @@
 # Summum
 
-Summum is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Ibiza PlayAbout Radio Fest: Night Club Party at Summum" on Thu, 13 Aug 2026.
+Summum is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Ibiza PlayAbout Radio Fest: Night Club Party at Summum" on Thu, 13 Aug 2026.
 
 Summum is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Em i6 and Nelson Reis. Browse upcoming dates, start times and who's playing. Carrer de Cala de Bou, 44, 07829 Sant Josep de sa Talaia, Illes Balears, España.
 
@@ -14,4 +14,4 @@ Summum is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with li
 
 Carrer de Cala de Bou, 44, 07829 Sant Josep de sa Talaia, Illes Balears, España, Ibiza
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/summum/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/summum/)*

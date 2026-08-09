@@ -1,15 +1,13 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 8 Aug 2026.
+Lara Sinclair is a Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 9 Aug 2026.
 
-Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 181 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3 (1), JI_2001 and DV60. Next up: People's Leisure Club, Edinburgh on Sat 8 Aug.
+Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 181 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3 (1), JI_2001 and DV60. Next up: Sneaky Pete's, Edinburgh on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | People's Leisure Club | Edinburgh |
-| Sat, 8 Aug 2026 | West Port Oracle | Edinburgh |
 | Sun, 9 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Tue, 11 Aug 2026 | People's Leisure Club | Edinburgh |
 | Thu, 13 Aug 2026 | People's Leisure Club | Edinburgh |
@@ -18,17 +16,17 @@ Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 181 sets l
 
 ## Recently played
 
+- People's Leisure Club, Edinburgh — Sat, 8 Aug 2026
+- West Port Oracle, Edinburgh — Sat, 8 Aug 2026
 - The Mash House, Edinburgh — Fri, 7 Aug 2026
 - Sneaky Pete's, Edinburgh — Wed, 5 Aug 2026
 - Neighbourgood Gardens, Edinburgh — Sat, 1 Aug 2026
 - The Mash House, Edinburgh — Fri, 31 Jul 2026
 - Sneaky Pete's, Edinburgh — Sun, 12 Jul 2026
 - West Port Oracle, Edinburgh — Sat, 11 Jul 2026
-- Cabaret Voltaire, Edinburgh — Fri, 3 Jul 2026
-- Sneaky Pete's, Edinburgh — Tue, 30 Jun 2026
 
 ## Shares bills with
 
 ZO3 (1), JI_2001, DV60
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*

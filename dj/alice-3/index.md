@@ -1,6 +1,6 @@
 # Alice (3)
 
-Alice (3) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at SASS Music Club, Vienna on Sun, 9 Aug 2026.
+Alice (3) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at SASS Music Club, Vienna on Sun, 9 Aug 2026.
 
 Alice (3) is a techno and electro artist based in Italy, tracked on soundcheck, with 15 sets logged across Amsterdam, Madrid, Rome and Tokyo and 1 more. Often billed alongside IRIDE, Marcolino and Marc Anthony Bowen. Next up: SASS Music Club, Vienna on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Alice (3) is a techno and electro artist based in Italy, tracked on soundcheck, 
 
 IRIDE, Marcolino, Marc Anthony Bowen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alice-3/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alice-3/)*

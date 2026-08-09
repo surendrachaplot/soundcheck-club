@@ -1,8 +1,8 @@
 # John Plaza
 
-John Plaza is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
+John Plaza is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
 
-John Plaza is a techno and dub techno artist based in Chile, tracked on soundcheck, with 24 sets logged across Barcelona, Budapest, Buenosaires and London and 5 more. Often billed alongside Dhant, ABSIS and undetd.. Next up: Gare Porto, Porto on Sat 22 Aug.
+John Plaza is a techno and dub techno artist based in Chile, tracked on soundcheck, with 25 sets logged across Barcelona, Budapest, Buenosaires and London and 5 more. Often billed alongside Dhant, ABSIS and undetd.. Next up: Gare Porto, Porto on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ John Plaza is a techno and dub techno artist based in Chile, tracked on soundche
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Gare Porto | Porto |
 | Sat, 5 Sept 2026 | DUNGEON akihabara | Tokyo |
+| Fri, 11 Sept 2026 | TBA -     | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ John Plaza is a techno and dub techno artist based in Chile, tracked on soundche
 
 Dhant, ABSIS, undetd.
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnplaza/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnplaza/)*

@@ -1,6 +1,6 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electro artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Valentina Magaletti is a Experimental and Electro artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 Valentina Magaletti is an experimental and electro artist based in Italy, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -32,4 +32,4 @@ Valentina Magaletti is an experimental and electro artist based in Italy, tracke
 
 upsammy, Al Wootton, ojoo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

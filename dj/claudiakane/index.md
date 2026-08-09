@@ -1,6 +1,6 @@
 # Claudia Kane
 
-Claudia Kane is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Battersea Barge, London on Sun, 9 Aug 2026.
+Claudia Kane is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Battersea Barge, London on Sun, 9 Aug 2026.
 
 Claudia Kane is an ebm and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin and London. Often billed alongside Ricardo Castro, Arrosa and JON KRIEGER. Next up: Battersea Barge, London on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Claudia Kane is an ebm and techno artist based in United Kingdom, tracked on sou
 
 Ricardo Castro, Arrosa, JON KRIEGER
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*

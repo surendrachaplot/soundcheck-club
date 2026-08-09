@@ -1,6 +1,6 @@
 # August (NO)
 
-August (NO) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+August (NO) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 August (NO) is a house and techno artist based in Norway, tracked on soundcheck, with 5 sets logged across Amsterdam, Bangkok and Tokyo. Often billed alongside .VRIL, 42nd Avenue and AYIM. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ August (NO) is a house and techno artist based in Norway, tracked on soundcheck,
 
 .VRIL, 42nd Avenue, AYIM
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/august-no/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/august-no/)*

@@ -1,13 +1,14 @@
 # Shimpei Watanabe
 
-Shimpei Watanabe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Azumaya, Tokyo on Sat, 15 Aug 2026.
+Shimpei Watanabe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Forestlimit, Tokyo on Wed, 12 Aug 2026.
 
-Shimpei Watanabe is a house and techno artist tracked on soundcheck, with 95 sets logged across Tokyo. Often billed alongside Yuta Yamada, judgeman and ISPA. Next up: Azumaya, Tokyo on Sat 15 Aug.
+Shimpei Watanabe is a house and techno artist tracked on soundcheck, with 96 sets logged across Tokyo. Often billed alongside Yuta Yamada, judgeman and ISPA. Next up: Forestlimit, Tokyo on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Forestlimit | Tokyo |
 | Sat, 15 Aug 2026 | Azumaya | Tokyo |
 | Thu, 27 Aug 2026 | Z Maruyama | Tokyo |
 
@@ -26,4 +27,4 @@ Shimpei Watanabe is a house and techno artist tracked on soundcheck, with 95 set
 
 Yuta Yamada, judgeman, ISPA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimpeiwatanabe/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimpeiwatanabe/)*

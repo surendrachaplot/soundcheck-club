@@ -1,6 +1,6 @@
 # Berky
 
-Berky is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City on Sat, 22 Aug 2026.
+Berky is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City on Sat, 22 Aug 2026.
 
 Berky is a tech house and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside MISS VEE, DJ Shoe and KRNeY. Next up: TBA - Bushwick (Halsey J), DM a DJ or host for address, Newyorkcity on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Berky is a tech house and club artist based in United States of America, tracked
 
 MISS VEE, DJ Shoe, KRNeY
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berky/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berky/)*

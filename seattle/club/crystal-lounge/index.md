@@ -1,6 +1,6 @@
 # Crystal Lounge
 
-Crystal Lounge is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "8/14 Belltown Art Walk feat. Magic Kai Art & DJ's Sho Nuph, Casewag, & Chris Kuhel" on Fri, 14 Aug 2026.
+Crystal Lounge is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "8/14 Belltown Art Walk feat. Magic Kai Art & DJ's Sho Nuph, Casewag, & Chris Kuhel" on Fri, 14 Aug 2026.
 
 Crystal Lounge is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with line-ups including Julie Herrera, Leira and Trinitron. Browse upcoming dates, start times and who's playing. 2008 1st Ave.
 
@@ -19,4 +19,4 @@ Crystal Lounge is a music venue in Seattle listed on soundcheck. 6 upcoming nigh
 
 2008 1st Ave, Seattle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*

@@ -1,6 +1,6 @@
 # Bumpy Jones
 
-Bumpy Jones is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Studio Stereo, Barcelona on Sat, 22 Aug 2026.
+Bumpy Jones is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Studio Stereo, Barcelona on Sat, 22 Aug 2026.
 
 Bumpy Jones is an electro and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Barcelona and Mallorca. Often billed alongside Slow Hodge, DJ Service and .cosm. Next up: Studio Stereo, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bumpy Jones is an electro and house artist based in United Kingdom, tracked on s
 
 Slow Hodge, DJ Service, .cosm
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpyjones/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpyjones/)*

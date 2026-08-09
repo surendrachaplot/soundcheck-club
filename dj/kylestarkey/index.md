@@ -1,14 +1,13 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Kyle Starkey is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 10 Aug 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Mon, 10 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 159 sets l
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Moon Club | Bristol |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
+| Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Night Tales, London — Fri, 7 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - Lieberscholli, Munich — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 159 sets l
 - Stadshaven Brouwerij, Rotterdam — Sat, 4 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Amnesia Ibiza, Ibiza — Thu, 25 Jun 2026
-- Club 69, Glasgow — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 DART, Benwal, Faster Horses
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

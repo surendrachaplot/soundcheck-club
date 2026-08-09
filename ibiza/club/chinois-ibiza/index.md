@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 52 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "The Masquerade: Claptone, Deep Dish, Juliet Sikora, Dom Townsend" on Sat, 8 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 51 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Bedouin presents SAGA: Bedouin, Avangart Tabldot, Robin M" on Sun, 9 Aug 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 52 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 51 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | The Masquerade: Claptone, Deep Dish, Juliet Sikora, Dom Townsend | Claptone, Deep Dish, Dom Townsend, Juliet Sikora |
 | Sun, 9 Aug 2026 | Bedouin presents SAGA: Bedouin, Avangart Tabldot, Robin M | Avangart Tabldot, Bedouin, Robin M |
 | Mon, 10 Aug 2026 | La Troya: GOK WAN, Hilit Kolet, RAMPINI, GINEVRA RAMOS | Hilit Kolet |
 | Wed, 12 Aug 2026 | Mahmut Orhan | Mahmut Orhan |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 52 upcoming nights
 | Sun, 16 Aug 2026 | Bedouin presents SAGA: Bedouin, LUCH, MoBlack | Bedouin, LUCH (MEX), MoBlack |
 | Mon, 17 Aug 2026 | La Troya: David Morales, Oscar Colorado, RAMPINI, B WHYLE | David Morales, Oscar Colorado |
 | Wed, 19 Aug 2026 | Mahmut Orhan: Mahmut Orhan, Rivo, LUNA & LENTHE, VITE | Luna (1), Mahmut Orhan, Rivo, VITE |
+| Thu, 20 Aug 2026 | Defected: D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology | D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

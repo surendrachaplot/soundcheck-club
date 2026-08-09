@@ -1,6 +1,6 @@
 # Stroppy Pie
 
-Stroppy Pie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jasna 1, Warsaw on Sat, 22 Aug 2026.
+Stroppy Pie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jasna 1, Warsaw on Sat, 22 Aug 2026.
 
 Stroppy Pie is a house and techno artist based in Poland, tracked on soundcheck, with 23 sets logged across Krakow, Prague and Warsaw. Often billed alongside Helga, Kamilescu and Schmeltzer. Next up: Jasna 1, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Stroppy Pie is a house and techno artist based in Poland, tracked on soundcheck,
 
 Helga, Kamilescu, Schmeltzer
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stroppypie/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stroppypie/)*

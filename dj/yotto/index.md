@@ -1,6 +1,6 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Yotto is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Yotto is a progressive house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Yotto is a progressive house and techno artist tracked on soundcheck, with 99 se
 
 Nicky Elisabeth, Cristoph, Qrion
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

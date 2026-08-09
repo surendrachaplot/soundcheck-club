@@ -1,20 +1,20 @@
 # Dylan Fogarty
 
-Dylan Fogarty is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
+Dylan Fogarty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
-Dylan Fogarty is a techno and house artist tracked on soundcheck, with 123 sets logged across Aberdeen, Amsterdam, Belfast and Belgrade and 29 more. Often billed alongside CULT, Antigone and Vromo. Next up: Wigwam, Dublin on Sat 8 Aug.
+Dylan Fogarty is a techno and house artist tracked on soundcheck, with 123 sets logged across Aberdeen, Amsterdam, Belfast and Belgrade and 29 more. Often billed alongside CULT, Antigone and Vromo. Next up: FOLD, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Wigwam | Dublin |
 | Fri, 14 Aug 2026 | FOLD | London |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
 | Sun, 23 Aug 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
+- Wigwam, Dublin — Sat, 8 Aug 2026
 - TBA, Toronto — Fri, 10 Jul 2026
 - TBA - Secret Location, Cork — Fri, 12 Jun 2026
 - La Java, Paris — Sat, 6 Jun 2026
@@ -22,10 +22,9 @@ Dylan Fogarty is a techno and house artist tracked on soundcheck, with 123 sets 
 - Drugstore Beograd, Belgrade — Fri, 22 May 2026
 - Mono, Rotterdam — Fri, 15 May 2026
 - RADION, Amsterdam — Fri, 20 Mar 2026
-- Yamamori Tengu, Dublin — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 CULT, Antigone, Vromo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*

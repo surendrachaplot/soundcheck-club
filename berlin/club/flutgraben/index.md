@@ -1,6 +1,6 @@
 # Flutgraben
 
-Flutgraben is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Global Dystopia Sound Art Biennial" on Fri, 2 Oct 2026.
+Flutgraben is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Global Dystopia Sound Art Biennial" on Fri, 2 Oct 2026.
 
 Flutgraben is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Am Flutgraben 3, 12435 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Flutgraben is a music venue in Berlin listed on soundcheck. 1 upcoming night. Br
 
 Am Flutgraben 3, 12435 Berlin, Germany, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/flutgraben/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/flutgraben/)*

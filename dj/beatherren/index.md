@@ -1,6 +1,6 @@
 # Beat Herren
 
-Beat Herren is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Alte Kaserne, Zurich on Sat, 29 Aug 2026.
+Beat Herren is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Alte Kaserne, Zurich on Sat, 29 Aug 2026.
 
 Beat Herren is a psytrance artist tracked on soundcheck, with 15 sets logged across Zurich. Often billed alongside Ambient Pino, Liquid Soul and Emok. Next up: Alte Kaserne, Zurich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Beat Herren is a psytrance artist tracked on soundcheck, with 15 sets logged acr
 
 Ambient Pino, Liquid Soul, Emok
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beatherren/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beatherren/)*

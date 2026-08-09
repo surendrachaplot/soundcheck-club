@@ -1,6 +1,6 @@
 # Juan Fawcett
 
-Juan Fawcett is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at MAD Radio NYC, New York City on Fri, 14 Aug 2026.
+Juan Fawcett is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at MAD Radio NYC, New York City on Fri, 14 Aug 2026.
 
 Juan Fawcett is a house and techno artist based in Colombia, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside KANZE, Connie and LegenDari. Next up: MAD Radio NYC, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Juan Fawcett is a house and techno artist based in Colombia, tracked on soundche
 
 KANZE, Connie, LegenDari
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanfawcett/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanfawcett/)*

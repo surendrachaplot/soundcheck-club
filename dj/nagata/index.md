@@ -1,6 +1,6 @@
 # NAGATA
 
-NAGATA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 5 Sept 2026.
+NAGATA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 5 Sept 2026.
 
 NAGATA is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Kyoto, Leeds and Osaka and 1 more. Often billed alongside Mercy., Motel Paraiso and sumi’. Next up: Teranoma Tidepool, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NAGATA is a house and techno artist tracked on soundcheck, with 33 sets logged a
 
 Mercy., Motel Paraiso, sumi’
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nagata/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nagata/)*

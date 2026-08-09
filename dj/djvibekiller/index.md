@@ -1,18 +1,18 @@
 # DJ Vibekiller
 
-DJ Vibekiller is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at FLUCC, Vienna on Sat, 8 Aug 2026.
+DJ Vibekiller is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
-DJ Vibekiller is a techno and dub techno artist based in Austria, tracked on soundcheck, with 13 sets logged across Berlin, Losangeles and Vienna. Often billed alongside Felix Roth, Thommy Coconut and Menal Batti. Next up: FLUCC, Vienna on Sat 8 Aug.
+DJ Vibekiller is a techno and dub techno artist based in Austria, tracked on soundcheck, with 13 sets logged across Berlin, Losangeles and Vienna. Often billed alongside Felix Roth, Thommy Coconut and Menal Batti. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | FLUCC | Vienna |
 | Fri, 21 Aug 2026 | Seedcamp, Kautzen | Vienna |
 
 ## Recently played
 
+- FLUCC, Vienna — Sat, 8 Aug 2026
 - R:Journey, Vienna — Fri, 5 Jun 2026
 - Fitzroy, Berlin — Fri, 24 Oct 2025
 - TBA - CLUB Q , Vienna — Sat, 22 Mar 2025
@@ -20,10 +20,9 @@ DJ Vibekiller is a techno and dub techno artist based in Austria, tracked on sou
 - Grelle Forelle, Vienna — Fri, 27 Sept 2024
 - Pratersauna, Vienna — Sat, 3 Aug 2024
 - TBA - No Name, Los Angeles — Sat, 2 Mar 2024
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 24 Feb 2024
 
 ## Shares bills with
 
 Felix Roth, Thommy Coconut, Menal Batti
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibekiller/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibekiller/)*

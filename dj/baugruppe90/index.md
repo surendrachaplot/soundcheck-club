@@ -1,14 +1,13 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+BAUGRUPPE90 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BRET, Amsterdam on Sun, 16 Aug 2026.
 
-BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 45 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
+BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 45 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: BRET, Amsterdam on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
 | Sun, 16 Aug 2026 | BRET | Amsterdam |
 | Sun, 16 Aug 2026 | BRET | Amsterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -17,6 +16,7 @@ BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 155 sets lo
 
 ## Recently played
 
+- Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - PRST, Vienna — Fri, 7 Aug 2026
 - Artheater, Cologne — Sat, 4 Jul 2026
 - Kilomètre25, Paris — Fri, 3 Jul 2026
@@ -24,10 +24,9 @@ BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 155 sets lo
 - The Bernard Shaw, Dublin — Sat, 27 Jun 2026
 - Tokonoma Club, Frankfurt — Sat, 20 Jun 2026
 - Chifley Drive Warehouse, Melbourne — Sun, 7 Jun 2026
-- Nachtasyl, Hamburg — Fri, 29 May 2026
 
 ## Shares bills with
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

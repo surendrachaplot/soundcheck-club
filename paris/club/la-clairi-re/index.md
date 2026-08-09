@@ -1,6 +1,6 @@
 # La Clairière
 
-La Clairière is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "La Clairière: Leblanc, Olympe, Son of Son" on Sat, 22 Aug 2026.
+La Clairière is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "La Clairière: Leblanc, Olympe, Son of Son" on Sat, 22 Aug 2026.
 
 La Clairière is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including ARKADYAN, Calao, CamelPhat and Darco and 2 more. Browse upcoming dates, start times and who's playing. 1, carrefour de Longchamp, 75116 Paris, France.
 
@@ -21,4 +21,4 @@ La Clairière is a music venue in Paris listed on soundcheck. 8 upcoming nights,
 
 1, carrefour de Longchamp, 75116 Paris, France, Paris
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*

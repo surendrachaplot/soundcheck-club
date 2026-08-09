@@ -1,20 +1,20 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Isabel Soto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
-Isabel Soto is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
+Isabel Soto is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Fvtvr, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 - Rote Sonne, Munich — Fri, 7 Aug 2026
 - Rote Sonne, Munich — Fri, 7 Aug 2026
 - Spreefeld Bootshaus, Berlin — Wed, 29 Jul 2026
@@ -22,10 +22,9 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 93 sets log
 - Under Club, Buenos Aires — Sat, 4 Jul 2026
 - Radio - Wine, Food & Music Bar, Mexico City — Fri, 26 Jun 2026
 - C12, Brussels — Sat, 13 Jun 2026
-- Stereo, Montreal — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Claudio PRC, Mike Larry, Fadi Mohem
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

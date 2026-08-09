@@ -1,6 +1,6 @@
 # Westlight Rooftop at The William Vale
 
-Westlight Rooftop at The William Vale is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Friends In High Places feat. Jerro" on Fri, 14 Aug 2026.
+Westlight Rooftop at The William Vale is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Friends In High Places feat. Jerro" on Fri, 14 Aug 2026.
 
 Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Chris Luno, LAVERN, Nils Hoffmann and Sem Jacobs. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
 
@@ -23,4 +23,4 @@ Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on 
 
 111 North 12th Street, Brooklyn, New York 11249, United States, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*

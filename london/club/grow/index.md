@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "GIRLZ B LIKE: MARCIA DAVINYLMC - OPEN TO CLOSE" on Sat, 8 Aug 2026.
+Grow is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Beirut Groove Collective Summer Club: Natalie Shooter // Ernesto Chahoud // + Guests" on Fri, 14 Aug 2026.
 
-Grow is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alfie Panaiotis, Ben hauke, Cengiz and Cosmo Sofi and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alfie Panaiotis, Ben hauke, Cengiz and Cosmo Sofi and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | GIRLZ B LIKE: MARCIA DAVINYLMC - OPEN TO CLOSE | Marcia Carr |
 | Fri, 14 Aug 2026 | Beirut Groove Collective Summer Club: Natalie Shooter // Ernesto Chahoud // + Guests | Ernesto Chahoud, Natalie Shooter |
 | Sat, 22 Aug 2026 | DeepDig: Harri Pepper (4 Hours) // Sky Rivers | Harri Pepper, Sky Rivers |
 | Fri, 28 Aug 2026 | Grow presents: Kamar & Friends | Kamar, Miss Mash, Seiji Ono |
@@ -23,4 +22,4 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming nights, with l
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

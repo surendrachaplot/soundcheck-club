@@ -1,6 +1,6 @@
 # Instead of Seven
 
-Instead of Seven is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Detroit on Sat, 29 Aug 2026.
+Instead of Seven is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Detroit on Sat, 29 Aug 2026.
 
 Instead of Seven is a techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside 88 MPH, Austin Buck and J Æ G Ü A R. Next up: TBA, Detroit on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Instead of Seven is a techno artist based in United States of America, tracked o
 
 88 MPH, Austin Buck, J Æ G Ü A R
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insteadofseven/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/insteadofseven/)*

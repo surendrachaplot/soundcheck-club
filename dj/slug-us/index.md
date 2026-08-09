@@ -1,6 +1,6 @@
 # Slug (US)
 
-Slug (US) is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Socrates, Kyoto on Sat, 15 Aug 2026.
+Slug (US) is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Socrates, Kyoto on Sat, 15 Aug 2026.
 
 Slug (US) is a breakbeat and electro artist tracked on soundcheck, with 2 sets logged across Kyoto and Miami. Often billed alongside Bradley Drop, Brook B and DJ Genesis. Next up: Socrates, Kyoto on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Slug (US) is a breakbeat and electro artist tracked on soundcheck, with 2 sets l
 
 Bradley Drop, Brook B, DJ Genesis
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slug-us/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slug-us/)*

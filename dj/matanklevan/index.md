@@ -1,6 +1,6 @@
 # Matan Klevan
 
-Matan Klevan is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 21 Aug 2026.
+Matan Klevan is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 Matan Klevan is an electronic artist tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza and Rotterdam. Often billed alongside Infinite Pleasure, Steven Pieters and Ben Diggins. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Matan Klevan is an electronic artist tracked on soundcheck, with 18 sets logged 
 
 Infinite Pleasure, Steven Pieters, Ben Diggins
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matanklevan/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matanklevan/)*

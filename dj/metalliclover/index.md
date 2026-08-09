@@ -1,6 +1,6 @@
 # METALLIC LOVER
 
-METALLIC LOVER is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+METALLIC LOVER is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
 METALLIC LOVER is an ebm and italo disco artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside Claudia Kane, Lais Pattak and Glotzer. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ METALLIC LOVER is an ebm and italo disco artist based in United Kingdom, tracked
 
 Claudia Kane, Lais Pattak, Glotzer
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metalliclover/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metalliclover/)*

@@ -1,6 +1,6 @@
 # Cáit
 
-Cáit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Wigwam, Dublin on Sat, 22 Aug 2026.
+Cáit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Wigwam, Dublin on Sat, 22 Aug 2026.
 
 Cáit is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Belfast, Berlin and Copenhagen and 10 more. Often billed alongside Fio Fa, Mercorn and Angel D'lite. Next up: Wigwam, Dublin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Cáit is a house and techno artist tracked on soundcheck, with 56 sets logged ac
 
 Fio Fa, Mercorn, Angel D'lite
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*

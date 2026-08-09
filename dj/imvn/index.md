@@ -1,6 +1,6 @@
 # IMVN
 
-IMVN is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Shai Space, London on Wed, 19 Aug 2026.
+IMVN is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Shai Space, London on Wed, 19 Aug 2026.
 
 IMVN is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside SKETCH. Next up: Shai Space, London on Wed 19 Aug.
 
@@ -14,4 +14,4 @@ IMVN is a downtempo and ambient artist based in United Kingdom, tracked on sound
 
 SKETCH
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imvn/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imvn/)*

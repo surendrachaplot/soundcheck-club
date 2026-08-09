@@ -1,14 +1,13 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at [UNVRS], Ibiza on Sat, 8 Aug 2026.
+Easttown is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: [UNVRS], Ibiza on Sat 8 Aug.
+Easttown is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: Boomerang Beach, Thehague on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 21 Aug 2026 | Boomerang Beach | The Hague |
 | Fri, 21 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Sat, 29 Aug 2026 | TivoliVredenburg | Utrecht |
@@ -20,9 +19,11 @@ Easttown is a house and tech house artist tracked on soundcheck, with 95 sets lo
 | Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Sun, 25 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Pacha New York, New York City — Fri, 17 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
@@ -30,10 +31,9 @@ Easttown is a house and tech house artist tracked on soundcheck, with 95 sets lo
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
 - BORIS CLUB, Barcelona — Wed, 17 Jun 2026
-- Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

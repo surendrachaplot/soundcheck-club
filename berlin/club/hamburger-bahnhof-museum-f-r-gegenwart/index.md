@@ -1,6 +1,6 @@
 # Hamburger Bahnhof - Museum für Gegenwart
 
-Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Berlin Beats: ODA HALITI" on Thu, 13 Aug 2026.
+Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Berlin Beats: ODA HALITI" on Thu, 13 Aug 2026.
 
 Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including BASHKKA, ODA HALITI, Regis and Sandwell District. Browse upcoming dates, start times and who's playing. Invalidenstraße 50-51, 10557 Berlin.
 
@@ -16,4 +16,4 @@ Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on s
 
 Invalidenstraße 50-51, 10557 Berlin, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*

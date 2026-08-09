@@ -1,6 +1,6 @@
 # Will Kayll
 
-Will Kayll is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Will Kayll is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
 Will Kayll is a house and disco artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol and London. Often billed alongside HORN-E, Rude Jude and ALFALFA (UK). Next up: Loft Studios, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Will Kayll is a house and disco artist based in United Kingdom, tracked on sound
 
 HORN-E, Rude Jude, ALFALFA (UK)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willkayll/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willkayll/)*

@@ -1,6 +1,6 @@
 # Nick Clev
 
-Nick Clev is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
+Nick Clev is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Marquee Moon, London on Sat, 15 Aug 2026.
 
 Nick Clev is a house and garage artist tracked on soundcheck, with 39 sets logged across London. Often billed alongside Sam Beach, Michelle Manetti and ASHTREY. Next up: The Marquee Moon, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nick Clev is a house and garage artist tracked on soundcheck, with 39 sets logge
 
 Sam Beach, Michelle Manetti, ASHTREY
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*

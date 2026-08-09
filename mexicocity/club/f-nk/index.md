@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 11 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Fank: Oshana + Louie Fresco + Mejia" on Sat, 8 Aug 2026.
+Fünk is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "WAVAWAVA x Fünk" on Thu, 13 Aug 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 11 upcoming nights, with line-ups including Alejandro Veneno, Alonso Rivero, Andy Woldman and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Alejandro Veneno, Alonso Rivero, Andy Woldman and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Fank: Oshana + Louie Fresco + Mejia | Louie Fresco, Mejia, Oshana |
 | Thu, 13 Aug 2026 | WAVAWAVA x Fünk | Nmal, Octoptic, Ranma Entero, Seli (2) |
 | Fri, 14 Aug 2026 | Boyanza: Factory Setup + Francia Oropeza + Boyanza Collectors | Factory Setup, Francia Oropeza, Rafatel, papa jazz |
 | Sat, 15 Aug 2026 | Dyed Soundorom + Soul Of Hex | Dyed Soundorom, Soul Of Hex |
@@ -18,9 +17,10 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 11 upcoming nights, w
 | Thu, 27 Aug 2026 | Clima Cálido x Fünk | ED (MX) |
 | Fri, 28 Aug 2026 | Pangaea + MNTY + Bluecommand | Bluecommand, MNTY, Pangaea |
 | Sat, 29 Aug 2026 | Roderic + Alonso Rivero + Alejandro Veneno | Alejandro Veneno, Alonso Rivero, Roderic (2) |
+| Sat, 17 Oct 2026 | RA25: Mexico City |  |
 
 ## Address
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

@@ -1,6 +1,6 @@
 # Anahita Sadighi
 
-Anahita Sadighi is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Anahita Sadighi is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Anahita Sadighi is a house and minimal artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Munich. Often billed alongside DJ Dustin, Lb Honne and Mike D.. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Anahita Sadighi is a house and minimal artist based in Germany, tracked on sound
 
 DJ Dustin, Lb Honne, Mike D.
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitasadighi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitasadighi/)*

@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at NAR, Utrecht on Sun, 9 Aug 2026.
+Coco Maria is a House and Jazz artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at NAR, Utrecht on Sun, 9 Aug 2026.
 
 Coco Maria is a house and jazz artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: NAR, Utrecht on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 118 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

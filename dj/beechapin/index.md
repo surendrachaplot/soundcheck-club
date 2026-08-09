@@ -1,6 +1,6 @@
 # Bee Chapin
 
-Bee Chapin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Knockdown Center, New York City on Sun, 20 Sept 2026.
+Bee Chapin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Knockdown Center, New York City on Sun, 20 Sept 2026.
 
 Bee Chapin is a house and tech house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Armii1n, Brunello and Emanuel Satie. Next up: Knockdown Center, Newyorkcity on Sun 20 Sept.
 
@@ -19,4 +19,4 @@ Bee Chapin is a house and tech house artist based in United States of America, t
 
 Armii1n, Brunello, Emanuel Satie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beechapin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beechapin/)*

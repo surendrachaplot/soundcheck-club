@@ -1,18 +1,17 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Soaki Delayer & Lama V" on Sat, 8 Aug 2026.
+Bar v Krymský is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Raphael Kosmos" on Sat, 5 Sept 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 2 upcoming nights, with line-ups including Raphael Kosmos. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Raphael Kosmos. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Soaki Delayer & Lama V |  |
 | Sat, 5 Sept 2026 | Raphael Kosmos | Raphael Kosmos |
 
 ## Address
 
 Krymská 21, Praha, Prague
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

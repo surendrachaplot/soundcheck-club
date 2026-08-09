@@ -1,6 +1,6 @@
 # Fibra Vrgov
 
-Fibra Vrgov is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at KC Grad, Belgrade on Fri, 14 Aug 2026.
+Fibra Vrgov is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at KC Grad, Belgrade on Fri, 14 Aug 2026.
 
 Fibra Vrgov is a techno and experimental artist tracked on soundcheck, with 7 sets logged across Belgrade. Often billed alongside AM Hi, Ben Vince and Bortnique. Next up: KC Grad, Belgrade on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Fibra Vrgov is a techno and experimental artist tracked on soundcheck, with 7 se
 
 AM Hi, Ben Vince, Bortnique
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fibravrgov/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fibravrgov/)*

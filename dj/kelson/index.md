@@ -1,6 +1,6 @@
 # Kelson
 
-Kelson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
+Kelson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 16 Aug 2026.
 
 Kelson is a house and deep house artist based in Angola, tracked on soundcheck, with 15 sets logged across Lisbon. Often billed alongside Kapote, GUINNY and Khalil Suleman. Next up: Quinta do Miratejo, Lisbon on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Kelson is a house and deep house artist based in Angola, tracked on soundcheck, 
 
 Kapote, GUINNY, Khalil Suleman
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelson/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kelson/)*

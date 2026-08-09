@@ -1,6 +1,6 @@
 # triage
 
-triage is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Ivy House, London on Sun, 9 Aug 2026.
+triage is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ivy House, London on Sun, 9 Aug 2026.
 
 triage is an experimental artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Braden Wells, DJ Haram and Kelora. Next up: Ivy House, London on Sun 9 Aug.
 
@@ -24,4 +24,4 @@ triage is an experimental artist based in United Kingdom, tracked on soundcheck,
 
 Braden Wells, DJ Haram, Kelora
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triage/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triage/)*

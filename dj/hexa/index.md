@@ -1,6 +1,6 @@
 # HEXA
 
-HEXA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Fox and Firkin, London on Fri, 28 Aug 2026.
+HEXA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Fox and Firkin, London on Fri, 28 Aug 2026.
 
 HEXA is a drum & bass and jungle artist based in Morocco, tracked on soundcheck, with 7 sets logged across Brighton, London, Manchester and Newcastle. Often billed alongside Five Alive, Grooverider and Ray Keith. Next up: The Fox and Firkin, London on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ HEXA is a drum & bass and jungle artist based in Morocco, tracked on soundcheck,
 
 Five Alive, Grooverider, Ray Keith
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexa/)*

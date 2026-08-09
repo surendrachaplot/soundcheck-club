@@ -1,14 +1,13 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "naked relaxing" on Sat, 8 Aug 2026.
+Prozak 2.0 is a music venue in Krakow with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "RUDE FREQUENCY - UK bass music" on Thu, 13 Aug 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 10 upcoming nights, with line-ups including Forest (PL), Kara Okay, Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 9 upcoming nights, with line-ups including Forest (PL), Kara Okay, Kuriozum and Meg (PL). Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | naked relaxing | Meg (PL), naked relaxing |
 | Thu, 13 Aug 2026 | RUDE FREQUENCY - UK bass music |  |
 | Fri, 14 Aug 2026 | GOT THAT GROOVE |  |
 | Sat, 15 Aug 2026 | PROZAK ON THE ROOF: Kara Okay | Kara Okay, Kuriozum, Meg (PL) |
@@ -23,4 +22,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 10 upcoming nights, 
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

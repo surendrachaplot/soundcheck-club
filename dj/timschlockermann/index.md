@@ -1,6 +1,6 @@
 # Tim Schlockermann
 
-Tim Schlockermann is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Conne Island, Leipzig on Sat, 22 Aug 2026.
+Tim Schlockermann is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Conne Island, Leipzig on Sat, 22 Aug 2026.
 
 Tim Schlockermann is a house and ambient artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside Anna Malysz, Reece Walker and mp.ulle. Next up: Conne Island, Leipzig on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Tim Schlockermann is a house and ambient artist based in Germany, tracked on sou
 
 Anna Malysz, Reece Walker, mp.ulle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timschlockermann/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timschlockermann/)*

@@ -1,13 +1,14 @@
 # James Worker
 
-James Worker is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+James Worker is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Ernest, Newcastle on Sat, 22 Aug 2026.
 
-James Worker is a house and garage artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Newcastle. Often billed alongside Sam Warren, Molly Sinnott and PHJ.WAV. Next up: Peckham Arches, London on Sun 30 Aug.
+James Worker is a house and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London and Newcastle. Often billed alongside Sam Warren, Molly Sinnott and PHJ.WAV. Next up: Ernest, Newcastle on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Ernest | Newcastle |
 | Sun, 30 Aug 2026 | Peckham Arches | London |
 | Fri, 11 Sept 2026 | Ouseburn Garden | Newcastle |
 
@@ -26,4 +27,4 @@ James Worker is a house and garage artist based in United Kingdom, tracked on so
 
 Sam Warren, Molly Sinnott, PHJ.WAV
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*

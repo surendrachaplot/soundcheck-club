@@ -1,14 +1,13 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DJ Jurassique Parque" on Sat, 8 Aug 2026.
+Madame Claude is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Experimontag presents Dj Set by Lea Fabrikant" on Mon, 10 Aug 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Aquarium and Paulina Panik. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Aquarium and Paulina Panik. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | DJ Jurassique Parque |  |
 | Mon, 10 Aug 2026 | Experimontag presents Dj Set by Lea Fabrikant |  |
 | Fri, 14 Aug 2026 | Fosca & Samt + Mia Gjakonovski + Paulina Panik (DJ-Set) | Paulina Panik |
 | Mon, 17 Aug 2026 | Experimontag: 3 Live Acts + 1 DJ | Aquarium |
@@ -20,4 +19,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 7 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

@@ -1,14 +1,13 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Phantoms POOL PARTY at Level 8" on Sat, 8 Aug 2026.
+Level 8 DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sex with The City: Sunset Summer Sessions Takeover" on Fri, 14 Aug 2026.
 
-Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming nights, with line-ups including Apache, Durante, Evo Twinz and Grum and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
+Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Apache, Durante, Evo Twinz and Grum and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Phantoms POOL PARTY at Level 8 | Phantoms |
 | Fri, 14 Aug 2026 | Sex with The City: Sunset Summer Sessions Takeover | Evo Twinz, KAPIR, LUIGI AMORE |
 | Sat, 15 Aug 2026 | FLOAT Rooftop Pool Party feat. Massane [2-8 PM] | Massane |
 | Sat, 22 Aug 2026 | FLOAT Rooftop Pool Party feat. Durante [2-8 PM] | Durante |
@@ -21,4 +20,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming nig
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

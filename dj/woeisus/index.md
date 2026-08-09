@@ -1,6 +1,6 @@
 # WOE is us
 
-WOE is us is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Leith Social Club, Edinburgh on Sat, 29 Aug 2026.
+WOE is us is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Leith Social Club, Edinburgh on Sat, 29 Aug 2026.
 
 WOE is us is a house and electronica artist tracked on soundcheck, with 3 sets logged across Edinburgh. Often billed alongside DJ LG, Dani Sonder and Main Ingredient. Next up: Leith Social Club, Edinburgh on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ WOE is us is a house and electronica artist tracked on soundcheck, with 3 sets l
 
 DJ LG, Dani Sonder, Main Ingredient
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woeisus/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woeisus/)*

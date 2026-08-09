@@ -1,6 +1,6 @@
 # Gremlin
 
-Gremlin is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Milneys, Melbourne on Sat, 15 Aug 2026.
+Gremlin is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Milneys, Melbourne on Sat, 15 Aug 2026.
 
 Gremlin is a house and afro house artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside DAWS, Activator (AU) and Jesse DM. Next up: Milneys, Melbourne on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Gremlin is a house and afro house artist based in Australia, tracked on soundche
 
 DAWS, Activator (AU), Jesse DM
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlin/)*

@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a Minimal and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
+Priku is a Minimal and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at DC-10, Ibiza on Mon, 17 Aug 2026.
 
 Priku is a minimal and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: DC-10, Ibiza on Mon 17 Aug.
 
@@ -31,4 +31,4 @@ Priku is a minimal and house artist tracked on soundcheck, with 170 sets logged 
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

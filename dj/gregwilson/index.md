@@ -1,6 +1,6 @@
 # Greg Wilson
 
-Greg Wilson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Freight Island Newcastle, Newcastle on Sat, 15 Aug 2026.
+Greg Wilson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Freight Island Newcastle, Newcastle on Sat, 15 Aug 2026.
 
 Greg Wilson is a house and disco artist tracked on soundcheck, with 61 sets logged across Birmingham, Brighton, Bristol and Brussels and 15 more. Often billed alongside Graeme Park, DJ Paulette and Jon Dasilva. Next up: Freight Island Newcastle, Newcastle on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Greg Wilson is a house and disco artist tracked on soundcheck, with 61 sets logg
 
 Graeme Park, DJ Paulette, Jon Dasilva
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*

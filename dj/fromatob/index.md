@@ -1,6 +1,6 @@
 # From A To B
 
-From A To B is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Palace Vinyl - Brixton, London on Sat, 15 Aug 2026.
+From A To B is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Palace Vinyl - Brixton, London on Sat, 15 Aug 2026.
 
 From A To B is a techno and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Copenhagen and London. Often billed alongside DJOM, Oli Leal and Regan Funk. Next up: TBA - Palace Vinyl - Brixton, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ From A To B is a techno and house artist based in United Kingdom, tracked on sou
 
 DJOM, Oli Leal, Regan Funk
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromatob/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromatob/)*

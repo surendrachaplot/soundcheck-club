@@ -1,6 +1,6 @@
 # ENTER (EE)
 
-ENTER (EE) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
+ENTER (EE) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
 
 ENTER (EE) is a drum & bass and house artist based in Estonia, tracked on soundcheck, with 18 sets logged across Riga and Tallinn. Often billed alongside Qerty, KETA (LV) and Sansave. Next up: H2o6, Riga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ENTER (EE) is a drum & bass and house artist based in Estonia, tracked on soundc
 
 Qerty, KETA (LV), Sansave
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enter-ee/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enter-ee/)*

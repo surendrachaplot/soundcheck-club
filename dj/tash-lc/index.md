@@ -1,8 +1,8 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
+Tash LC is a Dancehall and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Jumbi, London on Sat, 15 Aug 2026.
 
-Tash LC is a house and dancehall artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Jumbi, London on Sat 15 Aug.
+Tash LC is a dancehall and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Jumbi, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Tash LC is a house and dancehall artist tracked on soundcheck, with 120 sets log
 
 Ahadadream, Jamz Supernova, Moxie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

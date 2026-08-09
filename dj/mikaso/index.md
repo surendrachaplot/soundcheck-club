@@ -1,6 +1,6 @@
 # MIKASO
 
-MIKASO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at OCZKI, Warsaw on Sat, 24 Oct 2026.
+MIKASO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OCZKI, Warsaw on Sat, 24 Oct 2026.
 
 MIKASO is a techno and industrial artist based in Poland, tracked on soundcheck, with 16 sets logged across Bucharest and Warsaw. Often billed alongside STAF EV, Kate Loss and MERVH. Next up: OCZKI, Warsaw on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MIKASO is a techno and industrial artist based in Poland, tracked on soundcheck,
 
 STAF EV, Kate Loss, MERVH
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaso/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaso/)*

@@ -1,6 +1,6 @@
 # Bárbara Lago
 
-Bárbara Lago is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
+Bárbara Lago is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
 
 Bárbara Lago is a techno and trance artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 18 more. Often billed alongside Dexphase, Skryption and Daniella da Silva. Next up: Kilomètre25, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Bárbara Lago is a techno and trance artist tracked on soundcheck, with 45 sets 
 
 Dexphase, Skryption, Daniella da Silva
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*

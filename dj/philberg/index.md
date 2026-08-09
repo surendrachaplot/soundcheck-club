@@ -1,6 +1,6 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at RASA, Singapore on Sun, 9 Aug 2026.
+Phil Berg is a Techno and Club artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at RASA, Singapore on Sun, 9 Aug 2026.
 
 Phil Berg is a techno and club artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: RASA, Singapore on Sun 9 Aug.
 
@@ -34,4 +34,4 @@ Phil Berg is a techno and club artist tracked on soundcheck, with 140 sets logge
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

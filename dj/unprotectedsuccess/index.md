@@ -1,6 +1,6 @@
 # Unprotected Success
 
-Unprotected Success is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Club 77, Sydney on Fri, 28 Aug 2026.
+Unprotected Success is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Club 77, Sydney on Fri, 28 Aug 2026.
 
 Unprotected Success is a house and techno artist based in Australia, tracked on soundcheck, with 26 sets logged across Sydney. Often billed alongside Alex Diwa, Harry Court and Milkpaste. Next up: Club 77, Sydney on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Unprotected Success is a house and techno artist based in Australia, tracked on 
 
 Alex Diwa, Harry Court, Milkpaste
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unprotectedsuccess/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unprotectedsuccess/)*

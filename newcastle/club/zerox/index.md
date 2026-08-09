@@ -1,6 +1,6 @@
 # Zerox
 
-Zerox is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "SNS X OYF: MALAKY + SUPPORT" on Fri, 21 Aug 2026.
+Zerox is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "SNS X OYF: MALAKY + SUPPORT" on Fri, 21 Aug 2026.
 
 Zerox is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with line-ups including WYR (UK). Browse upcoming dates, start times and who's playing. 48-52 Sandhill, Newcastle Upon Tyne, Tyne & Wear, NE1 3JF, UK.
 
@@ -14,4 +14,4 @@ Zerox is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with
 
 48-52 Sandhill, Newcastle Upon Tyne, Tyne & Wear, NE1 3JF, UK, Newcastle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/zerox/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/zerox/)*

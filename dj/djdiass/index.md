@@ -1,6 +1,6 @@
 # Dj Diass
 
-Dj Diass is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
+Dj Diass is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
 
 Dj Diass is a house and techno artist based in Bulgaria, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Ibiza and Istanbul and 3 more. Often billed alongside Diass, MËSTIZA and DJ phellix. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Dj Diass is a house and techno artist based in Bulgaria, tracked on soundcheck, 
 
 Diass, MËSTIZA, DJ phellix
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiass/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiass/)*

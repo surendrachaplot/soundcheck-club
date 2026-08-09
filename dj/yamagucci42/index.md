@@ -1,6 +1,6 @@
 # yamagucci42
 
-yamagucci42 is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
+yamagucci42 is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
 
 yamagucci42 is a house and breakbeat artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Hamburg and Prague. Often billed alongside DJ SOURCE, KVLR and UNZHA. Next up: Kampnagel, Hamburg on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ yamagucci42 is a house and breakbeat artist based in Germany, tracked on soundch
 
 DJ SOURCE, KVLR, UNZHA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci42/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci42/)*

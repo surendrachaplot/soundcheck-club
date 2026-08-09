@@ -1,6 +1,6 @@
 # LaFontaine
 
-LaFontaine is a Minimal and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
+LaFontaine is a Minimal and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
 
 LaFontaine is a minimal and new wave artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, London and Vienna. Often billed alongside Jamesendir, Bruce and Carla Rose. Next up: ÆDEN, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ LaFontaine is a minimal and new wave artist tracked on soundcheck, with 4 sets l
 
 Jamesendir, Bruce, Carla Rose
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafontaine/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafontaine/)*

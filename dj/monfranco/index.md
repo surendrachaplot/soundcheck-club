@@ -1,6 +1,6 @@
 # Mon Franco
 
-Mon Franco is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 13 Aug 2026.
+Mon Franco is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 13 Aug 2026.
 
 Mon Franco is a techno and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Melbourne. Often billed alongside Haus of Ralph, House Mum and Cristal No.5. Next up: Angel Music Bar, Melbourne on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Mon Franco is a techno and house artist based in Australia, tracked on soundchec
 
 Haus of Ralph, House Mum, Cristal No.5
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monfranco/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monfranco/)*

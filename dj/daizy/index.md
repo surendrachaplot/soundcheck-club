@@ -1,6 +1,6 @@
 # Daizy
 
-Daizy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Floyd, Miami on Sat, 15 Aug 2026.
+Daizy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Floyd, Miami on Sat, 15 Aug 2026.
 
 Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Athens, Losangeles, Miami and Seoul. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Floyd, Miami on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Daizy is a techno and house artist based in United States of America, tracked on
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

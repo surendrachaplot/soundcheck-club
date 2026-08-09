@@ -1,18 +1,17 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "PIRANHA x NEOTIKA pres. EVE" on Sat, 8 Aug 2026.
+Goya Social Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "MAGNUM X NEOTIKA" on Sat, 22 Aug 2026.
 
-Goya Social Club is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including EVE (1) and JAWS. Browse upcoming dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
+Goya Social Club is a music venue in Madrid listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | PIRANHA x NEOTIKA pres. EVE | EVE (1), JAWS |
 | Sat, 22 Aug 2026 | MAGNUM X NEOTIKA |  |
 
 ## Address
 
 Calle de Goya, 43, 28001 Madrid, Spain, Madrid
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*

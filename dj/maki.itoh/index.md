@@ -1,6 +1,6 @@
 # Maki.Itoh
 
-Maki.Itoh is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at White Space Lab, Tokyo on Fri, 28 Aug 2026.
+Maki.Itoh is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at White Space Lab, Tokyo on Fri, 28 Aug 2026.
 
 Maki.Itoh is a techno and bass artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Crazy Neo and Rena19. Next up: White Space Lab, Tokyo on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Maki.Itoh is a techno and bass artist based in Japan, tracked on soundcheck, wit
 
 Crazy Neo, Rena19
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maki.itoh/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maki.itoh/)*

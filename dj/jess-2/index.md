@@ -1,6 +1,6 @@
 # Jess (2)
 
-Jess (2) is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 9 Aug 2026.
+Jess (2) is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 9 Aug 2026.
 
 Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 10 sets logged across Budapest, Lisbon, Melbourne and Paris and 2 more. Often billed alongside Baazs, Jaffa Surfa and Adelina. Next up: Miradouro de Baixo, Lisbon on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Jess (2) is a dub and house artist based in Egypt, tracked on soundcheck, with 1
 
 Baazs, Jaffa Surfa, Adelina
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess-2/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess-2/)*

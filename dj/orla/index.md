@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Or:la is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Or:la is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Or:la is a house and techno artist tracked on soundcheck, with 119 sets logged a
 
 Amaliah, Pariah, Objekt
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

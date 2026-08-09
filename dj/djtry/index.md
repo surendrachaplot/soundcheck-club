@@ -1,6 +1,6 @@
 # DJ Try
 
-DJ Try is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
+DJ Try is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
 
 DJ Try is a trance and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Manchester and Paris. Often billed alongside DJ Try (US), FKA Hardcore and FOULMOUTH. Next up: Badaboum, Paris on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ DJ Try is a trance and house artist based in United Kingdom, tracked on soundche
 
 DJ Try (US), FKA Hardcore, FOULMOUTH
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtry/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtry/)*

@@ -1,14 +1,13 @@
 # Dirty Rabbit Hidden Bar
 
-Dirty Rabbit Hidden Bar is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Dirty Rabbit Saturday party" on Sat, 8 Aug 2026.
+Dirty Rabbit Hidden Bar is a music venue in Bangkok with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Dirty Rabbit Friday party" on Fri, 14 Aug 2026.
 
-Dirty Rabbit Hidden Bar is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with line-ups including Dj Hiro, OPTIKZ and UN!X. Browse upcoming dates, start times and who's playing. 11 Soi Yen Akat 2, Khwaeng Chong Nonsi, Khet Yan Nawa, 10120.
+Dirty Rabbit Hidden Bar is a music venue in Bangkok listed on soundcheck. 6 upcoming nights, with line-ups including Dj Hiro and OPTIKZ. Browse upcoming dates, start times and who's playing. 11 Soi Yen Akat 2, Khwaeng Chong Nonsi, Khet Yan Nawa, 10120.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Dirty Rabbit Saturday party | UN!X |
 | Fri, 14 Aug 2026 | Dirty Rabbit Friday party | Dj Hiro |
 | Sat, 15 Aug 2026 | Dirty Rabbit Saturday party |  |
 | Fri, 21 Aug 2026 | Dirty Rabbit Friday party | Dj Hiro |
@@ -20,4 +19,4 @@ Dirty Rabbit Hidden Bar is a music venue in Bangkok listed on soundcheck. 7 upco
 
 11 Soi Yen Akat 2, Khwaeng Chong Nonsi, Khet Yan Nawa, 10120, Bangkok
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dirty-rabbit-hidden-bar/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dirty-rabbit-hidden-bar/)*

@@ -1,6 +1,6 @@
 # Yannik
 
-Yannik is a Electro and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at EL SÓTANO, Madrid on Fri, 28 Aug 2026.
+Yannik is a Electro and Classical artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at EL SÓTANO, Madrid on Fri, 28 Aug 2026.
 
 Yannik is an electro and classical artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Brussels and Madrid. Often billed alongside Alex Picone, Boudewijn Ericx and Cosmic JD. Next up: EL SÓTANO, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Yannik is an electro and classical artist based in Germany, tracked on soundchec
 
 Alex Picone, Boudewijn Ericx, Cosmic JD
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yannik/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yannik/)*

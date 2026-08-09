@@ -1,6 +1,6 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "RANDOM CODE" on Sat, 8 Aug 2026.
+Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "TRANSONIC RECORDS PRESENTS 納涼ACID大会" on Sun, 9 Aug 2026.
 
 Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Chad and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
@@ -8,10 +8,10 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | RANDOM CODE | Can (8), Daichi Wago, Tetsuya Fukada, Ziziphus Jujuba |
 | Sun, 9 Aug 2026 | TRANSONIC RECORDS PRESENTS 納涼ACID大会 | Monolith, Mutron |
 | Mon, 10 Aug 2026 | 'Timelapse' | ANiIIIIiiiKii, Ascalypso, Limited Toss, Ritsuko Sakata |
 | Tue, 11 Aug 2026 | Chapter  7 |  |
+| Wed, 12 Aug 2026 | 【DRAMA M/A/S/S/A/C/R/E お盆 community gathering】 | Jordan, NordOst, Shimpei Watanabe, kyuuu |
 | Thu, 13 Aug 2026 | CARESS WAKE | JACKSON kaki, meweta, yayoi (JP) |
 | Fri, 14 Aug 2026 | BASiRiNO & Leo's Birthday Bash | Enji, MUNÉO, Rosa, miute |
 | Sat, 15 Aug 2026 | 24 | E.O.U, Hue Ray, YELLOWUHURU, kasetakumi (2) |
@@ -23,4 +23,4 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, 
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

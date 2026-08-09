@@ -1,6 +1,6 @@
 # Guised
 
-Guised is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Greenhouse HP, Lisbon on Sun, 9 Aug 2026.
+Guised is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Greenhouse HP, Lisbon on Sun, 9 Aug 2026.
 
 Guised is a deep house and minimal artist tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside Liquor Store Wisemen. Next up: Greenhouse HP, Lisbon on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Guised is a deep house and minimal artist tracked on soundcheck, with 13 sets lo
 
 Liquor Store Wisemen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guised/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guised/)*

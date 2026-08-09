@@ -1,6 +1,6 @@
 # Lucy Lennox
 
-Lucy Lennox is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
+Lucy Lennox is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at LDN East, London on Sat, 15 Aug 2026.
 
 Lucy Lennox is a house and disco artist tracked on soundcheck, with 12 sets logged across Edinburgh, London and Malta. Often billed alongside The Duke, Danny Krivit and MARINI. Next up: LDN East, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lucy Lennox is a house and disco artist tracked on soundcheck, with 12 sets logg
 
 The Duke, Danny Krivit, MARINI
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*

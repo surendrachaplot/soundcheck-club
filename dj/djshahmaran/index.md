@@ -1,6 +1,6 @@
 # DJ Shahmaran
 
-DJ Shahmaran is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at export, Rotterdam on Fri, 14 Aug 2026.
+DJ Shahmaran is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at export, Rotterdam on Fri, 14 Aug 2026.
 
 DJ Shahmaran is a house and bass artist based in Netherlands, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 5 more. Often billed alongside OG Karin, Faustin (NL) and Lola Edo. Next up: export, Rotterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Shahmaran is a house and bass artist based in Netherlands, tracked on soundch
 
 OG Karin, Faustin (NL), Lola Edo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshahmaran/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshahmaran/)*

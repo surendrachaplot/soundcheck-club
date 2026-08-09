@@ -1,6 +1,6 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Process PDX, Portland on Fri, 14 Aug 2026.
+Succubass is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Process PDX, Portland on Fri, 14 Aug 2026.
 
 Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: Process PDX, Portland on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

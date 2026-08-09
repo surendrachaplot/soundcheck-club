@@ -1,14 +1,13 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 8 Aug 2026.
+Isaac Carter is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 9 Aug 2026.
 
-Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 8 Aug.
+Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Sunday Sunday, Mexicocity on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sun, 9 Aug 2026 | Sunday Sunday | Mexico City |
 | Sat, 22 Aug 2026 | Nowadays | New York City |
 | Sun, 23 Aug 2026 | Flash | Washington DC |
@@ -21,6 +20,7 @@ Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 set
 
 ## Recently played
 
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 8 Aug 2026
 - Gaffe, London — Sun, 19 Jul 2026
 - TBA - Domeniul Strehan, Dealu Mare, Bucharest — Sat, 27 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 21 Jun 2026
@@ -28,10 +28,9 @@ Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 set
 - Shelter Amsterdam, Amsterdam — Fri, 12 Jun 2026
 - Thuishaven, Amsterdam — Sun, 31 May 2026
 - High Lights - Barking Park, London — Sat, 30 May 2026
-- The Cause, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

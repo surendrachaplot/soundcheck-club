@@ -1,6 +1,6 @@
 # Alfie Aukett
 
-Alfie Aukett is a Electro and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
+Alfie Aukett is a Electro and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
 
 Alfie Aukett is an electro and minimal techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Thom Parris, Ariane V and Baby Rollén. Next up: Vittoria Wharf Studio, London on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Alfie Aukett is an electro and minimal techno artist based in United Kingdom, tr
 
 Thom Parris, Ariane V, Baby Rollén
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfieaukett/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfieaukett/)*

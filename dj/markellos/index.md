@@ -1,18 +1,18 @@
 # markellos
 
-markellos is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+markellos is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 9 Aug 2026.
 
-markellos is a techno artist based in Greece, tracked on soundcheck, with 8 sets logged across London. Often billed alongside GIZZI, James Harbrecht and Deranged. Next up: Gaffe, London on Sat 8 Aug.
+markellos is a techno artist based in Greece, tracked on soundcheck, with 8 sets logged across London. Often billed alongside GIZZI, James Harbrecht and Deranged. Next up: NUMBER 90 LONDON, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Gaffe | London |
 | Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Gaffe, London — Sat, 8 Aug 2026
 - The Glove That Fits, London — Thu, 23 Apr 2026
 - M.O.T, London — Thu, 12 Feb 2026
 - Gaffe, London — Sat, 17 Jan 2026
@@ -24,4 +24,4 @@ markellos is a techno artist based in Greece, tracked on soundcheck, with 8 sets
 
 GIZZI, James Harbrecht, Deranged
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markellos/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markellos/)*

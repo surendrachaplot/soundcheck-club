@@ -1,14 +1,15 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Timber Yard, Melbourne on Fri, 21 Aug 2026.
+Josh Heywood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Timber Yard, Melbourne on Fri, 21 Aug 2026.
 
-Josh Heywood is a techno and house artist tracked on soundcheck, with 55 sets logged across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: The Timber Yard, Melbourne on Fri 21 Aug.
+Josh Heywood is a techno and house artist tracked on soundcheck, with 56 sets logged across Auckland, Brisbane, Melbourne and Sydney and 1 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: The Timber Yard, Melbourne on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The Timber Yard | Melbourne |
+| Fri, 11 Sept 2026 | TBA -     | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Josh Heywood is a techno and house artist tracked on soundcheck, with 55 sets lo
 
 Etwas, HYBE, Matteo Freyrie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*

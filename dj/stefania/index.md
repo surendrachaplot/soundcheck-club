@@ -1,6 +1,6 @@
 # Stefania
 
-Stefania is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Night Tales, London on Sat, 17 Oct 2026.
+Stefania is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Night Tales, London on Sat, 17 Oct 2026.
 
 Stefania is a house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Alex Neri, Binh and Calla. Next up: Night Tales, London on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Stefania is a house artist based in United Kingdom, tracked on soundcheck, with 
 
 Alex Neri, Binh, Calla
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefania/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefania/)*

@@ -1,6 +1,6 @@
 # Hulme Garden Centre
 
-Hulme Garden Centre is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Green Island 2026 - Vol.3" on Sat, 5 Sept 2026.
+Hulme Garden Centre is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Green Island 2026 - Vol.3" on Sat, 5 Sept 2026.
 
 Hulme Garden Centre is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 28 Old Birley St, Hulme, Manchester M15 5RG.
 
@@ -14,4 +14,4 @@ Hulme Garden Centre is a music venue in Manchester listed on soundcheck. 1 upcom
 
 28 Old Birley St, Hulme, Manchester M15 5RG, Manchester
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hulme-garden-centre/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hulme-garden-centre/)*

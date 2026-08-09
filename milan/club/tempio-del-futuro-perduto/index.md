@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "HARDGROOVE PARK: M.I.T.A., Elisa Bee, Kora Lyssa, cccre, Marthial" on Sat, 8 Aug 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 14 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Oriental Techno Garden - 東極玄音花園: Morva, Zenyee, Shū" on Fri, 14 Aug 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upcoming nights, with line-ups including Acidalia, ÆQUAL, Alimac and Atmosphreal and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 14 upcoming nights, with line-ups including Acidalia, ÆQUAL, Alimac and Atmosphreal and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | HARDGROOVE PARK: M.I.T.A., Elisa Bee, Kora Lyssa, cccre, Marthial | Elisa Bee, Kora Lyssa, M.I.T.A., Marthial, cccre |
 | Fri, 14 Aug 2026 | Oriental Techno Garden - 東極玄音花園: Morva, Zenyee, Shū | Morva, SHŪ (1), Zenyee |
 | Sat, 15 Aug 2026 | FERRAGOSTO TECHNO: Dolce Potente b2b Industrial Romantico  | Dolce Potente, Industrial Romantico |
 | Fri, 21 Aug 2026 | Oriental Techno Garden - 東極玄音花園: Raeya Chen, Zenyee, Morva | Morva, Raeya Chen, Zenyee |
@@ -18,9 +17,10 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upc
 | Fri, 4 Sept 2026 | Oriental Techno Garden - 東極玄音花園: Audio Units, Morva, Zenyee | Audio Units, Morva, Zenyee |
 | Sat, 5 Sept 2026 | GIARDINO ELETTRONICO: Local Suicide, Waldo b2b cccre, Futuro Tropicale | Futuro Tropicale, Local Suicide, Waldo, cccre |
 | Fri, 11 Sept 2026 | Oriental Techno Garden - 東極玄音花園: OIL Showcase DJ86, Beibelion, Zenyee | Beibeilon, Zenyee |
+| Sat, 12 Sept 2026 | NOTTE TEKNO: Maskk live (Kernel Panik), Dolce Potente b2b Tania Kim, Sonodistorto, DTS live | Atmosphreal, DRUM THE SYSTEM live, Dolce Potente, Tania Kim, Waldo |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

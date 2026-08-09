@@ -1,6 +1,6 @@
 # Arlo Parks
 
-Arlo Parks is a R&B and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Lincoln Factory, Detroit on Sat, 5 Sept 2026.
+Arlo Parks is a R&B and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Lincoln Factory, Detroit on Sat, 5 Sept 2026.
 
 Arlo Parks is a r&b and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, Bristol, Budapest and Detroit and 2 more. Often billed alongside Lil Silva, AGY3NA and AndShe. Next up: Lincoln Factory, Detroit on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Arlo Parks is a r&b and techno artist based in United Kingdom, tracked on soundc
 
 Lil Silva, AGY3NA, AndShe
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arloparks/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arloparks/)*

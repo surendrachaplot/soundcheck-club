@@ -1,6 +1,6 @@
 # T0M1
 
-T0M1 is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+T0M1 is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
 
 T0M1 is a latin bass and techno artist based in Argentina, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Julio César, Sofy Suars and Tiyumii. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ T0M1 is a latin bass and techno artist based in Argentina, tracked on soundcheck
 
 Julio César, Sofy Suars, Tiyumii
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t0m1/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t0m1/)*

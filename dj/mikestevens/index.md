@@ -1,6 +1,6 @@
 # Mike Stevens
 
-Mike Stevens is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Altenburg 1964, Prague on Sat, 12 Sept 2026.
+Mike Stevens is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Altenburg 1964, Prague on Sat, 12 Sept 2026.
 
 Mike Stevens is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne and Prague. Often billed alongside Ghool, Diva and SENAIDA. Next up: Altenburg 1964, Prague on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Mike Stevens is a techno artist based in Germany, tracked on soundcheck, with 3 
 
 Ghool, Diva, SENAIDA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestevens/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestevens/)*

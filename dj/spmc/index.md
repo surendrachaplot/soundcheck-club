@@ -1,14 +1,13 @@
 # SP:MC
 
-SP:MC is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+SP:MC is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TRAUM, Antwerp on Fri, 14 Aug 2026.
 
-SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Auckland and Basel and 21 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: The Prospect Building, Bristol on Sat 8 Aug.
+SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Auckland and Basel and 21 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: TRAUM, Antwerp on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | The Prospect Building | Bristol |
 | Fri, 14 Aug 2026 | TRAUM | Antwerp |
 | Wed, 19 Aug 2026 | A38 | Budapest |
 | Fri, 28 Aug 2026 | Club Colette | Birmingham |
@@ -19,6 +18,7 @@ SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 149 sets lo
 
 ## Recently played
 
+- The Prospect Building, Bristol — Sat, 8 Aug 2026
 - Quarters, Brighton — Fri, 7 Aug 2026
 - Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
 - M.O.T, London — Fri, 31 Jul 2026
@@ -26,10 +26,9 @@ SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 149 sets lo
 - Volks, Brighton — Sat, 27 Jun 2026
 - Volks, Brighton — Sat, 27 Jun 2026
 - Hare & Hounds, Birmingham — Fri, 26 Jun 2026
-- The Cause, London — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Skeptical, Alix Perez, Breakage
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spmc/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spmc/)*

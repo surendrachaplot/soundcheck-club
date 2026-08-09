@@ -1,14 +1,13 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "PARTY ATHLETES presents SPOTTO featuring Mr. Ho" on Sat, 8 Aug 2026.
+Circus Osaka is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "tofubeats - Angels On The Dancefloor Release party -Osaka-" on Mon, 10 Aug 2026.
 
-Circus Osaka is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including BABii, Baby J (2), Iglooghost and MARU (2) and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
+Circus Osaka is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including BABii, Baby J (2), Iglooghost and ryota dj and 1 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | PARTY ATHLETES presents SPOTTO featuring Mr. Ho | MARU (2), Mr. Ho, SEIJI (2) |
 | Mon, 10 Aug 2026 | tofubeats - Angels On The Dancefloor Release party -Osaka- | Soichi Terada |
 | Thu, 13 Aug 2026 | Devault Osaka Debut |  |
 | Fri, 14 Aug 2026 | Cyst Asia Tour in Osaka | BABii, Iglooghost |
@@ -19,4 +18,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 6 upcoming nights, 
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

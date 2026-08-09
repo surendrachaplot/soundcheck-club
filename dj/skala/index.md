@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+SKALA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 SKALA is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ SKALA is a techno and house artist tracked on soundcheck, with 88 sets logged ac
 
 Theologos, ELIF, Mila Stern
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

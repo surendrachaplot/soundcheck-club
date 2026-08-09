@@ -1,15 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 24 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Shaved For Battle" on Sat, 8 Aug 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 22 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "International Pop Overthrow" on Sun, 9 Aug 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 24 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 22 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Shaved For Battle |  |
-| Sat, 8 Aug 2026 | Bats in the Belfry |  |
 | Sun, 9 Aug 2026 | International Pop Overthrow |  |
 | Mon, 10 Aug 2026 | International Pop Overthrow |  |
 | Tue, 11 Aug 2026 | International Pop Overthrow |  |
@@ -18,9 +16,11 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 2
 | Fri, 14 Aug 2026 | The Stitches |  |
 | Sat, 15 Aug 2026 | Ritual |  |
 | Sun, 16 Aug 2026 | Sam Pace |  |
+| Sun, 16 Aug 2026 | Dauber |  |
+| Tue, 18 Aug 2026 | Jockey Jord |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

@@ -1,14 +1,13 @@
 # Gallery
 
-Gallery is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Summer Sessions" on Sat, 8 Aug 2026.
+Gallery is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Paradox Nexus: AJ Christou - Thursdays at Gallery" on Thu, 13 Aug 2026.
 
-Gallery is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AJ Christou, Ashibah, D1 x Samir (DVS) and DASHA (UK) and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AJ Christou, Ashibah, D1 x Samir (DVS) and DASHA (UK) and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Summer Sessions |  |
 | Thu, 13 Aug 2026 | Paradox Nexus: AJ Christou - Thursdays at Gallery | AJ Christou, DASHA (UK), EDEF |
 | Sat, 15 Aug 2026 | Organic: Greggio All Night Long | Greggio |
 | Thu, 20 Aug 2026 | Paradox Nexus: Emma 2000 - Thursdays at Gallery | D1 x Samir (DVS), Emma 2000, FrezZ |
@@ -18,9 +17,10 @@ Gallery is a music venue in London listed on soundcheck. 14 upcoming nights, wit
 | Fri, 28 Aug 2026 | Gallery x Anza presents: KARABA | KARABA, Leeda, Nicky Summers, S FLY, Shena |
 | Sat, 29 Aug 2026 | Hypnotized x Il Lamma presents Ashibah | Ashibah |
 | Thu, 3 Sept 2026 | Paradox Nexus - Thursdays |  |
+| Fri, 4 Sept 2026 | Organic presents: Gabe | Gabe Live |
 
 ## Address
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

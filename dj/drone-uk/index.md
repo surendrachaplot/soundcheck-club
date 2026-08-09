@@ -1,6 +1,6 @@
 # Drone (UK)
 
-Drone (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Society Clubhouse, Toronto on Sun, 16 Aug 2026.
+Drone (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Society Clubhouse, Toronto on Sun, 16 Aug 2026.
 
 Drone (UK) is a drum & bass and bass artist tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Denver and Leeds and 6 more. Often billed alongside Monty, SP:MC and Cesco. Next up: Society Clubhouse, Toronto on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Drone (UK) is a drum & bass and bass artist tracked on soundcheck, with 25 sets 
 
 Monty, SP:MC, Cesco
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drone-uk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drone-uk/)*

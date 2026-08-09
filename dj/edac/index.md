@@ -1,6 +1,6 @@
 # Edac
 
-Edac is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
+Edac is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
 
 Edac is an electro and techno artist tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside švedka, Arkane and Connor (UK). Next up: The DBA, Manchester on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Edac is an electro and techno artist tracked on soundcheck, with 4 sets logged a
 
 švedka, Arkane, Connor (UK)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edac/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edac/)*

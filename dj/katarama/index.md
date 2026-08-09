@@ -1,6 +1,6 @@
 # KATARAMA
 
-KATARAMA is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
+KATARAMA is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
 
 KATARAMA is a club and bass artist tracked on soundcheck, with 24 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Eytan Tobin, Vaughan (2) and MIASALAV. Next up: TBA, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KATARAMA is a club and bass artist tracked on soundcheck, with 24 sets logged ac
 
 Eytan Tobin, Vaughan (2), MIASALAV
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katarama/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katarama/)*

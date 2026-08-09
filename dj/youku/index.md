@@ -1,6 +1,6 @@
 # YOUKU
 
-YOUKU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
+YOUKU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
 
 YOUKU is a house and techno artist based in South Korea, tracked on soundcheck, with 56 sets logged across Seoul. Often billed alongside Gyusco, Youngseok and Berry (KR). Next up: Modeci, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ YOUKU is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Gyusco, Youngseok, Berry (KR)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youku/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youku/)*

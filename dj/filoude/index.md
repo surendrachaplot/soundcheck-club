@@ -1,6 +1,6 @@
 # Filou (DE)
 
-Filou (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
+Filou (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
 
 Filou (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Bangkok, Berlin, London and Melbourne. Often billed alongside HiTMiLØW, XIMA and Zetson. Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Filou (DE) is a techno and house artist based in Germany, tracked on soundcheck,
 
 HiTMiLØW, XIMA, Zetson
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filoude/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filoude/)*

@@ -1,6 +1,6 @@
 # fun2bjane
 
-fun2bjane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Los Angeles, Los Angeles on Fri, 9 Oct 2026.
+fun2bjane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Los Angeles, Los Angeles on Fri, 9 Oct 2026.
 
 fun2bjane is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Etari, Capes and mad gavs. Next up: TBA - Los Angeles, Losangeles on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ fun2bjane is a techno and house artist based in United States of America, tracke
 
 Etari, Capes, mad gavs
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*

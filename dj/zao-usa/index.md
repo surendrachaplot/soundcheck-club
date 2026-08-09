@@ -1,6 +1,6 @@
 # Zao (USA)
 
-Zao (USA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
+Zao (USA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
 
 Zao (USA) is a house and techno artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Bassam, CHAOUKI and Mariin. Next up: Green Room NYC, Newyorkcity on Wed 12 Aug.
 
@@ -19,4 +19,4 @@ Zao (USA) is a house and techno artist tracked on soundcheck, with 3 sets logged
 
 Bassam, CHAOUKI, Mariin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zao-usa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zao-usa/)*

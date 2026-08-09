@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 43 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "FUEGO WEEK 11" on Sat, 8 Aug 2026.
+Eden is a music venue in Ibiza with 42 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "ACTIN' BAD WEEK 6 (Presented by Holler At Me)" on Mon, 10 Aug 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 43 upcoming nights, with line-ups including 6EJOU, ACA (YU), Alberto Costa and Alle Farben and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 42 upcoming nights, with line-ups including 6EJOU, ACA (YU), Alberto Costa and Alle Farben and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | FUEGO WEEK 11 |  |
 | Mon, 10 Aug 2026 | ACTIN' BAD WEEK 6 (Presented by Holler At Me) | LUKAS & FRANK, Noel Holler |
 | Tue, 11 Aug 2026 | Galactica Ibiza with 6EJOU B2B SNTS, Vieze Asbak, BYORN | 6EJOU, Daisy-it, SNTS, Vieze Asbak, sizing |
 | Wed, 12 Aug 2026 | GARAGE NATION WEEK 2 |  |
@@ -18,9 +17,10 @@ Eden is a music venue in Ibiza listed on soundcheck. 43 upcoming nights, with li
 | Mon, 17 Aug 2026 | ACTIN' BAD WEEK 7 (Presented by Holler At Me) | Alle Farben, CHRSTPHR, Noel Holler, TOXIMAMI |
 | Tue, 18 Aug 2026 | Galactica Ibiza with NATTE VISSTICK, Luca Agnelli, ANXHELA, Marie Vaunt | ANXHELA, Luca Agnelli, Marie Vaunt, SANEM |
 | Wed, 19 Aug 2026 | GARAGE NATION WEEK 3 |  |
+| Thu, 20 Aug 2026 | LA DISTURBIA Closing Party | Martin Ikin |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

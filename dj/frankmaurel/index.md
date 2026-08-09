@@ -1,6 +1,6 @@
 # Frank Maurel
 
-Frank Maurel is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 15 Aug 2026.
+Frank Maurel is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 15 Aug 2026.
 
 Frank Maurel is a techno and electronica artist based in Portugal, tracked on soundcheck, with 25 sets logged across Lisbon and Porto. Often billed alongside Analodjica, DJ Nox and Daniel Ribeiro. Next up: Tapada da Ajuda, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Frank Maurel is a techno and electronica artist based in Portugal, tracked on so
 
 Analodjica, DJ Nox, Daniel Ribeiro
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmaurel/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmaurel/)*

@@ -1,6 +1,6 @@
 # mojo (DE)
 
-mojo (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
+mojo (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
 
 mojo (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Waldymoto, Ariel (DE) and Anna Konda. Next up: Fluxbau, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ mojo (DE) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Waldymoto, Ariel (DE), Anna Konda
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*

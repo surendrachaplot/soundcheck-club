@@ -1,6 +1,6 @@
 # Jeremy Sole
 
-Jeremy Sole is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Airliner, Los Angeles on Fri, 14 Aug 2026.
+Jeremy Sole is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Airliner, Los Angeles on Fri, 14 Aug 2026.
 
 Jeremy Sole is an afro house and disco artist based in United States of America, tracked on soundcheck, with 43 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Captain Planet, Marques Wyatt and Rich Medina. Next up: The Airliner, Losangeles on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jeremy Sole is an afro house and disco artist based in United States of America,
 
 Captain Planet, Marques Wyatt, Rich Medina
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysole/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysole/)*

@@ -1,6 +1,6 @@
 # gALEXii
 
-gALEXii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Outdoor South LA, Los Angeles on Sat, 15 Aug 2026.
+gALEXii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Outdoor South LA, Los Angeles on Sat, 15 Aug 2026.
 
 gALEXii is a techno and house artist based in Mexico, tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Andrew S., Bellhop and Chris Mindel. Next up: TBA - Outdoor South LA, Losangeles on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ gALEXii is a techno and house artist based in Mexico, tracked on soundcheck, wit
 
 Andrew S., Bellhop, Chris Mindel
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galexii/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galexii/)*

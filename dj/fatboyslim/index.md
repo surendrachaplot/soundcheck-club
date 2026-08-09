@@ -1,14 +1,13 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Fatboy Slim is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: 528 Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Tue, 11 Aug 2026 | 528 Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,6 +19,7 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Gianpula Village, Malta — Fri, 31 Jul 2026
 - Recinto Mallorca Live, Mallorca — Fri, 3 Jul 2026
 - Circolo Magnolia, Milan — Sat, 23 May 2026
@@ -27,10 +27,9 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets
 - BRET, Amsterdam — Sat, 14 Mar 2026
 - 8 Marvila, Lisbon — Fri, 13 Mar 2026
 - 8 Marvila, Lisbon — Thu, 12 Mar 2026
-- The Barrowland Ballroom, Glasgow — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

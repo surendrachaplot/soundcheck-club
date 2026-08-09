@@ -1,6 +1,6 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at H7 Warehouse, Amsterdam on Sat, 22 Aug 2026.
+BLNK is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at H7 Warehouse, Amsterdam on Sat, 22 Aug 2026.
 
 BLNK is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 17 more. Often billed alongside TiTi, LIEKS and BØĘRY. Next up: H7 Warehouse, Amsterdam on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ BLNK is a techno and industrial artist based in Netherlands, tracked on soundche
 
 TiTi, LIEKS, BØĘRY
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

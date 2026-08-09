@@ -1,6 +1,6 @@
 # newfaces – weekend edition at elipamanoke
 
-newfaces – weekend edition at elipamanoke on Sat 15 Aug, Leipzig. Preview the line-up and save it on soundcheck.
+newfaces – weekend edition at elipamanoke on Sat 15 Aug, Leipzig. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

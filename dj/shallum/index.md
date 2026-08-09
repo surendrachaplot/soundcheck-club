@@ -1,6 +1,6 @@
 # Shallum
 
-Shallum is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, London on Sat, 15 Aug 2026.
+Shallum is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, London on Sat, 15 Aug 2026.
 
 Shallum is a minimal techno and electro artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Medu, Nicola Mannini and Pietro LGF. Next up: TBA, London on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Shallum is a minimal techno and electro artist tracked on soundcheck, with 3 set
 
 Medu, Nicola Mannini, Pietro LGF
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*

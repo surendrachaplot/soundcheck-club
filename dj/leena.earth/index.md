@@ -1,6 +1,6 @@
 # leena.earth
 
-leena.earth is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Drom, New York City on Fri, 18 Sept 2026.
+leena.earth is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Drom, New York City on Fri, 18 Sept 2026.
 
 leena.earth is a techno and electro artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside menofilter, n33k5 and nataliepops. Next up: Drom, Newyorkcity on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ leena.earth is a techno and electro artist tracked on soundcheck, with 7 sets lo
 
 menofilter, n33k5, nataliepops
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leena.earth/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leena.earth/)*

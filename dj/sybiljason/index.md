@@ -1,6 +1,6 @@
 # Sybil Jason
 
-Sybil Jason is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 16 Aug 2026.
+Sybil Jason is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 16 Aug 2026.
 
 Sybil Jason is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and Newyorkcity. Often billed alongside Young Male, Amber Valentine and Andi. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Sybil Jason is a techno and house artist based in United States of America, trac
 
 Young Male, Amber Valentine, Andi
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sybiljason/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sybiljason/)*

@@ -1,6 +1,6 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Gee Lane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Gee Lane is a house and disco artist tracked on soundcheck, with 112 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Gee Lane is a house and disco artist tracked on soundcheck, with 112 sets logged
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

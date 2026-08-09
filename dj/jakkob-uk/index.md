@@ -1,6 +1,6 @@
 # Jakkob
 
-Jakkob is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Hidden, Manchester on Sat, 3 Oct 2026.
+Jakkob is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hidden, Manchester on Sat, 3 Oct 2026.
 
 Jakkob is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Bali and Birmingham and 13 more. Often billed alongside Hywel Gregory, Fredd Mann and Bo Conquest. Next up: Hidden, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jakkob is a house and tech house artist based in United Kingdom, tracked on soun
 
 Hywel Gregory, Fredd Mann, Bo Conquest
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkob-uk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkob-uk/)*

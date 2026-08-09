@@ -1,6 +1,6 @@
 # obviouslyalex
 
-obviouslyalex is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Shakespeares, Sheffield on Sun, 30 Aug 2026.
+obviouslyalex is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Shakespeares, Sheffield on Sun, 30 Aug 2026.
 
 obviouslyalex is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Sheffield. Often billed alongside Freddie Grisbi, The Doobskins and Charles Webster. Next up: Shakespeares, Sheffield on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ obviouslyalex is a deep house and tech house artist based in United Kingdom, tra
 
 Freddie Grisbi, The Doobskins, Charles Webster
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obviouslyalex/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obviouslyalex/)*

@@ -1,6 +1,6 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
+Silvie Loto is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
 
 Silvie Loto is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Barcelona and Basel and 28 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stussy. Next up: Sophie Festival, Malaga on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Silvie Loto is a house and tech house artist tracked on soundcheck, with 80 sets
 
 PAWSA, Dennis Cruz, Chris Stussy
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

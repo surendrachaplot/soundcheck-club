@@ -1,6 +1,6 @@
 # Gian Battista
 
-Gian Battista is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Gian Battista is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 Gian Battista is a tech house and techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Alex Ranzino, Berkan V8 and CARISTA. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Gian Battista is a tech house and techno artist based in Italy, tracked on sound
 
 Alex Ranzino, Berkan V8, CARISTA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianbattista/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianbattista/)*

@@ -1,6 +1,6 @@
 # Lab 11
 
-Lab 11 is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Crossy presents: The Breakthrough - Birmingham" on Fri, 18 Sept 2026.
+Lab 11 is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Crossy presents: The Breakthrough - Birmingham" on Fri, 18 Sept 2026.
 
 Lab 11 is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, with line-ups including Crossy, Demolition Man, Inja and Trafic MC. Browse upcoming dates, start times and who's playing. Trent St, Birmingham B5 5NL.
 
@@ -15,4 +15,4 @@ Lab 11 is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, w
 
 Trent St, Birmingham B5 5NL, Birmingham
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab-11/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab-11/)*

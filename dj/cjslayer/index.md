@@ -1,6 +1,6 @@
 # CJ Slayer
 
-CJ Slayer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
+CJ Slayer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 14 Aug 2026.
 
 CJ Slayer is a techno and house artist based in Australia, tracked on soundcheck, with 33 sets logged across Melbourne. Often billed alongside CAITY WATSON, Matt Radovich and Mike Callander. Next up: Revolver Upstairs, Melbourne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ CJ Slayer is a techno and house artist based in Australia, tracked on soundcheck
 
 CAITY WATSON, Matt Radovich, Mike Callander
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjslayer/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjslayer/)*

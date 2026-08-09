@@ -1,6 +1,6 @@
 # Cris Cioata
 
-Cris Cioata is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at XOYO, London on Wed, 26 Aug 2026.
+Cris Cioata is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at XOYO, London on Wed, 26 Aug 2026.
 
 Cris Cioata is a deep house and tech house artist based in Romania, tracked on soundcheck, with 4 sets logged across London. Often billed alongside AJNA, Billa Bazz and Casey Spillman. Next up: XOYO, London on Wed 26 Aug.
 
@@ -20,4 +20,4 @@ Cris Cioata is a deep house and tech house artist based in Romania, tracked on s
 
 AJNA, Billa Bazz, Casey Spillman
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/criscioata/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/criscioata/)*

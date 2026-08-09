@@ -1,6 +1,6 @@
 # Antilogic
 
-Antilogic is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Macadam, Nantes on Thu, 20 Aug 2026.
+Antilogic is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Macadam, Nantes on Thu, 20 Aug 2026.
 
 Antilogic is a bass and baile funk artist based in France, tracked on soundcheck, with 5 sets logged across Marseille, Nantes and Paris. Often billed alongside ARTEM (FR), Claude Murder and Eendracht. Next up: Macadam, Nantes on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Antilogic is a bass and baile funk artist based in France, tracked on soundcheck
 
 ARTEM (FR), Claude Murder, Eendracht
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antilogic/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antilogic/)*

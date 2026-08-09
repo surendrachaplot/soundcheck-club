@@ -1,6 +1,6 @@
 # Clarissa Gnade
 
-Clarissa Gnade is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
+Clarissa Gnade is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
 
 Clarissa Gnade is a techno and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Max Muth, BERLIN and Laigonen Kanonen. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Clarissa Gnade is a techno and tech house artist based in Germany, tracked on so
 
 Max Muth, BERLIN, Laigonen Kanonen
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissagnade/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissagnade/)*

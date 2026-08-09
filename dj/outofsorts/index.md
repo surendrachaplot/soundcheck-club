@@ -1,6 +1,6 @@
 # Out Of Sorts
 
-Out Of Sorts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Victoria Park Markets - Darling on Drake, La Zeppa, Shy Guys & Milenta, Auckland on Sat, 22 Aug 2026.
+Out Of Sorts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Victoria Park Markets - Darling on Drake, La Zeppa, Shy Guys & Milenta, Auckland on Sat, 22 Aug 2026.
 
 Out Of Sorts is a techno and house artist tracked on soundcheck, with 13 sets logged across Auckland and Losangeles. Often billed alongside Rob Warner, Dylan C and Greg Churchill. Next up: Victoria Park Markets - Darling on Drake, La Zeppa, Shy Guys & Milenta, Auckland on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Out Of Sorts is a techno and house artist tracked on soundcheck, with 13 sets lo
 
 Rob Warner, Dylan C, Greg Churchill
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outofsorts/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outofsorts/)*

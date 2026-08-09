@@ -1,14 +1,13 @@
 # Chlär
 
-Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Chlär is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 245 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Chlär is a techno and house artist tracked on soundcheck, with 245 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 22 Aug 2026 | Prince Charles | Berlin |
 | Fri, 28 Aug 2026 | Studio Club Malaga | Malaga |
@@ -22,6 +21,7 @@ Chlär is a techno and house artist tracked on soundcheck, with 245 sets logged 
 
 ## Recently played
 
+- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 7 Aug 2026
 - Arzenal, Budapest — Fri, 31 Jul 2026
 - Fvtvr, Paris — Fri, 24 Jul 2026
@@ -29,10 +29,9 @@ Chlär is a techno and house artist tracked on soundcheck, with 245 sets logged 
 - Else, Berlin — Sun, 19 Jul 2026
 - Sub Club, Glasgow — Fri, 10 Jul 2026
 - Grelle Forelle, Vienna — Fri, 26 Jun 2026
-- Tokonoma Club, Frankfurt — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

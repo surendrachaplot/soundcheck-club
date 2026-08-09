@@ -1,14 +1,13 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "解体·連動 with Albino Sound (解体新書, Tokyo) [HYBRID LIVE] + Voel [LIVE] + Shelf-Index & xylon" on Sat, 8 Aug 2026.
+宀 Club is a music venue in Hong Kong with 16 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Entropy 熵 with Tommy Four Seven (47, Berlin) + Nanogram (Entropy 熵) + Tfeelscary (Dropsound)" on Fri, 14 Aug 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 16 upcoming nights, with line-ups including 69DB, A Strange Wedding, Charlieowo and Daura and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | 解体·連動 with Albino Sound (解体新書, Tokyo) [HYBRID LIVE] + Voel [LIVE] + Shelf-Index & xylon | Albino Sound, Shelf-Index, xylon |
 | Fri, 14 Aug 2026 | Entropy 熵 with Tommy Four Seven (47, Berlin) + Nanogram (Entropy 熵) + Tfeelscary (Dropsound) | Nanogram, Tfeelscary, Tommy Four Seven |
 | Sat, 15 Aug 2026 | Charlieowo invites FEIYI (FinderShanghai, Shanghai) | Charlieowo, FEIYI |
 | Fri, 21 Aug 2026 | Distrikt 32: Innerworld (LFO, Goa) + Faxtory (Distrikt, Hong Kong) | Faxtory, Innerworld |
@@ -18,9 +17,10 @@
 | Fri, 4 Sept 2026 | 宀 Invites Taku Hirayama (Junction, Da Nang) + Stevie Whisper (YES, Belgrade) | Stevie Whisper, Taku Hirayama |
 | Sat, 5 Sept 2026 | 宀 Invites DJ Yazi (Future Terror, Tokyo) [All Night Long] | DJ Yazi |
 | Fri, 11 Sept 2026 | Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong) | Sunsiaré, Wada Yosuke |
+| Sat, 12 Sept 2026 | DISTRIKT 33: A Strange Wedding (useless seconds, Berlin) [LIVE] | A Strange Wedding |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

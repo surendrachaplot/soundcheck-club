@@ -1,6 +1,6 @@
 # Sergio SP
 
-Sergio SP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Rhythm, Toronto on Fri, 14 Aug 2026.
+Sergio SP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Rhythm, Toronto on Fri, 14 Aug 2026.
 
 Sergio SP is a techno and house artist tracked on soundcheck, with 24 sets logged across Toronto and Vancouver. Often billed alongside Max Ulis, Audio Space and Ciel. Next up: Rhythm, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Sergio SP is a techno and house artist tracked on soundcheck, with 24 sets logge
 
 Max Ulis, Audio Space, Ciel
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosp/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosp/)*

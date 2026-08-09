@@ -1,14 +1,13 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Substation, Seattle on Sat, 8 Aug 2026.
+X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-X CLUB. is a techno and house artist tracked on soundcheck, with 215 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Substation, Seattle on Sat 8 Aug.
+X CLUB. is a techno and house artist tracked on soundcheck, with 216 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Substation | Seattle |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -18,9 +17,11 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 215 sets logged
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 | Sat, 3 Oct 2026 | KALT | Strasbourg |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Substation, Seattle — Sat, 8 Aug 2026
 - Nowadays, New York City — Thu, 6 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Brooklyn Army Terminal, New York City — Fri, 31 Jul 2026
@@ -28,10 +29,9 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 215 sets logged
 - Trädgården, Stockholm — Thu, 16 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 13 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
-- Mondo Open Air, Madrid — Sat, 27 Jun 2026
 
 ## Shares bills with
 
-KETTAMA, VTSS, DJ Heartstring
+KETTAMA, DJ Heartstring, VTSS
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

@@ -1,6 +1,6 @@
 # Alena Arpels
 
-Alena Arpels is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at A L P H A B E T, Brighton on Fri, 14 Aug 2026.
+Alena Arpels is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at A L P H A B E T, Brighton on Fri, 14 Aug 2026.
 
 Alena Arpels is a disco and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, Detroit and London. Often billed alongside Dom Ore, Rob Alldritt and Bill Brewster. Next up: A L P H A B E T, Brighton on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Alena Arpels is a disco and house artist based in United Kingdom, tracked on sou
 
 Dom Ore, Rob Alldritt, Bill Brewster
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alenaarpels/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alenaarpels/)*

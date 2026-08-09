@@ -1,14 +1,13 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Buda Castle - Újvilág, Budapest on Sat, 8 Aug 2026.
+Gordo is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Pacha Ibiza, Ibiza on Tue, 25 Aug 2026.
 
-Gordo is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Buda Castle - Újvilág, Budapest on Sat 8 Aug.
+Gordo is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Pacha Ibiza, Ibiza on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Buda Castle - Újvilág | Budapest |
 | Tue, 25 Aug 2026 | Pacha Ibiza | Ibiza |
 | Tue, 1 Sept 2026 | Pacha Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Pacha New York | New York City |
@@ -22,6 +21,7 @@ Gordo is a house and tech house artist tracked on soundcheck, with 107 sets logg
 
 ## Recently played
 
+- Buda Castle - Újvilág, Budapest — Sat, 8 Aug 2026
 - Café del Mar Malta, Malta — Sat, 25 Jul 2026
 - Fitz Mallorca, Mallorca — Sat, 25 Jul 2026
 - KOKO, London — Sat, 11 Jul 2026
@@ -29,10 +29,9 @@ Gordo is a house and tech house artist tracked on soundcheck, with 107 sets logg
 - The Concourse Project, Austin — Fri, 19 Jun 2026
 - Fabrik, Madrid — Sat, 6 Jun 2026
 - Pacha Ibiza, Ibiza — Fri, 5 Jun 2026
-- Kiesgrube, Düsseldorf — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Marco Carola, Wade, Andrea Oliva
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*

@@ -1,6 +1,6 @@
 # Mansions
 
-Mansions is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "VARSHA, Gilly & Mui Mui" on Thu, 13 Aug 2026.
+Mansions is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "VARSHA, Gilly & Mui Mui" on Thu, 13 Aug 2026.
 
 Mansions is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Dj Gilly, Mui Mui and VARSHA. Browse upcoming dates, start times and who's playing. 46-63 Metropolitan Ave, Queens, NY, 11385, USA.
 
@@ -14,4 +14,4 @@ Mansions is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night,
 
 46-63 Metropolitan Ave, Queens, NY, 11385, USA, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mansions/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mansions/)*

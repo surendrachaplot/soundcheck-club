@@ -1,6 +1,6 @@
 # DJ Pacifier
 
-DJ Pacifier is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Le Red Room, Montreal on Fri, 28 Aug 2026.
+DJ Pacifier is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Le Red Room, Montreal on Fri, 28 Aug 2026.
 
 DJ Pacifier is a hardcore and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Baby Bimbo, Outback and the bald girl. Next up: Le Red Room, Montreal on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Pacifier is a hardcore and techno artist tracked on soundcheck, with 42 sets 
 
 Baby Bimbo, Outback, the bald girl
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpacifier/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpacifier/)*

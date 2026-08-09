@@ -1,6 +1,6 @@
 # Fernanda Arrau
 
-Fernanda Arrau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
+Fernanda Arrau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
 
 Fernanda Arrau is a house and techno artist tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Bucharest and Buenosaires and 8 more. Often billed alongside Ketiov, Myd and TWO EX. Next up: La Terrrazza, Barcelona on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Fernanda Arrau is a house and techno artist tracked on soundcheck, with 72 sets 
 
 Ketiov, Myd, TWO EX
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandaarrau-cl/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandaarrau-cl/)*

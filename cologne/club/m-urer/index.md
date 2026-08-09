@@ -1,6 +1,6 @@
 # Mäurer
 
-Mäurer is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "Labyrinth of Pleasure presents Labyrinth of Pleasure 01" on Fri, 14 Aug 2026.
+Mäurer is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Labyrinth of Pleasure presents Labyrinth of Pleasure 01" on Fri, 14 Aug 2026.
 
 Mäurer is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including Flabaire and Good Call. Browse upcoming dates, start times and who's playing. Roonstraße 19, 50674 Köln, Germany.
 
@@ -14,4 +14,4 @@ Mäurer is a music venue in Cologne listed on soundcheck. 1 upcoming night, with
 
 Roonstraße 19, 50674 Köln, Germany, Cologne
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/m-urer/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/m-urer/)*

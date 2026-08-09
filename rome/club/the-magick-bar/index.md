@@ -1,14 +1,13 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 8 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "wax4breakfast" on Sat, 8 Aug 2026.
+THE MAGICK BAR is a music venue in Rome with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Collective Mood with Freddye, Tafanish" on Sun, 9 Aug 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 8 upcoming nights, with line-ups including Donato Dozzy, Franzoh, Freddye and Jimmy Siao and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 7 upcoming nights, with line-ups including Donato Dozzy, Franzoh, Freddye and Jimmy Siao and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | wax4breakfast | Luca Piermattei, Rond (1) |
 | Sun, 9 Aug 2026 | Collective Mood with Freddye, Tafanish | Freddye, Tafanish |
 | Tue, 18 Aug 2026 | Jungle at Magick bar | Matteo Canori, Petra (4) |
 | Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |
@@ -21,4 +20,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 8 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

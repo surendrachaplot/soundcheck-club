@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Shedding Histories x Private Funktion: Nadia Ksaiba, Bena b2b Chameleonas & Eman Pav" on Sat, 15 Aug 2026.
+EartH is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Shedding Histories x Private Funktion: Nadia Ksaiba, Bena b2b Chameleonas & Eman Pav" on Sat, 15 Aug 2026.
 
 EartH is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Bena, Chameleonas, Digitalism and DJ Ron and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -17,4 +17,4 @@ EartH is a music venue in London listed on soundcheck. 4 upcoming nights, with l
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

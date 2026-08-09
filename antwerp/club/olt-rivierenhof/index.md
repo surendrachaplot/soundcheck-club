@@ -1,6 +1,6 @@
 # OLT Rivierenhof
 
-OLT Rivierenhof is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "THUNDERCAT" on Tue, 18 Aug 2026.
+OLT Rivierenhof is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "THUNDERCAT" on Tue, 18 Aug 2026.
 
 OLT Rivierenhof is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including Thundercat. Browse upcoming dates, start times and who's playing. Turnhoutsebaan 246, Antwerp.
 
@@ -14,4 +14,4 @@ OLT Rivierenhof is a music venue in Antwerp listed on soundcheck. 1 upcoming nig
 
 Turnhoutsebaan 246, Antwerp, Antwerp
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/olt-rivierenhof/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/olt-rivierenhof/)*

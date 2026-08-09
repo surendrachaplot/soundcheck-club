@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Roots [EXTENDED] with JUAAN, Maya B, Zarco, Avo & Luska" on Fri, 4 Sept 2026.
+Lasociaciøn is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Roots [EXTENDED] with JUAAN, Maya B, Zarco, Avo & Luska" on Fri, 4 Sept 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including ADRI.G, Avo (ES), Greick Jhøzsu and JUAAN and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -17,4 +17,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 4 upcoming nights,
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

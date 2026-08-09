@@ -1,6 +1,6 @@
 # David Beckett
 
-David Beckett is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Endeavour, London on Fri, 21 Aug 2026.
+David Beckett is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Endeavour, London on Fri, 21 Aug 2026.
 
 David Beckett is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Wanderer, babybear (2) and Reeves (1). Next up: Endeavour, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ David Beckett is a house and techno artist based in United Kingdom, tracked on s
 
 Wanderer, babybear (2), Reeves (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbeckett/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbeckett/)*

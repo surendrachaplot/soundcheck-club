@@ -1,6 +1,6 @@
 # Thee Mike B
 
-Thee Mike B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Gabriela, New York City on Fri, 14 Aug 2026.
+Thee Mike B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Gabriela, New York City on Fri, 14 Aug 2026.
 
 Thee Mike B is a house and disco artist tracked on soundcheck, with 41 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Ardalan, Giselle Peppers and Life on Planets. Next up: Gabriela, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Thee Mike B is a house and disco artist tracked on soundcheck, with 41 sets logg
 
 Ardalan, Giselle Peppers, Life on Planets
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theemikeb/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theemikeb/)*

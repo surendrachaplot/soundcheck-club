@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "THUNDER: Cristobal Pesce, Cera Khin, NIVK, NYCO" on Sat, 8 Aug 2026.
+Kilomètre25 is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "ABSTRACT PROTOCOL : UZI NAS, RAWCO, INIMA & MORE" on Thu, 13 Aug 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Airod, ALT8, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Airod, ALT8, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | THUNDER: Cristobal Pesce, Cera Khin, NIVK, NYCO | BETÏSES, Cera Khin, Cristobal Pesce, Nyco (FR) |
 | Thu, 13 Aug 2026 | ABSTRACT PROTOCOL : UZI NAS, RAWCO, INIMA & MORE | Sasa |
 | Fri, 14 Aug 2026 | ØXYL: BENNETT, Trancemaster Krause, A5KM, KIRK, Lokier | BENNETT, Lokier, Trancemaster Krause, Westfall |
 | Sat, 15 Aug 2026 | FREQUENCIES: Jeremy Underground, Emma B, Kosme | Emma B, Jeremy Underground, Kosme |
@@ -18,9 +17,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 17 upcoming nights,
 | Thu, 27 Aug 2026 | Orka: MIA OVA, Michel Ange, PAULINE D7, SKOLLARIS & vizionn | Michel Ange, vizionn |
 | Fri, 28 Aug 2026 | EUPHORIA SESSIONS: Elli Acula, KiNK, Lacchesi, Elise Massoni | Elise Massoni, Elli Acula, KiNK, Lacchesi, STL-P |
 | Sat, 29 Aug 2026 | HOTMESS: Laure Croft, Bours?, Yasmin Gardezi & MORE | Bours?, LUNATIXX, Laure Croft, NO MISS, Yasmin Gardezi |
+| Fri, 4 Sept 2026 | ØXYL: Charlie Sparks, DURDENHAUER, BARBARA LAGO, SZG & MORE | Bárbara Lago, Bérou, Charlie Sparks, DURDENHAUER, SZG |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

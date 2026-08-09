@@ -1,6 +1,6 @@
 # Sub:liminal
 
-Sub:liminal is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
+Sub:liminal is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
 
 Sub:liminal is a drum & bass and dubstep artist tracked on soundcheck, with 3 sets logged across Bucharest and Prague. Often billed alongside 2Shy MC, Agem and Ejdm. Next up: Grand Hotel Bucharest, Bucharest on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Sub:liminal is a drum & bass and dubstep artist tracked on soundcheck, with 3 se
 
 2Shy MC, Agem, Ejdm
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subliminal/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subliminal/)*

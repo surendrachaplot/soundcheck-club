@@ -1,6 +1,6 @@
 # $et
 
-$et is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Vagabond, Washington DC on Sun, 9 Aug 2026.
+$et is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vagabond, Washington DC on Sun, 9 Aug 2026.
 
 $et is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Washingtondc. Often billed alongside camb, xXabiXx and Artemis.105. Next up: Vagabond, Washingtondc on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ $et is a house and techno artist based in United States of America, tracked on s
 
 camb, xXabiXx, Artemis.105
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*

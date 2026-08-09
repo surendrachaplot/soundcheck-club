@@ -1,6 +1,6 @@
 # Ind Ra
 
-Ind Ra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Dear Darling, London on Sat, 5 Sept 2026.
+Ind Ra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dear Darling, London on Sat, 5 Sept 2026.
 
 Ind Ra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Barcelona, Bristol, London and Manchester and 1 more. Often billed alongside SANDHAUS, AB and Alice Youngling. Next up: Dear Darling, London on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Ind Ra is a house and techno artist based in United Kingdom, tracked on soundche
 
 SANDHAUS, AB, Alice Youngling
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/in_dra/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/in_dra/)*

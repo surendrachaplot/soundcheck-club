@@ -1,6 +1,6 @@
 # Leen Tilt
 
-Leen Tilt is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Kramladen, Vienna on Sat, 22 Aug 2026.
+Leen Tilt is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kramladen, Vienna on Sat, 22 Aug 2026.
 
 Leen Tilt is a techno artist based in Belgium, tracked on soundcheck, with 17 sets logged across Berlin and Vienna. Often billed alongside Relinquo, Alena Noctis and Ariyam. Next up: Kramladen, Vienna on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Leen Tilt is a techno artist based in Belgium, tracked on soundcheck, with 17 se
 
 Relinquo, Alena Noctis, Ariyam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leentilt/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leentilt/)*

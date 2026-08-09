@@ -1,6 +1,6 @@
 # Tip Collection
 
-Tip Collection is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
+Tip Collection is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pas Berlin, Berlin on Sun, 9 Aug 2026.
 
 Tip Collection is a funk / soul and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Lenni Aqua b2b ohne nix, Black Eyes and Brahmski. Next up: Pas Berlin, Berlin on Sun 9 Aug.
 
@@ -22,4 +22,4 @@ Tip Collection is a funk / soul and house artist tracked on soundcheck, with 6 s
 
 Lenni Aqua b2b ohne nix, Black Eyes, Brahmski
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tipcollection/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tipcollection/)*

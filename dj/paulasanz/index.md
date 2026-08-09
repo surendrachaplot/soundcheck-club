@@ -1,6 +1,6 @@
 # Paula Sanz
 
-Paula Sanz is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+Paula Sanz is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
 Paula Sanz is a techno and acid artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 2 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Paula Sanz is a techno and acid artist tracked on soundcheck, with 55 sets logge
 
 SOLE DOSI, Dolce Potente, Marthial
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*

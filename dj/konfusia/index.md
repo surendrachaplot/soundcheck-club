@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Birgit, Berlin on Fri, 14 Aug 2026.
+Konfusia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Birgit, Berlin on Fri, 14 Aug 2026.
 
-Konfusia is a techno and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, Maurice Mino and Sin:port. Next up: Birgit, Berlin on Fri 14 Aug.
+Konfusia is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Birgit, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Konfusia is a techno and house artist tracked on soundcheck, with 100 sets logge
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Birgit | Berlin |
 | Fri, 14 Aug 2026 | TBA - Boat Party on Kaiser Friedrich Dampfer Berlin | Berlin |
+| Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Konfusia is a techno and house artist tracked on soundcheck, with 100 sets logge
 
 ## Shares bills with
 
-Sabura, Maurice Mino, Sin:port
+Maurice Mino, Sabura, Sin:port
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

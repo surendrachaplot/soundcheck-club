@@ -1,6 +1,6 @@
 # Nicholas Nothing
 
-Nicholas Nothing is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Open Aera, Toronto on Thu, 3 Sept 2026.
+Nicholas Nothing is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Open Aera, Toronto on Thu, 3 Sept 2026.
 
 Nicholas Nothing is a house and deep house artist tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Paul Quzz, Carlos Estebban and Devv. Next up: Open Aera, Toronto on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Nicholas Nothing is a house and deep house artist tracked on soundcheck, with 21
 
 Paul Quzz, Carlos Estebban, Devv
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasnothing/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasnothing/)*

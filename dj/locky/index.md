@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 9 Aug 2026.
+Locky is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 9 Aug 2026.
 
 Locky is a house and tech house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: 528 Ibiza, Ibiza on Sun 9 Aug.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist tracked on soundcheck, with 140 sets logg
 
 Mad.Again (2), Liam Palmer, Elliot Schooling
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

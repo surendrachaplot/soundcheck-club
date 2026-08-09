@@ -1,6 +1,6 @@
 # Perry Martin
 
-Perry Martin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - BALOO IBIZA, Ibiza on Sat, 22 Aug 2026.
+Perry Martin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - BALOO IBIZA, Ibiza on Sat, 22 Aug 2026.
 
 Perry Martin is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Barcelona, Ibiza, London and Manchester. Often billed alongside Jamie Love, Juliet Thurbz and Jason Bye. Next up: TBA - BALOO IBIZA, Ibiza on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Perry Martin is a house and tech house artist based in United Kingdom, tracked o
 
 Jamie Love, Juliet Thurbz, Jason Bye
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrymartin/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrymartin/)*

@@ -1,6 +1,6 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Colin Benders is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Colin Benders is a techno and house artist based in Netherlands, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Barcelona and Basel and 28 more. Often billed alongside Speedy J, Dasha Rush and Ogazón. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Colin Benders is a techno and house artist based in Netherlands, tracked on soun
 
 Speedy J, Dasha Rush, Ogazón
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*

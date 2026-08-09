@@ -1,6 +1,6 @@
 # Bulma Brief
 
-Bulma Brief is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Calatheabeachclub, Naples on Sat, 15 Aug 2026.
+Bulma Brief is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Calatheabeachclub, Naples on Sat, 15 Aug 2026.
 
 Bulma Brief is a house and disco artist based in Italy, tracked on soundcheck, with 37 sets logged across Berlin, London, Madrid and Milan and 2 more. Often billed alongside Bertrand., Bugsy and Nicola Mazzetti. Next up: Calatheabeachclub, Naples on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bulma Brief is a house and disco artist based in Italy, tracked on soundcheck, w
 
 Bertrand., Bugsy, Nicola Mazzetti
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bulmabrief/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bulmabrief/)*

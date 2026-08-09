@@ -1,6 +1,6 @@
 # Shfoosja
 
-Shfoosja is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Unité.22, Marseille on Fri, 14 Aug 2026.
+Shfoosja is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Unité.22, Marseille on Fri, 14 Aug 2026.
 
 Shfoosja is a techno and bass artist tracked on soundcheck, with 12 sets logged across Berlin, London, Lyon and Marseille and 1 more. Often billed alongside MARIAD, MASSEILOT and 42L (1). Next up: Unité.22, Marseille on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Shfoosja is a techno and bass artist tracked on soundcheck, with 12 sets logged 
 
 MARIAD, MASSEILOT, 42L (1)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*

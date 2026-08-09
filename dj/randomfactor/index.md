@@ -1,6 +1,6 @@
 # Random Factor
 
-Random Factor is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 14 Aug 2026.
+Random Factor is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 14 Aug 2026.
 
 Random Factor is a house and techno artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Bucharest and Chicago and 9 more. Often billed alongside Carl Finlow, Ralph Lawson and Alien Communications. Next up: Smoke & Mirrors, Chicago on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Random Factor is a house and techno artist based in France, tracked on soundchec
 
 Carl Finlow, Ralph Lawson, Alien Communications
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomfactor/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomfactor/)*

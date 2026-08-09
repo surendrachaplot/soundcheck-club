@@ -1,6 +1,6 @@
 # Redeyes
 
-Redeyes is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Plein Publiek, Antwerp on Fri, 14 Aug 2026.
+Redeyes is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Plein Publiek, Antwerp on Fri, 14 Aug 2026.
 
 Redeyes is a drum & bass and dubstep artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Bangkok and Bristol and 4 more. Often billed alongside Lenzman, MC Fox and FD. Next up: Plein Publiek, Antwerp on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Redeyes is a drum & bass and dubstep artist tracked on soundcheck, with 14 sets 
 
 Lenzman, MC Fox, FD
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redeyes/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redeyes/)*

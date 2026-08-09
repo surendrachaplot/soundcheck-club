@@ -1,6 +1,6 @@
 # Pierre Louis
 
-Pierre Louis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+Pierre Louis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
 
 Pierre Louis is a techno and tech house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Miami and Newyorkcity. Often billed alongside DREAMINSLOW, Pauli Cakes and Total XTC. Next up: Paragon, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Pierre Louis is a techno and tech house artist based in United States of America
 
 DREAMINSLOW, Pauli Cakes, Total XTC
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelouis/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelouis/)*

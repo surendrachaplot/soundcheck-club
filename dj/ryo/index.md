@@ -1,6 +1,6 @@
 # rYo
 
-rYo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Socore Factory, Osaka on Thu, 13 Aug 2026.
+rYo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Socore Factory, Osaka on Thu, 13 Aug 2026.
 
 rYo is a house and techno artist tracked on soundcheck, with 9 sets logged across Osaka, Shanghai and Tokyo. Often billed alongside AMANE, AKIHIRO and ALUCA. Next up: Socore Factory, Osaka on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ rYo is a house and techno artist tracked on soundcheck, with 9 sets logged acros
 
 AMANE, AKIHIRO, ALUCA
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryo/)*

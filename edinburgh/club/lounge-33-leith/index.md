@@ -1,6 +1,6 @@
 # Lounge 33 Leith
 
-Lounge 33 Leith is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "DRIFT Sunday Sessions: Twelve Original Players" on Sun, 9 Aug 2026.
+Lounge 33 Leith is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "DRIFT Sunday Sessions: Twelve Original Players" on Sun, 9 Aug 2026.
 
 Lounge 33 Leith is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Twelve Original Players. Browse upcoming dates, start times and who's playing. 373 -375 Leith Walk, Edinburgh EH6 8SE.
 
@@ -14,4 +14,4 @@ Lounge 33 Leith is a music venue in Edinburgh listed on soundcheck. 1 upcoming n
 
 373 -375 Leith Walk, Edinburgh EH6 8SE, Edinburgh
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/lounge-33-leith/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/lounge-33-leith/)*

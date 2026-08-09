@@ -1,6 +1,6 @@
 # Catching Flies
 
-Catching Flies is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
+Catching Flies is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
 
 Catching Flies is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Jody Wisternoff, Christian Löffler and Braxton. Next up: Old Royal Naval College, London on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Catching Flies is a house and electronica artist based in United Kingdom, tracke
 
 Jody Wisternoff, Christian Löffler, Braxton
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*

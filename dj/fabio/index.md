@@ -1,14 +1,13 @@
 # Fabio
 
-Fabio is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Fabio is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Fox and Firkin, London on Fri, 14 Aug 2026.
 
-Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Bali, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Grooverider, Lenzman and MC GQ. Next up: The Prospect Building, Bristol on Sat 8 Aug.
+Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Bali, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Grooverider, Lenzman and MC GQ. Next up: The Fox and Firkin, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | The Prospect Building | Bristol |
 | Fri, 14 Aug 2026 | The Fox and Firkin | London |
 | Sat, 15 Aug 2026 | Prospect Park | London |
 | Sat, 22 Aug 2026 | The Cause | London |
@@ -16,6 +15,7 @@ Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets lo
 
 ## Recently played
 
+- The Prospect Building, Bristol — Sat, 8 Aug 2026
 - fabric, London — Fri, 24 Jul 2026
 - Moseley Park, Birmingham — Fri, 10 Jul 2026
 - The Cause, London — Sun, 14 Jun 2026
@@ -23,10 +23,9 @@ Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets lo
 - Night Tales Loft, London — Fri, 5 Jun 2026
 - Brockwell Park, London — Sun, 24 May 2026
 - Phonox, London — Sat, 2 May 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Grooverider, Lenzman, MC GQ
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*

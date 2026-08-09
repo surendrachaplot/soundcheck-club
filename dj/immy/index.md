@@ -1,14 +1,13 @@
 # Immy
 
-Immy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at SAGE, Berlin on Sat, 8 Aug 2026.
+Immy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Haus der Visionäre, Berlin on Sun, 9 Aug 2026.
 
-Immy is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: SAGE, Berlin on Sat 8 Aug.
+Immy is a house and techno artist tracked on soundcheck, with 98 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: Haus der Visionäre, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | SAGE | Berlin |
 | Sun, 9 Aug 2026 | Haus der Visionäre | Berlin |
 | Fri, 14 Aug 2026 | TBA - Brooklyn Loft Location <3 | New York City |
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
@@ -17,6 +16,7 @@ Immy is a house and techno artist tracked on soundcheck, with 98 sets logged acr
 
 ## Recently played
 
+- SAGE, Berlin — Sat, 8 Aug 2026
 - Kater, Berlin — Sun, 26 Jul 2026
 - ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 25 Jul 2026
 - Kater, Berlin — Sat, 25 Jul 2026
@@ -24,10 +24,9 @@ Immy is a house and techno artist tracked on soundcheck, with 98 sets logged acr
 - Maaya, Berlin — Thu, 23 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Prince Charles, Berlin — Sat, 13 Jun 2026
-- ASIAT Park, Brussels — Thu, 14 May 2026
 
 ## Shares bills with
 
 Triqi, DJ NORTHERN, Jana Falcon
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*

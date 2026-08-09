@@ -1,14 +1,13 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 18 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Elrow Island Malta Takeover" on Sat, 8 Aug 2026.
+UNO MALTA is a music venue in Malta with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Carl Cox" on Wed, 12 Aug 2026.
 
-UNO MALTA is a music venue in Malta listed on soundcheck. 18 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
+UNO MALTA is a music venue in Malta listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Aline Rocha and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Elrow Island Malta Takeover | Ale De Tuglie, Baum, Carl Bee, Cera Khin, Daniel Blade, David Löhlein, Dimmish, Eats Everything, Estella Boersma, Hector Couto, Luxi Villar, Marco Faraone, Melé, Mr. Belt & Wezol, Olive F, Pawlowski, Pocci, Rendher, Sante Sansone, Wade |
 | Wed, 12 Aug 2026 | Carl Cox | Carl Cox |
 | Thu, 13 Aug 2026 | COCORICÒ PRES GALACTICA MALTA | DAISY, Holy Priest |
 | Sun, 16 Aug 2026 | Loco Dice | Daniel Blade, Idriss D, Loco Dice |
@@ -18,9 +17,10 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 18 upcoming nights, wi
 | Fri, 28 Aug 2026 | COCORICÒ PRES GALACTICA MALTA | ANXHELA, Gianni Di Bernardo, KLOFAMA, Lombz, MALISTA |
 | Fri, 28 Aug 2026 | UNO x YAKUZA presents Mahmut Orhan | Daniel Blade, Mahmut Orhan |
 | Fri, 28 Aug 2026 | Mahmut Orhan | Mahmut Orhan |
+| Sat, 29 Aug 2026 | REVOLVER X UNO pres. Restricted | Lombz, MALISTA, MAMO (2), Restricted |
 
 ## Address
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

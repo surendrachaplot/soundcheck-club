@@ -1,6 +1,6 @@
 # Onsoul
 
-Onsoul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Sao Paulo on Sat, 15 Aug 2026.
+Onsoul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Sao Paulo on Sat, 15 Aug 2026.
 
 Onsoul is a house and deep house artist tracked on soundcheck, with 6 sets logged across Boston and Saopaulo. Often billed alongside Aline Rocha, BALDACCI and Fella. Next up: TBA, Saopaulo on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Onsoul is a house and deep house artist tracked on soundcheck, with 6 sets logge
 
 Aline Rocha, BALDACCI, Fella
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsoul/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsoul/)*

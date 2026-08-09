@@ -1,6 +1,6 @@
 # Laenz
 
-Laenz is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Pageant, New York City on Wed, 12 Aug 2026.
+Laenz is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pageant, New York City on Wed, 12 Aug 2026.
 
 Laenz is a bass and experimental artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, London and Newyorkcity. Often billed alongside Mui Mui, Off Brand and Viiaan. Next up: Pageant, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Laenz is a bass and experimental artist based in United States of America, track
 
 Mui Mui, Off Brand, Viiaan
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laenz/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laenz/)*

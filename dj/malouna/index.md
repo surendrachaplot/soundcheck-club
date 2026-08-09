@@ -1,14 +1,13 @@
 # Malouna
 
-Malouna is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Ritter Butzke, Berlin on Sat, 8 Aug 2026.
+Malouna is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Malouna is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Ritter Butzke, Berlin on Sat 8 Aug.
+Malouna is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Markus Klee, Prismode and Solvane. Next up: TBA - Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 5 Sept 2026 | MTW | Frankfurt |
@@ -18,6 +17,7 @@ Malouna is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- Ritter Butzke, Berlin — Sat, 8 Aug 2026
 - Ritter Butzke, Berlin — Sat, 11 Jul 2026
 - Treptower Park, Berlin — Sat, 11 Jul 2026
 - Insomnia, Berlin — Sat, 27 Jun 2026
@@ -25,10 +25,9 @@ Malouna is a techno and house artist based in Germany, tracked on soundcheck, wi
 - SAGE, Berlin — Sat, 6 Jun 2026
 - Birgit, Berlin — Sat, 23 May 2026
 - Ritter Butzke, Berlin — Sat, 2 May 2026
-- Birgit, Berlin — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Markus Klee, Prismode, Solvane
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*

@@ -1,6 +1,6 @@
 # Yoane
 
-Yoane is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
+Yoane is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Green Room NYC, New York City on Wed, 12 Aug 2026.
 
 Yoane is a minimal and tech house artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Emsho, Kurilo and Zao (USA). Next up: Green Room NYC, Newyorkcity on Wed 12 Aug.
 
@@ -19,4 +19,4 @@ Yoane is a minimal and tech house artist tracked on soundcheck, with 3 sets logg
 
 Emsho, Kurilo, Zao (USA)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoane/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoane/)*

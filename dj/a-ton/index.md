@@ -1,6 +1,6 @@
 # A-TØN
 
-A-TØN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Why Not, Edinburgh on Thu, 13 Aug 2026.
+A-TØN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Why Not, Edinburgh on Thu, 13 Aug 2026.
 
 A-TØN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Amizl, CRØØK.T.D and Corran. Next up: Why Not, Edinburgh on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ A-TØN is a techno and house artist based in United Kingdom, tracked on soundche
 
 Amizl, CRØØK.T.D, Corran
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*

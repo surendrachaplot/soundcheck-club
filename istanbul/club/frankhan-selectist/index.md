@@ -1,14 +1,13 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Midnight Baklava Club: Eden Burns" on Sat, 8 Aug 2026.
+Frankhan Selectist is a music venue in Istanbul with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Block Party: Frankhan x Tavern" on Sun, 9 Aug 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with line-ups including 4-i, Crazy P, Deetron and Eden Burns and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 6 upcoming nights, with line-ups including 4-i, Crazy P, Deetron and Melis Köke and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Midnight Baklava Club: Eden Burns | Eden Burns, GARAN GARAN, Interval (2) |
 | Sun, 9 Aug 2026 | Block Party: Frankhan x Tavern |  |
 | Sat, 15 Aug 2026 | Visions: Deetron | Deetron |
 | Thu, 20 Aug 2026 | Conway the Machine |  |
@@ -20,4 +19,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

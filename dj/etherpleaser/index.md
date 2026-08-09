@@ -1,6 +1,6 @@
 # Ether Pleaser
 
-Ether Pleaser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Ether Pleaser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Ether Pleaser is a techno and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Franxx, znorthy and CYB3R T0NIN. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Ether Pleaser is a techno and club artist based in United States of America, tra
 
 Franxx, znorthy, CYB3R T0NIN
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*

@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Warmth presents: DJ Travella, Bushbby, Teddy Kitano, WAAW + more" on Sat, 8 Aug 2026.
+Ormside Projects is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace" on Fri, 14 Aug 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 404 eros, Ab.Diablo, anu and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 404 eros, anu, Azu Tiwaline and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Warmth presents: DJ Travella, Bushbby, Teddy Kitano, WAAW + more | Ab.Diablo, Bushbby, DJ Travella, Teddy Kitano, VIRI$$, WAAW |
 | Fri, 14 Aug 2026 | Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace | Jezebelle, Lovelace, RBI (Aus), ÇINTH |
 | Sat, 15 Aug 2026 | ORMSIDE presents: Nkisi | Nkisi |
 | Sat, 22 Aug 2026 | ORMSIDE presents: DJ Marcelle (in Conversation & Extended Set) with sinny & Marylou  | DJ Marcelle, Marylou, sinny |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming ni
 | Sun, 30 Aug 2026 | CLUB YEKE: Carnival Afterparty | DJ Say Less, Rozaly, Tash LC |
 | Fri, 11 Sept 2026 | Expert Death x Untitled 909: Azu Tiwaline, ophélie, basic chanel + Sarjan | Azu Tiwaline, Sarjan, basic chanel, ophélie |
 | Sat, 19 Sept 2026 | Meet In The MIDI | Karim Bitar |
+| Fri, 25 Sept 2026 | FLOORJAM 008 with MoMA Ready, LORA S, Ellaweez, Ki Pharaoh & Damsel | Ellaweeez, LORA S, MoMA Ready |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

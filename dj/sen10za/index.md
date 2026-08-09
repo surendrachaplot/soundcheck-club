@@ -1,6 +1,6 @@
 # SEN10ZA
 
-SEN10ZA is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 23 Aug 2026.
+SEN10ZA is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Miradouro de Baixo, Lisbon on Sun, 23 Aug 2026.
 
 SEN10ZA is a house and funk / soul artist based in France, tracked on soundcheck, with 6 sets logged across Hongkong, Lisbon and Lyon. Often billed alongside Cora M., Di Linh and Saint Bernard. Next up: Miradouro de Baixo, Lisbon on Sun 23 Aug.
 
@@ -22,4 +22,4 @@ SEN10ZA is a house and funk / soul artist based in France, tracked on soundcheck
 
 Cora M., Di Linh, Saint Bernard
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*

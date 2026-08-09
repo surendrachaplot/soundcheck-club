@@ -1,6 +1,6 @@
 # HIROAKI WADA
 
-HIROAKI WADA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Music Bar NOVE, Tokyo on Fri, 21 Aug 2026.
+HIROAKI WADA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Music Bar NOVE, Tokyo on Fri, 21 Aug 2026.
 
 HIROAKI WADA is a techno and house artist tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside Drunken Kong, Shogo Ito and U:ICHI. Next up: Music Bar NOVE, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ HIROAKI WADA is a techno and house artist tracked on soundcheck, with 27 sets lo
 
 Drunken Kong, Shogo Ito, U:ICHI
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroakiwada/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroakiwada/)*

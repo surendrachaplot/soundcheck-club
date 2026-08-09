@@ -1,14 +1,13 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Laurence Guy Rooftop Day Party" on Sat, 8 Aug 2026.
+Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more" on Sat, 22 Aug 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Chunky, Craig Charles, DJ Perception and El-B and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Chunky, Craig Charles, DJ Perception and El-B and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Laurence Guy Rooftop Day Party | Laurence Guy |
 | Sat, 22 Aug 2026 | GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more | El-B, LARISHKA (UK), Lady Passion, Mike Millrain, Plastician |
 | Thu, 27 Aug 2026 | Freight Brixton presents Soul of the South: Mom Tudie |  |
 | Sat, 29 Aug 2026 | Tiffany Calver presents No Requests Open Air Party | Tiffany Calver |
@@ -22,4 +21,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

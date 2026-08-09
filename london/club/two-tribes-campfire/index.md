@@ -1,14 +1,13 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Midnight Runner presents: Summer In The City with Heléna Star, JAXX TMS, Selassie TBC & more" on Sat, 8 Aug 2026.
+Two Tribes CAMPFIRE is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Persimmon Sound: Day to Night Party II" on Sat, 15 Aug 2026.
 
-Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Ardishko, babydj, Braaks and Conrad Lee and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
+Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Ardishko, babydj, Braaks and Conrad Lee and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Midnight Runner presents: Summer In The City with Heléna Star, JAXX TMS, Selassie TBC & more | Heléna Star, JAXX TMS, Kanem, Mr. Redley, P-Lucas, Selassie TBC |
 | Sat, 15 Aug 2026 | Persimmon Sound: Day to Night Party II | Gus de Silva, Martini, Wan Tu |
 | Fri, 21 Aug 2026 | Mission Control: B2B (Birthday 2 Birthday) | Ardishko, DATTA, Joe Tyler, Mary X, Sleepy Jean, babydj, nicky brown snout |
 | Fri, 28 Aug 2026 | Rhythm Social x Soul Satisfaction present: Poly-Ritmo | Justin Cambray, Maria Hanlon, Poly-Ritmo |
@@ -20,4 +19,4 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming 
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

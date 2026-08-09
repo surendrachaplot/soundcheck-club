@@ -1,6 +1,6 @@
 # Brianna Paon
 
-Brianna Paon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Middlesex, Boston on Thu, 20 Aug 2026.
+Brianna Paon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Middlesex, Boston on Thu, 20 Aug 2026.
 
 Brianna Paon is a techno and house artist tracked on soundcheck, with 42 sets logged across Boston, Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Trip Report, Jordan Graham and Wiersma. Next up: Middlesex, Boston on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Brianna Paon is a techno and house artist tracked on soundcheck, with 42 sets lo
 
 Trip Report, Jordan Graham, Wiersma
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briannapaon/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briannapaon/)*

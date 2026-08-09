@@ -1,6 +1,6 @@
 # Freddye
 
-Freddye is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at THE MAGICK BAR, Rome on Sun, 9 Aug 2026.
+Freddye is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at THE MAGICK BAR, Rome on Sun, 9 Aug 2026.
 
 Freddye is a techno and electronica artist based in Italy, tracked on soundcheck, with 24 sets logged across Rome. Often billed alongside Martek, Sunday Bath and Carlo (6). Next up: THE MAGICK BAR, Rome on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Freddye is a techno and electronica artist based in Italy, tracked on soundcheck
 
 Martek, Sunday Bath, Carlo (6)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddye/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddye/)*

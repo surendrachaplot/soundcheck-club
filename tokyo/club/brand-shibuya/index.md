@@ -1,14 +1,13 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "ANIMISM" on Sat, 8 Aug 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Libre" on Sun, 9 Aug 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including KASHIWAGI, Krankent and mieux (JP). Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including KASHIWAGI, Krankent and mieux (JP). Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | ANIMISM |  |
 | Sun, 9 Aug 2026 | Libre |  |
 | Mon, 10 Aug 2026 | SHIBUYA FREE BOOTH |  |
 | Tue, 11 Aug 2026 | LOVE |  |
@@ -18,9 +17,10 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 20 upcoming nights
 | Sat, 15 Aug 2026 | SECTORZERO |  |
 | Sun, 16 Aug 2026 | 渋アニ ZERO -アニメ×音楽×カルチャー- |  |
 | Mon, 17 Aug 2026 | SHIBUYA FREE BOOTH |  |
+| Tue, 18 Aug 2026 | MUSIC BAR |  |
 
 ## Address
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

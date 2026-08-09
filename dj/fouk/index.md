@@ -1,6 +1,6 @@
 # Fouk
 
-Fouk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Fouk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Amsterdam on Thu, 22 Oct 2026.
 
 Fouk is a house and deep house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Heritage Listed, Klankarbeit and Le Hutin. Next up: TBA, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Fouk is a house and deep house artist based in Netherlands, tracked on soundchec
 
 Heritage Listed, Klankarbeit, Le Hutin
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fouk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fouk/)*

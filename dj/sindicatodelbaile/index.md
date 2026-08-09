@@ -1,6 +1,6 @@
 # Sindicato Del Baile
 
-Sindicato Del Baile is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at El Internacional, Madrid on Fri, 14 Aug 2026.
+Sindicato Del Baile is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at El Internacional, Madrid on Fri, 14 Aug 2026.
 
 Sindicato Del Baile is a house and electronica artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Ibiza and Madrid and 5 more. Often billed alongside Seth Troxler, Alex (ES) and Jonny Rock. Next up: El Internacional, Madrid on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Sindicato Del Baile is a house and electronica artist tracked on soundcheck, wit
 
 Seth Troxler, Alex (ES), Jonny Rock
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicatodelbaile/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicatodelbaile/)*

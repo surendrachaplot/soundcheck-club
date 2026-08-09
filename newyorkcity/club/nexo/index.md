@@ -1,16 +1,13 @@
 # Nexo
 
-Nexo is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC" on Sat, 8 Aug 2026.
+Nexo is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Ecuadorian Independence Day Reggaeton Party Club Midtown NYC" on Sat, 15 Aug 2026.
 
-Nexo is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
+Nexo is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
-| Sat, 8 Aug 2026 | Dominican Day Parade Saturday Reggaeton Dembow Dance Party - Nexo CLUB NYC |  |
-| Sat, 8 Aug 2026 | Dominican Day Parade Pre-Party Reggaeton Dembow Dance Party - Nexo CLUB NYC |  |
 | Sat, 15 Aug 2026 | Ecuadorian Independence Day Reggaeton Party Club Midtown NYC |  |
 | Sat, 22 Aug 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 | Sat, 22 Aug 2026 | The All White Summer Solstice Reggaeton Dembow Dance Party - Nexo CLUB NYC |  |
@@ -18,9 +15,12 @@ Nexo is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights. B
 | Sat, 29 Aug 2026 | The #1 Reggaeton Club in Midtown - DISTRICT PERREO - Latin Dance Party |  |
 | Sat, 29 Aug 2026 | Reggaeton v Reggae Trinidad & Tobago Independence Dance Party Nexo CLUB NYC |  |
 | Sat, 5 Sept 2026 | Brazilian Independence Dance Party CLUB NYC Midtown |  |
+| Sat, 5 Sept 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
+| Sat, 12 Sept 2026 | Independence de Mexico Corridos & Reggaeton Dance Party CLUB |  |
+| Sat, 12 Sept 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 
 ## Address
 
 29 W 36th St., New York, NY 10018, USA, New York City
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*

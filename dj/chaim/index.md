@@ -1,6 +1,6 @@
 # Chaim
 
-Chaim is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Under the K Bridge, New York City on Sat, 15 Aug 2026.
+Chaim is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Under the K Bridge, New York City on Sat, 15 Aug 2026.
 
 Chaim is a house and tech house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Lisbon and London and 9 more. Often billed alongside Jenia Tarsol, Moscoman and Ammé. Next up: Under the K Bridge, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Chaim is a house and tech house artist tracked on soundcheck, with 18 sets logge
 
 Jenia Tarsol, Moscoman, Ammé
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaim/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaim/)*

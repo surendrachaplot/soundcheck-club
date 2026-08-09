@@ -1,6 +1,6 @@
 # mabo
 
-mabo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
+mabo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
 mabo is a techno and trance artist based in Colombia, tracked on soundcheck, with 13 sets logged across Barcelona and Cologne. Often billed alongside Alex Thunder, Intruso and Rivaldo. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ mabo is a techno and trance artist based in Colombia, tracked on soundcheck, wit
 
 Alex Thunder, Intruso, Rivaldo
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabo/)*

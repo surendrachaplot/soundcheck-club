@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "RAUM invites Gay Haze ...IsBurning" on Sat, 8 Aug 2026.
+CLUB RAUM is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "RAUM invites PAX-ROMANA 12HRS" on Sat, 22 Aug 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Aldonna, Alienata, Alex Kassian and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Aldonna, Alienata, Alex Kassian and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | RAUM invites Gay Haze ...IsBurning |  |
 | Sat, 22 Aug 2026 | RAUM invites PAX-ROMANA 12HRS | Altinbas, BELLA (NL), Delano Legito, Lara Renner, Shinedoe, Tijana T, Tripeo, Voiski |
 | Sat, 29 Aug 2026 | KI/KI's Dirty Thirty | KI/KI |
 | Sat, 5 Sept 2026 | The Gang is Beautiful x Grey Men - Fashion Week Closing |  |
@@ -23,4 +22,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

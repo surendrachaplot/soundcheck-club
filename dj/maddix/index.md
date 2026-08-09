@@ -1,14 +1,13 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Los Angeles on Sat, 8 Aug 2026.
+Maddix is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hollywood Palladium, Los Angeles on Fri, 21 Aug 2026.
 
-Maddix is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bangkok and Basel and 54 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: TBA, Losangeles on Sat 8 Aug.
+Maddix is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bangkok and Basel and 54 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: Hollywood Palladium, Losangeles on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA | Los Angeles |
 | Fri, 21 Aug 2026 | Hollywood Palladium | Los Angeles |
 | Sat, 22 Aug 2026 | 9PM Presents | Houston |
 | Sat, 5 Sept 2026 | Vulkan Arena | Oslo |
@@ -19,6 +18,7 @@ Maddix is a techno and trance artist tracked on soundcheck, with 154 sets logged
 
 ## Recently played
 
+- TBA, Los Angeles — Sat, 8 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Camperdown Country Park, Dundee — Sat, 4 Jul 2026
@@ -26,10 +26,9 @@ Maddix is a techno and trance artist tracked on soundcheck, with 154 sets logged
 - Royale, Boston — Sat, 27 Jun 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 20 Jun 2026
 - TBA, Utrecht — Fri, 12 Jun 2026
-- The Huntington Bank Pavilion at Northerly Island, Chicago — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 The Rocketman, Billy Gillies, Armin van Buuren
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

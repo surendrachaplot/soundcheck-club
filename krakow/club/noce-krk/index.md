@@ -1,6 +1,6 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "ABEX & JOTUT (live)" on Fri, 28 Aug 2026.
+Noce KRK is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "ABEX & JOTUT (live)" on Fri, 28 Aug 2026.
 
 Noce KRK is a music venue in Krakow listed on soundcheck. 1 upcoming night, with line-ups including Firefly and ZMØRA. Browse upcoming dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
@@ -14,4 +14,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 1 upcoming night, with
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

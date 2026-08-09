@@ -1,6 +1,6 @@
 # Livvy Loo
 
-Livvy Loo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+Livvy Loo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
 Livvy Loo is a house and techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside FLORA THA EXPLORA, Mya (1) and Sedex. Next up: Peckham Arches, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Livvy Loo is a house and techno artist tracked on soundcheck, with 9 sets logged
 
 FLORA THA EXPLORA, Mya (1), Sedex
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livvyloo/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livvyloo/)*

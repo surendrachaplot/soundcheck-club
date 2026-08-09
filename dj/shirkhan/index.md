@@ -1,6 +1,6 @@
 # Shir Khan
 
-Shir Khan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 5 Sept 2026.
+Shir Khan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Shir Khan is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Bangkok and Ibiza. Often billed alongside Claptone, Mumsfilibaba and NK Chan (2). Next up: Chinois Ibiza, Ibiza on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Shir Khan is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Claptone, Mumsfilibaba, NK Chan (2)
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirkhan/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirkhan/)*

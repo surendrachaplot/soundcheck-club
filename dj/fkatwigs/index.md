@@ -1,6 +1,6 @@
 # FKA twigs
 
-FKA twigs is a Electronica and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at DDP 어울림광장, Seoul on Tue, 11 Aug 2026.
+FKA twigs is a Electronica and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at DDP 어울림광장, Seoul on Tue, 11 Aug 2026.
 
 FKA twigs is an electronica and pop artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Chicago and Glasgow and 9 more. Often billed alongside Charli XCX, LCD Soundsystem and Parma Ham. Next up: DDP 어울림광장, Seoul on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ FKA twigs is an electronica and pop artist tracked on soundcheck, with 21 sets l
 
 Charli XCX, LCD Soundsystem, Parma Ham
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkatwigs/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkatwigs/)*

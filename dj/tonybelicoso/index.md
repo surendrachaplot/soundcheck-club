@@ -1,6 +1,6 @@
 # Tony Belicoso
 
-Tony Belicoso is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Viadukt Bar, Budapest on Tue, 11 Aug 2026.
+Tony Belicoso is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Viadukt Bar, Budapest on Tue, 11 Aug 2026.
 
 Tony Belicoso is a minimal and house artist based in Hungary, tracked on soundcheck, with 16 sets logged across Budapest. Often billed alongside Abyss (HU), Smole and Andrija Jäger. Next up: Viadukt Bar, Budapest on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Tony Belicoso is a minimal and house artist based in Hungary, tracked on soundch
 
 Abyss (HU), Smole, Andrija Jäger
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybelicoso/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybelicoso/)*

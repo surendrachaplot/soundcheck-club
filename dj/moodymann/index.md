@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at ZIK Zeit ist Knapp, Berlin on Sun, 9 Aug 2026.
+Moodymann is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ZIK Zeit ist Knapp, Berlin on Sun, 9 Aug 2026.
 
 Moodymann is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: ZIK Zeit ist Knapp, Berlin on Sun 9 Aug.
 
@@ -35,4 +35,4 @@ Moodymann is a house and techno artist tracked on soundcheck, with 156 sets logg
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

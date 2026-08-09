@@ -1,6 +1,6 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at [UNVRS], Ibiza on Mon, 17 Aug 2026.
+S3PPA is a House and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at [UNVRS], Ibiza on Mon, 17 Aug 2026.
 
 S3PPA is a house and trance artist tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Dublin and Ibiza and 4 more. Often billed alongside Gerardo Niva, DART and Fiene. Next up: [UNVRS], Ibiza on Mon 17 Aug.
 
@@ -31,4 +31,4 @@ S3PPA is a house and trance artist tracked on soundcheck, with 20 sets logged ac
 
 Gerardo Niva, DART, Fiene
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

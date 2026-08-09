@@ -1,6 +1,6 @@
 # El Ángel Exterminador
 
-El Ángel Exterminador is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+El Ángel Exterminador is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 El Ángel Exterminador is an experimental and techno artist based in Canada, tracked on soundcheck, with 16 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Brendocha, Alan Harman and Con Secuencias. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ El Ángel Exterminador is an experimental and techno artist based in Canada, tra
 
 Brendocha, Alan Harman, Con Secuencias
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elangelexterminador/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elangelexterminador/)*

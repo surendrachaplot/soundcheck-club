@@ -1,6 +1,6 @@
 # Nissa Carrington
 
-Nissa Carrington is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
+Nissa Carrington is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Sat, 15 Aug 2026.
 
 Nissa Carrington is a club and bass artist tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 1 more. Often billed alongside yung_womb, SLIC Unit and Slimgirl fat. Next up: Tresor / Globus, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nissa Carrington is a club and bass artist tracked on soundcheck, with 31 sets l
 
 yung_womb, SLIC Unit, Slimgirl fat
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*

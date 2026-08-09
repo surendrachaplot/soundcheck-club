@@ -1,14 +1,13 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+NEGITIV is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at E1, London on Fri, 21 Aug 2026.
 
-NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Alex Farell, SANTØS and Onlynumbers. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
+NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Alex Farell, SANTØS and Onlynumbers. Next up: E1, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
 | Fri, 21 Aug 2026 | E1 | London |
 | Sun, 23 Aug 2026 | Kiesgrube | Düsseldorf |
 | Fri, 18 Sept 2026 | Superordinary | Brisbane |
@@ -18,6 +17,7 @@ NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged
 
 ## Recently played
 
+- Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - O der Klub, Vienna — Sat, 1 Aug 2026
 - Eden, Ibiza — Tue, 7 Jul 2026
@@ -25,10 +25,9 @@ NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged
 - Afas Live, Amsterdam — Sat, 27 Jun 2026
 - Hï Ibiza, Ibiza — Sun, 21 Jun 2026
 - Kiesgrube, Düsseldorf — Sun, 21 Jun 2026
-- TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Alex Farell, SANTØS, Onlynumbers
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

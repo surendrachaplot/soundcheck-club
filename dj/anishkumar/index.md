@@ -1,6 +1,6 @@
 # Anish Kumar
 
-Anish Kumar is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Anish Kumar is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Anish Kumar is a house and disco artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Brighton and Bristol and 13 more. Often billed alongside Dan Shake, Hagop Tchaparian and Jasper Tygner. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -30,4 +30,4 @@ Anish Kumar is a house and disco artist tracked on soundcheck, with 68 sets logg
 
 Dan Shake, Hagop Tchaparian, Jasper Tygner
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*

@@ -1,6 +1,6 @@
 # Le Youth
 
-Le Youth is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at ZeyZey, Miami on Fri, 14 Aug 2026.
+Le Youth is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ZeyZey, Miami on Fri, 14 Aug 2026.
 
 Le Youth is a deep house and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Brisbane and Melbourne and 14 more. Often billed alongside Sultan + Shepard, EMBRZ (IE) and Nils Hoffmann. Next up: ZeyZey, Miami on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Le Youth is a deep house and house artist based in United States of America, tra
 
 Sultan + Shepard, EMBRZ (IE), Nils Hoffmann
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*

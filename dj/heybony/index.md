@@ -1,6 +1,6 @@
 # Hey Bony
 
-Hey Bony is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+Hey Bony is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
 
 Hey Bony is a club and bass artist based in France, tracked on soundcheck, with 25 sets logged across Amsterdam, Cologne, Geneva and Lyon and 3 more. Often billed alongside ARTEM (FR), Naomi (FR) and Sylvere. Next up: Garagen, Cologne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Hey Bony is a club and bass artist based in France, tracked on soundcheck, with 
 
 ARTEM (FR), Naomi (FR), Sylvere
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heybony/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heybony/)*

@@ -1,6 +1,6 @@
 # Ty Henry
 
-Ty Henry is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+Ty Henry is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 Ty Henry is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside El Cassar, Cristian Ebasta and Tom sabella. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Ty Henry is a tech house and house artist based in United Kingdom, tracked on so
 
 El Cassar, Cristian Ebasta, Tom sabella
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyhenry/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyhenry/)*

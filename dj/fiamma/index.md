@@ -1,6 +1,6 @@
 # FIAMMA
 
-FIAMMA is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at La Sotterenea, Montreal on Sun, 16 Aug 2026.
+FIAMMA is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Sotterenea, Montreal on Sun, 16 Aug 2026.
 
 FIAMMA is a pop and experimental artist based in Canada, tracked on soundcheck, with 5 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Hot House, Evil Calum and Ivy Hollivana. Next up: La Sotterenea, Montreal on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ FIAMMA is a pop and experimental artist based in Canada, tracked on soundcheck, 
 
 Hot House, Evil Calum, Ivy Hollivana
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamma/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamma/)*

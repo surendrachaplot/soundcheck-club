@@ -1,6 +1,6 @@
 # Sasha GiGi
 
-Sasha GiGi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
+Sasha GiGi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Egg London, London on Sat, 22 Aug 2026.
 
 Sasha GiGi is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Leeds, London and Manchester. Often billed alongside lau.ra, Surya Sen and Arielle. Next up: Egg London, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sasha GiGi is a house and tech house artist tracked on soundcheck, with 35 sets 
 
 lau.ra, Surya Sen, Arielle
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashagigi/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashagigi/)*

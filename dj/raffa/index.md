@@ -1,6 +1,6 @@
 # RAFFA
 
-RAFFA is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Odonien, Cologne on Wed, 12 Aug 2026.
+RAFFA is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Odonien, Cologne on Wed, 12 Aug 2026.
 
 RAFFA is a techno and drum & bass artist tracked on soundcheck, with 6 sets logged across Amsterdam, Bangkok, Budapest and Cologne. Often billed alongside LSG, AIRKEY and Balance. Next up: Odonien, Cologne on Wed 12 Aug.
 
@@ -22,4 +22,4 @@ RAFFA is a techno and drum & bass artist tracked on soundcheck, with 6 sets logg
 
 LSG, AIRKEY, Balance
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*

@@ -1,15 +1,13 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 33 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Jackies 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero" on Sat, 8 Aug 2026.
+La Terrrazza is a music venue in Barcelona with 31 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Soundset Sessions with Sam Hofman" on Thu, 13 Aug 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 33 upcoming nights, with line-ups including Alice Caroline, Belu Rodriguez, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 31 upcoming nights, with line-ups including Belu Rodriguez, Bennet, Bennet (DE) and BRU ON and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Jackies 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero | Hector Romero, Hunee, Nesi, Piem |
-| Sat, 8 Aug 2026 | Saturday - La Terrrazza - Official Afterparty Brunch Electronik Festival w/ Leon Vynehall | Alice Caroline, DJ Senc, Leon Vynehall, OMOLOKO |
 | Thu, 13 Aug 2026 | Soundset Sessions with Sam Hofman | CLANDESTINE (2), DJ Cobo, INEXXSTABLE, Sam Hofman |
 | Fri, 14 Aug 2026 | Hop on The Top pres: Open Air Hip Hop Party at La Terrrazza | DJ AMAZING |
 | Fri, 14 Aug 2026 | Luna Rosa x Fernanda Arrau | Bennet, Bennet (DE), Fernanda Arrau |
@@ -18,9 +16,11 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 33 upcoming nig
 | Fri, 21 Aug 2026 | Throwback - Back to 80s, 90s & 00s at La Terrrazza | Mr Majestyk |
 | Fri, 21 Aug 2026 | Retro Future Disco Club | Jay Luna, Jordan Peak, caskobi |
 | Sat, 22 Aug 2026 | Baang meets La Terrrazza | Dadame, Marc Gimeno, Prosumer |
+| Thu, 27 Aug 2026 | SUMMER HEROES: Open Air with WHO ELSE | Belu Rodriguez, MøønkiZa, Uri Mood, WHO ELSE |
+| Fri, 28 Aug 2026 | Poly-Rythmo Club meets La Terrrazza | Disgonuts, JKriv, Sonido Tupinamba |
 
 ## Address
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

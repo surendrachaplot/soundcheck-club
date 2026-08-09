@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 32 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "BLINK: TOM ENZY, Eden Prince + MORE" on Sat, 8 Aug 2026.
+Ministry Of Sound is a music venue in London with 31 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Midweek Rave" on Tue, 11 Aug 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including Alex Mills, Amtrac, Andy C and Ayce and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Alex Mills, Amtrac, Andy C and Ayce and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | BLINK: TOM ENZY, Eden Prince + MORE | Eden Prince |
 | Tue, 11 Aug 2026 | Milkshake, Ministry Of Sound - London's Biggest Midweek Rave |  |
 | Thu, 13 Aug 2026 | The A-Level Results Day Party 2026 - Ministry Of Sound London |  |
 | Fri, 14 Aug 2026 | CITIZENS VOL.6: Sam Supplier, PHIL HARRIS B2B TRENOM + COMP WINNERS | Sam Supplier |
@@ -18,9 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 32 upcoming n
 | Fri, 21 Aug 2026 | BLINK: KAREN HARDING, Nancie, RAPHI, STEPHANI B | Nancie |
 | Sat, 22 Aug 2026 | Rulin: DJ Harvey (All Night Long) | DJ Harvey |
 | Tue, 25 Aug 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
+| Fri, 28 Aug 2026 | Smoove: Continental GT, Supa D, Crazy Cousinz + more | Continental GT, Crazy Cousinz, Daddy Chulo, Donch, Emz (MC), Pioneer, Rampage, Supa D, mastaque |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

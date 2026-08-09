@@ -1,6 +1,6 @@
 # GROOVESICK
 
-GROOVESICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at TBA, Stuttgart on Sat, 15 Aug 2026.
+GROOVESICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Stuttgart on Sat, 15 Aug 2026.
 
 GROOVESICK is a techno and house artist tracked on soundcheck, with 41 sets logged across Basel, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside FJUSHA, DJ GUESTLIST and Obscure Shape. Next up: TBA, Stuttgart on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ GROOVESICK is a techno and house artist tracked on soundcheck, with 41 sets logg
 
 FJUSHA, DJ GUESTLIST, Obscure Shape
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovesick/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovesick/)*

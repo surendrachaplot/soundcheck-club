@@ -1,6 +1,6 @@
 # Constructible
 
-Constructible is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Constructible is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 Constructible is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside boy_c0ded, crnk.dgtl and BIFA01. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -24,4 +24,4 @@ Constructible is a techno and club artist based in United States of America, tra
 
 boy_c0ded, crnk.dgtl, BIFA01
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constructible/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constructible/)*

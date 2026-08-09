@@ -1,6 +1,6 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
+Beltran is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
 
 Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, Prospa and ChaseWest. Next up: DC-10, Ibiza on Mon 10 Aug.
 
@@ -31,4 +31,4 @@ Beltran is a house and tech house artist based in United States of America, trac
 
 Ben Sterling, Prospa, ChaseWest
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

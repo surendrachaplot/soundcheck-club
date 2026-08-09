@@ -1,17 +1,18 @@
 # The Talleyrand
 
-The Talleyrand is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 8 Aug 2026; the next is "White rabbit" on Fri, 11 Sept 2026.
+The Talleyrand is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "GASH ¡LEVI MASSIVE! ⋆˚PRIDE ʕ•ᴥ•ʔ OPEN DEX ｡ּ݁ ˖Ი𐑼⋆ {{FREE ENTRY}}" on Fri, 14 Aug 2026.
 
-The Talleyrand is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1030 Stockport Rd, Manchester M19 3WX.
+The Talleyrand is a music venue in Manchester listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1030 Stockport Rd, Manchester M19 3WX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | GASH ¡LEVI MASSIVE! ⋆˚PRIDE ʕ•ᴥ•ʔ OPEN DEX ｡ּ݁ ˖Ი𐑼⋆ {{FREE ENTRY}} |  |
 | Fri, 11 Sept 2026 | White rabbit |  |
 
 ## Address
 
 1030 Stockport Rd, Manchester M19 3WX, Manchester
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-talleyrand/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-talleyrand/)*

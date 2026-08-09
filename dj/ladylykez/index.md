@@ -1,6 +1,6 @@
 # Lady Lykez
 
-Lady Lykez is a Dancehall and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Palais, London on Fri, 25 Sept 2026.
+Lady Lykez is a Dancehall and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Palais, London on Fri, 25 Sept 2026.
 
 Lady Lykez is a dancehall and jungle artist tracked on soundcheck, with 7 sets logged across London, Munich and Utrecht. Often billed alongside Calibre, Objekt and 33EMYBW. Next up: Palais, London on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Lady Lykez is a dancehall and jungle artist tracked on soundcheck, with 7 sets l
 
 Calibre, Objekt, 33EMYBW
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylykez/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylykez/)*

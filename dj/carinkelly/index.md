@@ -1,6 +1,6 @@
 # carin kelly
 
-carin kelly is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Left Bank, Tbilisi on Sat, 15 Aug 2026.
+carin kelly is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Left Bank, Tbilisi on Sat, 15 Aug 2026.
 
 carin kelly is a bass and techno artist based in France, tracked on soundcheck, with 35 sets logged across Berlin, Brussels, London and Lyon and 3 more. Often billed alongside Pura Pura, Amy Kisnorbo and Cezaire. Next up: Left Bank, Tbilisi on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ carin kelly is a bass and techno artist based in France, tracked on soundcheck, 
 
 Pura Pura, Amy Kisnorbo, Cezaire
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carinkelly/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carinkelly/)*

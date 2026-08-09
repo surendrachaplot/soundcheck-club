@@ -1,6 +1,6 @@
 # S4M23
 
-S4M23 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Samis Bar, Athens on Sun, 9 Aug 2026.
+S4M23 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Samis Bar, Athens on Sun, 9 Aug 2026.
 
 S4M23 is a house and techno artist tracked on soundcheck, with 71 sets logged across Athens, Berlin, Boston and Chicago and 6 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: Samis Bar, Athens on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ S4M23 is a house and techno artist tracked on soundcheck, with 71 sets logged ac
 
 Mike Servito, Lauren Flax, Miss Parker
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

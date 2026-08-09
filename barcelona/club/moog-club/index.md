@@ -1,14 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 54 upcoming nights listed on soundcheck as of Sat, 8 Aug 2026; the next is "Rodmun + Javi gOn" on Sat, 8 Aug 2026.
+Moog Club is a music venue in Barcelona with 53 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Carol Nyx" on Sun, 9 Aug 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 54 upcoming nights, with line-ups including Adriana Lopez, Andres Campo, Ángel Molina and BAMBI (BE) and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 53 upcoming nights, with line-ups including Adriana Lopez, Andres Campo, Ángel Molina and BAMBI (BE) and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | Rodmun + Javi gOn | Javi gOn, Rodmun |
 | Sun, 9 Aug 2026 | Carol Nyx |  |
 | Mon, 10 Aug 2026 | uroz | uroz |
 | Tue, 11 Aug 2026 | Men (L-Men-T) | DJ MEN |
@@ -18,9 +17,10 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 54 upcoming nights
 | Sat, 15 Aug 2026 | Javi gOn | Javi gOn |
 | Sun, 16 Aug 2026 | Carol Nyx |  |
 | Mon, 17 Aug 2026 | uroz | uroz |
+| Tue, 18 Aug 2026 | Rubén Seoane | Rubén Seoane |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

@@ -1,6 +1,6 @@
 # nik-ey
 
-nik-ey is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 8 Aug 2026, next at Boomerang Beach, The Hague on Sat, 15 Aug 2026.
+nik-ey is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Boomerang Beach, The Hague on Sat, 15 Aug 2026.
 
 nik-ey is a house and electro artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague. Often billed alongside Mees Mattern, Dan Dusty and Julien Simmons. Next up: Boomerang Beach, Thehague on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ nik-ey is a house and electro artist tracked on soundcheck, with 37 sets logged 
 
 Mees Mattern, Dan Dusty, Julien Simmons
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*

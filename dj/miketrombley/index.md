@@ -1,6 +1,6 @@
 # Mike Trombley
 
-Mike Trombley is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 8 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
+Mike Trombley is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
 
 Mike Trombley is a jazz and funk / soul artist based in United States of America, tracked on soundcheck, with 29 sets logged across Detroit. Often billed alongside Scott Zacharias, Eddie Logix and Ryan Spencer. Next up: Paris Bar, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mike Trombley is a jazz and funk / soul artist based in United States of America
 
 Scott Zacharias, Eddie Logix, Ryan Spencer
 
-*Updated Sat, 8 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miketrombley/)*
+*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miketrombley/)*
