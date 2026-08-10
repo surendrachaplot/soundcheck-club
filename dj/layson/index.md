@@ -1,13 +1,14 @@
 # Layson
 
-Layson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Fri, 11 Sept 2026.
+Layson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Next Door Records Two, London on Sat, 29 Aug 2026.
 
-Layson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: The DBA, Manchester on Fri 11 Sept.
+Layson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: Next Door Records Two, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Next Door Records Two | London |
 | Fri, 11 Sept 2026 | The DBA | Manchester |
 
 ## Recently played

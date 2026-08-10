@@ -1,8 +1,8 @@
 # BLUME
 
-BLUME is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
+BLUME is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
 
-BLUME is a techno and ambient artist tracked on soundcheck, with 52 sets logged across Amsterdam, Basel, Berlin and Dublin and 4 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Sept.
+BLUME is a techno and ambient artist tracked on soundcheck, with 53 sets logged across Amsterdam, Basel, Berlin and Dublin and 4 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BLUME is a techno and ambient artist tracked on soundcheck, with 52 sets logged 
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 17 Sept 2026 | Kaserne Basel | Basel |
+| Thu, 24 Sept 2026 | Fitzroy | Berlin |
 
 ## Recently played
 

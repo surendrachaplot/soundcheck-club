@@ -1,8 +1,8 @@
 # Equinox (UK)
 
-Equinox (UK) is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Colour Factory, London on Sun, 16 Aug 2026.
+Equinox (UK) is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Colour Factory, London on Sun, 16 Aug 2026.
 
-Equinox (UK) is a jungle and hardcore artist tracked on soundcheck, with 69 sets logged across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Louise Plus One, Hughesee and Tim Reaper. Next up: Colour Factory, London on Sun 16 Aug.
+Equinox (UK) is a jungle and hardcore artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Louise Plus One, Hughesee and Tim Reaper. Next up: Colour Factory, London on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Equinox (UK) is a jungle and hardcore artist tracked on soundcheck, with 69 sets
 | Sun, 16 Aug 2026 | Colour Factory | London |
 | Sat, 22 Aug 2026 | The Glove That Fits | London |
 | Thu, 27 Aug 2026 | The Carpet Shop | London |
+| Fri, 4 Sept 2026 | Four Quarters | London |
 
 ## Recently played
 

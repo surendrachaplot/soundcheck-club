@@ -1,8 +1,8 @@
 # Mediahaven - Minervahaven
 
-Mediahaven - Minervahaven is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Mau P presents Baddest Behaviour x Loveland - ADE 2026" on Thu, 22 Oct 2026.
+Mediahaven - Minervahaven is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Mau P presents Baddest Behaviour x Loveland - ADE 2026" on Thu, 22 Oct 2026.
 
-Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Jamie Jones, Mau P and Mind Against. Browse upcoming dates, start times and who's playing. Moermanskkade 107, 1013 BC Amsterdam.
+Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Jamie Jones, Mau P and Mind Against. Browse upcoming dates, start times and who's playing. Moermanskkade 107, 1013 BC Amsterdam.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 5 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Mau P presents Baddest Behaviour x Loveland - ADE 2026 | Mau P |
 | Thu, 22 Oct 2026 | Luciano ALIVE concert X Loveland |  |
+| Thu, 22 Oct 2026 | LUCIANO ALIVE Concerts x LOVELAND |  |
 | Fri, 23 Oct 2026 | Paradise x Loveland - ADE 2026 | Jamie Jones |
 | Sat, 24 Oct 2026 | Mind Against presents HABITAT x Loveland - ADE 2026 | Mind Against |
 | Sat, 24 Oct 2026 | 909 x Loveland - ADE 2026 |  |

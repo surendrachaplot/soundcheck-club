@@ -1,14 +1,15 @@
 # MileZ
 
-MileZ is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
+MileZ is a Techno and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Planet Wax, London on Thu, 13 Aug 2026.
 
-MileZ is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 127 sets logged across Kyoto, London, Osaka and Seoul and 1 more. Often billed alongside YUVIE, r1ku and SAMO (JP). Next up: Planet Wax, London on Thu 13 Aug.
+MileZ is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 128 sets logged across Kyoto, London, Osaka and Seoul and 1 more. Often billed alongside YUVIE, r1ku and SAMO (JP). Next up: Planet Wax, London on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Planet Wax | London |
+| Wed, 19 Aug 2026 | Four Quarters | London |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
 ## Recently played

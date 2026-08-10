@@ -1,6 +1,6 @@
 # 00ab presents: CLUB INFINITY 001 at TBA
 
-00ab presents: CLUB INFINITY 001 at TBA on Thu 20 Aug, London. Preview the line-up and save it on soundcheck.
+00ab presents: CLUB INFINITY 001 at TBA on Thu 20 Aug, London. Club and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

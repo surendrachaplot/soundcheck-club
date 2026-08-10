@@ -1,8 +1,8 @@
 # Micky Hurts
 
-Micky Hurts is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Micky Hurts is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
-Micky Hurts is a house and tech house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Barcelona and Liverpool and 3 more. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri (1). Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
+Micky Hurts is a house and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Barcelona and Liverpool and 3 more. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri (1). Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Micky Hurts is a house and tech house artist tracked on soundcheck, with 52 sets
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Sat, 29 Aug 2026 | Toffler | Rotterdam |
 | Fri, 25 Sept 2026 | Le Mazette | Paris |
+| Thu, 22 Oct 2026 | Club Up | Amsterdam |
 
 ## Recently played
 

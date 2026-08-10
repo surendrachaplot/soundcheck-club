@@ -1,6 +1,6 @@
 # Disco & Indie Dance at Badehaus Berlin
 
-Disco & Indie Dance at Badehaus Berlin on Fri 21 Aug, Berlin. Disco. Preview the line-up and save it on soundcheck.
+Disco & Indie Dance at Badehaus Berlin on Fri 21 Aug, Berlin. Italo Disco and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

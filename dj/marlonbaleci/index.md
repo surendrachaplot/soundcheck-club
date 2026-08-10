@@ -1,13 +1,14 @@
 # Marlon Baleci
 
-Marlon Baleci is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Fri, 11 Sept 2026.
+Marlon Baleci is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Next Door Records Two, London on Sat, 29 Aug 2026.
 
-Marlon Baleci is a techno and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London and Manchester. Often billed alongside Layson, Joe Roche and Nick Clev. Next up: The DBA, Manchester on Fri 11 Sept.
+Marlon Baleci is a house and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London and Manchester. Often billed alongside Layson, Joe Roche and Nick Clev. Next up: Next Door Records Two, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Next Door Records Two | London |
 | Fri, 11 Sept 2026 | The DBA | Manchester |
 | Sun, 13 Sept 2026 | The Timber Loft | London |
 
