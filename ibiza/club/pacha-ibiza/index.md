@@ -1,8 +1,8 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 65 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sonny Fodera" on Mon, 10 Aug 2026.
+Pacha Ibiza is a music venue in Ibiza with 66 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sonny Fodera" on Mon, 10 Aug 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 65 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 66 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 

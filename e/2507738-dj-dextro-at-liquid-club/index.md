@@ -1,6 +1,6 @@
 # DJ Dextro at Liquid Club
 
-DJ Dextro at Liquid Club on Fri 4 Sept, Malta. 3 acts on the bill: DJ Dextro, Echofaze and ØZZY. Preview the line-up and save it on soundcheck.
+DJ Dextro at Liquid Club on Fri 4 Sept, Malta. 3 acts on the bill: DJ Dextro, Echofaze and ØZZY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

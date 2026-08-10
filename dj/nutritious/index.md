@@ -1,14 +1,15 @@
 # Nutritious
 
-Nutritious is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ZeyZey, Miami on Sat, 31 Oct 2026.
+Nutritious is a Deep House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ZeyZey, Miami on Sat, 31 Oct 2026.
 
-Nutritious is a deep house and house artist tracked on soundcheck, with 6 sets logged across Miami, Nashville and Washingtondc. Often billed alongside DJ Mark Brickman, Jask and Jay-J. Next up: ZeyZey, Miami on Sat 31 Oct.
+Nutritious is a deep house and downtempo artist tracked on soundcheck, with 7 sets logged across Miami, Nashville and Washingtondc. Often billed alongside DJ Mark Brickman, Jask and Jay-J. Next up: ZeyZey, Miami on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | ZeyZey | Miami |
+| Thu, 5 Nov 2026 | Analog at Hutton Hotel | Nashville |
 | Thu, 5 Nov 2026 | Analog at Hutton Hotel | Nashville |
 
 ## Recently played

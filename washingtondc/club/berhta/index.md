@@ -1,8 +1,8 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 16 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Culture Shock" on Fri, 14 Aug 2026.
+BERHTA is a music venue in Washington DC with 17 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Culture Shock" on Fri, 14 Aug 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 16 upcoming nights, with line-ups including 6EJOU, Cassian, Culture Shock and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights, with line-ups including 6EJOU, Cassian, Culture Shock and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 

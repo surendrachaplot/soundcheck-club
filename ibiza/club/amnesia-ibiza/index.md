@@ -1,8 +1,8 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 52 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "NRG" on Mon, 10 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 53 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "NRG" on Mon, 10 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 52 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 53 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 

@@ -1,10 +1,10 @@
 # Groove Night at Spkrbox
 
-Groove Night at Spkrbox on Sat 15 Aug, Detroit. Techno and House. Preview the line-up and save it on soundcheck.
+Groove Night at Spkrbox on Thu 13 Aug, Detroit. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 15 Aug 2026 |
+| Date | Thu, 13 Aug 2026 |
 | Venue | Spkrbox |
 | City | Detroit |
 

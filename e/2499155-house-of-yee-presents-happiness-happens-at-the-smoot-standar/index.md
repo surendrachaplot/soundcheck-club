@@ -1,10 +1,10 @@
 # House Of Yee presents: Happiness Happens at The Smoot Standard
 
-House Of Yee presents: Happiness Happens at The Smoot Standard on Sat 8 Aug, Boston. 2 acts on the bill: DJ Yee and FRANÇOIS G. House. Preview the line-up and save it on soundcheck.
+House Of Yee presents: Happiness Happens at The Smoot Standard on Thu 13 Aug, Boston. 2 acts on the bill: DJ Yee and FRANÇOIS G. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Thu, 13 Aug 2026 |
 | Venue | The Smoot Standard |
 | City | Boston |
 

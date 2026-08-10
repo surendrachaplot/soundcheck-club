@@ -1,14 +1,14 @@
 # More (3)
 
-More (3) is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Cavo Rooftop, Lisbon on Sun, 23 Aug 2026.
+More (3) is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 23 Aug 2026.
 
-More (3) is a reggaeton and house artist based in Italy, tracked on soundcheck, with 27 sets logged across Berlin, Cologne, Lisbon and London and 8 more. Often billed alongside 4am Kru, Garage and ID. Next up: Cavo Rooftop, Lisbon on Sun 23 Aug.
+More (3) is a reggaeton and house artist based in Italy, tracked on soundcheck, with 27 sets logged across Berlin, Cologne, Lisbon and London and 8 more. Often billed alongside 4am Kru, Garage and ID. Next up: Carmo Rooftop, Lisbon on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Cavo Rooftop | Lisbon |
+| Sun, 23 Aug 2026 | Carmo Rooftop | Lisbon |
 
 ## Recently played
 

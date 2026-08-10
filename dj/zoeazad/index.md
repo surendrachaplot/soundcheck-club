@@ -1,14 +1,15 @@
 # Zoe Azad
 
-Zoe Azad is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
+Zoe Azad is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
 
-Zoe Azad is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Manchester. Often billed alongside CEEKAY, Incupa97 and This Guy. Next up: Honey Street Studio, Manchester on Fri 14 Aug.
+Zoe Azad is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London and Manchester. Often billed alongside CEEKAY, Incupa97 and This Guy. Next up: Honey Street Studio, Manchester on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Honey Street Studio | Manchester |
+| Sat, 15 Aug 2026 | TBA | Manchester |
 
 ## Recently played
 

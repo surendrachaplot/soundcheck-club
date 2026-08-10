@@ -9,7 +9,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | BUNKER IS HEADING TO THE ROOFTOP. HARD GROOVE / TRANCE | EMILIO (3), LYOM, STRATAH, VÏVÏ, uuu7 |
-| Sat, 22 Aug 2026 | SUBSPACE at YODO GROOVE |  |
+| Sat, 22 Aug 2026 | SUBSPACE feat. RINALY – Rooftop Day Party at YODO GROOVE |  |
 | Sun, 23 Aug 2026 | Tokyo best Rooftop venu - House Music – UP BEAT! 24th Anniversary Final | Chika Luna, Ko Kimura, RIHO ASAEDA, Sugiurumn, Yamariki |
 | Sat, 29 Aug 2026 | YODO GROOVE PRESENTS: SKY MUSIC JOURNEY – Electronic Music Rooftop Day Party | hara (2) |
 | Sun, 30 Aug 2026 | YODO GROOVE PRESENTS SKY MUSIC JOURNEY × EN / WEEK | Antoniexx, GOLDEN ROA, JURI HOSHINO |

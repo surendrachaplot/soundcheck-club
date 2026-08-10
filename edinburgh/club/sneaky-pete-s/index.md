@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 36 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Ride n Bounce" on Mon, 10 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 37 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Ride n Bounce" on Mon, 10 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 36 upcoming nights, with line-ups including Alexis Taylor, Amber Leith, amhailt.xox and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 37 upcoming nights, with line-ups including Alexis Taylor, Amber Leith, amhailt.xox and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

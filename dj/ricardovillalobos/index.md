@@ -1,8 +1,8 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
+Ricardo Villalobos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 16 Aug 2026.
 
-Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
+Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Amnesia Ibiza, Ibiza on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 117 
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |

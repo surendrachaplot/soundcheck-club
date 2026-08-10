@@ -1,14 +1,15 @@
 # sersol
 
-sersol is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Anchor Rock Club, Philadelphia on Thu, 27 Aug 2026.
+sersol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Anchor Rock Club, Philadelphia on Thu, 27 Aug 2026.
 
-sersol is a house and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity and Philadelphia. Often billed alongside Sunday Double, hanzondeck and .breeze. Next up: Anchor Rock Club, Philadelphia on Thu 27 Aug.
+sersol is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity and Philadelphia. Often billed alongside Sunday Double, hanzondeck and .breeze. Next up: Anchor Rock Club, Philadelphia on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Anchor Rock Club | Philadelphia |
+| Sat, 12 Sept 2026 | The Barbary | Philadelphia |
 
 ## Recently played
 

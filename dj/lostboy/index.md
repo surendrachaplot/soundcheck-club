@@ -1,13 +1,14 @@
 # LostBoy
 
-LostBoy is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+LostBoy is a House and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
 
-LostBoy is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 31 sets logged across Detroit, Melbourne and Stockholm. Often billed alongside Disc Jockey George, JMT (2) and Sheefy McFly. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
+LostBoy is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 32 sets logged across Detroit, Melbourne and Stockholm. Often billed alongside Disc Jockey George, JMT (2) and Sheefy McFly. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 21 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played

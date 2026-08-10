@@ -1,14 +1,15 @@
 # Eluize
 
-Eluize is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Machine Hall, Sydney on Fri, 14 Aug 2026.
+Eluize is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Machine Hall, Sydney on Fri, 14 Aug 2026.
 
-Eluize is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Bali, Berlin and Bristol and 5 more. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Machine Hall, Sydney on Fri 14 Aug.
+Eluize is a house and techno artist based in Australia, tracked on soundcheck, with 37 sets logged across Amsterdam, Bali, Berlin and Bristol and 5 more. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Machine Hall, Sydney on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Machine Hall | Sydney |
+| Sun, 23 Aug 2026 | OneSixOne | Melbourne |
 
 ## Recently played
 

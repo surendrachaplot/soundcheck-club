@@ -11,10 +11,10 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming nights, wi
 | Tue, 11 Aug 2026 | Locomotion | ADRI (LV), AIDEL, hypemelo |
 | Wed, 12 Aug 2026 | Nightcap Detroit | Isaac Prieto |
 | Wed, 12 Aug 2026 | The Peel Back | Loren, RIRKIN |
+| Thu, 13 Aug 2026 | Groove Night |  |
 | Thu, 13 Aug 2026 | XTRA | Fusegrade, Garrison XR |
 | Fri, 14 Aug 2026 | Interface | Dj Disc |
 | Fri, 14 Aug 2026 | Sissle | Andrea Ghita, Mister Joshooa, something blue |
-| Sat, 15 Aug 2026 | Groove Night |  |
 | Sat, 15 Aug 2026 | Saturday Grind |  |
 | Sat, 15 Aug 2026 | Drama | Tylr |
 | Sun, 16 Aug 2026 | SPKR BRNCH |  |

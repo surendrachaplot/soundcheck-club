@@ -1,14 +1,15 @@
 # DJ Soulscape
 
-DJ Soulscape is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Stoked&stoned, Seoul on Fri, 14 Aug 2026.
+DJ Soulscape is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Stoked&stoned, Seoul on Fri, 14 Aug 2026.
 
-DJ Soulscape is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 107 sets logged across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: Stoked&stoned, Seoul on Fri 14 Aug.
+DJ Soulscape is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 108 sets logged across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: Stoked&stoned, Seoul on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Stoked&stoned | Seoul |
+| Sat, 15 Aug 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 

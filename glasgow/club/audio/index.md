@@ -9,7 +9,7 @@ Audio is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Overpressure | Jos.heat, Noise Hz, Tekhole, providence144, zumtru |
-| Fri, 18 Sept 2026 | Pharmacy prescribes DJ BAX + ELFZ  | DJ Bax, TWOCANNDANN |
+| Fri, 18 Sept 2026 | Pharmacy prescribes DJ BAX  | DJ Bax, TWOCANNDANN |
 | Fri, 23 Oct 2026 | Jungle Testaments: Benny Page & DJ Hybrid | Benny Page, DJ Hybrid |
 | Sat, 24 Oct 2026 | Phetkore Vol.2: Nightmare Before Halloween |  |
 

@@ -1,13 +1,14 @@
 # Werkout Plan
 
-Werkout Plan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tangent Gallery, Detroit on Sun, 16 Aug 2026.
+Werkout Plan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tangent Gallery, Detroit on Thu, 13 Aug 2026.
 
-Werkout Plan is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside RAEDY LEX, AK (US) and DISCOBOT. Next up: Tangent Gallery, Detroit on Sun 16 Aug.
+Werkout Plan is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Detroit. Often billed alongside RAEDY LEX, DJ I.V. and DJ Seoul. Next up: Tangent Gallery, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sun, 16 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
@@ -23,6 +24,6 @@ Werkout Plan is a house and techno artist based in United States of America, tra
 
 ## Shares bills with
 
-RAEDY LEX, AK (US), DISCOBOT
+RAEDY LEX, DJ I.V., DJ Seoul
 
 *Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/werkoutplan/)*
