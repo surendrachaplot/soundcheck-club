@@ -1,6 +1,6 @@
 # Faust (3)
 
-Faust (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Faust (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
 Faust (3) is an electronic artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Alma Negrot, Ana Lilia and Aron Amor. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ Faust (3) is an electronic artist based in Germany, tracked on soundcheck, with 
 
 Alma Negrot, Ana Lilia, Aron Amor
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faust-3/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faust-3/)*

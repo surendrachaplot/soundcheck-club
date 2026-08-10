@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Dirtytalk & SB present MAYURASHKA" on Fri, 14 Aug 2026.
+Strange Brew is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Dirtytalk & SB present MAYURASHKA" on Fri, 14 Aug 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 14 upcoming nights, with line-ups including Alicia Carrera, Andy Blake, Andy Mac and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 14 upcoming night
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

@@ -1,6 +1,6 @@
 # Travmkind
 
-Travmkind is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at PRST, Vienna on Fri, 14 Aug 2026.
+Travmkind is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at PRST, Vienna on Fri, 14 Aug 2026.
 
 Travmkind is an afro house and tech house artist based in Austria, tracked on soundcheck, with 26 sets logged across Vienna. Often billed alongside DANBERG, Relinquo and Ankermann. Next up: PRST, Vienna on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Travmkind is an afro house and tech house artist based in Austria, tracked on so
 
 DANBERG, Relinquo, Ankermann
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/travmkind/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/travmkind/)*

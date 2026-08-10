@@ -1,6 +1,6 @@
 # YoungWoman
 
-YoungWoman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Paradiso, Amsterdam on Fri, 4 Sept 2026.
+YoungWoman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Paradiso, Amsterdam on Fri, 4 Sept 2026.
 
 YoungWoman is a techno and club artist based in Egypt, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Slimfit, ZOBAYDA and smother. Next up: Paradiso, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ YoungWoman is a techno and club artist based in Egypt, tracked on soundcheck, wi
 
 Slimfit, ZOBAYDA, smother
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngwoman/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngwoman/)*

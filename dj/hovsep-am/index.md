@@ -1,6 +1,6 @@
 # Hovsep (AM)
 
-Hovsep (AM) is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
+Hovsep (AM) is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
 
 Hovsep (AM) is an experimental and pop artist based in Armenia, tracked on soundcheck, with 5 sets logged across Glasgow, London and Paris. Often billed alongside Salena, acidhousewife3000 and dbeater. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Hovsep (AM) is an experimental and pop artist based in Armenia, tracked on sound
 
 Salena, acidhousewife3000, dbeater
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hovsep-am/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hovsep-am/)*

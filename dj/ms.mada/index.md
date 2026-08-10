@@ -1,6 +1,6 @@
 # Ms. Mada
 
-Ms. Mada is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 13 Aug 2026.
+Ms. Mada is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 13 Aug 2026.
 
 Ms. Mada is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Danyelino, Bakke and Dennis Cruz. Next up: Jolene Downtown Miami, Miami on Thu 13 Aug.
 
@@ -28,4 +28,4 @@ Ms. Mada is a house and tech house artist tracked on soundcheck, with 224 sets l
 
 Danyelino, Bakke, Dennis Cruz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*

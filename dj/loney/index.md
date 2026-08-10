@@ -1,6 +1,6 @@
 # Loney
 
-Loney is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Loney is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Loney is an electronica and ambient artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London and Manchester. Often billed alongside AEON FUX, Flames Disperse and Kop-Z. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Loney is an electronica and ambient artist based in United Kingdom, tracked on s
 
 AEON FUX, Flames Disperse, Kop-Z
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loney/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loney/)*

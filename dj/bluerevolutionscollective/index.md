@@ -1,6 +1,6 @@
 # Blue Revolutions Collective
 
-Blue Revolutions Collective is a Funk / Soul and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Boxpark Croydon, London on Wed, 19 Aug 2026.
+Blue Revolutions Collective is a Funk / Soul and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Boxpark Croydon, London on Wed, 19 Aug 2026.
 
 Blue Revolutions Collective is a funk / soul and uk funky artist tracked on soundcheck, with 27 sets logged across London. Often billed alongside Shayanna Harris. Next up: Boxpark Croydon, London on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Blue Revolutions Collective is a funk / soul and uk funky artist tracked on soun
 
 Shayanna Harris
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluerevolutionscollective/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluerevolutionscollective/)*

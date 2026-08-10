@@ -1,6 +1,6 @@
 # JUNOHH
 
-JUNOHH is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
+JUNOHH is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
 
 JUNOHH is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside B1OS, DIMV and Emma Ash. Next up: The Queen Adelaide, London on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ JUNOHH is a garage and drum & bass artist based in United Kingdom, tracked on so
 
 B1OS, DIMV, Emma Ash
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junohh/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junohh/)*

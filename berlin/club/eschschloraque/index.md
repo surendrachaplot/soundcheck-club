@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "20 Jahre MissVergnügen" on Wed, 12 Aug 2026.
+Eschschloraque is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "20 Jahre MissVergnügen" on Wed, 12 Aug 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including DJ Vela, MissVergnügen and Sky Deep. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

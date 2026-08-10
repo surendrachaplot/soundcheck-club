@@ -1,6 +1,6 @@
 # Aphøtic
 
-Aphøtic is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Aphøtic is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Aphøtic is a techno and industrial artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Cynthia Spiering, XRTN and KARAH. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Aphøtic is a techno and industrial artist tracked on soundcheck, with 81 sets l
 
 Cynthia Spiering, XRTN, KARAH
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*

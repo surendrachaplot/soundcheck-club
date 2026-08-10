@@ -1,6 +1,6 @@
 # JAMIEST
 
-JAMIEST is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Blank Site, Seoul on Sat, 15 Aug 2026.
+JAMIEST is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Blank Site, Seoul on Sat, 15 Aug 2026.
 
 JAMIEST is a techno and psytrance artist based in South Korea, tracked on soundcheck, with 57 sets logged across Seoul and Tokyo. Often billed alongside eesang, Short Finger and THE RATA. Next up: Blank Site, Seoul on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ JAMIEST is a techno and psytrance artist based in South Korea, tracked on soundc
 
 eesang, Short Finger, THE RATA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiest/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiest/)*

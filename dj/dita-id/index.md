@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Radio Radio, Amsterdam on Thu, 13 Aug 2026.
+DITA (ID) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Radio Radio, Amsterdam on Thu, 13 Aug 2026.
 
 DITA (ID) is a house and disco artist tracked on soundcheck, with 102 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Brent Burns, Cormac and Marcellus Pittman. Next up: Radio Radio, Amsterdam on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 102 sets logge
 
 Brent Burns, Cormac, Marcellus Pittman
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

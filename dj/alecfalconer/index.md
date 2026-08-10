@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Secret Location, London on Fri, 21 Aug 2026.
+Alec Falconer is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Secret Location, London on Fri, 21 Aug 2026.
 
 Alec Falconer is a house and garage artist tracked on soundcheck, with 111 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Secret Location, London on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Alec Falconer is a house and garage artist tracked on soundcheck, with 111 sets 
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

@@ -1,6 +1,6 @@
 # QOPA'K
 
-QOPA'K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
+QOPA'K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
 
 QOPA'K is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Juan Diego Drouet, K-H1 and M21SIX. Next up: Crack Bellmer, Berlin on Thu 13 Aug.
 
@@ -19,4 +19,4 @@ QOPA'K is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Juan Diego Drouet, K-H1, M21SIX
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qopak/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qopak/)*

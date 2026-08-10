@@ -1,6 +1,6 @@
 # Tweeman
 
-Tweeman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Mon, 10 Aug 2026.
+Tweeman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Mon, 10 Aug 2026.
 
 Tweeman is a techno and house artist based in Ukraine, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Vani Vachi, Nastya Muravyova and Ruslan Mays. Next up: Tresor / Globus, Berlin on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Tweeman is a techno and house artist based in Ukraine, tracked on soundcheck, wi
 
 Vani Vachi, Nastya Muravyova, Ruslan Mays
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tweeman/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tweeman/)*

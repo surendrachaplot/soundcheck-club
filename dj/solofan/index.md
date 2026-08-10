@@ -1,6 +1,6 @@
 # Solofan
 
-Solofan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Nowadays, New York City on Sat, 29 Aug 2026.
+Solofan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Nowadays, New York City on Sat, 29 Aug 2026.
 
 Solofan is a techno and club artist based in Egypt, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Alissa Brianna, DJPT and Mohamed (US). Next up: Nowadays, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Solofan is a techno and club artist based in Egypt, tracked on soundcheck, with 
 
 Alissa Brianna, DJPT, Mohamed (US)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solofan/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solofan/)*

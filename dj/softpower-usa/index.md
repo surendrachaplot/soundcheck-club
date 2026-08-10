@@ -1,6 +1,6 @@
 # S.O.F.T. Power
 
-S.O.F.T. Power is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
+S.O.F.T. Power is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
 
 S.O.F.T. Power is a house and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston and Detroit. Often billed alongside 1-800-CALL-ASH, Bill Spencer and Chris Clement. Next up: Paris Bar, Detroit on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ S.O.F.T. Power is a house and techno artist based in United States of America, t
 
 1-800-CALL-ASH, Bill Spencer, Chris Clement
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softpower-usa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softpower-usa/)*

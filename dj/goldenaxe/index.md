@@ -1,6 +1,6 @@
 # Goldenaxe
 
-Goldenaxe is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Goldenaxe is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Goldenaxe is an electronic artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Bristol. Often billed alongside Cyranotaurus Cortex, Stephan Licha and Don Rogall. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Goldenaxe is an electronic artist based in Germany, tracked on soundcheck, with 
 
 Cyranotaurus Cortex, Stephan Licha, Don Rogall
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenaxe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenaxe/)*

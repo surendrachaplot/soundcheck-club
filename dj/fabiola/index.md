@@ -1,6 +1,6 @@
 # Fabiola
 
-Fabiola is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 22 Aug 2026.
+Fabiola is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 22 Aug 2026.
 
 Fabiola is a techno and house artist tracked on soundcheck, with 66 sets logged across Berlin, Buenosaires, Chicago and Detroit and 4 more. Often billed alongside Alexx in Chainss, Carozilla and Tammy Lakkis. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Fabiola is a techno and house artist tracked on soundcheck, with 66 sets logged 
 
 Alexx in Chainss, Carozilla, Tammy Lakkis
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*

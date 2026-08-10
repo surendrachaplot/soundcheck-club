@@ -1,6 +1,6 @@
 # Nyennea
 
-Nyennea is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Studio1111, Berlin on Fri, 21 Aug 2026.
+Nyennea is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Studio1111, Berlin on Fri, 21 Aug 2026.
 
 Nyennea is a club and experimental artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Porschelane, Anthracene and bod [包家巷]. Next up: Studio1111, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Nyennea is a club and experimental artist tracked on soundcheck, with 12 sets lo
 
 Porschelane, Anthracene, bod [包家巷]
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*

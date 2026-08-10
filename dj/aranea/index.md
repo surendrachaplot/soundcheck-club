@@ -1,6 +1,6 @@
 # ARANEA
 
-ARANEA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bar15, Stockholm on Fri, 28 Aug 2026.
+ARANEA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar15, Stockholm on Fri, 28 Aug 2026.
 
 ARANEA is a techno and industrial artist based in Sweden, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Copenhagen and Malta and 1 more. Often billed alongside DJ Zeb, Billie Jo and GRĒTA. Next up: Bar15, Stockholm on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ ARANEA is a techno and industrial artist based in Sweden, tracked on soundcheck,
 
 DJ Zeb, Billie Jo, GRĒTA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*

@@ -1,6 +1,6 @@
 # All Night Passion
 
-All Night Passion is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Arlington, Glasgow on Sat, 15 Aug 2026.
+All Night Passion is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Arlington, Glasgow on Sat, 15 Aug 2026.
 
 All Night Passion is a disco and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Aberdeen, Berlin, Dundee and Edinburgh and 1 more. Often billed alongside Oakley Carter, Calowae and gau7t. Next up: The Arlington, Glasgow on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ All Night Passion is a disco and house artist based in United Kingdom, tracked o
 
 Oakley Carter, Calowae, gau7t
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allnightpassion/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allnightpassion/)*

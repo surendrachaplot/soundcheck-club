@@ -1,6 +1,6 @@
 # Acuario Cosmico
 
-Acuario Cosmico is a Krautrock and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Privatclub, Berlin on Fri, 9 Oct 2026.
+Acuario Cosmico is a Krautrock and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Privatclub, Berlin on Fri, 9 Oct 2026.
 
 Acuario Cosmico is a krautrock and pop artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Next up: Privatclub, Berlin on Fri 9 Oct.
 
@@ -16,4 +16,4 @@ Acuario Cosmico is a krautrock and pop artist based in Germany, tracked on sound
 - TBA, Berlin — Thu, 29 May 2025
 - Ladenkino, Berlin — Sun, 2 Mar 2025
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acuariocosmico/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acuariocosmico/)*

@@ -1,6 +1,6 @@
 # Carl Gari
 
-Carl Gari is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Import Export, Munich on Sat, 15 Aug 2026.
+Carl Gari is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Import Export, Munich on Sat, 15 Aug 2026.
 
 Carl Gari is a techno and bass artist tracked on soundcheck, with 5 sets logged across Lyon, Milan and Munich. Often billed alongside Piezo, ojoo and Aa Sudd. Next up: Import Export, Munich on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Carl Gari is a techno and bass artist tracked on soundcheck, with 5 sets logged 
 
 Piezo, ojoo, Aa Sudd
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlgari/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlgari/)*

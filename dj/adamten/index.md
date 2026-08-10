@@ -1,8 +1,8 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 15 Aug 2026.
+Adam Ten is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 15 Aug 2026.
 
-Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Hï Ibiza, Ibiza on Sat 15 Aug.
+Adam Ten is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Hï Ibiza, Ibiza on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logge
 | Sat, 15 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Jardins de Joan Brossa | Barcelona |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 7 Nov 2026 | Lula Club | Madrid |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logge
 
 Mita Gami, Jamie Jones, CamelPhat
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*

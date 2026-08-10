@@ -1,14 +1,15 @@
 # Miss Lightbeam
 
-Miss Lightbeam is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Unit 58, London on Fri, 23 Oct 2026.
+Miss Lightbeam is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Unit 58, London on Fri, 23 Oct 2026.
 
-Miss Lightbeam is a techno and psytrance artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Act One, Jon Doe and Lize. Next up: Unit 58, London on Fri 23 Oct.
+Miss Lightbeam is a psytrance and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol and London. Often billed alongside Psibindi, Act One and DELTA LABS. Next up: Unit 58, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Unit 58 | London |
+| Sat, 7 Nov 2026 | Studio 338 | London |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Miss Lightbeam is a techno and psytrance artist based in United Kingdom, tracked
 
 ## Shares bills with
 
-Act One, Jon Doe, Lize
+Psibindi, Act One, DELTA LABS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misslightbeam/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misslightbeam/)*

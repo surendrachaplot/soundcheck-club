@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gaffe, London on Sun, 16 Aug 2026.
+Marco Shuttle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gaffe, London on Sun, 16 Aug 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Gaffe, London on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

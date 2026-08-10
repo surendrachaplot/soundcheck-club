@@ -1,6 +1,6 @@
 # Acoustik Garden Lounge
 
-Acoustik Garden Lounge is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "CLÜBSESSION VOL.10 SPIN CYCLE JERSEY TAKEOVER" on Thu, 13 Aug 2026.
+Acoustik Garden Lounge is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "CLÜBSESSION VOL.10 SPIN CYCLE JERSEY TAKEOVER" on Thu, 13 Aug 2026.
 
 Acoustik Garden Lounge is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including DJ Sauci Soni, MAXWELL HöUSE and MISS VEE. Browse upcoming dates, start times and who's playing. 1515 Atlantic Ave, Brooklyn, New York 11213.
 
@@ -14,4 +14,4 @@ Acoustik Garden Lounge is a music venue in Newyorkcity listed on soundcheck. 1 u
 
 1515 Atlantic Ave, Brooklyn, New York 11213, New York City
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/acoustik-garden-lounge/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/acoustik-garden-lounge/)*

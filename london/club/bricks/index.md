@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SHINDIG NIGHTS - The Emo Dance" on Sat, 15 Aug 2026.
+Bricks is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SHINDIG NIGHTS - The Emo Dance" on Sat, 15 Aug 2026.
 
 Bricks is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including AMBRR, Ardishko, AyChibs and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -18,4 +18,4 @@ Bricks is a music venue in London listed on soundcheck. 5 upcoming nights, with 
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

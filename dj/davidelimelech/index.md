@@ -1,14 +1,15 @@
 # David Elimelech
 
-David Elimelech is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
+David Elimelech is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
 
-David Elimelech is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Berlin and Chicago and 24 more. Often billed alongside Partok, Roi Perez and Samira. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
+David Elimelech is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Berlin and Chicago and 24 more. Often billed alongside Partok, Roi Perez and Samira. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 12 Sept 2026 | 93 Feet East | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ David Elimelech is a house and techno artist tracked on soundcheck, with 69 sets
 
 Partok, Roi Perez, Samira
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*

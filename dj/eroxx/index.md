@@ -1,6 +1,6 @@
 # ERØXX
 
-ERØXX is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Tigullio, Malta on Thu, 13 Aug 2026.
+ERØXX is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tigullio, Malta on Thu, 13 Aug 2026.
 
 ERØXX is a techno and industrial artist tracked on soundcheck, with 26 sets logged across Barcelona and Malta. Often billed alongside Øxiyd, Luca Maier and MVGRI. Next up: Tigullio, Malta on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ ERØXX is a techno and industrial artist tracked on soundcheck, with 26 sets log
 
 Øxiyd, Luca Maier, MVGRI
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eroxx/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eroxx/)*

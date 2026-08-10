@@ -1,17 +1,18 @@
 # Hidden Heights Creative Studio
 
-Hidden Heights Creative Studio is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Slo Motion" on Sat, 22 Aug 2026.
+Hidden Heights Creative Studio is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Slo Motion" on Sat, 22 Aug 2026.
 
-Hidden Heights Creative Studio is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Arch 4 Hymers Court, Brandling Street, Gatehsead, NE8 2BA.
+Hidden Heights Creative Studio is a music venue in Newcastle listed on soundcheck. 2 upcoming nights, with line-ups including Mairi 'b' Pots and Natasha Kitty Katt. Browse upcoming dates, start times and who's playing. Arch 4 Hymers Court, Brandling Street, Gatehsead, NE8 2BA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Slo Motion |  |
+| Sat, 12 Sept 2026 | Hidden Sessions Lock-In Sessions 005 presents: OFF WORLD DREAMS | Mairi 'b' Pots, Natasha Kitty Katt |
 
 ## Address
 
 Arch 4 Hymers Court, Brandling Street, Gatehsead, NE8 2BA, Newcastle
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/hidden-heights-creative-studio/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/hidden-heights-creative-studio/)*

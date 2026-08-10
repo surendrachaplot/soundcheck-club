@@ -1,6 +1,6 @@
 # K.E.G
 
-K.E.G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
+K.E.G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
 
 K.E.G is a house and techno artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside Gonno, Abiu and An toi. Next up: WOMB, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ K.E.G is a house and techno artist based in Japan, tracked on soundcheck, with 3
 
 Gonno, Abiu, An toi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.e.g/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.e.g/)*

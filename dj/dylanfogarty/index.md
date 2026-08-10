@@ -1,6 +1,6 @@
 # Dylan Fogarty
 
-Dylan Fogarty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
+Dylan Fogarty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at FOLD, London on Fri, 14 Aug 2026.
 
 Dylan Fogarty is a techno and house artist tracked on soundcheck, with 123 sets logged across Aberdeen, Amsterdam, Belfast and Belgrade and 29 more. Often billed alongside CULT, Antigone and Vromo. Next up: FOLD, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Dylan Fogarty is a techno and house artist tracked on soundcheck, with 123 sets 
 
 CULT, Antigone, Vromo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*

@@ -1,6 +1,6 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BERHTA, Washington DC on Fri, 14 Aug 2026.
+Culture Shock is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at BERHTA, Washington DC on Fri, 14 Aug 2026.
 
 Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Austin and 34 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: BERHTA, Washingtondc on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 70 se
 
 Sub Focus, Dimension, 1991
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

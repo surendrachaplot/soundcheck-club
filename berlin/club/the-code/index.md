@@ -1,6 +1,6 @@
 # THE CODE
 
-THE CODE is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "THE CODE x NUDO: BOUND / UNBOUND feat. Amanda Mussi" on Fri, 14 Aug 2026.
+THE CODE is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "THE CODE x NUDO: BOUND / UNBOUND feat. Amanda Mussi" on Fri, 14 Aug 2026.
 
 THE CODE is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Amanda Mussi. Browse upcoming dates, start times and who's playing. Köpenicker Str. 79, 10179 Berlin, Deutschland.
 
@@ -14,4 +14,4 @@ THE CODE is a music venue in Berlin listed on soundcheck. 1 upcoming night, with
 
 Köpenicker Str. 79, 10179 Berlin, Deutschland, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-code/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-code/)*

@@ -1,6 +1,6 @@
 # Dean Mir
 
-Dean Mir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
+Dean Mir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
 
 Dean Mir is a house and deep house artist tracked on soundcheck, with 10 sets logged across London, Mexicocity and Newcastle. Often billed alongside Hunter. S, Retza and Fluida. Next up: fabric, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Dean Mir is a house and deep house artist tracked on soundcheck, with 10 sets lo
 
 Hunter. S, Retza, Fluida
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanmir/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanmir/)*

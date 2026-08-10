@@ -1,6 +1,6 @@
 # Andrea Zadro
 
-Andrea Zadro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
+Andrea Zadro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
 
 Andrea Zadro is a house and disco artist based in Italy, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside DJ Haribo, Eva Crystaltips and Luca Olivotto. Next up: OXI, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Andrea Zadro is a house and disco artist based in Italy, tracked on soundcheck, 
 
 DJ Haribo, Eva Crystaltips, Luca Olivotto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazadro/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazadro/)*

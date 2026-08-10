@@ -1,6 +1,6 @@
 # Mobilat Club
 
-Mobilat Club is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Fightnight Open Air with Noise Not War" on Sat, 15 Aug 2026.
+Mobilat Club is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Fightnight Open Air with Noise Not War" on Sat, 15 Aug 2026.
 
 Mobilat Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming nights, with line-ups including GAAAS and Noise Not War. Browse upcoming dates, start times and who's playing. Salzstrasse 27; 74076 Heilbronn.
 
@@ -15,4 +15,4 @@ Mobilat Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming nigh
 
 Salzstrasse 27; 74076 Heilbronn, Stuttgart
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/mobilat-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/mobilat-club/)*

@@ -1,6 +1,6 @@
 # Scapa
 
-Scapa is a Bass and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The White Hotel, Manchester on Sat, 15 Aug 2026.
+Scapa is a Bass and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The White Hotel, Manchester on Sat, 15 Aug 2026.
 
 Scapa is a bass and ebm artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Leeds, London and Manchester. Often billed alongside Bollibubbles, Jase Jeffery and Mystique. Next up: The White Hotel, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Scapa is a bass and ebm artist based in United Kingdom, tracked on soundcheck, w
 
 Bollibubbles, Jase Jeffery, Mystique
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scapa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scapa/)*

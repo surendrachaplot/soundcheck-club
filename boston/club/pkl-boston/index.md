@@ -1,6 +1,6 @@
 # PKL Boston
 
-PKL Boston is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "After Brunch presents: 5 Anniversary" on Sun, 6 Sept 2026.
+PKL Boston is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "After Brunch presents: 5 Anniversary" on Sun, 6 Sept 2026.
 
 PKL Boston is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Egg In The Morning. Browse upcoming dates, start times and who's playing. 64 C St, South Boston, MA 02127.
 
@@ -14,4 +14,4 @@ PKL Boston is a music venue in Boston listed on soundcheck. 1 upcoming night, wi
 
 64 C St, South Boston, MA 02127, Boston
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/pkl-boston/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/pkl-boston/)*

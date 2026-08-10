@@ -1,6 +1,6 @@
 # Europa Boat
 
-Europa Boat is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Cruisin Boat Party x House Piknik ALL WHITE Boat Party" on Sat, 15 Aug 2026.
+Europa Boat is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Cruisin Boat Party x House Piknik ALL WHITE Boat Party" on Sat, 15 Aug 2026.
 
 Europa Boat is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Adriana Lopez, Claudio PRC, Evil Nine and Gemcamp and 2 more. Browse upcoming dates, start times and who's playing. Szilágyi Dezső tér, 1011 Budapest.
 
@@ -17,4 +17,4 @@ Europa Boat is a music venue in Budapest listed on soundcheck. 4 upcoming nights
 
 Szilágyi Dezső tér, 1011 Budapest, Budapest
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/europa-boat/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/europa-boat/)*

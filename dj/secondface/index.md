@@ -1,6 +1,6 @@
 # Secondface
 
-Secondface is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Secondface is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Secondface is a house and hardcore artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne and Frankfurt. Often billed alongside Bulletproof, Buzz Fuzz and Don Williams. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Secondface is a house and hardcore artist based in Germany, tracked on soundchec
 
 Bulletproof, Buzz Fuzz, Don Williams
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondface/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/secondface/)*

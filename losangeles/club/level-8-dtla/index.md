@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sex with The City: Sunset Summer Sessions Takeover" on Fri, 14 Aug 2026.
+Level 8 DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sex with The City: Sunset Summer Sessions Takeover" on Fri, 14 Aug 2026.
 
 Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Apache, Durante, Evo Twinz and Grum and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -20,4 +20,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming nig
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

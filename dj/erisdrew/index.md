@@ -1,14 +1,13 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Haus der Visionäre, Berlin on Sun, 9 Aug 2026.
+Eris Drew is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Eris Drew is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Haus der Visionäre, Berlin on Sun 9 Aug.
+Eris Drew is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Haus der Visionäre | Berlin |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 179 sets logg
 
 ## Recently played
 
+- Haus der Visionäre, Berlin — Sun, 9 Aug 2026
 - TBA - Seebruck - Chiemsee, Munich — Sat, 8 Aug 2026
 - CLUB RAUM, Amsterdam — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -30,10 +30,9 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 179 sets logg
 - The White Hotel, Manchester — Sun, 26 Jul 2026
 - Milandia, Zurich — Sat, 25 Jul 2026
 - OLT Rivierenhof, Antwerp — Sat, 18 Jul 2026
-- TRAUM, Antwerp — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

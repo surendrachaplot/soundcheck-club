@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Bootlegger x Earthtones - Vernissage + Afterparty" on Thu, 13 Aug 2026.
+ESC is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Bootlegger x Earthtones - Vernissage + Afterparty" on Thu, 13 Aug 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including 99jakes, Alice Gas, cashboii and distraction4ever and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -16,4 +16,4 @@ ESC is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

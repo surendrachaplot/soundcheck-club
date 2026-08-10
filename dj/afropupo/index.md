@@ -1,6 +1,6 @@
 # Afro Pupo
 
-Afro Pupo is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 14 Aug 2026.
+Afro Pupo is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 14 Aug 2026.
 
 Afro Pupo is an afro tech and afro house artist based in Angola, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside UnesGroove. Next up: La Rotonde Stalingrad, Paris on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ Afro Pupo is an afro tech and afro house artist based in Angola, tracked on soun
 
 UnesGroove
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afropupo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afropupo/)*

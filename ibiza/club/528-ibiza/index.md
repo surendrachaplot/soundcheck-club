@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 32 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "[9th Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night" on Sun, 9 Aug 2026.
+528 Ibiza is a music venue in Ibiza with 31 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "PIKES PRESENTS AT 528 WITH Fatboy Slim" on Tue, 11 Aug 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 32 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 31 upcoming nights, with line-ups including Kepler, Paula Tape, Across Boundaries and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | [9th Aug] ➔ FUSE x Brunch Electronik Ibiza ➔ Day + Night | Call Super, Enzo Siragusa, Kepler, Locky, Marlie, Miller, Rich NXT, Rossi, Ryan Elliott, Sweely, Traumer |
 | Tue, 11 Aug 2026 | PIKES PRESENTS AT 528 WITH Fatboy Slim | CC:DISCO!, Erol Alkan, Fatboy Slim |
 | Wed, 12 Aug 2026 | PIKES PRESENTS : ECLIPSE EDITION | Camilo Miranda, DJ Harvey |
 | Sat, 15 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS | Anthony Pappa, Dave Seaman, Guy Williams, Jason Bye |
@@ -18,9 +17,10 @@
 | Sun, 23 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 23.08 / Bob Moses, Henrik Schwarz (Live) | Bob Moses, Cristina Tosio, Henrik Schwarz, Julia Sandstorm, Landikhan, Omer Tayar, SHARE (NL) |
 | Tue, 25 Aug 2026 | PIKES PRESENTS AT 528 WITH Nightmares on Wax | Mr Scruff, Nightmares on Wax |
 | Sat, 29 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS CLOSING | Allister Whitehead, Clara Da Costa, Jason Bye, K-Klass, Sarah Main |
+| Sun, 30 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 30.08 / WhoMadeWho, Mind Against | JANE RYSE, Mind Against, WhoMadeWho |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

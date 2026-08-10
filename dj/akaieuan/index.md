@@ -1,6 +1,6 @@
 # aka ieuan
 
-aka ieuan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
+aka ieuan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 18 Aug 2026.
 
 aka ieuan is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Wren's Lullaby, yion and ANDRÉS GARCIL. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ aka ieuan is a techno and trance artist based in United States of America, track
 
 Wren's Lullaby, yion, ANDRÉS GARCIL
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akaieuan/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akaieuan/)*

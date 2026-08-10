@@ -1,6 +1,6 @@
 # Sabinin
 
-Sabinin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
+Sabinin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
 
 Sabinin is a techno and house artist based in Ukraine, tracked on soundcheck, with 27 sets logged across Austin, Houston and Newyorkcity. Often billed alongside Kurilo, Noey Lopez and Stealthy. Next up: Honey's, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Sabinin is a techno and house artist based in Ukraine, tracked on soundcheck, wi
 
 Kurilo, Noey Lopez, Stealthy
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinin/)*

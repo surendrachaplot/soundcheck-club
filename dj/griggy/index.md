@@ -1,6 +1,6 @@
 # GRIGGY
 
-GRIGGY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
+GRIGGY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
 
 GRIGGY is a house and deep house artist tracked on soundcheck, with 15 sets logged across Liverpool, London, Manchester and Melbourne. Often billed alongside Beno Garcia, Adam Trace and Amber Ferraro. Next up: Stage and Radio, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GRIGGY is a house and deep house artist tracked on soundcheck, with 15 sets logg
 
 Beno Garcia, Adam Trace, Amber Ferraro
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/griggy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/griggy/)*

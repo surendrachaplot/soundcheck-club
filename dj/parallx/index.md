@@ -1,14 +1,15 @@
 # Parallx
 
-Parallx is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
+Parallx is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
 
-Parallx is a techno and industrial artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
+Parallx is a techno and industrial artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Tresor / Globus | Berlin |
+| Sat, 7 Nov 2026 | Arzenal | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Parallx is a techno and industrial artist tracked on soundcheck, with 116 sets l
 
 Acierate, RIKHTER, Kim She
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*

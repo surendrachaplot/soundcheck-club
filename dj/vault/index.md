@@ -1,8 +1,8 @@
 # Vault
 
-Vault is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Vault is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Vault is a techno and bass artist based in United States of America, tracked on soundcheck, with 4 sets logged across Bucharest, Manchester and Philadelphia. Often billed alongside 2Shy MC, Alive and Andy C. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Vault is a techno and bass artist based in United States of America, tracked on soundcheck, with 5 sets logged across Bucharest, Manchester and Philadelphia. Often billed alongside 2Shy MC, Alive and Andy C. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vault is a techno and bass artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Vault is a techno and bass artist based in United States of America, tracked on 
 
 2Shy MC, Alive, Andy C
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vault/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vault/)*

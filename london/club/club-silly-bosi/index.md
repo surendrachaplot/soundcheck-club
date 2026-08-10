@@ -1,6 +1,6 @@
 # Club Silly (Bosi)
 
-Club Silly (Bosi) is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Pass the Torch for Ty" on Thu, 20 Aug 2026.
+Club Silly (Bosi) is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Pass the Torch for Ty" on Thu, 20 Aug 2026.
 
 Club Silly (Bosi) is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including DJ Snuff. Browse upcoming dates, start times and who's playing. Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ.
 
@@ -15,4 +15,4 @@ Club Silly (Bosi) is a music venue in London listed on soundcheck. 2 upcoming ni
 
 Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*

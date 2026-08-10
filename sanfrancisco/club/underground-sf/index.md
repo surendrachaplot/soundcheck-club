@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "CLUB MUSIC" on Fri, 14 Aug 2026.
+Underground SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "CLUB MUSIC" on Fri, 14 Aug 2026.
 
 Underground SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including ALICE STRIBLING, Dr. Rek, Jason Kendig and Jehnee. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -18,4 +18,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

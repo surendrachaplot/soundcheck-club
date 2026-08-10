@@ -1,6 +1,6 @@
 # Salah Ananse
 
-Salah Ananse is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
+Salah Ananse is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
 
 Salah Ananse is a house and afro house artist tracked on soundcheck, with 11 sets logged across Detroit, Houston, Miami and Newyorkcity and 1 more. Often billed alongside DJ Kemit, Kai Alce and Natasha Diggs. Next up: 99 Scott Ave, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Salah Ananse is a house and afro house artist tracked on soundcheck, with 11 set
 
 DJ Kemit, Kai Alce, Natasha Diggs
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salahananse/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salahananse/)*

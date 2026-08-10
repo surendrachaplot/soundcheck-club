@@ -1,6 +1,6 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Spook Club, Valencia on Sat, 22 Aug 2026.
+In Furcht is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Spook Club, Valencia on Sat, 22 Aug 2026.
 
 In Furcht is a techno and trance artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 13 more. Often billed alongside Neon Graveyard, Kander and 7CIRCLE. Next up: Spook Club, Valencia on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ In Furcht is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Neon Graveyard, Kander, 7CIRCLE
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*

@@ -1,6 +1,6 @@
 # Andy Baxter
 
-Andy Baxter is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 13 Aug 2026.
+Andy Baxter is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 13 Aug 2026.
 
 Andy Baxter is a house and techno artist based in Spain, tracked on soundcheck, with 31 sets logged across Ibiza. Often billed alongside Jason Bye, Marshall Jefferson and Claptone. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Andy Baxter is a house and techno artist based in Spain, tracked on soundcheck, 
 
 Jason Bye, Marshall Jefferson, Claptone
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andybaxter/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andybaxter/)*

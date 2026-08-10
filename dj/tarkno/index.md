@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
+Tarkno is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ÆDEN, Berlin on Thu, 13 Aug 2026.
 
 Tarkno is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 30 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: ÆDEN, Berlin on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Tarkno is a techno and house artist tracked on soundcheck, with 104 sets logged 
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

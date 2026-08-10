@@ -1,6 +1,6 @@
 # La Dame
 
-La Dame is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+La Dame is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
 La Dame is a bass and club artist tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Lisbon and Lyon and 3 more. Often billed alongside CHUBBZ, DJ Autumn and Le Motel. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ La Dame is a bass and club artist tracked on soundcheck, with 33 sets logged acr
 
 CHUBBZ, DJ Autumn, Le Motel
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladame/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladame/)*

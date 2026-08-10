@@ -1,8 +1,8 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Estúdio Junto x TIJOLO: AO VIVO 010" on Fri, 14 Aug 2026.
+The Chocolate Factory is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Estúdio Junto x TIJOLO: AO VIVO 010" on Fri, 14 Aug 2026.
 
-The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including S7IK, BADSISTA, Clarisa Kimskii and Daybreak and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
+The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including S7IK, BADSISTA, Clarisa Kimskii and Daybreak and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
 ## What's on
 
@@ -16,9 +16,10 @@ The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 8 up
 | Fri, 2 Oct 2026 | Joris Voorn - Trip to Galaxy Tour | Joris Voorn |
 | Sat, 10 Oct 2026 | Sights & Sounds |  |
 | Fri, 23 Oct 2026 | Soul in the Horn FT Natasha Diggs & Friends - October 23 | Natasha Diggs |
+| Sat, 7 Nov 2026 | Sights & Sounds: Zombies In Miami | Zombies In Miami |
 
 ## Address
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

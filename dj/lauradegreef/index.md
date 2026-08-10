@@ -1,14 +1,13 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Lofi, Amsterdam on Sun, 9 Aug 2026.
+Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 6 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Lofi, Amsterdam on Sun 9 Aug.
+Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 6 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Lofi | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | Backyard | Lisbon |
 | Sun, 30 Aug 2026 | fabric | London |
@@ -17,6 +16,7 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets 
 
 ## Recently played
 
+- Lofi, Amsterdam — Sun, 9 Aug 2026
 - Lofi, Amsterdam — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - Funke, Ghent — Sat, 25 Jul 2026
@@ -24,10 +24,9 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets 
 - Frankhan Selectist, Istanbul — Sat, 18 Jul 2026
 - UMI, Brussels — Fri, 10 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- fabric, London — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

@@ -1,6 +1,6 @@
 # alexander:louis
 
-alexander:louis is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Signal, New York City on Sat, 15 Aug 2026.
+alexander:louis is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Signal, New York City on Sat, 15 Aug 2026.
 
 alexander:louis is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver, Newyorkcity and Sandiego. Often billed alongside Gian-Paul, Joeski and Muffs. Next up: Signal, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ alexander:louis is a house and deep house artist based in United States of Ameri
 
 Gian-Paul, Joeski, Muffs
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderlouis/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderlouis/)*

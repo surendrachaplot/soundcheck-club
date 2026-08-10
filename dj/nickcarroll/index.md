@@ -1,6 +1,6 @@
 # Nick Carroll
 
-Nick Carroll is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Nick Carroll is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Nick Carroll is a house and techno artist tracked on soundcheck, with 25 sets logged across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Nick Carroll is a house and techno artist tracked on soundcheck, with 25 sets lo
 
 DJ SH1-TR, KJ3 (US), Lord Phatrick
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*

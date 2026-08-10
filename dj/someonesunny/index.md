@@ -1,6 +1,6 @@
 # Someone Sunny
 
-Someone Sunny is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Roses of Elagabalus, London on Sat, 22 Aug 2026.
+Someone Sunny is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Roses of Elagabalus, London on Sat, 22 Aug 2026.
 
 Someone Sunny is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin, Bristol, Copenhagen and London and 2 more. Often billed alongside LO-LOW, Goh Well and Karlie Marx. Next up: The Roses of Elagabalus, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Someone Sunny is a house and techno artist based in United Kingdom, tracked on s
 
 LO-LOW, Goh Well, Karlie Marx
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someonesunny/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someonesunny/)*

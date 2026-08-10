@@ -1,6 +1,6 @@
 # Magrra
 
-Magrra is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Magrra is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
 
 Magrra is a house and disco artist based in Georgia, tracked on soundcheck, with 27 sets logged across Leipzig and Tbilisi. Often billed alongside Teen A Teen, Mocongo and Dali (GE). Next up: TBA, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Magrra is a house and disco artist based in Georgia, tracked on soundcheck, with
 
 Teen A Teen, Mocongo, Dali (GE)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magrra/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magrra/)*

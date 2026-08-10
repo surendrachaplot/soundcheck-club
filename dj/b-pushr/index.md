@@ -1,6 +1,6 @@
 # B-Pushr
 
-B-Pushr is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
+B-Pushr is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
 
 B-Pushr is a minimal and deep house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Benebe, DJ Cash in Hand and Drozza. Next up: Dream Bags Jaguar Shoes, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ B-Pushr is a minimal and deep house artist tracked on soundcheck, with 3 sets lo
 
 Benebe, DJ Cash in Hand, Drozza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-pushr/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-pushr/)*

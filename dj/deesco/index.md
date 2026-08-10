@@ -1,6 +1,6 @@
 # deesco
 
-deesco is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Baby Battista @ Nico's, Los Angeles on Sat, 15 Aug 2026.
+deesco is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Baby Battista @ Nico's, Los Angeles on Sat, 15 Aug 2026.
 
 deesco is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles and Newyorkcity. Often billed alongside Banoffee, Alxander Ivey and Alima Lee. Next up: Baby Battista @ Nico's, Losangeles on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ deesco is a club and techno artist based in United States of America, tracked on
 
 Banoffee, Alxander Ivey, Alima Lee
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deesco/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deesco/)*

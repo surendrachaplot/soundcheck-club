@@ -1,6 +1,6 @@
 # Pleurire
 
-Pleurire is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Système, Montreal on Thu, 13 Aug 2026.
+Pleurire is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Système, Montreal on Thu, 13 Aug 2026.
 
 Pleurire is a techno and bass artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside Wencat, CrisseMarqueur and Kiviv. Next up: Système, Montreal on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Pleurire is a techno and bass artist based in Canada, tracked on soundcheck, wit
 
 Wencat, CrisseMarqueur, Kiviv
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleurire/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleurire/)*

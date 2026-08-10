@@ -1,14 +1,13 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Selector Sundays - Ste Macca" on Sun, 9 Aug 2026.
+Piccadilly Central is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SWAY PRESENTS: THE LOCK IN PART DEUX" on Fri, 14 Aug 2026.
 
-Piccadilly Central is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including cuci cuci coo, DJ NORTHERN, Doc Martin and Groovy D (1) and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
+Piccadilly Central is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including cuci cuci coo, DJ NORTHERN, Doc Martin and Groovy D (1) and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Selector Sundays - Ste Macca |  |
 | Fri, 14 Aug 2026 | SWAY PRESENTS: THE LOCK IN PART DEUX | Groovy D (1), House of Pengshui, Mix-Stress |
 | Sat, 15 Aug 2026 | Reggae Central |  |
 | Fri, 21 Aug 2026 | I Am & Resonate Pres. Doc Martin | Doc Martin |
@@ -20,4 +19,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 7 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

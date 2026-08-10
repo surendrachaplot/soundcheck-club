@@ -1,6 +1,6 @@
 # Vélez
 
-Vélez is a Dubstep and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 14 Aug 2026.
+Vélez is a Dubstep and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 14 Aug 2026.
 
 Vélez is a dubstep and ambient artist tracked on soundcheck, with 4 sets logged across Lisbon and Mexicocity. Often billed alongside Alexandra Choi (2), Alo and Cin. Next up: Myra Ostraria, Lisbon on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Vélez is a dubstep and ambient artist tracked on soundcheck, with 4 sets logged
 
 Alexandra Choi (2), Alo, Cin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velez-pt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/velez-pt/)*

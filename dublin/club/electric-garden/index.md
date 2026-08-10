@@ -1,6 +1,6 @@
 # Electric Garden
 
-Electric Garden is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "TIMELESS HOUSE Vol 2" on Sat, 29 Aug 2026.
+Electric Garden is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TIMELESS HOUSE Vol 2" on Sat, 29 Aug 2026.
 
 Electric Garden is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including Dean Sherry, DJ PIERR, Dr.Flamer and Paddy Sheridan. Browse upcoming dates, start times and who's playing. 13-14 Liberty Lane, Dublin 8, D08 NF86.
 
@@ -15,4 +15,4 @@ Electric Garden is a music venue in Dublin listed on soundcheck. 2 upcoming nigh
 
 13-14 Liberty Lane, Dublin 8, D08 NF86, Dublin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*

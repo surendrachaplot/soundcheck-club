@@ -1,6 +1,6 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Nakadia is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Nakadia is a techno and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Nakadia is a techno and tech house artist tracked on soundcheck, with 82 sets lo
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

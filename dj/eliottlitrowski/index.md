@@ -1,6 +1,6 @@
 # Eliott Litrowski
 
-Eliott Litrowski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
+Eliott Litrowski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - La Louverie, Paris on Thu, 13 Aug 2026.
 
 Eliott Litrowski is a techno and house artist tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside Voiski, Daniel Savi and Soyoon. Next up: TBA - La Louverie, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Eliott Litrowski is a techno and house artist tracked on soundcheck, with 44 set
 
 Voiski, Daniel Savi, Soyoon
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliottlitrowski/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliottlitrowski/)*

@@ -1,6 +1,6 @@
 # DAIY
 
-DAIY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
+DAIY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
 
 DAIY is a techno and house artist based in Japan, tracked on soundcheck, with 80 sets logged across Tokyo. Often billed alongside Tokukazu, DJ Wada and Yos.. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ DAIY is a techno and house artist based in Japan, tracked on soundcheck, with 80
 
 Tokukazu, DJ Wada, Yos.
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daiy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daiy/)*

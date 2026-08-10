@@ -1,6 +1,6 @@
 # Ida Toninato
 
-Ida Toninato is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Esplanade Tranquille, Montreal on Tue, 25 Aug 2026.
+Ida Toninato is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Esplanade Tranquille, Montreal on Tue, 25 Aug 2026.
 
 Ida Toninato is an experimental and electro artist based in Canada, tracked on soundcheck, with 12 sets logged across Buenosaires, Glasgow, Montreal and Paris and 1 more. Often billed alongside Martin Messier, 404.zero and France Jobin. Next up: Esplanade Tranquille, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Ida Toninato is an experimental and electro artist based in Canada, tracked on s
 
 Martin Messier, 404.zero, France Jobin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idatoninato/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idatoninato/)*

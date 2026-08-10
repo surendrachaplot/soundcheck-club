@@ -1,6 +1,6 @@
 # Charlie Bucket
 
-Charlie Bucket is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Charlie Bucket is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Charlie Bucket is a tech house and house artist based in Australia, tracked on soundcheck, with 1 set logged across London. Often billed alongside A.L.F, Blackromeo and Burnski. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ Charlie Bucket is a tech house and house artist based in Australia, tracked on s
 
 A.L.F, Blackromeo, Burnski
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebucket-au/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebucket-au/)*

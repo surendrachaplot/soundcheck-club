@@ -1,6 +1,6 @@
 # Cooper James
 
-Cooper James is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 6 Sept 2026.
+Cooper James is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 6 Sept 2026.
 
 Cooper James is a tech house and house artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Inavo, Alex White and Alice Burcovich. Next up: Revolver Upstairs, Melbourne on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Cooper James is a tech house and house artist based in Australia, tracked on sou
 
 Inavo, Alex White, Alice Burcovich
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperjames/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperjames/)*

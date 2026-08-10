@@ -1,6 +1,6 @@
 # Faited
 
-Faited is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
+Faited is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
 
 Faited is a techno and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Octo Octa, 1morning and Eris Drew. Next up: 528 Ibiza, Ibiza on Tue 1 Sept.
 
@@ -27,4 +27,4 @@ Faited is a techno and house artist tracked on soundcheck, with 28 sets logged a
 
 Octo Octa, 1morning, Eris Drew
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faited/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faited/)*

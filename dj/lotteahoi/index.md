@@ -1,6 +1,6 @@
 # Lotte Ahoi
 
-Lotte Ahoi is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at gART.n, Berlin on Sun, 23 Aug 2026.
+Lotte Ahoi is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at gART.n, Berlin on Sun, 23 Aug 2026.
 
 Lotte Ahoi is a downtempo and house artist tracked on soundcheck, with 64 sets logged across Berlin, Denver, Hamburg and Milan and 3 more. Often billed alongside Nigel Nagel, BurnTale and Chris Schwarzwälder. Next up: gART.n, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Lotte Ahoi is a downtempo and house artist tracked on soundcheck, with 64 sets l
 
 Nigel Nagel, BurnTale, Chris Schwarzwälder
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotteahoi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotteahoi/)*

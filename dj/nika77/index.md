@@ -1,6 +1,6 @@
 # Nika77
 
-Nika77 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sky Lounge 360, Prague on Sat, 15 Aug 2026.
+Nika77 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sky Lounge 360, Prague on Sat, 15 Aug 2026.
 
 Nika77 is a techno and tech house artist based in Czech Republic, tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Elektrabel, Axis Alpha and Chris Sadler. Next up: Sky Lounge 360, Prague on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Nika77 is a techno and tech house artist based in Czech Republic, tracked on sou
 
 Elektrabel, Axis Alpha, Chris Sadler
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nika77/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nika77/)*

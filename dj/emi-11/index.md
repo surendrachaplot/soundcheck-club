@@ -1,6 +1,6 @@
 # EMI (11)
 
-EMI (11) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Glove That Fits, London on Fri, 28 Aug 2026.
+EMI (11) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Glove That Fits, London on Fri, 28 Aug 2026.
 
 EMI (11) is a techno artist based in Japan, tracked on soundcheck, with 1 set logged across London. Often billed alongside 7005, Ozwick and Pink Concrete. Next up: The Glove That Fits, London on Fri 28 Aug.
 
@@ -14,4 +14,4 @@ EMI (11) is a techno artist based in Japan, tracked on soundcheck, with 1 set lo
 
 7005, Ozwick, Pink Concrete
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emi-11/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emi-11/)*

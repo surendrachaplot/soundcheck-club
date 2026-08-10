@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 14 Aug 2026.
+Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sunset Park Rooftop, New York City on Fri, 14 Aug 2026.
 
 Colyn is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Sunset Park Rooftop, Newyorkcity on Fri 14 Aug.
 
@@ -31,4 +31,4 @@ Colyn is a techno and house artist tracked on soundcheck, with 156 sets logged a
 
 Adriatique, Innellea, CamelPhat
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

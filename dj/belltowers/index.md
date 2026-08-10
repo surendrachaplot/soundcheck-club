@@ -1,6 +1,6 @@
 # Bell Towers
 
-Bell Towers is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Bell Towers is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
 Bell Towers is a house and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bucharest and Copenhagen and 11 more. Often billed alongside Sound Metaphors Djs, David Fogarty and Public Possession. Next up: Kater, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Bell Towers is a house and techno artist based in Australia, tracked on soundche
 
 Sound Metaphors Djs, David Fogarty, Public Possession
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*

@@ -1,6 +1,6 @@
 # DJ Dolla
 
-DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sinners and Saints, Washington DC on Sat, 15 Aug 2026.
+DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sinners and Saints, Washington DC on Sat, 15 Aug 2026.
 
 DJ Dolla is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 11 sets logged across Boston, Detroit, Leeds and Newyorkcity and 1 more. Often billed alongside Tromac, DJ KORIS and Izzy Holmes. Next up: Sinners and Saints, Washingtondc on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Dolla is a club and ghetto tech artist based in United States of America, tra
 
 Tromac, DJ KORIS, Izzy Holmes
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*

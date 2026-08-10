@@ -1,6 +1,6 @@
 # doo-bop
 
-doo-bop is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at export, Rotterdam on Fri, 21 Aug 2026.
+doo-bop is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at export, Rotterdam on Fri, 21 Aug 2026.
 
 doo-bop is a house artist tracked on soundcheck, with 4 sets logged across Rotterdam. Often billed alongside Alec Dienaar, Ays (NL) and Cho Room. Next up: export, Rotterdam on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ doo-bop is a house artist tracked on soundcheck, with 4 sets logged across Rotte
 
 Alec Dienaar, Ays (NL), Cho Room
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doo-bop/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doo-bop/)*

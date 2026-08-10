@@ -1,6 +1,6 @@
 # ZEE-2
 
-ZEE-2 is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Fox and Firkin, London on Sat, 15 Aug 2026.
+ZEE-2 is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Fox and Firkin, London on Sat, 15 Aug 2026.
 
 ZEE-2 is a house and bass artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Copenhagen, Geneva and Hongkong and 5 more. Often billed alongside JVINCENT, HARUNA (2) and Sham Steele. Next up: The Fox and Firkin, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ZEE-2 is a house and bass artist based in United Kingdom, tracked on soundcheck,
 
 JVINCENT, HARUNA (2), Sham Steele
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zee-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zee-2/)*

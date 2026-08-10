@@ -1,6 +1,6 @@
 # Wolffer
 
-Wolffer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at M.N.Roy, Mexico City on Fri, 21 Aug 2026.
+Wolffer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at M.N.Roy, Mexico City on Fri, 21 Aug 2026.
 
 Wolffer is a house and deep house artist based in Mexico, tracked on soundcheck, with 54 sets logged across Mexicocity. Often billed alongside GOLDEN PINEAPPLE, Irena Stanisic and Jimeno Arnaud. Next up: M.N.Roy, Mexicocity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Wolffer is a house and deep house artist based in Mexico, tracked on soundcheck,
 
 GOLDEN PINEAPPLE, Irena Stanisic, Jimeno Arnaud
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolffer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolffer/)*

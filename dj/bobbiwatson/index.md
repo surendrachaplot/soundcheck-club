@@ -1,6 +1,6 @@
 # Bobbi Watson
 
-Bobbi Watson is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Bobbi Watson is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Bobbi Watson is a techno and trance artist tracked on soundcheck, with 34 sets logged across Antwerp, Brussels, Ghent and Lyon and 4 more. Often billed alongside Jessen, UNOS and trillosta. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Bobbi Watson is a techno and trance artist tracked on soundcheck, with 34 sets l
 
 Jessen, UNOS, trillosta
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*

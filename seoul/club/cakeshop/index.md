@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "RED PILL OR BLUE PILL" on Thu, 13 Aug 2026.
+Cakeshop is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "RED PILL OR BLUE PILL" on Thu, 13 Aug 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including dayoung, DJ JM, Hugh Hardie and KING SHE and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -18,4 +18,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

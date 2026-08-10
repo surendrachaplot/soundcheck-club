@@ -1,6 +1,6 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+Oscar Mulero is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
 
 Oscar Mulero is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
 
@@ -31,4 +31,4 @@ Oscar Mulero is a techno and house artist tracked on soundcheck, with 155 sets l
 
 Ben Sims, Adriana Lopez, DVS1
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

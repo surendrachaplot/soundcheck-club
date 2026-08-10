@@ -1,6 +1,6 @@
 # Meltem Yazar
 
-Meltem Yazar is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
+Meltem Yazar is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
 
 Meltem Yazar is an acid and electro artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, London and Rotterdam. Often billed alongside Madelic, Redfreya and Sam Karam. Next up: The Glove That Fits, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Meltem Yazar is an acid and electro artist tracked on soundcheck, with 16 sets l
 
 Madelic, Redfreya, Sam Karam
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemyazar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemyazar/)*

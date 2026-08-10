@@ -1,6 +1,6 @@
 # Mattie (2)
 
-Mattie (2) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
+Mattie (2) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
 
 Mattie (2) is a house and bass artist based in Netherlands, tracked on soundcheck, with 1 set logged across Utrecht. Often billed alongside Argento, CHEM:EX and DJ Soyboy. Next up: KABUL à GoGo, Utrecht on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ Mattie (2) is a house and bass artist based in Netherlands, tracked on soundchec
 
 Argento, CHEM:EX, DJ Soyboy
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattie-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattie-2/)*

@@ -1,6 +1,6 @@
 # Juan Diego Drouet
 
-Juan Diego Drouet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
+Juan Diego Drouet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Crack Bellmer, Berlin on Thu, 13 Aug 2026.
 
 Juan Diego Drouet is a house and techno artist based in Ecuador, tracked on soundcheck, with 17 sets logged across Berlin and Madrid. Often billed alongside Sean Gonzalez, Baroma and Culo Sucio. Next up: Crack Bellmer, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Juan Diego Drouet is a house and techno artist based in Ecuador, tracked on soun
 
 Sean Gonzalez, Baroma, Culo Sucio
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juandiegodrouet/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juandiegodrouet/)*

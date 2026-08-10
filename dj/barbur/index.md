@@ -1,6 +1,6 @@
 # Barbur
 
-Barbur is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
+Barbur is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
 
 Barbur is a techno and progressive house artist based in Italy, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Frankfurt and Ibiza. Often billed alongside POLS, Ornery and Bonnie Spacey. Next up: TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Barbur is a techno and progressive house artist based in Italy, tracked on sound
 
 POLS, Ornery, Bonnie Spacey
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbur/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbur/)*

@@ -1,14 +1,15 @@
 # Tsunamy
 
-Tsunamy is a Baile Funk and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+Tsunamy is a Baile Funk and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
 
-Tsunamy is a baile funk and club artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Hey Bony, JVINCENT and ARTEM (FR). Next up: Garagen, Cologne on Fri 14 Aug.
+Tsunamy is a baile funk and club artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Hey Bony, JVINCENT and LISAKEEKS. Next up: Garagen, Cologne on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Garagen | Cologne |
+| Fri, 21 Aug 2026 | Egg London | London |
 | Sat, 22 Aug 2026 | Planet Wax | London |
 | Sat, 19 Sept 2026 | Beursschouwburg | Brussels |
 
@@ -25,6 +26,6 @@ Tsunamy is a baile funk and club artist tracked on soundcheck, with 67 sets logg
 
 ## Shares bills with
 
-Hey Bony, JVINCENT, ARTEM (FR)
+Hey Bony, JVINCENT, LISAKEEKS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*

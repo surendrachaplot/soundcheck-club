@@ -1,8 +1,8 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 21 Aug 2026.
+MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 37 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Ushuaïa Ibiza, Ibiza on Fri 21 Aug.
+MPH (1) is a garage and bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 37 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Ushuaïa Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged 
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 29 Oct 2026 | Night We Met | Nashville |
+| Sat, 7 Nov 2026 | Royale | Boston |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 106 sets logged 
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

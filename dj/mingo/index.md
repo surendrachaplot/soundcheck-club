@@ -1,6 +1,6 @@
 # mingo
 
-mingo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OIL Club, Shenzhen on Fri, 14 Aug 2026.
+mingo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OIL Club, Shenzhen on Fri, 14 Aug 2026.
 
 mingo is a techno and house artist tracked on soundcheck, with 56 sets logged across Berlin, Hongkong, Ibiza and Shenzhen. Often billed alongside Jascer, Nebulae and Sirens. Next up: OIL Club, Shenzhen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ mingo is a techno and house artist tracked on soundcheck, with 56 sets logged ac
 
 Jascer, Nebulae, Sirens
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mingo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mingo/)*

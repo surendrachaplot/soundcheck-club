@@ -1,6 +1,6 @@
 # Heidi
 
-Heidi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 19 Sept 2026.
+Heidi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Ulster Sports Club, Belfast on Sat, 19 Sept 2026.
 
 Heidi is a house and techno artist tracked on soundcheck, with 44 sets logged across Barcelona, Belfast, Berlin and Buenosaires and 10 more. Often billed alongside Beman, Joshua James and Erol Alkan. Next up: The Ulster Sports Club, Belfast on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Heidi is a house and techno artist tracked on soundcheck, with 44 sets logged ac
 
 Beman, Joshua James, Erol Alkan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heidi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heidi/)*

@@ -1,13 +1,14 @@
 # luci.
 
-luci. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+luci. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ÆDEN, Berlin on Wed, 12 Aug 2026.
 
-luci. is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Berlin and Lyon. Often billed alongside Amo (IT), August Kind and DJ Pete. Next up: ÆDEN, Berlin on Sun 23 Aug.
+luci. is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin and Lyon. Often billed alongside Amo (IT), August Kind and DJ Pete. Next up: ÆDEN, Berlin on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | ÆDEN | Berlin |
 | Sun, 23 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -20,4 +21,4 @@ luci. is a techno and house artist based in United States of America, tracked on
 
 Amo (IT), August Kind, DJ Pete
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*

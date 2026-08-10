@@ -1,6 +1,6 @@
 # RHAPSODIE
 
-RHAPSODIE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Birgit, Berlin on Fri, 14 Aug 2026.
+RHAPSODIE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Birgit, Berlin on Fri, 14 Aug 2026.
 
 RHAPSODIE is a techno and trance artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin and Geneva. Often billed alongside DJ Jordan, Vero_ and maniaclina. Next up: Birgit, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ RHAPSODIE is a techno and trance artist tracked on soundcheck, with 22 sets logg
 
 DJ Jordan, Vero_, maniaclina
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhapsodie/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhapsodie/)*

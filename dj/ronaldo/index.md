@@ -1,6 +1,6 @@
 # Ronaldo
 
-Ronaldo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Substance Skatepark, New York City on Sat, 26 Sept 2026.
+Ronaldo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Substance Skatepark, New York City on Sat, 26 Sept 2026.
 
 Ronaldo is a house and deep house artist based in Mexico, tracked on soundcheck, with 27 sets logged across Austin, Berlin, Houston and London and 3 more. Often billed alongside KAITO (2), Adrian Hex and JAVS. Next up: Substance Skatepark, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ronaldo is a house and deep house artist based in Mexico, tracked on soundcheck,
 
 KAITO (2), Adrian Hex, JAVS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldo/)*

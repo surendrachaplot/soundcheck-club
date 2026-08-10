@@ -1,6 +1,6 @@
 # Sophie van Hayden
 
-Sophie van Hayden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Sophie van Hayden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Sophie van Hayden is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Fnatik, F!NN and MILAN MILANO. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Sophie van Hayden is a techno and house artist based in Germany, tracked on soun
 
 Fnatik, F!NN, MILAN MILANO
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*

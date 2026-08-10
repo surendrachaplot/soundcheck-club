@@ -1,6 +1,6 @@
 # Stacey Hotwaxx Hale
 
-Stacey Hotwaxx Hale is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at House of Yes, New York City on Sat, 15 Aug 2026.
+Stacey Hotwaxx Hale is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at House of Yes, New York City on Sat, 15 Aug 2026.
 
 Stacey Hotwaxx Hale is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Rimarkable, Ashton Swinton and Darryl G. Next up: House of Yes, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Stacey Hotwaxx Hale is a house and techno artist tracked on soundcheck, with 139
 
 Rimarkable, Ashton Swinton, Darryl G
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*

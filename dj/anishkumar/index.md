@@ -1,14 +1,13 @@
 # Anish Kumar
 
-Anish Kumar is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Anish Kumar is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Good Room, New York City on Fri, 21 Aug 2026.
 
-Anish Kumar is a house and disco artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Brighton and Bristol and 13 more. Often billed alongside Dan Shake, Hagop Tchaparian and Jasper Tygner. Next up: Burgess Park, London on Sun 9 Aug.
+Anish Kumar is a house and disco artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Brighton and Bristol and 13 more. Often billed alongside Dan Shake, Hagop Tchaparian and Jasper Tygner. Next up: Good Room, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Burgess Park | London |
 | Fri, 21 Aug 2026 | Good Room | New York City |
 | Fri, 2 Oct 2026 | Phonox | London |
 | Fri, 9 Oct 2026 | Phonox | London |
@@ -17,6 +16,7 @@ Anish Kumar is a house and disco artist tracked on soundcheck, with 68 sets logg
 
 ## Recently played
 
+- Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 2 Aug 2026
 - The Abbey, Manchester — Sun, 14 Jun 2026
 - Various Venues, London — Sat, 30 May 2026
@@ -24,10 +24,9 @@ Anish Kumar is a house and disco artist tracked on soundcheck, with 68 sets logg
 - Sneaky Pete's, Edinburgh — Fri, 24 Apr 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Apr 2026
 - All My Friends, London — Sun, 5 Apr 2026
-- renae, Manchester — Sun, 22 Mar 2026
 
 ## Shares bills with
 
 Dan Shake, Hagop Tchaparian, Jasper Tygner
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*

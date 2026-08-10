@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Phil Berg" on Mon, 10 Aug 2026.
+VENT is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Phil Berg" on Mon, 10 Aug 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including BANANA-CHAN, Celter, Conures (DJ Tokunaga) and Curses and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with li
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

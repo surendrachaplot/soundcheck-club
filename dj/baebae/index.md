@@ -1,6 +1,6 @@
 # BAE BAE
 
-BAE BAE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 15 Aug 2026.
+BAE BAE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 BAE BAE is a club and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 14 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: The Great Northern, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BAE BAE is a club and techno artist tracked on soundcheck, with 108 sets logged 
 
 DJ Kita, Colored Craig, Cquestt
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*

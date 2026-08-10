@@ -1,6 +1,6 @@
 # Casement
 
-Casement is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
+Casement is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
 
 Casement is a bass and club artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Lara Sinclair, Sea Urchin and JI_2001. Next up: Sneaky Pete's, Edinburgh on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Casement is a bass and club artist based in United Kingdom, tracked on soundchec
 
 Lara Sinclair, Sea Urchin, JI_2001
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casement/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casement/)*

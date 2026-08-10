@@ -1,6 +1,6 @@
 # Lukas Meunier
 
-Lukas Meunier is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 11 Sept 2026.
+Lukas Meunier is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 11 Sept 2026.
 
 Lukas Meunier is a techno and industrial artist based in Germany, tracked on soundcheck, with 62 sets logged across Bangkok, Berlin, Bucharest and Cologne and 16 more. Often billed alongside CAIVA, Michael Klein and PETDuo. Next up: Fridas Pier, Stuttgart on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lukas Meunier is a techno and industrial artist based in Germany, tracked on sou
 
 CAIVA, Michael Klein, PETDuo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*

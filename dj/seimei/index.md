@@ -1,6 +1,6 @@
 # Seimei
 
-Seimei is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 13 Aug 2026.
+Seimei is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 13 Aug 2026.
 
 Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 115 sets logged across Kyoto, Newyorkcity, Osaka and Tokyo. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and MoEPiKA. Next up: Enter Shibuya, Tokyo on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 1
 
 Carpainter, Andrew (TREKKIE TRAX), MoEPiKA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seimei/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seimei/)*

@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
+Byron Yeates is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: DC-10, Ibiza on Mon 10 Aug.
 
@@ -31,4 +31,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 185 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

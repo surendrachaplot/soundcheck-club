@@ -1,6 +1,6 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
+Lea Occhi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
 
 Lea Occhi is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Club der Visionaere, Berlin on Wed 12 Aug.
 
@@ -29,4 +29,4 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 179 sets logg
 
 Toscan Haas, Amotik, Lobster (NL)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

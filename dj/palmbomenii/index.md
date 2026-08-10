@@ -1,6 +1,6 @@
 # Palmbomen II
 
-Palmbomen II is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Time is the new space, Rotterdam on Sat, 29 Aug 2026.
+Palmbomen II is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Time is the new space, Rotterdam on Sat, 29 Aug 2026.
 
 Palmbomen II is an electro and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Antwerp, Brussels and Rotterdam and 1 more. Often billed alongside Bibi Seck, Lil Lawaw and Shoplifter. Next up: Time is the new space, Rotterdam on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Palmbomen II is an electro and house artist tracked on soundcheck, with 8 sets l
 
 Bibi Seck, Lil Lawaw, Shoplifter
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmbomenii/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmbomenii/)*

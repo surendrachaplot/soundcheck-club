@@ -1,6 +1,6 @@
 # Mcfly
 
-Mcfly is a Downtempo and Classical artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Amok Club, Mallorca on Mon, 10 Aug 2026.
+Mcfly is a Downtempo and Classical artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Amok Club, Mallorca on Mon, 10 Aug 2026.
 
 Mcfly is a downtempo and classical artist tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Cologne and Mallorca and 2 more. Often billed alongside Nicole da Silva, Coss and David Benjamin. Next up: Amok Club, Mallorca on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Mcfly is a downtempo and classical artist tracked on soundcheck, with 16 sets lo
 
 Nicole da Silva, Coss, David Benjamin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfly/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfly/)*

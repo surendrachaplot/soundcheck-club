@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
+Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
 
 Musumeci is a house and deep house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 28 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Kater, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Musumeci is a house and deep house artist tracked on soundcheck, with 82 sets lo
 
 Lehar, Frankey & Sandrino, Phunkadelica
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

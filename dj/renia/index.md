@@ -1,6 +1,6 @@
 # RENIA
 
-RENIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
+RENIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
 
 RENIA is a techno and house artist based in Taiwan, tracked on soundcheck, with 2 sets logged across Vienna. Often billed alongside Mischa Beton, Nilya and eyris. Next up: Celeste, Vienna on Sat 22 Aug.
 
@@ -15,4 +15,4 @@ RENIA is a techno and house artist based in Taiwan, tracked on soundcheck, with 
 
 Mischa Beton, Nilya, eyris
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renia/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renia/)*

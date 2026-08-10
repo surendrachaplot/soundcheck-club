@@ -1,6 +1,6 @@
 # Chasers Nightclub
 
-Chasers Nightclub is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "GTA Pres: NOIYSE PROJECT Live at DAWN-DUSK MELBOURNE 2026" on Fri, 11 Sept 2026.
+Chasers Nightclub is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "GTA Pres: NOIYSE PROJECT Live at DAWN-DUSK MELBOURNE 2026" on Fri, 11 Sept 2026.
 
 Chasers Nightclub is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including INFINITY, NOIYSE PROJECT and Taglo. Browse upcoming dates, start times and who's playing. 386 Chapel St, South Yarra VIC 3141, Australia.
 
@@ -14,4 +14,4 @@ Chasers Nightclub is a music venue in Melbourne listed on soundcheck. 1 upcoming
 
 386 Chapel St, South Yarra VIC 3141, Australia, Melbourne
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/chasers-nightclub/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/chasers-nightclub/)*

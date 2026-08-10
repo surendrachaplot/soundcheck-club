@@ -1,6 +1,6 @@
 # Kuantum
 
-Kuantum is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Le Red Room, Montreal on Thu, 13 Aug 2026.
+Kuantum is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Le Red Room, Montreal on Thu, 13 Aug 2026.
 
 Kuantum is a drum & bass and bass artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside BRACE, Deveau and Exploit. Next up: Le Red Room, Montreal on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Kuantum is a drum & bass and bass artist based in Canada, tracked on soundcheck,
 
 BRACE, Deveau, Exploit
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuantum/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuantum/)*

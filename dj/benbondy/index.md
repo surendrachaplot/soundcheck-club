@@ -1,6 +1,6 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Ben Bondy is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Ben Bondy is an ambient and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Succubass and Yumi. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Ben Bondy is an ambient and techno artist based in United States of America, tra
 
 Special Guest DJ, Succubass, Yumi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*

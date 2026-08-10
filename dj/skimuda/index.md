@@ -1,6 +1,6 @@
 # SKIMUDA
 
-SKIMUDA is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 17 Aug 2026.
+SKIMUDA is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 17 Aug 2026.
 
 SKIMUDA is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside Quarterpoundernocheese, Lara Sinclair and monicat. Next up: Sneaky Pete's, Edinburgh on Mon 17 Aug.
 
@@ -22,4 +22,4 @@ SKIMUDA is a bass and experimental artist based in United Kingdom, tracked on so
 
 Quarterpoundernocheese, Lara Sinclair, monicat
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skimuda/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skimuda/)*

@@ -1,6 +1,6 @@
 # Franzi Dries
 
-Franzi Dries is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
+Franzi Dries is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
 
 Franzi Dries is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Frankfurt and Munich. Often billed alongside DJ DRECKISCH, TiDo and DJ HÖRDE. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Franzi Dries is a techno and trance artist based in Germany, tracked on soundche
 
 DJ DRECKISCH, TiDo, DJ HÖRDE
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzidries/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzidries/)*

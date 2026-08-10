@@ -1,6 +1,6 @@
 # HUELLE
 
-HUELLE is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
+HUELLE is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
 
 HUELLE is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 12 sets logged across Cologne and Dusseldorf. Often billed alongside Sneaky Pete, KLING. and LOUVE (DE). Next up: Artheater, Cologne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ HUELLE is a techno and hip-hop artist based in Germany, tracked on soundcheck, w
 
 Sneaky Pete, KLING., LOUVE (DE)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huelle/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huelle/)*

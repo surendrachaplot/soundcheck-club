@@ -1,6 +1,6 @@
 # Denham Audio
 
-Denham Audio is a Breakbeat and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 14 Aug 2026.
+Denham Audio is a Breakbeat and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Public Works, Sanfrancisco on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 144 se
 
 Mani Festo, Rebekah Abdeen, Borai
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*

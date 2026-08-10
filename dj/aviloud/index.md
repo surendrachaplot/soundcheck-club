@@ -1,6 +1,6 @@
 # Avi Loud
 
-Avi Loud is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+Avi Loud is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 Avi Loud is a house and club artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Liano, Oak City Slums and Andy Oro. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Avi Loud is a house and club artist based in United States of America, tracked o
 
 Liano, Oak City Slums, Andy Oro
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aviloud/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aviloud/)*

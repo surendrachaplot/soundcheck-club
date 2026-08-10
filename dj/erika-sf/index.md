@@ -1,6 +1,6 @@
 # erika (SF)
 
-erika (SF) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+erika (SF) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 erika (SF) is a club and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 
 sfcowboy, moth (US), Lexicon
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*

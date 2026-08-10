@@ -1,6 +1,6 @@
 # YELLODY
 
-YELLODY is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
+YELLODY is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
 
 YELLODY is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Ibiza. Often billed alongside Chrissy Meraki, Chrisy Stebbeds and Mr. Root. Next up: Sundara Club, Ibiza on Sat 15 Aug.
 
@@ -15,4 +15,4 @@ YELLODY is a house and balearic artist based in United Kingdom, tracked on sound
 
 Chrissy Meraki, Chrisy Stebbeds, Mr. Root
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellody/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellody/)*

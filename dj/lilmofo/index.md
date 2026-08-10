@@ -1,6 +1,6 @@
 # Lil Mofo
 
-Lil Mofo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Spread, Tokyo on Fri, 14 Aug 2026.
+Lil Mofo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Spread, Tokyo on Fri, 14 Aug 2026.
 
 Lil Mofo is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside OG Militant B, HIBI BLISS and BEENIE PIMP. Next up: Spread, Tokyo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Lil Mofo is a house and techno artist tracked on soundcheck, with 94 sets logged
 
 OG Militant B, HIBI BLISS, BEENIE PIMP
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmofo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmofo/)*

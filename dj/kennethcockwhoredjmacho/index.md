@@ -1,6 +1,6 @@
 # Cockwhore & Macho
 
-Cockwhore & Macho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Byhaven, Copenhagen on Sat, 15 Aug 2026.
+Cockwhore & Macho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Byhaven, Copenhagen on Sat, 15 Aug 2026.
 
 Cockwhore & Macho are a house and techno duo based in Denmark, tracked on soundcheck, with 55 sets logged across Antwerp, Berlin, Copenhagen and Zurich. Often billed alongside Entree, DJ Nah Care and Téa. Next up: Byhaven, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cockwhore & Macho are a house and techno duo based in Denmark, tracked on soundc
 
 Entree, DJ Nah Care, Téa
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethcockwhoredjmacho/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethcockwhoredjmacho/)*

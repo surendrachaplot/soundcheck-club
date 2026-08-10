@@ -1,6 +1,6 @@
 # Benebe
 
-Benebe is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
+Benebe is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
 
 Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across London and Tokyo. Often billed alongside Kafn, DJ Cash in Hand and Adela. Next up: Hoxton Cabin, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck
 
 Kafn, DJ Cash in Hand, Adela
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*

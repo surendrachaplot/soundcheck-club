@@ -1,8 +1,8 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Freight Island Newcastle, Newcastle on Sat, 15 Aug 2026.
+Luke Una is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Freight Island Newcastle, Newcastle on Sat, 15 Aug 2026.
 
-Luke Una is a house and disco artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Freight Island Newcastle, Newcastle on Sat 15 Aug.
+Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Freight Island Newcastle, Newcastle on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Luke Una is a house and disco artist tracked on soundcheck, with 141 sets logged
 | Fri, 16 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | Night Tales | London |
 | Fri, 30 Oct 2026 | Night Tales | London |
+| Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Luke Una is a house and disco artist tracked on soundcheck, with 141 sets logged
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

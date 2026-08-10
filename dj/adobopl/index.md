@@ -1,6 +1,6 @@
 # Adobo (PL)
 
-Adobo (PL) is a Baile Funk and Guaracha artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BarKa, Warsaw on Thu, 20 Aug 2026.
+Adobo (PL) is a Baile Funk and Guaracha artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at BarKa, Warsaw on Thu, 20 Aug 2026.
 
 Adobo (PL) is a baile funk and guaracha artist based in Dominican Republic, tracked on soundcheck, with 34 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Cosaco and Fourth World Music. Next up: BarKa, Warsaw on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Adobo (PL) is a baile funk and guaracha artist based in Dominican Republic, trac
 
 KarateKnur, Cosaco, Fourth World Music
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adobopl/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adobopl/)*

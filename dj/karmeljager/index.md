@@ -1,6 +1,6 @@
 # Karmel Jäger
 
-Karmel Jäger is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Machine Hall, Sydney on Fri, 14 Aug 2026.
+Karmel Jäger is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Machine Hall, Sydney on Fri, 14 Aug 2026.
 
 Karmel Jäger is a techno and garage artist based in Australia, tracked on soundcheck, with 32 sets logged across Berlin, London and Sydney. Often billed alongside Floga, S Smurf and Hotel 84. Next up: Machine Hall, Sydney on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Karmel Jäger is a techno and garage artist based in Australia, tracked on sound
 
 Floga, S Smurf, Hotel 84
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*

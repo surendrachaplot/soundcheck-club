@@ -1,6 +1,6 @@
 # Dychromatic
 
-Dychromatic is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+Dychromatic is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
 
 Dychromatic is a techno and minimal techno artist tracked on soundcheck, with 2 sets logged across Berlin and Copenhagen. Often billed alongside Crisco, DORMA21 and Dudd. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Dychromatic is a techno and minimal techno artist tracked on soundcheck, with 2 
 
 Crisco, DORMA21, Dudd
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dychromatic/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dychromatic/)*

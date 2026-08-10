@@ -1,6 +1,6 @@
 # Agathe Mougin
 
-Agathe Mougin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 15 Aug 2026.
+Agathe Mougin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 15 Aug 2026.
 
 Agathe Mougin is a house and disco artist based in France, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside CAPTNNN', Miura and Acid Washed. Next up: Rumore Nightclub Capri, Naples on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Agathe Mougin is a house and disco artist based in France, tracked on soundcheck
 
 CAPTNNN', Miura, Acid Washed
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agathemougin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agathemougin/)*

@@ -1,6 +1,6 @@
 # DJ Kalin
 
-DJ Kalin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at broad hall., Philadelphia on Sat, 29 Aug 2026.
+DJ Kalin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at broad hall., Philadelphia on Sat, 29 Aug 2026.
 
 DJ Kalin is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Philadelphia. Often billed alongside Fold Theory, JFK (USA) and ANDi MANDi. Next up: broad hall., Philadelphia on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Kalin is a techno and house artist based in United States of America, tracked
 
 Fold Theory, JFK (USA), ANDi MANDi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkalin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkalin/)*

@@ -1,6 +1,6 @@
 # Ben Vince
 
-Ben Vince is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at M.O.T, London on Wed, 2 Sept 2026.
+Ben Vince is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at M.O.T, London on Wed, 2 Sept 2026.
 
 Ben Vince is an experimental and electronica artist tracked on soundcheck, with 19 sets logged across Belgrade, Bristol, Glasgow and Liverpool and 6 more. Often billed alongside Coby Sey, Xterea and Aircode. Next up: M.O.T, London on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Ben Vince is an experimental and electronica artist tracked on soundcheck, with 
 
 Coby Sey, Xterea, Aircode
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benvince/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benvince/)*

@@ -1,14 +1,13 @@
 # Solomun
 
-Solomun is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 9 Aug 2026.
+Solomun is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Pacha Ibiza, Ibiza on Sun, 16 Aug 2026.
 
-Solomun is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: Pacha Ibiza, Ibiza on Sun 9 Aug.
+Solomun is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: Pacha Ibiza, Ibiza on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Pacha Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | [UNVRS] | Ibiza |
 | Sun, 23 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Solomun is a techno and house artist tracked on soundcheck, with 185 sets logged
 | Sat, 19 Sept 2026 | TBA - Palace of Justice  | Brussels |
 | Sun, 20 Sept 2026 | Pacha Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 26 Sept 2026 | Ex Macello | Milan |
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Sun, 9 Aug 2026
 - Pacha Ibiza, Ibiza — Sun, 2 Aug 2026
 - Hardturm Areal, Zurich — Sat, 1 Aug 2026
 - Pacha Ibiza, Ibiza — Sun, 26 Jul 2026
@@ -30,10 +31,9 @@ Solomun is a techno and house artist tracked on soundcheck, with 185 sets logged
 - Pacha Ibiza, Ibiza — Sun, 19 Jul 2026
 - Pacha Ibiza, Ibiza — Sun, 12 Jul 2026
 - Pacha Ibiza, Ibiza — Sun, 5 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Chloé Caillet, DJ Tennis, Johannes Brecht
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

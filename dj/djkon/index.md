@@ -1,6 +1,6 @@
 # DJ Kon
 
-DJ Kon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+DJ Kon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 DJ Kon is a house and disco artist tracked on soundcheck, with 21 sets logged across Boston, Chicago, Detroit and London and 5 more. Often billed alongside Trip Report, DJ Amir and Osunlade. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ Kon is a house and disco artist tracked on soundcheck, with 21 sets logged ac
 
 Trip Report, DJ Amir, Osunlade
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkon/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkon/)*

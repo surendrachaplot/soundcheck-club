@@ -1,6 +1,6 @@
 # SUI 13
 
-SUI 13 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Cupra City Garage Manchester, Manchester on Fri, 28 Aug 2026.
+SUI 13 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Cupra City Garage Manchester, Manchester on Fri, 28 Aug 2026.
 
 SUI 13 is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside Egg On Toast, SHADEV and Chanel Carmichael. Next up: Cupra City Garage Manchester, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ SUI 13 is a house and garage artist based in United Kingdom, tracked on soundche
 
 Egg On Toast, SHADEV, Chanel Carmichael
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sui13/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sui13/)*

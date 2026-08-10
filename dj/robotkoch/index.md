@@ -1,6 +1,6 @@
 # Robot Koch
 
-Robot Koch is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Atemporal, Berlin on Wed, 12 Aug 2026.
+Robot Koch is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Atemporal, Berlin on Wed, 12 Aug 2026.
 
 Robot Koch is an experimental and ambient artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Basel, Berlin and Losangeles and 2 more. Often billed alongside Jeena, Meredi and Anahit Vardanyan. Next up: Atemporal, Berlin on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Robot Koch is an experimental and ambient artist based in Germany, tracked on so
 
 Jeena, Meredi, Anahit Vardanyan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robotkoch/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robotkoch/)*

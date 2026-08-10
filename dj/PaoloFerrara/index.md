@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 22 Aug 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 22 Aug 2026.
 
 Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: TBA - Los Angeles (Warehouse), Losangeles on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 82 set
 
 Lorenzo Raganzini, Alignment, BIIA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

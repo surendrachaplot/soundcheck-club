@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 44 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Touch of Funk" on Fri, 14 Aug 2026.
+The Jazz Cafe is a music venue in London with 44 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Touch of Funk" on Fri, 14 Aug 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 44 upcoming nights, with line-ups including AMANDA SZE, AMARI, Amy Os and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 44 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

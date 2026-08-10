@@ -1,6 +1,6 @@
 # DJ Contest Night at IDK Social BAR
 
-DJ Contest Night at IDK Social BAR on Sat 29 Aug, Toronto. Techno. Preview the line-up and save it on soundcheck.
+DJ Contest Night at IDK Social BAR on Sat 29 Aug, Toronto. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

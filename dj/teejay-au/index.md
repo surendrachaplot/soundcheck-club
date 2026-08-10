@@ -1,6 +1,6 @@
 # TEEJAY
 
-TEEJAY is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
+TEEJAY is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
 
 TEEJAY is a techno and deep house artist based in Australia, tracked on soundcheck, with 14 sets logged across London and Melbourne. Often billed alongside Bby Cass, ADMINISTRATOR and Charlotte Rooney. Next up: Solace, Melbourne on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ TEEJAY is a techno and deep house artist based in Australia, tracked on soundche
 
 Bby Cass, ADMINISTRATOR, Charlotte Rooney
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teejay-au/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teejay-au/)*

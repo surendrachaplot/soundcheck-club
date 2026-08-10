@@ -1,6 +1,6 @@
 # MarshmeLLo
 
-MarshmeLLo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Palais, London on Sat, 26 Sept 2026.
+MarshmeLLo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Palais, London on Sat, 26 Sept 2026.
 
 MarshmeLLo is a house and disco artist tracked on soundcheck, with 34 sets logged across Amsterdam, Copenhagen, Leeds and London. Often billed alongside Leanne Wright, Zakia and Alexander Nut. Next up: Palais, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MarshmeLLo is a house and disco artist tracked on soundcheck, with 34 sets logge
 
 Leanne Wright, Zakia, Alexander Nut
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marshmello/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marshmello/)*

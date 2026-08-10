@@ -1,6 +1,6 @@
 # Cari Lekebusch
 
-Cari Lekebusch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Cari Lekebusch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Cari Lekebusch is a techno and house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Christian AB, Olof Dreijer and Polygonia. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cari Lekebusch is a techno and house artist tracked on soundcheck, with 12 sets 
 
 Christian AB, Olof Dreijer, Polygonia
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*

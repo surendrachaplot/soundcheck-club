@@ -1,6 +1,6 @@
 # Stupid Kozo
 
-Stupid Kozo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Shinjuku Duusraa, Tokyo on Thu, 13 Aug 2026.
+Stupid Kozo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Shinjuku Duusraa, Tokyo on Thu, 13 Aug 2026.
 
 Stupid Kozo is a house and club artist based in Japan, tracked on soundcheck, with 64 sets logged across Osaka and Tokyo. Often billed alongside Submerse, Yamaneko and Andrew (TREKKIE TRAX). Next up: Shinjuku Duusraa, Tokyo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Stupid Kozo is a house and club artist based in Japan, tracked on soundcheck, wi
 
 Submerse, Yamaneko, Andrew (TREKKIE TRAX)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidkozo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidkozo/)*

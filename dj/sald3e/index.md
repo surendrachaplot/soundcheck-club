@@ -1,6 +1,6 @@
 # SALD3E
 
-SALD3E is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
+SALD3E is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Aaja Basement, London on Fri, 14 Aug 2026.
 
 SALD3E is a hip-hop and club artist tracked on soundcheck, with 30 sets logged across London. Often billed alongside Kieran Dotwav, TEBI TV and DotTV. Next up: Aaja Basement, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ SALD3E is a hip-hop and club artist tracked on soundcheck, with 30 sets logged a
 
 Kieran Dotwav, TEBI TV, DotTV
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sald3e/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sald3e/)*

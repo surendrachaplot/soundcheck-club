@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
+Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
 
 Palms Trax is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: The Cause, London on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 193 sets log
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

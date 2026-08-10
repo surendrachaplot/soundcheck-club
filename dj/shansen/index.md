@@ -1,6 +1,6 @@
 # Shansen
 
-Shansen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Culture Box, Copenhagen on Sat, 19 Sept 2026.
+Shansen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Culture Box, Copenhagen on Sat, 19 Sept 2026.
 
 Shansen is a techno and house artist based in Denmark, tracked on soundcheck, with 13 sets logged across Copenhagen. Often billed alongside Tim Andresen, Ivan Ibarra and Gerssein. Next up: Culture Box, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shansen is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 Tim Andresen, Ivan Ibarra, Gerssein
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shansen/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shansen/)*

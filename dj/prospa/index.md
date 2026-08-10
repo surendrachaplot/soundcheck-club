@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 12 Aug 2026.
+Prospa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Santanna Mykonos, Mykonos on Wed, 12 Aug 2026.
 
 Prospa is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Santanna Mykonos, Mykonos on Wed 12 Aug.
 
@@ -36,4 +36,4 @@ Prospa is a house and techno artist tracked on soundcheck, with 175 sets logged 
 
 Seth Troxler, Josh Baker, Sossa
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

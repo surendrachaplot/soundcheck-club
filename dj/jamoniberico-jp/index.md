@@ -1,6 +1,6 @@
 # Jamon Iberico
 
-Jamon Iberico is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 14 Aug 2026.
+Jamon Iberico is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 14 Aug 2026.
 
 Jamon Iberico is a deep house and house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside Ren Yokoi, Kenji Takimi and Omar Santis. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jamon Iberico is a deep house and house artist based in Japan, tracked on soundc
 
 Ren Yokoi, Kenji Takimi, Omar Santis
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamoniberico-jp/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamoniberico-jp/)*

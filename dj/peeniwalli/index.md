@@ -1,6 +1,6 @@
 # Peeni Walli
 
-Peeni Walli is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fuchs2, Prague on Sat, 5 Sept 2026.
+Peeni Walli is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fuchs2, Prague on Sat, 5 Sept 2026.
 
 Peeni Walli is a dancehall and dub artist based in Czech Republic, tracked on soundcheck, with 12 sets logged across Prague. Often billed alongside Altern-8, Ananda (BR) and Dj Alyaz. Next up: Fuchs2, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Peeni Walli is a dancehall and dub artist based in Czech Republic, tracked on so
 
 Altern-8, Ananda (BR), Dj Alyaz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peeniwalli/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peeniwalli/)*

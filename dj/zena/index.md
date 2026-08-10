@@ -1,6 +1,6 @@
 # ZENA
 
-ZENA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+ZENA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 ZENA is a techno and hardcore artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 3 more. Often billed alongside Rivako, OLIV and 2fox. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ZENA is a techno and hardcore artist tracked on soundcheck, with 12 sets logged 
 
 Rivako, OLIV, 2fox
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*

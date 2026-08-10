@@ -1,6 +1,6 @@
 # JESSXO
 
-JESSXO is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 13 Aug 2026.
+JESSXO is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 13 Aug 2026.
 
 JESSXO is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 31 sets logged across Boston, Losangeles, Madrid and Montreal and 4 more. Often billed alongside XXHARDBIT3S, Xana 101 and Tailz. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ JESSXO is a techno and hardcore artist based in United States of America, tracke
 
 XXHARDBIT3S, Xana 101, Tailz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessxo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessxo/)*

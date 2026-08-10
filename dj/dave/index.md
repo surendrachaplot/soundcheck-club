@@ -1,6 +1,6 @@
 # Dave
 
-Dave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
+Dave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bredouille, Berlin on Fri, 14 Aug 2026.
 
 Dave is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Budapest, Kualalumpur and Leeds and 4 more. Often billed alongside Bisk, Emanuel Eisbrenner and Wiebe Roose. Next up: Bredouille, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dave is a techno and house artist tracked on soundcheck, with 28 sets logged acr
 
 Bisk, Emanuel Eisbrenner, Wiebe Roose
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*

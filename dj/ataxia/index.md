@@ -1,6 +1,6 @@
 # Ataxia
 
-Ataxia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
+Ataxia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Marble Bar, Detroit on Fri, 21 Aug 2026.
 
 Ataxia is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Chicago, Detroit, London and Losangeles and 2 more. Often billed alongside Mister Joshooa, The Bernabela Project and Tylr. Next up: Marble Bar, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ataxia is a techno and house artist based in United States of America, tracked o
 
 Mister Joshooa, The Bernabela Project, Tylr
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ataxia/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ataxia/)*

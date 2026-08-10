@@ -1,6 +1,6 @@
 # pip (4)
 
-pip (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at White Space Lab, Tokyo on Thu, 13 Aug 2026.
+pip (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at White Space Lab, Tokyo on Thu, 13 Aug 2026.
 
 pip (4) is a techno and bass artist based in Japan, tracked on soundcheck, with 2 sets logged across Portland and Tokyo. Often billed alongside Aaron Davis, Andy Warren and Black Daria. Next up: White Space Lab, Tokyo on Thu 13 Aug.
 
@@ -18,4 +18,4 @@ pip (4) is a techno and bass artist based in Japan, tracked on soundcheck, with 
 
 Aaron Davis, Andy Warren, Black Daria
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pip-4/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pip-4/)*

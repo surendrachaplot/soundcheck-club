@@ -1,6 +1,6 @@
 # ONYVAA
 
-ONYVAA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+ONYVAA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
 
 ONYVAA is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 25 more. Often billed alongside Anfisa Letyago, Chris Liebing and Indira Paganotto. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ONYVAA is a techno and house artist tracked on soundcheck, with 59 sets logged a
 
 Anfisa Letyago, Chris Liebing, Indira Paganotto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*

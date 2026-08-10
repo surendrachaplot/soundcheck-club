@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Scorpios, Mykonos on Tue, 11 Aug 2026.
+Argy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Scorpios, Mykonos on Tue, 11 Aug 2026.
 
 Argy is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Scorpios, Mykonos on Tue 11 Aug.
 
@@ -27,4 +27,4 @@ Argy is a techno and house artist tracked on soundcheck, with 114 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

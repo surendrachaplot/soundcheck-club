@@ -1,8 +1,8 @@
 # michika
 
-michika is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 14 Aug 2026.
+michika is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 14 Aug 2026.
 
-michika is a techno and house artist based in Japan, tracked on soundcheck, with 55 sets logged across Tokyo. Often billed alongside DJ melody, arow and MICO. Next up: Enter Shibuya, Tokyo on Fri 14 Aug.
+michika is a techno and house artist based in Japan, tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside DJ melody, arow and MICO. Next up: Enter Shibuya, Tokyo on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ michika is a techno and house artist based in Japan, tracked on soundcheck, with
 | Fri, 14 Aug 2026 | Enter Shibuya | Tokyo |
 | Sat, 29 Aug 2026 | Enter Shibuya | Tokyo |
 | Fri, 11 Sept 2026 | TBA -     | Tokyo |
+| Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ michika is a techno and house artist based in Japan, tracked on soundcheck, with
 
 DJ melody, arow, MICO
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michika/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michika/)*

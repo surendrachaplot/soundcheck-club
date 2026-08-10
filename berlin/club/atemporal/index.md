@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Haseeb Iqbal: A Journey Through my Record Bag" on Mon, 10 Aug 2026.
+Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Haseeb Iqbal: A Journey Through my Record Bag" on Mon, 10 Aug 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Haseeb Iqbal, Jeena, Robot Koch and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -18,4 +18,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

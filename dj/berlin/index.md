@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
+BERLIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
 
 BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 38 sets logged across Berlin, Osaka, Paris and Tokyo. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Laigonen Kanonen, V (NYC), Max Muth
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

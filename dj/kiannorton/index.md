@@ -1,6 +1,6 @@
 # Kian Norton
 
-Kian Norton is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
+Kian Norton is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Starlane Pizza Bar, London on Sat, 22 Aug 2026.
 
 Kian Norton is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Tremur, Curly Top and Ethan Flint. Next up: Starlane Pizza Bar, London on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Kian Norton is a house and minimal artist based in United Kingdom, tracked on so
 
 Tremur, Curly Top, Ethan Flint
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiannorton/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiannorton/)*

@@ -1,6 +1,6 @@
 # Just Jam
 
-Just Jam is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Loft, Manchester on Fri, 21 Aug 2026.
+Just Jam is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Loft, Manchester on Fri, 21 Aug 2026.
 
 Just Jam is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside ADMNTi, Laidlaw and Julian Anthony. Next up: The Loft, Manchester on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Just Jam is a house and tech house artist tracked on soundcheck, with 62 sets lo
 
 ADMNTi, Laidlaw, Julian Anthony
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justjam/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justjam/)*

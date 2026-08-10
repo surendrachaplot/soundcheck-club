@@ -1,8 +1,8 @@
 # Corran
 
-Corran is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at XOYO, London on Thu, 13 Aug 2026.
+Corran is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at XOYO, London on Thu, 13 Aug 2026.
 
-Corran is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 97 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Akintore, SOL (8) and Marky Marbles. Next up: XOYO, London on Thu 13 Aug.
+Corran is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Akintore, SOL (8) and Marky Marbles. Next up: XOYO, London on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Corran is a drum & bass and jungle artist based in United Kingdom, tracked on so
 | Thu, 13 Aug 2026 | XOYO | London |
 | Fri, 14 Aug 2026 | La Cheetah Club | Glasgow |
 | Sun, 16 Aug 2026 | Sneaky Pete's | Edinburgh |
+| Wed, 26 Aug 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Corran is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Akintore, SOL (8), Marky Marbles
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corran/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corran/)*

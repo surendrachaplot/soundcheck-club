@@ -1,6 +1,6 @@
 # Magda
 
-Magda is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
+Magda is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Refuge, New York City on Fri, 14 Aug 2026.
 
 Magda is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 47 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Refuge, Newyorkcity on Fri 14 Aug.
 
@@ -31,4 +31,4 @@ Magda is a techno and house artist tracked on soundcheck, with 158 sets logged a
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

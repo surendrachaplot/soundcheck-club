@@ -1,6 +1,6 @@
 # Vitaline
 
-Vitaline is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at essaim, Paris on Fri, 4 Sept 2026.
+Vitaline is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at essaim, Paris on Fri, 4 Sept 2026.
 
 Vitaline is a techno and house artist based in France, tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Brussels and Geneva and 12 more. Often billed alongside Break A Leg, Bassi-fr and Dj Schnake. Next up: essaim, Paris on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Vitaline is a techno and house artist based in France, tracked on soundcheck, wi
 
 Break A Leg, Bassi-fr, Dj Schnake
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*

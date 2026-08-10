@@ -1,6 +1,6 @@
 # Mulo
 
-Mulo is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Smelteverket, Oslo on Sat, 19 Sept 2026.
+Mulo is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Smelteverket, Oslo on Sat, 19 Sept 2026.
 
 Mulo is an afro house and afro tech artist tracked on soundcheck, with 20 sets logged across Oslo. Often billed alongside Epifanov, IHLE and Djuma Soundsystem. Next up: Smelteverket, Oslo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mulo is an afro house and afro tech artist tracked on soundcheck, with 20 sets l
 
 Epifanov, IHLE, Djuma Soundsystem
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mulo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mulo/)*

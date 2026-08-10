@@ -1,13 +1,14 @@
 # L3Ni
 
-L3Ni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
+L3Ni is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Green Room NYC, New York City on Sat, 15 Aug 2026.
 
-L3Ni is a house and disco artist tracked on soundcheck, with 54 sets logged across Chicago, Denver, Detroit and Ibiza and 6 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Fri 25 Sept.
+L3Ni is a house and disco artist tracked on soundcheck, with 55 sets logged across Chicago, Denver, Detroit and Ibiza and 6 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: Green Room NYC, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Green Room NYC | New York City |
 | Fri, 25 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
@@ -26,4 +27,4 @@ L3Ni is a house and disco artist tracked on soundcheck, with 54 sets logged acro
 
 Natasha Diggs, Donis, Melvo Baptiste
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

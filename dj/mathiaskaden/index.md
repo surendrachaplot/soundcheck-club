@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Paal69, Amsterdam on Sun, 16 Aug 2026.
+Mathias Kaden is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Paal69, Amsterdam on Sun, 16 Aug 2026.
 
 Mathias Kaden is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 18 more. Often billed alongside Chris Liebing, VNTM and Annina. Next up: Paal69, Amsterdam on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Mathias Kaden is a techno and house artist tracked on soundcheck, with 67 sets l
 
 Chris Liebing, VNTM, Annina
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

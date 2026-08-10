@@ -1,6 +1,6 @@
 # Pokaska
 
-Pokaska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 10 Aug 2026.
+Pokaska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 10 Aug 2026.
 
 Pokaska is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Tokyo. Often billed alongside chanai, uuu7 and Anapol. Next up: Enter Shibuya, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Pokaska is a techno and house artist based in Japan, tracked on soundcheck, with
 
 chanai, uuu7, Anapol
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pokaska/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pokaska/)*

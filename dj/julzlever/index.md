@@ -1,6 +1,6 @@
 # Julz Lever
 
-Julz Lever is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Nice N Sleazy, Glasgow on Fri, 14 Aug 2026.
+Julz Lever is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Nice N Sleazy, Glasgow on Fri, 14 Aug 2026.
 
 Julz Lever is a techno and electro artist based in Spain, tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside μ_space, A-TØN and Angel Negrin. Next up: Nice N Sleazy, Glasgow on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Julz Lever is a techno and electro artist based in Spain, tracked on soundcheck,
 
 μ_space, A-TØN, Angel Negrin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julzlever/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julzlever/)*

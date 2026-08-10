@@ -1,6 +1,6 @@
 # faisalkon
 
-faisalkon is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
+faisalkon is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
 
 faisalkon is a house and bass artist tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside Zoi (CA), Immigrant Muscle and International Habibi. Next up: The Jama, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ faisalkon is a house and bass artist tracked on soundcheck, with 22 sets logged 
 
 Zoi (CA), Immigrant Muscle, International Habibi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faisalkon/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faisalkon/)*

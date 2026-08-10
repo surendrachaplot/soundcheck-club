@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Julya Karma is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
 Julya Karma is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Julya Karma is a house and techno artist tracked on soundcheck, with 91 sets log
 
 Âme, Jimi Jules, Dixon
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

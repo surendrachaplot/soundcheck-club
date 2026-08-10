@@ -1,6 +1,6 @@
-# ESCAPISM presents: Cassius CLUB 360° + Speciel Guest at Pumpehuset
+# ESCAPISM presents: Cassius Club 360° + Speciel Guest at Pumpehuset
 
-ESCAPISM presents: Cassius CLUB 360° + Speciel Guest at Pumpehuset on Fri 30 Oct, Copenhagen. 1 act on the bill: Cassius. Preview the line-up and save it on soundcheck.
+ESCAPISM presents: Cassius Club 360° + Speciel Guest at Pumpehuset on Fri 30 Oct, Copenhagen. 1 act on the bill: Cassius. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

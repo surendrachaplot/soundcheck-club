@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 31 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Pantheøn" on Sun, 9 Aug 2026.
+Cova Santa is a music venue in Ibiza with 30 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "PIV IBIZA TUESDAYS - August 11" on Tue, 11 Aug 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 31 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 30 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Pantheøn | Matthias Tanzmann |
 | Tue, 11 Aug 2026 | PIV IBIZA TUESDAYS - August 11 | Emvae, Job de Jong, Kamma, Masalo, Moxes, Yass & Mali |
 | Wed, 12 Aug 2026 | WooMooN 10 Year Anniversary | André Hommen, BOHEM, Isadora, Sven Vath, Valentin Huedo |
 | Fri, 14 Aug 2026 | WooMooN | Bora Uzer, EMJIE, Malive, Samm |
@@ -18,9 +17,10 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 31 upcoming nights, w
 | Wed, 19 Aug 2026 | Rumors |  |
 | Fri, 21 Aug 2026 | WooMooN | Bora Uzer, ETNA, Emanuel Satie, Nandu |
 | Sun, 23 Aug 2026 | Pantheøn | Mr. Belt & Wezol |
+| Tue, 25 Aug 2026 | PIV IBIZA TUESDAYS - August 25 | Demi Riquisimo, Job de Jong, Klaudie, Lauren Lo Sung, Lulah Francs, m.O.N.R.O.E. |
 
 ## Address
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

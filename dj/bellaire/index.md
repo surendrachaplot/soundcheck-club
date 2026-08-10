@@ -1,8 +1,8 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Roundhouse, London on Sat, 12 Sept 2026.
+Bellaire is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Roundhouse, London on Sat, 12 Sept 2026.
 
-Bellaire is a house and disco artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 18 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: The Roundhouse, London on Sat 12 Sept.
+Bellaire is a house and disco artist based in France, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 19 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: The Roundhouse, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Bellaire is a house and disco artist based in France, tracked on soundcheck, wit
 | Fri, 16 Oct 2026 | Trix | Antwerp |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
+| Sat, 7 Nov 2026 | Warehouse | Nantes |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Bellaire is a house and disco artist based in France, tracked on soundcheck, wit
 
 Contrecoeur, Armand Van Helden, Breakbot
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*

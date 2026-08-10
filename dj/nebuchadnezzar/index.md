@@ -1,6 +1,6 @@
 # Nebuchadnezzar
 
-Nebuchadnezzar is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
+Nebuchadnezzar is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
 
 Nebuchadnezzar is a techno and bass artist based in United States of America, tracked on soundcheck, with 19 sets logged across Berlin, London, Lyon and Milan and 5 more. Often billed alongside Farsight, Abayomi (US) and Anetha. Next up: Void Club, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Nebuchadnezzar is a techno and bass artist based in United States of America, tr
 
 Farsight, Abayomi (US), Anetha
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nebuchadnezzar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nebuchadnezzar/)*

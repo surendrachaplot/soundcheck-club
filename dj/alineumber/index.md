@@ -1,14 +1,13 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Quinta do Miratejo, Lisbon on Sun, 9 Aug 2026.
+Aline Umber is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
 
-Aline Umber is a house and minimal artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Quinta do Miratejo, Lisbon on Sun 9 Aug.
+Aline Umber is a house and minimal artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: DC-10, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Quinta do Miratejo | Lisbon |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Fri, 21 Aug 2026 | Sunset Park Rooftop | New York City |
@@ -18,6 +17,7 @@ Aline Umber is a house and minimal artist tracked on soundcheck, with 99 sets lo
 
 ## Recently played
 
+- Quinta do Miratejo, Lisbon — Sun, 9 Aug 2026
 - Club der Visionaere, Berlin — Sun, 19 Jul 2026
 - Fvtvr, Paris — Fri, 3 Jul 2026
 - La Terrrazza, Barcelona — Thu, 18 Jun 2026
@@ -25,10 +25,9 @@ Aline Umber is a house and minimal artist tracked on soundcheck, with 99 sets lo
 - Club der Visionaere, Berlin — Mon, 8 Jun 2026
 - H0L0, New York City — Sat, 30 May 2026
 - Lincoln Factory, Detroit — Mon, 25 May 2026
-- Luz De Gas, Barcelona — Sat, 23 May 2026
 
 ## Shares bills with
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

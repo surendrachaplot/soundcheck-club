@@ -1,6 +1,6 @@
 # tiro!
 
-tiro! is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+tiro! is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
 
 tiro! is a techno artist based in South Africa, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside 131bpm, Cooper Cooper and Diamin. Next up: KREUZWERK, Berlin on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ tiro! is a techno artist based in South Africa, tracked on soundcheck, with 1 se
 
 131bpm, Cooper Cooper, Diamin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiro/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiro/)*

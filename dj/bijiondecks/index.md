@@ -1,6 +1,6 @@
 # BIJI ON DECKS
 
-BIJI ON DECKS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+BIJI ON DECKS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 BIJI ON DECKS is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Bélavie, multivitaminmarie and Atze G. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ BIJI ON DECKS is a trance and techno artist based in Germany, tracked on soundch
 
 Bélavie, multivitaminmarie, Atze G
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bijiondecks/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bijiondecks/)*

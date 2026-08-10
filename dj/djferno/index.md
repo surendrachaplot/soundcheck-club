@@ -1,6 +1,6 @@
 # DJ FERNO
 
-DJ FERNO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Concourse Project, Austin on Sat, 29 Aug 2026.
+DJ FERNO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Concourse Project, Austin on Sat, 29 Aug 2026.
 
 DJ FERNO is an afro house and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin. Often billed alongside Brett Johnson, Kunal Merchant and Nyoki. Next up: The Concourse Project, Austin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ FERNO is an afro house and house artist based in United States of America, tr
 
 Brett Johnson, Kunal Merchant, Nyoki
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djferno/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djferno/)*

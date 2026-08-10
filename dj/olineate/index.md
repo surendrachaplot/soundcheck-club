@@ -1,6 +1,6 @@
 # Oli Neate
 
-Oli Neate is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
+Oli Neate is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OXI, Berlin on Sat, 15 Aug 2026.
 
 Oli Neate is a downtempo and house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Copenhagen. Often billed alongside ANNÆLIX, Alissa and Anaté. Next up: OXI, Berlin on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Oli Neate is a downtempo and house artist tracked on soundcheck, with 4 sets log
 
 ANNÆLIX, Alissa, Anaté
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olineate/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olineate/)*

@@ -1,6 +1,6 @@
 # PETRU
 
-PETRU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bar A Bar, London on Sat, 3 Oct 2026.
+PETRU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar A Bar, London on Sat, 3 Oct 2026.
 
 PETRU is a techno and house artist based in France, tracked on soundcheck, with 14 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Ross Harper, Raziel Synesthesia and Acid Carbon. Next up: Bar A Bar, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ PETRU is a techno and house artist based in France, tracked on soundcheck, with 
 
 Ross Harper, Raziel Synesthesia, Acid Carbon
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petru/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petru/)*

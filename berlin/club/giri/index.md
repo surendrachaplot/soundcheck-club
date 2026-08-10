@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Giri x Black Lab" on Thu, 13 Aug 2026.
+Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Giri x Black Lab" on Thu, 13 Aug 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including __iwana__, Blu:sh, Cheap Coffee and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with l
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

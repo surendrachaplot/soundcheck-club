@@ -1,6 +1,6 @@
 # Cincity
 
-Cincity is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
+Cincity is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
 
 Cincity is an afro house and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Basel and Berlin and 12 more. Often billed alongside Philou Louzolo, Benny Rodrigues and Karim Soliman. Next up: Shelter Amsterdam, Amsterdam on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Cincity is an afro house and house artist tracked on soundcheck, with 107 sets l
 
 Philou Louzolo, Benny Rodrigues, Karim Soliman
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cincity/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cincity/)*

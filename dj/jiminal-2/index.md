@@ -1,6 +1,6 @@
 # Jiminal (2)
 
-Jiminal (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Radio Radio, Amsterdam on Thu, 13 Aug 2026.
+Jiminal (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Radio Radio, Amsterdam on Thu, 13 Aug 2026.
 
 Jiminal (2) is a house and disco artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Jakarta. Often billed alongside Meniac, Aram Mukanay and Daiki Fukami. Next up: Radio Radio, Amsterdam on Thu 13 Aug.
 
@@ -22,4 +22,4 @@ Jiminal (2) is a house and disco artist based in Netherlands, tracked on soundch
 
 Meniac, Aram Mukanay, Daiki Fukami
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminal-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminal-2/)*

@@ -1,6 +1,6 @@
 # Poundshop
 
-Poundshop is a Hardcore and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The White Hotel, Manchester on Fri, 28 Aug 2026.
+Poundshop is a Hardcore and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The White Hotel, Manchester on Fri, 28 Aug 2026.
 
 Poundshop is a hardcore and hip-hop artist tracked on soundcheck, with 18 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside Ship Sket, Proc Fiskal and Blood of Aza. Next up: The White Hotel, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Poundshop is a hardcore and hip-hop artist tracked on soundcheck, with 18 sets l
 
 Ship Sket, Proc Fiskal, Blood of Aza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poundshop/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poundshop/)*

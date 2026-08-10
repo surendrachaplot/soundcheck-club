@@ -1,6 +1,6 @@
 # IO Music Academy SF
 
-IO Music Academy SF is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Producing Techno with Taraval" on Sat, 5 Sept 2026.
+IO Music Academy SF is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Producing Techno with Taraval" on Sat, 5 Sept 2026.
 
 IO Music Academy SF is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Taraval. Browse upcoming dates, start times and who's playing. 430 Main Street, San Francisco, CA 91405, USA.
 
@@ -14,4 +14,4 @@ IO Music Academy SF is a music venue in Sanfrancisco listed on soundcheck. 1 upc
 
 430 Main Street, San Francisco, CA 91405, USA, San Francisco/Oakland
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/io-music-academy-sf/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/io-music-academy-sf/)*

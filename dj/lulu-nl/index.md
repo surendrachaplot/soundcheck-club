@@ -1,6 +1,6 @@
 # Lulu (NL)
 
-Lulu (NL) is a Electronica and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sun, 13 Sept 2026.
+Lulu (NL) is a Electronica and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sun, 13 Sept 2026.
 
 Lulu (NL) is an electronica and r&b artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside Conrad Pack, Merel Rhizoom and Otis (BE). Next up: Queen Elizabeth Olympic Park, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Lulu (NL) is an electronica and r&b artist based in Netherlands, tracked on soun
 
 Conrad Pack, Merel Rhizoom, Otis (BE)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-nl/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-nl/)*

@@ -1,6 +1,6 @@
 # Ni-am
 
-Ni-am is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Arch 535, London on Sat, 22 Aug 2026.
+Ni-am is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Arch 535, London on Sat, 22 Aug 2026.
 
 Ni-am is a trance and bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Alien Izz, Mary X and Sleepy Jean. Next up: Arch 535, London on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Ni-am is a trance and bass artist based in United Kingdom, tracked on soundcheck
 
 Alien Izz, Mary X, Sleepy Jean
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ni-am/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ni-am/)*

@@ -1,6 +1,6 @@
 # Sagatxgod
 
-Sagatxgod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
+Sagatxgod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Hyper Radošais Centrs, Riga on Sat, 15 Aug 2026.
 
 Sagatxgod is a techno and house artist based in Latvia, tracked on soundcheck, with 23 sets logged across Riga. Often billed alongside A$PHYXXXÏA, Herren Ivo and Johnny Depo. Next up: TBA - Hyper Radošais Centrs, Riga on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Sagatxgod is a techno and house artist based in Latvia, tracked on soundcheck, w
 
 A$PHYXXXÏA, Herren Ivo, Johnny Depo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sagatxgod/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sagatxgod/)*

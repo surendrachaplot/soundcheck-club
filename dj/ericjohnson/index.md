@@ -1,6 +1,6 @@
 # Eric Johnson
 
-Eric Johnson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
+Eric Johnson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
 
 Eric Johnson is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Budapest and Detroit. Often billed alongside Tony Dennis, Bruce Bailey and Eddie Fowlkes. Next up: TV Lounge, Detroit on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Eric Johnson is a house and deep house artist based in United States of America,
 
 Tony Dennis, Bruce Bailey, Eddie Fowlkes
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericjohnson/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericjohnson/)*

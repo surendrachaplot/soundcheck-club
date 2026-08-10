@@ -1,6 +1,6 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "LED presents Whethan [SOLD OUT]" on Fri, 14 Aug 2026.
+Beach House San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "LED presents Whethan [SOLD OUT]" on Fri, 14 Aug 2026.
 
 Beach House San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nights, with line-ups including 999999999, Ben Sterling, Corren Cavini and EMBRZ (IE) and 2 more. Browse upcoming dates, start times and who's playing. 3125 Ocean Front Walk.
 
@@ -23,4 +23,4 @@ Beach House San Diego is a music venue in Sandiego listed on soundcheck. 11 upco
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

@@ -1,6 +1,6 @@
 # Storgata 26
 
-Storgata 26 is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "DESIRE// RETURN TO LABYRINTH OSLO" on Sat, 12 Sept 2026.
+Storgata 26 is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "DESIRE// RETURN TO LABYRINTH OSLO" on Sat, 12 Sept 2026.
 
 Storgata 26 is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Herbrido. Browse upcoming dates, start times and who's playing. Storgata 26, 0184 Oslo, Norway.
 
@@ -14,4 +14,4 @@ Storgata 26 is a music venue in Oslo listed on soundcheck. 1 upcoming night, wit
 
 Storgata 26, 0184 Oslo, Norway, Oslo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/storgata-26/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/storgata-26/)*

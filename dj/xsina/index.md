@@ -1,6 +1,6 @@
 # X(S)INA
 
-X(S)INA is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+X(S)INA is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 X(S)INA is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside Garrison XR, AIDEL and Alex Falk. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ X(S)INA is a techno and ghetto tech artist based in United States of America, tr
 
 Garrison XR, AIDEL, Alex Falk
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*

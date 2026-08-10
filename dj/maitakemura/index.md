@@ -1,6 +1,6 @@
 # Mai Takemura
 
-Mai Takemura is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
+Mai Takemura is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
 
 Mai Takemura is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside 35DH-1, DAIY and Daisuke Pak. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Mai Takemura is a techno and minimal techno artist based in Japan, tracked on so
 
 35DH-1, DAIY, Daisuke Pak
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maitakemura/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maitakemura/)*

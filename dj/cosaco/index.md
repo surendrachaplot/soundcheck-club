@@ -1,6 +1,6 @@
 # Cosaco
 
-Cosaco is a Reggaeton and Hard Drum artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BarKa, Warsaw on Thu, 20 Aug 2026.
+Cosaco is a Reggaeton and Hard Drum artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at BarKa, Warsaw on Thu, 20 Aug 2026.
 
 Cosaco is a reggaeton and hard drum artist based in Poland, tracked on soundcheck, with 51 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Adobo (PL) and Fourth World Music. Next up: BarKa, Warsaw on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Cosaco is a reggaeton and hard drum artist based in Poland, tracked on soundchec
 
 KarateKnur, Adobo (PL), Fourth World Music
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*

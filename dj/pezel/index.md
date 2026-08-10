@@ -1,6 +1,6 @@
 # pezel
 
-pezel is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kramladen, Vienna on Fri, 14 Aug 2026.
+pezel is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kramladen, Vienna on Fri, 14 Aug 2026.
 
 pezel is a techno and electronica artist tracked on soundcheck, with 29 sets logged across Vienna. Often billed alongside PAUNA, Dcascallana and Angiko (2). Next up: Kramladen, Vienna on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ pezel is a techno and electronica artist tracked on soundcheck, with 29 sets log
 
 PAUNA, Dcascallana, Angiko (2)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pezel/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pezel/)*

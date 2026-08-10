@@ -1,6 +1,6 @@
 # MERILIN
 
-MERILIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
+MERILIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
 
 MERILIN is a techno and house artist based in Sweden, tracked on soundcheck, with 37 sets logged across Stockholm and Tallinn. Often billed alongside CC Luna, Marten Attling and DJ Alban. Next up: Eventhuset, Stockholm on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ MERILIN is a techno and house artist based in Sweden, tracked on soundcheck, wit
 
 CC Luna, Marten Attling, DJ Alban
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merilin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merilin/)*

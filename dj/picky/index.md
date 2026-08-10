@@ -1,6 +1,6 @@
 # PICKY
 
-PICKY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
+PICKY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
 
 PICKY is a techno and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Chito, EWERED and SURJAL. Next up: Simmons Bar | Shoreditch, London on Wed 12 Aug.
 
@@ -14,4 +14,4 @@ PICKY is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Chito, EWERED, SURJAL
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picky/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/picky/)*

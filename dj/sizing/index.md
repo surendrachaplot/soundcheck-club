@@ -1,6 +1,6 @@
 # sizing
 
-sizing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Eden, Ibiza on Tue, 11 Aug 2026.
+sizing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Eden, Ibiza on Tue, 11 Aug 2026.
 
 sizing is a techno and house artist tracked on soundcheck, with 81 sets logged across Ibiza, Malta, Milan and Turin. Often billed alongside Gandalf, Marbox and Mirko Motta. Next up: Eden, Ibiza on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ sizing is a techno and house artist tracked on soundcheck, with 81 sets logged a
 
 Gandalf, Marbox, Mirko Motta
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sizing/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sizing/)*

@@ -1,14 +1,13 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at public records, New York City on Sun, 9 Aug 2026.
+Grace Sands is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 22 Aug 2026.
 
-Grace Sands is a house and deep house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: public records, Newyorkcity on Sun 9 Aug.
+Grace Sands is a house and deep house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | public records | New York City |
 | Sat, 22 Aug 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 | Wed, 2 Sept 2026 | Nocturna | Ibiza |
 | Fri, 4 Sept 2026 | Aaja Basement | London |
@@ -16,6 +15,7 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 135 set
 
 ## Recently played
 
+- public records, New York City — Sun, 9 Aug 2026
 - CLUB RAUM, Amsterdam — Sat, 1 Aug 2026
 - The Glove That Fits, London — Sat, 4 Jul 2026
 - Ballroom at Palais, London — Sat, 4 Jul 2026
@@ -23,10 +23,9 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 135 set
 - fabric, London — Sun, 28 Jun 2026
 - Blackhorse Lane Multiple Venues, London — Sat, 13 Jun 2026
 - Cobalt Studios, Newcastle — Sat, 13 Jun 2026
-- Cobalt Studios, Newcastle — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

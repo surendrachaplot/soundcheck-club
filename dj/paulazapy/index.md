@@ -1,6 +1,6 @@
 # PAULA ZAPY
 
-PAULA ZAPY is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 13 Aug 2026.
+PAULA ZAPY is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 13 Aug 2026.
 
 PAULA ZAPY is a techno and electronica artist based in Spain, tracked on soundcheck, with 50 sets logged across Barcelona and Madrid. Often billed alongside TEEMON&POOMBA, Null Pointer and ADRI.G. Next up: Les Enfants Brillants, Barcelona on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ PAULA ZAPY is a techno and electronica artist based in Spain, tracked on soundch
 
 TEEMON&POOMBA, Null Pointer, ADRI.G
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulazapy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulazapy/)*

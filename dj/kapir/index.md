@@ -1,6 +1,6 @@
 # KAPIR
 
-KAPIR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Level 8 DTLA, Los Angeles on Fri, 14 Aug 2026.
+KAPIR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Level 8 DTLA, Los Angeles on Fri, 14 Aug 2026.
 
 KAPIR is a house and afro house artist tracked on soundcheck, with 4 sets logged across Losangeles and Miami. Often billed alongside PABLoKEY, Evo Twinz and Haze-M. Next up: Level 8 DTLA, Losangeles on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ KAPIR is a house and afro house artist tracked on soundcheck, with 4 sets logged
 
 PABLoKEY, Evo Twinz, Haze-M
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapir/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapir/)*

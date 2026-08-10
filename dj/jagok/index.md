@@ -1,6 +1,6 @@
 # Jago K.
 
-Jago K. is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Minimal Bar, Berlin on Wed, 16 Sept 2026.
+Jago K. is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Minimal Bar, Berlin on Wed, 16 Sept 2026.
 
 Jago K. is an electronic artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Caren Callas, Chris Lustig and Sciarada. Next up: Minimal Bar, Berlin on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Jago K. is an electronic artist tracked on soundcheck, with 17 sets logged acros
 
 Caren Callas, Chris Lustig, Sciarada
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jagok/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jagok/)*

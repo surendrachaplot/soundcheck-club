@@ -1,6 +1,6 @@
 # Mëtro
 
-Mëtro is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
+Mëtro is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hangaren, Copenhagen on Sat, 15 Aug 2026.
 
 Mëtro is a techno and industrial artist based in Denmark, tracked on soundcheck, with 12 sets logged across Copenhagen and Hamburg. Often billed alongside KAMIKAZEM, Midele and Strichkot. Next up: Hangaren, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mëtro is a techno and industrial artist based in Denmark, tracked on soundcheck
 
 KAMIKAZEM, Midele, Strichkot
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*

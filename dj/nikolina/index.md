@@ -1,8 +1,8 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ZEROTOKYO, Tokyo on Mon, 10 Aug 2026.
+Nikolina is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ZEROTOKYO, Tokyo on Mon, 10 Aug 2026.
 
-Nikolina is a techno and industrial artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Austin and Barcelona and 44 more. Often billed alongside Azyr, Restricted and Adrian Mills. Next up: ZEROTOKYO, Tokyo on Mon 10 Aug.
+Nikolina is a techno and industrial artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Azyr, Restricted and Adrian Mills. Next up: ZEROTOKYO, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Nikolina is a techno and industrial artist tracked on soundcheck, with 105 sets 
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | TBA - Secret Location | Toronto |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
+| Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Nikolina is a techno and industrial artist tracked on soundcheck, with 105 sets 
 
 Azyr, Restricted, Adrian Mills
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

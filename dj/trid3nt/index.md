@@ -1,6 +1,6 @@
 # TRID3NT
 
-TRID3NT is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 28 Aug 2026.
+TRID3NT is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 28 Aug 2026.
 
 TRID3NT is a club and hip-hop artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside RYO2, PHILLY (JP) and REXY DEXY. Next up: ZEROTOKYO, Tokyo on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ TRID3NT is a club and hip-hop artist based in Japan, tracked on soundcheck, with
 
 RYO2, PHILLY (JP), REXY DEXY
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trid3nt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trid3nt/)*

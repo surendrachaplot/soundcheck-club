@@ -1,6 +1,6 @@
 # Dari-A
 
-Dari-A is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Tereza Joanne Boat, London on Fri, 4 Sept 2026.
+Dari-A is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Tereza Joanne Boat, London on Fri, 4 Sept 2026.
 
 Dari-A is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London. Often billed alongside Altayef, Lavie Au Soleil and AVANTIME. Next up: Tereza Joanne Boat, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Dari-A is a house and techno artist based in United Kingdom, tracked on soundche
 
 Altayef, Lavie Au Soleil, AVANTIME
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dari-a/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dari-a/)*

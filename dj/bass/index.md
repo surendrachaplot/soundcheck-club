@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Upstairs Jazz Bar and Grill, Montreal on Fri, 14 Aug 2026.
+Bass is a Drum & Bass and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Upstairs Jazz Bar and Grill, Montreal on Fri, 14 Aug 2026.
 
 Bass is a drum & bass and jazz artist tracked on soundcheck, with 107 sets logged across Bali, Bangkok, Barcelona and Basel and 35 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Upstairs Jazz Bar and Grill, Montreal on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Bass is a drum & bass and jazz artist tracked on soundcheck, with 107 sets logge
 
 Jungle (UK), Tekk, A²
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

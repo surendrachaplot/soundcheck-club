@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Mac Declos is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Pablo Bozzi. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -33,4 +33,4 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 182 sets log
 
 Anetha, Lacchesi, Pablo Bozzi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

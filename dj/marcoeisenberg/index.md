@@ -1,6 +1,6 @@
 # Marco Eisenberg
 
-Marco Eisenberg is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Helios37, Cologne on Sat, 12 Sept 2026.
+Marco Eisenberg is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Helios37, Cologne on Sat, 12 Sept 2026.
 
 Marco Eisenberg is a techno and trance artist based in Germany, tracked on soundcheck, with 27 sets logged across Cologne. Often billed alongside Bensonius, DJ Discostoff and DJ SODBRENNEN. Next up: Helios37, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Marco Eisenberg is a techno and trance artist based in Germany, tracked on sound
 
 Bensonius, DJ Discostoff, DJ SODBRENNEN
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoeisenberg/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoeisenberg/)*

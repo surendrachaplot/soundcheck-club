@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "MONDAY ROAST w. Cem Orlow & Nils Ohrmann" on Mon, 10 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "MONDAY ROAST w. Cem Orlow & Nils Ohrmann" on Mon, 10 Aug 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Boy Oh Boy, Cem Orlow, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -17,4 +17,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

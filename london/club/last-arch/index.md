@@ -1,6 +1,6 @@
 # Last Arch
 
-Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "NO DECAF w/ KODY (Leftwing:Kody) | Funktion-one sound system | Underground House" on Fri, 14 Aug 2026.
+Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "NO DECAF w/ KODY (Leftwing:Kody) | Funktion-one sound system | Underground House" on Fri, 14 Aug 2026.
 
 Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, w
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

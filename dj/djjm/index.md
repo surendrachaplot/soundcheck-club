@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 13 Aug 2026.
+DJ JM is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Enter Shibuya, Tokyo on Thu, 13 Aug 2026.
 
 DJ JM is a techno and bass artist tracked on soundcheck, with 53 sets logged across Athens, Berlin, Bristol and Brussels and 14 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: Enter Shibuya, Tokyo on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ DJ JM is a techno and bass artist tracked on soundcheck, with 53 sets logged acr
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

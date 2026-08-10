@@ -1,6 +1,6 @@
 # Konduku
 
-Konduku is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Konduku is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Konduku is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 37 more. Often billed alongside Kia (AU), Woody92 and DJ Nobu. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Konduku is a techno and house artist tracked on soundcheck, with 164 sets logged
 
 Kia (AU), Woody92, DJ Nobu
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

@@ -1,6 +1,6 @@
 # Teddy Kitano
 
-Teddy Kitano is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
+Teddy Kitano is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
 
 Teddy Kitano is a bass and grime artist based in France, tracked on soundcheck, with 17 sets logged across Belgrade, Brussels, Geneva and London and 2 more. Often billed alongside BJF, Big Dope P and Cannonbar. Next up: Planet Wax, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Teddy Kitano is a bass and grime artist based in France, tracked on soundcheck, 
 
 BJF, Big Dope P, Cannonbar
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykitano/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykitano/)*

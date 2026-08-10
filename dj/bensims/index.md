@@ -1,6 +1,6 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Ben Sims is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -34,4 +34,4 @@ Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logge
 
 Oscar Mulero, Rødhåd, Blasha & Allatt
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

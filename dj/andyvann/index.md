@@ -1,6 +1,6 @@
 # Andy Vann
 
-Andy Vann is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vogue Lounge, Auckland on Sat, 22 Aug 2026.
+Andy Vann is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Vogue Lounge, Auckland on Sat, 22 Aug 2026.
 
 Andy Vann is a house and tech house artist based in New Zealand, tracked on soundcheck, with 7 sets logged across Auckland. Often billed alongside Greg Churchill, Mark Farina and Matt Drake. Next up: Vogue Lounge, Auckland on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Andy Vann is a house and tech house artist based in New Zealand, tracked on soun
 
 Greg Churchill, Mark Farina, Matt Drake
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvann/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvann/)*

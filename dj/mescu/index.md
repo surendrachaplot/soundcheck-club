@@ -1,6 +1,6 @@
 # Mescu
 
-Mescu is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
+Mescu is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Starlane Pizza Bar, London on Sun, 23 Aug 2026.
 
 Mescu is a house and minimal techno artist based in Romania, tracked on soundcheck, with 2 sets logged across Copenhagen and London. Often billed alongside Elia Nafzger, FrezZ and Gabski. Next up: Starlane Pizza Bar, London on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ Mescu is a house and minimal techno artist based in Romania, tracked on soundche
 
 Elia Nafzger, FrezZ, Gabski
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mescu/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mescu/)*

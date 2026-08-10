@@ -1,6 +1,6 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "ROLLING BASE PRESENTS COSMIC PORTAL" on Fri, 21 Aug 2026.
+Sooki Lounge is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "ROLLING BASE PRESENTS COSMIC PORTAL" on Fri, 21 Aug 2026.
 
 Sooki Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including AJNA, PHENOMENAL, Renton and WISER. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
@@ -20,4 +20,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming nigh
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

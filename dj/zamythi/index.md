@@ -1,6 +1,6 @@
 # Zamythi
 
-Zamythi is a Neo Perreo and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at El Rio, San Francisco/Oakland on Fri, 21 Aug 2026.
+Zamythi is a Neo Perreo and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at El Rio, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Zamythi is a neo perreo and latin bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles and Sanfrancisco. Often billed alongside Profesito, Cquestt and Azure. Next up: El Rio, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Zamythi is a neo perreo and latin bass artist based in United States of America,
 
 Profesito, Cquestt, Azure
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zamythi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zamythi/)*

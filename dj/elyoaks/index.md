@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at CÉ LA VI Tokyo, Tokyo on Sat, 22 Aug 2026.
+Ely Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at CÉ LA VI Tokyo, Tokyo on Sat, 22 Aug 2026.
 
 Ely Oaks is a techno and house artist tracked on soundcheck, with 35 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 22 more. Often billed alongside BOVSKI, Dimension and SUPERSTRINGS. Next up: CÉ LA VI Tokyo, Tokyo on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Ely Oaks is a techno and house artist tracked on soundcheck, with 35 sets logged
 
 BOVSKI, Dimension, SUPERSTRINGS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

@@ -1,6 +1,6 @@
 # Bulletproof
 
-Bulletproof is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Bulletproof is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Bulletproof is a hardcore and techno artist tracked on soundcheck, with 12 sets logged across Brussels, Frankfurt, Glasgow and Madrid and 1 more. Often billed alongside Partyraiser, Angerfist and DRS. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Bulletproof is a hardcore and techno artist tracked on soundcheck, with 12 sets 
 
 Partyraiser, Angerfist, DRS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bulletproof/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bulletproof/)*

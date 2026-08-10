@@ -1,6 +1,6 @@
 # Úrsula
 
-Úrsula is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
+Úrsula is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 21 Aug 2026.
 
 Úrsula is a house and electro artist based in United States of America, tracked on soundcheck, with 12 sets logged across Mexicocity and Newyorkcity. Often billed alongside Callie Reiff, Choukroun and gabby cocco. Next up: Dead Letter No. 9, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 Callie Reiff, Choukroun, gabby cocco
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/úrsula/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/úrsula/)*

@@ -1,6 +1,6 @@
 # Nameless
 
-Nameless is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Nameless is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Nameless is a techno and psytrance artist based in Italy, tracked on soundcheck, with 7 sets logged across Dusseldorf, Malta and Sydney. Often billed alongside FILSKI, ARTISAH and Chloe Skewesweir. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Nameless is a techno and psytrance artist based in Italy, tracked on soundcheck,
 
 FILSKI, ARTISAH, Chloe Skewesweir
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nameless/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nameless/)*

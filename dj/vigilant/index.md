@@ -1,6 +1,6 @@
 # VIGILANT
 
-VIGILANT is a Downtempo and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Smolna, Warsaw on Wed, 19 Aug 2026.
+VIGILANT is a Downtempo and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Smolna, Warsaw on Wed, 19 Aug 2026.
 
 VIGILANT is a downtempo and afro house artist based in Kazakhstan, tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside LUT (UA), Mi.ON and TAMIRISS. Next up: Smolna, Warsaw on Wed 19 Aug.
 
@@ -21,4 +21,4 @@ VIGILANT is a downtempo and afro house artist based in Kazakhstan, tracked on so
 
 LUT (UA), Mi.ON, TAMIRISS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilant/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilant/)*

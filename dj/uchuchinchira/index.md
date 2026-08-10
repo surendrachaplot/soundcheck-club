@@ -1,6 +1,6 @@
 # 宇宙チンチラ
 
-宇宙チンチラ is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at R Lounge, Tokyo on Fri, 21 Aug 2026.
+宇宙チンチラ is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at R Lounge, Tokyo on Fri, 21 Aug 2026.
 
 宇宙チンチラ is a bass and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside NordOst, MUNÉO and Mars89. Next up: R Lounge, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@
 
 NordOst, MUNÉO, Mars89
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uchuchinchira/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uchuchinchira/)*

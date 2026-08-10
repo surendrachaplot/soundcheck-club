@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SUN > ATG < SET: jardabpm & ninaola" on Thu, 13 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SUN > ATG < SET: jardabpm & ninaola" on Thu, 13 Aug 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -20,4 +20,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 7 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

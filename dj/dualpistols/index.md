@@ -1,6 +1,6 @@
 # Dual Pistols
 
-Dual Pistols is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at KHIDI, Tbilisi on Fri, 14 Aug 2026.
+Dual Pistols is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at KHIDI, Tbilisi on Fri, 14 Aug 2026.
 
 Dual Pistols is a house and techno artist tracked on soundcheck, with 63 sets logged across Athens, Berlin, Hamburg and Milan and 2 more. Often billed alongside Frequency Shifter, Knaughty and OTHR. Next up: KHIDI, Tbilisi on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Dual Pistols is a house and techno artist tracked on soundcheck, with 63 sets lo
 
 Frequency Shifter, Knaughty, OTHR
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dualpistols/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dualpistols/)*

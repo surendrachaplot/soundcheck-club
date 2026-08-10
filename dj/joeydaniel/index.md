@@ -1,6 +1,6 @@
 # Joey Daniel
 
-Joey Daniel is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
+Joey Daniel is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 14 Aug 2026.
 
 Joey Daniel is a tech house and house artist based in Netherlands, tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Joey Daniel is a tech house and house artist based in Netherlands, tracked on so
 
 Marco Carola, Franky Rizardo, Ale De Tuglie
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*

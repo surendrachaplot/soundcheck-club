@@ -1,6 +1,6 @@
 # DJ Haribo
 
-DJ Haribo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
+DJ Haribo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
 
 DJ Haribo is a house and club artist based in Italy, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Al_Massimo, Santi Calvo and Andrea Zadro. Next up: OXI, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Haribo is a house and club artist based in Italy, tracked on soundcheck, with
 
 Al_Massimo, Santi Calvo, Andrea Zadro
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharibo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharibo/)*

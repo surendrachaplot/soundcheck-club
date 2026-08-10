@@ -1,6 +1,6 @@
 # Slow Hodge
 
-Slow Hodge is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+Slow Hodge is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 Slow Hodge is a downtempo and house artist tracked on soundcheck, with 14 sets logged across Barcelona and Mallorca. Often billed alongside Bumpy Jones, DJ Service and VARAN. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Slow Hodge is a downtempo and house artist tracked on soundcheck, with 14 sets l
 
 Bumpy Jones, DJ Service, VARAN
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowhodge/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowhodge/)*

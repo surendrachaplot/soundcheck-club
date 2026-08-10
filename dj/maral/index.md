@@ -1,6 +1,6 @@
 # Maral
 
-Maral is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bar Datcha, Montreal on Fri, 14 Aug 2026.
+Maral is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar Datcha, Montreal on Fri, 14 Aug 2026.
 
 Maral is an experimental and electronica artist tracked on soundcheck, with 30 sets logged across Losangeles, Montreal and Newyorkcity. Often billed alongside Teebs, Colloboh and Kelman Duran. Next up: Bar Datcha, Montreal on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Maral is an experimental and electronica artist tracked on soundcheck, with 30 s
 
 Teebs, Colloboh, Kelman Duran
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maral/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maral/)*

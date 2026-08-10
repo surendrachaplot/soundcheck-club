@@ -1,6 +1,6 @@
 # maevie
 
-maevie is a Trance and IDM artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Stage and Radio, Manchester on Fri, 14 Aug 2026.
+maevie is a Trance and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Stage and Radio, Manchester on Fri, 14 Aug 2026.
 
 maevie is a trance and idm artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and Willow J. Next up: Stage and Radio, Manchester on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ maevie is a trance and idm artist based in United Kingdom, tracked on soundcheck
 
 Lucky Bunny, Princess Elf Bar, Willow J
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*

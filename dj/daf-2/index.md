@@ -1,6 +1,6 @@
 # DAF (2)
 
-DAF (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Now&Wow, Rotterdam on Fri, 6 Nov 2026.
+DAF (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Now&Wow, Rotterdam on Fri, 6 Nov 2026.
 
 DAF (2) is a tech house and house artist based in Netherlands, tracked on soundcheck, with 1 set logged across Rotterdam. Often billed alongside ALISHA and Ozzie Guven. Next up: Now&Wow, Rotterdam on Fri 6 Nov.
 
@@ -14,4 +14,4 @@ DAF (2) is a tech house and house artist based in Netherlands, tracked on soundc
 
 ALISHA, Ozzie Guven
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daf-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daf-2/)*

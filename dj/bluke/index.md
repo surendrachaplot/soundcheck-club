@@ -1,6 +1,6 @@
 # BLUKE
 
-BLUKE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 4 Sept 2026.
+BLUKE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 BLUKE is a tech house and house artist based in Canada, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside Moheato. Next up: 1015 Folsom, Sanfrancisco on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ BLUKE is a tech house and house artist based in Canada, tracked on soundcheck, w
 
 Moheato
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluke/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bluke/)*

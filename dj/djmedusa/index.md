@@ -1,6 +1,6 @@
 # DJ Medusa
 
-DJ Medusa is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
+DJ Medusa is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Trumbullplex, Detroit on Sat, 22 Aug 2026.
 
 DJ Medusa is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit and Newyorkcity. Often billed alongside Ember LaFiamma, AK (US) and Auntie Chanel. Next up: Trumbullplex, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Medusa is a ghetto tech and techno artist based in United States of America, 
 
 Ember LaFiamma, AK (US), Auntie Chanel
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmedusa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmedusa/)*

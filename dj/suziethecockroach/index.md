@@ -1,6 +1,6 @@
 # Suzie The Cockroach
 
-Suzie The Cockroach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Suzie The Cockroach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Suzie The Cockroach is a techno and house artist based in Denmark, tracked on soundcheck, with 34 sets logged across Copenhagen and London. Often billed alongside Dgeral, Britney Speed and Sound and Fury. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Suzie The Cockroach is a techno and house artist based in Denmark, tracked on so
 
 Dgeral, Britney Speed, Sound and Fury
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suziethecockroach/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suziethecockroach/)*

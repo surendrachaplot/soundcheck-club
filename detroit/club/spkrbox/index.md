@@ -1,18 +1,26 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Foggy Sunday" on Sun, 9 Aug 2026.
+Spkrbox is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Locomotion" on Tue, 11 Aug 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Dru Ruiz and Justin James. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including ADRI (LV), AIDEL, Andrea Ghita and Dj Disc and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Foggy Sunday | Dru Ruiz, Justin James |
-| Sat, 29 Aug 2026 | Planet Funk |  |
+| Tue, 11 Aug 2026 | Locomotion | ADRI (LV), AIDEL, hypemelo |
+| Wed, 12 Aug 2026 | Nightcap Detroit | Isaac Prieto |
+| Wed, 12 Aug 2026 | The Peel Back | Loren, RIRKIN |
+| Thu, 13 Aug 2026 | XTRA | Fusegrade, Garrison XR |
+| Fri, 14 Aug 2026 | Interface | Dj Disc |
+| Fri, 14 Aug 2026 | Sissle | Andrea Ghita, Mister Joshooa, something blue |
+| Sat, 15 Aug 2026 | Groove Night |  |
+| Sat, 15 Aug 2026 | Saturday Grind |  |
+| Sat, 15 Aug 2026 | Drama | Tylr |
+| Sun, 16 Aug 2026 | SPKR BRNCH |  |
 
 ## Address
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

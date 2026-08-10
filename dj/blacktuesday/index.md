@@ -1,6 +1,6 @@
 # Black/Tuesday
 
-Black/Tuesday is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Denver, Denver on Sat, 15 Aug 2026.
+Black/Tuesday is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Denver, Denver on Sat, 15 Aug 2026.
 
 Black/Tuesday is a house and techno artist tracked on soundcheck, with 10 sets logged across Denver and Newyorkcity. Often billed alongside Den Of Snakes, CHKLTE and Lidas. Next up: TBA - Denver, Denver on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Black/Tuesday is a house and techno artist tracked on soundcheck, with 10 sets l
 
 Den Of Snakes, CHKLTE, Lidas
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktuesday/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktuesday/)*

@@ -1,6 +1,6 @@
 # Mikasa
 
-Mikasa is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Club Stomp, Osaka on Sat, 15 Aug 2026.
+Mikasa is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Club Stomp, Osaka on Sat, 15 Aug 2026.
 
 Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside KYLE MIKASA, RICKY and Coretex. Next up: Club Stomp, Osaka on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mikasa is a hardcore and gabber artist based in United States of America, tracke
 
 KYLE MIKASA, RICKY, Coretex
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasa/)*

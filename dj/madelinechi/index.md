@@ -1,6 +1,6 @@
 # Madeline (Chi)
 
-Madeline (Chi) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at smartbar, Chicago on Sun, 30 Aug 2026.
+Madeline (Chi) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at smartbar, Chicago on Sun, 30 Aug 2026.
 
 Madeline (Chi) is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Harry Cross, Michael Serafini and Ariel Zetina. Next up: smartbar, Chicago on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Madeline (Chi) is a house and techno artist based in United States of America, t
 
 Harry Cross, Michael Serafini, Ariel Zetina
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madelinechi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madelinechi/)*

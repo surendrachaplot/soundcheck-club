@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "FESTES DE GRACIA .- BACK TO THE 80'S-90'S" on Fri, 14 Aug 2026.
+Garage 442 is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "FESTES DE GRACIA .- BACK TO THE 80'S-90'S" on Fri, 14 Aug 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including NAC Oliver and Vikki. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -16,4 +16,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 3 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

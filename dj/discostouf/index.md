@@ -1,6 +1,6 @@
 # Discostouf
 
-Discostouf is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+Discostouf is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 Discostouf is a trance and techno artist based in France, tracked on soundcheck, with 16 sets logged across Nantes and Sydney. Often billed alongside KOLLER, PALLAR and Hugo Kov. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Discostouf is a trance and techno artist based in France, tracked on soundcheck,
 
 KOLLER, PALLAR, Hugo Kov
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discostouf/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discostouf/)*

@@ -1,6 +1,6 @@
 # Gilez
 
-Gilez is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, London on Fri, 14 Aug 2026.
+Gilez is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, London on Fri, 14 Aug 2026.
 
 Gilez is a house and garage artist tracked on soundcheck, with 16 sets logged across Brighton, London and Newcastle. Often billed alongside Floppy Disk, PHJ.WAV and Blatant Suspects. Next up: TBA, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Gilez is a house and garage artist tracked on soundcheck, with 16 sets logged ac
 
 Floppy Disk, PHJ.WAV, Blatant Suspects
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilez/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gilez/)*

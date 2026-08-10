@@ -1,6 +1,6 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sandro Bianchi at Extreme Barcelona" on Fri, 4 Sept 2026.
+Parc del Fòrum is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sandro Bianchi at Extreme Barcelona" on Fri, 4 Sept 2026.
 
 Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including 6EJOU, Cristobal Pesce, DYEN and Hades and 1 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 10 upcoming 
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

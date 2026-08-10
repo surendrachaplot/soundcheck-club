@@ -1,6 +1,6 @@
 # Edge <3
 
-Edge <3 is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
+Edge <3 is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Goodness Brewing Company, London on Sat, 15 Aug 2026.
 
 Edge <3 is a garage and grime artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside DubFreq (2), Eche. and Agility. Next up: Goodness Brewing Company, London on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Edge <3 is a garage and grime artist based in United Kingdom, tracked on soundch
 
 DubFreq (2), Eche., Agility
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edge3/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edge3/)*

@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Kaufmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Kaufmann is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Kaufmann is a techno and house artist tracked on soundcheck, with 138 sets logge
 
 Leon Licht, Memo., ADAMN
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

@@ -1,6 +1,6 @@
 # DJ SIN (2)
 
-DJ SIN (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bora Bora Mata Resort, Malta on Sat, 5 Sept 2026.
+DJ SIN (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bora Bora Mata Resort, Malta on Sat, 5 Sept 2026.
 
 DJ SIN (2) is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Malta. Next up: Bora Bora Mata Resort, Malta on Sat 5 Sept.
 
@@ -10,4 +10,4 @@ DJ SIN (2) is an electronic artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Bora Bora Mata Resort | Malta |
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsin-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsin-2/)*

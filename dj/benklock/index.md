@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Ben Klock is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -33,4 +33,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 245 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

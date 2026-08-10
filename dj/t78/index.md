@@ -1,6 +1,6 @@
 # T78
 
-T78 is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
+T78 is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Void Club, Berlin on Sat, 15 Aug 2026.
 
 T78 is a techno and acid artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Void Club, Berlin on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ T78 is a techno and acid artist tracked on soundcheck, with 89 sets logged acros
 
 Aphøtic, BIIA, Basswell
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

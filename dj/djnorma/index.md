@@ -1,6 +1,6 @@
 # Dj Norma
 
-Dj Norma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Dj Norma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
 Dj Norma is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin, Cologne, Hamburg and Ibiza and 3 more. Often billed alongside Greta Spark, Power Squad and Biesmans. Next up: Kater, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Dj Norma is a house and techno artist tracked on soundcheck, with 27 sets logged
 
 Greta Spark, Power Squad, Biesmans
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorma/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorma/)*

@@ -1,6 +1,6 @@
 # G33 (UK)
 
-G33 (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Eden, Ibiza on Wed, 26 Aug 2026.
+G33 (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Eden, Ibiza on Wed, 26 Aug 2026.
 
 G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, Glasgow, Ibiza and Leeds and 4 more. Often billed alongside A.N.T, CITIZEN and Hanz. Next up: Eden, Ibiza on Wed 26 Aug.
 
@@ -28,4 +28,4 @@ G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundch
 
 A.N.T, CITIZEN, Hanz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*

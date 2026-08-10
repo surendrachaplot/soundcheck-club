@@ -1,6 +1,6 @@
 # MĪMĪ x FY
 
-MĪMĪ x FY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 21 Aug 2026.
+MĪMĪ x FY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 MĪMĪ x FY are a house and techno duo based in Serbia, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Bali and Barcelona and 14 more. Often billed alongside Jonathan Kaspar, Caleesi and Hardt Antoine. Next up: Pacha Ibiza, Ibiza on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ MĪMĪ x FY are a house and techno duo based in Serbia, tracked on soundcheck, w
 
 Jonathan Kaspar, Caleesi, Hardt Antoine
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixfy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixfy/)*

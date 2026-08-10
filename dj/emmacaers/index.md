@@ -1,6 +1,6 @@
 # Emma Caers
 
-Emma Caers is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at UMI, Brussels on Sat, 22 Aug 2026.
+Emma Caers is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at UMI, Brussels on Sat, 22 Aug 2026.
 
 Emma Caers is a house and electro artist based in Belgium, tracked on soundcheck, with 10 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Nefeli, Atrice and Byron Yeates. Next up: UMI, Brussels on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Emma Caers is a house and electro artist based in Belgium, tracked on soundcheck
 
 Nefeli, Atrice, Byron Yeates
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmacaers/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmacaers/)*

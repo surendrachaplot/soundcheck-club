@@ -1,6 +1,6 @@
 # DJ Kane (1)
 
-DJ Kane (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Distillery N17, London on Fri, 28 Aug 2026.
+DJ Kane (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Distillery N17, London on Fri, 28 Aug 2026.
 
 DJ Kane (1) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside MC Gusto, Decibella and Double O. Next up: Distillery N17, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DJ Kane (1) is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 MC Gusto, Decibella, Double O
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*

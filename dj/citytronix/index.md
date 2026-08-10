@@ -1,6 +1,6 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+CITYTRONIX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
 
 CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: Sui Generis, London on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 
 nohexcode, Modlar, KAVARI
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

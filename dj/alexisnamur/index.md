@@ -1,6 +1,6 @@
 # Alexis Namur
 
-Alexis Namur is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Alexis Namur is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Alexis Namur is a house and minimal artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Ghent and Lisbon and 5 more. Often billed alongside Hoser, Gauvain and Gira (FR). Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Alexis Namur is a house and minimal artist tracked on soundcheck, with 18 sets l
 
 Hoser, Gauvain, Gira (FR)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisnamur/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisnamur/)*

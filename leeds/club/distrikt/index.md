@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth" on Fri, 14 Aug 2026.
+Distrikt is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth" on Fri, 14 Aug 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including Adam Lance, ad*n, Cap and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -19,4 +19,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

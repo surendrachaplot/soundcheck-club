@@ -1,6 +1,6 @@
 # Amygdala
 
-Amygdala is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Amygdala is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Amygdala is a techno and hardcore artist based in Italy, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Brussels and Lyon and 9 more. Often billed alongside Mandragora, sellyourmania and 999999999. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Amygdala is a techno and hardcore artist based in Italy, tracked on soundcheck, 
 
 Mandragora, sellyourmania, 999999999
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*

@@ -1,6 +1,6 @@
 # Y-DAPT
 
-Y-DAPT is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
+Y-DAPT is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Circolo Magnolia, Milan on Sat, 29 Aug 2026.
 
 Y-DAPT is a tech house and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Losangeles and Milan. Often billed alongside MAGNVM!, Gumbelly and STYLOPHONIC. Next up: Circolo Magnolia, Milan on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Y-DAPT is a tech house and house artist tracked on soundcheck, with 62 sets logg
 
 MAGNVM!, Gumbelly, STYLOPHONIC
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y-dapt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y-dapt/)*

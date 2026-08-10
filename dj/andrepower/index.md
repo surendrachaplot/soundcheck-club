@@ -1,6 +1,6 @@
 # Andre Power
 
-Andre Power is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at H0l0 Yard, New York City on Sat, 15 Aug 2026.
+Andre Power is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at H0l0 Yard, New York City on Sat, 15 Aug 2026.
 
 Andre Power is a house and r&b artist based in United States of America, tracked on soundcheck, with 43 sets logged across Berlin, Birmingham, Chicago and Cologne and 11 more. Often billed alongside Bambii, DOUG and FS Green. Next up: H0l0 Yard, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Andre Power is a house and r&b artist based in United States of America, tracked
 
 Bambii, DOUG, FS Green
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*

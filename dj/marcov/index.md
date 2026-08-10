@@ -1,8 +1,8 @@
 # Marco V
 
-Marco V is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Marco V is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
-Marco V is a trance and techno artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Budapest, Edinburgh and Frankfurt and 6 more. Often billed alongside Erick E, Alexander Koning and Dave Leatherman. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
+Marco V is a trance and techno artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Budapest, Edinburgh and Frankfurt and 6 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marco V is a trance and techno artist based in Netherlands, tracked on soundchec
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Sat, 31 Oct 2026 | O2 Academy | Glasgow |
+| Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Marco V is a trance and techno artist based in Netherlands, tracked on soundchec
 
 ## Shares bills with
 
-Erick E, Alexander Koning, Dave Leatherman
+Erick E, Alexander Koning, Lucien Foort
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*

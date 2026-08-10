@@ -1,6 +1,6 @@
 # Di Francesco
 
-Di Francesco is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Macarena Club, Barcelona on Mon, 10 Aug 2026.
+Di Francesco is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Macarena Club, Barcelona on Mon, 10 Aug 2026.
 
 Di Francesco is an electronic artist based in Italy, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Antonio Marrandino and P.A.N.C.H.I.T.O. Next up: Macarena Club, Barcelona on Mon 10 Aug.
 
@@ -18,4 +18,4 @@ Di Francesco is an electronic artist based in Italy, tracked on soundcheck, with
 
 Antonio Marrandino, P.A.N.C.H.I.T.O
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/difrancesco/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/difrancesco/)*

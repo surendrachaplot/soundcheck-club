@@ -1,6 +1,6 @@
 # Thomas + James
 
-Thomas + James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 3 Sept 2026.
+Thomas + James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 3 Sept 2026.
 
 Thomas + James are a house and techno duo based in United Kingdom, tracked on soundcheck, with 37 sets logged across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Iris Pertegaz, Lee Brown and McCart. Next up: La Cheetah Club, Glasgow on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Thomas + James are a house and techno duo based in United Kingdom, tracked on so
 
 Iris Pertegaz, Lee Brown, McCart
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*

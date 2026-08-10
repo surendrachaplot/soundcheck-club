@@ -1,6 +1,6 @@
 # Sacha Harland
 
-Sacha Harland is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Sacha Harland is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
 Sacha Harland is a house and bass artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and London. Often billed alongside Benleh, DETOXX and DJ Sweedee. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Sacha Harland is a house and bass artist based in Netherlands, tracked on soundc
 
 Benleh, DETOXX, DJ Sweedee
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sachaharland/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sachaharland/)*

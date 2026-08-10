@@ -1,6 +1,6 @@
 # Hellgrammite
 
-Hellgrammite is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - La30, Montreal on Tue, 25 Aug 2026.
+Hellgrammite is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - La30, Montreal on Tue, 25 Aug 2026.
 
 Hellgrammite is a techno and bass artist tracked on soundcheck, with 17 sets logged across Montreal. Often billed alongside AAAA, Eris Drew and OJPB. Next up: TBA - La30, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Hellgrammite is a techno and bass artist tracked on soundcheck, with 17 sets log
 
 AAAA, Eris Drew, OJPB
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellgrammite/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellgrammite/)*

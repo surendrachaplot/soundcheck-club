@@ -1,6 +1,6 @@
 # Mickey
 
-Mickey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 16 Aug 2026.
+Mickey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 16 Aug 2026.
 
 Mickey is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Brussels, Newyorkcity, Tokyo and Warsaw. Often billed alongside SIGNAL (JP), Sui (1) and milltea. Next up: Aoyama Hachi, Tokyo on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Mickey is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 SIGNAL (JP), Sui (1), milltea
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyofficial/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyofficial/)*

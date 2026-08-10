@@ -1,6 +1,6 @@
 # ANSR
 
-ANSR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Blank Site, Seoul on Fri, 14 Aug 2026.
+ANSR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Blank Site, Seoul on Fri, 14 Aug 2026.
 
 ANSR is a techno and electro artist based in South Korea, tracked on soundcheck, with 51 sets logged across Melbourne, Seoul and Tokyo. Often billed alongside OYKNI, XXOK and Voiid Alpha. Next up: Blank Site, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ ANSR is a techno and electro artist based in South Korea, tracked on soundcheck,
 
 OYKNI, XXOK, Voiid Alpha
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ansr/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ansr/)*

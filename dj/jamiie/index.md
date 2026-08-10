@@ -1,6 +1,6 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 15 Aug 2026.
+JAMIIE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 JAMIIE is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Hï Ibiza, Ibiza on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ JAMIIE is a house and techno artist tracked on soundcheck, with 97 sets logged a
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

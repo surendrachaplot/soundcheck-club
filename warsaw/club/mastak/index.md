@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "ECLECTIC" on Sun, 9 Aug 2026.
+Mastak is a music venue in Warsaw with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Label Night" on Fri, 14 Aug 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 10 upcoming nights, with line-ups including Dim Rive, Halo Y, JESS.mp5 and Nana_k and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with line-ups including Dim Rive, JESS.mp5, Nightfall and Pean and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | ECLECTIC | Halo Y, Nana_k, Xim (BY) |
 | Fri, 14 Aug 2026 | Label Night | Dim Rive, Salat, Slowmode |
 | Sat, 15 Aug 2026 | L.A.N.L. II – Live Acts All Night Long II |  |
 | Sat, 15 Aug 2026 | L.A.N.L. II – Live Production & Modular Workshops |  |
@@ -23,4 +22,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 10 upcoming nights, with
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

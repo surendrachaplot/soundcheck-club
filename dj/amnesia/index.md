@@ -1,6 +1,6 @@
 # AMNESIA
 
-AMNESIA is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Billy Bootleggers, Nottingham on Sat, 22 Aug 2026.
+AMNESIA is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Billy Bootleggers, Nottingham on Sat, 22 Aug 2026.
 
 AMNESIA is a drum & bass artist based in United States of America, tracked on soundcheck, with 1 set logged across Nottingham. Often billed alongside R2R (1). Next up: Billy Bootleggers, Nottingham on Sat 22 Aug.
 
@@ -14,4 +14,4 @@ AMNESIA is a drum & bass artist based in United States of America, tracked on so
 
 R2R (1)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesia/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesia/)*

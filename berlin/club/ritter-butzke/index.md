@@ -1,8 +1,8 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Keep My Letters" on Fri, 14 Aug 2026.
+Ritter Butzke is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Keep My Letters" on Fri, 14 Aug 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Antic Soul, Asem Shama, Bambi-S and Blame the Booker and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Antic Soul, Asem Shama, Bambi-S and Blame the Booker and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 17 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

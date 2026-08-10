@@ -1,6 +1,6 @@
 # Turno
 
-Turno is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Turno is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Turno is a drum & bass and jungle artist tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Bangkok and Birmingham and 23 more. Often billed alongside Hedex, Bou (UK) and BassLayerz. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Turno is a drum & bass and jungle artist tracked on soundcheck, with 68 sets log
 
 Hedex, Bou (UK), BassLayerz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turno/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turno/)*

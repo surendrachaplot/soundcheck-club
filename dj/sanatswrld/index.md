@@ -1,6 +1,6 @@
 # sanatswrld
 
-sanatswrld is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jupiter Disco, New York City on Wed, 12 Aug 2026.
+sanatswrld is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jupiter Disco, New York City on Wed, 12 Aug 2026.
 
 sanatswrld is a house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Ben Myles, EREZ.JPG and Jeny Michelle. Next up: Jupiter Disco, Newyorkcity on Wed 12 Aug.
 
@@ -19,4 +19,4 @@ sanatswrld is a house artist based in United States of America, tracked on sound
 
 Ben Myles, EREZ.JPG, Jeny Michelle
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanatswrld/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanatswrld/)*

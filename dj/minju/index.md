@@ -1,6 +1,6 @@
 # Minju
 
-Minju is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Minju is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Minju is a house and techno artist based in South Korea, tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt, Munich and Seoul. Often billed alongside Bell Towers, RIP Swirl and 2:cloudy. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Minju is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Bell Towers, RIP Swirl, 2:cloudy
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minju/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minju/)*

@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Freeday Camina - 31 Hertz [USLSS • Alex Stingler & Syn • L'Ouïe • Lior]" on Fri, 14 Aug 2026.
+Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Freeday Camina - 31 Hertz [USLSS • Alex Stingler & Syn • L'Ouïe • Lior]" on Fri, 14 Aug 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Bambounou and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -22,4 +22,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

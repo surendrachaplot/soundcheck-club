@@ -1,6 +1,6 @@
 # Max Haas
 
-Max Haas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Macarena Club, Barcelona on Wed, 26 Aug 2026.
+Max Haas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Macarena Club, Barcelona on Wed, 26 Aug 2026.
 
 Max Haas is a house and deep house artist based in Argentina, tracked on soundcheck, with 56 sets logged across Barcelona and Buenosaires. Often billed alongside ALUSH, Andrew Azara and Kid Moss. Next up: Macarena Club, Barcelona on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Max Haas is a house and deep house artist based in Argentina, tracked on soundch
 
 ALUSH, Andrew Azara, Kid Moss
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianohaas/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianohaas/)*

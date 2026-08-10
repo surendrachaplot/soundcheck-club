@@ -1,8 +1,8 @@
 # Dimitri From Paris
 
-Dimitri From Paris is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Dimitri From Paris is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
-Dimitri From Paris is a house and disco artist tracked on soundcheck, with 100 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
+Dimitri From Paris is a house and disco artist tracked on soundcheck, with 101 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dimitri From Paris is a house and disco artist tracked on soundcheck, with 100 s
 | Sun, 13 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 9 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | WaV | Liverpool |
+| Sat, 7 Nov 2026 | Warehouse | Nantes |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Dimitri From Paris is a house and disco artist tracked on soundcheck, with 100 s
 
 Melvo Baptiste, Melon Bomb, Sophie Lloyd
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*

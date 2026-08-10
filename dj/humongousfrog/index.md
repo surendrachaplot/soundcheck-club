@@ -1,6 +1,6 @@
 # Humongous Frog
 
-Humongous Frog is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Old Towne Pub, Los Angeles on Sun, 16 Aug 2026.
+Humongous Frog is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Old Towne Pub, Los Angeles on Sun, 16 Aug 2026.
 
 Humongous Frog is a techno and experimental artist tracked on soundcheck, with 17 sets logged across Losangeles. Often billed alongside HansiLa, seachael and Fonetikleespelt. Next up: Old Towne Pub, Losangeles on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Humongous Frog is a techno and experimental artist tracked on soundcheck, with 1
 
 HansiLa, seachael, Fonetikleespelt
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humongousfrog/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humongousfrog/)*

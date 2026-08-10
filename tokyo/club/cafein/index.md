@@ -1,6 +1,6 @@
 # Cafein
 
-Cafein is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "SAVANNA" on Mon, 17 Aug 2026.
+Cafein is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "SAVANNA" on Mon, 17 Aug 2026.
 
 Cafein is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Ryota OPP. Browse upcoming dates, start times and who's playing. 2-21-10 Asagaya-Minami, Suginami, Tokyo 166-0004 Japan.
 
@@ -14,4 +14,4 @@ Cafein is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with li
 
 2-21-10 Asagaya-Minami, Suginami, Tokyo 166-0004 Japan, Tokyo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafein/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafein/)*

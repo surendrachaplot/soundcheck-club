@@ -1,6 +1,6 @@
 # T.B.
 
-T.B. is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
+T.B. is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
 
 T.B. is a techno and tech house artist based in Japan, tracked on soundcheck, with 13 sets logged across Osaka, Seoul and Tokyo. Often billed alongside LOQU, Ku'damm and Takashi Mori. Next up: Teranoma Tidepool, Osaka on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ T.B. is a techno and tech house artist based in Japan, tracked on soundcheck, wi
 
 LOQU, Ku'damm, Takashi Mori
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-jp/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-jp/)*

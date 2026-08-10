@@ -1,6 +1,6 @@
 # Constantine Markopoulos
 
-Constantine Markopoulos is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vagabond, Washington DC on Sat, 15 Aug 2026.
+Constantine Markopoulos is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Vagabond, Washington DC on Sat, 15 Aug 2026.
 
 Constantine Markopoulos is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sandiego, Tokyo and Washingtondc. Often billed alongside Sante Visioni, Chamcham and Ground (1). Next up: Vagabond, Washingtondc on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Constantine Markopoulos is a house and deep house artist based in United States 
 
 Sante Visioni, Chamcham, Ground (1)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantinemarkopoulos/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/constantinemarkopoulos/)*

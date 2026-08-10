@@ -1,6 +1,6 @@
 # Ramon Berendes
 
-Ramon Berendes is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
+Ramon Berendes is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
 
 Ramon Berendes is a tech house and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside HÅKK, TRANZ and 5ogol. Next up: BASIS, Utrecht on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Ramon Berendes is a tech house and house artist based in Netherlands, tracked on
 
 HÅKK, TRANZ, 5ogol
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonberendes/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonberendes/)*

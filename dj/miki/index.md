@@ -1,6 +1,6 @@
 # Miki
 
-Miki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
+Miki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Solace, Melbourne on Sat, 22 Aug 2026.
 
 Miki is a house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Alex Picone, Desyn and Gwenan. Next up: Solace, Melbourne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Miki is a house and techno artist tracked on soundcheck, with 37 sets logged acr
 
 Alex Picone, Desyn, Gwenan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miki/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miki/)*

@@ -1,6 +1,6 @@
 # Sanna Mun
 
-Sanna Mun is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Sanna Mun is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Sanna Mun is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 12 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Sanna Mun is a techno and house artist tracked on soundcheck, with 39 sets logge
 
 Amanda Mussi, CONCEPTUAL, Function
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*

@@ -1,6 +1,6 @@
 # Mum & Dad (BE)
 
-Mum & Dad (BE) is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+Mum & Dad (BE) is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
 
 Mum & Dad (BE) are a minimal techno and house duo based in Belgium, tracked on soundcheck, with 5 sets logged across Brussels, Ibiza and London. Often billed alongside Major K, RELO4D and DkA. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Mum & Dad (BE) are a minimal techno and house duo based in Belgium, tracked on s
 
 Major K, RELO4D, DkA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdadbe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdadbe/)*

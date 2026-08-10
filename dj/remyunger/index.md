@@ -1,8 +1,8 @@
 # Remy Unger
 
-Remy Unger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Remy Unger is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
-Remy Unger is a techno and house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Ghent, Rotterdam and Thehague and 1 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
+Remy Unger is a techno and acid artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Ghent, Rotterdam and Thehague and 1 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Remy Unger is a techno and house artist based in Netherlands, tracked on soundch
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Sat, 3 Oct 2026 | Maassilo | Rotterdam |
+| Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Remy Unger is a techno and house artist based in Netherlands, tracked on soundch
 
 Alexander Koning, Lucien Foort, Erick E
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remyunger/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remyunger/)*

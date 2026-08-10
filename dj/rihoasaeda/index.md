@@ -1,13 +1,14 @@
 # RIHO ASAEDA
 
-RIHO ASAEDA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Koara, Tokyo on Thu, 20 Aug 2026.
+RIHO ASAEDA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Aoyama Tunnel, Tokyo on Thu, 13 Aug 2026.
 
-RIHO ASAEDA is a house and techno artist based in Japan, tracked on soundcheck, with 140 sets logged across Amsterdam and Tokyo. Often billed alongside Leo Gabriel, Hayato Iwaki and Yamariki. Next up: Koara, Tokyo on Thu 20 Aug.
+RIHO ASAEDA is a house and techno artist based in Japan, tracked on soundcheck, with 141 sets logged across Amsterdam and Tokyo. Often billed alongside Leo Gabriel, Hayato Iwaki and Yamariki. Next up: Aoyama Tunnel, Tokyo on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Aoyama Tunnel | Tokyo |
 | Thu, 20 Aug 2026 | Koara | Tokyo |
 | Sun, 23 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Thu, 27 Aug 2026 | Koara | Tokyo |
@@ -27,4 +28,4 @@ RIHO ASAEDA is a house and techno artist based in Japan, tracked on soundcheck, 
 
 Leo Gabriel, Hayato Iwaki, Yamariki
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rihoasaeda/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rihoasaeda/)*

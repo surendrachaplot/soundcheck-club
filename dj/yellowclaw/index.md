@@ -1,6 +1,6 @@
 # Yellow Claw
 
-Yellow Claw is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Superior Ingredients, New York City on Sat, 12 Sept 2026.
+Yellow Claw is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Superior Ingredients, New York City on Sat, 12 Sept 2026.
 
 Yellow Claw is a bass and house artist tracked on soundcheck, with 16 sets logged across Berlin, Boston, Chicago and Kyoto and 6 more. Often billed alongside Luude, NATSUMI and REXY DEXY. Next up: Superior Ingredients, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yellow Claw is a bass and house artist tracked on soundcheck, with 16 sets logge
 
 Luude, NATSUMI, REXY DEXY
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowclaw/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowclaw/)*

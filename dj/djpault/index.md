@@ -1,6 +1,6 @@
 # DJ Paul T
 
-DJ Paul T is a Post-Punk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kung Fu Necktie, Philadelphia on Sat, 15 Aug 2026.
+DJ Paul T is a Post-Punk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kung Fu Necktie, Philadelphia on Sat, 15 Aug 2026.
 
 DJ Paul T is a post-punk and electronica artist tracked on soundcheck, with 6 sets logged across Philadelphia. Often billed alongside Kontravoid. Next up: Kung Fu Necktie, Philadelphia on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ DJ Paul T is a post-punk and electronica artist tracked on soundcheck, with 6 se
 
 Kontravoid
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpault/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpault/)*

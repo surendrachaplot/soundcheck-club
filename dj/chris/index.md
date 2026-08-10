@@ -1,6 +1,6 @@
 # Chris Clarke
 
-Chris Clarke is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Floyd, Miami on Fri, 14 Aug 2026.
+Chris Clarke is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Floyd, Miami on Fri, 14 Aug 2026.
 
 Chris Clarke is a house and tech house artist based in Slovakia, tracked on soundcheck, with 1 set logged across Miami. Often billed alongside Ammo Avenue and Natalia Roth. Next up: Floyd, Miami on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ Chris Clarke is a house and tech house artist based in Slovakia, tracked on soun
 
 Ammo Avenue, Natalia Roth
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chris/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chris/)*

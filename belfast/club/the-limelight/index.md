@@ -1,6 +1,6 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SHINE -- Locklead" on Fri, 14 Aug 2026.
+The Limelight is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SHINE -- Locklead" on Fri, 14 Aug 2026.
 
 The Limelight is a music venue in Belfast listed on soundcheck. 7 upcoming nights, with line-ups including ALISHA, Crilli DNB, Locklead and Nick Warren and 2 more. Browse upcoming dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
@@ -20,4 +20,4 @@ The Limelight is a music venue in Belfast listed on soundcheck. 7 upcoming night
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

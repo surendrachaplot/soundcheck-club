@@ -1,6 +1,6 @@
 # Batu
 
-Batu is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Batu is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Batu is a techno and bass artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Batu is a techno and bass artist tracked on soundcheck, with 152 sets logged acr
 
 Ben UFO, Verraco, CCL
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*

@@ -1,6 +1,6 @@
 # Rafael Onid
 
-Rafael Onid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 15 Aug 2026.
+Rafael Onid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at D-EDGE, Sao Paulo on Sat, 15 Aug 2026.
 
 Rafael Onid is a house and techno artist tracked on soundcheck, with 17 sets logged across Saopaulo. Often billed alongside Cesare vs Disorder, Galvin and Adnan Sharif. Next up: D-EDGE, Saopaulo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rafael Onid is a house and techno artist tracked on soundcheck, with 17 sets log
 
 Cesare vs Disorder, Galvin, Adnan Sharif
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelonid/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelonid/)*

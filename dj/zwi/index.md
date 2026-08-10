@@ -1,6 +1,6 @@
 # Zwi
 
-Zwi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dual, Bangkok on Sat, 22 Aug 2026.
+Zwi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Dual, Bangkok on Sat, 22 Aug 2026.
 
 Zwi is a house and techno artist based in Russia, tracked on soundcheck, with 15 sets logged across Bali, Bangkok, Hongkong and Seoul and 2 more. Often billed alongside JAKRIN, Jesse You and Jimin. Next up: Dual, Bangkok on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zwi is a house and techno artist based in Russia, tracked on soundcheck, with 15
 
 JAKRIN, Jesse You, Jimin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*

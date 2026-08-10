@@ -1,6 +1,6 @@
 # Deano
 
-Deano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 14 Aug 2026.
+Deano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 14 Aug 2026.
 
 Deano is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Cologne and Milan and 5 more. Often billed alongside Faretrade, JED (ZA) and Árni. Next up: Fridas Pier, Stuttgart on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Deano is a techno and house artist tracked on soundcheck, with 16 sets logged ac
 
 Faretrade, JED (ZA), Árni
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

@@ -1,6 +1,6 @@
 # Marylou
 
-Marylou is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
+Marylou is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 15 Aug 2026.
 
 Marylou is a club and experimental artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Marco Shuttle and Darwin. Next up: arkaoda Berlin, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Marylou is a club and experimental artist tracked on soundcheck, with 103 sets l
 
 ophélie, Marco Shuttle, Darwin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

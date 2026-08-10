@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "UTOPIA — BIRTHDAY & ANNIVERSARY SPECIAL" on Tue, 11 Aug 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "UTOPIA — BIRTHDAY & ANNIVERSARY SPECIAL" on Tue, 11 Aug 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with line-ups including Mahony, Alexis Cabrera, Antares (UK) and Dubfire and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -23,4 +23,4 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 13 upcoming n
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

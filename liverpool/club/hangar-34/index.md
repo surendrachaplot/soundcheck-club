@@ -1,6 +1,6 @@
 # Hangar 34
 
-Hangar 34 is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Arrested Development" on Sat, 5 Sept 2026.
+Hangar 34 is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Arrested Development" on Sat, 5 Sept 2026.
 
 Hangar 34 is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Arrested Development, Dusky, Eat Static and Eskha and 2 more. Browse upcoming dates, start times and who's playing. 34 Greenland St, Liverpool L1 0BS, United Kingdom.
 
@@ -19,4 +19,4 @@ Hangar 34 is a music venue in Liverpool listed on soundcheck. 6 upcoming nights,
 
 34 Greenland St, Liverpool L1 0BS, United Kingdom, Liverpool
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/hangar-34/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/hangar-34/)*

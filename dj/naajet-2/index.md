@@ -1,6 +1,6 @@
 # Naajet (2)
 
-Naajet (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Badaboum, Paris on Sat, 15 Aug 2026.
+Naajet (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Badaboum, Paris on Sat, 15 Aug 2026.
 
 Naajet (2) is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Lyon and Nantes and 2 more. Often billed alongside LeLeon, Bande de Filles and Goldie B. Next up: Badaboum, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Naajet (2) is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 LeLeon, Bande de Filles, Goldie B
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*

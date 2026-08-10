@@ -1,6 +1,6 @@
 # Selina (DE)
 
-Selina (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
+Selina (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
 
 Selina (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg and Munich. Often billed alongside Maltitz, GOME and Nikklaas. Next up: Tresor / Globus, Berlin on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Selina (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Maltitz, GOME, Nikklaas
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selina-DE/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selina-DE/)*

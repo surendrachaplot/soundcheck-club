@@ -1,6 +1,6 @@
 # experiment 8th anniversary at White Space Lab
 
-experiment 8th anniversary at White Space Lab on Fri 21 Aug, Tokyo. 4 acts on the bill: Askwhy, B.A.R.K, Shogun PVC and ZANTHIIA. Techno and Industrial. Preview the line-up and save it on soundcheck.
+experiment 8th anniversary at White Space Lab on Fri 21 Aug, Tokyo. 5 acts on the bill: Askwhy, B.A.R.K, Shogun PVC and ZANTHIIA and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ experiment 8th anniversary at White Space Lab on Fri 21 Aug, Tokyo. 4 acts on th
 - B.A.R.K
 - Shogun PVC
 - ZANTHIIA
+- 聖体泥棒
 
 *Source: [soundcheck](https://soundcheck.club/e/2508434-experiment-8th-anniversary-at-white-space-lab/)*

@@ -1,6 +1,6 @@
 # Gareth Gray
 
-Gareth Gray is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Redlight, Manchester on Fri, 28 Aug 2026.
+Gareth Gray is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Redlight, Manchester on Fri, 28 Aug 2026.
 
 Gareth Gray is a techno and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Manchester and Newcastle. Often billed alongside Ben Caldwell, Beth Alana and Chop5. Next up: Redlight, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Gareth Gray is a techno and house artist based in United Kingdom, tracked on sou
 
 Ben Caldwell, Beth Alana, Chop5
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garethgray/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garethgray/)*

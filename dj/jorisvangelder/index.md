@@ -1,6 +1,6 @@
 # Joris van Gelder
 
-Joris van Gelder is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Yellow House, Amsterdam on Fri, 14 Aug 2026.
+Joris van Gelder is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Yellow House, Amsterdam on Fri, 14 Aug 2026.
 
 Joris van Gelder is a house artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Azzurro, DOA (2) and Ive Lovers. Next up: Yellow House, Amsterdam on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Joris van Gelder is a house artist tracked on soundcheck, with 4 sets logged acr
 
 Azzurro, DOA (2), Ive Lovers
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*

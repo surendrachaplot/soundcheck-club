@@ -1,14 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 9 Aug 2026.
+Yanamaste is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-Yanamaste is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Amnesia Ibiza, Ibiza on Sun 9 Aug.
+Yanamaste is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 215 sets logg
 | Sat, 12 Sept 2026 | Else | Berlin |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
+| Fri, 18 Sept 2026 | IFEMA | Madrid |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 9 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 215 sets logg
 - Radius, Chicago — Sun, 19 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
-- Fabrik, Madrid — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

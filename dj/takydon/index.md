@@ -1,6 +1,6 @@
 # Takydon
 
-Takydon is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 15 Aug 2026.
+Takydon is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Il Brutto Auckland, Auckland on Sat, 15 Aug 2026.
 
 Takydon is a techno and bass artist tracked on soundcheck, with 26 sets logged across Auckland, Seoul and Sydney. Often billed alongside Concussion, Valks and EMMYJ. Next up: Il Brutto Auckland, Auckland on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Takydon is a techno and bass artist tracked on soundcheck, with 26 sets logged a
 
 Concussion, Valks, EMMYJ
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takydon/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takydon/)*

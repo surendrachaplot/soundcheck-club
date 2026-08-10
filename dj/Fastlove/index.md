@@ -1,6 +1,6 @@
 # Fastlove
 
-Fastlove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The White Hotel, Manchester on Sat, 29 Aug 2026.
+Fastlove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The White Hotel, Manchester on Sat, 29 Aug 2026.
 
 Fastlove is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Rhod Parry. Next up: The White Hotel, Manchester on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Fastlove is a house and techno artist tracked on soundcheck, with 77 sets logged
 
 Aiden Francis, Merve, Rhod Parry
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*

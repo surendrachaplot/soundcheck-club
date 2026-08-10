@@ -1,6 +1,6 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The White Hotel, Manchester on Fri, 14 Aug 2026.
+Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The White Hotel, Manchester on Fri, 14 Aug 2026.
 
 Jon K is a techno and bass artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: The White Hotel, Manchester on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Jon K is a techno and bass artist tracked on soundcheck, with 80 sets logged acr
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

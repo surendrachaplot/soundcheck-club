@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Big Night Live, Boston on Fri, 28 Aug 2026.
+Afrojack is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Big Night Live, Boston on Fri, 28 Aug 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Big Night Live, Boston on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Afrojack is a house and progressive house artist based in Netherlands, tracked o
 
 David Guetta, Paul Reynolds, Francis Mercier
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

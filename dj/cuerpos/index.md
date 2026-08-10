@@ -1,6 +1,6 @@
 # CUERPOS
 
-CUERPOS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cafeteria, Toronto on Fri, 14 Aug 2026.
+CUERPOS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cafeteria, Toronto on Fri, 14 Aug 2026.
 
 CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Ficilio and Kara-Lis Coverdale. Next up: Cafeteria, Toronto on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Dj Hermano, Ficilio, Kara-Lis Coverdale
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*

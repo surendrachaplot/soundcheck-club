@@ -1,6 +1,6 @@
 # aantz
 
-aantz is a Ambient and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
+aantz is a Ambient and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
 
 aantz is an ambient and dub techno artist based in Argentina, tracked on soundcheck, with 9 sets logged across Basel, Berlin and Leipzig. Often billed alongside O/Y, 2THEMAX and ADAM MUNNINGS. Next up: FOUND, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ aantz is an ambient and dub techno artist based in Argentina, tracked on soundch
 
 O/Y, 2THEMAX, ADAM MUNNINGS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*

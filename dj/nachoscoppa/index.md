@@ -1,6 +1,6 @@
 # nachoscoppa
 
-nachoscoppa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+nachoscoppa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 nachoscoppa is a tech house and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ nachoscoppa is a tech house and house artist tracked on soundcheck, with 17 sets
 
 Cuartero, Easttown, Jay de Lys
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*

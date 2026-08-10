@@ -1,6 +1,6 @@
 # Glitch (LDN)
 
-Glitch (LDN) is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
+Glitch (LDN) is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Queen Adelaide, London on Fri, 21 Aug 2026.
 
 Glitch (LDN) is a trance and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside SwearyPrincess, Andy Farley and JUNOHH. Next up: The Queen Adelaide, London on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Glitch (LDN) is a trance and house artist based in United Kingdom, tracked on so
 
 SwearyPrincess, Andy Farley, JUNOHH
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glitchldn/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glitchldn/)*

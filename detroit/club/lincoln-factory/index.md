@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "AD HOC: Alan Fitzpatrick, Draftsman" on Thu, 13 Aug 2026.
+Lincoln Factory is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "AD HOC: Alan Fitzpatrick, Draftsman" on Thu, 13 Aug 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including AK (US), Alan Fitzpatrick, Arlo Parks and Augustus Williams and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -12,7 +12,7 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming ni
 | Fri, 14 Aug 2026 | DJ Stingray 313 | AK (US), Augustus Williams, DJ SPHiNX, DJ Seoul, DJ Stingray 313, Dru Ruiz, Fusegrade, Rebecca Goldberg, Rex Sepulveda, sts (US) |
 | Sat, 15 Aug 2026 | ORIGIN(AL)S OF BOOTY | AK (US), DJ Fingers, Gary Chandler, Nick Speed, RAPHAËL (2), something blue |
 | Sat, 22 Aug 2026 | DJ Nobu - Kyle Geiger - Lincoln Factory | DJ Nobu, Kyle Geiger, LOFILA |
-| Fri, 28 Aug 2026 | GHETTOTECHTOPIA | DJ Godfather, Fullbodydurag, Planet KaiA, Sheefy McFly |
+| Fri, 28 Aug 2026 | GHETTOTECHTOPIA | DJ Godfather, DJ Spinn, Fullbodydurag, Planet KaiA, Sheefy McFly |
 | Fri, 4 Sept 2026 | Helena Hauff | Helena Hauff |
 | Sat, 5 Sept 2026 | Arlo Parks | Arlo Parks |
 | Fri, 11 Sept 2026 | Ivy Lab: A Farewell Tour | Ivy Lab, Rohaan |
@@ -23,4 +23,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming ni
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

@@ -1,6 +1,6 @@
 # Loz Seka
 
-Loz Seka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
+Loz Seka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Egg London, London on Sat, 15 Aug 2026.
 
 Loz Seka is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Brighton, Bristol and London. Often billed alongside AndThen, Better Than Lex and DRSJ. Next up: Egg London, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Loz Seka is a house and tech house artist based in United Kingdom, tracked on so
 
 AndThen, Better Than Lex, DRSJ
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozseka/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozseka/)*

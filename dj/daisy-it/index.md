@@ -1,6 +1,6 @@
 # Daisy-it
 
-Daisy-it is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Eden, Ibiza on Tue, 11 Aug 2026.
+Daisy-it is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Eden, Ibiza on Tue, 11 Aug 2026.
 
 Daisy-it is a techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Ibiza, London, Madrid and Malta. Often billed alongside Mattia Trani, Gianni Di Bernardo and KLOFAMA. Next up: Eden, Ibiza on Tue 11 Aug.
 
@@ -23,4 +23,4 @@ Daisy-it is a techno artist based in Italy, tracked on soundcheck, with 7 sets l
 
 Mattia Trani, Gianni Di Bernardo, KLOFAMA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-it/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-it/)*

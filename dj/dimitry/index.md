@@ -1,6 +1,6 @@
 # Dimitry
 
-Dimitry is a Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
+Dimitry is a Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
 
 Dimitry is a disco and minimal artist tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Lara Bee, Salvo (CA) and Morgan. Next up: Vino Disco, Montreal on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Dimitry is a disco and minimal artist tracked on soundcheck, with 3 sets logged 
 
 Lara Bee, Salvo (CA), Morgan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitry/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitry/)*

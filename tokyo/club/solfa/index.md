@@ -1,6 +1,6 @@
 # Solfa
 
-Solfa is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "THE TWO. - DJ Slowcurv / Ryo Ishikawa" on Mon, 10 Aug 2026.
+Solfa is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "THE TWO. - DJ Slowcurv / Ryo Ishikawa" on Mon, 10 Aug 2026.
 
 Solfa is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Acrocanthosaurus, ATAMI, Ginji and ITSUKI and 2 more. Browse upcoming dates, start times and who's playing. 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan.
 
@@ -19,4 +19,4 @@ Solfa is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with li
 
 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan, Tokyo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/solfa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/solfa/)*

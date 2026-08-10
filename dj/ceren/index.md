@@ -1,6 +1,6 @@
 # CEREN
 
-CEREN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+CEREN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 CEREN is a techno and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Istanbul and Mexicocity. Often billed alongside Beqqi, MIO (ES) and Montezuma (DE). Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CEREN is a techno and electro artist based in Germany, tracked on soundcheck, wi
 
 Beqqi, MIO (ES), Montezuma (DE)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceren/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceren/)*

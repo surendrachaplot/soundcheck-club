@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Motel ✰ PARAMIDA" on Sat, 15 Aug 2026.
+Motel Campo is a music venue in Geneva with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Motel ✰ PARAMIDA" on Sat, 15 Aug 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 3 upcoming nights, with line-ups including Audrey Danza, DJ Nobu, PARAMIDA and Rosa Pistola. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -16,4 +16,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 3 upcoming nights, 
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

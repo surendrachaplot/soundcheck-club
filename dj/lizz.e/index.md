@@ -1,6 +1,6 @@
 # lizz.e
 
-lizz.e is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Radio Radio, Amsterdam on Sat, 22 Aug 2026.
+lizz.e is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Radio Radio, Amsterdam on Sat, 22 Aug 2026.
 
 lizz.e is a tech house and deep house artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Thehague and Utrecht. Often billed alongside Boss Priester, DJ Life and Dennis Quin. Next up: Radio Radio, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ lizz.e is a tech house and deep house artist based in Netherlands, tracked on so
 
 Boss Priester, DJ Life, Dennis Quin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz.e/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz.e/)*

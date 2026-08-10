@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Vibrant: Burnski, Admnti b2b Just Jam ++" on Fri, 21 Aug 2026.
+The Loft is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Vibrant: Burnski, Admnti b2b Just Jam ++" on Fri, 21 Aug 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 16 upcoming nights, with line-ups including KT, ADMNTi, Boss Priester and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 16 upcoming nights
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

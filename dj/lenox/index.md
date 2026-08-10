@@ -1,6 +1,6 @@
 # lenox
 
-lenox is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Lilli Escher, Hamburg on Thu, 13 Aug 2026.
+lenox is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Lilli Escher, Hamburg on Thu, 13 Aug 2026.
 
 lenox is a house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg, Newyorkcity and Toronto. Often billed alongside Andrew Lenox, Aydan XR and Bailey Brown. Next up: Lilli Escher, Hamburg on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ lenox is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 Andrew Lenox, Aydan XR, Bailey Brown
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*

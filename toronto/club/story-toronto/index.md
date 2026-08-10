@@ -1,6 +1,6 @@
 # Story Toronto
 
-Story Toronto is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Eric Luttrell (Anjunadeep): Official Mystical Open Air Afterparty" on Sat, 15 Aug 2026.
+Story Toronto is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Eric Luttrell (Anjunadeep): Official Mystical Open Air Afterparty" on Sat, 15 Aug 2026.
 
 Story Toronto is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Anyasa, EKIN (2), KAS:ST and Katy Rise and 2 more. Browse upcoming dates, start times and who's playing. 214 Adelaide St W, Toronto, ON M5H 1W7, Canada.
 
@@ -17,4 +17,4 @@ Story Toronto is a music venue in Toronto listed on soundcheck. 4 upcoming night
 
 214 Adelaide St W, Toronto, ON M5H 1W7, Canada, Toronto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/story-toronto/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/story-toronto/)*

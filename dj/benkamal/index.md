@@ -1,6 +1,6 @@
 # Ben Kamal
 
-Ben Kamal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lavallée, Brussels on Sat, 15 Aug 2026.
+Ben Kamal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lavallée, Brussels on Sat, 15 Aug 2026.
 
 Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: Lavallée, Brussels on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, 
 
 Lola Haro, Dana Kuehr, Walrus
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*

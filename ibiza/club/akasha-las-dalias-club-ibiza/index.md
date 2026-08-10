@@ -1,14 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 61 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Nido" on Sun, 9 Aug 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 60 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Peace N´Music" on Mon, 10 Aug 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 61 upcoming nights, with line-ups including Alay, Alfonso Ares, Alicia Hahn and Amine K and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 60 upcoming nights, with line-ups including Alay, Alfonso Ares, Alicia Hahn and Andy Baxter and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Nido | Amine K, Nico Moon, Words of Niō, tonton |
 | Mon, 10 Aug 2026 | Peace N´Music | DJ Pippi, Willie Graff |
 | Tue, 11 Aug 2026 | Borealis |  |
 | Tue, 11 Aug 2026 | Ethereal | Clint Lee, Maura Loe, Sorä |
@@ -18,9 +17,10 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 6
 | Sat, 15 Aug 2026 | SUPERNOVA x YES YES YES | EMJIE, LP Giobbi, Supernova |
 | Sun, 16 Aug 2026 | Nido | Alicia Hahn, Fatboy Slim, Oriol Calvo |
 | Mon, 17 Aug 2026 | Peace N´Music - II Aniversario | DJ Pippi, Willie Graff |
+| Tue, 18 Aug 2026 | Borealis |  |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

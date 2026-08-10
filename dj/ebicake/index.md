@@ -1,6 +1,6 @@
 # Ebicake
 
-Ebicake is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ://about blank, Berlin on Wed, 12 Aug 2026.
+Ebicake is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Wed, 12 Aug 2026.
 
 Ebicake is a techno and electro artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Leipzig. Often billed alongside Fredsn, Sebastian Strootmann and ACKC. Next up: ://about blank, Berlin on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Ebicake is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 Fredsn, Sebastian Strootmann, ACKC
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*

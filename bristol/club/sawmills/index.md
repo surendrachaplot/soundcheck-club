@@ -1,6 +1,6 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is " Sawmills Open Air" on Sat, 5 Sept 2026.
+Sawmills is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is " Sawmills Open Air" on Sat, 5 Sept 2026.
 
 Sawmills is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including A.M.C., AD (UK), Anton X and Atlas (2) and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
@@ -17,4 +17,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 4 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

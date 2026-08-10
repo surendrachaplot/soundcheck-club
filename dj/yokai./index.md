@@ -1,6 +1,6 @@
 # Yōkai.
 
-Yōkai. is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jardin Hospice, Brussels on Sat, 15 Aug 2026.
+Yōkai. is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jardin Hospice, Brussels on Sat, 15 Aug 2026.
 
 Yōkai. is a trance and techno artist based in Belgium, tracked on soundcheck, with 2 sets logged across Brussels. Often billed alongside TeaOtim. Next up: Jardin Hospice, Brussels on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Yōkai. is a trance and techno artist based in Belgium, tracked on soundcheck, w
 
 TeaOtim
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokai./)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokai./)*

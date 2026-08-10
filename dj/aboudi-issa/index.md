@@ -1,6 +1,6 @@
 # Aboudi Issa
 
-Aboudi Issa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
+Aboudi Issa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
 
 Aboudi Issa is a techno and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Detroit, Newyorkcity and Washingtondc. Often billed alongside Jesse Cory, Salar Ansari and Andrea Ghita. Next up: TV Lounge, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Aboudi Issa is a techno and house artist based in United States of America, trac
 
 Jesse Cory, Salar Ansari, Andrea Ghita
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aboudi-issa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aboudi-issa/)*

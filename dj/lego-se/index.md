@@ -1,14 +1,15 @@
 # lego
 
-lego is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Eventhuset, Stockholm on Sat, 22 Aug 2026.
+lego is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Eventhuset, Stockholm on Sat, 22 Aug 2026.
 
-lego is a house and techno artist based in Sweden, tracked on soundcheck, with 17 sets logged across Bangkok, Berlin, Chicago and Porto and 2 more. Often billed alongside Brett Rästas, Franz Jäger and Adorio. Next up: Eventhuset, Stockholm on Sat 22 Aug.
+lego is a house and deep house artist based in Sweden, tracked on soundcheck, with 18 sets logged across Bangkok, Berlin, Chicago and Porto and 2 more. Often billed alongside Adorio, Brett Rästas and Franz Jäger. Next up: Eventhuset, Stockholm on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Eventhuset | Stockholm |
+| Sat, 29 Aug 2026 | Navy Pier | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ lego is a house and techno artist based in Sweden, tracked on soundcheck, with 1
 
 ## Shares bills with
 
-Brett Rästas, Franz Jäger, Adorio
+Adorio, Brett Rästas, Franz Jäger
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lego-se/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lego-se/)*

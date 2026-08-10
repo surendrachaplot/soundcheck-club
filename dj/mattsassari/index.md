@@ -1,6 +1,6 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Matt Sassari is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Matt Sassari is a techno and tech house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 31 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -27,4 +27,4 @@ Matt Sassari is a techno and tech house artist tracked on soundcheck, with 67 se
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

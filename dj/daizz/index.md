@@ -1,6 +1,6 @@
 # Daizz
 
-Daizz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Cat Alley Street, San Francisco/Oakland on Thu, 13 Aug 2026.
+Daizz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Cat Alley Street, San Francisco/Oakland on Thu, 13 Aug 2026.
 
 Daizz is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Sanfrancisco. Often billed alongside Erik Vehmeyer, Wyllie and Louiv. Next up: Cat Alley Street, Sanfrancisco on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Daizz is a house and deep house artist based in United States of America, tracke
 
 Erik Vehmeyer, Wyllie, Louiv
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daizz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daizz/)*

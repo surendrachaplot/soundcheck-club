@@ -1,6 +1,6 @@
 # The Chainsmokers
 
-The Chainsmokers is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 10 Aug 2026.
+The Chainsmokers is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 10 Aug 2026.
 
 The Chainsmokers is a house and bass artist based in United States of America, tracked on soundcheck, with 18 sets logged across Bali, Brisbane, Ibiza and Losangeles and 8 more. Often billed alongside Alesso, Gryffin and Tiesto. Next up: Ushuaïa Ibiza, Ibiza on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ The Chainsmokers is a house and bass artist based in United States of America, t
 
 Alesso, Gryffin, Tiesto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*

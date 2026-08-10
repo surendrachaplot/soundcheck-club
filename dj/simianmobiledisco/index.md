@@ -1,6 +1,6 @@
 # Simian Mobile Disco
 
-Simian Mobile Disco is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Simian Mobile Disco is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Simian Mobile Disco is a house and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside 2ManyDJs, Alexis Taylor and Erol Alkan. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Simian Mobile Disco is a house and club artist based in United Kingdom, tracked 
 
 2ManyDJs, Alexis Taylor, Erol Alkan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simianmobiledisco/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simianmobiledisco/)*

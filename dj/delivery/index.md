@@ -1,6 +1,6 @@
 # Delivery
 
-Delivery is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Delivery is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Delivery is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Sydney. Often billed alongside 1tbsp, Antenna (2) and C.FRIM. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -14,4 +14,4 @@ Delivery is an electronic artist based in United States of America, tracked on s
 
 1tbsp, Antenna (2), C.FRIM
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delivery/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delivery/)*

@@ -1,6 +1,6 @@
 # Tabbara
 
-Tabbara is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
+Tabbara is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
 
 Tabbara is a house and tech house artist based in Canada, tracked on soundcheck, with 41 sets logged across Montreal and Toronto. Often billed alongside Pasha, RUDEE NIK and Maves. Next up: Valerie Toronto, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tabbara is a house and tech house artist based in Canada, tracked on soundcheck,
 
 Pasha, RUDEE NIK, Maves
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tabbara/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tabbara/)*

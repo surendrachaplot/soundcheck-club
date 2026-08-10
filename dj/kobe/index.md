@@ -1,6 +1,6 @@
 # Kobe
 
-Kobe is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bukanyr Boat, Prague on Fri, 21 Aug 2026.
+Kobe is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bukanyr Boat, Prague on Fri, 21 Aug 2026.
 
 Kobe is a house and trance artist based in Czech Republic, tracked on soundcheck, with 18 sets logged across Prague and Tbilisi. Often billed alongside Cubik, Da Moon and Sadmedaisi. Next up: Bukanyr Boat, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kobe is a house and trance artist based in Czech Republic, tracked on soundcheck
 
 Cubik, Da Moon, Sadmedaisi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobe/)*

@@ -1,13 +1,14 @@
 # Sinqmin
 
-Sinqmin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Modeci, Seoul on Fri, 14 Aug 2026.
+Sinqmin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Numm, Tokyo on Mon, 10 Aug 2026.
 
-Sinqmin is a house and techno artist tracked on soundcheck, with 71 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lonho, Sekitova and Pine. Next up: Modeci, Seoul on Fri 14 Aug.
+Sinqmin is a house and techno artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lonho, Sekitova and Pine. Next up: Numm, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 10 Aug 2026 | Numm | Tokyo |
 | Fri, 14 Aug 2026 | Modeci | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sinqmin is a house and techno artist tracked on soundcheck, with 71 sets logged 
 
 Lonho, Sekitova, Pine
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinqmin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinqmin/)*

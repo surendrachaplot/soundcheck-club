@@ -1,14 +1,13 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Superior Ingredients, New York City on Sun, 9 Aug 2026.
+OGUZ is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
-OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Superior Ingredients, Newyorkcity on Sun 9 Aug.
+OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Arzenal, Budapest on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Superior Ingredients | New York City |
 | Wed, 19 Aug 2026 | Arzenal | Budapest |
 | Fri, 21 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,6 +19,7 @@ OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged ac
 
 ## Recently played
 
+- Superior Ingredients, New York City — Sun, 9 Aug 2026
 - Club Phoenix - Gianpula Village, Malta — Sat, 25 Jul 2026
 - Kosmaj Monument, Belgrade — Fri, 19 Jun 2026
 - Atlantic Sound, Barcelona — Thu, 18 Jun 2026
@@ -27,10 +27,9 @@ OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged ac
 - Kømplex Lisbon, Lisbon — Wed, 3 Jun 2026
 - OST, Berlin — Fri, 22 May 2026
 - Parc Floral De Paris, Paris — Fri, 8 May 2026
-- Slaktkyrkan, Stockholm — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Basswell, DYEN, Nico Moreno
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

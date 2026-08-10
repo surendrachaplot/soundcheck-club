@@ -1,6 +1,6 @@
 # Alex Cahe
 
-Alex Cahe is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Switch Bar, Barcelona on Sat, 15 Aug 2026.
+Alex Cahe is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Switch Bar, Barcelona on Sat, 15 Aug 2026.
 
 Alex Cahe is an electronic artist tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside John Schüller, DJ Lupen and Deckard. Next up: Switch Bar, Barcelona on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Alex Cahe is an electronic artist tracked on soundcheck, with 11 sets logged acr
 
 John Schüller, DJ Lupen, Deckard
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcahe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcahe/)*

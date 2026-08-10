@@ -1,6 +1,6 @@
 # NGL (NL)
 
-NGL (NL) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 14 Aug 2026.
+NGL (NL) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 14 Aug 2026.
 
 NGL (NL) is a techno and hardcore artist tracked on soundcheck, with 6 sets logged across Belfast, Cologne, Glasgow and Nurnberg and 1 more. Often billed alongside LOOKY, Cassa Cristano and Charlie. Next up: Airport Würzburg, Nurnberg on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ NGL (NL) is a techno and hardcore artist tracked on soundcheck, with 6 sets logg
 
 LOOKY, Cassa Cristano, Charlie
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*

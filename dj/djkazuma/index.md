@@ -1,6 +1,6 @@
 # DJ KAZUMA
 
-DJ KAZUMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mitsuki, Tokyo on Sat, 15 Aug 2026.
+DJ KAZUMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mitsuki, Tokyo on Sat, 15 Aug 2026.
 
 DJ KAZUMA is a techno and house artist tracked on soundcheck, with 29 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, YAMA(JP/OSK) and Endurance. Next up: Mitsuki, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ KAZUMA is a techno and house artist tracked on soundcheck, with 29 sets logge
 
 AOKI takamasa, YAMA(JP/OSK), Endurance
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*

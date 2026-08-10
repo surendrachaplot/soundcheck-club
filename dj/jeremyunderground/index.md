@@ -1,6 +1,6 @@
 # Jeremy Underground
 
-Jeremy Underground is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kilomètre25, Paris on Sat, 15 Aug 2026.
+Jeremy Underground is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kilomètre25, Paris on Sat, 15 Aug 2026.
 
 Jeremy Underground is a house and disco artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 22 more. Often billed alongside Kerri Chandler, Mr. G and AliA. Next up: Kilomètre25, Paris on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jeremy Underground is a house and disco artist tracked on soundcheck, with 91 se
 
 Kerri Chandler, Mr. G, AliA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyunderground/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyunderground/)*

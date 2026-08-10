@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "ASSMR x DRIFT Kyiv" on Fri, 14 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "ASSMR x DRIFT Kyiv" on Fri, 14 Aug 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including ābnamā, Alexander Santana, Anders HP and Ani Kvirkvelia and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -20,4 +20,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 7 upcoming n
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

@@ -1,6 +1,6 @@
 # Ellis Weeks
 
-Ellis Weeks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Abbey, Manchester on Fri, 14 Aug 2026.
+Ellis Weeks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Abbey, Manchester on Fri, 14 Aug 2026.
 
 Ellis Weeks is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Leeds and Manchester. Often billed alongside Elliot Holt, Ted Coyle and 1tbsp. Next up: The Abbey, Manchester on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ellis Weeks is a house and techno artist based in United Kingdom, tracked on sou
 
 Elliot Holt, Ted Coyle, 1tbsp
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisweeks/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisweeks/)*

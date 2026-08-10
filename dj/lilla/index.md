@@ -1,6 +1,6 @@
 # LILLA
 
-LILLA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
+LILLA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Mood Ring, New York City on Sat, 15 Aug 2026.
 
 LILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside ARMANA KHAN, Nadim Maghzal and SAMIA. Next up: Mood Ring, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ LILLA is a club and techno artist based in United States of America, tracked on 
 
 ARMANA KHAN, Nadim Maghzal, SAMIA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilla/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilla/)*

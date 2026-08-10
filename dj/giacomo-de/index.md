@@ -1,6 +1,6 @@
 # Giacomo (DE)
 
-Giacomo (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Art Club, Houston on Wed, 19 Aug 2026.
+Giacomo (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Art Club, Houston on Wed, 19 Aug 2026.
 
 Giacomo (DE) is a house and techno artist tracked on soundcheck, with 6 sets logged across Amsterdam, Houston, London and Newyorkcity and 1 more. Often billed alongside Apua, Aldo Ron Sanchez and Alice (AT). Next up: Art Club, Houston on Wed 19 Aug.
 
@@ -22,4 +22,4 @@ Giacomo (DE) is a house and techno artist tracked on soundcheck, with 6 sets log
 
 Apua, Aldo Ron Sanchez, Alice (AT)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomo-de/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomo-de/)*

@@ -1,14 +1,13 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Castaways, Chicago on Sun, 9 Aug 2026.
+Chris Luno is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Open Aera, Toronto on Thu, 3 Sept 2026.
 
-Chris Luno is a house and deep house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Basel and Berlin and 34 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Castaways, Chicago on Sun 9 Aug.
+Chris Luno is a house and deep house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Basel and Berlin and 34 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Open Aera, Toronto on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Castaways | Chicago |
 | Thu, 3 Sept 2026 | Open Aera | Toronto |
 | Fri, 4 Sept 2026 | Westlight Rooftop at The William Vale | New York City |
 | Fri, 2 Oct 2026 | The Prince Consort | Brisbane |
@@ -17,6 +16,7 @@ Chris Luno is a house and deep house artist tracked on soundcheck, with 74 sets 
 
 ## Recently played
 
+- Castaways, Chicago — Sun, 9 Aug 2026
 - Quartyard, San Diego — Sat, 8 Aug 2026
 - 620 Jones, San Francisco/Oakland — Sat, 1 Aug 2026
 - Audio SF, San Francisco/Oakland — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@ Chris Luno is a house and deep house artist tracked on soundcheck, with 74 sets 
 - LDN East, London — Sat, 6 Jun 2026
 - SAGE, Berlin — Sat, 30 May 2026
 - The Clock Factory, Bristol — Fri, 22 May 2026
-- La Java, Paris — Sat, 2 May 2026
 
 ## Shares bills with
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

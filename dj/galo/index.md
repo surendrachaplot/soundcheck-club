@@ -1,6 +1,6 @@
 # Galo
 
-Galo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 22 Aug 2026.
+Galo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 22 Aug 2026.
 
 Galo is a house and tech house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Buenosaires, Detroit and Losangeles and 2 more. Often billed alongside Amal Nemer, Black Noi$e and Caim. Next up: Shrine Auditorium and Expo Hall, Losangeles on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Galo is a house and tech house artist tracked on soundcheck, with 6 sets logged 
 
 Amal Nemer, Black Noi$e, Caim
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galo/)*

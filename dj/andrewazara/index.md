@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
+Andrew Azara is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
 
 Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 8 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Les Enfants Brillants, Barcelona on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets l
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

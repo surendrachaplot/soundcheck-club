@@ -1,6 +1,6 @@
 # ryuu (2)
 
-ryuu (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at clubasia, Tokyo on Thu, 17 Sept 2026.
+ryuu (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at clubasia, Tokyo on Thu, 17 Sept 2026.
 
 ryuu (2) is a house and techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside S.H.V, --- mr --- and Andrew (TREKKIE TRAX). Next up: clubasia, Tokyo on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ ryuu (2) is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 S.H.V, --- mr ---, Andrew (TREKKIE TRAX)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu-2/)*

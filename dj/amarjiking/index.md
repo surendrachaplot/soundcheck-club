@@ -1,6 +1,6 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Art Club, Houston on Sat, 22 Aug 2026.
+Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Art Club, Houston on Sat, 22 Aug 2026.
 
 Amarji King is a club and techno artist tracked on soundcheck, with 45 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: Art Club, Houston on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 45 sets logg
 
 HYPERFEMME, BLAIZE, IDKRYAN
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

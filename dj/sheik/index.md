@@ -1,6 +1,6 @@
 # Sheik
 
-Sheik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
+Sheik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
 
 Sheik is a techno and house artist tracked on soundcheck, with 2 sets logged across Copenhagen and London. Often billed alongside ADAPT (DK), Eski and Forest (PL). Next up: Culture Box, Copenhagen on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Sheik is a techno and house artist tracked on soundcheck, with 2 sets logged acr
 
 ADAPT (DK), Eski, Forest (PL)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheik/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheik/)*

@@ -1,6 +1,6 @@
 # Mr Thing
 
-Mr Thing is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Mr Thing is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Mr Thing is a funk / soul and hip-hop artist tracked on soundcheck, with 41 sets logged across Bristol, Lisbon, Liverpool and London and 3 more. Often billed alongside Alexander Nut, Ella Knight and Gilles Peterson. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mr Thing is a funk / soul and hip-hop artist tracked on soundcheck, with 41 sets
 
 Alexander Nut, Ella Knight, Gilles Peterson
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrthing/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrthing/)*

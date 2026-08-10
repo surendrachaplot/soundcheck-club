@@ -1,6 +1,6 @@
 # Manta
 
-Manta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
+Manta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
 
 Manta is a house and techno artist based in Chile, tracked on soundcheck, with 44 sets logged across Berlin, Cologne and London. Often billed alongside Qualia Trax, Kosmovision and NoSpice. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Manta is a house and techno artist based in Chile, tracked on soundcheck, with 4
 
 Qualia Trax, Kosmovision, NoSpice
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manta/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manta/)*

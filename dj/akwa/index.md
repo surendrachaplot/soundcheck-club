@@ -1,6 +1,6 @@
 # AKWA
 
-AKWA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Bambi's, Toronto on Sat, 15 Aug 2026.
+AKWA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bambi's, Toronto on Sat, 15 Aug 2026.
 
 AKWA is a house and disco artist tracked on soundcheck, with 41 sets logged across Berlin, London, Montreal and Newyorkcity and 1 more. Often billed alongside TESFAY, Andre Zimmer and Jacob de Hooge. Next up: Bambi's, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ AKWA is a house and disco artist tracked on soundcheck, with 41 sets logged acro
 
 TESFAY, Andre Zimmer, Jacob de Hooge
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*

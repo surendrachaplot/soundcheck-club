@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Concourse Project, Austin on Sat, 29 Aug 2026.
+Deer Jade is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Concourse Project, Austin on Sat, 29 Aug 2026.
 
 Deer Jade is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Austin and Bali and 28 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: The Concourse Project, Austin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Deer Jade is a house and techno artist tracked on soundcheck, with 108 sets logg
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

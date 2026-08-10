@@ -1,6 +1,6 @@
 # Kaserne Basel
 
-Kaserne Basel is a music venue in Basel with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "FOG Festival 2026" on Thu, 17 Sept 2026.
+Kaserne Basel is a music venue in Basel with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "FOG Festival 2026" on Thu, 17 Sept 2026.
 
 Kaserne Basel is a music venue in Basel listed on soundcheck. 1 upcoming night, with line-ups including aantz, aram (CH), BLUME and Cepheì and 2 more. Browse upcoming dates, start times and who's playing. Klybeckstrasse 1b; 4057, Basel; Switzerland.
 
@@ -14,4 +14,4 @@ Kaserne Basel is a music venue in Basel listed on soundcheck. 1 upcoming night, 
 
 Klybeckstrasse 1b; 4057, Basel; Switzerland, Basel
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kaserne-basel/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kaserne-basel/)*

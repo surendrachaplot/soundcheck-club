@@ -1,14 +1,15 @@
 # DELTA LABS
 
-DELTA LABS is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+DELTA LABS is a Psytrance and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-DELTA LABS is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne and Stuttgart. Often billed alongside Gourski, Enaly and LYNE. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+DELTA LABS is a psytrance and drum & bass artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, London and Stuttgart. Often billed alongside Gourski, Enaly and LYNE. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Sat, 7 Nov 2026 | Studio 338 | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DELTA LABS is a drum & bass and techno artist based in Germany, tracked on sound
 
 Gourski, Enaly, LYNE
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltalabs/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deltalabs/)*

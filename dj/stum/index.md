@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+STÜM is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 STÜM is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Sam Alfred, 6 SENSE and Ewan McVicar. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -29,4 +29,4 @@ STÜM is a techno and house artist tracked on soundcheck, with 60 sets logged ac
 
 Sam Alfred, 6 SENSE, Ewan McVicar
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

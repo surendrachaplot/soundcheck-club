@@ -1,6 +1,6 @@
 # Prince Bandroom
 
-Prince Bandroom is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "MC PAT FLYNN (IRE)" on Sat, 31 Oct 2026.
+Prince Bandroom is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "MC PAT FLYNN (IRE)" on Sat, 31 Oct 2026.
 
 Prince Bandroom is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 29 Fitzroy St; St Kilda, Melbourne, VIC 3182; Australia.
 
@@ -14,4 +14,4 @@ Prince Bandroom is a music venue in Melbourne listed on soundcheck. 1 upcoming n
 
 29 Fitzroy St; St Kilda, Melbourne, VIC 3182; Australia, Melbourne
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/prince-bandroom/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/prince-bandroom/)*

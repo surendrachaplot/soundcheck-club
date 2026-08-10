@@ -1,6 +1,6 @@
 # dileta
 
-dileta is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Société des arts technologiques, Montreal on Fri, 21 Aug 2026.
+dileta is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Société des arts technologiques, Montreal on Fri, 21 Aug 2026.
 
 dileta is a techno and bass artist based in Canada, tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside esme (US), Lis Dalton and zi!. Next up: Société des arts technologiques, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ dileta is a techno and bass artist based in Canada, tracked on soundcheck, with 
 
 esme (US), Lis Dalton, zi!
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dileta/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dileta/)*

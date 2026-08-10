@@ -1,6 +1,6 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Matthew Neequaye is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Matthew Neequaye is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 11 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Matthew Neequaye is a house and techno artist tracked on soundcheck, with 51 set
 
 Shanti Celeste, Children of Valis, Christian AB
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

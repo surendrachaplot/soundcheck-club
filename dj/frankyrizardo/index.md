@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 11 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 11 Aug 2026.
 
 Franky Rizardo is a house and tech house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Cavo Paradiso, Mykonos on Tue 11 Aug.
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 233 
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

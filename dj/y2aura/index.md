@@ -1,6 +1,6 @@
 # y2aura
 
-y2aura is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Mood Ring, New York City on Thu, 13 Aug 2026.
+y2aura is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Mood Ring, New York City on Thu, 13 Aug 2026.
 
 y2aura is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside WADDLE, NIJEII and duco. Next up: Mood Ring, Newyorkcity on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ y2aura is a techno and breakbeat artist based in United States of America, track
 
 WADDLE, NIJEII, duco
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y2aura/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y2aura/)*

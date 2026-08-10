@@ -1,6 +1,6 @@
 # Sarjan
 
-Sarjan is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
+Sarjan is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
 
 Sarjan is a techno and hard drum artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Airali, Azu Tiwaline and Bake. Next up: Ormside Projects, London on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Sarjan is a techno and hard drum artist based in United Kingdom, tracked on soun
 
 Airali, Azu Tiwaline, Bake
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarjan/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarjan/)*

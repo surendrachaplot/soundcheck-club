@@ -1,6 +1,6 @@
 # Aleska
 
-Aleska is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
+Aleska is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Sultan Room, New York City on Wed, 12 Aug 2026.
 
 Aleska is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Austin, Berlin, Madrid and Newyorkcity. Often billed alongside Sam Valle, elle xxo and BOB1. Next up: The Sultan Room, Newyorkcity on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Aleska is a techno and house artist based in United States of America, tracked o
 
 Sam Valle, elle xxo, BOB1
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*

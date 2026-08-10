@@ -1,6 +1,6 @@
 # m-int
 
-m-int is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
+m-int is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
 
 m-int is a techno and house artist tracked on soundcheck, with 33 sets logged across Kyoto and Tokyo. Often billed alongside arow, Hue Ray and K8 (TYO GQOM). Next up: clubasia, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ m-int is a techno and house artist tracked on soundcheck, with 33 sets logged ac
 
 arow, Hue Ray, K8 (TYO GQOM)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-int/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-int/)*

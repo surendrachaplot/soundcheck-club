@@ -1,6 +1,6 @@
 # HEX ELECTRONIX
 
-HEX ELECTRONIX is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pumpehuset, Copenhagen on Thu, 13 Aug 2026.
+HEX ELECTRONIX is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Pumpehuset, Copenhagen on Thu, 13 Aug 2026.
 
 HEX ELECTRONIX is a techno and electro artist based in Denmark, tracked on soundcheck, with 31 sets logged across Copenhagen. Often billed alongside Adexia, dragongirl and Milo Makua. Next up: Pumpehuset, Copenhagen on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ HEX ELECTRONIX is a techno and electro artist based in Denmark, tracked on sound
 
 Adexia, dragongirl, Milo Makua
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexelectronix/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hexelectronix/)*

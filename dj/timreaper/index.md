@@ -1,6 +1,6 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
 
 Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 233 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 46 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: The Carpet Shop, London on Thu 27 Aug.
 
@@ -30,4 +30,4 @@ Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 233 se
 
 Dwarde, Sully, Coco Bryce
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*

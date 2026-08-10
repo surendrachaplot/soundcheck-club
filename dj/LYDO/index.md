@@ -1,18 +1,18 @@
 # LYDO
 
-LYDO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Signal, New York City on Sun, 9 Aug 2026.
+LYDO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
-LYDO is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Boston and Brussels and 17 more. Often billed alongside D.Dan, ISAbella and Matas. Next up: Signal, Newyorkcity on Sun 9 Aug.
+LYDO is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Boston and Brussels and 17 more. Often billed alongside D.Dan, ISAbella and Matas. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Signal | New York City |
 | Sat, 5 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played
 
+- Signal, New York City — Sun, 9 Aug 2026
 - Bossa Nova Civic Club, New York City — Sat, 8 Aug 2026
 - TBA, New York City — Fri, 7 Aug 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
@@ -20,10 +20,9 @@ LYDO is a techno and house artist tracked on soundcheck, with 119 sets logged ac
 - TBA - DTLA, Los Angeles — Fri, 19 Jun 2026
 - Signal, New York City — Fri, 12 Jun 2026
 - Stone Circle Theatre, New York City — Sat, 6 Jun 2026
-- Knockdown Center, New York City — Thu, 14 May 2026
 
 ## Shares bills with
 
 D.Dan, ISAbella, Matas
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

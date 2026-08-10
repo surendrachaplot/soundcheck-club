@@ -1,6 +1,6 @@
 # Masayuki Tomita
 
-Masayuki Tomita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Rhythm, Toronto on Thu, 13 Aug 2026.
+Masayuki Tomita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Rhythm, Toronto on Thu, 13 Aug 2026.
 
 Masayuki Tomita is a house and techno artist based in Japan, tracked on soundcheck, with 16 sets logged across Berlin, Montreal and Toronto. Often billed alongside Cosmic JD, Janina Marie and Matt Brancatella. Next up: Rhythm, Toronto on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Masayuki Tomita is a house and techno artist based in Japan, tracked on soundche
 
 Cosmic JD, Janina Marie, Matt Brancatella
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masayukitomita/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masayukitomita/)*

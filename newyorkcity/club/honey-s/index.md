@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "EXTRA SPICY PLEASE Open Decks" on Tue, 11 Aug 2026.
+Honey's is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "EXTRA SPICY PLEASE Open Decks" on Tue, 11 Aug 2026.
 
 Honey's is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Campdukes, Kardnl, Kyle Kerns and LEIA TERA and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

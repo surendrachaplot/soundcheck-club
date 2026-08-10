@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "LNS invites Curly Waters" on Fri, 14 Aug 2026.
+Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "LNS invites Curly Waters" on Fri, 14 Aug 2026.
 
 Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Arnaud Denzler, Balthazar Martinez, bb:fm and Bézier and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
@@ -23,4 +23,4 @@ Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

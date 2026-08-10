@@ -1,6 +1,6 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at West Harlem, Kyoto on Fri, 14 Aug 2026.
+DNG (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at West Harlem, Kyoto on Fri, 14 Aug 2026.
 
 DNG (1) is a house and techno artist tracked on soundcheck, with 121 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Nari (2), KOTSU and Lomax. Next up: West Harlem, Kyoto on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ DNG (1) is a house and techno artist tracked on soundcheck, with 121 sets logged
 
 Nari (2), KOTSU, Lomax
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*

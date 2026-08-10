@@ -1,6 +1,6 @@
 # Kampnagel
 
-Kampnagel is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Heavy Feelings Takeover" on Fri, 14 Aug 2026.
+Kampnagel is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Heavy Feelings Takeover" on Fri, 14 Aug 2026.
 
 Kampnagel is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including DJ SOURCE, JADA MORAES, Kanucia and KVLR and 2 more. Browse upcoming dates, start times and who's playing. Jarrestrasse 20; 22303 Hamburg; Germany.
 
@@ -18,4 +18,4 @@ Kampnagel is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, w
 
 Jarrestrasse 20; 22303 Hamburg; Germany, Hamburg
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/kampnagel/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/kampnagel/)*

@@ -1,14 +1,14 @@
 # Bruja Prieta
 
-Bruja Prieta is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - SECRET LOCATION, Mexico City on Fri, 14 Aug 2026.
+Bruja Prieta is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Barba Azul, Mexico City on Fri, 14 Aug 2026.
 
-Bruja Prieta is a reggaeton and electronica artist based in Mexico, tracked on soundcheck, with 48 sets logged across Mexicocity. Often billed alongside Amapola Rose, NEGRACONDA and Basho. Next up: TBA - SECRET LOCATION, Mexicocity on Fri 14 Aug.
+Bruja Prieta is a reggaeton and electronica artist based in Mexico, tracked on soundcheck, with 48 sets logged across Mexicocity. Often billed alongside Amapola Rose, NEGRACONDA and Basho. Next up: Barba Azul, Mexicocity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - SECRET LOCATION | Mexico City |
+| Fri, 14 Aug 2026 | Barba Azul | Mexico City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Bruja Prieta is a reggaeton and electronica artist based in Mexico, tracked on s
 
 Amapola Rose, NEGRACONDA, Basho
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brujaprieta/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brujaprieta/)*

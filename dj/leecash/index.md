@@ -1,6 +1,6 @@
 # Lee Cash
 
-Lee Cash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
+Lee Cash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
 
 Lee Cash is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Melbourne, Montreal and Newyorkcity. Often billed alongside whydan, Fundido and Gbar. Next up: Good Room, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lee Cash is a techno and house artist based in United States of America, tracked
 
 whydan, Fundido, Gbar
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leecash/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leecash/)*

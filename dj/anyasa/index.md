@@ -1,6 +1,6 @@
 # Anyasa
 
-Anyasa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Story Toronto, Toronto on Fri, 25 Sept 2026.
+Anyasa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Story Toronto, Toronto on Fri, 25 Sept 2026.
 
 Anyasa is a house and techno artist based in India, tracked on soundcheck, with 20 sets logged across Amsterdam, Chicago, Denver and Losangeles and 6 more. Often billed alongside CRi, Firungi and Harji. Next up: Story Toronto, Toronto on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Anyasa is a house and techno artist based in India, tracked on soundcheck, with 
 
 CRi, Firungi, Harji
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyasa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyasa/)*

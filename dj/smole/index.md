@@ -1,6 +1,6 @@
 # Smole
 
-Smole is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Viadukt Bar, Budapest on Tue, 11 Aug 2026.
+Smole is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Viadukt Bar, Budapest on Tue, 11 Aug 2026.
 
 Smole is a minimal and house artist based in Hungary, tracked on soundcheck, with 20 sets logged across Budapest. Often billed alongside Ben Dover, Tony Belicoso and Abyss (HU). Next up: Viadukt Bar, Budapest on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ Smole is a minimal and house artist based in Hungary, tracked on soundcheck, wit
 
 Ben Dover, Tony Belicoso, Abyss (HU)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smole/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smole/)*

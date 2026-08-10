@@ -1,6 +1,6 @@
 # Cobra Nashville
 
-Cobra Nashville is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Pressure Point | THUMP" on Fri, 14 Aug 2026.
+Cobra Nashville is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Pressure Point | THUMP" on Fri, 14 Aug 2026.
 
 Cobra Nashville is a music venue in Nashville listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cobra Nashville is a music venue in Nashville listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Pressure Point / THUMP |  |
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/cobra-nashville/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/cobra-nashville/)*

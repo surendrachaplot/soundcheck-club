@@ -1,8 +1,8 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Brooklyn Army Terminal, New York City on Sat, 15 Aug 2026.
+Cloonee is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Brooklyn Army Terminal, New York City on Sat, 15 Aug 2026.
 
-Cloonee is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Boston and 28 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 15 Aug.
+Cloonee is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Barcelona and Boston and 28 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 60 sets log
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 60 sets log
 
 Jamie Jones, Prospa, Riordan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

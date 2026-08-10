@@ -1,6 +1,6 @@
 # Dylan Schwartz
 
-Dylan Schwartz is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 14 Aug 2026.
+Dylan Schwartz is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 14 Aug 2026.
 
 Dylan Schwartz is a garage and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across London, Losangeles, Miami and Sanfrancisco. Often billed alongside DJ Perception, Highkin' and Louiv. Next up: TBA - DTLA, Losangeles on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Dylan Schwartz is a garage and house artist based in United States of America, t
 
 DJ Perception, Highkin', Louiv
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanschwartz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanschwartz/)*

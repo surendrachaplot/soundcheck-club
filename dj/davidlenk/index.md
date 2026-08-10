@@ -1,6 +1,6 @@
 # David Lenk
 
-David Lenk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+David Lenk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 David Lenk is a house and electro artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Hamburg. Often billed alongside Barbaros, Jakob Seidensticker and MELINA (3). Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ David Lenk is a house and electro artist based in Germany, tracked on soundcheck
 
 Barbaros, Jakob Seidensticker, MELINA (3)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlenk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlenk/)*

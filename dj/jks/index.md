@@ -1,6 +1,6 @@
 # JKS
 
-JKS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Stereo, Montreal on Fri, 14 Aug 2026.
+JKS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Stereo, Montreal on Fri, 14 Aug 2026.
 
 JKS is a techno and house artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 46 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: Stereo, Montreal on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ JKS is a techno and house artist tracked on soundcheck, with 142 sets logged acr
 
 Bailey Ibbs, BENZA, CAIVA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

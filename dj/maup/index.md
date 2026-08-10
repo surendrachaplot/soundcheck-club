@@ -1,14 +1,13 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Mau P is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Pacha Ibiza, Ibiza on Wed, 12 Aug 2026.
 
-Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: Burgess Park, London on Sun 9 Aug.
+Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: Pacha Ibiza, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Burgess Park | London |
 | Wed, 12 Aug 2026 | Pacha Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | Pacha Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logg
 | Sat, 12 Sept 2026 | Brooklyn Army Terminal | New York City |
 | Wed, 16 Sept 2026 | Pacha Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
+| Fri, 18 Sept 2026 | IFEMA | Madrid |
 
 ## Recently played
 
+- Burgess Park, London — Sun, 9 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Pacha Ibiza, Ibiza — Wed, 5 Aug 2026
@@ -30,10 +31,9 @@ Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logg
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Sat, 1 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
-- Flevopark, Amsterdam — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Joseph Capriati, Dom Dolla, Tini Gessler
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

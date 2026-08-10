@@ -1,6 +1,6 @@
 # VNNUK
 
-VNNUK is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 14 Aug 2026.
+VNNUK is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 14 Aug 2026.
 
 VNNUK is a techno and experimental artist based in Czech Republic, tracked on soundcheck, with 27 sets logged across Prague. Often billed alongside Atlaskin, zazitech and 3ever. Next up: Ankali & Planeta Za, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ VNNUK is a techno and experimental artist based in Czech Republic, tracked on so
 
 Atlaskin, zazitech, 3ever
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*

@@ -1,6 +1,6 @@
 # eterna_l
 
-eterna_l is a Deep House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Berlin on Sun, 4 Oct 2026.
+eterna_l is a Deep House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Berlin on Sun, 4 Oct 2026.
 
 eterna_l is a deep house and trance artist based in Norway, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Lisbon and Tbilisi. Often billed alongside Philipp Priebe, monopurple and Hame (1). Next up: TBA, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ eterna_l is a deep house and trance artist based in Norway, tracked on soundchec
 
 Philipp Priebe, monopurple, Hame (1)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eterna_l/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eterna_l/)*

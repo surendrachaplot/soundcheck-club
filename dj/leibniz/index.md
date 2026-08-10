@@ -1,6 +1,6 @@
 # Leibniz
 
-Leibniz is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Leibniz is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 Leibniz is a techno and deep house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Daire Carolan, ELLLL and SAM (9). Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Leibniz is a techno and deep house artist based in Germany, tracked on soundchec
 
 Daire Carolan, ELLLL, SAM (9)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leibniz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leibniz/)*

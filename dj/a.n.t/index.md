@@ -1,6 +1,6 @@
 # A.N.T
 
-A.N.T is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
+A.N.T is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Carpet Shop, London on Sat, 22 Aug 2026.
 
 A.N.T is a jungle and garage artist tracked on soundcheck, with 45 sets logged across London and Sanfrancisco. Often billed alongside Marky V, Abby Daze and ADA (UK). Next up: The Carpet Shop, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ A.N.T is a jungle and garage artist tracked on soundcheck, with 45 sets logged a
 
 Marky V, Abby Daze, ADA (UK)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*

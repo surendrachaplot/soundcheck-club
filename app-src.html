@@ -2894,7 +2894,20 @@
 .artist-bio{white-space:pre-line}
 .bio-src{color:var(--accent);font:600 var(--fs-sm) var(--body);text-decoration:none;white-space:nowrap}
 .bio-src:hover{text-decoration:underline}
-.ap-seen{margin:16px 0 4px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);padding:16px 18px;max-width:440px}
+/* Boxless, matching the apps: a rule and some air, not a panel floating on
+   the page. Was surface fill + border + radius-lg. */
+.ap-seen{margin:16px 0 4px;padding-top:14px;border-top:1px solid var(--border);max-width:440px}
+/* YOUR OWN LOG of this night, on the EVENT page. The apps have had this since
+   the diary shipped; web returned `ev.mine` from the same endpoint and never
+   drew it, so a night you had already written up went on offering "log a night"
+   — the page asking a question it has the answer to. */
+.ev-mine{margin:16px 0 4px;padding-top:14px;border-top:1px solid var(--border);max-width:560px}
+.ev-mine-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.ev-mine-h{font:800 var(--fs-2xs)/var(--lh-2xs) var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.ev-mine-stars{font:700 var(--fs-md)/1 var(--body);color:var(--accent)}
+.ev-mine-acts{font:500 var(--fs-sm)/var(--lh-sm) var(--body);color:var(--muted);margin-top:6px}
+.ev-mine-note{font:400 var(--fs-base)/var(--lh-base) var(--body);color:var(--muted);margin-top:6px}
+.ev-mine-edit{margin-top:10px;background:none;border:0;padding:0;cursor:pointer;font:800 var(--fs-2xs)/var(--lh-2xs) var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
 .ap-seen-top{display:flex;align-items:center;gap:16px;margin-bottom:4px}
 .ap-seen-num{font:800 3rem var(--head);line-height:.8;background:var(--accent-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
 .ap-seen-num span{font-size:var(--fs-xl)}
@@ -3958,7 +3971,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786204871141">
+<meta name="sc-build" content="1786328150721">
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4016,7 +4029,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">124 events</span></a></li><li><a href="/london/2026-08-09/">Sun 9 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-11/">Tue 11 Aug <span class="c">3 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">25 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">80 events</span></a></li><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">132 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-11/">Tue 11 Aug <span class="c">3 events</span></a></li><li><a href="/london/2026-08-12/">Wed 12 Aug <span class="c">7 events</span></a></li><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">25 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">81 events</span></a></li><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">132 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">29 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9487,6 +9500,16 @@
               (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
             '</div>'+
           '</div>'+
+          (ev.mine?('<div class="ev-mine">'+
+              '<div class="ev-mine-top"><span class="ev-mine-h">You were there</span>'+
+                (ev.mine.rating!=null?'<span class="ev-mine-stars">'+'\u2605'.repeat(ev.mine.rating)+'</span>':'')+
+              '</div>'+
+              ((ev.mine.artists||[]).some(function(a){ return a.rating!=null; })
+                ? '<div class="ev-mine-acts">'+(ev.mine.artists||[]).filter(function(a){ return a.rating!=null; })
+                    .map(function(a){ return esc(a.name)+' '+a.rating; }).join('&nbsp;&nbsp;·&nbsp;&nbsp;')+'</div>' : '')+
+              (ev.mine.note?'<div class="ev-mine-note">'+esc(ev.mine.note)+'</div>':'')+
+              '<button class="ev-mine-edit" id="ev-mine-edit" type="button">Edit</button>'+
+            '</div>'):'')+
           '<div class="fp-sec"><div class="fp-sech">Lineup <span>'+(ev.artists||[]).length+' artists</span></div><div id="fp-lineup"></div></div>'+
           '<div id="ev-review" style="margin-top:22px"></div>';
         if(ev.venueLat!=null && ev.venueLng!=null){
@@ -9564,6 +9587,10 @@
             playYtList(lq, i, {one:true});
           }); });
           var pb=document.getElementById('fp-ev-play'); if(pb && lq.length) pb.onclick=function(){ playYtList(lq,0); };
+        // Edit your own log of this night. openLog({eventId}) is the same entry
+        // point the "log a night" prompts use, so it opens seeded, not blank.
+        var me=document.getElementById('ev-mine-edit');
+        if(me) me.addEventListener('click',function(){ openLog({eventId:String(id)}); });
         }
         var instant=(ev.artists||[]).map(function(a){ var s=(a.contentUrl||'').split('/').filter(Boolean).pop(); return { slug:s, name:a.name, image:a.image }; }).filter(function(x){ return x.name; });
         renderLineup(instant);

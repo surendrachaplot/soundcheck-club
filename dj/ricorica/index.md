@@ -1,6 +1,6 @@
 # RICO RICA
 
-RICO RICA is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
+RICO RICA is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
 
 RICO RICA is a latin bass and club artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Lisbon and Losangeles and 8 more. Often billed alongside Teykirisi, Litney and petaanx. Next up: TBA, Mexicocity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ RICO RICA is a latin bass and club artist tracked on soundcheck, with 73 sets lo
 
 Teykirisi, Litney, petaanx
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricorica/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricorica/)*

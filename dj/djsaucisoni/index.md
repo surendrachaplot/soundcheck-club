@@ -1,6 +1,6 @@
 # DJ Sauci Soni
 
-DJ Sauci Soni is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Loafers Cocktail Bar, New York City on Wed, 12 Aug 2026.
+DJ Sauci Soni is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Loafers Cocktail Bar, New York City on Wed, 12 Aug 2026.
 
 DJ Sauci Soni is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside MISS VEE, MAXWELL HöUSE and FTZGRLD. Next up: Loafers Cocktail Bar, Newyorkcity on Wed 12 Aug.
 
@@ -27,4 +27,4 @@ DJ Sauci Soni is a house and techno artist based in United States of America, tr
 
 MISS VEE, MAXWELL HöUSE, FTZGRLD
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*

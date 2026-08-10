@@ -1,6 +1,6 @@
 # Alek Mater
 
-Alek Mater is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+Alek Mater is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 Alek Mater is a techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Essentia (Duplicity), Gridlock and HMMND. Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -14,4 +14,4 @@ Alek Mater is a techno artist based in United Kingdom, tracked on soundcheck, wi
 
 Essentia (Duplicity), Gridlock, HMMND
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alekmater/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alekmater/)*

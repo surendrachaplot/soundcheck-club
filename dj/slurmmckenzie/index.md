@@ -1,6 +1,6 @@
 # Slurm McKenzie
 
-Slurm McKenzie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
+Slurm McKenzie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
 
 Slurm McKenzie is a techno and house artist based in Czech Republic, tracked on soundcheck, with 52 sets logged across Berlin and Prague. Often billed alongside Ian Mint, Jased and Neco. Next up: Golden Gate, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Slurm McKenzie is a techno and house artist based in Czech Republic, tracked on 
 
 Ian Mint, Jased, Neco
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slurmmckenzie/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slurmmckenzie/)*

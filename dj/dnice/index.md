@@ -1,6 +1,6 @@
 # D'Nice
 
-D'Nice is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
+D'Nice is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
 
 D'Nice is a house and progressive house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Manta, Qualia Trax and materia hache. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ D'Nice is a house and progressive house artist based in Germany, tracked on soun
 
 Manta, Qualia Trax, materia hache
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dnice/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dnice/)*

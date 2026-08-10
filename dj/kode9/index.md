@@ -1,6 +1,6 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Palais, London on Fri, 2 Oct 2026.
+Kode9 is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Palais, London on Fri, 2 Oct 2026.
 
 Kode9 is a bass and experimental artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside Tim Reaper, Skee Mask and Mala. Next up: Palais, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Kode9 is a bass and experimental artist tracked on soundcheck, with 120 sets log
 
 Tim Reaper, Skee Mask, Mala
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

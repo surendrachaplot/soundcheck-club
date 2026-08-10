@@ -1,6 +1,6 @@
 # Rusty Bar
 
-Rusty Bar is a music venue in Malta with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Rusty Bar: PRe-Drink" on Fri, 14 Aug 2026.
+Rusty Bar is a music venue in Malta with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Rusty Bar: PRe-Drink" on Fri, 14 Aug 2026.
 
 Rusty Bar is a music venue in Malta listed on soundcheck. 6 upcoming nights, with line-ups including Praag. Browse upcoming dates, start times and who's playing. Address: St George's Road, St Julian's STJ 1304.
 
@@ -19,4 +19,4 @@ Rusty Bar is a music venue in Malta listed on soundcheck. 6 upcoming nights, wit
 
 Address: St George's Road, St Julian's STJ 1304, Malta
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/rusty-bar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/rusty-bar/)*

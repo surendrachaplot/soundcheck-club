@@ -1,6 +1,6 @@
 # GOLDI (AT)
 
-GOLDI (AT) is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
+GOLDI (AT) is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
 
 GOLDI (AT) is a trance and house artist based in Austria, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Melbourne and Sydney and 1 more. Often billed alongside Max Wagner, maro and Kat Ze. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ GOLDI (AT) is a trance and house artist based in Austria, tracked on soundcheck,
 
 Max Wagner, maro, Kat Ze
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldi-at/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldi-at/)*

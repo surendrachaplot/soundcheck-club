@@ -1,6 +1,6 @@
 # Boxpark Shoreditch
 
-Boxpark Shoreditch is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "POST WORK POP PARTY" on Thu, 13 Aug 2026.
+Boxpark Shoreditch is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "POST WORK POP PARTY" on Thu, 13 Aug 2026.
 
 Boxpark Shoreditch is a music venue in London listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 2-10 Bethnal Green Rd, London E1 6GY.
 
@@ -18,4 +18,4 @@ Boxpark Shoreditch is a music venue in London listed on soundcheck. 5 upcoming n
 
 2-10 Bethnal Green Rd, London E1 6GY, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-shoreditch/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-shoreditch/)*

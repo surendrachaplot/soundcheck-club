@@ -1,6 +1,6 @@
 # Atlas (2)
 
-Atlas (2) is a Drum & Bass and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Atlas (2) is a Drum & Bass and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Atlas (2) is a drum & bass and progressive house artist based in Germany, tracked on soundcheck, with 5 sets logged across Bristol, Munich and Zurich. Often billed alongside A.M.C., AD (UK) and Anton X. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Atlas (2) is a drum & bass and progressive house artist based in Germany, tracke
 
 A.M.C., AD (UK), Anton X
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atlas-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atlas-2/)*

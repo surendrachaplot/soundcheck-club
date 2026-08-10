@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Gerd Janson is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 291 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

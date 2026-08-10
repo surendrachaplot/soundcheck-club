@@ -1,14 +1,15 @@
 # Ms Ray
 
-Ms Ray is a Pop and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Headrow House, Leeds on Fri, 11 Sept 2026.
+Ms Ray is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Headrow House, Leeds on Fri, 11 Sept 2026.
 
-Ms Ray is a pop and new wave artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin, Leeds and London. Often billed alongside Gui Scott, Jack Jutson and John Gómez. Next up: Headrow House, Leeds on Fri 11 Sept.
+Ms Ray is a pop and electronica artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin, Bristol, Leeds and London. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Headrow House, Leeds on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Headrow House | Leeds |
+| Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Ms Ray is a pop and new wave artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Gui Scott, Jack Jutson, John Gómez
+96 Back, A Good Year, Alex Wilcox
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*

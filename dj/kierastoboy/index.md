@@ -1,6 +1,6 @@
 # Kierastoboy
 
-Kierastoboy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Miradouro de Baixo, Lisbon on Fri, 14 Aug 2026.
+Kierastoboy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Miradouro de Baixo, Lisbon on Fri, 14 Aug 2026.
 
 Kierastoboy is a house and techno artist tracked on soundcheck, with 49 sets logged across Bangkok, Lisbon, Seoul and Sydney and 1 more. Often billed alongside Rui Vargas, Adam Purnell and ANYA JAVYBZ. Next up: Miradouro de Baixo, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kierastoboy is a house and techno artist tracked on soundcheck, with 49 sets log
 
 Rui Vargas, Adam Purnell, ANYA JAVYBZ
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kierastoboy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kierastoboy/)*

@@ -1,15 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 70 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "wieder: BOILER ROOM SETUP + MARKETPLACE" on Sun, 9 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 69 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "PHASE:ONE" on Tue, 11 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 69 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
-| Sun, 9 Aug 2026 | La Fuente | Artifex (DE), Jan Weber, KIKE Friday, MIKA G, Philena, SELESSA T., fbi (1) |
 | Tue, 11 Aug 2026 | PHASE:ONE | ALLES ATZIG, Rabe Rax, k4mi |
 | Wed, 12 Aug 2026 | SIGNALS - 5€ Tickets w/ CARGO, páthos, DJ ST4RLIGHT b2b bbysonni | CARGO (DE), djst4rlight, páthos |
 | Thu, 13 Aug 2026 | Chantal's House of Shame |  |
@@ -18,9 +16,11 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming 
 | Sun, 16 Aug 2026 | Summer of Love Open Air - Westbam & Claude Vonstroke | Catz 'N Dogz, Claude VonStroke, Etienne, K-Paul, Robert Owens, Seven |
 | Sun, 16 Aug 2026 | WIEDER with ANECHOIC SHOWCASE | August Kind, Deltapeak, Eli Bot, bbymeister, jeanska, queen yasmeen |
 | Tue, 18 Aug 2026 | PHASE:ONE | Justus Hildebrand |
+| Wed, 19 Aug 2026 | SIGNALS - 5€ Tickets - with NSLZ, Nettta, DJ TRY & Suanni | Cobb Douglas, DJ Try (US), NSLZ, Nettta, Suanni |
+| Wed, 19 Aug 2026 | SIGNALS |  |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

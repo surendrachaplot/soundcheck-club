@@ -1,6 +1,6 @@
 # Kon Radd
 
-Kon Radd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Beaumont Studios, Vancouver on Sat, 19 Sept 2026.
+Kon Radd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Beaumont Studios, Vancouver on Sat, 19 Sept 2026.
 
 Kon Radd is a house and techno artist based in Canada, tracked on soundcheck, with 9 sets logged across Vancouver. Often billed alongside Jk Gaultier, Kevin Shiu and Senior Citizenz. Next up: The Beaumont Studios, Vancouver on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kon Radd is a house and techno artist based in Canada, tracked on soundcheck, wi
 
 Jk Gaultier, Kevin Shiu, Senior Citizenz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konradd/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konradd/)*

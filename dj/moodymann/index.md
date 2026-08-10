@@ -1,14 +1,13 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ZIK Zeit ist Knapp, Berlin on Sun, 9 Aug 2026.
+Moodymann is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Regent Theater, DTLA, Los Angeles on Fri, 14 Aug 2026.
 
-Moodymann is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: ZIK Zeit ist Knapp, Berlin on Sun 9 Aug.
+Moodymann is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Regent Theater, DTLA, Losangeles on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | ZIK Zeit ist Knapp | Berlin |
 | Fri, 14 Aug 2026 | Regent Theater, DTLA | Los Angeles |
 | Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -22,6 +21,7 @@ Moodymann is a house and techno artist tracked on soundcheck, with 156 sets logg
 
 ## Recently played
 
+- ZIK Zeit ist Knapp, Berlin — Sun, 9 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - Superior Ingredients, New York City — Fri, 17 Jul 2026
 - TBA - 416 Morse St NE, Washington, DC 20002, Washington DC — Sat, 4 Jul 2026
@@ -29,10 +29,9 @@ Moodymann is a house and techno artist tracked on soundcheck, with 156 sets logg
 - BLITZ, Munich — Fri, 19 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
 - Teatro Pereyra, Ibiza — Sat, 13 Jun 2026
-- Glendalough Estate, Dublin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

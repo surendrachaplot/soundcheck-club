@@ -1,6 +1,6 @@
 # kentaroshark
 
-kentaroshark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at West Harlem, Kyoto on Mon, 10 Aug 2026.
+kentaroshark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at West Harlem, Kyoto on Mon, 10 Aug 2026.
 
 kentaroshark is a house and techno artist tracked on soundcheck, with 20 sets logged across Kyoto. Often billed alongside droove, kimryo and kotakunisaki. Next up: West Harlem, Kyoto on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ kentaroshark is a house and techno artist tracked on soundcheck, with 20 sets lo
 
 droove, kimryo, kotakunisaki
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaroshark/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaroshark/)*

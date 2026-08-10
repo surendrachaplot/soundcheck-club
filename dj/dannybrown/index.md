@@ -1,6 +1,6 @@
 # Danny Brown
 
-Danny Brown is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
+Danny Brown is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
 Danny Brown is a hip-hop and experimental artist based in United States of America, tracked on soundcheck, with 11 sets logged across Bristol, Brussels, Detroit and Glasgow and 6 more. Often billed alongside 999999999, AK (US) and ANNA. Next up: TBA, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Danny Brown is a hip-hop and experimental artist based in United States of Ameri
 
 999999999, AK (US), ANNA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybrown/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybrown/)*

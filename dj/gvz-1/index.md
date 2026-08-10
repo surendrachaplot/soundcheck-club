@@ -1,6 +1,6 @@
 # GVZ (1)
 
-GVZ (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+GVZ (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 GVZ (1) is a techno and house artist based in Malta, tracked on soundcheck, with 12 sets logged across Malta. Often billed alongside YAZMIN (MT), Bane. and Echofaze. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ GVZ (1) is a techno and house artist based in Malta, tracked on soundcheck, with
 
 YAZMIN (MT), Bane., Echofaze
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gvz-1/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gvz-1/)*

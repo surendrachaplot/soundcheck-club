@@ -1,6 +1,6 @@
 # TWOEF
 
-TWOEF is a Tech House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+TWOEF is a Tech House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
 TWOEF is a tech house and minimal techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Camilo Do Santos, LOUDER BROS. DEPARTMENT and Angelo Ferreri. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ TWOEF is a tech house and minimal techno artist based in Italy, tracked on sound
 
 Camilo Do Santos, LOUDER BROS. DEPARTMENT, Angelo Ferreri
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twoef/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twoef/)*

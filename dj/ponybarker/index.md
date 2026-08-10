@@ -1,6 +1,6 @@
 # Ponybarker
 
-Ponybarker is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+Ponybarker is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 Ponybarker is a techno and downtempo artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg and Nurnberg. Often billed alongside Leon Licht, Phauna and bbymeister. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ponybarker is a techno and downtempo artist based in Germany, tracked on soundch
 
 Leon Licht, Phauna, bbymeister
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ponybarker/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ponybarker/)*

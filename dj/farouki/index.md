@@ -1,6 +1,6 @@
 # Farouki
 
-Farouki is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
+Farouki is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Crate Concept, Bali on Sat, 22 Aug 2026.
 
 Farouki is a tech house and house artist based in Canada, tracked on soundcheck, with 34 sets logged across Bali, Miami, Montreal and Toronto. Often billed alongside Theta State, Antonio Fornieles and MC Flipside. Next up: Crate Concept, Bali on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Farouki is a tech house and house artist based in Canada, tracked on soundcheck,
 
 Theta State, Antonio Fornieles, MC Flipside
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/farouki/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/farouki/)*

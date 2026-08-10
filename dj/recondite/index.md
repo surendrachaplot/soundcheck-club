@@ -1,6 +1,6 @@
 # Recondite
 
-Recondite is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Phonox, London on Fri, 14 Aug 2026.
+Recondite is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Phonox, London on Fri, 14 Aug 2026.
 
 Recondite is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Phonox, London on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Recondite is a techno and house artist tracked on soundcheck, with 103 sets logg
 
 Tale Of Us, Anyma, Dyzen
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

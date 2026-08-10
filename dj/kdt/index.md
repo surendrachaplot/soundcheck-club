@@ -1,13 +1,14 @@
 # KDT
 
-KDT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Numm, Tokyo on Thu, 13 Aug 2026.
+KDT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Aoyama Tunnel, Tokyo on Wed, 12 Aug 2026.
 
-KDT is a house and techno artist based in Japan, tracked on soundcheck, with 151 sets logged across Tokyo. Often billed alongside TOYO, Ryuichi and Issyo. Next up: Numm, Tokyo on Thu 13 Aug.
+KDT is a house and techno artist based in Japan, tracked on soundcheck, with 152 sets logged across Tokyo. Often billed alongside TOYO, Ryuichi and Issyo. Next up: Aoyama Tunnel, Tokyo on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Aoyama Tunnel | Tokyo |
 | Thu, 13 Aug 2026 | Numm | Tokyo |
 | Tue, 18 Aug 2026 | DJ Bar Bridge | Tokyo |
 
@@ -26,4 +27,4 @@ KDT is a house and techno artist based in Japan, tracked on soundcheck, with 151
 
 TOYO, Ryuichi, Issyo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*

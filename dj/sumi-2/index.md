@@ -1,6 +1,6 @@
 # sumi
 
-sumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Planet Wax, London on Sat, 15 Aug 2026.
+sumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Planet Wax, London on Sat, 15 Aug 2026.
 
 sumi is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Bristol and Kyoto and 5 more. Often billed alongside AY (10), Felix Rupprecht and Ryan Elliott. Next up: Planet Wax, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ sumi is a techno and house artist tracked on soundcheck, with 32 sets logged acr
 
 AY (10), Felix Rupprecht, Ryan Elliott
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-2/)*

@@ -1,6 +1,6 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Coco Boule, Berlin on Fri, 21 Aug 2026.
+Fabe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Coco Boule, Berlin on Fri, 21 Aug 2026.
 
 Fabe is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Coco Boule, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Fabe is a house and tech house artist tracked on soundcheck, with 101 sets logge
 
 Lauren Lo Sung, Rich NXT, Sidney Charles
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*

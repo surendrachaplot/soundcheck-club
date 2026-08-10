@@ -1,6 +1,6 @@
 # 2og:Dondorf
 
-2og:Dondorf is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Module Festival Afterparty at Spirax" on Thu, 13 Aug 2026.
+2og:Dondorf is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Module Festival Afterparty at Spirax" on Thu, 13 Aug 2026.
 
 2og:Dondorf is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including Udda. Browse upcoming dates, start times and who's playing. Gabriel-Riesser-Weg 3, 60325 Frankfurt am Main.
 
@@ -14,4 +14,4 @@
 
 Gabriel-Riesser-Weg 3, 60325 Frankfurt am Main, Frankfurt
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/2og-dondorf/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/2og-dondorf/)*

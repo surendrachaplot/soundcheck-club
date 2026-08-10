@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 16 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Entropy 熵 with Tommy Four Seven (47, Berlin) + Nanogram (Entropy 熵) + Tfeelscary (Dropsound)" on Fri, 14 Aug 2026.
+宀 Club is a music venue in Hong Kong with 17 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Entropy 熵 with Tommy Four Seven (47, Berlin) + Nanogram (Entropy 熵) + Tfeelscary (Dropsound)" on Fri, 14 Aug 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 16 upcoming nights, with line-ups including 69DB, A Strange Wedding, Charlieowo and Daura and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming nights, with line-ups including 69DB, A Strange Wedding, Charlieowo and Daura and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

@@ -1,6 +1,6 @@
 # Metro
 
-Metro is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Nocturna - Summer Ball + DJ Scary Lady Sarah's Birthday Bash! Chicago" on Sat, 15 Aug 2026.
+Metro is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Nocturna - Summer Ball + DJ Scary Lady Sarah's Birthday Bash! Chicago" on Sat, 15 Aug 2026.
 
 Metro is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Dopplereffekt and Nitzer Ebb. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -15,4 +15,4 @@ Metro is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with 
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/metro/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/metro/)*

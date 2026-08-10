@@ -1,6 +1,6 @@
 # Alice Gas
 
-Alice Gas is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
+Alice Gas is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
 
 Alice Gas is a hardcore and gabber artist based in Czech Republic, tracked on soundcheck, with 3 sets logged across London, Montreal and Prague. Often billed alongside 99jakes, Lexxy Jax and DJ Ket. Next up: ESC, Montreal on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Alice Gas is a hardcore and gabber artist based in Czech Republic, tracked on so
 
 99jakes, Lexxy Jax, DJ Ket
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicegas/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicegas/)*

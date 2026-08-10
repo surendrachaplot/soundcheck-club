@@ -1,6 +1,6 @@
 # Gumi
 
-Gumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Blank Site, Seoul on Fri, 14 Aug 2026.
+Gumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Blank Site, Seoul on Fri, 14 Aug 2026.
 
 Gumi is a techno and house artist based in South Korea, tracked on soundcheck, with 185 sets logged across Osaka and Seoul. Often billed alongside RTRP, Conan and Afrodite (2). Next up: Blank Site, Seoul on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Gumi is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 RTRP, Conan, Afrodite (2)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gumi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gumi/)*

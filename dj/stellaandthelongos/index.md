@@ -1,6 +1,6 @@
 # Stella and The Longos
 
-Stella and The Longos is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Stella and The Longos is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Stella and The Longos are a disco and house duo tracked on soundcheck, with 13 sets logged across Berlin, Brussels, Geneva and Hamburg and 3 more. Often billed alongside Stella Zekri, Ays (NL) and BASHKKA. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Stella and The Longos are a disco and house duo tracked on soundcheck, with 13 s
 
 Stella Zekri, Ays (NL), BASHKKA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaandthelongos/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaandthelongos/)*

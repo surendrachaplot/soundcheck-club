@@ -1,6 +1,6 @@
 # Zetson
 
-Zetson is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+Zetson is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
 
 Zetson is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Daddy Short Leg, S.3000 and DJ-Ween. Next up: ://about blank, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Zetson is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Daddy Short Leg, S.3000, DJ-Ween
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zetson/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zetson/)*

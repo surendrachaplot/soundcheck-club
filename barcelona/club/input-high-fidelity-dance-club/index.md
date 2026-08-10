@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SUMMER INDOOR RAVE with Don Woezik & Per Pleks" on Thu, 13 Aug 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SUMMER INDOOR RAVE with Don Woezik & Per Pleks" on Thu, 13 Aug 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including 753, Adiel, Ana Alves and ART NO LOGIA and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

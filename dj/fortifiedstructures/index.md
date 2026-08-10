@@ -1,6 +1,6 @@
 # FortifiedStructures
 
-FortifiedStructures is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Disclosed day of event, Boston on Sat, 12 Sept 2026.
+FortifiedStructures is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Disclosed day of event, Boston on Sat, 12 Sept 2026.
 
 FortifiedStructures is a gabber and techno artist based in Canada, tracked on soundcheck, with 10 sets logged across Boston, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Dazegxd, JESSXO and CYNICAL (US). Next up: TBA - Disclosed day of event, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ FortifiedStructures is a gabber and techno artist based in Canada, tracked on so
 
 Dazegxd, JESSXO, CYNICAL (US)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*

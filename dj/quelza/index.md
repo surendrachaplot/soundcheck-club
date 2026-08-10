@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Quelza is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Quelza is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -34,4 +34,4 @@ Quelza is a techno and house artist tracked on soundcheck, with 206 sets logged 
 
 BASHKKA, Freddy K, Ogazón
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

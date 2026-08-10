@@ -1,6 +1,6 @@
 # Ardalan
 
-Ardalan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - 1438 W. Cortland, Chicago on Sat, 22 Aug 2026.
+Ardalan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - 1438 W. Cortland, Chicago on Sat, 22 Aug 2026.
 
 Ardalan is a house and tech house artist tracked on soundcheck, with 75 sets logged across Austin, Berlin, Chicago and Denver and 10 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: TBA - 1438 W. Cortland, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ardalan is a house and tech house artist tracked on soundcheck, with 75 sets log
 
 Life on Planets, Justin Martin, RUDEE NIK
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*

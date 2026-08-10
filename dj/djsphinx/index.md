@@ -1,6 +1,6 @@
 # DJ SPHiNX
 
-DJ SPHiNX is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
+DJ SPHiNX is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lincoln Factory, Detroit on Fri, 14 Aug 2026.
 
 DJ SPHiNX is a techno and electro artist based in United States of America, tracked on soundcheck, with 83 sets logged across Detroit and Paris. Often billed alongside LATEX GIRL, Craig Gonzalez and Auntie Chanel. Next up: Lincoln Factory, Detroit on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ SPHiNX is a techno and electro artist based in United States of America, trac
 
 LATEX GIRL, Craig Gonzalez, Auntie Chanel
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*

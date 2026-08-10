@@ -1,6 +1,6 @@
 # Drew Holly
 
-Drew Holly is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Outdoor South LA, Los Angeles on Sat, 15 Aug 2026.
+Drew Holly is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Outdoor South LA, Los Angeles on Sat, 15 Aug 2026.
 
 Drew Holly is an acid and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles. Often billed alongside Odalfer Daquees, Jeronimo Watson and Aaron Jacobs. Next up: TBA - Outdoor South LA, Losangeles on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Drew Holly is an acid and techno artist based in United States of America, track
 
 Odalfer Daquees, Jeronimo Watson, Aaron Jacobs
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drewholly/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drewholly/)*

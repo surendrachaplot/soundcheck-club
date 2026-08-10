@@ -1,6 +1,6 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at BAR Inc, Osaka on Fri, 4 Sept 2026.
+Arpy Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at BAR Inc, Osaka on Fri, 4 Sept 2026.
 
 Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 16 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: BAR Inc, Osaka on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Kapote, Gee Lane, Cody Currie
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*

@@ -1,6 +1,6 @@
 # AWood
 
-AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Jonathan Rogers Park, Vancouver on Sat, 22 Aug 2026.
+AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Jonathan Rogers Park, Vancouver on Sat, 22 Aug 2026.
 
 AWood is a techno and house artist tracked on soundcheck, with 43 sets logged across Toronto and Vancouver. Often billed alongside Lucci (CA), Fizch and emerencz. Next up: TBA - Jonathan Rogers Park, Vancouver on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ AWood is a techno and house artist tracked on soundcheck, with 43 sets logged ac
 
 Lucci (CA), Fizch, emerencz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*

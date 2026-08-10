@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 20 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "MÖKINA x Trance Italy (MALTA)" on Tue, 11 Aug 2026.
+Liquid Club is a music venue in Malta with 20 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "MÖKINA x Trance Italy (MALTA)" on Tue, 11 Aug 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, with line-ups including A.Paul, Abdy, Ashibane and BOA (1) and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, 
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

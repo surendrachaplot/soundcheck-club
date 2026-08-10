@@ -1,6 +1,6 @@
 # NO FACE
 
-NO FACE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
+NO FACE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Smolna, Warsaw on Sat, 22 Aug 2026.
 
 NO FACE is a techno and hardcore artist tracked on soundcheck, with 13 sets logged across Warsaw. Often billed alongside iLAN, Anela and KASSANDRA. Next up: Smolna, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ NO FACE is a techno and hardcore artist tracked on soundcheck, with 13 sets logg
 
 iLAN, Anela, KASSANDRA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noface/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noface/)*

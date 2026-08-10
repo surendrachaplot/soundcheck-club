@@ -1,6 +1,6 @@
 # Mr. Murray
 
-Mr. Murray is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at public records, New York City on Fri, 21 Aug 2026.
+Mr. Murray is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at public records, New York City on Fri, 21 Aug 2026.
 
 Mr. Murray is a techno and house artist tracked on soundcheck, with 80 sets logged across Berlin, Boston, Detroit and Miami and 4 more. Often billed alongside CAMILLA, Daura and Emsho. Next up: public records, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mr. Murray is a techno and house artist tracked on soundcheck, with 80 sets logg
 
 CAMILLA, Daura, Emsho
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.murray/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.murray/)*

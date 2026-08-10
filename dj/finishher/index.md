@@ -1,6 +1,6 @@
 # FINISHHER
 
-FINISHHER is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+FINISHHER is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
 FINISHHER is a club and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Tom Marsi, Bored Lord and Del (4). Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ FINISHHER is a club and techno artist based in United States of America, tracked
 
 Tom Marsi, Bored Lord, Del (4)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finishher/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finishher/)*

@@ -1,6 +1,6 @@
 # Sky Club
 
-Sky Club is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "TechnoARTig! Open Air" on Sat, 22 Aug 2026.
+Sky Club is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TechnoARTig! Open Air" on Sat, 22 Aug 2026.
 
 Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, with line-ups including Abzocka, B-TUR (2), DeGuzman and In Furcht and 2 more. Browse upcoming dates, start times and who's playing. Riesaer Str. 56-64, 04328 Leipzig.
 
@@ -16,4 +16,4 @@ Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, wi
 
 Riesaer Str. 56-64, 04328 Leipzig, Leipzig
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/sky-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/sky-club/)*

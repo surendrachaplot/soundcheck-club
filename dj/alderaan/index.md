@@ -1,6 +1,6 @@
 # Alderaan
 
-Alderaan is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at LAUT, Barcelona on Sat, 22 Aug 2026.
+Alderaan is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at LAUT, Barcelona on Sat, 22 Aug 2026.
 
 Alderaan is a techno artist based in Argentina, tracked on soundcheck, with 16 sets logged across Barcelona, Buenosaires, Madrid and Paris. Often billed alongside Mateo Moric, Forest On Stasys and Kyntral. Next up: LAUT, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Alderaan is a techno artist based in Argentina, tracked on soundcheck, with 16 s
 
 Mateo Moric, Forest On Stasys, Kyntral
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alderaan/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alderaan/)*

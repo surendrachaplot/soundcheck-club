@@ -1,6 +1,6 @@
 # Tom Wax
 
-Tom Wax is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
+Tom Wax is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DNA. CLUB - urban Space, Berlin on Sat, 15 Aug 2026.
 
 Tom Wax is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Alexander Koning, Lucien Foort and An Gelo. Next up: DNA. CLUB - urban Space, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tom Wax is a techno and tech house artist tracked on soundcheck, with 9 sets log
 
 Alexander Koning, Lucien Foort, An Gelo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwax/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwax/)*

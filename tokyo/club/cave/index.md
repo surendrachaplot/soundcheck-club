@@ -1,6 +1,6 @@
 # Cave
 
-Cave is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Koenji Cave presents - EL DORADO - XIX" on Mon, 10 Aug 2026.
+Cave is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Koenji Cave presents - EL DORADO - XIX" on Mon, 10 Aug 2026.
 
 Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including BERLINER KINDL, CyberMoripy, Frank S and Kent Oria and 1 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
@@ -20,4 +20,4 @@ Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with lin
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cave/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cave/)*

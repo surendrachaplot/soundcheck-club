@@ -1,6 +1,6 @@
 # DRAHO
 
-DRAHO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
+DRAHO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Pumpehuset, Copenhagen on Sat, 15 Aug 2026.
 
 DRAHO is a trance and techno artist tracked on soundcheck, with 16 sets logged across Copenhagen. Often billed alongside dj Joe, steamboi and Alegrando. Next up: Pumpehuset, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DRAHO is a trance and techno artist tracked on soundcheck, with 16 sets logged a
 
 dj Joe, steamboi, Alegrando
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/draho/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/draho/)*

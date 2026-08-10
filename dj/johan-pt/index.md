@@ -1,6 +1,6 @@
 # Johan (PT)
 
-Johan (PT) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at M-BIA, Berlin on Sat, 5 Sept 2026.
+Johan (PT) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at M-BIA, Berlin on Sat, 5 Sept 2026.
 
 Johan (PT) is a techno and minimal artist based in Portugal, tracked on soundcheck, with 22 sets logged across Berlin, Brussels, Hamburg and Lisbon and 1 more. Often billed alongside Francisca Urbano, .Bernardo and 999999999. Next up: M-BIA, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Johan (PT) is a techno and minimal artist based in Portugal, tracked on soundche
 
 Francisca Urbano, .Bernardo, 999999999
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*

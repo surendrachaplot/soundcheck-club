@@ -1,14 +1,15 @@
 # Vass
 
-Vass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 10 Oct 2026.
+Vass is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 10 Oct 2026.
 
-Vass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Les Enfants Brillants, Barcelona on Sat 10 Oct.
+Vass is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Les Enfants Brillants, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 7 Nov 2026 | The Yard | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vass is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

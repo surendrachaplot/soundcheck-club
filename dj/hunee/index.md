@@ -1,8 +1,8 @@
 # Hunee
 
-Hunee is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Serpentine Galleries, London on Sat, 15 Aug 2026.
+Hunee is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Serpentine Galleries, London on Sat, 15 Aug 2026.
 
-Hunee is a house and disco artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: Serpentine Galleries, London on Sat 15 Aug.
+Hunee is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: Serpentine Galleries, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Hunee is a house and disco artist tracked on soundcheck, with 141 sets logged ac
 | Sat, 5 Sept 2026 | 528 Ibiza | Ibiza |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Hunee is a house and disco artist tracked on soundcheck, with 141 sets logged ac
 
 Antal, Call Super, Job Jobse
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

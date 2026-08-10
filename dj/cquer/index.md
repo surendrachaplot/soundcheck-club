@@ -1,6 +1,6 @@
 # Cquer
 
-Cquer is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Stache Drinking Den, Miami on Sun, 23 Aug 2026.
+Cquer is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Stache Drinking Den, Miami on Sun, 23 Aug 2026.
 
 Cquer is an afro house and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Miami. Next up: Stache Drinking Den, Miami on Sun 23 Aug.
 
@@ -14,4 +14,4 @@ Cquer is an afro house and house artist based in United States of America, track
 
 - Red Rooster Overtown, Miami — Sun, 14 Jun 2026
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cquer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cquer/)*

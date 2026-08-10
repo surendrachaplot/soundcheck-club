@@ -1,6 +1,6 @@
 # Newa
 
-Newa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Newa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Newa is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Berlin and Brussels and 20 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Newa is a techno and house artist tracked on soundcheck, with 128 sets logged ac
 
 Kancheli, Ndrx, Kvanchi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*

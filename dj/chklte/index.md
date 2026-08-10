@@ -1,13 +1,14 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Warehouse, Denver on Sat, 15 Aug 2026.
+CHKLTE is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Phoenix Landing, Boston on Wed, 12 Aug 2026.
 
-CHKLTE is a house and minimal artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: TBA - Warehouse, Denver on Sat 15 Aug.
+CHKLTE is a house and minimal artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Phoenix Landing, Boston on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Phoenix Landing | Boston |
 | Sat, 15 Aug 2026 | TBA - Warehouse | Denver |
 | Fri, 21 Aug 2026 | TBA - Private Campground | Seattle |
 | Sat, 29 Aug 2026 | The Summer of George | Chicago |
@@ -29,4 +30,4 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 112 sets logged
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

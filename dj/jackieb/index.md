@@ -1,6 +1,6 @@
 # Jackie B
 
-Jackie B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at OIL Club, Shenzhen on Fri, 21 Aug 2026.
+Jackie B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at OIL Club, Shenzhen on Fri, 21 Aug 2026.
 
 Jackie B is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit and Shenzhen. Often billed alongside Fengshui, Jascer and Nebulae. Next up: OIL Club, Shenzhen on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Jackie B is a techno and house artist based in United States of America, tracked
 
 Fengshui, Jascer, Nebulae
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackieb/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackieb/)*

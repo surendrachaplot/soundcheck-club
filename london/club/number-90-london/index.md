@@ -1,14 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Elata Collective 013: 26hours Summer Edition [AFTERHOURS]" on Sun, 9 Aug 2026.
+NUMBER 90 LONDON is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Kooky Ken: Label Launch Party" on Fri, 21 Aug 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mariiin and Ruby SD and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Mariiin, Ruby SD, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Elata Collective 013: 26hours Summer Edition [AFTERHOURS] | 1BYAKKO, Aniaef, Deranged, GIZZI, H Grade, Hitam, James Harbrecht, Justine Perry, KETCH, TAARIS, Uväll, WINDFUHR, Ylia (UK), markellos |
 | Fri, 21 Aug 2026 | Kooky Ken: Label Launch Party | A.Wild, Benny Bysouth, Cam Harrop, Kennedy (UK), Redshift (2) |
 | Sun, 23 Aug 2026 | Snooze After Hours | Alek Mater, Essentia (Duplicity), Gridlock, HMMND, OllyK, PAVEL__, Sofi., Vivra Verra |
 | Fri, 28 Aug 2026 | BST PRESENTS | COUCOU CHLOE, Jawnino, Woesum |
@@ -18,9 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming ni
 | Fri, 11 Sept 2026 | Soundscape x Round About present: 90 Hideout | Adam Curtain, Buddy. (2), IZZY (UK), Silverlining, Ste Roberts, Sunny D |
 | Sat, 19 Sept 2026 | Faem e Li |  |
 | Thu, 24 Sept 2026 | Cosmo's Midnight |  |
+| Sat, 26 Sept 2026 | Jonetsu | Colin Dale, Guido Nemola, Joe Smooth, MAEDON, Mike Anderson, Teknobrat, Wade Teo |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

@@ -1,6 +1,6 @@
 # Iris Estefanía
 
-Iris Estefanía is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
+Iris Estefanía is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Mexico City on Fri, 14 Aug 2026.
 
 Iris Estefanía is an electronica and guaracha artist based in Mexico, tracked on soundcheck, with 33 sets logged across Losangeles, Madrid, Mexicocity and Newyorkcity. Often billed alongside Aleroj, KEBRA and AddlyMuff. Next up: TBA, Mexicocity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Iris Estefanía is an electronica and guaracha artist based in Mexico, tracked o
 
 Aleroj, KEBRA, AddlyMuff
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irisestefania/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irisestefania/)*

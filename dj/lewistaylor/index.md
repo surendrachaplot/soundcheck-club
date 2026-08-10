@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
+Lewis Taylor is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
 Lewis Taylor is a house and tech house artist tracked on soundcheck, with 41 sets logged across Aberdeen, Amsterdam, Brighton and Bristol and 12 more. Often billed alongside Harry Robson, Gaskin and Anil Aras. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Lewis Taylor is a house and tech house artist tracked on soundcheck, with 41 set
 
 Harry Robson, Gaskin, Anil Aras
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "MOMENTS IN LOVE" on Thu, 13 Aug 2026.
+Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "MOMENTS IN LOVE" on Thu, 13 Aug 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Av0n, Beau Wanzer, BLACKCLUB and Conjunto Primitivo and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -23,4 +23,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nigh
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

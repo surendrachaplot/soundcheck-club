@@ -1,6 +1,6 @@
 # Syntonos
 
-Syntonos is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
+Syntonos is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
 
 Syntonos is a tech house and house artist based in Ukraine, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin and Paris. Often billed alongside Volmaan, YANNIK (CH) and SACK (AR). Next up: Ritter Butzke, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Syntonos is a tech house and house artist based in Ukraine, tracked on soundchec
 
 Volmaan, YANNIK (CH), SACK (AR)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syntonos/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syntonos/)*

@@ -1,6 +1,6 @@
 # Y4R4
 
-Y4R4 is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at John Doe, Amsterdam on Tue, 11 Aug 2026.
+Y4R4 is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at John Doe, Amsterdam on Tue, 11 Aug 2026.
 
 Y4R4 is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside inKKiss, TRANZ and AndrewsFox. Next up: John Doe, Amsterdam on Tue 11 Aug.
 
@@ -21,4 +21,4 @@ Y4R4 is an industrial and techno artist based in Netherlands, tracked on soundch
 
 inKKiss, TRANZ, AndrewsFox
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y4r4/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y4r4/)*

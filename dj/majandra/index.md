@@ -1,6 +1,6 @@
 # Majandra
 
-Majandra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Fundbureau, Hamburg on Fri, 14 Aug 2026.
+Majandra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Fundbureau, Hamburg on Fri, 14 Aug 2026.
 
 Majandra is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin and Hamburg. Often billed alongside Mergence, DAIVER and Oliver Eich. Next up: Fundbureau, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Majandra is a techno and trance artist tracked on soundcheck, with 24 sets logge
 
 Mergence, DAIVER, Oliver Eich
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majandra/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majandra/)*

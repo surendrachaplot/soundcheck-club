@@ -1,6 +1,6 @@
 # Shaka Lion
 
-Shaka Lion is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Magazine Open–Air, London on Sun, 16 Aug 2026.
+Shaka Lion is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Magazine Open–Air, London on Sun, 16 Aug 2026.
 
 Shaka Lion is a hip-hop and baile funk artist based in Portugal, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 9 more. Often billed alongside Boddhi Satva, Jyoty and Karen Nyame KG. Next up: Magazine Open–Air, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Shaka Lion is a hip-hop and baile funk artist based in Portugal, tracked on soun
 
 Boddhi Satva, Jyoty, Karen Nyame KG
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakalion/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakalion/)*

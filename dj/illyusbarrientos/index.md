@@ -1,6 +1,6 @@
 # Illyus Barrientos
 
-Illyus Barrientos is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 15 Aug 2026.
+Illyus Barrientos is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Cabaret Voltaire, Edinburgh on Sat, 15 Aug 2026.
 
 Illyus Barrientos is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Chicago, Copenhagen, Denver and Edinburgh and 8 more. Often billed alongside Barrientos, BETH and Susio. Next up: Cabaret Voltaire, Edinburgh on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Illyus Barrientos is a house and tech house artist based in United Kingdom, trac
 
 Barrientos, BETH, Susio
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illyusbarrientos/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illyusbarrientos/)*

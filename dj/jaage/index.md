@@ -1,6 +1,6 @@
 # Jaage
 
-Jaage is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Thee Stork Club, San Francisco/Oakland on Sat, 15 Aug 2026.
+Jaage is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Thee Stork Club, San Francisco/Oakland on Sat, 15 Aug 2026.
 
 Jaage is a disco and funk / soul artist based in United States of America, tracked on soundcheck, with 39 sets logged across Sanfrancisco. Often billed alongside Evbot, AKA DISK and FeLine. Next up: Thee Stork Club, Sanfrancisco on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Jaage is a disco and funk / soul artist based in United States of America, track
 
 Evbot, AKA DISK, FeLine
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaage/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaage/)*

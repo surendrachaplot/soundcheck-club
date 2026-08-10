@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Into The Madness Pre-Party Weekender  w. RAN - D" on Sat, 15 Aug 2026.
+Bootshaus is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Into The Madness Pre-Party Weekender  w. RAN - D" on Sat, 15 Aug 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including Afem Syko, Alba Franch, BIIANCO and Charlie and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

@@ -1,8 +1,8 @@
 # HARTY
 
-HARTY is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Bermondsey Social Club, London on Sat, 15 Aug 2026.
+HARTY is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Bermondsey Social Club, London on Sat, 15 Aug 2026.
 
-HARTY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Jerome Six, Brian Smith and JAYDAA. Next up: Bermondsey Social Club, London on Sat 15 Aug.
+HARTY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Jerome Six, JAYDAA and Brian Smith. Next up: Bermondsey Social Club, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ HARTY is a house and tech house artist based in United Kingdom, tracked on sound
 | Sat, 15 Aug 2026 | Bermondsey Social Club | London |
 | Sat, 12 Sept 2026 | Century | London |
 | Thu, 22 Oct 2026 | Db55 | Amsterdam |
+| Sat, 7 Nov 2026 | UNLOCKED | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ HARTY is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Jerome Six, Brian Smith, JAYDAA
+Jerome Six, JAYDAA, Brian Smith
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*

@@ -1,6 +1,6 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Vendex is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
 
 Vendex is a techno and industrial artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside CARV, DYEN and Alignment. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Vendex is a techno and industrial artist tracked on soundcheck, with 185 sets lo
 
 CARV, DYEN, Alignment
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

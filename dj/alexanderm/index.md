@@ -1,6 +1,6 @@
 # ALEXANDER M
 
-ALEXANDER M is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 22 Aug 2026.
+ALEXANDER M is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 22 Aug 2026.
 
 ALEXANDER M is a techno and tech house artist tracked on soundcheck, with 130 sets logged across Barcelona, Ibiza, London and Manchester and 6 more. Often billed alongside Louis Shannon, EIGHT and GReY (1). Next up: ZEROTOKYO, Tokyo on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ ALEXANDER M is a techno and tech house artist tracked on soundcheck, with 130 se
 
 Louis Shannon, EIGHT, GReY (1)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*

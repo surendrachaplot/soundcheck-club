@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Ellen Allien is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Ellen Allien is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Ellen Allien is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 243 sets l
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
+| Sat, 7 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 243 sets l
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

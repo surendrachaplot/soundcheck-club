@@ -1,6 +1,6 @@
 # Poisonfrog
 
-Poisonfrog is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, New York City on Sat, 15 Aug 2026.
+Poisonfrog is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, New York City on Sat, 15 Aug 2026.
 
 Poisonfrog is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity, Philadelphia and Portland. Often billed alongside jaql, Don-Ri and Raw Unkut. Next up: TBA, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Poisonfrog is a jungle and drum & bass artist based in United States of America,
 
 jaql, Don-Ri, Raw Unkut
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poisonfrog/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poisonfrog/)*

@@ -1,6 +1,6 @@
 # Format B
 
-Format B is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Format B is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Format B is a techno and tech house artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 7 more. Often billed alongside Moonbootica, Prismode and Solvane. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Format B is a techno and tech house artist tracked on soundcheck, with 47 sets l
 
 Moonbootica, Prismode, Solvane
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formatb/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formatb/)*

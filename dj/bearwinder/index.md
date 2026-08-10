@@ -1,6 +1,6 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
+Bear Winder is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
 
 Bear Winder is a house and garage artist tracked on soundcheck, with 38 sets logged across London, Manchester and Melbourne. Often billed alongside Jeremy Sylvester, Tiffany Quinn and Zak Miller. Next up: Basing House, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bear Winder is a house and garage artist tracked on soundcheck, with 38 sets log
 
 Jeremy Sylvester, Tiffany Quinn, Zak Miller
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*

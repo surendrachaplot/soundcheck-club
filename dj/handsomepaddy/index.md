@@ -1,6 +1,6 @@
 # Handsome Paddy
 
-Handsome Paddy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Bernard Shaw, Dublin on Sun, 23 Aug 2026.
+Handsome Paddy is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Bernard Shaw, Dublin on Sun, 23 Aug 2026.
 
 Handsome Paddy is an electronic artist tracked on soundcheck, with 7 sets logged across Dublin. Often billed alongside Bella Festa, Corcra and IMO (IRE). Next up: The Bernard Shaw, Dublin on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ Handsome Paddy is an electronic artist tracked on soundcheck, with 7 sets logged
 
 Bella Festa, Corcra, IMO (IRE)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/handsomepaddy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/handsomepaddy/)*

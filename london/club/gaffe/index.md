@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Noise Orchestra presents: PHASE SHIFT – Open Air Extended" on Sat, 15 Aug 2026.
+Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Noise Orchestra presents: PHASE SHIFT – Open Air Extended" on Sat, 15 Aug 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, Mattia Koväl, Aleromaze and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

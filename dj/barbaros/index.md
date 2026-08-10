@@ -1,6 +1,6 @@
 # Barbaros
 
-Barbaros is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Barbaros is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
 Barbaros is a house and deep house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside David Lenk, Shimmy Robin and Stella Zekri. Next up: Südpol, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Barbaros is a house and deep house artist based in Germany, tracked on soundchec
 
 David Lenk, Shimmy Robin, Stella Zekri
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaros/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaros/)*

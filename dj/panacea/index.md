@@ -1,6 +1,6 @@
 # PANACEA
 
-PANACEA is a Pop and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Club NYX, Amsterdam on Fri, 14 Aug 2026.
+PANACEA is a Pop and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Club NYX, Amsterdam on Fri, 14 Aug 2026.
 
 PANACEA is a pop and breakbeat artist tracked on soundcheck, with 11 sets logged across Amsterdam, Brighton and London. Often billed alongside Beaven, Protean Sound and Myff Busta. Next up: Club NYX, Amsterdam on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ PANACEA is a pop and breakbeat artist tracked on soundcheck, with 11 sets logged
 
 Beaven, Protean Sound, Myff Busta
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panacea/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panacea/)*

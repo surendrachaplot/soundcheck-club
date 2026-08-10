@@ -1,6 +1,6 @@
 # Crane Hotel Faralda
 
-Crane Hotel Faralda is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "TMPL MUSIC at The Crane: ADE 2026" on Fri, 23 Oct 2026.
+Crane Hotel Faralda is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "TMPL MUSIC at The Crane: ADE 2026" on Fri, 23 Oct 2026.
 
 Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including ADRIANNA, Alex Stein, Christian Smith and T78 and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
 
@@ -15,4 +15,4 @@ Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 2 upcomi
 
 NDSM-Plein 78, 1033 WB Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crane-hotel-faralda/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crane-hotel-faralda/)*

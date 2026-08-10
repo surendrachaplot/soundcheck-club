@@ -1,6 +1,6 @@
 # sporra
 
-sporra is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Mastak, Warsaw on Sat, 22 Aug 2026.
+sporra is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Mastak, Warsaw on Sat, 22 Aug 2026.
 
 sporra is a techno and electronica artist tracked on soundcheck, with 11 sets logged across Warsaw. Often billed alongside Pean, Salat and Ingesz. Next up: Mastak, Warsaw on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ sporra is a techno and electronica artist tracked on soundcheck, with 11 sets lo
 
 Pean, Salat, Ingesz
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sporra/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sporra/)*

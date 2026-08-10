@@ -1,6 +1,6 @@
 # Peja
 
-Peja is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Flux, Istanbul on Sat, 5 Sept 2026.
+Peja is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Flux, Istanbul on Sat, 5 Sept 2026.
 
 Peja is a techno and drum & bass artist tracked on soundcheck, with 2 sets logged across Istanbul and Tbilisi. Often billed alongside BERENALP, RUK (2) and UFO95. Next up: Flux, Istanbul on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Peja is a techno and drum & bass artist tracked on soundcheck, with 2 sets logge
 
 BERENALP, RUK (2), UFO95
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peja/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peja/)*

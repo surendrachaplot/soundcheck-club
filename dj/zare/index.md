@@ -1,13 +1,14 @@
 # ZARE
 
-ZARE is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+ZARE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
 
-ZARE is a house and idm artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Papi Joe and Unseen.. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+ZARE is a house and tech house artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Unseen. and Papi Joe. Next up: Lieberscholli, Munich on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Lieberscholli | Munich |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ ZARE is a house and idm artist based in Germany, tracked on soundcheck, with 21 
 
 ## Shares bills with
 
-Black Box, Papi Joe, Unseen.
+Black Box, Unseen., Papi Joe
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zare/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zare/)*

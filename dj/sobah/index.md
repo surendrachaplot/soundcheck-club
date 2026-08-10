@@ -1,8 +1,8 @@
 # SOBAH
 
-SOBAH is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
+SOBAH is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
 
-SOBAH is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds, Manchester and Newcastle. Often billed alongside Gav Easby, Easby and Kieran Muckle. Next up: The Fibre Penthouse, Leeds on Fri 14 Aug.
+SOBAH is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Leeds, Manchester and Newcastle. Often billed alongside Gav Easby, Easby and Kieran Muckle. Next up: The Fibre Penthouse, Leeds on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SOBAH is a progressive house and deep house artist based in United Kingdom, trac
 | Sat, 19 Sept 2026 | The Fibre Penthouse | Leeds |
 | Sat, 3 Oct 2026 | Digital | Newcastle |
 | Fri, 16 Oct 2026 | Archive | Leeds |
+| Sat, 7 Nov 2026 | Digital | Newcastle |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ SOBAH is a progressive house and deep house artist based in United Kingdom, trac
 
 Gav Easby, Easby, Kieran Muckle
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sobah/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sobah/)*

@@ -1,6 +1,6 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Elements Cave x Secret Power" on Wed, 12 Aug 2026.
+Sala El Sol is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Elements Cave x Secret Power" on Wed, 12 Aug 2026.
 
 Sala El Sol is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Fellino, Irene Yago, Pulpix and Raner Baumgartner and 1 more. Browse upcoming dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
@@ -20,4 +20,4 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 7 upcoming nights, 
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sunday SerVice: Boza - DeeCee & Quim - Manzone & Strong" on Sun, 9 Aug 2026.
+Wiggle Room is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Proper Party ft PHIBES (UK) and PINEO & LOEB (CAN)" on Fri, 14 Aug 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including Addy, Carabetta, Farbsie Funk and Jay NuFunk and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Addy, Carabetta, Farbsie Funk and Jay NuFunk and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Sunday SerVice: Boza - DeeCee & Quim - Manzone & Strong | Manzone & Strong |
 | Fri, 14 Aug 2026 | Proper Party ft PHIBES (UK) and PINEO & LOEB (CAN) | Farbsie Funk, Jay NuFunk |
 | Sun, 16 Aug 2026 | Sunday SerVice: Addy - Manzone & Strong - Miz Megs | Addy, Manzone & Strong, Manüman, Miz Megs |
 | Fri, 21 Aug 2026 | Genesys @ Wiggle Room Toronto | Carabetta, Tyler Hill |
@@ -20,4 +19,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 7 upcoming nights,
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

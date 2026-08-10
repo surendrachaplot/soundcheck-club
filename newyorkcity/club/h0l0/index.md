@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Clear Club x Da Groove Sessions" on Wed, 12 Aug 2026.
+H0L0 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Clear Club x Da Groove Sessions" on Wed, 12 Aug 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Amelia Holt, Chez Damier, Effy and erika (SF) and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

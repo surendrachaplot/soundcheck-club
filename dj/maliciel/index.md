@@ -1,6 +1,6 @@
 # MALICIEL
 
-MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
+MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside ANDYLAND, QUEENIE (US) and arktoi. Next up: Monarch, Sanfrancisco on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, wit
 
 ANDYLAND, QUEENIE (US), arktoi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*

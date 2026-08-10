@@ -1,6 +1,6 @@
 # fTronic
 
-fTronic is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Queen Adelaide, London on Fri, 14 Aug 2026.
+fTronic is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Queen Adelaide, London on Fri, 14 Aug 2026.
 
 fTronic is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London. Often billed alongside PEDRØ, MAÏS and Benebe. Next up: The Queen Adelaide, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ fTronic is a house and electronica artist based in United Kingdom, tracked on so
 
 PEDRØ, MAÏS, Benebe
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ftronic/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ftronic/)*

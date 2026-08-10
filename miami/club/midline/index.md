@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Biscits. MIAMI" on Fri, 14 Aug 2026.
+Midline is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Biscits. MIAMI" on Fri, 14 Aug 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Andre Power, Biscits, DJ Habibeats and Mose and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with
 | Sat, 3 Oct 2026 | Akeem Ali: The Texture Tour |  |
 | Fri, 9 Oct 2026 | Starjunk 95 MIAMI |  |
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

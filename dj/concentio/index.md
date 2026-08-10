@@ -1,14 +1,15 @@
 # Concentio
 
-Concentio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
+Concentio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
 
-Concentio is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin. Often billed alongside Confred, Marius Holm and Pajüh. Next up: Ritter Butzke, Berlin on Fri 28 Aug.
+Concentio is a techno and house artist tracked on soundcheck, with 37 sets logged across Berlin. Often billed alongside Confred, Marius Holm and Pajüh. Next up: Ritter Butzke, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 10 Oct 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Concentio is a techno and house artist tracked on soundcheck, with 36 sets logge
 
 Confred, Marius Holm, Pajüh
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concentio/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concentio/)*

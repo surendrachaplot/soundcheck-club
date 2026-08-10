@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
+Danny Daze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
 Danny Daze is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Nick León and Sister System. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
@@ -29,4 +29,4 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 153 sets log
 
 Jonny From Space, Nick León, Sister System
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

@@ -1,8 +1,8 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
+Olof Dreijer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
 
-Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
+Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck
 | Sat, 22 Aug 2026 | The Pitt Market | Edinburgh |
 | Sat, 26 Sept 2026 | Knockdown Center | New York City |
 | Sat, 24 Oct 2026 | Cecil AM | Copenhagen |
+| Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck
 
 Ben UFO, Suze Ijó, nonsuit
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*

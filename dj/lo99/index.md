@@ -1,6 +1,6 @@
 # LO'99
 
-LO'99 is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Chinese Laundry, Sydney on Sat, 15 Aug 2026.
+LO'99 is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Chinese Laundry, Sydney on Sat, 15 Aug 2026.
 
 LO'99 is a tech house and techno artist based in Australia, tracked on soundcheck, with 9 sets logged across Auckland, Melbourne and Sydney. Often billed alongside AHJU, Andrew88 and Bella Backe. Next up: Chinese Laundry, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LO'99 is a tech house and techno artist based in Australia, tracked on soundchec
 
 AHJU, Andrew88, Bella Backe
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lo99/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lo99/)*

@@ -1,6 +1,6 @@
 # Confidence Man
 
-Confidence Man is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
+Confidence Man is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Burgess Park, London on Sat, 15 Aug 2026.
 
 Confidence Man is a house and techno artist based in Australia, tracked on soundcheck, with 50 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 21 more. Often billed alongside Chloé Caillet, DJ Gigola and DJ Heartstring. Next up: Burgess Park, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Confidence Man is a house and techno artist based in Australia, tracked on sound
 
 Chloé Caillet, DJ Gigola, DJ Heartstring
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*

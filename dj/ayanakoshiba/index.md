@@ -1,6 +1,6 @@
 # AYANA KOSHIBA
 
-AYANA KOSHIBA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon, 10 Aug 2026.
+AYANA KOSHIBA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon, 10 Aug 2026.
 
 AYANA KOSHIBA is a techno and industrial artist based in Japan, tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside EMILIO (3), EVE (1) and NIVIL. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ AYANA KOSHIBA is a techno and industrial artist based in Japan, tracked on sound
 
 EMILIO (3), EVE (1), NIVIL
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanakoshiba/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanakoshiba/)*

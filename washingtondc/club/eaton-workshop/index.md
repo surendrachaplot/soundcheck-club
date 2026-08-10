@@ -1,6 +1,6 @@
 # Eaton Workshop
 
-Eaton Workshop is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "SoundRoom by Maximiliano" on Mon, 10 Aug 2026.
+Eaton Workshop is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "SoundRoom by Maximiliano" on Mon, 10 Aug 2026.
 
 Eaton Workshop is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including MAXIMILIANO (US). Browse upcoming dates, start times and who's playing. 1201 K Street NW Washington, District of Columbia 20005.
 
@@ -14,4 +14,4 @@ Eaton Workshop is a music venue in Washingtondc listed on soundcheck. 1 upcoming
 
 1201 K Street NW Washington, District of Columbia 20005, Washington DC
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eaton-workshop/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eaton-workshop/)*

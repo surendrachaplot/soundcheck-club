@@ -1,8 +1,8 @@
 # Komitee
 
-Komitee is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "RONNY & DJ FREUND im Komitee" on Sat, 12 Sept 2026.
+Komitee is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "RONNY & DJ FREUND im Komitee" on Sat, 12 Sept 2026.
 
-Komitee is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and RONNY. Browse upcoming dates, start times and who's playing. Gabelsbergerstr. 24, 80333 Munich.
+Komitee is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and RONNY. Browse upcoming dates, start times and who's playing. Gabelsbergerstr. 24, 80333 Munich.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Komitee is a music venue in Munich listed on soundcheck. 3 upcoming nights, with
 | Sat, 12 Sept 2026 | RONNY & DJ FREUND im Komitee | DJ FM & DJ FREUND, RONNY |
 | Sat, 19 Sept 2026 | Komitee | Die Tektonische Plattenverschiebung |
 | Sat, 17 Oct 2026 | Schubidu, wir und du: Callherdog & DJ FM im Komitee | DJ FM & DJ FREUND |
+| Sat, 7 Nov 2026 | Komitee | Die Tektonische Plattenverschiebung |
 
 ## Address
 
 Gabelsbergerstr. 24, 80333 Munich, Munich
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/komitee/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/komitee/)*

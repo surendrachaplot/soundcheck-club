@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Mitsuki, Tokyo on Thu, 13 Aug 2026.
+Shhhhh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Mitsuki, Tokyo on Thu, 13 Aug 2026.
 
 Shhhhh is a techno and house artist tracked on soundcheck, with 98 sets logged across Bali, Hongkong, Kyoto and Mexicocity and 6 more. Often billed alongside AKIRAM EN, Compuma and Shinsuke Goto. Next up: Mitsuki, Tokyo on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ Shhhhh is a techno and house artist tracked on soundcheck, with 98 sets logged a
 
 AKIRAM EN, Compuma, Shinsuke Goto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

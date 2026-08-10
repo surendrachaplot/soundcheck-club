@@ -1,13 +1,14 @@
 # Liza
 
-Liza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at 303 Audiophile Bar, Barcelona on Thu, 24 Sept 2026.
+Liza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Blvck Water, Osaka on Wed, 12 Aug 2026.
 
-Liza is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Barcelona, Dublin, Osaka and Paris and 3 more. Often billed alongside FENGX2, ZAGUN and _goodbyeforever_. Next up: 303 Audiophile Bar, Barcelona on Thu 24 Sept.
+Liza is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Dublin, Osaka and Paris and 3 more. Often billed alongside FENGX2, ZAGUN and _goodbyeforever_. Next up: Blvck Water, Osaka on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Blvck Water | Osaka |
 | Thu, 24 Sept 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Liza is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 FENGX2, ZAGUN, _goodbyeforever_
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liza/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liza/)*

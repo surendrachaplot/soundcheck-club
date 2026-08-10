@@ -1,6 +1,6 @@
 # BEC
 
-BEC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+BEC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 BEC is a techno and house artist tracked on soundcheck, with 38 sets logged across Athens, Berlin, Boston and Chicago and 13 more. Often billed alongside Indira Paganotto, LOVRA and Prismode. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ BEC is a techno and house artist tracked on soundcheck, with 38 sets logged acro
 
 Indira Paganotto, LOVRA, Prismode
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bec/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bec/)*

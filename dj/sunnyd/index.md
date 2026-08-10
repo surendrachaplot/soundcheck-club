@@ -1,6 +1,6 @@
 # Sunny D
 
-Sunny D is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
+Sunny D is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
 
 Sunny D is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, London, Manchester and Miami. Often billed alongside Buddy. (2), Mason Wild and Dylan Whicher. Next up: NUMBER 90 LONDON, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sunny D is a tech house and house artist based in United Kingdom, tracked on sou
 
 Buddy. (2), Mason Wild, Dylan Whicher
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*

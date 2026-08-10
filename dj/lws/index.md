@@ -1,6 +1,6 @@
 # LWS
 
-LWS is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 16 Aug 2026.
+LWS is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Sneaky Pete's, Edinburgh on Sun, 16 Aug 2026.
 
 LWS is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Belfast, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Skillis, Gregor AM and Creep Woland. Next up: Sneaky Pete's, Edinburgh on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ LWS is a techno and bass artist based in United Kingdom, tracked on soundcheck, 
 
 Skillis, Gregor AM, Creep Woland
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*

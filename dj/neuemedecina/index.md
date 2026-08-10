@@ -1,6 +1,6 @@
 # Neue Medecina
 
-Neue Medecina is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+Neue Medecina is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 Neue Medecina is an experimental and club artist based in Finland, tracked on soundcheck, with 15 sets logged across Berlin and Prague. Often billed alongside Triš, XTCLVR and Buttechno. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Neue Medecina is an experimental and club artist based in Finland, tracked on so
 
 Triš, XTCLVR, Buttechno
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuemedecina/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neuemedecina/)*

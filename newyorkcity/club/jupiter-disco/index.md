@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "DJ STEPDAD, Soler System, 3 People" on Sun, 9 Aug 2026.
+Jupiter Disco is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Woke Brian & Friends: s.c.k, sanatswrld, Eddy K" on Wed, 12 Aug 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including cry$cross, DJ STEPDAD, Elephantglasses and Hard Boiled Babe and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including cry$cross, Elephantglasses, Hard Boiled Babe and Dj incognito mode and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | DJ STEPDAD, Soler System, 3 People | DJ STEPDAD |
 | Wed, 12 Aug 2026 | Woke Brian & Friends: s.c.k, sanatswrld, Eddy K | Sanat, Woke Brian, sanatswrld |
 | Thu, 13 Aug 2026 | IBM Doily  The Grouch DJ | IBM Doily, The Grouch Dj |
 | Fri, 14 Aug 2026 | cry$cross, Kfeelz, DJ Raqx | Kat Offline, Kfeelz, RAQX, cry$cross |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming 
 | Thu, 20 Aug 2026 | VISTA Album Release Party with Mantis Hands | Mantis Hands |
 | Fri, 21 Aug 2026 | The Jukeboxx: James Juke + Willy Soul | James Juke, Willy Soul |
 | Sat, 22 Aug 2026 | Mickey Perez All Night | Mickey Perez |
+| Sun, 23 Aug 2026 | Sunday Bliss: La Reinarde, Miss Hapselam, Elephantglasses | Elephantglasses, La Reinarde |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

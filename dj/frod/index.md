@@ -1,6 +1,6 @@
 # FroD
 
-FroD is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ernest, Newcastle on Sat, 22 Aug 2026.
+FroD is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ernest, Newcastle on Sat, 22 Aug 2026.
 
 FroD is a house and electro artist based in Luxembourg, tracked on soundcheck, with 30 sets logged across Buenosaires, Madrid and Newcastle. Often billed alongside Neo (8), VRØD and Molly Sinnott. Next up: Ernest, Newcastle on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ FroD is a house and electro artist based in Luxembourg, tracked on soundcheck, w
 
 Neo (8), VRØD, Molly Sinnott
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frod/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frod/)*

@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Lilly Palmer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Lilly Palmer is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 54 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -30,4 +30,4 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 147 sets l
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

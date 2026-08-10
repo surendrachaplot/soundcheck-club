@@ -1,6 +1,6 @@
 # Jaelo
 
-Jaelo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
+Jaelo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Garagen, Cologne on Fri, 14 Aug 2026.
 
 Jaelo is a techno and club artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside HNX (030), HiHat and Annie O. Next up: Garagen, Cologne on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jaelo is a techno and club artist based in Germany, tracked on soundcheck, with 
 
 HNX (030), HiHat, Annie O
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaelo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaelo/)*

@@ -1,6 +1,6 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City on Sat, 15 Aug 2026.
+Spikey Lee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexico City on Sat, 15 Aug 2026.
 
 Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08, Mexicocity on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 99 sets logg
 
 Lenard Klein, Haeder, VINVAR
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

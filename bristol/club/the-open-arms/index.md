@@ -1,6 +1,6 @@
 # The Open Arms
 
-The Open Arms is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "FLIP x The Open Arms - Pub Garden Day Party" on Sat, 15 Aug 2026.
+The Open Arms is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "FLIP x The Open Arms - Pub Garden Day Party" on Sat, 15 Aug 2026.
 
 The Open Arms is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Open Arms is a music venue in Bristol listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | FLIP x The Open Arms - Pub Garden Day Party |  |
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-open-arms/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-open-arms/)*

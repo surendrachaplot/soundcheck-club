@@ -1,6 +1,6 @@
 # Jack Tonelli
 
-Jack Tonelli is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
+Jack Tonelli is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
 
 Jack Tonelli is an experimental and house artist tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside KANZE, DBL_BBL and As New. Next up: Hart Bar, Newyorkcity on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Jack Tonelli is an experimental and house artist tracked on soundcheck, with 8 s
 
 KANZE, DBL_BBL, As New
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacktonelli-us/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacktonelli-us/)*

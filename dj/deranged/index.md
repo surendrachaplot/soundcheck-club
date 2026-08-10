@@ -1,18 +1,18 @@
 # Deranged
 
-Deranged is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 9 Aug 2026.
+Deranged is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Gaffe, London on Sat, 15 Aug 2026.
 
-Deranged is a techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London and Manchester. Often billed alongside Ylia (UK), H Grade and GIZZI. Next up: NUMBER 90 LONDON, London on Sun 9 Aug.
+Deranged is a techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London and Manchester. Often billed alongside Ylia (UK), H Grade and GIZZI. Next up: Gaffe, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 15 Aug 2026 | Gaffe | London |
 
 ## Recently played
 
+- NUMBER 90 LONDON, London — Sun, 9 Aug 2026
 - Gaffe, London — Sat, 8 Aug 2026
 - The Glove That Fits, London — Sun, 22 Feb 2026
 - Gaffe, London — Sat, 17 Jan 2026
@@ -20,10 +20,9 @@ Deranged is a techno artist based in United Kingdom, tracked on soundcheck, with
 - Corsica Studios, London — Sun, 31 Aug 2025
 - Secret Location, London — Sat, 21 Jun 2025
 - Secret Location, London — Sat, 12 Apr 2025
-- TBA - 20-22 Bernard Rd, London, N15 4NE, London — Sat, 15 Mar 2025
 
 ## Shares bills with
 
 Ylia (UK), H Grade, GIZZI
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deranged/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deranged/)*

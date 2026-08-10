@@ -1,8 +1,8 @@
 # ÆCSEDI
 
-ÆCSEDI is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
+ÆCSEDI is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
-ÆCSEDI is an industrial and techno artist based in Hungary, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside VENATOR, Optimuss and DAESU. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
+ÆCSEDI is an industrial and techno artist based in Hungary, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside ANXIETY (2), DAESU and D|K|OXY. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@
 
 ## Shares bills with
 
-VENATOR, Optimuss, DAESU
+ANXIETY (2), DAESU, D|K|OXY
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/æcsedi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/æcsedi/)*

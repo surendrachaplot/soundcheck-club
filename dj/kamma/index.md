@@ -1,6 +1,6 @@
 # Kamma
 
-Kamma is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
+Kamma is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
 
 Kamma is a house and disco artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside Masalo, Antal and DJ Tennis. Next up: Cova Santa, Ibiza on Tue 11 Aug.
 
@@ -32,4 +32,4 @@ Kamma is a house and disco artist tracked on soundcheck, with 136 sets logged ac
 
 Masalo, Antal, DJ Tennis
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*

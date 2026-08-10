@@ -1,6 +1,6 @@
 # Flandez
 
-Flandez is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Club der Visionaere, Berlin on Mon, 10 Aug 2026.
+Flandez is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Club der Visionaere, Berlin on Mon, 10 Aug 2026.
 
 Flandez is an electronic artist tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Pia Kauitl, Esteban De Haro and Audio Werner. Next up: Club der Visionaere, Berlin on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Flandez is an electronic artist tracked on soundcheck, with 9 sets logged across
 
 Pia Kauitl, Esteban De Haro, Audio Werner
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flandez/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flandez/)*

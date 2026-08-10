@@ -1,6 +1,6 @@
 # Tekk
 
-Tekk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
+Tekk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
 
 Tekk is a techno and hardcore artist based in Slovakia, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside A², Techno Frühstück and Bass. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Tekk is a techno and hardcore artist based in Slovakia, tracked on soundcheck, w
 
 A², Techno Frühstück, Bass
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*

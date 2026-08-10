@@ -1,8 +1,8 @@
 # Danny Snowden
 
-Danny Snowden is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at fabric, London on Sat, 15 Aug 2026.
+Danny Snowden is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at fabric, London on Sat, 15 Aug 2026.
 
-Danny Snowden is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Auckland, Brighton and Edinburgh and 8 more. Often billed alongside Ashkaan, Odela Sound and Sidney Charles. Next up: fabric, London on Sat 15 Aug.
+Danny Snowden is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Auckland, Brighton and Edinburgh and 9 more. Often billed alongside Ashkaan, Odela Sound and Sidney Charles. Next up: fabric, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danny Snowden is a house and tech house artist based in United Kingdom, tracked 
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | fabric | London |
 | Sat, 19 Sept 2026 | World Headquarters | Newcastle |
+| Sat, 7 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Danny Snowden is a house and tech house artist based in United Kingdom, tracked 
 
 Ashkaan, Odela Sound, Sidney Charles
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*

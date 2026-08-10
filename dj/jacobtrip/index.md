@@ -1,6 +1,6 @@
 # Jacob Trip
 
-Jacob Trip is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Arch 535, London on Sat, 22 Aug 2026.
+Jacob Trip is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Arch 535, London on Sat, 22 Aug 2026.
 
 Jacob Trip is a techno and house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Jiminy Watts, batgirl and Professor Roth. Next up: Arch 535, London on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Jacob Trip is a techno and house artist tracked on soundcheck, with 7 sets logge
 
 Jiminy Watts, batgirl, Professor Roth
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobtrip/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobtrip/)*

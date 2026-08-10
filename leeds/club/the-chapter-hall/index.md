@@ -1,6 +1,6 @@
 # The Chapter Hall
 
-The Chapter Hall is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Summer soirée at The Chapter Hall" on Sat, 22 Aug 2026.
+The Chapter Hall is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Summer soirée at The Chapter Hall" on Sat, 22 Aug 2026.
 
 The Chapter Hall is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including BP (1), Jordan Walker, Luke Foulkes and Ola & Lucia and 2 more. Browse upcoming dates, start times and who's playing. Marshalls Mill, Northern Monk Refectory and Garden LDS, Marshall St, Leeds LS11 9YJ.
 
@@ -15,4 +15,4 @@ The Chapter Hall is a music venue in Leeds listed on soundcheck. 2 upcoming nigh
 
 Marshalls Mill, Northern Monk Refectory and Garden LDS, Marshall St, Leeds LS11 9YJ, Leeds
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-chapter-hall/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-chapter-hall/)*

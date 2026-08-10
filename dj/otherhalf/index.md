@@ -1,6 +1,6 @@
 # Otherhalf
 
-Otherhalf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministry Of Sound, London on Sat, 24 Oct 2026.
+Otherhalf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ministry Of Sound, London on Sat, 24 Oct 2026.
 
 Otherhalf is a techno and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Kryptic (UK), Simon Doty and AVANTIME. Next up: Ministry Of Sound, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Otherhalf is a techno and house artist based in United Kingdom, tracked on sound
 
 Kryptic (UK), Simon Doty, AVANTIME
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otherhalf/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otherhalf/)*

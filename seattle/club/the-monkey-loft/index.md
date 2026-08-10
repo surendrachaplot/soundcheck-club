@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Deck'd Out #9 Flammable & Shameless Pres. Gene Hunt (Trax/CHI) & Flamm DJs" on Thu, 13 Aug 2026.
+The Monkey Loft is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Deck'd Out #9 Flammable & Shameless Pres. Gene Hunt (Trax/CHI) & Flamm DJs" on Thu, 13 Aug 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 7 upcoming nights, with line-ups including Cami Jones, Dane Garfield, Gene Hunt and I.S.H and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -20,4 +20,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 7 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

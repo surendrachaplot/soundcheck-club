@@ -1,6 +1,6 @@
 # Soa420
 
-Soa420 is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
+Soa420 is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
 
 Soa420 is a dubstep and house artist tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Brussels and London and 4 more. Often billed alongside Beatrice M., Ahadadream and Bakey. Next up: Recyclart, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Soa420 is a dubstep and house artist tracked on soundcheck, with 25 sets logged 
 
 Beatrice M., Ahadadream, Bakey
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soa420/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soa420/)*

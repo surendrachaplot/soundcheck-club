@@ -1,6 +1,6 @@
 # Patch+
 
-Patch+ is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Botanique, Brussels on Sun, 1 Nov 2026.
+Patch+ is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Botanique, Brussels on Sun, 1 Nov 2026.
 
 Patch+ is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Berlin, Brussels, London and Losangeles and 2 more. Often billed alongside Deer park, AYEGY and Helen Sun. Next up: Botanique, Brussels on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Patch+ is an experimental and electronica artist based in United States of Ameri
 
 Deer park, AYEGY, Helen Sun
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*

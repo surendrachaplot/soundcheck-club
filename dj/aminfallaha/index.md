@@ -1,6 +1,6 @@
 # Amin Fallaha
 
-Amin Fallaha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
+Amin Fallaha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Renate, Berlin on Sat, 15 Aug 2026.
 
 Amin Fallaha is a techno and house artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin and Frankfurt. Often billed alongside Caroux, Eluzid and Ones.. Next up: Renate, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Amin Fallaha is a techno and house artist tracked on soundcheck, with 30 sets lo
 
 Caroux, Eluzid, Ones.
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aminfallaha/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aminfallaha/)*

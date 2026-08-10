@@ -1,6 +1,6 @@
 # Marteen
 
-Marteen is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Moondog Hifi, New York City on Fri, 14 Aug 2026.
+Marteen is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Moondog Hifi, New York City on Fri, 14 Aug 2026.
 
 Marteen is a deep house and minimal artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside La Vega, Ksenyeah and Luciio. Next up: Moondog Hifi, Newyorkcity on Fri 14 Aug.
 
@@ -18,4 +18,4 @@ Marteen is a deep house and minimal artist tracked on soundcheck, with 2 sets lo
 
 La Vega, Ksenyeah, Luciio
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marteen/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marteen/)*

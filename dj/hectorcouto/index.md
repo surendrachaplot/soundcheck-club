@@ -1,6 +1,6 @@
 # Hector Couto
 
-Hector Couto is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
+Hector Couto is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
 
 Hector Couto is a tech house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Bali and Barcelona and 20 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: Cova Santa, Ibiza on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Hector Couto is a tech house and house artist tracked on soundcheck, with 67 set
 
 Prunk, Ammo Avenue, Dimmish
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*

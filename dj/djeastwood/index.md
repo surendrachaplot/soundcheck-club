@@ -1,6 +1,6 @@
 # DJ Eastwood
 
-DJ Eastwood is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+DJ Eastwood is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 DJ Eastwood is an afro house and r&b artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Ill Blu, Pioneer and Shenin Amara. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ DJ Eastwood is an afro house and r&b artist based in United Kingdom, tracked on 
 
 Ill Blu, Pioneer, Shenin Amara
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeastwood/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djeastwood/)*

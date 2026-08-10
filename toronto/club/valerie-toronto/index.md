@@ -1,6 +1,6 @@
 # Valerie Toronto
 
-Valerie Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sunset People Rooftop Jam" on Sat, 15 Aug 2026.
+Valerie Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sunset People Rooftop Jam" on Sat, 15 Aug 2026.
 
 Valerie Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Kenny Glasgow, Nathan Barato, Pasha and RUDEE NIK and 2 more. Browse upcoming dates, start times and who's playing. 111 Princes' Blvd 28th floor, Toronto, ON M6K 3C3 , Canada.
 
@@ -14,4 +14,4 @@ Valerie Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming nig
 
 111 Princes' Blvd 28th floor, Toronto, ON M6K 3C3 , Canada, Toronto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/valerie-toronto/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/valerie-toronto/)*

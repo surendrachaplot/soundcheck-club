@@ -1,6 +1,6 @@
 # Scannell
 
-Scannell is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
+Scannell is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at M.O.T, London on Fri, 14 Aug 2026.
 
 Scannell is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Losangeles. Often billed alongside Bovine Boy, Brian Scannell and Elwan. Next up: M.O.T, London on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Scannell is a progressive house and techno artist based in United Kingdom, track
 
 Bovine Boy, Brian Scannell, Elwan
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scannell/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scannell/)*

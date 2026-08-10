@@ -1,6 +1,6 @@
 # GPG (SK)
 
-GPG (SK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Faust, Seoul on Fri, 14 Aug 2026.
+GPG (SK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Faust, Seoul on Fri, 14 Aug 2026.
 
 GPG (SK) is an electronic artist based in South Korea, tracked on soundcheck, with 3 sets logged across Budapest and Seoul. Often billed alongside GPG (1), Stann Lumo and KUSS. Next up: Faust, Seoul on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ GPG (SK) is an electronic artist based in South Korea, tracked on soundcheck, wi
 
 GPG (1), Stann Lumo, KUSS
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gpg-sk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gpg-sk/)*

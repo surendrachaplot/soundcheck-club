@@ -1,8 +1,8 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+A.N.I. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-A.N.I. is a techno and trance artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+A.N.I. is a techno and trance artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ A.N.I. is a techno and trance artist tracked on soundcheck, with 181 sets logged
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Fri, 11 Sept 2026 | Mia Mao | Paris |
 | Fri, 16 Oct 2026 | OST | Berlin |
+| Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ A.N.I. is a techno and trance artist tracked on soundcheck, with 181 sets logged
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

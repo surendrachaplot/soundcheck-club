@@ -1,6 +1,6 @@
 # BERLINER KINDL
 
-BERLINER KINDL is a Techno and Psytrance artist with 5 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cave, Tokyo on Mon, 10 Aug 2026.
+BERLINER KINDL is a Techno and Psytrance artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cave, Tokyo on Mon, 10 Aug 2026.
 
 BERLINER KINDL is a techno and psytrance artist based in Japan, tracked on soundcheck, with 78 sets logged across Tokyo. Often billed alongside NAGEE, SIGNAL (JP) and MOTOKA. Next up: Cave, Tokyo on Mon 10 Aug.
 
@@ -29,4 +29,4 @@ BERLINER KINDL is a techno and psytrance artist based in Japan, tracked on sound
 
 NAGEE, SIGNAL (JP), MOTOKA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinerkindl/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinerkindl/)*

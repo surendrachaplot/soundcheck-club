@@ -1,6 +1,6 @@
 # Photrix
 
-Photrix is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bar A Bar, London on Sat, 12 Sept 2026.
+Photrix is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar A Bar, London on Sat, 12 Sept 2026.
 
 Photrix is a techno and progressive house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside AVANTIME, Alex Taliana and Blanka Barbara. Next up: Bar A Bar, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Photrix is a techno and progressive house artist tracked on soundcheck, with 15 
 
 AVANTIME, Alex Taliana, Blanka Barbara
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photrix/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photrix/)*

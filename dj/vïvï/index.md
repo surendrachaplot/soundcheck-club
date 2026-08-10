@@ -1,6 +1,6 @@
 # VÏVÏ
 
-VÏVÏ is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon, 10 Aug 2026.
+VÏVÏ is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon, 10 Aug 2026.
 
 VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Mon 10 Aug.
 
@@ -27,4 +27,4 @@ VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, w
 
 DØLLHAUS, FrEaKyNoRiKy, AYANA KOSHIBA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*

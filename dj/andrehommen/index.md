@@ -1,6 +1,6 @@
 # André Hommen
 
-André Hommen is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Wed, 12 Aug 2026.
+André Hommen is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Wed, 12 Aug 2026.
 
 André Hommen is an electronica artist based in Germany, tracked on soundcheck, with 5 sets logged across Barcelona, Berlin, Ibiza and Milan. Often billed alongside Alessio Cristiano, BOHEM and Coss. Next up: Cova Santa, Ibiza on Wed 12 Aug.
 
@@ -21,4 +21,4 @@ André Hommen is an electronica artist based in Germany, tracked on soundcheck, 
 
 Alessio Cristiano, BOHEM, Coss
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrehommen/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrehommen/)*

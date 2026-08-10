@@ -1,8 +1,8 @@
 # Terminal 5
 
-Terminal 5 is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "oskar med k" on Sat, 19 Sept 2026.
+Terminal 5 is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "oskar med k" on Sat, 19 Sept 2026.
 
-Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Kruder & Dorfmeister, oskar med k and Overmono. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
+Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Kruder & Dorfmeister, nimino, oskar med k and Overmono. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nigh
 | Sat, 19 Sept 2026 | oskar med k | oskar med k |
 | Thu, 1 Oct 2026 | Kruder & Dorfmeister | Kruder & Dorfmeister |
 | Fri, 9 Oct 2026 | Overmono | Overmono |
+| Sat, 7 Nov 2026 | nimino | nimino |
 
 ## Address
 
 610 West 56th Street; New York, NY 10019; United States, New York City
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/terminal-5/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/terminal-5/)*

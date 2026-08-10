@@ -1,6 +1,6 @@
 # DAHRAXT
 
-DAHRAXT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
+DAHRAXT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
 
 DAHRAXT is a techno and house artist based in Italy, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Hurtado, Annechoic and Low Order. Next up: Tresor / Globus, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DAHRAXT is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Hurtado, Annechoic, Low Order
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dahraxt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dahraxt/)*

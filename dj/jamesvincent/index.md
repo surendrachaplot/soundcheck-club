@@ -1,6 +1,6 @@
 # James Vincent
 
-James Vincent is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Epiphany Center for the Arts, Chicago on Sat, 15 Aug 2026.
+James Vincent is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Epiphany Center for the Arts, Chicago on Sat, 15 Aug 2026.
 
 James Vincent is a deep house and disco artist tracked on soundcheck, with 66 sets logged across Chicago, Detroit and Lisbon. Often billed alongside Cordell Johnson, Lorenzo Dewberry and CTRLZORA. Next up: Epiphany Center for the Arts, Chicago on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ James Vincent is a deep house and disco artist tracked on soundcheck, with 66 se
 
 Cordell Johnson, Lorenzo Dewberry, CTRLZORA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*

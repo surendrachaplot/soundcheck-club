@@ -1,6 +1,6 @@
 # LORA S
 
-LORA S is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ormside Projects, London on Fri, 25 Sept 2026.
+LORA S is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ormside Projects, London on Fri, 25 Sept 2026.
 
 LORA S is a house and club artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across London. Often billed alongside Mr. Redley, Donut and joey manzi. Next up: Ormside Projects, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LORA S is a house and club artist based in United Kingdom, tracked on soundcheck
 
 Mr. Redley, Donut, joey manzi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loras/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loras/)*

@@ -1,6 +1,6 @@
 # Alfie
 
-Alfie is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
+Alfie is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
 
 Alfie is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Ibiza, Leeds, London and Madrid and 2 more. Often billed alongside Jenn Getz, Jenn Getz & Alfie and George Mensah. Next up: fabric, London on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Alfie is a tech house and house artist based in United Kingdom, tracked on sound
 
 Jenn Getz, Jenn Getz & Alfie, George Mensah
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfie/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alfie/)*

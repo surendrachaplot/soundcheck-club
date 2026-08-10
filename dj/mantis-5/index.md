@@ -1,6 +1,6 @@
 # Mantis (5)
 
-Mantis (5) is a Electro and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
+Mantis (5) is a Electro and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
 
 Mantis (5) is an electro and minimal techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Son of Paul, Phact (UK) and Alfie Aukett. Next up: Vittoria Wharf Studio, London on Fri 14 Aug.
 
@@ -24,4 +24,4 @@ Mantis (5) is an electro and minimal techno artist based in United Kingdom, trac
 
 Son of Paul, Phact (UK), Alfie Aukett
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis-5/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis-5/)*

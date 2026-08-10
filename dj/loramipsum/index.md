@@ -1,6 +1,6 @@
 # Lora Mipsum
 
-Lora Mipsum is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 15 Aug 2026.
+Lora Mipsum is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sneaky Pete's, Edinburgh on Sat, 15 Aug 2026.
 
 Lora Mipsum is a progressive house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside ANNX, Richard Gregory and Inner Zone. Next up: Sneaky Pete's, Edinburgh on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Lora Mipsum is a progressive house and house artist tracked on soundcheck, with 
 
 ANNX, Richard Gregory, Inner Zone
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*

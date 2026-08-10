@@ -1,6 +1,6 @@
 # P3CO
 
-P3CO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ctrllab Art House and Gallery, Montreal on Fri, 21 Aug 2026.
+P3CO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ctrllab Art House and Gallery, Montreal on Fri, 21 Aug 2026.
 
 P3CO is a techno and trance artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside fangsie and refanged. Next up: Ctrllab Art House and Gallery, Montreal on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ P3CO is a techno and trance artist based in Canada, tracked on soundcheck, with 
 
 fangsie, refanged
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p3co/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p3co/)*

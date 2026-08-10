@@ -1,6 +1,6 @@
 # SILAS (DE)
 
-SILAS (DE) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lilli Escher, Hamburg on Wed, 12 Aug 2026.
+SILAS (DE) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lilli Escher, Hamburg on Wed, 12 Aug 2026.
 
 SILAS (DE) is a tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Hamburg, London and Stuttgart. Often billed alongside Fletchy Boy, Bubamara and Cardi-O. Next up: Lilli Escher, Hamburg on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ SILAS (DE) is a tech house artist based in Germany, tracked on soundcheck, with 
 
 Fletchy Boy, Bubamara, Cardi-O
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silas-de/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silas-de/)*

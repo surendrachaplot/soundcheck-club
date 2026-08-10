@@ -1,6 +1,6 @@
 # Ill Blu
 
-Ill Blu is a R&B and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Ill Blu is a R&B and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 Ill Blu is a r&b and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Prague. Often billed alongside Shenin Amara, DJ Eastwood and Supa D. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ill Blu is a r&b and house artist based in United Kingdom, tracked on soundcheck
 
 Shenin Amara, DJ Eastwood, Supa D
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illblu/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illblu/)*

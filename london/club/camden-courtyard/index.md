@@ -1,6 +1,6 @@
 # Camden Courtyard
 
-Camden Courtyard is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Pursuit Of Happiness - 1st Birthday" on Sat, 22 Aug 2026.
+Camden Courtyard is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Pursuit Of Happiness - 1st Birthday" on Sat, 22 Aug 2026.
 
 Camden Courtyard is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Alythia Kwan, Innerstice, Jamesey and Lake Turner and 2 more. Browse upcoming dates, start times and who's playing. 23 Kentish Town Road NW18NH.
 
@@ -15,4 +15,4 @@ Camden Courtyard is a music venue in London listed on soundcheck. 2 upcoming nig
 
 23 Kentish Town Road NW18NH, London
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/camden-courtyard/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/camden-courtyard/)*

@@ -1,6 +1,6 @@
 # HARI
 
-HARI is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 12 Aug 2026.
+HARI is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ku Barcelona, Barcelona on Wed, 12 Aug 2026.
 
 HARI is a techno and dubstep artist tracked on soundcheck, with 28 sets logged across Barcelona and Detroit. Often billed alongside Ezera, XipNoize and Ambarcita. Next up: Ku Barcelona, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ HARI is a techno and dubstep artist tracked on soundcheck, with 28 sets logged a
 
 Ezera, XipNoize, Ambarcita
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hari/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hari/)*

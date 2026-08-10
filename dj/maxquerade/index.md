@@ -1,6 +1,6 @@
 # MaxQuerade
 
-MaxQuerade is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
+MaxQuerade is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
 
 MaxQuerade is an experimental and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Liverpool and London. Often billed alongside Gemi (UK), Ivadinuf and ALNA. Next up: Aaja Basement, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MaxQuerade is an experimental and house artist based in United Kingdom, tracked 
 
 Gemi (UK), Ivadinuf, ALNA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxquerade/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxquerade/)*

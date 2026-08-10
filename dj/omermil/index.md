@@ -1,14 +1,15 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
+Omer Mil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Athens Square, New York City on Sat, 15 Aug 2026.
 
-Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Mexicocity, Naples and Newyorkcity. Often billed alongside Morgan, Disgonuts and Gui Machado. Next up: Athens Square, Newyorkcity on Sat 15 Aug.
+Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 75 sets logged across Mexicocity, Naples and Newyorkcity. Often billed alongside Morgan, Disgonuts and Gui Machado. Next up: Athens Square, Newyorkcity on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Athens Square | New York City |
+| Sat, 15 Aug 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Omer Mil is a house and techno artist based in United States of America, tracked
 
 Morgan, Disgonuts, Gui Machado
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*

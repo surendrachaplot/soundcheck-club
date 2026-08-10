@@ -1,6 +1,6 @@
 # Julian Perez
 
-Julian Perez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Julian Perez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
 
 Julian Perez is a house and techno artist tracked on soundcheck, with 5 sets logged across Ibiza and Malaga. Often billed alongside Alci, Audio Werner and Carlos Vila. Next up: Sophie Festival, Malaga on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Julian Perez is a house and techno artist tracked on soundcheck, with 5 sets log
 
 Alci, Audio Werner, Carlos Vila
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianperez/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianperez/)*

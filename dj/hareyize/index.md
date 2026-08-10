@@ -1,6 +1,6 @@
 # Harey izé
 
-Harey izé is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+Harey izé is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
 Harey izé is a techno and italo disco artist tracked on soundcheck, with 6 sets logged across Lyon and Paris. Often billed alongside BAB MUSIQUE, Dactylo and Dana Montana. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Harey izé is a techno and italo disco artist tracked on soundcheck, with 6 sets
 
 BAB MUSIQUE, Dactylo, Dana Montana
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hareyize/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hareyize/)*

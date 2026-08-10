@@ -1,15 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+East End Dubs is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Burgess Park, London on Sun 9 Aug.
+East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Burgess Park | London |
-| Sun, 9 Aug 2026 | Burgess Park | London |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,20 +18,22 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 271 s
 | Tue, 8 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Hï Ibiza | Ibiza |
+| Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
+| Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Burgess Park, London — Sun, 9 Aug 2026
+- Burgess Park, London — Sun, 9 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 4 Aug 2026
 - Colorado Charlie, The Hague — Sun, 2 Aug 2026
 - Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 29 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 28 Jul 2026
-- Hï Ibiza, Ibiza — Tue, 21 Jul 2026
-- Sunset Park Rooftop, New York City — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

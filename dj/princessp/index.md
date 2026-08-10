@@ -1,6 +1,6 @@
 # Princess P
 
-Princess P is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
+Princess P is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
 
 Princess P is a techno and electronica artist tracked on soundcheck, with 28 sets logged across Basel, Belgrade, Dublin and Edinburgh and 4 more. Often billed alongside Leo Gretener, Kalabrese and Cio (Spezialmaterial). Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Princess P is a techno and electronica artist tracked on soundcheck, with 28 set
 
 Leo Gretener, Kalabrese, Cio (Spezialmaterial)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*

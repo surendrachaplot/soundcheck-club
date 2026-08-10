@@ -1,6 +1,6 @@
 # Pitcho
 
-Pitcho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministerium Club, Lisbon on Fri, 14 Aug 2026.
+Pitcho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ministerium Club, Lisbon on Fri, 14 Aug 2026.
 
 Pitcho is a house and techno artist based in Portugal, tracked on soundcheck, with 28 sets logged across Lisbon and Porto. Often billed alongside Nibius, Fonzi (2) and Luisa. Next up: Ministerium Club, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Pitcho is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 Nibius, Fonzi (2), Luisa
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitcho/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitcho/)*

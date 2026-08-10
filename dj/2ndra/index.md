@@ -1,6 +1,6 @@
 # 2NDRA
 
-2NDRA is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+2NDRA is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 2NDRA is a techno and dub techno artist tracked on soundcheck, with 58 sets logged across Lisbon and Prague. Often billed alongside RiVid, Nøteleks and SJ Yellow. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -26,4 +26,4 @@
 
 RiVid, Nøteleks, SJ Yellow
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*

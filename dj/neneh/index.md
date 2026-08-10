@@ -1,6 +1,6 @@
 # Nene H
 
-Nene H is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
+Nene H is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
 
 Nene H is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: export, Rotterdam on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Nene H is a techno and house artist tracked on soundcheck, with 202 sets logged 
 
 Hyperaktivist, Mama Snake, Mary Lake
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

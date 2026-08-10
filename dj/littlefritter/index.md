@@ -1,6 +1,6 @@
 # Little Fritter
 
-Little Fritter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Savaya Bali, Bali on Fri, 14 Aug 2026.
+Little Fritter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Savaya Bali, Bali on Fri, 14 Aug 2026.
 
 Little Fritter is a house and tech house artist tracked on soundcheck, with 51 sets logged across Auckland, Bali, Brisbane and Dublin and 11 more. Often billed alongside FISHER, Vintage Culture and Andrea Oliva. Next up: Savaya Bali, Bali on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Little Fritter is a house and tech house artist tracked on soundcheck, with 51 s
 
 FISHER, Vintage Culture, Andrea Oliva
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlefritter/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlefritter/)*

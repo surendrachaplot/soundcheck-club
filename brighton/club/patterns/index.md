@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "10 Years of Sunshine Soul: Luke Solomon & Marcia Carr" on Fri, 28 Aug 2026.
+Patterns is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "10 Years of Sunshine Soul: Luke Solomon & Marcia Carr" on Fri, 28 Aug 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), CC:DISCO! and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), CC:DISCO! and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming nights, 
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

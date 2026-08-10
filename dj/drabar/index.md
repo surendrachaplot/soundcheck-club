@@ -1,6 +1,6 @@
 # Drabar
 
-Drabar is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - TUNA, Budapest on Tue, 11 Aug 2026.
+Drabar is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - TUNA, Budapest on Tue, 11 Aug 2026.
 
 Drabar is a minimal and tech house artist tracked on soundcheck, with 8 sets logged across Budapest. Often billed alongside Artic Yoyo, Zsikla and Ratkay. Next up: TBA - TUNA, Budapest on Tue 11 Aug.
 
@@ -24,4 +24,4 @@ Drabar is a minimal and tech house artist tracked on soundcheck, with 8 sets log
 
 Artic Yoyo, Zsikla, Ratkay
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drabar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drabar/)*

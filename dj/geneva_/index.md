@@ -1,6 +1,6 @@
 # Geneva_
 
-Geneva_ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Djoon, Paris on Fri, 18 Sept 2026.
+Geneva_ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Djoon, Paris on Fri, 18 Sept 2026.
 
 Geneva_ is a house and techno artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Edinburgh, Munich and Nantes and 1 more. Often billed alongside Adrien Calvet, Aidan and Akua. Next up: Djoon, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Geneva_ is a house and techno artist based in France, tracked on soundcheck, wit
 
 Adrien Calvet, Aidan, Akua
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*

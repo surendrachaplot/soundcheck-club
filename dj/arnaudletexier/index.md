@@ -1,6 +1,6 @@
 # Arnaud Le Texier
 
-Arnaud Le Texier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sigma, Ibiza on Fri, 21 Aug 2026.
+Arnaud Le Texier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sigma, Ibiza on Fri, 21 Aug 2026.
 
 Arnaud Le Texier is a techno and trance artist based in France, tracked on soundcheck, with 15 sets logged across Amsterdam, Ibiza, London and Madrid and 4 more. Often billed alongside Antonio De Angelis, ADRI.G and AMB (6). Next up: Sigma, Ibiza on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Arnaud Le Texier is a techno and trance artist based in France, tracked on sound
 
 Antonio De Angelis, ADRI.G, AMB (6)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudletexier/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudletexier/)*

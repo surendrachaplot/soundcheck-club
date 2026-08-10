@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "VOLTAGE - Face to Face ⋆˚｡ Camion Bazar" on Fri, 14 Aug 2026.
+La Station - Gare des Mines is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "VOLTAGE - Face to Face ⋆˚｡ Camion Bazar" on Fri, 14 Aug 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Camion Bazar, cfds, Corbeille Dallas and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

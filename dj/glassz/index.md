@@ -1,6 +1,6 @@
 # Glassz
 
-Glassz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Sekta Selekta, Krakow on Sun, 23 Aug 2026.
+Glassz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Sekta Selekta, Krakow on Sun, 23 Aug 2026.
 
 Glassz is a techno and electro artist based in Poland, tracked on soundcheck, with 22 sets logged across Berlin, Krakow, Oslo and Porto and 2 more. Often billed alongside Guiltee, dadan karambolo and Galas. Next up: Sekta Selekta, Krakow on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Glassz is a techno and electro artist based in Poland, tracked on soundcheck, wi
 
 Guiltee, dadan karambolo, Galas
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glassz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glassz/)*

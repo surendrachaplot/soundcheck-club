@@ -1,6 +1,6 @@
 # Liam Oliver
 
-Liam Oliver is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 14 Aug 2026.
+Liam Oliver is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 14 Aug 2026.
 
 Liam Oliver is a house and italo disco artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Manchester. Often billed alongside Tom2trax, Aiden Francis and Bitzer Maloney. Next up: Eastern Bloc Records, Manchester on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Liam Oliver is a house and italo disco artist based in United Kingdom, tracked o
 
 Tom2trax, Aiden Francis, Bitzer Maloney
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamoliver/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamoliver/)*

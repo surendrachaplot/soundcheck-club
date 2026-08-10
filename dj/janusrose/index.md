@@ -1,6 +1,6 @@
 # Janus Rose
 
-Janus Rose is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
+Janus Rose is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 12 Aug 2026.
 
 Janus Rose is a techno and bass artist based in United States of America, tracked on soundcheck, with 54 sets logged across Newyorkcity, Sanfrancisco and Tokyo. Often billed alongside Ben Zo, David Lunch and EMMALINE. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Janus Rose is a techno and bass artist based in United States of America, tracke
 
 Ben Zo, David Lunch, EMMALINE
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrose/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrose/)*

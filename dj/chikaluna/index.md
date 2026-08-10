@@ -1,13 +1,14 @@
 # Chika Luna
 
-Chika Luna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 23 Aug 2026.
+Chika Luna is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Oath, Tokyo on Sun, 16 Aug 2026.
 
-Chika Luna is a house and techno artist based in Japan, tracked on soundcheck, with 85 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SUETSUGU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 23 Aug.
+Chika Luna is a house and techno artist based in Japan, tracked on soundcheck, with 86 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SUETSUGU. Next up: Oath, Tokyo on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Oath | Tokyo |
 | Sun, 23 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Chika Luna is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Yamariki, PUNK N MATRIX, SUETSUGU
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*

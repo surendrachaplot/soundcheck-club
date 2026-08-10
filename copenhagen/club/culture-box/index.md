@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 15 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "THE SHAKER ROOM: Shay De Castro / Naiva / Midele / RO / Ama Lien" on Fri, 14 Aug 2026.
+Culture Box is a music venue in Copenhagen with 15 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "THE SHAKER ROOM: Shay De Castro / Naiva / Midele / RO / Ama Lien" on Fri, 14 Aug 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Alex Stein and Ama Lien and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

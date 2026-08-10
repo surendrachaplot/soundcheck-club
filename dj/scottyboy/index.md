@@ -1,6 +1,6 @@
 # Scotty Boy
 
-Scotty Boy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian), Los Angeles on Sat, 5 Sept 2026.
+Scotty Boy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian), Los Angeles on Sat, 5 Sept 2026.
 
 Scotty Boy is a house and deep house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Losangeles, Miami and Sandiego. Often billed alongside Jay-J, JJ Flores and Gene Farris. Next up: White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian), Losangeles on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Scotty Boy is a house and deep house artist based in United States of America, t
 
 Jay-J, JJ Flores, Gene Farris
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyboy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyboy/)*

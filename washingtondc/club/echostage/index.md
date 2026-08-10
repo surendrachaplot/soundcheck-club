@@ -1,8 +1,8 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Deorro + BOLO The DJ w/ Juos, VLE AMAU" on Fri, 14 Aug 2026.
+Echostage is a music venue in Washington DC with 22 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Deorro + BOLO The DJ w/ Juos, VLE AMAU" on Fri, 14 Aug 2026.
 
-Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washingtondc listed on soundcheck. 22 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

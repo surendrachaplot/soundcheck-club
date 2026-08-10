@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 53 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Pyramid" on Sun, 9 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 52 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "NRG" on Mon, 10 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 53 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 52 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Pyramid | 999999999, CAAL, Héctor Oaks, Interplanetary Criminal, Sidney Charles, Silva Bumpa, Yanamaste, ÜBERKIKZ |
 | Mon, 10 Aug 2026 | NRG | Ben Hemsley, DART, Fergie, Kyle Starkey |
 | Tue, 11 Aug 2026 | Joseph Capriati presents Metamorfosi | Clara Cuvé, Daria Kolosova, Fatima Hajji, Joseph Capriati, Kidoo, Luuk van Dijk, Luxi Villar, WhoMadeWho |
 | Wed, 12 Aug 2026 | Resistance Ibiza | Adam Beyer, Boris Brejcha, Kasia, Kasia (OFC), Korolova |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 53 upcoming nights
 | Mon, 17 Aug 2026 | NRG | Ben Hemsley, DART, Kyle Starkey, Morgan Seatree, Winson, blk. |
 | Tue, 18 Aug 2026 | Joseph Capriati presents Metamorfosi | Alarico, Amedeo Picone, Antonio Pepe, Ben Klock, Cloonee, Joseph Capriati, Serafina, Traumer |
 | Wed, 19 Aug 2026 | Resistance Ibiza | Adam Beyer, Artbat, CamelPhat |
+| Thu, 20 Aug 2026 | You&Me | Benji King, Josh Baker, KETTAMA, Phill de Janeiro, Reeshy, Silva Bumpa |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

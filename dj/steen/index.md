@@ -1,8 +1,8 @@
 # STEEN
 
-STEEN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at SILO, New York City on Tue, 11 Aug 2026.
+STEEN is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at SILO, New York City on Tue, 11 Aug 2026.
 
-STEEN is a techno and house artist tracked on soundcheck, with 287 sets logged across Houston and Newyorkcity. Often billed alongside Ben Zo, ceviché and Adam Hadari. Next up: SILO, Newyorkcity on Tue 11 Aug.
+STEEN is a techno and house artist tracked on soundcheck, with 289 sets logged across Houston and Newyorkcity. Often billed alongside Ben Zo, ceviché and Adam Hadari. Next up: SILO, Newyorkcity on Tue 11 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,8 @@ STEEN is a techno and house artist tracked on soundcheck, with 287 sets logged a
 | Wed, 2 Sept 2026 | SILO | New York City |
 | Tue, 8 Sept 2026 | SILO | New York City |
 | Wed, 9 Sept 2026 | SILO | New York City |
+| Tue, 15 Sept 2026 | SILO | New York City |
+| Wed, 16 Sept 2026 | SILO | New York City |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ STEEN is a techno and house artist tracked on soundcheck, with 287 sets logged a
 
 Ben Zo, ceviché, Adam Hadari
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steen/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steen/)*

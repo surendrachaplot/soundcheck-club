@@ -1,6 +1,6 @@
 # Junya Shimizu
 
-Junya Shimizu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Room, Tokyo on Sun, 16 Aug 2026.
+Junya Shimizu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Room, Tokyo on Sun, 16 Aug 2026.
 
 Junya Shimizu is a house and disco artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside ReFuCafé, FUMOFFU and hidemi. Next up: The Room, Tokyo on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Junya Shimizu is a house and disco artist based in Japan, tracked on soundcheck,
 
 ReFuCafé, FUMOFFU, hidemi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junyashimizu/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junyashimizu/)*

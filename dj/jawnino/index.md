@@ -1,6 +1,6 @@
 # Jawnino
 
-Jawnino is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 28 Aug 2026.
+Jawnino is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 28 Aug 2026.
 
 Jawnino is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Berlin, Bristol, Brussels and Copenhagen and 12 more. Often billed alongside KAVARI, Mechatok and CHAMBER45. Next up: NUMBER 90 LONDON, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jawnino is an electronica and experimental artist based in United Kingdom, track
 
 KAVARI, Mechatok, CHAMBER45
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

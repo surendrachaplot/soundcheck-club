@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Setaoc Mass is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Setaoc Mass is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Philippa Pacho, Altinbas and Ben Klock. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -32,4 +32,4 @@ Setaoc Mass is a techno and house artist tracked on soundcheck, with 174 sets lo
 
 Philippa Pacho, Altinbas, Ben Klock
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

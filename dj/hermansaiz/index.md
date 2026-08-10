@@ -1,6 +1,6 @@
 # Herman Saiz
 
-Herman Saiz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Victoria Park Markets - Darling on Drake, La Zeppa, Shy Guys & Milenta, Auckland on Sat, 22 Aug 2026.
+Herman Saiz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Victoria Park Markets - Darling on Drake, La Zeppa, Shy Guys & Milenta, Auckland on Sat, 22 Aug 2026.
 
 Herman Saiz is a house and tech house artist tracked on soundcheck, with 9 sets logged across Auckland. Often billed alongside Isaac Denny, Connor Tomoana and DirdyGerdi. Next up: Victoria Park Markets - Darling on Drake, La Zeppa, Shy Guys & Milenta, Auckland on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Herman Saiz is a house and tech house artist tracked on soundcheck, with 9 sets 
 
 Isaac Denny, Connor Tomoana, DirdyGerdi
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansaiz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansaiz/)*

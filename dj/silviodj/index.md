@@ -1,6 +1,6 @@
 # Silvio Dj
 
-Silvio Dj is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Casa Capitão, Lisbon on Sat, 29 Aug 2026.
+Silvio Dj is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Casa Capitão, Lisbon on Sat, 29 Aug 2026.
 
 Silvio Dj is a bass and club artist tracked on soundcheck, with 4 sets logged across Berlin and Lisbon. Often billed alongside blastah, Chickenmilk dot com and 4D:8K_GUARDEDTRIPZ. Next up: Casa Capitão, Lisbon on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Silvio Dj is a bass and club artist tracked on soundcheck, with 4 sets logged ac
 
 blastah, Chickenmilk dot com, 4D:8K_GUARDEDTRIPZ
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silviodj/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silviodj/)*

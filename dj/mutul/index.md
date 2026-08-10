@@ -1,6 +1,6 @@
 # Mutul
 
-Mutul is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Switch Bar, Barcelona on Fri, 21 Aug 2026.
+Mutul is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Switch Bar, Barcelona on Fri, 21 Aug 2026.
 
 Mutul is a downtempo and house artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona and Newyorkcity. Often billed alongside ÜNAM, David Read and Trebor Republic. Next up: Switch Bar, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mutul is a downtempo and house artist based in Spain, tracked on soundcheck, wit
 
 ÜNAM, David Read, Trebor Republic
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutul/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutul/)*

@@ -1,6 +1,6 @@
 # Callyy
 
-Callyy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Callyy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Callyy is a house and disco artist based in Australia, tracked on soundcheck, with 54 sets logged across Sydney. Often billed alongside Mixed Methods, Said Dami and Bella Backe. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Callyy is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 Mixed Methods, Said Dami, Bella Backe
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callyy/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callyy/)*

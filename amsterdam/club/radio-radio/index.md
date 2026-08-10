@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "FERMI presents... Dita & Ezza" on Thu, 13 Aug 2026.
+Radio Radio is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "FERMI presents... Dita & Ezza" on Thu, 13 Aug 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including ADEZ, Alexia Glensy, Andy Luff and Cinnaman and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 10 upcoming nigh
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

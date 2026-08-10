@@ -1,6 +1,6 @@
 # Cathal
 
-Cathal is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
+Cathal is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
 
 Cathal is an electronic artist tracked on soundcheck, with 11 sets logged across Berlin, Bristol and London. Often billed alongside Horne, Asa Tate and Cashper. Next up: Renate, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Cathal is an electronic artist tracked on soundcheck, with 11 sets logged across
 
 Horne, Asa Tate, Cashper
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*

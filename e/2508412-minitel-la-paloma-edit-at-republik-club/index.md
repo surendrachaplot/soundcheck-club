@@ -1,6 +1,6 @@
 # MINITEL 𓅩 La Paloma EDIT 𓅩 at Republik Club
 
-MINITEL 𓅩 La Paloma EDIT 𓅩 at Republik Club on Fri 14 Aug, Madrid. 2 acts on the bill: RuBi. and Vulker. Techno. Preview the line-up and save it on soundcheck.
+MINITEL 𓅩 La Paloma EDIT 𓅩 at Republik Club on Fri 14 Aug, Madrid. 3 acts on the bill: Celice Monnette, RuBi. and Vulker. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MINITEL 𓅩 La Paloma EDIT 𓅩 at Republik Club on Fri 14 Aug, Madrid. 2 acts 
 
 ## Line-up
 
+- Celice Monnette
 - RuBi.
 - Vulker
 

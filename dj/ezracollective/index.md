@@ -1,6 +1,6 @@
 # Ezra Collective
 
-Ezra Collective is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Ezra Collective is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
 Ezra Collective is a jazz and funk / soul artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Birmingham, Brisbane and Bristol and 8 more. Often billed alongside Jamz Supernova, Goldie and Kokoroko. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ezra Collective is a jazz and funk / soul artist based in United Kingdom, tracke
 
 Jamz Supernova, Goldie, Kokoroko
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezracollective/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezracollective/)*

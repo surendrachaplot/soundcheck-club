@@ -1,6 +1,6 @@
 # SENOR
 
-SENOR is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
+SENOR is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 14 Aug 2026.
 
 SENOR is a techno and progressive house artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin and Tbilisi. Often billed alongside KAROL., Lila Turanga (2) and Qara (2). Next up: Lokschuppen Berlin, Berlin on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ SENOR is a techno and progressive house artist tracked on soundcheck, with 7 set
 
 KAROL., Lila Turanga (2), Qara (2)
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senor/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senor/)*

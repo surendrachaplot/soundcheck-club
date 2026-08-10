@@ -1,6 +1,6 @@
 # Kidoo
 
-Kidoo is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 11 Aug 2026.
+Kidoo is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 11 Aug 2026.
 
 Kidoo is a tech house and minimal artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Bucharest and 16 more. Often billed alongside Joseph Capriati, Marco Carola and Indira Paganotto. Next up: Amnesia Ibiza, Ibiza on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ Kidoo is a tech house and minimal artist tracked on soundcheck, with 52 sets log
 
 Joseph Capriati, Marco Carola, Indira Paganotto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*

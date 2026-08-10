@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
+Prosumer is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Cause, London on Sat, 15 Aug 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: The Cause, London on Sat 15 Aug.
 
@@ -32,4 +32,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

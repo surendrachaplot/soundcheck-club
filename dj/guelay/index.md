@@ -1,6 +1,6 @@
 # guelay
 
-guelay is a New Wave and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA, Brussels on Thu, 13 Aug 2026.
+guelay is a New Wave and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA, Brussels on Thu, 13 Aug 2026.
 
 guelay is a new wave and experimental artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Brussels. Often billed alongside Raya Noire. Next up: TBA, Brussels on Thu 13 Aug.
 
@@ -15,4 +15,4 @@ guelay is a new wave and experimental artist based in Germany, tracked on soundc
 
 Raya Noire
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guelay/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guelay/)*

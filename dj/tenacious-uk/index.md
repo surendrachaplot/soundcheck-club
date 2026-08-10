@@ -1,6 +1,6 @@
 # Tenacious
 
-Tenacious is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at XOYO, London on Sat, 24 Oct 2026.
+Tenacious is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at XOYO, London on Sat, 24 Oct 2026.
 
 Tenacious is a house and uk funky artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Bristol, Ibiza and London. Often billed alongside Dolly Rockers, Huck Finn and Slipmatt. Next up: XOYO, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tenacious is a house and uk funky artist based in United Kingdom, tracked on sou
 
 Dolly Rockers, Huck Finn, Slipmatt
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenacious-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tenacious-uk/)*

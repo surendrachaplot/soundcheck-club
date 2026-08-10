@@ -1,6 +1,6 @@
 # Katarina Especial
 
-Katarina Especial is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The Dolphin, Philadelphia on Sat, 15 Aug 2026.
+Katarina Especial is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The Dolphin, Philadelphia on Sat, 15 Aug 2026.
 
 Katarina Especial is a club and house artist based in Portugal, tracked on soundcheck, with 28 sets logged across Newyorkcity, Philadelphia, Porto and Washingtondc. Often billed alongside Nave Mãe, Jandro and KayLaSoul. Next up: The Dolphin, Philadelphia on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Katarina Especial is a club and house artist based in Portugal, tracked on sound
 
 Nave Mãe, Jandro, KayLaSoul
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinaespecial/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinaespecial/)*

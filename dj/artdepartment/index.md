@@ -1,6 +1,6 @@
 # Art Department
 
-Art Department is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Under the K Bridge, New York City on Sat, 15 Aug 2026.
+Art Department is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Under the K Bridge, New York City on Sat, 15 Aug 2026.
 
 Art Department is a house and techno artist based in Canada, tracked on soundcheck, with 38 sets logged across Detroit, Geneva, Ibiza and London and 7 more. Often billed alongside Kenny Glasgow, Shaun Reeves and Carl Craig. Next up: Under the K Bridge, Newyorkcity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Art Department is a house and techno artist based in Canada, tracked on soundche
 
 Kenny Glasgow, Shaun Reeves, Carl Craig
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artdepartment/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artdepartment/)*

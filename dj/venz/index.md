@@ -1,6 +1,6 @@
 # Venz
 
-Venz is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
+Venz is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
 
 Venz is a bass and garage artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Brighton and Bristol and 2 more. Often billed alongside Phatworld, Thorpey and Cardiac. Next up: Volks, Brighton on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Venz is a bass and garage artist based in Netherlands, tracked on soundcheck, wi
 
 Phatworld, Thorpey, Cardiac
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venz/)*

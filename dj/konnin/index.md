@@ -1,6 +1,6 @@
 # Konnin
 
-Konnin is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Switch Bar, Barcelona on Sat, 22 Aug 2026.
+Konnin is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Switch Bar, Barcelona on Sat, 22 Aug 2026.
 
 Konnin is a house and minimal techno artist tracked on soundcheck, with 22 sets logged across Barcelona, Boston and Saopaulo. Often billed alongside Brieela, Histoire d'un Soir and LM. Next up: Switch Bar, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Konnin is a house and minimal techno artist tracked on soundcheck, with 22 sets 
 
 Brieela, Histoire d'un Soir, LM
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konnin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konnin/)*

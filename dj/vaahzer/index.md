@@ -1,6 +1,6 @@
 # Vaahzer
 
-Vaahzer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
+Vaahzer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
 
 Vaahzer is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Berlin and Ghent and 13 more. Often billed alongside Vlada, Max Vaahs and Marcolino. Next up: Nowadays, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vaahzer is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Vlada, Max Vaahs, Marcolino
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaahzer/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaahzer/)*

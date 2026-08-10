@@ -1,6 +1,6 @@
 # Stathis (GR)
 
-Stathis (GR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
+Stathis (GR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
 
 Stathis (GR) is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and K.atou. Next up: The DBA, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Stathis (GR) is a house and techno artist tracked on soundcheck, with 57 sets lo
 
 Luigi Di Venere, Maria Politi, K.atou
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*

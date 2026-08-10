@@ -1,6 +1,6 @@
 # SAAND
 
-SAAND is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
+SAAND is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Private Location, San Diego on Fri, 14 Aug 2026.
 
 SAAND is a house and deep house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Losangeles, Mexicocity, Miami and Sandiego. Often billed alongside Ali Gria, Terry Jasinto and AMIRA. Next up: TBA - Private Location, Sandiego on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ SAAND is a house and deep house artist based in United States of America, tracke
 
 Ali Gria, Terry Jasinto, AMIRA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saand/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saand/)*

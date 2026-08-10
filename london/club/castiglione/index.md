@@ -1,6 +1,6 @@
 # Castiglione
 
-Castiglione is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sons Of Craft AVEC LES AMIS" on Sat, 15 Aug 2026.
+Castiglione is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Sons Of Craft AVEC LES AMIS" on Sat, 15 Aug 2026.
 
 Castiglione is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Castiglione is a music venue in London listed on soundcheck. 1 upcoming night. B
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Sons Of Craft AVEC LES AMIS |  |
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/castiglione/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/castiglione/)*

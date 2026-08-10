@@ -1,6 +1,6 @@
 # Ujean
 
-Ujean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Volnost, Seoul on Fri, 21 Aug 2026.
+Ujean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Volnost, Seoul on Fri, 21 Aug 2026.
 
 Ujean is a techno and house artist based in South Korea, tracked on soundcheck, with 64 sets logged across Seoul and Tokyo. Often billed alongside Joshüa, Hogun and Sung ill Ahn. Next up: Volnost, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ujean is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 Joshüa, Hogun, Sung ill Ahn
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ujean/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ujean/)*

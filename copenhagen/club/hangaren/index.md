@@ -1,14 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Sunday Psy x Quake: Araknyl, DJ Sea View, Jeroen, FILTH.y, Frølår, Signe Alarcón, Wendy" on Sun, 9 Aug 2026.
+Hangaren is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Gerd Janson, Harrison Heat, NAT, Tamara, DJ LoveCatt, Roussakis" on Fri, 14 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, Afgang, Agata (PL) and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Sunday Psy x Quake: Araknyl, DJ Sea View, Jeroen, FILTH.y, Frølår, Signe Alarcón, Wendy | Araknyl, DJ Sea View, FILTH.y, Frølår, Signe Alarcón |
 | Fri, 14 Aug 2026 | Gerd Janson, Harrison Heat, NAT, Tamara, DJ LoveCatt, Roussakis | DJ LoveCatt, Gerd Janson, Harrison Heat, NAT(SK), Roussakis, Tamara |
 | Sat, 15 Aug 2026 | Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz  | Elliott Taguchi, Holtz (2), Kander, Kardinal Bertram, Mëtro, UBER KNAST |
 | Fri, 21 Aug 2026 | Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis | Daria Kolosova, David Garset, Emma Priis, Johannes Astrup, pai-lin |
@@ -18,9 +17,10 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights
 | Thu, 27 Aug 2026 | Karrusel Afterparty: SKALA, Aja Gulris, Anders HP | Aja Gulris, Anders HP, SKALA |
 | Fri, 28 Aug 2026 | Karrusel Afterparty: Kyle Starkey, B From E, ENNA | B From E, ENNA, Kyle Starkey |
 | Sat, 29 Aug 2026 | Karrusel Afterparty: TOCCORORO, Meilgaarden, WE.LL | Meilgaarden, TOCCORORO, WE.LL |
+| Fri, 4 Sept 2026 | Âme (Live), Nandu, Radeckt | Nandu, Radeckt, Âme |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

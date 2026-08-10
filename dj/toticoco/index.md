@@ -1,6 +1,6 @@
 # Toti Coco
 
-Toti Coco is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+Toti Coco is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
 Toti Coco is a minimal techno and tech house artist based in Italy, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Camilo Do Santos, LOUDER BROS. DEPARTMENT and TWOEF. Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Toti Coco is a minimal techno and tech house artist based in Italy, tracked on s
 
 Camilo Do Santos, LOUDER BROS. DEPARTMENT, TWOEF
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toticoco/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toticoco/)*

@@ -1,6 +1,6 @@
 # Ousia Sound
 
-Ousia Sound is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 5 Sept 2026.
+Ousia Sound is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 5 Sept 2026.
 
 Ousia Sound is an ambient and electronica artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Ground Tactics, Octo Åeterna and Phalcon. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ousia Sound is an ambient and electronica artist based in Germany, tracked on so
 
 Ground Tactics, Octo Åeterna, Phalcon
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ousiasound/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ousiasound/)*

@@ -1,14 +1,13 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Flash, Washington DC on Sun, 9 Aug 2026.
+Laidlaw is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 15 Aug 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Flash, Washingtondc on Sun 9 Aug.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Shelter Amsterdam, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Flash | Washington DC |
 | Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 16 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Crate Brewery | London |
@@ -20,9 +19,11 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets lo
 | Sat, 5 Sept 2026 | Ouseburn Garden | Newcastle |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Flash, Washington DC — Sun, 9 Aug 2026
 - Knockdown Center, New York City — Sat, 8 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 7 Aug 2026
 - [UNVRS], Ibiza — Wed, 29 Jul 2026
@@ -30,10 +31,9 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets lo
 - Gaffe, London — Sun, 19 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - Casino La Foresta, Barcelona — Sat, 4 Jul 2026
-- 528 Ibiza, Ibiza — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

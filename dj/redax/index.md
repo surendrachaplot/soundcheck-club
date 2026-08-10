@@ -1,13 +1,14 @@
 # Redax
 
-Redax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Tangent Gallery, Detroit on Sat, 26 Sept 2026.
+Redax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Backstage at Berts, Detroit on Sat, 29 Aug 2026.
 
-Redax is a techno and house artist based in Lebanon, tracked on soundcheck, with 40 sets logged across Detroit. Often billed alongside Pariz, Kassak and DJ Candor. Next up: Tangent Gallery, Detroit on Sat 26 Sept.
+Redax is a techno and house artist based in Lebanon, tracked on soundcheck, with 41 sets logged across Detroit. Often billed alongside Pariz, Kassak and DJ Candor. Next up: Backstage at Berts, Detroit on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Backstage at Berts | Detroit |
 | Sat, 26 Sept 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Redax is a techno and house artist based in Lebanon, tracked on soundcheck, with
 
 Pariz, Kassak, DJ Candor
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redax/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redax/)*

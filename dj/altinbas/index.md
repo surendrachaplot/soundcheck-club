@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Altinbas is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Altinbas is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Altinbas is a techno and house artist tracked on soundcheck, with 165 sets logge
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

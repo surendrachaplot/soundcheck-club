@@ -1,6 +1,6 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 26 Aug 2026.
+GI.O is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 26 Aug 2026.
 
 GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, A.N.I. and Ben Derris. Next up: Lokschuppen Berlin, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 
 
 Cara Elizabeth, A.N.I., Ben Derris
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*

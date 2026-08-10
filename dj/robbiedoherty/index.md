@@ -1,14 +1,13 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 9 Aug 2026.
+Robbie Doherty is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-Robbie Doherty is a house and tech house artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Seaseaclub Barcelona, Barcelona on Sun 9 Aug.
+Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,9 +19,11 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 155 
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Fri, 25 Sept 2026 | SWG3 | Glasgow |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
+| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Seaseaclub Barcelona, Barcelona — Sun, 9 Aug 2026
 - BRET, Amsterdam — Sat, 8 Aug 2026
 - Binks Yard, Nottingham — Sat, 1 Aug 2026
 - The Nest, Nottingham — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 155 
 - Cova Santa, Ibiza — Tue, 21 Jul 2026
 - Cova Santa, Ibiza — Mon, 13 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- Lab11, Birmingham — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

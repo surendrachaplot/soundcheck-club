@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "DIVERCITY BASS" on Fri, 14 Aug 2026.
+Supermarket is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "DIVERCITY BASS" on Fri, 14 Aug 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 8 upcoming nights, with line-ups including Antja, Cap, Daniel Meister and ERROR (LYRASIS) and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -21,4 +21,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 8 upcoming nights, 
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

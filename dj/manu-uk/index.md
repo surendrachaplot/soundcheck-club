@@ -1,6 +1,6 @@
 # MaNu (UK)
 
-MaNu (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
+MaNu (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
 
 MaNu (UK) is a house and techno artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Lisbon and London and 7 more. Often billed alongside AYURI, Al Ex and Alessandro Nigro. Next up: Green Room NYC, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MaNu (UK) is a house and techno artist tracked on soundcheck, with 14 sets logge
 
 AYURI, Al Ex, Alessandro Nigro
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manu-uk/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manu-uk/)*

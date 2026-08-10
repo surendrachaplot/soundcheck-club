@@ -1,6 +1,6 @@
 # KONZ
 
-KONZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at The Fox and Firkin, London on Fri, 28 Aug 2026.
+KONZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at The Fox and Firkin, London on Fri, 28 Aug 2026.
 
 KONZ is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Hamburg, London and Mexicocity and 1 more. Often billed alongside djslut, Amphia and VINVAR. Next up: The Fox and Firkin, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ KONZ is a techno and house artist tracked on soundcheck, with 36 sets logged acr
 
 djslut, Amphia, VINVAR
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*

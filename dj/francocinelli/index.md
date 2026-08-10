@@ -1,6 +1,6 @@
 # Franco Cinelli
 
-Franco Cinelli is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
+Franco Cinelli is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Franco Cinelli is a house and tech house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Momo Trosman, Arapu and Raresh. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Franco Cinelli is a house and tech house artist tracked on soundcheck, with 43 s
 
 Momo Trosman, Arapu, Raresh
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francocinelli/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francocinelli/)*

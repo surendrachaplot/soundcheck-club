@@ -1,6 +1,6 @@
 # Drastic Shuffle
 
-Drastic Shuffle is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mezzanine - Tooting, London on Fri, 28 Aug 2026.
+Drastic Shuffle is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mezzanine - Tooting, London on Fri, 28 Aug 2026.
 
 Drastic Shuffle is a house and electro artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: Mezzanine - Tooting, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Drastic Shuffle is a house and electro artist tracked on soundcheck, with 22 set
 
 Benebe, MAÏS, Make Money Mafia
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*

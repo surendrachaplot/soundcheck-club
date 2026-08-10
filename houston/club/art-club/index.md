@@ -1,8 +1,8 @@
 # Art Club
 
-Art Club is a music venue in Houston with 12 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Innerloop pres. — San Pacho" on Sat, 15 Aug 2026.
+Art Club is a music venue in Houston with 16 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Innerloop pres. — San Pacho" on Sat, 15 Aug 2026.
 
-Art Club is a music venue in Houston listed on soundcheck. 12 upcoming nights, with line-ups including Amarji King, Ben UFO, Big Ace and Daria Kolosova and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
+Art Club is a music venue in Houston listed on soundcheck. 16 upcoming nights, with line-ups including Amarji King, Ben UFO, Big Ace and Broken Hill and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Art Club is a music venue in Houston listed on soundcheck. 12 upcoming nights, w
 | Wed, 19 Aug 2026 | Matt Ox | Giacomo (DE), NOT A DJ |
 | Sat, 22 Aug 2026 | Art Club pres. Leonce | Leonce |
 | Sat, 22 Aug 2026 | Leonce | Amarji King, Big Ace, HYPERFEMME, Leonce |
+| Fri, 28 Aug 2026 | INVT | INVT |
 | Sat, 29 Aug 2026 | Sam Gellaitry | Sam Gellaitry |
+| Fri, 4 Sept 2026 | Murda Beatz |  |
 | Fri, 11 Sept 2026 | Art Club pres. Daria Kolosova | Daria Kolosova |
-| Fri, 18 Sept 2026 | Sights & Sounds: DJ Tennis | DJ Tennis, RxB‎, RxB‎ |
-| Fri, 25 Sept 2026 | Art Club pres. Ben UFO | Ben UFO |
-| Sat, 26 Sept 2026 | Art Club pres. RIRIA | RIRIA |
-| Sat, 3 Oct 2026 | Art Club pres. Rene Wise | Rene Wise |
+| Fri, 11 Sept 2026 | Daria Kolosova | Daria Kolosova |
+| Sat, 12 Sept 2026 | Broken Hill | Broken Hill |
 
 ## Address
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

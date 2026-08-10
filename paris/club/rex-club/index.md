@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Rex Club OPENING DAY #1: Ams & Paula Tape" on Fri, 28 Aug 2026.
+Rex Club is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Rex Club OPENING DAY #1: Ams & Paula Tape" on Fri, 28 Aug 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Mariiin, Paula Tape, Ams (FR) and Jen Cardini and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -20,4 +20,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 7 upcoming nights, with
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

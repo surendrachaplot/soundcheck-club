@@ -1,6 +1,6 @@
 # Rònan White
 
-Rònan White is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Leith Arches, Edinburgh on Fri, 14 Aug 2026.
+Rònan White is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Leith Arches, Edinburgh on Fri, 14 Aug 2026.
 
 Rònan White is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Edinburgh. Often billed alongside Dan Jakson, ROXAN (UK) and CELTIC TERROR SQUAD. Next up: Leith Arches, Edinburgh on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Rònan White is a house and techno artist based in United Kingdom, tracked on so
 
 Dan Jakson, ROXAN (UK), CELTIC TERROR SQUAD
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rònanwhite/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rònanwhite/)*

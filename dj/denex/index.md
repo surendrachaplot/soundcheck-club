@@ -1,6 +1,6 @@
 # Denex
 
-Denex is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Bar do Netão, Sao Paulo on Fri, 14 Aug 2026.
+Denex is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Bar do Netão, Sao Paulo on Fri, 14 Aug 2026.
 
 Denex is a house and garage artist tracked on soundcheck, with 4 sets logged across Saopaulo. Often billed alongside Tripmod, Caio Oliv and DJ DUE. Next up: Bar do Netão, Saopaulo on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Denex is a house and garage artist tracked on soundcheck, with 4 sets logged acr
 
 Tripmod, Caio Oliv, DJ DUE
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denex/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denex/)*

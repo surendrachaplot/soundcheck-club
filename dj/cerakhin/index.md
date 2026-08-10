@@ -1,6 +1,6 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
+Cera Khin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 15 Aug 2026.
 
 Cera Khin is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Shlømo, Charlie Sparks and I Hate Models. Next up: Edelfettwerk, Hamburg on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 174 sets logg
 
 Shlømo, Charlie Sparks, I Hate Models
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

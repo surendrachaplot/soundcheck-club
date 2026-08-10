@@ -1,6 +1,6 @@
 # DJ Tara
 
-DJ Tara is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
+DJ Tara is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Fri, 14 Aug 2026.
 
 DJ Tara is a house and r&b artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Detroit, London and Losangeles and 1 more. Often billed alongside FLORA, Toribio and Donis. Next up: Kater, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DJ Tara is a house and r&b artist based in United States of America, tracked on 
 
 FLORA, Toribio, Donis
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*

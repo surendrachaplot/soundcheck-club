@@ -1,6 +1,6 @@
 # VARSHA
 
-VARSHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Mansions, New York City on Thu, 13 Aug 2026.
+VARSHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Mansions, New York City on Thu, 13 Aug 2026.
 
 VARSHA is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Copenhagen, Hamburg and Losangeles and 2 more. Often billed alongside Sevyn, RITCHRD and Tlim Shug. Next up: Mansions, Newyorkcity on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ VARSHA is a house and techno artist based in United States of America, tracked o
 
 Sevyn, RITCHRD, Tlim Shug
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varsha/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varsha/)*

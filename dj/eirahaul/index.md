@@ -1,14 +1,15 @@
 # eira haul
 
-eira haul is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at renae, Manchester on Sat, 5 Sept 2026.
+eira haul is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at renae, Manchester on Sat, 5 Sept 2026.
 
-eira haul is a house and deep house artist tracked on soundcheck, with 16 sets logged across Berlin, Kualalumpur, Leipzig and Lisbon and 2 more. Often billed alongside Robert Kalb, Christopher Breuer and Reece Walker. Next up: renae, Manchester on Sat 5 Sept.
+eira haul is a house and deep house artist tracked on soundcheck, with 17 sets logged across Berlin, Kualalumpur, Leipzig and Lisbon and 2 more. Often billed alongside Robert Kalb, Christopher Breuer and Reece Walker. Next up: renae, Manchester on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | renae | Manchester |
+| Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ eira haul is a house and deep house artist tracked on soundcheck, with 16 sets l
 
 Robert Kalb, Christopher Breuer, Reece Walker
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*

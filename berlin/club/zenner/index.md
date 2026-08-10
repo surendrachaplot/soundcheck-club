@@ -1,14 +1,13 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SIP! with Haseeb Iqbal (all day long)" on Sun, 9 Aug 2026.
+ZENNER is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SIP! with Coco Maria (all day long)" on Sun, 16 Aug 2026.
 
-ZENNER is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Aleksi Perälä, Alexia (2), Alex Jenkin and Barker and 2 more. Browse upcoming dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
+ZENNER is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Aleksi Perälä, Alexia (2), Alex Jenkin and Barker and 2 more. Browse upcoming dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | SIP! with Haseeb Iqbal (all day long) | Haseeb Iqbal |
 | Sun, 16 Aug 2026 | SIP! with Coco Maria (all day long) | Coco Maria |
 | Sun, 23 Aug 2026 | SIP! with Kyle Toole & Millie Mckee, Zapa Records | Kyle Toole, Millie McKee |
 | Thu, 24 Sept 2026 | 180 min with Barker (live) | Barker, machìna |
@@ -22,4 +21,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with 
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

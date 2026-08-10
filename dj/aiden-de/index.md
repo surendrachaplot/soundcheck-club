@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Aiden (DE) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

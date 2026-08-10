@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 13 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "Studio x Cocoa Summer Round II" on Sun, 9 Aug 2026.
+Studio Club Malaga is a music venue in Malaga with 12 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "Summer Thursday" on Thu, 27 Aug 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 13 upcoming nights, with line-ups including Alba Franch, Alvaro Medina, AMORAL and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 12 upcoming nights, with line-ups including Alba Franch, Alvaro Medina, AMORAL and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Studio x Cocoa Summer Round II |  |
 | Thu, 27 Aug 2026 | Summer Thursday |  |
 | Fri, 28 Aug 2026 | Studio Club Invites: Chlär | Chlär, Montero, Norman Nodge |
 | Sat, 29 Aug 2026 | Studio Club Invites: HoneyLuv | Alvaro Medina, Bambi-S, HoneyLuv |
@@ -18,9 +17,10 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 13 upcoming 
 | Fri, 11 Sept 2026 | Studio Club Invites: Alba Franch - Nyra - Arcfilter | Alba Franch, Arcfilter, Nyra |
 | Sat, 12 Sept 2026 | Studio Club Invites: Octave One LIVE | DJ Holographic, Felipe Bravo, Octave One |
 | Fri, 18 Sept 2026 | Studio Club Invites: HANAA aka La Penderie Noire | La Penderie Noire |
+| Sat, 19 Sept 2026 | Studio Club Invites: Andrea Oliva - ALL NIGHT LONG | Andrea Oliva |
 
 ## Address
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

@@ -1,8 +1,8 @@
 # Cassius
 
-Cassius is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
+Cassius is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
 
-Cassius is a house and tech house artist based in France, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Brussels and Chicago and 20 more. Often billed alongside Busy P, Myd and Etienne De Crecy. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
+Cassius is a house and tech house artist based in France, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brussels and Chicago and 20 more. Often billed alongside Busy P, Myd and Etienne De Crecy. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cassius is a house and tech house artist based in France, tracked on soundcheck,
 | Fri, 16 Oct 2026 | Button Factory | Dublin |
 | Fri, 30 Oct 2026 | Pumpehuset | Copenhagen |
 | Sat, 31 Oct 2026 | HERE | London |
+| Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Cassius is a house and tech house artist based in France, tracked on soundcheck,
 
 Busy P, Myd, Etienne De Crecy
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

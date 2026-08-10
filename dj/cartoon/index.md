@@ -1,6 +1,6 @@
 # CARTOON
 
-CARTOON is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 4 Sept 2026.
+CARTOON is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 4 Sept 2026.
 
 CARTOON is a house and tech house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Rotterdam, Tallinn and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and Daitto. Next up: ZEROTOKYO, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ CARTOON is a house and tech house artist tracked on soundcheck, with 38 sets log
 
 Yamariki, PUNK N MATRIX, Daitto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cartoon/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cartoon/)*

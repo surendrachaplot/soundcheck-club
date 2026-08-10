@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
+Masalo is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
 
 Masalo is a house and disco artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bali and 34 more. Often billed alongside Kamma, Antal and DJ Tennis. Next up: Cova Santa, Ibiza on Tue 11 Aug.
 
@@ -30,4 +30,4 @@ Masalo is a house and disco artist tracked on soundcheck, with 127 sets logged a
 
 Kamma, Antal, DJ Tennis
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

@@ -1,6 +1,6 @@
 # SKNHDZ
 
-SKNHDZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 2 Sept 2026.
+SKNHDZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 2 Sept 2026.
 
 SKNHDZ is a house and techno artist tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside DJ246, CALPISS and KZA. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ SKNHDZ is a house and techno artist tracked on soundcheck, with 41 sets logged a
 
 DJ246, CALPISS, KZA
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*

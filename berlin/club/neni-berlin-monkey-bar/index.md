@@ -1,6 +1,6 @@
 # NENI Berlin / Monkey Bar
 
-NENI Berlin / Monkey Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 9 Aug 2026; the next is "Monkey House x vanagas" on Sun, 16 Aug 2026.
+NENI Berlin / Monkey Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 10 Aug 2026; the next is "Monkey House x vanagas" on Sun, 16 Aug 2026.
 
 NENI Berlin / Monkey Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including vanagas. Browse upcoming dates, start times and who's playing. Budapester Str. 40, 10787 Berlin.
 
@@ -14,4 +14,4 @@ NENI Berlin / Monkey Bar is a music venue in Berlin listed on soundcheck. 1 upco
 
 Budapester Str. 40, 10787 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neni-berlin-monkey-bar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neni-berlin-monkey-bar/)*

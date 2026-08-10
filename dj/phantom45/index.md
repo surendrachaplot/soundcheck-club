@@ -1,6 +1,6 @@
 # Phantom 45
 
-Phantom 45 is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at smartbar, Chicago on Fri, 14 Aug 2026.
+Phantom 45 is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at smartbar, Chicago on Fri, 14 Aug 2026.
 
 Phantom 45 is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago, Detroit and Seattle. Often billed alongside Glyde, DJ Heather and DJ Intel. Next up: smartbar, Chicago on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Phantom 45 is a drum & bass and jungle artist based in United States of America,
 
 Glyde, DJ Heather, DJ Intel
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom45/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom45/)*

@@ -1,14 +1,13 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Groove Armada is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Forte Santo António da Barra, Lisbon on Sat, 15 Aug 2026.
 
-Groove Armada is a house and disco artist tracked on soundcheck, with 82 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Burgess Park, London on Sun 9 Aug.
+Groove Armada is a house and disco artist tracked on soundcheck, with 83 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Forte Santo António da Barra, Lisbon on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 15 Aug 2026 | Forte Santo António da Barra | Lisbon |
 | Fri, 21 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -18,9 +17,11 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 82 sets lo
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Mon, 5 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
+| Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Burgess Park, London — Sun, 9 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - TRAUM, Antwerp — Mon, 20 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 14 Jul 2026
@@ -28,10 +29,9 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 82 sets lo
 - 528 Ibiza, Ibiza — Tue, 26 May 2026
 - Chinois Ibiza, Ibiza — Thu, 21 May 2026
 - Sawmills, Bristol — Sat, 16 May 2026
-- BCM, Mallorca — Sat, 2 May 2026
 
 ## Shares bills with
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

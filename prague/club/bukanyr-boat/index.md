@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "SPANK - djs Identic, Ondrej K, Manntracs" on Fri, 14 Aug 2026.
+Bukanyr Boat is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "SPANK - djs Identic, Ondrej K, Manntracs" on Fri, 14 Aug 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including ASCENDER, Axis Alpha, Biodan and Blackloud and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -19,4 +19,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming nights,
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

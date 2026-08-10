@@ -1,6 +1,6 @@
 # Anna Malysz
 
-Anna Malysz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Conne Island, Leipzig on Sat, 22 Aug 2026.
+Anna Malysz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Conne Island, Leipzig on Sat, 22 Aug 2026.
 
 Anna Malysz is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Dusseldorf, Frankfurt and Leipzig. Often billed alongside Neele, NAITWA and I$A. Next up: Conne Island, Leipzig on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Anna Malysz is a house and techno artist based in Germany, tracked on soundcheck
 
 Neele, NAITWA, I$A
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annamalysz/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annamalysz/)*

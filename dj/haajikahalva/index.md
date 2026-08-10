@@ -1,6 +1,6 @@
 # Haaji Ka Halva
 
-Haaji Ka Halva is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Stage and Radio, Manchester on Sat, 15 Aug 2026.
+Haaji Ka Halva is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Stage and Radio, Manchester on Sat, 15 Aug 2026.
 
 Haaji Ka Halva is a jungle and techno artist tracked on soundcheck, with 20 sets logged across Bristol, Leeds, Liverpool and London and 3 more. Often billed alongside Lotus Phaze, Amelia Leigh and Chande. Next up: Stage and Radio, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Haaji Ka Halva is a jungle and techno artist tracked on soundcheck, with 20 sets
 
 Lotus Phaze, Amelia Leigh, Chande
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haajikahalva/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haajikahalva/)*

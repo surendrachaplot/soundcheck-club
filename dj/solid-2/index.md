@@ -1,6 +1,6 @@
 # SOLID (2)
 
-SOLID (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+SOLID (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 SOLID (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Vienna. Often billed alongside 333CXT, Mono Fetish and SKKIN VELVET. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ SOLID (2) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 333CXT, Mono Fetish, SKKIN VELVET
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-2/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-2/)*

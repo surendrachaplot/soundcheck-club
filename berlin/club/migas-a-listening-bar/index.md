@@ -1,6 +1,6 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 9 Aug 2026; the next is "No Plastic plays at migas" on Fri, 14 Aug 2026.
+migas, a listening bar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 10 Aug 2026; the next is "No Plastic plays at migas" on Fri, 14 Aug 2026.
 
 migas, a listening bar is a music venue in Berlin listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
@@ -19,4 +19,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 6 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

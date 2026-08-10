@@ -1,6 +1,6 @@
 # Funky Flirt
 
-Funky Flirt is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Funky Flirt is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Funky Flirt is a jungle and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Nicky Blackmarket, Devious D and Billy Daniel Bunter. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Funky Flirt is a jungle and house artist based in United Kingdom, tracked on sou
 
 Nicky Blackmarket, Devious D, Billy Daniel Bunter
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyflirt/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyflirt/)*

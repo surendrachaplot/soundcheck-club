@@ -1,6 +1,6 @@
 # Freddie Grisbi
 
-Freddie Grisbi is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at FORGE, Sheffield on Sat, 29 Aug 2026.
+Freddie Grisbi is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at FORGE, Sheffield on Sat, 29 Aug 2026.
 
 Freddie Grisbi is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Sheffield. Often billed alongside obviouslyalex, The Doobskins and A For Alpha. Next up: FORGE, Sheffield on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Freddie Grisbi is a tech house and deep house artist based in United Kingdom, tr
 
 obviouslyalex, The Doobskins, A For Alpha
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*

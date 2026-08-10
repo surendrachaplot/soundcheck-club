@@ -1,13 +1,14 @@
 # Sasuma
 
-Sasuma is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
+Sasuma is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Garagen, Cologne on Sat, 29 Aug 2026.
 
-Sasuma is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne and Dusseldorf. Often billed alongside Anuuk, DonChoppa and HENNESY. Next up: Schrotty, Cologne on Fri 4 Sept.
+Sasuma is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne and Dusseldorf. Often billed alongside HENNESY, SPEEDO (2) and Anuuk. Next up: Garagen, Cologne on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Garagen | Cologne |
 | Fri, 4 Sept 2026 | Schrotty | Cologne |
 
 ## Recently played
@@ -20,6 +21,6 @@ Sasuma is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Anuuk, DonChoppa, HENNESY
+HENNESY, SPEEDO (2), Anuuk
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasuma/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasuma/)*

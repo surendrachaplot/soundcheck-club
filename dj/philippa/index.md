@@ -1,6 +1,6 @@
 # Philippa
 
-Philippa is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 9 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
+Philippa is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at Kater, Berlin on Sat, 15 Aug 2026.
 
 Philippa is a house and deep house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Auckland, Berlin and Ibiza and 2 more. Often billed alongside Markus Tone, Alex Barck and Luca Olivotto. Next up: Kater, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Philippa is a house and deep house artist tracked on soundcheck, with 26 sets lo
 
 Markus Tone, Alex Barck, Luca Olivotto
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippa/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippa/)*

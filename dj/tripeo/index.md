@@ -1,6 +1,6 @@
 # Tripeo
 
-Tripeo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
+Tripeo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
 
 Tripeo is a techno and trance artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Belgrade, Rotterdam and Tbilisi. Often billed alongside Delano Legito, SAMA (NL) and Voiski. Next up: CLUB RAUM, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Tripeo is a techno and trance artist based in Netherlands, tracked on soundcheck
 
 Delano Legito, SAMA (NL), Voiski
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripeo/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tripeo/)*

@@ -1,6 +1,6 @@
 # Hrtl
 
-Hrtl is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
+Hrtl is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Festival Povaleč, Prague on Thu, 13 Aug 2026.
 
 Hrtl is a techno and acid artist based in Czech Republic, tracked on soundcheck, with 17 sets logged across Berlin and Prague. Often billed alongside Fatty M, SJ Yellow and Barbora. Next up: Festival Povaleč, Prague on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Hrtl is a techno and acid artist based in Czech Republic, tracked on soundcheck,
 
 Fatty M, SJ Yellow, Barbora
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hrtl/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hrtl/)*

@@ -1,6 +1,6 @@
 # Chuwee
 
-Chuwee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
+Chuwee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
 
 Chuwee is a house and techno artist tracked on soundcheck, with 74 sets logged across Barcelona, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Seb Hall, Kiyoshi and O.BEE. Next up: Audiodise Park Montjuic, Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Chuwee is a house and techno artist tracked on soundcheck, with 74 sets logged a
 
 Seb Hall, Kiyoshi, O.BEE
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuwee/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuwee/)*

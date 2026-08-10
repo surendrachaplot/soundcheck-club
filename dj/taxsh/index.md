@@ -1,6 +1,6 @@
 # Taxsh
 
-Taxsh is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at Ministerium Club, Lisbon on Sat, 15 Aug 2026.
+Taxsh is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 10 Aug 2026, next at Ministerium Club, Lisbon on Sat, 15 Aug 2026.
 
 Taxsh is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 66 sets logged across Lisbon, London, Paris and Porto. Often billed alongside Madson Carpenter, Ketarina and Stëh. Next up: Ministerium Club, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Taxsh is a techno and hardcore artist based in Portugal, tracked on soundcheck, 
 
 Madson Carpenter, Ketarina, Stëh
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taxsh/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taxsh/)*

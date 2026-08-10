@@ -1,14 +1,15 @@
 # Shabaka
 
-Shabaka is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 9 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Shabaka is a Electronica and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 10 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Shabaka is a jazz and funk / soul artist tracked on soundcheck, with 10 sets logged across Antwerp, Chicago, Dublin and London and 5 more. Often billed alongside John Glacier, The Bug and A. G. Cook. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Shabaka is an electronica and jazz artist tracked on soundcheck, with 11 sets logged across Antwerp, Bristol, Chicago and Dublin and 6 more. Often billed alongside John Glacier, Olof Dreijer and The Bug. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Shabaka is a jazz and funk / soul artist tracked on soundcheck, with 10 sets log
 
 ## Shares bills with
 
-John Glacier, The Bug, A. G. Cook
+John Glacier, Olof Dreijer, The Bug
 
-*Updated Sun, 9 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabaka/)*
+*Updated Mon, 10 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabaka/)*
